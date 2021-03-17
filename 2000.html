@@ -1,0 +1,204 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 500px;
+            height: 500px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+        #loadingBar {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width: 500px;
+            height: 500px;
+            background-color:rgba(200,200,200,0.8);
+            -webkit-transition: all 0.5s ease;
+            -moz-transition: all 0.5s ease;
+            -ms-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+            opacity:1;
+        }
+
+        #bar {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width:20px;
+            height:20px;
+            margin:auto auto auto auto;
+            border-radius:11px;
+            border:2px solid rgba(30,30,30,0.05);
+            background: rgb(0, 173, 246); /* Old browsers */
+            box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+        }
+
+        #border {
+            position:absolute;
+            top:10px;
+            left:10px;
+            width:500px;
+            height:23px;
+            margin:auto auto auto auto;
+            box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+            border-radius:10px;
+        }
+
+        #text {
+            position:absolute;
+            top:8px;
+            left:530px;
+            width:30px;
+            height:50px;
+            margin:auto auto auto auto;
+            font-size:22px;
+            color: #000000;
+        }
+
+        div.outerBorder {
+            position:relative;
+            top:400px;
+            width:600px;
+            height:44px;
+            margin:auto auto auto auto;
+            border:8px solid rgba(0,0,0,0.1);
+            background: rgb(252,252,252); /* Old browsers */
+            background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+            border-radius:72px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+        }
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+<div id="loadingBar">
+    <div class="outerBorder">
+        <div id="text">0%</div>
+        <div id="border">
+            <div id="bar"></div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "A S Madhukumar", "label": "A S Madhukumar", "shape": "dot"}, {"id": "Alexei Sourin", "label": "Alexei Sourin", "shape": "dot"}, {"id": "Anupam Chattopadhyay", "label": "Anupam Chattopadhyay", "shape": "dot"}, {"id": "Anwitaman Datta", "label": "Anwitaman Datta", "shape": "dot"}, {"id": "Arijit Khan", "label": "Arijit Khan", "shape": "dot"}, {"id": "Arvind Easwaran", "label": "Arvind Easwaran", "shape": "dot"}, {"id": "Bo An", "label": "Bo An", "shape": "dot"}, {"id": "Cai Jianfei", "label": "Cai Jianfei", "shape": "dot"}, {"id": "Cai Wentong", "label": "Cai Wentong", "shape": "dot"}, {"id": "Cham Tat Jen", "label": "Cham Tat Jen", "shape": "dot"}, {"id": "Chan Syin", "label": "Chan Syin", "shape": "dot"}, {"id": "Chia Liang Tien Clement", "label": "Chia Liang Tien Clement", "shape": "dot"}, {"id": "Chng Eng Siong", "label": "Chng Eng Siong", "shape": "dot"}, {"id": "Cong Gao", "label": "Cong Gao", "shape": "dot"}, {"id": "Deepu Rajan", "label": "Deepu Rajan", "shape": "dot"}, {"id": "Douglas Leslie Maskell", "label": "Douglas Leslie Maskell", "shape": "dot"}, {"id": "Dusit Niyato", "label": "Dusit Niyato", "shape": "dot"}, {"id": "Erik Cambria", "label": "Erik Cambria", "shape": "dot"}, {"id": "Goh Wooi Boon", "label": "Goh Wooi Boon", "shape": "dot"}, {"id": "Guan Cuntai", "label": "Guan Cuntai", "shape": "dot"}, {"id": "He Ying", "label": "He Ying", "shape": "dot"}, {"id": "Huang Shell Ying", "label": "Huang Shell Ying", "shape": "dot"}, {"id": "Hui Siu Cheung", "label": "Hui Siu Cheung", "shape": "dot"}, {"id": "Joty Shafiq Rayhan", "label": "Joty Shafiq Rayhan", "shape": "dot"}, {"id": "Ke Yiping Kelly", "label": "Ke Yiping Kelly", "shape": "dot"}, {"id": "Kong Wai-Kin Adams", "label": "Kong Wai-Kin Adams", "shape": "dot"}, {"id": "Kwoh Chee Keong", "label": "Kwoh Chee Keong", "shape": "dot"}, {"id": "Lam Kwok Yan", "label": "Lam Kwok Yan", "shape": "dot"}, {"id": "Lam Siew Kei", "label": "Lam Siew Kei", "shape": "dot"}, {"id": "Lana Obraztsova ", "label": "Lana Obraztsova ", "shape": "dot"}, {"id": "Lau Chiew Tong", "label": "Lau Chiew Tong", "shape": "dot"}, {"id": "Lee Bu Sung Francis", "label": "Lee Bu Sung Francis", "shape": "dot"}, {"id": "Li Fang Flora", "label": "Li Fang Flora", "shape": "dot"}, {"id": "Li Mo", "label": "Li Mo", "shape": "dot"}, {"id": "Li Yi", "label": "Li Yi", "shape": "dot"}, {"id": "Liang Qianhui", "label": "Liang Qianhui", "shape": "dot"}, {"id": "Lin Feng", "label": "Lin Feng", "shape": "dot"}, {"id": "Lin Guosheng", "label": "Lin Guosheng", "shape": "dot"}, {"id": "Lin Shang-Wei", "label": "Lin Shang-Wei", "shape": "dot"}, {"id": "Lin Weisi", "label": "Lin Weisi", "shape": "dot"}, {"id": "Liu Weichen", "label": "Liu Weichen", "shape": "dot"}, {"id": "Liu Yang", "label": "Liu Yang", "shape": "dot"}, {"id": "Loke Yuan Ren", "label": "Loke Yuan Ren", "shape": "dot"}, {"id": "Long Cheng", "label": "Long Cheng", "shape": "dot"}, {"id": "Loy Chen Change", "label": "Loy Chen Change", "shape": "dot"}, {"id": "Lu Shijian", "label": "Lu Shijian", "shape": "dot"}, {"id": "Luo Jun", "label": "Luo Jun", "shape": "dot"}, {"id": "Mahardhika Pratama", "label": "Mahardhika Pratama", "shape": "dot"}, {"id": "Mohamed M. Sabry", "label": "Mohamed M. Sabry", "shape": "dot"}, {"id": "Ng Wee Keong", "label": "Ng Wee Keong", "shape": "dot"}, {"id": "Oh Hong Lye", "label": "Oh Hong Lye", "shape": "dot"}, {"id": "Owen Noel Newton Fernando", "label": "Owen Noel Newton Fernando", "shape": "dot"}, {"id": "Pan Sinno Jialin", "label": "Pan Sinno Jialin", "shape": "dot"}, {"id": "Qian Kemao", "label": "Qian Kemao", "shape": "dot"}, {"id": "Quek Hiok Chai", "label": "Quek Hiok Chai", "shape": "dot"}, {"id": "Rajapakse Jagath Chandana", "label": "Rajapakse Jagath Chandana", "shape": "dot"}, {"id": "Seah Hock Soon", "label": "Seah Hock Soon", "shape": "dot"}, {"id": "Smitha K G", "label": "Smitha K G", "shape": "dot"}, {"id": "Sourav S Bhowmick", "label": "Sourav S Bhowmick", "shape": "dot"}, {"id": "Sourav Sen Gupta", "label": "Sourav Sen Gupta", "shape": "dot"}, {"id": "Sun Aixin", "label": "Sun Aixin", "shape": "dot"}, {"id": "Sun Chengzheng", "label": "Sun Chengzheng", "shape": "dot"}, {"id": "Tan Ah Hwee", "label": "Tan Ah Hwee", "shape": "dot"}, {"id": "Tan Kheng Leong", "label": "Tan Kheng Leong", "shape": "dot"}, {"id": "Tan Rui", "label": "Tan Rui", "shape": "dot"}, {"id": "Tang Xueyan", "label": "Tang Xueyan", "shape": "dot"}, {"id": "Vun Chan Hua Nicholas", "label": "Vun Chan Hua Nicholas", "shape": "dot"}, {"id": "Xavier Bresson", "label": "Xavier Bresson", "shape": "dot"}, {"id": "Yeo Chai Kiat", "label": "Yeo Chai Kiat", "shape": "dot"}, {"id": "Yu Han", "label": "Yu Han", "shape": "dot"}, {"id": "Zhang Hanwang", "label": "Zhang Hanwang", "shape": "dot"}, {"id": "Zhang Jie", "label": "Zhang Jie", "shape": "dot"}, {"id": "Zhao Jun", "label": "Zhao Jun", "shape": "dot"}, {"id": "Zheng Jianmin", "label": "Zheng Jianmin", "shape": "dot"}, {"id": "Zinovi Rabinovich", "label": "Zinovi Rabinovich", "shape": "dot"}, {"id": "Miao Chunyan", "label": "Miao Chunyan", "shape": "dot"}, {"id": "Thambipillai Srikanthan", "label": "Thambipillai Srikanthan", "shape": "dot"}, {"id": "Ong Yew Soon", "label": "Ong Yew Soon", "shape": "dot"}, {"id": "Shen Zhiqi", "label": "Shen Zhiqi", "shape": "dot"}, {"id": "Tay Kian Boon", "label": "Tay Kian Boon", "shape": "dot"}, {"id": "Wen Yonggang", "label": "Wen Yonggang", "shape": "dot"}, {"id": "Zhang Tianwei", "label": "Zhang Tianwei", "shape": "dot"}, {"id": "Boyang Li", "label": "Boyang Li", "shape": "dot"}, {"id": "Liu Zhiwei", "label": "Liu Zhiwei", "shape": "dot"}, {"id": "Luu Anh Tuan", "label": "Luu Anh Tuan", "shape": "dot"}, {"id": "\u0027Lee Bu Sung Francis\u0027", "label": "\u0027Lee Bu Sung Francis\u0027", "shape": "dot"}, {"id": " \u0027Huang Shell Ying\u0027", "label": " \u0027Huang Shell Ying\u0027", "shape": "dot"}, {"id": "\u0027Cai Wentong\u0027", "label": "\u0027Cai Wentong\u0027", "shape": "dot"}, {"id": "\u0027Yeo Chai Kiat\u0027", "label": "\u0027Yeo Chai Kiat\u0027", "shape": "dot"}, {"id": "\u0027Thambipillai Srikanthan\u0027", "label": "\u0027Thambipillai Srikanthan\u0027", "shape": "dot"}, {"id": " \u0027Vun Chan Hua Nicholas\u0027", "label": " \u0027Vun Chan Hua Nicholas\u0027", "shape": "dot"}, {"id": " \u0027Lau Chiew Tong\u0027", "label": " \u0027Lau Chiew Tong\u0027", "shape": "dot"}, {"id": " \u0027Cai Wentong\u0027", "label": " \u0027Cai Wentong\u0027", "shape": "dot"}, {"id": "\u0027Seah Hock Soon\u0027", "label": "\u0027Seah Hock Soon\u0027", "shape": "dot"}, {"id": "\u0027Sourav S Bhowmick\u0027", "label": "\u0027Sourav S Bhowmick\u0027", "shape": "dot"}, {"id": "\u0027Lin Feng\u0027", "label": "\u0027Lin Feng\u0027", "shape": "dot"}, {"id": "\u0027Ng Wee Keong\u0027", "label": "\u0027Ng Wee Keong\u0027", "shape": "dot"}, {"id": " \u0027Hui Siu Cheung\u0027", "label": " \u0027Hui Siu Cheung\u0027", "shape": "dot"}, {"id": "\u0027Shen Zhiqi\u0027", "label": "\u0027Shen Zhiqi\u0027", "shape": "dot"}, {"id": "\u0027Lam Siew Kei\u0027", "label": "\u0027Lam Siew Kei\u0027", "shape": "dot"}, {"id": "\u0027Miao Chunyan\u0027", "label": "\u0027Miao Chunyan\u0027", "shape": "dot"}]);
+        edges = new vis.DataSet([{"from": "Cai Wentong", "to": "\u0027Lee Bu Sung Francis\u0027"}, {"from": "Cai Wentong", "to": " \u0027Huang Shell Ying\u0027"}, {"from": "Huang Shell Ying", "to": "\u0027Cai Wentong\u0027"}, {"from": "Hui Siu Cheung", "to": "\u0027Yeo Chai Kiat\u0027"}, {"from": "Lam Siew Kei", "to": "\u0027Thambipillai Srikanthan\u0027"}, {"from": "Lau Chiew Tong", "to": "\u0027Lee Bu Sung Francis\u0027"}, {"from": "Lau Chiew Tong", "to": " \u0027Vun Chan Hua Nicholas\u0027"}, {"from": "Lee Bu Sung Francis", "to": "\u0027Yeo Chai Kiat\u0027"}, {"from": "Lee Bu Sung Francis", "to": " \u0027Lau Chiew Tong\u0027"}, {"from": "Lee Bu Sung Francis", "to": " \u0027Vun Chan Hua Nicholas\u0027"}, {"from": "Lee Bu Sung Francis", "to": " \u0027Cai Wentong\u0027"}, {"from": "Lin Feng", "to": "\u0027Seah Hock Soon\u0027"}, {"from": "Ng Wee Keong", "to": "\u0027Sourav S Bhowmick\u0027"}, {"from": "Seah Hock Soon", "to": "\u0027Lin Feng\u0027"}, {"from": "Sourav S Bhowmick", "to": "\u0027Ng Wee Keong\u0027"}, {"from": "Vun Chan Hua Nicholas", "to": "\u0027Lee Bu Sung Francis\u0027"}, {"from": "Vun Chan Hua Nicholas", "to": " \u0027Lau Chiew Tong\u0027"}, {"from": "Yeo Chai Kiat", "to": "\u0027Lee Bu Sung Francis\u0027"}, {"from": "Yeo Chai Kiat", "to": " \u0027Hui Siu Cheung\u0027"}, {"from": "Miao Chunyan", "to": "\u0027Shen Zhiqi\u0027"}, {"from": "Thambipillai Srikanthan", "to": "\u0027Lam Siew Kei\u0027"}, {"from": "Shen Zhiqi", "to": "\u0027Miao Chunyan\u0027"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+        network.on("stabilizationProgress", function(params) {
+      		document.getElementById('loadingBar').removeAttribute("style");
+	        var maxWidth = 496;
+	        var minWidth = 20;
+	        var widthFactor = params.iterations/params.total;
+	        var width = Math.max(minWidth,maxWidth * widthFactor);
+
+	        document.getElementById('bar').style.width = width + 'px';
+	        document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+	    });
+	    network.once("stabilizationIterationsDone", function() {
+	        document.getElementById('text').innerHTML = '100%';
+	        document.getElementById('bar').style.width = '496px';
+	        document.getElementById('loadingBar').style.opacity = 0;
+	        // really clean the dom element
+	        setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+	    });
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
