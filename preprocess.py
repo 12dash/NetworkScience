@@ -77,7 +77,7 @@ class YearNetwork:
         HOVER_TOOLTIPS = [("Faculty", "@index"),("Degree", "@degree"),("Betweenness Centrality", "@betweenness")]
 
         plot = figure(tooltips = HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
-                x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=title, plot_width = 1000, plot_height = 800)
+                x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=title, plot_width = 700, plot_height = 700)
         
         network_graph = from_networkx(self.nx_G, nx.spring_layout, scale=10, center=(0, 0))
 
@@ -95,6 +95,7 @@ class YearNetwork:
         #source = ColumnDataSource({'x': x, 'y': y, 'name': [node_labels[i] for i in range(len(x))]})
         #labels = LabelSet(x='x', y='y', text='name', source=source, background_fill_color='white', text_font_size='10px', background_fill_alpha=.7)
         #plot.renderers.append(labels)
+        
         return plot
 
     def display_networkx_graph(self):
@@ -144,8 +145,3 @@ if __name__ == "__main__":
     initialize()    
     f = FacultyNetwork()
     f.display_years()
-
-    #year = (int)(input())
-    #while(year != -1):
-        #facultyNetwork.display_year(year)
-        #year = (int)(input())
