@@ -1,147 +1,108 @@
-import ast
+import xml.etree.ElementTree as ET
 import os
 import pandas as pd
-import networkx as nx
-import matplotlib.pyplot as plt
 
-from bokeh.io import output_notebook, show, save
-from bokeh.models import Range1d, Circle, ColumnDataSource, MultiLine, EdgesAndLinkedNodes, NodesAndLinkedEdges, LabelSet
-from bokeh.plotting import figure, from_networkx
-from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral8
-from bokeh.transform import linear_cmap
-from bokeh.models.widgets import Tabs, Panel
+FACULTY_DF = pd.read_csv("Faculty.csv")
+FACULTY_PID = {}
 
-def initialize():
-    try:
-        os.mkdir("./Graph")
-    except Exception as e:
-        pass
-    
+class PublishedPaper:
 
-class YearNetwork:
-    df = pd.DataFrame()
-    faculty = []
-    nx_G = None
-    bokeh_G = None
-    
-    def __init__(self, year):
-
-        self.nx_G = nx.Graph()
-
-        self.df = pd.read_csv("SCSENodes.csv")
-        self.df = self.df.drop([self.df.columns[0]], axis = 1)      
-
-        self.faculty = self.df.Faculty.to_list()
-
-        self.year = year
-        self.generate_networkx()
-        self.add_properties_network()
-    
-    def generate_networkx(self):
-        '''
-        Generates the Networkx graph by adding edges and nodes
-        '''
-        for i in self.faculty:
-            if i != '':
-                
-                self.nx_G.add_node(i)
-        collabs = self.df[self.year].to_list()
-        collabs = [ast.literal_eval(x)  for x in collabs]
-        for i in range(len(collabs)):
-            for j in collabs[i]:
-                if j != '':
-                    j = j.replace("'","")
-                    self.nx_G.add_edge(self.faculty[i],j)
-
-    def add_properties_network(self):
-
-        self.degrees = dict(nx.degree(self.nx_G))
-        self.betweenness_centrality = nx.betweenness_centrality(self.nx_G)
-
-        nx.set_node_attributes(self.nx_G, name='degree', values=self.degrees)
-        nx.set_node_attributes(self.nx_G, name='betweenness', values=self.betweenness_centrality)
-
-        number_to_adjust_by = 5
-
-        adjusted_node_size = dict([(node, degree+number_to_adjust_by) for node, degree in nx.degree(self.nx_G)])
-        nx.set_node_attributes(self.nx_G, name='adjusted_node_size', values=adjusted_node_size)
-   
-    def draw_bokeh(self): 
-        # plot with different sized node degrees + labels           
-        size_by_this_attribute = 'adjusted_node_size'
-        color_by_this_attribute = 'adjusted_node_size'
-
-        color_palette = Viridis8
-
-        title = 'Network with node sizes according to degree'
-        HOVER_TOOLTIPS = [("Faculty", "@index"),("Degree", "@degree"),("Betweenness Centrality", "@betweenness")]
-
-        plot = figure(tooltips = HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
-                x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=title, plot_width = 700, plot_height = 700)
+    def __init__(self, xml_raw):
         
-        network_graph = from_networkx(self.nx_G, nx.spring_layout, scale=10, center=(0, 0))
+        self.xml_raw = xml_raw 
 
-        minimum_value_color = min(network_graph.node_renderer.data_source.data[color_by_this_attribute])
-        maximum_value_color = max(network_graph.node_renderer.data_source.data[color_by_this_attribute])
-        network_graph.node_renderer.glyph = Circle(size=size_by_this_attribute, fill_color=linear_cmap(color_by_this_attribute, color_palette, minimum_value_color, maximum_value_color))
+        self.authors = []
+        self.title = None
+        self.year = None
+        self.paper_type = None        
 
-        network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
-
-        plot.renderers.append(network_graph)
+        self.fetch_info() 
         
-        #Add Labels
-        #x, y = zip(*network_graph.layout_provider.graph_layout.values())
-        #node_labels = list(self.nx_G.nodes())
-        #source = ColumnDataSource({'x': x, 'y': y, 'name': [node_labels[i] for i in range(len(x))]})
-        #labels = LabelSet(x='x', y='y', text='name', source=source, background_fill_color='white', text_font_size='10px', background_fill_alpha=.7)
-        #plot.renderers.append(labels)
+    def fetch_info(self):
+        for x in self.xml_raw.iter():
+            if x.tag == "article":
+                self.paper_type = "journal"
+            elif x.tag == "inproceedings":
+                self.paper_type = "conference"            
+            if x.tag == "author":
+                try:
+                    self.authors.append(FACULTY_PID[x.attrib['pid']])
+                except Exception as e:
+                    pass
+                    #self.authors.append(x.text)
+            elif x.tag == "year":
+                self.year = (int)(x.text)
+            elif x.tag == "title":
+                self.title = x.text   
+       
+class Faculty:    
+
+    def __init__(self,name):      
+
+        self.position = None
+        self.gender = None
+        self.managment = None
+        self.xml = None
+        self.area = None
+
+        self.papers = []
+
+        self.name = name
+        self.xml_path = f"./Data/{name}.xml"
+
+        self.get_data_df()
+        self.load_xml()
+        self.parse_xml()
         
-        return plot
-
-    def display_networkx_graph(self):
-        '''
-        Shows the network_x graph
-        '''
-        plt.figure(figsize = (24,12))
-        pos = None
-        pos =  nx.spring_layout(self.nx_G)
-        nx.draw_random(self.nx_G, with_labels = True, font_weight = 'bold')
-        plt.show()
-
-class FacultyNetwork:    
-    graph = {}
-    plots = {}
-
-    tabs = []
-    tab = None
     
-    def __init__(self):
-        self.generate_networks()        
+    def get_data_df(self):
+
+        row = FACULTY_DF[FACULTY_DF["Faculty"]==self.name]
+
+        self.gender = row.Gender.to_list()[0]
+        self.position = row.Position.to_list()[0]
+        self.managment = row.Management.to_list()[0]
+        self.area = row.Area.to_list()[0]
+
+        return
+
+    def load_xml(self):
+        self.xml = ET.parse(self.xml_path)
+        return
     
-    def generate_networks(self):
-        '''
-        Generates Networks for each year
-        '''
-        for i in range(2000,2022):
-            self.graph[i] =  YearNetwork(str(i))  
-            self.get_plot_year(i)        
-        self.build_tab()
+    def parse_xml(self):
+        root = self.xml.getroot()
+        for x in root:            
+            if(x.tag == 'r'):
+                self.papers.append(PublishedPaper(x))
+        return
 
-    def build_tab(self):
-        for i in range(2000,2022):
-            self.tabs.append(Panel(child = self.plots[i], title = str(i)))        
-        self.tab = Tabs(tabs=self.tabs)
+    def printFaculty(self):
+        print(f"{self.name}\t\t{self.gender}\t\t{self.position}\t\t{self.managment}\t\t{self.area}")
+        return
 
-    def get_plot_year(self, year):
-        '''
-        Displays the networkx network for a particular year
-        '''
-        self.plots[year] = self.graph[year].draw_bokeh()
-    
-    def display_years(self):
-        show(self.tab)
+def faculty_pid(name):
+    xml_path = f"./Data/{name}.xml"
+    xml = ET.parse(xml_path)
+    root=xml.getroot()
+    pid=root.attrib['pid']
+    FACULTY_PID[pid] = name
 
-if __name__ == "__main__":
-    initialize()    
-    f = FacultyNetwork()
-    f.display_years()
+
+def fetch_faculty():
+    faculty_names = (os.listdir("./Data"))
+    faculty_names = [i[:i.rfind(".")] for i in faculty_names]
+    faculty = {}
+    for i in faculty_names:
+        faculty_pid(i)
+    for i in faculty_names:
+        faculty[i] = Faculty(i)
+    return faculty, faculty_names
+
+
+if __name__=="__main__":
+    faculty_names = (os.listdir("./Data"))
+    faculty_names = [i[:i.rfind(".")] for i in faculty_names]
+    faculty = {}
+    for i in faculty_names:
+        faculty[i] = Faculty(i)
