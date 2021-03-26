@@ -7,19 +7,21 @@ from bokeh.plotting import figure, from_networkx
 from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral8
 from bokeh.transform import linear_cmap
 from bokeh.models.widgets import Tabs, Panel
-from bokeh.layouts import row
-
+from bokeh.layouts import row,layout
+from collections import Counter
 
 FACULTY, NAMES = fetch_faculty()
 
 class Year:
     def __init__(self, year):
         self. year = year
-        self.graph_nx = nx.Graph()       
-        self.graph_nx_till = nx.Graph() 
+
+        self.graph_nx = nx.Graph()   
+        self.graph_nx_till = nx.Graph()
+
         self.build_graph()
         self.add_properties_network()
-        
+
     
     def build_graph(self):
         self.graph_nx.add_nodes_from(NAMES)
@@ -60,9 +62,24 @@ class Year:
         get_graph_properties(self.graph_nx)   
         get_graph_properties(self.graph_nx_till)  
         return
+          
     
     def draw_bokeh(self): 
-        def get_plot(network, title):
+        def get_degree_distribution(network,title):
+            degree = [i[1] for i in nx.degree(network)]
+            values = sorted(degree)
+            hist = Counter(values)
+            l1 = []
+            l2 = []
+            for i in hist:
+                l1.append(i)
+                l2.append(hist[i])
+
+            p = figure(title = title, plot_width=400, plot_height=400, y_axis_type="log", x_axis_type="log")
+            p.line(l1,l2, line_width=2)
+            return p
+
+        def get_network_plot(network, title):
             # plot with different sized node degrees + labels           
             size_by_this_attribute = 'adjusted_node_size'
             color_by_this_attribute = 'adjusted_node_size'
@@ -72,28 +89,29 @@ class Year:
             HOVER_TOOLTIPS = [("Faculty", "@index"),("Degree", "@degree"),("Betweenness Centrality", "@betweenness")]
 
             plot = figure(tooltips = HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
-                    x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=title, plot_width = 500, plot_height = 500)
+                    x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=title, plot_width = 400, plot_height = 400)
             
             network_graph = from_networkx(network, nx.spring_layout, scale=10, center=(0, 0))
 
             minimum_value_color = min(network_graph.node_renderer.data_source.data[color_by_this_attribute])
             maximum_value_color = max(network_graph.node_renderer.data_source.data[color_by_this_attribute])
             network_graph.node_renderer.glyph = Circle(size=size_by_this_attribute, fill_color=linear_cmap(color_by_this_attribute, color_palette, minimum_value_color, maximum_value_color))
-
             network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
             plot.renderers.append(network_graph)
 
             return plot
 
-        p1 = get_plot(self.graph_nx,"Collaboration for the current year")
-        p2 = get_plot(self.graph_nx_till,"Collaboration since 2000")       
+        p1 = get_network_plot(self.graph_nx,"Collaboration for the current year")
+        p2 = get_network_plot(self.graph_nx_till,"Collaboration since 2000")  
+        p3 = get_degree_distribution(self.graph_nx, "Degree Distribution")
+        p4 = get_degree_distribution(self.graph_nx_till, "Degree Distribution since 2000")
 
-        return row(p1,p2)   
+        return layout([[p1,p2],[p3,p4]]) 
 
 if __name__=="__main__":
     tabs = []
     tab = None
-    for i in range(2000,2022):
+    for i in range(2000,2021):
         temp = Year(i)
         tabs.append(Panel(child = temp.draw_bokeh(), title = str(i)))  
     tab = Tabs(tabs=tabs)
