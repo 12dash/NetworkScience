@@ -2,7 +2,7 @@ from preprocess import fetch_faculty
 import matplotlib.pyplot as plt
 import networkx as nx
 from bokeh.io import output_notebook, show, save
-from bokeh.models import Range1d, Circle, ColumnDataSource, MultiLine, EdgesAndLinkedNodes, NodesAndLinkedEdges, LabelSet, Div
+from bokeh.models import Range1d, Circle, ColumnDataSource, MultiLine, EdgesAndLinkedNodes, NodesAndLinkedEdges, LabelSet, Div, CustomJS, TextInput
 from bokeh.plotting import figure, from_networkx
 from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral8
 from bokeh.transform import linear_cmap
@@ -281,14 +281,13 @@ class FacultyGraph:
 
             return plot
         
-        def get_row(title_plot, title_degree, network, network_dic):
+        def get_row(title_plot, network, network_dic):
             plots = get_network_plot(network,title_plot)
-            degree_distribution = get_degree_distribution(network, title_degree)
             info = div = Div(text=f"<div><br/><br/><br/><br/><br/><br/><br/><br/><b>Average Degree</b> : {network_dic['average_degree']}<br /><b>Average Clustering Coefficient </b> : {network_dic['average_clustering_coefficient']}</div>", width = 400, height = 200)
-            return row([plots,degree_distribution,info])
+            return row([plots,info])
 
-        row_1 = get_row(f"Collaboration in {self.year}", "Degree Distribution",self.graph_nx,self.graph_nx_info)
-        row_2 = get_row(f"Collaboration since 2000", "Degree Distribution",self.graph_nx_till,self.graph_nx_till_info)
+        row_1 = get_row(f"Collaboration in {self.year}", self.graph_nx,self.graph_nx_info)
+        row_2 = get_row(f"Collaboration since 2000", self.graph_nx_till,self.graph_nx_till_info)
 
         return layout([row_1,row_2])
 
@@ -313,6 +312,13 @@ if __name__ == "__main__":
         temp = FacultyGraph("A S Madhukumar",i).draw_bokeh()
         tabs_faculty.append(Panel(child=temp, title=str(i)))
     tab_faculty = Tabs(tabs=tabs_faculty)
+    text_input_faculty = TextInput(value="A S Madhukumar", title="Name of Faculty:")
+    text_input_faculty.js_on_change("value", CustomJS(code="""
+    console.log('text_input_faculty: value=' + this.value, this.toString())"""))
 
-    disp = layout([div,div_text, tab, tab_faculty])
+    disp = layout([div,div_text, tab, text_input_faculty, tab_faculty])
     show(disp)
+
+
+
+    
