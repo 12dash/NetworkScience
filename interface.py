@@ -8,6 +8,8 @@ from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral
 from bokeh.transform import linear_cmap
 from bokeh.models.widgets import Tabs, Panel
 from bokeh.layouts import row
+
+
 FACULTY, NAMES = fetch_faculty()
 
 class Year:
@@ -28,7 +30,7 @@ class Year:
                     for author in paper.authors:
                         if (author in NAMES) and (author != FACULTY[faculty].name) and not(self.graph_nx.has_edge(FACULTY[faculty].name, author))and not(self.graph_nx.has_edge(author,FACULTY[faculty].name)):
                                 self.graph_nx.add_edge(FACULTY[faculty].name, author)
-                if (paper.year <= self.year) and (paper.year > 1999):
+                if (paper.year <= self.year) and (paper.year > 1999):                    
                     for author in paper.authors:
                         if (author in NAMES) and (author != FACULTY[faculty].name) and not(self.graph_nx_till.has_edge(FACULTY[faculty].name, author))and not(self.graph_nx_till.has_edge(author,FACULTY[faculty].name)):
                                 self.graph_nx_till.add_edge(FACULTY[faculty].name, author)
