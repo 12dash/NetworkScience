@@ -1,3 +1,131 @@
+import networkx as nx
+import matplotlib.pyplot as plt
+
+NAMES = None
+FACULTY = None
+
+class Year:
+
+    '''
+    Builds a Collaboration Network for the individual years
+    '''   
+
+    def __init__(self, year, NAME_, FACULTY_):
+
+        global NAMES 
+        global FACULTY
+
+        NAMES = NAME_
+        FACULTY = FACULTY_
+
+        self.year = year
+
+        self.graph_year = nx.Graph()
+        self.graph_previous_years = nx.Graph() 
+
+        self.year_info = {}
+        self.previous_year_info = {}
+
+        self.build_graph()
+        self.set_information()
+        self.add_properties_network()
+
+    def build_graph(self):
+
+        self.graph_year.add_nodes_from(NAMES)
+        self.graph_previous_years.add_nodes_from(NAMES)
+
+        for faculty in FACULTY:
+            for paper in FACULTY[faculty].papers:               
+                if (paper.year <= self.year) and (paper.year > 1999):
+                    for author in paper.authors:
+                        if (author in NAMES) and (author != FACULTY[faculty].name) and not(self.graph_previous_years.has_edge(FACULTY[faculty].name, author)) and not(self.graph_previous_years.has_edge(author, FACULTY[faculty].name)):
+                            self.graph_previous_years.add_edge(FACULTY[faculty].name, author)
+                            if paper.year == self.year:
+                                self.graph_year.add_edge(FACULTY[faculty].name, author)
+
+        return
+
+    def set_information(self):
+
+        def get_info(network, network_dic):
+
+            def get_average_degree(network):
+                degrees = [i[1] for i in (network.degree())]
+                degrees = sum(degrees)
+                avg_degree = degrees/(network.number_of_nodes())
+                return avg_degree
+            
+            def get_average_clustering(network):
+                return nx.average_clustering(network)           
+          
+            network_dic['average_degree']=get_average_degree(network)
+            network_dic['average_clustering_coefficient']=get_average_clustering(network)
+
+        
+        get_info(self.graph_year,self.year_info)
+        get_info(self.graph_previous_years,self.previous_year_info)
+
+        return
+
+    def display_networkx(self):
+        '''
+        Displays the network_x graph
+        '''
+        plt.figure(figsize=(24, 12))
+        nx.draw_random(self.graph_year, with_labels=True, font_weight='bold')
+        plt.show()
+        return
+
+    def add_properties_network(self):
+
+        def get_graph_properties(network):
+            degrees = dict(nx.degree(network))
+            betweenness_centrality = nx.betweenness_centrality(network)
+            clustering = nx.clustering(network)
+
+            nx.set_node_attributes(network, name='degree', values=degrees)
+            nx.set_node_attributes(network, name='betweenness', values=betweenness_centrality)
+            nx.set_node_attributes(network, name='clustering', values=clustering)
+
+            number_to_adjust_by = 5
+
+            adjusted_node_size = dict([(node, degree+number_to_adjust_by) for node, degree in nx.degree(network)])
+            nx.set_node_attributes(network, name='adjusted_node_size', values=adjusted_node_size)
+
+            return
+
+        get_graph_properties(self.graph_year)
+        get_graph_properties(self.graph_previous_years)
+
+        return
+
+
 class Faculty:
-    def __init__():
-        pass
+
+    def __init__(self, name):
+        self.name = name
+        self.graph_years = {}
+
+        self.generate_graph_years()
+
+    def generate_graph_years(self):
+        def build_graph(year):
+            graph = nx.Graph()
+            graph = nx.add_nodes_from(NAMES)
+
+            for paper in FACULTY[self.name].papers:
+                if paper.year == year:
+                    for author in paper.authors:
+                        if (author in NAMES) and (author != FACULTY[self.name].name) and not(graph.has_edge(FACULTY[self.name].name, author)) and not(graph.has_edge(author, FACULTY[self.name].name)):
+                            graph.add_edge( FACULTY[self.name].name, author)
+
+            if graph.number_of_edges() > 0:
+                self.graph_years[year] = graph          
+
+            return
+        
+        for i in range(2000,2021):
+            build_graph(i)
+
+        return
