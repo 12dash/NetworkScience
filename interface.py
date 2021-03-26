@@ -22,7 +22,8 @@ class Year:
         self.graph_nx_info = {}
         self.graph_nx_till_info = {}
         
-        self.build_graph()
+        #self.build_graph()
+        self.build_author_graph()
         self.get_information()
         self.add_properties_network()
 
@@ -41,6 +42,23 @@ class Year:
                         if (author in NAMES) and (author != FACULTY[faculty].name) and not(self.graph_nx_till.has_edge(FACULTY[faculty].name, author)) and not(self.graph_nx_till.has_edge(author, FACULTY[faculty].name)):
                             self.graph_nx_till.add_edge(
                                 FACULTY[faculty].name, author)
+        return
+    
+    def build_author_graph(self):
+        faculty = "Lee Bu Sung Francis"
+        self.graph_nx.add_nodes_from(NAMES)
+        self.graph_nx_till.add_nodes_from(NAMES)
+        for paper in FACULTY[faculty].papers:
+            if paper.year == self.year:
+                for author in paper.authors:
+                    if (author in NAMES) and (author != FACULTY[faculty].name) and not(self.graph_nx.has_edge(FACULTY[faculty].name, author)) and not(self.graph_nx.has_edge(author, FACULTY[faculty].name)):
+                        self.graph_nx.add_edge(
+                            FACULTY[faculty].name, author)
+            if (paper.year <= self.year) and (paper.year > 1999):
+                 for author in paper.authors:
+                    if (author in NAMES) and (author != FACULTY[faculty].name) and not(self.graph_nx_till.has_edge(FACULTY[faculty].name, author)) and not(self.graph_nx_till.has_edge(author, FACULTY[faculty].name)):
+                        self.graph_nx_till.add_edge(
+                            FACULTY[faculty].name, author)
         return
 
     def display_networkx(self):
@@ -67,8 +85,6 @@ class Year:
         get_info(self.graph_nx_till,self.graph_nx_till_info)
 
         return        
-        
-
 
     def add_properties_network(self):
         def get_graph_properties(network):
