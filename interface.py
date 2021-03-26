@@ -68,8 +68,6 @@ class Year:
 
         return        
         
-
-
     def add_properties_network(self):
         def get_graph_properties(network):
             degrees = dict(nx.degree(network))
@@ -110,7 +108,6 @@ class Year:
             return p
 
         def get_network_plot(network, title):
-
             # plot with different sized node degrees + labels
             size_by_this_attribute = 'adjusted_node_size'
             color_by_this_attribute = 'adjusted_node_size'
@@ -142,7 +139,7 @@ class Year:
         def get_row(title_plot, title_degree, network, network_dic):
             plots = get_network_plot(network,title_plot)
             degree_distribution = get_degree_distribution(network, title_degree)
-            info = div = Div(text=f"<div><br/><br/><br/><br/><b>Average Degree</b> : {network_dic['average_degree']}<br /><b>Average Clustering Coefficient </b> : {network_dic['average_clustering_coefficient']}</div>", width = 400, height = 200)
+            info = div = Div(text=f"<div><br/><br/><br/><br/><br/><br/><br/><br/><b>Average Degree</b> : {network_dic['average_degree']}<br /><b>Average Clustering Coefficient </b> : {network_dic['average_clustering_coefficient']}</div>", width = 400, height = 200)
             return row([plots,degree_distribution,info])
 
         row_1 = get_row(f"Collaboration in {self.year}", "Degree Distribution",self.graph_nx,self.graph_nx_info)
