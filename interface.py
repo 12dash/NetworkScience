@@ -162,7 +162,7 @@ class Year:
             return row([plots,degree_distribution,info])
 
         row_1 = get_row(f"Collaboration in {self.year}", "Degree Distribution",self.graph_nx,self.graph_nx_info)
-        row_2 = get_row(f"Collaboration since 2000", "Degree Distribution",self.graph_nx_till,self.graph_nx_till_info)        
+        row_2 = get_row(f"Collaboration since 2000", "Degree Distribution",self.graph_nx_till,self.graph_nx_till_info)
 
         return layout([row_1,row_2])
 
