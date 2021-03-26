@@ -1,144 +1,108 @@
-import ast
+import xml.etree.ElementTree as ET
 import os
 import pandas as pd
-import networkx as nx
-import matplotlib.pyplot as plt
 
-from bokeh.io import output_notebook, show, save
-from bokeh.models import Range1d, Circle, ColumnDataSource, MultiLine, EdgesAndLinkedNodes, NodesAndLinkedEdges, LabelSet
-from bokeh.plotting import figure, from_networkx
-from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral8
-from bokeh.transform import linear_cmap
+FACULTY_DF = pd.read_csv("Faculty.csv")
+FACULTY_PID = {}
 
+class PublishedPaper:
 
-def initialize():
-    try:
-        os.mkdir("./Graph")
-    except Exception as e:
-        pass
-    
-
-class YearNetwork:
-
-    df = pd.DataFrame()
-    faculty = []
-    nx_G = None
-    
-    def __init__(self, year):
-
-        self.nx_G = nx.Graph()
-
-        self.df = pd.read_csv("SCSENodes.csv")
-        self.df = self.df.drop([self.df.columns[0]], axis = 1)      
-
-        self.faculty = self.df.Faculty.to_list()
-
-        self.year = year
-        self.generate_networkx()
-    
-    def generate_networkx(self):
-        '''
-        Generates the Networkx graph by adding edges and nodes
-        '''
-        for i in self.faculty:
-            if i != '':
-                
-                self.nx_G.add_node(i)
-        collabs = self.df[self.year].to_list()
-        collabs = [ast.literal_eval(x)  for x in collabs]
-        for i in range(len(collabs)):
-            for j in collabs[i]:
-                if j != '':
-                    j = j.replace("'","")
-                    self.nx_G.add_edge(self.faculty[i],j)
-    
-    def draw_bokeh(self):
-        title = 'Network'
-        HOVER_TOOLTIPS = [("Faculty", "@index")]
-        plot = figure(tooltips = HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
-                x_range=Range1d(-10.1, 10.1), y_range=Range1d(-10.1, 10.1), title=title)
-        network_graph = from_networkx(self.nx_G, nx.spring_layout, scale=10, center=(0, 0))
-        network_graph.node_renderer.glyph = Circle(size=15, fill_color='skyblue')
-        network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
-        plot.renderers.append(network_graph)
-        show(plot)
-
-        # plot with different sized node degrees + labels
-        degrees = dict(nx.degree(self.nx_G))
-        betweenness_centrality = nx.betweenness_centrality(self.nx_G)
-
-        nx.set_node_attributes(self.nx_G, name='degree', values=degrees)
-        nx.set_node_attributes(self.nx_G, name='betweenness', values=betweenness_centrality)
-
-        number_to_adjust_by = 5
-        adjusted_node_size = dict([(node, degree+number_to_adjust_by) for node, degree in nx.degree(self.nx_G)])
-        nx.set_node_attributes(self.nx_G, name='adjusted_node_size', values=adjusted_node_size)
-        size_by_this_attribute = 'adjusted_node_size'
-        color_by_this_attribute = 'adjusted_node_size'
-
-        color_palette = Viridis8
-        title = 'Network with node sizes according to degree'
-        HOVER_TOOLTIPS = [("Faculty", "@index"),("Degree", "@degree"),("Betweenness Centrality", "@betweenness")]
-
-        plot = figure(tooltips = HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
-                x_range=Range1d(-10.1, 10.1), y_range=Range1d(-10.1, 10.1), title=title)
+    def __init__(self, xml_raw):
         
-        network_graph = from_networkx(self.nx_G, nx.spring_layout, scale=10, center=(0, 0))
+        self.xml_raw = xml_raw 
 
-        minimum_value_color = min(network_graph.node_renderer.data_source.data[color_by_this_attribute])
-        maximum_value_color = max(network_graph.node_renderer.data_source.data[color_by_this_attribute])
-        network_graph.node_renderer.glyph = Circle(size=size_by_this_attribute, fill_color=linear_cmap(color_by_this_attribute, color_palette, minimum_value_color, maximum_value_color))
+        self.authors = []
+        self.title = None
+        self.year = None
+        self.paper_type = None        
 
-        network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
-
-        plot.renderers.append(network_graph)
+        self.fetch_info() 
         
-        #Add Labels
-        x, y = zip(*network_graph.layout_provider.graph_layout.values())
-        node_labels = list(self.nx_G.nodes())
-        source = ColumnDataSource({'x': x, 'y': y, 'name': [node_labels[i] for i in range(len(x))]})
-        labels = LabelSet(x='x', y='y', text='name', source=source, background_fill_color='white', text_font_size='10px', background_fill_alpha=.7)
-        plot.renderers.append(labels)
-        show(plot)
+    def fetch_info(self):
+        for x in self.xml_raw.iter():
+            if x.tag == "article":
+                self.paper_type = "journal"
+            elif x.tag == "inproceedings":
+                self.paper_type = "conference"            
+            if x.tag == "author":
+                try:
+                    self.authors.append(FACULTY_PID[x.attrib['pid']])
+                except Exception as e:
+                    pass
+                    #self.authors.append(x.text)
+            elif x.tag == "year":
+                self.year = (int)(x.text)
+            elif x.tag == "title":
+                self.title = x.text   
+       
+class Faculty:    
 
+    def __init__(self,name):      
 
+        self.position = None
+        self.gender = None
+        self.managment = None
+        self.xml = None
+        self.area = None
 
-    
-    def display_networkx_graph(self):
-        '''
-        Shows the network_x graph
-        '''
-        plt.figure(figsize = (24,12))
-        pos = None
-        #pos =  nx.spring_layout(self.nx_G)
-        nx.draw_random(self.nx_G, with_labels = True, font_weight = 'bold')
-        plt.show()
+        self.papers = []
 
-class FacultyNetwork:    
+        self.name = name
+        self.xml_path = f"./Data/{name}.xml"
 
-    graph = {}
-    
-    def __init__(self):
-        self.generate_networks()
-    
-    def generate_networks(self):
-        '''
-        Generates Networks for each year
-        '''
-        for i in range(2000,2022):
-            self.graph[i] =  YearNetwork(str(i))  
-
-    def display_year(self, year):
-        '''
-        Displays the networkx network for a particular year
-        '''
-        self.graph[year].draw_bokeh()
+        self.get_data_df()
+        self.load_xml()
+        self.parse_xml()
         
+    
+    def get_data_df(self):
 
-if __name__ == "__main__":
-    initialize()
-    facultyNetwork = FacultyNetwork()
-    year = (int)(input())
-    while(year != -1):
-        facultyNetwork.display_year(year)
-        year = (int)(input())
+        row = FACULTY_DF[FACULTY_DF["Faculty"]==self.name]
+
+        self.gender = row.Gender.to_list()[0]
+        self.position = row.Position.to_list()[0]
+        self.managment = row.Management.to_list()[0]
+        self.area = row.Area.to_list()[0]
+
+        return
+
+    def load_xml(self):
+        self.xml = ET.parse(self.xml_path)
+        return
+    
+    def parse_xml(self):
+        root = self.xml.getroot()
+        for x in root:            
+            if(x.tag == 'r'):
+                self.papers.append(PublishedPaper(x))
+        return
+
+    def printFaculty(self):
+        print(f"{self.name}\t\t{self.gender}\t\t{self.position}\t\t{self.managment}\t\t{self.area}")
+        return
+
+def faculty_pid(name):
+    xml_path = f"./Data/{name}.xml"
+    xml = ET.parse(xml_path)
+    root=xml.getroot()
+    pid=root.attrib['pid']
+    FACULTY_PID[pid] = name
+
+
+def fetch_faculty():
+    faculty_names = (os.listdir("./Data"))
+    faculty_names = [i[:i.rfind(".")] for i in faculty_names]
+    faculty = {}
+    for i in faculty_names:
+        faculty_pid(i)
+    for i in faculty_names:
+        faculty[i] = Faculty(i)
+    return faculty, faculty_names
+
+
+if __name__=="__main__":
+    faculty_names = (os.listdir("./Data"))
+    faculty_names = [i[:i.rfind(".")] for i in faculty_names]
+    faculty = {}
+    for i in faculty_names:
+        faculty[i] = Faculty(i)
