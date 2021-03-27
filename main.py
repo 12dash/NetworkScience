@@ -12,7 +12,10 @@ if __name__ == "__main__":
     for i in range(2000,2021):
         year_graph[i] = Year(i, NAMES, FACULTY)
 
-    show_html(year_graph)
+    name = "A S Madhukumar"
+    faculty = Faculty(name)
+
+    show_html(year_graph,name, faculty)
 
 
 

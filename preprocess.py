@@ -28,7 +28,10 @@ class PublishedPaper:
                 try:
                     self.authors.append(FACULTY_PID[x.attrib['pid']])
                 except Exception as e:
-                    pass
+                    author_name = (x.text)
+                    author_name = ''.join([i for i in author_name if not i.isdigit()])
+                    self.authors.append(author_name)
+
             elif x.tag == "year":
                 self.year = (int)(x.text)
             elif x.tag == "title":

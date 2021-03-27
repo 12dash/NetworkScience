@@ -105,23 +105,28 @@ class Faculty:
 
     def __init__(self, name):
         self.name = name
+
         self.graph_years = {}
+        self.graph_years_all = {}
 
         self.generate_graph_years()
 
     def generate_graph_years(self):
         def build_graph(year):
             graph = nx.Graph()
-            graph = nx.add_nodes_from(NAMES)
+            graph_all = nx.Graph() 
 
             for paper in FACULTY[self.name].papers:
                 if paper.year == year:
                     for author in paper.authors:
-                        if (author in NAMES) and (author != FACULTY[self.name].name) and not(graph.has_edge(FACULTY[self.name].name, author)) and not(graph.has_edge(author, FACULTY[self.name].name)):
-                            graph.add_edge( FACULTY[self.name].name, author)
+                        if (author != FACULTY[self.name].name) and not(graph.has_edge(FACULTY[self.name].name, author)) and not(graph.has_edge(author, FACULTY[self.name].name)):
+                            graph_all.add_edge(FACULTY[self.name].name, author)
+                            if (author in NAMES):
+                                graph.add_edge( FACULTY[self.name].name, author)
 
-            if graph.number_of_edges() > 0:
-                self.graph_years[year] = graph          
+
+            self.graph_years[year] = graph 
+            self.graph_years_all[year] = graph_all        
 
             return
         
