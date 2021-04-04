@@ -57,11 +57,18 @@ class Year:
                 return avg_degree
             
             def get_average_clustering(network):
-                return nx.average_clustering(network)           
+                return nx.average_clustering(network)          
+
+            def get_number_edges(network):
+                return network.number_of_edges()
+
+            def get_eccentricity(network):
+                return  nx.eccentricity(network)
           
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
-
+            network_dic['number_of_edges'] = get_number_edges(network)
+            #network_dic['eccentricity'] = get_eccentricity(network)
         
         get_info(self.graph_year,self.year_info)
         get_info(self.graph_previous_years,self.previous_year_info)

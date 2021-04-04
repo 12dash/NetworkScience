@@ -61,6 +61,7 @@ def generate_tab_year(graphs):
             <div>
             <h4>Network Properties</h4>
             <ul>
+                <li>Number of Edges: {temp.year_info['number_of_edges']}</li>
                 <li>Average Clustering Coefficient : {temp.year_info['average_clustering_coefficient']}</li>
                 <li>Average Degree : {temp.year_info['average_degree']}</li>                
             </ul>
