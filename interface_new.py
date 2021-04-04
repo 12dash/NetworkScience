@@ -10,7 +10,6 @@ from collections import Counter
 
 import networkx as nx
 
-
 def get_degree_distribution(network, title):
     degree = [i[1] for i in nx.degree(network)]
     values = sorted(degree)
@@ -115,7 +114,7 @@ def generate_faculty(Faculty, name):
     for i in range(2000, 2021):
 
         grid = row([get_network_plot(Faculty.graph_years[i], f"Collaborations in {i} from SCSE"), get_network_plot(
-            Faculty.graph_years_all[i], f"Collaborations in {i}")])
+            Faculty.graph_years_all[i], f"Collaborations in {i} from all the papers")])
         tabs.append(Panel(child=grid, title=str(i)))
 
     text = f"""<h3>Collaboration for {name}</h3><hr/>"""
@@ -144,6 +143,7 @@ def startingHtml():
 def show_html(Year_Graph, name=None, Faculty=None):
     years_scse = generate_tab_year(Year_Graph)
     faculty = generate_faculty(Faculty, name)
-    l = [startingHtml(), years_scse, faculty]
+    tab = Tabs(tabs = [Panel(child = years_scse, title = "\tYear Wise Analysis\t"), Panel(child = faculty, title = "\tFaculty Collaborations\t")])
+    l = [startingHtml(), tab]
     disp = layout(l)
     show(disp)
