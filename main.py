@@ -19,7 +19,7 @@ if __name__ == "__main__":
     name = args.name
     if name != None:
         faculty = Faculty(name)
-    
+
     show_html(year_graph,name, faculty)
 
 
