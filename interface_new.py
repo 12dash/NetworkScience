@@ -54,7 +54,7 @@ def generate_year_graph(network, title="Years"):
     return plot
 
 def generate_giant_componnet(network, title = "Largest Giant Component"):
-    
+    plot = figure(toolbar_location = None,   x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
 
 
 def generate_tab_year(graphs):
@@ -86,13 +86,15 @@ def generate_tab_year(graphs):
 
     def get_second_row(temp):
         collaboration = generate_year_graph(temp.graph_previous_years, f"Collaborations from 2000 to {i}")
+
         
-        return row
+        return row([collaboration])
 
 
     for i in range(2000, 2021):
         temp = graphs[i]
         row_1 = get_first_row(temp)
+        row_2 = get_second_row(temp)
         grid = layout([row_1, ])
         tabs.append(Panel(child=grid, title=str(i)))
 
