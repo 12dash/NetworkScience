@@ -60,14 +60,29 @@ class Year:
                 return nx.average_clustering(network)          
 
             def get_number_edges(network):
+                '''
+                Returns the number of edges in the network
+                '''
                 return network.number_of_edges()
+
+            def get_connected_components(network):
+                connected_components = nx.connected_components(network)
+                length = [len(i) for i in connected_components]   
+                num = 0     
+                for i in length :
+                    if i > 1 : 
+                        num += 1
+                connected_components = max(nx.connected_components(G), key=len)
+                return num, connected_components
 
             def get_eccentricity(network):
                 return  nx.eccentricity(network)
+            
           
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
             network_dic['number_of_edges'] = get_number_edges(network)
+            network_dic['number_of_connected_components'], network_dic['Connected Components'] = get_connected_components(network)
             #network_dic['eccentricity'] = get_eccentricity(network)
         
         get_info(self.graph_year,self.year_info)

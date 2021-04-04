@@ -21,7 +21,7 @@ def get_degree_distribution(network, title):
         l2.append(hist[i])
 
     p = figure(title=title, plot_width=400, plot_height=400,
-               y_axis_type="log", x_axis_type="log")
+               y_axis_type="log", x_axis_type="log", toolbar_location = None)
     p.line(l1, l2, line_width=2)
     return p
 
@@ -37,7 +37,7 @@ def generate_year_graph(network, title="Years"):
                       ("Betweenness Centrality", "@betweenness"),
                       ("Clustering Coefficient", "@clustering")]
 
-    plot = figure(tooltips=HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
+    plot = figure(tooltips=HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',toolbar_location = None,
                   x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
 
     network_graph = from_networkx(
@@ -63,7 +63,8 @@ def generate_tab_year(graphs):
             <ul>
                 <li>Number of Edges: {temp.year_info['number_of_edges']}</li>
                 <li>Average Clustering Coefficient : {temp.year_info['average_clustering_coefficient']}</li>
-                <li>Average Degree : {temp.year_info['average_degree']}</li>                
+                <li>Average Degree : {temp.year_info['average_degree']}</li>    
+                <li>Number of Connected Components: {temp.year_info['number_of_connected_components']}</li>                
             </ul>
             </div>
             """
@@ -80,12 +81,17 @@ def generate_tab_year(graphs):
     div = Div(text=text, width=500, height=100)
     tabs = []
 
+    def get_second_row(temp):
+        collaboration = generate_year_graph(temp.graph_previous_years, f"Collaborations from 2000 to {i}")
+        
+
+        return row
+
+
     for i in range(2000, 2021):
         temp = graphs[i]
         row_1 = get_first_row(temp)
-
-        grid = layout([row_1, generate_year_graph(
-            temp.graph_previous_years, f"Collaborations from 2000 to {i}")])
+        grid = layout([row_1, ])
         tabs.append(Panel(child=grid, title=str(i)))
 
     tab = Tabs(tabs=tabs)
@@ -98,10 +104,11 @@ def generate_faculty(Faculty, name):
     def get_network_plot(network, title):
 
         HOVER_TOOLTIPS = [("Faculty", "@index")]
+        
 
-        plot = figure(tooltips=HOVER_TOOLTIPS,tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',
+        plot = figure(tooltips=HOVER_TOOLTIPS,tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom', toolbar_location = None,
                       x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
-                      
+           
         network_graph = from_networkx(
             network, nx.spring_layout, scale=10, center=(0, 0))
         network_graph.node_renderer.glyph = Circle()
