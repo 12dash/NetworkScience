@@ -55,7 +55,11 @@ def generate_year_graph(network, title="Years"):
 
 def generate_giant_componnet(network, title = "Largest Giant Component"):
     plot = figure(toolbar_location = None, x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
-    network_graph = from_networkx( network, nx.spring_layout, scale=10, center=(0, 0))
+    network_graph = from_networkx(network, nx.spring_layout, scale=10, center=(0, 0))
+    network_graph.node_renderer.glyph = Circle()
+    network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
+    plot.renderers.append(network_graph)
+    return plot
 
 def generate_tab_year(graphs):
     def get_first_row(temp):
@@ -86,16 +90,14 @@ def generate_tab_year(graphs):
 
     def get_second_row(temp):
         collaboration = generate_year_graph(temp.graph_previous_years, f"Collaborations from 2000 to {i}")
-
-        
-        return row([collaboration])
-
+        giant_component = generate_giant_componnet(temp.year_info['connected_components'][0])        
+        return row([collaboration, giant_component])
 
     for i in range(2000, 2021):
         temp = graphs[i]
         row_1 = get_first_row(temp)
         row_2 = get_second_row(temp)
-        grid = layout([row_1, ])
+        grid = layout([row_1, row_2 ])
         tabs.append(Panel(child=grid, title=str(i)))
 
     tab = Tabs(tabs=tabs)
@@ -124,7 +126,6 @@ def generate_faculty(Faculty, name):
     tabs = []
 
     for i in range(2000, 2021):
-
         grid = row([get_network_plot(Faculty.graph_years[i], f"Collaborations in {i} from SCSE"), get_network_plot(
             Faculty.graph_years_all[i], f"Collaborations in {i} from all the papers")])
         tabs.append(Panel(child=grid, title=str(i)))
