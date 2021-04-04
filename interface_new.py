@@ -54,8 +54,8 @@ def generate_year_graph(network, title="Years"):
     return plot
 
 def generate_giant_componnet(network, title = "Largest Giant Component"):
-    plot = figure(toolbar_location = None,   x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
-
+    plot = figure(toolbar_location = None, x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
+    network_graph = from_networkx( network, nx.spring_layout, scale=10, center=(0, 0))
 
 def generate_tab_year(graphs):
     def get_first_row(temp):
