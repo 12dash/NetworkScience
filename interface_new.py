@@ -166,16 +166,15 @@ def startingHtml():
     div = Div(text=text, width=500, height=100)
     return div
 
-def overall_information_graphs(Year_Graph ):
+def overall_information_graphs(year_data):
     def get_average_degree_plot(title = "Average Degree"):
         l1 = []
         l2 = []
         for i in range(2000,2021):
             l1.append(i)
-            l2.append(Year_Graph[i].year_info['average_degree'])
-        p = figure(title=title, plot_width=400, plot_height=400,
-               y_axis_type="log", x_axis_type="log", toolbar_location = None)
-        p.vbar(x = l1, top = l2, line_width=2)
+            l2.append(year_data[i].year_info['average_degree'])
+        p = figure(title=title, plot_width=1000, plot_height=400, toolbar_location = None)
+        p.line(l1, l2, line_width=2)
         return p
 
     def get_average_clustering_plot(title = "Average Clustering Coefficient"):
@@ -183,14 +182,14 @@ def overall_information_graphs(Year_Graph ):
         l2 = []
         for i in range(2000,2021):
             l1.append(i)
-            l2.append(Year_Graph[i].year_info['average_clustering_coefficient'])
-        p = figure(title=title, plot_width=400, plot_height=400,
-               y_axis_type="log", x_axis_type="log", toolbar_location = None)
-        p.vbar(x = l1, top = l2, line_width=2)
+            l2.append(year_data[i].year_info['average_clustering_coefficient'])
+        p = figure(title=title, plot_width=1000, plot_height=400, toolbar_location = None)
+        p.line(l1, l2, line_width=2)
         return p
 
     t1 = get_average_degree_plot()
     t2 = get_average_clustering_plot()
+
     return layout([t1,t2])
     
 
