@@ -53,6 +53,9 @@ def generate_year_graph(network, title="Years"):
 
     return plot
 
+def generate_giant_componnet(network, title = "Largest Giant Component"):
+    
+
 
 def generate_tab_year(graphs):
     def get_first_row(temp):
@@ -84,7 +87,6 @@ def generate_tab_year(graphs):
     def get_second_row(temp):
         collaboration = generate_year_graph(temp.graph_previous_years, f"Collaborations from 2000 to {i}")
         
-
         return row
 
 
