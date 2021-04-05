@@ -76,15 +76,22 @@ class Year:
                         connected_components_list.append(temp) 
                 return num, connected_components_list
 
-            def get_eccentricity(network):
-                return  nx.eccentricity(network)
-            
-          
+            def get_dist(network):
+                average=[]
+                for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
+                    average.append(nx.average_shortest_path_length(C))
+                sum=0
+                for i in range(len(average)):
+                    if average[i]!=0:
+                        sum+=average[i]
+                        count=network_dic['number_of_connected_components']
+                return sum/count
+
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
             network_dic['number_of_edges'] = get_number_edges(network)
             network_dic['number_of_connected_components'], network_dic['connected_components'] = get_connected_components(network)
-            #network_dic['eccentricity'] = get_eccentricity(network)
+            network_dic['avg_dist'] = get_dist(network)
         
         get_info(self.graph_year,self.year_info)
         get_info(self.graph_previous_years,self.previous_year_info)
