@@ -98,11 +98,7 @@ class Year:
                 return sorted(network.degree, key=lambda x: x[1], reverse=True)
 
             def get_density(network):
-                density=0
-                for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
-                    density+=nx.density(C)
-                count = network_dic['number_of_connected_components']
-                return density/count
+                return nx.density(network)
 
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
