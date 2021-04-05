@@ -69,13 +69,12 @@ def generate_tab_year(graphs):
             <h4>Network Properties</h4>
             <ul>
                 <li>Number of Edges: {temp.year_info['number_of_edges']}</li>
+                <li>Faculty with most edges: {temp.year_info['most_edge_faculty']}</li>
                 <li>Mean Shortest Path Length: {temp.year_info['avg_dist']}</li>
                 <li>Average Clustering Coefficient : {temp.year_info['average_clustering_coefficient']}</li>
                 <li>Average Degree : {temp.year_info['average_degree']}</li>    
                 <li>Number of Connected Components: {temp.year_info['number_of_connected_components']}</li> 
-                <li>Faculty with most edges: {temp.year_info['most_edge_faculty']}</li>
-                <li>Density: {temp.year_info['density']}</li>   
-                             
+                <li>Density: {temp.year_info['density']}</li>                            
             </ul>
             </div>
             """
