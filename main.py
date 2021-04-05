@@ -1,6 +1,6 @@
 from preprocess import fetch_faculty
 from faculty import Year, Faculty
-from interface_new import show_html
+from interface import show_html
 import argparse
 
 if __name__ == "__main__":
