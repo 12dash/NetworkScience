@@ -92,10 +92,15 @@ class Year:
                 for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
                     if len(C)>3:
                         sigma=nx.sigma(C, niter=1, nrand=1, seed=0)
-                return sigma
+                print (sigma)
 
             def get_most_edge_faculty(network):
-                return sorted(network.degree, key=lambda x: x[1], reverse=True)[0]
+                return sorted(network.degree, key=lambda x: x[1], reverse=True)
+
+            def get_density(network):
+                for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
+                    density = nx.density(network)
+                return density
 
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
@@ -104,6 +109,7 @@ class Year:
             network_dic['avg_dist'] = get_dist(network)
             network_dic['most_edge_faculty'] = get_most_edge_faculty(network)
             #network_dic['smallworld_sigma'] = get_smallworld_sigma(network)
+            network_dic['density'] = get_density(network)
 
         
         get_info(self.graph_year,self.year_info)
