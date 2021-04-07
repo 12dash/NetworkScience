@@ -1,5 +1,5 @@
 import csv
-
+import operator
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy
@@ -63,7 +63,9 @@ class Year:
                 return nx.average_clustering(network)
 
             def get_global_clustering(network):
-                return nx.clustering(network)
+                d = nx.clustering(network)
+                temp = dict( sorted(d.items(), key=operator.itemgetter(1),reverse=True))
+                return temp
 
             def get_number_edges(network):
                 '''

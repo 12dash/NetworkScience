@@ -67,6 +67,22 @@ def generate_giant_componnet(network, title = "Giant Components"):
     return plot
 
 def generate_tab_year(graphs): 
+    def get_table(first_col,second_col, third_col, clustering, edge_faculty ):
+        data = {first_col:[],second_col:[],third_col:[]}
+        for i in edge_faculty:
+            data[first_col].append(i[0])
+            data[second_col].append(i[1])
+        
+        for i in data[first_col]:
+            data[third_col].append(clustering[i])
+        source = ColumnDataSource(data)
+        columns = [TableColumn(field=first_col, title=first_col),
+                TableColumn(field=second_col, title=second_col),
+                TableColumn(field=third_col, title=third_col)]
+        data_table = DataTable(source=source, columns=columns, width=400, height=280)
+        return data_table
+
+
     def get_div():
             text = f"""
             <div>
@@ -78,25 +94,13 @@ def generate_tab_year(graphs):
                 <li>Average Degree : {temp.year_info['average_degree']}</li>    
                 <li>Number of Connected Components: {temp.year_info['number_of_connected_components']}</li> 
                 <li>Density: {temp.year_info['density']}</li>               
-                <li>Faculty with most edges: {temp.year_info['most_edge_faculty']}</li> 
             </ul>
             </div>
             """
-            data = {'faculty': [], 'value': []}
-            for i in temp.year_info['global_clustering']:
-                data['faculty'].append(i)
-                data['value'].append(temp.year_info['global_clustering'][i])
             div = Div(text=text, width=500, height=100)
+            table = get_table("Faculty","Most Edge Faculty", "Global Clustering Coefficient", temp.year_info['global_clustering'],  temp.year_info['most_edge_faculty'])
 
-            source = ColumnDataSource(data)
-
-            columns = [
-                TableColumn(field="faculty", title="Professor"),
-                TableColumn(field="value", title="Global Clustering")
-            ]
-            data_table = DataTable(source=source, columns=columns, width=400, height=280)
-
-            return layout([[div],[data_table]])
+            return layout([[div],[table]])
 
     def get_first_row(temp):       
 
