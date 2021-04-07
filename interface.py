@@ -2,6 +2,8 @@ from bokeh.io import output_notebook, show, save
 from bokeh.models import Range1d, Circle, ColumnDataSource, MultiLine, EdgesAndLinkedNodes, NodesAndLinkedEdges, LabelSet, Div, CustomJS, TextInput, RadioButtonGroup
 from bokeh.plotting import figure, from_networkx
 from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral8
+from bokeh.models import ColumnDataSource
+from bokeh.models.widgets import DataTable, DateFormatter, TableColumn
 from bokeh.transform import linear_cmap
 from bokeh.models.widgets import Tabs, Panel
 from bokeh.layouts import row, layout
@@ -9,17 +11,19 @@ from bokeh.layouts import row, layout
 from collections import Counter
 
 import networkx as nx
+import pandas as pd
 
 def get_degree_distribution(network, title):
     degree = [i[1] for i in nx.degree(network)]
     values = sorted(degree)
     hist = Counter(values)
+    total = network.number_of_nodes()
     l1 = []
     l2 = []
     for i in hist:
         l1.append(i)
         l2.append(hist[i])
-
+    l2 = [i/total for i in l2]
     p = figure(title=title, plot_width=400, plot_height=400,
                y_axis_type="log", x_axis_type="log", toolbar_location = None)
     p.line(l1, l2, line_width=2)
@@ -78,8 +82,21 @@ def generate_tab_year(graphs):
             </ul>
             </div>
             """
+            data = {'faculty': [], 'value': []}
+            for i in temp.year_info['global_clustering']:
+                data['faculty'].append(i)
+                data['value'].append(temp.year_info['global_clustering'][i])
             div = Div(text=text, width=500, height=100)
-            return div
+
+            source = ColumnDataSource(data)
+
+            columns = [
+                TableColumn(field="faculty", title="Professor"),
+                TableColumn(field="value", title="Global Clustering")
+            ]
+            data_table = DataTable(source=source, columns=columns, width=400, height=280)
+
+            return layout([[div],[data_table]])
 
     def get_first_row(temp):       
 

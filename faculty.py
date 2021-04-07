@@ -1,6 +1,9 @@
+import csv
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy
+import pandas
 
 NAMES = None
 FACULTY = None
@@ -50,15 +53,17 @@ class Year:
     def set_information(self):
 
         def get_info(network, network_dic):
-
             def get_average_degree(network):
                 degrees = [i[1] for i in (network.degree())]
                 degrees = sum(degrees)
                 avg_degree = degrees/(network.number_of_nodes())
                 return avg_degree
-            
+
             def get_average_clustering(network):
-                return nx.average_clustering(network)          
+                return nx.average_clustering(network)
+
+            def get_global_clustering(network):
+                return nx.clustering(network)
 
             def get_number_edges(network):
                 '''
@@ -86,6 +91,7 @@ class Year:
                     if average[i]!=0:
                         sum+=average[i]
                 count=network_dic['number_of_connected_components']
+
                 return sum/count
 
             def get_smallworld_sigma(network):
@@ -108,6 +114,7 @@ class Year:
             network_dic['most_edge_faculty'] = get_most_edge_faculty(network)
             #network_dic['smallworld_sigma'] = get_smallworld_sigma(network)
             network_dic['density'] = get_density(network)
+            network_dic['global_clustering'] = get_global_clustering(network)
 
         get_info(self.graph_year,self.year_info)
         get_info(self.graph_previous_years,self.previous_year_info)
