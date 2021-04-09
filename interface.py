@@ -13,6 +13,7 @@ from collections import Counter
 import networkx as nx
 import pandas as pd
 
+
 def get_degree_distribution(network, title):
     degree = [i[1] for i in nx.degree(network)]
     values = sorted(degree)

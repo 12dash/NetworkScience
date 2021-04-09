@@ -57,14 +57,14 @@ class Year:
                 degrees = [i[1] for i in (network.degree())]
                 degrees = sum(degrees)
                 avg_degree = degrees/(network.number_of_nodes())
-                return avg_degree
+                return round(avg_degree,2)
 
             def get_average_clustering(network):
-                return nx.average_clustering(network)
+                return round(nx.average_clustering(network),2)
 
             def get_global_clustering(network):
                 d = nx.clustering(network)
-                temp = dict( sorted(d.items(), key=operator.itemgetter(1),reverse=True))
+                temp = dict(sorted(d.items(), key=operator.itemgetter(1),reverse=True))
                 return temp
 
             def get_number_edges(network):
@@ -88,13 +88,11 @@ class Year:
                 average=[]
                 for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
                     average.append(nx.average_shortest_path_length(C))
-                sum=0
+                dist_connected=[]
                 for i in range(len(average)):
-                    if average[i]!=0:
-                        sum+=average[i]
-                count=network_dic['number_of_connected_components']
-
-                return sum/count
+                    if average[i] != 0:
+                        dist_connected.append(round(average[i],2))
+                return sorted(dist_connected, reverse=True)
 
             def get_smallworld_sigma(network):
                 for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
@@ -106,7 +104,7 @@ class Year:
                 return sorted(network.degree, key=lambda x: x[1], reverse=True)
 
             def get_density(network):
-                return nx.density(network)
+                return round(nx.density(network),2)
 
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
