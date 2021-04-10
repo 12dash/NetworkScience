@@ -104,7 +104,6 @@ def generate_tab_year(graphs):
             return layout([[div],[table]])
 
     def get_first_row(temp):       
-
         year_collab = generate_year_graph(
             temp.graph_year, f"Collaborations in {i}")
         degree_distribution = get_degree_distribution(

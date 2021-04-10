@@ -131,7 +131,6 @@ class Year:
         return
 
     def add_properties_network(self):
-
         def get_graph_properties(network):
             degrees = dict(nx.degree(network))
             betweenness_centrality = nx.betweenness_centrality(network)
@@ -146,11 +145,15 @@ class Year:
             adjusted_node_size = dict([(node, degree+number_to_adjust_by) for node, degree in nx.degree(network)])
             nx.set_node_attributes(network, name='adjusted_node_size', values=adjusted_node_size)
 
+            pos = nx.spring_layout(network, scale = 2)
+            for node in network.nodes:
+                network.nodes[node]['pos'] = list(pos[node])
+            
             return
 
         get_graph_properties(self.graph_year)
         get_graph_properties(self.graph_previous_years)
-
+        
         return
 
 
@@ -185,5 +188,4 @@ class Faculty:
         
         for i in range(2000,2021):
             build_graph(i)
-
         return
