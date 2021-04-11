@@ -39,8 +39,7 @@ class PositionGraph:
         
         self.nodes=[]
         self.edges=[]
-        
-        posnodes=[]
+
         
         for x in faculty:
             if(faculty[x].position==PositionGraph.target):
@@ -51,7 +50,7 @@ class PositionGraph:
             
             for y in p:
                 for a in y.authors:
-                    if(a in names):
+                    if(a in self.nodes):
                         self.edges.append((x,a))
                         
         
