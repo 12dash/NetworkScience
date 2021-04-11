@@ -3,7 +3,7 @@ import operator
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy
-import pandas
+import pandas as pd
 
 NAMES = None
 FACULTY = None
@@ -189,3 +189,43 @@ class Faculty:
         for i in range(2000,2021):
             build_graph(i)
         return
+
+class FacultySubset:
+    def __init__(self, names):
+        self.names = names
+        self.graph_years = {}
+        self.graph_years_all={}
+        self.generate_graph_years()
+
+    def generate_graph_years(self):
+        def build_graph(year):
+            graph = nx.Graph()
+            graph_all = nx.Graph() 
+            
+            NAMES = pd.read_csv("Faculty.csv")['Faculty'].to_list()
+            
+            graph.add_nodes_from(NAMES)
+            for i in graph.nodes():
+                if i in self.names:
+                    graph.nodes[i]['color'] = "#0033cc"
+                else:
+                    graph.nodes[i]['color'] = "#666666"
+
+            for faculty in self.names:
+                for paper in FACULTY[faculty].papers:
+                    if paper.year == year:
+                        for author in paper.authors:
+                            if (author != faculty) and not(graph.has_edge(faculty, author)) and not(graph.has_edge(author,faculty)):
+                                graph_all.add_edge(faculty, author)
+                                if (author in NAMES):
+                                    graph.add_edge(faculty, author)
+ 
+            self.graph_years[year] = graph 
+            self.graph_years_all[year] = graph_all        
+
+            return
+        
+        for i in range(2000,2021):
+            build_graph(i)
+        return
+

@@ -1,231 +1,299 @@
-from bokeh.io import output_notebook, show, save
-from bokeh.models import Range1d, Circle, ColumnDataSource, MultiLine, EdgesAndLinkedNodes, NodesAndLinkedEdges, LabelSet, Div, CustomJS, TextInput, RadioButtonGroup
-from bokeh.plotting import figure, from_networkx
-from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral8
-from bokeh.models import ColumnDataSource
-from bokeh.models.widgets import DataTable, DateFormatter, TableColumn
-from bokeh.transform import linear_cmap
-from bokeh.models.widgets import Tabs, Panel
-from bokeh.layouts import row, layout
+import dash
+import dash_bootstrap_components as dbc
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import dash_cytoscape as cyto
+import plotly.express as px
 
 from collections import Counter
-
 import networkx as nx
 import pandas as pd
 
+from faculty import FacultySubset
 
-def get_degree_distribution(network, title):
-    degree = [i[1] for i in nx.degree(network)]
-    values = sorted(degree)
-    hist = Counter(values)
-    total = network.number_of_nodes()
-    l1 = []
-    l2 = []
-    for i in hist:
-        l1.append(i)
-        l2.append(hist[i])
-    l2 = [i/total for i in l2]
-    p = figure(title=title, plot_width=400, plot_height=400,
-               y_axis_type="log", x_axis_type="log", toolbar_location = None)
-    p.line(l1, l2, line_width=2)
-    return p
+app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
+cyto.load_extra_layouts()
 
+SIDEBAR_STYLE = {
+    "position": "fixed",
+    "top": 0,
+    "left": 0,
+    "bottom": 0,
+    "width": "18rem",
+    "padding": "2rem 1rem",
+    "background-color": "#f8f9fa",
+}
 
-def generate_year_graph(network, title="Years"):
+CONTENT_STYLE = {
+    "margin-left": "18rem",
+    "margin-right": "2rem",
+    "padding": "2rem 1rem",
+}
 
-    size_by_this_attribute = 'adjusted_node_size'
-    color_by_this_attribute = 'adjusted_node_size'
+CONNECTED_COMPONENTS_STYLE = {
+        'width': "300px",
+        'height': "300px"
+    }
 
-    color_palette = Viridis8
+YEAR_GRAPH_STYLESHEET = [{
+    'selector': 'node',
+    'style': {
+        'width': "data(size)",
+        'height': "data(size)"
+    }
+}]
 
-    HOVER_TOOLTIPS = [("Faculty", "@index"), ("Degree", "@degree"),
-                      ("Betweenness Centrality", "@betweenness"),
-                      ("Clustering Coefficient", "@clustering")]
+FACULTY_GRAPH_STYLESHEET =[{
+    'selector': 'node',
+    'style': {
+        'background-color': "data(color)"
+    }
+}]
 
-    plot = figure(tooltips=HOVER_TOOLTIPS, tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom',toolbar_location = None,
-                  x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
+YEAR = {}
+OVERALL_GRAPHS = {}
+FACULTY_SUBSET = None
 
-    network_graph = from_networkx(
-        network, nx.spring_layout, scale=10, center=(0, 0))
-    minimum_value_color = min(
-        network_graph.node_renderer.data_source.data[color_by_this_attribute])
-    maximum_value_color = max(
-        network_graph.node_renderer.data_source.data[color_by_this_attribute])
-    network_graph.node_renderer.glyph = Circle(size=size_by_this_attribute, fill_color=linear_cmap(
-        color_by_this_attribute, color_palette, minimum_value_color, maximum_value_color))
-    network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
-    plot.renderers.append(network_graph)
+def initialize_layout():
+    '''
+    Method to intialize the layout for the app including the sidebar and the creation of the div on the right
+    '''
 
-    return plot
+    global app
 
-def generate_giant_componnet(network, title = "Giant Components"):
-    HOVER_TOOLTIPS = [("Faculty", "@index")]
-    plot = figure(tooltips = HOVER_TOOLTIPS, toolbar_location = None, x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
-    network_graph = from_networkx(network, nx.spring_layout, scale=10, center=(0, 0))
-    network_graph.node_renderer.glyph = Circle()
-    network_graph.edge_renderer.glyph = MultiLine(line_alpha=0.5, line_width=1)
-    plot.renderers.append(network_graph)
-    return plot
-
-def generate_tab_year(graphs): 
-    def get_table(first_col,second_col, third_col, clustering, edge_faculty ):
-        data = {first_col:[],second_col:[],third_col:[]}
-        for i in edge_faculty:
-            data[first_col].append(i[0])
-            data[second_col].append(i[1])
+    def createSidebar():
+        '''
+        Generates the Sidebar and Specifies the links to the different pages
+        '''
+        sidebar = html.Div(
+            [
+                html.H2("Network Science", className="display-5"),
+                html.Hr(),
+                html.P(
+                    "Analysis on the collaboration of the SCSE Faculties", className="lead"
+                ),
+                dbc.Nav(
+                    [
+                        dbc.NavLink("Home", href="/", active="exact"),
+                        dbc.NavLink("Yearly Analysis", href="/year", active="exact"),
+                        dbc.NavLink("Faculty Analysis", href="/faculty_analysis", active="exact"),
+                        dbc.NavLink("Overall Information", href="/overall", active="exact"),
+                    ],
+                    vertical=True,
+                    pills=True,
+                ),
+            ],
+            style=SIDEBAR_STYLE,
+        )
+        return sidebar
         
-        for i in data[first_col]:
-            data[third_col].append(clustering[i])
-        source = ColumnDataSource(data)
-        columns = [TableColumn(field=first_col, title=first_col),
-                TableColumn(field=second_col, title=second_col),
-                TableColumn(field=third_col, title=third_col)]
-        data_table = DataTable(source=source, columns=columns, width=400, height=280)
-        return data_table
+    sidebar = createSidebar()
+    content = html.Div(id="page-content", style=CONTENT_STYLE)
+    app.layout = html.Div([dcc.Location(id="url"), sidebar, content])
+    return
 
+def generateGraph(G, cytoscape_id, nodes_data = None, size = "600px", stylesheet = None, layout ='cose-bilkent'):
+    def getNodes():
+        nodes = []
+        for node in G.nodes():
+            temp = {'id' : node, 'label' : node}
+            if nodes_data != None:
+                for i in nodes_data:
+                    if i == 'size':
+                        temp[i] = f"{G.nodes[node]['degree']*5 + 5}%"
+                    else:
+                        temp[i] = G.nodes[node][i]
+            nodes.append({'data':temp})
+        return nodes
 
-    def get_div():
-            text = f"""
-            <div>
-            <h4>Network Properties</h4>
-            <ul>
-                <li>Number of Edges: {temp.year_info['number_of_edges']}</li>
-                <li>Mean Shortest Path Length: {temp.year_info['avg_dist']}</li>
-                <li>Average Clustering Coefficient : {temp.year_info['average_clustering_coefficient']}</li>
-                <li>Average Degree : {temp.year_info['average_degree']}</li>    
-                <li>Number of Connected Components: {temp.year_info['number_of_connected_components']}</li> 
-                <li>Density: {temp.year_info['density']}</li>               
-            </ul>
-            </div>
-            """
-            div = Div(text=text, width=500, height=100)
-            table = get_table("Faculty","Most Edge Faculty", "Global Clustering Coefficient", temp.year_info['global_clustering'],  temp.year_info['most_edge_faculty'])
-
-            return layout([[div],[table]])
-
-    def get_first_row(temp):       
-        year_collab = generate_year_graph(
-            temp.graph_year, f"Collaborations in {i}")
-        degree_distribution = get_degree_distribution(
-            temp.graph_year, "Degree Distribution")
-        return row([year_collab, degree_distribution])
-
-    text = """<h3>Collaboration over years</h3><hr/>"""
-    div = Div(text=text, width=500, height=100)
-    tabs = []
-
-    def connect_tabs(temp):
-        components = []
-        for i in temp.year_info['connected_components']:
-            components.append(generate_giant_componnet(i) )
-        lay = []
-        temp = []
-        for i in range(len(components)):   
-            temp.append(components[i])         
-            if (i+1)%3 == 0:
-                lay.append(temp)
-                temp = []           
-        giant_component = layout(lay)
-        return giant_component
-
-
-    for i in range(2000, 2021):
-        temp = graphs[i]
-        stuff = []
-        year_tab = Panel(child = get_first_row(temp), title = "Year Analysis")
-        info_tab = Panel(child = get_div(), title = "Information")
-        connected_component_tab = Panel(child = connect_tabs(temp), title = "Connected Componnents")    
-        till_now  = Panel(child =  generate_year_graph(temp.graph_previous_years, f"Collaborations from 2000 to {i}"), title = "Cummalative Collaboration")  
-        grid = Tabs(tabs=[year_tab, info_tab, connected_component_tab])
-        tabs.append(Panel(child=grid, title=str(i)))
-
-    tab = Tabs(tabs=tabs)
-    disp = layout([div, tab])
-
-    return disp
-
-
-def generate_faculty(Faculty, name):
-    def get_network_plot(network, title):
-
-        HOVER_TOOLTIPS = [("Faculty", "@index")]
-        
-        plot = figure(tooltips=HOVER_TOOLTIPS,tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom', toolbar_location = None,
-                      x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)
-           
-        network_graph = from_networkx(
-            network, nx.spring_layout, scale=10, center=(0, 0))
-        network_graph.node_renderer.glyph = Circle()
-        network_graph.edge_renderer.glyph = MultiLine(
-            line_alpha=0.5, line_width=1)
-        plot.renderers.append(network_graph)
-        return plot
-
-    tabs = []
-
-    for i in range(2000, 2021):
-        grid = row([get_network_plot(Faculty.graph_years[i], f"Collaborations in {i} from SCSE"), get_network_plot(
-            Faculty.graph_years_all[i], f"Collaborations in {i} from all the papers")])
-        tabs.append(Panel(child=grid, title=str(i)))
-
-    text = f"""<h3>Collaboration for {name}</h3><hr/>"""
-    div = Div(text=text, width=500, height=100)
-
-    tab = Tabs(tabs=tabs)
-    disp = layout([div, tab])
-
-    return disp
-
-
-def startingHtml():
-    text = """<h1>Network Science</h1>
-    <div>
-    In an attempt to understand the collaboration between the different professors.
-    This page contains : 
-    <ul>
-        <li>Network Graph for collaboration between different professors in SCSE from 2000</li>  
-        <li>Graph and information regarding a particular professor</li>  
-    <ul/>  
-    </div>"""
-    div = Div(text=text, width=500, height=100)
-    return div
-
-def overall_information_graphs(year_data):
-    def get_average_degree_plot(title = "Average Degree"):
-        l1 = []
-        l2 = []
-        for i in range(2000,2021):
-            l1.append(i)
-            l2.append(year_data[i].year_info['average_degree'])
-        p = figure(title=title, plot_width=1000, plot_height=400, toolbar_location = None)
-        p.line(l1, l2, line_width=2)
-        return p
-
-    def get_average_clustering_plot(title = "Average Clustering Coefficient"):
-        l1 = []
-        l2 = []
-        for i in range(2000,2021):
-            l1.append(i)
-            l2.append(year_data[i].year_info['average_clustering_coefficient'])
-        p = figure(title=title, plot_width=1000, plot_height=400, toolbar_location = None)
-        p.line(l1, l2, line_width=2)
-        return p
-
-    t1 = get_average_degree_plot()
-    t2 = get_average_clustering_plot()
-
-    return layout([t1,t2])
+    def getEdges():
+        edges = []
+        for edge in G.edges():                
+            edges.append({
+                'data' : {'source':edge[0],'target':edge[1]}
+            })
+        return edges
     
+    nodes, edges = getNodes(), getEdges()
 
-def show_html(Year_Graph, name=None, Faculty=None):
-    years_scse = generate_tab_year(Year_Graph)
-    faculty = generate_faculty(Faculty, name)
-    properties = overall_information_graphs(Year_Graph)
-    panel_list = []
-    panel_list.append(Panel(child = years_scse, title = "Year Wise Analysis"))
-    panel_list.append(Panel(child = faculty, title = "Faculty Collaborations"))
-    panel_list.append(Panel(child = properties, title = "Analysis"))
-    tab = Tabs(tabs = panel_list)
-    l = [startingHtml(), tab]
-    disp = layout(l)
-    show(disp)
+    graph = cyto.Cytoscape(
+            id=cytoscape_id,
+            layout={'name': layout},
+            style = {'width':size, 'height':size},
+            elements=edges+nodes,
+            stylesheet=stylesheet)
+    return graph
+
+@app.callback(Output('cytoscape-mouseoverNodeData-output', 'children'),Input('year-graph', 'mouseoverNodeData'))
+def displayTapNodeData(data):    
+    temp = None
+    if data:       
+        temp =  html.Div([
+                    html.H3(data['label']),
+                    html.Ul([
+                        html.Li(f"Betweeness : { data['betweenness']}"),
+                        html.Li(f"Degree : { data['degree']}"),
+                        html.Li(f"Clustering Coefficient : { data['clustering']}")])
+                ])
+        
+    return temp
+
+def buildYearContent(Year):
+
+    network = Year.graph_year
+
+    INFORMATION = {
+        'No. of Edges' : 'number_of_edges',
+        'Average Degree' : 'average_degree',
+        'Avg Clustering Coefficient' : 'average_clustering_coefficient',
+        'Avg Shortest Path Length' : 'avg_dist',
+        'Density' : 'density',
+        'No. of Connected Components' : 'number_of_connected_components'
+    }
+
+    def build_table():
+        table_header = [html.Thead(html.Tr([html.Th("Name"), html.Th("Value")]))]
+        l = []
+        for i in INFORMATION:
+            l.append(html.Tr([html.Td(i), html.Td(Year.year_info[INFORMATION[i]])]))
+        table_body = [html.Tbody(l)]
+        table = dbc.Table(  table_header + table_body, bordered=True, dark=True,  hover=True,responsive=True, striped=True)
+        return table
+
+    def getDegreeDistribution():
+        hist = Counter(sorted([i[1] for i in nx.degree(network)]))     
+        total = network.number_of_nodes()
+        l1, l2 = [], []
+        for i in hist:
+            l1.append(i)
+            l2.append(hist[i]/total)
+        df = pd.DataFrame.from_dict({'Degree' : l1, 'Probability' : l2})        
+        fig = px.line(df, x="Degree", y="Probability", title='Degree Distribution', log_y=True)
+        return dcc.Graph(figure = fig)    
+
+    def buildYearGraph():
+        nodes_data =['size','betweenness','degree','clustering']
+        network_graph = generateGraph(network,"year-graph",nodes_data = nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
+        return network_graph
+
+    def buildConnectedComponent():
+        l = []
+        for i in Year.year_info['connected_components']:
+            l.append(generateGraph(i,"connected-components",size = "300px", layout = 'circle'))        
+        return html.Div(dbc.Row(l))
+
+    output_list = [
+        html.H5('Information'),
+        build_table(),
+        html.H5("Year Graph"),        
+        dbc.Row(
+            [dbc.Col(buildYearGraph()),dbc.Col(html.P(id='cytoscape-mouseoverNodeData-output'))],
+            justify="center",align="center"),        
+        html.H5("Probability Degree Distribution"),
+        getDegreeDistribution(),
+        html.H5("Connected Components"),        
+        buildConnectedComponent()]
+    
+    return html.Div(output_list)
+
+def buildYear(year):
+    global YEAR
+    for i in range(2000,2022):
+        YEAR[i] = buildYearContent(year[int(i)])
+    return
+
+def buildOverall(year):
+    
+    global OVERALL_GRAPHS
+
+    def getPlot(name, y_axis, title):
+        l1 = [i for i in range(2000,2022)]
+        l2 = [year[i].year_info[name] for i in range(2000,2022)]        
+        df = pd.DataFrame.from_dict({'Year' : l1, name : l2 })
+        fig = px.line(df, x="Year", y=name, title=title)
+        return dcc.Graph(figure = fig)
+    
+    OVERALL_GRAPHS['Average Degree'] = getPlot('average_degree','Average Degree','Average Degree over the years')
+    OVERALL_GRAPHS['Average Clustering Coefficient'] = getPlot('average_clustering_coefficient','Average Clustering Coefficient','Average Clustering Coefficient over the years')
+
+    return 
+
+def contentHomePage():
+    return 
+
+def contentYearPage():
+    option = [{"label" : i, "value" : i} for i in range(2000,2022)]
+    return (
+        html.Div([
+        html.Label('Year'),
+        dcc.Dropdown(
+            id="year_id",
+            options=option,
+            value='2000'
+        ), html.Div(id="yearContent")]))
+
+def facultyContent():
+
+    year_option = [{'label':i,'value':i} for i in range(2000,2022)]
+    option = []
+
+    for i in pd.read_csv("Faculty.csv")['Faculty'].to_list():
+        option.append({'label':i,'value':i})
+
+    return html.Div([
+        dcc.Dropdown(id="Faculty",options=option, value='MTL', multi=True, placeholder="Select the set of faculty"), 
+        dcc.Dropdown(id="year_id_faculty_subset", options=year_option, value='2000',placeholder = "Select the year"),
+        html.Button('Submit', id='submit-val', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Div(id="faculty-subset")
+    ])
+
+
+
+def createOverallPage():
+    global OVERALL_GRAPHS
+    return html.Div([
+        OVERALL_GRAPHS['Average Degree'],OVERALL_GRAPHS['Average Clustering Coefficient']
+    ])
+
+@app.callback(Output("yearContent","children"),Input("year_id","value"))
+def render_year_graph(value):
+    return YEAR[int(value)]
+
+click = -1
+@app.callback(Output("faculty-subset","children"), [Input("Faculty","value"), Input("submit-val", "n_clicks"), Input("year_id_faculty_subset","value")])
+def render_faculty(value, n_clicks, year_value):  
+    
+    global FACULTY_SUBSET
+    global click
+
+    if n_clicks != click:
+        faculty = FacultySubset(value)    
+        FACULTY_SUBSET =  generateGraph(faculty.graph_years[int(year_value)], "faculty-subset-graph",nodes_data = ['color'], stylesheet=FACULTY_GRAPH_STYLESHEET)  
+        click = n_clicks   
+    return FACULTY_SUBSET
+
+@app.callback(Output("page-content", "children"), [Input("url", "pathname")])
+def render_page_content(pathname):
+    if pathname == "/":
+        return contentHomePage()
+    elif pathname == "/year":
+        return contentYearPage()
+    elif pathname == "/faculty_analysis":
+        return facultyContent()
+    elif pathname == "/overall":
+        return createOverallPage()
+    return dbc.Jumbotron(
+        [
+            html.H1("404: Not found", className="text-danger"),
+            html.Hr(),
+            html.P(f"The pathname {pathname} was not recognised..."),
+        ]
+    )
+
+def getApp(year):    
+    global app
+    buildYear(year)
+    buildOverall(year)
+    initialize_layout()
+    return app
