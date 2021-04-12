@@ -58,7 +58,7 @@ class Year:
                 degrees = [i[1] for i in (network.degree())]
                 degrees = sum(degrees)
                 avg_degree = degrees/(network.number_of_nodes())
-                return avg_degree
+                return round(avg_degree,2)
 
             def get_average_clustering(network):
                 return round(nx.average_clustering(network),2)
