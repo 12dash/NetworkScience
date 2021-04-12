@@ -279,7 +279,7 @@ def facultySubsetContent(value, year_value):
     for i in facultySubset.faculty:
         l.append(faculty_grid(facultySubset.faculty[i]))    
     
-    return html.Div([dbc.Col(l)])   
+    return html.Div([dbc.Col(overall_graph),dbc.Col(l)])   
 
 def createOverallPage():
     global OVERALL_GRAPHS
