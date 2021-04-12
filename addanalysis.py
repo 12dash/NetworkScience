@@ -32,9 +32,9 @@ class ManageGraph:
         
 class PositionGraph:
     
-    target='Lecturer'
+    #target='Lecturer'
     
-    def __init__(self):
+    def __init__(self, target):
         faculty, names = fetch_faculty()
         
         self.nodes=[]
@@ -42,7 +42,7 @@ class PositionGraph:
 
         
         for x in faculty:
-            if(faculty[x].position==PositionGraph.target):
+            if(faculty[x].position==target):
                 self.nodes.append(x)
                 
         for x in self.nodes:

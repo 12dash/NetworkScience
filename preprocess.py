@@ -141,3 +141,49 @@ if __name__=="__main__":
     faculty = {}
     for i in faculty_names:
         faculty[i] = Faculty(i)
+        
+        
+        
+        
+class ManageGraph:
+    
+    def __init__(self):
+        faculty, names = fetch_faculty()
+        
+        self.nodes=[]
+        self.edges=[]
+        
+        for x in faculty:
+            if(faculty[x].managment=='Y'):
+                self.nodes.append(x)
+                
+                p=faculty[x].papers
+                for y in p:
+                    for a in y.authors:
+                        if(a in names):
+                            self.edges.append((x, a))
+                            
+                            
+        
+class PositionGraph:
+    
+    #target='Lecturer'
+    
+    def __init__(self, target):
+        faculty, names = fetch_faculty()
+        
+        self.nodes=[]
+        self.edges=[]
+
+        
+        for x in faculty:
+            if(faculty[x].position==target):
+                self.nodes.append(x)
+                
+        for x in self.nodes:
+            p=faculty[x].papers
+            
+            for y in p:
+                for a in y.authors:
+                    if(a in self.nodes):
+                        self.edges.append((x,a))

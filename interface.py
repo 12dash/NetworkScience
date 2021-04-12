@@ -12,6 +12,8 @@ import pandas as pd
 
 from faculty import FacultySubset
 
+from preprocess import ManageGraph, PositionGraph
+
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 cyto.load_extra_layouts()
 
@@ -54,6 +56,12 @@ FACULTY_GRAPH_STYLESHEET =[{
 YEAR = {}
 OVERALL_GRAPHS = {}
 FACULTY_SUBSET = None
+MANAGE = ManageGraph()
+LECT = PositionGraph('Lecturer')
+SLECT = PositionGraph('Senior Lecturer')
+ASST = PositionGraph('Assistant Professor')
+ASSOC = PositionGraph('Associate Professor')
+PROF = PositionGraph('Professor')
 
 def initialize_layout():
     '''
@@ -242,9 +250,19 @@ def facultyContent():
         option.append({'label':i,'value':i})
 
     return html.Div([
+        html.P(id='placeholder', style={'display':'none'}),
+        
         dcc.Dropdown(id="Faculty",options=option, value='MTL', multi=True, placeholder="Select the set of faculty"), 
         dcc.Dropdown(id="year_id_faculty_subset", options=year_option, value='2000',placeholder = "Select the year"),
         html.Button('Submit', id='submit-val', n_clicks = 0, style = {'border-radius' : '8px'}),
+        
+        html.Button('Management', id='manageload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Button('Lecturers', id='lectload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Button('Sen. Lecturers', id='slectload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Button('Asst. Prof.', id='asstload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Button('Assoc. Prof.', id='assocload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Button('Prof.', id='profload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        
         html.Div(id="faculty-subset")
     ])
 
@@ -293,7 +311,7 @@ def render_year_graph(value):
 
 click = 0
 @app.callback(Output("faculty-subset","children"), [Input("Faculty","value"), Input("submit-val", "n_clicks"), Input("year_id_faculty_subset","value")])
-def render_faculty(value, n_clicks, year_value):  
+def render_faculty(value, n_clicks, year_value):
     
     global FACULTY_SUBSET
     global click
@@ -301,7 +319,47 @@ def render_faculty(value, n_clicks, year_value):
     if n_clicks != click: 
         FACULTY_SUBSET =  facultySubsetContent(value, year_value)  
         click = n_clicks   
+        
     return FACULTY_SUBSET
+
+
+catclick=[0, 0, 0, 0, 0, 0]
+@app.callback(Output("Faculty", "value"), Input("manageload","n_clicks"), Input("lectload","n_clicks"), 
+              Input("slectload","n_clicks"), Input("asstload","n_clicks"), Input("assocload","n_clicks"),
+              Input("profload","n_clicks"))
+def load_category(manageload, lectload, slectload, asstload, assocload, profload):
+    
+    ctx = dash.callback_context
+    
+    global catclick
+    
+    
+    value='MTL'
+
+        
+    c= [manageload, lectload, slectload, asstload, assocload, profload]
+    
+    if c != catclick:
+        
+        if(c[0]!=catclick[0]):
+            value=MANAGE.nodes
+        elif(c[1]!=catclick[1]):
+            value=LECT.nodes
+        elif(c[2]!=catclick[2]):
+            value=SLECT.nodes
+        elif(c[3]!=catclick[3]):
+            value=ASST.nodes
+        elif(c[4]!=catclick[4]):
+            value=ASSOC.nodes
+        elif(c[5]!=catclick[5]):
+            value=PROF.nodes
+        
+        catclick=c
+    
+    return value
+
+
+
 
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
@@ -327,3 +385,8 @@ def getApp(year):
     buildOverall(year)
     initialize_layout()
     return app
+
+
+
+
+
