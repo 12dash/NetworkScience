@@ -205,7 +205,7 @@ class Faculty:
 
             return
         
-        for i in range(2000,2021):
+        for i in range(2000,2022):
             build_graph(i)
         return
     
@@ -214,10 +214,10 @@ class Faculty:
             info = {}
 
             #Number of collaborations within scse
-            info['scse_collaboration'] = graph_years_scse[year].number_of_edges()
+            info['scse_collaboration'] = self.graph_years_scse[year].number_of_edges()
 
             #Number of collaborations in total 
-            info['all_collaboration'] = graph_years_all[year].number_of_edges()
+            info['all_collaboration'] = self.graph_years_all[year].number_of_edges()
 
             return info
         
@@ -237,6 +237,7 @@ class FacultySubset:
         self.faculty = {}
 
         self.generate_graph_years()
+        self.build_faculty()
 
     def generate_graph_years(self):
         def build_graph(year):
@@ -264,7 +265,7 @@ class FacultySubset:
 
             return
         
-        for i in range(2000,2021):
+        for i in range(2000,2022):
             build_graph(i)
         return
     

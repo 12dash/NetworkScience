@@ -248,7 +248,38 @@ def facultyContent():
         html.Div(id="faculty-subset")
     ])
 
+def facultySubsetContent(value, year_value):
+    year_value = int(year_value)
+    def faculty_grid(faculty):
+        def generateList():
+            l = []
+            INFO = {"Numbers of collaborators in SCSE" : 'scse_collaboration',"Total number of collaborators": "all_collaboration"}
+            for i in INFO:
+                l.append(html.Li(i+" : " + str(faculty.info[year_value][INFO[i]])))
+            return html.Ul(l)
 
+        graph1 = generateGraph(faculty.graph_years_scse[int(year_value)], "faculty-graph"+faculty.name,size = "300px", nodes_data = ['color'], stylesheet=FACULTY_GRAPH_STYLESHEET)
+        graph2 = generateGraph(faculty.graph_years_all[int(year_value)], "faculty-graph-all"+faculty.name,size = "300px", nodes_data = ['color'], stylesheet=FACULTY_GRAPH_STYLESHEET)
+        
+        ul = generateList()
+
+        out  = html.Div([
+            html.H3(faculty.name),
+            ul,
+            dbc.Row([
+                dbc.Col(graph1),
+                dbc.Col(graph2)
+            ])                      
+        ])
+        return out
+
+    facultySubset = FacultySubset(value)
+    overall_graph = generateGraph(facultySubset.graph_years[int(year_value)], "faculty-subset-graph",nodes_data = ['color'], stylesheet=FACULTY_GRAPH_STYLESHEET)  
+    l = []
+    for i in facultySubset.faculty:
+        l.append(faculty_grid(facultySubset.faculty[i]))    
+    
+    return html.Div([dbc.Col(l)])   
 
 def createOverallPage():
     global OVERALL_GRAPHS
@@ -260,16 +291,15 @@ def createOverallPage():
 def render_year_graph(value):
     return YEAR[int(value)]
 
-click = -1
+click = 0
 @app.callback(Output("faculty-subset","children"), [Input("Faculty","value"), Input("submit-val", "n_clicks"), Input("year_id_faculty_subset","value")])
 def render_faculty(value, n_clicks, year_value):  
     
     global FACULTY_SUBSET
     global click
 
-    if n_clicks != click:
-        faculty = FacultySubset(value)    
-        FACULTY_SUBSET =  generateGraph(faculty.graph_years[int(year_value)], "faculty-subset-graph",nodes_data = ['color'], stylesheet=FACULTY_GRAPH_STYLESHEET)  
+    if n_clicks != click: 
+        FACULTY_SUBSET =  facultySubsetContent(value, year_value)  
         click = n_clicks   
     return FACULTY_SUBSET
 
