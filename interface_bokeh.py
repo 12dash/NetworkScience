@@ -148,7 +148,9 @@ def generate_tab_year(graphs):
 def generate_faculty(Faculty, name):
     def get_network_plot(network, title):
 
-        HOVER_TOOLTIPS = [("Faculty", "@index")]
+        HOVER_TOOLTIPS = [("Faculty", "@index"), ("Degree", "@degree"),
+                      ("Betweenness Centrality", "@betweenness"),
+                      ("Clustering Coefficient", "@clustering")]
         
         plot = figure(tooltips=HOVER_TOOLTIPS,tools="pan,wheel_zoom,save,reset", active_scroll='wheel_zoom', toolbar_location = None,
                       x_range=Range1d(-11.1, 11.1), y_range=Range1d(-11.1, 11.1), title=str(title), plot_width=400, plot_height=400)

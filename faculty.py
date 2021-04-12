@@ -1,5 +1,6 @@
 import csv
 import operator
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy
@@ -92,7 +93,10 @@ class Year:
                 for i in range(len(average)):
                     if average[i] != 0:
                         dist_connected.append(round(average[i],2))
-                return sorted(dist_connected, reverse=True)
+                dist_connected = sorted(dist_connected, reverse=True)
+                dist_connected = [str(element) for element in dist_connected]
+                dist_connected = ", ".join(dist_connected)
+                return dist_connected
 
             def get_smallworld_sigma(network):
                 for C in (network.subgraph(c).copy() for c in nx.connected_components(network)):
