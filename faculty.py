@@ -158,19 +158,35 @@ class Year:
 
 
 class Faculty:
+    def __init__(self, name, faculty_list):
 
-    def __init__(self, name):
         self.name = name
+        self.faculty_list = faculty_list
 
-        self.graph_years = {}
-        self.graph_years_all = {}
+        self.graph_years_scse = {}
+        self.graph_years_all = {}        
+
+        self.info = {}
 
         self.generate_graph_years()
-
+        self.set_information()
+   
     def generate_graph_years(self):
         def build_graph(year):
+            def set_color_nodes(g):
+                for i in g.nodes():
+                    if i == self.name:
+                        g.nodes[i]['color'] = "#0033cc"
+                    elif i in self.faculty_list:
+                        g.nodes[i]['color'] = "#99d6ff"
+                    else:
+                        g.nodes[i]['color'] = "#666666"
+                return 
+
             graph = nx.Graph()
-            graph_all = nx.Graph() 
+            graph_all = nx.Graph()      
+
+            graph.add_nodes_from(pd.read_csv("Faculty.csv")['Faculty'].to_list())      
 
             for paper in FACULTY[self.name].papers:
                 if paper.year == year:
@@ -180,8 +196,11 @@ class Faculty:
                             if (author in NAMES):
                                 graph.add_edge( FACULTY[self.name].name, author)
 
+            
+            set_color_nodes(graph)
+            set_color_nodes(graph_all)
 
-            self.graph_years[year] = graph 
+            self.graph_years_scse[year] = graph 
             self.graph_years_all[year] = graph_all        
 
             return
@@ -189,12 +208,34 @@ class Faculty:
         for i in range(2000,2021):
             build_graph(i)
         return
+    
+    def set_information(self):
+        def getYear(year):
+            info = {}
+
+            #Number of collaborations within scse
+            info['scse_collaboration'] = graph_years_scse[year].number_of_edges()
+
+            #Number of collaborations in total 
+            info['all_collaboration'] = graph_years_all[year].number_of_edges()
+
+            return info
+        
+        for i in range(2000,2022):
+            self.info[i] = getYear(i)
+        
+        return
+
+
 
 class FacultySubset:
     def __init__(self, names):
         self.names = names
+
         self.graph_years = {}
-        self.graph_years_all={}
+
+        self.faculty = {}
+
         self.generate_graph_years()
 
     def generate_graph_years(self):
@@ -215,17 +256,19 @@ class FacultySubset:
                 for paper in FACULTY[faculty].papers:
                     if paper.year == year:
                         for author in paper.authors:
-                            if (author != faculty) and not(graph.has_edge(faculty, author)) and not(graph.has_edge(author,faculty)):
-                                graph_all.add_edge(faculty, author)
+                            if (author != faculty) and not(graph.has_edge(faculty, author)) and not(graph.has_edge(author,faculty)):                                
                                 if (author in NAMES):
                                     graph.add_edge(faculty, author)
  
-            self.graph_years[year] = graph 
-            self.graph_years_all[year] = graph_all        
+            self.graph_years[year] = graph    
 
             return
         
         for i in range(2000,2021):
             build_graph(i)
         return
+    
+    def build_faculty(self):
+        for i in self.names:
+            self.faculty[i] = Faculty(i, self.names)
 
