@@ -137,11 +137,17 @@ class Year:
     def add_properties_network(self):
         def get_graph_properties(network):
             degrees = dict(nx.degree(network))
-            betweenness_centrality = nx.betweenness_centrality(network)
+            betweenness_centrality = nx.betweenness_centrality(network, normalized=True)
+            eigenvector_centrality = nx.eigenvector_centrality(network, max_iter=600)
+            degree_centrality = nx.degree_centrality(network)
+            closeness_centrality = nx.closeness_centrality(network)
             clustering = nx.clustering(network)
 
             nx.set_node_attributes(network, name='degree', values=degrees)
             nx.set_node_attributes(network, name='betweenness', values=betweenness_centrality)
+            nx.set_node_attributes(network, name='degree_centrality', values=degree_centrality)
+            nx.set_node_attributes(network, name='eigenvector_centrality', values=eigenvector_centrality)
+            nx.set_node_attributes(network, name='closeness_centrality', values=closeness_centrality)
             nx.set_node_attributes(network, name='clustering', values=clustering)
 
             number_to_adjust_by = 5
