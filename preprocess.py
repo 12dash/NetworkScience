@@ -141,9 +141,7 @@ if __name__=="__main__":
     faculty = {}
     for i in faculty_names:
         faculty[i] = Faculty(i)
-        
-        
-        
+
         
 class ManageGraph:
     
@@ -155,16 +153,15 @@ class ManageGraph:
         
         for x in faculty:
             if(faculty[x].managment=='Y'):
-                self.nodes.append(x)
-                
+                self.nodes.append(x)            
+
+
                 p=faculty[x].papers
                 for y in p:
                     for a in y.authors:
                         if(a in names):
                             self.edges.append((x, a))
-                            
-                            
-        
+    
 class PositionGraph:
     
     #target='Lecturer'
