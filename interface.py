@@ -391,9 +391,7 @@ def load_category(manageload, lectload, slectload, asstload, assocload, profload
 
     global catclick
 
-
     value='MTL'
-
 
     c= [manageload, lectload, slectload, asstload, assocload, profload]
 
@@ -415,44 +413,6 @@ def load_category(manageload, lectload, slectload, asstload, assocload, profload
         catclick=c
 
     return value
-
-
-catclick=[0, 0, 0, 0, 0, 0]
-@app.callback(Output("Faculty", "value"), Input("manageload","n_clicks"), Input("lectload","n_clicks"), 
-              Input("slectload","n_clicks"), Input("asstload","n_clicks"), Input("assocload","n_clicks"),
-              Input("profload","n_clicks"))
-def load_category(manageload, lectload, slectload, asstload, assocload, profload):
-    
-    ctx = dash.callback_context
-    
-    global catclick
-    
-    
-    value='MTL'
-
-        
-    c= [manageload, lectload, slectload, asstload, assocload, profload]
-    
-    if c != catclick:
-        
-        if(c[0]!=catclick[0]):
-            value=MANAGE.nodes
-        elif(c[1]!=catclick[1]):
-            value=LECT.nodes
-        elif(c[2]!=catclick[2]):
-            value=SLECT.nodes
-        elif(c[3]!=catclick[3]):
-            value=ASST.nodes
-        elif(c[4]!=catclick[4]):
-            value=ASSOC.nodes
-        elif(c[5]!=catclick[5]):
-            value=PROF.nodes
-        
-        catclick=c
-    
-    return value
-
-
 
 
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
