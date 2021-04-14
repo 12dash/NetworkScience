@@ -173,7 +173,8 @@ def buildYearContent(Year):
         'Avg Clustering Coefficient': 'average_clustering_coefficient',
         'Avg Shortest Path Length': 'avg_dist',
         'Density': 'density',
-        'No. of Connected Components': 'number_of_connected_components'
+        'No. of Connected Components': 'number_of_connected_components',
+        'Degree Correlation': 'degree_correlation_coefficient'
     }
 
     def build_table():

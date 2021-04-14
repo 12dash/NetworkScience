@@ -110,6 +110,9 @@ class Year:
             def get_density(network):
                 return round(nx.density(network),2)
 
+            def get_degree_correlation_coefficient(network):
+                return nx.degree_pearson_correlation_coefficient(network)
+
             network_dic['average_degree']=get_average_degree(network)
             network_dic['average_clustering_coefficient']=get_average_clustering(network)
             network_dic['number_of_edges'] = get_number_edges(network)
@@ -119,6 +122,7 @@ class Year:
             #network_dic['smallworld_sigma'] = get_smallworld_sigma(network)
             network_dic['density'] = get_density(network)
             network_dic['global_clustering'] = get_global_clustering(network)
+            network_dic['degree_correlation_coefficient'] = get_degree_correlation_coefficient(network)
 
         get_info(self.graph_year,self.year_info)
         get_info(self.graph_previous_years,self.previous_year_info)
