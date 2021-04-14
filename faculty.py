@@ -287,3 +287,5 @@ class FacultySubset:
         for i in self.names:
             self.faculty[i] = Faculty(i, self.names)
 
+
+
