@@ -55,7 +55,7 @@ class PublishedPaper:
        
 class Faculty:    
     
-    excellenceThreshold=6
+    excellenceThreshold=8
 
     def __init__(self,name):      
 
@@ -184,3 +184,25 @@ class PositionGraph:
                 for a in y.authors:
                     if(a in self.nodes):
                         self.edges.append((x,a))
+                        
+                        
+class ExcellenceGraph:
+    
+    def __init__(self):
+        faculty, names = fetch_faculty()
+        
+        self.nodes=[]
+        self.edges=[]
+        
+        for x in faculty:
+            if(faculty[x].excellenceNode==True):
+                self.nodes.append(x)
+        
+        
+        
+        
+        
+        
+        
+        
+        

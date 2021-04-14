@@ -11,9 +11,7 @@ import networkx as nx
 import pandas as pd
 
 from faculty import FacultySubset
-from preprocess import ManageGraph, PositionGraph
-
-from preprocess import ManageGraph, PositionGraph
+from preprocess import ManageGraph, PositionGraph, ExcellenceGraph
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 cyto.load_extra_layouts()
@@ -70,6 +68,7 @@ SLECT = PositionGraph('Senior Lecturer')
 ASST = PositionGraph('Assistant Professor')
 ASSOC = PositionGraph('Associate Professor')
 PROF = PositionGraph('Professor')
+EXC = ExcellenceGraph()
 
 
 def initialize_layout():
@@ -312,6 +311,7 @@ def facultyContent():
         html.Button('Asst. Prof.', id='asstload', n_clicks = 0, style = {'border-radius' : '8px'}),
         html.Button('Assoc. Prof.', id='assocload', n_clicks = 0, style = {'border-radius' : '8px'}),
         html.Button('Prof.', id='profload', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.Button('Exc. Nodes', id='excload', n_clicks = 0, style = {'border-radius' : '8px'}),
         html.Div(id="faculty-subset")
     ])
 
@@ -381,11 +381,11 @@ def render_faculty(value, n_clicks, year_value):
 
     return FACULTY_SUBSET
     
-catclick=[0, 0, 0, 0, 0, 0]
+catclick=[0, 0, 0, 0, 0, 0, 0]
 @app.callback(Output("Faculty", "value"), Input("manageload","n_clicks"), Input("lectload","n_clicks"), 
               Input("slectload","n_clicks"), Input("asstload","n_clicks"), Input("assocload","n_clicks"),
-              Input("profload","n_clicks"))
-def load_category(manageload, lectload, slectload, asstload, assocload, profload):
+              Input("profload","n_clicks"), Input('excload', 'n_clicks'))
+def load_category(manageload, lectload, slectload, asstload, assocload, profload, excload):
 
     ctx = dash.callback_context
 
@@ -393,7 +393,7 @@ def load_category(manageload, lectload, slectload, asstload, assocload, profload
 
     value='MTL'
 
-    c= [manageload, lectload, slectload, asstload, assocload, profload]
+    c= [manageload, lectload, slectload, asstload, assocload, profload, excload]
 
     if c != catclick:
 
@@ -409,6 +409,8 @@ def load_category(manageload, lectload, slectload, asstload, assocload, profload
             value=ASSOC.nodes
         elif(c[5]!=catclick[5]):
             value=PROF.nodes
+        elif(c[6]!=catclick[6]):
+            value=EXC.nodes
 
         catclick=c
 
