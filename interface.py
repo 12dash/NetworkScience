@@ -145,9 +145,27 @@ def displayTapNodeData(data):
 
     return temp
 
+@app.callback(Output('cytoscape-overall-output', 'children'), Input('cummulative-year-graph', 'mouseoverNodeData'))
+def displayTapNodeData(data):
+    temp = None
+    if data:
+        temp = html.Div([
+            html.H3(data['label']),
+            html.Ul([
+                html.Li(f"Degree : {data['degree']}"),
+                html.Li(f"Betweeness Centrality: {data['betweenness']}"),
+                html.Li(f"Eigenvector Centrality: {data['eigenvector_centrality']}"),
+                html.Li(f"Closeness Centrality: {data['closeness_centrality']}"),
+                html.Li(f"Degree Centrality: {data['degree_centrality']}"),
+                html.Li(f"Clustering Coefficient : {data['clustering']}")])
+        ])
+
+    return temp
+
 
 def buildYearContent(Year):
     network = Year.graph_year
+    network_overall = Year.graph_previous_years
 
     INFORMATION = {
         'No. of Edges': 'number_of_edges',
@@ -184,6 +202,12 @@ def buildYearContent(Year):
         network_graph = generateGraph(network, "year-graph", nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
         return network_graph
 
+    def buildCummulative():
+        nodes_data = ['size', 'betweenness', 'degree_centrality', 'closeness_centrality', 'eigenvector_centrality','degree', 'clustering']
+        network_graph = generateGraph(network_overall, "cummulative-year-graph", nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
+        return network_graph
+    
+
     def buildConnectedComponent():
         l = []
         for i in Year.year_info['connected_components']:
@@ -200,7 +224,12 @@ def buildYearContent(Year):
         html.H5("Probability Degree Distribution"),
         getDegreeDistribution(),
         html.H5("Connected Components"),
-        buildConnectedComponent()]
+        buildConnectedComponent(),
+        html.H5("Cummulative Year Graph"),
+        dbc.Row(
+            [dbc.Col(buildCummulative()), dbc.Col(html.P(id='cytoscape-overall-output'))],
+            justify="center", align="center")
+        ]
 
     return html.Div(output_list)
 
@@ -228,7 +257,6 @@ def buildOverall(year):
                                                                'Average Clustering Coefficient over the years')
 
     return
-
 
 def contentHomePage():
     return
