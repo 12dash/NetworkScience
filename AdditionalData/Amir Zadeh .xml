@@ -1,3 +1,797 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38b763b24bdd2bc54489d4013f2b753a872ed179a23adfb62d75e5292db6232b
-size 36319
+<?xml version="1.0"?>
+<dblpperson name="Amir Zadeh 0001" pid="150/5010" n="49">
+<person key="homepages/150/5010" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="150/5010">AmirAli Bagher Zadeh</author>
+<note type="affiliation">Carnegie Mellon University, Language Technologies Institute, Pittsburgh, PA, USA</note>
+<note type="affiliation">University of Southern California, Playa Vista, CA, USA</note>
+</person>
+<homonyms n="1">
+<h f="z/Zadeh:Amir"><person publtype="disambiguation" key="homepages/170/4555" mdate="2019-07-25">
+<author pid="170/4555">Amir Zadeh</author>
+</person>
+</h>
+</homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2101-00574" mdate="2021-01-21">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="283/4831">Santiago Benoit</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>StarNet: Gradient-free Training of Deep Generative Models using Determined System of Linear Equations.</title>
+<year>2021</year>
+<volume>abs/2101.00574</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.00574</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-00574</url>
+</article>
+</r>
+<r><article key="journals/inffus/ZadehLM20" mdate="2020-09-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Foundations of Multimodal Co-learning.</title>
+<pages>188-193</pages>
+<year>2020</year>
+<volume>64</volume>
+<journal>Inf. Fusion</journal>
+<ee>https://doi.org/10.1016/j.inffus.2020.06.001</ee>
+<url>db/journals/inffus/inffus64.html#ZadehLM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/RahmanHLZMMH20" mdate="2021-01-08">
+<author pid="239/5132">Wasifur Rahman</author>
+<author pid="64/2529">Md. Kamrul Hasan</author>
+<author pid="255/0036">Sangwu Lee</author>
+<author pid="150/5010">AmirAli Bagher Zadeh</author>
+<author pid="254/1764">Chengfeng Mao</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="26/1236">Mohammed E. Hoque</author>
+<title>Integrating Multimodal Information in Large Pretrained Transformers.</title>
+<pages>2359-2369</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.214</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.214/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#RahmanHLZMMH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZadehCHLPM20" mdate="2021-01-08">
+<author pid="150/5010">AmirAli Bagher Zadeh</author>
+<author pid="183/3529">Yansheng Cao</author>
+<author pid="255/5612">Smon Hessner</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French.</title>
+<pages>1801-1812</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.141</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.141/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#ZadehCHLPM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-06607" mdate="2020-05-22">
+<author pid="198/3608">Navonil Majumder</author>
+<author pid="245/1413">Rishabh Bhardwaj</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="g/AlexanderFGelbukh">Alexander F. Gelbukh</author>
+<author pid="03/6772">Amir Hussain</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Improving Aspect-Level Sentiment Analysis with Aspect Extraction.</title>
+<year>2020</year>
+<volume>abs/2005.06607</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.06607</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-06607</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-03626" mdate="2020-12-17">
+<author pid="32/1139">Jianing Yang</author>
+<author pid="201/8723-4">Yuying Zhu 0004</author>
+<author pid="95/9248">Yongxin Wang</author>
+<author pid="270/0817">Ruitao Yi</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>What Gives the Answer Away? Question Answering Bias Analysis on Video QA Datasets.</title>
+<year>2020</year>
+<volume>abs/2007.03626</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.03626</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-03626</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-09522" mdate="2020-10-21">
+<author pid="236/5142">Shagun Uppal</author>
+<author pid="236/5196">Sarthak Bhagat</author>
+<author pid="188/5874">Devamanyu Hazarika</author>
+<author pid="198/3608">Navonil Majumder</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="79/1490">Roger Zimmermann</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<title>Emerging Trends of Multimodal Research in Vision and Language.</title>
+<year>2020</year>
+<volume>abs/2010.09522</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.09522</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-09522</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-11985" mdate="2020-12-17">
+<author pid="32/1139">Jianing Yang</author>
+<author pid="95/9248">Yongxin Wang</author>
+<author pid="270/0817">Ruitao Yi</author>
+<author pid="201/8723-4">Yuying Zhu 0004</author>
+<author pid="277/1311">Azaan Rehman</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>MTGAT: Multimodal Temporal Graph Attention Networks for Unaligned Human Multimodal Language Sequences.</title>
+<year>2020</year>
+<volume>abs/2010.11985</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.11985</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-11985</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangSLLZM19" mdate="2021-02-02">
+<author pid="134/7817">Yansen Wang</author>
+<author pid="01/8558">Ying Shen</author>
+<author pid="147/8864">Zhun Liu</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors.</title>
+<pages>7216-7223</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33017216</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangSLLZM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/0001CLTM19" mdate="2020-01-20">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="73/6010">Michael Chan</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="200/8098">Edmund Tong</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence.</title>
+<pages>8807-8817</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00901</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#0001CLTM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/HasanRZZTMH19" mdate="2019-12-12">
+<author pid="64/2529">Md. Kamrul Hasan</author>
+<author pid="239/5132">Wasifur Rahman</author>
+<author pid="150/5010">AmirAli Bagher Zadeh</author>
+<author pid="239/5133">Jianyuan Zhong</author>
+<author pid="48/10270">Md. Iftekhar Tanveer</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="26/1236">Mohammed (Ehsan) Hoque</author>
+<title>UR-FUNNY: A Multimodal Language Dataset for Understanding Humor.</title>
+<pages>2046-2056</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1211</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#HasanRZZTMH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/TsaiLZMS19" mdate="2019-07-26">
+<author pid="154/3702">Yao-Hung Hubert Tsai</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="62/5884">Ruslan Salakhutdinov</author>
+<title>Learning Factorized Multimodal Representations.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rygqqsA9KX</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#TsaiLZMS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-00840" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="213/4068">Yao Chong Lim</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Variational Auto-Decoder.</title>
+<year>2019</year>
+<volume>abs/1903.00840</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.00840</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-00840</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-06618" mdate="2019-07-25">
+<author pid="64/2529">Md. Kamrul Hasan</author>
+<author pid="239/5132">Wasifur Rahman</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="239/5133">Jianyuan Zhong</author>
+<author pid="48/10270">Md. Iftekhar Tanveer</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="26/1236">Mohammed E. Hoque</author>
+<title>UR-FUNNY: A Multimodal Language Dataset for Understanding Humor.</title>
+<year>2019</year>
+<volume>abs/1904.06618</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.06618</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-06618</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-05787" mdate="2019-08-19">
+<author pid="239/5132">Wasifur Rahman</author>
+<author pid="64/2529">Md. Kamrul Hasan</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="26/1236">Mohammed Ehsan Hoque</author>
+<title>M-BERT: Injecting Multimodal Information in the BERT Structure.</title>
+<year>2019</year>
+<volume>abs/1908.05787</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.05787</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-05787</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-09783" mdate="2019-12-03">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="231/9991">Tianjun Ma</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>WildMix Dataset and Spectro-Temporal Transformer Model for Monoaural Audio Source Separation.</title>
+<year>2019</year>
+<volume>abs/1911.09783</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.09783</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-09783</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-09826" mdate="2019-12-03">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="254/1764">Chengfeng Mao</author>
+<author pid="254/1797">Kelly Shi</author>
+<author pid="86/1695">Yiwei Zhang</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Factorized Multimodal Transformer for Multimodal Sequential Learning.</title>
+<year>2019</year>
+<volume>abs/1911.09826</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.09826</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-09826</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-09423" mdate="2020-01-03">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="255/5612">Smon Hessner</author>
+<author pid="213/4068">Yao Chong Lim</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Pseudo-Encoded Stochastic Variational Inference.</title>
+<year>2019</year>
+<volume>abs/1912.09423</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.09423</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-09423</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZadehLMPCM18" mdate="2021-02-18">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="198/3608">Navonil Mazumder</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Memory Fusion Network for Multi-view Sequential Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17341</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZadehLMPCM18</url>
+<pages>5634-5641</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ZadehLPVCM18" mdate="2021-02-18">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="188/5727">Prateek Vij</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multi-attention Recurrent Network for Human Communication Comprehension.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17390</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZadehLPVCM18</url>
+<pages>5642-5649</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MorencyCPLZ18" mdate="2019-09-16">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph.</title>
+<pages>2236-2246</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-1208/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1208</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#MorencyCPLZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MorencyLZLSL18" mdate="2019-09-16">
+<author pid="147/8864">Zhun Liu</author>
+<author pid="01/8558">Ying Shen</author>
+<author pid="222/1706">Varun Bharadhwaj Lakshminarasimhan</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Efficient Low-rank Multimodal Fusion With Modality-Specific Factors.</title>
+<pages>2247-2256</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-1209/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1209</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#MorencyLZLSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiangLZM18" mdate="2020-01-28">
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="225/4530">Ziyin Liu</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Language Analysis with Recurrent Multistage Fusion.</title>
+<pages>150-161</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1014</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1014/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#LiangLZM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fgr/BaltrusaitisZLM18" mdate="2019-07-25">
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="213/4068">Yao Chong Lim</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>OpenFace 2.0: Facial Behavior Analysis Toolkit.</title>
+<pages>59-66</pages>
+<year>2018</year>
+<booktitle>FG</booktitle>
+<ee>https://doi.org/10.1109/FG.2018.00019</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FG.2018.00019</ee>
+<crossref>conf/fgr/2018</crossref>
+<url>db/conf/fgr/fg2018.html#BaltrusaitisZLM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmi/LiangZM18" mdate="2019-07-25">
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Local-Global Ranking Fusion for Emotion Recognition.</title>
+<pages>472-476</pages>
+<year>2018</year>
+<booktitle>ICMI</booktitle>
+<ee>https://doi.org/10.1145/3242969.3243019</ee>
+<crossref>conf/icmi/2018</crossref>
+<url>db/conf/icmi/icmi2018.html#LiangZM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/HazarikaPZCMZ18" mdate="2020-05-30">
+<author pid="188/5874">Devamanyu Hazarika</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="79/1490">Roger Zimmermann</author>
+<title>Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos.</title>
+<pages>2122-2132</pages>
+<year>2018</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n18-1193</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N18-1193/</ee>
+<ee>https://www.wikidata.org/entity/Q90700757</ee>
+<crossref>conf/naacl/2018-1</crossref>
+<url>db/conf/naacl/naacl2018-1.html#HazarikaPZCMZ18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-00923" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="188/5727">Prateek Vij</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multi-attention Recurrent Network for Human Communication Comprehension.</title>
+<year>2018</year>
+<volume>abs/1802.00923</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.00923</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-00923</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-00924" mdate="2019-07-25">
+<author pid="195/8186">Minghai Chen</author>
+<author pid="69/6403">Sen Wang</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning.</title>
+<year>2018</year>
+<volume>abs/1802.00924</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.00924</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-00924</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-00927" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="198/3608">Navonil Mazumder</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Memory Fusion Network for Multi-view Sequential Learning.</title>
+<year>2018</year>
+<volume>abs/1802.00927</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.00927</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-00927</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-00064" mdate="2019-07-25">
+<author pid="147/8864">Zhun Liu</author>
+<author pid="01/8558">Ying Shen</author>
+<author pid="222/1706">Varun Bharadhwaj Lakshminarasimhan</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Efficient Low-rank Multimodal Fusion with Modality-Specific Factors.</title>
+<year>2018</year>
+<volume>abs/1806.00064</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.00064</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-00064</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-06176" mdate="2019-07-25">
+<author pid="154/3702">Yao-Hung Hubert Tsai</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="62/5884">Ruslan Salakhutdinov</author>
+<title>Learning Factorized Multimodal Representations.</title>
+<year>2018</year>
+<volume>abs/1806.06176</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.06176</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-06176</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-03920" mdate="2019-07-25">
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="225/4530">Ziyin Liu</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Language Analysis with Recurrent Multistage Fusion.</title>
+<year>2018</year>
+<volume>abs/1808.03920</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.03920</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-03920</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-04931" mdate="2019-07-25">
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Local-Global Ranking Fusion for Emotion Recognition.</title>
+<year>2018</year>
+<volume>abs/1809.04931</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.04931</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-04931</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-09362" mdate="2019-07-25">
+<author pid="134/7817">Yansen Wang</author>
+<author pid="01/8558">Ying Shen</author>
+<author pid="147/8864">Zhun Liu</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors.</title>
+<year>2018</year>
+<volume>abs/1811.09362</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.09362</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-09362</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/PoriaCHMZM17" mdate="2019-09-25">
+<author orcid="0000-0001-6924-7931" pid="116/4904">Soujanya Poria</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<author pid="188/5874">Devamanyu Hazarika</author>
+<author pid="198/3608">Navonil Majumder</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Context-Dependent Sentiment Analysis in User-Generated Videos.</title>
+<pages>873-883</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1081</ee>
+<ee>https://www.wikidata.org/entity/Q57727546</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#PoriaCHMZM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/TongZJM17" mdate="2019-08-20">
+<author pid="200/8098">Edmund Tong</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="200/7933">Cara Jones</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Combating Human Trafficking with Multimodal Deep Models.</title>
+<pages>1547-1556</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1142</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#TongZJM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZadehBM17" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Convolutional Experts Constrained Local Model for Facial Landmark Detection.</title>
+<pages>2051-2059</pages>
+<year>2017</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2017.256</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2017.256</ee>
+<crossref>conf/cvpr/2017w</crossref>
+<url>db/conf/cvpr/cvprw2017.html#ZadehBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZadehCPCM17" mdate="2020-05-30">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="195/8186">Minghai Chen</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Tensor Fusion Network for Multimodal Sentiment Analysis.</title>
+<pages>1103-1114</pages>
+<year>2017</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d17-1115</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D17-1115/</ee>
+<ee>https://www.wikidata.org/entity/Q57727584</ee>
+<crossref>conf/emnlp/2017</crossref>
+<url>db/conf/emnlp/emnlp2017.html#ZadehCPCM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/ZadehLBM17" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="213/4068">Yao Chong Lim</author>
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Convolutional Experts Constrained Local Model for 3D Facial Landmark Detection.</title>
+<pages>2519-2528</pages>
+<year>2017</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2017.296</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCVW.2017.296</ee>
+<crossref>conf/iccvw/2017</crossref>
+<url>db/conf/iccvw/iccvw2017.html#ZadehLBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/PoriaCHMZM17" mdate="2019-09-25">
+<author orcid="0000-0001-6924-7931" pid="116/4904">Soujanya Poria</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<author pid="188/5874">Devamanyu Hazarika</author>
+<author pid="198/3608">Navonil Majumder</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multi-level Multiple Attentions for Contextual Multimodal Sentiment Analysis.</title>
+<pages>1033-1038</pages>
+<year>2017</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2017.134</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2017.134</ee>
+<ee>https://www.wikidata.org/entity/Q57727563</ee>
+<crossref>conf/icdm/2017</crossref>
+<url>db/conf/icdm/icdm2017.html#PoriaCHMZM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmi/ChenWLBZM17" mdate="2019-07-25">
+<author pid="195/8186">Minghai Chen</author>
+<author pid="69/6403">Sen Wang</author>
+<author pid="207/9749">Paul Pu Liang</author>
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal sentiment analysis with word-level fusion and reinforcement learning.</title>
+<pages>163-171</pages>
+<year>2017</year>
+<booktitle>ICMI</booktitle>
+<ee>https://doi.org/10.1145/3136755.3136801</ee>
+<crossref>conf/icmi/2017</crossref>
+<url>db/conf/icmi/icmi2017.html#ChenWLBZM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TongZJM17" mdate="2019-07-25">
+<author pid="200/8098">Edmund Tong</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="200/7933">Cara Jones</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Combating Human Trafficking with Deep Multimodal Models.</title>
+<year>2017</year>
+<volume>abs/1705.02735</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.02735</ee>
+<url>db/journals/corr/corr1705.html#TongZJM17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZadehCPCM17" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="195/8186">Minghai Chen</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Tensor Fusion Network for Multimodal Sentiment Analysis.</title>
+<year>2017</year>
+<volume>abs/1707.07250</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.07250</ee>
+<url>db/journals/corr/corr1707.html#ZadehCPCM17</url>
+</article>
+</r>
+<r><article key="journals/expert/ZadehZPM16" mdate="2020-03-06">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="182/2175">Rowan Zellers</author>
+<author pid="182/1954">Eli Pincus</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Multimodal Sentiment Intensity Analysis in Videos: Facial Gestures and Verbal Messages.</title>
+<pages>82-88</pages>
+<year>2016</year>
+<volume>31</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MIS.2016.94</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2016.94</ee>
+<url>db/journals/expert/expert31.html#ZadehZPM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/KimBZMM16" mdate="2021-02-03">
+<author pid="28/7371">KangGeon Kim</author>
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<author pid="02/3016">G&#233;rard G. Medioni</author>
+<title>Holistically Constrained Local Model: Going Beyond Frontal Poses for Facial Landmark Detection.</title>
+<year>2016</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">http://www.bmva.org/bmvc/2016/papers/paper095/index.html</ee>
+<crossref>conf/bmvc/2016</crossref>
+<url>db/conf/bmvc/bmvc2016.html#KimBZMM16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZadehZPM16" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="182/2175">Rowan Zellers</author>
+<author pid="182/1954">Eli Pincus</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos.</title>
+<year>2016</year>
+<volume>abs/1606.06259</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.06259</ee>
+<url>db/journals/corr/corr1606.html#ZadehZPM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZadehBM16" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<author pid="23/9606">Tadas Baltrusaitis</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Deep Constrained Local Models for Facial Landmark Detection.</title>
+<year>2016</year>
+<volume>abs/1611.08657</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.08657</ee>
+<url>db/journals/corr/corr1611.html#ZadehBM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmi/Zadeh15" mdate="2019-07-25">
+<author pid="150/5010">Amir Zadeh 0001</author>
+<title>Micro-opinion Sentiment Intensity Analysis and Summarization in Online Videos.</title>
+<pages>587-591</pages>
+<year>2015</year>
+<booktitle>ICMI</booktitle>
+<ee>https://doi.org/10.1145/2818346.2823317</ee>
+<crossref>conf/icmi/2015</crossref>
+<url>db/conf/icmi/icmi2015.html#Zadeh15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/ZadehSM14" mdate="2019-07-25">
+<author pid="150/5010">AmirAli Bagher Zadeh</author>
+<author pid="18/141">Kenji Sagae</author>
+<author pid="31/739">Louis-Philippe Morency</author>
+<title>Towards Learning Nonverbal Identities from the Web: Automatically Identifying Visually Accentuated Words.</title>
+<pages>496-503</pages>
+<year>2014</year>
+<booktitle>IVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09767-1_60</ee>
+<crossref>conf/iva/2014</crossref>
+<url>db/conf/iva/iva2014.html#ZadehSM14</url>
+</inproceedings>
+</r>
+<coauthors n="50" nc="1">
+<co c="0"><na f="b/Baltrusaitis:Tadas" pid="23/9606">Tadas Baltrusaitis</na></co>
+<co c="0"><na f="b/Benoit:Santiago" pid="283/4831">Santiago Benoit</na></co>
+<co c="0"><na f="b/Bhagat:Sarthak" pid="236/5196">Sarthak Bhagat</na></co>
+<co c="0"><na f="b/Bhardwaj:Rishabh" pid="245/1413">Rishabh Bhardwaj</na></co>
+<co c="0"><na f="c/Cambria:Erik" pid="80/7421">Erik Cambria</na></co>
+<co c="0"><na f="c/Cao:Yansheng" pid="183/3529">Yansheng Cao</na></co>
+<co c="0"><na f="c/Chan:Michael" pid="73/6010">Michael Chan</na></co>
+<co c="0"><na f="c/Chen:Minghai" pid="195/8186">Minghai Chen</na></co>
+<co c="0"><na f="g/Gelbukh:Alexander_F=" pid="g/AlexanderFGelbukh">Alexander F. Gelbukh</na></co>
+<co c="0"><na f="h/Hasan:Md=_Kamrul" pid="64/2529">Md. Kamrul Hasan</na></co>
+<co c="0"><na f="h/Hazarika:Devamanyu" pid="188/5874">Devamanyu Hazarika</na></co>
+<co c="0"><na f="h/Hessner:Smon" pid="255/5612">Smon Hessner</na></co>
+<co c="0" n="3"><na f="h/Hoque:Mohammed_E=" pid="26/1236">Mohammed E. Hoque</na><na>Mohammed Ehsan Hoque</na><na>Mohammed (Ehsan) Hoque</na></co>
+<co c="0"><na f="h/Hussain:Amir" pid="03/6772">Amir Hussain</na></co>
+<co c="0"><na f="j/Jones:Cara" pid="200/7933">Cara Jones</na></co>
+<co c="0"><na f="k/Kim:KangGeon" pid="28/7371">KangGeon Kim</na></co>
+<co c="0"><na f="l/Lakshminarasimhan:Varun_Bharadhwaj" pid="222/1706">Varun Bharadhwaj Lakshminarasimhan</na></co>
+<co c="0"><na f="l/Lee:Sangwu" pid="255/0036">Sangwu Lee</na></co>
+<co c="0"><na f="l/Liang:Paul_Pu" pid="207/9749">Paul Pu Liang</na></co>
+<co c="0"><na f="l/Lim:Yao_Chong" pid="213/4068">Yao Chong Lim</na></co>
+<co c="0"><na f="l/Liu:Zhun" pid="147/8864">Zhun Liu</na></co>
+<co c="0"><na f="l/Liu:Ziyin" pid="225/4530">Ziyin Liu</na></co>
+<co c="0"><na f="m/Ma:Tianjun" pid="231/9991">Tianjun Ma</na></co>
+<co c="0" n="2"><na f="m/Majumder:Navonil" pid="198/3608">Navonil Majumder</na><na>Navonil Mazumder</na></co>
+<co c="0"><na f="m/Mao:Chengfeng" pid="254/1764">Chengfeng Mao</na></co>
+<co c="0"><na f="m/Medioni:G=eacute=rard_G=" pid="02/3016">G&#233;rard G. Medioni</na></co>
+<co c="0"><na f="m/Morency:Louis=Philippe" pid="31/739">Louis-Philippe Morency</na></co>
+<co c="0"><na f="p/Pincus:Eli" pid="182/1954">Eli Pincus</na></co>
+<co c="0"><na f="p/Poria:Soujanya" pid="116/4904">Soujanya Poria</na></co>
+<co c="0"><na f="r/Rahman:Wasifur" pid="239/5132">Wasifur Rahman</na></co>
+<co c="0"><na f="r/Rehman:Azaan" pid="277/1311">Azaan Rehman</na></co>
+<co c="0"><na f="s/Sagae:Kenji" pid="18/141">Kenji Sagae</na></co>
+<co c="0"><na f="s/Salakhutdinov:Ruslan" pid="62/5884">Ruslan Salakhutdinov</na></co>
+<co c="0"><na f="s/Shen:Ying" pid="01/8558">Ying Shen</na></co>
+<co c="0"><na f="s/Shi:Kelly" pid="254/1797">Kelly Shi</na></co>
+<co c="0"><na f="t/Tanveer:Md=_Iftekhar" pid="48/10270">Md. Iftekhar Tanveer</na></co>
+<co c="0"><na f="t/Tong:Edmund" pid="200/8098">Edmund Tong</na></co>
+<co c="0" n="2"><na f="t/Tsai:Yao=Hung" pid="154/3702">Yao-Hung Tsai</na><na>Yao-Hung Hubert Tsai</na></co>
+<co c="0"><na f="u/Uppal:Shagun" pid="236/5142">Shagun Uppal</na></co>
+<co c="0"><na f="v/Vij:Prateek" pid="188/5727">Prateek Vij</na></co>
+<co c="0"><na f="w/Wang:Sen" pid="69/6403">Sen Wang</na></co>
+<co c="0"><na f="w/Wang:Yansen" pid="134/7817">Yansen Wang</na></co>
+<co c="0"><na f="w/Wang:Yongxin" pid="95/9248">Yongxin Wang</na></co>
+<co c="0"><na f="y/Yang:Jianing" pid="32/1139">Jianing Yang</na></co>
+<co c="0"><na f="y/Yi:Ruitao" pid="270/0817">Ruitao Yi</na></co>
+<co c="0"><na f="z/Zellers:Rowan" pid="182/2175">Rowan Zellers</na></co>
+<co c="0"><na f="z/Zhang:Yiwei" pid="86/1695">Yiwei Zhang</na></co>
+<co c="0"><na f="z/Zhong:Jianyuan" pid="239/5133">Jianyuan Zhong</na></co>
+<co c="0"><na f="z/Zhu_0004:Yuying" pid="201/8723-4">Yuying Zhu 0004</na></co>
+<co c="0"><na f="z/Zimmermann:Roger" pid="79/1490">Roger Zimmermann</na></co>
+</coauthors>
+</dblpperson>
+

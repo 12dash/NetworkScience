@@ -1,3 +1,3634 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:491a25ed7e71d49eb86e2cfb6fc863ab04acccc2e3f1ed2a7940aa16d739c4c7
-size 158664
+<?xml version="1.0"?>
+<dblpperson name="Kam-Fai Wong" pid="w/KamFaiWong" n="230">
+<person key="homepages/w/KamFaiWong" mdate="2016-03-03">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<note type="affiliation">Chinese University of Hong Kong</note>
+<url>http://www.se.cuhk.edu.hk/~kfwong/</url>
+</person>
+<r><article key="journals/tist/MaGJW20" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks.</title>
+<pages>42:1-42:28</pages>
+<year>2020</year>
+<volume>11</volume>
+<journal>ACM Trans. Intell. Syst. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3391250</ee>
+<url>db/journals/tist/tist11.html#MaGJW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/ZengLWMW20" mdate="2021-01-21">
+<author pid="220/2024">Xingshan Zeng</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="49/3800-8">Lu Wang 0008</author>
+<author pid="258/8430">Zhiming Mao</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Dynamic Online Conversation Recommendation.</title>
+<pages>3331-3341</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.305</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.305/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#ZengLWMW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/WangPW20" mdate="2021-01-08">
+<author pid="58/1340">Huimin Wang</author>
+<author pid="144/2759">Baolin Peng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Learning Efficient Dialogue Policy from Demonstrations through Shaping.</title>
+<pages>6355-6365</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.566</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.566/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#WangPW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WangLZZW20" mdate="2021-01-08">
+<author pid="66/8430">Lingzhi Wang</author>
+<author pid="181/2820-49">Jing Li 0049</author>
+<author pid="220/2024">Xingshan Zeng</author>
+<author pid="220/2004">Haisong Zhang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations.</title>
+<pages>6640-6650</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.538</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.538/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#WangLZZW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/WangTLLZFW20" mdate="2020-12-15">
+<author pid="72/1462-3">Hongru Wang 0003</author>
+<author pid="246/8064">Xiangru Tang</author>
+<author pid="220/0987">Sunny Lai</author>
+<author pid="l/KwongSakLeung">Kwong-Sak Leung</author>
+<author pid="22/2544">Jia Zhu</author>
+<author pid="22/1076">Gabriel Pui Cheong Fung</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>CUHK at SemEval-2020 Task 4: CommonSense Explanation, Reasoning and Prediction with Multi-task Learning.</title>
+<pages>391-400</pages>
+<year>2020</year>
+<booktitle>SemEval@COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/2020.semeval-1.47/</ee>
+<crossref>conf/semeval/2020</crossref>
+<url>db/conf/semeval/semeval2020.html#WangTLLZFW20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ijcnlp/2020" mdate="2020-12-15">
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="77/1610">Kevin Knight</editor>
+<editor pid="27/6045">Hua Wu</editor>
+<title>Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, AACL/IJCNLP 2020, Suzhou, China, December 4-7, 2020</title>
+<booktitle>AACL/IJCNLP</booktitle>
+<publisher>Association for Computational Linguistics</publisher>
+<year>2020</year>
+<isbn>978-1-952148-91-0</isbn>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/2020.aacl-main/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.aacl-main.0/</ee>
+<url>db/conf/ijcnlp/ijcnlp2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10663" mdate="2020-04-28">
+<author pid="206/1677">Dingmin Wang</author>
+<author pid="11/7536">Chenghua Lin</author>
+<author pid="70/3488">Li Zhong</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems.</title>
+<year>2020</year>
+<volume>abs/2004.10663</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10663</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10663</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-08772" mdate="2020-11-25">
+<author pid="72/1462-3">Hongru Wang 0003</author>
+<author pid="82/0">Min Li</author>
+<author pid="278/7939">Zimo Zhou</author>
+<author pid="22/1076">Gabriel Pui Cheong Fung</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>KddRES: A Multi-level Knowledge-driven Dialogue Dataset for Restaurant Towards Customized Dialogue System.</title>
+<year>2020</year>
+<volume>abs/2011.08772</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.08772</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-08772</url>
+</article>
+</r>
+<r><article key="journals/ijseke/WuLWN19" mdate="2020-07-22">
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="n/JianYunNie">Jian-Yun Nie</author>
+<title>Binary Independence Language Model in a Relevance Feedback Environment.</title>
+<pages>873-895</pages>
+<year>2019</year>
+<volume>29</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1142/S021819401950030X</ee>
+<url>db/journals/ijseke/ijseke29.html#WuLWN19</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/MaGJW19" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks.</title>
+<pages>2561-2571</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1244</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1244/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#MaGJW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ZengLWW19" mdate="2020-03-31">
+<author pid="220/2024">Xingshan Zeng</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="49/3800-8">Lu Wang 0008</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Joint Effects of Context and User History for Predicting Online Conversation Re-entries.</title>
+<pages>2809-2818</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1270</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1270/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#ZengLWW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiaoLZWWW19" mdate="2020-09-07">
+<author pid="88/6511">Ming Liao</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="220/2004">Haisong Zhang</author>
+<author pid="66/8430">Lingzhi Wang</author>
+<author pid="125/2836">Xixin Wu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Coupling Global and Local Context for Unsupervised Aspect Extraction.</title>
+<pages>4578-4588</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1465</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#LiaoLZWWW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZengLWW19" mdate="2020-09-07">
+<author pid="220/2024">Xingshan Zeng</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="49/3800-8">Lu Wang 0008</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Neural Conversation Recommendation with Online Interaction Modeling.</title>
+<pages>4632-4642</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1470</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#ZengLWW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangL0ZHNW19" mdate="2020-09-04">
+<author pid="39/1084-3">Tengjiao Wang 0003</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="c/WeiChen21">Wei Chen 0021</author>
+<author pid="29/65">Yuxiao Zhang</author>
+<author pid="45/1306">Ying Han</author>
+<author pid="89/5829">Jinzhong Niu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An Environment-Aware Market Strategy for Data Allocation and Dynamic Migration in Cloud Database.</title>
+<pages>2032-2035</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00232</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#WangL0ZHNW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LiuCWPHDHHW19" mdate="2019-08-20">
+<author pid="22/10360">Qianlong Liu</author>
+<author pid="24/8678">Baoliang Cui</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="144/2759">Baolin Peng</author>
+<author pid="241/9737">Haikuan Huang</author>
+<author pid="09/43">Hongbo Deng</author>
+<author pid="21/7664">Jianye Hao</author>
+<author pid="05/6735">Xuanjing Huang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Building Personalized Simulator for Interactive Search.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/710</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#LiuCWPHDHHW19</url>
+<pages>5109-5115</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/LinLXPW19" mdate="2019-10-01">
+<author pid="29/6347">Xiang Lin</author>
+<author pid="50/6801">Xiangwen Liao</author>
+<author pid="70/6770">Tong Xu</author>
+<author pid="249/7585">Wenjing Pian</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Rumor Detection with Hierarchical Recurrent Convolutional Neural Network.</title>
+<pages>338-348</pages>
+<year>2019</year>
+<booktitle>NLPCC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32236-6_30</ee>
+<crossref>conf/nlpcc/2019-2</crossref>
+<url>db/conf/nlpcc/nlpcc2019-2.html#LinLXPW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Ma0W19" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning.</title>
+<pages>3049-3055</pages>
+<year>2019</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3308558.3313741</ee>
+<crossref>conf/www/2019</crossref>
+<url>db/conf/www/www2019.html#Ma0W19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-01185" mdate="2020-09-07">
+<author pid="220/2024">Xingshan Zeng</author>
+<author pid="181/2820-49">Jing Li 0049</author>
+<author pid="49/3800-8">Lu Wang 0008</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Joint Effects of Context and User History for Predicting Online Conversation Re-entries.</title>
+<year>2019</year>
+<volume>abs/1906.01185</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.01185</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-01185</url>
+</article>
+</r>
+<r><article key="journals/candie/BalakrishnanCWW18" mdate="2020-02-20">
+<author pid="05/758">Jaydeep Balakrishnan</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="40/1033">Kwan-Ho Woo</author>
+<title>Product recommendation algorithms in the age of omnichannel retailing - An intuitive clustering approach.</title>
+<pages>459-470</pages>
+<year>2018</year>
+<volume>115</volume>
+<journal>Comput. Ind. Eng.</journal>
+<ee>https://doi.org/10.1016/j.cie.2017.12.005</ee>
+<url>db/journals/candie/candie115.html#BalakrishnanCWW18</url>
+</article>
+</r>
+<r><article key="journals/coling/LiSWW18" mdate="2020-05-11">
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="09/1398">Yan Song</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Joint Model of Conversational Discourse and Latent Topics on Microblogs.</title>
+<year>2018</year>
+<volume>44</volume>
+<journal>Comput. Linguistics</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1162/coli_a_00335</ee>
+<url>db/journals/coling/coling44.html#LiSWW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangFDDZW18" mdate="2021-02-18">
+<author pid="206/1677">Dingmin Wang</author>
+<author pid="22/1076">Gabriel Pui Cheong Fung</author>
+<author pid="205/2061">Maxime Debosschere</author>
+<author pid="67/8730">Shichao Dong</author>
+<author pid="22/2544">Jia Zhu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A New Benchmark and Evaluation Schema for Chinese Typo Detection and Correction.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16742</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangFDDZW18</url>
+<pages>8169-8170</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/WeiLPTCHWD18" mdate="2019-09-16">
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="22/10360">Qianlong Liu</author>
+<author pid="144/2759">Baolin Peng</author>
+<author pid="211/4152">Huaixiao Tou</author>
+<author pid="19/1766">Ting Chen</author>
+<author pid="05/6735">Xuanjing Huang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="222/9502">Xiangying Dai</author>
+<title>Task-oriented Dialogue System for Automatic Diagnosis.</title>
+<pages>201-207</pages>
+<year>2018</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-2033/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-2033</ee>
+<crossref>conf/acl/2018-2</crossref>
+<url>db/conf/acl/acl2018-2.html#WeiLPTCHWD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/WongGM18" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Rumor Detection on Twitter with Tree-structured Recursive Neural Networks.</title>
+<pages>1980-1989</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-1184/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1184</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#WongGM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/GaoWPLL18" mdate="2020-09-04">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="30/9646">Xiujun Li</author>
+<author pid="92/5339">Jianfeng Gao</author>
+<author pid="30/3008-1">Jingjing Liu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning.</title>
+<pages>2182-2192</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-1203/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1203</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#GaoWPLL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/PengLGLCW18" mdate="2020-09-04">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="30/9646">Xiujun Li</author>
+<author pid="92/5339">Jianfeng Gao</author>
+<author pid="30/3008-1">Jingjing Liu 0001</author>
+<author pid="04/9878">Yun-Nung Chen</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Adversarial Advantage Actor-Critic Model for Task-Completion Dialogue Policy Learning.</title>
+<pages>6149-6153</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8461918</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#PengLGLCW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/LiXCHYXWW18" mdate="2020-09-04">
+<author pid="32/7967">Binyang Li</author>
+<author pid="90/2913">Jun Xiang</author>
+<author pid="19/576">Le Chen</author>
+<author pid="19/3011">Xu Han</author>
+<author pid="48/6513">Xiaoyan Yu</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="39/1084-3">Tengjiao Wang 0003</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>The UIR Uncertainty Corpus for Chinese: Annotating Chinese Microblog Corpus for Uncertainty Identification from Social Media.</title>
+<year>2018</year>
+<booktitle>LREC</booktitle>
+<crossref>conf/lrec/2018</crossref>
+<url>db/conf/lrec/lrec2018.html#LiXCHYXWW18</url>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2018/summaries/208.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/ZengLWBSW18" mdate="2020-03-31">
+<author pid="220/2024">Xingshan Zeng</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="49/3800-8">Lu Wang 0008</author>
+<author pid="220/2037">Nicholas Beauchamp</author>
+<author pid="200/8165">Sarah Shugars</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Microblog Conversation Recommendation via Joint Modeling of Topics and Discourse.</title>
+<pages>375-385</pages>
+<year>2018</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n18-1035</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N18-1035/</ee>
+<crossref>conf/naacl/2018-1</crossref>
+<url>db/conf/naacl/naacl2018-1.html#ZengLWBSW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/FanGD0XW18" mdate="2018-11-21">
+<author pid="221/3565">Chuang Fan</author>
+<author pid="208/2315">Qinghong Gao</author>
+<author pid="172/9266">Jiachen Du</author>
+<author pid="34/8605-3">Lin Gui 0003</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Convolution-based Memory Network for Aspect-based Sentiment Analysis.</title>
+<pages>1161-1164</pages>
+<year>2018</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3209978.3210115</ee>
+<crossref>conf/sigir/2018</crossref>
+<url>db/conf/sigir/sigir2018.html#FanGD0XW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MaGW18" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Detect Rumor and Stance Jointly by Neural Multi-task Learning.</title>
+<pages>585-593</pages>
+<year>2018</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3184558.3188729</ee>
+<crossref>conf/www/2018c</crossref>
+<url>db/conf/www/www2018c.html#MaGW18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-06176" mdate="2020-09-04">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="30/9646">Xiujun Li</author>
+<author pid="92/5339">Jianfeng Gao</author>
+<author pid="30/3008-1">Jingjing Liu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Integrating planning for task-completion dialogue policy learning.</title>
+<year>2018</year>
+<volume>abs/1801.06176</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.06176</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-06176</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-03690" mdate="2020-03-17">
+<author pid="181/2820-49">Jing Li 0049</author>
+<author pid="09/1398">Yan Song</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Joint Model of Conversational Discourse and Latent Topics on Microblogs.</title>
+<year>2018</year>
+<volume>abs/1809.03690</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.03690</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-03690</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/MaGW17" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning.</title>
+<pages>708-717</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1066</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#MaGW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl-tea/FungDWLZW17" mdate="2019-09-11">
+<author pid="22/1076">Gabriel Pui Cheong Fung</author>
+<author pid="205/2061">Maxime Debosschere</author>
+<author pid="206/1677">Dingmin Wang</author>
+<author pid="50/3402">Bo Li</author>
+<author pid="22/2544">Jia Zhu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>NLPTEA 2017 Shared Task - Chinese Spelling Check.</title>
+<pages>29-34</pages>
+<year>2017</year>
+<booktitle>NLP-TEA@IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W17-5905/</ee>
+<crossref>conf/acl-tea/2017</crossref>
+<url>db/conf/acl-tea/acl-tea2017.html#FungDWLZW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/WongPZSJ17" mdate="2020-01-29">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="69/172">Michael L. Seltzer</author>
+<author pid="204/1005">Y. C. Ju</author>
+<author pid="z/GeoffreyZweig">Geoffrey Zweig</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>May I take your order? A Neural Model for Extracting Structured Information from Conversations.</title>
+<pages>450-459</pages>
+<year>2017</year>
+<booktitle>EACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/e17-1043</ee>
+<ee type="oa">https://www.aclweb.org/anthology/E17-1043/</ee>
+<crossref>conf/eacl/2017-1</crossref>
+<url>db/conf/eacl/eacl2017-1.html#WongPZSJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/PengLLGCLW17" mdate="2021-03-03">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="30/9646">Xiujun Li</author>
+<author pid="l/LihongLi">Lihong Li 0001</author>
+<author pid="92/5339">Jianfeng Gao</author>
+<author pid="15/3724">Asli Celikyilmaz</author>
+<author pid="29/3671">Sungjin Lee</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning.</title>
+<pages>2231-2240</pages>
+<year>2017</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d17-1237</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D17-1237/</ee>
+<crossref>conf/emnlp/2017</crossref>
+<url>db/conf/emnlp/emnlp2017.html#PengLLGCLW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SongGFWWZ17" mdate="2020-12-29">
+<author pid="30/11037">Kaisong Song</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="97/1374">Shi Feng</author>
+<author pid="37/2233">Daling Wang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author orcid="0000-0001-5715-7154" pid="71/964">Chengqi Zhang</author>
+<title>Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness.</title>
+<pages>2744-2750</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/382</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#SongGFWWZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/YuLWW17" mdate="2019-09-18">
+<author pid="68/5894">Liang-Chih Yu</author>
+<author pid="28/3455">Lung-Hao Lee</author>
+<author pid="92/1375-8">Jin Wang 0008</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>IJCNLP-2017 Task 2: Dimensional Sentiment Analysis for Chinese Phrases.</title>
+<pages>9-16</pages>
+<year>2017</year>
+<booktitle>IJCNLP (Shared Tasks)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I17-4002/</ee>
+<crossref>conf/ijcnlp/2017-st</crossref>
+<url>db/conf/ijcnlp/ijcnlp2017-st.html#YuLWW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/LiaoZ0WC17" mdate="2018-11-02">
+<author orcid="0000-0002-9500-4447" pid="50/6801">Xiangwen Liao</author>
+<author pid="163/3328">Lingying Zhang</author>
+<author pid="34/8605-3">Lin Gui 0003</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="86/2961">Guolong Chen</author>
+<title>A Tensor Factorization Based User Influence Analysis Method with Clustering and Temporal Constraint.</title>
+<pages>877-886</pages>
+<year>2017</year>
+<booktitle>NLPCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-73618-1_77</ee>
+<crossref>conf/nlpcc/2017</crossref>
+<url>db/conf/nlpcc/nlpcc2017.html#LiaoZ0WC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PengLLGCLW17" mdate="2021-03-03">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="30/9646">Xiujun Li</author>
+<author pid="l/LihongLi">Lihong Li 0001</author>
+<author pid="92/5339">Jianfeng Gao</author>
+<author pid="15/3724">Asli Celikyilmaz</author>
+<author pid="29/3671">Sungjin Lee</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Composite Task-Completion Dialogue System via Hierarchical Deep Reinforcement Learning.</title>
+<year>2017</year>
+<volume>abs/1704.03084</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.03084</ee>
+<url>db/journals/corr/corr1704.html#PengLLGCLW17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-11277" mdate="2020-09-04">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="30/9646">Xiujun Li</author>
+<author pid="92/5339">Jianfeng Gao</author>
+<author pid="30/3008-1">Jingjing Liu 0001</author>
+<author pid="04/9878">Yun-Nung Chen</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Adversarial Advantage Actor-Critic Model for Task-Completion Dialogue Policy Learning.</title>
+<year>2017</year>
+<volume>abs/1710.11277</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.11277</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-11277</url>
+</article>
+</r>
+<r><article key="journals/caaitrit/HanLWS16" mdate="2019-08-15">
+<author pid="19/3011">Xu Han</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="52/1213">Zhongzhi Shi</author>
+<title>Exploiting structural similarity of log files in fault diagnosis for Web service composition.</title>
+<pages>61-71</pages>
+<year>2016</year>
+<volume>1</volume>
+<journal>CAAI Trans. Intell. Technol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.trit.2016.03.006</ee>
+<url>db/journals/caaitrit/caaitrit1.html#HanLWS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/LiLGHW16" mdate="2020-03-31">
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="88/6511">Ming Liao</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="75/5430">Yulan He</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Topic Extraction from Microblog Posts Using Conversation Structures.</title>
+<year>2016</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p16-1199</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P16-1199/</ee>
+<crossref>conf/acl/2016-1</crossref>
+<url>db/conf/acl/acl2016-1.html#LiLGHW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/DongFLPLZW16" mdate="2019-09-11">
+<author pid="67/8730">Shichao Dong</author>
+<author pid="22/1076">Gabriel Pui Cheong Fung</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="144/2759">Baolin Peng</author>
+<author pid="88/6511">Ming Liao</author>
+<author pid="22/2544">Jia Zhu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>ACE: Automatic Colloquialism, Typographical and Orthographic Errors Detection for Chinese Language.</title>
+<pages>194-197</pages>
+<year>2016</year>
+<booktitle>COLING (Demos)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C16-2041/</ee>
+<crossref>conf/coling/2016d</crossref>
+<url>db/conf/coling/coling2016d.html#DongFLPLZW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ialp/YuLW16" mdate="2017-05-24">
+<author pid="68/5894">Liang-Chih Yu</author>
+<author pid="28/3455">Lung-Hao Lee</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Overview of the IALP 2016 shared task on Dimensional Sentiment Analysis for Chinese Words.</title>
+<pages>156-160</pages>
+<year>2016</year>
+<booktitle>IALP</booktitle>
+<ee>https://doi.org/10.1109/IALP.2016.7875957</ee>
+<crossref>conf/ialp/2016</crossref>
+<url>db/conf/ialp/ialp2016.html#YuLW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/MaGMKJWC16" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="19/3308">Prasenjit Mitra</author>
+<author pid="137/3631">Sejeong Kwon</author>
+<author pid="00/4818">Bernard J. Jansen</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="57/4924">Meeyoung Cha</author>
+<title>Detecting Rumors from Microblogs with Recurrent Neural Networks.</title>
+<pages>3818-3824</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/537</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#MaGMKJWC16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/acl-alr/2016" mdate="2019-08-19">
+<editor pid="77/5882">K&#244;iti Hasida</editor>
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="214/2844">Nicoletta Calzorari</editor>
+<editor pid="97/6969">Key-Sun Choi</editor>
+<title>Proceedings of the 12th Workshop on Asian Language Resources, ALR@COLING 2016, Osaka, Japan, December 12, 2016</title>
+<booktitle>ALR@COLING</booktitle>
+<publisher>The COLING 2016 Organizing Committee</publisher>
+<year>2016</year>
+<isbn>978-4-87974-722-8</isbn>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/W16-54/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W16-5400/</ee>
+<url>db/conf/acl-alr/acl-alr2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YaoPZW16" mdate="2018-08-13">
+<author pid="83/766">Kaisheng Yao</author>
+<author pid="144/2759">Baolin Peng</author>
+<author pid="z/GeoffreyZweig">Geoffrey Zweig</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An Attentional Neural Conversation Model with Improved Specificity.</title>
+<year>2016</year>
+<volume>abs/1606.01292</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.01292</ee>
+<url>db/journals/corr/corr1606.html#YaoPZW16</url>
+</article>
+</r>
+<r><article key="journals/www/XuG0LW15" mdate="2019-10-31">
+<author pid="93/5407">Ruifeng Xu</author>
+<author orcid="0000-0002-8054-9524" pid="34/8605-3">Lin Gui 0003</author>
+<author pid="90/514-7">Jun Xu 0007</author>
+<author orcid="0000-0002-9092-2476" pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Cross lingual opinion holder extraction based on multi-kernel SVMs and transfer learning.</title>
+<pages>299-316</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>World Wide Web</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11280-013-0246-0</ee>
+<url>db/journals/www/www18.html#XuG0LW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicling/PengLCHXW15" mdate="2020-01-22">
+<author pid="144/2759">Baolin Peng</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="89/5032">Junwen Chen</author>
+<author pid="19/3011">Xu Han</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Trending Sentiment-Topic Detection on Twitter.</title>
+<pages>66-77</pages>
+<year>2015</year>
+<booktitle>CICLing (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18117-2_5</ee>
+<crossref>conf/cicling/2015-2</crossref>
+<url>db/conf/cicling/cicling2015-2.html#PengLCHXW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/XuW0CLW15" mdate="2020-01-10">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="28/624-5">Zhaoyu Wang 0005</author>
+<author pid="90/514-7">Jun Xu 0007</author>
+<author pid="89/5032">Junwen Chen</author>
+<author orcid="0000-0002-9092-2476" pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An Iterative Emotion Classification Approach for Microblogs.</title>
+<pages>104-113</pages>
+<year>2015</year>
+<booktitle>CICLing (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18117-2_8</ee>
+<crossref>conf/cicling/2015-2</crossref>
+<url>db/conf/cicling/cicling2015-2.html#XuW0CLW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/MaGWLW15" mdate="2020-12-03">
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="24/334">Yueming Lu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Detect Rumors Using Time Series of Social Context Information on Microblogging Websites.</title>
+<pages>1751-1754</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2806416.2806607</ee>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#MaGWLW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiGWPW15" mdate="2020-03-31">
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="144/2759">Baolin Peng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Using Content-level Structures for Summarizing Microblog Repost Trees.</title>
+<pages>2168-2178</pages>
+<year>2015</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d15-1259</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D15-1259/</ee>
+<crossref>conf/emnlp/2015</crossref>
+<url>db/conf/emnlp/emnlp2015.html#LiGWPW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SongFGWYW15" mdate="2019-12-11">
+<author pid="30/11037">Kaisong Song</author>
+<author pid="97/1374">Shi Feng</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="37/2233">Daling Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Personalized Sentiment Classification Based on Latent Individuality of Microblog Users.</title>
+<pages>2277-2283</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/322</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#SongFGWYW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/PengYJW15" mdate="2020-01-22">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="83/766">Kaisheng Yao</author>
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Recurrent Neural Networks with External Memory for Spoken Language Understanding.</title>
+<pages>25-35</pages>
+<year>2015</year>
+<booktitle>NLPCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25207-0_3</ee>
+<crossref>conf/nlpcc/2015</crossref>
+<url>db/conf/nlpcc/nlpcc2015.html#PengYJW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/LiWWZCW15" mdate="2020-01-22">
+<author orcid="0000-0002-8044-2284" pid="181/2820-49">Jing Li 0049</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="96/133">Hao Wei</author>
+<author pid="169/1501">Kangfei Zhao</author>
+<author pid="89/5032">Junwen Chen</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Learning to Rank Microblog Posts for Real-Time Ad-Hoc Search.</title>
+<pages>436-443</pages>
+<year>2015</year>
+<booktitle>NLPCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25207-0_40</ee>
+<crossref>conf/nlpcc/2015</crossref>
+<url>db/conf/nlpcc/nlpcc2015.html#LiWWZCW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/HanLMZOWW15" mdate="2020-12-03">
+<author pid="19/3011">Xu Han</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="96/6129-4">Jing Ma 0004</author>
+<author pid="29/65">Yuxiao Zhang</author>
+<author pid="60/9436">Gaoyan Ou</author>
+<author pid="39/1084-3">Tengjiao Wang 0003</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>UIR-PKU: Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015.</title>
+<pages>664-668</pages>
+<year>2015</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s15-2111</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S15-2111/</ee>
+<crossref>conf/semeval/2015</crossref>
+<url>db/conf/semeval/semeval2015.html#HanLMZOWW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ZhuFWLLD15" mdate="2017-05-21">
+<author pid="22/2544">Jia Zhu</author>
+<author pid="22/1076">Gabriel Pui Cheong Fung</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="38/3988">Zhixu Li</author>
+<author pid="163/4089">Haoye Dong</author>
+<title>The Role of Physical Location in Our Online Social Networks.</title>
+<pages>498-501</pages>
+<year>2015</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21042-1_49</ee>
+<crossref>conf/waim/2015</crossref>
+<url>db/conf/waim/waim2015.html#ZhuFWLLD15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PengLLW15" mdate="2018-08-13">
+<author pid="144/2759">Baolin Peng</author>
+<author pid="33/3562">Zhengdong Lu</author>
+<author pid="83/5560-1">Hang Li 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Towards Neural Network-based Reasoning.</title>
+<year>2015</year>
+<volume>abs/1508.05508</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.05508</ee>
+<url>db/journals/corr/corr1508.html#PengLLW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/LiZWWXX14" mdate="2020-01-28">
+<author pid="32/7967">Binyang Li</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Web Information Mining and Decision Support Platform for the Modern Service Industry.</title>
+<pages>97-102</pages>
+<year>2014</year>
+<booktitle>ACL (System Demonstrations)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p14-5017</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P14-5017/</ee>
+<crossref>conf/acl/2014-d</crossref>
+<url>db/conf/acl/acl2014-d.html#LiZWWXX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/OuCLWYW14" mdate="2020-09-04">
+<author pid="60/9436">Gaoyan Ou</author>
+<author pid="c/WeiChen21">Wei Chen 0021</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="39/1084-3">Tengjiao Wang 0003</author>
+<author pid="65/661">Dongqing Yang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>CLUSM: An Unsupervised Model for Microblog Sentiment Analysis Incorporating Link Information.</title>
+<pages>481-494</pages>
+<year>2014</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05810-8_32</ee>
+<crossref>conf/dasfaa/2014-1</crossref>
+<url>db/conf/dasfaa/dasfaa2014-1.html#OuCLWYW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/OuCWWLYW14" mdate="2020-09-04">
+<author pid="60/9436">Gaoyan Ou</author>
+<author pid="c/WeiChen21">Wei Chen 0021</author>
+<author pid="39/1084-3">Tengjiao Wang 0003</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="65/661">Dongqing Yang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Exploiting Community Emotion for Microblog Event Detection.</title>
+<pages>1159-1168</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1123</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1123/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#OuCWWLYW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/ZhouLWW14" mdate="2019-08-19">
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>The CUHK Discourse TreeBank for Chinese: Annotating Explicit Discourse Connectives for the Chinese TreeBank.</title>
+<pages>942-949</pages>
+<year>2014</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2014/summaries/270.html</ee>
+<crossref>conf/lrec/2014</crossref>
+<url>db/conf/lrec/lrec2014.html#ZhouLWW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WeiGEMW14" mdate="2018-11-06">
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="151/5530">Tarek El-Ganainy</author>
+<author pid="56/1909">Walid Magdy</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Ranking model selection and fusion for effective microblog search.</title>
+<pages>21-26</pages>
+<year>2014</year>
+<booktitle>SoMeRA@SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2632188.2632202</ee>
+<crossref>conf/sigir/2014somera</crossref>
+<url>db/conf/sigir/somera2014.html#WeiGEMW14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipm/YangGTW13" mdate="2020-09-02">
+<author pid="51/6008-1">Pei Yang 0001</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="77/6056">Qi Tan</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A link-bridged topic model for cross-domain document classification.</title>
+<pages>1181-1193</pages>
+<year>2013</year>
+<volume>49</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.ipm.2013.05.002</ee>
+<url>db/journals/ipm/ipm49.html#YangGTW13</url>
+</article>
+</r>
+<r><article key="journals/tist/HeLGW13" mdate="2020-10-26">
+<author orcid="0000-0003-3948-5845" pid="75/5430">Yulan He</author>
+<author orcid="0000-0003-3454-2468" pid="11/7536">Chenghua Lin</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Dynamic joint sentiment-topic model.</title>
+<pages>6:1-6:21</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>ACM Trans. Intell. Syst. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2542182.2542188</ee>
+<url>db/journals/tist/tist5.html#HeLGW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/WeiCGLZHW13" mdate="2019-08-19">
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="89/5032">Junwen Chen</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="75/5430">Yulan He</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An Empirical Study on Uncertainty Identification in Social Media Context.</title>
+<pages>58-62</pages>
+<year>2013</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P13-2011/</ee>
+<crossref>conf/acl/2013-2</crossref>
+<url>db/conf/acl/acl2013-2.html#WeiCGLZHW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/XuXZLWW13" mdate="2019-10-31">
+<author pid="90/514-7">Jun Xu 0007</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="127/1225">Yanzhen Zheng</author>
+<author orcid="0000-0002-9092-2476" pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="91/952-1">Xiaolong Wang 0001</author>
+<title>Chinese Emotion Lexicon Developing via Multi-lingual Lexical Resources Integration.</title>
+<pages>174-182</pages>
+<year>2013</year>
+<booktitle>CICLing (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37256-8_15</ee>
+<crossref>conf/cicling/2013-2</crossref>
+<url>db/conf/cicling/cicling2013-2.html#XuXZLWW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/LiWZWX13" mdate="2017-05-24">
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="90/514-7">Jun Xu 0007</author>
+<title>Pests Hidden in Your Fans: An Effective Approach for Opinion Leader Discovery.</title>
+<pages>227-237</pages>
+<year>2013</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41491-6_21</ee>
+<crossref>conf/cncl/2013</crossref>
+<url>db/conf/cncl/ccl2013.html#LiWZWX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/FengZLWYW13" mdate="2019-12-11">
+<author pid="97/1374">Shi Feng</author>
+<author pid="03/4043">Le Zhang</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="37/2233">Daling Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Is Twitter A Better Corpus for Measuring Sentiment Similarity?</title>
+<pages>897-902</pages>
+<year>2013</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D13-1091/</ee>
+<crossref>conf/emnlp/2013</crossref>
+<url>db/conf/emnlp/emnlp2013.html#FengZLWYW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/WeiHGLZW13" mdate="2018-11-06">
+<author pid="31/10489">Zhongyu Wei</author>
+<author orcid="0000-0003-3948-5845" pid="75/5430">Yulan He</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Mainstream media behavior analysis on Twitter: a case study on UK general election.</title>
+<pages>174-178</pages>
+<year>2013</year>
+<booktitle>HT</booktitle>
+<ee>https://doi.org/10.1145/2481492.2481512</ee>
+<crossref>conf/ht/2013</crossref>
+<url>db/conf/ht/ht2013.html#WeiHGLZW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/GuiXXYYZQWWC13" mdate="2018-09-01">
+<author orcid="0000-0002-8054-9524" pid="34/8605-3">Lin Gui 0003</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="90/514-7">Jun Xu 0007</author>
+<author pid="98/4583-2">Li Yuan 0002</author>
+<author pid="144/6622">Yuanlin Yao</author>
+<author pid="176/7460">Jiyun Zhou</author>
+<author pid="155/0142">Qiaoyun Qiu</author>
+<author pid="65/7894">Shuwei Wang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="59/6276">Ricky Cheung</author>
+<title>A Mixed Model for Cross Lingual Opinion Analysis.</title>
+<pages>93-104</pages>
+<year>2013</year>
+<booktitle>NLPCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41644-6_10</ee>
+<crossref>conf/nlpcc/2013</crossref>
+<url>db/conf/nlpcc/nlpcc2013.html#GuiXXYYZQWWC13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-7404" mdate="2018-08-13">
+<author pid="88/2634">Benson Hin Kwong Ng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="37/6408">Boon Toh Low</author>
+<title>Resolving Conflicting Arguments under Uncertainties</title>
+<ee type="oa">http://arxiv.org/abs/1301.7404</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.7404</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-7404</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TangQZWZL13" mdate="2018-08-13">
+<author pid="135/6318">Duyu Tang</author>
+<author pid="86/5934">Bing Qin 0001</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="38/4524">Yanyan Zhao</author>
+<author pid="52/5150-1">Ting Liu 0001</author>
+<title>Domain-Specific Sentiment Word Extraction by Seed Expansion and Pattern Generation.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.6722</ee>
+<volume>abs/1309.6722</volume>
+<url>db/journals/corr/corr1309.html#TangQZWZL13</url>
+</article>
+</r>
+<r><article key="journals/ipm/WuLWN12" mdate="2020-02-21">
+<author pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="n/JianYunNie">Jian-Yun Nie</author>
+<title>A split-list approach for relevance feedback in information retrieval.</title>
+<pages>969-977</pages>
+<year>2012</year>
+<volume>48</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.ipm.2012.03.007</ee>
+<url>db/journals/ipm/ipm48.html#WuLWN12</url>
+</article>
+</r>
+<r><article key="journals/misq/LauLWC12" mdate="2020-05-15">
+<author pid="123/0667">Raymond Shaoyi Lau</author>
+<author pid="53/3715">Stephen S. Y. Liao</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="42/4256">Dickson K. W. Chiu</author>
+<title>Web 2.0 Environmental Scanning and Adaptive Decision Support for Business Mergers and Acquisitions.</title>
+<pages>1239-1268</pages>
+<year>2012</year>
+<volume>36</volume>
+<journal>MIS Q.</journal>
+<number>4</number>
+<ee>http://misq.org/web-2-0-environmental-scanning-and-adaptive-decision-support-for-business-mergers-and-acquisitions.html</ee>
+<url>db/journals/misq/misq36.html#LauLWC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/YangGTW12" mdate="2020-09-02">
+<author pid="51/6008-1">Pei Yang 0001</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="77/6056">Qi Tan</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Information-theoretic Multi-view Domain Adaptation.</title>
+<pages>270-274</pages>
+<year>2012</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P12-2053/</ee>
+<crossref>conf/acl/2012-2</crossref>
+<url>db/conf/acl/acl2012-2.html#YangGTW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/ZhouGLWW12" mdate="2019-09-11">
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Cross-Lingual Identification of Ambiguous Discourse Connectives for Resource-Poor Language.</title>
+<pages>1409-1418</pages>
+<year>2012</year>
+<booktitle>COLING (Posters)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C12-2138/</ee>
+<crossref>conf/coling/2012p</crossref>
+<url>db/conf/coling/coling2012p.html#ZhouGLWW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/HeLGW12" mdate="2021-02-05">
+<author pid="75/5430">Yulan He</author>
+<author pid="11/7536">Chenghua Lin</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Tracking Sentiment and Topic Dynamics from Social Media.</title>
+<year>2012</year>
+<booktitle>ICWSM</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4496</ee>
+<crossref>conf/icwsm/2012</crossref>
+<url>db/conf/icwsm/icwsm2012.html#HeLGW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/HeSWW12" mdate="2019-08-19">
+<author pid="75/5430">Yulan He</author>
+<author pid="120/5176">Hassan Saif</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Quantising Opinions for Political Tweets Analysis.</title>
+<pages>3901-3906</pages>
+<year>2012</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2012/summaries/217.html</ee>
+<crossref>conf/lrec/2012</crossref>
+<url>db/conf/lrec/lrec2012.html#HeSWW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/GaoWW12" mdate="2020-03-12">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Microblog Search and Filtering with Time Sensitive Feedback and Thresholding bsed on BM25.</title>
+<year>2012</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec21/papers/qcri_twitsear.micro.final.pdf</ee>
+<crossref>conf/trec/2012</crossref>
+<url>db/conf/trec/trec2012.html#GaoWW12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcpol/LiWZF11" mdate="2020-05-11">
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="97/1374">Shi Feng</author>
+<title>An Efficient Approach for Sentence-based Opinion Retrieval.</title>
+<pages>373-388</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S1793840611002413</ee>
+<url>db/journals/ijcpol/ijcpol23.html#LiWZF11</url>
+</article>
+</r>
+<r><article key="journals/itor/ChengWW11" mdate="2020-07-09">
+<author pid="98/1856">Chun Hung Cheng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="40/1033">Kwan-Ho Woo</author>
+<title>An improved branch-and-bound clustering approach for data partitioning.</title>
+<pages>231-255</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>Int. Trans. Oper. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1475-3995.2010.00781.x</ee>
+<url>db/journals/itor/itor18.html#ChengWW11</url>
+</article>
+</r>
+<r><article key="journals/kais/FengWYGW11" mdate="2019-12-11">
+<author pid="97/1374">Shi Feng</author>
+<author pid="37/2233">Daling Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Extracting common emotions from blogs based on fine-grained sentiment clustering.</title>
+<pages>281-302</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10115-010-0325-9</ee>
+<url>db/journals/kais/kais27.html#FengWYGW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/CaiGZW11" mdate="2019-09-13">
+<author pid="19/3952">Peng Cai</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Query Weighting for Ranking Model Adaptation.</title>
+<pages>112-122</pages>
+<year>2011</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P11-1012/</ee>
+<crossref>conf/acl/2011</crossref>
+<url>db/conf/acl/acl2011.html#CaiGZW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/LiZGWW11" mdate="2018-01-30">
+<author pid="32/7967">Binyang Li</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<title>An Effective Approach for Topic-Specific Opinion Summarization.</title>
+<pages>398-409</pages>
+<year>2011</year>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25631-8_36</ee>
+<crossref>conf/airs/2011</crossref>
+<url>db/conf/airs/airs2011.html#LiZGWW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LauLBW11" mdate="2018-11-06">
+<author orcid="0000-0002-5751-4550" pid="l/RaymondYKLau">Raymond Yiu-Keung Lau</author>
+<author pid="43/10440">Chun Lam Lai</author>
+<author orcid="0000-0001-7999-0534" pid="b/PeterBruza">Peter Bruza</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Leveraging web 2.0 data for scalable semi-supervised learning of domain-specific sentiment lexicons.</title>
+<pages>2457-2460</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063991</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#LauLBW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/CaiGWZ11" mdate="2018-01-30">
+<author pid="19/3952">Peng Cai</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Weight-Based Boosting Model for Cross-Domain Relevance Ranking Adaptation.</title>
+<pages>562-567</pages>
+<year>2011</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20161-5_56</ee>
+<crossref>conf/ecir/2011</crossref>
+<url>db/conf/ecir/ecir2011.html#CaiGWZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZhouLGWW11" mdate="2019-09-13">
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Unsupervised Discovery of Discourse Relations for Eliminating Intra-sentence Polarity Ambiguities.</title>
+<pages>162-171</pages>
+<year>2011</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D11-1015/</ee>
+<crossref>conf/emnlp/2011</crossref>
+<url>db/conf/emnlp/emnlp2011.html#ZhouLGWW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icebe/LauZBW11" mdate="2017-06-04">
+<author orcid="0000-0002-5751-4550" pid="l/RaymondYKLau">Raymond Y. K. Lau</author>
+<author pid="26/5398">Wenping Zhang</author>
+<author orcid="0000-0001-7999-0534" pid="b/PeterBruza">Peter D. Bruza</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Learning Domain-Specific Sentiment Lexicons for Predicting Product Sales.</title>
+<pages>131-138</pages>
+<year>2011</year>
+<booktitle>ICEBE</booktitle>
+<ee>https://doi.org/10.1109/ICEBE.2011.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICEBE.2011.55</ee>
+<crossref>conf/icebe/2011</crossref>
+<url>db/conf/icebe/icebe2011.html#LauZBW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/CaiGZW11" mdate="2018-11-06">
+<author pid="19/3952">Peng Cai</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Relevant knowledge helps in choosing right teacher: active query selection for ranking adaptation.</title>
+<pages>115-124</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2009916.2009935</ee>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#CaiGZW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/GaoZLLW11" mdate="2019-11-28">
+<author pid="59/9911">Dehong Gao</author>
+<author pid="60/9281">Renxian Zhang</author>
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author orcid="0000-0002-5751-4550" pid="l/RaymondYKLau">Raymond Yiu-Keung Lau</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Learning features through feedback for blog distillation.</title>
+<pages>1085-1086</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2009916.2010061</ee>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#GaoZLLW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/WeiZLWGWE11" mdate="2020-03-12">
+<author pid="31/10489">Zhongyu Wei</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Exploring Tweets Normalization and Query Time Sensitivity for Twitter Search.</title>
+<year>2011</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec20/papers/SEEM_CUHK.microblog.update.pdf</ee>
+<crossref>conf/trec/2011</crossref>
+<url>db/conf/trec/trec2011.html#WeiZLWGWE11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tois/GaoNNZWH10" mdate="2018-11-06">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="48/2002">Cheng Niu</author>
+<author pid="n/JianYunNie">Jian-Yun Nie</author>
+<author pid="16/1161">Ming Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="50/4528">Hsiao-Wuen Hon</author>
+<title>Exploiting query logs for cross-lingual query suggestions.</title>
+<year>2010</year>
+<volume>28</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1740592.1740594</ee>
+<url>db/journals/tois/tois28.html#GaoNNZWH10</url>
+<pages>6:1-6:33</pages>
+</article>
+</r>
+<r><inproceedings key="conf/acl/LiZFW10" mdate="2019-09-13">
+<author pid="32/7967">Binyang Li</author>
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="97/1374">Shi Feng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Unified Graph Model for Sentence-Based Opinion Retrieval.</title>
+<pages>1367-1375</pages>
+<year>2010</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P10-1139/</ee>
+<crossref>conf/acl/2010</crossref>
+<url>db/conf/acl/acl2010.html#LiZFW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/FengWYLW10" mdate="2019-12-11">
+<author pid="97/1374">Shi Feng</author>
+<author pid="37/2233">Daling Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Chinese Sentence Compression Method for Opinion Mining.</title>
+<pages>320-329</pages>
+<year>2010</year>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17187-1_31</ee>
+<crossref>conf/airs/2010</crossref>
+<url>db/conf/airs/airs2010.html#FengWYLW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/FengWYLW10" mdate="2019-12-11">
+<author pid="97/1374">Shi Feng</author>
+<author pid="37/2233">Daling Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Summarizing and Extracting Online Public Opinion from Blog Search Results.</title>
+<pages>476-490</pages>
+<year>2010</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12026-8_36</ee>
+<crossref>conf/dasfaa/2010-1</crossref>
+<url>db/conf/dasfaa/dasfaa2010-1.html#FengWYLW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmlc/LiZFW10" mdate="2017-05-21">
+<author pid="32/7967">Binyang Li</author>
+<author pid="33/8483">Lan-Jim Zhou</author>
+<author pid="97/1374">Shi Feng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An efficient approach for sentence-based opinion retrieval.</title>
+<pages>3281-3286</pages>
+<year>2010</year>
+<booktitle>ICMLC</booktitle>
+<ee>https://doi.org/10.1109/ICMLC.2010.5580697</ee>
+<crossref>conf/icmlc/2010</crossref>
+<url>db/conf/icmlc/icmlc2010.html#LiZFW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/ZhouXLW10" mdate="2020-03-12">
+<author pid="88/9011">Lanjun Zhou</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="32/7967">Binyang Li</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>WIA-Opinmine System in NTCIR-8 MOAT Evaluation.</title>
+<pages>286-292</pages>
+<year>2010</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings8/NTCIR/15-NTCIR8-MOAT-ZhouL.pdf</ee>
+<crossref>conf/ntcir/2010</crossref>
+<url>db/conf/ntcir/ntcir2010.html#ZhouXLW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/GaoCWZ10" mdate="2018-11-06">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="19/3952">Peng Cai</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Learning to rank only using training data from related domain.</title>
+<pages>162-169</pages>
+<year>2010</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1835449.1835478</ee>
+<crossref>conf/sigir/2010</crossref>
+<url>db/conf/sigir/sigir2010.html#GaoCWZ10</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2009Wong" mdate="2020-06-15">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="61/7522">Zheng-sheng Zhang</author>
+<title>Introduction to Chinese Natural Language Processing</title>
+<booktitle>Introduction to Chinese Natural Language Processing</booktitle>
+<ee>https://doi.org/10.2200/S00211ED1V01Y200909HLT004</ee>
+<year>2009</year>
+<series href="db/series/synthesis/hlt.html">Synthesis Lectures on Human Language Technologies</series>
+<publisher>Morgan &#38; Claypool Publishers</publisher>
+</book>
+</r>
+<r><article key="journals/ijcpol/XuLWL09" mdate="2020-05-11">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Building a Chinese Collocation Bank.</title>
+<pages>21-47</pages>
+<year>2009</year>
+<volume>22</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S1793840609002019</ee>
+<url>db/journals/ijcpol/ijcpol22.html#XuLWL09</url>
+</article>
+</r>
+<r><article key="journals/tois/DangWLW09" mdate="2019-10-19">
+<author pid="51/5443">Edward Kai Fung Dang</author>
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Building a framework for the probability ranking principle by a family of expected weighted rank.</title>
+<year>2009</year>
+<volume>27</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1629096.1629098</ee>
+<url>db/journals/tois/tois27.html#DangWLW09</url>
+<pages>20:1-20:37</pages>
+</article>
+</r>
+<r><inproceedings key="conf/acl/GaoBZW09" mdate="2019-09-13">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="48/2163">John Blitzer</author>
+<author pid="16/1161">Ming Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Exploiting Bilingual Information to Improve Web Search.</title>
+<pages>1075-1083</pages>
+<year>2009</year>
+<booktitle>ACL/IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P09-1121/</ee>
+<crossref>conf/acl/2009</crossref>
+<url>db/conf/acl/acl2009.html#GaoBZW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/XiaHW09" mdate="2017-05-26">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="17/7248">Boyi Hao</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Opinion Target Network and Bootstrapping Method for Chinese Opinion Target Extraction.</title>
+<pages>339-350</pages>
+<year>2009</year>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04769-5_30</ee>
+<crossref>conf/airs/2009</crossref>
+<url>db/conf/airs/airs2009.html#XiaHW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/GaoNZW09" mdate="2018-01-30">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="48/2002">Cheng Niu</author>
+<author pid="16/1161">Ming Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Joint Ranking for Multilingual Web Search.</title>
+<pages>114-125</pages>
+<year>2009</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00958-7_13</ee>
+<crossref>conf/ecir/2009</crossref>
+<url>db/conf/ecir/ecir2009.html#GaoNZW09</url>
+</inproceedings>
+</r>
+<r><article key="journals/acj/TangYWL08" mdate="2020-04-03">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="l/JianxinLi">Jianxin Li 0001</author>
+<title>Fast XML Structural Join Algorithms by Partitioning.</title>
+<pages>33-54</pages>
+<year>2008</year>
+<volume>40</volume>
+<journal>J. Res. Pract. Inf. Technol.</journal>
+<number>1</number>
+<ee>http://ws.acs.org.au/jrpit/JRPITVolumes/JRPIT40/JRPIT40.1.33.pdf</ee>
+<url>db/journals/acj/acj40.html#TangYWL08</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/XiaWW08" mdate="2020-05-11">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="94/6774">Linlin Wang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Sentiment Vector Space Model for Lyric-Based Song Sentiment Classification.</title>
+<pages>309-330</pages>
+<year>2008</year>
+<volume>21</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S1793840608001950</ee>
+<url>db/journals/ijcpol/ijcpol21.html#XiaWW08</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/WongXXWL08" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="22/1911">Mingli Wu</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Pattern-Based Opinion Mining for Stock Market Trend Prediction.</title>
+<pages>347-361</pages>
+<year>2008</year>
+<volume>21</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S1793840608001949</ee>
+<url>db/journals/ijcpol/ijcpol21.html#WongXXWL08</url>
+</article>
+</r>
+<r><article key="journals/lre/WongX08" mdate="2020-03-05">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Normalization of Chinese chat language.</title>
+<pages>219-242</pages>
+<year>2008</year>
+<volume>42</volume>
+<journal>Lang. Resour. Evaluation</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10579-008-9067-7</ee>
+<url>db/journals/lre/lre42.html#WongX08</url>
+</article>
+</r>
+<r><article key="journals/sigir/LiMNW08" mdate="2018-11-06">
+<author pid="83/5560-1">Hang Li 0001</author>
+<author pid="m/WYMa">Wei-Ying Ma</author>
+<author pid="n/JianYunNie">Jian-Yun Nie</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>The Fourth Asian Information Retrieval Symposium (AIRS 08).</title>
+<pages>73-74</pages>
+<year>2008</year>
+<volume>42</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1394251.1394268</ee>
+<url>db/journals/sigir/sigir42.html#LiMNW08</url>
+</article>
+</r>
+<r><article key="journals/tois/WuLWK08" mdate="2019-10-19">
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<title>Interpreting TF-IDF term weights as making relevance decisions.</title>
+<year>2008</year>
+<volume>26</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>3</number>
+<ee>http://doi.acm.org/10.1145/1361684.1361686</ee>
+<ee>https://www.wikidata.org/entity/Q57487033</ee>
+<url>db/journals/tois/tois26.html#WuLWK08</url>
+<pages>13:1-13:37</pages>
+</article>
+</r>
+<r><inproceedings key="conf/acl/XiaWWX08" mdate="2019-09-13">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="94/6774">Linlin Wang</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="67/7820">Mingxing Xu</author>
+<title>Lyric-based Song Sentiment Classification with Sentiment Vector Space Model.</title>
+<pages>133-136</pages>
+<year>2008</year>
+<booktitle>ACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P08-2034/</ee>
+<crossref>conf/acl/2008s</crossref>
+<url>db/conf/acl/acl2008s.html#XiaWWX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/WongWL08" mdate="2020-05-07">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="22/1911">Mingli Wu</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Extractive Summarization Using Supervised and Semi-Supervised Learning.</title>
+<pages>985-992</pages>
+<year>2008</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C08-1124/</ee>
+<crossref>conf/coling/2008</crossref>
+<url>db/conf/coling/coling2008.html#WongWL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangYOCW08" mdate="2017-06-04">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="07/1560">Byron Choi</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Multiple Materialized View Selection for XPath Query Rewriting.</title>
+<pages>873-882</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497496</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497496</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#TangYOCW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangYOW08" mdate="2017-06-04">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Hierarchical Indexing Approach to Support XPath Queries.</title>
+<pages>1510-1512</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497606</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497606</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#TangYOW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icic/XuWLX08" mdate="2019-10-31">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author orcid="0000-0002-9092-2476" pid="29/766-1">Qin Lu 0001</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Learning MultiLinguistic Knowledge for Opinion Analysis.</title>
+<pages>993-1000</pages>
+<year>2008</year>
+<booktitle>ICIC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87442-3_122</ee>
+<crossref>conf/icic/2008-1</crossref>
+<url>db/conf/icic/icic2008-1.html#XuWLX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/XuXWL08" mdate="2020-05-07">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Opinion Annotation in On-line Chinese Product Reviews.</title>
+<year>2008</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2008/summaries/415.html</ee>
+<crossref>conf/lrec/2008</crossref>
+<url>db/conf/lrec/lrec2008.html#XuXWL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/XuWX08" mdate="2020-03-12">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Coarse-Fine Opinion Mining - WIA in NTCIR-7 MOAT Task.</title>
+<year>2008</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings7/pdf/NTCIR7/C2/MOAT/19-NTCIR-MOAT-XuR.pdf</ee>
+<crossref>conf/ntcir/2008</crossref>
+<url>db/conf/ntcir/ntcir2008.html#XuWX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/WuDLNLAKW08" mdate="2020-03-12">
+<author pid="56/6982">Ho Chung Wu</author>
+<author pid="51/5443">Edward K. F. Dang</author>
+<author pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="18/2018">G. Ngai</author>
+<author pid="15/1534">Yinghao Li</author>
+<author pid="10/4537">James Allan</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Evaluating a Novel Kind of Retrieval Models Based on Relevance Decision Making in a Relevance Feedback Environment.</title>
+<year>2008</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec17/papers/hong-kong.pu.rf.rev.pdf</ee>
+<crossref>conf/trec/2008</crossref>
+<url>db/conf/trec/trec2008.html#WuDLNLAKW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/XuWLXL08" mdate="2019-11-28">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author orcid="0000-0002-9092-2476" pid="29/766-1">Qin Lu 0001</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<title>Learning Knowledge from Relevant Webpage for Opinion Analysis.</title>
+<pages>307-313</pages>
+<year>2008</year>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WIIAT.2008.388</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WIIAT.2008.388</ee>
+<crossref>conf/webi/2008</crossref>
+<url>db/conf/webi/webi2008.html#XuWLXL08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/airs/2008" mdate="2019-05-14">
+<editor pid="83/5560-1">Hang Li 0001</editor>
+<editor pid="52/5150-1">Ting Liu 0001</editor>
+<editor pid="m/WYMa">Wei-Ying Ma</editor>
+<editor pid="18/6321">Tetsuya Sakai</editor>
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="42/6620">Guodong Zhou</editor>
+<title>Information Retrieval Technology, 4th Asia Infomation Retrieval Symposium, AIRS 2008, Harbin, China, January 15-18, 2008, Revised Selected Papers</title>
+<volume>4993</volume>
+<year>2008</year>
+<isbn>978-3-540-68633-0</isbn>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68636-1</ee>
+<url>db/conf/airs/airs2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dss/SongLBWC07" mdate="2020-02-20">
+<author orcid="0000-0002-8660-3608" pid="47/6784-1">Dawei Song 0001</author>
+<author orcid="0000-0002-5751-4550" pid="l/RaymondYKLau">Raymond Y. K. Lau</author>
+<author orcid="0000-0001-7999-0534" pid="b/PeterBruza">Peter D. Bruza</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="86/5730">Ding-Yi Chen</author>
+<title>An intelligent information agent for document title classification and filtering in document-intensive domains.</title>
+<pages>251-265</pages>
+<year>2007</year>
+<volume>44</volume>
+<journal>Decis. Support Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.dss.2007.04.001</ee>
+<url>db/journals/dss/dss44.html#SongLBWC07</url>
+</article>
+</r>
+<r><article key="journals/ipm/WuLWK07" mdate="2020-02-21">
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>A retrospective study of a hybrid document-context based retrieval model.</title>
+<pages>1308-1331</pages>
+<year>2007</year>
+<volume>43</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.ipm.2006.10.009</ee>
+<url>db/journals/ipm/ipm43.html#WuLWK07</url>
+</article>
+</r>
+<r><inproceedings key="conf/acllaw/XuLWL07" mdate="2019-11-28">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Annotating Chinese Collocations with Multi Information.</title>
+<pages>61-68</pages>
+<year>2007</year>
+<booktitle>LAW@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W07-1511/</ee>
+<crossref>conf/acllaw/2007</crossref>
+<url>db/conf/acllaw/law2007.html#XuLWL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/WuLLW07" mdate="2019-11-28">
+<author pid="22/1911">Mingli Wu</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Event-Based Summarization Using Time Features.</title>
+<pages>563-574</pages>
+<year>2007</year>
+<crossref>conf/cicling/2007</crossref>
+<booktitle>CICLing</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70939-8_50</ee>
+<url>db/conf/cicling/cicling2007.html#WuLLW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/XuWX07" mdate="2020-03-12">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Opinmine - Opinion Analysis System by CUHK for NTCIR-6 Pilot Task.</title>
+<year>2007</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings6/NTCIR/59.pdf</ee>
+<crossref>conf/ntcir/2007</crossref>
+<url>db/conf/ntcir/ntcir2007.html#XuWX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/GaoNNZHWH07" mdate="2018-11-06">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="48/2002">Cheng Niu</author>
+<author pid="n/JianYunNie">Jian-Yun Nie</author>
+<author pid="16/1161">Ming Zhou</author>
+<author pid="61/5788">Jian Hu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="50/4528">Hsiao-Wuen Hon</author>
+<title>Cross-lingual query suggestion using query logs of different languages.</title>
+<pages>463-470</pages>
+<year>2007</year>
+<crossref>conf/sigir/2007</crossref>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1277741.1277821</ee>
+<url>db/conf/sigir/sigir2007.html#GaoNNZHWH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WuLW07" mdate="2019-10-19">
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Probability ranking principle via optimal expected rank.</title>
+<pages>713-714</pages>
+<year>2007</year>
+<crossref>conf/sigir/2007</crossref>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1277741.1277872</ee>
+<url>db/conf/sigir/sigir2007.html#WuLW07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcpol/GaoW06" mdate="2020-05-11">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Experimental Studies Using Statistical Algorithms on Transliterating Phoneme Sequences for English-chinese Name Translation.</title>
+<pages>63-88</pages>
+<year>2006</year>
+<volume>19</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0219427906001396</ee>
+<url>db/journals/ijcpol/ijcpol19.html#GaoW06</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/WongXL06" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Linguistic and Behavioural Studies of Chinese Chat Language.</title>
+<pages>133-152</pages>
+<year>2006</year>
+<volume>19</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1142/S0219427906001475</ee>
+<url>db/journals/ijcpol/ijcpol19.html#WongXL06</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/LiWLW06" mdate="2020-05-11">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="22/1911">Mingli Wu</author>
+<author pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Integrating Temporal Distribution Information into Event-Based Summarization.</title>
+<pages>201-222</pages>
+<year>2006</year>
+<volume>19</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1142/S0219427906001487</ee>
+<url>db/journals/ijcpol/ijcpol19.html#LiWLW06</url>
+</article>
+</r>
+<r><article key="journals/talip/ChungLWKL06" mdate="2018-11-06">
+<author pid="87/4380">Tze Leung Chung</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<author orcid="0000-0002-2413-3882" pid="l/DikLunLee">Dik Lun Lee</author>
+<title>Adapting pivoted document-length normalization for query size: Experiments in Chinese and English.</title>
+<pages>245-263</pages>
+<year>2006</year>
+<volume>5</volume>
+<journal>ACM Trans. Asian Lang. Inf. Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1194936.1194941</ee>
+<url>db/journals/talip/talip5.html#ChungLWKL06</url>
+</article>
+</r>
+<r><article key="journals/www/WongYT06" mdate="2017-05-20">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Answering XML Queries Using Path-Based Indexes: A Survey.</title>
+<pages>277-299</pages>
+<year>2006</year>
+<volume>9</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-006-8557-z</ee>
+<url>db/journals/www/www9.html#WongYT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/XiaWL06" mdate="2020-05-18">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>A Phonetic-Based Approach to Chinese Chat Text Normalization.</title>
+<year>2006</year>
+<crossref>conf/acl/2006</crossref>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P06-1125/</ee>
+<ee>https://doi.org/10.3115/1220175.1220300</ee>
+<url>db/conf/acl/acl2006.html#XiaWL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/GaoW06" mdate="2018-01-30">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Natural Document Clustering by Clique Percolation in Random Graphs.</title>
+<pages>119-131</pages>
+<year>2006</year>
+<crossref>conf/airs/2006</crossref>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/11880592_10</ee>
+<url>db/conf/airs/airs2006.html#GaoW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/WuLWK06" mdate="2019-10-19">
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>Probabilistic document-context based relevance feedback with limited relevance judgments.</title>
+<pages>854-855</pages>
+<year>2006</year>
+<crossref>conf/cikm/2006</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1183614.1183764</ee>
+<url>db/conf/cikm/cikm2006.html#WuLWK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/TangYWJ06" mdate="2017-05-26">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="61/3217">Haifeng Jiang</author>
+<title>Fast Structural Join with a Location Function.</title>
+<pages>777-786</pages>
+<year>2006</year>
+<crossref>conf/dasfaa/2006</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/11733836_55</ee>
+<url>db/conf/dasfaa/dasfaa2006.html#TangYWJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccpol/XuWLL06" mdate="2019-11-28">
+<author pid="93/5407">Ruifeng Xu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author orcid="0000-0002-9092-2476" pid="29/766-1">Qin Lu 0001</author>
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<title>An Improved Method for Finding Bilingual Collocation Correspondences from Monolingual Corpora.</title>
+<pages>51-62</pages>
+<year>2006</year>
+<crossref>conf/iccpol/2006</crossref>
+<booktitle>ICCPOL</booktitle>
+<ee>https://doi.org/10.1007/11940098_6</ee>
+<url>db/conf/iccpol/iccpol2006.html#XuWLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccpol/GaoWXX06" mdate="2018-01-30">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="93/5407">Ruifeng Xu</author>
+<title>Clique Percolation Method for Finding Naturally Cohesive and Overlapping Document Clusters.</title>
+<pages>97-108</pages>
+<year>2006</year>
+<crossref>conf/iccpol/2006</crossref>
+<booktitle>ICCPOL</booktitle>
+<ee>https://doi.org/10.1007/11940098_10</ee>
+<url>db/conf/iccpol/iccpol2006.html#GaoWXX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccpol/XuYLWW06" mdate="2019-11-28">
+<author pid="32/1213-4">Wei Xu 0004</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="22/1911">Mingli Wu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Building Document Graphs for Multiple News Articles Summarization: An Event-Based Approach.</title>
+<pages>181-188</pages>
+<year>2006</year>
+<crossref>conf/iccpol/2006</crossref>
+<booktitle>ICCPOL</booktitle>
+<ee>https://doi.org/10.1007/11940098_19</ee>
+<url>db/conf/iccpol/iccpol2006.html#XuYLWW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccpol/XiaW06" mdate="2017-05-25">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Binarization Approaches to Email Categorization.</title>
+<pages>474-481</pages>
+<year>2006</year>
+<crossref>conf/iccpol/2006</crossref>
+<booktitle>ICCPOL</booktitle>
+<ee>https://doi.org/10.1007/11940098_50</ee>
+<url>db/conf/iccpol/iccpol2006.html#XiaW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/XiaWL06" mdate="2020-05-07">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>Constructing A Chinese Chat Language Corpus with A Two-Stage Incremental Annotation Approach.</title>
+<pages>1422-1427</pages>
+<year>2006</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2006/summaries/86.html</ee>
+<crossref>conf/lrec/2006</crossref>
+<url>db/conf/lrec/lrec2006.html#XiaWL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/WangLWK06" mdate="2017-05-19">
+<author pid="21/1613">D. Y. Wang</author>
+<author pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>An Information Retrieval Approach Based on Discourse Type.</title>
+<pages>197-202</pages>
+<year>2006</year>
+<crossref>conf/nldb/2006</crossref>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/11765448_18</ee>
+<url>db/conf/nldb/nldb2006.html#WangLWK06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/iccpol/2006" mdate="2019-05-14">
+<editor pid="11/4619">Yuji Matsumoto 0001</editor>
+<editor pid="80/2371">Richard Sproat</editor>
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="83/5342">Min Zhang</editor>
+<title>Computer Processing of Oriental Languages. Beyond the Orient: The Research Challenges Ahead, 21st International Conference, ICCPOL 2006, Singapore, December 17-19, 2006, Proceedings</title>
+<booktitle>ICCPOL</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4285</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>3-540-49667-X</isbn>
+<ee>https://doi.org/10.1007/11940098</ee>
+<url>db/conf/iccpol/iccpol2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijcpol/Wong05" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Guest Editor's Introduction.</title>
+<pages>75-76</pages>
+<year>2005</year>
+<volume>18</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219427905001262</ee>
+<url>db/journals/ijcpol/ijcpol18.html#Wong05</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/WongXLY05" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>An Overview of Temporal Information Extraction.</title>
+<pages>137-152</pages>
+<year>2005</year>
+<volume>18</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219427905001225</ee>
+<url>db/journals/ijcpol/ijcpol18.html#WongXLY05</url>
+</article>
+</r>
+<r><article key="journals/jclc/XiaoLWK05" mdate="2020-05-14">
+<author pid="38/1284">Yun Xiao</author>
+<author pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>Using Longest Common Subsequence Matching for Chinese Information Retrieval.</title>
+<pages>45-52</pages>
+<year>2005</year>
+<volume>15</volume>
+<journal>J. Chin. Lang. Comput.</journal>
+<number>1</number>
+<ee>http://www.colips.org/journal/volume15/JCLC_V15_N1_5.pdf</ee>
+<url>db/journals/jclc/jclc15.html#XiaoLWK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl-sighan/XiaWG05" mdate="2019-09-11">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<title>NIL Is Not Nothing: Recognition of Chinese Network Informal Language Expressions.</title>
+<year>2005</year>
+<booktitle>SIGHAN@IJCNLP 2005</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I05-3013/</ee>
+<crossref>conf/acl-sighan/2005</crossref>
+<url>db/conf/acl-sighan/acl-sighan2005.html#XiaWG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/LiWYLX05" mdate="2019-11-28">
+<author pid="64/6025-0051">Wei Li 0051</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Improving Text Similarity Measurement by Critical Sentence Vector Model.</title>
+<pages>522-527</pages>
+<year>2005</year>
+<crossref>conf/airs/2005</crossref>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/11562382_44</ee>
+<url>db/conf/airs/airs2005.html#LiWYLX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/TangYWLL05" mdate="2020-05-06">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="70/1130">Kevin L&#252; 0001</author>
+<author pid="l/JianxinLi">Jianxin Li 0001</author>
+<title>Accelerating XML Structural Join by Partitioning.</title>
+<pages>280-289</pages>
+<year>2005</year>
+<crossref>conf/dexa/2005</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/11546924_28</ee>
+<url>db/conf/dexa/dexa2005.html#TangYWLL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/TangWYWY05" mdate="2017-10-27">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="64/146">Guoren Wang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>WIN: An Effcient Data Placement Strategy for Parallel XML Databases.</title>
+<pages>349-355</pages>
+<year>2005</year>
+<crossref>conf/icpads/2005</crossref>
+<booktitle>ICPADS (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2005.298</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2005.298</ee>
+<url>db/conf/icpads/icpads2005-1.html#TangWYWY05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/LiLLW05" mdate="2019-11-28">
+<author pid="64/6025-0051">Wei Li 0051</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="29/766-1">Qin Lu 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Preliminary Work on Classifying Time Granularities of Temporal Questions.</title>
+<pages>414-425</pages>
+<year>2005</year>
+<crossref>conf/ijcnlp/2005</crossref>
+<booktitle>IJCNLP</booktitle>
+<ee>https://doi.org/10.1007/11562214_37</ee>
+<url>db/conf/ijcnlp/ijcnlp2005.html#LiLLW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ike/WongGLX05" mdate="2016-05-30">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="07/3870">Louise Guthrie</author>
+<author pid="49/3283-34">Wei Liu 0034</author>
+<author pid="33/6206">Yunqing Xia</author>
+<title>Improving Quality of Email Categorization with Tournament Methods.</title>
+<pages>215-221</pages>
+<year>2005</year>
+<crossref>conf/ike/2005</crossref>
+<booktitle>IKE</booktitle>
+<url>db/conf/ike/ike2005.html#WongGLX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/XiaWL05" mdate="2020-03-12">
+<author pid="33/6206">Yunqing Xia</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<title>A Two-Stage Incremental Annotation Approach to Constructing a Network Informal Language Corpus.</title>
+<year>2005</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings5/data/OPEN/NTCIR5-OPEN-XiaY.pdf</ee>
+<crossref>conf/ntcir/2005</crossref>
+<url>db/conf/ntcir/ntcir2005.html#XiaWL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/XiaoLWK05" mdate="2020-03-12">
+<author pid="38/1284">Yun Xiao</author>
+<author pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<title>Some Experiments with Blind Feedback and Re-ranking for Chinese Information Retrieval.</title>
+<year>2005</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings5/data/CLIR/NTCIR5-CLIR-XiaoY.pdf</ee>
+<crossref>conf/ntcir/2005</crossref>
+<url>db/conf/ntcir/ntcir2005.html#XiaoLWK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WuLWKL05" mdate="2019-10-19">
+<author orcid="0000-0001-6043-5450" pid="56/6982">Ho Chung Wu</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<author pid="08/4489">W. J. Li</author>
+<title>A retrospective study of probabilistic context-based retrieval.</title>
+<pages>663-664</pages>
+<year>2005</year>
+<crossref>conf/sigir/2005</crossref>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1076034.1076179</ee>
+<url>db/conf/sigir/sigir2005.html#WuLWKL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/WongWLLWK05" mdate="2020-03-12">
+<author pid="13/3899">W. S. Wong</author>
+<author pid="56/6982">Ho Chung Wu</author>
+<author pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="l/HongVaLeong">Hong Va Leong</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<title>MATRIX at the TREC 2005 Robust Track.</title>
+<year>2005</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec14/papers/hkpu.robust.pdf</ee>
+<crossref>conf/trec/2005</crossref>
+<url>db/conf/trec/trec2005.html#WongWLLWK05</url>
+</inproceedings>
+</r>
+<r><incollection key="books/ox/05/0002WY05" mdate="2020-05-07">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>A Model for Processing Temporal References in Chinese.</title>
+<pages>559-574</pages>
+<year>2005</year>
+<booktitle>The Language of Time - A Reader</booktitle>
+<crossref>books/ox/05/MPG2005</crossref>
+<url>db/books/collections/MPG2005.html#0002WY05</url>
+</incollection>
+</r>
+<r><proceedings key="conf/airs/2004" mdate="2019-05-14">
+<editor pid="50/3334">Sung-Hyon Myaeng</editor>
+<editor pid="16/1161">Ming Zhou</editor>
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="z/HongJiangZhang">HongJiang Zhang</editor>
+<title>Information Retrieval Technology, Asia Information Retrieval Symposium, AIRS 2004, Beijing, China, October 18-20, 2004, Revised Selected Papers</title>
+<volume>3411</volume>
+<year>2005</year>
+<isbn>3-540-25065-4</isbn>
+<booktitle>AIRS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/b106653</ee>
+<url>db/conf/airs/airs2004.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ijcnlp/2005" mdate="2019-05-14">
+<editor pid="92/5943">Robert Dale</editor>
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="91/1388">Jian Su</editor>
+<editor pid="51/519">Oi Yee Kwong</editor>
+<title>Natural Language Processing - IJCNLP 2005, Second International Joint Conference, Jeju Island, Korea, October 11-13, 2005, Proceedings</title>
+<volume>3651</volume>
+<year>2005</year>
+<isbn>3-540-29172-5</isbn>
+<booktitle>IJCNLP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11562214</ee>
+<url>db/conf/ijcnlp/ijcnlp2005.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/acl/LiWCY04" mdate="2020-05-18">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="30/572">Guihong Cao</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>Applying Machine Learning to Chinese Temporal Relation Resolution.</title>
+<pages>582-588</pages>
+<year>2004</year>
+<crossref>conf/acl/2004</crossref>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P04-1074/</ee>
+<ee>https://doi.org/10.3115/1218955.1219029</ee>
+<url>db/conf/acl/acl2004.html#LiWCY04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/GaoWL04" mdate="2018-01-30">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="48/1707">Wai Lam</author>
+<title>Improving Transliteration with Precise Alignment of Phoneme Chunks and Using Contextual Features.</title>
+<pages>106-117</pages>
+<ee>https://doi.org/10.1007/978-3-540-31871-2_10</ee>
+<year>2004</year>
+<crossref>conf/airs/2004</crossref>
+<booktitle>AIRS</booktitle>
+<url>db/conf/airs/airs2004.html#GaoWL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/CaoLWY04" mdate="2020-05-07">
+<author pid="30/572">Guihong Cao</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>Combining Linguistic Features with Weighted Bayesian Classifier for Temporal Reference Processing.</title>
+<year>2004</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C04-1101/</ee>
+<crossref>conf/coling/2004</crossref>
+<url>db/conf/coling/coling2004.html#CaoLWY04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/CheongSBW04" mdate="2017-10-24">
+<author pid="94/1565">Paulo Cheong</author>
+<author pid="47/6784-1">Dawei Song 0001</author>
+<author pid="b/PeterBruza">Peter Bruza</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Information Flow Analysis with Chinese Text.</title>
+<pages>100-109</pages>
+<ee>https://doi.org/10.1007/978-3-540-30211-7_11</ee>
+<year>2004</year>
+<crossref>conf/ijcnlp/2004</crossref>
+<booktitle>IJCNLP</booktitle>
+<url>db/conf/ijcnlp/ijcnlp2004.html#CheongSBW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/GaoWL04" mdate="2018-01-30">
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="48/1707">Wai Lam</author>
+<title>Phoneme-Based Transliteration of Foreign Names for OOV Problem.</title>
+<pages>110-119</pages>
+<ee>https://doi.org/10.1007/978-3-540-30211-7_12</ee>
+<year>2004</year>
+<crossref>conf/ijcnlp/2004</crossref>
+<booktitle>IJCNLP</booktitle>
+<url>db/conf/ijcnlp/ijcnlp2004.html#GaoWL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/LukW04" mdate="2020-03-12">
+<author pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Pseudo-Relevance Feedback and Title Re-Ranking for Chinese Information Retrieval.</title>
+<year>2004</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings4/CLIR/NTCIR4-CLIR-RobertWP.pdf</ee>
+<crossref>conf/ntcir/2004</crossref>
+<url>db/conf/ntcir/ntcir2004.html#LukW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/WangLW04" mdate="2020-03-12">
+<author pid="21/1613">D. Y. Wang</author>
+<author pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>The Hong Kong Polytechnic University at the TREC 2004 Robust Track.</title>
+<year>2004</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec13/papers/hkp.u.robust.pdf</ee>
+<crossref>conf/trec/2004</crossref>
+<url>db/conf/trec/trec2004.html#WangLW04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ci/LiW03" mdate="2020-03-15">
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>The Design of a Statistical Algorithm for Resolving Structural Ambiguity IN &#34;V NP<sub>1</sub> usde NP<sub>0</sub>&#34;.</title>
+<pages>64-85</pages>
+<year>2003</year>
+<volume>19</volume>
+<journal>Comput. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/1467-8640.00214</ee>
+<url>db/journals/ci/ci19.html#LiW03</url>
+</article>
+</r>
+<r><article key="journals/cor/BalakrishnanCW03" mdate="2020-02-18">
+<author pid="05/758">Jaydeep Balakrishnan</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>FACOPT: a user friendly FACility layout OPTimization system.</title>
+<pages>1625-1641</pages>
+<year>2003</year>
+<volume>30</volume>
+<journal>Comput. Oper. Res.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/S0305-0548(02)00096-5</ee>
+<url>db/journals/cor/cor30.html#BalakrishnanCW03</url>
+</article>
+</r>
+<r><article key="journals/iam/GuanW03" mdate="2020-02-20">
+<author pid="63/3599">Tao Guan</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Nstar: an interactive tool for local web search.</title>
+<pages>213-225</pages>
+<year>2003</year>
+<volume>41</volume>
+<journal>Inf. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/S0378-7206(03)00049-1</ee>
+<url>db/journals/iam/iam41.html#GuanW03</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/LiWY03" mdate="2020-05-11">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>A Design of Temporal Event Extraction from Chinese Financial News.</title>
+<pages>21-39</pages>
+<year>2003</year>
+<volume>16</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0219427903000826</ee>
+<url>db/journals/ijcpol/ijcpol16.html#LiWY03</url>
+</article>
+</r>
+<r><inproceedings key="conf/iral/WongCW03" mdate="2018-11-27">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="83/5762">Nam-Kiu Chan</author>
+<author pid="96/8977">Kam-Lai Wong</author>
+<title>Improving document clustering by utilizing meta-data.</title>
+<pages>109-115</pages>
+<year>2003</year>
+<crossref>conf/iral/2003</crossref>
+<booktitle>IRAL</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1118949</ee>
+<url>db/conf/iral/iral2003.html#WongCW03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcpol/WongLYZ02" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<author pid="93/310">Xiaodan Zhu</author>
+<title>Temporal Representation and Classification in Chinese.</title>
+<pages>211-230</pages>
+<year>2002</year>
+<volume>15</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219427902000558</ee>
+<url>db/journals/ijcpol/ijcpol15.html#WongLYZ02</url>
+</article>
+</r>
+<r><article key="journals/ijseke/CaiLW02" mdate="2020-07-22">
+<author pid="10/2897">Xia Cai</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Component-Based Embedded Software Engineering: Development Framework, Quality Assurance and a Generic Assessment Environment.</title>
+<pages>107-133</pages>
+<year>2002</year>
+<volume>12</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0218194002000846</ee>
+<url>db/journals/ijseke/ijseke12.html#CaiLW02</url>
+</article>
+</r>
+<r><article key="journals/talip/WongT02" mdate="2018-11-06">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="t/JunichiTsujii">Jun'ichi Tsujii</author>
+<title>Prologue.</title>
+<pages>1-2</pages>
+<year>2002</year>
+<volume>1</volume>
+<journal>ACM Trans. Asian Lang. Inf. Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/595576.595577</ee>
+<url>db/journals/talip/talip1.html#WongT02</url>
+</article>
+</r>
+<r><article key="journals/talip/LiW02" mdate="2020-06-15">
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A word-based approach for modeling and discovering temporal relations embedded in Chinese sentences.</title>
+<pages>173-206</pages>
+<year>2002</year>
+<volume>1</volume>
+<journal>ACM Trans. Asian Lang. Inf. Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/772755.772756</ee>
+<url>db/journals/talip/talip1.html#LiW02</url>
+</article>
+</r>
+<r><article key="journals/talip/JinW02" mdate="2018-11-06">
+<author pid="26/6366">Honglan Jin</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Chinese dictionary construction algorithm for information retrieval.</title>
+<pages>281-296</pages>
+<year>2002</year>
+<volume>1</volume>
+<journal>ACM Trans. Asian Lang. Inf. Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/795458.795460</ee>
+<url>db/journals/talip/talip1.html#JinW02</url>
+</article>
+</r>
+<r><article key="journals/tsmc/ChengLW02" mdate="2020-05-21">
+<author pid="98/1856">Chun Hung Cheng</author>
+<author pid="26/3232">Wing-Kin Lee</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A genetic algorithm-based clustering approach for database partitioning.</title>
+<pages>215-230</pages>
+<year>2002</year>
+<volume>32</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Part C</journal>
+<number>3</number>
+<url>db/journals/tsmc/tsmcc32.html#ChengLW02</url>
+<ee>https://doi.org/10.1109/TSMCC.2002.804444</ee>
+</article>
+</r>
+<r><inproceedings key="conf/acl-sighan/LiYWL02" mdate="2020-05-07">
+<author pid="53/2189">Li Li</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>An Indexing Method Based on Sentences.</title>
+<year>2002</year>
+<booktitle>SIGHAN@COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W02-1810/</ee>
+<crossref>conf/acl-sighan/2002</crossref>
+<url>db/conf/acl-sighan/acl-sighan2002.html#LiYWL02</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/Wong01" mdate="2018-11-06">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Labor shortfall in Hong Kong's IT industry.</title>
+<pages>65-66</pages>
+<year>2001</year>
+<volume>44</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<ee>https://doi.org/10.1145/379300.379315</ee>
+<url>db/journals/cacm/cacm44.html#Wong01</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/WongCC01" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="95/5439">Timothy Kun-Chung Chan</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<title>An Investigation on Transformation-based Error-driven Learning Algorithm for Chinese Noun Phrase Extraction.</title>
+<pages>47-69</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0219427901000308</ee>
+<url>db/journals/ijcpol/ijcpol14.html#WongCC01</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/ChowLWK01" mdate="2020-05-11">
+<author pid="19/3189">Ken C. W. Chow</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">Kui-Lam Kwok</author>
+<title>Hybrid Term Indexing for Weighted Boolean and Vector Space Models.</title>
+<pages>133-151</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219427901000345</ee>
+<url>db/journals/ijcpol/ijcpol14.html#ChowLWK01</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/MengW01" mdate="2020-05-11">
+<author pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Guest Editors' Introduction.</title>
+<pages>211</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>3</number>
+<ee>http://www.worldscinet.com/ijcpol/14/1403/S0219427901000412.html</ee>
+<url>db/journals/ijcpol/ijcpol14.html#MengW01</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/MengWW01" mdate="2020-05-11">
+<author pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</author>
+<author pid="55/1254-1">Shan Wang 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Overview of a Chinese Natural Language Interface to Databases: NChiql.</title>
+<pages>213-232</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0219427901000370</ee>
+<url>db/journals/ijcpol/ijcpol14.html#MengWW01</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/WongLR01" mdate="2020-05-11">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="37/6408">Boon Toh Low</author>
+<author pid="96/5523">Yongjie Ren</author>
+<title>A Workflow Model for Chinese Business Processes.</title>
+<pages>233-258</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0219427901000382</ee>
+<url>db/journals/ijcpol/ijcpol14.html#WongLR01</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/YuanCWL01" mdate="2020-05-11">
+<author pid="63/1239">Chunfa Yuan</author>
+<author pid="67/6383">Gang Chen</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<title>An Effective Method for Chinese Grammar Rule Learning.</title>
+<pages>361-374</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S021942790100045X</ee>
+<url>db/journals/ijcpol/ijcpol14.html#YuanCWL01</url>
+</article>
+</r>
+<r><article key="journals/jasis/LamWW01" mdate="2020-03-02">
+<author pid="48/1707">Wai Lam</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="26/3096">Chi-Yin Wong</author>
+<title>Chinese document indexing based on a new partitioned signature file: Model and evaluation.</title>
+<pages>584-597</pages>
+<year>2001</year>
+<volume>52</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>7</number>
+<url>db/journals/jasis/jasis52.html#LamWW01</url>
+<ee>https://doi.org/10.1002/asi.1107</ee>
+</article>
+</r>
+<r><article key="journals/jasis/LiWY01" mdate="2020-03-02">
+<author orcid="0000-0002-7360-8864" pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>Toward automatic Chinese temporal information extraction.</title>
+<pages>748-762</pages>
+<year>2001</year>
+<volume>52</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>9</number>
+<url>db/journals/jasis/jasis52.html#LiWY01</url>
+<ee>https://doi.org/10.1002/asi.1126</ee>
+</article>
+</r>
+<r><article key="journals/tois/WongSBC01" mdate="2018-11-06">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="47/6784-1">Dawei Song 0001</author>
+<author pid="b/PeterBruza">Peter Bruza</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<title>Application of aboutness to functional benchmarking in information retrieval.</title>
+<pages>337-370</pages>
+<year>2001</year>
+<volume>19</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/502795.502796</ee>
+<url>db/journals/tois/tois19.html#WongSBC01</url>
+</article>
+</r>
+<r><inproceedings key="conf/nlprs/LiWY01" mdate="2021-02-04">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>Application and Difficulty of Natural Language Processing in Chinese Temporal Information Extraction.</title>
+<pages>501-506</pages>
+<year>2001</year>
+<crossref>conf/nlprs/2001</crossref>
+<booktitle>NLPRS</booktitle>
+<ee type="archive">http://www.afnlp.org/nlprs2001/pdf/0036-02.pdf</ee>
+<url>db/conf/nlprs/nlprs2001.html#LiWY01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntcir/LukWK01" mdate="2020-03-12">
+<author pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>Hybrid Term Indexing: an Evaluation.</title>
+<year>2001</year>
+<booktitle>NTCIR</booktitle>
+<ee type="oa">http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings2/hybrid-luk.pdf</ee>
+<crossref>conf/ntcir/2001</crossref>
+<url>db/conf/ntcir/ntcir2001.html#LukWK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/WongSYT01" mdate="2017-05-25">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="75/3836">Yat Fan Su</author>
+<author pid="65/661">Dongqing Yang</author>
+<author pid="t/ShiweiTang">Shiwei Tang</author>
+<title>A New Conceptual Graph Generated Algorithm for Semi-structured Databases.</title>
+<pages>267-271</pages>
+<year>2001</year>
+<crossref>conf/webi/2001</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1007/3-540-45490-X_32</ee>
+<url>db/conf/webi/webi2001.html#WongSYT01</url>
+</inproceedings>
+</r>
+<r><article key="journals/iam/WongCM00" mdate="2020-02-20">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<author pid="11/2339">Jaideep Motwani</author>
+<title>SWAM - a structured WWW access model.</title>
+<pages>51-65</pages>
+<year>2000</year>
+<volume>37</volume>
+<journal>Inf. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/S0378-7206(99)00035-X</ee>
+<url>db/journals/iam/iam37.html#WongCM00</url>
+</article>
+</r>
+<r><article key="journals/ijcpol/LiWY00" mdate="2020-05-11">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="63/1239">Chunfa Yuan</author>
+<title>Identifying Temporal Components in a Chinese Temporal Information System.</title>
+<pages>113-130</pages>
+<year>2000</year>
+<volume>13</volume>
+<journal>Int. J. Comput. Process. Orient. Lang.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219427900000077</ee>
+<url>db/journals/ijcpol/ijcpol13.html#LiWY00</url>
+</article>
+</r>
+<r><article key="journals/jasis/BruzaSW00" mdate="2020-05-13">
+<author pid="b/PeterBruza">Peter Bruza</author>
+<author pid="47/6784-1">Dawei Song 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Aboutness from a commonsense perspective.</title>
+<pages>1090-1105</pages>
+<year>2000</year>
+<volume>51</volume>
+<journal>J. Am. Soc. Inf. Sci.</journal>
+<number>12</number>
+<url>db/journals/jasis/jasis51.html#BruzaSW00</url>
+<ee>https://doi.org/10.1002/1097-4571(2000)9999:9999&#60;::AID-ASI1026&#62;3.0.CO;2-Y</ee>
+</article>
+</r>
+<r><inproceedings key="conf/apsec/CaiLWK00" mdate="2017-05-17">
+<author pid="10/2897">Xia Cai</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="64/6941">Roy Ko</author>
+<title>Component-based software engineering: technologies, development frameworks, and quality assurance schemes.</title>
+<pages>372-</pages>
+<year>2000</year>
+<crossref>conf/apsec/2000</crossref>
+<booktitle>APSEC</booktitle>
+<ee>https://doi.org/10.1109/APSEC.2000.896722</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/APSEC.2000.896722</ee>
+<url>db/conf/apsec/apsec2000.html#CaiLWK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WangYW00" mdate="2017-05-24">
+<ee>https://doi.org/10.1007/3-540-46439-5_21</ee>
+<author pid="13/2107">Qiu Yue Wang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Approximate Graph Schema Extraction for Semi-Structured Data.</title>
+<pages>302-316</pages>
+<year>2000</year>
+<crossref>conf/edbt/2000</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2000.html#WangYW00</url>
+<cite>conf/icdt/Abiteboul97</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>conf/sigmod/BunemanDHS96</cite>
+<cite>conf/pods/Buneman97</cite>
+<cite>conf/icdt/BunemanDFS97</cite>
+<cite>conf/sigmod/ChristophidesCM96</cite>
+<cite>conf/icde/FernandezS98</cite>
+<cite>journals/ml/Fisher87</cite>
+<cite>conf/vldb/GardarinGT96</cite>
+<cite>conf/vldb/GoldmanW97</cite>
+<cite>...</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>conf/vldb/KonopnickiS95</cite>
+<cite>...</cite>
+<cite>conf/pdis/MendelzonMM96</cite>
+<cite>journals/siamcomp/MendelzonW95</cite>
+<cite>journals/sigmod/NestorovAM97</cite>
+<cite>conf/sigmod/NestorovAM98</cite>
+<cite>conf/icde/NestorovUWC97</cite>
+<cite>conf/icde/PapakonstantinouGW95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/SongWBC00" mdate="2021-02-03">
+<author pid="47/6784-1">Dawei Song 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="b/PeterBruza">Peter Bruza</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<title>Fundamental Properties of the Core Matching Functions for Information Retrieval.</title>
+<pages>118-122</pages>
+<year>2000</year>
+<crossref>conf/flairs/2000</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2000.html#SongWBC00</url>
+<ee type="oa">http://www.aaai.org/Library/FLAIRS/2000/flairs00-023.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/LauHBW00" mdate="2019-10-19">
+<author pid="l/RaymondYKLau">Raymond Lau 0001</author>
+<author orcid="0000-0002-2730-0201" pid="h/AHMterHofstede">Arthur H. M. ter Hofstede</author>
+<author orcid="0000-0001-7999-0534" pid="b/PeterBruza">Peter Bruza</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Belief revision and possibilistic logic for adaptive information filtering agents.</title>
+<pages>19-</pages>
+<year>2000</year>
+<crossref>conf/ictai/2000</crossref>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/TAI.2000.889841</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TAI.2000.889841</ee>
+<url>db/conf/ictai/ictai2000.html#LauHBW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iral/ChowLWK00" mdate="2018-11-06">
+<author pid="19/3189">Ken C. W. Chow</author>
+<author orcid="0000-0002-9310-8867" pid="l/RobertWingPongLuk">Robert W. P. Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>Hybrid term indexing for different IR models.</title>
+<pages>49-54</pages>
+<year>2000</year>
+<crossref>conf/iral/2000</crossref>
+<booktitle>IRAL</booktitle>
+<ee>https://doi.org/10.1145/355214.355221</ee>
+<url>db/conf/iral/iral2000.html#ChowLWK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iral/WongLWK00" mdate="2018-11-06">
+<author pid="87/3516">C. K. P. Wong</author>
+<author pid="l/RobertWingPongLuk">Robert Wing Pong Luk</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="k/KuiLamKwok">K. L. Kwok</author>
+<title>Text categorization using hybrid (mined) terms (poster session).</title>
+<pages>217-218</pages>
+<year>2000</year>
+<crossref>conf/iral/2000</crossref>
+<booktitle>IRAL</booktitle>
+<ee>https://doi.org/10.1145/355214.355252</ee>
+<url>db/conf/iral/iral2000.html#WongLWK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/JinW00" mdate="2020-03-12">
+<author pid="26/6366">Honglan Jin</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>TREC-9 CLIR at CUHK: Disambiguation by Similarity Values Between Adjacent Words.</title>
+<year>2000</year>
+<crossref>conf/trec/2000</crossref>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec9/papers/cuhk_clir_trec9.pdf</ee>
+<url>db/conf/trec/trec2000.html#JinW00</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/iral/2000" mdate="2007-01-25">
+<editor pid="w/KamFaiWong">Kam-Fai Wong</editor>
+<editor pid="l/DikLunLee">Dik Lun Lee</editor>
+<editor pid="45/83">Jong-Hyeok Lee</editor>
+<title>Proceedings of the Fifth International Workshop on Information Retrieval with Asian Languages, 2000, Hong Kong, China, September 30 - October 01, 2000</title>
+<booktitle>IRAL</booktitle>
+<publisher>ACM</publisher>
+<year>2000</year>
+<url>db/conf/iral/iral2000.html</url>
+<isbn>1-58113-300-6</isbn>
+</proceedings>
+</r>
+<r><article key="journals/cn/GuanW99" mdate="2020-02-19">
+<author pid="63/3599">Tao Guan</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>KPS: a Web Information Mining Algorithm.</title>
+<pages>1495-1507</pages>
+<year>1999</year>
+<volume>31</volume>
+<journal>Comput. Networks</journal>
+<number>11-16</number>
+<url>db/journals/cn/cn31.html#GuanW99</url>
+<ee>https://doi.org/10.1016/S1389-1286(99)00048-1</ee>
+</article>
+</r>
+<r><article key="journals/dpd/ChanLSW99" mdate="2020-05-18">
+<ee>https://doi.org/10.1023/A:1008738928499</ee>
+<author pid="88/3090">Boris Y. L. Chan</author>
+<author pid="l/HongVaLeong">Hong Va Leong</author>
+<author pid="35/5958">Antonio Si</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>MODEC: A Multi-Granularity Mobile Object-Oriented Database Caching Mechanism, Prototype and Performance.</title>
+<pages>343-372</pages>
+<year>1999</year>
+<volume>7</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<url>db/journals/dpd/dpd7.html#ChanLSW99</url>
+<cdrom>DPD/7/P343.pdf</cdrom>
+</article>
+</r>
+<r><article key="journals/jasis/ChengYW99" mdate="2020-05-13">
+<author pid="18/6232">Kwok-Shing Cheng</author>
+<author pid="79/5100">Gilbert H. Young</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>A Study on Word-Based and Integral-Bit Chinese Text Compression Algorithms.</title>
+<pages>218-228</pages>
+<year>1999</year>
+<volume>50</volume>
+<journal>J. Am. Soc. Inf. Sci.</journal>
+<number>3</number>
+<url>db/journals/jasis/jasis50.html#ChengYW99</url>
+<ee>https://doi.org/10.1002/(SICI)1097-4571(1999)50:3&#60;218::AID-ASI4&#62;3.0.CO;2-1</ee>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/SongWBC99" mdate="2021-02-03">
+<author pid="47/6784-1">Dawei Song 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="b/PeterBruza">Peter Bruza</author>
+<author pid="98/1856">Chun Hung Cheng</author>
+<title>Towards Functional Benchmarking of Information Retrieval Models.</title>
+<pages>389-393</pages>
+<year>1999</year>
+<crossref>conf/flairs/1999</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs1999.html#SongWBC99</url>
+<ee type="oa">http://www.aaai.org/Library/FLAIRS/1999/flairs99-070.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsc/RenWL99" mdate="2017-05-24">
+<author pid="96/5523">Yongjie Ren</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="37/6408">Boon Toh Low</author>
+<title>An Integrated Approach for Flexible Workflow Modeling.</title>
+<pages>354-359</pages>
+<year>1999</year>
+<crossref>conf/icsc/1999</crossref>
+<booktitle>ICSC</booktitle>
+<url>db/conf/icsc/icsc1999.html#RenWL99</url>
+<ee>https://doi.org/10.1007/978-3-540-46652-9_36</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/BruzaSW99" mdate="2018-11-06">
+<author pid="b/PeterBruza">Peter Bruza</author>
+<author pid="47/6784-1">Dawei Song 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Fundamental Properties of Aboutness (poster abstract).</title>
+<pages>277-278</pages>
+<cdrom>SIGIR1999/P277.pdf</cdrom>
+<year>1999</year>
+<crossref>conf/sigir/99</crossref>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/312624.312696</ee>
+<url>db/conf/sigir/sigir99.html#BruzaSW99</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/MengWYLW98" mdate="2020-02-25">
+<author pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="58/9581">Suen Man Yip</author>
+<author pid="52/4777">Vincent Y. Lum</author>
+<author pid="55/1254-1">Shan Wang 0001</author>
+<title>The processing and improvement of multi-statement queries in Chiql.</title>
+<pages>161-173</pages>
+<year>1998</year>
+<volume>13</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/BF02946604</ee>
+<url>db/journals/jcst/jcst13.html#MengWYLW98</url>
+</article>
+</r>
+<r><article key="journals/kbs/WilliamsW98" mdate="2020-02-25">
+<author pid="04/968">M. Howard Williams</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Extending the superimposed codeword indexing scheme to handle incomplete information.</title>
+<pages>179-189</pages>
+<year>1998</year>
+<volume>11</volume>
+<journal>Knowl. Based Syst.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1016/S0950-7051(98)00041-0</ee>
+<url>db/journals/kbs/kbs11.html#WilliamsW98</url>
+</article>
+</r>
+<r><article key="journals/simpra/Wong98" mdate="2020-05-18">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Performance evaluation of three logging schemes for a shared-nothing database server.</title>
+<pages>337-368</pages>
+<year>1998</year>
+<volume>6</volume>
+<journal>Simul. Pract. Theory</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/S0928-4869(97)00004-9</ee>
+<url>db/journals/simpra/simpra6.html#Wong98</url>
+</article>
+</r>
+<r><article key="journals/spe/WongLL98" mdate="2020-04-09">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="52/4777">Vincent Y. Lum</author>
+<author pid="34/3093">Wai-Ip Lam</author>
+<title>Chicon - A Chinese Text Manipulation Language.</title>
+<pages>681-701</pages>
+<year>1998</year>
+<volume>28</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe28.html#WongLL98</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(199807)28:7&#60;681::AID-SPE172&#62;3.0.CO;2-N</ee>
+</article>
+</r>
+<r><inproceedings key="conf/uai/NgWL98" mdate="2021-02-03">
+<author pid="88/2634">Benson Hin Kwong Ng</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="37/6408">Boon Toh Low</author>
+<title>Resolving Conflicting Arguments under Uncertainties.</title>
+<pages>414-421</pages>
+<year>1998</year>
+<crossref>conf/uai/1998</crossref>
+<booktitle>UAI</booktitle>
+<ee type="archive">https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&#38;smnu=2&#38;article_id=274&#38;proceeding_id=14</ee>
+<url>db/conf/uai/uai1998.html#NgWL98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/LamLW95" mdate="2017-03-29">
+<author pid="71/411">Gary C. K. Lam</author>
+<author pid="52/4777">Vincent Y. Lum</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>On the Issues of Expressiveness and Portability of Chiql.</title>
+<pages>164-171</pages>
+<cdrom>DASFAA95/P164.pdf</cdrom>
+<year>1995</year>
+<booktitle>DASFAA</booktitle>
+<url>db/conf/dasfaa/dasfaa95.html#LamLW95</url>
+<crossref>conf/dasfaa/95</crossref>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/WeltyS81</cite>
+<cite>...</cite>
+<cite>journals/tods/Kim82</cite>
+<cite>conf/sigmod/GanskiW87</cite>
+<cite>conf/vldb/Dayal87</cite>
+<cite>conf/vldb/Muralikrishna89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/Kiessling85</cite>
+<cite>books/bc/ElmasriN89</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/Wong95" mdate="2017-05-21">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Performance Evaluation of Three Logging Schemes for a Shared-Nothing Database Server.</title>
+<pages>221-228</pages>
+<year>1995</year>
+<crossref>conf/icdcs/1995</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs95.html#Wong95</url>
+<ee>https://doi.org/10.1109/ICDCS.1995.500023</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDCS.1995.500023</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rocling/LiPZWL95" mdate="2020-05-07">
+<author pid="33/3999-2">Wenjie Li 0002</author>
+<author pid="04/463">Haihua Pan</author>
+<author pid="16/1161">Ming Zhou</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="52/4777">Vincent Y. Lum</author>
+<title>Are Statistics-Based Approaches Good Enough For NLP? A Case Study Of Maximal-Length NP Extraction In Mandarin Chinese.</title>
+<pages>137-153</pages>
+<year>1995</year>
+<booktitle>ROCLING (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/O95-1006/</ee>
+<crossref>conf/rocling/1995-1</crossref>
+<url>db/conf/rocling/rocling1995-1.html#LiPZWL95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/WongL94" mdate="2017-05-21">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="52/4777">Vincent Y. Lum</author>
+<title>Parallel indexing in a Chinese information retrieval system.</title>
+<pages>320-325</pages>
+<year>1994</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/CMPSAC.1994.342784</ee>
+<crossref>conf/compsac/1994</crossref>
+<url>db/conf/compsac/compsac1994.html#WongL94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/WongD94" mdate="2018-11-06">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="59/847">Beno&#238;t Dageville</author>
+<title>Supporting thousands of threads using a hybrid stack sharing scheme.</title>
+<pages>493-498</pages>
+<year>1994</year>
+<crossref>conf/sac/1994</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/326619.326822</ee>
+<url>db/conf/sac/sac1994.html#WongD94</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/Wong93" mdate="2020-02-24">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Design considerations of a parallel recovery scheme for the EDS data base server.</title>
+<pages>41-48</pages>
+<year>1993</year>
+<volume>21</volume>
+<journal>J. Syst. Softw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0164-1212(93)90016-Q</ee>
+<url>db/journals/jss/jss21.html#Wong93</url>
+</article>
+</r>
+<r><inproceedings key="conf/parle/WongWLKJFDCBBBA93" mdate="2017-05-20">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="04/968">M. Howard Williams</author>
+<author pid="01/5532">S. Leunig</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="06/548">M. Jean-Noel</author>
+<author pid="f/BFinance">B&#233;atrice Finance</author>
+<author pid="59/847">Beno&#238;t Dageville</author>
+<author pid="36/5328">Michel Couprie</author>
+<author pid="60/5089">Phil Broughton</author>
+<author pid="84/3224">Didier Boudigue</author>
+<author pid="01/5241">Bj&#246;rn Bergsten</author>
+<author pid="a/FredericAndres">Fr&#233;d&#233;ric Andr&#232;s</author>
+<title>Pythagoras Project Overview (EP7091).</title>
+<pages>764-768</pages>
+<year>1993</year>
+<crossref>conf/parle/1993</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle93.html#WongWLKJFDCBBBA93</url>
+<ee>https://doi.org/10.1007/3-540-56891-3_79</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/SkeltonHLRTW92" mdate="2017-05-20">
+<author pid="27/5741">Colin J. Skelton</author>
+<author pid="48/4627">Carsten Hammer</author>
+<author pid="22/5850">M. Lopez</author>
+<author pid="68/3175">Mike Reeve</author>
+<author pid="53/5304">Paul Townsend</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>EDS: A Parallel Computer System for Advanced Information Processing.</title>
+<pages>1-18</pages>
+<year>1992</year>
+<crossref>conf/parle/1992</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle92.html#SkeltonHLRTW92</url>
+<ee>https://doi.org/10.1007/3-540-55599-4_77</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/WongW91" mdate="2012-09-13">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="04/968">M. Howard Williams</author>
+<title>A Superimposed Codeword Indexing Scheme for Handling Sets in Prolog Databases.</title>
+<pages>468-476</pages>
+<cdrom>DASFAA91/P468.pdf</cdrom>
+<year>1991</year>
+<booktitle>DASFAA</booktitle>
+<url>db/conf/dasfaa/dasfaa91.html#WongW91</url>
+<crossref>conf/dasfaa/91</crossref>
+<cite>journals/computer/BerraCH87</cite>
+<cite>...</cite>
+<cite>journals/csur/GallaireMN84</cite>
+<cite>...</cite>
+<cite>conf/iclp/RamamohanaraoS86</cite>
+<cite>...</cite>
+<cite>journals/pieee/Roberts79</cite>
+<cite>conf/iwdm/ShinB87</cite>
+<cite>conf/iwdm/WadaMYYMI87</cite>
+<cite>conf/slp/WiseP84</cite>
+<cite>...</cite>
+<cite>conf/jcdkb/WongW88</cite>
+<cite>journals/ipl/Wong89</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsmall/WongW90" mdate="2019-08-01">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="04/968">M. Howard Williams</author>
+<title>CLARE - A Prolog Database Machine.</title>
+<pages>172-177</pages>
+<year>1990</year>
+<crossref>conf/sigsmall/1990</crossref>
+<booktitle>SIGSMALL/PC Symposium</booktitle>
+<ee>https://doi.org/10.1145/99412.99460</ee>
+<url>db/conf/sigsmall/sigsmall90.html#WongW90</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/Wong89" mdate="2017-05-26">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Comments on &#34;A Comparison of Concatenated and Superimposed Code Word Surrogate Files for Very Large Data/Knowledge Bases&#34;.</title>
+<pages>45-52</pages>
+<year>1989</year>
+<volume>33</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl33.html#Wong89</url>
+<ee>https://doi.org/10.1016/0020-0190(89)90186-5</ee>
+</article>
+</r>
+<r><inproceedings key="conf/isca/WongW89" mdate="2019-02-12">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="04/968">M. Howard Williams</author>
+<title>A Type Driven Hardware Engine for Prolog Clause Retrieval over a Large Knowledge Base.</title>
+<pages>211-222</pages>
+<year>1989</year>
+<crossref>conf/isca/1989</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/74925.74950</ee>
+<ee>https://doi.org/10.1109/ISCA.1989.714556</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.1989.714556</ee>
+<url>db/conf/isca/isca89.html#WongW89</url>
+</inproceedings>
+</r>
+<r><article key="journals/kbs/WilliamsCFMSTW88" mdate="2020-02-25">
+<author pid="04/968">M. Howard Williams</author>
+<author pid="87/3288">G. Chen</author>
+<author pid="69/6374">D. Ferbrache</author>
+<author pid="47/3975">P. A. Massey</author>
+<author pid="91/1200">S. Salvini</author>
+<author pid="t/HamishTaylor">Hamish Taylor</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Prolog and deductive databases.</title>
+<pages>188-192</pages>
+<year>1988</year>
+<volume>1</volume>
+<journal>Knowl. Based Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0950-7051(88)90077-9</ee>
+<url>db/journals/kbs/kbs1.html#WilliamsCFMSTW88</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdkb/WongW88" mdate="2019-08-05">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="04/968">M. Howard Williams</author>
+<title>Design Considerations for a Prolog Database Engine.</title>
+<pages>111-120</pages>
+<year>1988</year>
+<crossref>conf/jcdkb/1988</crossref>
+<booktitle>JCDKB</booktitle>
+<url>db/conf/jcdkb/jcdkb88.html#WongW88</url>
+<ee>https://doi.org/10.1016/b978-1-4832-1313-2.50016-0</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsmall/WongW88" mdate="2019-08-01">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="04/968">M. Howard Williams</author>
+<title>Limiting a Resolution Set in a Large Prolog Database Using Special Hardware.</title>
+<pages>133-145</pages>
+<year>1988</year>
+<crossref>conf/sigsmall/1988</crossref>
+<booktitle>SIGSMALL/PC</booktitle>
+<ee>https://doi.org/10.1145/62453.62484</ee>
+<url>db/conf/sigsmall/sigsmall88.html#WongW88</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Wong87" mdate="2016-10-07">
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>An Intelligent Cell Memory System for real time engineering applications.</title>
+<year>1987</year>
+<school>University of Edinburgh, UK</school>
+<ee>http://hdl.handle.net/1842/11957</ee>
+<ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.377527</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<coauthors n="251" nc="4">
+<co c="0"><na f="a/Allan:James" pid="10/4537">James Allan</na></co>
+<co c="0"><na f="a/Andr=egrave=s:Fr=eacute=d=eacute=ric" pid="a/FredericAndres">Fr&#233;d&#233;ric Andr&#232;s</na></co>
+<co c="0"><na f="b/Balakrishnan:Jaydeep" pid="05/758">Jaydeep Balakrishnan</na></co>
+<co c="0"><na f="b/Beauchamp:Nicholas" pid="220/2037">Nicholas Beauchamp</na></co>
+<co c="0"><na f="b/Bergsten:Bj=ouml=rn" pid="01/5241">Bj&#246;rn Bergsten</na></co>
+<co c="0"><na f="b/Blitzer:John" pid="48/2163">John Blitzer</na></co>
+<co c="0"><na f="b/Boudigue:Didier" pid="84/3224">Didier Boudigue</na></co>
+<co c="0"><na f="b/Broughton:Phil" pid="60/5089">Phil Broughton</na></co>
+<co c="0" n="2"><na f="b/Bruza:Peter" pid="b/PeterBruza">Peter Bruza</na><na>Peter D. Bruza</na></co>
+<co c="0"><na f="c/Cai:Peng" pid="19/3952">Peng Cai</na></co>
+<co c="0"><na f="c/Cai:Xia" pid="10/2897">Xia Cai</na></co>
+<co c="1"><na f="c/Calzorari:Nicoletta" pid="214/2844">Nicoletta Calzorari</na></co>
+<co c="0"><na f="c/Cao:Guihong" pid="30/572">Guihong Cao</na></co>
+<co c="0"><na f="c/Celikyilmaz:Asli" pid="15/3724">Asli Celikyilmaz</na></co>
+<co c="0"><na f="c/Cha:Meeyoung" pid="57/4924">Meeyoung Cha</na></co>
+<co c="0"><na f="c/Chan:Boris_Y=_L=" pid="88/3090">Boris Y. L. Chan</na></co>
+<co c="2"><na f="c/Chan:Nam=Kiu" pid="83/5762">Nam-Kiu Chan</na></co>
+<co c="0"><na f="c/Chan:Timothy_Kun=Chung" pid="95/5439">Timothy Kun-Chung Chan</na></co>
+<co c="0"><na f="c/Chen:Ding=Yi" pid="86/5730">Ding-Yi Chen</na></co>
+<co c="0"><na f="c/Chen:G=" pid="87/3288">G. Chen</na></co>
+<co c="0"><na f="c/Chen:Gang" pid="67/6383">Gang Chen</na></co>
+<co c="0"><na f="c/Chen:Guolong" pid="86/2961">Guolong Chen</na></co>
+<co c="0"><na f="c/Chen:Junwen" pid="89/5032">Junwen Chen</na></co>
+<co c="0"><na f="c/Chen:Le" pid="19/576">Le Chen</na></co>
+<co c="0"><na f="c/Chen:Ting" pid="19/1766">Ting Chen</na></co>
+<co c="0"><na f="c/Chen_0021:Wei" pid="c/WeiChen21">Wei Chen 0021</na></co>
+<co c="0"><na f="c/Chen:Yun=Nung" pid="04/9878">Yun-Nung Chen</na></co>
+<co c="0"><na f="c/Cheng:Chun_Hung" pid="98/1856">Chun Hung Cheng</na></co>
+<co c="3"><na f="c/Cheng:Kwok=Shing" pid="18/6232">Kwok-Shing Cheng</na></co>
+<co c="0"><na f="c/Cheong:Paulo" pid="94/1565">Paulo Cheong</na></co>
+<co c="0"><na f="c/Cheung:Ricky" pid="59/6276">Ricky Cheung</na></co>
+<co c="0"><na f="c/Chiu:Dickson_K=_W=" pid="42/4256">Dickson K. W. Chiu</na></co>
+<co c="0"><na f="c/Choi:Byron" pid="07/1560">Byron Choi</na></co>
+<co c="1"><na f="c/Choi:Key=Sun" pid="97/6969">Key-Sun Choi</na></co>
+<co c="0"><na f="c/Chow:Ken_C=_W=" pid="19/3189">Ken C. W. Chow</na></co>
+<co c="0"><na f="c/Chung:Tze_Leung" pid="87/4380">Tze Leung Chung</na></co>
+<co c="0"><na f="c/Couprie:Michel" pid="36/5328">Michel Couprie</na></co>
+<co c="0"><na f="c/Cui:Baoliang" pid="24/8678">Baoliang Cui</na></co>
+<co c="0"><na f="d/Dageville:Beno=icirc=t" pid="59/847">Beno&#238;t Dageville</na></co>
+<co c="0"><na f="d/Dai:Xiangying" pid="222/9502">Xiangying Dai</na></co>
+<co c="0"><na f="d/Dale:Robert" pid="92/5943">Robert Dale</na></co>
+<co c="0" n="2"><na f="d/Dang:Edward_K=_F=" pid="51/5443">Edward K. F. Dang</na><na>Edward Kai Fung Dang</na></co>
+<co c="0"><na f="d/Debosschere:Maxime" pid="205/2061">Maxime Debosschere</na></co>
+<co c="0"><na f="d/Deng:Hongbo" pid="09/43">Hongbo Deng</na></co>
+<co c="0"><na f="d/Dong:Haoye" pid="163/4089">Haoye Dong</na></co>
+<co c="0"><na f="d/Dong:Shichao" pid="67/8730">Shichao Dong</na></co>
+<co c="0"><na f="d/Du:Jiachen" pid="172/9266">Jiachen Du</na></co>
+<co c="0"><na f="e/El=Ganainy:Tarek" pid="151/5530">Tarek El-Ganainy</na></co>
+<co c="0"><na f="f/Fan:Chuang" pid="221/3565">Chuang Fan</na></co>
+<co c="0"><na f="f/Feng:Shi" pid="97/1374">Shi Feng</na></co>
+<co c="0"><na f="f/Ferbrache:D=" pid="69/6374">D. Ferbrache</na></co>
+<co c="0"><na f="f/Finance:B=eacute=atrice" pid="f/BFinance">B&#233;atrice Finance</na></co>
+<co c="0"><na f="f/Fung:Gabriel_Pui_Cheong" pid="22/1076">Gabriel Pui Cheong Fung</na></co>
+<co c="0"><na f="g/Gao:Dehong" pid="59/9911">Dehong Gao</na></co>
+<co c="0"><na f="g/Gao:Jianfeng" pid="92/5339">Jianfeng Gao</na></co>
+<co c="0"><na f="g/Gao:Qinghong" pid="208/2315">Qinghong Gao</na></co>
+<co c="0"><na f="g/Gao_0001:Wei" pid="28/2073-1">Wei Gao 0001</na></co>
+<co c="-1"><na f="g/Guan:Tao" pid="63/3599">Tao Guan</na></co>
+<co c="0"><na f="g/Gui_0003:Lin" pid="34/8605-3">Lin Gui 0003</na></co>
+<co c="0"><na f="g/Guthrie:Louise" pid="07/3870">Louise Guthrie</na></co>
+<co c="0"><na f="h/Hammer:Carsten" pid="48/4627">Carsten Hammer</na></co>
+<co c="0"><na f="h/Han:Xu" pid="19/3011">Xu Han</na></co>
+<co c="0"><na f="h/Han:Ying" pid="45/1306">Ying Han</na></co>
+<co c="0"><na f="h/Hao:Boyi" pid="17/7248">Boyi Hao</na></co>
+<co c="0"><na f="h/Hao:Jianye" pid="21/7664">Jianye Hao</na></co>
+<co c="1"><na f="h/Hasida:K=ocirc=iti" pid="77/5882">K&#244;iti Hasida</na></co>
+<co c="0"><na f="h/He:Yulan" pid="75/5430">Yulan He</na></co>
+<co c="0"><na f="h/Hofstede:Arthur_H=_M=_ter" pid="h/AHMterHofstede">Arthur H. M. ter Hofstede</na></co>
+<co c="0"><na f="h/Hon:Hsiao=Wuen" pid="50/4528">Hsiao-Wuen Hon</na></co>
+<co c="0"><na f="h/Hu:Jian" pid="61/5788">Jian Hu</na></co>
+<co c="0"><na f="h/Huang:Haikuan" pid="241/9737">Haikuan Huang</na></co>
+<co c="0"><na f="h/Huang:Xuanjing" pid="05/6735">Xuanjing Huang</na></co>
+<co c="0"><na f="j/Jansen:Bernard_J=" pid="00/4818">Bernard J. Jansen</na></co>
+<co c="0"><na f="j/Jean=Noel:M=" pid="06/548">M. Jean-Noel</na></co>
+<co c="0"><na f="j/Jiang:Haifeng" pid="61/3217">Haifeng Jiang</na></co>
+<co c="-1"><na f="j/Jin:Honglan" pid="26/6366">Honglan Jin</na></co>
+<co c="0"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na></co>
+<co c="0"><na f="j/Ju:Y=_C=" pid="204/1005">Y. C. Ju</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Knight:Kevin" pid="77/1610">Kevin Knight</na></co>
+<co c="0"><na f="k/Ko:Roy" pid="64/6941">Roy Ko</na></co>
+<co c="0" n="2"><na f="k/Kwok:Kui=Lam" pid="k/KuiLamKwok">Kui-Lam Kwok</na><na>K. L. Kwok</na></co>
+<co c="0"><na f="k/Kwon:Sejeong" pid="137/3631">Sejeong Kwon</na></co>
+<co c="0"><na f="k/Kwong:Oi_Yee" pid="51/519">Oi Yee Kwong</na></co>
+<co c="0"><na f="l/Lai:Chun_Lam" pid="43/10440">Chun Lam Lai</na></co>
+<co c="0"><na f="l/Lai:Sunny" pid="220/0987">Sunny Lai</na></co>
+<co c="0"><na f="l/Lam:Gary_C=_K=" pid="71/411">Gary C. K. Lam</na></co>
+<co c="0"><na f="l/Lam:Wai" pid="48/1707">Wai Lam</na></co>
+<co c="0"><na f="l/Lam:Wai=Ip" pid="34/3093">Wai-Ip Lam</na></co>
+<co c="0"><na f="l/Lau:Raymond_Shaoyi" pid="123/0667">Raymond Shaoyi Lau</na></co>
+<co c="0" n="3"><na f="l/Lau:Raymond_Y=_K=" pid="l/RaymondYKLau">Raymond Y. K. Lau</na><na>Raymond Yiu-Keung Lau</na><na>Raymond Lau 0001</na></co>
+<co c="0"><na f="l/Lee:Dik_Lun" pid="l/DikLunLee">Dik Lun Lee</na></co>
+<co c="0"><na f="l/Lee:Jong=Hyeok" pid="45/83">Jong-Hyeok Lee</na></co>
+<co c="0"><na f="l/Lee:Lung=Hao" pid="28/3455">Lung-Hao Lee</na></co>
+<co c="0"><na f="l/Lee:Sungjin" pid="29/3671">Sungjin Lee</na></co>
+<co c="0"><na f="l/Lee:Wing=Kin" pid="26/3232">Wing-Kin Lee</na></co>
+<co c="0"><na f="l/Leong:Hong_Va" pid="l/HongVaLeong">Hong Va Leong</na></co>
+<co c="0"><na f="l/Leung:Kwong=Sak" pid="l/KwongSakLeung">Kwong-Sak Leung</na></co>
+<co c="0"><na f="l/Leunig:S=" pid="01/5532">S. Leunig</na></co>
+<co c="0"><na f="l/Li:Binyang" pid="32/7967">Binyang Li</na></co>
+<co c="0"><na f="l/Li:Bo" pid="50/3402">Bo Li</na></co>
+<co c="0"><na f="l/Li_0001:Hang" pid="83/5560-1">Hang Li 0001</na></co>
+<co c="0"><na f="l/Li_0001:Jianxin" pid="l/JianxinLi">Jianxin Li 0001</na></co>
+<co c="0"><na f="l/Li_0049:Jing" pid="181/2820-49">Jing Li 0049</na></co>
+<co c="0"><na f="l/Li:Li" pid="53/2189">Li Li</na></co>
+<co c="0"><na f="l/Li_0001:Lihong" pid="l/LihongLi">Lihong Li 0001</na></co>
+<co c="0"><na f="l/Li:Min" pid="82/0">Min Li</na></co>
+<co c="0"><na f="l/Li:W=_J=" pid="08/4489">W. J. Li</na></co>
+<co c="0"><na f="l/Li_0051:Wei" pid="64/6025-0051">Wei Li 0051</na></co>
+<co c="0"><na f="l/Li_0002:Wenjie" pid="33/3999-2">Wenjie Li 0002</na></co>
+<co c="0"><na f="l/Li:Xiujun" pid="30/9646">Xiujun Li</na></co>
+<co c="0"><na f="l/Li:Yinghao" pid="15/1534">Yinghao Li</na></co>
+<co c="0"><na f="l/Li:Zhixu" pid="38/3988">Zhixu Li</na></co>
+<co c="0" n="2"><na f="l/Li:Zhong" pid="70/3488">Zhong Li</na><na>Li Zhong</na></co>
+<co c="0"><na f="l/Liao:Ming" pid="88/6511">Ming Liao</na></co>
+<co c="0" n="2"><na f="l/Liao:Stephen_Shaoyi" pid="53/3715">Stephen Shaoyi Liao</na><na>Stephen S. Y. Liao</na></co>
+<co c="0"><na f="l/Liao:Xiangwen" pid="50/6801">Xiangwen Liao</na></co>
+<co c="0"><na f="l/Lin:Chenghua" pid="11/7536">Chenghua Lin</na></co>
+<co c="0"><na f="l/Lin:Xiang" pid="29/6347">Xiang Lin</na></co>
+<co c="0"><na f="l/Liu_0001:Jingjing" pid="30/3008-1">Jingjing Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Qianlong" pid="22/10360">Qianlong Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Ting" pid="52/5150-1">Ting Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0034:Wei" pid="49/3283-34">Wei Liu 0034</na></co>
+<co c="0"><na f="l/Lopez:M=" pid="22/5850">M. Lopez</na></co>
+<co c="0"><na f="l/Low:Boon_Toh" pid="37/6408">Boon Toh Low</na></co>
+<co c="0"><na f="l/L=uuml=_0001:Kevin" pid="70/1130">Kevin L&#252; 0001</na></co>
+<co c="0"><na f="l/Lu_0001:Qin" pid="29/766-1">Qin Lu 0001</na></co>
+<co c="0"><na f="l/Lu:Yueming" pid="24/334">Yueming Lu</na></co>
+<co c="0"><na f="l/Lu:Zhengdong" pid="33/3562">Zhengdong Lu</na></co>
+<co c="0" n="2"><na f="l/Luk:Robert_Wing_Pong" pid="l/RobertWingPongLuk">Robert Wing Pong Luk</na><na>Robert W. P. Luk</na></co>
+<co c="0"><na f="l/Lum:Vincent_Y=" pid="52/4777">Vincent Y. Lum</na></co>
+<co c="0"><na f="l/Lyu:Michael_R=" pid="l/MichaelRLyu">Michael R. Lyu</na></co>
+<co c="0"><na f="m/Ma_0004:Jing" pid="96/6129-4">Jing Ma 0004</na></co>
+<co c="0"><na f="m/Ma:Wei=Ying" pid="m/WYMa">Wei-Ying Ma</na></co>
+<co c="0"><na f="m/Magdy:Walid" pid="56/1909">Walid Magdy</na></co>
+<co c="0"><na f="m/Mao:Zhiming" pid="258/8430">Zhiming Mao</na></co>
+<co c="0"><na f="m/Massey:P=_A=" pid="47/3975">P. A. Massey</na></co>
+<co c="0"><na f="m/Matsumoto_0001:Yuji" pid="11/4619">Yuji Matsumoto 0001</na></co>
+<co c="0"><na f="m/Meng_0001:Xiaofeng" pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</na></co>
+<co c="0"><na f="m/Mitra:Prasenjit" pid="19/3308">Prasenjit Mitra</na></co>
+<co c="0"><na f="m/Motwani:Jaideep" pid="11/2339">Jaideep Motwani</na></co>
+<co c="0"><na f="m/Myaeng:Sung=Hyon" pid="50/3334">Sung-Hyon Myaeng</na></co>
+<co c="0"><na f="n/Ng:Benson_Hin_Kwong" pid="88/2634">Benson Hin Kwong Ng</na></co>
+<co c="0"><na f="n/Ngai:G=" pid="18/2018">G. Ngai</na></co>
+<co c="0"><na f="n/Nie:Jian=Yun" pid="n/JianYunNie">Jian-Yun Nie</na></co>
+<co c="0"><na f="n/Niu:Cheng" pid="48/2002">Cheng Niu</na></co>
+<co c="0"><na f="n/Niu:Jinzhong" pid="89/5829">Jinzhong Niu</na></co>
+<co c="0"><na f="o/Ou:Gaoyan" pid="60/9436">Gaoyan Ou</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Pan:Haihua" pid="04/463">Haihua Pan</na></co>
+<co c="0"><na f="p/Peng:Baolin" pid="144/2759">Baolin Peng</na></co>
+<co c="0"><na f="p/Pian:Wenjing" pid="249/7585">Wenjing Pian</na></co>
+<co c="0"><na f="q/Qin_0001:Bing" pid="86/5934">Bing Qin 0001</na></co>
+<co c="0"><na f="q/Qiu:Qiaoyun" pid="155/0142">Qiaoyun Qiu</na></co>
+<co c="0"><na f="r/Reeve:Mike" pid="68/3175">Mike Reeve</na></co>
+<co c="0"><na f="r/Ren:Yongjie" pid="96/5523">Yongjie Ren</na></co>
+<co c="0"><na f="s/Saif:Hassan" pid="120/5176">Hassan Saif</na></co>
+<co c="0"><na f="s/Sakai:Tetsuya" pid="18/6321">Tetsuya Sakai</na></co>
+<co c="0"><na f="s/Salvini:S=" pid="91/1200">S. Salvini</na></co>
+<co c="0"><na f="s/Seltzer:Michael_L=" pid="69/172">Michael L. Seltzer</na></co>
+<co c="0"><na f="s/Shi:Zhongzhi" pid="52/1213">Zhongzhi Shi</na></co>
+<co c="0"><na f="s/Shugars:Sarah" pid="200/8165">Sarah Shugars</na></co>
+<co c="0"><na f="s/Si:Antonio" pid="35/5958">Antonio Si</na></co>
+<co c="0"><na f="s/Skelton:Colin_J=" pid="27/5741">Colin J. Skelton</na></co>
+<co c="0"><na f="s/Song_0001:Dawei" pid="47/6784-1">Dawei Song 0001</na></co>
+<co c="0"><na f="s/Song:Kaisong" pid="30/11037">Kaisong Song</na></co>
+<co c="0"><na f="s/Song:Yan" pid="09/1398">Yan Song</na></co>
+<co c="0"><na f="s/Sproat:Richard" pid="80/2371">Richard Sproat</na></co>
+<co c="0"><na f="s/Su:Jian" pid="91/1388">Jian Su</na></co>
+<co c="0"><na f="s/Su:Yat_Fan" pid="75/3836">Yat Fan Su</na></co>
+<co c="0"><na f="t/Tan:Qi" pid="77/6056">Qi Tan</na></co>
+<co c="0"><na f="t/Tang:Duyu" pid="135/6318">Duyu Tang</na></co>
+<co c="0"><na f="t/Tang_0001:Nan" pid="27/104-1">Nan Tang 0001</na></co>
+<co c="0"><na f="t/Tang:Shiwei" pid="t/ShiweiTang">Shiwei Tang</na></co>
+<co c="0"><na f="t/Tang:Xiangru" pid="246/8064">Xiangru Tang</na></co>
+<co c="0"><na f="t/Taylor:Hamish" pid="t/HamishTaylor">Hamish Taylor</na></co>
+<co c="0"><na f="t/Tou:Huaixiao" pid="211/4152">Huaixiao Tou</na></co>
+<co c="0"><na f="t/Townsend:Paul" pid="53/5304">Paul Townsend</na></co>
+<co c="0"><na f="t/Tsujii:Jun=ichi" pid="t/JunichiTsujii">Jun'ichi Tsujii</na></co>
+<co c="0"><na f="w/Wang:D=_Y=" pid="21/1613">D. Y. Wang</na></co>
+<co c="0"><na f="w/Wang:Daling" pid="37/2233">Daling Wang</na></co>
+<co c="0"><na f="w/Wang:Dingmin" pid="206/1677">Dingmin Wang</na></co>
+<co c="0"><na f="w/Wang:Guoren" pid="64/146">Guoren Wang</na></co>
+<co c="0"><na f="w/Wang_0003:Hongru" pid="72/1462-3">Hongru Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Huimin" pid="58/1340">Huimin Wang</na></co>
+<co c="0"><na f="w/Wang_0008:Jin" pid="92/1375-8">Jin Wang 0008</na></co>
+<co c="0"><na f="w/Wang:Lingzhi" pid="66/8430">Lingzhi Wang</na></co>
+<co c="0"><na f="w/Wang:Linlin" pid="94/6774">Linlin Wang</na></co>
+<co c="0"><na f="w/Wang_0008:Lu" pid="49/3800-8">Lu Wang 0008</na></co>
+<co c="0"><na f="w/Wang:Qiu_Yue" pid="13/2107">Qiu Yue Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Shan" pid="55/1254-1">Shan Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Shuwei" pid="65/7894">Shuwei Wang</na></co>
+<co c="0"><na f="w/Wang_0003:Tengjiao" pid="39/1084-3">Tengjiao Wang 0003</na></co>
+<co c="0"><na f="w/Wang_0001:Xiaolong" pid="91/952-1">Xiaolong Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0005:Zhaoyu" pid="28/624-5">Zhaoyu Wang 0005</na></co>
+<co c="0"><na f="w/Wei:Hao" pid="96/133">Hao Wei</na></co>
+<co c="0"><na f="w/Wei:Zhongyu" pid="31/10489">Zhongyu Wei</na></co>
+<co c="0"><na f="w/Williams:M=_Howard" pid="04/968">M. Howard Williams</na></co>
+<co c="0"><na f="w/Wong:C=_K=_P=" pid="87/3516">C. K. P. Wong</na></co>
+<co c="0"><na f="w/Wong:Chi=Yin" pid="26/3096">Chi-Yin Wong</na></co>
+<co c="2"><na f="w/Wong:Kam=Lai" pid="96/8977">Kam-Lai Wong</na></co>
+<co c="0"><na f="w/Wong:W=_S=" pid="13/3899">W. S. Wong</na></co>
+<co c="0"><na f="w/Woo:Kwan=Ho" pid="40/1033">Kwan-Ho Woo</na></co>
+<co c="0"><na f="w/Wu:Ho_Chung" pid="56/6982">Ho Chung Wu</na></co>
+<co c="0"><na f="w/Wu:Hua" pid="27/6045">Hua Wu</na></co>
+<co c="0"><na f="w/Wu:Mingli" pid="22/1911">Mingli Wu</na></co>
+<co c="0"><na f="w/Wu:Xixin" pid="125/2836">Xixin Wu</na></co>
+<co c="0"><na f="x/Xia:Yunqing" pid="33/6206">Yunqing Xia</na></co>
+<co c="0"><na f="x/Xiang:Jun" pid="90/2913">Jun Xiang</na></co>
+<co c="0"><na f="x/Xiao:Yun" pid="38/1284">Yun Xiao</na></co>
+<co c="0"><na f="x/Xu_0007:Jun" pid="90/514-7">Jun Xu 0007</na></co>
+<co c="0"><na f="x/Xu:Mingxing" pid="67/7820">Mingxing Xu</na></co>
+<co c="0"><na f="x/Xu:Ruifeng" pid="93/5407">Ruifeng Xu</na></co>
+<co c="0"><na f="x/Xu:Tong" pid="70/6770">Tong Xu</na></co>
+<co c="0"><na f="x/Xu_0004:Wei" pid="32/1213-4">Wei Xu 0004</na></co>
+<co c="0"><na f="y/Yang:Dongqing" pid="65/661">Dongqing Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Pei" pid="51/6008-1">Pei Yang 0001</na></co>
+<co c="0"><na f="y/Yao:Kaisheng" pid="83/766">Kaisheng Yao</na></co>
+<co c="0"><na f="y/Yao:Yuanlin" pid="144/6622">Yuanlin Yao</na></co>
+<co c="0"><na f="y/Yip:Suen_Man" pid="58/9581">Suen Man Yip</na></co>
+<co c="3"><na f="y/Young:Gilbert_H=" pid="79/5100">Gilbert H. Young</na></co>
+<co c="0"><na f="y/Yu_0001:Ge" pid="49/6363">Ge Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="y/Yu:Liang=Chih" pid="68/5894">Liang-Chih Yu</na></co>
+<co c="0"><na f="y/Yu:Xiaoyan" pid="48/6513">Xiaoyan Yu</na></co>
+<co c="0"><na f="y/Yuan:Chunfa" pid="63/1239">Chunfa Yuan</na></co>
+<co c="0"><na f="y/Yuan_0002:Li" pid="98/4583-2">Li Yuan 0002</na></co>
+<co c="0"><na f="z/Zeng:Xingshan" pid="220/2024">Xingshan Zeng</na></co>
+<co c="0"><na f="z/Zhang:Chengqi" pid="71/964">Chengqi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Haisong" pid="220/2004">Haisong Zhang</na></co>
+<co c="0"><na f="z/Zhang:HongJiang" pid="z/HongJiangZhang">HongJiang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Le" pid="03/4043">Le Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lingying" pid="163/3328">Lingying Zhang</na></co>
+<co c="0"><na f="z/Zhang:Min" pid="83/5342">Min Zhang</na></co>
+<co c="0"><na f="z/Zhang:Renxian" pid="60/9281">Renxian Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenping" pid="26/5398">Wenping Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yuxiao" pid="29/65">Yuxiao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zheng=sheng" pid="61/7522">Zheng-sheng Zhang</na></co>
+<co c="0"><na f="z/Zhao:Kangfei" pid="169/1501">Kangfei Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yanyan" pid="38/4524">Yanyan Zhao</na></co>
+<co c="0"><na f="z/Zheng:Yanzhen" pid="127/1225">Yanzhen Zheng</na></co>
+<co c="0"><na f="z/Zhou:Aoying" pid="z/AoyingZhou">Aoying Zhou</na></co>
+<co c="0"><na f="z/Zhou:Guodong" pid="42/6620">Guodong Zhou</na></co>
+<co c="0"><na f="z/Zhou:Jiyun" pid="176/7460">Jiyun Zhou</na></co>
+<co c="0"><na f="z/Zhou:Lan=Jim" pid="33/8483">Lan-Jim Zhou</na></co>
+<co c="0"><na f="z/Zhou:Lanjun" pid="88/9011">Lanjun Zhou</na></co>
+<co c="0"><na f="z/Zhou:Ming" pid="16/1161">Ming Zhou</na></co>
+<co c="0"><na f="z/Zhou:Zimo" pid="278/7939">Zimo Zhou</na></co>
+<co c="0"><na f="z/Zhu:Jia" pid="22/2544">Jia Zhu</na></co>
+<co c="0" n="2"><na f="z/Zhu:Xiao=Dan" pid="93/310">Xiao-Dan Zhu</na><na>Xiaodan Zhu</na></co>
+<co c="0"><na f="z/Zweig:Geoffrey" pid="z/GeoffreyZweig">Geoffrey Zweig</na></co>
+</coauthors>
+</dblpperson>
+

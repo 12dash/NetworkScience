@@ -1,3 +1,2285 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a823603fedb490d9c3147eed9ff6a307aebea2d90385af18551fcf4b3b98ebaf
-size 99947
+<?xml version="1.0"?>
+<dblpperson name="Robin D. Burke" pid="58/2337" n="163">
+<person key="homepages/58/2337" mdate="2014-10-02">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="58/2337">Robin Burke</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2102-11103" mdate="2021-02-24">
+<author pid="32/5207">Xiaolei Huang</author>
+<author pid="00/9714">Michael J. Paul</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="132/4043">Franck Dernoncourt</author>
+<author pid="31/5468">Mark Dredze</author>
+<title>User Factor Adaptation for User Embedding via Multitask Learning.</title>
+<year>2021</year>
+<volume>abs/2102.11103</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.11103</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-11103</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-06364" mdate="2021-03-16">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="47/5001">Edward C. Malthouse</author>
+<title>User-centered Evaluation of Popularity Bias in Recommender Systems.</title>
+<year>2021</year>
+<volume>abs/2103.06364</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06364</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06364</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-08786" mdate="2021-03-23">
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="259/1252">Jessie J. Smith</author>
+<author pid="288/0477">Florencia Cabral Berenfus</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="37/9799">Casey Fiesler</author>
+<title>Fairness and Transparency in Recommendation: The Users' Perspective.</title>
+<year>2021</year>
+<volume>abs/2103.08786</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.08786</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-08786</url>
+</article>
+</r>
+<r><article key="journals/dhq/ShanahanBL20" mdate="2020-10-21">
+<author pid="203/6440">John Shanahan</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="160/7611">Ana Lucic</author>
+<title>Reading Chicago Reading: Quantitative Analysis of a Repeating Literary Program.</title>
+<year>2020</year>
+<volume>14</volume>
+<journal>Digit. Humanit. Q.</journal>
+<number>2</number>
+<ee type="oa">http://www.digitalhumanities.org/dhq/vol/14/2/000461/000461.html</ee>
+<url>db/journals/dhq/dhq14.html#ShanahanBL20</url>
+</article>
+</r>
+<r><article key="journals/umuai/AbdollahpouriAB20" mdate="2020-06-08">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="28/4208">Gediminas Adomavicius</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="46/650">Ido Guy</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<author pid="k/TKamishima">Toshihiro Kamishima</author>
+<author pid="185/2908">Jan Krasnodebski</author>
+<author pid="13/6023">Luiz Augusto Pizzato</author>
+<title>Multistakeholder recommendation: Survey and research directions.</title>
+<pages>127-158</pages>
+<year>2020</year>
+<volume>30</volume>
+<journal>User Model. User Adapt. Interact.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11257-019-09256-1</ee>
+<url>db/journals/umuai/umuai30.html#AbdollahpouriAB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MansouryAPMB20" mdate="2020-10-19">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Feedback Loop and Bias Amplification in Recommender Systems.</title>
+<pages>2145-2148</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3412152</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#MansouryAPMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fat/BurkeMS20" mdate="2020-03-26">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<title>Experimentation with fairness-aware recommendation using librec-auto: hands-on tutorial.</title>
+<pages>700</pages>
+<year>2020</year>
+<booktitle>FAT*</booktitle>
+<ee>https://doi.org/10.1145/3351095.3375670</ee>
+<crossref>conf/fat/2020</crossref>
+<url>db/conf/fat/fat2020.html#BurkeMS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/LinSMB20" mdate="2020-07-12">
+<author pid="36/7656">Kun Lin</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Calibration in Collaborative Filtering Recommender Systems: a User-Centered Analysis.</title>
+<pages>197-206</pages>
+<year>2020</year>
+<booktitle>HT</booktitle>
+<ee>https://doi.org/10.1145/3372923.3404793</ee>
+<crossref>conf/ht/2020</crossref>
+<url>db/conf/ht/ht2020.html#LinSMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/SonboliBLM20" mdate="2020-09-24">
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="86/11300">Zijun Liu</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<title>Fairness-aware Recommendation with librec-auto.</title>
+<pages>594-596</pages>
+<year>2020</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3383313.3411525</ee>
+<crossref>conf/recsys/2020</crossref>
+<url>db/conf/recsys/recsys2020.html#SonboliBLM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/AbdollahpouriMB20" mdate="2020-09-24">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>The Connection Between Popularity Bias, Calibration, and Fairness in Recommendation.</title>
+<pages>726-731</pages>
+<year>2020</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3383313.3418487</ee>
+<crossref>conf/recsys/2020</crossref>
+<url>db/conf/recsys/recsys2020.html#AbdollahpouriMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/MansouryAPMB20" mdate="2020-07-21">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>FairMatch: A Graph-based Approach for Improving Aggregate Diversity in Recommender Systems.</title>
+<pages>154-162</pages>
+<year>2020</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/3340631.3394860</ee>
+<crossref>conf/um/2020</crossref>
+<url>db/conf/um/umap2020.html#MansouryAPMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/SonboliEBLM20" mdate="2020-07-21">
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="186/0056">Farzad Eskandanian</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="75/2746">Weiwen Liu</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Opportunistic Multi-aspect Fairness through Personalized Re-ranking.</title>
+<pages>239-247</pages>
+<year>2020</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/3340631.3394846</ee>
+<crossref>conf/um/2020</crossref>
+<url>db/conf/um/umap2020.html#SonboliEBLM20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/um/2020" mdate="2020-07-21">
+<editor pid="k/TKuflik">Tsvi Kuflik</editor>
+<editor pid="78/4137-1">Ilaria Torre 0001</editor>
+<editor pid="58/2337">Robin Burke</editor>
+<editor pid="86/4803">Cristina Gena</editor>
+<title>Proceedings of the 28th ACM Conference on User Modeling, Adaptation and Personalization, UMAP 2020, Genoa, Italy, July 12-18, 2020</title>
+<publisher>ACM</publisher>
+<booktitle>UMAP</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-6861-2</isbn>
+<ee>https://doi.org/10.1145/3340631</ee>
+<url>db/conf/um/umap2020.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/um/2020a" mdate="2020-07-21">
+<editor pid="k/TKuflik">Tsvi Kuflik</editor>
+<editor pid="78/4137-1">Ilaria Torre 0001</editor>
+<editor pid="58/2337">Robin Burke</editor>
+<editor pid="86/4803">Cristina Gena</editor>
+<title>Adjunct Publication of the 28th ACM Conference on User Modeling, Adaptation and Personalization, UMAP 2020, Genoa, Italy, July 12-18, 2020</title>
+<publisher>ACM</publisher>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-7950-2</isbn>
+<ee>https://doi.org/10.1145/3386392</ee>
+<url>db/conf/um/umap2020a.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-06461" mdate="2020-03-17">
+<author pid="259/1252">Jessie Smith</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="37/9799">Casey Fiesler</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Exploring User Opinions of Fairness in Recommender Systems.</title>
+<year>2020</year>
+<volume>abs/2003.06461</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.06461</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-06461</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-07336" mdate="2020-04-09">
+<author pid="26/9655">Carole-Jean Wu</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="13/310">Ed Chi</author>
+<author pid="09/3004">Joseph A. Konstan</author>
+<author pid="29/3483">Julian J. McAuley</author>
+<author pid="83/5530">Yves Raimond</author>
+<author pid="55/2270">Hao Zhang</author>
+<title>Developing a Recommendation Benchmark for MLPerf Training and Inference.</title>
+<year>2020</year>
+<volume>abs/2003.07336</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.07336</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-07336</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-11634" mdate="2020-04-01">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<title>Unfair Exposure of Artists in Music Recommendation.</title>
+<year>2020</year>
+<volume>abs/2003.11634</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.11634</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-11634</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-01148" mdate="2020-05-08">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>FairMatch: A Graph-based Approach for Improving Aggregate Diversity in Recommender Systems.</title>
+<year>2020</year>
+<volume>abs/2005.01148</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.01148</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-01148</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-12974" mdate="2020-05-28">
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="186/0056">Farzad Eskandanian</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="75/2746">Weiwen Liu</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Opportunistic Multi-aspect Fairness through Personalized Re-ranking.</title>
+<year>2020</year>
+<volume>abs/2005.12974</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.12974</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-12974</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-12230" mdate="2020-07-29">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Addressing the Multistakeholder Impact of Popularity Bias in Recommendation Through Calibration.</title>
+<year>2020</year>
+<volume>abs/2007.12230</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.12230</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-12230</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-13019" mdate="2020-07-29">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Feedback Loop and Bias Amplification in Recommender Systems.</title>
+<year>2020</year>
+<volume>abs/2007.13019</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.13019</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-13019</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-09273" mdate="2020-08-28">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>The Connection Between Popularity Bias, Calibration, and Fairness in Recommendation.</title>
+<year>2020</year>
+<volume>abs/2008.09273</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.09273</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-09273</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-02590" mdate="2020-09-16">
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="54/7115">Nicholas Mattei</author>
+<author pid="186/0056">Farzad Eskandanian</author>
+<author pid="96/10026">Tian Gao</author>
+<title>&#34;And the Winner Is...&#34;: Dynamic Lotteries for Multi-group Fairness-Aware Recommendation.</title>
+<year>2020</year>
+<volume>abs/2009.02590</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.02590</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-02590</url>
+</article>
+</r>
+<r><article key="journals/ecra/SunGYFGZB19" mdate="2020-10-26">
+<author orcid="0000-0002-3350-7022" pid="163/5129">Zhu Sun</author>
+<author pid="25/3038">Qing Guo</author>
+<author pid="12/1198-28">Jie Yang 0028</author>
+<author pid="03/2511-2">Hui Fang 0002</author>
+<author pid="84/10716">Guibing Guo</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<title>Research commentary on recommendations with side information: A survey and research directions.</title>
+<year>2019</year>
+<volume>37</volume>
+<journal>Electron. Commer. Res. Appl.</journal>
+<ee>https://doi.org/10.1016/j.elerap.2019.100879</ee>
+<url>db/journals/ecra/ecra37.html#SunGYFGZB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/MansouryB19" mdate="2019-05-28">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Algorithm Selection with Librec-auto.</title>
+<pages>11-17</pages>
+<year>2019</year>
+<booktitle>AMIR@ECIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2360/paper3LibRecAuto.pdf</ee>
+<crossref>conf/ecir/2019amir</crossref>
+<url>db/conf/ecir/amir2019.html#MansouryB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/AbdollahpouriBM19" mdate="2021-02-03">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Managing Popularity Bias in Recommender Systems with Personalized Re-Ranking.</title>
+<pages>413-418</pages>
+<year>2019</year>
+<booktitle>FLAIRS Conference</booktitle>
+<ee type="oa">https://aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/view/18199</ee>
+<crossref>conf/flairs/2019</crossref>
+<url>db/conf/flairs/flairs2019.html#AbdollahpouriBM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/LucicBS19" mdate="2020-09-05">
+<author pid="160/7611">Ana Lucic</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="203/6440">John Shanahan</author>
+<title>Unsupervised Clustering with Smoothing for Detecting Paratext Boundaries in Scanned Documents.</title>
+<pages>53-56</pages>
+<year>2019</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1109/JCDL.2019.00018</ee>
+<crossref>conf/jcdl/2019</crossref>
+<url>db/conf/jcdl/jcdl2019.html#LucicBS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/AbdollahpouriB19" mdate="2019-09-25">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Multi-stakeholder Recommendation and its Connection to Multi-sided Fairness.</title>
+<year>2019</year>
+<booktitle>RMSE@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2440/paper3.pdf</ee>
+<crossref>conf/recsys/2019rmse</crossref>
+<url>db/conf/recsys/rmse2019.html#AbdollahpouriB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/AbdollahpouriMB19" mdate="2019-09-25">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>The Unfairness of Popularity Bias in Recommendation.</title>
+<year>2019</year>
+<booktitle>RMSE@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2440/paper4.pdf</ee>
+<crossref>conf/recsys/2019rmse</crossref>
+<url>db/conf/recsys/rmse2019.html#AbdollahpouriMB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BurkeAMTZ19" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="47/5001">Edward C. Malthouse</author>
+<author pid="244/3825">K. P. Thai</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<title>Recommendation in multistakeholder environments.</title>
+<pages>566-567</pages>
+<year>2019</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3298689.3346973</ee>
+<crossref>conf/recsys/2019</crossref>
+<url>db/conf/recsys/recsys2019.html#BurkeAMTZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BurkeAMTZ19a" mdate="2019-09-25">
+<author pid="58/2337">Robin Burke</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="47/5001">Edward C. Malthouse</author>
+<author pid="244/3825">K. P. Thai</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<title>RMSE: Workshop on Recommendation in Multi-stakeholder Environments.</title>
+<year>2019</year>
+<booktitle>RMSE@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2440/AUXPAPER.pdf</ee>
+<crossref>conf/recsys/2019rmse</crossref>
+<url>db/conf/recsys/rmse2019.html#BurkeAMTZ19a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/EkstrandBD19" mdate="2020-09-05">
+<author orcid="0000-0003-2467-0108" pid="69/7949">Michael D. Ekstrand</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="38/2451-1">Fernando Diaz 0001</author>
+<title>Fairness and discrimination in recommendation and retrieval.</title>
+<pages>576-577</pages>
+<year>2019</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3298689.3346964</ee>
+<crossref>conf/recsys/2019</crossref>
+<url>db/conf/recsys/recsys2019.html#EkstrandBD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/LinSMB19" mdate="2019-09-25">
+<author pid="36/7656">Kun Lin</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Crank up the Volume: Preference Bias Amplification in Collaborative Recommendation.</title>
+<year>2019</year>
+<booktitle>RMSE@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2440/paper2.pdf</ee>
+<crossref>conf/recsys/2019rmse</crossref>
+<url>db/conf/recsys/rmse2019.html#LinSMB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/LiuGSBZ19" mdate="2020-09-05">
+<author pid="75/2746">Weiwen Liu</author>
+<author orcid="0000-0003-0930-3238" pid="73/273-8">Jun Guo 0008</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="47/3459">Shengyu Zhang</author>
+<title>Personalized fairness-aware re-ranking for microlending.</title>
+<pages>467-471</pages>
+<year>2019</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3298689.3347016</ee>
+<crossref>conf/recsys/2019</crossref>
+<url>db/conf/recsys/recsys2019.html#LiuGSBZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/MalthouseVHBF19" mdate="2019-09-25">
+<author pid="47/5001">Edward C. Malthouse</author>
+<author pid="170/1371">Khadija Ali Vakeel</author>
+<author pid="201/6340">Yasaman Kamyab Hessary</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="249/3239">Morana Fuduric</author>
+<title>A Multistakeholder Recommender Systems Algorithm for Allocating Sponsored Recommendations.</title>
+<year>2019</year>
+<booktitle>RMSE@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2440/paper1.pdf</ee>
+<crossref>conf/recsys/2019rmse</crossref>
+<url>db/conf/recsys/rmse2019.html#MalthouseVHBF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/MansouryMBP19" mdate="2019-09-25">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<title>Bias Disparity in Collaborative Recommendation: Algorithmic Evaluation and Comparison.</title>
+<year>2019</year>
+<booktitle>RMSE@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2440/paper6.pdf</ee>
+<crossref>conf/recsys/2019rmse</crossref>
+<url>db/conf/recsys/rmse2019.html#MansouryMBP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/EkstrandBD19" mdate="2020-09-05">
+<author pid="69/7949">Michael D. Ekstrand</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="38/2451-1">Fernando Diaz 0001</author>
+<title>Fairness and Discrimination in Retrieval and Recommendation.</title>
+<pages>1403-1404</pages>
+<year>2019</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3331184.3331380</ee>
+<crossref>conf/sigir/2019</crossref>
+<url>db/conf/sigir/sigir2019.html#EkstrandBD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/BerendtBBEHKKMO19" mdate="2019-06-18">
+<author pid="b/BettinaBerendt">Bettina Berendt</author>
+<author pid="176/8151">Veronika Bogina</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="69/7949">Michael D. Ekstrand</author>
+<author pid="44/3947">Alan Hartman</author>
+<author pid="26/3929">Styliani Kleanthous</author>
+<author pid="k/TKuflik">Tsvi Kuflik</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="40/3725">Jahna Otterbacher</author>
+<title>FairUMAP 2019 Chairs' Welcome Overview.</title>
+<pages>279-281</pages>
+<year>2019</year>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/3314183.3323842</ee>
+<crossref>conf/um/2019a</crossref>
+<url>db/conf/um/umap2019a.html#BerendtBBEHKKMO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/SonboliB19" mdate="2020-09-05">
+<author pid="214/4164">Nasim Sonboli</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<title>Localized Fairness in Recommender Systems.</title>
+<pages>295-300</pages>
+<year>2019</year>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/3314183.3323845</ee>
+<crossref>conf/um/2019a</crossref>
+<url>db/conf/um/umap2019a.html#SonboliB19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/recsys/2019rmse" mdate="2020-02-12">
+<editor pid="58/2337">Robin Burke</editor>
+<editor pid="184/2105">Himan Abdollahpouri</editor>
+<editor pid="47/5001">Edward C. Malthouse</editor>
+<editor pid="244/3825">K. P. Thai</editor>
+<editor pid="82/7829">Yongfeng Zhang</editor>
+<title>Proceedings of the Workshop on Recommendation in Multi-stakeholder Environments co-located with the 13th ACM Conference on Recommender Systems (RecSys 2019), Copenhagen, Denmark, September 20, 2019.</title>
+<booktitle>RMSE@RecSys</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2440</volume>
+<year>2019</year>
+<ee type="oa">http://ceur-ws.org/Vol-2440</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2440-0</ee>
+<url>db/conf/recsys/rmse2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-07555" mdate="2019-02-02">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Managing Popularity Bias in Recommender Systems with Personalized Re-ranking.</title>
+<year>2019</year>
+<volume>abs/1901.07555</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.07555</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-07555</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-01986" mdate="2019-05-27">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="28/4208">Gediminas Adomavicius</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="46/650">Ido Guy</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<author pid="k/TKamishima">Toshihiro Kamishima</author>
+<author pid="185/2908">Jan Krasnodebski</author>
+<author pid="13/6023">Luiz Augusto Pizzato</author>
+<title>Beyond Personalization: Research Directions in Multistakeholder Recommendation.</title>
+<year>2019</year>
+<volume>abs/1905.01986</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.01986</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-01986</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-11711" mdate="2019-07-01">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Reducing Popularity Bias in Recommendation Over Time.</title>
+<year>2019</year>
+<volume>abs/1906.11711</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.11711</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-11711</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-07766" mdate="2019-07-23">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Flatter is better: Percentile Transformations for Recommender Systems.</title>
+<year>2019</year>
+<volume>abs/1907.07766</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.07766</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-07766</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-13158" mdate="2019-08-02">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Multi-stakeholder Recommendation and its Connection to Multi-sided Fairness.</title>
+<year>2019</year>
+<volume>abs/1907.13158</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.13158</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-13158</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-13286" mdate="2019-08-02">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>The Unfairness of Popularity Bias in Recommendation.</title>
+<year>2019</year>
+<volume>abs/1907.13286</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.13286</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-13286</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-00831" mdate="2019-08-09">
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<title>Bias Disparity in Collaborative Recommendation: Algorithmic Evaluation and Comparison.</title>
+<year>2019</year>
+<volume>abs/1908.00831</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.00831</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-00831</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-06362" mdate="2019-09-23">
+<author pid="36/7656">Kun Lin</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Crank up the volume: preference bias amplification in collaborative recommendation.</title>
+<year>2019</year>
+<volume>abs/1909.06362</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.06362</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-06362</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-12807" mdate="2020-09-24">
+<author pid="163/5129">Zhu Sun</author>
+<author pid="25/3038">Qing Guo</author>
+<author pid="12/1198-28">Jie Yang 0028</author>
+<author pid="03/2511-2">Hui Fang 0002</author>
+<author pid="84/10716">Guibing Guo</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Research Commentary on Recommendations with Side Information: A Survey and Research Directions.</title>
+<year>2019</year>
+<volume>abs/1909.12807</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.12807</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-12807</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-05755" mdate="2019-10-16">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>The Impact of Popularity Bias on Fairness and Calibration in Recommendation.</title>
+<year>2019</year>
+<volume>abs/1910.05755</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.05755</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-05755</url>
+</article>
+</r>
+<r><inproceedings key="conf/fat/BurkeSO18" mdate="2019-04-03">
+<author pid="58/2337">Robin Burke</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="214/4189">Aldo Ordonez-Gauger</author>
+<title>Balanced Neighborhoods for Multi-sided Fairness in Recommendation.</title>
+<pages>202-214</pages>
+<year>2018</year>
+<booktitle>FAT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v81/burke18a.html</ee>
+<crossref>conf/fat/2018</crossref>
+<url>db/conf/fat/fat2018.html#BurkeSO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hais/Sanchez-MorenoG18" mdate="2020-09-05">
+<author pid="146/0243">Diego S&#225;nchez-Moreno</author>
+<author orcid="0000-0003-2809-3707" pid="77/1309">Mar&#237;a N. Moreno Garc&#237;a</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<title>Inferring User Expertise from Social Tagging in Music Recommender Systems for Streaming Services.</title>
+<pages>39-49</pages>
+<year>2018</year>
+<booktitle>HAIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92639-1_4</ee>
+<crossref>conf/hais/2018</crossref>
+<url>db/conf/hais/hais2018.html#Sanchez-MorenoG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/SurerBM18" mdate="2020-09-05">
+<author pid="158/0981">&#214;zge S&#252;rer</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="47/5001">Edward C. Malthouse</author>
+<title>Multistakeholder recommendation with provider constraints.</title>
+<pages>54-62</pages>
+<year>2018</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3240323.3240350</ee>
+<crossref>conf/recsys/2018</crossref>
+<url>db/conf/recsys/recsys2018.html#SurerBM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/MansouryBOS18" mdate="2020-09-05">
+<author pid="183/7693">Masoud Mansoury</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="214/4189">Aldo Ordonez-Gauger</author>
+<author pid="227/0754">Xavier Sepulveda</author>
+<title>Automating recommender systems experimentation with librec-auto.</title>
+<pages>500-501</pages>
+<year>2018</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3240323.3241614</ee>
+<crossref>conf/recsys/2018</crossref>
+<url>db/conf/recsys/recsys2018.html#MansouryBOS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/MobasherBEB18" mdate="2020-09-05">
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="69/7949">Michael D. Ekstrand</author>
+<author pid="b/BettinaBerendt">Bettina Berendt</author>
+<title>UMAP 2018 Fairness in User Modeling, Adaptation and Personalization (FairUMAP 2018) Chairs' Welcome &#38; Organization: Preface.</title>
+<pages>3-5</pages>
+<year>2018</year>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/3213586.3226200</ee>
+<crossref>conf/um/2018a</crossref>
+<url>db/conf/um/umap2018a.html#MobasherBEB18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/VahedianB18" mdate="2019-02-17">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Recommender Systems Based on Social Networks.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-7131-2_110163</ee>
+<crossref>reference/snam/2018</crossref>
+<url>db/reference/snam/snam2018.html#VahedianB18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-05382" mdate="2018-08-13">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Value-Aware Item Weighting for Long-Tail Recommendation.</title>
+<year>2018</year>
+<volume>abs/1802.05382</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.05382</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-05382</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02921" mdate="2018-10-05">
+<author pid="75/2746">Weiwen Liu</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Personalizing Fairness-aware Re-ranking.</title>
+<year>2018</year>
+<volume>abs/1809.02921</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02921</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02921</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-04199" mdate="2018-10-05">
+<author pid="58/2337">Robin Burke</author>
+<author pid="227/2322">Jackson Kontny</author>
+<author pid="214/4164">Nasim Sonboli</author>
+<title>Synthetic Attribute Data for Evaluating Consumer-side Fairness.</title>
+<year>2018</year>
+<volume>abs/1809.04199</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.04199</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-04199</url>
+</article>
+</r>
+<r><article key="journals/tweb/VahedianBM17" mdate="2020-09-05">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Multirelational Recommendation in Heterogeneous Networks.</title>
+<pages>15:1-15:34</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>ACM Trans. Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3054952</ee>
+<url>db/journals/tweb/tweb11.html#VahedianBM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ht/ChristiansenMB17" mdate="2019-05-28">
+<author pid="36/7459">Laura Christiansen</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Using Uncertain Graphs to Automatically Generate Event Flows from News Stories.</title>
+<year>2017</year>
+<booktitle>HT (Extended Proceedings)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1914/SIDEWAYS17-3.pdf</ee>
+<crossref>conf/ht/2017e</crossref>
+<url>db/conf/ht/ht2017e.html#ChristiansenMB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/BurkeLS17" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="160/7611">Ana Lucic</author>
+<author pid="203/6440">John Shanahan</author>
+<title>Circulation Modeling of Library Book Promotions.</title>
+<pages>291-292</pages>
+<year>2017</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1109/JCDL.2017.7991595</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/JCDL.2017.7991595</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3200378</ee>
+<crossref>conf/jcdl/2017</crossref>
+<url>db/conf/jcdl/jcdl2017.html#BurkeLS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/AbdollahpouriBM17" mdate="2020-09-05">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Controlling Popularity Bias in Learning-to-Rank Recommendation.</title>
+<pages>42-46</pages>
+<year>2017</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3109859.3109912</ee>
+<ee>https://www.wikidata.org/entity/Q56699603</ee>
+<crossref>conf/recsys/2017</crossref>
+<url>db/conf/recsys/recsys2017.html#AbdollahpouriBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BurkeAGKPZA17" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="28/4208">Gediminas Adomavicius</author>
+<author pid="46/650">Ido Guy</author>
+<author pid="185/2908">Jan Krasnodebski</author>
+<author pid="13/6023">Luiz Augusto Pizzato</author>
+<author pid="64/6544">Yi Zhang</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<title>VAMS 2017: Workshop on Value-Aware and Multistakeholder Recommendation.</title>
+<pages>378-379</pages>
+<year>2017</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/3109859.3109957</ee>
+<crossref>conf/recsys/2017</crossref>
+<url>db/conf/recsys/recsys2017.html#BurkeAGKPZA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/VahedianBM17" mdate="2020-09-05">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Weighted Random Walk Sampling for Multi-Relational Recommendation.</title>
+<pages>230-237</pages>
+<year>2017</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/3079628.3079685</ee>
+<crossref>conf/um/2017</crossref>
+<url>db/conf/um/umap2017.html#VahedianBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/EskandanianMB17" mdate="2020-09-05">
+<author pid="186/0056">Farzad Eskandanian</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<title>A Clustering Approach for Personalizing Diversity in Collaborative Recommender Systems.</title>
+<pages>280-284</pages>
+<year>2017</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/3079628.3079699</ee>
+<crossref>conf/um/2017</crossref>
+<url>db/conf/um/umap2017.html#EskandanianMB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/AbdollahpouriBM17" mdate="2020-09-05">
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Recommender Systems as Multistakeholder Environments.</title>
+<pages>347-348</pages>
+<year>2017</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/3079628.3079657</ee>
+<crossref>conf/um/2017</crossref>
+<url>db/conf/um/umap2017.html#AbdollahpouriBM17</url>
+</inproceedings>
+</r>
+<r><incollection key="series/hci/ZhengMB17" mdate="2017-10-24">
+<author pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Emotions in Context-Aware Recommender Systems.</title>
+<pages>311-326</pages>
+<year>2017</year>
+<booktitle>Emotions and Personality in Personalized Services</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-31413-6_15</ee>
+<crossref>series/hci/Tkalcic2017</crossref>
+<url>db/series/hci/Tkalcic2017.html#ZhengMB17</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/VahedianBM17" mdate="2018-08-13">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Weighted Random Walk Sampling for Multi-Relational Recommendation.</title>
+<year>2017</year>
+<volume>abs/1703.00034</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.00034</ee>
+<url>db/journals/corr/corr1703.html#VahedianBM17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Burke17aa" mdate="2018-08-13">
+<author pid="58/2337">Robin Burke</author>
+<title>Multisided Fairness for Recommendation.</title>
+<year>2017</year>
+<volume>abs/1707.00093</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.00093</ee>
+<url>db/journals/corr/corr1707.html#Burke17aa</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BurkeA17" mdate="2018-08-13">
+<author pid="58/2337">Robin Burke</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<title>Patterns of Multistakeholder Recommendation.</title>
+<year>2017</year>
+<volume>abs/1707.09258</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.09258</ee>
+<url>db/journals/corr/corr1707.html#BurkeA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/VahedianBM16" mdate="2021-02-03">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Meta-Path Selection for Extended Multi-Relational Matrix Factorization.</title>
+<pages>566-571</pages>
+<year>2016</year>
+<booktitle>FLAIRS Conference</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12859</ee>
+<crossref>conf/flairs/2016</crossref>
+<url>db/conf/flairs/flairs2016.html#VahedianBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/EskandanianMB16" mdate="2019-05-28">
+<author pid="186/0056">Farzad Eskandanian</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>User Segmentation for Controlling Recommendation Diversity.</title>
+<year>2016</year>
+<booktitle>RecSys Posters</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1688/paper-24.pdf</ee>
+<crossref>conf/recsys/2016p</crossref>
+<url>db/conf/recsys/posters2016.html#EskandanianMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/VahedianBM16" mdate="2019-05-28">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Weighted Random Walks for Meta-Path Expansion in Heterogeneous Networks.</title>
+<year>2016</year>
+<booktitle>RecSys Posters</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1688/paper-11.pdf</ee>
+<crossref>conf/recsys/2016p</crossref>
+<url>db/conf/recsys/posters2016.html#VahedianBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/BurkeAMG16" mdate="2019-05-28">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="184/2031">Trinadh Gupta</author>
+<title>Towards Multi-Stakeholder Utility Evaluation of Recommender Systems.</title>
+<year>2016</year>
+<booktitle>UMAP (Extended Proceedings)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1618/SOAP_paper2.pdf</ee>
+<crossref>conf/um/2016e</crossref>
+<url>db/conf/um/umap2016e.html#BurkeAMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/ZhengMB16" mdate="2020-10-25">
+<author orcid="0000-0003-4990-4580" pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<title>User-Oriented Context Suggestion.</title>
+<pages>249-258</pages>
+<year>2016</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/2930238.2930252</ee>
+<crossref>conf/um/2016</crossref>
+<url>db/conf/um/umap2016.html#ZhengMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/BurkeA16" mdate="2017-05-25">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="184/2105">Himan Abdollahpouri</author>
+<title>Educational Recommendation with Multiple Stakeholders.</title>
+<pages>62-63</pages>
+<year>2016</year>
+<booktitle>WI Workshops</booktitle>
+<ee>https://doi.org/10.1109/WIW.2016.028</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WIW.2016.028</ee>
+<crossref>conf/webi/2016w</crossref>
+<url>db/conf/webi/webi2016w.html#BurkeA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/BurkeE16" mdate="2017-05-25">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="186/0056">Farzad Eskandanian</author>
+<title>Collaborative Recommendation of Informal Learning Experiences.</title>
+<pages>66-67</pages>
+<year>2016</year>
+<booktitle>WI Workshops</booktitle>
+<ee>https://doi.org/10.1109/WIW.2016.030</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WIW.2016.030</ee>
+<crossref>conf/webi/2016w</crossref>
+<url>db/conf/webi/webi2016w.html#BurkeE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ZhengMB15" mdate="2020-10-25">
+<author orcid="0000-0003-4990-4580" pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>CARSKit: A Java-Based Context-Aware Recommendation Engine.</title>
+<pages>1668-1671</pages>
+<year>2015</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2015.222</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.222</ee>
+<crossref>conf/icdm/2015w</crossref>
+<url>db/conf/icdm/icdm2015w.html#ZhengMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HaririMB15" mdate="2019-08-20">
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Adapting to User Preference Changes in Interactive Recommendation.</title>
+<pages>4268-4274</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/607</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#HaririMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhengMB15" mdate="2019-05-28">
+<author pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Incorporating Context Correlation into Context-aware Matrix Factorization.</title>
+<year>2015</year>
+<booktitle>CPCR+ITWP@IJCAI</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1440/Paper5.pdf</ee>
+<crossref>conf/ijcai/2015cpcr</crossref>
+<url>db/conf/ijcai/cpcr2015.html#ZhengMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/AghdamHMB15" mdate="2020-09-05">
+<author orcid="0000-0002-3922-9991" pid="52/1891">Mehdi Hosseinzadeh Aghdam</author>
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Adapting Recommendations to Contextual Changes Using Hierarchical Hidden Markov Models.</title>
+<pages>241-244</pages>
+<year>2015</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2792838.2799684</ee>
+<crossref>conf/recsys/2015</crossref>
+<url>db/conf/recsys/recsys2015.html#AghdamHMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/VahedianBM15" mdate="2019-05-28">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Network-Based Extension of Multi-Relational Factorization Models.</title>
+<year>2015</year>
+<booktitle>RecSys Posters</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1441/recsys2015_poster14.pdf</ee>
+<crossref>conf/recsys/2015p</crossref>
+<url>db/conf/recsys/posters2015.html#VahedianBM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/ZhengMB15" mdate="2020-10-25">
+<author orcid="0000-0003-4990-4580" pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Integrating Context Similarity with Sparse Linear Recommendation Model.</title>
+<pages>370-376</pages>
+<year>2015</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-20267-9_33</ee>
+<crossref>conf/um/2015</crossref>
+<url>db/conf/um/umap2015.html#ZhengMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/ZhengMB15" mdate="2020-10-25">
+<author orcid="0000-0003-4990-4580" pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Similarity-Based Context-Aware Recommendation.</title>
+<pages>431-447</pages>
+<year>2015</year>
+<booktitle>WISE (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26190-4_29</ee>
+<crossref>conf/wise/2015-1</crossref>
+<url>db/conf/wise/wise2015-1.html#ZhengMB15</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/sp/BurkeOH15" mdate="2020-10-26">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<author pid="34/4255">Michael P. O'Mahony</author>
+<author orcid="0000-0001-8428-2866" pid="86/2778">Neil J. Hurley</author>
+<title>Robust Collaborative Recommendation.</title>
+<pages>961-995</pages>
+<year>2015</year>
+<booktitle>Recommender Systems Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-1-4899-7637-6_28</ee>
+<crossref>reference/sp/2015rsh</crossref>
+<url>db/reference/sp/rsh2015.html#BurkeOH15</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cikm/ZhengMB14" mdate="2020-09-05">
+<author pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Deviation-Based Contextual SLIM Recommenders.</title>
+<pages>271-280</pages>
+<year>2014</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2661829.2661987</ee>
+<crossref>conf/cikm/2014</crossref>
+<url>db/conf/cikm/cikm2014.html#ZhengMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecweb/GemmellMB14" mdate="2017-05-23">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Resource Recommendation in Social Annotation Systems Based on User Partitioning.</title>
+<pages>101-112</pages>
+<year>2014</year>
+<booktitle>EC-Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10491-1_11</ee>
+<crossref>conf/ecweb/2014</crossref>
+<url>db/conf/ecweb/ecweb2014.html#GemmellMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/HaririMB14" mdate="2020-09-05">
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Context adaptation in interactive recommender systems.</title>
+<pages>41-48</pages>
+<year>2014</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2645710.2645753</ee>
+<crossref>conf/recsys/2014</crossref>
+<url>db/conf/recsys/recsys2014.html#HaririMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/VahedianB14" mdate="2019-05-28">
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Predicting Component Utilities for Linear-Weighted Hybrid Recommendation.</title>
+<year>2014</year>
+<booktitle>RSWeb@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1271/Paper7.pdf</ee>
+<crossref>conf/recsys/2014rsweb</crossref>
+<url>db/conf/recsys/rsweb2014.html#VahedianB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/ZhengMB14" mdate="2020-10-25">
+<author orcid="0000-0003-4990-4580" pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>CSLIM: contextual SLIM recommendation algorithms.</title>
+<pages>301-304</pages>
+<year>2014</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2645710.2645756</ee>
+<ee>https://www.wikidata.org/entity/Q57254568</ee>
+<crossref>conf/recsys/2014</crossref>
+<url>db/conf/recsys/recsys2014.html#ZhengMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/ZhengBM14" mdate="2020-09-05">
+<author pid="97/8630">Yong Zheng</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Splitting approaches for context-aware recommendation: an empirical study.</title>
+<pages>274-279</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2554850.2554989</ee>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#ZhengBM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/BurkeVM14" mdate="2017-05-21">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="136/3815">Fatemeh Vahedian</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Hybrid Recommendation in Heterogeneous Networks.</title>
+<pages>49-60</pages>
+<year>2014</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08786-3_5</ee>
+<crossref>conf/um/2014</crossref>
+<url>db/conf/um/umap2014.html#BurkeVM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/GemmellMB14" mdate="2020-09-05">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>User Partitioning Hybrid for Tag Recommendation.</title>
+<pages>74-85</pages>
+<year>2014</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08786-3_7</ee>
+<crossref>conf/um/2014</crossref>
+<url>db/conf/um/umap2014.html#GemmellMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/ZhengMB14" mdate="2020-10-25">
+<author orcid="0000-0003-4990-4580" pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Context Recommendation Using Multi-label Classification.</title>
+<pages>288-295</pages>
+<year>2014</year>
+<booktitle>WI-IAT (1)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2014.110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI-IAT.2014.110</ee>
+<crossref>conf/webi/2014-1</crossref>
+<url>db/conf/webi/webi2014-1.html#ZhengMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/PutnamCRBB13" mdate="2020-09-05">
+<author pid="40/1016">Cynthia Putnam</author>
+<author pid="120/4206">Jinghui Cheng</author>
+<author pid="116/8271">Doris C. Rusch</author>
+<author pid="46/1415">Andr&#233; Berthiaume</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin Burke</author>
+<title>Supporting therapists in motion-based gaming for brain injury rehabilitation.</title>
+<pages>391-396</pages>
+<year>2013</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/2468356.2468426</ee>
+<crossref>conf/chi/2013a</crossref>
+<url>db/conf/chi/chi2013a.html#PutnamCRBB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BurkeV13" mdate="2019-05-28">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="136/3815">Fatemeh Vahedian</author>
+<title>Social Web Recommendation using Metapaths.</title>
+<year>2013</year>
+<booktitle>RSWeb@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1066/Paper2.pdf</ee>
+<crossref>conf/recsys/2013rsweb</crossref>
+<url>db/conf/recsys/rsweb2013.html#BurkeV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/HaririMB13" mdate="2020-09-05">
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Query-driven context aware recommendation.</title>
+<pages>9-16</pages>
+<year>2013</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2507157.2507187</ee>
+<crossref>conf/recsys/2013</crossref>
+<url>db/conf/recsys/recsys2013.html#HaririMB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/ZhengMB13" mdate="2019-05-28">
+<author pid="97/8630">Yong Zheng</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>The Role of Emotions in Context-aware Recommendation.</title>
+<pages>21-28</pages>
+<year>2013</year>
+<booktitle>Decisions@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1050/paper4.pdf</ee>
+<crossref>conf/recsys/2013decisions</crossref>
+<url>db/conf/recsys/decisions2013.html#ZhengMB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/ZhengBM13" mdate="2020-09-05">
+<author pid="97/8630">Yong Zheng</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Recommendation with Differential Context Weighting.</title>
+<pages>152-164</pages>
+<year>2013</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38844-6_13</ee>
+<crossref>conf/um/2013</crossref>
+<url>db/conf/um/umap2013.html#ZhengBM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhci/Burke12" mdate="2020-06-18">
+<author pid="58/2337">Robin Burke</author>
+<title><i>Recommender Systems: An Introduction</i>, by Dietmar Jannach, Markus Zanker, Alexander Felfernig, and Gerhard FriedrichCambridge University Press, 2011, 336 pages. ISBN: 978-0-521-49336-9.</title>
+<pages>72-73</pages>
+<year>2012</year>
+<volume>28</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1080/10447318.2012.632301</ee>
+<url>db/journals/ijhci/ijhci28.html#Burke12</url>
+</article>
+</r>
+<r><article key="journals/jcss/GemmellSMB12" mdate="2021-02-16">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Resource recommendation in social annotation systems: A linear-weighted hybrid approach.</title>
+<pages>1160-1174</pages>
+<year>2012</year>
+<volume>78</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2011.10.006</ee>
+<url>db/journals/jcss/jcss78.html#GemmellSMB12</url>
+</article>
+</r>
+<r><article key="journals/umuai/FelfernigBP12" mdate="2020-09-05">
+<author pid="71/915">Alexander Felfernig</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="76/2682">Pearl Pu</author>
+<title>Preface to the special issue on user interfaces for recommender systems.</title>
+<pages>313-316</pages>
+<year>2012</year>
+<volume>22</volume>
+<journal>User Model. User Adapt. Interact.</journal>
+<number>4-5</number>
+<ee type="oa">https://doi.org/10.1007/s11257-012-9120-5</ee>
+<url>db/journals/umuai/umuai22.html#FelfernigBP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecweb/ZhengBM12" mdate="2020-09-05">
+<author pid="97/8630">Yong Zheng</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Differential Context Relaxation for Context-Aware Travel Recommendation.</title>
+<pages>88-99</pages>
+<year>2012</year>
+<booktitle>EC-Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32273-0_8</ee>
+<crossref>conf/ecweb/2012</crossref>
+<url>db/conf/ecweb/ecweb2012.html#ZhengBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/HaririMB12" mdate="2018-11-26">
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Context-aware music recommendation based on latenttopic sequential patterns.</title>
+<pages>131-138</pages>
+<year>2012</year>
+<booktitle>RecSys</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=2365979</ee>
+<crossref>conf/recsys/2012</crossref>
+<url>db/conf/recsys/recsys2012.html#HaririMB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/widm/ChristiansenSBM12" mdate="2020-09-05">
+<author pid="36/7459">Laura Christiansen</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Modeling topic trends on the social web using temporal signatures.</title>
+<pages>3-10</pages>
+<year>2012</year>
+<booktitle>WIDM</booktitle>
+<ee>https://doi.org/10.1145/2389936.2389940</ee>
+<crossref>conf/widm/2012</crossref>
+<url>db/conf/widm/widm2012.html#ChristiansenSBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/widm/HaririMB12" mdate="2020-09-05">
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Using social tags to infer context in hybrid music recommendation.</title>
+<pages>41-48</pages>
+<year>2012</year>
+<booktitle>WIDM</booktitle>
+<ee>https://doi.org/10.1145/2389936.2389946</ee>
+<crossref>conf/widm/2012</crossref>
+<url>db/conf/widm/widm2012.html#HaririMB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/BurkeFG11" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="71/915">Alexander Felfernig</author>
+<author pid="49/1253">Mehmet H. G&#246;ker</author>
+<title>Recommender Systems: An Overview.</title>
+<pages>13-18</pages>
+<year>2011</year>
+<volume>32</volume>
+<journal>AI Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1609/aimag.v32i3.2361</ee>
+<url>db/journals/aim/aim32.html#BurkeFG11</url>
+</article>
+</r>
+<r><article key="journals/aim/BurkeGHJ11" mdate="2020-08-25">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="h/AndreasHotho">Andreas Hotho</author>
+<author pid="26/274">Robert J&#228;schke</author>
+<title>Recommendation in the Social Web.</title>
+<pages>46-56</pages>
+<year>2011</year>
+<volume>32</volume>
+<journal>AI Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1609/aimag.v32i3.2373</ee>
+<url>db/journals/aim/aim32.html#BurkeGHJ11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecweb/GemmellSMB11" mdate="2020-09-05">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Recommendation by Example in Social Annotation Systems.</title>
+<pages>209-220</pages>
+<year>2011</year>
+<booktitle>EC-Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23014-1_18</ee>
+<crossref>conf/ecweb/2011</crossref>
+<url>db/conf/ecweb/ecweb2011.html#GemmellSMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HaririMBZ11" mdate="2019-05-28">
+<author pid="04/7710">Negar Hariri</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="97/8630">Yong Zheng</author>
+<title>Context-Aware Recommendation Based On Review Mining.</title>
+<year>2011</year>
+<booktitle>ITWP@IJCAI</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-756/paper04.pdf</ee>
+<crossref>conf/ijcai/2011itwp</crossref>
+<url>db/conf/ijcai/itwp2011.html#HaririMBZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/GuzziRB11" mdate="2020-09-05">
+<author pid="01/10322">Francesca Guzzi</author>
+<author orcid="0000-0001-5931-5566" pid="r/FrancescoRicci">Francesco Ricci 0001</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Interactive multi-party critiquing for group recommendation.</title>
+<pages>265-268</pages>
+<year>2011</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2043932.2043980</ee>
+<crossref>conf/recsys/2011</crossref>
+<url>db/conf/recsys/recsys2011.html#GuzziRB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/GemmellSMB11" mdate="2020-09-05">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Tag-Based Resource Recommendation in Social Annotation Applications.</title>
+<pages>111-122</pages>
+<year>2011</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22362-4_10</ee>
+<crossref>conf/um/2011</crossref>
+<url>db/conf/um/umap2011.html#GemmellSMB11</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/rsh/BurkeR11" mdate="2017-05-16">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="79/542">Maryam Ramezani</author>
+<title>Matching Recommendation Technologies and Domains.</title>
+<pages>367-386</pages>
+<year>2011</year>
+<booktitle>Recommender Systems Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-85820-3_11</ee>
+<crossref>reference/rsh/2011</crossref>
+<url>db/reference/rsh/rsh2011.html#BurkeR11</url>
+</incollection>
+</r>
+<r><incollection key="reference/rsh/BurkeOH11" mdate="2017-05-16">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="34/4255">Michael P. O'Mahony</author>
+<author pid="86/2778">Neil J. Hurley</author>
+<title>Robust Collaborative Recommendation.</title>
+<pages>805-835</pages>
+<year>2011</year>
+<booktitle>Recommender Systems Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-85820-3_25</ee>
+<crossref>reference/rsh/2011</crossref>
+<url>db/reference/rsh/rsh2011.html#BurkeOH11</url>
+</incollection>
+</r>
+<r><proceedings key="conf/recsys/2011" mdate="2011-10-25">
+<editor pid="01/4475">Bamshad Mobasher</editor>
+<editor pid="58/2337">Robin D. Burke</editor>
+<editor pid="j/DietmarJannach">Dietmar Jannach</editor>
+<editor pid="28/4208">Gediminas Adomavicius</editor>
+<title>Proceedings of the 2011 ACM Conference on Recommender Systems, RecSys 2011, Chicago, IL, USA, October 23-27, 2011</title>
+<booktitle>RecSys</booktitle>
+<publisher>ACM</publisher>
+<year>2011</year>
+<url>db/conf/recsys/recsys2011.html</url>
+<isbn>978-1-4503-0683-6</isbn>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cikm/GemmellSMB10" mdate="2020-09-05">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Hybrid tag recommendation for social annotation systems.</title>
+<pages>829-838</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871543</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#GemmellSMB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecweb/GemmellSMB10" mdate="2020-09-05">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Resource Recommendation in Collaborative Tagging Applications.</title>
+<pages>1-12</pages>
+<year>2010</year>
+<booktitle>EC-Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15208-5_1</ee>
+<crossref>conf/ecweb/2010</crossref>
+<url>db/conf/ecweb/ecweb2010.html#GemmellSMB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/Burke10" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Evaluating the dynamic properties of recommendation algorithms.</title>
+<pages>225-228</pages>
+<year>2010</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1864708.1864753</ee>
+<crossref>conf/recsys/2010</crossref>
+<url>db/conf/recsys/recsys2010.html#Burke10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/SiegMB10" mdate="2019-05-28">
+<author pid="10/1287">Ahu Sieg</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin Burke</author>
+<title>Ontology-Based Collaborative Recommendation.</title>
+<year>2010</year>
+<booktitle>ITWP@UMAP</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-606/paper2.pdf</ee>
+<crossref>conf/um/2010itwp</crossref>
+<url>db/conf/um/itwp2010.html#SiegMB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/RamezaniSSGMB09" mdate="2020-09-05">
+<author pid="79/542">Maryam Ramezani</author>
+<author pid="03/1429">Jeff J. Sandvig</author>
+<author pid="64/7456">Thomas Schimoler</author>
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Evaluating the Impact of Attacks in Collaborative Tagging Environments.</title>
+<pages>136-143</pages>
+<year>2009</year>
+<booktitle>CSE (4)</booktitle>
+<ee>https://doi.org/10.1109/CSE.2009.93</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2009.93</ee>
+<crossref>conf/cse/2009</crossref>
+<url>db/conf/cse/cse2009-4.html#RamezaniSSGMB09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/recsys/2009" mdate="2010-01-11">
+<editor pid="72/2550">Lawrence D. Bergman</editor>
+<editor pid="t/AlexanderTuzhilin">Alexander Tuzhilin</editor>
+<editor pid="58/2337">Robin D. Burke</editor>
+<editor pid="71/915">Alexander Felfernig</editor>
+<editor pid="s/LarsSchmidtThieme">Lars Schmidt-Thieme</editor>
+<title>Proceedings of the 2009 ACM Conference on Recommender Systems, RecSys 2009, New York, NY, USA, October 23-25, 2009</title>
+<booktitle>RecSys</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<url>db/conf/recsys/recsys2009.html</url>
+<isbn>978-1-60558-435-5</isbn>
+</proceedings>
+</r>
+<r><article key="journals/debu/SandvigMB08" mdate="2020-03-10">
+<author pid="03/1429">Jeff J. Sandvig</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>A Survey of Collaborative Recommendation and the Robustness of Model-Based Algorithms.</title>
+<pages>3-13</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A08June/sandvig.pdf</ee>
+<url>db/journals/debu/debu31.html#SandvigMB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACMicec/FelfernigB08" mdate="2020-09-05">
+<author pid="71/915">Alexander Felfernig</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Constraint-based recommender systems: technologies and research issues.</title>
+<pages>3:1-3:10</pages>
+<year>2008</year>
+<booktitle>ICEC</booktitle>
+<ee>https://doi.org/10.1145/1409540.1409544</ee>
+<crossref>conf/ACMicec/2008</crossref>
+<url>db/conf/ACMicec/icec2008.html#FelfernigB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/GemmellSMB08" mdate="2020-09-05">
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="92/534">Andriy Shepitsen</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Personalizing Navigation in Folksonomies Using Hierarchical Tag Clustering.</title>
+<pages>196-205</pages>
+<year>2008</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85836-2_19</ee>
+<crossref>conf/dawak/2008</crossref>
+<url>db/conf/dawak/dawak2008.html#GemmellSMB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/ShepitsenGMB08" mdate="2020-09-05">
+<author pid="92/534">Andriy Shepitsen</author>
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Personalized recommendation in social tagging systems using hierarchical clustering.</title>
+<pages>259-266</pages>
+<year>2008</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1454008.1454048</ee>
+<crossref>conf/recsys/2008</crossref>
+<url>db/conf/recsys/recsys2008.html#ShepitsenGMB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/Burke08" mdate="2018-11-06">
+<author pid="58/2337">Robin D. Burke</author>
+<title>Robust recommender systems.</title>
+<pages>331-332</pages>
+<year>2008</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1454008.1454066</ee>
+<crossref>conf/recsys/2008</crossref>
+<url>db/conf/recsys/recsys2008.html#Burke08</url>
+</inproceedings>
+</r>
+<r><article key="journals/cib/SiegMB07" mdate="2020-03-12">
+<author pid="10/1287">Ahu Sieg</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Learning Ontology-Based User Profiles: A Semantic Approach to Personalized Web Search.</title>
+<pages>7-18</pages>
+<year>2007</year>
+<volume>8</volume>
+<journal>IEEE Intell. Informatics Bull.</journal>
+<number>1</number>
+<ee type="oa">http://www.comp.hkbu.edu.hk/~cib/2007/Nov/iib_vol8no1_article1.pdf</ee>
+<url>db/journals/cib/cib8.html#SiegMB07</url>
+</article>
+</r>
+<r><article key="journals/expert/MobasherBBS07" mdate="2020-09-05">
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<author pid="03/1429">Jeff J. Sandvig</author>
+<title>Attacks and Remedies in Collaborative Recommendation.</title>
+<pages>56-63</pages>
+<year>2007</year>
+<volume>22</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MIS.2007.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2007.45</ee>
+<url>db/journals/expert/expert22.html#MobasherBBS07</url>
+</article>
+</r>
+<r><article key="journals/soca/WilliamsMB07" mdate="2020-09-05">
+<author pid="75/3305">Chad Williams</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Defending recommender systems: detection of profile injection attacks.</title>
+<pages>157-170</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>Serv. Oriented Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11761-007-0013-0</ee>
+<url>db/journals/soca/soca1.html#WilliamsMB07</url>
+</article>
+</r>
+<r><article key="journals/toit/MobasherBBW07" mdate="2020-09-05">
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<author pid="75/3305">Chad Williams</author>
+<title>Toward trustworthy recommender systems: An analysis of attack models and algorithm robustness.</title>
+<year>2007</year>
+<volume>7</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1278366.1278372</ee>
+<url>db/journals/toit/toit7.html#MobasherBBW07</url>
+<pages>23</pages>
+</article>
+</r>
+<r><inproceedings key="conf/adaptive/Burke07" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Hybrid Web Recommender Systems.</title>
+<pages>377-408</pages>
+<year>2007</year>
+<crossref>conf/adaptive/2007</crossref>
+<booktitle>The Adaptive Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-72079-9_12</ee>
+<ee>https://www.wikidata.org/entity/Q56699611</ee>
+<url>db/conf/adaptive/adaptive2007.html#Burke07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/SiegMB07" mdate="2020-09-05">
+<author pid="10/1287">Ahu Sieg</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Web search personalization with ontological user profiles.</title>
+<pages>525-534</pages>
+<year>2007</year>
+<crossref>conf/cikm/2007</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1321440.1321515</ee>
+<url>db/conf/cikm/cikm2007.html#SiegMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/SiegMB07" mdate="2017-05-23">
+<author pid="10/1287">Ahu Sieg</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Representing Context in Web Search with Ontological User Profiles.</title>
+<pages>439-452</pages>
+<year>2007</year>
+<crossref>conf/context/2007</crossref>
+<booktitle>CONTEXT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74255-5_33</ee>
+<url>db/conf/context/context2007.html#SiegMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmin/BhaumikBM07" mdate="2007-12-20">
+<author pid="48/5203">Runa Bhaumik</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<title>Crawling Attacks Against Web-based Recommender Systems.</title>
+<pages>183-189</pages>
+<year>2007</year>
+<crossref>conf/dmin/2007</crossref>
+<booktitle>DMIN</booktitle>
+<url>db/conf/dmin/dmin2007.html#BhaumikBM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecweb/SandvigMB07" mdate="2020-09-05">
+<author pid="03/1429">Jeff J. Sandvig</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Impact of Relevance Measures on the Robustness and Accuracy of Collaborative Filtering.</title>
+<pages>99-108</pages>
+<year>2007</year>
+<crossref>conf/ecweb/2007</crossref>
+<booktitle>EC-Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74563-1_10</ee>
+<url>db/conf/ecweb/ecweb2007.html#SandvigMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fecs/SettleBD07" mdate="2007-12-20">
+<author pid="82/3380">Amber Settle</author>
+<author pid="58/2337">Robin Burke</author>
+<author pid="96/81">Lucia Dettori</author>
+<title>Game Design as a Writing Course in the Liberal Arts.</title>
+<pages>176-180</pages>
+<year>2007</year>
+<crossref>conf/fecs/2007</crossref>
+<booktitle>FECS</booktitle>
+<url>db/conf/fecs/fecs2007.html#SettleBD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/SiegMB07" mdate="2020-09-05">
+<author pid="10/1287">Ahu Sieg</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Ontological User Profiles for Representing Context in Web Search.</title>
+<pages>91-94</pages>
+<year>2007</year>
+<crossref>conf/iat/2007w</crossref>
+<booktitle>Web Intelligence/IAT Workshops</booktitle>
+<ee>https://doi.org/10.1109/WIIATW.2007.4427547</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1339666</ee>
+<url>db/conf/iat/iatw2007.html#SiegMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/SandvigMB07" mdate="2020-09-05">
+<author pid="03/1429">Jeff J. Sandvig</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Robustness of collaborative recommendation based on association rule mining.</title>
+<pages>105-112</pages>
+<year>2007</year>
+<crossref>conf/recsys/2007</crossref>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1297231.1297249</ee>
+<url>db/conf/recsys/recsys2007.html#SandvigMB07</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/Munoz-AvilaRB06" mdate="2020-08-25">
+<author pid="m/HectorMunozAvila">Hector Mu&#241;oz-Avila</author>
+<author pid="r/FrancescoRicci">Francesco Ricci 0001</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>The Sixth International Conference on Case-based Reasoning.</title>
+<pages>101-102</pages>
+<year>2006</year>
+<volume>27</volume>
+<journal>AI Mag.</journal>
+<number>1</number>
+<url>db/journals/aim/aim27.html#Munoz-AvilaRB06</url>
+<ee>https://doi.org/10.1609/aimag.v27i1.1869</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/MobasherBS06" mdate="2021-02-10">
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="03/1429">Jeff J. Sandvig</author>
+<title>Model-Based Collaborative Filtering as a Defense against Profile Injection Attacks.</title>
+<year>2006</year>
+<crossref>conf/aaai/2006</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2006.html#MobasherBS06</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2006/aaai06-218.php</ee>
+<pages>1388-1393</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/WilliamsMBB06" mdate="2017-05-19">
+<author pid="75/3305">Chad Williams</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<title>Detecting Profile Injection Attacks in Collaborative Filtering: A Classification-Based Approach.</title>
+<pages>167-186</pages>
+<year>2006</year>
+<crossref>conf/kdd/2006web</crossref>
+<booktitle>WEBKDD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77485-3_10</ee>
+<url>db/conf/kdd/webkdd2006.html#WilliamsMBB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BurkeMWB06" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="75/3305">Chad Williams</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<title>Classification features for attack detection in collaborative recommender systems.</title>
+<pages>542-547</pages>
+<year>2006</year>
+<crossref>conf/kdd/2006</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1150402.1150465</ee>
+<url>db/conf/kdd/kdd2006.html#BurkeMWB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wecwis/BurkeMWB06" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="75/3305">Chad Williams</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<title>Detecting Profile Injection Attacks in Collaborative Recommender Systems.</title>
+<pages>23</pages>
+<year>2006</year>
+<crossref>conf/wecwis/2006</crossref>
+<booktitle>CEC/EEE</booktitle>
+<ee>https://doi.org/10.1109/CEC-EEE.2006.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CEC-EEE.2006.34</ee>
+<url>db/conf/wecwis/cec2006.html#BurkeMWB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/BurkeMBW05" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<author pid="75/3305">Chad Williams</author>
+<title>Segment-Based Injection Attacks against Collaborative Filtering Recommender Systems.</title>
+<pages>577-580</pages>
+<year>2005</year>
+<crossref>conf/icdm/2005</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2005.127</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2005.127</ee>
+<url>db/conf/icdm/icdm2005.html#BurkeMBW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/MobasherBWB05" mdate="2020-09-05">
+<author pid="01/4475">Bamshad Mobasher</author>
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="75/3305">Chad Williams</author>
+<author pid="48/5203">Runa Bhaumik</author>
+<title>Analysis and Detection of Segment-Focused Attacks Against Collaborative Recommendation.</title>
+<pages>96-118</pages>
+<year>2005</year>
+<crossref>conf/kdd/2005web</crossref>
+<booktitle>WEBKDD</booktitle>
+<ee>https://doi.org/10.1007/11891321_6</ee>
+<url>db/conf/kdd/webkdd2005.html#MobasherBWB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewcbr/Burke04" mdate="2017-05-23">
+<author pid="58/2337">Robin D. Burke</author>
+<title>Hybrid Recommender Systems with Case-Based Components.</title>
+<pages>91-105</pages>
+<ee>https://doi.org/10.1007/978-3-540-28631-8_8</ee>
+<year>2004</year>
+<crossref>conf/ewcbr/2004</crossref>
+<booktitle>ECCBR</booktitle>
+<url>db/conf/ewcbr/eccbr2004.html#Burke04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic/SiegMLB03" mdate="2003-10-09">
+<author pid="10/1287">Ahu Sieg</author>
+<author pid="01/4475">Bamshad Mobasher</author>
+<author pid="37/3599">Steven L. Lytinen</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Concept Based Query Enhancement in the ARCH Search Agent.</title>
+<pages>613-619</pages>
+<year>2003</year>
+<crossref>conf/ic/2003-2</crossref>
+<booktitle>International Conference on Internet Computing</booktitle>
+<url>db/conf/ic/ic2003-2.html#SiegMLB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Burke03" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Hybrid Systems for Personalized Recommendations.</title>
+<pages>133-152</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003itwp</crossref>
+<booktitle>ITWP</booktitle>
+<ee>https://doi.org/10.1007/11577935_7</ee>
+<url>db/conf/ijcai/itwp2003.html#Burke03</url>
+</inproceedings>
+</r>
+<r><article key="journals/air/Burke02" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Interactive Critiquing for Catalog Navigation in E-Commerce.</title>
+<pages>245-267</pages>
+<year>2002</year>
+<volume>18</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>3-4</number>
+<url>db/journals/air/air18.html#Burke02</url>
+<ee>https://doi.org/10.1023/A:1020701617138</ee>
+</article>
+</r>
+<r><article key="journals/umuai/Burke02" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Hybrid Recommender Systems: Survey and Experiments.</title>
+<pages>331-370</pages>
+<year>2002</year>
+<volume>12</volume>
+<journal>User Model. User Adapt. Interact.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/A:1021240730564</ee>
+<url>db/journals/umuai/umuai12.html#Burke02</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccbr/Burke01" mdate="2017-05-26">
+<author pid="58/2337">Robin D. Burke</author>
+<title>Ranking Algorithms for Costly Similarity Measures.</title>
+<pages>105-117</pages>
+<year>2001</year>
+<crossref>conf/iccbr/2001</crossref>
+<booktitle>ICCBR</booktitle>
+<ee>https://doi.org/10.1007/3-540-44593-5_8</ee>
+<url>db/conf/iccbr/iccbr2001.html#Burke01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/Burke01" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Salticus: guided crawling for personal digital libraries.</title>
+<pages>88-89</pages>
+<year>2001</year>
+<crossref>conf/jcdl/2001</crossref>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/379437.379455</ee>
+<url>db/conf/jcdl/jcdl2001.html#Burke01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewcbr/Burke00" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>A Case-Based Reasoning Approach to Collaborative Filtering.</title>
+<pages>370-379</pages>
+<ee>https://doi.org/10.1007/3-540-44527-7_32</ee>
+<year>2000</year>
+<crossref>conf/ewcbr/2000</crossref>
+<booktitle>EWCBR</booktitle>
+<url>db/conf/ewcbr/ewcbr2000.html#Burke00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Burke99" mdate="2021-02-10">
+<author pid="58/2337">Robin D. Burke</author>
+<title>The Wasabi Personal Shopper: A Case-Based Recommender System.</title>
+<pages>844-849</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Burke99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-119.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/KulyukinHB98" mdate="2021-02-10">
+<author pid="80/2776">Vladimir A. Kulyukin</author>
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="58/2337">Robin D. Burke</author>
+<title>Answering Questions for an Organization Online.</title>
+<pages>532-537</pages>
+<year>1998</year>
+<crossref>conf/aaai/1998</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai98.html#KulyukinHB98</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1998/aaai98-075.php</ee>
+</inproceedings>
+</r>
+<r><article key="journals/aim/BurkeHKLTS97" mdate="2020-08-25">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="80/2776">Vladimir A. Kulyukin</author>
+<author pid="37/3599">Steven L. Lytinen</author>
+<author pid="10/1742">Noriko Tomuro</author>
+<author pid="83/5690">Scott Schoenberg</author>
+<title>Question Answering from Frequently Asked Question Files: Experiences with the FAQ FINDER System.</title>
+<pages>57-66</pages>
+<year>1997</year>
+<volume>18</volume>
+<journal>AI Mag.</journal>
+<number>2</number>
+<url>db/journals/aim/aim18.html#BurkeHKLTS97</url>
+<ee>https://doi.org/10.1609/aimag.v18i2.1294</ee>
+</article>
+</r>
+<r><article key="journals/expert/BurkeHY97" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="55/4353">Benjamin C. Young</author>
+<title>The FindMe Approach to Assisted Browsing.</title>
+<pages>32-40</pages>
+<year>1997</year>
+<volume>12</volume>
+<journal>IEEE Expert</journal>
+<number>4</number>
+<url>db/journals/expert/expert12.html#BurkeHY97</url>
+<ee>https://doi.org/10.1109/64.608186</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/64.608186</ee>
+</article>
+</r>
+<r><article key="journals/kbs/Burke96" mdate="2020-09-05">
+<author orcid="0000-0001-5766-6434" pid="58/2337">Robin D. Burke</author>
+<title>Conceptual indexing and active retrieval of video for interactive learning environments.</title>
+<pages>491-499</pages>
+<year>1996</year>
+<volume>9</volume>
+<journal>Knowl. Based Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/S0950-7051(97)00002-6</ee>
+<url>db/journals/kbs/kbs9.html#Burke96</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BurkeHY96" mdate="2012-12-11">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="55/4353">Benjamin C. Young</author>
+<title>Knowledge-Based Navigation of Complex Information Spaces.</title>
+<pages>462-468</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BurkeHY96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-069.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HammondBL95" mdate="2019-08-20">
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="37/3599">Steven L. Lytinen</author>
+<title>A Case-Based Approach to Knowledge Navigation.</title>
+<pages>2071-2072</pages>
+<year>1995</year>
+<crossref>conf/ijcai/1995</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai95.html#HammondBL95</url>
+<ee type="oa">http://ijcai.org/Proceedings/95-2/Papers/144.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/BurkeK94" mdate="2012-12-11">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="57/3538">Alex Kass</author>
+<title>Tailoring Retrieval to Support Case-Based Teaching.</title>
+<pages>493-498</pages>
+<year>1994</year>
+<crossref>conf/aaai/1994-1</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai94-1.html#BurkeK94</url>
+<ee>http://www.aaai.org/Library/AAAI/1994/aaai94-075.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/HammondBS94" mdate="2012-12-12">
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="98/1922">Kathryn Schmitt</author>
+<title>A Case-Based Approach to Knowledge Navigation.</title>
+<pages>383-394</pages>
+<year>1994</year>
+<crossref>conf/kdd/1994</crossref>
+<booktitle>KDD Workshop</booktitle>
+<url>db/conf/kdd/kdd94.html#HammondBS94</url>
+</inproceedings>
+</r>
+<coauthors n="104" nc="2">
+<co c="0"><na f="a/Abdollahpouri:Himan" pid="184/2105">Himan Abdollahpouri</na></co>
+<co c="0"><na f="a/Adomavicius:Gediminas" pid="28/4208">Gediminas Adomavicius</na></co>
+<co c="0"><na f="a/Aghdam:Mehdi_Hosseinzadeh" pid="52/1891">Mehdi Hosseinzadeh Aghdam</na></co>
+<co c="0"><na f="b/Berendt:Bettina" pid="b/BettinaBerendt">Bettina Berendt</na></co>
+<co c="0"><na f="b/Berenfus:Florencia_Cabral" pid="288/0477">Florencia Cabral Berenfus</na></co>
+<co c="0"><na f="b/Bergman:Lawrence_D=" pid="72/2550">Lawrence D. Bergman</na></co>
+<co c="0"><na f="b/Berthiaume:Andr=eacute=" pid="46/1415">Andr&#233; Berthiaume</na></co>
+<co c="0"><na f="b/Bhaumik:Runa" pid="48/5203">Runa Bhaumik</na></co>
+<co c="0"><na f="b/Bogina:Veronika" pid="176/8151">Veronika Bogina</na></co>
+<co c="0"><na f="c/Cheng:Jinghui" pid="120/4206">Jinghui Cheng</na></co>
+<co c="0" n="2"><na f="c/Chi:Ed_H=" pid="13/310">Ed H. Chi</na><na>Ed Chi</na></co>
+<co c="0"><na f="c/Christiansen:Laura" pid="36/7459">Laura Christiansen</na></co>
+<co c="0"><na f="d/Dernoncourt:Franck" pid="132/4043">Franck Dernoncourt</na></co>
+<co c="0"><na f="d/Dettori:Lucia" pid="96/81">Lucia Dettori</na></co>
+<co c="0"><na f="d/Diaz_0001:Fernando" pid="38/2451-1">Fernando Diaz 0001</na></co>
+<co c="0"><na f="d/Dredze:Mark" pid="31/5468">Mark Dredze</na></co>
+<co c="0"><na f="e/Ekstrand:Michael_D=" pid="69/7949">Michael D. Ekstrand</na></co>
+<co c="0"><na f="e/Eskandanian:Farzad" pid="186/0056">Farzad Eskandanian</na></co>
+<co c="0"><na f="f/Fang_0002:Hui" pid="03/2511-2">Hui Fang 0002</na></co>
+<co c="0"><na f="f/Felfernig:Alexander" pid="71/915">Alexander Felfernig</na></co>
+<co c="0"><na f="f/Fiesler:Casey" pid="37/9799">Casey Fiesler</na></co>
+<co c="0"><na f="f/Fuduric:Morana" pid="249/3239">Morana Fuduric</na></co>
+<co c="0"><na f="g/Gao:Tian" pid="96/10026">Tian Gao</na></co>
+<co c="0"><na f="g/Garc=iacute=a:Mar=iacute=a_N=_Moreno" pid="77/1309">Mar&#237;a N. Moreno Garc&#237;a</na></co>
+<co c="0"><na f="g/Gemmell:Jonathan" pid="69/1553">Jonathan Gemmell</na></co>
+<co c="0"><na f="g/Gena:Cristina" pid="86/4803">Cristina Gena</na></co>
+<co c="0"><na f="g/G=ouml=ker:Mehmet_H=" pid="49/1253">Mehmet H. G&#246;ker</na></co>
+<co c="0"><na f="g/Guo:Guibing" pid="84/10716">Guibing Guo</na></co>
+<co c="0"><na f="g/Guo_0008:Jun" pid="73/273-8">Jun Guo 0008</na></co>
+<co c="0"><na f="g/Guo:Qing" pid="25/3038">Qing Guo</na></co>
+<co c="0"><na f="g/Gupta:Trinadh" pid="184/2031">Trinadh Gupta</na></co>
+<co c="0"><na f="g/Guy:Ido" pid="46/650">Ido Guy</na></co>
+<co c="0"><na f="g/Guzzi:Francesca" pid="01/10322">Francesca Guzzi</na></co>
+<co c="0"><na f="h/Hammond:Kristian_J=" pid="30/1642">Kristian J. Hammond</na></co>
+<co c="0"><na f="h/Hariri:Negar" pid="04/7710">Negar Hariri</na></co>
+<co c="0"><na f="h/Hartman:Alan" pid="44/3947">Alan Hartman</na></co>
+<co c="0"><na f="h/Hessary:Yasaman_Kamyab" pid="201/6340">Yasaman Kamyab Hessary</na></co>
+<co c="0"><na f="h/Hotho:Andreas" pid="h/AndreasHotho">Andreas Hotho</na></co>
+<co c="0"><na f="h/Huang:Xiaolei" pid="32/5207">Xiaolei Huang</na></co>
+<co c="0"><na f="h/Hurley:Neil_J=" pid="86/2778">Neil J. Hurley</na></co>
+<co c="0"><na f="j/Jannach:Dietmar" pid="j/DietmarJannach">Dietmar Jannach</na></co>
+<co c="0"><na f="j/J=auml=schke:Robert" pid="26/274">Robert J&#228;schke</na></co>
+<co c="0"><na f="k/Kamishima:Toshihiro" pid="k/TKamishima">Toshihiro Kamishima</na></co>
+<co c="-1"><na f="k/Kass:Alex" pid="57/3538">Alex Kass</na></co>
+<co c="0"><na f="k/Kleanthous:Styliani" pid="26/3929">Styliani Kleanthous</na></co>
+<co c="0"><na f="k/Konstan:Joseph_A=" pid="09/3004">Joseph A. Konstan</na></co>
+<co c="0"><na f="k/Kontny:Jackson" pid="227/2322">Jackson Kontny</na></co>
+<co c="0"><na f="k/Krasnodebski:Jan" pid="185/2908">Jan Krasnodebski</na></co>
+<co c="0"><na f="k/Kuflik:Tsvi" pid="k/TKuflik">Tsvi Kuflik</na></co>
+<co c="0"><na f="k/Kulyukin:Vladimir_A=" pid="80/2776">Vladimir A. Kulyukin</na></co>
+<co c="0"><na f="l/Lin:Kun" pid="36/7656">Kun Lin</na></co>
+<co c="0"><na f="l/Liu:Weiwen" pid="75/2746">Weiwen Liu</na></co>
+<co c="0"><na f="l/Liu:Zijun" pid="86/11300">Zijun Liu</na></co>
+<co c="1"><na f="l/Lucic:Ana" pid="160/7611">Ana Lucic</na></co>
+<co c="0"><na f="l/Lytinen:Steven_L=" pid="37/3599">Steven L. Lytinen</na></co>
+<co c="0"><na f="m/Malthouse:Edward_C=" pid="47/5001">Edward C. Malthouse</na></co>
+<co c="0"><na f="m/Mansoury:Masoud" pid="183/7693">Masoud Mansoury</na></co>
+<co c="0"><na f="m/Mattei:Nicholas" pid="54/7115">Nicholas Mattei</na></co>
+<co c="0"><na f="m/McAuley:Julian_J=" pid="29/3483">Julian J. McAuley</na></co>
+<co c="0"><na f="m/Mobasher:Bamshad" pid="01/4475">Bamshad Mobasher</na></co>
+<co c="0"><na f="m/Mu=ntilde=oz=Avila:Hector" pid="m/HectorMunozAvila">Hector Mu&#241;oz-Avila</na></co>
+<co c="0"><na f="o/O=Mahony:Michael_P=" pid="34/4255">Michael P. O'Mahony</na></co>
+<co c="0"><na f="o/Ordonez=Gauger:Aldo" pid="214/4189">Aldo Ordonez-Gauger</na></co>
+<co c="0"><na f="o/Otterbacher:Jahna" pid="40/3725">Jahna Otterbacher</na></co>
+<co c="0"><na f="p/Paul:Michael_J=" pid="00/9714">Michael J. Paul</na></co>
+<co c="0"><na f="p/Pechenizkiy:Mykola" pid="37/4649">Mykola Pechenizkiy</na></co>
+<co c="0" n="2"><na f="p/Pizzato:Luiz" pid="13/6023">Luiz Pizzato</na><na>Luiz Augusto Pizzato</na></co>
+<co c="0"><na f="p/Pu:Pearl" pid="76/2682">Pearl Pu</na></co>
+<co c="0"><na f="p/Putnam:Cynthia" pid="40/1016">Cynthia Putnam</na></co>
+<co c="0"><na f="r/Raimond:Yves" pid="83/5530">Yves Raimond</na></co>
+<co c="0"><na f="r/Ramezani:Maryam" pid="79/542">Maryam Ramezani</na></co>
+<co c="0"><na f="r/Ricci_0001:Francesco" pid="r/FrancescoRicci">Francesco Ricci 0001</na></co>
+<co c="0"><na f="r/Rusch:Doris_C=" pid="116/8271">Doris C. Rusch</na></co>
+<co c="0"><na f="s/S=aacute=nchez=Moreno:Diego" pid="146/0243">Diego S&#225;nchez-Moreno</na></co>
+<co c="0"><na f="s/Sandvig:Jeff_J=" pid="03/1429">Jeff J. Sandvig</na></co>
+<co c="0"><na f="s/Schimoler:Thomas" pid="64/7456">Thomas Schimoler</na></co>
+<co c="0"><na f="s/Schmidt=Thieme:Lars" pid="s/LarsSchmidtThieme">Lars Schmidt-Thieme</na></co>
+<co c="0"><na f="s/Schmitt:Kathryn" pid="98/1922">Kathryn Schmitt</na></co>
+<co c="0"><na f="s/Schoenberg:Scott" pid="83/5690">Scott Schoenberg</na></co>
+<co c="0"><na f="s/Sepulveda:Xavier" pid="227/0754">Xavier Sepulveda</na></co>
+<co c="0"><na f="s/Settle:Amber" pid="82/3380">Amber Settle</na></co>
+<co c="1"><na f="s/Shanahan:John" pid="203/6440">John Shanahan</na></co>
+<co c="0"><na f="s/Shepitsen:Andriy" pid="92/534">Andriy Shepitsen</na></co>
+<co c="0"><na f="s/Sieg:Ahu" pid="10/1287">Ahu Sieg</na></co>
+<co c="0" n="2"><na f="s/Smith:Jessie" pid="259/1252">Jessie Smith</na><na>Jessie J. Smith</na></co>
+<co c="0"><na f="s/Sonboli:Nasim" pid="214/4164">Nasim Sonboli</na></co>
+<co c="0"><na f="s/Sun:Zhu" pid="163/5129">Zhu Sun</na></co>
+<co c="0"><na f="s/S=uuml=rer:=Ouml=zge" pid="158/0981">&#214;zge S&#252;rer</na></co>
+<co c="0"><na f="t/Thai:K=_P=" pid="244/3825">K. P. Thai</na></co>
+<co c="0"><na f="t/Tomuro:Noriko" pid="10/1742">Noriko Tomuro</na></co>
+<co c="0"><na f="t/Torre_0001:Ilaria" pid="78/4137-1">Ilaria Torre 0001</na></co>
+<co c="0"><na f="t/Tuzhilin:Alexander" pid="t/AlexanderTuzhilin">Alexander Tuzhilin</na></co>
+<co c="0"><na f="v/Vahedian:Fatemeh" pid="136/3815">Fatemeh Vahedian</na></co>
+<co c="0"><na f="v/Vakeel:Khadija_Ali" pid="170/1371">Khadija Ali Vakeel</na></co>
+<co c="0"><na f="w/Williams:Chad" pid="75/3305">Chad Williams</na></co>
+<co c="0"><na f="w/Wu:Carole=Jean" pid="26/9655">Carole-Jean Wu</na></co>
+<co c="0"><na f="y/Yang_0028:Jie" pid="12/1198-28">Jie Yang 0028</na></co>
+<co c="0"><na f="y/Young:Benjamin_C=" pid="55/4353">Benjamin C. Young</na></co>
+<co c="0"><na f="z/Zhang:Hao" pid="55/2270">Hao Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Shengyu" pid="47/3459">Shengyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yi" pid="64/6544">Yi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yongfeng" pid="82/7829">Yongfeng Zhang</na></co>
+<co c="0"><na f="z/Zheng:Yong" pid="97/8630">Yong Zheng</na></co>
+</coauthors>
+</dblpperson>
+

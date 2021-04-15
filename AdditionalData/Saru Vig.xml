@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4e7b080735da9f44c35350071931fb8d3392e73816b09427a218fde500e4f1e
-size 4245
+<?xml version="1.0"?>
+<dblpperson name="Saru Vig" pid="203/5609" n="6">
+<person key="homepages/203/5609" mdate="2017-07-26">
+<author pid="203/5609">Saru Vig</author>
+</person>
+<r><inproceedings key="conf/aspdac/VigLJ21" mdate="2021-02-09">
+<author pid="203/5609">Saru Vig</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<author pid="219/2570">Rohan Juneja</author>
+<title>Cache-Aware Dynamic Skewed Tree for Fast Memory Authentication.</title>
+<pages>402-407</pages>
+<year>2021</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3394885.3431593</ee>
+<crossref>conf/aspdac/2021</crossref>
+<url>db/conf/aspdac/aspdac2021.html#VigLJ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VigJL20" mdate="2020-06-25">
+<author pid="203/5609">Saru Vig</author>
+<author pid="219/2570">Rohan Juneja</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<title>DISSECT: Dynamic Skew-and-Split Tree for Memory Authentication.</title>
+<pages>1538-1543</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116548</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#VigJL20</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/VigJJLO19" mdate="2020-03-11">
+<author orcid="0000-0002-7592-6970" pid="203/5609">Saru Vig</author>
+<author orcid="0000-0002-6015-1084" pid="219/2570">Rohan Juneja</author>
+<author orcid="0000-0002-1398-821X" pid="32/10216">Guiyuan Jiang</author>
+<author orcid="0000-0002-8346-2635" pid="74/1907">Siew-Kei Lam</author>
+<author orcid="0000-0001-9679-6223" pid="174/7880">Changhai Ou</author>
+<title>Framework for Fast Memory Authentication Using Dynamically Skewed Integrity Tree.</title>
+<pages>2331-2343</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVLSI.2019.2923004</ee>
+<url>db/journals/tvlsi/tvlsi27.html#VigJJLO19</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/VigJL18" mdate="2019-10-04">
+<author pid="203/5609">Saru Vig</author>
+<author pid="32/10216">Guiyuan Jiang</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<title>Dynamic skewed tree for fast memory integrity verification.</title>
+<pages>642-647</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342089</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#VigJL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/VigLBM18" mdate="2019-10-04">
+<author pid="203/5609">Saru Vig</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<author pid="130/3236">Sarani Bhattacharya</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Rapid detection of rowhammer attacks using dynamic skewed hash tree.</title>
+<pages>7:1-7:8</pages>
+<year>2018</year>
+<booktitle>HASP@ISCA</booktitle>
+<ee>https://doi.org/10.1145/3214292.3214299</ee>
+<crossref>conf/isca/2018hasp</crossref>
+<url>db/conf/isca/hasp2018.html#VigLBM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/VigTJL17" mdate="2019-10-04">
+<author pid="203/5609">Saru Vig</author>
+<author pid="203/5645">Tan Yng Tzer</author>
+<author pid="32/10216">Guiyuan Jiang</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<title>Customizing Skewed Trees for Fast Memory Integrity Verification in Embedded Systems.</title>
+<pages>213-218</pages>
+<year>2017</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2017.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2017.45</ee>
+<crossref>conf/isvlsi/2017</crossref>
+<url>db/conf/isvlsi/isvlsi2017.html#VigTJL17</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="1">
+<co c="0"><na f="b/Bhattacharya:Sarani" pid="130/3236">Sarani Bhattacharya</na></co>
+<co c="0"><na f="j/Jiang:Guiyuan" pid="32/10216">Guiyuan Jiang</na></co>
+<co c="0"><na f="j/Juneja:Rohan" pid="219/2570">Rohan Juneja</na></co>
+<co c="0"><na f="l/Lam:Siew=Kei" pid="74/1907">Siew-Kei Lam</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Debdeep" pid="85/3079">Debdeep Mukhopadhyay</na></co>
+<co c="0"><na f="o/Ou:Changhai" pid="174/7880">Changhai Ou</na></co>
+<co c="0"><na f="t/Tzer:Tan_Yng" pid="203/5645">Tan Yng Tzer</na></co>
+</coauthors>
+</dblpperson>
+

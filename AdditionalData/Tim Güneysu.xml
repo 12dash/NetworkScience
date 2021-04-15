@@ -1,3 +1,2810 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a47f2e09aff58ef75af5ec0c89dbe8ca156c9060a787cd23d1f7ebed3a8f2c61
-size 131320
+<?xml version="1.0"?>
+<dblpperson name="Tim G&#252;neysu" pid="50/6307" n="178">
+<person key="homepages/50/6307" mdate="2019-01-10">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="50/6307">Tim Erhan G&#252;neysu</author>
+<url>http://www.gueneysu.de/</url>
+<url>https://www.seceng.rub.de/chair/staff/gueneysu/</url>
+<url>http://user.informatik.uni-bremen.de/gueneysu/</url>
+<url>https://scholar.google.com/citations?user=QrXiIS0AAAAJ</url>
+<url>https://orcid.org/0000-0002-3293-4989</url>
+<note type="affiliation">Ruhr University of Bochum, Germany</note>
+<note type="affiliation">German Research Center for Artificial Intelligence (DFKI), Bremen, Germany</note>
+<note type="affiliation">University of Bremen, Germany</note>
+</person>
+<r><article key="journals/tches/HettwerLFGG21" mdate="2021-01-29">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="175/4684">Sebastien Leger</author>
+<author pid="276/2134">Daniel Fennes</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Side-Channel Analysis of the Xilinx Zynq UltraScale+ Encryption Engine.</title>
+<pages>279-304</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.46586/tches.v2021.i1.279-304</ee>
+<url>db/journals/tches/tches2021.html#HettwerLFGG21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Richter-Brockmann21" mdate="2021-04-07">
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Revisiting Fault Adversary Models - Hardware Faults in Theory and Practice.</title>
+<pages>296</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/296</ee>
+<url>db/journals/iacr/iacr2021.html#Richter-Brockmann21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ThomaG21" mdate="2021-04-07">
+<author pid="271/4264">Jan Philipp Thoma</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>A Configurable Hardware Implementation of XMSS.</title>
+<pages>352</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/352</ee>
+<url>db/journals/iacr/iacr2021.html#ThomaG21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/LandSG21" mdate="2021-04-07">
+<author pid="289/1887">Georg Land</author>
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>A Hard Crystal - Implementing Dilithium on Reconfigurable Hardware.</title>
+<pages>355</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/355</ee>
+<url>db/journals/iacr/iacr2021.html#LandSG21</url>
+</article>
+</r>
+<r><article key="journals/jce/HettwerGG20" mdate="2020-07-09">
+<author orcid="0000-0002-2164-6316" pid="233/4192">Benjamin Hettwer</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Applications of machine learning techniques in side-channel attacks: a survey.</title>
+<pages>135-162</pages>
+<year>2020</year>
+<volume>10</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13389-019-00212-8</ee>
+<url>db/journals/jce/jce10.html#HettwerGG20</url>
+</article>
+</r>
+<r><article key="journals/tches/BachePOSG20" mdate="2020-07-02">
+<author pid="161/0208">Florian Bache</author>
+<author pid="205/0389">Clara Paglialonga</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>High-Speed Masking for Polynomial Comparison in Lattice-based KEMs.</title>
+<pages>483-507</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2020.i3.483-507</ee>
+<url>db/journals/tches/tches2020.html#BachePOSG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/Richter-Brockmann20" mdate="2020-12-29">
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author pid="161/0208">Florian Bache</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Concurrent error detection revisited: hardware protection against fault and side-channel attacks.</title>
+<pages>20:1-20:11</pages>
+<year>2020</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1145/3407023.3407046</ee>
+<crossref>conf/IEEEares/2020</crossref>
+<url>db/conf/IEEEares/ares2020.html#Richter-Brockmann20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/Richter-Brockmann20" mdate="2020-08-05">
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Improved Side-Channel Resistance by Dynamic Fault-Injection Countermeasures.</title>
+<pages>117-124</pages>
+<year>2020</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP49362.2020.00029</ee>
+<crossref>conf/asap/2020</crossref>
+<url>db/conf/asap/asap2020.html#Richter-Brockmann20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cans/WlokaRSKPG20" mdate="2020-12-14">
+<author pid="238/8436">Jonas Wloka</author>
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="49/4594">Colin Stahlke</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="54/585">Christine Priplata</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Revisiting ECM on GPUs.</title>
+<pages>299-319</pages>
+<year>2020</year>
+<booktitle>CANS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65411-5_15</ee>
+<crossref>conf/cans/2020</crossref>
+<url>db/conf/cans/cans2020.html#WlokaRSKPG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/HettwerFLRGG20" mdate="2020-10-14">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="276/2134">Daniel Fennes</author>
+<author pid="175/4684">Sebastien Leger</author>
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Deep Learning Multi-Channel Fusion Attack Against Side-Channel Protected Hardware.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218705</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#HettwerFLRGG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KnechtelK0HCMDF20" mdate="2020-06-25">
+<author pid="94/9547">Johann Knechtel</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="68/10491">Annelie Heuser</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="89/4589">Soumyajit Dey</author>
+<author pid="67/5667">Yunsi Fei</author>
+<author pid="125/0193">Yaacov Belenky</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.</title>
+<pages>508-513</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116483</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#KnechtelK0HCMDF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HettwerDLGG20" mdate="2020-10-17">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="276/3942">Kallyan Das</author>
+<author pid="175/4684">Sebastien Leger</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Lightweight Side-Channel Protection using Dynamic Clock Randomization.</title>
+<pages>200-207</pages>
+<year>2020</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL50879.2020.00041</ee>
+<crossref>conf/fpl/2020</crossref>
+<url>db/conf/fpl/fpl2020.html#HettwerDLGG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/HerdtGWGD20" mdate="2021-03-10">
+<author pid="130/1375">Vladimir Herdt</author>
+<author pid="68/758">Daniel Gro&#223;e</author>
+<author pid="238/8436">Jonas Wloka</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="d/RolfDrechsler">Rolf Drechsler</author>
+<title>Verification of Embedded Binaries using Coverage-guided Fuzzing with SystemC-based Virtual Prototypes.</title>
+<pages>101-106</pages>
+<year>2020</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3386263.3406899</ee>
+<crossref>conf/glvlsi/2020</crossref>
+<url>db/conf/glvlsi/glvlsi2020.html#HerdtGWGD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/HettwerHGG20" mdate="2021-01-15">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="253/0927">Tobias Horn</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Encoding Power Traces as Images for Efficient Side-Channel Analysis.</title>
+<pages>46-56</pages>
+<year>2020</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HOST45689.2020.9300289</ee>
+<crossref>conf/host/2020</crossref>
+<url>db/conf/host/host2020.html#HettwerHGG20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cardis/2019" mdate="2020-03-09">
+<editor pid="130/9405">Sonia Bela&#239;d</editor>
+<editor orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</editor>
+<title>Smart Card Research and Advanced Applications - 18th International Conference, CARDIS 2019, Prague, Czech Republic, November 11-13, 2019, Revised Selected Papers</title>
+<booktitle>CARDIS</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11833</volume>
+<isbn>978-3-030-42067-3</isbn>
+<isbn>978-3-030-42068-0</isbn>
+<ee>https://doi.org/10.1007/978-3-030-42068-0</ee>
+<url>db/conf/cardis/cardis2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-09672" mdate="2020-03-31">
+<author pid="94/9547">Johann Knechtel</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="68/10491">Annelie Heuser</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="89/4589">Soumyajit Dey</author>
+<author pid="67/5667">Yunsi Fei</author>
+<author pid="125/0193">Yaacov Belenky</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.</title>
+<year>2020</year>
+<volume>abs/2001.09672</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.09672</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-09672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-11015" mdate="2020-04-28">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="253/0927">Tobias Horn</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Encoding Power Traces as Images for Efficient Side-Channel Analysis.</title>
+<year>2020</year>
+<volume>abs/2004.11015</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.11015</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-11015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-15919" mdate="2020-08-03">
+<author pid="271/4264">Jan Philipp Thoma</author>
+<author pid="271/4519">Jakob Feldtkeller</author>
+<author pid="223/9577">Markus Krausz</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<title>BasicBlocker: Redesigning ISAs to Eliminate Speculative-Execution Attacks.</title>
+<year>2020</year>
+<volume>abs/2007.15919</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.15919</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-15919</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Richter-Brockmann20" mdate="2020-06-30">
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Improved Side-Channel Resistance by Dynamic Fault-Injection Countermeasures.</title>
+<pages>742</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/742</ee>
+<url>db/journals/iacr/iacr2020.html#Richter-Brockmann20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Richter-Brockmann20a" mdate="2020-07-27">
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Folding BIKE: Scalable Hardware Implementation for Reconfigurable Devices.</title>
+<pages>897</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/897</ee>
+<url>db/journals/iacr/iacr2020.html#Richter-Brockmann20a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WlokaRSKPG20" mdate="2020-10-30">
+<author pid="238/8436">Jonas Wloka</author>
+<author pid="268/4933">Jan Richter-Brockmann</author>
+<author pid="49/4594">Colin Stahlke</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="54/585">Christine Priplata</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Revisiting ECM on GPUs.</title>
+<pages>1265</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1265</ee>
+<url>db/journals/iacr/iacr2020.html#WlokaRSKPG20</url>
+</article>
+</r>
+<r><article key="journals/it/BachePWGD19" mdate="2020-03-27">
+<author pid="161/0208">Florian Bache</author>
+<author pid="153/1099">Christina Plump</author>
+<author pid="238/8436">Jonas Wloka</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0002-9872-1740" pid="d/RolfDrechsler">Rolf Drechsler</author>
+<title>Evaluation of (power) side-channels in cryptographic implementations.</title>
+<pages>15-28</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>it Inf. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1515/itit-2018-0028</ee>
+<url>db/journals/it/it61.html#BachePWGD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/HettwerPGNG19" mdate="2019-05-20">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="79/3918">Johannes Petersen</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="64/6290">Heike Neumann</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Securing Cryptographic Circuits by Exploiting Implementation Diversity and Partial Reconfiguration on FPGAs.</title>
+<pages>260-263</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714801</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#HettwerPGNG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/SchneiderPOG19" mdate="2019-04-09">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="205/0389">Clara Paglialonga</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Efficiently Masking Binomial Sampling at Arbitrary Orders for Lattice-Based Crypto.</title>
+<pages>534-564</pages>
+<year>2019</year>
+<booktitle>Public Key Cryptography (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17259-6_18</ee>
+<crossref>conf/pkc/2019-2</crossref>
+<url>db/conf/pkc/pkc2019-2.html#SchneiderPOG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/OderSHG19" mdate="2019-07-15">
+<author pid="130/6474">Tobias Oder</author>
+<author pid="234/1389">Julian Speith</author>
+<author pid="244/8240">Kira H&#246;ltgen</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Towards Practical Microcontroller Implementation of the Signature Scheme Falcon.</title>
+<pages>65-80</pages>
+<year>2019</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-25510-7_4</ee>
+<crossref>conf/pqcrypto/2019</crossref>
+<url>db/conf/pqcrypto/pqcrypto2019.html#OderSHG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/HettwerGG19" mdate="2020-01-14">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Deep Neural Network Attribution Methods for Leakage Analysis and Symmetric Key Recovery.</title>
+<pages>645-666</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-38471-5_26</ee>
+<crossref>conf/sacrypt/2019</crossref>
+<url>db/conf/sacrypt/sacrypt2019.html#HettwerGG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secitc/BischofOG19" mdate="2020-03-06">
+<author pid="259/7400">Mario Bischof</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Efficient Microcontroller Implementation of BIKE.</title>
+<pages>34-49</pages>
+<year>2019</year>
+<booktitle>SECITC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41025-4_3</ee>
+<crossref>conf/secitc/2019</crossref>
+<url>db/conf/secitc/secitc2019.html#BischofOG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/HettwerGG19" mdate="2020-05-11">
+<author pid="233/4192">Benjamin Hettwer</author>
+<author pid="167/5658">Stefan Gehrer</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Deep Neural Network Attribution Methods for Leakage Analysis and Symmetric Key Recovery.</title>
+<pages>143</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/143</ee>
+<url>db/journals/iacr/iacr2019.html#HettwerGG19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchneiderPOG19" mdate="2020-05-11">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="205/0389">Clara Paglialonga</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Efficiently Masking Binomial Sampling at Arbitrary Orders for Lattice-Based Crypto.</title>
+<pages>910</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/910</ee>
+<url>db/journals/iacr/iacr2019.html#SchneiderPOG19</url>
+</article>
+</r>
+<r><article key="journals/jhss/SasdrichG18" mdate="2020-08-25">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Exploring RFC 7748 for Hardware Implementation: Curve25519 and Curve448 with Side-Channel Protection.</title>
+<pages>297-313</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s41635-018-0048-z</ee>
+<url>db/journals/jhss/jhss2.html#SasdrichG18</url>
+</article>
+</r>
+<r><article key="journals/tc/WildMG18" mdate="2019-10-19">
+<author orcid="0000-0002-8689-9074" pid="131/3329">Alexander Wild</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>GliFreD: Glitch-Free Duplication Towards Power-Equalized Circuits on FPGAs.</title>
+<pages>375-387</pages>
+<year>2018</year>
+<volume>67</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TC.2017.2651829</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2017.2651829</ee>
+<url>db/journals/tc/tc67.html#WildMG18</url>
+</article>
+</r>
+<r><article key="journals/tches/OderSPG18" mdate="2020-02-06">
+<author pid="130/6474">Tobias Oder</author>
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Practical CCA2-Secure and Masked Ring-LWE Implementation.</title>
+<pages>142-174</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2018.i1.142-174</ee>
+<url>db/journals/tches/tches2018.html#OderSPG18</url>
+</article>
+</r>
+<r><article key="journals/tches/HoweOKG18" mdate="2020-02-06">
+<author orcid="0000-0002-6498-3099" pid="163/8680">James Howe</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="223/9577">Markus Krausz</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Standard Lattice-Based Key Encapsulation on Embedded Devices.</title>
+<pages>372-393</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2018.i3.372-393</ee>
+<url>db/journals/tches/tches2018.html#HoweOKG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/BachePG18" mdate="2019-09-25">
+<author pid="161/0208">Florian Bache</author>
+<author pid="153/1099">Christina Plump</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Confident leakage assessment - A side-channel evaluation framework based on confidence intervals.</title>
+<pages>1117-1122</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342178</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#BachePG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/KhalidOVOGR18" mdate="2020-12-29">
+<author pid="33/10570">Ayesha Khalid</author>
+<author pid="130/6474">Tobias Oder</author>
+<author orcid="0000-0001-6884-9340" pid="04/10540">Felipe Valencia</author>
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<title>Physical Protection of Lattice-Based Cryptography: Challenges and Solutions.</title>
+<pages>365-370</pages>
+<year>2018</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3194554.3194616</ee>
+<crossref>conf/glvlsi/2018</crossref>
+<url>db/conf/glvlsi/glvlsi2018.html#KhalidOVOGR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipeac/ValenciaOGR18" mdate="2020-03-31">
+<author orcid="0000-0001-6884-9340" pid="04/10540">Felipe Valencia</author>
+<author pid="130/6474">Tobias Oder</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<title>Exploring the Vulnerability of R-LWE Encryption to Fault Attacks.</title>
+<pages>7-12</pages>
+<year>2018</year>
+<booktitle>CS2@HiPEAC</booktitle>
+<ee>https://doi.org/10.1145/3178291.3178294</ee>
+<crossref>conf/hipeac/2018cs</crossref>
+<url>db/conf/hipeac/cs2018.html#ValenciaOGR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/GuneysuKOS18" mdate="2019-09-25">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="223/9577">Markus Krausz</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="234/1389">Julian Speith</author>
+<title>Evaluation of Lattice-Based Signature Schemes in Embedded Systems.</title>
+<pages>385-388</pages>
+<year>2018</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2018.8617969</ee>
+<crossref>conf/icecsys/2018</crossref>
+<url>db/conf/icecsys/icecsys2018.html#GuneysuKOS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivsw/DrechslerLFG18" mdate="2020-03-27">
+<author orcid="0000-0002-9872-1740" pid="d/RolfDrechsler">Rolf Drechsler</author>
+<author pid="l/CLuth">Christoph L&#252;th</author>
+<author orcid="0000-0001-6433-6265" pid="20/4776">G&#246;rschwin Fey</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Towards Self-Explaining Digital Systems: A Design Methodology for the Next Generation.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>IVSW</booktitle>
+<ee>https://doi.org/10.1109/IVSW.2018.8494900</ee>
+<crossref>conf/ivsw/2018</crossref>
+<url>db/conf/ivsw/ivsw2018.html#DrechslerLFG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/HettwerGG18" mdate="2019-01-18">
+<author orcid="0000-0002-2164-6316" pid="233/4192">Benjamin Hettwer</author>
+<author orcid="0000-0002-8052-7130" pid="167/5658">Stefan Gehrer</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Profiled Power Analysis Attacks Using Convolutional Neural Networks with Domain Knowledge.</title>
+<pages>479-498</pages>
+<year>2018</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-10970-7_22</ee>
+<crossref>conf/sacrypt/2018</crossref>
+<url>db/conf/sacrypt/sacrypt2018.html#HettwerGG18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/HoweOKG18" mdate="2020-05-11">
+<author pid="163/8680">James Howe</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="223/9577">Markus Krausz</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Standard Lattice-Based Key Encapsulation on Embedded Devices.</title>
+<pages>686</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/686</ee>
+<url>db/journals/iacr/iacr2018.html#HoweOKG18</url>
+</article>
+</r>
+<r><article key="journals/access/HuthBGDG17" mdate="2019-09-25">
+<author orcid="0000-0002-1473-1221" pid="177/2248">Christopher Huth</author>
+<author pid="189/1352">Daniela Becker</author>
+<author pid="51/3023">Jorge Guajardo</author>
+<author pid="46/7785">Paul Duplys</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Securing Systems With Indispensable Entropy: LWE-Based Lossless Computational Fuzzy Extractor for the Internet of Things.</title>
+<pages>11909-11926</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2017.2713835</ee>
+<url>db/journals/access/access5.html#HuthBGDG17</url>
+</article>
+</r>
+<r><article key="journals/jce/BossGGL0017" mdate="2020-07-09">
+<author pid="183/5810">Erik Boss</author>
+<author orcid="0000-0002-3874-7527" pid="132/0856">Vincent Grosso</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0002-2579-8587" pid="90/4585">Gregor Leander</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-6849-5949" pid="55/1116-2">Tobias Schneider 0002</author>
+<title>Strong 8-bit Sboxes with efficient masking in hardware extended version.</title>
+<pages>149-165</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13389-017-0156-7</ee>
+<url>db/journals/jce/jce7.html#BossGGL0017</url>
+</article>
+</r>
+<r><article key="journals/tcas/HuCG17" mdate="2020-05-27">
+<author orcid="0000-0002-4806-7189" pid="125/7724">Jingwei Hu</author>
+<author pid="96/2421">Ray C. C. Cheung</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Compact Constant Weight Coding Engines for the Code-Based Cryptography.</title>
+<pages>1092-1096</pages>
+<year>2017</year>
+<volume>64-II</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCSII.2017.2675449</ee>
+<url>db/journals/tcas/tcasII64.html#HuCG17</url>
+</article>
+</r>
+<r><article key="journals/tecs/LiuPOSRGGKV17" mdate="2020-09-08">
+<author pid="70/1220-1">Zhe Liu 0001</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="121/4554">Hwajeong Seo</author>
+<author pid="31/9547">Sujoy Sinha Roy</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="g/JGrossschadl">Johann Gro&#223;sch&#228;dl</author>
+<author pid="k/HowonKim">Howon Kim</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>High-Performance Ideal Lattice-Based Cryptography on 8-Bit AVR Microcontrollers.</title>
+<pages>117:1-117:24</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3092951</ee>
+<url>db/journals/tecs/tecs16.html#LiuPOSRGGKV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ctrsa/Sasdrich0G17" mdate="2019-10-19">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware.</title>
+<pages>131-146</pages>
+<year>2017</year>
+<booktitle>CT-RSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-52153-4_8</ee>
+<crossref>conf/ctrsa/2017</crossref>
+<url>db/conf/ctrsa/ctrsa2017.html#Sasdrich0G17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SasdrichG17" mdate="2019-09-25">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Cryptography for Next Generation TLS: Implementing the RFC 7748 Elliptic Curve448 Cryptosystem in Hardware.</title>
+<pages>16:1-16:6</pages>
+<year>2017</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3061639.3062222</ee>
+<crossref>conf/dac/2017</crossref>
+<url>db/conf/dac/dac2017.html#SasdrichG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/WildBG17" mdate="2019-09-25">
+<author pid="131/3329">Alexander Wild</author>
+<author pid="66/8380">Georg T. Becker</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>A fair and comprehensive large-scale analysis of oscillation-based PUFs for FPGAs.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.23919/FPL.2017.8056795</ee>
+<crossref>conf/fpl/2017</crossref>
+<url>db/conf/fpl/fpl2017.html#WildBG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/HuthBGDG17" mdate="2019-02-07">
+<author pid="177/2248">Christopher Huth</author>
+<author pid="189/1352">Daniela Becker</author>
+<author pid="51/3023">Jorge Guajardo</author>
+<author pid="46/7785">Paul Duplys</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>LWE-based lossless computational fuzzy extractor for the Internet of Things.</title>
+<pages>154</pages>
+<year>2017</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2017.7951818</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2017.7951818</ee>
+<crossref>conf/host/2017</crossref>
+<url>db/conf/host/host2017.html#HuthBGDG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ima/BarretoGGMPST17" mdate="2019-10-19">
+<author pid="62/1810">Paulo S. L. M. Barreto</author>
+<author orcid="0000-0002-9145-7609" pid="38/1135">Shay Gueron</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="31/7507">Rafael Misoczki</author>
+<author orcid="0000-0002-1895-377X" pid="51/10309">Edoardo Persichetti</author>
+<author pid="46/5390">Nicolas Sendrier</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>CAKE: Code-Based Algorithm for Key Encapsulation.</title>
+<pages>207-226</pages>
+<year>2017</year>
+<booktitle>IMACC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71045-7_11</ee>
+<crossref>conf/ima/2017</crossref>
+<url>db/conf/ima/ima2017.html#BarretoGGMPST17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/GuneysuO17" mdate="2019-09-25">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="130/6474">Tobias Oder</author>
+<title>Towards lightweight Identity-Based Encryption for the post-quantum-secure Internet of Things.</title>
+<pages>319-324</pages>
+<year>2017</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2017.7918335</ee>
+<crossref>conf/isqed/2017</crossref>
+<url>db/conf/isqed/isqed2017.html#GuneysuO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/OderG17" mdate="2019-07-22">
+<author pid="130/6474">Tobias Oder</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Implementing the NewHope-Simple Key Exchange on Low-Cost FPGAs.</title>
+<pages>128-142</pages>
+<year>2017</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-25283-0_7</ee>
+<crossref>conf/latincrypt/2017</crossref>
+<url>db/conf/latincrypt/latincrypt2017.html#OderG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BranniganSOVOGR17" mdate="2020-05-11">
+<author pid="198/8181">S&#233;amus Brannigan</author>
+<author pid="69/4148">Neil Smyth</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="04/10540">Felipe Valencia</author>
+<author pid="135/8057">Elizabeth O'Sullivan</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<title>An Investigation of Sources of Randomness Within Discrete Gaussian Sampling.</title>
+<pages>298</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/298</ee>
+<url>db/journals/iacr/iacr2017.html#BranniganSOVOGR17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BarretoGGMPST17" mdate="2020-05-11">
+<author pid="62/1810">Paulo S. L. M. Barreto</author>
+<author pid="38/1135">Shay Gueron</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="31/7507">Rafael Misoczki</author>
+<author pid="51/10309">Edoardo Persichetti</author>
+<author pid="46/5390">Nicolas Sendrier</author>
+<author pid="53/7044">Jean-Pierre Tillich</author>
+<title>CAKE: Code-based Algorithm for Key Encapsulation.</title>
+<pages>757</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/757</ee>
+<url>db/journals/iacr/iacr2017.html#BarretoGGMPST17</url>
+</article>
+</r>
+<r><article key="journals/cn/HuthGSDSG16" mdate="2020-02-19">
+<author orcid="0000-0002-1473-1221" pid="177/2248">Christopher Huth</author>
+<author pid="160/4945">Rene Guillaume</author>
+<author pid="189/1784">Thomas Strohm</author>
+<author pid="46/7785">Paul Duplys</author>
+<author pid="189/1716">Irin Ann Samuel</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Information reconciliation schemes in physical-layer security: A survey.</title>
+<pages>84-104</pages>
+<year>2016</year>
+<volume>109</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2016.06.014</ee>
+<url>db/journals/cn/cn109.html#HuthGSDSG16</url>
+</article>
+</r>
+<r><article key="journals/jce/GuneysuH16" mdate="2020-07-09">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="28/6334">Helena Handschuh</author>
+<title>Introduction to the CHES 2015 special issue.</title>
+<pages>83-84</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13389-016-0130-9</ee>
+<url>db/journals/jce/jce6.html#GuneysuH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/SasdrichG16" mdate="2019-09-25">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>A grain in the silicon: SCA-protected AES in less than 30 slices.</title>
+<pages>25-32</pages>
+<year>2016</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2016.7760769</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2016.7760769</ee>
+<crossref>conf/asap/2016</crossref>
+<url>db/conf/asap/asap2016.html#SasdrichG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/BuchmannGGOP16" mdate="2020-11-16">
+<author pid="b/JohannesBuchmann">Johannes Buchmann 0001</author>
+<author pid="128/5212">Florian G&#246;pfert</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<title>High-Performance and Lightweight Lattice-Based Public-Key Encryption.</title>
+<pages>2-9</pages>
+<year>2016</year>
+<booktitle>IoTPTS@AsiaCCS</booktitle>
+<ee>https://doi.org/10.1145/2899007.2899011</ee>
+<crossref>conf/ccs/2016iotpts</crossref>
+<url>db/conf/ccs/iotpts2016.html#BuchmannGGOP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/HuthGDVG16" mdate="2019-09-25">
+<author orcid="0000-0002-1473-1221" pid="177/2248">Christopher Huth</author>
+<author pid="160/4945">Ren&#233; Guillaume</author>
+<author pid="46/7785">Paul Duplys</author>
+<author pid="190/2076">Kumaragurubaran Velmurugan</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>On the Energy Cost of Channel Based Key Agreement.</title>
+<pages>31-41</pages>
+<year>2016</year>
+<booktitle>TrustED@CCS</booktitle>
+<ee>https://doi.org/10.1145/2995289.2995291</ee>
+<crossref>conf/ccs/2016trusted</crossref>
+<url>db/conf/ccs/trusted2016.html#HuthGDVG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/SchneiderMG16" mdate="2019-10-19">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>ParTI: Towards Combined Hardware Countermeasures against Side-Channeland Fault-Injection Attacks.</title>
+<pages>39</pages>
+<year>2016</year>
+<booktitle>TIS@CCS</booktitle>
+<ee>https://doi.org/10.1145/2996366.2996427</ee>
+<crossref>conf/ccs/2016tis</crossref>
+<url>db/conf/ccs/tis2016.html#SchneiderMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/FanG16" mdate="2020-11-10">
+<author pid="06/2888">Xinxin Fan</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Sixth International Workshop on Trustworthy Embedded Devices (TrustED 2016).</title>
+<pages>1888-1890</pages>
+<year>2016</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2976749.2990489</ee>
+<crossref>conf/ccs/2016</crossref>
+<url>db/conf/ccs/ccs2016.html#FanG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cd/ONeillOMSMKHPAR16" mdate="2021-01-07">
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author pid="135/8057">Elizabeth O'Sullivan</author>
+<author pid="131/1662">Gavin McWilliams</author>
+<author pid="86/9795">Markku-Juhani O. Saarinen</author>
+<author orcid="0000-0002-3670-366X" pid="135/8077">Ciara Moore</author>
+<author pid="33/10570">Ayesha Khalid</author>
+<author pid="163/8680">James Howe</author>
+<author pid="179/6846">Rafa&#235;l Del Pino</author>
+<author orcid="0000-0002-2447-4329" pid="67/2285">Michel Abdalla</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author orcid="0000-0001-6884-9340" pid="04/10540">Felipe Valencia</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="81/7616">Adrian Waller</author>
+<author pid="60/403">Glyn Jones</author>
+<author pid="180/8006">Anthony Barnett</author>
+<author pid="84/5291">Robert Griffin</author>
+<author pid="84/165">Andrew Byrne</author>
+<author pid="64/3627">Bassem Ammar</author>
+<author pid="79/7210">David Lund</author>
+<title>Secure architectures of future emerging cryptography <i>SAFEcrypto</i>.</title>
+<pages>315-322</pages>
+<year>2016</year>
+<booktitle>Conf. Computing Frontiers</booktitle>
+<ee>https://doi.org/10.1145/2903150.2907756</ee>
+<crossref>conf/cf/2016</crossref>
+<url>db/conf/cf/cf2016.html#ONeillOMSMKHPAR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/BossGGL0S16" mdate="2019-10-19">
+<author pid="183/5810">Erik Boss</author>
+<author pid="132/0856">Vincent Grosso</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0002-2579-8587" pid="90/4585">Gregor Leander</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<title>Strong 8-bit Sboxes with Efficient Masking in Hardware.</title>
+<pages>171-193</pages>
+<year>2016</year>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-53140-2_9</ee>
+<crossref>conf/ches/2016</crossref>
+<url>db/conf/ches/ches2016.html#BossGGL0S16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cosade/Schneider0G16" mdate="2019-10-19">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Robust and One-Pass Parallel Computation of Correlation-Based Attacks at Arbitrary Order.</title>
+<pages>199-217</pages>
+<year>2016</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-43283-0_12</ee>
+<crossref>conf/cosade/2016</crossref>
+<url>db/conf/cosade/cosade2016.html#Schneider0G16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/Schneider0G16" mdate="2019-10-19">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>ParTI - Towards Combined Hardware Countermeasures Against Side-Channel and Fault-Injection Attacks.</title>
+<pages>302-332</pages>
+<year>2016</year>
+<booktitle>CRYPTO (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-53008-5_11</ee>
+<crossref>conf/crypto/2016-2</crossref>
+<url>db/conf/crypto/crypto2016-2.html#Schneider0G16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/HoweMORGB16" mdate="2020-03-31">
+<author orcid="0000-0002-6498-3099" pid="163/8680">James Howe</author>
+<author orcid="0000-0002-3670-366X" pid="135/8077">Ciara Moore</author>
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="180/3782">K. Beeden</author>
+<title>Standard lattices in hardware.</title>
+<pages>162:1-162:6</pages>
+<year>2016</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2897937.2898037</ee>
+<crossref>conf/dac/2016</crossref>
+<url>db/conf/dac/dac2016.html#HoweMORGB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/Sasdrich0G16" mdate="2019-10-19">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>White-Box Cryptography in the Gray Box - - A Hardware Implementation and its Side Channels -.</title>
+<pages>185-203</pages>
+<year>2016</year>
+<booktitle>FSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-52993-5_10</ee>
+<crossref>conf/fse/2016</crossref>
+<url>db/conf/fse/fse2016.html#Sasdrich0G16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/WildBG16" mdate="2017-06-15">
+<author pid="131/3329">Alexander Wild</author>
+<author pid="66/8380">Georg T. Becker</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>On the problems of realizing reliable and efficient ring oscillator PUFs on FPGAs.</title>
+<pages>103-108</pages>
+<year>2016</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2016.7495565</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2016.7495565</ee>
+<crossref>conf/host/2016</crossref>
+<url>db/conf/host/host2016.html#WildBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icisc/HuthAGDG16" mdate="2019-09-25">
+<author orcid="0000-0002-1473-1221" pid="177/2248">Christopher Huth</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="51/3023">Jorge Guajardo</author>
+<author pid="46/7785">Paul Duplys</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Secure and Private, yet Lightweight, Authentication for the IoT via PUF and CBKA.</title>
+<pages>28-48</pages>
+<year>2016</year>
+<booktitle>ICISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-53177-9_2</ee>
+<crossref>conf/icisc/2016</crossref>
+<url>db/conf/icisc/icisc2016.html#HuthAGDG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isicir/OderGVKOR16" mdate="2020-03-31">
+<author pid="130/6474">Tobias Oder</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0001-6884-9340" pid="04/10540">Felipe Valencia</author>
+<author pid="33/10570">Ayesha Khalid</author>
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<title>Lattice-based cryptography: From reconfigurable hardware to ASIC.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>ISIC</booktitle>
+<ee>https://doi.org/10.1109/ISICIR.2016.7829689</ee>
+<crossref>conf/isicir/2016</crossref>
+<url>db/conf/isicir/isic2016.html#OderGVKOR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/HuthDG16" mdate="2019-02-14">
+<author orcid="0000-0002-1473-1221" pid="177/2248">Christopher Huth</author>
+<author pid="46/7785">Paul Duplys</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Secure software update and IP protection for untrusted devices in the Internet of Things via physically unclonable functions.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2016.7457156</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PERCOMW.2016.7457156</ee>
+<crossref>conf/percom/2016w</crossref>
+<url>db/conf/percom/percomw2016.html#HuthDG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/MaurichHG16" mdate="2017-06-15">
+<author pid="05/10085">Ingo von Maurich</author>
+<author pid="175/5898">Lukas Heberle</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>IND-CCA Secure Hybrid Encryption from QC-MDPC Niederreiter.</title>
+<pages>1-17</pages>
+<year>2016</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-29360-8_1</ee>
+<crossref>conf/pqcrypto/2016</crossref>
+<url>db/conf/pqcrypto/pqcrypto2016.html#MaurichHG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/00020SG16" mdate="2019-09-25">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0001-7444-0285" pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Bridging the Gap: Advanced Tools for Side-Channel Leakage Estimation Beyond Gaussian Templates and Histograms.</title>
+<pages>58-78</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-69453-5_4</ee>
+<ee>https://www.wikidata.org/entity/Q58764934</ee>
+<crossref>conf/sacrypt/2016</crossref>
+<url>db/conf/sacrypt/sacrypt2016.html#00020SG16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ccs/2016trusted" mdate="2020-11-10">
+<editor pid="w/EdgarRWeippl">Edgar R. Weippl</editor>
+<editor pid="66/3585-1">Stefan Katzenbeisser 0001</editor>
+<editor pid="31/1273">Mathias Payer</editor>
+<editor pid="91/4831">Stefan Mangard</editor>
+<editor pid="06/2888">Xinxin Fan</editor>
+<editor pid="50/6307">Tim G&#252;neysu</editor>
+<title>Proceedings of the 6th International Workshop on Trustworthy Embedded Devices, TrustED@CCS 16, Vienna, Austria, October 28, 2016</title>
+<booktitle>TrustED@CCS</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4567-5</isbn>
+<ee>https://doi.org/10.1145/2995289</ee>
+<url>db/conf/ccs/trusted2016.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/lightsec/2015" mdate="2019-05-14">
+<editor pid="50/6307">Tim G&#252;neysu</editor>
+<editor pid="90/4585">Gregor Leander</editor>
+<editor pid="38/3348">Amir Moradi 0001</editor>
+<title>Lightweight Cryptography for Security and Privacy - 4th International Workshop, LightSec 2015, Bochum, Germany, September 10-11, 2015, Revised Selected Papers</title>
+<booktitle>LightSec</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9542</volume>
+<isbn>978-3-319-29077-5</isbn>
+<ee>https://doi.org/10.1007/978-3-319-29078-2</ee>
+<url>db/conf/lightsec/lightsec2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SasdrichMG16" mdate="2020-05-11">
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>White-Box Cryptography in the Gray Box - A Hardware Implementation and its Side Channels.</title>
+<pages>203</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/203</ee>
+<url>db/journals/iacr/iacr2016.html#SasdrichMG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SasdrichG16" mdate="2020-05-11">
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Closing the Gap in RFC 7748: Implementing Curve448 in Hardware.</title>
+<pages>352</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/352</ee>
+<url>db/journals/iacr/iacr2016.html#SasdrichG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BossGGL0S16" mdate="2020-05-11">
+<author pid="183/5810">Erik Boss</author>
+<author pid="132/0856">Vincent Grosso</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="90/4585">Gregor Leander</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<title>Strong 8-bit Sboxes with Efficient Masking in Hardware.</title>
+<pages>647</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/647</ee>
+<url>db/journals/iacr/iacr2016.html#BossGGL0S16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Schneider0G16" mdate="2020-05-11">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>ParTI - Towards Combined Hardware Countermeasures against Side-Channel and Fault-Injection Attacks.</title>
+<pages>648</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/648</ee>
+<url>db/journals/iacr/iacr2016.html#Schneider0G16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchneiderMSG16" mdate="2020-05-11">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Bridging the Gap: Advanced Tools for Side-Channel Leakage Estimation beyond Gaussian Templates and Histograms.</title>
+<pages>719</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/719</ee>
+<url>db/journals/iacr/iacr2016.html#SchneiderMSG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/HuthBGDG16" mdate="2020-05-11">
+<author pid="177/2248">Christopher Huth</author>
+<author pid="189/1352">Daniela Becker</author>
+<author pid="51/3023">Jorge Guajardo</author>
+<author pid="46/7785">Paul Duplys</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Securing Systems with Scarce Entropy: LWE-Based Lossless Computational Fuzzy Extractor for the IoT.</title>
+<pages>982</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/982</ee>
+<url>db/journals/iacr/iacr2016.html#HuthBGDG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/OderSPG16" mdate="2020-05-11">
+<author pid="130/6474">Tobias Oder</author>
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Practical CCA2-Secure and Masked Ring-LWE Implementation.</title>
+<pages>1109</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/1109</ee>
+<url>db/journals/iacr/iacr2016.html#OderSPG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SasdrichMG16a" mdate="2020-05-11">
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware.</title>
+<pages>1111</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/1111</ee>
+<url>db/journals/iacr/iacr2016.html#SasdrichMG16a</url>
+</article>
+</r>
+<r><article key="journals/tc/GuneysuLP15" mdate="2017-06-14">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="25/2540">Vadim Lyubashevsky</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<title>Lattice-Based Signatures: Optimization and Implementation on Reconfigurable Hardware.</title>
+<pages>1954-1967</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TC.2014.2346177</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2014.2346177</ee>
+<url>db/journals/tc/tc64.html#GuneysuLP15</url>
+</article>
+</r>
+<r><article key="journals/tecs/SchaumontOG15" mdate="2020-09-08">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Introduction for Embedded Platforms for Cryptography in the Coming Decade.</title>
+<pages>40:1-40:3</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2745710</ee>
+<url>db/journals/tecs/tecs14.html#SchaumontOG15</url>
+</article>
+</r>
+<r><article key="journals/tecs/HowePOOG15" mdate="2020-09-08">
+<author pid="163/8680">James Howe</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author pid="135/8057">Elizabeth O'Sullivan</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Practical Lattice-Based Digital Signature Schemes.</title>
+<pages>41:1-41:24</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2724713</ee>
+<url>db/journals/tecs/tecs14.html#HowePOOG15</url>
+</article>
+</r>
+<r><article key="journals/tecs/MaurichOG15" mdate="2020-09-08">
+<author pid="05/10085">Ingo von Maurich</author>
+<author pid="130/6474">Tobias Oder</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Implementing QC-MDPC McEliece Encryption.</title>
+<pages>44:1-44:27</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2700102</ee>
+<url>db/journals/tecs/tecs14.html#MaurichOG15</url>
+</article>
+</r>
+<r><article key="journals/trets/SasdrichG15" mdate="2020-04-24">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Implementing Curve25519 for Side-Channel-Protected Elliptic Curve Cryptography.</title>
+<pages>3:1-3:15</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2700834</ee>
+<url>db/journals/trets/trets9.html#SasdrichG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/SchneiderMG15" mdate="2017-06-15">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Arithmetic Addition over Boolean Masking - Towards First- and Second-Order Resistance in Hardware.</title>
+<pages>559-578</pages>
+<year>2015</year>
+<booktitle>ACNS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-28166-7_27</ee>
+<crossref>conf/acns/2015</crossref>
+<url>db/conf/acns/acns2015.html#SchneiderMG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cosade/WildMG15" mdate="2019-10-19">
+<author pid="131/3329">Alexander Wild</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Evaluating the Duplication of Dual-Rail Precharge Logics on FPGAs.</title>
+<pages>81-94</pages>
+<year>2015</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21476-4_6</ee>
+<crossref>conf/cosade/2015</crossref>
+<url>db/conf/cosade/cosade2015.html#WildMG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cosade/SasdrichMMG15" mdate="2019-10-19">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Side-Channel Protection by Randomizing Look-Up Tables on Reconfigurable Hardware - Pitfalls of Memory Primitives.</title>
+<pages>95-107</pages>
+<year>2015</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21476-4_7</ee>
+<crossref>conf/cosade/2015</crossref>
+<url>db/conf/cosade/cosade2015.html#SasdrichMMG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/HassanKCRGP15" mdate="2017-06-15">
+<author pid="97/9976">Muhammad Hassan</author>
+<author pid="33/10570">Ayesha Khalid</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="39/16">Christian Rechberger</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>New ASIC/FPGA Cost Estimates for SHA-1 Collisions.</title>
+<pages>669-676</pages>
+<year>2015</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2015.78</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2015.78</ee>
+<crossref>conf/dsd/2015</crossref>
+<url>db/conf/dsd/dsd2015.html#HassanKCRGP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/BeckerWG15" mdate="2017-06-15">
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="131/3329">Alexander Wild</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Security analysis of index-based syndrome coding for PUF-based key generation.</title>
+<pages>20-25</pages>
+<year>2015</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2015.7140230</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2015.7140230</ee>
+<crossref>conf/host/2015</crossref>
+<url>db/conf/host/host2015.html#BeckerWG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/SasdrichMMG15" mdate="2019-10-19">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Achieving side-channel protection with dynamic logic reconfiguration on modern FPGAs.</title>
+<pages>130-136</pages>
+<year>2015</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2015.7140251</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2015.7140251</ee>
+<crossref>conf/host/2015</crossref>
+<url>db/conf/host/host2015.html#SasdrichMMG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/PoppelmannOG15" mdate="2017-06-15">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="130/6474">Tobias Oder</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>High-Performance Ideal Lattice-Based Cryptography on 8-Bit ATxmega Microcontrollers.</title>
+<pages>346-365</pages>
+<year>2015</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22174-8_19</ee>
+<crossref>conf/latincrypt/2015</crossref>
+<url>db/conf/latincrypt/latincrypt2015.html#PoppelmannOG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/SasdrichMG15" mdate="2019-08-20">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Affine Equivalence and Its Application to Tightening Threshold Implementations.</title>
+<pages>263-276</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-31301-6_16</ee>
+<crossref>conf/sacrypt/2015</crossref>
+<url>db/conf/sacrypt/sacrypt2015.html#SasdrichMG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/HuthZDG15" mdate="2017-06-15">
+<author orcid="0000-0002-1473-1221" pid="177/2248">Christopher Huth</author>
+<author pid="68/2288">Jan Zibuschka</author>
+<author pid="46/7785">Paul Duplys</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Securing systems on the Internet of Things via physical properties of devices and communications.</title>
+<pages>8-13</pages>
+<year>2015</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SYSCON.2015.7116721</ee>
+<crossref>conf/syscon/2015</crossref>
+<url>db/conf/syscon/syscon2015.html#HuthZDG15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ches/2015" mdate="2019-05-14">
+<editor orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</editor>
+<editor pid="28/6334">Helena Handschuh</editor>
+<title>Cryptographic Hardware and Embedded Systems - CHES 2015 - 17th International Workshop, Saint-Malo, France, September 13-16, 2015, Proceedings</title>
+<booktitle>CHES</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9293</volume>
+<isbn>978-3-662-48323-7</isbn>
+<ee>https://doi.org/10.1007/978-3-662-48324-4</ee>
+<url>db/conf/ches/ches2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchneiderMG15" mdate="2020-05-11">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Arithmetic Addition over Boolean Masking - Towards First- and Second-Order Resistance in Hardware.</title>
+<pages>66</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/066</ee>
+<url>db/journals/iacr/iacr2015.html#SchneiderMG15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WildMG15" mdate="2020-05-11">
+<author pid="131/3329">Alexander Wild</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>GliFreD: Glitch-Free Duplication - Towards Power-Equalized Circuits on FPGAs.</title>
+<pages>124</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/124</ee>
+<url>db/journals/iacr/iacr2015.html#WildMG15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SasdrichMMG15" mdate="2020-05-11">
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Side-Channel Protection by Randomizing Look-Up Tables on Reconfigurable Hardware - Pitfalls of Memory Primitives.</title>
+<pages>198</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/198</ee>
+<url>db/journals/iacr/iacr2015.html#SasdrichMMG15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WildMG15a" mdate="2020-05-11">
+<author pid="131/3329">Alexander Wild</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Evaluating the Duplication of Dual-Rail Precharge Logics on FPGAs.</title>
+<pages>200</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/200</ee>
+<url>db/journals/iacr/iacr2015.html#WildMG15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SasdrichMMG15a" mdate="2020-05-11">
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Achieving Side-Channel Protection with Dynamic Logic Reconfiguration on Modern FPGAs.</title>
+<pages>203</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/203</ee>
+<url>db/journals/iacr/iacr2015.html#SasdrichMMG15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PoppelmannOG15" mdate="2020-05-11">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Speed Records for Ideal Lattice-Based Cryptography on AVR.</title>
+<pages>382</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/382</ee>
+<url>db/journals/iacr/iacr2015.html#PoppelmannOG15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/HeyseMG15" mdate="2020-05-11">
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="05/10085">Ingo von Maurich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Smaller Keys for Code-Based Cryptography: QC-MDPC McEliece Implementations on Embedded Devices.</title>
+<pages>425</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/425</ee>
+<url>db/journals/iacr/iacr2015.html#HeyseMG15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchneiderMG15a" mdate="2020-05-11">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Robust and One-Pass Parallel Computation of Correlation-Based Attacks at Arbitrary Order.</title>
+<pages>571</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/571</ee>
+<url>db/journals/iacr/iacr2015.html#SchneiderMG15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SasdrichMG15" mdate="2020-05-11">
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Affine Equivalence and its Application to Tightening Threshold Implementations.</title>
+<pages>749</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/749</ee>
+<url>db/journals/iacr/iacr2015.html#SasdrichMG15</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/SchneiderMGO14" mdate="2021-01-07">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="05/10085">Ingo von Maurich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="190/2073">David F. Oswald</author>
+<title>Cryptographic Algorithms on the GA144 Asynchronous Multi-Core Processor - Implementation and Side-Channel Analysis.</title>
+<pages>151-167</pages>
+<year>2014</year>
+<volume>77</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s11265-014-0872-5</ee>
+<url>db/journals/vlsisp/vlsisp77.html#SchneiderMGO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/SasdrichG14" mdate="2018-11-02">
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Efficient Elliptic-Curve Cryptography Using Curve25519 on Reconfigurable Devices.</title>
+<pages>25-36</pages>
+<year>2014</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05960-0_3</ee>
+<crossref>conf/arc/2014</crossref>
+<url>db/conf/arc/arc2014.html#SasdrichG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/PopperMG14" mdate="2017-06-15">
+<author pid="144/2529">Christopher P&#246;pper</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>MicroACP - A Fast and Secure Reconfigurable Asymmetric Crypto-Processor - -Overhead Evaluation of Side-Channel Countermeasures-.</title>
+<pages>240-247</pages>
+<year>2014</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05960-0_24</ee>
+<crossref>conf/arc/2014</crossref>
+<url>db/conf/arc/arc2014.html#PopperMG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/PoppelmannDG14" mdate="2018-12-23">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="65/7849">L&#233;o Ducas</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Enhanced Lattice-Based Signatures on Reconfigurable Hardware.</title>
+<pages>353-370</pages>
+<year>2014</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44709-3_20</ee>
+<crossref>conf/ches/2014</crossref>
+<url>db/conf/ches/ches2014.html#PoppelmannDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/OderPG14" mdate="2018-11-06">
+<author pid="130/6474">Tobias Oder</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Beyond ECDSA and RSA: Lattice-based Digital Signatures on Constrained Devices.</title>
+<pages>110:1-110:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593098</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#OderPG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/MaurichG14" mdate="2017-05-23">
+<author pid="05/10085">Ingo von Maurich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Lightweight code-based cryptography: QC-MDPC McEliece encryption on reconfigurable devices.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.051</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2616654</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#MaurichG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdtc/MischkeMG14" mdate="2019-10-19">
+<author pid="22/8341">Oliver Mischke</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Fault Sensitivity Analysis Meets Zero-Value Attack.</title>
+<pages>59-67</pages>
+<year>2014</year>
+<booktitle>FDTC</booktitle>
+<ee>https://doi.org/10.1109/FDTC.2014.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FDTC.2014.16</ee>
+<crossref>conf/fdtc/2014</crossref>
+<url>db/conf/fdtc/fdtc2014.html#MischkeMG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/GuneysuRSW14" mdate="2020-03-31">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author pid="58/9687">Marcin W&#243;jcik</author>
+<title>THOR - The hardware onion router.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927408</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#GuneysuRSW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/WildG14" mdate="2017-06-15">
+<author pid="131/3329">Alexander Wild</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Enabling SRAM-PUFs on Xilinx FPGAs.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927384</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#WildG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/PoppelmannG14" mdate="2017-06-15">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Area optimization of lightweight lattice-based encryption on reconfigurable hardware.</title>
+<pages>2796-2799</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2014.6865754</ee>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#PoppelmannG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/DagdelenBGGOPSS14" mdate="2017-06-15">
+<author pid="72/8243">&#214;zg&#252;r Dagdelen</author>
+<author pid="115/4396">Rachid El Bansarkhani</author>
+<author pid="128/5212">Florian G&#246;pfert</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="131/3286">Ana Helena S&#225;nchez</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>High-Speed Signatures from Standard Lattices.</title>
+<pages>84-103</pages>
+<year>2014</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-16295-9_5</ee>
+<crossref>conf/latincrypt/2014</crossref>
+<url>db/conf/latincrypt/latincrypt2014.html#DagdelenBGGOPSS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/MaurichG14" mdate="2017-05-26">
+<author pid="05/10085">Ingo von Maurich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Towards Side-Channel Resistant Implementations of QC-MDPC McEliece Encryption on Constrained Devices.</title>
+<pages>266-282</pages>
+<year>2014</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11659-4_16</ee>
+<crossref>conf/pqcrypto/2014</crossref>
+<url>db/conf/pqcrypto/pqcrypto2014.html#MaurichG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/EnderDWPG14" mdate="2018-11-30">
+<author orcid="0000-0002-0685-2541" pid="159/2518">Maik Ender</author>
+<author pid="159/2466">Gerd Duppmann</author>
+<author pid="131/3329">Alexander Wild</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>A hardware-assisted proof-of-concept for secure VoIP clients on untrusted operating systems.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2014.7032489</ee>
+<crossref>conf/reconfig/2014</crossref>
+<url>db/conf/reconfig/reconfig2014.html#EnderDWPG14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/PoppelmannDG14" mdate="2020-05-11">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="65/7849">L&#233;o Ducas</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Enhanced Lattice-Based Signatures on Reconfigurable Hardware.</title>
+<pages>254</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/254</ee>
+<url>db/journals/iacr/iacr2014.html#PoppelmannDG14</url>
+</article>
+</r>
+<r><article key="journals/jce/HeyseG13" mdate="2020-07-09">
+<author pid="95/7252">Stefan Heyse</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Code-based cryptography on reconfigurable hardware: tweaking Niederreiter encryption for performance.</title>
+<pages>29-43</pages>
+<year>2013</year>
+<volume>3</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13389-013-0056-4</ee>
+<url>db/journals/jce/jce3.html#HeyseG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/WildGM13" mdate="2019-08-20">
+<author pid="131/3329">Alexander Wild</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<title>Attacking Atmel's CryptoMemory EEPROM with Special-Purpose Hardware.</title>
+<pages>389-404</pages>
+<year>2013</year>
+<booktitle>ACNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38980-1_24</ee>
+<crossref>conf/acns/2013</crossref>
+<url>db/conf/acns/acns2013.html#WildGM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/SchneiderMG13" mdate="2017-06-15">
+<author pid="55/1116-2">Tobias Schneider 0002</author>
+<author pid="05/10085">Ingo von Maurich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Efficient implementation of cryptographic primitives on the GA144 multi-core architecture.</title>
+<pages>67-74</pages>
+<year>2013</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2013.6567552</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2013.6567552</ee>
+<crossref>conf/asap/2013</crossref>
+<url>db/conf/asap/asap2013.html#SchneiderMG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/HeyseMG13" mdate="2017-05-21">
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="05/10085">Ingo von Maurich</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Smaller Keys for Code-Based Cryptography: QC-MDPC McEliece Implementations on Embedded Devices.</title>
+<pages>273-292</pages>
+<year>2013</year>
+<crossref>conf/ches/2013</crossref>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40349-1_16</ee>
+<url>db/conf/ches/ches2013.html#HeyseMG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/GuneysuOPS13" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="130/6474">Tobias Oder</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>Software Speed Records for Lattice-Based Signatures.</title>
+<pages>67-82</pages>
+<year>2013</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38616-9_5</ee>
+<crossref>conf/pqcrypto/2013</crossref>
+<url>db/conf/pqcrypto/pqcrypto2013.html#GuneysuOPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/PoppelmannG13" mdate="2018-06-26">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Towards Practical Lattice-Based Public-Key Encryption on Reconfigurable Hardware.</title>
+<pages>68-85</pages>
+<year>2013</year>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43414-7_4</ee>
+<crossref>conf/sacrypt/2013</crossref>
+<url>db/conf/sacrypt/sacrypt2013.html#PoppelmannG13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jce/KasperMBMGPB12" mdate="2020-10-26">
+<author pid="86/7075">Markus Kasper</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Side channels as building blocks.</title>
+<pages>143-159</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13389-012-0040-4</ee>
+<url>db/journals/jce/jce2.html#KasperMBMGPB12</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/Guneysu12" mdate="2020-03-12">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Using Data Contention in Dual-ported Memories for Security Applications.</title>
+<pages>15-29</pages>
+<year>2012</year>
+<volume>67</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11265-010-0560-z</ee>
+<url>db/journals/vlsisp/vlsisp67.html#Guneysu12</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/EisenbarthGGHIKKNPRSO12" mdate="2020-03-31">
+<author orcid="0000-0003-1116-6973" pid="72/817">Thomas Eisenbarth 0001</author>
+<author pid="85/5448">Zheng Gong</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="57/2462">Sebastiaan Indesteege</author>
+<author pid="97/9838">St&#233;phanie Kerckhof</author>
+<author pid="90/3627">Fran&#231;ois Koeune</author>
+<author pid="99/3563">Tomislav Nad</author>
+<author pid="01/5915">Thomas Plos</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="86/6884">Lo&#239;c van Oldeneel tot Oldenzeel</author>
+<title>Compact Implementation and Performance Evaluation of Block Ciphers in ATtiny Devices.</title>
+<pages>172-187</pages>
+<year>2012</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31410-0_11</ee>
+<crossref>conf/africacrypt/2012</crossref>
+<url>db/conf/africacrypt/africacrypt2012.html#EisenbarthGGHIKKNPRSO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/GuneysuMW12" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="m/IgorLMarkov">Igor L. Markov</author>
+<author pid="66/788">Andr&#233; Weimerskirch</author>
+<title>Securely Sealing Multi-FPGA Systems.</title>
+<pages>276-289</pages>
+<year>2012</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28365-9_23</ee>
+<crossref>conf/arc/2012</crossref>
+<url>db/conf/arc/arc2012.html#GuneysuMW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/BorghoffCGKKKLNPRRTY12" mdate="2019-10-19">
+<author pid="09/7423">Julia Borghoff</author>
+<author pid="56/3453">Anne Canteaut</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="75/6242">Miroslav Knezevic</author>
+<author orcid="0000-0003-3057-9327" pid="k/LarsRKnudsen">Lars R. Knudsen</author>
+<author orcid="0000-0002-2579-8587" pid="90/4585">Gregor Leander</author>
+<author pid="84/5358">Ventzislav Nikov</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="39/16">Christian Rechberger</author>
+<author pid="118/3348">Peter Rombouts</author>
+<author pid="42/1971">S&#248;ren S. Thomsen</author>
+<author pid="07/8571">Tolga Yal&#231;in</author>
+<title>PRINCE - A Low-Latency Block Cipher for Pervasive Computing Applications - Extended Abstract.</title>
+<pages>208-225</pages>
+<year>2012</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34961-4_14</ee>
+<ee>https://www.wikidata.org/entity/Q56933163</ee>
+<crossref>conf/asiacrypt/2012</crossref>
+<url>db/conf/asiacrypt/asiacrypt2012.html#BorghoffCGKKKLNPRRTY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cardis/BalaschEEGGGHKKPPRSAKOM12" mdate="2020-03-31">
+<author pid="39/8189">Josep Balasch</author>
+<author pid="11/8780">Baris Ege</author>
+<author orcid="0000-0003-1116-6973" pid="72/817">Thomas Eisenbarth 0001</author>
+<author pid="98/7591">Beno&#238;t G&#233;rard</author>
+<author pid="85/5448">Zheng Gong</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="97/9838">St&#233;phanie Kerckhof</author>
+<author pid="90/3627">Fran&#231;ois Koeune</author>
+<author pid="01/5915">Thomas Plos</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="09/5505">Gilles Van Assche</author>
+<author pid="119/0045">Ronny Van Keer</author>
+<author pid="86/6884">Lo&#239;c van Oldeneel tot Oldenzeel</author>
+<author orcid="0000-0002-8461-9657" pid="05/10085">Ingo von Maurich</author>
+<title>Compact Implementation and Performance Evaluation of Hash Functions in ATtiny Devices.</title>
+<pages>158-172</pages>
+<year>2012</year>
+<booktitle>CARDIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37288-9_11</ee>
+<crossref>conf/cardis/2012</crossref>
+<url>db/conf/cardis/cardis2012.html#BalaschEEGGGHKKPPRSAKOM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/HeyseG12" mdate="2018-06-26">
+<author pid="95/7252">Stefan Heyse</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Towards One Cycle per Bit Asymmetric Encryption: Code-Based Cryptography on Reconfigurable Hardware.</title>
+<pages>340-355</pages>
+<year>2012</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33027-8_20</ee>
+<crossref>conf/ches/2012</crossref>
+<url>db/conf/ches/ches2012.html#HeyseG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/GuneysuLP12" mdate="2018-11-14">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="25/2540">Vadim Lyubashevsky</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<title>Practical Lattice-Based Cryptography: A Signature Scheme for Embedded Systems.</title>
+<pages>530-547</pages>
+<year>2012</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33027-8_31</ee>
+<ee>https://www.wikidata.org/entity/Q57484391</ee>
+<crossref>conf/ches/2012</crossref>
+<url>db/conf/ches/ches2012.html#GuneysuLP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esorics/DurmuthGKPYZ12" mdate="2019-08-20">
+<author pid="36/3665">Markus D&#252;rmuth</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="86/7075">Markus Kasper</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="07/8571">Tolga Yal&#231;in</author>
+<author pid="47/8769-1">Ralf Zimmermann 0001</author>
+<title>Evaluation of Standardized Password-Based Key Derivation against Parallel Processing Platforms.</title>
+<pages>716-733</pages>
+<year>2012</year>
+<booktitle>ESORICS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33167-1_41</ee>
+<crossref>conf/esorics/2012</crossref>
+<url>db/conf/esorics/esorics2012.html#DurmuthGKPYZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/MaurichG12" mdate="2017-06-15">
+<author orcid="0000-0002-8461-9657" pid="05/10085">Ingo von Maurich</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Embedded Syndrome-Based Hashing.</title>
+<pages>339-357</pages>
+<year>2012</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34931-7_20</ee>
+<crossref>conf/indocrypt/2012</crossref>
+<url>db/conf/indocrypt/indocrypt2012.html#MaurichG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/PoppelmannG12" mdate="2017-06-15">
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Towards Efficient Arithmetic for Lattice-Based Cryptography on Reconfigurable Hardware.</title>
+<pages>139-158</pages>
+<year>2012</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33481-8_8</ee>
+<crossref>conf/latincrypt/2012</crossref>
+<url>db/conf/latincrypt/latincrypt2012.html#PoppelmannG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/DriessenGKMPP12" mdate="2020-10-25">
+<author pid="50/1428">Benedikt Driessen</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0003-3193-8440" pid="00/8569">Elif Bilge Kavun</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<title>IPSecco: A lightweight and reconfigurable IPSec core.</title>
+<pages>1-7</pages>
+<year>2012</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2012.6416757</ee>
+<crossref>conf/reconfig/2012</crossref>
+<url>db/conf/reconfig/reconfig2012.html#DriessenGKMPP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/GasparFGJ12" mdate="2017-06-15">
+<author pid="64/8122">Lubos Gaspar</author>
+<author pid="59/2926">Viktor Fischer</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="44/9861">Zouha Cherif Jouini</author>
+<title>Two IP protection schemes for multi-FPGA systems.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2012.6416790</ee>
+<crossref>conf/reconfig/2012</crossref>
+<url>db/conf/reconfig/reconfig2012.html#GasparFGJ12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BalaschEEGGGHKKPPRSAKOM12" mdate="2020-05-11">
+<author pid="39/8189">Josep Balasch</author>
+<author pid="11/8780">Baris Ege</author>
+<author pid="72/817">Thomas Eisenbarth 0001</author>
+<author pid="98/7591">Beno&#238;t G&#233;rard</author>
+<author pid="85/5448">Zheng Gong</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="97/9838">St&#233;phanie Kerckhof</author>
+<author pid="90/3627">Fran&#231;ois Koeune</author>
+<author pid="01/5915">Thomas Plos</author>
+<author pid="54/10299">Thomas P&#246;ppelmann</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="09/5505">Gilles Van Assche</author>
+<author pid="119/0045">Ronny Van Keer</author>
+<author pid="86/6884">Lo&#239;c van Oldeneel tot Oldenzeel</author>
+<author pid="05/10085">Ingo von Maurich</author>
+<title>Compact Implementation and Performance Evaluation of Hash Functions in ATtiny Devices.</title>
+<pages>507</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/507</ee>
+<url>db/journals/iacr/iacr2012.html#BalaschEEGGGHKKPPRSAKOM12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BorghoffCGKKKLNPRRTY12" mdate="2020-05-11">
+<author pid="09/7423">Julia Borghoff</author>
+<author pid="56/3453">Anne Canteaut</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="75/6242">Miroslav Knezevic</author>
+<author pid="k/LarsRKnudsen">Lars R. Knudsen</author>
+<author pid="90/4585">Gregor Leander</author>
+<author pid="84/5358">Ventzislav Nikov</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="39/16">Christian Rechberger</author>
+<author pid="118/3348">Peter Rombouts</author>
+<author pid="42/1971">S&#248;ren S. Thomsen</author>
+<author pid="07/8571">Tolga Yal&#231;in</author>
+<title>PRINCE - A Low-latency Block Cipher for Pervasive Computing Applications (Full version).</title>
+<pages>529</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/529</ee>
+<url>db/journals/iacr/iacr2012.html#BorghoffCGKKKLNPRRTY12</url>
+</article>
+</r>
+<r><article key="journals/jce/Guneysu11" mdate="2020-07-09">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Utilizing hard cores of modern FPGA devices for high-performance cryptography.</title>
+<pages>37-55</pages>
+<year>2011</year>
+<volume>1</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13389-011-0002-2</ee>
+<url>db/journals/jce/jce1.html#Guneysu11</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/DinurGPSZ11" mdate="2018-06-26">
+<author pid="67/297">Itai Dinur</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="s/AdiShamir">Adi Shamir</author>
+<author pid="47/8769-1">Ralf Zimmermann 0001</author>
+<title>An Experimentally Verified Attack on Full Grain-128 Using Dedicated Reconfigurable Hardware.</title>
+<pages>327-343</pages>
+<year>2011</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-25385-0_18</ee>
+<crossref>conf/asiacrypt/2011</crossref>
+<url>db/conf/asiacrypt/asiacrypt2011.html#DinurGPSZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/GuneysuM11" mdate="2019-10-19">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<title>Generic Side-Channel Countermeasures for Reconfigurable Devices.</title>
+<pages>33-48</pages>
+<year>2011</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-23951-9_3</ee>
+<crossref>conf/ches/2011</crossref>
+<url>db/conf/ches/ches2011.html#GuneysuM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/GuneysuHP11" mdate="2018-11-06">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>The future of high-speed cryptography: new computing platforms and new ciphers.</title>
+<pages>461-466</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973112</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#GuneysuHP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/VarcholaGM11" mdate="2017-06-15">
+<author pid="38/6057">Michal Varchola</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="22/8341">Oliver Mischke</author>
+<title>MicroECC: A Lightweight Reconfigurable Elliptic Curve Crypto-processor.</title>
+<pages>204-210</pages>
+<year>2011</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2011.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ReConFig.2011.61</ee>
+<crossref>conf/reconfig/2011</crossref>
+<url>db/conf/reconfig/reconfig2011.html#VarcholaGM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/LombG11" mdate="2017-06-15">
+<author pid="88/10773">Benno Lomb</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Decrypting HDCP-protected Video Streams Using Reconfigurable Hardware.</title>
+<pages>249-254</pages>
+<year>2011</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2011.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ReConFig.2011.24</ee>
+<crossref>conf/reconfig/2011</crossref>
+<url>db/conf/reconfig/reconfig2011.html#LombG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weworc/BartkewitzG11" mdate="2017-06-15">
+<author pid="15/10596">Timo Bartkewitz</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Full Lattice Basis Reduction on Graphics Cards.</title>
+<pages>30-44</pages>
+<year>2011</year>
+<booktitle>WEWoRC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34159-5_3</ee>
+<crossref>conf/weworc/2011</crossref>
+<url>db/conf/weworc/weworc2011.html#BartkewitzG11</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crypt/Guneysu11" mdate="2017-07-12">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>FPGAs in Cryptography.</title>
+<pages>499-501</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_31</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Guneysu11</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/iacr/DinurGPSZ11" mdate="2020-05-11">
+<author pid="67/297">Itai Dinur</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="s/AdiShamir">Adi Shamir</author>
+<author pid="47/8769-1">Ralf Zimmermann 0001</author>
+<title>An Experimentally Verified Attack on Full Grain-128 Using Dedicated Reconfigurable Hardware.</title>
+<pages>282</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/282</ee>
+<url>db/journals/iacr/iacr2011.html#DinurGPSZ11</url>
+</article>
+</r>
+<r><article key="journals/dud/Guneysu10" mdate="2017-05-27">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<title>Kryptografie auf programmierbarer Hardware.</title>
+<pages>832-837</pages>
+<year>2010</year>
+<volume>34</volume>
+<journal>Datenschutz und Datensicherheit</journal>
+<number>12</number>
+<ee>https://doi.org/10.1007/s11623-010-0225-x</ee>
+<url>db/journals/dud/dud34.html#Guneysu10</url>
+</article>
+</r>
+<r><article key="journals/trets/DrimerGP10" mdate="2020-04-24">
+<author pid="54/136">Saar Drimer</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>DSPs, BRAMs, and a Pinch of Logic: Extended Recipes for AES on FPGAs.</title>
+<year>2010</year>
+<volume>3</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1661438.1661441</ee>
+<url>db/journals/trets/trets3.html#DrimerGP10</url>
+<pages>3:1-3:27</pages>
+</article>
+</r>
+<r><inproceedings key="conf/fpl/ZimmermannGP10" mdate="2017-06-15">
+<author pid="47/8769-1">Ralf Zimmermann 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>High-Performance Integer Factoring with Reconfigurable Devices.</title>
+<pages>83-88</pages>
+<year>2010</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2010.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FPL.2010.26</ee>
+<crossref>conf/fpl/2010</crossref>
+<url>db/conf/fpl/fpl2010.html#ZimmermannGP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/FanBBGPV10" mdate="2019-09-25">
+<author pid="36/2152">Junfeng Fan</author>
+<author pid="70/4808">Daniel V. Bailey</author>
+<author pid="67/1939">Lejla Batina</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Breaking Elliptic Curve Cryptosystems Using Reconfigurable Hardware.</title>
+<pages>133-138</pages>
+<year>2010</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2010.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FPL.2010.34</ee>
+<crossref>conf/fpl/2010</crossref>
+<url>db/conf/fpl/fpl2010.html#FanBBGPV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/Guneysu10" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>True random number generation in block memories of reconfigurable devices.</title>
+<pages>200-207</pages>
+<year>2010</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2010.5681499</ee>
+<crossref>conf/fpt/2010</crossref>
+<url>db/conf/fpt/fpt2010.html#Guneysu10</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/10/GuneysuP10" mdate="2017-09-21">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>Modular Integer Arithmetic for Public Key Cryptography.</title>
+<pages>3-26</pages>
+<year>2010</year>
+<booktitle>Secure Integrated Circuits and Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-71829-3_1</ee>
+<crossref>books/sp/V2010</crossref>
+<url>db/books/collections/V2010.html#GuneysuP10</url>
+</incollection>
+</r>
+<r><phdthesis key="phd/de/Guneysu2009" mdate="2016-05-04">
+<author pid="50/6307">Tim Erhan G&#252;neysu</author>
+<title>Cryptography and cryptanalysis on reconfigurable devices: security implementations for hardware and reprogrammable devices.</title>
+<year>2009</year>
+<school>Ruhr University Bochum</school>
+<pages>1-210</pages>
+<isbn>978-3-89966-338-9</isbn>
+<ee>http://d-nb.info/994465785</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ches/EisenbarthGHP09" mdate="2019-03-08">
+<author orcid="0000-0003-1116-6973" pid="72/817">Thomas Eisenbarth 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="95/7252">Stefan Heyse</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>MicroEliece: McEliece for Embedded Devices.</title>
+<pages>49-64</pages>
+<year>2009</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04138-9_4</ee>
+<crossref>conf/ches/2009</crossref>
+<url>db/conf/ches/ches2009.html#EisenbarthGHP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/LinKGPB09" mdate="2020-04-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="86/7075">Markus Kasper</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Trojan Side-Channels: Lightweight Hardware Trojans through Side-Channel Engineering.</title>
+<pages>382-395</pages>
+<year>2009</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04138-9_27</ee>
+<crossref>conf/ches/2009</crossref>
+<url>db/conf/ches/ches2009.html#LinKGPB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/GuneysuP09" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>Transforming write collisions in block RAMs into security applications.</title>
+<pages>128-134</pages>
+<year>2009</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2009.5377631</ee>
+<crossref>conf/fpt/2009</crossref>
+<url>db/conf/fpt/fpt2009.html#GuneysuP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/GuajardoGKP09" mdate="2017-06-15">
+<author pid="51/3023">Jorge Guajardo</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="45/5218">Sandeep S. Kumar</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>Secure IP-Block Distribution for Hardware Devices.</title>
+<pages>82-89</pages>
+<year>2009</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2009.5224965</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2009.5224965</ee>
+<crossref>conf/host/2009</crossref>
+<url>db/conf/host/host2009.html#GuajardoGKP09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BaileyBBBBBDMFGGKLMPRSU09" mdate="2020-05-11">
+<author pid="70/4808">Daniel V. Bailey</author>
+<author pid="74/1917">Brian Baldwin</author>
+<author pid="67/1939">Lejla Batina</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="38/6165">Peter Birkner</author>
+<author pid="02/7441">Joppe W. Bos</author>
+<author pid="04/7543">Gauthier Van Damme</author>
+<author pid="20/5510">Giacomo de Meulenaer</author>
+<author pid="36/2152">Junfeng Fan</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="28/6272">Frank K. G&#252;rkaynak</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="23/3870">Nele Mentens</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="04/3628">Leif Uhsadel</author>
+<title>The Certicom Challenges ECC2-X.</title>
+<pages>466</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/466</ee>
+<url>db/journals/iacr/iacr2009.html#BaileyBBBBBDMFGGKLMPRSU09</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BaileyBBBBCCDMPFGGKLMNPRSUHY09" mdate="2020-05-11">
+<author pid="70/4808">Daniel V. Bailey</author>
+<author pid="67/1939">Lejla Batina</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="38/6165">Peter Birkner</author>
+<author pid="02/7441">Joppe W. Bos</author>
+<author pid="39/8341">Hsieh-Chung Chen</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="04/7543">Gauthier Van Damme</author>
+<author pid="20/5510">Giacomo de Meulenaer</author>
+<author pid="47/7225">Luis J. Dominguez Perez</author>
+<author pid="36/2152">Junfeng Fan</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="28/6272">Frank K. G&#252;rkaynak</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="23/3870">Nele Mentens</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="04/3628">Leif Uhsadel</author>
+<author pid="28/10331">Anthony Van Herrewege</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Breaking ECC2K-130.</title>
+<pages>541</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/541</ee>
+<url>db/journals/iacr/iacr2009.html#BaileyBBBBCCDMPFGGKLMNPRSUHY09</url>
+</article>
+</r>
+<r><article key="journals/tc/GuneysuKNPR08" mdate="2020-10-26">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="56/1351">Timo Kasper</author>
+<author orcid="0000-0001-6446-7257" pid="70/1524">Martin Novotn&#253;</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="68/2219">Andy Rupp</author>
+<title>Cryptanalysis with COPACOBANA.</title>
+<pages>1498-1513</pages>
+<year>2008</year>
+<volume>57</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TC.2008.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2008.80</ee>
+<url>db/journals/tc/tc57.html#GuneysuKNPR08</url>
+</article>
+</r>
+<r><article key="journals/trets/GuneysuPP08" mdate="2020-04-24">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="34/1982">Jan Pelzl</author>
+<title>Special-Purpose Hardware for Solving the Elliptic Curve Discrete Logarithm Problem.</title>
+<year>2008</year>
+<volume>1</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1371579.1371580</ee>
+<url>db/journals/trets/trets1.html#GuneysuPP08</url>
+<pages>8:1-8:21</pages>
+</article>
+</r>
+<r><inproceedings key="conf/ches/GuneysuP08" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>Ultra High Performance ECC over NIST Primes on Commercial FPGAs.</title>
+<pages>62-78</pages>
+<year>2008</year>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85053-3_5</ee>
+<crossref>conf/ches/2008</crossref>
+<url>db/conf/ches/ches2008.html#GuneysuP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/SzerwinskiG08" mdate="2017-06-15">
+<author pid="61/5417">Robert Szerwinski</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Exploiting the Power of GPUs for Asymmetric Cryptography.</title>
+<pages>79-99</pages>
+<year>2008</year>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85053-3_6</ee>
+<crossref>conf/ches/2008</crossref>
+<url>db/conf/ches/ches2008.html#SzerwinskiG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fc/GuneysuP08" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>Breaking Legacy Banking Standards with Special-Purpose Hardware.</title>
+<pages>128-140</pages>
+<year>2008</year>
+<booktitle>Financial Cryptography</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85230-8_10</ee>
+<crossref>conf/fc/2008</crossref>
+<url>db/conf/fc/fc2008.html#GuneysuP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/DrimerGP08" mdate="2017-06-15">
+<author pid="54/136">Saar Drimer</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>DSPs, BRAMs and a Pinch of Logic: New Recipes for AES on FPGAs.</title>
+<pages>99-108</pages>
+<year>2008</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2008.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2008.42</ee>
+<crossref>conf/fccm/2008</crossref>
+<url>db/conf/fccm/fccm2008.html#DrimerGP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/GuneysuPPS08" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="32/1957">Gerd Pfeiffer</author>
+<author pid="14/676">Manfred Schimmler</author>
+<title>Enhancing COPACOBANA for advanced applications in cryptography and cryptanalysis.</title>
+<pages>675-678</pages>
+<year>2008</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2008.4630037</ee>
+<crossref>conf/fpl/2008</crossref>
+<url>db/conf/fpl/fpl2008.html#GuneysuPPS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/EisenbarthGPSSW07" mdate="2019-03-08">
+<author orcid="0000-0003-1116-6973" pid="72/817">Thomas Eisenbarth 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author>
+<author pid="60/2938">Dries Schellekens</author>
+<author pid="54/4202">Marko Wolf</author>
+<title>Reconfigurable trusted computing in hardware.</title>
+<pages>15-20</pages>
+<year>2007</year>
+<booktitle>STC</booktitle>
+<ee>https://doi.org/10.1145/1314354.1314360</ee>
+<crossref>conf/ccs/2007stc</crossref>
+<url>db/conf/ccs/stc2007.html#EisenbarthGPSSW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/GuneysuMP07" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="92/4544">Bodo M&#246;ller</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>New Protection Mechanisms for Intellectual Property in Reconfigurable Logic.</title>
+<pages>287-288</pages>
+<year>2007</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2007.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2007.22</ee>
+<crossref>conf/fccm/2007</crossref>
+<url>db/conf/fccm/fccm2007.html#GuneysuMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/EisenbarthGPSWT07" mdate="2019-03-08">
+<author orcid="0000-0003-1116-6973" pid="72/817">Thomas Eisenbarth 0001</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author>
+<author pid="54/4202">Marko Wolf</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>Establishing Chain of Trust in Reconfigurable Hardware.</title>
+<pages>289-290</pages>
+<year>2007</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2007.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2007.23</ee>
+<crossref>conf/fccm/2007</crossref>
+<url>db/conf/fccm/fccm2007.html#EisenbarthGPSWT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/GueneysuPP07" mdate="2018-11-06">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="34/1982">Jan Pelzl</author>
+<title>Attacking elliptic curve cryptosystems with special-purpose hardware.</title>
+<pages>207-215</pages>
+<year>2007</year>
+<crossref>conf/fpga/2007</crossref>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/1216919.1216953</ee>
+<url>db/conf/fpga/fpga2007.html#GueneysuPP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/GuneysuMP07" mdate="2017-06-15">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="92/4544">Bodo M&#246;ller</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>Dynamic Intellectual Property Protection for Reconfigurable Devices.</title>
+<pages>169-176</pages>
+<year>2007</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2007.4439246</ee>
+<crossref>conf/fpt/2007</crossref>
+<url>db/conf/fpt/fpt2007.html#GuneysuMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/GuneysuRS07" mdate="2021-01-13">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="68/2219">Andy Rupp</author>
+<author pid="41/6715">Stefan Spitz</author>
+<title>Cryptanalytic Time-Memory Tradeoffs on COPACOBANA.</title>
+<pages>205-209</pages>
+<year>2007</year>
+<booktitle>GI Jahrestagung (2)</booktitle>
+<crossref>conf/gi/2007-2</crossref>
+<url>db/conf/gi/gi2007-2.html#GuneysuRS07</url>
+<ee type="oa">https://dl.gi.de/20.500.12116/22481</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings110/article1720.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/GuneysuPPPSS07" mdate="2009-02-16">
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="34/1982">Jan Pelzl</author>
+<author pid="32/1957">Gerd Pfeiffer</author>
+<author pid="14/676">Manfred Schimmler</author>
+<author pid="52/3283">Christian Schleiffer</author>
+<title>Parallel Computing with Low-Cost FPGAs: A Framework for COPACOBANA.</title>
+<pages>741-748</pages>
+<year>2007</year>
+<booktitle>PARCO</booktitle>
+<crossref>conf/parco/2007</crossref>
+<url>db/conf/parco/parco2007.html#GuneysuPPPSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weworc/GuneysuPS07" mdate="2018-11-02">
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author orcid="0000-0002-8698-4244" pid="04/2350">Sven Sch&#228;ge</author>
+<title>Efficient Hash Collision Search Strategies on Special-Purpose Hardware.</title>
+<pages>39-51</pages>
+<year>2007</year>
+<booktitle>WEWoRC</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88353-1_4</ee>
+<crossref>conf/weworc/2007</crossref>
+<url>db/conf/weworc/weworc2007.html#GuneysuPS07</url>
+</inproceedings>
+</r>
+<coauthors n="195" nc="1">
+<co c="0"><na f="a/Abdalla:Michel" pid="67/2285">Michel Abdalla</na></co>
+<co c="0"><na f="a/Ammar:Bassem" pid="64/3627">Bassem Ammar</na></co>
+<co c="0"><na f="a/Assche:Gilles_Van" pid="09/5505">Gilles Van Assche</na></co>
+<co c="0"><na f="a/Aysu:Aydin" pid="39/9049">Aydin Aysu</na></co>
+<co c="0"><na f="b/Bache:Florian" pid="161/0208">Florian Bache</na></co>
+<co c="0"><na f="b/Bailey:Daniel_V=" pid="70/4808">Daniel V. Bailey</na></co>
+<co c="0"><na f="b/Balasch:Josep" pid="39/8189">Josep Balasch</na></co>
+<co c="0"><na f="b/Baldwin:Brian" pid="74/1917">Brian Baldwin</na></co>
+<co c="0"><na f="b/Bansarkhani:Rachid_El" pid="115/4396">Rachid El Bansarkhani</na></co>
+<co c="0"><na f="b/Barnett:Anthony" pid="180/8006">Anthony Barnett</na></co>
+<co c="0"><na f="b/Barreto:Paulo_S=_L=_M=" pid="62/1810">Paulo S. L. M. Barreto</na></co>
+<co c="-1"><na f="b/Bartkewitz:Timo" pid="15/10596">Timo Bartkewitz</na></co>
+<co c="0"><na f="b/Batina:Lejla" pid="67/1939">Lejla Batina</na></co>
+<co c="0"><na f="b/Becker:Daniela" pid="189/1352">Daniela Becker</na></co>
+<co c="0"><na f="b/Becker:Georg_T=" pid="66/8380">Georg T. Becker</na></co>
+<co c="0"><na f="b/Beeden:K=" pid="180/3782">K. Beeden</na></co>
+<co c="0"><na f="b/Bela=iuml=d:Sonia" pid="130/9405">Sonia Bela&#239;d</na></co>
+<co c="0"><na f="b/Belenky:Yaacov" pid="125/0193">Yaacov Belenky</na></co>
+<co c="0"><na f="b/Bernstein:Daniel_J=" pid="b/DanielJBernstein">Daniel J. Bernstein</na></co>
+<co c="0"><na f="b/Birkner:Peter" pid="38/6165">Peter Birkner</na></co>
+<co c="0"><na f="b/Bischof:Mario" pid="259/7400">Mario Bischof</na></co>
+<co c="0"><na f="b/Borghoff:Julia" pid="09/7423">Julia Borghoff</na></co>
+<co c="0"><na f="b/Bos:Joppe_W=" pid="02/7441">Joppe W. Bos</na></co>
+<co c="0"><na f="b/Boss:Erik" pid="183/5810">Erik Boss</na></co>
+<co c="0"><na f="b/Brannigan:S=eacute=amus" pid="198/8181">S&#233;amus Brannigan</na></co>
+<co c="0"><na f="b/Buchmann_0001:Johannes" pid="b/JohannesBuchmann">Johannes Buchmann 0001</na></co>
+<co c="0"><na f="b/Burleson:Wayne_P=" pid="b/WaynePBurleson">Wayne P. Burleson</na></co>
+<co c="0"><na f="b/Byrne:Andrew" pid="84/165">Andrew Byrne</na></co>
+<co c="0"><na f="c/Canteaut:Anne" pid="56/3453">Anne Canteaut</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chen:Hsieh=Chung" pid="39/8341">Hsieh-Chung Chen</na></co>
+<co c="0"><na f="c/Cheng:Chen=Mou" pid="42/5405">Chen-Mou Cheng</na></co>
+<co c="0" n="2"><na f="c/Cherif:Zouha" pid="44/9861">Zouha Cherif</na><na>Zouha Cherif Jouini</na></co>
+<co c="0"><na f="c/Cheung:Ray_C=_C=" pid="96/2421">Ray C. C. Cheung</na></co>
+<co c="0"><na f="d/Dagdelen:=Ouml=zg=uuml=r" pid="72/8243">&#214;zg&#252;r Dagdelen</na></co>
+<co c="0"><na f="d/Damme:Gauthier_Van" pid="04/7543">Gauthier Van Damme</na></co>
+<co c="0"><na f="d/Das:Kallyan" pid="276/3942">Kallyan Das</na></co>
+<co c="0"><na f="d/Dey:Soumyajit" pid="89/4589">Soumyajit Dey</na></co>
+<co c="0"><na f="d/Dinur:Itai" pid="67/297">Itai Dinur</na></co>
+<co c="0"><na f="d/Drechsler:Rolf" pid="d/RolfDrechsler">Rolf Drechsler</na></co>
+<co c="0"><na f="d/Driessen:Benedikt" pid="50/1428">Benedikt Driessen</na></co>
+<co c="0"><na f="d/Drimer:Saar" pid="54/136">Saar Drimer</na></co>
+<co c="0"><na f="d/Ducas:L=eacute=o" pid="65/7849">L&#233;o Ducas</na></co>
+<co c="0"><na f="d/Duplys:Paul" pid="46/7785">Paul Duplys</na></co>
+<co c="0"><na f="d/Duppmann:Gerd" pid="159/2466">Gerd Duppmann</na></co>
+<co c="0"><na f="d/D=uuml=rmuth:Markus" pid="36/3665">Markus D&#252;rmuth</na></co>
+<co c="0"><na f="e/Ege:Baris" pid="11/8780">Baris Ege</na></co>
+<co c="0"><na f="e/Eisenbarth_0001:Thomas" pid="72/817">Thomas Eisenbarth 0001</na></co>
+<co c="0"><na f="e/Ender:Maik" pid="159/2518">Maik Ender</na></co>
+<co c="0"><na f="f/Fan:Junfeng" pid="36/2152">Junfeng Fan</na></co>
+<co c="0"><na f="f/Fan:Xinxin" pid="06/2888">Xinxin Fan</na></co>
+<co c="0"><na f="f/Fei:Yunsi" pid="67/5667">Yunsi Fei</na></co>
+<co c="0"><na f="f/Feldtkeller:Jakob" pid="271/4519">Jakob Feldtkeller</na></co>
+<co c="0"><na f="f/Fennes:Daniel" pid="276/2134">Daniel Fennes</na></co>
+<co c="0"><na f="f/Fey:G=ouml=rschwin" pid="20/4776">G&#246;rschwin Fey</na></co>
+<co c="0"><na f="f/Fischer:Viktor" pid="59/2926">Viktor Fischer</na></co>
+<co c="0"><na f="g/Gaspar:Lubos" pid="64/8122">Lubos Gaspar</na></co>
+<co c="0"><na f="g/Gehrer:Stefan" pid="167/5658">Stefan Gehrer</na></co>
+<co c="0"><na f="g/G=eacute=rard:Beno=icirc=t" pid="98/7591">Beno&#238;t G&#233;rard</na></co>
+<co c="0"><na f="g/Gong:Zheng" pid="85/5448">Zheng Gong</na></co>
+<co c="0"><na f="g/G=ouml=pfert:Florian" pid="128/5212">Florian G&#246;pfert</na></co>
+<co c="0"><na f="g/Griffin:Robert" pid="84/5291">Robert Griffin</na></co>
+<co c="0"><na f="g/Gro=szlig=e:Daniel" pid="68/758">Daniel Gro&#223;e</na></co>
+<co c="0"><na f="g/Grosso:Vincent" pid="132/0856">Vincent Grosso</na></co>
+<co c="0"><na f="g/Gro=szlig=sch=auml=dl:Johann" pid="g/JGrossschadl">Johann Gro&#223;sch&#228;dl</na></co>
+<co c="0"><na f="g/Guajardo:Jorge" pid="51/3023">Jorge Guajardo</na></co>
+<co c="0"><na f="g/Gueron:Shay" pid="38/1135">Shay Gueron</na></co>
+<co c="0" n="2"><na f="g/Guillaume:Ren=eacute=" pid="160/4945">Ren&#233; Guillaume</na><na>Rene Guillaume</na></co>
+<co c="0"><na f="g/G=uuml=rkaynak:Frank_K=" pid="28/6272">Frank K. G&#252;rkaynak</na></co>
+<co c="0"><na f="h/Handschuh:Helena" pid="28/6334">Helena Handschuh</na></co>
+<co c="0"><na f="h/Hassan:Muhammad" pid="97/9976">Muhammad Hassan</na></co>
+<co c="0"><na f="h/Heberle:Lukas" pid="175/5898">Lukas Heberle</na></co>
+<co c="0"><na f="h/Herdt:Vladimir" pid="130/1375">Vladimir Herdt</na></co>
+<co c="0"><na f="h/Herrewege:Anthony_Van" pid="28/10331">Anthony Van Herrewege</na></co>
+<co c="0"><na f="h/Hettwer:Benjamin" pid="233/4192">Benjamin Hettwer</na></co>
+<co c="0"><na f="h/Heuser:Annelie" pid="68/10491">Annelie Heuser</na></co>
+<co c="0"><na f="h/Heyse:Stefan" pid="95/7252">Stefan Heyse</na></co>
+<co c="0"><na f="h/H=ouml=ltgen:Kira" pid="244/8240">Kira H&#246;ltgen</na></co>
+<co c="0"><na f="h/Horn:Tobias" pid="253/0927">Tobias Horn</na></co>
+<co c="0"><na f="h/Howe:James" pid="163/8680">James Howe</na></co>
+<co c="0"><na f="h/Hu:Jingwei" pid="125/7724">Jingwei Hu</na></co>
+<co c="0"><na f="h/Huth:Christopher" pid="177/2248">Christopher Huth</na></co>
+<co c="0"><na f="i/Indesteege:Sebastiaan" pid="57/2462">Sebastiaan Indesteege</na></co>
+<co c="0"><na f="j/Jones:Glyn" pid="60/403">Glyn Jones</na></co>
+<co c="0"><na f="k/Kasper:Markus" pid="86/7075">Markus Kasper</na></co>
+<co c="0"><na f="k/Kasper:Timo" pid="56/1351">Timo Kasper</na></co>
+<co c="0"><na f="k/Katzenbeisser_0001:Stefan" pid="66/3585-1">Stefan Katzenbeisser 0001</na></co>
+<co c="0"><na f="k/Kavun:Elif_Bilge" pid="00/8569">Elif Bilge Kavun</na></co>
+<co c="0"><na f="k/Keer:Ronny_Van" pid="119/0045">Ronny Van Keer</na></co>
+<co c="0"><na f="k/Kerckhof:St=eacute=phanie" pid="97/9838">St&#233;phanie Kerckhof</na></co>
+<co c="0"><na f="k/Khalid:Ayesha" pid="33/10570">Ayesha Khalid</na></co>
+<co c="0"><na f="k/Kim:Howon" pid="k/HowonKim">Howon Kim</na></co>
+<co c="0"><na f="k/Kleinjung:Thorsten" pid="54/5779">Thorsten Kleinjung</na></co>
+<co c="0"><na f="k/Knechtel:Johann" pid="94/9547">Johann Knechtel</na></co>
+<co c="0"><na f="k/Knezevic:Miroslav" pid="75/6242">Miroslav Knezevic</na></co>
+<co c="0"><na f="k/Knudsen:Lars_R=" pid="k/LarsRKnudsen">Lars R. Knudsen</na></co>
+<co c="0"><na f="k/Koeune:Fran=ccedil=ois" pid="90/3627">Fran&#231;ois Koeune</na></co>
+<co c="0"><na f="k/Krausz:Markus" pid="223/9577">Markus Krausz</na></co>
+<co c="0"><na f="k/Kumar:Sandeep_S=" pid="45/5218">Sandeep S. Kumar</na></co>
+<co c="0"><na f="l/Land:Georg" pid="289/1887">Georg Land</na></co>
+<co c="0"><na f="l/Lange_0001:Tanja" pid="56/2224">Tanja Lange 0001</na></co>
+<co c="0"><na f="l/Leander:Gregor" pid="90/4585">Gregor Leander</na></co>
+<co c="0"><na f="l/Leger:Sebastien" pid="175/4684">Sebastien Leger</na></co>
+<co c="0"><na f="l/Levi:Itamar" pid="119/4177">Itamar Levi</na></co>
+<co c="0"><na f="l/Lin:Lang" pid="70/3072">Lang Lin</na></co>
+<co c="0"><na f="l/Liu_0001:Zhe" pid="70/1220-1">Zhe Liu 0001</na></co>
+<co c="-1"><na f="l/Lomb:Benno" pid="88/10773">Benno Lomb</na></co>
+<co c="0"><na f="l/Lund:David" pid="79/7210">David Lund</na></co>
+<co c="0"><na f="l/L=uuml=th:Christoph" pid="l/CLuth">Christoph L&#252;th</na></co>
+<co c="0"><na f="l/Lyubashevsky:Vadim" pid="25/2540">Vadim Lyubashevsky</na></co>
+<co c="0"><na f="m/Mangard:Stefan" pid="91/4831">Stefan Mangard</na></co>
+<co c="0"><na f="m/Markov:Igor_L=" pid="m/IgorLMarkov">Igor L. Markov</na></co>
+<co c="0"><na f="m/Maurich:Ingo_von" pid="05/10085">Ingo von Maurich</na></co>
+<co c="0"><na f="m/McWilliams:Gavin" pid="131/1662">Gavin McWilliams</na></co>
+<co c="0"><na f="m/Mentens:Nele" pid="23/3870">Nele Mentens</na></co>
+<co c="0"><na f="m/Meulenaer:Giacomo_de" pid="20/5510">Giacomo de Meulenaer</na></co>
+<co c="0"><na f="m/Mischke:Oliver" pid="22/8341">Oliver Mischke</na></co>
+<co c="0"><na f="m/Misoczki:Rafael" pid="31/7507">Rafael Misoczki</na></co>
+<co c="0"><na f="m/M=ouml=ller:Bodo" pid="92/4544">Bodo M&#246;ller</na></co>
+<co c="0"><na f="m/Moradi_0001:Amir" pid="38/3348">Amir Moradi 0001</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Debdeep" pid="85/3079">Debdeep Mukhopadhyay</na></co>
+<co c="0"><na f="n/Nad:Tomislav" pid="99/3563">Tomislav Nad</na></co>
+<co c="0"><na f="n/Neumann:Heike" pid="64/6290">Heike Neumann</na></co>
+<co c="0"><na f="n/Niederhagen:Ruben" pid="62/7604">Ruben Niederhagen</na></co>
+<co c="0"><na f="n/Nikov:Ventzislav" pid="84/5358">Ventzislav Nikov</na></co>
+<co c="0"><na f="n/Novotn=yacute=:Martin" pid="70/1524">Martin Novotn&#253;</na></co>
+<co c="0"><na f="o/Oder:Tobias" pid="130/6474">Tobias Oder</na></co>
+<co c="0"><na f="o/Oldenzeel:Lo=iuml=c_van_Oldeneel_tot" pid="86/6884">Lo&#239;c van Oldeneel tot Oldenzeel</na></co>
+<co c="0"><na f="o/O=Neill:M=aacute=ire" pid="m/MaireMcLoone">M&#225;ire O'Neill</na></co>
+<co c="0"><na f="o/O=Sullivan:Elizabeth" pid="135/8057">Elizabeth O'Sullivan</na></co>
+<co c="0"><na f="o/Oswald:David_F=" pid="190/2073">David F. Oswald</na></co>
+<co c="0"><na f="p/Paar:Christof" pid="p/ChristofPaar">Christof Paar</na></co>
+<co c="0"><na f="p/Paglialonga:Clara" pid="205/0389">Clara Paglialonga</na></co>
+<co c="0"><na f="p/Payer:Mathias" pid="31/1273">Mathias Payer</na></co>
+<co c="0"><na f="p/Pelzl:Jan" pid="34/1982">Jan Pelzl</na></co>
+<co c="0"><na f="p/Perez:Luis_J=_Dominguez" pid="47/7225">Luis J. Dominguez Perez</na></co>
+<co c="0"><na f="p/Persichetti:Edoardo" pid="51/10309">Edoardo Persichetti</na></co>
+<co c="0"><na f="p/Petersen:Johannes" pid="79/3918">Johannes Petersen</na></co>
+<co c="0"><na f="p/Pfeiffer:Gerd" pid="32/1957">Gerd Pfeiffer</na></co>
+<co c="0"><na f="p/Pino:Rafa=euml=l_Del" pid="179/6846">Rafa&#235;l Del Pino</na></co>
+<co c="0"><na f="p/Plos:Thomas" pid="01/5915">Thomas Plos</na></co>
+<co c="0"><na f="p/Plump:Christina" pid="153/1099">Christina Plump</na></co>
+<co c="0"><na f="p/Polian:Ilia" pid="94/4552">Ilia Polian</na></co>
+<co c="0"><na f="p/P=ouml=ppelmann:Thomas" pid="54/10299">Thomas P&#246;ppelmann</na></co>
+<co c="0"><na f="p/P=ouml=pper:Christopher" pid="144/2529">Christopher P&#246;pper</na></co>
+<co c="0"><na f="p/Priplata:Christine" pid="54/585">Christine Priplata</na></co>
+<co c="0" n="2"><na f="r/Rafferty:Ciara" pid="135/8077">Ciara Rafferty</na><na>Ciara Moore</na></co>
+<co c="0"><na f="r/Rechberger:Christian" pid="39/16">Christian Rechberger</na></co>
+<co c="0"><na f="r/Regazzoni_0001:Francesco" pid="31/1489-1">Francesco Regazzoni 0001</na></co>
+<co c="0"><na f="r/Richter=Brockmann:Jan" pid="268/4933">Jan Richter-Brockmann</na></co>
+<co c="0"><na f="r/Rombouts:Peter" pid="118/3348">Peter Rombouts</na></co>
+<co c="0"><na f="r/Roy:Sujoy_Sinha" pid="31/9547">Sujoy Sinha Roy</na></co>
+<co c="0"><na f="r/Rupp:Andy" pid="68/2219">Andy Rupp</na></co>
+<co c="0"><na f="s/Saarinen:Markku=Juhani_O=" pid="86/9795">Markku-Juhani O. Saarinen</na></co>
+<co c="0"><na f="s/Sadeghi:Ahmad=Reza" pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</na></co>
+<co c="0"><na f="s/Samuel:Irin_Ann" pid="189/1716">Irin Ann Samuel</na></co>
+<co c="0"><na f="s/S=aacute=nchez:Ana_Helena" pid="131/3286">Ana Helena S&#225;nchez</na></co>
+<co c="0"><na f="s/Sasdrich:Pascal" pid="144/2489">Pascal Sasdrich</na></co>
+<co c="0"><na f="s/Sch=auml=ge:Sven" pid="04/2350">Sven Sch&#228;ge</na></co>
+<co c="0"><na f="s/Schaumont:Patrick" pid="39/1269">Patrick Schaumont</na></co>
+<co c="0"><na f="s/Schellekens:Dries" pid="60/2938">Dries Schellekens</na></co>
+<co c="0"><na f="s/Schimmler:Manfred" pid="14/676">Manfred Schimmler</na></co>
+<co c="0"><na f="s/Schleiffer:Christian" pid="52/3283">Christian Schleiffer</na></co>
+<co c="0"><na f="s/Schneider_0002:Tobias" pid="55/1116-2">Tobias Schneider 0002</na></co>
+<co c="0"><na f="s/Schwabe:Peter" pid="30/1431">Peter Schwabe</na></co>
+<co c="0"><na f="s/Sendrier:Nicolas" pid="46/5390">Nicolas Sendrier</na></co>
+<co c="0"><na f="s/Seo:Hwajeong" pid="121/4554">Hwajeong Seo</na></co>
+<co c="0"><na f="s/Shamir:Adi" pid="s/AdiShamir">Adi Shamir</na></co>
+<co c="0"><na f="s/Smyth:Neil" pid="69/4148">Neil Smyth</na></co>
+<co c="0"><na f="s/Speith:Julian" pid="234/1389">Julian Speith</na></co>
+<co c="0"><na f="s/Spitz:Stefan" pid="41/6715">Stefan Spitz</na></co>
+<co c="0"><na f="s/Stahlke:Colin" pid="49/4594">Colin Stahlke</na></co>
+<co c="0"><na f="s/Standaert:Fran=ccedil=ois=Xavier" pid="38/2138">Fran&#231;ois-Xavier Standaert</na></co>
+<co c="0"><na f="s/Strohm:Thomas" pid="189/1784">Thomas Strohm</na></co>
+<co c="-1"><na f="s/Szerwinski:Robert" pid="61/5417">Robert Szerwinski</na></co>
+<co c="0"><na f="t/Tessier:Russell" pid="23/2353">Russell Tessier</na></co>
+<co c="0"><na f="t/Thoma:Jan_Philipp" pid="271/4264">Jan Philipp Thoma</na></co>
+<co c="0"><na f="t/Thomsen:S=oslash=ren_S=" pid="42/1971">S&#248;ren S. Thomsen</na></co>
+<co c="0"><na f="t/Tillich:Jean=Pierre" pid="53/7044">Jean-Pierre Tillich</na></co>
+<co c="0"><na f="u/Uhsadel:Leif" pid="04/3628">Leif Uhsadel</na></co>
+<co c="0"><na f="v/Valencia:Felipe" pid="04/10540">Felipe Valencia</na></co>
+<co c="0"><na f="v/Varchola:Michal" pid="38/6057">Michal Varchola</na></co>
+<co c="0"><na f="v/Velmurugan:Kumaragurubaran" pid="190/2076">Kumaragurubaran Velmurugan</na></co>
+<co c="0"><na f="v/Verbauwhede:Ingrid" pid="92/16">Ingrid Verbauwhede</na></co>
+<co c="0"><na f="w/Waller:Adrian" pid="81/7616">Adrian Waller</na></co>
+<co c="0"><na f="w/Weimerskirch:Andr=eacute=" pid="66/788">Andr&#233; Weimerskirch</na></co>
+<co c="0"><na f="w/Weippl:Edgar_R=" pid="w/EdgarRWeippl">Edgar R. Weippl</na></co>
+<co c="0"><na f="w/Wild:Alexander" pid="131/3329">Alexander Wild</na></co>
+<co c="0"><na f="w/Wloka:Jonas" pid="238/8436">Jonas Wloka</na></co>
+<co c="0"><na f="w/W=oacute=jcik:Marcin" pid="58/9687">Marcin W&#243;jcik</na></co>
+<co c="0"><na f="w/Wolf:Marko" pid="54/4202">Marko Wolf</na></co>
+<co c="0"><na f="y/Yal=ccedil=in:Tolga" pid="07/8571">Tolga Yal&#231;in</na></co>
+<co c="0"><na f="y/Yang:Bo=Yin" pid="37/4997">Bo-Yin Yang</na></co>
+<co c="0"><na f="z/Zibuschka:Jan" pid="68/2288">Jan Zibuschka</na></co>
+<co c="0"><na f="z/Zimmermann_0001:Ralf" pid="47/8769-1">Ralf Zimmermann 0001</na></co>
+</coauthors>
+</dblpperson>
+

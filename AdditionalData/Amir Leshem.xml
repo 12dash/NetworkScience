@@ -1,3 +1,2736 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:076078158298b8c5ec904cb51713acf07776a95c2297db2e9f384e2a0f4ae37e
-size 119070
+<?xml version="1.0"?>
+<dblpperson name="Amir Leshem" pid="84/3398" n="202">
+<person key="homepages/84/3398" mdate="2009-06-10">
+<author pid="84/3398">Amir Leshem</author>
+</person>
+<r><article key="journals/mor/BistritzL21" mdate="2021-04-09">
+<author orcid="0000-0002-4120-8292" pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Game of Thrones: Fully Distributed Learning for Multiplayer Bandits.</title>
+<pages>159-178</pages>
+<year>2021</year>
+<volume>46</volume>
+<journal>Math. Oper. Res.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1287/moor.2020.1051</ee>
+<url>db/journals/mor/mor46.html#BistritzL21</url>
+</article>
+</r>
+<r><article key="journals/tsp/YeminiLS21" mdate="2021-03-23">
+<author orcid="0000-0002-2087-1183" pid="142/2496">Michal Yemini</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<title>The Restless Hidden Markov Bandit With Linear Rewards and Side Information.</title>
+<pages>1108-1123</pages>
+<year>2021</year>
+<volume>69</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<ee>https://doi.org/10.1109/TSP.2021.3054344</ee>
+<url>db/journals/tsp/tsp69.html#YeminiLS21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-15901" mdate="2021-04-07">
+<author pid="289/1206">Tomer Boyarski</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="01/1516">Vikram Krishnamurthy</author>
+<title>Distributed learning in congested environments with partial information.</title>
+<year>2021</year>
+<volume>abs/2103.15901</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.15901</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-15901</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-02059" mdate="2021-04-13">
+<author pid="123/9550">Pranav M. Pawar</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Distributed Deep Reinforcement Learning for Collaborative Spectrum Sharing.</title>
+<year>2021</year>
+<volume>abs/2104.02059</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.02059</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-02059</url>
+</article>
+</r>
+<r><article key="journals/tsp/AntmanL20" mdate="2020-12-29">
+<author pid="226/5891">Avishay Antman</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Radio Transient Detection in Radio Astronomical Arrays.</title>
+<pages>5648-5663</pages>
+<year>2020</year>
+<volume>68</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<ee>https://doi.org/10.1109/TSP.2020.3022826</ee>
+<url>db/journals/tsp/tsp68.html#AntmanL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/KangXNCL20" mdate="2021-04-09">
+<author pid="145/4239">Jiawen Kang</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="178/8621">Zhiguang Cao</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Training Task Allocation in Federated Edge Learning: A Matching-Theoretic Approach.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC46108.2020.9045112</ee>
+<crossref>conf/ccnc/2020</crossref>
+<url>db/conf/ccnc/ccnc2020.html#KangXNCL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdc/YeminiLS20" mdate="2021-04-09">
+<author pid="142/2496">Michal Yemini</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<title>Restless Hidden Markov Bandit with Linear Rewards.</title>
+<pages>1183-1189</pages>
+<year>2020</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC42340.2020.9304511</ee>
+<crossref>conf/cdc/2020</crossref>
+<url>db/conf/cdc/cdc2020.html#YeminiLS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/ErezL20" mdate="2020-07-23">
+<author pid="03/3440">Uri Erez</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Eliminating Out-Of-Cell Interference in Cellular Massive Mimo with a Single Additional Transceiver.</title>
+<pages>5185-5189</pages>
+<year>2020</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP40776.2020.9053293</ee>
+<crossref>conf/icassp/2020</crossref>
+<url>db/conf/icassp/icassp2020.html#ErezL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/HadarL20" mdate="2020-07-23">
+<author pid="270/4213">Ido Hadar</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Joint Scheduling and Beamforming for Delay Sensitive Traffic with Priorities and Deadlines.</title>
+<pages>5285-5289</pages>
+<year>2020</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP40776.2020.9054210</ee>
+<crossref>conf/icassp/2020</crossref>
+<url>db/conf/icassp/icassp2020.html#HadarL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BistritzBLB20" mdate="2020-12-15">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="242/8888">Tavor Z. Baharav</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="b/NicholasBambos">Nicholas Bambos</author>
+<title>My Fair Bandit: Distributed Learning of Max-Min Fairness with Multi-player Bandits.</title>
+<pages>930-940</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/bistritz20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#BistritzBLB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/AshkenaziGL20" mdate="2021-04-09">
+<author pid="249/2322">Yagel Ashkenazi</author>
+<author pid="88/8575">Ran Gelles</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Brief Announcement: Noisy Beeping Networks.</title>
+<pages>458-460</pages>
+<year>2020</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/3382734.3405705</ee>
+<crossref>conf/podc/2020</crossref>
+<url>db/conf/podc/podc2020.html#AshkenaziGL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-09808" mdate="2020-03-03">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="242/8888">Tavor Z. Baharav</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="b/NicholasBambos">Nicholas Bambos</author>
+<title>My Fair Bandit: Distributed Learning of Max-Min Fairness with Multi-player Bandits.</title>
+<year>2020</year>
+<volume>abs/2002.09808</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.09808</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-09808</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-13314" mdate="2020-04-01">
+<author pid="28/4847-4">Wenbo Wang 0004</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="83/514">Zhu Han</author>
+<title>Decentralized Learning for Channel Allocation in IoT Networks over Unlicensed Bandwidth as a Contextual Multi-player Multi-armed Bandit Game.</title>
+<year>2020</year>
+<volume>abs/2003.13314</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.13314</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-13314</url>
+</article>
+</r>
+<r><article key="journals/dsp/ZafaruddinBL19" mdate="2021-04-09">
+<author pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="80/2551">Itsik Bergel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Asymptotic performance of ZF and MMSE crosstalk cancelers for DSL systems.</title>
+<pages>182-196</pages>
+<year>2019</year>
+<volume>88</volume>
+<journal>Digit. Signal Process.</journal>
+<ee>https://doi.org/10.1016/j.dsp.2019.02.007</ee>
+<url>db/journals/dsp/dsp88.html#ZafaruddinBL19</url>
+</article>
+</r>
+<r><article key="journals/fi/RavivL19" mdate="2019-09-23">
+<author orcid="0000-0001-7526-7357" pid="24/6775">Li-on Raviv</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Scheduling for Multi-User Multi-Input Multi-Output Wireless Networks with Priorities and Deadlines.</title>
+<pages>172</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>Future Internet</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.3390/fi11080172</ee>
+<url>db/journals/fi/fi11.html#RavivL19</url>
+</article>
+</r>
+<r><article key="journals/jsac/ZafaruddinBLN19" mdate="2020-04-02">
+<author orcid="0000-0002-6018-3369" pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author orcid="0000-0002-4120-8292" pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Distributed Learning for Channel Allocation Over a Shared Spectrum.</title>
+<pages>2337-2349</pages>
+<year>2019</year>
+<volume>37</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/JSAC.2019.2933966</ee>
+<url>db/journals/jsac/jsac37.html#ZafaruddinBLN19</url>
+</article>
+</r>
+<r><article key="journals/tgcn/NaparstekZLJ19" mdate="2020-06-18">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0002-6018-3369" pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0001-7893-8435" pid="20/4825">Eduard A. Jorswieck</author>
+<title>Distributed Energy Efficient Channel Allocation.</title>
+<pages>1152-1166</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>IEEE Trans. Green Commun. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TGCN.2019.2934868</ee>
+<url>db/journals/tgcn/tgcn3.html#NaparstekZLJ19</url>
+</article>
+</r>
+<r><article key="journals/tit/BistritzL19" mdate="2021-04-09">
+<author orcid="0000-0002-4120-8292" pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Game Theoretic Dynamic Channel Allocation for Frequency-Selective Interference Channels.</title>
+<pages>330-353</pages>
+<year>2019</year>
+<volume>65</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TIT.2018.2868440</ee>
+<url>db/journals/tit/tit65.html#BistritzL19</url>
+</article>
+</r>
+<r><article key="journals/tit/YeminiSCL19" mdate="2020-03-10">
+<author orcid="0000-0002-2087-1183" pid="142/2496">Michal Yemini</author>
+<author orcid="0000-0002-3839-6317" pid="00/2902">Anelia Somekh-Baruch</author>
+<author orcid="0000-0001-8788-2189" pid="17/6007">Reuven Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>The Simultaneous Connectivity of Cognitive Networks.</title>
+<pages>6911-6930</pages>
+<year>2019</year>
+<volume>65</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIT.2019.2927479</ee>
+<url>db/journals/tit/tit65.html#YeminiSCL19</url>
+</article>
+</r>
+<r><article key="journals/tsp/WaiSBL19" mdate="2020-03-10">
+<author orcid="0000-0003-4796-4483" pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0001-8862-4384" pid="165/3192">Baruch Barzel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Joint Network Topology and Dynamics Recovery From Perturbed Stationary Points.</title>
+<pages>4582-4596</pages>
+<year>2019</year>
+<volume>67</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1109/TSP.2019.2929471</ee>
+<url>db/journals/tsp/tsp67.html#WaiSBL19</url>
+</article>
+</r>
+<r><article key="journals/twc/BistritzL19" mdate="2021-04-09">
+<author orcid="0000-0002-4120-8292" pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Asymptotically Optimal Resource Block Allocation With Limited Feedback.</title>
+<pages>34-46</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TWC.2018.2875706</ee>
+<url>db/journals/twc/twc18.html#BistritzL19</url>
+</article>
+</r>
+<r><article key="journals/twc/XiongFNWLH19" mdate="2020-09-06">
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author orcid="0000-0002-8193-466X" pid="199/1893">Shaohan Feng</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-1599-5480" pid="37/1304-1">Ping Wang 0001</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="83/514">Zhu Han</author>
+<title>Joint Sponsored and Edge Caching Content Service Market: A Game-Theoretic Approach.</title>
+<pages>1166-1181</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TWC.2018.2890469</ee>
+<url>db/journals/twc/twc18.html#XiongFNWLH19</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsw/ShalomLS19" mdate="2021-04-09">
+<author pid="244/9035">Or Shalom</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="61/1706">Anna Scaglione</author>
+<title>Localization of Data Injection Attacks on Distributed M-Estimation.</title>
+<pages>22-26</pages>
+<year>2019</year>
+<booktitle>DSW</booktitle>
+<ee>https://doi.org/10.1109/DSW.2019.8755572</ee>
+<crossref>conf/dsw/2019</crossref>
+<url>db/conf/dsw/dsw2019.html#ShalomLS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsw/KrikheliL19" mdate="2021-04-09">
+<author pid="184/9238">Michael Krikheli</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Lfinite Sample Bounds on the Performance of Weighted Linear Least Squares in Sub-Gaussian Correlated Noise.</title>
+<pages>110-114</pages>
+<year>2019</year>
+<booktitle>DSW</booktitle>
+<ee>https://doi.org/10.1109/DSW.2019.8755574</ee>
+<crossref>conf/dsw/2019</crossref>
+<url>db/conf/dsw/dsw2019.html#KrikheliL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/LeshemE19" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="03/3440">Uri Erez</author>
+<title>Ergodic Spatial Nulling for Achieving Interference Free Rates.</title>
+<pages>1292-1296</pages>
+<year>2019</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2019.8849495</ee>
+<crossref>conf/isit/2019</crossref>
+<url>db/conf/isit/isit2019.html#LeshemE19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spawc/PlachyBZL19" mdate="2019-09-04">
+<author pid="150/6749">Jan Plachy</author>
+<author pid="95/4833">Zdenek Becvar</author>
+<author pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Nash Bargaining Solution for Cooperative Relaying Exploiting Energy Consumption.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>SPAWC</booktitle>
+<ee>https://doi.org/10.1109/SPAWC.2019.8815520</ee>
+<crossref>conf/spawc/2019</crossref>
+<url>db/conf/spawc/spawc2019.html#PlachyBZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spawc/ZafaruddinBLN19" mdate="2021-04-09">
+<author pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Multiagent Autonomous Learning for Distributed Channel Allocation in Wireless Networks.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>SPAWC</booktitle>
+<ee>https://doi.org/10.1109/SPAWC.2019.8815567</ee>
+<crossref>conf/spawc/2019</crossref>
+<url>db/conf/spawc/spawc2019.html#ZafaruddinBLN19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-11452" mdate="2019-02-04">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="03/3440">Uri Erez</author>
+<title>The Interference Channel Revisited: Eliminating Interference with a Two Antenna Receiver.</title>
+<year>2019</year>
+<volume>abs/1901.11452</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.11452</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-11452</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-06353" mdate="2019-09-04">
+<author pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Distributed Learning for Channel Allocation Over a Shared Spectrum.</title>
+<year>2019</year>
+<volume>abs/1902.06353</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.06353</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-06353</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-06811" mdate="2019-09-23">
+<author pid="249/2322">Yagel Ashkenazi</author>
+<author pid="88/8575">Ran Gelles</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Noisy Beeping Networks.</title>
+<year>2019</year>
+<volume>abs/1909.06811</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.06811</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-06811</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-10271" mdate="2019-10-25">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<title>Restless Hidden Markov Bandits with Linear Rewards.</title>
+<year>2019</year>
+<volume>abs/1910.10271</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.10271</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-10271</url>
+</article>
+</r>
+<r><article key="journals/tac/BistritzL18" mdate="2020-05-20">
+<author orcid="0000-0002-4120-8292" pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Approximate Best-Response Dynamics in Random Interference Games.</title>
+<pages>1459-1472</pages>
+<year>2018</year>
+<volume>63</volume>
+<journal>IEEE Trans. Autom. Control.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TAC.2017.2749139</ee>
+<url>db/journals/tac/tac63.html#BistritzL18</url>
+</article>
+</r>
+<r><article key="journals/tit/Somekh-BaruchLS18" mdate="2021-04-09">
+<author orcid="0000-0002-3839-6317" pid="00/2902">Anelia Somekh-Baruch</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0002-0675-2268" pid="67/4721">Venkatesh Saligrama</author>
+<title>On the Non-Existence of Unbiased Estimators in Constrained Estimation Problems.</title>
+<pages>5549-5554</pages>
+<year>2018</year>
+<volume>64</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TIT.2017.2731845</ee>
+<url>db/journals/tit/tit64.html#Somekh-BaruchLS18</url>
+</article>
+</r>
+<r><article key="journals/ton/RavivL18" mdate="2018-11-02">
+<author orcid="0000-0001-7526-7357" pid="24/6775">Li-on Raviv</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Maximizing Service Reward for Queues With Deadlines.</title>
+<pages>2296-2308</pages>
+<year>2018</year>
+<volume>26</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>5</number>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TNET.2018.2867815</ee>
+<url>db/journals/ton/ton26.html#RavivL18</url>
+</article>
+</r>
+<r><article key="journals/tsipn/LeshemS18" mdate="2020-05-11">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="61/1706">Anna Scaglione</author>
+<title>The Impact of Random Actions on Opinion Dynamics.</title>
+<pages>576-584</pages>
+<year>2018</year>
+<volume>4</volume>
+<journal>IEEE Trans. Signal Inf. Process. over Networks</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSIPN.2018.2797800</ee>
+<url>db/journals/tsipn/tsipn4.html#LeshemS18</url>
+</article>
+</r>
+<r><article key="journals/tsp/CohenL18" mdate="2020-03-10">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Spectrum and Energy Efficient Multiple Access for Detection in Wireless Sensor Networks.</title>
+<pages>5988-6001</pages>
+<year>2018</year>
+<volume>66</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>22</number>
+<ee>https://doi.org/10.1109/TSP.2018.2873512</ee>
+<url>db/journals/tsp/tsp66.html#CohenL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudnet/FengXNWL18" mdate="2021-04-09">
+<author pid="199/1893">Shaohan Feng</author>
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Evolving Risk Management Against Advanced Persistent Threats in Fog Computing.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet.2018.8549403</ee>
+<crossref>conf/cloudnet/2018</crossref>
+<url>db/conf/cloudnet/cloudnet2018.html#FengXNWL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsw/WaiSBL18" mdate="2021-04-09">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author pid="165/3192">Baruch Barzel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Network Inference from Complex Systems Steady States Observations: Theory and Methods.</title>
+<pages>155-159</pages>
+<year>2018</year>
+<booktitle>DSW</booktitle>
+<ee>https://doi.org/10.1109/DSW.2018.8439896</ee>
+<crossref>conf/dsw/2018</crossref>
+<url>db/conf/dsw/dsw2018.html#WaiSBL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/XiongFNWLZ18" mdate="2020-06-15">
+<author orcid="0000-0002-4440-941X" pid="174/9863">Zehui Xiong</author>
+<author pid="199/1893">Shaohan Feng</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<title>Game Theoretic Analysis for Joint Sponsored and Edge Caching Content Service Market.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2018.8647436</ee>
+<crossref>conf/globecom/2018</crossref>
+<url>db/conf/globecom/globecom2018.html#XiongFNWLZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/AntmanL18" mdate="2021-04-09">
+<author pid="226/5891">Avishay Antman</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Radio Transient Detection in Radio Astronomical Arrays.</title>
+<pages>3439-3443</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462445</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#AntmanL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WuWSNL18" mdate="2021-04-09">
+<author pid="89/7909">Sissi Xiaoxiao Wu</author>
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author pid="99/5262">Angelia Nedic</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Data Injection Attack on Decentralized Optimization.</title>
+<pages>3644-3648</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462528</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#WuWSNL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/KrikheliL18" mdate="2021-04-09">
+<author pid="184/9238">Michael Krikheli</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Finite Sample Performance of Linear Least Squares Estimators Under Sub-Gaussian Martingale Difference Noise.</title>
+<pages>4444-4448</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462053</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#KrikheliL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/0004NWL18" mdate="2019-09-25">
+<author pid="28/4847-4">Wenbo Wang 0004</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2018.8422547</ee>
+<crossref>conf/icc/2018</crossref>
+<url>db/conf/icc/icc2018.html#0004NWL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/CohenL18" mdate="2021-04-09">
+<author pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Density-Based Multiple Access for Detection in Wireless Sensor Networks.</title>
+<pages>776-780</pages>
+<year>2018</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2018.8437480</ee>
+<crossref>conf/isit/2018</crossref>
+<url>db/conf/isit/isit2018.html#CohenL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BistritzL18" mdate="2021-01-21">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Distributed Multi-Player Bandits - a Game of Thrones Approach.</title>
+<pages>7222-7232</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/c2964caac096f26db222cb325aa267cb-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7952-distributed-multi-player-bandits-a-game-of-thrones-approach</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#BistritzL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/BistritzL18" mdate="2021-04-09">
+<author pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Efficient and asymptotically optimal resource block allocation.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2018.8376960</ee>
+<crossref>conf/wcnc/2018</crossref>
+<url>db/conf/wcnc/wcnc2018.html#BistritzL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/MachBL18" mdate="2021-04-09">
+<author pid="83/2558">Pavel Mach</author>
+<author pid="95/4833">Zdenek Becvar</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Hybrid spectrum sharing for cognitive small cells.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2018.8376983</ee>
+<crossref>conf/wcnc/2018</crossref>
+<url>db/conf/wcnc/wcnc2018.html#MachBL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-07604" mdate="2018-08-13">
+<author pid="28/4847-4">Wenbo Wang 0004</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective.</title>
+<year>2018</year>
+<volume>abs/1801.07604</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.07604</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-07604</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-00969" mdate="2019-09-04">
+<author pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="150/6749">Jan Plachy</author>
+<author pid="95/4833">Zdenek Becvar</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Energy Efficiency of Opportunistic Device-to-Device Relaying Under Lognormal Shadowing.</title>
+<year>2018</year>
+<volume>abs/1803.00969</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.00969</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-00969</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-11681" mdate="2018-08-13">
+<author pid="24/6775">Li-on Raviv</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Maximizing Service Reward for Queues with Deadlines.</title>
+<year>2018</year>
+<volume>abs/1805.11681</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.11681</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-11681</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-04067" mdate="2019-09-26">
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="199/1893">Shaohan Feng</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<title>Game Theoretic Analysis for Joint Sponsored and Edge Caching Content Service Market.</title>
+<year>2018</year>
+<volume>abs/1808.04067</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.04067</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-04067</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-08468" mdate="2018-10-05">
+<author pid="61/8056">Kobi Cohen</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Spectrum and Energy Efficient Multiple Access for Detection in Wireless Sensor Networks.</title>
+<year>2018</year>
+<volume>abs/1809.08468</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.08468</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-08468</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-11162" mdate="2018-10-31">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Distributed Multi-Player Bandits - a Game of Thrones Approach.</title>
+<year>2018</year>
+<volume>abs/1810.11162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.11162</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-11162</url>
+</article>
+</r>
+<r><article key="journals/dsp/GispanLB17" mdate="2020-02-20">
+<author pid="204/7068">Liran Gispan</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="77/4298">Yair Be'ery</author>
+<title>Decentralized estimation of regression coefficients in sensor networks.</title>
+<pages>16-23</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>Digit. Signal Process.</journal>
+<ee>https://doi.org/10.1016/j.dsp.2017.05.005</ee>
+<url>db/journals/dsp/dsp68.html#GispanLB17</url>
+</article>
+</r>
+<r><article key="journals/jfi/NoamLM17" mdate="2020-02-24">
+<author pid="46/767">Yair Noam</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="m/HagitMesser">Hagit Messer</author>
+<title>Robust spectrum management with incomplete information over fading channels.</title>
+<pages>1066-1086</pages>
+<year>2017</year>
+<volume>354</volume>
+<journal>J. Frankl. Inst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.jfranklin.2016.10.026</ee>
+<url>db/journals/jfi/jfi354.html#NoamLM17</url>
+</article>
+</r>
+<r><article key="journals/spl/YeminiZJL17" mdate="2017-09-16">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="40/7118">Alessio Zappone</author>
+<author pid="20/4825">Eduard A. Jorswieck</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Energy Efficient Bidirectional Massive MIMO Relay Beamforming.</title>
+<pages>1010-1014</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/LSP.2017.2703864</ee>
+<url>db/journals/spl/spl24.html#YeminiZJL17</url>
+</article>
+</r>
+<r><article key="journals/spm/ZafaruddinBL17" mdate="2019-09-04">
+<author orcid="0000-0002-6018-3369" pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="80/2551">Itsik Bergel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Signal Processing for Gigabit-Rate Wireline Communications: An Overview of the State of the Art and Research Challenges.</title>
+<pages>141-164</pages>
+<year>2017</year>
+<volume>34</volume>
+<journal>IEEE Signal Process. Mag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MSP.2017.2712824</ee>
+<url>db/journals/spm/spm34.html#ZafaruddinBL17</url>
+</article>
+</r>
+<r><article key="journals/tsp/LeshemY17" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="142/2496">Michal Yemini</author>
+<title>Phase Noise Compensation for OFDM Systems.</title>
+<pages>5675-5686</pages>
+<year>2017</year>
+<volume>65</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>21</number>
+<ee>https://doi.org/10.1109/TSP.2017.2740165</ee>
+<url>db/journals/tsp/tsp65.html#LeshemY17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/BistritzL17" mdate="2021-04-09">
+<author pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Game theoretic resource allocation form-dependent channels with application to OFDMA.</title>
+<pages>4316-4320</pages>
+<year>2017</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2017.7952971</ee>
+<crossref>conf/icassp/2017</crossref>
+<url>db/conf/icassp/icassp2017.html#BistritzL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LeshemS17" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="61/1706">Anna Scaglione</author>
+<title>The impact of random actions on opinion dynamics.</title>
+<year>2017</year>
+<volume>abs/1704.01660</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.01660</ee>
+<url>db/journals/corr/corr1704.html#LeshemS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BistritzL17" mdate="2018-08-13">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Game Theoretic Dynamic Channel Allocation for Frequency-Selective Interference Channels.</title>
+<year>2017</year>
+<volume>abs/1705.02957</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.02957</ee>
+<url>db/journals/corr/corr1705.html#BistritzL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZankoBL17" mdate="2018-08-13">
+<author pid="12/7662">Avi Zanko</author>
+<author pid="80/2551">Itsik Bergel</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Deep-LMS for gigabit transmission over unshielded twisted pair cables.</title>
+<year>2017</year>
+<volume>abs/1705.10459</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.10459</ee>
+<url>db/journals/corr/corr1705.html#ZankoBL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZafaruddinBL17" mdate="2019-09-04">
+<author pid="98/11066">Syed Mohammad Zafaruddin</author>
+<author pid="80/2551">Itsik Bergel</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Signal Processing for Gigabit-Rate Wireline Communications.</title>
+<year>2017</year>
+<volume>abs/1706.03538</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.03538</ee>
+<url>db/journals/corr/corr1706.html#ZafaruddinBL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BistritzL17a" mdate="2018-08-13">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Approximate Best-Response Dynamics in Random Interference Games.</title>
+<year>2017</year>
+<volume>abs/1706.05081</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05081</ee>
+<url>db/journals/corr/corr1706.html#BistritzL17a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-05443" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="142/2496">Michal Yemini</author>
+<title>Phase Noise Compensation for OFDM Systems.</title>
+<year>2017</year>
+<volume>abs/1708.05443</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.05443</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-05443</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-07617" mdate="2018-08-13">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Asymptotically Optimal Resource Block Allocation With Limited Feedback.</title>
+<year>2017</year>
+<volume>abs/1710.07617</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.07617</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-07617</url>
+</article>
+</r>
+<r><article key="journals/jsac/ZapponeJL16" mdate="2021-04-09">
+<author pid="40/7118">Alessio Zappone</author>
+<author orcid="0000-0001-7893-8435" pid="20/4825">Eduard A. Jorswieck</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Distributed Resource Allocation for Energy Efficiency in MIMO OFDMA Wireless Networks.</title>
+<pages>3451-3465</pages>
+<year>2016</year>
+<volume>34</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/JSAC.2016.2621379</ee>
+<url>db/journals/jsac/jsac34.html#ZapponeJL16</url>
+</article>
+</r>
+<r><article key="journals/rsa/NaparstekL16" mdate="2021-04-09">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Expected time complexity of the auction algorithm and the push relabel algorithm for maximum bipartite matching on random graphs.</title>
+<pages>384-395</pages>
+<year>2016</year>
+<volume>48</volume>
+<journal>Random Struct. Algorithms</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/rsa.20578</ee>
+<url>db/journals/rsa/rsa48.html#NaparstekL16</url>
+</article>
+</r>
+<r><article key="journals/tit/YeminiSL16" mdate="2021-04-09">
+<author orcid="0000-0002-2087-1183" pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>On the Multiple Access Channel With Asynchronous Cognition.</title>
+<pages>5643-5663</pages>
+<year>2016</year>
+<volume>62</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TIT.2016.2601601</ee>
+<url>db/journals/tit/tit62.html#YeminiSL16</url>
+</article>
+</r>
+<r><article key="journals/ton/CohenL16" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Distributed Game-Theoretic Optimization and Management of Multichannel ALOHA Networks.</title>
+<pages>1718-1731</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNET.2015.2431121</ee>
+<url>db/journals/ton/ton24.html#CohenL16</url>
+</article>
+</r>
+<r><article key="journals/tsipn/WaiSL16" mdate="2021-04-09">
+<author orcid="0000-0003-4796-4483" pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Active Sensing of Social Networks.</title>
+<pages>406-419</pages>
+<year>2016</year>
+<volume>2</volume>
+<journal>IEEE Trans. Signal Inf. Process. over Networks</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSIPN.2016.2555785</ee>
+<url>db/journals/tsipn/tsipn2.html#WaiSL16</url>
+</article>
+</r>
+<r><article key="journals/tsipn/GentzWWSL16" mdate="2021-04-09">
+<author pid="157/1241">Reinhard Gentz</author>
+<author pid="89/7909">Sissi Xiaoxiao Wu</author>
+<author orcid="0000-0003-4796-4483" pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Data Injection Attacks in Randomized Gossiping.</title>
+<pages>523-538</pages>
+<year>2016</year>
+<volume>2</volume>
+<journal>IEEE Trans. Signal Inf. Process. over Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSIPN.2016.2614898</ee>
+<url>db/journals/tsipn/tsipn2.html#GentzWWSL16</url>
+</article>
+</r>
+<r><article key="journals/tsp/ZankoLZ16" mdate="2021-04-09">
+<author pid="12/7662">Avi Zanko</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Robust Turbo Analog Error Correcting Codes Based on Analog CRC Verification.</title>
+<pages>757-770</pages>
+<year>2016</year>
+<volume>64</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSP.2015.2491879</ee>
+<url>db/journals/tsp/tsp64.html#ZankoLZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cdc/BistritzL16" mdate="2021-04-09">
+<author pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Convergence of approximate best-response dynamics in interference games.</title>
+<pages>4433-4438</pages>
+<year>2016</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2016.7798942</ee>
+<crossref>conf/cdc/2016</crossref>
+<url>db/conf/cdc/cdc2016.html#BistritzL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/ZankoBL16" mdate="2021-04-09">
+<author pid="12/7662">Avi Zanko</author>
+<author pid="80/2551">Itsik Bergel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Gigabit DSL: A deep-LMS approach.</title>
+<pages>300-304</pages>
+<year>2016</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://doi.org/10.1109/EUSIPCO.2016.7760258</ee>
+<crossref>conf/eusipco/2016</crossref>
+<url>db/conf/eusipco/eusipco2016.html#ZankoBL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/HeimannLZW16" mdate="2021-04-09">
+<author pid="180/2925">Ron Heimann</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<author pid="57/6984">Anthony J. Weiss</author>
+<title>Non-asymptotic performance bounds of eigenvalue based detection of signals in non-Gaussian noise.</title>
+<pages>2936-2940</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2016.7472215</ee>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#HeimannLZW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WaiSL16" mdate="2021-04-09">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Active online learning of trusts in social networks.</title>
+<pages>4139-4143</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2016.7472456</ee>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#WaiSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/HanawalLS16" mdate="2021-04-09">
+<author pid="214/7112">Manjesh Kumar Hanawal</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0002-0675-2268" pid="67/4721">Venkatesh Saligrama</author>
+<title>Efficient algorithms for linear polyhedral bandits.</title>
+<pages>4796-4800</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2016.7472588</ee>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#HanawalLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeesam/ZapponeJL16" mdate="2021-04-09">
+<author pid="40/7118">Alessio Zappone</author>
+<author orcid="0000-0001-7893-8435" pid="20/4825">Eduard A. Jorswieck</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Distributed fractional programming in matched multiple access channels.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>SAM</booktitle>
+<ee>https://doi.org/10.1109/SAM.2016.7569619</ee>
+<crossref>conf/ieeesam/2016</crossref>
+<url>db/conf/ieeesam/sam2016.html#ZapponeJL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/YeminiSCL16" mdate="2021-04-09">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author orcid="0000-0001-8788-2189" pid="17/6007">Reuven Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Simultaneous connectivity in heterogeneous cognitive radio networks.</title>
+<pages>1262-1266</pages>
+<year>2016</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2016.7541501</ee>
+<crossref>conf/isit/2016</crossref>
+<url>db/conf/isit/isit2016.html#YeminiSCL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssp/KrikheliL16" mdate="2021-04-09">
+<author pid="184/9238">Michael Krikheli</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Finite sample performance of least squares estimation in sub-Gaussian noise.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>SSP</booktitle>
+<ee>https://doi.org/10.1109/SSP.2016.7551710</ee>
+<crossref>conf/ssp/2016</crossref>
+<url>db/conf/ssp/ssp2016.html#KrikheliL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsa/ZapponeJL16" mdate="2017-06-19">
+<author pid="40/7118">Alessio Zappone</author>
+<author pid="20/4825">Eduard A. Jorswieck</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Distributed Assignment and Resource Allocation for Energy Efficiency in MIMO Wireless Networks.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>WSA</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7499120/</ee>
+<crossref>conf/wsa/2016</crossref>
+<url>db/conf/wsa/wsa2016.html#ZapponeJL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YeminiSCL16" mdate="2018-08-13">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author pid="17/6007">Reuven Cohen</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>On Simultaneous Percolation with Two Disk Types.</title>
+<year>2016</year>
+<volume>abs/1601.04471</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.04471</ee>
+<url>db/journals/corr/corr1601.html#YeminiSCL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WaiSL16" mdate="2018-08-13">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Active Sensing of Social Networks.</title>
+<year>2016</year>
+<volume>abs/1601.05834</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.05834</ee>
+<url>db/journals/corr/corr1601.html#WaiSL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BistritzL16" mdate="2018-08-13">
+<author pid="177/9289">Ilai Bistritz</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Asymptotically Optimal Distributed Channel Allocation: a Competitive Game-Theoretic Approach.</title>
+<year>2016</year>
+<volume>abs/1603.03956</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.03956</ee>
+<url>db/journals/corr/corr1603.html#BistritzL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Somekh-BaruchLS16" mdate="2018-08-13">
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="67/4721">Venkatesh Saligrama</author>
+<title>On the Non-Existence of Unbiased Estimators in Constrained Estimation Problems.</title>
+<year>2016</year>
+<volume>abs/1609.07415</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.07415</ee>
+<url>db/journals/corr/corr1609.html#Somekh-BaruchLS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WaiSHBL16" mdate="2018-08-13">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author pid="192/1384">Uzi Harush</author>
+<author pid="165/3192">Baruch Barzel</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>RIDS: Robust Identification of Sparse Gene Regulatory Networks from Perturbation Experiments.</title>
+<year>2016</year>
+<volume>abs/1612.06565</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.06565</ee>
+<url>db/journals/corr/corr1612.html#WaiSHBL16</url>
+</article>
+</r>
+<r><article key="journals/mssp/CaoWL15" mdate="2020-07-03">
+<author pid="15/2905">Hui Cao</author>
+<author pid="44/3311">Yuntao Wu</author>
+<author pid="84/3398">Amir Leshem</author>
+<title><i>R</i>-D Frequency estimation of multidimensional sinusoids based on eigenvalues and eigenvectors.</title>
+<pages>777-786</pages>
+<year>2015</year>
+<volume>26</volume>
+<journal>Multidimens. Syst. Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11045-014-0277-4</ee>
+<url>db/journals/mssp/mssp26.html#CaoWL15</url>
+</article>
+</r>
+<r><article key="journals/taslp/WuLJL15" mdate="2021-04-09">
+<author pid="44/3311">Yuntao Wu</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0001-6023-8270" pid="93/9878">Jesper Rindom Jensen</author>
+<author pid="27/4840">Guisheng Liao</author>
+<title>Joint Pitch and DOA Estimation Using the ESPRIT Method.</title>
+<pages>32-45</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>IEEE ACM Trans. Audio Speech Lang. Process.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1109/TASLP.2014.2367817</ee>
+<url>db/journals/taslp/taslp23.html#WuLJL15</url>
+</article>
+</r>
+<r><article key="journals/tit/YeminiSL15" mdate="2021-04-09">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Asynchronous Transmission Over Single-User State-Dependent Channels.</title>
+<pages>5854-5867</pages>
+<year>2015</year>
+<volume>61</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIT.2015.2476477</ee>
+<url>db/journals/tit/tit61.html#YeminiSL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acssc/GentzWSL15" mdate="2021-04-09">
+<author pid="157/1241">Reinhard Gentz</author>
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Detection of data injection attacks in decentralized learning.</title>
+<pages>350-354</pages>
+<year>2015</year>
+<booktitle>ACSSC</booktitle>
+<ee>https://doi.org/10.1109/ACSSC.2015.7421145</ee>
+<crossref>conf/acssc/2015</crossref>
+<url>db/conf/acssc/acssc2015.html#GentzWSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/allerton/WaiSL15" mdate="2021-04-09">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Identifying trust in social networks with stubborn agents, with application to market decisions.</title>
+<pages>747-754</pages>
+<year>2015</year>
+<booktitle>Allerton</booktitle>
+<ee>https://doi.org/10.1109/ALLERTON.2015.7447081</ee>
+<crossref>conf/allerton/2015</crossref>
+<url>db/conf/allerton/allerton2015.html#WaiSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/allerton/BistritzL15" mdate="2021-04-09">
+<author pid="177/9289">Ilai Bistritz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Asymptotically optimal distributed channel allocation: A competitive game-theoretic approach.</title>
+<pages>1272-1279</pages>
+<year>2015</year>
+<booktitle>Allerton</booktitle>
+<ee>https://doi.org/10.1109/ALLERTON.2015.7447154</ee>
+<crossref>conf/allerton/2015</crossref>
+<url>db/conf/allerton/allerton2015.html#BistritzL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdc/WaiSL15" mdate="2021-04-09">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>The social system identification problem.</title>
+<pages>406-411</pages>
+<year>2015</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2015.7402234</ee>
+<crossref>conf/cdc/2015</crossref>
+<url>db/conf/cdc/cdc2015.html#WaiSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LevandaL15" mdate="2021-04-09">
+<author pid="69/8397">Ronny Levanda</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Deconvolution using the adaptive selective sidelobe canceller beamformer.</title>
+<pages>2529-2533</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2015.7178427</ee>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#LevandaL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SardarabadiLV15" mdate="2021-04-09">
+<author pid="158/5794">Ahmad Mouri Sardarabadi</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>Computationally efficient radio astronomical image formation using constrained least squares and and the MVDR beamformer.</title>
+<pages>5664-5668</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2015.7179056</ee>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#SardarabadiLV15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WaiSL15" mdate="2018-08-13">
+<author pid="29/9875">Hoi-To Wai</author>
+<author pid="61/1706">Anna Scaglione</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>The Social System Identification Problem.</title>
+<year>2015</year>
+<volume>abs/1503.07288</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.07288</ee>
+<url>db/journals/corr/corr1503.html#WaiSL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YeminiSL15" mdate="2018-08-13">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>On the Multiple Access Channel with Asynchronous Cognition.</title>
+<year>2015</year>
+<volume>abs/1503.08413</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.08413</ee>
+<url>db/journals/corr/corr1503.html#YeminiSL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HanawalLS15" mdate="2018-08-13">
+<author pid="214/7112">Manjesh Kumar Hanawal</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="67/4721">Venkatesh Saligrama</author>
+<title>Algorithms for Linear Bandits on Polyhedral Sets.</title>
+<year>2015</year>
+<volume>abs/1509.07927</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1509.07927</ee>
+<url>db/journals/corr/corr1509.html#HanawalLS15</url>
+</article>
+</r>
+<r><article key="journals/comcom/ZankoLZ14" mdate="2021-04-09">
+<author pid="12/7662">Avi Zanko</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Topology management and outage optimization for multicasting over slowly fading multiple access networks.</title>
+<pages>43-53</pages>
+<year>2014</year>
+<volume>46</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2014.03.006</ee>
+<url>db/journals/comcom/comcom46.html#ZankoLZ14</url>
+</article>
+</r>
+<r><article key="journals/tsp/NaparstekL14" mdate="2021-04-09">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Fully Distributed Optimal Channel Assignment for Open Spectrum Access.</title>
+<pages>283-294</pages>
+<year>2014</year>
+<volume>62</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSP.2013.2285512</ee>
+<url>db/journals/tsp/tsp62.html#NaparstekL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/ZankoLZ14" mdate="2021-04-09">
+<author pid="12/7662">Avi Zanko</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Turbo analog error correcting codes based on analog CRC.</title>
+<pages>3109-3114</pages>
+<year>2014</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7037283</ee>
+<crossref>conf/globecom/2014</crossref>
+<url>db/conf/globecom/globecom2014.html#ZankoLZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/NoamLM14" mdate="2021-04-09">
+<author pid="46/767">Yair Noam</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="m/HagitMesser">Hagit Messer</author>
+<title>Robust spectrum management with incomplete information.</title>
+<pages>429-433</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6853632</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#NoamLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WuLW14" mdate="2021-04-09">
+<author pid="44/3311">Yuntao Wu</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0002-0463-3011" pid="71/8858">Stefan J. Wijnholds</author>
+<title>A computationally efficient calibration algorithm for the LOFAR radio astronomical array.</title>
+<pages>5402-5406</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6854635</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#WuLW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/YeminiSL14" mdate="2021-04-09">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>On the asynchronous cognitive MAC.</title>
+<pages>2929-2933</pages>
+<year>2014</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2014.6875370</ee>
+<crossref>conf/isit/2014</crossref>
+<url>db/conf/isit/isit2014.html#YeminiSL14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NaparstekL14" mdate="2018-08-13">
+<author pid="93/11071">Oshri Naparstek</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Expected time complexity of the auction algorithm and the push relabel algorithm for maximal bipartite matching on random graphs.</title>
+<year>2014</year>
+<volume>abs/1401.0119</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.0119</ee>
+<url>db/journals/corr/corr1401.html#NaparstekL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NaparstekLJ14" mdate="2018-08-13">
+<author pid="93/11071">Oshri Naparstek</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="20/4825">Eduard A. Jorswieck</author>
+<title>Distributed medium access control for energy efficient transmission in cognitive radios.</title>
+<year>2014</year>
+<volume>abs/1401.1671</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.1671</ee>
+<url>db/journals/corr/corr1401.html#NaparstekLJ14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YeminiSL14" mdate="2018-08-13">
+<author pid="142/2496">Michal Yemini</author>
+<author pid="00/2902">Anelia Somekh-Baruch</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>On Channels with Asynchronous Side Information.</title>
+<year>2014</year>
+<volume>abs/1402.1617</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.1617</ee>
+<url>db/journals/corr/corr1402.html#YeminiSL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZankoLZ14" mdate="2018-08-13">
+<author pid="12/7662">Avi Zanko</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="94/2645">Ephraim Zehavi</author>
+<title>Network coding for multicasting over Rayleigh fading multi access channels.</title>
+<year>2014</year>
+<volume>abs/1403.6741</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.6741</ee>
+<url>db/journals/corr/corr1403.html#ZankoLZ14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZehaviL14" mdate="2018-08-13">
+<author pid="94/2645">Ephraim Zehavi</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>On the allocation of multiple divisible and non-transferable commodities.</title>
+<year>2014</year>
+<volume>abs/1403.7707</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.7707</ee>
+<url>db/journals/corr/corr1403.html#ZehaviL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LeshemHK14" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="22/8514">Maziyar Hamdi</author>
+<author pid="01/1516">Vikram Krishnamurthy</author>
+<title>Boundary value problems in consensus networks.</title>
+<year>2014</year>
+<volume>abs/1407.7170</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.7170</ee>
+<url>db/journals/corr/corr1407.html#LeshemHK14</url>
+</article>
+</r>
+<r><article key="journals/jsac/CohenLZ13" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Game Theoretic Aspects of the Multi-Channel ALOHA Protocol in Cognitive Radio Networks.</title>
+<pages>2276-2288</pages>
+<year>2013</year>
+<volume>31</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/JSAC.2013.131109</ee>
+<url>db/journals/jsac/jsac31.html#CohenLZ13</url>
+</article>
+</r>
+<r><article key="journals/jstsp/ZhaoCKLMV13" mdate="2020-11-26">
+<author pid="78/6217-1">Qing Zhao 0001</author>
+<author pid="89/2389">Edwin K. P. Chong</author>
+<author pid="87/2250">Bhaskar Krishnamachari</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="25/6516">Sean P. Meyn</author>
+<author pid="v/VVVeeravalli">Venugopal V. Veeravalli</author>
+<title>Introduction to the Issue on Learning-Based Decision Making in Dynamic Systems Under Uncertainty.</title>
+<pages>743-745</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JSTSP.2013.2263591</ee>
+<url>db/journals/jstsp/jstsp7.html#ZhaoCKLMV13</url>
+</article>
+</r>
+<r><article key="journals/spl/BergelL13" mdate="2021-04-09">
+<author pid="80/2551">Itsik Bergel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>The Performance of Zero Forcing DSL Systems.</title>
+<pages>527-530</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/LSP.2012.2212011</ee>
+<url>db/journals/spl/spl20.html#BergelL13</url>
+</article>
+</r>
+<r><article key="journals/tit/CohenL13" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Performance Analysis of Likelihood-Based Multiple Access for Detection Over Fading Channels.</title>
+<pages>2471-2481</pages>
+<year>2013</year>
+<volume>59</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIT.2012.2232348</ee>
+<url>db/journals/tit/tit59.html#CohenL13</url>
+</article>
+</r>
+<r><article key="journals/tsp/ZehaviLLH13" mdate="2021-04-09">
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="69/8397">Ronny Levanda</author>
+<author pid="83/514">Zhu Han</author>
+<title>Weighted Max-Min Resource Allocation for Frequency Selective Channels.</title>
+<pages>3723-3732</pages>
+<year>2013</year>
+<volume>61</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1109/TSP.2013.2262278</ee>
+<url>db/journals/tsp/tsp61.html#ZehaviLLH13</url>
+</article>
+</r>
+<r><article key="journals/tsp/LevandaL13" mdate="2021-04-09">
+<author pid="69/8397">Ronny Levanda</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Adaptive Selective Sidelobe Canceller Beamformer With Applications to Interference Mitigation in Radio Astronomy.</title>
+<pages>5063-5074</pages>
+<year>2013</year>
+<volume>61</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>20</number>
+<ee>https://doi.org/10.1109/TSP.2013.2274960</ee>
+<url>db/journals/tsp/tsp61.html#LevandaL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/camsap/CohenL13" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Distributed throughput maximization for multi-channel ALOHA networks.</title>
+<pages>456-459</pages>
+<year>2013</year>
+<booktitle>CAMSAP</booktitle>
+<ee>https://doi.org/10.1109/CAMSAP.2013.6714106</ee>
+<crossref>conf/camsap/2013</crossref>
+<url>db/conf/camsap/camsap2013.html#CohenL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/ZankoLZ13" mdate="2021-04-09">
+<author pid="12/7662">Avi Zanko</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Network Coding for Multicasting over Rayleigh Fading Multi Access Channels.</title>
+<pages>1-7</pages>
+<year>2013</year>
+<booktitle>ICCCN</booktitle>
+<ee>https://doi.org/10.1109/ICCCN.2013.6614159</ee>
+<crossref>conf/icccn/2013</crossref>
+<url>db/conf/icccn/icccn2013.html#ZankoLZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdsp/NaparstekL13" mdate="2021-04-09">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>A fast matching algorithm for asymptotically optimal distributed channel assignment.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2013.6622738</ee>
+<crossref>conf/icdsp/2013</crossref>
+<url>db/conf/icdsp/icdsp2013.html#NaparstekL13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CohenL13" mdate="2018-08-13">
+<author pid="61/8056">Kobi Cohen</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Distributed Game Theoretic Optimization and Management of Multi-Channel ALOHA Networks.</title>
+<year>2013</year>
+<volume>abs/1312.7513</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.7513</ee>
+<url>db/journals/corr/corr1312.html#CohenL13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NaparstekL13" mdate="2018-08-13">
+<author pid="93/11071">Oshri Naparstek</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Fully distributed optimal channel assignment for open spectrum access.</title>
+<year>2013</year>
+<volume>abs/1312.7685</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.7685</ee>
+<url>db/journals/corr/corr1312.html#NaparstekL13</url>
+</article>
+</r>
+<r><article key="journals/icl/NaparstekCL12" mdate="2021-04-09">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Parametric Spectrum Shaping for Downstream Spectrum Management of Digital Subscriber Lines.</title>
+<pages>417-419</pages>
+<year>2012</year>
+<volume>16</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LCOMM.2012.011312.111939</ee>
+<url>db/journals/icl/icl16.html#NaparstekCL12</url>
+</article>
+</r>
+<r><article key="journals/jsac/LeshemZY12" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<author pid="44/747">Yoav Yaffe</author>
+<title>Multichannel Opportunistic Carrier Sensing for Stable Channel Access Control in Cognitive Radio Systems.</title>
+<pages>82-95</pages>
+<year>2012</year>
+<volume>30</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSAC.2012.120108</ee>
+<url>db/journals/jsac/jsac30.html#LeshemZY12</url>
+</article>
+</r>
+<r><article key="journals/jstsp/JorswieckLLPL12" mdate="2020-07-09">
+<author orcid="0000-0001-7893-8435" pid="20/4825">Eduard A. Jorswieck</author>
+<author pid="76/3752">Erik G. Larsson</author>
+<author pid="38/5578">Marco Luise</author>
+<author pid="p/HVincentPoor">H. Vincent Poor</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Introduction to the Issue on Game Theory in Signal Processing.</title>
+<pages>73-75</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSTSP.2012.2188750</ee>
+<url>db/journals/jstsp/jstsp6.html#JorswieckLLPL12</url>
+</article>
+</r>
+<r><article key="journals/tit/ZankoLZ12" mdate="2021-04-09">
+<author pid="12/7662">Avi Zanko</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Analog Product Codes Decodable by Linear Programming.</title>
+<pages>509-518</pages>
+<year>2012</year>
+<volume>58</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TIT.2011.2173709</ee>
+<url>db/journals/tit/tit58.html#ZankoLZ12</url>
+</article>
+</r>
+<r><article key="journals/tsp/GuL12" mdate="2021-04-09">
+<author pid="80/9877">Yujie Gu</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Robust Adaptive Beamforming Based on Interference Covariance Matrix Reconstruction and Steering Vector Estimation.</title>
+<pages>3881-3885</pages>
+<year>2012</year>
+<volume>60</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TSP.2012.2194289</ee>
+<url>db/journals/tsp/tsp60.html#GuL12</url>
+</article>
+</r>
+<r><article key="journals/tsp/BinyaminiBL12" mdate="2021-04-09">
+<author pid="119/8884">Ido Binyamini</author>
+<author pid="80/2551">Itsik Bergel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Arbitrary Partial FEXT Cancellation in Adaptive Precoding for Multichannel Downstream VDSL.</title>
+<pages>5754-5763</pages>
+<year>2012</year>
+<volume>60</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TSP.2012.2210884</ee>
+<url>db/journals/tsp/tsp60.html#BinyaminiBL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/gamenets/CohenLZ12" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>A Game Theoretic Optimization of the Multi-channel ALOHA Protocol.</title>
+<pages>77-87</pages>
+<year>2012</year>
+<crossref>conf/gamenets/2012</crossref>
+<booktitle>GAMENETS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35582-0_6</ee>
+<ee>http://eudl.eu/doi/10.1007/978-3-642-35582-0_6</ee>
+<url>db/conf/gamenets/gamenets2012.html#CohenLZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeesam/BaruchL12" mdate="2021-04-09">
+<author pid="158/7610">Emanuel Ben Baruch</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Overcoming spatial denial in non-cooperative bistatic radar.</title>
+<pages>321-324</pages>
+<year>2012</year>
+<booktitle>SAM</booktitle>
+<ee>https://doi.org/10.1109/SAM.2012.6250500</ee>
+<crossref>conf/ieeesam/2012</crossref>
+<url>db/conf/ieeesam/sam2012.html#BaruchL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spawc/NaparstekL12" mdate="2021-04-09">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Bounds on the expected optimal channel assignment in Rayleigh channels.</title>
+<pages>294-298</pages>
+<year>2012</year>
+<booktitle>SPAWC</booktitle>
+<ee>https://doi.org/10.1109/SPAWC.2012.6292913</ee>
+<crossref>conf/spawc/2012</crossref>
+<url>db/conf/spawc/spawc2012.html#NaparstekL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsac/CohenL11" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Energy-Efficient Detection in Wireless Sensor Networks Using Likelihood Ratio and Channel State Information.</title>
+<pages>1671-1683</pages>
+<year>2011</year>
+<volume>29</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/JSAC.2011.110916</ee>
+<url>db/journals/jsac/jsac29.html#CohenL11</url>
+</article>
+</r>
+<r><article key="journals/jstsp/GoldbergerL11" mdate="2021-04-09">
+<author pid="65/6574">Jacob Goldberger</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Iterative Tomographic Solution of Integer Least Squares Problems With Applications to MIMO Detection.</title>
+<pages>1486-1496</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/JSTSP.2011.2168383</ee>
+<url>db/journals/jstsp/jstsp5.html#GoldbergerL11</url>
+</article>
+</r>
+<r><article key="journals/tit/GoldbergerL11" mdate="2021-04-09">
+<author pid="65/6574">Jacob Goldberger</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>MIMO Detection for High-Order QAM Based on a Gaussian Tree Approximation.</title>
+<pages>4973-4982</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TIT.2011.2159037</ee>
+<url>db/journals/tit/tit57.html#GoldbergerL11</url>
+</article>
+</r>
+<r><inproceedings key="conf/camsap/NaparstekL11" mdate="2021-04-09">
+<author pid="93/11071">Oshri Naparstek</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Fully distributed auction algorithm for spectrum sharing in unlicensed bands.</title>
+<pages>233-236</pages>
+<year>2011</year>
+<booktitle>CAMSAP</booktitle>
+<ee>https://doi.org/10.1109/CAMSAP.2011.6135991</ee>
+<crossref>conf/camsap/2011</crossref>
+<url>db/conf/camsap/camsap2011.html#NaparstekL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/GuL11" mdate="2017-05-19">
+<author pid="80/9877">Yujie Gu</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>Robust adaptive beamforming based on jointly estimating covariance matrix and steering vector.</title>
+<pages>2640-2643</pages>
+<year>2011</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2011.5947027</ee>
+<crossref>conf/icassp/2011</crossref>
+<url>db/conf/icassp/icassp2011.html#GuL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LeshemZ11" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Rate control for PSD limited multiple access systems through linear programming.</title>
+<pages>3220-3223</pages>
+<year>2011</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2011.5946707</ee>
+<crossref>conf/icassp/2011</crossref>
+<url>db/conf/icassp/icassp2011.html#LeshemZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdsp/LeshemZ11" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Smart carrier sensing for distributed computation of the generalized nash bargaining solution.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2011.6004987</ee>
+<crossref>conf/icdsp/2011</crossref>
+<url>db/conf/icdsp/icdsp2011.html#LeshemZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/ZehaviL11" mdate="2021-04-09">
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Bargaining Solution for Partial Orthogonal transmission over frequency selective interference channel.</title>
+<pages>2701-2705</pages>
+<year>2011</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2011.6034063</ee>
+<crossref>conf/isit/2011</crossref>
+<url>db/conf/isit/isit2011.html#ZehaviL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/EhrenbergGSLZ10" mdate="2021-04-09">
+<author pid="55/7822">Livnat Ehrenberg</author>
+<author orcid="0000-0002-2885-170X" pid="79/5373">Sharon Gannot</author>
+<author pid="17/3290">Ofer Shayevitz</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Bidirectional MIMO Channel Tracking Based on PASTd and Performance Evaluation.</title>
+<year>2010</year>
+<volume>2010</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<ee type="oa">https://doi.org/10.1155/2010/478234</ee>
+<ee>https://www.wikidata.org/entity/Q59254578</ee>
+<url>db/journals/ejasp/ejasp2010.html#EhrenbergGSLZ10</url>
+</article>
+</r>
+<r><article key="journals/spm/LevandaL10" mdate="2021-04-09">
+<author pid="69/8397">Ronny Levanda</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Synthetic aperture radio telescopes.</title>
+<pages>14-29</pages>
+<year>2010</year>
+<volume>27</volume>
+<journal>IEEE Signal Process. Mag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MSP.2009.934719</ee>
+<ee>https://www.wikidata.org/entity/Q56002158</ee>
+<url>db/journals/spm/spm27.html#LevandaL10</url>
+</article>
+</r>
+<r><article key="journals/tcom/BergelL10" mdate="2021-04-09">
+<author pid="80/2551">Itsik Bergel</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Convergence Analysis of Downstream VDSL Adaptive Multichannel Partial FEXT Cancellation.</title>
+<pages>3021-3027</pages>
+<year>2010</year>
+<volume>58</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCOMM.2010.082010.090140</ee>
+<url>db/journals/tcom/tcom58.html#BergelL10</url>
+</article>
+</r>
+<r><article key="journals/tsp/AmarLV10" mdate="2021-04-09">
+<author pid="10/5480">Alon Amar</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>A low complexity blind estimator of narrowband polynomial phase signals.</title>
+<pages>4674-4683</pages>
+<year>2010</year>
+<volume>58</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TSP.2010.2050202</ee>
+<url>db/journals/tsp/tsp58.html#AmarLV10</url>
+</article>
+</r>
+<r><article key="journals/tsp/CohenL10" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>A time-varying opportunistic approach to lifetime maximization of wireless sensor networks.</title>
+<pages>5307-5319</pages>
+<year>2010</year>
+<volume>58</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSP.2010.2052459</ee>
+<url>db/journals/tsp/tsp58.html#CohenL10</url>
+</article>
+</r>
+<r><article key="journals/tsp/AmarLG10" mdate="2021-04-09">
+<author pid="10/5480">Alon Amar</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="40/709">Michael Gastpar</author>
+<title>Recursive implementation of the distributed Karhunen-Lo&#232;ve transform.</title>
+<pages>5320-5330</pages>
+<year>2010</year>
+<volume>58</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSP.2010.2056922</ee>
+<url>db/journals/tsp/tsp58.html#AmarLG10</url>
+</article>
+</r>
+<r><article key="journals/tsp/NoamLM10" mdate="2021-04-09">
+<author pid="46/767">Yair Noam</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="m/HagitMesser">Hagit Messer</author>
+<title>Competitive Spectrum Management With Incomplete Information.</title>
+<pages>6251-6265</pages>
+<year>2010</year>
+<volume>58</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TSP.2010.2077286</ee>
+<url>db/journals/tsp/tsp58.html#NoamLM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cogip/YaffeLZ10" mdate="2021-04-09">
+<author pid="44/747">Yoav Yaffe</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Stable matching for channel access control in cognitive radio systems.</title>
+<pages>470-475</pages>
+<year>2010</year>
+<booktitle>CIP</booktitle>
+<ee>https://doi.org/10.1109/CIP.2010.5604115</ee>
+<crossref>conf/cogip/2010</crossref>
+<url>db/conf/cogip/cip2010.html#YaffeLZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/AmarLG10" mdate="2017-05-19">
+<author pid="10/5480">Alon Amar</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="40/709">Michael Gastpar</author>
+<title>A greedy approach to the distributed Karhunen-Lo&#232;ve transform.</title>
+<pages>2970-2973</pages>
+<year>2010</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2010.5496138</ee>
+<crossref>conf/icassp/2010</crossref>
+<url>db/conf/icassp/icassp2010.html#AmarLG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/NoamLM10" mdate="2021-04-09">
+<author pid="46/767">Yair Noam</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="m/HagitMesser">Hagit Messer</author>
+<title>Competitive spectrum sharing in symmetric fading channel with incomplete information.</title>
+<pages>2998-3001</pages>
+<year>2010</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2010.5496128</ee>
+<crossref>conf/icassp/2010</crossref>
+<url>db/conf/icassp/icassp2010.html#NoamLM10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1001-5364" mdate="2018-08-13">
+<author pid="65/6574">Jacob Goldberger</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>MIMO Detection for High-Order QAM Based on a Gaussian Tree Approximation</title>
+<ee type="oa">http://arxiv.org/abs/1001.5364</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1001.5364</volume>
+<url>db/journals/corr/corr1001.html#abs-1001-5364</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-3931" mdate="2018-08-13">
+<author pid="46/767">Yair Noam</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="m/HagitMesser">Hagit Messer</author>
+<title>Competitive Spectrum Management with Incomplete Information</title>
+<ee type="oa">http://arxiv.org/abs/1002.3931</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.3931</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-3931</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1008-1372" mdate="2018-08-13">
+<author pid="94/2645">Ephraim Zehavi</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="69/8397">Ronny Levanda</author>
+<author pid="83/514">Zhu Han</author>
+<title>Weighted Max-Min Resource Allocation for Frequency Selective Channels</title>
+<ee type="oa">http://arxiv.org/abs/1008.1372</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1008.1372</volume>
+<url>db/journals/corr/corr1008.html#abs-1008-1372</url>
+</article>
+</r>
+<r><article key="journals/spm/LeshemZ09" mdate="2020-06-15">
+<author pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Game theory and the frequency selective interference channel.</title>
+<pages>28-40</pages>
+<year>2009</year>
+<volume>26</volume>
+<journal>IEEE Signal Process. Mag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MSP.2009.933372</ee>
+<url>db/journals/spm/spm26.html#LeshemZ09</url>
+</article>
+</r>
+<r><article key="journals/tcom/NoamL09" mdate="2021-04-09">
+<author pid="46/767">Yair Noam</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Iterative power pricing for distributed spectrum coordination in DSL.</title>
+<pages>948-953</pages>
+<year>2009</year>
+<volume>57</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCOMM.2009.4814362</ee>
+<url>db/journals/tcom/tcom57.html#NoamL09</url>
+</article>
+</r>
+<r><article key="journals/tsp/SayagLS09" mdate="2021-04-09">
+<author pid="92/134">Eitan Sayag</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0002-3385-7911" pid="s/NDSidiropoulos">Nikos D. Sidiropoulos</author>
+<title>Finite Word Length Effects on Transmission Rate in Zero Forcing Linear Precoding for Multichannel DSL.</title>
+<pages>1469-1482</pages>
+<year>2009</year>
+<volume>57</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSP.2009.2012889</ee>
+<url>db/journals/tsp/tsp57.html#SayagLS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/gamenets/ZehaviL09" mdate="2021-04-09">
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Bargaining over the interference channel with total power constraints.</title>
+<pages>447-451</pages>
+<year>2009</year>
+<booktitle>GAMENETS</booktitle>
+<ee>https://doi.org/10.1109/GAMENETS.2009.5137431</ee>
+<ee>http://eudl.eu/doi/10.1109/GAMENETS.2009.5137431</ee>
+<crossref>conf/gamenets/2009</crossref>
+<url>db/conf/gamenets/gamenets2009.html#ZehaviL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/CohenL09" mdate="2021-04-09">
+<author orcid="0000-0003-0532-009X" pid="61/8056">Kobi Cohen</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Time-varying Opportunistic Protocol for maximizing sensor networks lifetime.</title>
+<pages>2421-2424</pages>
+<year>2009</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2009.4960110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960110</ee>
+<crossref>conf/icassp/2009</crossref>
+<url>db/conf/icassp/icassp2009.html#CohenL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LeshemG09" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="65/6574">Jacob Goldberger</author>
+<title>MIMO decoding based on stochastic reconstruction from multiple projections.</title>
+<pages>2457-2460</pages>
+<year>2009</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2009.4960119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960119</ee>
+<crossref>conf/icassp/2009</crossref>
+<url>db/conf/icassp/icassp2009.html#LeshemG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GoldbergerL09" mdate="2021-01-21">
+<author pid="65/6574">Jacob Goldberger</author>
+<author pid="84/3398">Amir Leshem</author>
+<title>A Gaussian Tree Approximation for Integer Least-Squares.</title>
+<pages>638-645</pages>
+<year>2009</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2009/hash/839ab46820b524afda05122893c2fe8e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3829-a-gaussian-tree-approximation-for-integer-least-squares</ee>
+<crossref>conf/nips/2009</crossref>
+<url>db/conf/nips/nips2009.html#GoldbergerL09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0901-0252" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="65/6574">Jacob Goldberger</author>
+<title>MIMO decoding based on stochastic reconstruction from multiple projections</title>
+<ee type="oa">http://arxiv.org/abs/0901.0252</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0901.0252</volume>
+<url>db/journals/corr/corr0901.html#abs-0901-0252</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0903-2174" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="94/2645">Ephraim Zehavi</author>
+<title>Game theory and the frequency selective interference channel - A tutorial</title>
+<ee type="oa">http://arxiv.org/abs/0903.2174</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0903.2174</volume>
+<url>db/journals/corr/corr0903.html#abs-0903-2174</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0912-4289" mdate="2018-08-13">
+<author pid="12/7662">Avi Zanko</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="94/2645">Ephraim Zehavi</author>
+<title>Turbo Analog Error Correcting Codes Decodable By Linear Programming</title>
+<ee type="oa">http://arxiv.org/abs/0912.4289</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0912.4289</volume>
+<url>db/journals/corr/corr0912.html#abs-0912-4289</url>
+</article>
+</r>
+<r><article key="journals/jsac/LeshemZ08" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Cooperative Game Theory and the Gaussian Interference Channel.</title>
+<pages>1078-1088</pages>
+<year>2008</year>
+<volume>26</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/JSAC.2008.080906</ee>
+<url>db/journals/jsac/jsac26.html#LeshemZ08</url>
+</article>
+</r>
+<r><article key="journals/jstsp/LeshemCJKV08" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="81/2625">Julian Christou</author>
+<author pid="64/6082">Brian D. Jeffs</author>
+<author pid="58/5141">Ercan E. Kuruoglu</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>Introduction to the Issue on Signal Processing for Space Research and Astronomy.</title>
+<pages>609-612</pages>
+<year>2008</year>
+<volume>2</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JSTSP.2008.2006397</ee>
+<url>db/journals/jstsp/jstsp2.html#LeshemCJKV08</url>
+</article>
+</r>
+<r><article key="journals/jstsp/Ben-DavidL08" mdate="2021-04-09">
+<author pid="121/5872">Chen Ben-David</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Parametric High Resolution Techniques for Radio Astronomical Imaging.</title>
+<pages>670-684</pages>
+<year>2008</year>
+<volume>2</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JSTSP.2008.2005318</ee>
+<url>db/journals/jstsp/jstsp2.html#Ben-DavidL08</url>
+</article>
+</r>
+<r><article key="journals/tsp/LeshemV08" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>Blind Source Separation: The Locationof Local Minima in the Case of Finitely Many Samples.</title>
+<pages>4340-4353</pages>
+<year>2008</year>
+<volume>56</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TSP.2008.921721</ee>
+<url>db/journals/tsp/tsp56.html#LeshemV08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/LeshemSS08" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="92/134">Eitan Sayag</author>
+<author pid="s/NDSidiropoulos">Nicholas D. Sidiropoulos</author>
+<title>Fixed point error analysis of linear multichannel precoding for VDSL.</title>
+<pages>3077-3080</pages>
+<year>2008</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2008.4518300</ee>
+<crossref>conf/icassp/2008</crossref>
+<url>db/conf/icassp/icassp2008.html#LeshemSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/EhrenbergGLZ08" mdate="2021-04-09">
+<author pid="55/7822">Livnat Ehrenberg</author>
+<author orcid="0000-0002-2885-170X" pid="79/5373">Sharon Gannot</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Performance bounds for channel tracking algorithms For MIMO systems.</title>
+<pages>3085-3088</pages>
+<year>2008</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2008.4518302</ee>
+<crossref>conf/icassp/2008</crossref>
+<url>db/conf/icassp/icassp2008.html#EhrenbergGLZ08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0810-1773" mdate="2018-08-13">
+<author pid="92/134">Eitan Sayag</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="s/NDSidiropoulos">Nikos D. Sidiropoulos</author>
+<title>Finite Word Length Effects on Transmission Rate in Zero Forcing Linear Precoding for Multichannel DSL</title>
+<ee type="oa">http://arxiv.org/abs/0810.1773</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0810.1773</volume>
+<url>db/journals/corr/corr0810.html#abs-0810-1773</url>
+</article>
+</r>
+<r><article key="journals/jstsp/LeshemNN07" mdate="2020-05-25">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="93/11071">Oshri Naparstek</author>
+<author pid="n/AryeNehorai">Arye Nehorai</author>
+<title>Information Theoretic Adaptive Radar Waveform Design for Multiple Extended Targets.</title>
+<pages>42-55</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>J. Sel. Topics Signal Processing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSTSP.2007.897047</ee>
+<url>db/journals/jstsp/jstsp1.html#LeshemNN07</url>
+</article>
+</r>
+<r><article key="journals/tsp/LeshemY07" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="14/6496">Youming Li</author>
+<title>A Low Complexity Linear Precoding Technique for Next Generation VDSL Downstream Transmission Over Copper.</title>
+<pages>5527-5534</pages>
+<year>2007</year>
+<volume>55</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TSP.2007.898759</ee>
+<url>db/journals/tsp/tsp55.html#LeshemY07</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/LeshemG07" mdate="2017-04-29">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="79/5373">Sharon Gannot</author>
+<title>Robust sequential interference cancellation for space division multiple access communications.</title>
+<pages>2184-2188</pages>
+<year>2007</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7099195/</ee>
+<crossref>conf/eusipco/2007</crossref>
+<url>db/conf/eusipco/eusipco2007.html#LeshemG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LeshemNN07" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="93/11071">Oshri Naparstek</author>
+<author pid="n/AryeNehorai">Arye Nehorai</author>
+<title>Adaptive Radar Waveform Design for Multiple Targets: Computational Aspects.</title>
+<pages>909-912</pages>
+<year>2007</year>
+<booktitle>ICASSP (2)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2007.366384</ee>
+<crossref>conf/icassp/2007</crossref>
+<url>db/conf/icassp/icassp2007.html#LeshemNN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/LiLF07" mdate="2021-04-09">
+<author pid="14/6496">Youming Li</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="59/4426">Liming Fang</author>
+<title>Computationally efficient approximated matrix inversion with application to crosstalk precoding in downstream VDSL.</title>
+<pages>429-433</pages>
+<year>2007</year>
+<crossref>conf/iwcmc/2007</crossref>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1145/1280940.1281032</ee>
+<url>db/conf/iwcmc/iwcmc2007.html#LiLF07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0708-0846" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="94/2645">Ephraim Zehavi</author>
+<title>Cooperative game theory and the Gaussian interference channel</title>
+<ee type="oa">http://arxiv.org/abs/0708.0846</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0708.0846</volume>
+<url>db/journals/corr/corr0708.html#abs-0708-0846</url>
+</article>
+</r>
+<r><article key="journals/ejasp/KaripidisSLLTO06" mdate="2020-03-12">
+<author orcid="0000-0001-9838-0539" pid="49/5081">Eleftherios Karipidis</author>
+<author pid="s/NDSidiropoulos">Nicholas D. Sidiropoulos</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="14/6496">Youming Li</author>
+<author pid="44/8707">Rabah Tarafi</author>
+<author pid="96/1488">Meryem Ouzzif</author>
+<title>Crosstalk Models for Short VDSL2 Lines from Measured 30 MHz Data.</title>
+<year>2006</year>
+<volume>2006</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<ee type="oa">https://doi.org/10.1155/ASP/2006/85859</ee>
+<url>db/journals/ejasp/ejasp2006.html#KaripidisSLLTO06</url>
+</article>
+</r>
+<r><inproceedings key="conf/isit/LeshemZ06" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2557-8880" pid="94/2645">Ephraim Zehavi</author>
+<title>Bargaining Over the Interference Channel.</title>
+<pages>2225-2229</pages>
+<year>2006</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2006.261946</ee>
+<crossref>conf/isit/2006</crossref>
+<url>db/conf/isit/isit2006.html#LeshemZ06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0602014" mdate="2018-08-13">
+<author pid="98/5646">Amir Laufer</author>
+<author pid="84/3398">Amir Leshem</author>
+<author pid="m/HagitMesser">Hagit Messer</author>
+<title>Game theoretic aspects of distributed spectral coordination with application to DSL networks</title>
+<ee type="oa">http://arxiv.org/abs/cs/0602014</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0602014</volume>
+<url>db/journals/corr/corr0602.html#abs-cs-0602014</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0603103" mdate="2018-08-13">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="94/2645">Ephraim Zehavi</author>
+<title>Bargaining over the interference channel</title>
+<ee type="oa">http://arxiv.org/abs/cs/0603103</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0603103</volume>
+<url>db/journals/corr/corr0603.html#abs-cs-0603103</url>
+</article>
+</r>
+<r><article key="journals/spl/LeshemT05" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="92/1653">Lang Tong</author>
+<title>Estimating sensor population via probabilistic sequential polling.</title>
+<pages>395-398</pages>
+<year>2005</year>
+<volume>12</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/LSP.2005.845595</ee>
+<url>db/journals/spl/spl12.html#LeshemT05</url>
+</article>
+</r>
+<r><article key="journals/tcom/KaripidisSLY05" mdate="2021-04-09">
+<author orcid="0000-0001-9838-0539" pid="49/5081">Eleftherios Karipidis</author>
+<author pid="s/NDSidiropoulos">Nicholas D. Sidiropoulos</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="14/6496">Youming Li</author>
+<title>Experimental evaluation of capacity statistics for short VDSL loops.</title>
+<pages>1119-1122</pages>
+<year>2005</year>
+<volume>53</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCOMM.2005.851626</ee>
+<url>db/journals/tcom/tcom53.html#KaripidisSLY05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/LiL05" mdate="2021-04-09">
+<author pid="14/6496">Youming Li</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>An efficient implementation for MMSE based MIMO time domain equalizer.</title>
+<pages>893-896</pages>
+<year>2005</year>
+<booktitle>ICASSP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2005.1415854</ee>
+<crossref>conf/icassp/2005</crossref>
+<url>db/conf/icassp/icassp2005.html#LiL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LeshemTKG04" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="127/7922">Nir Tal</author>
+<author pid="144/5039">Lior Kravitz</author>
+<author pid="144/5050">Eran Gerson</author>
+<title>Super-resolution technique for estimating MIMO WLAN channels with application to 5 GHz channel measurements.</title>
+<pages>945-948</pages>
+<year>2004</year>
+<booktitle>ICASSP (4)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2004.1326984</ee>
+<crossref>conf/icassp/2004</crossref>
+<url>db/conf/icassp/icassp2004.html#LeshemTKG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/LeshemL04" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="14/6496">Youming Li</author>
+<title>A low complexity coordinated FEXT cancellation for VDSL.</title>
+<pages>338-341</pages>
+<year>2004</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2004.1399687</ee>
+<crossref>conf/icecsys/2004</crossref>
+<url>db/conf/icecsys/icecsys2004.html#LeshemL04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tit/LeshemPV03" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-2963-8430" pid="39/6243">Nicolas Petrochilos</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>Finite sample identifiability of multiple constant modulus source.</title>
+<pages>2314-2319</pages>
+<year>2003</year>
+<volume>49</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>9</number>
+<url>db/journals/tit/tit49.html#LeshemPV03</url>
+<ee>https://doi.org/10.1109/TIT.2003.815791</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/LeshemV03" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="29/6532">Alle-Jan van der Veen</author>
+<title>On the number of samples needed to identify a mixture of finite alphabet constant modulus sources.</title>
+<pages>329-332</pages>
+<year>2003</year>
+<booktitle>ICASSP (4)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2003.1202644</ee>
+<crossref>conf/icassp/2003</crossref>
+<url>db/conf/icassp/icassp2003.html#LeshemV03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/YpmaLD02" mdate="2021-04-09">
+<author pid="94/1278">Alexander Ypma</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="86/3985">Robert P. W. Duin</author>
+<title>Blind separation of rotating machine sources: bilinear forms and convolutive mixtures</title>
+<ee>https://doi.org/10.1016/S0925-2312(02)00524-6</ee>
+<pages>349-368</pages>
+<year>2002</year>
+<volume>49</volume>
+<journal>Neurocomputing</journal>
+<number>1-4</number>
+<url>db/journals/ijon/ijon49.html#YpmaLD02</url>
+</article>
+</r>
+<r><article key="journals/spl/LeshemV01" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="29/6532">Alle-Jan van der Veen</author>
+<title>Multichannel detection of Gaussian signals with uncalibrated receivers.</title>
+<pages>120-122</pages>
+<year>2001</year>
+<volume>8</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/97.911477</ee>
+<url>db/journals/spl/spl8.html#LeshemV01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/LeshemV01" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="29/6532">Alle-Jan van der Veen</author>
+<title>Adaptive suppression of RFI and its effect on radio-astronomical image formation.</title>
+<pages>616-619</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2001.958194</ee>
+<url>db/conf/icip/icip2001-3.html#LeshemV01</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsyml/Leshem00" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>On The Consistency of The Definable Tree Property on Alef-Symbol<sub>1</sub>.</title>
+<pages>1204-1214</pages>
+<year>2000</year>
+<volume>65</volume>
+<journal>J. Symb. Log.</journal>
+<number>3</number>
+<url>db/journals/jsyml/jsyml65.html#Leshem00</url>
+<ee>https://doi.org/10.2307/2586696</ee>
+<ee>http://projecteuclid.org/euclid.jsl/1183746177</ee>
+</article>
+</r>
+<r><article key="journals/tit/LeshemV00" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>Radio-astronomical imaging in the presence of strong radio interference.</title>
+<pages>1730-1747</pages>
+<year>2000</year>
+<volume>46</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>5</number>
+<url>db/journals/tit/tit46.html#LeshemV00</url>
+<ee>https://doi.org/10.1109/18.857787</ee>
+<ee>https://www.wikidata.org/entity/Q56485816</ee>
+</article>
+</r>
+<r><article key="journals/tsp/LeshemW00" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="69/4924">Mati Wax</author>
+<title>Array calibration in the presence of multipath.</title>
+<pages>53-59</pages>
+<year>2000</year>
+<volume>48</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/78.815478</ee>
+<url>db/journals/tsp/tsp48.html#LeshemW00</url>
+</article>
+</r>
+<r><article key="journals/tsp/Leshem00" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Maximum likelihood separation of constant modulus signals.</title>
+<pages>2948-2952</pages>
+<year>2000</year>
+<volume>48</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/78.869053</ee>
+<url>db/journals/tsp/tsp48.html#Leshem00</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/LeshemV00" mdate="2017-04-30">
+<author pid="84/3398">Amir Leshem</author>
+<author pid="29/6532">Alle-Jan van der Veen</author>
+<title>Blind equalization of sparse channels using antennas diversity.</title>
+<pages>1-4</pages>
+<year>2000</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7075562/</ee>
+<crossref>conf/eusipco/2000</crossref>
+<url>db/conf/eusipco/eusipco2000.html#LeshemV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LeshemV00" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="29/6532">Alle-Jan van der Veen</author>
+<title>On the finite sample behavior of the constant modulus cost.</title>
+<pages>2537-2540</pages>
+<year>2000</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2000.860965</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2000.860965</ee>
+<crossref>conf/icassp/2000</crossref>
+<url>db/conf/icassp/icassp2000.html#LeshemV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BoonstraLVKS00" mdate="2021-04-09">
+<author pid="59/10855">Albert-Jan Boonstra</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="29/6532">Alle-Jan van der Veen</author>
+<author pid="140/9239">A. Kokkeler</author>
+<author pid="140/9154">G. Schoonderbeek</author>
+<title>The effect of blanking of TDMA interference on radio-astronomical observations: experimental results.</title>
+<pages>3546-3549</pages>
+<year>2000</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2000.860167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2000.860167</ee>
+<crossref>conf/icassp/2000</crossref>
+<url>db/conf/icassp/icassp2000.html#BoonstraLVKS00</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsyml/LeshemM99" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="98/146">Menachem Magidor</author>
+<title>The Independence of delta<sup>1</sup><sub>n</sub>.</title>
+<pages>350-362</pages>
+<year>1999</year>
+<volume>64</volume>
+<journal>J. Symb. Log.</journal>
+<number>1</number>
+<url>db/journals/jsyml/jsyml64.html#LeshemM99</url>
+<ee>https://doi.org/10.2307/2586769</ee>
+<ee>http://projecteuclid.org/euclid.jsl/1183745710</ee>
+</article>
+</r>
+<r><article key="journals/tsp/LeshemV99" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author orcid="0000-0003-4249-585X" pid="29/6532">Alle-Jan van der Veen</author>
+<title>Direction-of-arrival estimation for constant modulus signals.</title>
+<pages>3125-3129</pages>
+<year>1999</year>
+<volume>47</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/78.796446</ee>
+<url>db/journals/tsp/tsp47.html#LeshemV99</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/Leshem99" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Maximum likelihood separation of phase modulated signals.</title>
+<pages>2937-2940</pages>
+<year>1999</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1999.761378</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1999.761378</ee>
+<crossref>conf/icassp/1999</crossref>
+<url>db/conf/icassp/icassp1999.html#Leshem99</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsp/WaxL97" mdate="2021-04-09">
+<author pid="69/4924">Mati Wax</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Joint estimation of time delays and directions of arrival of multiple reflections of a known signal.</title>
+<pages>2477-2484</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/78.640713</ee>
+<url>db/journals/tsp/tsp45.html#WaxL97</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/LeshemW97" mdate="2021-04-09">
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<author pid="69/4924">Mati Wax</author>
+<title>Array manifold measurement in the presence of multipath.</title>
+<pages>3525-3528</pages>
+<year>1997</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1997.604625</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1997.604625</ee>
+<crossref>conf/icassp/1997</crossref>
+<url>db/conf/icassp/icassp1997.html#LeshemW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WaxL96" mdate="2021-04-09">
+<author pid="69/4924">Mati Wax</author>
+<author orcid="0000-0002-2265-7463" pid="84/3398">Amir Leshem</author>
+<title>Joint estimation of time delays and directions of arrival of multiple reflections of a known signal.</title>
+<pages>2622-2625</pages>
+<year>1996</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1996.548002</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1996.548002</ee>
+<crossref>conf/icassp/1996</crossref>
+<url>db/conf/icassp/icassp1996.html#WaxL96</url>
+</inproceedings>
+</r>
+<coauthors n="104" nc="4">
+<co c="0"><na f="a/Amar:Alon" pid="10/5480">Alon Amar</na></co>
+<co c="-1"><na f="a/Antman:Avishay" pid="226/5891">Avishay Antman</na></co>
+<co c="3"><na f="a/Ashkenazi:Yagel" pid="249/2322">Yagel Ashkenazi</na></co>
+<co c="0"><na f="b/Baharav:Tavor_Z=" pid="242/8888">Tavor Z. Baharav</na></co>
+<co c="0"><na f="b/Bambos:Nicholas" pid="b/NicholasBambos">Nicholas Bambos</na></co>
+<co c="-1"><na f="b/Baruch:Emanuel_Ben" pid="158/7610">Emanuel Ben Baruch</na></co>
+<co c="0"><na f="b/Barzel:Baruch" pid="165/3192">Baruch Barzel</na></co>
+<co c="0"><na f="b/Becvar:Zdenek" pid="95/4833">Zdenek Becvar</na></co>
+<co c="0"><na f="b/Be=ery:Yair" pid="77/4298">Yair Be'ery</na></co>
+<co c="-1"><na f="b/Ben=David:Chen" pid="121/5872">Chen Ben-David</na></co>
+<co c="0"><na f="b/Bergel:Itsik" pid="80/2551">Itsik Bergel</na></co>
+<co c="0"><na f="b/Binyamini:Ido" pid="119/8884">Ido Binyamini</na></co>
+<co c="0"><na f="b/Bistritz:Ilai" pid="177/9289">Ilai Bistritz</na></co>
+<co c="0"><na f="b/Boonstra:Albert=Jan" pid="59/10855">Albert-Jan Boonstra</na></co>
+<co c="0"><na f="b/Boyarski:Tomer" pid="289/1206">Tomer Boyarski</na></co>
+<co c="0"><na f="c/Cao:Hui" pid="15/2905">Hui Cao</na></co>
+<co c="0"><na f="c/Cao:Zhiguang" pid="178/8621">Zhiguang Cao</na></co>
+<co c="0"><na f="c/Chong:Edwin_K=_P=" pid="89/2389">Edwin K. P. Chong</na></co>
+<co c="0"><na f="c/Christou:Julian" pid="81/2625">Julian Christou</na></co>
+<co c="0"><na f="c/Cohen:Kobi" pid="61/8056">Kobi Cohen</na></co>
+<co c="0"><na f="c/Cohen:Reuven" pid="17/6007">Reuven Cohen</na></co>
+<co c="2"><na f="d/Duin:Robert_P=_W=" pid="86/3985">Robert P. W. Duin</na></co>
+<co c="0"><na f="e/Ehrenberg:Livnat" pid="55/7822">Livnat Ehrenberg</na></co>
+<co c="0"><na f="e/Erez:Uri" pid="03/3440">Uri Erez</na></co>
+<co c="0"><na f="f/Fang:Liming" pid="59/4426">Liming Fang</na></co>
+<co c="0"><na f="f/Feng:Shaohan" pid="199/1893">Shaohan Feng</na></co>
+<co c="0"><na f="g/Gannot:Sharon" pid="79/5373">Sharon Gannot</na></co>
+<co c="0"><na f="g/Gastpar:Michael" pid="40/709">Michael Gastpar</na></co>
+<co c="3"><na f="g/Gelles:Ran" pid="88/8575">Ran Gelles</na></co>
+<co c="0"><na f="g/Gentz:Reinhard" pid="157/1241">Reinhard Gentz</na></co>
+<co c="1"><na f="g/Gerson:Eran" pid="144/5050">Eran Gerson</na></co>
+<co c="0"><na f="g/Gispan:Liran" pid="204/7068">Liran Gispan</na></co>
+<co c="0"><na f="g/Goldberger:Jacob" pid="65/6574">Jacob Goldberger</na></co>
+<co c="0"><na f="g/Gu:Yujie" pid="80/9877">Yujie Gu</na></co>
+<co c="-1"><na f="h/Hadar:Ido" pid="270/4213">Ido Hadar</na></co>
+<co c="0"><na f="h/Hamdi:Maziyar" pid="22/8514">Maziyar Hamdi</na></co>
+<co c="0"><na f="h/Han:Zhu" pid="83/514">Zhu Han</na></co>
+<co c="0"><na f="h/Hanawal:Manjesh_Kumar" pid="214/7112">Manjesh Kumar Hanawal</na></co>
+<co c="0"><na f="h/Harush:Uzi" pid="192/1384">Uzi Harush</na></co>
+<co c="0"><na f="h/Heimann:Ron" pid="180/2925">Ron Heimann</na></co>
+<co c="0"><na f="j/Jeffs:Brian_D=" pid="64/6082">Brian D. Jeffs</na></co>
+<co c="0"><na f="j/Jensen:Jesper_Rindom" pid="93/9878">Jesper Rindom Jensen</na></co>
+<co c="0"><na f="j/Jorswieck:Eduard_A=" pid="20/4825">Eduard A. Jorswieck</na></co>
+<co c="0"><na f="k/Kang:Jiawen" pid="145/4239">Jiawen Kang</na></co>
+<co c="0"><na f="k/Karipidis:Eleftherios" pid="49/5081">Eleftherios Karipidis</na></co>
+<co c="0"><na f="k/Kokkeler:A=" pid="140/9239">A. Kokkeler</na></co>
+<co c="1"><na f="k/Kravitz:Lior" pid="144/5039">Lior Kravitz</na></co>
+<co c="-1"><na f="k/Krikheli:Michael" pid="184/9238">Michael Krikheli</na></co>
+<co c="0"><na f="k/Krishnamachari:Bhaskar" pid="87/2250">Bhaskar Krishnamachari</na></co>
+<co c="0"><na f="k/Krishnamurthy:Vikram" pid="01/1516">Vikram Krishnamurthy</na></co>
+<co c="0"><na f="k/Kuruoglu:Ercan_E=" pid="58/5141">Ercan E. Kuruoglu</na></co>
+<co c="0"><na f="l/Larsson:Erik_G=" pid="76/3752">Erik G. Larsson</na></co>
+<co c="0"><na f="l/Laufer:Amir" pid="98/5646">Amir Laufer</na></co>
+<co c="0"><na f="l/Levanda:Ronny" pid="69/8397">Ronny Levanda</na></co>
+<co c="0"><na f="l/Li:Youming" pid="14/6496">Youming Li</na></co>
+<co c="0"><na f="l/Liao:Guisheng" pid="27/4840">Guisheng Liao</na></co>
+<co c="0"><na f="l/Luise:Marco" pid="38/5578">Marco Luise</na></co>
+<co c="0"><na f="m/Mach:Pavel" pid="83/2558">Pavel Mach</na></co>
+<co c="-1"><na f="m/Magidor:Menachem" pid="98/146">Menachem Magidor</na></co>
+<co c="0"><na f="m/Messer:Hagit" pid="m/HagitMesser">Hagit Messer</na></co>
+<co c="0"><na f="m/Meyn:Sean_P=" pid="25/6516">Sean P. Meyn</na></co>
+<co c="0"><na f="n/Naparstek:Oshri" pid="93/11071">Oshri Naparstek</na></co>
+<co c="0"><na f="n/Nedic:Angelia" pid="99/5262">Angelia Nedic</na></co>
+<co c="0"><na f="n/Nehorai:Arye" pid="n/AryeNehorai">Arye Nehorai</na></co>
+<co c="0"><na f="n/Niyato:Dusit" pid="76/440">Dusit Niyato</na></co>
+<co c="0"><na f="n/Noam:Yair" pid="46/767">Yair Noam</na></co>
+<co c="0"><na f="o/Ouzzif:Meryem" pid="96/1488">Meryem Ouzzif</na></co>
+<co c="-1"><na f="p/Pawar:Pranav_M=" pid="123/9550">Pranav M. Pawar</na></co>
+<co c="0"><na f="p/Petrochilos:Nicolas" pid="39/6243">Nicolas Petrochilos</na></co>
+<co c="0"><na f="p/Plachy:Jan" pid="150/6749">Jan Plachy</na></co>
+<co c="0"><na f="p/Poor:H=_Vincent" pid="p/HVincentPoor">H. Vincent Poor</na></co>
+<co c="-1"><na f="r/Raviv:Li=on" pid="24/6775">Li-on Raviv</na></co>
+<co c="0"><na f="s/Saligrama:Venkatesh" pid="67/4721">Venkatesh Saligrama</na></co>
+<co c="0"><na f="s/Sardarabadi:Ahmad_Mouri" pid="158/5794">Ahmad Mouri Sardarabadi</na></co>
+<co c="0"><na f="s/Sayag:Eitan" pid="92/134">Eitan Sayag</na></co>
+<co c="0"><na f="s/Scaglione:Anna" pid="61/1706">Anna Scaglione</na></co>
+<co c="0"><na f="s/Schoonderbeek:G=" pid="140/9154">G. Schoonderbeek</na></co>
+<co c="0"><na f="s/Shalom:Or" pid="244/9035">Or Shalom</na></co>
+<co c="0"><na f="s/Shayevitz:Ofer" pid="17/3290">Ofer Shayevitz</na></co>
+<co c="0" n="2"><na f="s/Sidiropoulos:Nicholas_D=" pid="s/NDSidiropoulos">Nicholas D. Sidiropoulos</na><na>Nikos D. Sidiropoulos</na></co>
+<co c="0"><na f="s/Somekh=Baruch:Anelia" pid="00/2902">Anelia Somekh-Baruch</na></co>
+<co c="1"><na f="t/Tal:Nir" pid="127/7922">Nir Tal</na></co>
+<co c="0"><na f="t/Tarafi:Rabah" pid="44/8707">Rabah Tarafi</na></co>
+<co c="0"><na f="t/Tong:Lang" pid="92/1653">Lang Tong</na></co>
+<co c="0"><na f="v/Veen:Alle=Jan_van_der" pid="29/6532">Alle-Jan van der Veen</na></co>
+<co c="0"><na f="v/Veeravalli:Venugopal_V=" pid="v/VVVeeravalli">Venugopal V. Veeravalli</na></co>
+<co c="0"><na f="w/Wai:Hoi=To" pid="29/9875">Hoi-To Wai</na></co>
+<co c="0"><na f="w/Wang_0001:Ping" pid="37/1304-1">Ping Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0004:Wenbo" pid="28/4847-4">Wenbo Wang 0004</na></co>
+<co c="0"><na f="w/Wax:Mati" pid="69/4924">Mati Wax</na></co>
+<co c="0"><na f="w/Weiss:Anthony_J=" pid="57/6984">Anthony J. Weiss</na></co>
+<co c="0"><na f="w/Wijnholds:Stefan_J=" pid="71/8858">Stefan J. Wijnholds</na></co>
+<co c="0"><na f="w/Wu:Sissi_Xiaoxiao" pid="89/7909">Sissi Xiaoxiao Wu</na></co>
+<co c="0"><na f="w/Wu:Yuntao" pid="44/3311">Yuntao Wu</na></co>
+<co c="0"><na f="x/Xiong:Zehui" pid="174/9863">Zehui Xiong</na></co>
+<co c="0"><na f="y/Yaffe:Yoav" pid="44/747">Yoav Yaffe</na></co>
+<co c="0"><na f="y/Yemini:Michal" pid="142/2496">Michal Yemini</na></co>
+<co c="2"><na f="y/Ypma:Alexander" pid="94/1278">Alexander Ypma</na></co>
+<co c="0"><na f="z/Zafaruddin:Syed_Mohammad" pid="98/11066">Syed Mohammad Zafaruddin</na></co>
+<co c="0"><na f="z/Zanko:Avi" pid="12/7662">Avi Zanko</na></co>
+<co c="0"><na f="z/Zappone:Alessio" pid="40/7118">Alessio Zappone</na></co>
+<co c="0"><na f="z/Zehavi:Ephraim" pid="94/2645">Ephraim Zehavi</na></co>
+<co c="0"><na f="z/Zhang_0025:Yang" pid="06/6785-25">Yang Zhang 0025</na></co>
+<co c="0"><na f="z/Zhao_0001:Qing" pid="78/6217-1">Qing Zhao 0001</na></co>
+</coauthors>
+</dblpperson>
+

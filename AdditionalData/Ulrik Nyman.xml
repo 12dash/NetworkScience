@@ -1,3 +1,714 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4620b5a489a420ae2909cd76b8a6a63bc0716b1b2a2e7df739537ffcde8f170c
-size 32744
+<?xml version="1.0"?>
+<dblpperson name="Ulrik Nyman" pid="80/441" n="43">
+<person key="homepages/80/441" mdate="2019-01-10">
+<author pid="80/441">Ulrik Nyman</author>
+<author pid="80/441">Ulrik Larsen</author>
+<url>http://ulrik.blog.aau.dk/</url>
+<url>https://scholar.google.com/citations?user=Z3FXuI0AAAAJ</url>
+<url>https://twitter.com/ulriknyman</url>
+<url>https://orcid.org/0000-0001-6430-540X</url>
+<note type="affiliation">Aalborg University, Department of Computer Science</note>
+</person>
+<r><inproceedings key="conf/setta/KivirigaLN20" mdate="2020-11-12">
+<author pid="278/3313">Andrej Kiviriga</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>Randomized Refinement Checking of Timed I/O Automata.</title>
+<pages>70-88</pages>
+<year>2020</year>
+<booktitle>SETTA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-62822-2_5</ee>
+<crossref>conf/setta/2020</crossref>
+<url>db/conf/setta/setta2020.html#KivirigaLN20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-05442" mdate="2020-03-17">
+<author pid="52/10257">Jalil Boudjadar</author>
+<author pid="08/3377">Saravanan Ramanathan</author>
+<author pid="73/1708">Arvind Easwaran</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>Combining Task-level and System-level Scheduling Modes for Mixed Criticality Systems.</title>
+<year>2020</year>
+<volume>abs/2003.05442</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.05442</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-05442</url>
+</article>
+</r>
+<r><article key="journals/tie/NovakNDB19" mdate="2020-05-22">
+<author orcid="0000-0001-8142-0872" pid="165/6832">Mateja Novak</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author orcid="0000-0003-4755-2024" pid="138/2806">Tomislav Dragicevic</author>
+<author orcid="0000-0001-8311-7412" pid="87/1024">Frede Blaabjerg</author>
+<title>Analytical Design and Performance Validation of Finite Set MPC Regulated Power Converters.</title>
+<pages>2004-2014</pages>
+<year>2019</year>
+<volume>66</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TIE.2018.2838073</ee>
+<url>db/journals/tie/tie66.html#NovakNDB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsrt/BoudjadarREN19" mdate="2020-06-15">
+<author pid="52/10257">Jalil Boudjadar</author>
+<author orcid="0000-0002-1894-4195" pid="08/3377">Saravanan Ramanathan</author>
+<author orcid="0000-0002-9628-3847" pid="73/1708">Arvind Easwaran</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>Combining Task-level and System-level Scheduling Modes for Mixed Criticality Systems.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT47707.2019.8958666</ee>
+<crossref>conf/dsrt/2019</crossref>
+<url>db/conf/dsrt/dsrt2019.html#BoudjadarREN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/BoudjadarKPLLN18" mdate="2018-08-23">
+<author pid="52/10257">Jalil Boudjadar</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="92/1043">Linh Thi Xuan Phan</author>
+<author pid="l/InsupLee">Insup Lee</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>Generic Formal Framework for Compositional Analysis of Hierarchical Scheduling Systems.</title>
+<pages>51-58</pages>
+<year>2018</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2018.00015</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2018.00015</ee>
+<crossref>conf/isorc/2018</crossref>
+<url>db/conf/isorc/isorc2018.html#BoudjadarKPLLN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1807-11570" mdate="2018-09-10">
+<author pid="217/3012">Pujie Han</author>
+<author pid="43/4384">Zhengjun Zhai</author>
+<author pid="25/4976">Brian Nielsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>A Compositional Approach for Schedulability Analysis of Distributed Avionics Systems.</title>
+<booktitle>MeTRiD@ETAPS</booktitle>
+<year>2018</year>
+<pages>39-51</pages>
+<crossref>journals/corr/abs-1806-09330</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.272.4</ee>
+<ee type="oa">http://arxiv.org/abs/1807.11570</ee>
+<url>db/series/eptcs/eptcs272.html#abs-1807-11570</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1809-03889" mdate="2018-10-11">
+<author pid="227/2506">Tobias R. Gundersen</author>
+<author pid="117/5464">Florian Lorber</author>
+<author pid="80/441">Ulrik Nyman</author>
+<author pid="225/5895">Christian Ovesen</author>
+<title>Effortless Fault Localisation: Conformance Testing of Real-Time Systems in Ecdar.</title>
+<booktitle>GandALF</booktitle>
+<year>2018</year>
+<pages>147-160</pages>
+<crossref>journals/corr/abs-1809-02416</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.277.11</ee>
+<ee type="oa">http://arxiv.org/abs/1809.03889</ee>
+<url>db/series/eptcs/eptcs277.html#abs-1809-03889</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1803-11050" mdate="2018-09-12">
+<author pid="217/3012">Pujie Han</author>
+<author pid="43/4384">Zhengjun Zhai</author>
+<author pid="25/4976">Brian Nielsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>A Modeling Framework for Schedulability Analysis of Distributed Avionics Systems.</title>
+<booktitle>MARS/VPT@ETAPS</booktitle>
+<year>2018</year>
+<pages>150-168</pages>
+<crossref>journals/corr/abs-1803-08668</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.268.5</ee>
+<ee type="oa">http://arxiv.org/abs/1803.11050</ee>
+<url>db/series/eptcs/eptcs268.html#abs-1803-11050</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/LarsenLMNN17" mdate="2018-11-02">
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author pid="25/4976">Brian Nielsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<title>Compositional Testing of Real-Time Systems.</title>
+<pages>107-124</pages>
+<year>2017</year>
+<booktitle>ModelEd, TestEd, TrustEd</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68270-9_6</ee>
+<crossref>conf/birthday/2017brinksma</crossref>
+<url>db/conf/birthday/brinksma2017.html#LarsenLMNN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/JensenLLN17" mdate="2019-10-19">
+<author orcid="0000-0002-9320-9991" pid="144/4964">Peter Gj&#248;l Jensen</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<title>Integrating Tools: Co-simulation in UPPAAL Using FMI-FMU.</title>
+<pages>11-19</pages>
+<year>2017</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2017.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICECCS.2017.33</ee>
+<crossref>conf/iceccs/2017</crossref>
+<url>db/conf/iceccs/iceccs2017.html#JensenLLN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/LarsenLNN17" mdate="2018-11-02">
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="117/5464">Florian Lorber</author>
+<author pid="25/4976">Brian Nielsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<title>Mutation-Based Test-Case Generation with Ecdar.</title>
+<pages>319-328</pages>
+<year>2017</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICSTW.2017.60</ee>
+<crossref>conf/icst/2017w</crossref>
+<url>db/conf/icst/icstw2017.html#LarsenLNN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/SugumarSDNLB17" mdate="2020-06-15">
+<author pid="204/4141">Gayathri Sugumar</author>
+<author pid="195/2721">Rajasekar Selvamuthukumaran</author>
+<author orcid="0000-0003-4755-2024" pid="138/2806">Tomislav Dragicevic</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="87/1024">Frede Blaabjerg</author>
+<title>Formal validation of supervisory energy management systems for microgrids.</title>
+<pages>1154-1159</pages>
+<year>2017</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2017.8216197</ee>
+<crossref>conf/iecon/2017</crossref>
+<url>db/conf/iecon/iecon2017.html#SugumarSDNLB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/BoudjadarDKLMNS16" mdate="2021-02-17">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="34/2824">Arne Skou</author>
+<title>Statistical and exact schedulability analysis of hierarchical scheduling systems.</title>
+<pages>103-130</pages>
+<year>2016</year>
+<volume>127</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2016.05.008</ee>
+<url>db/journals/scp/scp127.html#BoudjadarDKLMNS16</url>
+</article>
+</r>
+<r><article key="journals/sigbed/Larsen16" mdate="2020-06-21">
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="52/579">Axel Legay</author>
+<author pid="98/6025">Louis-Marie Traonouez</author>
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="l/InsupLee">Insup Lee</author>
+<author pid="17/4684">Jin-Young Choi</author>
+<title>Optimizing the resource requirements of hierarchical scheduling systems.</title>
+<pages>41-48</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>SIGBED Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2983185.2983192</ee>
+<url>db/journals/sigbed/sigbed13.html#Larsen16</url>
+</article>
+</r>
+<r><article key="journals/scp/BoudjadarDKLMNS15" mdate="2021-02-17">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="34/2824">Arne Skou</author>
+<title>A reconfigurable framework for compositional schedulability and power analysis of hierarchical scheduling systems with frequency scaling.</title>
+<pages>236-260</pages>
+<year>2015</year>
+<volume>113</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2015.10.003</ee>
+<url>db/journals/scp/scp113.html#BoudjadarDKLMNS15</url>
+</article>
+</r>
+<r><article key="journals/sttt/DavidLLNTW15" mdate="2020-04-02">
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="98/6025">Louis-Marie Traonouez</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Real-time specifications.</title>
+<pages>17-45</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10009-013-0286-x</ee>
+<url>db/journals/sttt/sttt17.html#DavidLLNTW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbse/KimBNMLSLP15" mdate="2018-11-06">
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="34/2824">Arne Skou</author>
+<author pid="l/InsupLee">Insup Lee</author>
+<author pid="92/1043">Linh Thi Xuan Phan</author>
+<title>Quantitative Schedulability Analysis of Continuous Probability Tasks in a Hierarchical Context.</title>
+<pages>91-100</pages>
+<year>2015</year>
+<booktitle>CBSE</booktitle>
+<ee>https://doi.org/10.1145/2737166.2737170</ee>
+<crossref>conf/cbse/2015</crossref>
+<url>db/conf/cbse/cbse2015.html#KimBNMLSLP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/BoudjadarKDLMNS15" mdate="2017-06-04">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="34/2824">Arne Skou</author>
+<author pid="l/InsupLee">Insup Lee</author>
+<author pid="92/1043">Linh Thi Xuan Phan</author>
+<title>Flexible Framework for Statistical Schedulability Analysis of Probabilistic Sporadic Tasks.</title>
+<pages>74-83</pages>
+<year>2015</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2015.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2015.21</ee>
+<crossref>conf/isorc/2015</crossref>
+<url>db/conf/isorc/isorc2015.html#BoudjadarKDLMNS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nordsec/PedersenSLNH15" mdate="2017-06-05">
+<author pid="179/2739">Martin Leth Pedersen</author>
+<author pid="179/2747">Michael Hedegaard S&#248;rensen</author>
+<author pid="138/2697">Daniel Lux</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="06/6678">Ren&#233; Rydhof Hansen</author>
+<title>The Timed Decentralised Label Model.</title>
+<pages>27-43</pages>
+<year>2015</year>
+<booktitle>NordSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26502-5_3</ee>
+<crossref>conf/nordsec/2015</crossref>
+<url>db/conf/nordsec/nordsec2015.html#PedersenSLNH15</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/BauerLLNW14" mdate="2021-02-17">
+<author pid="37/7416">Sebastian S. Bauer</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>A modal specification theory for components with data.</title>
+<pages>106-128</pages>
+<year>2014</year>
+<volume>83</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2013.06.003</ee>
+<url>db/journals/scp/scp83.html#BauerLLNW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/BoudjadarKLN14" mdate="2017-06-02">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<title>Model Checking Process Algebra of Communicating Resources for Real-Time Systems.</title>
+<pages>51-60</pages>
+<year>2014</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2014.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ECRTS.2014.24</ee>
+<crossref>conf/ecrts/2014</crossref>
+<url>db/conf/ecrts/ecrts2014.html#BoudjadarKLN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/facs2/BoudjadarDKLMNS14" mdate="2017-06-02">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="34/2824">Arne Skou</author>
+<title>Widening the Schedulability of Hierarchical Scheduling Systems.</title>
+<pages>209-227</pages>
+<year>2014</year>
+<booktitle>FACS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15317-9_14</ee>
+<crossref>conf/facs2/2014</crossref>
+<url>db/conf/facs2/facs2014.html#BoudjadarDKLMNS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaase/BoudjadarKLN14" mdate="2019-05-28">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<title>Compositional Schedulability Analysis of An Avionics System Using UPPAAL.</title>
+<pages>140-147</pages>
+<year>2014</year>
+<booktitle>ICAASE</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1294/paper16.pdf</ee>
+<crossref>conf/icaase/2014</crossref>
+<url>db/conf/icaase/icaase2014.html#BoudjadarKLN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tase/BoudjadarDKLMNS14" mdate="2017-06-05">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="34/2824">Arne Skou</author>
+<title>Degree of Schedulability of Mixed-Criticality Real-Time Systems with Probabilistic Sporadic Tasks.</title>
+<pages>126-130</pages>
+<year>2014</year>
+<booktitle>TASE</booktitle>
+<ee>https://doi.org/10.1109/TASE.2014.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TASE.2014.27</ee>
+<crossref>conf/tase/2014</crossref>
+<url>db/conf/tase/tase2014.html#BoudjadarDKLMNS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/facs2/BoudjadarDKLMNS13" mdate="2017-06-02">
+<author pid="52/10257">Abdeldjalil Boudjadar</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="73/6956">Jin Hyun Kim</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="20/5032">Marius Mikucionis</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="34/2824">Arne Skou</author>
+<title>Hierarchical Scheduling Framework Based on Compositional Analysis Using Uppaal.</title>
+<pages>61-78</pages>
+<year>2013</year>
+<booktitle>FACS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-07602-7_6</ee>
+<crossref>conf/facs2/2013</crossref>
+<url>db/conf/facs2/facs2013.html#BoudjadarDKLMNS13</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/LarsenLN13" mdate="2018-09-12">
+<editor pid="l/KimGuldstrandLarsen">Kim G. Larsen</editor>
+<editor pid="52/579">Axel Legay</editor>
+<editor orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</editor>
+<title>Proceedings 1st Workshop on Advances in Systems of Systems, AiSoS 2013, Rome, Italy, 16th March 2013.</title>
+<booktitle>AiSoS</booktitle>
+<year>2013</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<ee type="oa">https://doi.org/10.4204/EPTCS.133</ee>
+<ee type="oa">http://arxiv.org/abs/1311.3195</ee>
+<volume>133</volume>
+<url>db/series/eptcs/eptcs133.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sttt/DavidLLMNRSW12" mdate="2020-04-02">
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author pid="40/8401">Mikael H. M&#248;ller</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="51/1502">Anders P. Ravn</author>
+<author pid="34/2824">Arne Skou</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Compositional verification of real-time systems using Ecdar.</title>
+<pages>703-720</pages>
+<year>2012</year>
+<volume>14</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10009-012-0237-y</ee>
+<url>db/journals/sttt/sttt14.html#DavidLLMNRSW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/BauerDHLLNW12" mdate="2018-06-26">
+<author pid="37/7416">Sebastian S. Bauer</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="h/RolfHennicker">Rolf Hennicker</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Moving from Specifications to Contracts in Component-Based Design.</title>
+<pages>43-58</pages>
+<year>2012</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28872-2_3</ee>
+<crossref>conf/fase/2012</crossref>
+<url>db/conf/fase/fase2012.html#BauerDHLLNW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/facs2/BauerLLNW11" mdate="2017-06-02">
+<author pid="37/7416">Sebastian S. Bauer</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>A Modal Specification Theory for Components with Data.</title>
+<pages>61-78</pages>
+<year>2011</year>
+<booktitle>FACS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35743-5_5</ee>
+<crossref>conf/facs2/2011</crossref>
+<url>db/conf/facs2/facs2011.html#BauerLLNW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/mscs/AntonikHLNW10" mdate="2020-04-01">
+<author pid="14/714">Adam Antonik</author>
+<author pid="h/MichaelHuth">Michael Huth</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Modal and mixed specifications: key decision problems and their complexities.</title>
+<pages>75-103</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S0960129509990260</ee>
+<url>db/journals/mscs/mscs20.html#AntonikHLNW10</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/DavidLLNW10" mdate="2017-06-01">
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>ECDAR: An Environment for Compositional Design and Analysis of Real Time Systems.</title>
+<pages>365-370</pages>
+<year>2010</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15643-4_29</ee>
+<crossref>conf/atva/2010</crossref>
+<url>db/conf/atva/atva2010.html#DavidLLNW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hybrid/DavidLLNW10" mdate="2018-11-06">
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Timed I/O automata: a complete specification theory for real-time systems.</title>
+<pages>91-100</pages>
+<year>2010</year>
+<booktitle>HSCC</booktitle>
+<ee>https://doi.org/10.1145/1755952.1755967</ee>
+<crossref>conf/hybrid/2010</crossref>
+<url>db/conf/hybrid/hscc2010.html#DavidLLNW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wadt/BourkeDLLLNW10" mdate="2018-11-02">
+<author pid="72/6450">Timothy Bourke</author>
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-9429-7586" pid="94/6720">Didier Lime</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>New Results on Timed Specifications.</title>
+<pages>175-192</pages>
+<year>2010</year>
+<booktitle>WADT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28412-0_12</ee>
+<crossref>conf/wadt/2010</crossref>
+<url>db/conf/wadt/wadt2010.html#BourkeDLLLNW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmco/DavidLLNW09" mdate="2017-06-02">
+<author pid="06/5602">Alexandre David</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="52/579">Axel Legay</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Methodologies for Specification of Real-Time Systems Using Timed I/O Automata.</title>
+<pages>290-310</pages>
+<year>2009</year>
+<booktitle>FMCO</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17071-3_15</ee>
+<crossref>conf/fmco/2009</crossref>
+<url>db/conf/fmco/fmco2009.html#DavidLLNW09</url>
+</inproceedings>
+</r>
+<r><article key="journals/eatcs/AntonikHLNW08" mdate="2020-06-18">
+<author pid="14/714">Adam Antonik</author>
+<author pid="h/MichaelHuth">Michael Huth</author>
+<author pid="l/KimGuldstrandLarsen">Kim G. Larsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>20 Years of Modal and Mixed Specifications.</title>
+<pages>94-129</pages>
+<year>2008</year>
+<volume>95</volume>
+<journal>Bull. EATCS</journal>
+<url>db/journals/eatcs/eatcs95.html#AntonikHLNW08</url>
+</article>
+</r>
+<r><inproceedings key="conf/fossacs/AntonikHLNW08" mdate="2018-06-26">
+<author pid="14/714">Adam Antonik</author>
+<author pid="h/MichaelHuth">Michael Huth</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Complexity of Decision Problems for Mixed and Modal Specifications.</title>
+<pages>112-126</pages>
+<year>2008</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-78499-9_9</ee>
+<crossref>conf/fossacs/2008</crossref>
+<url>db/conf/fossacs/fossacs2008.html#AntonikHLNW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/AntonikHLNW09" mdate="2021-02-17">
+<author pid="14/714">Adam Antonik</author>
+<author pid="h/MichaelHuth">Michael Huth</author>
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>EXPTIME-complete Decision Problems for Modal and Mixed Specifications.</title>
+<pages>19-33</pages>
+<year>2008</year>
+<crossref>conf/express/2008</crossref>
+<booktitle>EXPRESS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2009.06.011</ee>
+<url>db/conf/express/express2008.html#AntonikHLNW09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/LarsenNW07" mdate="2020-04-02">
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Modeling software product lines using color-blind transition systems.</title>
+<pages>471-487</pages>
+<year>2007</year>
+<volume>9</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1007/s10009-007-0046-x</ee>
+<url>db/journals/sttt/sttt9.html#LarsenNW07</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/LarsenNW07" mdate="2017-06-02">
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>On Modal Refinement and Consistency.</title>
+<pages>105-119</pages>
+<year>2007</year>
+<crossref>conf/concur/2007</crossref>
+<booktitle>CONCUR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74407-8_8</ee>
+<url>db/conf/concur/concur2007.html#LarsenNW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/LarsenNW07" mdate="2018-06-26">
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Modal I/O Automata for Interface and Product Line Theories.</title>
+<pages>64-79</pages>
+<year>2007</year>
+<crossref>conf/esop/2007</crossref>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-71316-6_6</ee>
+<url>db/conf/esop/esop2007.html#LarsenNW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/LarsenNW06" mdate="2017-06-02">
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author orcid="0000-0001-6430-540X" pid="80/441">Ulrik Nyman</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Interface Input/Output Automata.</title>
+<pages>82-97</pages>
+<year>2006</year>
+<crossref>conf/fm/2006</crossref>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/11813040_7</ee>
+<url>db/conf/fm/fm2006.html#LarsenNW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/LarsenLW05" mdate="2018-06-26">
+<author pid="l/KimGuldstrandLarsen">Kim Guldstrand Larsen</author>
+<author pid="80/441">Ulrik Larsen</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>Color-Blind Specifications for Transformations of Reactive Synchronous Programs.</title>
+<pages>160-174</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31984-9_13</ee>
+<year>2005</year>
+<crossref>conf/fase/2005</crossref>
+<booktitle>FASE</booktitle>
+<url>db/conf/fase/fase2005.html#LarsenLW05</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/01/Nyman01" mdate="2020-05-12">
+<author pid="80/441">Ulrik Nyman</author>
+<title>How Do We Implement the Theory of CM in Practice.</title>
+<pages>47-65</pages>
+<year>2001</year>
+<booktitle>Managing the Change</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-56614-1_6</ee>
+<crossref>books/sp/01/HOCR2001</crossref>
+<url>db/books/collections/HOCR2001.html#Nyman01</url>
+</incollection>
+</r>
+<coauthors n="39" nc="1">
+<co c="0"><na f="a/Antonik:Adam" pid="14/714">Adam Antonik</na></co>
+<co c="0"><na f="b/Bauer:Sebastian_S=" pid="37/7416">Sebastian S. Bauer</na></co>
+<co c="0"><na f="b/Blaabjerg:Frede" pid="87/1024">Frede Blaabjerg</na></co>
+<co c="0" n="2"><na f="b/Boudjadar:Abdeldjalil" pid="52/10257">Abdeldjalil Boudjadar</na><na>Jalil Boudjadar</na></co>
+<co c="0"><na f="b/Bourke:Timothy" pid="72/6450">Timothy Bourke</na></co>
+<co c="0"><na f="c/Choi:Jin=Young" pid="17/4684">Jin-Young Choi</na></co>
+<co c="0"><na f="d/David:Alexandre" pid="06/5602">Alexandre David</na></co>
+<co c="0"><na f="d/Dragicevic:Tomislav" pid="138/2806">Tomislav Dragicevic</na></co>
+<co c="0"><na f="e/Easwaran:Arvind" pid="73/1708">Arvind Easwaran</na></co>
+<co c="0"><na f="g/Gundersen:Tobias_R=" pid="227/2506">Tobias R. Gundersen</na></co>
+<co c="0"><na f="h/Han:Pujie" pid="217/3012">Pujie Han</na></co>
+<co c="0"><na f="h/Hansen:Ren=eacute=_Rydhof" pid="06/6678">Ren&#233; Rydhof Hansen</na></co>
+<co c="0"><na f="h/Hennicker:Rolf" pid="h/RolfHennicker">Rolf Hennicker</na></co>
+<co c="0"><na f="h/Huth:Michael" pid="h/MichaelHuth">Michael Huth</na></co>
+<co c="0"><na f="j/Jensen:Peter_Gj=oslash=l" pid="144/4964">Peter Gj&#248;l Jensen</na></co>
+<co c="0"><na f="k/Kim:Jin_Hyun" pid="73/6956">Jin Hyun Kim</na></co>
+<co c="0"><na f="k/Kiviriga:Andrej" pid="278/3313">Andrej Kiviriga</na></co>
+<co c="0" n="2"><na f="l/Larsen:Kim_G=" pid="l/KimGuldstrandLarsen">Kim G. Larsen</na><na>Kim Guldstrand Larsen</na></co>
+<co c="0"><na f="l/Lee:Insup" pid="l/InsupLee">Insup Lee</na></co>
+<co c="0"><na f="l/Legay:Axel" pid="52/579">Axel Legay</na></co>
+<co c="0"><na f="l/Lime:Didier" pid="94/6720">Didier Lime</na></co>
+<co c="0"><na f="l/Lorber:Florian" pid="117/5464">Florian Lorber</na></co>
+<co c="0"><na f="l/Lux:Daniel" pid="138/2697">Daniel Lux</na></co>
+<co c="0"><na f="m/Mikucionis:Marius" pid="20/5032">Marius Mikucionis</na></co>
+<co c="0"><na f="m/M=oslash=ller:Mikael_H=" pid="40/8401">Mikael H. M&#248;ller</na></co>
+<co c="0"><na f="n/Nielsen:Brian" pid="25/4976">Brian Nielsen</na></co>
+<co c="0"><na f="n/Novak:Mateja" pid="165/6832">Mateja Novak</na></co>
+<co c="0"><na f="o/Ovesen:Christian" pid="225/5895">Christian Ovesen</na></co>
+<co c="0"><na f="p/Pedersen:Martin_Leth" pid="179/2739">Martin Leth Pedersen</na></co>
+<co c="0" n="2"><na f="p/Phan:Linh_T=_X=" pid="92/1043">Linh T. X. Phan</na><na>Linh Thi Xuan Phan</na></co>
+<co c="0"><na f="r/Ramanathan:Saravanan" pid="08/3377">Saravanan Ramanathan</na></co>
+<co c="0"><na f="r/Ravn:Anders_P=" pid="51/1502">Anders P. Ravn</na></co>
+<co c="0"><na f="s/Selvamuthukumaran:Rajasekar" pid="195/2721">Rajasekar Selvamuthukumaran</na></co>
+<co c="0"><na f="s/Skou:Arne" pid="34/2824">Arne Skou</na></co>
+<co c="0"><na f="s/S=oslash=rensen:Michael_Hedegaard" pid="179/2747">Michael Hedegaard S&#248;rensen</na></co>
+<co c="0"><na f="s/Sugumar:Gayathri" pid="204/4141">Gayathri Sugumar</na></co>
+<co c="0"><na f="t/Traonouez:Louis=Marie" pid="98/6025">Louis-Marie Traonouez</na></co>
+<co c="0"><na f="w/Wasowski:Andrzej" pid="18/3339">Andrzej Wasowski</na></co>
+<co c="0"><na f="z/Zhai:Zhengjun" pid="43/4384">Zhengjun Zhai</na></co>
+</coauthors>
+</dblpperson>
+

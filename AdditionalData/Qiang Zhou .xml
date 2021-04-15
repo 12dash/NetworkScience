@@ -1,3 +1,2553 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64eb3fc5bd4c2d1d06b34b487e7b5d07a26f008a0c41f10f59cf27997e21429b
-size 109464
+<?xml version="1.0"?>
+<dblpperson name="Qiang Zhou 0001" pid="43/3182-1" n="154">
+<person key="homepages/43/3182-1" mdate="2018-01-30">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<note type="affiliation">Tsinghua University, Department of Computer Science and Technology, Beijing, China</note>
+<note label="PhD 2002" type="affiliation">Chinese University of Mining and Technology, Beijing, China</note>
+</person>
+<homonyms n="6">
+<h f="z/Zhou:Qiang"><person publtype="disambiguation" key="homepages/43/3182" mdate="2018-01-30">
+<author pid="43/3182">Qiang Zhou</author>
+</person>
+</h>
+<h f="z/Zhou_0002:Qiang"><person key="homepages/43/3182-2" mdate="2019-07-30">
+<author pid="43/3182-2">Qiang Zhou 0002</author>
+<note type="affiliation">University of Arizona, Tucson, AZ, USA</note>
+<note type="affiliation" label="2012 - 2016">City University of Hong Kong, Systems Engineering and Engineering Management, Hong Kong</note>
+<note type="affiliation" label="PhD 2011">University of Wisconsin Madison, Industrial and Systems Engineering, WI, USA</note>
+<url>http://www.sie.arizona.edu/qiang-zhou</url>
+<url>http://www6.cityu.edu.hk/stfprofile/qzhou.htm</url>
+<url>https://orcid.org/0000-0003-1348-8861</url>
+<url>https://www.wikidata.org/entity/Q60662523</url>
+<url>https://www.researcherid.com/rid/D-9630-2017</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=55670116900</url>
+</person>
+</h>
+<h f="z/Zhou_0003:Qiang"><person key="homepages/43/3182-3" mdate="2020-05-20">
+<author pid="43/3182-3">Qiang Zhou 0003</author>
+<note type="affiliation">The Ohio State University, Department of Chemical and Biomolecular Engineering, Columbus, OH, USA</note>
+<note type="affiliation" label="PhD 2010">Tsinghua University, Beijing, China</note>
+<url>https://orcid.org/0000-0002-2375-1566</url>
+<url>https://www.wikidata.org/entity/Q84600023</url>
+<url>https://www.researcherid.com/rid/B-1568-2015</url>
+</person>
+</h>
+<h f="z/Zhou_0004:Qiang"><person key="homepages/43/3182-4" mdate="2019-01-10">
+<author pid="43/3182-4">Qiang Zhou 0004</author>
+<note type="affiliation">Chongqing University, State Key Laboratory of Mechanical Transmission, China</note>
+<url>https://orcid.org/0000-0001-7762-1487</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=55722140100</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=57195337141</url>
+</person>
+</h>
+<h f="z/Zhou_0005:Qiang"><person key="homepages/43/3182-5" mdate="2018-01-30">
+<author pid="43/3182-5">Qiang Zhou 0005</author>
+<note type="affiliation">Tsinghua University, Research Institute of Information Technology, TNList, Beijing, China</note>
+<url>https://orcid.org/0000-0001-7369-3598</url>
+</person>
+</h>
+<h f="z/Zhou_0006:Qiang"><person key="homepages/43/3182-6" mdate="2019-07-05">
+<author pid="43/3182-6">Qiang Zhou 0006</author>
+<note type="affiliation">Hong Kong Shue Yan University, Department of Accounting</note>
+<note label="PhD 2006" type="affiliation">Chinese University of Hong Kong, Hong Kong</note>
+<url>https://accounting.hksyu.edu/qzhou/</url>
+</person>
+</h>
+</homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2101-11782" mdate="2021-01-31">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="14/10377">Chaohui Yu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="67/1237">Zhibin Wang</author>
+<author pid="17/5705">Hao Li</author>
+<title>Object Detection Made Simpler by Eliminating Heuristic NMS.</title>
+<year>2021</year>
+<volume>abs/2101.11782</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.11782</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-11782</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-11402" mdate="2021-03-24">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="14/10377">Chaohui Yu</author>
+<author pid="67/1237">Zhibin Wang</author>
+<author pid="05/2084">Qi Qian</author>
+<author pid="17/5705">Hao Li</author>
+<title>Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework.</title>
+<year>2021</year>
+<volume>abs/2103.11402</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.11402</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-11402</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/YangZW00ZL20" mdate="2020-08-11">
+<author pid="223/8490">Zhuoqian Yang</author>
+<author pid="117/0354">Wentao Zhu</author>
+<author pid="50/8731">Wayne Wu</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="46/8066">Bolei Zhou</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.</title>
+<pages>5305-5314</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00535</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#YangZW00ZL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-14401" mdate="2020-04-02">
+<author pid="223/8490">Zhuoqian Yang</author>
+<author pid="117/0354">Wentao Zhu</author>
+<author pid="50/8731">Wayne Wu</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="46/8066">Bolei Zhou</author>
+<author pid="01/5855">Chen Change Loy</author>
+<title>TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.</title>
+<year>2020</year>
+<volume>abs/2003.14401</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.14401</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-14401</url>
+</article>
+</r>
+<r><article key="journals/cg/WuWCZ19" mdate="2020-02-19">
+<author pid="57/1381-5">Wenyan Wu 0005</author>
+<author pid="246/1348">Xingzhe Wu</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Deep coupling neural network for robust facial landmark detection.</title>
+<pages>286-294</pages>
+<year>2019</year>
+<volume>82</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2019.05.031</ee>
+<url>db/journals/cg/cg82.html#WuWCZ19</url>
+</article>
+</r>
+<r><article key="journals/integration/WangZCQ19" mdate="2020-02-20">
+<author orcid="0000-0003-0080-4730" pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="04/3130">Gang Qu</author>
+<title>Parallelizing SAT-based de-camouflaging attacks by circuit partitioning and conflict avoiding.</title>
+<pages>108-120</pages>
+<year>2019</year>
+<volume>67</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2018.10.009</ee>
+<url>db/journals/integration/integration67.html#WangZCQ19</url>
+</article>
+</r>
+<r><article key="journals/integration/WangWCZ19" mdate="2020-02-20">
+<author pid="59/6419">Haoyi Wang</author>
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>A high-level information flow tracking method for detecting information leakage.</title>
+<pages>393-399</pages>
+<year>2019</year>
+<volume>69</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2019.08.001</ee>
+<url>db/journals/integration/integration69.html#WangWCZ19</url>
+</article>
+</r>
+<r><article key="journals/tcad/YangWZWLCZ19" mdate="2020-09-24">
+<author orcid="0000-0001-8424-7040" pid="99/9547-1">Jianlei Yang 0001</author>
+<author orcid="0000-0003-0080-4730" pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author orcid="0000-0002-2999-7903" pid="89/9136">Zhaohao Wang</author>
+<author orcid="0000-0003-3228-6544" pid="30/5330-1">Hai Li 0001</author>
+<author orcid="0000-0002-1486-8412" pid="80/1641">Yiran Chen</author>
+<author pid="48/5196">Weisheng Zhao</author>
+<title>Exploiting Spin-Orbit Torque Devices As Reconfigurable Logic for Circuit Obfuscation.</title>
+<pages>57-69</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2802870</ee>
+<url>db/journals/tcad/tcad38.html#YangWZWLCZ19</url>
+</article>
+</r>
+<r><article key="journals/tcad/Wang0CQ19" mdate="2020-09-24">
+<author orcid="0000-0003-0080-4730" pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author orcid="0000-0001-6759-8949" pid="04/3130">Gang Qu</author>
+<title>Toward a Formal and Quantitative Evaluation Framework for Circuit Obfuscation Methods.</title>
+<pages>1844-1857</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2864220</ee>
+<url>db/journals/tcad/tcad38.html#Wang0CQ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/SunWLYW0Y019" mdate="2020-12-18">
+<author pid="247/6356">Keqiang Sun</author>
+<author pid="50/8731">Wayne Wu</author>
+<author pid="251/8860">Tinghao Liu</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="73/5750">Zuochang Ye</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<title>FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos.</title>
+<pages>5461-5470</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00556</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#SunWLYW0Y019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/WangCY019" mdate="2019-07-14">
+<author pid="02/736">Jing Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="51/5332">Ming Yan</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Composite Optimization for Electromigration Reliability and Noise in Power Grid Networks.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2019.8702122</ee>
+<crossref>conf/iscas/2019</crossref>
+<url>db/conf/iscas/iscas2019.html#WangCY019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12100" mdate="2020-12-18">
+<author pid="247/6356">Keqiang Sun</author>
+<author pid="50/8731">Wayne Wu</author>
+<author pid="251/8860">Tinghao Liu</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="73/5750">Zuochang Ye</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<title>FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos.</title>
+<year>2019</year>
+<volume>abs/1910.12100</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12100</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12100</url>
+</article>
+</r>
+<r><article key="journals/jcst/WangZCQ18" mdate="2018-11-20">
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="04/3130">Gang Qu</author>
+<title>Spear and Shield: Evolution of Integrated Circuit Camouflaging.</title>
+<pages>42-57</pages>
+<year>2018</year>
+<volume>33</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11390-018-1807-6</ee>
+<url>db/journals/jcst/jcst33.html#WangZCQ18</url>
+</article>
+</r>
+<r><article key="journals/jcst/JiangXWZ18" mdate="2019-09-27">
+<author pid="04/2910">Shan Jiang</author>
+<author pid="04/5856">Ning Xu</author>
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>An Efficient Technique to Reverse Engineer Minterm Protection Based Camouflaged Circuit.</title>
+<pages>998-1006</pages>
+<year>2018</year>
+<volume>33</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11390-018-1870-z</ee>
+<url>db/journals/jcst/jcst33.html#JiangXWZ18</url>
+</article>
+</r>
+<r><article key="journals/tcad/JiaCZY18" mdate="2020-09-24">
+<author orcid="0000-0003-2207-6092" pid="154/3032">Xiaotao Jia</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author orcid="0000-0001-6406-4810" pid="28/4556-1">Bei Yu 0001</author>
+<title>A Multicommodity Flow-Based Detailed Router With Efficient Acceleration Techniques.</title>
+<pages>217-230</pages>
+<year>2018</year>
+<volume>37</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCAD.2017.2693270</ee>
+<url>db/journals/tcad/tcad37.html#JiaCZY18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/WangCZW18" mdate="2018-11-20">
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="59/6419">Haoyi Wang</author>
+<title>ASAX: Automatic security assertion extraction for detecting Hardware Trojans.</title>
+<pages>84-89</pages>
+<year>2018</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2018.8297287</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3201626</ee>
+<crossref>conf/aspdac/2018</crossref>
+<url>db/conf/aspdac/aspdac2018.html#WangCZW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/WangZCQ18" mdate="2018-11-20">
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="04/3130">Gang Qu</author>
+<title>A conflict-free approach for parallelizing SAT-based de-camouflaging attacks.</title>
+<pages>259-264</pages>
+<year>2018</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2018.8297315</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3201661</ee>
+<crossref>conf/aspdac/2018</crossref>
+<url>db/conf/aspdac/aspdac2018.html#WangZCQ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/WangC018" mdate="2018-04-09">
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>HLIFT: A high-level information flow tracking method for detecting hardware Trojans.</title>
+<pages>727-732</pages>
+<year>2018</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2018.8297408</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3201773</ee>
+<crossref>conf/aspdac/2018</crossref>
+<url>db/conf/aspdac/aspdac2018.html#WangC018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Wu0YWC018" mdate="2020-12-18">
+<author pid="50/8731">Wayne Wu</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Look at Boundary: A Boundary-Aware Face Alignment Algorithm.</title>
+<pages>2129-2138</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Look_at_Boundary_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00227</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00227</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#Wu0YWC018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/JiaWCZ18" mdate="2018-11-21">
+<author pid="154/3032">Xiaotao Jia</author>
+<author pid="02/736">Jing Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Electromigration Design Rule aware Global and Detailed Routing Algorithm.</title>
+<pages>267-272</pages>
+<year>2018</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3194554.3194567</ee>
+<crossref>conf/glvlsi/2018</crossref>
+<url>db/conf/glvlsi/glvlsi2018.html#JiaWCZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/WangCWZ18" mdate="2019-01-07">
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="59/6419">Haoyi Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Electromagnetic equalizer: an active countermeasure against EM side-channel attack.</title>
+<pages>112</pages>
+<year>2018</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3240765.3240804</ee>
+<ee>http://ieeexplore.ieee.org/document/8587677/</ee>
+<crossref>conf/iccad/2018</crossref>
+<url>db/conf/iccad/iccad2018.html#WangCWZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccnc/WeiZC18" mdate="2018-11-20">
+<author pid="97/398">Jia Wei</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>Poet-based Poetry Generation: Controlling Personal Style with Recurrent Neural Networks.</title>
+<pages>156-160</pages>
+<year>2018</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICCNC.2018.8390270</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCNC.2018.8390270</ee>
+<crossref>conf/iccnc/2018</crossref>
+<url>db/conf/iccnc/iccnc2018.html#WeiZC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02789" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="89/9136">Zhaohao Wang</author>
+<author pid="30/5330-1">Hai Li 0001</author>
+<author pid="80/1641">Yiran Chen</author>
+<author pid="48/5196">Weisheng Zhao</author>
+<title>Exploiting Spin-Orbit Torque Devices as Reconfigurable Logic for Circuit Obfuscation.</title>
+<year>2018</year>
+<volume>abs/1802.02789</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02789</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02789</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-10483" mdate="2020-12-18">
+<author pid="50/8731">Wayne Wu</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Look at Boundary: A Boundary-Aware Face Alignment Algorithm.</title>
+<year>2018</year>
+<volume>abs/1805.10483</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.10483</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-10483</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/WangZCQ17" mdate="2018-11-06">
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="04/3130">Gang Qu</author>
+<title>An Empirical Study on Gate Camouflaging Methods Against Circuit Partition Attack.</title>
+<pages>345-350</pages>
+<year>2017</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3060403.3060493</ee>
+<crossref>conf/glvlsi/2017</crossref>
+<url>db/conf/glvlsi/glvlsi2017.html#WangZCQ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/WangYCZY17" mdate="2020-04-05">
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="51/5332">Ming Yan</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<title>Power Profile Equalizer: A Lightweight Countermeasure against Side-Channel Attack.</title>
+<pages>305-312</pages>
+<year>2017</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2017.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2017.54</ee>
+<crossref>conf/iccd/2017</crossref>
+<url>db/conf/iccd/iccd2017.html#WangYCZY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/WangCZ17" mdate="2018-01-30">
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Automatic Security Property Generation for Detecting Information-Leaking Hardware Trojans.</title>
+<pages>321-328</pages>
+<year>2017</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2017.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2017.56</ee>
+<crossref>conf/iccd/2017</crossref>
+<url>db/conf/iccd/iccd2017.html#WangCZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/WangCZ17" mdate="2018-01-30">
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Cell spreading optimization for force-directed global placers.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2017.8050572</ee>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#WangCZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/PangZZGQT17" mdate="2018-02-01">
+<author pid="148/1632">Zihan Pang</author>
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="199/6839">Shuqian Gong</author>
+<author pid="97/6296">Xu Qian</author>
+<author pid="77/5837">Bin Tang</author>
+<title>Crossover Ring Oscillator PUF.</title>
+<pages>237-243</pages>
+<year>2017</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2017.7918322</ee>
+<crossref>conf/isqed/2017</crossref>
+<url>db/conf/isqed/isqed2017.html#PangZZGQT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/YanCWZ17" mdate="2018-04-11">
+<author pid="51/5332">Ming Yan</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>An Effective Power Grid Optimization Approach for the Electromigration Reliability.</title>
+<pages>453-458</pages>
+<year>2017</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2017.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2017.85</ee>
+<crossref>conf/isvlsi/2017</crossref>
+<url>db/conf/isvlsi/isvlsi2017.html#YanCWZ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/ZhangWDLZXSW16" mdate="2020-04-23">
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="87/2533">Qiang Wu</author>
+<author pid="145/0852">Yipeng Ding</author>
+<author pid="148/2160">Yong-Qiang Lv</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="94/8286">Zhihua Xia</author>
+<author pid="08/3399">Xingming Sun</author>
+<author pid="99/4694-1">Xing-Wei Wang 0001</author>
+<title>Techniques for Design and Implementation of an FPGA-Specific Physical Unclonable Function.</title>
+<pages>124-136</pages>
+<year>2016</year>
+<volume>31</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11390-016-1616-8</ee>
+<url>db/journals/jcst/jcst31.html#ZhangWDLZXSW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/JiaCZY16" mdate="2018-11-06">
+<author pid="154/3032">Xiaotao Jia</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="28/4556-1">Bei Yu 0001</author>
+<title>MCFRoute 2.0: A Redundant Via Insertion Enhanced Concurrent Detailed Router.</title>
+<pages>87-92</pages>
+<year>2016</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2902961.2902966</ee>
+<crossref>conf/glvlsi/2016</crossref>
+<url>db/conf/glvlsi/glvlsi2016.html#JiaCZY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/WangJZCYGQ16" mdate="2020-04-05">
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="154/3032">Xiaotao Jia</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="145/9452">Mingze Gao</author>
+<author pid="04/3130">Gang Qu</author>
+<title>Secure and Low-Overhead Circuit Obfuscation Technique with Multiplexers.</title>
+<pages>133-136</pages>
+<year>2016</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2902961.2903000</ee>
+<crossref>conf/glvlsi/2016</crossref>
+<url>db/conf/glvlsi/glvlsi2016.html#WangJZCYGQ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ChenCZQ16" mdate="2018-01-30">
+<author pid="184/4272">Zhuwei Chen</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="04/3130">Gang Qu</author>
+<title>An efficient framework for configurable RO PUF.</title>
+<pages>742-745</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2016.7527347</ee>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#ChenCZQ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/WangZCQ16" mdate="2018-01-30">
+<author pid="37/5333">Xueyan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="04/3130">Gang Qu</author>
+<title>Is the Secure IC camouflaging really secure?</title>
+<pages>1710-1713</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2016.7538897</ee>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#WangZCQ16</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/YaoYCZS15" mdate="2020-02-20">
+<author pid="72/2941">Hailong Yao</author>
+<author pid="29/3081">Fan Yang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author orcid="0000-0001-7007-6746" pid="74/6729">Chiu-Wing Sham</author>
+<title>SIAR: Customized real-time interactive router for analog circuits.</title>
+<pages>170-182</pages>
+<year>2015</year>
+<volume>48</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2014.03.001</ee>
+<url>db/journals/integration/integration48.html#YaoYCZS15</url>
+</article>
+</r>
+<r><article key="journals/jcst/DengCZ15" mdate="2018-01-30">
+<author pid="74/322">Chao Deng</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Register Clustering Methodology for Low Power Clock Tree Synthesis.</title>
+<pages>391-403</pages>
+<year>2015</year>
+<volume>30</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11390-015-1531-4</ee>
+<url>db/journals/jcst/jcst30.html#DengCZ15</url>
+</article>
+</r>
+<r><article key="journals/jcst/QiCZ15" mdate="2018-01-30">
+<author pid="77/9611">Zhongdong Qi</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Design-Rule-Aware Congestion Model with Explicit Modeling of Vias and Local Pin Access Paths.</title>
+<pages>614-628</pages>
+<year>2015</year>
+<volume>30</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11390-015-1515-4</ee>
+<url>db/journals/jcst/jcst30.html#QiCZ15</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/CaiDZYNS15" mdate="2020-03-11">
+<author pid="09/2775">Yici Cai</author>
+<author pid="74/322">Chao Deng</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="53/9547">Feifei Niu</author>
+<author pid="s/CliffNSze">Cliff N. Sze</author>
+<title>Obstacle-Avoiding and Slew-Constrained Clock Tree Synthesis With Efficient Buffer Insertion.</title>
+<pages>142-155</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVLSI.2014.2300174</ee>
+<url>db/journals/tvlsi/tvlsi23.html#CaiDZYNS15</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/YangCZZ15" mdate="2020-04-05">
+<author orcid="0000-0001-8424-7040" pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="z/WeiZhao">Wei Zhao</author>
+<title>A Selected Inversion Approach for Locality Driven Vectorless Power Grid Verification.</title>
+<pages>2617-2628</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVLSI.2014.2365520</ee>
+<url>db/journals/tvlsi/tvlsi23.html#YangCZZ15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cadgraphics/GaoLZQCZ15" mdate="2018-02-01">
+<author pid="145/9452">Mingze Gao</author>
+<author pid="145/9193">Khai Lai</author>
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="67/1816">Aijiao Cui</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Reliable and Anti-cloning PUFs Based on Configurable Ring Oscillators.</title>
+<pages>194-201</pages>
+<year>2015</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADGRAPHICS.2015.54</ee>
+<crossref>conf/cadgraphics/2015</crossref>
+<url>db/conf/cadgraphics/cadgraphics2015.html#GaoLZQCZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DengCZ15" mdate="2018-01-30">
+<author pid="74/322">Chao Deng</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Fast synthesis of low power clock trees based on register clustering.</title>
+<pages>303-309</pages>
+<year>2015</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2015.7085444</ee>
+<crossref>conf/isqed/2015</crossref>
+<url>db/conf/isqed/isqed2015.html#DengCZ15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/ZhangQLZ14" mdate="2018-02-01">
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="148/2160">Yong-Qiang Lv</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>A Survey on Silicon PUFs and Recent Advances in Ring Oscillator PUFs.</title>
+<pages>664-678</pages>
+<year>2014</year>
+<volume>29</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11390-014-1458-1</ee>
+<url>db/journals/jcst/jcst29.html#ZhangQLZ14</url>
+</article>
+</r>
+<r><article key="journals/jcst/LvZCQ14" mdate="2018-01-30">
+<author pid="148/2160">Yong-Qiang Lv</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="04/3130">Gang Qu</author>
+<title>Trusted Integrated Circuits: The Problem and Challenges.</title>
+<pages>918-928</pages>
+<year>2014</year>
+<volume>29</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11390-014-1479-9</ee>
+<url>db/journals/jcst/jcst29.html#LvZCQ14</url>
+</article>
+</r>
+<r><article key="journals/mj/YaoGCZS14" mdate="2020-02-22">
+<author pid="72/2941">Hailong Yao</author>
+<author pid="43/5917">Qiang Gao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author orcid="0000-0001-7007-6746" pid="74/6729">Chiu-Wing Sham</author>
+<title>Length matching in detailed routing for analog and mixed signal circuits.</title>
+<pages>604-612</pages>
+<year>2014</year>
+<volume>45</volume>
+<journal>Microelectron. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.mejo.2014.04.007</ee>
+<url>db/journals/mj/mj45.html#YaoGCZS14</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/YangCZS14" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="55/5535">Jin Shi</author>
+<title>Friendly Fast Poisson Solver Preconditioning Technique for Power Grid Analysis.</title>
+<pages>899-912</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TVLSI.2013.2252375</ee>
+<url>db/journals/tvlsi/tvlsi22.html#YangCZS14</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/YangLCZ14" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="56/8308">Zuowei Li</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>PowerRush: An Efficient Simulator for Static Power Grid Analysis.</title>
+<pages>2103-2116</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVLSI.2013.2282418</ee>
+<url>db/journals/tvlsi/tvlsi22.html#YangLCZ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/QiCZLC14" mdate="2018-01-30">
+<author pid="77/9611">Zhongdong Qi</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="48/2536">Mike Chen</author>
+<title>VFGR: A very fast parallel global router with accurate congestion modeling.</title>
+<pages>525-530</pages>
+<year>2014</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2014.6742945</ee>
+<crossref>conf/aspdac/2014</crossref>
+<url>db/conf/aspdac/aspdac2014.html#QiCZLC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/YangWCZ14" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="62/3432">Chenguang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Power supply noise aware evaluation framework for side channel attacks and countermeasures.</title>
+<pages>161-166</pages>
+<year>2014</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2014.7082770</ee>
+<crossref>conf/fpt/2014</crossref>
+<url>db/conf/fpt/fpt2014.html#YangWCZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/JiaCZCLL14" mdate="2018-01-30">
+<author pid="154/3032">Xiaotao Jia</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="67/6383">Gang Chen</author>
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="56/8308">Zuowei Li</author>
+<title>MCFRoute: a detailed router based on multi-commodity flow method.</title>
+<pages>397-404</pages>
+<year>2014</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2014.7001382</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2691446</ee>
+<crossref>conf/iccad/2014</crossref>
+<url>db/conf/iccad/iccad2014.html#JiaCZCLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/QiCZ14" mdate="2018-01-30">
+<author pid="77/9611">Zhongdong Qi</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Accurate prediction of detailed routing congestion using supervised data learning.</title>
+<pages>97-103</pages>
+<year>2014</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2014.6974668</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2014.6974668</ee>
+<crossref>conf/iccd/2014</crossref>
+<url>db/conf/iccd/iccd2014.html#QiCZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/DengCZ14" mdate="2018-01-30">
+<author pid="74/322">Chao Deng</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>A register clustering algorithm for low power clock tree synthesis.</title>
+<pages>389-392</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2014.6865147</ee>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#DengCZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/QiMZC14" mdate="2018-01-30">
+<author pid="191/8863">Ziyang Qi</author>
+<author pid="97/143">Kun Ma</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>RSMT construction algorithm based on Congestion-Oriented Flexibility.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2014.6820275</ee>
+<crossref>conf/lascas/2014</crossref>
+<url>db/conf/lascas/lascas2014.html#QiMZC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/LiMZCXH13" mdate="2020-02-20">
+<author pid="56/8308">Zuowei Li</author>
+<author pid="41/3765">Yuchun Ma</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="x/YuanXie">Yuan Xie 0001</author>
+<author pid="78/11061">Tingting Huang</author>
+<title>Thermal-aware P/G TSV planning for IR drop reduction in 3D ICs.</title>
+<pages>1-9</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>Integr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.vlsi.2012.05.002</ee>
+<url>db/journals/integration/integration46.html#LiMZCXH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/asicon/ChenYCZ13" mdate="2018-01-30">
+<author pid="43/2909">Weijie Chen</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Analog routing considering min-area constraint.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2013.6811904</ee>
+<crossref>conf/asicon/2013</crossref>
+<url>db/conf/asicon/asicon2013.html#ChenYCZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/ZhaoYCZ13" mdate="2018-01-30">
+<author pid="121/8902">Jinming Zhao</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>A new splitting graph construction algorithm for SIAR router.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2013.6811918</ee>
+<crossref>conf/asicon/2013</crossref>
+<url>db/conf/asicon/asicon2013.html#ZhaoYCZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/QiCZ13" mdate="2018-01-30">
+<author pid="77/9611">Zhongdong Qi</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Bridging the Gap between Global Routing and Detailed Routing: A Practical Congestion Model.</title>
+<pages>74-80</pages>
+<year>2013</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADGraphics.2013.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CADGraphics.2013.17</ee>
+<crossref>conf/cadgraphics/2013</crossref>
+<url>db/conf/cadgraphics/cadgraphics2013.html#QiCZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/ZhangWLZCLQ13" mdate="2018-01-30">
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="87/2533">Qiang Wu</author>
+<author pid="43/6243">Yongqiang Lyu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="70/5926">Yaping Lin</author>
+<author pid="04/3130">Gang Qu</author>
+<title>Design and Implementation of a Delay-Based PUF for FPGA IP Protection.</title>
+<pages>107-114</pages>
+<year>2013</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADGraphics.2013.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CADGraphics.2013.22</ee>
+<crossref>conf/cadgraphics/2013</crossref>
+<url>db/conf/cadgraphics/cadgraphics2013.html#ZhangWLZCLQ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/YinQZ13" mdate="2018-02-01">
+<author pid="78/4974">Chi-En Daniel Yin</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Design and implementation of a group-based RO PUF.</title>
+<pages>416-421</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.094</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485388</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#YinQZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/ZhangLLCCZB13" mdate="2018-02-01">
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="70/5926">Yaping Lin</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<author orcid="0000-0002-6764-0729" pid="96/2421">Ray C. C. Cheung</author>
+<author pid="131/5052">Wenjie Che</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>Binding Hardware IPs to Specific FPGA Device via Inter-twining the PUF Response with the FSM of Sequential Circuits.</title>
+<pages>227</pages>
+<year>2013</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2013.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2013.12</ee>
+<crossref>conf/fccm/2013</crossref>
+<url>db/conf/fccm/fccm2013.html#ZhangLLCCZB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/ZhangLLQCCZB13" mdate="2018-02-01">
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="70/5926">Yaping Lin</author>
+<author pid="43/6243">Yongqiang Lyu</author>
+<author pid="04/3130">Gang Qu</author>
+<author orcid="0000-0002-6764-0729" pid="96/2421">Ray C. C. Cheung</author>
+<author pid="131/5052">Wenjie Che</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>FPGA IP protection by binding Finite State Machine to Physical Unclonable Function.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2013.6645555</ee>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#ZhangLLQCCZB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/YangCZZ13" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="z/WeiZhao">Wei Zhao</author>
+<title>Selected inversion for vectorless power grid verification by exploiting locality.</title>
+<pages>257-263</pages>
+<year>2013</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2013.6657051</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2013.6657051</ee>
+<crossref>conf/iccd/2013</crossref>
+<url>db/conf/iccd/iccd2013.html#YangCZZ13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieiceee/ZhangLZWLZ12" mdate="2021-02-12">
+<author pid="04/1262-2">Jiliang Zhang 0002</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="87/2533">Qiang Wu</author>
+<author pid="70/5926">Yaping Lin</author>
+<author pid="74/5365">Kang Zhao</author>
+<title>TimFastPlace: Critical-path based timing driven FastPlace.</title>
+<pages>1310-1315</pages>
+<year>2012</year>
+<volume>9</volume>
+<journal>IEICE Electron. Express</journal>
+<number>16</number>
+<ee type="oa">https://doi.org/10.1587/elex.9.1310</ee>
+<url>db/journals/ieiceee/ieiceee9.html#ZhangLZWLZ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/LiMZCWHX12" mdate="2018-01-30">
+<author pid="56/8308">Zuowei Li</author>
+<author pid="41/3765">Yuchun Ma</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="w/YuWang2">Yu Wang 0002</author>
+<author pid="78/11061">Tingting Huang</author>
+<author pid="x/YuanXie">Yuan Xie 0001</author>
+<title>Thermal-aware power network design for IR drop reduction in 3D ICs.</title>
+<pages>47-52</pages>
+<year>2012</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2012.6164995</ee>
+<crossref>conf/aspdac/2012</crossref>
+<url>db/conf/aspdac/aspdac2012.html#LiMZCWHX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/YangLCZ12" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="56/8308">Zuowei Li</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>PowerRush : Efficient transient simulation for power grid analysis.</title>
+<pages>653-659</pages>
+<year>2012</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/2429384.2429526</ee>
+<ee>http://ieeexplore.ieee.org/document/6386741/</ee>
+<crossref>conf/iccad/2012</crossref>
+<url>db/conf/iccad/iccad2012.html#YangLCZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/GaoZQC12" mdate="2018-01-30">
+<author pid="70/11242">Wenchao Gao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="97/6296">Xu Qian</author>
+<author pid="09/2775">Yici Cai</author>
+<title>A DyadicCluster method used for nonlinear placement.</title>
+<pages>418-423</pages>
+<year>2012</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2012.6187527</ee>
+<crossref>conf/isqed/2012</crossref>
+<url>db/conf/isqed/isqed2012.html#GaoZQC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/ZhouSLC11" mdate="2020-03-11">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="55/5535">Jin Shi</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="09/2775">Yici Cai</author>
+<title>Floorplanning Considering IR Drop in Multiple Supply Voltages Island Designs.</title>
+<pages>638-646</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TVLSI.2009.2037428</ee>
+<url>db/journals/tvlsi/tvlsi19.html#ZhouSLC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/asicon/LiuLZ11" mdate="2018-02-01">
+<author pid="74/7037">Liu Liu</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>A timing-perspective study on the wire model in placement.</title>
+<pages>910-913</pages>
+<year>2011</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2011.6157353</ee>
+<crossref>conf/asicon/2011</crossref>
+<url>db/conf/asicon/asicon2011.html#LiuLZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscwd/ZhuBZC11" mdate="2018-01-30">
+<author pid="72/2089">Limin Zhu</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>A fast recursive detailed routing algorithm for hierarchical FPGAs.</title>
+<pages>91-96</pages>
+<year>2011</year>
+<booktitle>CSCWD</booktitle>
+<ee>https://doi.org/10.1109/CSCWD.2011.5960060</ee>
+<crossref>conf/cscwd/2011</crossref>
+<url>db/conf/cscwd/cscwd2011.html#ZhuBZC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/NiuZYCYS11" mdate="2020-04-05">
+<author pid="53/9547">Feifei Niu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="s/CliffNSze">Chin Ngai Sze</author>
+<title>Obstacle-avoiding and slew-constrained buffered clock tree synthesis for skew optimization.</title>
+<pages>199-204</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973049</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#NiuZYCYS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/YangYZC11" mdate="2018-11-06">
+<author pid="29/3081">Fan Yang</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>SIAR: splitting-graph-based interactive analog router.</title>
+<pages>367-370</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973084</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#YangYZC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/YangLCZ11" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="56/8308">Zuowei Li</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>PowerRush: A linear simulator for power grid.</title>
+<pages>482-487</pages>
+<year>2011</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2011.6105372</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCAD.2011.6105372</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2132438</ee>
+<crossref>conf/iccad/2011</crossref>
+<url>db/conf/iccad/iccad2011.html#YangLCZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/YangCZS11" mdate="2020-04-05">
+<author pid="99/9547-1">Jianlei Yang 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="55/5535">Jin Shi</author>
+<title>Fast poisson solver preconditioned method for robust power grid analysis.</title>
+<pages>531-536</pages>
+<year>2011</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2011.6105381</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCAD.2011.6105381</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2132449</ee>
+<crossref>conf/iccad/2011</crossref>
+<url>db/conf/iccad/iccad2011.html#YangCZS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/GaoYZC11" mdate="2018-01-30">
+<author pid="43/5917">Qiang Gao</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>A novel detailed routing algorithm with exact matching constraint for analog and mixed signal circuits.</title>
+<pages>36-41</pages>
+<year>2011</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2011.5770700</ee>
+<crossref>conf/isqed/2011</crossref>
+<url>db/conf/isqed/isqed2011.html#GaoYZC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/QiZJCLY11" mdate="2018-01-30">
+<author pid="77/9611">Zhongdong Qi</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="26/1511">Yanming Jia</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="72/2941">Hailong Yao</author>
+<title>A novel fine-grain track routing approach for routability and crosstalk optimization.</title>
+<pages>621-626</pages>
+<year>2011</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2011.5770793</ee>
+<crossref>conf/isqed/2011</crossref>
+<url>db/conf/isqed/isqed2011.html#QiZJCLY11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ZhouYZC11" mdate="2018-01-30">
+<author pid="11/9980">Shuzhe Zhou</author>
+<author pid="72/2941">Hailong Yao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>Minimization of Circuit Delay and Power through Gate Sizing and Threshold Voltage Assignment.</title>
+<pages>212-217</pages>
+<year>2011</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2011.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2011.29</ee>
+<crossref>conf/isvlsi/2011</crossref>
+<url>db/conf/isvlsi/isvlsi2011.html#ZhouYZC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcsc/MaZZH10" mdate="2020-08-25">
+<author pid="41/3765">Yuchun Ma</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="54/4046">Pingqiang Zhou</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Thermal Impacts of Leakage Power in 2D/3D floorplanning.</title>
+<pages>1483-1495</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>J. Circuits Syst. Comput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1142/S0218126610006773</ee>
+<url>db/journals/jcsc/jcsc19.html#MaZZH10</url>
+</article>
+</r>
+<r><article key="journals/jcst/DaiZB10" mdate="2018-02-01">
+<author pid="92/2557">Hui Dai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>Multilevel Optimization for Large-Scale Hierarchical FPGA Placement.</title>
+<pages>1083-1091</pages>
+<year>2010</year>
+<volume>25</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11390-010-9389-y</ee>
+<url>db/journals/jcst/jcst25.html#DaiZB10</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/ShenZCH10" mdate="2020-03-11">
+<author pid="14/3608">Yin Shen</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>ECP- and CMP-Aware Detailed Routing Algorithm for DFM.</title>
+<pages>153-157</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVLSI.2008.2008020</ee>
+<url>db/journals/tvlsi/tvlsi18.html#ShenZCH10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cscwd/ZhuZCB10" mdate="2018-01-30">
+<author pid="72/2089">Limin Zhu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>An architecture-aware routing optimization via satisfiabilty for hierarchical FPGA.</title>
+<pages>701-706</pages>
+<year>2010</year>
+<booktitle>CSCWD</booktitle>
+<ee>https://doi.org/10.1109/CSCWD.2010.5471886</ee>
+<crossref>conf/cscwd/2010</crossref>
+<url>db/conf/cscwd/cscwd2010.html#ZhuZCB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/YuZQB10" mdate="2018-02-01">
+<author pid="60/7126">Junbo Yu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>Behavioral level dual-vth design for reduced leakage power with thermal awareness.</title>
+<pages>1261-1266</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5457000</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1871229</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#YuZQB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/YangCZH10" mdate="2018-01-30">
+<author pid="29/3081">Fan Yang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="20/5455">Jiang Hu</author>
+<title>SAT based multi-net rip-up-and-reroute for manufacturing hotspot removal.</title>
+<pages>1369-1372</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5457024</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1871255</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#YangCZH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/GuQYZ10" mdate="2019-02-11">
+<author pid="29/7450">Junjun Gu</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="83/6071">Lin Yuan</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Peak current reduction by simultaneous state replication and re-encoding.</title>
+<pages>592-595</pages>
+<year>2010</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2010.5654204</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCAD.2010.5654204</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2133554</ee>
+<crossref>conf/iccad/2010</crossref>
+<url>db/conf/iccad/iccad2010.html#GuQYZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/ShenCCLZH10" mdate="2018-01-30">
+<author pid="52/5177">Weixiang Shen</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="181/2832">Wei Chen</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="20/5455">Jiang Hu</author>
+<title>Useful clock skew optimization under a multi-corner multi-mode design framework.</title>
+<pages>62-68</pages>
+<year>2010</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2010.5450402</ee>
+<crossref>conf/isqed/2010</crossref>
+<url>db/conf/isqed/isqed2010.html#ShenCCLZH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/LiuZLB10" mdate="2018-02-01">
+<author pid="57/1575">Dawei Liu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>A low power clock network placement framework.</title>
+<pages>771-776</pages>
+<year>2010</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2010.5450494</ee>
+<crossref>conf/isqed/2010</crossref>
+<url>db/conf/isqed/isqed2010.html#LiuZLB10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fpt/2010" mdate="2018-02-01">
+<editor pid="32/5098">Jinian Bian</editor>
+<editor pid="43/3182-1">Qiang Zhou 0001</editor>
+<editor pid="a/PeterAthanas">Peter Athanas</editor>
+<editor pid="29/3884">Yajun Ha</editor>
+<editor pid="74/5365">Kang Zhao</editor>
+<title>Proceedings of the International Conference on Field-Programmable Technology, FPT 2010, 8-10 December 2010, Tsinghua University, Beijing, China</title>
+<publisher>IEEE</publisher>
+<year>2010</year>
+<isbn>978-1-4244-8981-7</isbn>
+<booktitle>FPT</booktitle>
+<url>db/conf/fpt/fpt2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ieicet/YuZQB09" mdate="2020-04-11">
+<author pid="60/7126">Junbo Yu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>Peak Temperature Reduction by Physical Information Driven Behavioral Synthesis with Resource Usage Allocation.</title>
+<pages>3151-3159</pages>
+<year>2009</year>
+<volume>92-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1587/transfun.E92.A.3151</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e92-a_12_3151</ee>
+<url>db/journals/ieicet/ieicet92a.html#YuZQB09</url>
+</article>
+</r>
+<r><article key="journals/integration/YanZH09" mdate="2020-02-20">
+<author pid="31/933">Haixia Yan</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Thermal aware placement in 3D ICs using quadratic uniformity modeling approach.</title>
+<pages>175-180</pages>
+<year>2009</year>
+<volume>42</volume>
+<journal>Integr.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.vlsi.2008.06.001</ee>
+<url>db/journals/integration/integration42.html#YanZH09</url>
+</article>
+</r>
+<r><article key="journals/integration/ZhouZCH09" mdate="2020-02-20">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="68/2766">Xin Zhao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>An MTCMOS technology for low-power physical design.</title>
+<pages>340-345</pages>
+<year>2009</year>
+<volume>42</volume>
+<journal>Integr.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.vlsi.2008.09.004</ee>
+<url>db/journals/integration/integration42.html#ZhouZCH09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/YuZB09" mdate="2018-02-01">
+<author pid="60/7126">Junbo Yu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>Peak temperature control in thermal-aware behavioral synthesis through allocating the number of resources.</title>
+<pages>85-90</pages>
+<year>2009</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2009.4796446</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1509654</ee>
+<crossref>conf/aspdac/2009</crossref>
+<url>db/conf/aspdac/aspdac2009.html#YuZB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/DaiZCBH09" mdate="2018-01-30">
+<author pid="92/2557">Hui Dai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Fast placement for large-scale hierarchical FPGAs.</title>
+<pages>190-194</pages>
+<year>2009</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADCG.2009.5246907</ee>
+<crossref>conf/cadgraphics/2009</crossref>
+<url>db/conf/cadgraphics/cadgraphics2009.html#DaiZCBH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/LiuZBJ09" mdate="2018-02-01">
+<author pid="57/1575">Dawei Liu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="26/1511">Yanming Jia</author>
+<title>Global density smoothing technique for analytical placement algorithm.</title>
+<pages>389-393</pages>
+<year>2009</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADCG.2009.5246870</ee>
+<crossref>conf/cadgraphics/2009</crossref>
+<url>db/conf/cadgraphics/cadgraphics2009.html#LiuZBJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/HuangZCY09" mdate="2018-01-30">
+<author pid="33/5392">Yun Huang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="31/933">Haixia Yan</author>
+<title>A thermal-driven force-directed floorplanning algorithm for 3D ICs.</title>
+<pages>497-502</pages>
+<year>2009</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADCG.2009.5246852</ee>
+<crossref>conf/cadgraphics/2009</crossref>
+<url>db/conf/cadgraphics/cadgraphics2009.html#HuangZCY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/GuQZ09" mdate="2018-11-06">
+<author pid="29/7450">Junjun Gu</author>
+<author pid="04/3130">Gang Qu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Information hiding for trusted system design.</title>
+<pages>698-701</pages>
+<year>2009</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1629911.1630093</ee>
+<crossref>conf/dac/2009</crossref>
+<url>db/conf/dac/dac2009.html#GuQZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ddecs/ZhaoZC09" mdate="2018-01-30">
+<author pid="47/7127">Jinpeng Zhao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>Fast congestion-aware timing-driven placement for island FPGA.</title>
+<pages>24-27</pages>
+<year>2009</year>
+<booktitle>DDECS</booktitle>
+<ee>https://doi.org/10.1109/DDECS.2009.5012092</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DDECS.2009.5012092</ee>
+<crossref>conf/ddecs/2009</crossref>
+<url>db/conf/ddecs/ddecs2009.html#ZhaoZC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ddecs/ChenWJZ09" mdate="2018-02-01">
+<author pid="00/3467">Juanjuan Chen</author>
+<author pid="14/4301">Xing Wei</author>
+<author pid="71/5485">Yunjian Jiang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Improve clock gating through power-optimal enable function selection.</title>
+<pages>30-33</pages>
+<year>2009</year>
+<booktitle>DDECS</booktitle>
+<ee>https://doi.org/10.1109/DDECS.2009.5012094</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DDECS.2009.5012094</ee>
+<crossref>conf/ddecs/2009</crossref>
+<url>db/conf/ddecs/ddecs2009.html#ChenWJZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/WangCZTE09" mdate="2018-11-06">
+<author pid="95/953">Xiaoyi Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="t/SXDTan">Sheldon X.-D. Tan</author>
+<author pid="18/5197">Thom Jefferson A. Eguia</author>
+<title>Decoupling capacitance efficient placement for reducing transient power supply noise.</title>
+<pages>745-751</pages>
+<year>2009</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/1687399.1687538</ee>
+<ee>http://ieeexplore.ieee.org/document/5361214/</ee>
+<crossref>conf/iccad/2009</crossref>
+<url>db/conf/iccad/iccad2009.html#WangCZTE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DaweiZBCH09" mdate="2018-01-30">
+<author pid="57/1575">Dawei Liu</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Cell shifting aware of wirelength and overlap.</title>
+<pages>506-510</pages>
+<year>2009</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2009.4810346</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2009.4810346</ee>
+<crossref>conf/isqed/2009</crossref>
+<url>db/conf/isqed/isqed2009.html#DaweiZBCH09</url>
+</inproceedings>
+</r>
+<r><article key="journals/chinaf/CaiZHSW08" mdate="2020-05-18">
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="66/4466">Rui Shi</author>
+<author pid="181/2842">Yang Wang</author>
+<title>Application of optical proximity correction technology.</title>
+<pages>213-224</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>Sci. China Ser. F Inf. Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11432-008-0006-4</ee>
+<url>db/journals/chinaf/chinaf51.html#CaiZHSW08</url>
+</article>
+</r>
+<r><article key="journals/ieicet/GuoCZH08" mdate="2020-04-11">
+<author pid="58/5380">Liangpeng Guo</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Logic and Layout Aware Level Converter Optimization for Multiple Supply Voltage.</title>
+<pages>2084-2090</pages>
+<year>2008</year>
+<volume>91-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1093/ietfec/e91-a.8.2084</ee>
+<url>db/journals/ieicet/ieicet91a.html#GuoCZH08</url>
+</article>
+</r>
+<r><inproceedings key="conf/apccas/DongZCH08" mdate="2018-01-30">
+<author pid="34/10064">Changdao Dong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Wire density driven top-down global placement for CMP variation control.</title>
+<pages>1676-1679</pages>
+<year>2008</year>
+<booktitle>APCCAS</booktitle>
+<ee>https://doi.org/10.1109/APCCAS.2008.4746360</ee>
+<crossref>conf/apccas/2008</crossref>
+<url>db/conf/apccas/apccas2008.html#DongZCH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/WangZCHHB08" mdate="2018-01-30">
+<author pid="55/5407">Yanfeng Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="20/5455">Jiang Hu</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="32/5098">Jinian Bian</author>
+<title>Low power clock buffer planning methodology in F-D placement for large scale circuit design.</title>
+<pages>370-375</pages>
+<year>2008</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2008.4483977</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1356894</ee>
+<crossref>conf/aspdac/2008</crossref>
+<url>db/conf/aspdac/aspdac2008.html#WangZCHHB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/WeiCZCBH08" mdate="2018-01-30">
+<author pid="14/4301">Xing Wei</author>
+<author pid="00/3467">Juanjuan Chen</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>MacroMap: A technology mapping algorithm for heterogeneous FPGAs with effective area estimation.</title>
+<pages>559-562</pages>
+<year>2008</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2008.4630008</ee>
+<crossref>conf/fpl/2008</crossref>
+<url>db/conf/fpl/fpl2008.html#WeiCZCBH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/GuoCZKH08" mdate="2018-11-06">
+<author pid="58/5380">Liangpeng Guo</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="26/4180">Le Kang</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>A novel performance driven power gating based on distributed sleep transistor network.</title>
+<pages>255-260</pages>
+<year>2008</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1366110.1366173</ee>
+<crossref>conf/glvlsi/2008</crossref>
+<url>db/conf/glvlsi/glvlsi2008.html#GuoCZKH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/YanZH08" mdate="2018-02-01">
+<author pid="31/933">Haixia Yan</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Efficient Thermal Aware Placement Approach Integrated with 3D DCT Placement Algorithm.</title>
+<pages>289-292</pages>
+<year>2008</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2008.4479741</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2008.53</ee>
+<crossref>conf/isqed/2008</crossref>
+<url>db/conf/isqed/isqed2008.html#YanZH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/ShenCZH08" mdate="2018-01-30">
+<author pid="14/3608">Yin Shen</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>DFM Based Detailed Routing Algorithm for ECP and CMP.</title>
+<pages>357-360</pages>
+<year>2008</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2008.4479756</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2008.75</ee>
+<crossref>conf/isqed/2008</crossref>
+<url>db/conf/isqed/isqed2008.html#ShenCZH08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/CaiLZH07" mdate="2020-04-11">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Voltage Island Generation in Cell Based Dual-Vdd Design.</title>
+<pages>267-273</pages>
+<year>2007</year>
+<volume>90-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1093/ietfec/e90-a.1.267</ee>
+<url>db/journals/ieicet/ieicet90a.html#CaiLZH07</url>
+</article>
+</r>
+<r><article key="journals/integration/LuHZCG07" mdate="2020-02-20">
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="61/3516">Jun Gu</author>
+<title>An efficient quadratic placement based on search space traversing technology.</title>
+<pages>253-260</pages>
+<year>2007</year>
+<volume>40</volume>
+<journal>Integr.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.vlsi.2005.10.002</ee>
+<url>db/journals/integration/integration40.html#LuHZCG07</url>
+</article>
+</r>
+<r><article key="journals/jcst/ZhouCLH07" mdate="2018-01-30">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="46/277">Duo Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>A Yield-Driven Gridless Router.</title>
+<pages>653-660</pages>
+<year>2007</year>
+<volume>22</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11390-007-9092-9</ee>
+<url>db/journals/jcst/jcst22.html#ZhouCLH07</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiHZZBYYPC07" mdate="2020-09-24">
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="02/747">Shan Zeng</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="03/6174">Wenjian Yu</author>
+<author pid="y/HannahHonghuaYang">Hannah Honghua Yang</author>
+<author pid="71/3040">Vijay Pitchumani</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>Efficient Thermal via Planning Approach and Its Application in 3-D Floorplanning.</title>
+<pages>645-658</pages>
+<year>2007</year>
+<volume>26</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2006.885831</ee>
+<url>db/journals/tcad/tcad26.html#LiHZZBYYPC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/ZouCZHTK07" mdate="2018-01-30">
+<author pid="19/2439">Yi Zou</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="t/SXDTan">Sheldon X.-D. Tan</author>
+<author pid="26/4180">Le Kang</author>
+<title>Practical Implementation of Stochastic Parameterized Model Order Reduction via Hermite Polynomial Chaos.</title>
+<pages>367-372</pages>
+<year>2007</year>
+<crossref>conf/aspdac/2007</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2007.358013</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASPDAC.2007.358013</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1323404</ee>
+<url>db/conf/aspdac/aspdac2007.html#ZouCZHTK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/GuoCZH07" mdate="2018-01-30">
+<author pid="58/5380">Liangpeng Guo</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Logic and Layout Aware Voltage Island Generation for Low Power Design.</title>
+<pages>666-671</pages>
+<year>2007</year>
+<crossref>conf/aspdac/2007</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2007.358063</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASPDAC.2007.358063</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1323483</ee>
+<url>db/conf/aspdac/aspdac2007.html#GuoCZH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/MaLCHRDZ07" mdate="2018-02-01">
+<author pid="41/3765">Yuchun Ma</author>
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="c/JasonCong">Jason Cong</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="92/4071">Glenn Reinman</author>
+<author pid="03/4680">Sheqin Dong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Micro-architecture Pipelining Optimization with Throughput-Aware Floorplanning.</title>
+<pages>920-925</pages>
+<year>2007</year>
+<crossref>conf/aspdac/2007</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2007.358107</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASPDAC.2007.358107</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1323400</ee>
+<url>db/conf/aspdac/aspdac2007.html#MaLCHRDZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/ZhouMZH07" mdate="2018-02-01">
+<author pid="54/4046">Pingqiang Zhou</author>
+<author pid="41/3765">Yuchun Ma</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Thermal Effects with Leakage Power Considered in 2D/3D Floorplanning.</title>
+<pages>338-343</pages>
+<year>2007</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADCG.2007.4407905</ee>
+<crossref>conf/cadgraphics/2007</crossref>
+<url>db/conf/cadgraphics/cadgraphics2007.html#ZhouMZH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/WangZBQ07" mdate="2018-02-01">
+<author pid="77/2893">Yanhua Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="34/10435">Junhua Qu</author>
+<title>VPH: Versatile Routability-Driven Place Algorithm for Hierarchical FPGAs Based on VPR.</title>
+<pages>349-354</pages>
+<year>2007</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CADCG.2007.4407907</ee>
+<crossref>conf/cadgraphics/2007</crossref>
+<url>db/conf/cadgraphics/cadgraphics2007.html#WangZBQ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ZhuoLZCH07" mdate="2018-11-06">
+<author pid="35/3246">Yue Zhuo</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>New timing and routability driven placement algorithms for FPGA synthesis.</title>
+<pages>570-575</pages>
+<year>2007</year>
+<crossref>conf/glvlsi/2007</crossref>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1228784.1228918</ee>
+<url>db/conf/glvlsi/glvlsi2007.html#ZhuoLZCH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/ZhouMLDSZHZ07" mdate="2019-02-11">
+<author pid="54/4046">Pingqiang Zhou</author>
+<author pid="41/3765">Yuchun Ma</author>
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="84/523">Robert P. Dick</author>
+<author pid="32/4492">Li Shang</author>
+<author pid="z/HaiZhou">Hai Zhou</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>3D-STAF: scalable temperature and leakage aware floorplanning for three-dimensional integrated circuits.</title>
+<pages>590-597</pages>
+<year>2007</year>
+<crossref>conf/iccad/2007</crossref>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2007.4397329</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCAD.2007.4397329</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1326196</ee>
+<url>db/conf/iccad/iccad2007.html#ZhouMLDSZHZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/WangZHC07" mdate="2018-01-30">
+<author pid="55/5407">Yanfeng Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="09/2775">Yici Cai</author>
+<title>Clock-Tree Aware Placement Based on Dynamic Clock-Tree Building.</title>
+<pages>2040-2043</pages>
+<year>2007</year>
+<crossref>conf/iscas/2007</crossref>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2007.378498</ee>
+<url>db/conf/iscas/iscas2007.html#WangZHC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/YanLHZ07" mdate="2018-02-01">
+<author pid="31/933">Haixia Yan</author>
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Unified Quadratic Programming Approach For 3-D Mixed Mode Placement.</title>
+<pages>3411-3414</pages>
+<year>2007</year>
+<crossref>conf/iscas/2007</crossref>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2007.378300</ee>
+<url>db/conf/iscas/iscas2007.html#YanLHZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/CaiLSZH07" mdate="2018-01-30">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="55/5535">Jin Shi</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Power Delivery Aware Floorplanning for Voltage Island Designs.</title>
+<pages>350-355</pages>
+<year>2007</year>
+<crossref>conf/isqed/2007</crossref>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2007.121</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2007.121</ee>
+<url>db/conf/isqed/isqed2007.html#CaiLSZH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LiuBZD07" mdate="2018-02-01">
+<author pid="68/649">Zhipeng Liu</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="92/2557">Hui Dai</author>
+<title>Interconnect Delay and Power Optimization by Module Duplication for Integration of High Level Synthesis and Floorplan.</title>
+<pages>279-284</pages>
+<year>2007</year>
+<crossref>conf/isvlsi/2007</crossref>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2007.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2007.60</ee>
+<url>db/conf/isvlsi/isvlsi2007.html#LiuBZD07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/CaiLXZH06" mdate="2018-01-30">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="70/880">Yan Xiong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Priority-Based Routing Resource Assignment Considering Crosstalk.</title>
+<pages>913-921</pages>
+<year>2006</year>
+<volume>21</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11390-006-0913-z</ee>
+<url>db/journals/jcst/jcst21.html#CaiLXZH06</url>
+</article>
+</r>
+<r><article key="journals/tcas/Cai0ZH06" mdate="2020-05-27">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>A Two-Step Heuristic Algorithm for Minimum-Crosstalk Routing Resource Assignment.</title>
+<pages>1007-1011</pages>
+<year>2006</year>
+<volume>53-II</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCSII.2006.882353</ee>
+<url>db/journals/tcas/tcasII53.html#Cai0ZH06</url>
+</article>
+</r>
+<r><article key="journals/tcas/YaoCZH06" mdate="2020-05-27">
+<author pid="72/2941">Hailong Yao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Multilevel Routing With Redundant Via Insertion.</title>
+<pages>1148-1152</pages>
+<year>2006</year>
+<volume>53-II</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCSII.2006.881822</ee>
+<url>db/journals/tcas/tcasII53.html#YaoCZH06</url>
+</article>
+</r>
+<r><article key="journals/tcas/LiHZCBYPC06" mdate="2020-05-22">
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="y/HannahHonghuaYang">Hannah Honghua Yang</author>
+<author pid="71/3040">Vijay Pitchumani</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>Hierarchical 3-D Floorplanning Algorithm for Wirelength Optimization.</title>
+<pages>2637-2646</pages>
+<year>2006</year>
+<volume>53-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCSI.2006.883857</ee>
+<url>db/journals/tcas/tcasI53.html#LiHZCBYPC06</url>
+</article>
+</r>
+<r><article key="journals/todaes/LiHZBYP06" mdate="2018-11-06">
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="y/HannahHonghuaYang">Hannah Honghua Yang</author>
+<author pid="71/3040">Vijay Pitchumani</author>
+<title>Efficient thermal-oriented 3D floorplanning and thermal via planning for two-stacked-die integration.</title>
+<pages>325-345</pages>
+<year>2006</year>
+<volume>11</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1142155.1142159</ee>
+<url>db/journals/todaes/todaes11.html#LiHZBYP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/apccas/ZhouZCH06" mdate="2018-01-30">
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="19/2439">Yi Zou</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Variational Circuit Simulator based on a Unified Methodology using Arithmetic over Taylor Polynomials.</title>
+<pages>1635-1638</pages>
+<year>2006</year>
+<crossref>conf/apccas/2006</crossref>
+<booktitle>APCCAS</booktitle>
+<ee>https://doi.org/10.1109/APCCAS.2006.342078</ee>
+<url>db/conf/apccas/apccas2006.html#ZhouZCH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/LiuCZH06" mdate="2018-11-06">
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Power driven placement with layout aware supply voltage assignment for voltage island generation in Dual-Vdd designs.</title>
+<pages>582-587</pages>
+<year>2006</year>
+<crossref>conf/aspdac/2006</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2006.1594748</ee>
+<ee>https://doi.org/10.1145/1118299.1118437</ee>
+<url>db/conf/aspdac/aspdac2006.html#LiuCZH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/LuoZCHW06" mdate="2018-01-30">
+<author pid="33/3406">Lijuan Luo</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="25/4764">Yibo Wang</author>
+<title>A novel technique integrating buffer insertion into timing driven placement.</title>
+<year>2006</year>
+<crossref>conf/iscas/2006</crossref>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2006.1693904</ee>
+<url>db/conf/iscas/iscas2006.html#LuoZCHW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZhaoCZH06" mdate="2018-01-30">
+<author pid="68/2766">Xin Zhao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>A novel low-power physical design methodology for MTCMOS.</title>
+<year>2006</year>
+<crossref>conf/iscas/2006</crossref>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2006.1693905</ee>
+<url>db/conf/iscas/iscas2006.html#ZhaoCZH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/LiHZZBYPC06" mdate="2018-11-06">
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="02/747">Shan Zeng</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="y/HannahHonghuaYang">Hannah Honghua Yang</author>
+<author pid="71/3040">Vijay Pitchumani</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>Integrating dynamic thermal via planning with 3D floorplanning algorithm.</title>
+<pages>178-185</pages>
+<year>2006</year>
+<crossref>conf/ispd/2006</crossref>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/1123008.1123048</ee>
+<url>db/conf/ispd/ispd2006.html#LiHZZBYPC06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/LiuCZH05" mdate="2020-04-11">
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Crosstalk and Congestion Driven Layer Assignment Algorithm.</title>
+<pages>1565-1572</pages>
+<year>2005</year>
+<volume>88-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1093/ietfec/e88-a.6.1565</ee>
+<url>db/journals/ieicet/ieicet88a.html#LiuCZH05</url>
+</article>
+</r>
+<r><article key="journals/ieicet/ZouCZHT05" mdate="2020-04-11">
+<author pid="19/2439">Yi Zou</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="t/SXDTan">Sheldon X.-D. Tan</author>
+<title>A Fast Delay Computation for the Hybrid Structured Clock Network.</title>
+<pages>1964-1970</pages>
+<year>2005</year>
+<volume>88-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1093/ietfec/e88-a.7.1964</ee>
+<url>db/journals/ieicet/ieicet88a.html#ZouCZHT05</url>
+</article>
+</r>
+<r><article key="journals/ieicet/LuSHZCHH05" mdate="2020-04-11">
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="s/CliffNSze">Chin Ngai Sze</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="03/5847">Liang Huang</author>
+<author pid="20/5455">Jiang Hu</author>
+<title>Navigating Register Placement for Low Power Clock Network Design.</title>
+<pages>3405-3411</pages>
+<year>2005</year>
+<volume>88-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1093/ietfec/e88-a.12.3405</ee>
+<url>db/journals/ieicet/ieicet88a.html#LuSHZCHH05</url>
+</article>
+</r>
+<r><article key="journals/jcst/YaoCZH05" mdate="2018-01-30">
+<author pid="72/2941">Hailong Yao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Crosstalk-Aware Routing Resource Assignment.</title>
+<pages>231-236</pages>
+<year>2005</year>
+<volume>20</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11390-005-0231-x</ee>
+<url>db/journals/jcst/jcst20.html#YaoCZH05</url>
+</article>
+</r>
+<r><article key="journals/jcst/CaiZZH05" mdate="2018-01-30">
+<author pid="09/2775">Yici Cai</author>
+<author pid="68/2766">Xin Zhao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Shielding Area Optimization Under the Solution of Interconnect Crosstalk.</title>
+<pages>901-906</pages>
+<year>2005</year>
+<volume>20</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11390-005-0901-8</ee>
+<url>db/journals/jcst/jcst20.html#CaiZZH05</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/ZouZCHT05" mdate="2018-11-06">
+<author pid="19/2439">Yi Zou</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="t/SXDTan">Sheldon X.-D. Tan</author>
+<title>Analysis of buffered hybrid structured clock networks.</title>
+<pages>93-98</pages>
+<year>2005</year>
+<crossref>conf/aspdac/2005</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/1120725.1120754</ee>
+<ee>https://doi.org/10.1109/ASPDAC.2005.1466137</ee>
+<url>db/conf/aspdac/aspdac2005.html#ZouZCHT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/HuangCZHHL05" mdate="2018-11-06">
+<author pid="03/5847">Liang Huang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="20/5455">Jiang Hu</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<title>Clock network minimization methodology based on incremental placement.</title>
+<pages>99-102</pages>
+<year>2005</year>
+<crossref>conf/aspdac/2005</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/1120725.1120755</ee>
+<ee>https://doi.org/10.1109/ASPDAC.2005.1466138</ee>
+<url>db/conf/aspdac/aspdac2005.html#HuangCZHHL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/LuSHZCHH05" mdate="2018-11-06">
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="s/CliffNSze">Cliff C. N. Sze</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="03/5847">Liang Huang</author>
+<author pid="20/5455">Jiang Hu</author>
+<title>Register placement for low power clock network.</title>
+<pages>588-593</pages>
+<year>2005</year>
+<crossref>conf/aspdac/2005</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/1120725.1120971</ee>
+<ee>https://doi.org/10.1109/ASPDAC.2005.1466232</ee>
+<url>db/conf/aspdac/aspdac2005.html#LuSHZCHH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/LuSHZCHH05" mdate="2018-11-06">
+<author pid="43/6243">Yongqiang Lu</author>
+<author pid="s/CliffNSze">Cliff C. N. Sze</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="03/5847">Liang Huang</author>
+<author pid="20/5455">Jiang Hu</author>
+<title>Navigating registers in placement for clock network minimization.</title>
+<pages>176-181</pages>
+<year>2005</year>
+<crossref>conf/dac/2005</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1065579.1065628</ee>
+<url>db/conf/dac/dac2005.html#LuSHZCHH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/YaoCHZ05" mdate="2018-11-06">
+<author pid="72/2941">Hailong Yao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Improved multilevel routing with redundant via placement for yield and reliability.</title>
+<pages>143-146</pages>
+<year>2005</year>
+<crossref>conf/glvlsi/2005</crossref>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1057661.1057696</ee>
+<url>db/conf/glvlsi/glvlsi2005.html#YaoCHZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/LuoHZC05" mdate="2018-11-06">
+<author pid="99/3469">Qinglang Luo</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<title>A new algorithm for layout of dark field alternating phase shifting masks.</title>
+<pages>221-224</pages>
+<year>2005</year>
+<crossref>conf/glvlsi/2005</crossref>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1057661.1057715</ee>
+<url>db/conf/glvlsi/glvlsi2005.html#LuoHZC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/LuoZHZ05" mdate="2018-02-01">
+<author pid="33/3406">Lijuan Luo</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="69/4425">Hanbin Zhou</author>
+<title>Multi-stage Detailed Placement Algorithm for Large-Scale Mixed-Mode Layout Design.</title>
+<pages>896-905</pages>
+<year>2005</year>
+<crossref>conf/iccsa/2005-4</crossref>
+<booktitle>ICCSA (4)</booktitle>
+<ee>https://doi.org/10.1007/11424925_94</ee>
+<url>db/conf/iccsa/iccsa2005-4.html#LuoZHZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icess/WangBHYZW05" mdate="2018-02-01">
+<author pid="64/3680">Yunfeng Wang</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="27/3367">Liu Yang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="87/2533">Qiang Wu</author>
+<title>A New Methodology of Integrating High Level Synthesis and Floorplan for SoC Design.</title>
+<pages>275-286</pages>
+<year>2005</year>
+<crossref>conf/icess/2005</crossref>
+<booktitle>ICESS</booktitle>
+<ee>https://doi.org/10.1007/11599555_28</ee>
+<url>db/conf/icess/icess2005.html#WangBHYZW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/CaiLYZH05" mdate="2018-01-30">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="29/3022">Xiong Yan</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>A Hybrid Genetic Algorithm and Application to the Crosstalk Aware Track Assignment Problem.</title>
+<pages>181-184</pages>
+<year>2005</year>
+<crossref>conf/icnc/2005-3</crossref>
+<booktitle>ICNC (3)</booktitle>
+<ee>https://doi.org/10.1007/11539902_21</ee>
+<url>db/conf/icnc/icnc2005-3.html#CaiLYZH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/CaiLZH05" mdate="2018-01-30">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Integrated routing resource assignment for RLC crosstalk minimization.</title>
+<pages>1871-1874</pages>
+<year>2005</year>
+<crossref>conf/iscas/2005</crossref>
+<booktitle>ISCAS (2)</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2005.1464976</ee>
+<url>db/conf/iscas/iscas2005-2.html#CaiLZH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/LiHZCBYYSP05" mdate="2018-01-30">
+<author pid="81/2220">Zhuoyuan Li</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="32/5098">Jinian Bian</author>
+<author pid="26/6951">Hannal Yang</author>
+<author pid="36/366">Prashant Saxena</author>
+<author pid="71/3040">Vijay Pitchumani</author>
+<title>A divide-and-conquer 2.5-D floorplanning algorithm based on statistical wirelength estimation.</title>
+<pages>6230-6233</pages>
+<year>2005</year>
+<crossref>conf/iscas/2005</crossref>
+<booktitle>ISCAS (6)</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2005.1466064</ee>
+<url>db/conf/iscas/iscas2005-6.html#LiHZCBYYSP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/CaiLZH05" mdate="2018-01-30">
+<author pid="09/2775">Yici Cai</author>
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>A Thermal Aware Floorplanning Algorithm Supporting Voltage Islands for Low Power SOC Design.</title>
+<pages>257-266</pages>
+<year>2005</year>
+<crossref>conf/patmos/2005</crossref>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1007/11556930_27</ee>
+<url>db/conf/patmos/patmos2005.html#CaiLZH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/ZouCZHT04" mdate="2018-01-30">
+<author pid="19/2439">Yi Zou</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="t/SXDTan">Sheldon X.-D. Tan</author>
+<title>A Fast Delay Analysis Algorithm for The Hybrid Structured Clock Network.</title>
+<pages>344-349</pages>
+<year>2004</year>
+<crossref>conf/iccd/2004</crossref>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2004.1347944</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2004.1347944</ee>
+<url>db/conf/iccd/iccd2004.html#ZouCZHT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/YangHYZCL04" mdate="2018-01-30">
+<author pid="96/474">Changqi Yang</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="y/HannahHonghuaYang">Hannah Honghua Yang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/6243">Yongqiang Lu</author>
+<title>Recursively combine floorplan and Q-place in mixed mode placement based on circuit's variety of block configuration.</title>
+<pages>81-84</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (5)</booktitle>
+<url>db/conf/iscas/iscas2004-5.html#YangHYZCL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/LiuCZH04" mdate="2018-01-30">
+<author pid="35/837-7">Bin Liu 0007</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<title>Layer assignment algorithm for RLC crosstalk minimization.</title>
+<pages>85-88</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (5)</booktitle>
+<url>db/conf/iscas/iscas2004-5.html#LiuCZH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/YaoZHC04" mdate="2018-01-30">
+<author pid="72/2941">Hailong Yao</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="09/2775">Yici Cai</author>
+<title>Crosstalk driven routing resource assignment.</title>
+<pages>89-92</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (5)</booktitle>
+<url>db/conf/iscas/iscas2004-5.html#YaoZHC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/WangCHZ04" mdate="2018-01-30">
+<author pid="181/2842">Yang Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Algorithm for yield driven correction of layout.</title>
+<pages>241-245</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (5)</booktitle>
+<url>db/conf/iscas/iscas2004-5.html#WangCHZ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZhaoCZHHX04" mdate="2018-01-30">
+<author pid="68/2766">Xin Zhao</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="49/3541">Xianlong Hong</author>
+<author pid="75/5673-1">Lei He 0001</author>
+<author pid="81/1130">Jinjun Xiong</author>
+<title>Shielding area optimization under the solution of interconnect crosstalk.</title>
+<pages>297-300</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (5)</booktitle>
+<url>db/conf/iscas/iscas2004-5.html#ZhaoCZHHX04</url>
+</inproceedings>
+</r>
+<coauthors n="146" nc="1">
+<co c="0" n="2"><na f="a/Athanas:Peter_M=" pid="a/PeterAthanas">Peter M. Athanas</na><na>Peter Athanas</na></co>
+<co c="0"><na f="b/Bian:Jinian" pid="32/5098">Jinian Bian</na></co>
+<co c="0"><na f="c/Cai:Yici" pid="09/2775">Yici Cai</na></co>
+<co c="0"><na f="c/Che:Wenjie" pid="131/5052">Wenjie Che</na></co>
+<co c="0"><na f="c/Chen:Gang" pid="67/6383">Gang Chen</na></co>
+<co c="0"><na f="c/Chen:Juanjuan" pid="00/3467">Juanjuan Chen</na></co>
+<co c="0"><na f="c/Chen:Mike" pid="48/2536">Mike Chen</na></co>
+<co c="0"><na f="c/Chen:Wei" pid="181/2832">Wei Chen</na></co>
+<co c="0"><na f="c/Chen:Weijie" pid="43/2909">Weijie Chen</na></co>
+<co c="0"><na f="c/Chen:Yiran" pid="80/1641">Yiran Chen</na></co>
+<co c="0"><na f="c/Chen:Zhuwei" pid="184/4272">Zhuwei Chen</na></co>
+<co c="0"><na f="c/Cheng:Chung=Kuan" pid="c/ChungKuanCheng">Chung-Kuan Cheng</na></co>
+<co c="0"><na f="c/Cheung:Ray_C=_C=" pid="96/2421">Ray C. C. Cheung</na></co>
+<co c="0"><na f="c/Cong:Jason" pid="c/JasonCong">Jason Cong</na></co>
+<co c="0"><na f="c/Cui:Aijiao" pid="67/1816">Aijiao Cui</na></co>
+<co c="0"><na f="d/Dai:Hui" pid="92/2557">Hui Dai</na></co>
+<co c="0"><na f="d/Deng:Chao" pid="74/322">Chao Deng</na></co>
+<co c="0"><na f="d/Dick:Robert_P=" pid="84/523">Robert P. Dick</na></co>
+<co c="0"><na f="d/Ding:Yipeng" pid="145/0852">Yipeng Ding</na></co>
+<co c="0"><na f="d/Dong:Changdao" pid="34/10064">Changdao Dong</na></co>
+<co c="0"><na f="d/Dong:Sheqin" pid="03/4680">Sheqin Dong</na></co>
+<co c="0"><na f="e/Eguia:Thom_Jefferson_A=" pid="18/5197">Thom Jefferson A. Eguia</na></co>
+<co c="0"><na f="g/Gao:Mingze" pid="145/9452">Mingze Gao</na></co>
+<co c="0"><na f="g/Gao:Qiang" pid="43/5917">Qiang Gao</na></co>
+<co c="0"><na f="g/Gao:Wenchao" pid="70/11242">Wenchao Gao</na></co>
+<co c="0"><na f="g/Gong:Shuqian" pid="199/6839">Shuqian Gong</na></co>
+<co c="0"><na f="g/Gu:Jun" pid="61/3516">Jun Gu</na></co>
+<co c="0"><na f="g/Gu:Junjun" pid="29/7450">Junjun Gu</na></co>
+<co c="0"><na f="g/Guo:Liangpeng" pid="58/5380">Liangpeng Guo</na></co>
+<co c="0"><na f="h/Ha:Yajun" pid="29/3884">Yajun Ha</na></co>
+<co c="0"><na f="h/He_0001:Lei" pid="75/5673-1">Lei He 0001</na></co>
+<co c="0"><na f="h/Hong:Xianlong" pid="49/3541">Xianlong Hong</na></co>
+<co c="0"><na f="h/Hu:Jiang" pid="20/5455">Jiang Hu</na></co>
+<co c="0"><na f="h/Huang:Liang" pid="03/5847">Liang Huang</na></co>
+<co c="0"><na f="h/Huang:Tingting" pid="78/11061">Tingting Huang</na></co>
+<co c="0"><na f="h/Huang:Yun" pid="33/5392">Yun Huang</na></co>
+<co c="0"><na f="j/Jia:Xiaotao" pid="154/3032">Xiaotao Jia</na></co>
+<co c="0"><na f="j/Jia:Yanming" pid="26/1511">Yanming Jia</na></co>
+<co c="0"><na f="j/Jiang:Shan" pid="04/2910">Shan Jiang</na></co>
+<co c="0"><na f="j/Jiang:Yunjian" pid="71/5485">Yunjian Jiang</na></co>
+<co c="0"><na f="k/Kang:Le" pid="26/4180">Le Kang</na></co>
+<co c="0"><na f="l/Lai:Khai" pid="145/9193">Khai Lai</na></co>
+<co c="0"><na f="l/Li:Duo" pid="46/277">Duo Li</na></co>
+<co c="0" n="2"><na f="l/Li:Hai_Helen" pid="30/5330-1">Hai Helen Li</na><na>Hai Li 0001</na></co>
+<co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
+<co c="0"><na f="l/Li:Zhuoyuan" pid="81/2220">Zhuoyuan Li</na></co>
+<co c="0"><na f="l/Li:Zuowei" pid="56/8308">Zuowei Li</na></co>
+<co c="0"><na f="l/Lin:Yaping" pid="70/5926">Yaping Lin</na></co>
+<co c="0"><na f="l/Liu_0007:Bin" pid="35/837-7">Bin Liu 0007</na></co>
+<co c="0"><na f="l/Liu:Dawei" pid="57/1575">Dawei Liu</na></co>
+<co c="0"><na f="l/Liu:Liu" pid="74/7037">Liu Liu</na></co>
+<co c="0"><na f="l/Liu:Tinghao" pid="251/8860">Tinghao Liu</na></co>
+<co c="0"><na f="l/Liu:Zhipeng" pid="68/649">Zhipeng Liu</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Luo:Lijuan" pid="33/3406">Lijuan Luo</na></co>
+<co c="0"><na f="l/Luo:Qinglang" pid="99/3469">Qinglang Luo</na></co>
+<co c="0"><na f="l/Lv:Yong=Qiang" pid="148/2160">Yong-Qiang Lv</na></co>
+<co c="0" n="2"><na f="l/Lyu:Yongqiang" pid="43/6243">Yongqiang Lyu</na><na>Yongqiang Lu</na></co>
+<co c="0"><na f="m/Ma:Kun" pid="97/143">Kun Ma</na></co>
+<co c="0"><na f="m/Ma:Yuchun" pid="41/3765">Yuchun Ma</na></co>
+<co c="0"><na f="n/Niu:Feifei" pid="53/9547">Feifei Niu</na></co>
+<co c="0"><na f="p/Pang:Zihan" pid="148/1632">Zihan Pang</na></co>
+<co c="0"><na f="p/Pitchumani:Vijay" pid="71/3040">Vijay Pitchumani</na></co>
+<co c="0"><na f="q/Qi:Zhongdong" pid="77/9611">Zhongdong Qi</na></co>
+<co c="0"><na f="q/Qi:Ziyang" pid="191/8863">Ziyang Qi</na></co>
+<co c="0"><na f="q/Qian_0006:Chen" pid="70/3604-6">Chen Qian 0006</na></co>
+<co c="0"><na f="q/Qian:Qi" pid="05/2084">Qi Qian</na></co>
+<co c="0"><na f="q/Qian:Xu" pid="97/6296">Xu Qian</na></co>
+<co c="0"><na f="q/Qu:Gang" pid="04/3130">Gang Qu</na></co>
+<co c="0"><na f="q/Qu:Junhua" pid="34/10435">Junhua Qu</na></co>
+<co c="0"><na f="r/Reinman:Glenn" pid="92/4071">Glenn Reinman</na></co>
+<co c="0"><na f="s/Saxena:Prashant" pid="36/366">Prashant Saxena</na></co>
+<co c="0"><na f="s/Sham:Chiu=Wing" pid="74/6729">Chiu-Wing Sham</na></co>
+<co c="0"><na f="s/Shang:Li" pid="32/4492">Li Shang</na></co>
+<co c="0"><na f="s/Shen:Chunhua" pid="56/1673">Chunhua Shen</na></co>
+<co c="0"><na f="s/Shen:Weixiang" pid="52/5177">Weixiang Shen</na></co>
+<co c="0"><na f="s/Shen:Yin" pid="14/3608">Yin Shen</na></co>
+<co c="0"><na f="s/Shi:Jin" pid="55/5535">Jin Shi</na></co>
+<co c="0"><na f="s/Shi:Rui" pid="66/4466">Rui Shi</na></co>
+<co c="0"><na f="s/Sun:Keqiang" pid="247/6356">Keqiang Sun</na></co>
+<co c="0"><na f="s/Sun:Xingming" pid="08/3399">Xingming Sun</na></co>
+<co c="0" n="3"><na f="s/Sze:Cliff_C=_N=" pid="s/CliffNSze">Cliff C. N. Sze</na><na>Chin Ngai Sze</na><na>Cliff N. Sze</na></co>
+<co c="0"><na f="t/Tan:Sheldon_X==D=" pid="t/SXDTan">Sheldon X.-D. Tan</na></co>
+<co c="0"><na f="t/Tang:Bin" pid="77/5837">Bin Tang</na></co>
+<co c="0"><na f="w/Wang:Chenguang" pid="62/3432">Chenguang Wang</na></co>
+<co c="0"><na f="w/Wang:Haoyi" pid="59/6419">Haoyi Wang</na></co>
+<co c="0"><na f="w/Wang:Jing" pid="02/736">Jing Wang</na></co>
+<co c="0"><na f="w/Wang:Quan" pid="86/5728">Quan Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaoyi" pid="95/953">Xiaoyi Wang</na></co>
+<co c="0" n="2"><na f="w/Wang_0001:Xingwei" pid="99/4694-1">Xingwei Wang 0001</na><na>Xing-Wei Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Xueyan" pid="37/5333">Xueyan Wang</na></co>
+<co c="0"><na f="w/Wang:Yanfeng" pid="55/5407">Yanfeng Wang</na></co>
+<co c="0"><na f="w/Wang:Yang" pid="181/2842">Yang Wang</na></co>
+<co c="0"><na f="w/Wang:Yanhua" pid="77/2893">Yanhua Wang</na></co>
+<co c="0"><na f="w/Wang:Yibo" pid="25/4764">Yibo Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Yu" pid="w/YuWang2">Yu Wang 0002</na></co>
+<co c="0"><na f="w/Wang:Yunfeng" pid="64/3680">Yunfeng Wang</na></co>
+<co c="0"><na f="w/Wang:Zhaohao" pid="89/9136">Zhaohao Wang</na></co>
+<co c="0"><na f="w/Wang:Zhibin" pid="67/1237">Zhibin Wang</na></co>
+<co c="0"><na f="w/Wei:Jia" pid="97/398">Jia Wei</na></co>
+<co c="0"><na f="w/Wei:Xing" pid="14/4301">Xing Wei</na></co>
+<co c="0"><na f="w/Wu:Qiang" pid="87/2533">Qiang Wu</na></co>
+<co c="0"><na f="w/Wu:Wayne" pid="50/8731">Wayne Wu</na></co>
+<co c="0"><na f="w/Wu_0005:Wenyan" pid="57/1381-5">Wenyan Wu 0005</na></co>
+<co c="0"><na f="w/Wu:Xingzhe" pid="246/1348">Xingzhe Wu</na></co>
+<co c="0"><na f="x/Xia:Zhihua" pid="94/8286">Zhihua Xia</na></co>
+<co c="0"><na f="x/Xie_0001:Yuan" pid="x/YuanXie">Yuan Xie 0001</na></co>
+<co c="0"><na f="x/Xiong:Jinjun" pid="81/1130">Jinjun Xiong</na></co>
+<co c="0"><na f="x/Xiong:Yan" pid="70/880">Yan Xiong</na></co>
+<co c="0"><na f="x/Xu:Ning" pid="04/5856">Ning Xu</na></co>
+<co c="0"><na f="y/Yan:Haixia" pid="31/933">Haixia Yan</na></co>
+<co c="0"><na f="y/Yan:Ming" pid="51/5332">Ming Yan</na></co>
+<co c="0"><na f="y/Yan:Xiong" pid="29/3022">Xiong Yan</na></co>
+<co c="0"><na f="y/Yang:Changqi" pid="96/474">Changqi Yang</na></co>
+<co c="0"><na f="y/Yang:Fan" pid="29/3081">Fan Yang</na></co>
+<co c="0"><na f="y/Yang:Hannah_Honghua" pid="y/HannahHonghuaYang">Hannah Honghua Yang</na></co>
+<co c="0"><na f="y/Yang:Hannal" pid="26/6951">Hannal Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Jianlei" pid="99/9547-1">Jianlei Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Liu" pid="27/3367">Liu Yang</na></co>
+<co c="0"><na f="y/Yang_0003:Shuo" pid="78/1102-3">Shuo Yang 0003</na></co>
+<co c="0"><na f="y/Yang:Zhuoqian" pid="223/8490">Zhuoqian Yang</na></co>
+<co c="0"><na f="y/Yao:Hailong" pid="72/2941">Hailong Yao</na></co>
+<co c="0"><na f="y/Ye:Zuochang" pid="73/5750">Zuochang Ye</na></co>
+<co c="0"><na f="y/Yin:Chi=En_Daniel" pid="78/4974">Chi-En Daniel Yin</na></co>
+<co c="0"><na f="y/Yu_0001:Bei" pid="28/4556-1">Bei Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Chaohui" pid="14/10377">Chaohui Yu</na></co>
+<co c="0"><na f="y/Yu:Junbo" pid="60/7126">Junbo Yu</na></co>
+<co c="0"><na f="y/Yu:Wenjian" pid="03/6174">Wenjian Yu</na></co>
+<co c="0"><na f="y/Yuan:Lin" pid="83/6071">Lin Yuan</na></co>
+<co c="0"><na f="z/Zeng:Shan" pid="02/747">Shan Zeng</na></co>
+<co c="0"><na f="z/Zhang_0002:Jiliang" pid="04/1262-2">Jiliang Zhang 0002</na></co>
+<co c="0"><na f="z/Zhao:Jinming" pid="121/8902">Jinming Zhao</na></co>
+<co c="0"><na f="z/Zhao:Jinpeng" pid="47/7127">Jinpeng Zhao</na></co>
+<co c="0"><na f="z/Zhao:Kang" pid="74/5365">Kang Zhao</na></co>
+<co c="0"><na f="z/Zhao:Wei" pid="z/WeiZhao">Wei Zhao</na></co>
+<co c="0"><na f="z/Zhao:Weisheng" pid="48/5196">Weisheng Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xin" pid="68/2766">Xin Zhao</na></co>
+<co c="0"><na f="z/Zhou:Bolei" pid="46/8066">Bolei Zhou</na></co>
+<co c="0"><na f="z/Zhou:Hai" pid="z/HaiZhou">Hai Zhou</na></co>
+<co c="0"><na f="z/Zhou:Hanbin" pid="69/4425">Hanbin Zhou</na></co>
+<co c="0"><na f="z/Zhou:Pingqiang" pid="54/4046">Pingqiang Zhou</na></co>
+<co c="0"><na f="z/Zhou:Shuzhe" pid="11/9980">Shuzhe Zhou</na></co>
+<co c="0" n="2"><na f="z/Zhu:Li=Min" pid="72/2089">Li-Min Zhu</na><na>Limin Zhu</na></co>
+<co c="0"><na f="z/Zhu:Wentao" pid="117/0354">Wentao Zhu</na></co>
+<co c="0"><na f="z/Zhuo:Yue" pid="35/3246">Yue Zhuo</na></co>
+<co c="0"><na f="z/Zou:Yi" pid="19/2439">Yi Zou</na></co>
+</coauthors>
+</dblpperson>
+

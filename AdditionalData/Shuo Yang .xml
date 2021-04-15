@@ -1,3 +1,546 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:302da97e4ce646c8d017139ddd259fcd840d8bf6075921dd6f015e37f6db3b7e
-size 25693
+<?xml version="1.0"?>
+<dblpperson name="Shuo Yang 0003" pid="78/1102-3" n="23">
+<person key="homepages/78/1102-3" mdate="2020-12-18">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<note type="affiliation">Amazon Rekognition</note>
+<note label="PhD 2017" type="affiliation">Chinese University of Hong Kong, Department of Information Engineering, Hong Kong</note>
+<url>https://orcid.org/0000-0002-5754-3183</url>
+</person>
+<homonyms n="3">
+<h f="y/Yang:Shuo"><person publtype="disambiguation" key="homepages/78/1102" mdate="2020-06-17">
+<author pid="78/1102">Shuo Yang</author>
+</person>
+</h>
+<h f="y/Yang_0001:Shuo"><person key="homepages/78/1102-1" mdate="2021-01-15">
+<author pid="78/1102-1">Shuo Yang 0001</author>
+<url>https://orcid.org/0000-0001-7106-9169</url>
+<url>https://ieeexplore.ieee.org/author/37085620841</url>
+<note type="affiliation">Shanghai Jiao Tong University, Shanghai, China</note>
+</person>
+</h>
+<h f="y/Yang_0002:Shuo"><person key="homepages/78/1102-2" mdate="2020-12-17">
+<author pid="78/1102-2">Shuo Yang 0002</author>
+<note type="affiliation">Institute of Software, Chinese Academy of Sciences, Beijing, China</note>
+<url>https://ieeexplore.ieee.org/author/37086293384</url>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/cvpr/WangCYLL19" mdate="2020-12-17">
+<author pid="44/740">Jiaqi Wang</author>
+<author pid="181/2839">Kai Chen</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Region Proposal by Guided Anchoring.</title>
+<pages>2965-2974</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Region_Proposal_by_Guided_Anchoring_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00308</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#WangCYLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/SunWLYW0Y019" mdate="2020-12-18">
+<author pid="247/6356">Keqiang Sun</author>
+<author pid="50/8731">Wayne Wu</author>
+<author pid="251/8860">Tinghao Liu</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="73/5750">Zuochang Ye</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<title>FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos.</title>
+<pages>5461-5470</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00556</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#SunWLYW0Y019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-03278" mdate="2020-12-17">
+<author pid="44/740">Jiaqi Wang</author>
+<author pid="181/2839">Kai Chen</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Region Proposal by Guided Anchoring.</title>
+<year>2019</year>
+<volume>abs/1901.03278</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.03278</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-03278</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-06854" mdate="2021-01-23">
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="17/7992">Wanli Ouyang</author>
+<author pid="142/2644">Yuanjun Xiong</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="222/2014">Qingqiu Huang</author>
+<author pid="236/4960">Dongzhan Zhou</author>
+<author pid="77/1243">Wei Xia</author>
+<author pid="158/7423">Quanquan Li</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="115/9656">Junjie Yan</author>
+<author pid="65/4872">Jianfeng Wang</author>
+<author pid="211/6824">Zuoxin Li</author>
+<author pid="33/6315">Ye Yuan</author>
+<author pid="135/8082">Boxun Li</author>
+<author orcid="0000-0001-8560-4572" pid="71/8201-5">Shuai Shao 0005</author>
+<author pid="75/1683">Gang Yu</author>
+<author pid="161/2636">Fangyun Wei</author>
+<author pid="154/6643">Xiang Ming</author>
+<author pid="44/3371-3">Dong Chen 0003</author>
+<author pid="93/227">Shifeng Zhang</author>
+<author orcid="0000-0002-1234-2986" pid="97/467">Cheng Chi</author>
+<author pid="55/112">Zhen Lei</author>
+<author pid="l/StanZLi">Stan Z. Li</author>
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="31/4112">Wu Liu</author>
+<author pid="213/5172">Boyan Zhou</author>
+<author pid="92/1251">Huaxiong Li</author>
+<author pid="76/185">Peng Cheng</author>
+<author pid="12/5444-1">Tao Mei 0001</author>
+<author pid="236/4932">Artem Kukharenko</author>
+<author pid="236/5035">Artem Vasenin</author>
+<author pid="182/2347">Nikolay Sergievskiy</author>
+<author pid="11/4973-1">Hua Yang 0001</author>
+<author pid="229/1241">Liangqi Li</author>
+<author pid="221/5965">Qiling Xu</author>
+<author pid="79/5433">Yuan Hong</author>
+<author pid="13/3479-19">Lin Chen 0019</author>
+<author pid="31/6313">Mingjun Sun</author>
+<author pid="236/5018">Yirong Mao</author>
+<author pid="180/6137">Shiying Luo</author>
+<author pid="35/4145-4">Yongjun Li 0004</author>
+<author pid="60/1529-1">Ruiping Wang 0001</author>
+<author pid="236/4872">Qiaokang Xie</author>
+<author pid="236/5238">Ziyang Wu</author>
+<author pid="46/140">Lei Lu</author>
+<author pid="232/3139">Yiheng Liu</author>
+<author pid="22/4544">Wengang Zhou</author>
+<title>WIDER Face and Pedestrian Challenge 2018: Methods and Results.</title>
+<year>2019</year>
+<volume>abs/1902.06854</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.06854</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-06854</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12100" mdate="2020-12-18">
+<author pid="247/6356">Keqiang Sun</author>
+<author pid="50/8731">Wayne Wu</author>
+<author pid="251/8860">Tinghao Liu</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<author pid="73/5750">Zuochang Ye</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<title>FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos.</title>
+<year>2019</year>
+<volume>abs/1910.12100</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12100</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12100</url>
+</article>
+</r>
+<r><article key="journals/pami/YangLLT18" mdate="2020-12-17">
+<author orcid="0000-0002-5754-3183" pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Faceness-Net: Face Detection through Deep Facial Part Responses.</title>
+<pages>1845-1859</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2738644</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2738644</ee>
+<ee>https://www.wikidata.org/entity/Q38623976</ee>
+<url>db/journals/pami/pami40.html#YangLLT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/Wu0YWC018" mdate="2020-12-18">
+<author pid="50/8731">Wayne Wu</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Look at Boundary: A Boundary-Aware Face Alignment Algorithm.</title>
+<pages>2129-2138</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Look_at_Boundary_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00227</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00227</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#Wu0YWC018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChenWYZXLL18" mdate="2020-12-17">
+<author pid="181/2839">Kai Chen</author>
+<author pid="44/740">Jiaqi Wang</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="190/7261">Xingcheng Zhang</author>
+<author pid="142/2644">Yuanjun Xiong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author orcid="0000-0002-8865-7896" pid="53/6088">Dahua Lin</author>
+<title>Optimizing Video Object Detection via a Scale-Time Lattice.</title>
+<pages>7814-7823</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Optimizing_Video_Object_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00815</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00815</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#ChenWYZXLL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-05472" mdate="2020-12-17">
+<author pid="181/2839">Kai Chen</author>
+<author pid="44/740">Jiaqi Wang</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="190/7261">Xingcheng Zhang</author>
+<author pid="142/2644">Yuanjun Xiong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="53/6088">Dahua Lin</author>
+<title>Optimizing Video Object Detection via a Scale-Time Lattice.</title>
+<year>2018</year>
+<volume>abs/1804.05472</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.05472</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-05472</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-10483" mdate="2020-12-18">
+<author pid="50/8731">Wayne Wu</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="86/5728">Quan Wang</author>
+<author pid="09/2775">Yici Cai</author>
+<author pid="43/3182-1">Qiang Zhou 0001</author>
+<title>Look at Boundary: A Boundary-Aware Face Alignment Algorithm.</title>
+<year>2018</year>
+<volume>abs/1805.10483</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.10483</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-10483</url>
+</article>
+</r>
+<r><article key="journals/pami/OuyangZWQLTLYWL17" mdate="2021-02-26">
+<author orcid="0000-0002-9163-2761" pid="17/7992">Wanli Ouyang</author>
+<author pid="135/4927">Xingyu Zeng</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="97/8988">Shi Qiu</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="151/6328">Yonglong Tian</author>
+<author pid="27/7402-1">Hongsheng Li 0001</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="75/3158-6">Zhe Wang 0006</author>
+<author pid="95/8433">Hongyang Li</author>
+<author pid="05/1958">Kun Wang</author>
+<author pid="115/9656">Junjie Yan</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks.</title>
+<pages>1320-1334</pages>
+<year>2017</year>
+<volume>39</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPAMI.2016.2587642</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2016.2587642</ee>
+<ee>https://www.wikidata.org/entity/Q50499900</ee>
+<url>db/journals/pami/pami39.html#OuyangZWQLTLYWL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/WangJQYLZWT17" mdate="2020-12-18">
+<author pid="52/3194-32">Fei Wang 0032</author>
+<author pid="199/2386">Mengqing Jiang</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="16/6465-9">Cheng Li 0009</author>
+<author pid="82/1228">Honggang Zhang</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Residual Attention Network for Image Classification.</title>
+<pages>6450-6458</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.683</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2017.683</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#WangJQYLZWT17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YangLLT17" mdate="2020-12-17">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Faceness-Net: Face Detection through Deep Facial Part Responses.</title>
+<year>2017</year>
+<volume>abs/1701.08393</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.08393</ee>
+<url>db/journals/corr/corr1701.html#YangLLT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WangJQYLZWT17" mdate="2020-12-18">
+<author pid="52/3194-32">Fei Wang 0032</author>
+<author pid="199/2386">Mengqing Jiang</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="16/6465-9">Cheng Li 0009</author>
+<author pid="82/1228">Honggang Zhang</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Residual Attention Network for Image Classification.</title>
+<year>2017</year>
+<volume>abs/1704.06904</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.06904</ee>
+<url>db/journals/corr/corr1704.html#WangJQYLZWT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YangXLT17" mdate="2020-12-17">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="142/2644">Yuanjun Xiong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Face Detection through Scale-Friendly Deep Convolutional Networks.</title>
+<year>2017</year>
+<volume>abs/1706.02863</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.02863</ee>
+<url>db/journals/corr/corr1706.html#YangXLT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/YangLLT16" mdate="2020-12-17">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>WIDER FACE: A Face Detection Benchmark.</title>
+<pages>5525-5533</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.596</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2016.596</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#YangLLT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/YangLLST15" mdate="2021-02-10">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="25/5822">Kenneth W. Shum</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>Deep Representation Learning with Target Coding.</title>
+<pages>3848-3854</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9773</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#YangLLST15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/OuyangWZQLTLYWL15" mdate="2021-02-26">
+<author orcid="0000-0002-9163-2761" pid="17/7992">Wanli Ouyang</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="135/4927">Xingyu Zeng</author>
+<author pid="97/8988">Shi Qiu</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="151/6328">Yonglong Tian</author>
+<author pid="27/7402-1">Hongsheng Li 0001</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="75/3158-6">Zhe Wang 0006</author>
+<author orcid="0000-0001-5345-1591" pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>DeepID-Net: Deformable deep convolutional neural networks for object detection.</title>
+<pages>2403-2412</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7298854</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7298854</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#OuyangWZQLTLYWL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/YangLLT15" mdate="2020-12-17">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>From Facial Parts Responses to Face Detection: A Deep Learning Approach.</title>
+<pages>3676-3684</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.419</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.419</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#YangLLT15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YangLLT15a" mdate="2020-12-17">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>From Facial Parts Responses to Face Detection: A Deep Learning Approach.</title>
+<year>2015</year>
+<volume>abs/1509.06451</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1509.06451</ee>
+<url>db/journals/corr/corr1509.html#YangLLT15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YangLLT15b" mdate="2020-12-17">
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>WIDER FACE: A Face Detection Benchmark.</title>
+<year>2015</year>
+<volume>abs/1511.06523</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.06523</ee>
+<url>db/journals/corr/corr1511.html#YangLLT15b</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/OuyangLZQTLYWXQZWLWT14" mdate="2021-02-26">
+<author pid="17/7992">Wanli Ouyang</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="135/4927">Xingyu Zeng</author>
+<author pid="97/8988">Shi Qiu</author>
+<author pid="151/6328">Yonglong Tian</author>
+<author pid="27/7402-1">Hongsheng Li 0001</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="75/3158-6">Zhe Wang 0006</author>
+<author pid="142/2644">Yuanjun Xiong</author>
+<author pid="70/3604-6">Chen Qian 0006</author>
+<author pid="142/2453">Zhenyao Zhu</author>
+<author pid="23/9712">Ruohui Wang</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>DeepID-Net: multi-stage and deformable deep convolutional neural networks for object detection.</title>
+<year>2014</year>
+<volume>abs/1409.3505</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.3505</ee>
+<url>db/journals/corr/corr1409.html#OuyangLZQTLYWXQZWLWT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/OuyangWZQLTLYWLT14" mdate="2021-02-26">
+<author pid="17/7992">Wanli Ouyang</author>
+<author pid="91/6236-1">Xiaogang Wang 0001</author>
+<author pid="135/4927">Xingyu Zeng</author>
+<author pid="97/8988">Shi Qiu</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="151/6328">Yonglong Tian</author>
+<author pid="27/7402-1">Hongsheng Li 0001</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="75/3158-6">Zhe Wang 0006</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="04/5226">Xiaoou Tang</author>
+<title>DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection.</title>
+<year>2014</year>
+<volume>abs/1412.5661</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.5661</ee>
+<url>db/journals/corr/corr1412.html#OuyangWZQLTLYWLT14</url>
+</article>
+</r>
+<coauthors n="78" nc="1">
+<co c="0"><na f="c/Cai:Yici" pid="09/2775">Yici Cai</na></co>
+<co c="0"><na f="c/Chang:Hong" pid="02/2689">Hong Chang</na></co>
+<co c="0"><na f="c/Chen_0003:Dong" pid="44/3371-3">Dong Chen 0003</na></co>
+<co c="0"><na f="c/Chen:Kai" pid="181/2839">Kai Chen</na></co>
+<co c="0"><na f="c/Chen_0019:Lin" pid="13/3479-19">Lin Chen 0019</na></co>
+<co c="0"><na f="c/Chen:Xilin" pid="c/XilinChen">Xilin Chen</na></co>
+<co c="0"><na f="c/Cheng:Peng" pid="76/185">Peng Cheng</na></co>
+<co c="0"><na f="c/Chi:Cheng" pid="97/467">Cheng Chi</na></co>
+<co c="0"><na f="h/Hong:Yuan" pid="79/5433">Yuan Hong</na></co>
+<co c="0"><na f="h/Huang:Qingqiu" pid="222/2014">Qingqiu Huang</na></co>
+<co c="0"><na f="j/Jiang:Mengqing" pid="199/2386">Mengqing Jiang</na></co>
+<co c="0"><na f="k/Kukharenko:Artem" pid="236/4932">Artem Kukharenko</na></co>
+<co c="0"><na f="l/Lei:Zhen" pid="55/112">Zhen Lei</na></co>
+<co c="0"><na f="l/Li:Boxun" pid="135/8082">Boxun Li</na></co>
+<co c="0"><na f="l/Li_0009:Cheng" pid="16/6465-9">Cheng Li 0009</na></co>
+<co c="0"><na f="l/Li_0001:Hongsheng" pid="27/7402-1">Hongsheng Li 0001</na></co>
+<co c="0"><na f="l/Li:Hongyang" pid="95/8433">Hongyang Li</na></co>
+<co c="0"><na f="l/Li:Huaxiong" pid="92/1251">Huaxiong Li</na></co>
+<co c="0"><na f="l/Li:Liangqi" pid="229/1241">Liangqi Li</na></co>
+<co c="0"><na f="l/Li:Quanquan" pid="158/7423">Quanquan Li</na></co>
+<co c="0"><na f="l/Li:Stan_Z=" pid="l/StanZLi">Stan Z. Li</na></co>
+<co c="0"><na f="l/Li_0004:Yongjun" pid="35/4145-4">Yongjun Li 0004</na></co>
+<co c="0"><na f="l/Li:Zuoxin" pid="211/6824">Zuoxin Li</na></co>
+<co c="0"><na f="l/Lin:Dahua" pid="53/6088">Dahua Lin</na></co>
+<co c="0"><na f="l/Liu:Tinghao" pid="251/8860">Tinghao Liu</na></co>
+<co c="0"><na f="l/Liu:Wu" pid="31/4112">Wu Liu</na></co>
+<co c="0"><na f="l/Liu:Yiheng" pid="232/3139">Yiheng Liu</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Lu:Lei" pid="46/140">Lei Lu</na></co>
+<co c="0"><na f="l/Luo_0002:Ping" pid="54/4989-2">Ping Luo 0002</na></co>
+<co c="0"><na f="l/Luo:Shiying" pid="180/6137">Shiying Luo</na></co>
+<co c="0"><na f="m/Ma:Bingpeng" pid="62/1822">Bingpeng Ma</na></co>
+<co c="0"><na f="m/Mao:Yirong" pid="236/5018">Yirong Mao</na></co>
+<co c="0"><na f="m/Mei_0001:Tao" pid="12/5444-1">Tao Mei 0001</na></co>
+<co c="0"><na f="m/Ming:Xiang" pid="154/6643">Xiang Ming</na></co>
+<co c="0"><na f="o/Ouyang:Wanli" pid="17/7992">Wanli Ouyang</na></co>
+<co c="0"><na f="q/Qian_0006:Chen" pid="70/3604-6">Chen Qian 0006</na></co>
+<co c="0"><na f="q/Qiu:Shi" pid="97/8988">Shi Qiu</na></co>
+<co c="0"><na f="s/Sergievskiy:Nikolay" pid="182/2347">Nikolay Sergievskiy</na></co>
+<co c="0"><na f="s/Shan:Shiguang" pid="s/ShiguangShan">Shiguang Shan</na></co>
+<co c="0"><na f="s/Shao_0005:Shuai" pid="71/8201-5">Shuai Shao 0005</na></co>
+<co c="0"><na f="s/Shum:Kenneth_W=" pid="25/5822">Kenneth W. Shum</na></co>
+<co c="0"><na f="s/Sun:Keqiang" pid="247/6356">Keqiang Sun</na></co>
+<co c="0"><na f="s/Sun:Mingjun" pid="31/6313">Mingjun Sun</na></co>
+<co c="0"><na f="t/Tang:Xiaoou" pid="04/5226">Xiaoou Tang</na></co>
+<co c="0"><na f="t/Tian:Yonglong" pid="151/6328">Yonglong Tian</na></co>
+<co c="0"><na f="v/Vasenin:Artem" pid="236/5035">Artem Vasenin</na></co>
+<co c="0"><na f="w/Wang_0032:Fei" pid="52/3194-32">Fei Wang 0032</na></co>
+<co c="0"><na f="w/Wang:Jianfeng" pid="65/4872">Jianfeng Wang</na></co>
+<co c="0"><na f="w/Wang:Jiaqi" pid="44/740">Jiaqi Wang</na></co>
+<co c="0"><na f="w/Wang:Kun" pid="05/1958">Kun Wang</na></co>
+<co c="0"><na f="w/Wang:Quan" pid="86/5728">Quan Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ruiping" pid="60/1529-1">Ruiping Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Ruohui" pid="23/9712">Ruohui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Xiaogang" pid="91/6236-1">Xiaogang Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0006:Zhe" pid="75/3158-6">Zhe Wang 0006</na></co>
+<co c="0"><na f="w/Wei:Fangyun" pid="161/2636">Fangyun Wei</na></co>
+<co c="0"><na f="w/Wu:Wayne" pid="50/8731">Wayne Wu</na></co>
+<co c="0"><na f="w/Wu:Ziyang" pid="236/5238">Ziyang Wu</na></co>
+<co c="0"><na f="x/Xia:Wei" pid="77/1243">Wei Xia</na></co>
+<co c="0"><na f="x/Xie:Qiaokang" pid="236/4872">Qiaokang Xie</na></co>
+<co c="0"><na f="x/Xiong:Yuanjun" pid="142/2644">Yuanjun Xiong</na></co>
+<co c="0"><na f="x/Xu:Qiling" pid="221/5965">Qiling Xu</na></co>
+<co c="0"><na f="y/Yan:Junjie" pid="115/9656">Junjie Yan</na></co>
+<co c="0"><na f="y/Yang_0001:Hua" pid="11/4973-1">Hua Yang 0001</na></co>
+<co c="0"><na f="y/Ye:Zuochang" pid="73/5750">Zuochang Ye</na></co>
+<co c="0"><na f="y/Yu:Gang" pid="75/1683">Gang Yu</na></co>
+<co c="0"><na f="y/Yuan:Ye" pid="33/6315">Ye Yuan</na></co>
+<co c="0"><na f="z/Zeng:Xingyu" pid="135/4927">Xingyu Zeng</na></co>
+<co c="0"><na f="z/Zhang:Honggang" pid="82/1228">Honggang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hongkai" pid="83/2850">Hongkai Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shifeng" pid="93/227">Shifeng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xingcheng" pid="190/7261">Xingcheng Zhang</na></co>
+<co c="0"><na f="z/Zhou:Boyan" pid="213/5172">Boyan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Dongzhan" pid="236/4960">Dongzhan Zhou</na></co>
+<co c="0"><na f="z/Zhou_0001:Qiang" pid="43/3182-1">Qiang Zhou 0001</na></co>
+<co c="0"><na f="z/Zhou:Wengang" pid="22/4544">Wengang Zhou</na></co>
+<co c="0"><na f="z/Zhu:Zhenyao" pid="142/2453">Zhenyao Zhu</na></co>
+</coauthors>
+</dblpperson>
+

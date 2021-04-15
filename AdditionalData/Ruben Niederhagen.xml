@@ -1,3 +1,891 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2afd9778ff69ebfa5ec631edfac986f20b6017ae7c7350f7472cc4aba3f6b5e0
-size 41105
+<?xml version="1.0"?>
+<dblpperson name="Ruben Niederhagen" pid="62/7604" n="52">
+<person key="homepages/62/7604" mdate="2009-12-11">
+<author pid="62/7604">Ruben Niederhagen</author>
+</person>
+<r><article key="journals/tches/AlkimCCEHHLNSWY21" mdate="2021-01-29">
+<author pid="128/2280">Erdem Alkim</author>
+<author pid="277/3717">Dean Yun-Li Cheng</author>
+<author pid="277/3962">Chi-Ming Marvin Chung</author>
+<author pid="256/9104">H&#252;lya Evkan</author>
+<author pid="277/3661">Leo Wei-Lun Huang</author>
+<author pid="277/3814">Vincent Hwang</author>
+<author pid="277/3766">Ching-Lin Trista Li</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="277/3557">Cheng-Jhih Shih</author>
+<author pid="119/6699">Julian W&#228;lde</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Polynomial Multiplication in NTRU Prime Comparison of Optimization Strategies on Cortex-M4.</title>
+<pages>217-238</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.46586/tches.v2021.i1.217-238</ee>
+<url>db/journals/tches/tches2021.html#AlkimCCEHHLNSWY21</url>
+</article>
+</r>
+<r><article key="journals/tches/AlkimELNP20" mdate="2020-07-02">
+<author pid="128/2280">Erdem Alkim</author>
+<author pid="256/9104">H&#252;lya Evkan</author>
+<author pid="256/9324">Norman Lahr</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="117/6697">Richard Petri</author>
+<title>ISA Extensions for Finite Field Arithmetic Accelerating Kyber and NewHope on RISC-V.</title>
+<pages>219-242</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2020.i3.219-242</ee>
+<url>db/journals/tches/tches2020.html#AlkimELNP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/LahrNPS20" mdate="2020-12-10">
+<author pid="256/9324">Norman Lahr</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="117/6697">Richard Petri</author>
+<author pid="33/10867">Simona Samardjiska</author>
+<title>Side Channel Information Set Decoding Using Iterative Chunking - Plaintext Recovery from the &#34;Classic McEliece&#34; Hardware Reference Implementation.</title>
+<pages>881-910</pages>
+<year>2020</year>
+<booktitle>ASIACRYPT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-64837-4_29</ee>
+<crossref>conf/asiacrypt/2020-1</crossref>
+<url>db/conf/asiacrypt/asiacrypt2020-1.html#LahrNPS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/Burstinghaus-Steinbach20" mdate="2020-11-10">
+<author pid="261/5111">Kevin B&#252;rstinghaus-Steinbach</author>
+<author pid="34/4605">Christoph Krau&#223;</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="25/3953-2">Michael Schneider 0002</author>
+<title>Post-Quantum TLS on Embedded Systems: Integrating and Evaluating Kyber and SPHINCS+ with mbed TLS.</title>
+<pages>841-852</pages>
+<year>2020</year>
+<booktitle>AsiaCCS</booktitle>
+<ee>https://doi.org/10.1145/3320269.3384725</ee>
+<crossref>conf/ccs/2020asia</crossref>
+<url>db/conf/ccs/asiaccs2020.html#Burstinghaus-Steinbach20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/Kumar0CKKN20" mdate="2020-12-29">
+<author orcid="0000-0001-8363-2852" pid="39/3973">Vinay B. Y. Kumar</author>
+<author pid="83/7953-1">Naina Gupta 0001</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="06/9">Michael Kasper</author>
+<author pid="34/4605">Christoph Krau&#223;</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Post-Quantum Secure Boot.</title>
+<pages>1582-1585</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116252</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#Kumar0CKKN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/MohanWJNSM20" mdate="2021-01-11">
+<author pid="31/1036">Prashanth Mohan</author>
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="47/7447">Bernhard Jungk</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="20/513">Ken Mai</author>
+<title>ASIC Accelerator in 28 nm for the Post-Quantum Digital Signature Scheme XMSS.</title>
+<pages>656-662</pages>
+<year>2020</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD50377.2020.00112</ee>
+<crossref>conf/iccd/2020</crossref>
+<url>db/conf/iccd/iccd2020.html#MohanWJNSM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlkimELNP20" mdate="2021-01-23">
+<author pid="128/2280">Erdem Alkim</author>
+<author pid="256/9104">H&#252;lya Evkan</author>
+<author orcid="0000-0002-0739-9603" pid="256/9324">Norman Lahr</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="117/6697">Richard Petri</author>
+<title>ISA Extensions for Finite Field Arithmetic - Accelerating Kyber and NewHope on RISC-V.</title>
+<pages>49</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/049</ee>
+<url>db/journals/iacr/iacr2020.html#AlkimELNP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Burstinghaus-Steinbach20" mdate="2020-05-11">
+<author pid="261/5111">Kevin B&#252;rstinghaus-Steinbach</author>
+<author pid="34/4605">Christoph Krau&#223;</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="25/3953-2">Michael Schneider 0002</author>
+<title>Post-Quantum TLS on Embedded Systems.</title>
+<pages>308</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/308</ee>
+<url>db/journals/iacr/iacr2020.html#Burstinghaus-Steinbach20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AlkimCCEHHLNSWY20" mdate="2020-10-30">
+<author pid="128/2280">Erdem Alkim</author>
+<author pid="277/3717">Dean Yun-Li Cheng</author>
+<author pid="277/3962">Chi-Ming Marvin Chung</author>
+<author pid="256/9104">H&#252;lya Evkan</author>
+<author pid="277/3661">Leo Wei-Lun Huang</author>
+<author pid="277/3814">Vincent Hwang</author>
+<author pid="277/3766">Ching-Lin Trista Li</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="277/3557">Cheng-Jhih Shih</author>
+<author pid="119/6699">Julian W&#228;lde</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Polynomial Multiplication in NTRU Prime: Comparison of Optimization Strategies on Cortex-M4.</title>
+<pages>1216</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1216</ee>
+<url>db/journals/iacr/iacr2020.html#AlkimCCEHHLNSWY20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/BernsteinHKNRS19" mdate="2020-12-29">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author orcid="0000-0003-2215-4134" pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="72/4913">Stefan K&#246;lbl</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="170/3609">Joost Rijneveld</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>The SPHINCS<sup>+</sup> Signature Framework.</title>
+<pages>2129-2146</pages>
+<year>2019</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3319535.3363229</ee>
+<crossref>conf/ccs/2019</crossref>
+<url>db/conf/ccs/ccs2019.html#BernsteinHKNRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/KreutzerNSF19" mdate="2020-11-10">
+<author pid="33/6146">Michael Kreutzer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="192/5940">Kris Shrishak</author>
+<author pid="01/7589">Hervais Simo Fhom</author>
+<title>Quotable Signatures using Merkle Trees.</title>
+<pages>473-477</pages>
+<year>2019</year>
+<booktitle>GI-Jahrestagung</booktitle>
+<ee type="oa">https://doi.org/10.18420/inf2019_64</ee>
+<crossref>conf/gi/2019</crossref>
+<url>db/conf/gi/gi2019.html#KreutzerNSF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/0007JWD0SN19" mdate="2020-01-14">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="47/7447">Bernhard Jungk</author>
+<author pid="119/6699">Julian W&#228;lde</author>
+<author pid="197/1353">Shuwen Deng</author>
+<author pid="83/7953-1">Naina Gupta 0001</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>XMSS and Embedded Systems.</title>
+<pages>523-550</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-38471-5_21</ee>
+<crossref>conf/sacrypt/2019</crossref>
+<url>db/conf/sacrypt/sacrypt2019.html#0007JWD0SN19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinHKNRS19" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="72/4913">Stefan K&#246;lbl</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="170/3609">Joost Rijneveld</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>The SPHINCS+ Signature Framework.</title>
+<pages>1086</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1086</ee>
+<url>db/journals/iacr/iacr2019.html#BernsteinHKNRS19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/LahrNPS19" mdate="2021-01-23">
+<author orcid="0000-0002-0739-9603" pid="256/9324">Norman Lahr</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="117/6697">Richard Petri</author>
+<author pid="33/10867">Simona Samardjiska</author>
+<title>Side Channel Information Set Decoding.</title>
+<pages>1459</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1459</ee>
+<url>db/journals/iacr/iacr2019.html#LahrNPS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/WangSN18" mdate="2018-11-21">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Post-Quantum Cryptography on FPGAs: The Niederreiter Cryptosystem: Extended Abstract.</title>
+<pages>371</pages>
+<year>2018</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3194554.3194617</ee>
+<crossref>conf/glvlsi/2018</crossref>
+<url>db/conf/glvlsi/glvlsi2018.html#WangSN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/WangSN18" mdate="2018-10-11">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>FPGA-Based Niederreiter Cryptosystem Using Binary Goppa Codes.</title>
+<pages>77-98</pages>
+<year>2018</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-79063-3_4</ee>
+<crossref>conf/pqcrypto/2018</crossref>
+<url>db/conf/pqcrypto/pqcrypto2018.html#WangSN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pqcrypto/NiederhagenNY18" mdate="2019-01-11">
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="152/9560">Kai-Chun Ning</author>
+<author orcid="0000-0002-9362-5282" pid="37/4997">Bo-Yin Yang</author>
+<title>Implementing Joux-Vitse's Crossbred Algorithm for Solving MQ Systems over GF(2) on GPUs.</title>
+<pages>121-141</pages>
+<year>2018</year>
+<booktitle>PQCrypto</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-79063-3_6</ee>
+<crossref>conf/pqcrypto/2018</crossref>
+<url>db/conf/pqcrypto/pqcrypto2018.html#NiederhagenNY18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/WangJWDGSN18" mdate="2020-05-11">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="47/7447">Bernhard Jungk</author>
+<author pid="119/6699">Julian W&#228;lde</author>
+<author pid="197/1353">Shuwen Deng</author>
+<author pid="83/7953-1">Naina Gupta 0001</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>XMSS and Embedded Systems - XMSS Hardware Accelerators for RISC-V.</title>
+<pages>1225</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/1225</ee>
+<url>db/journals/iacr/iacr2018.html#WangJWDGSN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/WangSN17" mdate="2018-10-11">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>FPGA-based Key Generator for the Niederreiter Cryptosystem Using Binary Goppa Codes.</title>
+<pages>253-274</pages>
+<year>2017</year>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66787-4_13</ee>
+<crossref>conf/ches/2017</crossref>
+<url>db/conf/ches/ches2017.html#WangSN17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/WangSN17" mdate="2020-05-11">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>FPGA-based Key Generator for the Niederreiter Cryptosystem using Binary Goppa Codes.</title>
+<pages>595</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/595</ee>
+<url>db/journals/iacr/iacr2017.html#WangSN17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WangSN17a" mdate="2020-05-11">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>FPGA-based Niederreiter Cryptosystem using Binary Goppa Codes.</title>
+<pages>1180</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/1180</ee>
+<url>db/journals/iacr/iacr2017.html#WangSN17a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/NiederhagenNY17" mdate="2020-05-11">
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="152/9560">Kai-Chun Ning</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Implementing Joux-Vitse's Crossbred Algorithm for Solving MQ Systems over GF(2) on GPUs.</title>
+<pages>1181</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/1181</ee>
+<url>db/journals/iacr/iacr2017.html#NiederhagenNY17</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/BernsteinLN16" mdate="2017-09-25">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Dual EC: A Standardized Back Door.</title>
+<pages>256-281</pages>
+<year>2016</year>
+<booktitle>The New Codebreakers</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-49301-4_17</ee>
+<crossref>conf/birthday/2016kahn</crossref>
+<url>db/conf/birthday/kahn2016.html#BernsteinLN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/WangSN16" mdate="2018-10-11">
+<author pid="29/4680-7">Wen Wang 0007</author>
+<author pid="66/8277">Jakub Szefer</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Solving large systems of linear equations over GF(2) on FPGAs.</title>
+<pages>1-7</pages>
+<year>2016</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2016.7857188</ee>
+<crossref>conf/reconfig/2016</crossref>
+<url>db/conf/reconfig/reconfig2016.html#WangSN16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinELNPS016" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="131/5139">Susanne Engels</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="47/8769-1">Ralf Zimmermann 0001</author>
+<title>Faster discrete logarithms on FPGAs.</title>
+<pages>382</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/382</ee>
+<url>db/journals/iacr/iacr2016.html#BernsteinELNPS016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChengCNY16" mdate="2020-05-11">
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="21/8341">Tung Chou</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Solving Quadratic Equations with XL on Parallel Architectures - extended version.</title>
+<pages>412</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/412</ee>
+<url>db/journals/iacr/iacr2016.html#ChengCNY16</url>
+</article>
+</r>
+<r><inproceedings key="conf/acisp/BernsteinHLN15" mdate="2018-11-02">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author orcid="0000-0003-2215-4134" pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Bad Directions in Cryptographic Hash Functions.</title>
+<pages>488-508</pages>
+<year>2015</year>
+<booktitle>ACISP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19962-7_28</ee>
+<crossref>conf/acisp/2015</crossref>
+<url>db/conf/acisp/acisp2015.html#BernsteinHLN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/BernsteinHHLNPS15" mdate="2019-08-20">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="152/5275">Daira Hopwood</author>
+<author orcid="0000-0003-2215-4134" pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="152/5274">Louiza Papachristodoulou</author>
+<author pid="25/3953-2">Michael Schneider 0002</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="89/6588">Zooko Wilcox-O'Hearn</author>
+<title>SPHINCS: Practical Stateless Hash-Based Signatures.</title>
+<pages>368-397</pages>
+<year>2015</year>
+<booktitle>EUROCRYPT (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46800-5_15</ee>
+<ee>https://www.wikidata.org/entity/Q56700421</ee>
+<crossref>conf/eurocrypt/2015-1</crossref>
+<url>db/conf/eurocrypt/eurocrypt2015-1.html#BernsteinHHLNPS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secsr/BernsteinCCHLLN15" mdate="2021-04-09">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author orcid="0000-0003-3043-6190" pid="21/8341">Tung Chou</author>
+<author pid="124/1916">Chitchanok Chuengsatiansup</author>
+<author orcid="0000-0003-2215-4134" pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="172/4950">Eran Lambooij</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="150/0066">Christine van Vredendaal</author>
+<title>How to Manipulate Curve Standards: A White Paper for the Black Hat http: //bada55.cr.yp.to.</title>
+<pages>109-139</pages>
+<year>2015</year>
+<booktitle>SSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-27152-1_6</ee>
+<crossref>conf/secsr/2015</crossref>
+<url>db/conf/secsr/ssr2015.html#BernsteinCCHLLN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/AubelBN15" mdate="2017-05-17">
+<author pid="166/1185">Pol Van Aubel</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Investigating SRAM PUFs in large CPUs and GPUs.</title>
+<pages>228-247</pages>
+<year>2015</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24126-5_14</ee>
+<crossref>conf/space/2015</crossref>
+<url>db/conf/space/space2015.html#AubelBN15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AubelBN15" mdate="2018-08-13">
+<author pid="166/1185">Pol Van Aubel</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Investigating SRAM PUFs in large CPUs and GPUs.</title>
+<year>2015</year>
+<volume>abs/1507.08514</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.08514</ee>
+<url>db/journals/corr/corr1507.html#AubelBN15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinHLN15" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Bad directions in cryptographic hash functions.</title>
+<pages>151</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/151</ee>
+<url>db/journals/iacr/iacr2015.html#BernsteinHLN15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AubelBN15" mdate="2020-05-11">
+<author pid="166/1185">Pol Van Aubel</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Investigating SRAM PUFs in large CPUs and GPUs.</title>
+<pages>760</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/760</ee>
+<url>db/journals/iacr/iacr2015.html#AubelBN15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinLN15" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<title>Dual EC: A Standardized Back Door.</title>
+<pages>767</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/767</ee>
+<url>db/journals/iacr/iacr2015.html#BernsteinLN15</url>
+</article>
+</r>
+<r><inproceedings key="conf/uss/CheckowayNE0LRBMSF14" mdate="2021-02-01">
+<author pid="14/8302">Stephen Checkoway</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="26/4437">Adam Everspaugh</author>
+<author pid="74/4531-1">Matthew Green 0001</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="26/3399">Thomas Ristenpart</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="150/5411">Jake Maskiewicz</author>
+<author pid="35/1061">Hovav Shacham</author>
+<author pid="38/2612">Matthew Fredrikson</author>
+<title>On the Practical Exploitability of Dual EC in TLS Implementations.</title>
+<pages>319-335</pages>
+<year>2014</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/checkoway</ee>
+<crossref>conf/uss/2014</crossref>
+<url>db/conf/uss/uss2014.html#CheckowayNE0LRBMSF14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinCCHLNV14" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="21/8341">Tung Chou</author>
+<author pid="124/1916">Chitchanok Chuengsatiansup</author>
+<author pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="150/0066">Christine van Vredendaal</author>
+<title>How to manipulate curve standards: a white paper for the black hat.</title>
+<pages>571</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/571</ee>
+<url>db/journals/iacr/iacr2014.html#BernsteinCCHLNV14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinHHLNPSO14" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="152/5275">Daira Hopwood</author>
+<author pid="27/1744">Andreas H&#252;lsing</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="152/5274">Louiza Papachristodoulou</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="89/6588">Zooko Wilcox-O'Hearn</author>
+<title>SPHINCS: practical stateless hash-based signatures.</title>
+<pages>795</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/795</ee>
+<url>db/journals/iacr/iacr2014.html#BernsteinHHLNPSO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sacrypt/BouillaguetCCNY13" mdate="2021-04-09">
+<author pid="97/3320">Charles Bouillaguet</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author orcid="0000-0003-3043-6190" pid="21/8341">Tung Chou</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Fast Exhaustive Search for Quadratic Systems in $$\mathbb {F}_{2}$$ on FPGAs.</title>
+<pages>205-222</pages>
+<year>2013</year>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43414-7_11</ee>
+<crossref>conf/sacrypt/2013</crossref>
+<url>db/conf/sacrypt/sacrypt2013.html#BouillaguetCCNY13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BouillaguetCCNY13" mdate="2020-05-11">
+<author pid="97/3320">Charles Bouillaguet</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="21/8341">Tung Chou</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Fast Exhaustive Search for Quadratic Systems in &#120125;<sub>2</sub> on FPGAs - Extended Version.</title>
+<pages>436</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/436</ee>
+<url>db/journals/iacr/iacr2013.html#BouillaguetCCNY13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/ChengCNY12" mdate="2021-04-09">
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author orcid="0000-0003-3043-6190" pid="21/8341">Tung Chou</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Solving Quadratic Equations with XL on Parallel Architectures.</title>
+<pages>356-373</pages>
+<year>2012</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33027-8_21</ee>
+<crossref>conf/ches/2012</crossref>
+<url>db/conf/ches/ches2012.html#ChengCNY12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinCCLNSY12" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="39/8341">Hsieh-Chung Chen</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>ECC2K-130 on NVIDIA GPUs.</title>
+<pages>2</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/002</ee>
+<url>db/journals/iacr/iacr2012.html#BernsteinCCLNSY12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinCCLNSY12a" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="39/8341">Hsieh-Chung Chen</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Usable assembly language for GPUs: a success story.</title>
+<pages>137</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/137</ee>
+<url>db/journals/iacr/iacr2012.html#BernsteinCCLNSY12a</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/BosKNS10" mdate="2017-05-22">
+<author pid="02/7441">Joppe W. Bos</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>ECC2K-130 on Cell CPUs.</title>
+<pages>225-242</pages>
+<year>2010</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12678-9_14</ee>
+<crossref>conf/africacrypt/2010</crossref>
+<url>db/conf/africacrypt/africacrypt2010.html#BosKNS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/BouillaguetCCCNSY10" mdate="2021-04-09">
+<author pid="97/3320">Charles Bouillaguet</author>
+<author pid="39/8341">Hsieh-Chung Chen</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author orcid="0000-0003-3043-6190" pid="21/8341">Tung Chou</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="s/AdiShamir">Adi Shamir</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Fast Exhaustive Search for Polynomial Systems in <i>F</i><sub>2</sub>.</title>
+<pages>203-218</pages>
+<year>2010</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15031-9_14</ee>
+<crossref>conf/ches/2010</crossref>
+<url>db/conf/ches/ches2010.html#BouillaguetCCCNSY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/BernsteinCCLNSY10" mdate="2017-09-25">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="39/8341">Hsieh-Chung Chen</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>ECC2K-130 on NVIDIA GPUs.</title>
+<pages>328-346</pages>
+<year>2010</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17401-8_23</ee>
+<crossref>conf/indocrypt/2010</crossref>
+<url>db/conf/indocrypt/indocrypt2010.html#BernsteinCCLNSY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/NaehrigNS10" mdate="2017-05-24">
+<author pid="57/6968">Michael Naehrig</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>New Software Speed Records for Cryptographic Pairings.</title>
+<pages>109-123</pages>
+<year>2010</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14712-8_7</ee>
+<crossref>conf/latincrypt/2010</crossref>
+<url>db/conf/latincrypt/latincrypt2010.html#NaehrigNS10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BosKNS10" mdate="2020-05-11">
+<author pid="02/7441">Joppe W. Bos</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>ECC2K-130 on Cell CPUs.</title>
+<pages>77</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/077</ee>
+<url>db/journals/iacr/iacr2010.html#BosKNS10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/NaehrigNS10" mdate="2020-05-11">
+<author pid="57/6968">Michael Naehrig</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>New software speed records for cryptographic pairings.</title>
+<pages>186</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/186</ee>
+<url>db/journals/iacr/iacr2010.html#NaehrigNS10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BouillaguetCCNSY10" mdate="2020-05-11">
+<author pid="97/3320">Charles Bouillaguet</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="21/8341">Tung Chou</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="s/AdiShamir">Adi Shamir</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Fast Exhaustive Search for Polynomial Systems in F<sub>2</sub>.</title>
+<pages>313</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/313</ee>
+<url>db/journals/iacr/iacr2010.html#BouillaguetCCNSY10</url>
+</article>
+</r>
+<r><inproceedings key="conf/indocrypt/BernsteinLNPS09" mdate="2017-09-25">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="40/5742">Christiane Peters</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>FSBday.</title>
+<pages>18-38</pages>
+<year>2009</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-10628-6_2</ee>
+<crossref>conf/indocrypt/2009</crossref>
+<url>db/conf/indocrypt/indocrypt2009.html#BernsteinLNPS09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BernsteinLNPS09" mdate="2020-05-11">
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="40/5742">Christiane Peters</author>
+<author pid="30/1431">Peter Schwabe</author>
+<title>Implementing Wagner's generalized birthday attack against the SHA-3 round-1 candidate FSB.</title>
+<pages>292</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/292</ee>
+<url>db/journals/iacr/iacr2009.html#BernsteinLNPS09</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BaileyBBBBCCDMPFGGKLMNPRSUHY09" mdate="2020-05-11">
+<author pid="70/4808">Daniel V. Bailey</author>
+<author pid="67/1939">Lejla Batina</author>
+<author pid="b/DanielJBernstein">Daniel J. Bernstein</author>
+<author pid="38/6165">Peter Birkner</author>
+<author pid="02/7441">Joppe W. Bos</author>
+<author pid="39/8341">Hsieh-Chung Chen</author>
+<author pid="42/5405">Chen-Mou Cheng</author>
+<author pid="04/7543">Gauthier Van Damme</author>
+<author pid="20/5510">Giacomo de Meulenaer</author>
+<author pid="47/7225">Luis J. Dominguez Perez</author>
+<author pid="36/2152">Junfeng Fan</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="28/6272">Frank K. G&#252;rkaynak</author>
+<author pid="54/5779">Thorsten Kleinjung</author>
+<author pid="56/2224">Tanja Lange 0001</author>
+<author pid="23/3870">Nele Mentens</author>
+<author pid="62/7604">Ruben Niederhagen</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="30/1431">Peter Schwabe</author>
+<author pid="04/3628">Leif Uhsadel</author>
+<author pid="28/10331">Anthony Van Herrewege</author>
+<author pid="37/4997">Bo-Yin Yang</author>
+<title>Breaking ECC2K-130.</title>
+<pages>541</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/541</ee>
+<url>db/journals/iacr/iacr2009.html#BaileyBBBBCCDMPFGGKLMNPRSUHY09</url>
+</article>
+</r>
+<coauthors n="75" nc="2">
+<co c="0"><na f="a/Alkim:Erdem" pid="128/2280">Erdem Alkim</na></co>
+<co c="0"><na f="a/Aubel:Pol_Van" pid="166/1185">Pol Van Aubel</na></co>
+<co c="0"><na f="b/Bailey:Daniel_V=" pid="70/4808">Daniel V. Bailey</na></co>
+<co c="0"><na f="b/Batina:Lejla" pid="67/1939">Lejla Batina</na></co>
+<co c="0"><na f="b/Bernstein:Daniel_J=" pid="b/DanielJBernstein">Daniel J. Bernstein</na></co>
+<co c="0"><na f="b/Birkner:Peter" pid="38/6165">Peter Birkner</na></co>
+<co c="0"><na f="b/Bos:Joppe_W=" pid="02/7441">Joppe W. Bos</na></co>
+<co c="0"><na f="b/Bouillaguet:Charles" pid="97/3320">Charles Bouillaguet</na></co>
+<co c="0"><na f="b/B=uuml=rstinghaus=Steinbach:Kevin" pid="261/5111">Kevin B&#252;rstinghaus-Steinbach</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Checkoway:Stephen" pid="14/8302">Stephen Checkoway</na></co>
+<co c="0"><na f="c/Chen:Hsieh=Chung" pid="39/8341">Hsieh-Chung Chen</na></co>
+<co c="0"><na f="c/Cheng:Chen=Mou" pid="42/5405">Chen-Mou Cheng</na></co>
+<co c="0"><na f="c/Cheng:Dean_Yun=Li" pid="277/3717">Dean Yun-Li Cheng</na></co>
+<co c="0"><na f="c/Chou:Tung" pid="21/8341">Tung Chou</na></co>
+<co c="0"><na f="c/Chuengsatiansup:Chitchanok" pid="124/1916">Chitchanok Chuengsatiansup</na></co>
+<co c="0"><na f="c/Chung:Chi=Ming_Marvin" pid="277/3962">Chi-Ming Marvin Chung</na></co>
+<co c="0"><na f="d/Damme:Gauthier_Van" pid="04/7543">Gauthier Van Damme</na></co>
+<co c="0"><na f="d/Deng:Shuwen" pid="197/1353">Shuwen Deng</na></co>
+<co c="0"><na f="e/Engels:Susanne" pid="131/5139">Susanne Engels</na></co>
+<co c="0"><na f="e/Everspaugh:Adam" pid="26/4437">Adam Everspaugh</na></co>
+<co c="0"><na f="e/Evkan:H=uuml=lya" pid="256/9104">H&#252;lya Evkan</na></co>
+<co c="0"><na f="f/Fan:Junfeng" pid="36/2152">Junfeng Fan</na></co>
+<co c="1"><na f="f/Fhom:Hervais_Simo" pid="01/7589">Hervais Simo Fhom</na></co>
+<co c="0" n="2"><na f="f/Fredrikson:Matt" pid="38/2612">Matt Fredrikson</na><na>Matthew Fredrikson</na></co>
+<co c="0"><na f="g/Green_0001:Matthew" pid="74/4531-1">Matthew Green 0001</na></co>
+<co c="0"><na f="g/G=uuml=neysu:Tim" pid="50/6307">Tim G&#252;neysu</na></co>
+<co c="0"><na f="g/Gupta_0001:Naina" pid="83/7953-1">Naina Gupta 0001</na></co>
+<co c="0"><na f="g/G=uuml=rkaynak:Frank_K=" pid="28/6272">Frank K. G&#252;rkaynak</na></co>
+<co c="0"><na f="h/Herrewege:Anthony_Van" pid="28/10331">Anthony Van Herrewege</na></co>
+<co c="0"><na f="h/Hopwood:Daira" pid="152/5275">Daira Hopwood</na></co>
+<co c="0"><na f="h/Huang:Leo_Wei=Lun" pid="277/3661">Leo Wei-Lun Huang</na></co>
+<co c="0"><na f="h/H=uuml=lsing:Andreas" pid="27/1744">Andreas H&#252;lsing</na></co>
+<co c="0"><na f="h/Hwang:Vincent" pid="277/3814">Vincent Hwang</na></co>
+<co c="0"><na f="j/Jungk:Bernhard" pid="47/7447">Bernhard Jungk</na></co>
+<co c="0"><na f="k/Kasper:Michael" pid="06/9">Michael Kasper</na></co>
+<co c="0"><na f="k/Kleinjung:Thorsten" pid="54/5779">Thorsten Kleinjung</na></co>
+<co c="0"><na f="k/K=ouml=lbl:Stefan" pid="72/4913">Stefan K&#246;lbl</na></co>
+<co c="0"><na f="k/Krau=szlig=:Christoph" pid="34/4605">Christoph Krau&#223;</na></co>
+<co c="1"><na f="k/Kreutzer:Michael" pid="33/6146">Michael Kreutzer</na></co>
+<co c="0"><na f="k/Kumar:Vinay_B=_Y=" pid="39/3973">Vinay B. Y. Kumar</na></co>
+<co c="0"><na f="l/Lahr:Norman" pid="256/9324">Norman Lahr</na></co>
+<co c="0"><na f="l/Lambooij:Eran" pid="172/4950">Eran Lambooij</na></co>
+<co c="0"><na f="l/Lange_0001:Tanja" pid="56/2224">Tanja Lange 0001</na></co>
+<co c="0"><na f="l/Li:Ching=Lin_Trista" pid="277/3766">Ching-Lin Trista Li</na></co>
+<co c="0"><na f="m/Mai:Ken" pid="20/513">Ken Mai</na></co>
+<co c="0"><na f="m/Maskiewicz:Jake" pid="150/5411">Jake Maskiewicz</na></co>
+<co c="0"><na f="m/Mentens:Nele" pid="23/3870">Nele Mentens</na></co>
+<co c="0"><na f="m/Meulenaer:Giacomo_de" pid="20/5510">Giacomo de Meulenaer</na></co>
+<co c="0"><na f="m/Mohan:Prashanth" pid="31/1036">Prashanth Mohan</na></co>
+<co c="0"><na f="n/Naehrig:Michael" pid="57/6968">Michael Naehrig</na></co>
+<co c="0"><na f="n/Ning:Kai=Chun" pid="152/9560">Kai-Chun Ning</na></co>
+<co c="0"><na f="p/Paar:Christof" pid="p/ChristofPaar">Christof Paar</na></co>
+<co c="0"><na f="p/Papachristodoulou:Louiza" pid="152/5274">Louiza Papachristodoulou</na></co>
+<co c="0"><na f="p/Perez:Luis_J=_Dominguez" pid="47/7225">Luis J. Dominguez Perez</na></co>
+<co c="0"><na f="p/Peters:Christiane" pid="40/5742">Christiane Peters</na></co>
+<co c="0"><na f="p/Petri:Richard" pid="117/6697">Richard Petri</na></co>
+<co c="0"><na f="r/Regazzoni_0001:Francesco" pid="31/1489-1">Francesco Regazzoni 0001</na></co>
+<co c="0"><na f="r/Rijneveld:Joost" pid="170/3609">Joost Rijneveld</na></co>
+<co c="0"><na f="r/Ristenpart:Thomas" pid="26/3399">Thomas Ristenpart</na></co>
+<co c="0"><na f="s/Samardjiska:Simona" pid="33/10867">Simona Samardjiska</na></co>
+<co c="0"><na f="s/Schneider_0002:Michael" pid="25/3953-2">Michael Schneider 0002</na></co>
+<co c="0"><na f="s/Schwabe:Peter" pid="30/1431">Peter Schwabe</na></co>
+<co c="0"><na f="s/Shacham:Hovav" pid="35/1061">Hovav Shacham</na></co>
+<co c="0"><na f="s/Shamir:Adi" pid="s/AdiShamir">Adi Shamir</na></co>
+<co c="0"><na f="s/Shih:Cheng=Jhih" pid="277/3557">Cheng-Jhih Shih</na></co>
+<co c="1"><na f="s/Shrishak:Kris" pid="192/5940">Kris Shrishak</na></co>
+<co c="0"><na f="s/Szefer:Jakub" pid="66/8277">Jakub Szefer</na></co>
+<co c="0"><na f="u/Uhsadel:Leif" pid="04/3628">Leif Uhsadel</na></co>
+<co c="0"><na f="v/Vredendaal:Christine_van" pid="150/0066">Christine van Vredendaal</na></co>
+<co c="0"><na f="w/W=auml=lde:Julian" pid="119/6699">Julian W&#228;lde</na></co>
+<co c="0"><na f="w/Wang_0007:Wen" pid="29/4680-7">Wen Wang 0007</na></co>
+<co c="0"><na f="w/Wilcox=O=Hearn:Zooko" pid="89/6588">Zooko Wilcox-O'Hearn</na></co>
+<co c="0"><na f="y/Yang:Bo=Yin" pid="37/4997">Bo-Yin Yang</na></co>
+<co c="0"><na f="z/Zimmermann_0001:Ralf" pid="47/8769-1">Ralf Zimmermann 0001</na></co>
+</coauthors>
+</dblpperson>
+

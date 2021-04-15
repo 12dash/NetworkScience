@@ -1,3 +1,2871 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7cc4e2bfe19b1094036661d51df18025d086173c22e9940011cac18aae86529
-size 129338
+<?xml version="1.0"?>
+<dblpperson name="Wayne P. Burleson" pid="b/WaynePBurleson" n="187">
+<person key="homepages/b/WaynePBurleson" mdate="2020-04-07">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<note type="affiliation">University of Massachusetts Amherst, Department of Electrical and Computer Engineering, MA, USA</note>
+<url>http://www.ecs.umass.edu/ece/vspgroup/burleson.html</url>
+<url>https://ece.umass.edu/faculty/wayne-burleson</url>
+<url>https://scholar.google.com/citations?user=jwCp7QUAAAAJ</url>
+<url>https://ieeexplore.ieee.org/author/37273906500</url>
+</person>
+<r><article key="journals/micro/BertozziMGBSBJN21" mdate="2021-02-05">
+<author pid="48/5390">Davide Bertozzi</author>
+<author pid="155/0993">Gabriele Miorandi</author>
+<author pid="79/10515">Alberto Ghiribaldi</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="135/8456">Greg Sadowski</author>
+<author pid="53/11157">Kshitij Bhardwaj</author>
+<author pid="30/9639-2">Weiwei Jiang 0002</author>
+<author pid="84/595">Steven M. Nowick</author>
+<title>Cost-Effective and Flexible Asynchronous Interconnect Technology for GALS Systems.</title>
+<pages>69-81</pages>
+<year>2021</year>
+<volume>41</volume>
+<journal>IEEE Micro</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MM.2020.3002790</ee>
+<url>db/journals/micro/micro41.html#BertozziMGBSBJN21</url>
+</article>
+</r>
+<r><article key="journals/midm/ArgawTLFCABVOEF20" mdate="2020-09-06">
+<author pid="234/6756">Salem T. Argaw</author>
+<author pid="33/5866">Juan Ram&#243;n Troncoso-Pastoriza</author>
+<author pid="145/7731">Darren Lacey</author>
+<author pid="248/6621">Marie-Valentine Florin</author>
+<author pid="269/3424">Franck Calcavecchia</author>
+<author pid="269/4370">Denise Anderson</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="269/3867">Jan-Michael Vogel</author>
+<author pid="269/4324">Chana O'Leary</author>
+<author pid="234/6642">Bruce Eshaya-Chauvin</author>
+<author orcid="0000-0002-6957-2977" pid="74/5335">Antoine Flahault</author>
+<title>Cybersecurity of Hospitals: discussing the challenges and working towards mitigating the risks.</title>
+<pages>146</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>BMC Medical Informatics Decis. Mak.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12911-020-01161-7</ee>
+<ee>https://www.wikidata.org/entity/Q97067360</ee>
+<url>db/journals/midm/midm20.html#ArgawTLFCABVOEF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/JinBDR20" mdate="2021-02-02">
+<author pid="148/1500">Chenglu Jin</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<title>Erasable PUFs: Formal Treatment and Generic Design.</title>
+<pages>21-33</pages>
+<year>2020</year>
+<booktitle>ASHES@CCS</booktitle>
+<ee>https://doi.org/10.1145/3411504.3421215</ee>
+<crossref>conf/ccs/2020ashes</crossref>
+<url>db/conf/ccs/ashes2020.html#JinBDR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/MoiniLSPBTH20" mdate="2020-09-21">
+<author pid="206/7938">Shayan Moini</author>
+<author pid="40/1491">Xiang Li</author>
+<author pid="274/5031">Peter Stanwicks</author>
+<author pid="78/10491">George Provelengios</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<title>Understanding and Comparing the Capabilities of On-Chip Voltage Sensors against Remote Power Attacks on FPGAs.</title>
+<pages>941-944</pages>
+<year>2020</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS48704.2020.9184683</ee>
+<crossref>conf/mwscas/2020</crossref>
+<url>db/conf/mwscas/mwscas2020.html#MoiniLSPBTH20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-06585" mdate="2020-10-08">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<author pid="18/10681">Denise L. Anthony</author>
+<author pid="51/3023">Jorge Guajardo</author>
+<author pid="g/CarlAGunter">Carl A. Gunter</author>
+<author pid="29/6955">Kyle Ingols</author>
+<author pid="11/10454">Jean-Baptiste Jeannin</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="04/4402">Carl E. Landwehr</author>
+<author pid="90/7585">Susan Squires</author>
+<title>Grand Challenges for Embedded Security Research in a Connected World.</title>
+<year>2020</year>
+<volume>abs/2005.06585</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.06585</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-06585</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/ChattopadhyayGB19" mdate="2020-04-06">
+<author orcid="0000-0002-8818-6983" pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="91/2072">Swaroop Ghosh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Guest Editorial Special Section on Security Challenges and Solutions With Emerging Computing Technologies.</title>
+<pages>2469-2472</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVLSI.2019.2945850</ee>
+<url>db/journals/tvlsi/tvlsi27.html#ChattopadhyayGB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/LagasseBB19" mdate="2020-04-06">
+<author pid="248/4535">Jacqueline Lagasse</author>
+<author pid="248/4629">Christopher Bartoli</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Combining Clock and Voltage Noise Countermeasures Against Power Side-Channel Analysis.</title>
+<pages>214-217</pages>
+<year>2019</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2019.00009</ee>
+<crossref>conf/asap/2019</crossref>
+<url>db/conf/asap/asap2019.html#LagasseBB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LiXB19" mdate="2020-04-06">
+<author pid="49/595">Shuo Li</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>PVTMC: An All-Digital Sub-Picosecond Timing Measurement Circuit Based on Process Variations.</title>
+<pages>574-579</pages>
+<year>2019</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2019.00108</ee>
+<crossref>conf/isvlsi/2019</crossref>
+<url>db/conf/isvlsi/isvlsi2019.html#LiXB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/NeshatpourBKH18" mdate="2020-04-06">
+<author orcid="0000-0002-0094-316X" pid="119/4406">Katayoun Neshatpour</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="47/2329">Amin Khajeh</author>
+<author pid="63/3012">Houman Homayoun</author>
+<title>Enhancing Power, Performance, and Energy Efficiency in Chip Multiprocessors Exploiting Inverse Thermal Dependence.</title>
+<pages>778-791</pages>
+<year>2018</year>
+<volume>26</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TVLSI.2017.2780800</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVLSI.2017.2780800</ee>
+<url>db/journals/tvlsi/tvlsi26.html#NeshatpourBKH18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-09651" mdate="2020-04-06">
+<author pid="32/4797">Kapil Dev</author>
+<author pid="46/353">Indrani Paul</author>
+<author pid="81/6685-4">Wei Huang 0004</author>
+<author pid="117/3197">Yasuko Eckert</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="11/6528">Sherief Reda</author>
+<title>Implications of Integrated CPU-GPU Processors on Thermal and Power Management Techniques.</title>
+<year>2018</year>
+<volume>abs/1808.09651</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.09651</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-09651</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GaoJKNXBKDRR18" mdate="2020-05-11">
+<author pid="139/1152">Yansong Gao</author>
+<author pid="148/1500">Chenglu Jin</author>
+<author pid="190/7065">Jeeson Kim</author>
+<author pid="190/7318">Hussein Nili</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="41/9830">Omid Kavehei</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="56/8102">Damith Chinthana Ranasinghe</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<title>Efficient Erasable PUFs from Programmable Logic and Memristors.</title>
+<pages>358</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/358</ee>
+<url>db/journals/iacr/iacr2018.html#GaoJKNXBKDRR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/JiangBMNBS17" mdate="2020-09-17">
+<author pid="30/9639-2">Weiwei Jiang 0002</author>
+<author pid="48/5390">Davide Bertozzi</author>
+<author pid="155/0993">Gabriele Miorandi</author>
+<author pid="84/595">Steven M. Nowick</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="135/8456">Greg Sadowski</author>
+<title>An asynchronous NoC router in a 14nm FinFET library: Comparison to an industrial synchronous counterpart.</title>
+<pages>732-733</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927084</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130555</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#JiangBMNBS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LiXB17" mdate="2020-04-06">
+<author pid="49/595">Shuo Li</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>CCATDC: A Configurable Compact Algorithmic Time-to-Digital Converter.</title>
+<pages>501-506</pages>
+<year>2017</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2017.118</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2017.118</ee>
+<crossref>conf/isvlsi/2017</crossref>
+<url>db/conf/isvlsi/isvlsi2017.html#LiXB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tecs/HesterTRSHFBS16" mdate="2020-09-08">
+<author orcid="0000-0002-1680-085X" pid="143/9139">Josiah D. Hester</author>
+<author pid="170/2553">Nicole Tobias</author>
+<author pid="125/0358">Amir Rahmati</author>
+<author pid="61/8068">Lanny Sitanayah</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="81/3501">Jacob Sorber</author>
+<title>Persistent Clocks for Batteryless Sensing Devices.</title>
+<pages>77:1-77:28</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2903140</ee>
+<url>db/journals/tecs/tecs15.html#HesterTRSHFBS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/BurlesonMT16" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="33/65">Mohit Tiwari</author>
+<title>Invited - Who is the major threat to tomorrow's security?: you, the hardware designer.</title>
+<pages>145:1-145:5</pages>
+<year>2016</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2897937.2905022</ee>
+<crossref>conf/dac/2016</crossref>
+<url>db/conf/dac/dac2016.html#BurlesonMT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/DevRPHB16" mdate="2020-04-06">
+<author pid="32/4797">Kapil Dev</author>
+<author pid="11/6528">Sherief Reda</author>
+<author pid="46/353">Indrani Paul</author>
+<author pid="81/6685-4">Wei Huang 0004</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Workload-Aware Power Gating Design and Run-Time Management for Massively Parallel GPGPUs.</title>
+<pages>242-247</pages>
+<year>2016</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2016.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2016.60</ee>
+<crossref>conf/isvlsi/2016</crossref>
+<url>db/conf/isvlsi/isvlsi2016.html#DevRPHB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/XuBH16" mdate="2020-04-06">
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<title>Using Statistical Models to Improve the Reliability of Delay-Based PUFs.</title>
+<pages>547-552</pages>
+<year>2016</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2016.125</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2016.125</ee>
+<crossref>conf/isvlsi/2016</crossref>
+<url>db/conf/isvlsi/isvlsi2016.html#XuBH16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/XuRHFB15" mdate="2020-09-24">
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="125/0358">Amir Rahmati</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Reliable Physical Unclonable Functions Using Data Retention Voltage of SRAM Cells.</title>
+<pages>903-914</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2418288</ee>
+<url>db/journals/tcad/tcad34.html#XuRHFB15</url>
+</article>
+</r>
+<r><article key="journals/tcas/SureshB15" mdate="2020-05-22">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Entropy and Energy Bounds for Metastability Based TRNG with Lightweight Post-Processing.</title>
+<pages>1785-1793</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCSI.2015.2441966</ee>
+<url>db/journals/tcas/tcasI62.html#SureshB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/LuTB15" mdate="2018-11-06">
+<author pid="123/7043">Shiting (Justin) Lu</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Reinforcement Learning for Thermal-aware Many-core Task Allocation.</title>
+<pages>379-384</pages>
+<year>2015</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2742060.2742078</ee>
+<crossref>conf/glvlsi/2015</crossref>
+<url>db/conf/glvlsi/glvlsi2015.html#LuTB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/NeshatpourHKB15" mdate="2020-04-06">
+<author pid="119/4406">Katayoun Neshatpour</author>
+<author pid="63/3012">Houman Homayoun</author>
+<author pid="47/2329">Amin Khajeh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Revisiting Dynamic Thermal Management Exploiting Inverse Thermal Dependence.</title>
+<pages>385-390</pages>
+<year>2015</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2742060.2742086</ee>
+<crossref>conf/glvlsi/2015</crossref>
+<url>db/conf/glvlsi/glvlsi2015.html#NeshatpourHKB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/MalikBPB15" mdate="2017-05-21">
+<author pid="31/8805">Shweta Malik</author>
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Development of a Layout-Level Hardware Obfuscation Tool.</title>
+<pages>204-209</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.118</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.118</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#MalikBPB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rfidsec/XuRHB15" mdate="2017-05-24">
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Security Evaluation and Enhancement of Bistable Ring PUFs.</title>
+<pages>3-16</pages>
+<year>2015</year>
+<booktitle>RFIDSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24837-0_1</ee>
+<crossref>conf/rfidsec/2015</crossref>
+<url>db/conf/rfidsec/rfidsec2015.html#XuRHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rfidsec/KumarB15" mdate="2020-04-06">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Side-Channel Assisted Modeling Attacks on Feed-Forward Arbiter PUFs Using Silicon Data.</title>
+<pages>53-67</pages>
+<year>2015</year>
+<booktitle>RFIDSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24837-0_4</ee>
+<crossref>conf/rfidsec/2015</crossref>
+<url>db/conf/rfidsec/rfidsec2015.html#KumarB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/RuhrmairMXKHKFB15" mdate="2017-05-26">
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="165/5542">J. L. Martinez-Hurtado</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="165/5404">Christian Kraeh</author>
+<author pid="51/8322">Christian Hilgers</author>
+<author pid="165/5481">Dima Kononchuk</author>
+<author pid="165/5445">Jonathan J. Finley</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Virtual Proofs of Reality and their Physical Implementation.</title>
+<pages>70-85</pages>
+<year>2015</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2015.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SP.2015.12</ee>
+<crossref>conf/sp/2015</crossref>
+<url>db/conf/sp/sp2015.html#RuhrmairMXKHKFB15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/XuRHB15" mdate="2020-05-11">
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Security Evaluation and Enhancement of Bistable Ring PUFs.</title>
+<pages>443</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/443</ee>
+<url>db/journals/iacr/iacr2015.html#XuRHB15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JinXBRD15" mdate="2020-05-11">
+<author pid="148/1500">Chenglu Jin</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="32/1399">Marten van Dijk</author>
+<title>PLayPUF: Programmable Logically Erasable PUFs for Forward and Backward Secure Key Management.</title>
+<pages>1052</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/1052</ee>
+<url>db/journals/iacr/iacr2015.html#JinXBRD15</url>
+</article>
+</r>
+<r><article key="journals/jce/BeckerRPB14" mdate="2020-07-09">
+<author pid="66/8380">Georg T. Becker</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Stealthy dopant-level hardware Trojans: extended version.</title>
+<pages>19-31</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13389-013-0068-0</ee>
+<url>db/journals/jce/jce4.html#BeckerRPB14</url>
+</article>
+</r>
+<r><article key="journals/tcad/LuTB14" mdate="2020-09-24">
+<author pid="123/7043">Shiting (Justin) Lu</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Dynamic On-Chip Thermal Sensor Calibration Using Performance Counters.</title>
+<pages>853-866</pages>
+<year>2014</year>
+<volume>33</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2014.2302384</ee>
+<url>db/journals/tcad/tcad33.html#LuTB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/biocas/GhoreishizadehY14" mdate="2020-04-06">
+<author pid="87/10053">Sara S. Ghoreishizadeh</author>
+<author pid="07/8571">Tolga Yal&#231;in</author>
+<author pid="98/6010">Antonio Pullini</author>
+<author pid="d/GDeMicheli">Giovanni De Micheli</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="75/7571">Sandro Carrara</author>
+<title>A lightweight cryptographic system for implantable biosensors.</title>
+<pages>472-475</pages>
+<year>2014</year>
+<booktitle>BioCAS</booktitle>
+<ee>https://doi.org/10.1109/BioCAS.2014.6981765</ee>
+<crossref>conf/biocas/2014</crossref>
+<url>db/conf/biocas/biocas2014.html#GhoreishizadehY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/RuhrmairXSMMKB14" mdate="2018-12-23">
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="97/8484">Jan S&#246;lter</author>
+<author pid="65/1424">Ahmed Mahmoud</author>
+<author pid="77/187">Mehrdad Majzoobi</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Efficient Power and Timing Side Channels for Physical Unclonable Functions.</title>
+<pages>476-492</pages>
+<year>2014</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44709-3_26</ee>
+<crossref>conf/ches/2014</crossref>
+<url>db/conf/ches/ches2014.html#RuhrmairXSMMKB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/GuoBS14" mdate="2020-10-25">
+<author orcid="0000-0002-2374-3953" pid="145/9137">Xinfei Guo</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author orcid="0000-0003-0577-9976" pid="s/MirceaRStan">Mircea R. Stan</author>
+<title>Modeling and Experimental Demonstration of Accelerated Self-Healing Techniques.</title>
+<pages>171:1-171:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593162</ee>
+<ee>https://www.wikidata.org/entity/Q57447116</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#GuoBS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/RuhrmairSB14" mdate="2020-04-06">
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="07/6841">Ulf Schlichtmann</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Special session: How secure are PUFs really? On the reach and limits of recent PUF attacks.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.359</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2617097</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#RuhrmairSB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/XuB14" mdate="2020-04-06">
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Hybrid side-channel/machine-learning attacks on PUFs: A new threat?</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.362</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2617100</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#XuB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdtc/KumarJBP14" mdate="2017-05-17">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="14/11314">Philipp Jovanovic</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Parametric Trojans for Fault-Injection Attacks on Cryptographic Hardware.</title>
+<pages>18-28</pages>
+<year>2014</year>
+<booktitle>FDTC</booktitle>
+<ee>https://doi.org/10.1109/FDTC.2014.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FDTC.2014.12</ee>
+<crossref>conf/fdtc/2014</crossref>
+<url>db/conf/fdtc/fdtc2014.html#KumarJBP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/KumarB14" mdate="2020-04-06">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>On design of a highly secure PUF based on non-linear current mirrors.</title>
+<pages>38-43</pages>
+<year>2014</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2014.6855565</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2014.6855565</ee>
+<crossref>conf/host/2014</crossref>
+<url>db/conf/host/host2014.html#KumarB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/KaplanVHAHBTC14" mdate="2020-04-06">
+<author pid="123/2250">Fulya Kaplan</author>
+<author pid="155/4394">Charlie De Vivero</author>
+<author pid="155/4395">Samuel Howes</author>
+<author pid="01/2818">Manish Arora</author>
+<author pid="63/3012">Houman Homayoun</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="t/DeanMTullsen">Dean M. Tullsen</author>
+<author pid="79/3945">Ayse K. Coskun</author>
+<title>Modeling and analysis of Phase Change Materials for efficient thermal management.</title>
+<pages>256-263</pages>
+<year>2014</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2014.6974690</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2014.6974690</ee>
+<crossref>conf/iccd/2014</crossref>
+<url>db/conf/iccd/iccd2014.html#KaplanVHAHBTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/KumarB14" mdate="2017-05-24">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Hybrid modeling attacks on current-based PUFs.</title>
+<pages>493-496</pages>
+<year>2014</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2014.6974725</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2014.6974725</ee>
+<crossref>conf/iccd/2014</crossref>
+<url>db/conf/iccd/iccd2014.html#KumarB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/BucklerB14" mdate="2020-04-06">
+<author pid="135/8701">Mark Buckler</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Predictive synchronization for DVFS-enabled multi-processor systems.</title>
+<pages>270-275</pages>
+<year>2014</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2014.6783336</ee>
+<crossref>conf/isqed/2014</crossref>
+<url>db/conf/isqed/isqed2014.html#BucklerB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/SureshB14" mdate="2017-05-25">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Fine grained wearout sensing using metastability resolution time.</title>
+<pages>480-483</pages>
+<year>2014</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2014.6783363</ee>
+<crossref>conf/isqed/2014</crossref>
+<url>db/conf/isqed/isqed2014.html#SureshB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/SureshB14" mdate="2017-05-21">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Variation Aware Design of Post-Silicon Tunable Clock Buffer.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.95</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.95</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#SureshB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/XuSKB14" mdate="2017-05-21">
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Post-Silicon Validation and Calibration of Hardware Security Primitives.</title>
+<pages>29-34</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.80</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#XuSKB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ZhaoLBT14" mdate="2017-05-21">
+<author pid="34/3125">Jia Zhao</author>
+<author pid="123/7043">Shiting (Justin) Lu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>A Broadcast-Enabled Sensing System for Embedded Multi-core Processors.</title>
+<pages>190-195</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.18</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#ZhaoLBT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memocode/Burleson14" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Keynote talk I: Security and privacy in implantable medical devices: An ongoing concern.</title>
+<pages>1</pages>
+<year>2014</year>
+<booktitle>MEMOCODE</booktitle>
+<ee>https://doi.org/10.1109/MEMCOD.2014.6961837</ee>
+<crossref>conf/memocode/2014</crossref>
+<url>db/conf/memocode/memocode2014.html#Burleson14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/BucklerVLB14" mdate="2020-04-06">
+<author pid="135/8701">Mark Buckler</author>
+<author pid="157/0775">Arpan Vaidya</author>
+<author pid="41/5427">Xiaobin Liu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Dynamic synchronizer flip-flop performance in FinFET technologies.</title>
+<pages>104-110</pages>
+<year>2014</year>
+<booktitle>NOCS</booktitle>
+<ee>https://doi.org/10.1109/NOCS.2014.7008768</ee>
+<crossref>conf/nocs/2014</crossref>
+<url>db/conf/nocs/nocs2014.html#BucklerVLB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/SureshB14" mdate="2017-05-23">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>REFLEX: Reconfigurable logic for entropy extraction.</title>
+<pages>341-346</pages>
+<year>2014</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2014.6948951</ee>
+<crossref>conf/socc/2014</crossref>
+<url>db/conf/socc/socc2014.html#SureshB14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/KumarJBP14" mdate="2020-05-11">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="14/11314">Philipp Jovanovic</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Parametric Trojans for Fault-Injection Attacks on Cryptographic Hardware.</title>
+<pages>783</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/783</ee>
+<url>db/journals/iacr/iacr2014.html#KumarJBP14</url>
+</article>
+</r>
+<r><article key="journals/tifs/RuhrmairSSXMSDSBD13" mdate="2020-08-06">
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="97/8484">Jan S&#246;lter</author>
+<author pid="30/955">Frank Sehnke</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="65/1424">Ahmed Mahmoud</author>
+<author pid="126/5981">Vera Stoyanova</author>
+<author pid="06/6216">Gideon Dror</author>
+<author pid="s/JurgenSchmidhuber">J&#252;rgen Schmidhuber</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>PUF Modeling Attacks on Simulated and Silicon Data.</title>
+<pages>1876-1891</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIFS.2013.2279798</ee>
+<url>db/journals/tifs/tifs8.html#RuhrmairSSXMSDSBD13</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/XuPTBM13" mdate="2020-04-06">
+<author pid="11/6234">Hu Xu</author>
+<author pid="43/3714">Vasilis F. Pavlidis</author>
+<author pid="133/5914">Xifan Tang</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="d/GDeMicheli">Giovanni De Micheli</author>
+<title>Timing Uncertainty in 3-D Clock Trees Due to Process Variations and Power Supply Noise.</title>
+<pages>2226-2239</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TVLSI.2012.2230035</ee>
+<url>db/journals/tvlsi/tvlsi21.html#XuPTBM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/BeckerRPB13" mdate="2020-03-31">
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Stealthy Dopant-Level Hardware Trojans.</title>
+<pages>197-214</pages>
+<year>2013</year>
+<crossref>conf/ches/2013</crossref>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40349-1_12</ee>
+<url>db/conf/ches/ches2013.html#BeckerRPB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/RostamiBKJ13" mdate="2020-04-06">
+<author pid="08/5781">Masoud Rostami</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="j/AriJuels">Ari Juels</author>
+<title>Balancing security and utility in medical devices?</title>
+<pages>13:1-13:6</pages>
+<year>2013</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2463209.2488750</ee>
+<crossref>conf/dac/2013</crossref>
+<url>db/conf/dac/dac2013.html#RostamiBKJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ZhaoLBT13" mdate="2020-04-06">
+<author pid="34/3125">Jia Zhao</author>
+<author pid="123/7043">Shiting (Justin) Lu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>Run-time probabilistic detection of miscalibrated thermal sensors in many-core systems.</title>
+<pages>1395-1398</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.285</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485620</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#ZhaoLBT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/SureshAB13" mdate="2017-05-21">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="133/5077">Daniele Antonioli</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>On-chip lightweight implementation of reduced NIST randomness test suite.</title>
+<pages>93-98</pages>
+<year>2013</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2013.6581572</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2013.6581572</ee>
+<crossref>conf/host/2013</crossref>
+<url>db/conf/host/host2013.html#SureshAB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/BucklerBS13" mdate="2020-04-06">
+<author pid="135/8701">Mark Buckler</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="135/8456">Greg Sadowski</author>
+<title>Low-power Networks-on-Chip: Progress and remaining challenges.</title>
+<pages>132-134</pages>
+<year>2013</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/ISLPED.2013.6629279</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2648700</ee>
+<crossref>conf/islped/2013</crossref>
+<url>db/conf/islped/islped2013.html#BucklerBS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/KumarB13" mdate="2020-04-06">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Litho-aware and low power design of a secure current-based physically unclonable function.</title>
+<pages>402-407</pages>
+<year>2013</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/ISLPED.2013.6629331</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2648761</ee>
+<crossref>conf/islped/2013</crossref>
+<url>db/conf/islped/islped2013.html#KumarB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pet/HinterwalderZBLPB13" mdate="2017-05-23">
+<author pid="125/0390">Gesine Hinterw&#228;lder</author>
+<author pid="130/6535">Christian T. Zenger</author>
+<author pid="46/7643">Foteini Baldimtsi</author>
+<author pid="70/3375">Anna Lysyanskaya</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Efficient E-Cash in Practice: NFC-Based Payments for Public Transportation Systems.</title>
+<pages>40-59</pages>
+<year>2013</year>
+<booktitle>Privacy Enhancing Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39077-7_3</ee>
+<crossref>conf/pet/2013</crossref>
+<url>db/conf/pet/pets2013.html#HinterwalderZBLPB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/PatilSBK13" mdate="2017-05-23">
+<author pid="47/9980">Vinay C. Patil</author>
+<author pid="76/9547">Sudarshan Srinivasan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="84/1396">Sandip Kundu</author>
+<title>Impact of Clock-Gating on Power Distribution Network Using Wavelet Analysis.</title>
+<pages>80-85</pages>
+<year>2013</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2013.167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2013.167</ee>
+<crossref>conf/vlsid/2013</crossref>
+<url>db/conf/vlsid/vlsid2013.html#PatilSBK13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/RuhrmairSSXMSDSBD13" mdate="2020-05-11">
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="97/8484">Jan S&#246;lter</author>
+<author pid="30/955">Frank Sehnke</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="65/1424">Ahmed Mahmoud</author>
+<author pid="126/5981">Vera Stoyanova</author>
+<author pid="06/6216">Gideon Dror</author>
+<author pid="s/JurgenSchmidhuber">J&#252;rgen Schmidhuber</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>PUF Modeling Attacks on Simulated and Silicon Data.</title>
+<pages>112</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/112</ee>
+<url>db/journals/iacr/iacr2013.html#RuhrmairSSXMSDSBD13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/RuhrmairXSMKB13" mdate="2020-05-11">
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="15/1040">Xiaolin Xu</author>
+<author pid="97/8484">Jan S&#246;lter</author>
+<author pid="65/1424">Ahmed Mahmoud</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Power and Timing Side Channels for PUFs and their Efficient Exploitation.</title>
+<pages>851</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/851</ee>
+<url>db/journals/iacr/iacr2013.html#RuhrmairXSMKB13</url>
+</article>
+</r>
+<r><article key="journals/jce/KasperMBMGPB12" mdate="2020-10-26">
+<author pid="86/7075">Markus Kasper</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="22/8341">Oliver Mischke</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Side channels as building blocks.</title>
+<pages>143-159</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13389-012-0040-4</ee>
+<url>db/journals/jce/jce2.html#KasperMBMGPB12</url>
+</article>
+</r>
+<r><article key="journals/sensors/CarraraGOTBCBDB12" mdate="2020-04-06">
+<author pid="75/7571">Sandro Carrara</author>
+<author pid="87/10053">Sara S. Ghoreishizadeh</author>
+<author pid="74/10941">Jacopo Olivo</author>
+<author pid="60/11470">Irene Taurino</author>
+<author pid="40/11469">Camilla Baj-Rossi</author>
+<author orcid="0000-0003-3139-5642" pid="31/3186-1">Andrea Cavallini 0001</author>
+<author pid="163/0089">Maaike Op de Beeck</author>
+<author pid="54/7007">Catherine Dehollain</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="99/9645">Francis Moussy</author>
+<author pid="22/7111">Anthony Guiseppi-Elie</author>
+<author pid="d/GDeMicheli">Giovanni De Micheli</author>
+<title>Fully Integrated Biochip Platforms for Advanced Healthcare.</title>
+<pages>11013-11060</pages>
+<year>2012</year>
+<volume>12</volume>
+<journal>Sensors</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.3390/s120811013</ee>
+<ee>https://www.wikidata.org/entity/Q28717191</ee>
+<url>db/journals/sensors/sensors12.html#CarraraGOTBCBDB12</url>
+</article>
+</r>
+<r><article key="journals/taco/BayrakVIB12" mdate="2021-02-17">
+<author pid="53/10063">Ali Galip Bayrak</author>
+<author pid="86/10859">Nikola Velickovic</author>
+<author pid="i/PIenne">Paolo Ienne</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>An architecture-independent instruction shuffler to protect against side-channel attacks.</title>
+<pages>20:1-20:19</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/2086696.2086699</ee>
+<url>db/journals/taco/taco8.html#BayrakVIB12</url>
+</article>
+</r>
+<r><article key="journals/tifs/BeckerSPB12" mdate="2020-08-06">
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="117/1752">Daehyun Strobel</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Detecting Software Theft in Embedded Systems: A Side-Channel Approach.</title>
+<pages>1144-1154</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIFS.2012.2191964</ee>
+<url>db/journals/tifs/tifs7.html#BeckerSPB12</url>
+</article>
+</r>
+<r><article key="journals/tifs/LinSKSB12" mdate="2020-08-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="74/10504">Sudheendra Srivathsa</author>
+<author pid="47/8364">Dilip Kumar Krishnappa</author>
+<author pid="38/8364">Prasad Shabadi</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Design and Validation of Arbiter-Based PUFs for Sub-45-nm Low-Power Security Applications.</title>
+<pages>1394-1403</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIFS.2012.2195174</ee>
+<url>db/journals/tifs/tifs7.html#LinSKSB12</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/JangFB12" mdate="2020-04-06">
+<author pid="42/1665">Jinwook Jang</author>
+<author pid="56/1551">Olivier Franza</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Compact Expressions for Supply Noise Induced Period Jitter of Global Binary Clock Trees.</title>
+<pages>66-79</pages>
+<year>2012</year>
+<volume>20</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVLSI.2010.2089706</ee>
+<url>db/journals/tvlsi/tvlsi20.html#JangFB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/BurlesonCRF12" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="50/3938">Shane S. Clark</author>
+<author pid="08/5873">Benjamin Ransford</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<title>Design challenges for secure implantable medical devices.</title>
+<pages>12-17</pages>
+<year>2012</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2228360.2228364</ee>
+<crossref>conf/dac/2012</crossref>
+<url>db/conf/dac/dac2012.html#BurlesonCRF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ZhaoTB12" mdate="2020-04-06">
+<author pid="34/3125">Jia Zhao</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Distributed sensor data processing for many-cores.</title>
+<pages>159-164</pages>
+<year>2012</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2206781.2206821</ee>
+<crossref>conf/glvlsi/2012</crossref>
+<url>db/conf/glvlsi/glvlsi2012.html#ZhaoTB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/LuTB12" mdate="2020-04-06">
+<author pid="123/7043">Shiting (Justin) Lu</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Collaborative calibration of on-chip thermal sensors using performance counters.</title>
+<pages>15-22</pages>
+<year>2012</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/2429384.2429388</ee>
+<ee>http://ieeexplore.ieee.org/document/6386583/</ee>
+<crossref>conf/iccad/2012</crossref>
+<url>db/conf/iccad/iccad2012.html#LuTB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/SureshB12" mdate="2017-05-25">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Robust metastability-based TRNG design in nanometer CMOS with sub-vdd pre-charge and hybrid self-calibration.</title>
+<pages>298-305</pages>
+<year>2012</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2012.6187509</ee>
+<crossref>conf/isqed/2012</crossref>
+<url>db/conf/isqed/isqed2012.html#SureshB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/XuPBM12" mdate="2020-04-06">
+<author pid="11/6234">Hu Xu</author>
+<author pid="43/3714">Vasilis F. Pavlidis</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="d/GDeMicheli">Giovanni De Micheli</author>
+<title>The combined effect of process variations and power supply noise on clock skew and jitter.</title>
+<pages>320-327</pages>
+<year>2012</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2012.6187512</ee>
+<crossref>conf/isqed/2012</crossref>
+<url>db/conf/isqed/isqed2012.html#XuPBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/KumarB12" mdate="2020-04-06">
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>PHAP: Password based Hardware Authentication using PUFs.</title>
+<pages>24-31</pages>
+<year>2012</year>
+<booktitle>MICRO Workshops</booktitle>
+<ee>https://doi.org/10.1109/MICROW.2012.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICROW.2012.14</ee>
+<crossref>conf/micro/2012w</crossref>
+<url>db/conf/micro/micro2012w.html#KumarB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rfidsec/HinterwalderPB12" mdate="2017-05-24">
+<author pid="125/0390">Gesine Hinterw&#228;lder</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Privacy Preserving Payments on Computational RFID Devices with Application in Intelligent Transportation Systems.</title>
+<pages>109-122</pages>
+<year>2012</year>
+<booktitle>RFIDSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36140-1_8</ee>
+<crossref>conf/rfidsec/2012</crossref>
+<url>db/conf/rfidsec/rfidsec2012.html#HinterwalderPB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rfidsec/HolcombRSBF12" mdate="2017-05-24">
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="125/0358">Amir Rahmati</author>
+<author pid="51/4926">Mastooreh Salajegheh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<title>DRV-Fingerprinting: Using Data Retention Voltage of SRAM Cells for Chip Identification.</title>
+<pages>165-179</pages>
+<year>2012</year>
+<booktitle>RFIDSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36140-1_12</ee>
+<crossref>conf/rfidsec/2012</crossref>
+<url>db/conf/rfidsec/rfidsec2012.html#HolcombRSBF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/RahmatiSHSBF12" mdate="2021-02-01">
+<author pid="125/0358">Amir Rahmati</author>
+<author pid="51/4926">Mastooreh Salajegheh</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="81/3501">Jacob Sorber</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<title>TARDIS: Time and Remanence Decay in SRAM to Implement Secure Protocols on Embedded Devices without Clocks.</title>
+<pages>221-236</pages>
+<year>2012</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/rahmati</ee>
+<crossref>conf/uss/2012</crossref>
+<url>db/conf/uss/uss2012.html#RahmatiSHSBF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jolpe/DattaB11" mdate="2020-05-22">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Temperature Effects on Practical Energy Optimization of Sub-Threshold Circuits in Deep Nanometer Technologies.</title>
+<pages>403-419</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>J. Low Power Electron.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1166/jolpe.2011.1148</ee>
+<url>db/journals/jolpe/jolpe7.html#DattaB11</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/ZhaoMVBT11" mdate="2020-04-06">
+<author pid="34/3125">Jia Zhao</author>
+<author pid="28/7358">Sailaja Madduri</author>
+<author pid="58/7357">Ramakrishna Vadlamani</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>A Dedicated Monitoring Infrastructure for Multicore Processors.</title>
+<pages>1011-1022</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TVLSI.2010.2043964</ee>
+<url>db/journals/tvlsi/tvlsi19.html#ZhaoMVBT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/JangB11" mdate="2020-04-06">
+<author pid="42/1665">Jinwook Jang</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>An arbiter based on-chip droop detector system.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973011</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#JangB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/DattaB11" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A 45.6&#956;<sup>2</sup> 13.4&#956;w 7.1v/v resolution sub-threshold based digital process-sensing circuit in 45nm CMOS.</title>
+<pages>133-138</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973037</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#DattaB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/DattaB11a" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A high sensitivity and process tolerant digital thermal sensing scheme for 3-D Ics.</title>
+<pages>289-294</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973067</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#DattaB11a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ChillaraJB11" mdate="2018-11-06">
+<author pid="63/9546">Krishna C. Chillara</author>
+<author pid="42/1665">Jinwook Jang</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Robust signaling techniques for through silicon via bundles.</title>
+<pages>383-386</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973089</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#ChillaraJB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/BurlesonL11" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="l/YusufLeblebici">Yusuf Leblebici</author>
+<title>Hardware security in VLSI.</title>
+<pages>447-448</pages>
+<year>2011</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1973009.1973109</ee>
+<crossref>conf/glvlsi/2011</crossref>
+<url>db/conf/glvlsi/glvlsi2011.html#BurlesonL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/BeckerLLSSB11" mdate="2020-04-06">
+<author pid="66/8380">Georg T. Becker</author>
+<author pid="83/10504">Ashwin Lakshminarasimhan</author>
+<author pid="70/3072">Lang Lin</author>
+<author pid="74/10504">Sudheendra Srivathsa</author>
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Implementing hardware Trojans: Experiences from a hardware Trojan challenge.</title>
+<pages>301-304</pages>
+<year>2011</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2011.6081414</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2011.6081414</ee>
+<crossref>conf/iccd/2011</crossref>
+<url>db/conf/iccd/iccd2011.html#BeckerLLSSB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DattaB11" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A 12.4&#956;m<sup>2</sup> 133.4&#956;W 4.56mV/&#176;C resolution digital on-chip thermal sensing circuit in 45nm CMOS utilizing sub-threshold operation.</title>
+<pages>67-73</pages>
+<year>2011</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2011.5770705</ee>
+<crossref>conf/isqed/2011</crossref>
+<url>db/conf/isqed/isqed2011.html#DattaB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VadlamaniZBT10" mdate="2017-05-23">
+<author pid="58/7357">Ramakrishna Vadlamani</author>
+<author pid="34/3125">Jia Zhao</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>Multicore soft error rate stabilization using adaptive dual modular redundancy.</title>
+<pages>27-32</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5457242</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1870937</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#VadlamaniZBT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ZhaoDBT10" mdate="2018-11-06">
+<author pid="34/3125">Jia Zhao</author>
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>Thermal-aware voltage droop compensation for multi-core architectures.</title>
+<pages>335-340</pages>
+<year>2010</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1785481.1785558</ee>
+<crossref>conf/glvlsi/2010</crossref>
+<url>db/conf/glvlsi/glvlsi2010.html#ZhaoDBT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/DattaB10" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Analysis and mitigation of NBTI-impact on PVT variability in repeated global interconnect performance.</title>
+<pages>341-346</pages>
+<year>2010</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1785481.1785559</ee>
+<crossref>conf/glvlsi/2010</crossref>
+<url>db/conf/glvlsi/glvlsi2010.html#DattaB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/DattaB10a" mdate="2018-11-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Circuit-level NBTI macro-models for collaborative reliability monitoring.</title>
+<pages>453-458</pages>
+<year>2010</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1785481.1785586</ee>
+<crossref>conf/glvlsi/2010</crossref>
+<url>db/conf/glvlsi/glvlsi2010.html#DattaB10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/SureshB10" mdate="2019-02-07">
+<author pid="49/9412">Vikram B. Suresh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Entropy Extraction in Metastability-based TRNG.</title>
+<pages>135-140</pages>
+<year>2010</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2010.5513099</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2010.5513099</ee>
+<crossref>conf/host/2010</crossref>
+<url>db/conf/host/host2010.html#SureshB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/LinHKSB10" mdate="2020-04-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="47/8364">Dilip Kumar Krishnappa</author>
+<author pid="38/8364">Prasad Shabadi</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low-power sub-threshold design of secure physical unclonable functions.</title>
+<pages>43-48</pages>
+<year>2010</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1145/1840845.1840855</ee>
+<crossref>conf/islped/2010</crossref>
+<url>db/conf/islped/islped2010.html#LinHKSB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DattaB10" mdate="2017-05-25">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Calibration of on-chip thermal sensors using process monitoring circuits.</title>
+<pages>461-467</pages>
+<year>2010</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2010.5450535</ee>
+<crossref>conf/isqed/2010</crossref>
+<url>db/conf/isqed/isqed2010.html#DattaB10</url>
+</inproceedings>
+</r>
+<r><article key="journals/mam/VaslinGDNTB09" mdate="2020-02-22">
+<author pid="83/3905">Romain Vaslin</author>
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="07/493">Jean-Philippe Diguet</author>
+<author pid="75/3281">Eduardo Braulio Wanderley Netto</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A security approach for off-chip memory in embedded microprocessor systems.</title>
+<pages>37-45</pages>
+<year>2009</year>
+<volume>33</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.micpro.2008.08.008</ee>
+<url>db/journals/mam/mam33.html#VaslinGDNTB09</url>
+</article>
+</r>
+<r><article key="journals/tc/HolcombBF09" mdate="2018-11-14">
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="f/KevinFu">Kevin Fu</author>
+<title>Power-Up SRAM State as an Identifying Fingerprint and Source of True Random Numbers.</title>
+<pages>1198-1210</pages>
+<year>2009</year>
+<volume>58</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TC.2008.212</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2008.212</ee>
+<ee>https://www.wikidata.org/entity/Q57258618</ee>
+<url>db/journals/tc/tc58.html#HolcombBF09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/LinKGPB09" mdate="2020-04-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="86/7075">Markus Kasper</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Trojan Side-Channels: Lightweight Hardware Trojans through Side-Channel Engineering.</title>
+<pages>382-395</pages>
+<year>2009</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04138-9_27</ee>
+<crossref>conf/ches/2009</crossref>
+<url>db/conf/ches/ches2009.html#LinKGPB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/LinB09" mdate="2018-11-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Analysis and mitigation of process variation impacts on Power-Attack Tolerance.</title>
+<pages>238-243</pages>
+<year>2009</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1629911.1629977</ee>
+<crossref>conf/dac/2009</crossref>
+<url>db/conf/dac/dac2009.html#LinB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/MadduriVBT09" mdate="2020-04-06">
+<author pid="28/7358">Sailaja Madduri</author>
+<author pid="58/7357">Ramakrishna Vadlamani</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>A monitor interconnect and support subsystem for multicore processors.</title>
+<pages>761-766</pages>
+<year>2009</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2009.5090766</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1874808</ee>
+<crossref>conf/date/2009</crossref>
+<url>db/conf/date/date2009.html#MadduriVBT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/DattaB09" mdate="2018-11-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low-power, process-variation tolerant on-chip thermal monitoring using track and hold based thermal sensors.</title>
+<pages>145-148</pages>
+<year>2009</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1531542.1531579</ee>
+<crossref>conf/glvlsi/2009</crossref>
+<url>db/conf/glvlsi/glvlsi2009.html#DattaB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/LinBP09" mdate="2020-04-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="p/ChristofPaar">Christof Paar</author>
+<title>MOLES: Malicious off-chip leakage enabled by side-channels.</title>
+<pages>117-122</pages>
+<year>2009</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/1687399.1687425</ee>
+<ee>http://ieeexplore.ieee.org/document/5361303/</ee>
+<crossref>conf/iccad/2009</crossref>
+<url>db/conf/iccad/iccad2009.html#LinBP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DattaB09" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>On temperature planarization effect of copper dummy fills in deep nanometer technology.</title>
+<pages>494-499</pages>
+<year>2009</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2009.4810344</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2009.4810344</ee>
+<crossref>conf/isqed/2009</crossref>
+<url>db/conf/isqed/isqed2009.html#DattaB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DattaB09a" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Temperature effects on energy optimization in sub-threshold circuit design.</title>
+<pages>680-685</pages>
+<year>2009</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2009.4810375</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2009.4810375</ee>
+<crossref>conf/isqed/2009</crossref>
+<url>db/conf/isqed/isqed2009.html#DattaB09a</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/GogniatWBDBV08" mdate="2020-03-11">
+<author pid="96/7029">Guy Gogniat</author>
+<author orcid="0000-0003-0449-0441" pid="10/5241">Tilman Wolf</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="07/493">Jean-Philippe Diguet</author>
+<author pid="12/6779">Lilian Bossuet</author>
+<author pid="83/3905">Romain Vaslin</author>
+<title>Reconfigurable Hardware for High-Security/ High-Performance Embedded Systems: The SAFES Perspective.</title>
+<pages>144-155</pages>
+<year>2008</year>
+<volume>16</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVLSI.2007.912030</ee>
+<url>db/journals/tvlsi/tvlsi16.html#GogniatWBDBV08</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/DattaB08" mdate="2020-04-06">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Collaborative sensing of on-chip wire temperatures using interconnect based ring oscillators.</title>
+<pages>41-46</pages>
+<year>2008</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1366110.1366123</ee>
+<crossref>conf/glvlsi/2008</crossref>
+<url>db/conf/glvlsi/glvlsi2008.html#DattaB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/ArunachalamB08" mdate="2020-04-06">
+<author pid="72/719">Venkatesh Arunachalam</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low-power clock distribution in a multilayer core 3d microprocessor.</title>
+<pages>429-434</pages>
+<year>2008</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1366110.1366212</ee>
+<crossref>conf/glvlsi/2008</crossref>
+<url>db/conf/glvlsi/glvlsi2008.html#ArunachalamB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/LinB08" mdate="2020-04-06">
+<author pid="70/3072">Lang Lin</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Leakage-based differential power analysis (LDPA) on sub-90nm CMOS cryptosystems.</title>
+<pages>252-255</pages>
+<year>2008</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2008.4541402</ee>
+<crossref>conf/iscas/2008</crossref>
+<url>db/conf/iscas/iscas2008.html#LinB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/DattaB08" mdate="2017-05-23">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Temperature measurement in Content Addressable Memory cells using bias-controlled VCO.</title>
+<pages>147-150</pages>
+<year>2008</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2008.4641499</ee>
+<crossref>conf/socc/2008</crossref>
+<url>db/conf/socc/socc2008.html#DattaB08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/MaheshwariB07" mdate="2020-04-06">
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Current-Sensing and Repeater Hybrid Circuit Technique for On-Chip Interconnects.</title>
+<pages>1239-1244</pages>
+<year>2007</year>
+<volume>15</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVLSI.2007.904109</ee>
+<url>db/journals/tvlsi/tvlsi15.html#MaheshwariB07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicc/VenkatramanB07" mdate="2017-05-17">
+<author pid="83/717">Vishak Venkatraman</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>An Energy-efficient Multi-bit Quaternary Current-mode Signaling for On-chip Interconnects.</title>
+<pages>301-304</pages>
+<year>2007</year>
+<booktitle>CICC</booktitle>
+<ee>https://doi.org/10.1109/CICC.2007.4405738</ee>
+<crossref>conf/cicc/2007</crossref>
+<url>db/conf/cicc/cicc2007.html#VenkatramanB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ersa/VaslinGDTB07" mdate="2020-04-06">
+<author pid="83/3905">Romain Vaslin</author>
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="07/493">Jean-Philippe Diguet</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>High-efficiency protection solution for off-chip memory in embedded systems.</title>
+<pages>117-123</pages>
+<year>2007</year>
+<crossref>conf/ersa/2007</crossref>
+<booktitle>ERSA</booktitle>
+<url>db/conf/ersa/ersa2007.html#VaslinGDTB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/KumarB07" mdate="2020-04-06">
+<author pid="159/9419-2">Dhruv Kumar 0002</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Distributed Collaborative Adaptive Sensing: A Unifying Theme for a Junior Level Embedded Systems Course.</title>
+<pages>47-48</pages>
+<year>2007</year>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2007.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSE.2007.35</ee>
+<crossref>conf/mse/2007</crossref>
+<url>db/conf/mse/mse2007.html#KumarB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/XuBB07" mdate="2017-05-23">
+<author pid="10/1887">Sheng Xu</author>
+<author pid="77/4592">Ibis Benito</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Thermal Impacts on NoC Interconnects.</title>
+<pages>220</pages>
+<year>2007</year>
+<crossref>conf/nocs/2007</crossref>
+<booktitle>NOCS</booktitle>
+<ee>https://doi.org/10.1109/NOCS.2007.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NOCS.2007.43</ee>
+<url>db/conf/nocs/nocs2007.html#XuBB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/VaslinGNTB07" mdate="2017-08-02">
+<author pid="83/3905">Romain Vaslin</author>
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="75/3281">Eduardo Braulio Wanderley Netto</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low latency Solution for Confidentiality and Integrity Checking in Embedded Systems with Off-Chip Memory.</title>
+<pages>146-153</pages>
+<year>2007</year>
+<crossref>conf/recosoc/2007</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2007.html#VaslinGNTB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/DattaB07" mdate="2017-05-24">
+<author pid="03/2457">Basab Datta</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low power on-chip thermal sensors based on wires.</title>
+<pages>258-263</pages>
+<year>2007</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2007.4402508</ee>
+<crossref>conf/vlsi/2007soc</crossref>
+<url>db/conf/vlsi/vlsisoc2007.html#DattaB07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijes/BossuetGB06" mdate="2020-09-11">
+<author pid="12/6779">Lilian Bossuet</author>
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Dynamically configurable security for SRAM FPGA bitstreams.</title>
+<pages>73-85</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJES.2006.010166</ee>
+<url>db/journals/ijes/ijes2.html#BossuetGB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/hicss/GogniatWB06" mdate="2020-04-06">
+<author pid="96/7029">Guy Gogniat</author>
+<author orcid="0000-0003-0449-0441" pid="10/5241">Tilman Wolf</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Reconfigurable Security Support for Embedded Systems.</title>
+<year>2006</year>
+<crossref>conf/hicss/2006</crossref>
+<booktitle>HICSS</booktitle>
+<ee>https://doi.org/10.1109/HICSS.2006.409</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HICSS.2006.409</ee>
+<url>db/conf/hicss/hicss2006-10.html#GogniatWB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/VenkatramanAKBK06" mdate="2020-04-06">
+<author pid="83/717">Vishak Venkatraman</author>
+<author pid="03/845">Mark Anders</author>
+<author pid="00/4416">Himanshu Kaul</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="19/6426">Ram Krishnamurthy</author>
+<title>A Low-swing Signaling Circuit Technique for 65nm On-chip Interconnects.</title>
+<pages>289-292</pages>
+<year>2006</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2006.283900</ee>
+<crossref>conf/socc/2006</crossref>
+<url>db/conf/socc/socc2006.html#VenkatramanAKBK06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/HeathBH05" mdate="2017-05-20">
+<author pid="16/844">Matthew W. Heath</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="99/4204">Ian G. Harris</author>
+<title>Synchro-Tokens: A Deterministic GALS Methodology for Chip-Level Debug and Test.</title>
+<pages>1532-1546</pages>
+<year>2005</year>
+<volume>54</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TC.2005.203</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2005.203</ee>
+<url>db/journals/tc/tc54.html#HeathBH05</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/TessierSRGB05" mdate="2020-03-11">
+<author pid="23/2353">Russell Tessier</author>
+<author pid="00/2535">Sriram Swaminathan</author>
+<author pid="50/6793">Ramaswamy Ramaswamy</author>
+<author pid="77/910">Dennis Goeckel</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A reconfigurable, power-efficient adaptive Viterbi decoder.</title>
+<pages>484-488</pages>
+<year>2005</year>
+<volume>13</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TVLSI.2004.842930</ee>
+<url>db/journals/tvlsi/tvlsi13.html#TessierSRGB05</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/TessierJMNXB05" mdate="2020-03-11">
+<author pid="23/2353">Russell Tessier</author>
+<author pid="79/3710">David Jasinski</author>
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="51/2022">Aiyappan Natarajan</author>
+<author pid="28/5782">Weifeng Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>An energy-aware active smart card.</title>
+<pages>1190-1199</pages>
+<year>2005</year>
+<volume>13</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TVLSI.2005.859471</ee>
+<url>db/journals/tvlsi/tvlsi13.html#TessierJMNXB05</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/EuhCB05" mdate="2020-05-20">
+<author pid="29/710">Jeongseon Euh</author>
+<author pid="83/571">Jeevan Chittamuru</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Power-Aware 3D Computer Graphics Rendering.</title>
+<pages>15-33</pages>
+<year>2005</year>
+<volume>39</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1023/B:VLSI.0000047269.03965.e9</ee>
+<url>db/journals/vlsisp/vlsisp39.html#EuhCB05</url>
+</article>
+</r>
+<r><inproceedings key="conf/isqed/VenkatramanB05" mdate="2020-04-06">
+<author pid="83/717">Vishak Venkatraman</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Robust Multi-Level Current-Mode On-Chip Interconnect Signaling in the Presence of Process Variations.</title>
+<pages>522-527</pages>
+<year>2005</year>
+<crossref>conf/isqed/2005</crossref>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2005.107</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2005.107</ee>
+<url>db/conf/isqed/isqed2005.html#VenkatramanB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issoc/GogniatWB05" mdate="2020-04-06">
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="10/5241">Tilman Wolf</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Reconfigurable Security Primitive for Embedded Systems.</title>
+<pages>23-28</pages>
+<year>2005</year>
+<booktitle>SoC</booktitle>
+<ee>https://doi.org/10.1109/ISSOC.2005.1595635</ee>
+<crossref>conf/issoc/2005</crossref>
+<url>db/conf/issoc/issoc2005.html#GogniatWB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/NatarajanSMB05" mdate="2020-04-06">
+<author pid="51/2022">Aiyappan Natarajan</author>
+<author pid="08/6782">Vijay Shankar</author>
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Sensing Design Issues in Deep Submicron CMOS SRAMs.</title>
+<pages>42-45</pages>
+<year>2005</year>
+<crossref>conf/isvlsi/2005</crossref>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2005.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2005.67</ee>
+<url>db/conf/isvlsi/isvlsi2005.html#NatarajanSMB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/JangXB05" mdate="2020-04-06">
+<author pid="42/1665">Jinwook Jang</author>
+<author pid="10/1887">Sheng Xu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Jitter in Deep Sub-Micron Interconnect.</title>
+<pages>84-89</pages>
+<year>2005</year>
+<crossref>conf/isvlsi/2005</crossref>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2005.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2005.45</ee>
+<url>db/conf/isvlsi/isvlsi2005.html#JangXB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/BurlesonX05" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="10/1887">Sheng Xu</author>
+<title>Digital Systems Design with ASIC and FPGA: A Novel Course Using CD/DVD and On-Line Formats.</title>
+<pages>3-4</pages>
+<year>2005</year>
+<crossref>conf/mse/2005</crossref>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2005.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSE.2005.27</ee>
+<url>db/conf/mse/mse2005.html#BurlesonX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/GogniatBB05" mdate="2020-04-06">
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="12/6779">Lilian Bossuet</author>
+<title>Configurable Computing for High-Security/High-Performance Ambient Systems.</title>
+<pages>72-81</pages>
+<year>2005</year>
+<crossref>conf/samos/2005</crossref>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/11512622_9</ee>
+<url>db/conf/samos/samos2005.html#GogniatBB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/VenkatramanB05" mdate="2020-04-06">
+<author pid="83/717">Vishak Venkatraman</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Impact of Process Variations on Multi-Level Signaling for On-Chip Interconnects.</title>
+<pages>362-367</pages>
+<year>2005</year>
+<crossref>conf/vlsid/2005</crossref>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/ICVD.2005.108</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.2005.108</ee>
+<url>db/conf/vlsid/vlsid2005.html#VenkatramanB05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/MaheshwariBT04" mdate="2020-04-06">
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>Trading off transient fault tolerance and power consumption in deep submicron (DSM) VLSI circuits.</title>
+<pages>299-311</pages>
+<year>2004</year>
+<volume>12</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>3</number>
+<url>db/journals/tvlsi/tvlsi12.html#MaheshwariBT04</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/MaheshwariB04" mdate="2020-03-11">
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Differential current-sensing for on-chip interconnects.</title>
+<pages>1321-1329</pages>
+<year>2004</year>
+<volume>12</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TVLSI.2004.837987</ee>
+<url>db/journals/tvlsi/tvlsi12.html#MaheshwariB04</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/JainLBTG04" mdate="2020-05-20">
+<author pid="56/2129">Prashant Jain</author>
+<author pid="13/5885">Andrew Laffely</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="77/910">Dennis Goeckel</author>
+<title>Dynamically Parameterized Algorithms and Architectures to Exploit Signal Variations.</title>
+<pages>27-40</pages>
+<year>2004</year>
+<volume>36</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1023/B:VLSI.0000008068.26922.0b</ee>
+<url>db/journals/vlsisp/vlsisp36.html#JainLBTG04</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/HeathBH04" mdate="2017-05-23">
+<author pid="16/844">Matthew W. Heath</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="99/4204">Ian G. Harris</author>
+<title>Synchro-Tokens: Eliminating Nondeterminism to Enable Chip-Level Test of Globally-Asynchronous Locally-Synchronous SoC?s.</title>
+<pages>410-415</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2004.1268881</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2004.1268881</ee>
+<ee>http://dl.acm.org/citation.cfm?id=969060</ee>
+<url>db/conf/date/date2004-1.html#HeathBH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/VenkatramanMB04" mdate="2020-04-06">
+<author pid="83/717">Vishak Venkatraman</author>
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Mitigating static power in current-sensed interconnects.</title>
+<pages>224-229</pages>
+<year>2004</year>
+<crossref>conf/glvlsi/2004</crossref>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/988952.989007</ee>
+<url>db/conf/glvlsi/glvlsi2004.html#VenkatramanMB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BossuetGB04" mdate="2020-04-06">
+<author pid="12/6779">Lilian Bossuet</author>
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Dynamically Configurable Security for SRAM FPGA Bitstreams.</title>
+<year>2004</year>
+<crossref>conf/ipps/2004</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2004.1303128</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2004.1303128</ee>
+<url>db/conf/ipps/ipdps2004-w3.html#BossuetGB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slip/VenkatramanLJKZB04" mdate="2020-04-06">
+<author pid="83/717">Vishak Venkatraman</author>
+<author pid="13/5885">Andrew Laffely</author>
+<author pid="42/1665">Jinwook Jang</author>
+<author pid="52/3780">Hempraveen Kukkamalla</author>
+<author pid="55/1231">Zhi Zhu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>NoCIC: a spice-based interconnect planning tool emphasizing aggressive on-chip interconnect circuit methods.</title>
+<pages>69-75</pages>
+<year>2004</year>
+<crossref>conf/slip/2004</crossref>
+<booktitle>SLIP</booktitle>
+<ee>https://doi.org/10.1145/966747.966762</ee>
+<url>db/conf/slip/slip2004.html#VenkatramanLJKZB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/MaheshwariKB03" mdate="2020-04-06">
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="26/6860">Israel Koren</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Techniques for Transient Fault Sensitivity Analysis and Reduction in VLSI Circuits.</title>
+<pages>597-</pages>
+<year>2003</year>
+<crossref>conf/dft/2003</crossref>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFTVS.2003.1250160</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFTVS.2003.1250160</ee>
+<url>db/conf/dft/dft2003.html#MaheshwariKB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/NatarajanJBT03" mdate="2020-04-06">
+<author pid="51/2022">Aiyappan Natarajan</author>
+<author pid="79/3710">David Jasinski</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>A hybrid adiabatic content addressable memory for ultra low-power applications.</title>
+<pages>72-75</pages>
+<year>2003</year>
+<crossref>conf/glvlsi/2003</crossref>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/764808.764828</ee>
+<url>db/conf/glvlsi/glvlsi2003.html#NatarajanJBT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/MaheshwariB03" mdate="2020-04-06">
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Repeater and current-sensing hybrid circuits for on-chip interconnects.</title>
+<pages>269-272</pages>
+<year>2003</year>
+<crossref>conf/glvlsi/2003</crossref>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/764808.764878</ee>
+<url>db/conf/glvlsi/glvlsi2003.html#MaheshwariB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/LaffelyLTB03" mdate="2020-04-06">
+<author pid="13/5885">Andrew Laffely</author>
+<author pid="19/2208">Jian Liang</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Adaptive system on a chip (ASOC): a backbone for power-aware signal processing cores.</title>
+<pages>105-108</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2003-3.html#LaffelyLTB03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1247192</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BossuetBGALP03" mdate="2020-04-06">
+<author pid="12/6779">Lilian Bossuet</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="96/7029">Guy Gogniat</author>
+<author pid="50/3264">Vikas Anand</author>
+<author pid="13/5885">Andrew Laffely</author>
+<author pid="67/1244">Jean Luc Philippe</author>
+<title>Targeting Tiled Architectures in Design Exploration.</title>
+<pages>172</pages>
+<year>2003</year>
+<crossref>conf/ipps/2003</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2003.1213317</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2003.1213317</ee>
+<url>db/conf/ipps/ipdps2003.html#BossuetBGALP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/SrinivasaraghavanB03" mdate="2020-04-06">
+<author pid="45/3416">Srividya Srinivasaraghavan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Interconnect Effort - A Unification of Repeater Insertion and Logical Effort.</title>
+<pages>55-61</pages>
+<year>2003</year>
+<crossref>conf/isvlsi/2003</crossref>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2003.1183353</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2003.1183353</ee>
+<url>db/conf/isvlsi/isvlsi2003.html#SrinivasaraghavanB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/LaffelyB03" mdate="2020-04-06">
+<author pid="13/5885">Andrew Laffely</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Using System On-A-Chip As A Vehicle For VLSI Design Education.</title>
+<pages>148-149</pages>
+<year>2003</year>
+<crossref>conf/mse/2003</crossref>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2003.1205293</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSE.2003.1205293</ee>
+<url>db/conf/mse/mse2003.html#LaffelyB03</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/NalamalpuSB02" mdate="2020-09-24">
+<author pid="50/1212">Ankireddy Nalamalpu</author>
+<author pid="74/3399">Sriram Srinivasan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Boosters for driving long onchip interconnects - design issues, interconnect synthesis, and comparison with repeaters.</title>
+<pages>50-62</pages>
+<year>2002</year>
+<volume>21</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/43.974137</ee>
+<url>db/journals/tcad/tcad21.html#NalamalpuSB02</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpga/SwaminathanTGB02" mdate="2020-04-06">
+<author pid="00/2535">Sriram Swaminathan</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="77/910">Dennis Goeckel</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A dynamically reconfigurable adaptive viterbi decoder.</title>
+<pages>227-236</pages>
+<year>2002</year>
+<crossref>conf/fpga/2002</crossref>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/503048.503081</ee>
+<url>db/conf/fpga/fpga2002.html#SwaminathanTGB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/MaheshwariBT02" mdate="2020-04-06">
+<author pid="27/124">Atul Maheshwari</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<title>Trading off Reliability and Power-Consumption in Ultra-low Power Systems.</title>
+<pages>361-366</pages>
+<year>2002</year>
+<crossref>conf/isqed/2002</crossref>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2002.996773</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2002.996773</ee>
+<url>db/conf/isqed/isqed2002.html#MaheshwariBT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pacs/EuhCB02" mdate="2020-04-06">
+<author pid="29/710">Jeongseon Euh</author>
+<author pid="83/571">Jeevan Chittamuru</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A Low-Power Content-Adaptive Texture Mapping Architecture for Real-Time 3D Graphics.</title>
+<pages>99-109</pages>
+<year>2002</year>
+<crossref>conf/pacs/2002</crossref>
+<booktitle>PACS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36612-1_7</ee>
+<url>db/conf/pacs/pacs2002.html#EuhCB02</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/BurlesonS01" mdate="2020-05-20">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="72/6310">Naresh R. Shanbhag</author>
+<title>Guest Editorial: Reconfigurable Signal Processing Systems.</title>
+<pages>5-6</pages>
+<year>2001</year>
+<volume>28</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1023/A:1008171903873</ee>
+<url>db/journals/vlsisp/vlsisp28.html#BurlesonS01</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/TessierB01" mdate="2020-05-20">
+<author pid="23/2353">Russell Tessier</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Reconfigurable Computing for Digital Signal Processing: A Survey.</title>
+<pages>7-27</pages>
+<year>2001</year>
+<volume>28</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1023/A:1008155020711</ee>
+<url>db/journals/vlsisp/vlsisp28.html#TessierB01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcv/BurlesonJV01" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="56/2129">Prashant Jain</author>
+<author orcid="0000-0002-8693-1070" pid="43/6550">Subramanian Venkatraman</author>
+<title>Dynamically Parameterized Architectures for Power-Aware Video Coding: Motion Estimation and DCT.</title>
+<pages>4-12</pages>
+<year>2001</year>
+<crossref>conf/dcv/2001</crossref>
+<booktitle>Workshop on Digital and Computational Video</booktitle>
+<ee>https://doi.org/10.1109/DCV.2001.929936</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DCV.2001.929936</ee>
+<url>db/conf/dcv/dcv2001.html#BurlesonJV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BurlesonTGSJEVT01" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="23/2353">Russell Tessier</author>
+<author pid="77/910">Dennis Goeckel</author>
+<author pid="00/2535">Sriram Swaminathan</author>
+<author pid="56/2129">Prashant Jain</author>
+<author pid="29/710">Jeongseon Euh</author>
+<author pid="43/6550">Subramanian Venkatraman</author>
+<author pid="139/9496">Vidhya Thyagarajan</author>
+<title>Dynamically parameterized algorithms and architectures to exploit signal variations for improved performance and reduced power.</title>
+<pages>901-904</pages>
+<year>2001</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2001.941061</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2001.941061</ee>
+<crossref>conf/icassp/2001</crossref>
+<url>db/conf/icassp/icassp2001.html#BurlesonTGSJEVT01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/NalamalpuB01" mdate="2020-04-06">
+<author pid="50/1212">Ankireddy Nalamalpu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Boosters for driving long on-chip interconnects: design issues, interconnect synthesis and comparison with repeaters.</title>
+<pages>204-211</pages>
+<year>2001</year>
+<crossref>conf/ispd/2001</crossref>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/369691.369775</ee>
+<url>db/conf/ispd/ispd2001.html#NalamalpuB01</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/ManolakosB00" mdate="2020-05-20">
+<author pid="90/6179">Elias S. Manolakos</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Guest Editor's Introduction.</title>
+<pages>5-6</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1023/A:1008100125108</ee>
+<url>db/journals/vlsisp/vlsisp24.html#ManolakosB00</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpga/GarciaDB00" mdate="2018-11-06">
+<author pid="99/289">Andr&#233;s D. Garc&#237;a</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low power digital design in FPGAs (poster abstract): a study of pipeline architectures implemented in a FPGA using a low supply voltage to reduce power consumption.</title>
+<pages>220</pages>
+<year>2000</year>
+<crossref>conf/fpga/2000</crossref>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/329166.329220</ee>
+<url>db/conf/fpga/fpga2000.html#GarciaDB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/PedenBL00" mdate="2020-11-10">
+<author pid="278/0458">Jeff Peden</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="278/0360">Chris Leonardo</author>
+<title>The Multimedia Online Collaboration Architecture: Tools to Enable Distance Learning.</title>
+<pages>593-596</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (II)</booktitle>
+<url>db/conf/icmcs/icme2000.html#PedenBL00</url>
+<ee>https://doi.org/10.1109/ICME.2000.871433</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GarciaBD00" mdate="2021-02-27">
+<author pid="99/289">Andr&#233;s D. Garc&#237;a</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<title>Low power digital design in FPGAs: a study of pipeline architectures implemented in a FPGA using a low supply voltage to reduce power consumption.</title>
+<pages>561-564</pages>
+<year>2000</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2000.857496</ee>
+<crossref>conf/iscas/2000</crossref>
+<url>db/conf/iscas/iscas2000.html#GarciaBD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/NalamalpuB00" mdate="2020-04-06">
+<author pid="50/1212">Ankireddy Nalamalpu</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Repeater insertion in deep sub-micron CMOS: ramp-based analytical model and placement sensitivity analysis.</title>
+<pages>766-769</pages>
+<year>2000</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2000.856173</ee>
+<crossref>conf/iscas/2000</crossref>
+<url>db/conf/iscas/iscas2000.html#NalamalpuB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pacs/EuhB00" mdate="2020-04-06">
+<author pid="29/710">Jeongseon Euh</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Exploiting Content Variation and Perception in Power-Aware 3D Graphics Rendering.</title>
+<pages>51-64</pages>
+<year>2000</year>
+<crossref>conf/pacs/2000</crossref>
+<booktitle>PACS</booktitle>
+<ee>https://doi.org/10.1007/3-540-44572-2_5</ee>
+<url>db/conf/pacs/pacs2000.html#EuhB00</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/BurlesonKNRSWW99" mdate="2020-03-11">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="81/97">Jason Ko</author>
+<author pid="51/1992">Douglas Niehaus</author>
+<author pid="r/KrithiRamamritham">Krithi Ramamritham</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<author pid="95/2320">Gary Wallace</author>
+<author pid="w/CharlesCWeems">Charles C. Weems</author>
+<title>The spring scheduling coprocessor: a scheduling accelerator.</title>
+<pages>38-47</pages>
+<year>1999</year>
+<volume>7</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/92.748199</ee>
+<url>db/journals/tvlsi/tvlsi7.html#BurlesonKNRSWW99</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpga/ParkB99" mdate="2020-04-06">
+<author pid="16/6929">S. R. Park</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Configuration Cloning: Exploiting Regularity in Dynamic DSP Architectures.</title>
+<pages>81-89</pages>
+<year>1999</year>
+<crossref>conf/fpga/1999</crossref>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/296399.296433</ee>
+<url>db/conf/fpga/fpga99.html#ParkB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/GarciaBD99" mdate="2017-05-21">
+<author pid="99/289">Andr&#233;s D. Garc&#237;a</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<title>Power Modelling in Field Programmable Gate Arrays (FPGA).</title>
+<pages>396-404</pages>
+<year>1999</year>
+<crossref>conf/fpl/1999</crossref>
+<booktitle>FPL</booktitle>
+<url>db/conf/fpl/fpl1999.html#GarciaBD99</url>
+<ee>https://doi.org/10.1007/978-3-540-48302-1_44</ee>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/BurlesonCKL98" mdate="2020-03-11">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="c/MJCiesielski">Maciej J. Ciesielski</author>
+<author pid="25/4004">Fabian Klass</author>
+<author pid="42/4710">W. Liu</author>
+<title>Wave-pipelining: a tutorial and research survey.</title>
+<pages>464-474</pages>
+<year>1998</year>
+<volume>6</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/92.711317</ee>
+<url>db/journals/tvlsi/tvlsi6.html#BurlesonCKL98</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/JungB98" mdate="2020-03-11">
+<author pid="63/4458">Bongjin Jung</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Efficient VLSI for Lempel-Ziv compression in wireless data communication networks.</title>
+<pages>475-483</pages>
+<year>1998</year>
+<volume>6</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/92.711318</ee>
+<url>db/journals/tvlsi/tvlsi6.html#JungB98</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/BurlesonK98" mdate="2020-05-20">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="56/2027">Konstantinos Konstantinides</author>
+<title>Guest Editors' Introduction.</title>
+<pages>87-88</pages>
+<year>1998</year>
+<volume>18</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1023/A:1008013907082</ee>
+<url>db/journals/vlsisp/vlsisp18.html#BurlesonK98</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/JungB98" mdate="2020-05-20">
+<author pid="63/4458">Bongjin Jung</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Vlsi Array Architectures for Pyramid Vector Quantization.</title>
+<pages>141-154</pages>
+<year>1998</year>
+<volume>18</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1023/A:1008071427555</ee>
+<url>db/journals/vlsisp/vlsisp18.html#JungB98</url>
+</article>
+</r>
+<r><article key="journals/winet/JungB98" mdate="2020-06-18">
+<author pid="63/4458">Bongjin Jung</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Performance optimization of wireless local area networks through VLSI data compression.</title>
+<pages>27-39</pages>
+<year>1998</year>
+<volume>4</volume>
+<journal>Wirel. Networks</journal>
+<number>1</number>
+<ee>https://doi.org/10.1023/A:1019171015383</ee>
+<url>db/journals/winet/winet4.html#JungB98</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/ParkB98" mdate="2020-04-06">
+<author pid="16/6929">S. R. Park</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Reconfiguration for power saving in real-time motion estimation.</title>
+<pages>3037-3040</pages>
+<year>1998</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1998.678166</ee>
+<crossref>conf/icassp/1998</crossref>
+<url>db/conf/icassp/icassp1998.html#ParkB98</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/JeongB97" mdate="2020-03-11">
+<author pid="71/6729">Yongjin Jeong</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>VLSI array algorithms and architectures for RSA modular multiplication.</title>
+<pages>211-217</pages>
+<year>1997</year>
+<volume>5</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/92.585224</ee>
+<url>db/journals/tvlsi/tvlsi5.html#JeongB97</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/StanB97" mdate="2020-10-26">
+<author orcid="0000-0003-0577-9976" pid="s/MirceaRStan">Mircea R. Stan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Low-power encodings for global communication in CMOS VLSI.</title>
+<pages>444-455</pages>
+<year>1997</year>
+<volume>5</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/92.645071</ee>
+<url>db/journals/tvlsi/tvlsi5.html#StanB97</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/PetroninoBCB97" mdate="2018-11-26">
+<author pid="147/6652">Michael Petronino</author>
+<author pid="147/6448">Ray Bambha</author>
+<author pid="88/8995">James R. Carswell</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>An FPGA-based data acquisition system for a 95 GHz W-band radar.</title>
+<pages>4105-4108</pages>
+<year>1997</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1997.604849</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1997.604849</ee>
+<crossref>conf/icassp/1997</crossref>
+<url>db/conf/icassp/icassp1997.html#PetroninoBCB97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/StanB96" mdate="2020-10-25">
+<author orcid="0000-0003-0577-9976" pid="s/MirceaRStan">Mircea R. Stan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Two dimensional codes for low power.</title>
+<pages>335-340</pages>
+<year>1996</year>
+<crossref>conf/islped/1996</crossref>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/LPE.1996.547535</ee>
+<ee>https://dl.acm.org/citation.cfm?id=252631</ee>
+<url>db/conf/islped/islped1996.html#StanB96</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/StanB95" mdate="2020-10-26">
+<author orcid="0000-0003-0577-9976" pid="s/MirceaRStan">Mircea R. Stan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Bus-invert coding for low-power I/O.</title>
+<pages>49-58</pages>
+<year>1995</year>
+<volume>3</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/92.365453</ee>
+<url>db/journals/tvlsi/tvlsi3.html#StanB95</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/ZhouB95" mdate="2020-04-06">
+<author pid="17/4932">Zheng Zhou</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Equivalence Checking of Datapaths Based on Canonical Arithmetic Expressions.</title>
+<pages>546-551</pages>
+<year>1995</year>
+<crossref>conf/dac/1995</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/217474.217585</ee>
+<url>db/conf/dac/dac95.html#ZhouB95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/StanB95" mdate="2020-10-25">
+<author orcid="0000-0003-0577-9976" pid="s/MirceaRStan">Mircea R. Stan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Coding a terminated bus for low power.</title>
+<pages>70-73</pages>
+<year>1995</year>
+<crossref>conf/glvlsi/1995</crossref>
+<booktitle>Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1109/GLSV.1995.516027</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/GLSV.1995.516027</ee>
+<ee>http://dl.acm.org/citation.cfm?id=797415</ee>
+<url>db/conf/glvlsi/glvlsi1995.html#StanB95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/JeongB95" mdate="2020-04-06">
+<author pid="71/6729">Yongjin Jeong</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>High-Level Estimation of High-Performance Architectures for Reed-Solomon Decoding.</title>
+<pages>720-723</pages>
+<year>1995</year>
+<crossref>conf/iscas/1995</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1995-1.html#JeongB95</url>
+<ee>https://doi.org/10.1109/ISCAS.1995.521618</ee>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/StanBCG94" mdate="2020-10-26">
+<author orcid="0000-0003-0577-9976" pid="s/MirceaRStan">Mircea R. Stan</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="09/4718">Christopher I. Connolly</author>
+<author pid="g/RodericAGrupen">Roderic A. Grupen</author>
+<title>Analog VLSI for robot path planning.</title>
+<pages>61-73</pages>
+<year>1994</year>
+<volume>8</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF02407111</ee>
+<url>db/journals/vlsisp/vlsisp8.html#StanBCG94</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/JungJB94" mdate="2017-05-26">
+<author pid="63/4458">Bongjin Jung</author>
+<author pid="71/6729">Yongjin Jeong</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Distributed control synthesis for data-dependent iterative algorithms.</title>
+<pages>57-68</pages>
+<year>1994</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1994.331816</ee>
+<crossref>conf/asap/1994</crossref>
+<url>db/conf/asap/asap1994.html#JungJB94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/Burleson94" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Using Regular Array Methods for DSP Module Synthesis.</title>
+<pages>58-67</pages>
+<year>1994</year>
+<crossref>conf/hicss/1994</crossref>
+<booktitle>HICSS (1)</booktitle>
+<url>db/conf/hicss/hicss1994-1.html#Burleson94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/JungB94" mdate="2020-04-06">
+<author pid="63/4458">Bongjin Jung</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A VLSI Systolic Array Architecture for Lempel-Ziv-Based Data Compression.</title>
+<pages>65-68</pages>
+<year>1994</year>
+<crossref>conf/iscas/1994</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1994-3.html#JungB94</url>
+<ee>https://doi.org/10.1109/ISCAS.1994.409103</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BurlesonCKC94" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="92/1956">L. W. Cotten</author>
+<author pid="25/4004">Fabian Klass</author>
+<author pid="c/MJCiesielski">Maciej J. Ciesielski</author>
+<title>Forum: Wave-pipelining: Is it Practical?</title>
+<pages>163-166</pages>
+<year>1994</year>
+<crossref>conf/iscas/1994</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1994-4.html#BurlesonCKC94</url>
+<ee>https://doi.org/10.1109/ISCAS.1994.409223</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/ZhouB93" mdate="2020-04-06">
+<author pid="17/4932">Zheng Zhou</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Formal descriptions, semantics and verification of VLSI array processors.</title>
+<pages>321-332</pages>
+<year>1993</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1993.397155</ee>
+<crossref>conf/asap/1993</crossref>
+<url>db/conf/asap/asap1993.html#ZhouB93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/JungB93" mdate="2019-05-14">
+<author pid="63/4458">Bongjin Jung</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Node merging: A transformation on bit-level dependence graphs for efficient VLSI array design.</title>
+<pages>442-453</pages>
+<year>1993</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1993.397165</ee>
+<crossref>conf/asap/1993</crossref>
+<url>db/conf/asap/asap1993.html#JungB93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/JeongB93" mdate="2020-04-06">
+<author pid="71/6729">Yongjin Jeong</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>VLSI array synthesis for polynomial GCD computation.</title>
+<pages>536-547</pages>
+<year>1993</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1993.397173</ee>
+<crossref>conf/asap/1993</crossref>
+<url>db/conf/asap/asap1993.html#JeongB93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/BurlesonKNRSWW93" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="81/97">Jason Ko</author>
+<author pid="51/1992">Douglas Niehaus</author>
+<author pid="r/KrithiRamamritham">Krithi Ramamritham</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<author pid="95/2320">Gary Wallace</author>
+<author pid="w/CharlesCWeems">Charles C. Weems</author>
+<title>The Spring Scheduling Co-Processor: A Scheduling Accelerator.</title>
+<pages>140-144</pages>
+<year>1993</year>
+<crossref>conf/iccd/1993</crossref>
+<booktitle>ICCD</booktitle>
+<url>db/conf/iccd/iccd1993.html#BurlesonKNRSWW93</url>
+<ee>https://doi.org/10.1109/ICCD.1993.393392</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.1993.393392</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/NarkiewiczB93" mdate="2020-04-06">
+<author pid="49/3878">J. David Narkiewicz</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>Rank-order Filtering Algorithms: A Comparison of VLSI Implementations.</title>
+<pages>1941-1944</pages>
+<year>1993</year>
+<crossref>conf/iscas/1993</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1993-3.html#NarkiewiczB93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/NiehausRSWWBK93" mdate="2020-04-06">
+<author pid="51/1992">Douglas Niehaus</author>
+<author pid="r/KrithiRamamritham">Krithi Ramamritham</author>
+<author pid="s/JohnAStankovic">John A. Stankovic</author>
+<author pid="95/2320">Gary Wallace</author>
+<author pid="w/CharlesCWeems">Charles C. Weems</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="81/97">Jason Ko</author>
+<title>The Spring Scheduling Co-Processor: Design, Use, and Performance.</title>
+<pages>106-111</pages>
+<year>1993</year>
+<crossref>conf/rtss/1993</crossref>
+<booktitle>RTSS</booktitle>
+<url>db/conf/rtss/rtss1993.html#NiehausRSWWBK93</url>
+<ee>https://doi.org/10.1109/REAL.1993.393510</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/REAL.1993.393510</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/BurlesonJ92" mdate="2020-04-06">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="63/4458">Bongjin Jung</author>
+<title>ARREST: an interactive graphic analysis tool for VLSI arrays.</title>
+<pages>149-162</pages>
+<year>1992</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1992.218575</ee>
+<crossref>conf/asap/1992</crossref>
+<url>db/conf/asap/asap1992.html#BurlesonJ92</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/BurlesonS91" mdate="2020-05-20">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="39/2447">Louis L. Scharf</author>
+<title>A VLSI design methodology for distributed arithmetic.</title>
+<pages>235-252</pages>
+<year>1991</year>
+<volume>2</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/BF00925468</ee>
+<url>db/journals/vlsisp/vlsisp2.html#BurlesonS91</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/Burleson91" mdate="2020-07-09">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>The partitioning problem on VLSI arrays: I/O and local memory complexity.</title>
+<pages>1217-1220</pages>
+<year>1991</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1991.150610</ee>
+<crossref>conf/icassp/1991</crossref>
+<url>db/conf/icassp/icassp1991.html#Burleson91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/MarvinB91" mdate="2020-04-06">
+<author pid="65/2820">Walter B. Marvin</author>
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<title>A Simulator for General Purpose Optical Arrays.</title>
+<pages>486-489</pages>
+<year>1991</year>
+<crossref>conf/iccd/1991</crossref>
+<booktitle>ICCD</booktitle>
+<url>db/conf/iccd/iccd1991.html#MarvinB91</url>
+<ee>https://doi.org/10.1109/ICCD.1991.139954</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.1991.139954</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BulesonS91" mdate="2019-08-02">
+<author pid="b/WaynePBurleson">Wayne P. Burleson</author>
+<author pid="39/2447">Louis L. Scharf</author>
+<title>Input/Output Design for VLSI Array Architectures.</title>
+<pages>357-366</pages>
+<year>1991</year>
+<crossref>conf/vlsi/1991</crossref>
+<booktitle>VLSI</booktitle>
+<url>db/conf/vlsi/vlsi1991.html#BulesonS91</url>
+</inproceedings>
+</r>
+<coauthors n="214" nc="5">
+<co c="0"><na f="a/Anand:Vikas" pid="50/3264">Vikas Anand</na></co>
+<co c="0"><na f="a/Anders:Mark" pid="03/845">Mark Anders</na></co>
+<co c="0"><na f="a/Anderson:Denise" pid="269/4370">Denise Anderson</na></co>
+<co c="0"><na f="a/Anthony:Denise_L=" pid="18/10681">Denise L. Anthony</na></co>
+<co c="0"><na f="a/Antonioli:Daniele" pid="133/5077">Daniele Antonioli</na></co>
+<co c="0"><na f="a/Argaw:Salem_T=" pid="234/6756">Salem T. Argaw</na></co>
+<co c="0"><na f="a/Arora:Manish" pid="01/2818">Manish Arora</na></co>
+<co c="-1"><na f="a/Arunachalam:Venkatesh" pid="72/719">Venkatesh Arunachalam</na></co>
+<co c="0"><na f="b/Baj=Rossi:Camilla" pid="40/11469">Camilla Baj-Rossi</na></co>
+<co c="0"><na f="b/Baldimtsi:Foteini" pid="46/7643">Foteini Baldimtsi</na></co>
+<co c="1"><na f="b/Bambha:Ray" pid="147/6448">Ray Bambha</na></co>
+<co c="4"><na f="b/Bartoli:Christopher" pid="248/4629">Christopher Bartoli</na></co>
+<co c="0"><na f="b/Bayrak:Ali_Galip" pid="53/10063">Ali Galip Bayrak</na></co>
+<co c="0"><na f="b/Becker:Georg_T=" pid="66/8380">Georg T. Becker</na></co>
+<co c="0"><na f="b/Beeck:Maaike_Op_de" pid="163/0089">Maaike Op de Beeck</na></co>
+<co c="0"><na f="b/Benito:Ibis" pid="77/4592">Ibis Benito</na></co>
+<co c="0"><na f="b/Bertozzi:Davide" pid="48/5390">Davide Bertozzi</na></co>
+<co c="0"><na f="b/Bhardwaj:Kshitij" pid="53/11157">Kshitij Bhardwaj</na></co>
+<co c="0"><na f="b/Bossuet:Lilian" pid="12/6779">Lilian Bossuet</na></co>
+<co c="0"><na f="b/Buckler:Mark" pid="135/8701">Mark Buckler</na></co>
+<co c="0"><na f="c/Calcavecchia:Franck" pid="269/3424">Franck Calcavecchia</na></co>
+<co c="0"><na f="c/Carrara:Sandro" pid="75/7571">Sandro Carrara</na></co>
+<co c="1"><na f="c/Carswell:James_R=" pid="88/8995">James R. Carswell</na></co>
+<co c="0"><na f="c/Cavallini_0001:Andrea" pid="31/3186-1">Andrea Cavallini 0001</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chillara:Krishna_C=" pid="63/9546">Krishna C. Chillara</na></co>
+<co c="0"><na f="c/Chittamuru:Jeevan" pid="83/571">Jeevan Chittamuru</na></co>
+<co c="0"><na f="c/Ciesielski:Maciej_J=" pid="c/MJCiesielski">Maciej J. Ciesielski</na></co>
+<co c="0"><na f="c/Clark:Shane_S=" pid="50/3938">Shane S. Clark</na></co>
+<co c="0"><na f="c/Connolly:Christopher_I=" pid="09/4718">Christopher I. Connolly</na></co>
+<co c="0"><na f="c/Coskun:Ayse_K=" pid="79/3945">Ayse K. Coskun</na></co>
+<co c="0"><na f="c/Cotten:L=_W=" pid="92/1956">L. W. Cotten</na></co>
+<co c="0"><na f="d/Danger:Jean=Luc" pid="52/4689">Jean-Luc Danger</na></co>
+<co c="0"><na f="d/Datta:Basab" pid="03/2457">Basab Datta</na></co>
+<co c="0"><na f="d/Dehollain:Catherine" pid="54/7007">Catherine Dehollain</na></co>
+<co c="0"><na f="d/Dev:Kapil" pid="32/4797">Kapil Dev</na></co>
+<co c="0"><na f="d/Devadas:Srinivas" pid="14/3973">Srinivas Devadas</na></co>
+<co c="0"><na f="d/Diguet:Jean=Philippe" pid="07/493">Jean-Philippe Diguet</na></co>
+<co c="0"><na f="d/Dijk:Marten_van" pid="32/1399">Marten van Dijk</na></co>
+<co c="0"><na f="d/Dror:Gideon" pid="06/6216">Gideon Dror</na></co>
+<co c="0"><na f="e/Eckert:Yasuko" pid="117/3197">Yasuko Eckert</na></co>
+<co c="0"><na f="e/Eshaya=Chauvin:Bruce" pid="234/6642">Bruce Eshaya-Chauvin</na></co>
+<co c="0"><na f="e/Euh:Jeongseon" pid="29/710">Jeongseon Euh</na></co>
+<co c="0"><na f="f/Finley:Jonathan_J=" pid="165/5445">Jonathan J. Finley</na></co>
+<co c="0"><na f="f/Flahault:Antoine" pid="74/5335">Antoine Flahault</na></co>
+<co c="0"><na f="f/Florin:Marie=Valentine" pid="248/6621">Marie-Valentine Florin</na></co>
+<co c="0"><na f="f/Franza:Olivier" pid="56/1551">Olivier Franza</na></co>
+<co c="0"><na f="f/Fu:Kevin" pid="f/KevinFu">Kevin Fu</na></co>
+<co c="0"><na f="g/Gao:Yansong" pid="139/1152">Yansong Gao</na></co>
+<co c="0" n="2"><na f="g/Garc=iacute=a:Andr=eacute=s_David_Garc=iacute=a" pid="99/289">Andr&#233;s David Garc&#237;a Garc&#237;a</na><na>Andr&#233;s D. Garc&#237;a</na></co>
+<co c="0"><na f="g/Ghiribaldi:Alberto" pid="79/10515">Alberto Ghiribaldi</na></co>
+<co c="0"><na f="g/Ghoreishizadeh:Sara_S=" pid="87/10053">Sara S. Ghoreishizadeh</na></co>
+<co c="0"><na f="g/Ghosh:Swaroop" pid="91/2072">Swaroop Ghosh</na></co>
+<co c="0"><na f="g/Goeckel:Dennis" pid="77/910">Dennis Goeckel</na></co>
+<co c="0"><na f="g/Gogniat:Guy" pid="96/7029">Guy Gogniat</na></co>
+<co c="0"><na f="g/Grupen:Roderic_A=" pid="g/RodericAGrupen">Roderic A. Grupen</na></co>
+<co c="0"><na f="g/Guajardo:Jorge" pid="51/3023">Jorge Guajardo</na></co>
+<co c="0"><na f="g/Guiseppi=Elie:Anthony" pid="22/7111">Anthony Guiseppi-Elie</na></co>
+<co c="0"><na f="g/G=uuml=neysu:Tim" pid="50/6307">Tim G&#252;neysu</na></co>
+<co c="0"><na f="g/Gunter:Carl_A=" pid="g/CarlAGunter">Carl A. Gunter</na></co>
+<co c="0"><na f="g/Guo:Xinfei" pid="145/9137">Xinfei Guo</na></co>
+<co c="0"><na f="h/Harris:Ian_G=" pid="99/4204">Ian G. Harris</na></co>
+<co c="0"><na f="h/Heath:Matthew_W=" pid="16/844">Matthew W. Heath</na></co>
+<co c="0"><na f="h/Hester:Josiah_D=" pid="143/9139">Josiah D. Hester</na></co>
+<co c="0"><na f="h/Hilgers:Christian" pid="51/8322">Christian Hilgers</na></co>
+<co c="0"><na f="h/Hinterw=auml=lder:Gesine" pid="125/0390">Gesine Hinterw&#228;lder</na></co>
+<co c="0"><na f="h/Holcomb:Daniel_E=" pid="67/7583">Daniel E. Holcomb</na></co>
+<co c="0"><na f="h/Homayoun:Houman" pid="63/3012">Houman Homayoun</na></co>
+<co c="0"><na f="h/Howes:Samuel" pid="155/4395">Samuel Howes</na></co>
+<co c="0"><na f="h/Huang_0004:Wei" pid="81/6685-4">Wei Huang 0004</na></co>
+<co c="0"><na f="i/Ienne:Paolo" pid="i/PIenne">Paolo Ienne</na></co>
+<co c="0"><na f="i/Ingols:Kyle" pid="29/6955">Kyle Ingols</na></co>
+<co c="0"><na f="j/Jain:Prashant" pid="56/2129">Prashant Jain</na></co>
+<co c="0"><na f="j/Jang:Jinwook" pid="42/1665">Jinwook Jang</na></co>
+<co c="0"><na f="j/Jasinski:David" pid="79/3710">David Jasinski</na></co>
+<co c="0"><na f="j/Jeannin:Jean=Baptiste" pid="11/10454">Jean-Baptiste Jeannin</na></co>
+<co c="3"><na f="j/Jeong:Yongjin" pid="71/6729">Yongjin Jeong</na></co>
+<co c="0"><na f="j/Jiang_0002:Weiwei" pid="30/9639-2">Weiwei Jiang 0002</na></co>
+<co c="0"><na f="j/Jin:Chenglu" pid="148/1500">Chenglu Jin</na></co>
+<co c="0"><na f="j/Jovanovic:Philipp" pid="14/11314">Philipp Jovanovic</na></co>
+<co c="0"><na f="j/Juels:Ari" pid="j/AriJuels">Ari Juels</na></co>
+<co c="3"><na f="j/Jung:Bongjin" pid="63/4458">Bongjin Jung</na></co>
+<co c="0"><na f="k/Kaplan:Fulya" pid="123/2250">Fulya Kaplan</na></co>
+<co c="0"><na f="k/Kasper:Markus" pid="86/7075">Markus Kasper</na></co>
+<co c="0"><na f="k/Kaul:Himanshu" pid="00/4416">Himanshu Kaul</na></co>
+<co c="0"><na f="k/Kavehei:Omid" pid="41/9830">Omid Kavehei</na></co>
+<co c="0"><na f="k/Khajeh:Amin" pid="47/2329">Amin Khajeh</na></co>
+<co c="0"><na f="k/Kim:Jeeson" pid="190/7065">Jeeson Kim</na></co>
+<co c="0"><na f="k/Klass:Fabian" pid="25/4004">Fabian Klass</na></co>
+<co c="0"><na f="k/Ko:Jason" pid="81/97">Jason Ko</na></co>
+<co c="0"><na f="k/Kononchuk:Dima" pid="165/5481">Dima Kononchuk</na></co>
+<co c="0"><na f="k/Konstantinides:Konstantinos" pid="56/2027">Konstantinos Konstantinides</na></co>
+<co c="0"><na f="k/Koren:Israel" pid="26/6860">Israel Koren</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0"><na f="k/Kraeh:Christian" pid="165/5404">Christian Kraeh</na></co>
+<co c="0"><na f="k/Krishnamurthy:Ram" pid="19/6426">Ram Krishnamurthy</na></co>
+<co c="0"><na f="k/Krishnappa:Dilip_Kumar" pid="47/8364">Dilip Kumar Krishnappa</na></co>
+<co c="0"><na f="k/Kukkamalla:Hempraveen" pid="52/3780">Hempraveen Kukkamalla</na></co>
+<co c="-1"><na f="k/Kumar_0002:Dhruv" pid="159/9419-2">Dhruv Kumar 0002</na></co>
+<co c="0"><na f="k/Kumar:Raghavan" pid="25/9979">Raghavan Kumar</na></co>
+<co c="0"><na f="k/Kundu:Sandip" pid="84/1396">Sandip Kundu</na></co>
+<co c="0"><na f="l/Lacey:Darren" pid="145/7731">Darren Lacey</na></co>
+<co c="0"><na f="l/Laffely:Andrew" pid="13/5885">Andrew Laffely</na></co>
+<co c="4"><na f="l/Lagasse:Jacqueline" pid="248/4535">Jacqueline Lagasse</na></co>
+<co c="0"><na f="l/Lakshminarasimhan:Ashwin" pid="83/10504">Ashwin Lakshminarasimhan</na></co>
+<co c="0"><na f="l/Landwehr:Carl_E=" pid="04/4402">Carl E. Landwehr</na></co>
+<co c="0"><na f="l/Leblebici:Yusuf" pid="l/YusufLeblebici">Yusuf Leblebici</na></co>
+<co c="2"><na f="l/Leonardo:Chris" pid="278/0360">Chris Leonardo</na></co>
+<co c="0"><na f="l/Li:Shuo" pid="49/595">Shuo Li</na></co>
+<co c="0"><na f="l/Li:Xiang" pid="40/1491">Xiang Li</na></co>
+<co c="0"><na f="l/Liang:Jian" pid="19/2208">Jian Liang</na></co>
+<co c="0"><na f="l/Lin:Lang" pid="70/3072">Lang Lin</na></co>
+<co c="0"><na f="l/Liu:W=" pid="42/4710">W. Liu</na></co>
+<co c="0"><na f="l/Liu:Xiaobin" pid="41/5427">Xiaobin Liu</na></co>
+<co c="0"><na f="l/Lu:Shiting_=Justin=" pid="123/7043">Shiting (Justin) Lu</na></co>
+<co c="0"><na f="l/Lysyanskaya:Anna" pid="70/3375">Anna Lysyanskaya</na></co>
+<co c="0"><na f="m/Madduri:Sailaja" pid="28/7358">Sailaja Madduri</na></co>
+<co c="0"><na f="m/Maheshwari:Atul" pid="27/124">Atul Maheshwari</na></co>
+<co c="0"><na f="m/Mahmoud:Ahmed" pid="65/1424">Ahmed Mahmoud</na></co>
+<co c="0"><na f="m/Majzoobi:Mehrdad" pid="77/187">Mehrdad Majzoobi</na></co>
+<co c="0"><na f="m/Malik:Shweta" pid="31/8805">Shweta Malik</na></co>
+<co c="0"><na f="m/Manolakos:Elias_S=" pid="90/6179">Elias S. Manolakos</na></co>
+<co c="0"><na f="m/Martinez=Hurtado:J=_L=" pid="165/5542">J. L. Martinez-Hurtado</na></co>
+<co c="-1"><na f="m/Marvin:Walter_B=" pid="65/2820">Walter B. Marvin</na></co>
+<co c="0"><na f="m/Micheli:Giovanni_De" pid="d/GDeMicheli">Giovanni De Micheli</na></co>
+<co c="0"><na f="m/Miorandi:Gabriele" pid="155/0993">Gabriele Miorandi</na></co>
+<co c="0"><na f="m/Mischke:Oliver" pid="22/8341">Oliver Mischke</na></co>
+<co c="0"><na f="m/Moini:Shayan" pid="206/7938">Shayan Moini</na></co>
+<co c="0"><na f="m/Moradi_0001:Amir" pid="38/3348">Amir Moradi 0001</na></co>
+<co c="0"><na f="m/Moussy:Francis" pid="99/9645">Francis Moussy</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Debdeep" pid="85/3079">Debdeep Mukhopadhyay</na></co>
+<co c="0"><na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na></co>
+<co c="0"><na f="n/Nalamalpu:Ankireddy" pid="50/1212">Ankireddy Nalamalpu</na></co>
+<co c="-1"><na f="n/Narkiewicz:J=_David" pid="49/3878">J. David Narkiewicz</na></co>
+<co c="0"><na f="n/Natarajan:Aiyappan" pid="51/2022">Aiyappan Natarajan</na></co>
+<co c="0"><na f="n/Neshatpour:Katayoun" pid="119/4406">Katayoun Neshatpour</na></co>
+<co c="0"><na f="n/Netto:Eduardo_Braulio_Wanderley" pid="75/3281">Eduardo Braulio Wanderley Netto</na></co>
+<co c="0"><na f="n/Niehaus:Douglas" pid="51/1992">Douglas Niehaus</na></co>
+<co c="0"><na f="n/Nili:Hussein" pid="190/7318">Hussein Nili</na></co>
+<co c="0"><na f="n/Nowick:Steven_M=" pid="84/595">Steven M. Nowick</na></co>
+<co c="0"><na f="o/O=Leary:Chana" pid="269/4324">Chana O'Leary</na></co>
+<co c="0"><na f="o/Olivo:Jacopo" pid="74/10941">Jacopo Olivo</na></co>
+<co c="0"><na f="p/Paar:Christof" pid="p/ChristofPaar">Christof Paar</na></co>
+<co c="-1"><na f="p/Park:S=_R=" pid="16/6929">S. R. Park</na></co>
+<co c="0"><na f="p/Patil:Vinay_C=" pid="47/9980">Vinay C. Patil</na></co>
+<co c="0"><na f="p/Paul:Indrani" pid="46/353">Indrani Paul</na></co>
+<co c="0"><na f="p/Pavlidis:Vasilis_F=" pid="43/3714">Vasilis F. Pavlidis</na></co>
+<co c="2"><na f="p/Peden:Jeff" pid="278/0458">Jeff Peden</na></co>
+<co c="1"><na f="p/Petronino:Michael" pid="147/6652">Michael Petronino</na></co>
+<co c="0"><na f="p/Philippe:Jean_Luc" pid="67/1244">Jean Luc Philippe</na></co>
+<co c="0"><na f="p/Polian:Ilia" pid="94/4552">Ilia Polian</na></co>
+<co c="0"><na f="p/Provelengios:George" pid="78/10491">George Provelengios</na></co>
+<co c="0"><na f="p/Pullini:Antonio" pid="98/6010">Antonio Pullini</na></co>
+<co c="0"><na f="r/Rahmati:Amir" pid="125/0358">Amir Rahmati</na></co>
+<co c="0"><na f="r/Ramamritham:Krithi" pid="r/KrithiRamamritham">Krithi Ramamritham</na></co>
+<co c="0"><na f="r/Ramaswamy:Ramaswamy" pid="50/6793">Ramaswamy Ramaswamy</na></co>
+<co c="0"><na f="r/Ranasinghe:Damith_Chinthana" pid="56/8102">Damith Chinthana Ranasinghe</na></co>
+<co c="0"><na f="r/Ransford:Benjamin" pid="08/5873">Benjamin Ransford</na></co>
+<co c="0"><na f="r/Reda:Sherief" pid="11/6528">Sherief Reda</na></co>
+<co c="0"><na f="r/Regazzoni_0001:Francesco" pid="31/1489-1">Francesco Regazzoni 0001</na></co>
+<co c="0"><na f="r/Rostami:Masoud" pid="08/5781">Masoud Rostami</na></co>
+<co c="0"><na f="r/R=uuml=hrmair:Ulrich" pid="50/7968">Ulrich R&#252;hrmair</na></co>
+<co c="0"><na f="s/Sadowski:Greg" pid="135/8456">Greg Sadowski</na></co>
+<co c="0"><na f="s/Salajegheh:Mastooreh" pid="51/4926">Mastooreh Salajegheh</na></co>
+<co c="-1"><na f="s/Scharf:Louis_L=" pid="39/2447">Louis L. Scharf</na></co>
+<co c="0"><na f="s/Schlichtmann:Ulf" pid="07/6841">Ulf Schlichtmann</na></co>
+<co c="0"><na f="s/Schmidhuber:J=uuml=rgen" pid="s/JurgenSchmidhuber">J&#252;rgen Schmidhuber</na></co>
+<co c="0"><na f="s/Sehnke:Frank" pid="30/955">Frank Sehnke</na></co>
+<co c="0"><na f="s/Shabadi:Prasad" pid="38/8364">Prasad Shabadi</na></co>
+<co c="-1"><na f="s/Shanbhag:Naresh_R=" pid="72/6310">Naresh R. Shanbhag</na></co>
+<co c="0"><na f="s/Shankar:Vijay" pid="08/6782">Vijay Shankar</na></co>
+<co c="0"><na f="s/Sitanayah:Lanny" pid="61/8068">Lanny Sitanayah</na></co>
+<co c="0"><na f="s/S=ouml=lter:Jan" pid="97/8484">Jan S&#246;lter</na></co>
+<co c="0"><na f="s/Sorber:Jacob" pid="81/3501">Jacob Sorber</na></co>
+<co c="0"><na f="s/Squires:Susan" pid="90/7585">Susan Squires</na></co>
+<co c="0"><na f="s/Srinivasan:Sriram" pid="74/3399">Sriram Srinivasan</na></co>
+<co c="0"><na f="s/Srinivasan:Sudarshan" pid="76/9547">Sudarshan Srinivasan</na></co>
+<co c="-1"><na f="s/Srinivasaraghavan:Srividya" pid="45/3416">Srividya Srinivasaraghavan</na></co>
+<co c="0"><na f="s/Srivathsa:Sudheendra" pid="74/10504">Sudheendra Srivathsa</na></co>
+<co c="0"><na f="s/Stan:Mircea_R=" pid="s/MirceaRStan">Mircea R. Stan</na></co>
+<co c="0"><na f="s/Stankovic:John_A=" pid="s/JohnAStankovic">John A. Stankovic</na></co>
+<co c="0"><na f="s/Stanwicks:Peter" pid="274/5031">Peter Stanwicks</na></co>
+<co c="0"><na f="s/Stoyanova:Vera" pid="126/5981">Vera Stoyanova</na></co>
+<co c="0"><na f="s/Strobel:Daehyun" pid="117/1752">Daehyun Strobel</na></co>
+<co c="0"><na f="s/Suresh:Vikram_B=" pid="49/9412">Vikram B. Suresh</na></co>
+<co c="0"><na f="s/Swaminathan:Sriram" pid="00/2535">Sriram Swaminathan</na></co>
+<co c="0"><na f="t/Tang:Xifan" pid="133/5914">Xifan Tang</na></co>
+<co c="0"><na f="t/Taurino:Irene" pid="60/11470">Irene Taurino</na></co>
+<co c="0"><na f="t/Tessier:Russell" pid="23/2353">Russell Tessier</na></co>
+<co c="0"><na f="t/Thyagarajan:Vidhya" pid="139/9496">Vidhya Thyagarajan</na></co>
+<co c="0"><na f="t/Tiwari:Mohit" pid="33/65">Mohit Tiwari</na></co>
+<co c="0"><na f="t/Tobias:Nicole" pid="170/2553">Nicole Tobias</na></co>
+<co c="0"><na f="t/Troncoso=Pastoriza:Juan_Ram=oacute=n" pid="33/5866">Juan Ram&#243;n Troncoso-Pastoriza</na></co>
+<co c="0"><na f="t/Tullsen:Dean_M=" pid="t/DeanMTullsen">Dean M. Tullsen</na></co>
+<co c="0"><na f="v/Vadlamani:Ramakrishna" pid="58/7357">Ramakrishna Vadlamani</na></co>
+<co c="0"><na f="v/Vaidya:Arpan" pid="157/0775">Arpan Vaidya</na></co>
+<co c="0"><na f="v/Vaslin:Romain" pid="83/3905">Romain Vaslin</na></co>
+<co c="0"><na f="v/Velickovic:Nikola" pid="86/10859">Nikola Velickovic</na></co>
+<co c="0"><na f="v/Venkatraman:Subramanian" pid="43/6550">Subramanian Venkatraman</na></co>
+<co c="0"><na f="v/Venkatraman:Vishak" pid="83/717">Vishak Venkatraman</na></co>
+<co c="0"><na f="v/Vivero:Charlie_De" pid="155/4394">Charlie De Vivero</na></co>
+<co c="0"><na f="v/Vogel:Jan=Michael" pid="269/3867">Jan-Michael Vogel</na></co>
+<co c="0"><na f="w/Wallace:Gary" pid="95/2320">Gary Wallace</na></co>
+<co c="0"><na f="w/Weems:Charles_C=" pid="w/CharlesCWeems">Charles C. Weems</na></co>
+<co c="0"><na f="w/Wolf:Tilman" pid="10/5241">Tilman Wolf</na></co>
+<co c="0"><na f="x/Xu:Hu" pid="11/6234">Hu Xu</na></co>
+<co c="0"><na f="x/Xu:Sheng" pid="10/1887">Sheng Xu</na></co>
+<co c="0"><na f="x/Xu:Weifeng" pid="28/5782">Weifeng Xu</na></co>
+<co c="0"><na f="x/Xu:Xiaolin" pid="15/1040">Xiaolin Xu</na></co>
+<co c="0"><na f="y/Yal=ccedil=in:Tolga" pid="07/8571">Tolga Yal&#231;in</na></co>
+<co c="0"><na f="z/Zenger:Christian_T=" pid="130/6535">Christian T. Zenger</na></co>
+<co c="0"><na f="z/Zhao:Jia" pid="34/3125">Jia Zhao</na></co>
+<co c="-1"><na f="z/Zhou:Zheng" pid="17/4932">Zheng Zhou</na></co>
+<co c="0"><na f="z/Zhu:Zhi" pid="55/1231">Zhi Zhu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,295 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a12b39b10f35ba1cc4970635882a44bf549e42696bfe273a2659001a76c14a50
-size 13262
+<?xml version="1.0"?>
+<dblpperson name="Yuekang Li" pid="204/3729" n="15">
+<person key="homepages/204/3729" mdate="2017-08-16">
+<author pid="204/3729">Yuekang Li</author>
+</person>
+<r><inproceedings key="conf/apsec/LiCZXLW20" mdate="2021-03-20">
+<author pid="204/3729">Yuekang Li</author>
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="200/7275">Cen Zhang</author>
+<author pid="36/11118">Siyang Xiong</author>
+<author pid="226/9595">Chaoyi Liu</author>
+<author pid="17/221">Yi Wang</author>
+<title>Ori: A Greybox Fuzzer for SOME/IP Protocols in Automotive Ethernet.</title>
+<pages>495-499</pages>
+<year>2020</year>
+<booktitle>APSEC</booktitle>
+<ee>https://doi.org/10.1109/APSEC51365.2020.00063</ee>
+<crossref>conf/apsec/2020</crossref>
+<url>db/conf/apsec/apsec2020.html#LiCZXLW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WenWLQLXCXPL20" mdate="2021-01-11">
+<author pid="62/7258">Cheng Wen</author>
+<author pid="46/1165">Haijun Wang</author>
+<author pid="204/3729">Yuekang Li</author>
+<author orcid="0000-0003-3028-8191" pid="q/ShengchaoQin">Shengchao Qin</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="25/9771">Zhiwu Xu 0001</author>
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="52/5150">Ting Liu</author>
+<title>MemLock: memory usage guided fuzzing.</title>
+<pages>765-777</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380396</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#WenWLQLXCXPL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WangXLWLLQCS20" mdate="2021-04-13">
+<author pid="46/1165">Haijun Wang</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="62/7258">Cheng Wen</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0003-3028-8191" pid="q/ShengchaoQin">Shengchao Qin</author>
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="58/10567">Yulei Sui</author>
+<title>Typestate-guided fuzzer for discovering use-after-free vulnerabilities.</title>
+<pages>999-1010</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380386</ee>
+<ee>https://ieeexplore.ieee.org/document/9283945</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#WangXLWLLQCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/ChenGXSZLWL20" mdate="2021-01-29">
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="162/3606">Shengjian Guo</author>
+<author pid="73/7055">Yinxing Xue</author>
+<author pid="58/10567">Yulei Sui</author>
+<author pid="200/7275">Cen Zhang</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="46/1165">Haijun Wang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs.</title>
+<pages>2325-2342</pages>
+<year>2020</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hongxu</ee>
+<crossref>conf/uss/2020</crossref>
+<url>db/conf/uss/uss2020.html#ChenGXSZLWL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-09561" mdate="2020-09-14">
+<author pid="195/5496">Sijia Geng</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="231/1907">Yunlan Du</author>
+<author pid="90/514-24">Jun Xu 0024</author>
+<author pid="51/3710">Yang Liu</author>
+<author pid="98/5039">Bing Mao</author>
+<title>An Empirical Study on Benchmarks of Artificial Software Vulnerabilities.</title>
+<year>2020</year>
+<volume>abs/2003.09561</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.09561</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-09561</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-15943" mdate="2020-10-16">
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="162/3606">Shengjian Guo</author>
+<author pid="73/7055">Yinxing Xue</author>
+<author pid="58/10567">Yulei Sui</author>
+<author pid="200/7275">Cen Zhang</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="46/1165">Haijun Wang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs.</title>
+<year>2020</year>
+<volume>abs/2007.15943</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.15943</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-15943</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/Du0LGZLJ19" mdate="2020-03-30">
+<author pid="97/6476">Xiaoning Du</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="200/7328">Jianmin Guo</author>
+<author pid="45/7033">Yaqin Zhou</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="21/4633-1">Yu Jiang 0001</author>
+<title>Leopard: identifying vulnerable code for vulnerability assessment through program metrics.</title>
+<pages>60-71</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00024</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339514</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#Du0LGZLJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/XieMWLLL19" mdate="2020-03-21">
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="46/1165">Haijun Wang</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="08/2489-1">Xiaohong Li 0001</author>
+<title>DiffChaser: Detecting Disagreements for Deep Neural Networks.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/800</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#XieMWLLL19</url>
+<pages>5772-5778</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LiXCWZXWL19" mdate="2019-09-22">
+<author pid="204/3729">Yuekang Li</author>
+<author pid="73/7055">Yinxing Xue</author>
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="227/8984">Xiuheng Wu</author>
+<author pid="200/7275">Cen Zhang</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="46/1165">Haijun Wang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Cerebro: context-aware adaptive fuzzing for effective vulnerability detection.</title>
+<pages>533-544</pages>
+<year>2019</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3338906.3338975</ee>
+<crossref>conf/sigsoft/2019</crossref>
+<url>db/conf/sigsoft/fse2019.html#LiXCWZXWL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/WangXLLLQLL19" mdate="2020-06-18">
+<author pid="46/1165">Haijun Wang</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="77/1513-1">Yun Lin 0001</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="q/ShengchaoQin">Shengchao Qin</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="52/5150-2">Ting Liu 0002</author>
+<title>Locating vulnerabilities in binaries via memory layout recovering.</title>
+<pages>718-728</pages>
+<year>2019</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3338906.3338966</ee>
+<crossref>conf/sigsoft/2019</crossref>
+<url>db/conf/sigsoft/fse2019.html#WangXLLLQLL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-11479" mdate="2020-03-26">
+<author pid="97/6476">Xiaoning Du</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="200/7328">Jianmin Guo</author>
+<author pid="45/7033">Yaqin Zhou</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="21/4633-1">Yu Jiang 0001</author>
+<title>LEOPARD: Identifying Vulnerable Code for Vulnerability Assessment through Program Metrics.</title>
+<year>2019</year>
+<volume>abs/1901.11479</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.11479</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-11479</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/ChenXLCXWL18" mdate="2020-11-10">
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="73/7055">Yinxing Xue</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="227/8984">Xiuheng Wu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Hawkeye: Towards a Desired Directed Grey-box Fuzzer.</title>
+<pages>2095-2108</pages>
+<year>2018</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3243734.3243849</ee>
+<crossref>conf/ccs/2018</crossref>
+<url>db/conf/ccs/ccs2018.html#ChenXLCXWL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/Li18a" mdate="2018-11-05">
+<author pid="204/3729">Yuekang Li</author>
+<title>Principled Greybox Fuzzing.</title>
+<pages>455-458</pages>
+<year>2018</year>
+<booktitle>ICFEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02450-5_34</ee>
+<crossref>conf/icfem/2018</crossref>
+<url>db/conf/icfem/icfem2018.html#Li18a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/ChenLCXL18" mdate="2019-02-14">
+<author pid="147/5824">Hongxu Chen</author>
+<author pid="204/3729">Yuekang Li</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="73/7055">Yinxing Xue</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>FOT: a versatile, configurable, extensible fuzzing framework.</title>
+<pages>867-870</pages>
+<year>2018</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3236024.3264593</ee>
+<crossref>conf/sigsoft/2018</crossref>
+<url>db/conf/sigsoft/fse2018.html#ChenLCXL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LiCCLLT17" mdate="2020-06-18">
+<author pid="204/3729">Yuekang Li</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="45/8423">Mahinthan Chandramohan</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<title>Steelix: program-state based binary fuzzing.</title>
+<pages>627-637</pages>
+<year>2017</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3106237.3106295</ee>
+<crossref>conf/sigsoft/2017</crossref>
+<url>db/conf/sigsoft/fse2017.html#LiCCLLT17</url>
+</inproceedings>
+</r>
+<coauthors n="35" nc="1">
+<co c="0"><na f="c/Chandramohan:Mahinthan" pid="45/8423">Mahinthan Chandramohan</na></co>
+<co c="0"><na f="c/Chen_0001:Bihuan" pid="61/9197">Bihuan Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Hongxu" pid="147/5824">Hongxu Chen</na></co>
+<co c="0"><na f="d/Du:Xiaoning" pid="97/6476">Xiaoning Du</na></co>
+<co c="0"><na f="d/Du:Yunlan" pid="231/1907">Yunlan Du</na></co>
+<co c="0"><na f="g/Geng:Sijia" pid="195/5496">Sijia Geng</na></co>
+<co c="0"><na f="g/Guo:Jianmin" pid="200/7328">Jianmin Guo</na></co>
+<co c="0"><na f="g/Guo:Shengjian" pid="162/3606">Shengjian Guo</na></co>
+<co c="0"><na f="j/Jiang_0001:Yu" pid="21/4633-1">Yu Jiang 0001</na></co>
+<co c="0"><na f="l/Li_0001:Xiaohong" pid="08/2489-1">Xiaohong Li 0001</na></co>
+<co c="0"><na f="l/Li_0008:Yi" pid="59/871-8">Yi Li 0008</na></co>
+<co c="0" n="2"><na f="l/Lin_0001:Shangwei" pid="55/4730-1">Shangwei Lin 0001</na><na>Shang-Wei Lin 0001</na></co>
+<co c="0"><na f="l/Lin_0001:Yun" pid="77/1513-1">Yun Lin 0001</na></co>
+<co c="0"><na f="l/Liu:Chaoyi" pid="226/9595">Chaoyi Liu</na></co>
+<co c="0"><na f="l/Liu:Ting" pid="52/5150">Ting Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Ting" pid="52/5150-2">Ting Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Yang" pid="51/3710">Yang Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="m/Ma_0003:Lei" pid="20/6534-3">Lei Ma 0003</na></co>
+<co c="0"><na f="m/Mao:Bing" pid="98/5039">Bing Mao</na></co>
+<co c="0"><na f="p/Pu:Geguang" pid="33/1678">Geguang Pu</na></co>
+<co c="0"><na f="q/Qin:Shengchao" pid="q/ShengchaoQin">Shengchao Qin</na></co>
+<co c="0"><na f="s/Sui:Yulei" pid="58/10567">Yulei Sui</na></co>
+<co c="0"><na f="t/Tiu:Alwen" pid="t/AlwenTiu">Alwen Tiu</na></co>
+<co c="0"><na f="w/Wang:Haijun" pid="46/1165">Haijun Wang</na></co>
+<co c="0"><na f="w/Wang:Yi" pid="17/221">Yi Wang</na></co>
+<co c="0"><na f="w/Wen:Cheng" pid="62/7258">Cheng Wen</na></co>
+<co c="0"><na f="w/Wu:Xiuheng" pid="227/8984">Xiuheng Wu</na></co>
+<co c="0"><na f="x/Xie:Xiaofei" pid="127/0713">Xiaofei Xie</na></co>
+<co c="0"><na f="x/Xiong:Siyang" pid="36/11118">Siyang Xiong</na></co>
+<co c="0"><na f="x/Xu_0024:Jun" pid="90/514-24">Jun Xu 0024</na></co>
+<co c="0"><na f="x/Xu_0001:Zhiwu" pid="25/9771">Zhiwu Xu 0001</na></co>
+<co c="0"><na f="x/Xue:Yinxing" pid="73/7055">Yinxing Xue</na></co>
+<co c="0"><na f="z/Zhang:Cen" pid="200/7275">Cen Zhang</na></co>
+<co c="0"><na f="z/Zhou:Yaqin" pid="45/7033">Yaqin Zhou</na></co>
+</coauthors>
+</dblpperson>
+

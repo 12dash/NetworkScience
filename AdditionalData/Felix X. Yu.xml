@@ -1,3 +1,1156 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b55dbe148b87f27186709c9605497932564742ea489595bfa5436cbbf4dd60b5
-size 54707
+<?xml version="1.0"?>
+<dblpperson name="Felix X. Yu" pid="23/10574" n="62">
+<person key="homepages/23/10574" mdate="2019-01-10">
+<author pid="23/10574">Felix X. Yu</author>
+<url>http://felixyu.org/</url>
+<url>https://scholar.google.com/citations?user=lYvF6cUAAAAJ</url>
+<url>https://www.linkedin.com/in/yuxinnan</url>
+<note type="affiliation">Google Research</note>
+<note type="affiliation">Columbia University, New York, Department of Electrical Engineering</note>
+</person>
+<r><inproceedings key="conf/aistats/ReddiPMRYKVK21" mdate="2021-04-14">
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="125/3197">Rama Kumar Pasumarthi</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="74/7997">Seungyeon Kim</author>
+<author pid="133/1801">Andreas Veit</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>RankDistil: Knowledge Distillation for Ranking.</title>
+<pages>2368-2376</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/reddi21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#ReddiPMRYKVK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LukasikJMKBYK20" mdate="2021-01-08">
+<author pid="72/11338">Michal Lukasik</author>
+<author pid="82/185">Himanshu Jain</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="74/7997">Seungyeon Kim</author>
+<author pid="131/6700">Srinadh Bhojanapalli</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Semantic Label Smoothing for Sequence to Sequence Problems.</title>
+<pages>4992-4998</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.405</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.405/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#LukasikJMKBYK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/ChangYCYK20" mdate="2020-05-07">
+<author pid="07/1972">Wei-Cheng Chang</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="48/9362">Yin-Wen Chang</author>
+<author pid="25/1666">Yiming Yang</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Pre-training Tasks for Embedding-based Large-scale Retrieval.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rkg-mA4FDr</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#ChangYCYK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/YuRMK20" mdate="2020-12-15">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Federated Learning with Only Positive Labels.</title>
+<pages>10946-10956</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/yu20f.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#YuRMK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LiuSYK020" mdate="2021-01-19">
+<author pid="125/8141">Yuhan Liu</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="73/924">Michael Riley 0001</author>
+<title>Learning discrete distributions: user vs item-level privacy.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/f06edc8ab534b2c7ecbd4c2051d9cb1e-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#LiuSYK020</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-03932" mdate="2020-02-12">
+<author pid="07/1972">Wei-Cheng Chang</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="48/9362">Yin-Wen Chang</author>
+<author pid="25/1666">Yiming Yang</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Pre-training Tasks for Embedding-based Large-scale Retrieval.</title>
+<year>2020</year>
+<volume>abs/2002.03932</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.03932</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-03932</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10342" mdate="2020-04-28">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Federated Learning with Only Positive Labels.</title>
+<year>2020</year>
+<volume>abs/2004.10342</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10342</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10342</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10915" mdate="2020-04-29">
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="133/1801">Andreas Veit</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Doubly-stochastic mining for heterogeneous retrieval.</title>
+<year>2020</year>
+<volume>abs/2004.10915</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10915</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10915</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-12865" mdate="2020-07-29">
+<author pid="10/9922">Tiansheng Yao</author>
+<author pid="139/1029">Xinyang Yi</author>
+<author pid="58/7211-2">Derek Zhiyuan Cheng</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="85/4697">Lichan Hong</author>
+<author pid="13/310">Ed H. Chi</author>
+<author pid="271/0079">Steve Tjoa</author>
+<author pid="144/2775">Jieqi Kang</author>
+<author pid="42/7554">Evan Ettinger</author>
+<title>Self-supervised Learning for Deep Models in Recommendations.</title>
+<year>2020</year>
+<volume>abs/2007.12865</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.12865</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-12865</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-13660" mdate="2020-10-20">
+<author pid="125/8141">Yuhan Liu</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="73/924">Michael Riley 0001</author>
+<title>Learning discrete distributions: user vs item-level privacy.</title>
+<year>2020</year>
+<volume>abs/2007.13660</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.13660</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-13660</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-07447" mdate="2020-10-20">
+<author pid="72/11338">Michal Lukasik</author>
+<author pid="82/185">Himanshu Jain</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="74/7997">Seungyeon Kim</author>
+<author pid="131/6700">Srinadh Bhojanapalli</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Semantic Label Smoothing for Sequence to Sequence Problems.</title>
+<year>2020</year>
+<volume>abs/2010.07447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.07447</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-07447</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-00363" mdate="2020-12-04">
+<author pid="59/10522">Chen Zhu</author>
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="40/10701">Manzil Zaheer</author>
+<author pid="131/6700">Srinadh Bhojanapalli</author>
+<author pid="203/6136">Daliang Li</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Modifying Memories in Transformer Models.</title>
+<year>2020</year>
+<volume>abs/2012.00363</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.00363</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-00363</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/ReddiKYHCK19" mdate="2019-06-07">
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="52/4768">Satyen Kale</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="200/7863">Daniel Niels Holtmann-Rice</author>
+<author pid="151/6467">Jiecao Chen</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Stochastic Negative Mining for Learning with Large Output Spaces.</title>
+<pages>1940-1949</pages>
+<year>2019</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v89/reddi19a.html</ee>
+<crossref>conf/aistats/2019</crossref>
+<url>db/conf/aistats/aistats2019.html#ReddiKYHCK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/WuDSYHSRK19" mdate="2019-06-11">
+<author pid="12/2506">Shanshan Wu</author>
+<author pid="19/5000">Alex Dimakis</author>
+<author pid="69/4911">Sujay Sanghavi</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="200/7863">Daniel Niels Holtmann-Rice</author>
+<author pid="168/8434">Dmitry Storcheus</author>
+<author pid="97/4479">Afshin Rostamizadeh</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling.</title>
+<pages>6828-6839</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WuDSYHSRK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RawatCYSK19" mdate="2021-01-21">
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="151/6467">Jiecao Chen</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Sampled Softmax with Random Fourier Features.</title>
+<pages>13834-13844</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/e43739bba7cdb577e9e3e4e42447f5a5-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9535-sampled-softmax-with-random-fourier-features</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#RawatCYSK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-10747" mdate="2019-08-01">
+<author pid="69/8761">Ankit Singh Rawat</author>
+<author pid="151/6467">Jiecao Chen</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Sampled Softmax with Random Fourier Features.</title>
+<year>2019</year>
+<volume>abs/1907.10747</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.10747</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-10747</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-07643" mdate="2019-08-26">
+<author pid="137/0163">Venkatadheeraj Pichapati</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>AdaCliP: Adaptive Clipping for Private SGD.</title>
+<year>2019</year>
+<volume>abs/1908.07643</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.07643</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-07643</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/YenKYHKR18" mdate="2019-04-03">
+<author pid="134/4013">Ian En-Hsu Yen</author>
+<author pid="52/4768">Satyen Kale</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="200/7863">Daniel Niels Holtmann-Rice</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="94/3594">Pradeep Ravikumar</author>
+<title>Loss Decomposition for Fast Learning in Large Output Spaces.</title>
+<pages>5626-5635</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/yen18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#YenKYHKR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AgarwalSYKM18" mdate="2021-01-21">
+<author pid="72/3910">Naman Agarwal</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">Brendan McMahan</author>
+<title>cpSGD: Communication-efficient and differentially-private distributed SGD.</title>
+<pages>7575-7586</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/21ce689121e39821d07d04faab328370-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7984-cpsgd-communication-efficient-and-differentially-private-distributed-sgd</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#AgarwalSYKM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-10559" mdate="2018-08-13">
+<author pid="72/3910">Naman Agarwal</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>cpSGD: Communication-efficient and differentially-private distributed SGD.</title>
+<year>2018</year>
+<volume>abs/1805.10559</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.10559</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-10559</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-10175" mdate="2018-08-13">
+<author pid="12/2506">Shanshan Wu</author>
+<author pid="19/5000">Alexandros G. Dimakis</author>
+<author pid="69/4911">Sujay Sanghavi</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="200/7863">Daniel Niels Holtmann-Rice</author>
+<author pid="168/8434">Dmitry Storcheus</author>
+<author pid="97/4479">Afshin Rostamizadeh</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>The Sparse Recovery Autoencoder.</title>
+<year>2018</year>
+<volume>abs/1806.10175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.10175</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-10175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-04157" mdate="2019-03-26">
+<author pid="98/5660-22">Xu Zhang 0022</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="79/8317">Svebor Karaman</author>
+<author pid="10/4661">Wei Zhang</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Heated-Up Softmax Embedding.</title>
+<year>2018</year>
+<volume>abs/1809.04157</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.04157</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-04157</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-07076" mdate="2018-10-30">
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="52/4768">Satyen Kale</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="200/7863">Daniel N. Holtmann-Rice</author>
+<author pid="151/6467">Jiecao Chen</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Stochastic Negative Mining for Learning with Large Output Spaces.</title>
+<year>2018</year>
+<volume>abs/1810.07076</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.07076</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-07076</url>
+</article>
+</r>
+<r><article key="journals/jmlr/YuBKGC17" mdate="2019-07-10">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="47/7801">Aditya Bhaskara</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="g/YunchaoGong">Yunchao Gong</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>On Binary Embedding using Circulant Matrices.</title>
+<pages>150:1-150:30</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v18/15-619.html</ee>
+<url>db/journals/jmlr/jmlr18.html#YuBKGC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/asru/KumarNHLSY17" mdate="2018-01-30">
+<author pid="37/3396">Shankar Kumar</author>
+<author pid="210/2204">Michael Nirschl</author>
+<author pid="200/7863">Daniel Niels Holtmann-Rice</author>
+<author pid="31/8056">Hank Liao</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<title>Lattice rescoring strategies for long short term memory language models in speech recognition.</title>
+<pages>165-172</pages>
+<year>2017</year>
+<booktitle>ASRU</booktitle>
+<ee>https://doi.org/10.1109/ASRU.2017.8268931</ee>
+<crossref>conf/asru/2017</crossref>
+<url>db/conf/asru/asru2017.html#KumarNHLSY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhangYKC17" mdate="2019-03-26">
+<author pid="98/5660-22">Xu Zhang 0022</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="79/8317">Svebor Karaman</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Learning Discriminative and Transformation Covariant Local Feature Detectors.</title>
+<pages>4923-4931</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.523</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2017.523</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#ZhangYKC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ZhangYKC17" mdate="2019-03-26">
+<author pid="98/5660-22">Xu Zhang 0022</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Learning Spread-Out Local Feature Descriptors.</title>
+<pages>4605-4613</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2017.492</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2017.492</ee>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#ZhangYKC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SureshYKM17" mdate="2019-04-03">
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Distributed Mean Estimation with Limited Communication.</title>
+<pages>3329-3337</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/suresh17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SureshYKM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/WuGSKHSY17" mdate="2021-01-21">
+<author pid="81/6077">Xiang Wu</author>
+<author pid="78/7198">Ruiqi Guo</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="200/7863">Daniel N. Holtmann-Rice</author>
+<author pid="166/6571">David Simcha</author>
+<author pid="23/10574">Felix X. Yu</author>
+<title>Multiscale Quantization for Fast Similarity Search.</title>
+<pages>5745-5755</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/b6617980ce90f637e68c3ebe8b9be745-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7157-multiscale-quantization-for-fast-similarity-search</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#WuGSKHSY17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-06320" mdate="2019-03-26">
+<author pid="98/5660-22">Xu Zhang 0022</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Learning Spread-out Local Feature Descriptors.</title>
+<year>2017</year>
+<volume>abs/1708.06320</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.06320</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-06320</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-05448" mdate="2018-08-13">
+<author pid="37/3396">Shankar Kumar</author>
+<author pid="210/2204">Michael Nirschl</author>
+<author pid="200/7863">Daniel N. Holtmann-Rice</author>
+<author pid="31/8056">Hank Liao</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<title>Lattice Rescoring Strategies for Long Short Term Memory Language Models in Speech Recognition.</title>
+<year>2017</year>
+<volume>abs/1711.05448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.05448</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-05448</url>
+</article>
+</r>
+<r><inproceedings key="conf/mm/GongJYC16" mdate="2018-11-06">
+<author pid="150/6437">Bingchen Gong</author>
+<author pid="120/8567">Brendan Jou</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Tamp: A Library for Compact Deep Neural Networks with Structured Matrices.</title>
+<pages>1206-1209</pages>
+<year>2016</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2964284.2973802</ee>
+<crossref>conf/mm/2016</crossref>
+<url>db/conf/mm/mm2016.html#GongJYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/YuSCHK16" mdate="2021-01-21">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="78/11411">Krzysztof Marcin Choromanski</author>
+<author pid="200/7863">Daniel N. Holtmann-Rice</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Orthogonal Random Features.</title>
+<pages>1975-1983</pages>
+<year>2016</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2016/hash/53adaf494dc89ef7196d73636eb2451b-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6246-orthogonal-random-features</ee>
+<crossref>conf/nips/2016</crossref>
+<url>db/conf/nips/nips2016.html#YuSCHK16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KonecnyMYRSB16" mdate="2018-08-13">
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="62/8001">Peter Richt&#225;rik</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="37/2931">Dave Bacon</author>
+<title>Federated Learning: Strategies for Improving Communication Efficiency.</title>
+<year>2016</year>
+<volume>abs/1610.05492</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.05492</ee>
+<url>db/journals/corr/corr1610.html#KonecnyMYRSB16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuSCHK16" mdate="2018-08-13">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="78/11411">Krzysztof Choromanski</author>
+<author pid="200/7863">Daniel N. Holtmann-Rice</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Orthogonal Random Features.</title>
+<year>2016</year>
+<volume>abs/1610.09072</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.09072</ee>
+<url>db/journals/corr/corr1610.html#YuSCHK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SureshYMK16" mdate="2018-08-13">
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Distributed Mean Estimation with Limited Communication.</title>
+<year>2016</year>
+<volume>abs/1611.00429</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.00429</ee>
+<url>db/journals/corr/corr1611.html#SureshYMK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/ChengYFKCC15" mdate="2018-01-08">
+<author pid="96/3060-1">Yu Cheng 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="f/RogerioSchmidtFeris">Rog&#233;rio Schmidt Feris</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="c/AlokNChoudhary">Alok N. Choudhary</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections.</title>
+<pages>2857-2865</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.327</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.327</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#ChengYFKCC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ZhangYGKWC15" mdate="2019-03-26">
+<author pid="98/5660-22">Xu Zhang 0022</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="78/7198">Ruiqi Guo</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="38/2763">Shengjin Wang</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Fast Orthogonal Projection Based on Kronecker Product.</title>
+<pages>2929-2937</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.335</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.335</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#ZhangYGKWC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/PenningtonYK15" mdate="2021-01-21">
+<author pid="57/10489">Jeffrey Pennington</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Spherical Random Features for Polynomial Kernels.</title>
+<pages>1846-1854</pages>
+<year>2015</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2015/hash/f7f580e11d00a75814d2ded41fe8e8fe-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5943-spherical-random-features-for-polynomial-kernels</ee>
+<crossref>conf/nips/2015</crossref>
+<url>db/conf/nips/nips2015.html#PenningtonYK15</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/15/YuGK15" mdate="2017-05-16">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="g/YunchaoGong">Yunchao Gong</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Fast Binary Embedding for High-Dimensional Data.</title>
+<pages>347-371</pages>
+<year>2015</year>
+<booktitle>Multimedia Data Mining and Analytics</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14998-1_16</ee>
+<crossref>books/sp/BGPP2015</crossref>
+<url>db/books/collections/BGPP2015.html#YuGK15</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/ChengYFKCC15" mdate="2018-08-13">
+<author pid="96/3060-1">Yu Cheng 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="f/RogerioSchmidtFeris">Rog&#233;rio Schmidt Feris</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="c/AlokNChoudhary">Alok N. Choudhary</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Fast Neural Networks with Circulant Projections.</title>
+<year>2015</year>
+<volume>abs/1502.03436</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.03436</ee>
+<url>db/journals/corr/corr1502.html#ChengYFKCC15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangYCW15" mdate="2019-03-26">
+<author pid="98/5660-22">Xu Zhang 0022</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<author pid="38/2763">Shengjin Wang</author>
+<title>Deep Transfer Network: Unsupervised Domain Adaptation.</title>
+<year>2015</year>
+<volume>abs/1503.00591</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.00591</ee>
+<url>db/journals/corr/corr1503.html#ZhangYCW15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuKRC15" mdate="2018-08-13">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="59/3125">Henry A. Rowley</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Compact Nonlinear Maps and Circulant Extensions.</title>
+<year>2015</year>
+<volume>abs/1503.03893</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.03893</ee>
+<url>db/journals/corr/corr1503.html#YuKRC15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuBKGC15" mdate="2018-08-13">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="47/7801">Aditya Bhaskara</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="g/YunchaoGong">Yunchao Gong</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>On Binary Embedding using Circulant Matrices.</title>
+<year>2015</year>
+<volume>abs/1511.06480</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.06480</ee>
+<url>db/journals/corr/corr1511.html#YuBKGC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LaiYCC14" mdate="2017-06-02">
+<author pid="48/4678">Kuan-Ting Lai</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author orcid="0000-0002-0711-8197" pid="c/MingSyanChen">Ming-Syan Chen</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Video Event Detection by Inferring Temporal Instance Labels.</title>
+<pages>2251-2258</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.288</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2014.288</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#LaiYCC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/YuKGC14" mdate="2019-05-29">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="g/YunchaoGong">Yunchao Gong</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Circulant Binary Embedding.</title>
+<pages>946-954</pages>
+<year>2014</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v32/yub14.html</ee>
+<crossref>conf/icml/2014</crossref>
+<url>db/conf/icml/icml2014.html#YuKGC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mir/BhattacharyaYC14" mdate="2018-11-06">
+<author pid="17/6622">Subhabrata Bhattacharya</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Minimally Needed Evidence for Complex Event Recognition in Unconstrained Videos.</title>
+<pages>105</pages>
+<year>2014</year>
+<booktitle>ICMR</booktitle>
+<ee>https://doi.org/10.1145/2578726.2578740</ee>
+<crossref>conf/mir/2014</crossref>
+<url>db/conf/mir/icmr2014.html#BhattacharyaYC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/ChenYCCCC14" mdate="2018-11-06">
+<author pid="69/510">Tao Chen</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="03/1390">Jiawei Chen</author>
+<author pid="47/8023">Yin Cui</author>
+<author pid="66/9376">Yan-Ying Chen</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Object-Based Visual Sentiment Concept Analysis and Application.</title>
+<pages>367-376</pages>
+<year>2014</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2647868.2654935</ee>
+<crossref>conf/mm/2014</crossref>
+<url>db/conf/mm/mm2014.html#ChenYCCCC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/YuCMCCSC14" mdate="2021-04-09">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="95/6915">Liangliang Cao</author>
+<author orcid="0000-0002-4358-8671" pid="64/614">Michele Merler</author>
+<author pid="172/1174">Noel C. F. Codella</author>
+<author pid="69/510">Tao Chen</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Modeling Attributes from Category-Attribute Proportions.</title>
+<pages>977-980</pages>
+<year>2014</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2647868.2654993</ee>
+<crossref>conf/mm/2014</crossref>
+<url>db/conf/mm/mm2014.html#YuCMCCSC14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YuKJC14" mdate="2018-08-13">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="43/4734">Tony Jebara</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>On Learning with Label Proportions.</title>
+<year>2014</year>
+<volume>abs/1402.5902</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.5902</ee>
+<url>db/journals/corr/corr1402.html#YuKJC14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuKGC14" mdate="2018-08-13">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="g/YunchaoGong">Yunchao Gong</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Circulant Binary Embedding.</title>
+<year>2014</year>
+<volume>abs/1405.3162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.3162</ee>
+<url>db/journals/corr/corr1405.html#YuKGC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/YuCFSC13" mdate="2017-05-25">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="95/6915">Liangliang Cao</author>
+<author pid="f/RogerioSchmidtFeris">Rog&#233;rio Schmidt Feris</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Designing Category-Level Attributes for Discriminative Visual Recognition.</title>
+<pages>771-778</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.105</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.105</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#YuCFSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/YuLKJC13" mdate="2019-05-29">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="98/1737-1">Dong Liu 0001</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="43/4734">Tony Jebara</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>\(\propto\)SVM for Learning with Label Proportions.</title>
+<pages>504-512</pages>
+<year>2013</year>
+<booktitle>ICML (3)</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v28/yu13a.html</ee>
+<crossref>conf/icml/2013</crossref>
+<url>db/conf/icml/icml2013.html#YuLKJC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/BrownCC0CCCEFFG13" mdate="2020-04-07">
+<author pid="b/LisaMGBrown">Lisa M. Brown</author>
+<author pid="95/6915">Liangliang Cao</author>
+<author pid="79/6415">Chih-Fu Chang</author>
+<author pid="96/3060-1">Yu Cheng 0001</author>
+<author pid="c/AlokNChoudhary">Alok N. Choudhary</author>
+<author pid="172/1174">Noel Codella</author>
+<author pid="55/7455">Courtenay V. Cotton</author>
+<author pid="95/6225">Dan Ellis</author>
+<author pid="66/3950">Quanfu Fan</author>
+<author pid="f/RogerioSchmidtFeris">Rog&#233;rio Schmidt Feris</author>
+<author pid="27/2632">Leiguang Gong</author>
+<author pid="96/8692">Matthew L. Hill</author>
+<author pid="75/5209">Gang Hua 0001</author>
+<author pid="l/JohnRKender">John R. Kender</author>
+<author pid="64/614">Michele Merler</author>
+<author pid="55/1817">Yadong Mu</author>
+<author pid="25/4130">Sharath Pankanti</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="23/10574">Felix X. Yu</author>
+<title>IBM Research and Columbia University TRECVID-2013 Multimedia Event Detection (MED), Multimedia Event Recounting (MER), Surveillance Event Detection (SED), and Semantic Indexing (SIN) Systems.</title>
+<year>2013</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv13.papers/ibm.pdf</ee>
+<crossref>conf/trecvid/2013</crossref>
+<url>db/conf/trecvid/trecvid2013.html#BrownCC0CCCEFFG13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YuLKJC13" mdate="2018-08-13">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="98/1737-1">Dong Liu 0001</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="43/4734">Tony Jebara</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>$\propto$SVM for learning with label proportions.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.0886</ee>
+<volume>abs/1306.0886</volume>
+<url>db/journals/corr/corr1306.html#YuLKJC13</url>
+</article>
+</r>
+<r><article key="journals/tomccap/JiYZC12" mdate="2020-05-15">
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="48/10574">Tongtao Zhang</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Active query sensing: Suggesting the best query view for mobile visual search.</title>
+<pages>40:1-40:21</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>ACM Trans. Multim. Comput. Commun. Appl.</journal>
+<number>S3</number>
+<ee>https://doi.org/10.1145/2348816.2348819</ee>
+<url>db/journals/tomccap/tomccap8.html#JiYZC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/YuJTYC12" mdate="2017-05-25">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="02/10069">Ming-Hen Tsai</author>
+<author pid="20/9998">Guangnan Ye</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Weak attributes for large-scale image retrieval.</title>
+<pages>2949-2956</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6248023</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6248023</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#YuJTYC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/CaoCCCEGH0KMMSY12" mdate="2020-04-05">
+<author pid="95/6915">Liangliang Cao</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<author pid="172/1174">Noel Codella</author>
+<author pid="55/7455">Courtenay V. Cotton</author>
+<author pid="95/6225">Dan Ellis</author>
+<author pid="27/2632">Leiguang Gong</author>
+<author pid="96/8692">Matthew L. Hill</author>
+<author pid="75/5209">Gang Hua 0001</author>
+<author pid="l/JohnRKender">John R. Kender</author>
+<author pid="64/614">Michele Merler</author>
+<author pid="55/1817">Yadong Mu</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="23/10574">Felix X. Yu</author>
+<title>IBM Research and Columbia University TRECVID-2012 Multimedia Event Detection (MED), Multimedia Event Recounting (MER), and Semantic Indexing (SIN) Systems.</title>
+<year>2012</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv12.papers/ibm.pdf</ee>
+<crossref>conf/trecvid/2012</crossref>
+<url>db/conf/trecvid/trecvid2012.html#CaoCCCEGH0KMMSY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/YuJC11" mdate="2018-11-06">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Active query sensing for mobile location search.</title>
+<pages>3-12</pages>
+<year>2011</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2072298.2072301</ee>
+<crossref>conf/mm/2011</crossref>
+<url>db/conf/mm/mm2011.html#YuJC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/YuJZC11" mdate="2018-11-06">
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="48/10574">Tongtao Zhang</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>A mobile location search system with active query sensing.</title>
+<pages>805-806</pages>
+<year>2011</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2072298.2072468</ee>
+<crossref>conf/mm/2011</crossref>
+<url>db/conf/mm/mm2011.html#YuJZC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/Yu11" mdate="2018-11-06">
+<author pid="23/10574">Felix X. Yu</author>
+<title>Intelligent query formulation for mobile visual search.</title>
+<pages>861-862</pages>
+<year>2011</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2072298.2072494</ee>
+<crossref>conf/mm/2011</crossref>
+<url>db/conf/mm/mm2011.html#Yu11</url>
+</inproceedings>
+</r>
+<coauthors n="146" nc="1">
+<co c="0"><na f="a/Agarwal:Naman" pid="72/3910">Naman Agarwal</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Bacon:Dave" pid="37/2931">Dave Bacon</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bhaskara:Aditya" pid="47/7801">Aditya Bhaskara</na></co>
+<co c="0"><na f="b/Bhattacharya:Subhabrata" pid="17/6622">Subhabrata Bhattacharya</na></co>
+<co c="0"><na f="b/Bhojanapalli:Srinadh" pid="131/6700">Srinadh Bhojanapalli</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="b/Brown:Lisa_M=" pid="b/LisaMGBrown">Lisa M. Brown</na></co>
+<co c="0"><na f="c/Cao:Liangliang" pid="95/6915">Liangliang Cao</na></co>
+<co c="0"><na f="c/Chang:Chih=Fu" pid="79/6415">Chih-Fu Chang</na></co>
+<co c="0"><na f="c/Chang:Shih=Fu" pid="c/ShihFuChang">Shih-Fu Chang</na></co>
+<co c="0"><na f="c/Chang:Wei=Cheng" pid="07/1972">Wei-Cheng Chang</na></co>
+<co c="0"><na f="c/Chang:Yin=Wen" pid="48/9362">Yin-Wen Chang</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0"><na f="c/Chen:Jiawei" pid="03/1390">Jiawei Chen</na></co>
+<co c="0"><na f="c/Chen:Jiecao" pid="151/6467">Jiecao Chen</na></co>
+<co c="0"><na f="c/Chen:Ming=Syan" pid="c/MingSyanChen">Ming-Syan Chen</na></co>
+<co c="0"><na f="c/Chen:Tao" pid="69/510">Tao Chen</na></co>
+<co c="0"><na f="c/Chen:Yan=Ying" pid="66/9376">Yan-Ying Chen</na></co>
+<co c="0"><na f="c/Cheng_0001:Yu" pid="96/3060-1">Yu Cheng 0001</na></co>
+<co c="0" n="2"><na f="c/Cheng_0002:Zhiyuan" pid="58/7211-2">Zhiyuan Cheng 0002</na><na>Derek Zhiyuan Cheng</na></co>
+<co c="0"><na f="c/Chi:Ed_H=" pid="13/310">Ed H. Chi</na></co>
+<co c="0" n="2"><na f="c/Choromanski:Krzysztof" pid="78/11411">Krzysztof Choromanski</na><na>Krzysztof Marcin Choromanski</na></co>
+<co c="0"><na f="c/Choudhary:Alok_N=" pid="c/AlokNChoudhary">Alok N. Choudhary</na></co>
+<co c="0" n="2"><na f="c/Codella:Noel" pid="172/1174">Noel Codella</na><na>Noel C. F. Codella</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Cotton:Courtenay_V=" pid="55/7455">Courtenay V. Cotton</na></co>
+<co c="0"><na f="c/Cui:Yin" pid="47/8023">Yin Cui</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0" n="2"><na f="d/Dimakis:Alexandros_G=" pid="19/5000">Alexandros G. Dimakis</na><na>Alex Dimakis</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0" n="2"><na f="e/Ellis:Daniel_P=_W=" pid="95/6225">Daniel P. W. Ellis</na><na>Dan Ellis</na></co>
+<co c="0"><na f="e/Ettinger:Evan" pid="42/7554">Evan Ettinger</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0"><na f="f/Fan:Quanfu" pid="66/3950">Quanfu Fan</na></co>
+<co c="0"><na f="f/Feris:Rog=eacute=rio_Schmidt" pid="f/RogerioSchmidtFeris">Rog&#233;rio Schmidt Feris</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Gong:Bingchen" pid="150/6437">Bingchen Gong</na></co>
+<co c="0"><na f="g/Gong:Leiguang" pid="27/2632">Leiguang Gong</na></co>
+<co c="0"><na f="g/Gong:Yunchao" pid="g/YunchaoGong">Yunchao Gong</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="g/Guo:Ruiqi" pid="78/7198">Ruiqi Guo</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Hill:Matthew_L=" pid="96/8692">Matthew L. Hill</na></co>
+<co c="0" n="2"><na f="h/Holtmann=Rice:Daniel_Niels" pid="200/7863">Daniel Niels Holtmann-Rice</na><na>Daniel N. Holtmann-Rice</na></co>
+<co c="0"><na f="h/Hong:Lichan" pid="85/4697">Lichan Hong</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Hua_0001:Gang" pid="75/5209">Gang Hua 0001</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Jain:Himanshu" pid="82/185">Himanshu Jain</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="0"><na f="j/Jebara:Tony" pid="43/4734">Tony Jebara</na></co>
+<co c="0"><na f="j/Ji:Rongrong" pid="86/5681">Rongrong Ji</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="j/Jou:Brendan" pid="120/8567">Brendan Jou</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Kale:Satyen" pid="52/4768">Satyen Kale</na></co>
+<co c="0"><na f="k/Kang:Jieqi" pid="144/2775">Jieqi Kang</na></co>
+<co c="0"><na f="k/Karaman:Svebor" pid="79/8317">Svebor Karaman</na></co>
+<co c="0"><na f="k/Kender:John_R=" pid="l/JohnRKender">John R. Kender</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Kim:Seungyeon" pid="74/7997">Seungyeon Kim</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0"><na f="k/Kumar:Sanjiv" pid="66/6804">Sanjiv Kumar</na></co>
+<co c="0"><na f="k/Kumar:Shankar" pid="37/3396">Shankar Kumar</na></co>
+<co c="0"><na f="l/Lai:Kuan=Ting" pid="48/4678">Kuan-Ting Lai</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Li:Daliang" pid="203/6136">Daliang Li</na></co>
+<co c="0"><na f="l/Liao:Hank" pid="31/8056">Hank Liao</na></co>
+<co c="0"><na f="l/Liu_0001:Dong" pid="98/1737-1">Dong Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="l/Liu:Yuhan" pid="125/8141">Yuhan Liu</na></co>
+<co c="0"><na f="l/Lukasik:Michal" pid="72/11338">Michal Lukasik</na></co>
+<co c="0" n="2"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na><na>Brendan McMahan</na></co>
+<co c="0"><na f="m/Menon:Aditya_Krishna" pid="89/3514">Aditya Krishna Menon</na></co>
+<co c="0"><na f="m/Merler:Michele" pid="64/614">Michele Merler</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="m/Mu:Yadong" pid="55/1817">Yadong Mu</na></co>
+<co c="0"><na f="n/Nirschl:Michael" pid="210/2204">Michael Nirschl</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Pankanti:Sharath" pid="25/4130">Sharath Pankanti</na></co>
+<co c="0"><na f="p/Pasumarthi:Rama_Kumar" pid="125/3197">Rama Kumar Pasumarthi</na></co>
+<co c="0"><na f="p/Pennington:Jeffrey" pid="57/10489">Jeffrey Pennington</na></co>
+<co c="0"><na f="p/Pichapati:Venkatadheeraj" pid="137/0163">Venkatadheeraj Pichapati</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Ravikumar:Pradeep" pid="94/3594">Pradeep Ravikumar</na></co>
+<co c="0"><na f="r/Rawat:Ankit_Singh" pid="69/8761">Ankit Singh Rawat</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/Reddi:Sashank_J=" pid="50/10452">Sashank J. Reddi</na></co>
+<co c="0"><na f="r/Richt=aacute=rik:Peter" pid="62/8001">Peter Richt&#225;rik</na></co>
+<co c="0"><na f="r/Riley_0001:Michael" pid="73/924">Michael Riley 0001</na></co>
+<co c="0"><na f="r/Rostamizadeh:Afshin" pid="97/4479">Afshin Rostamizadeh</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="r/Rowley:Henry_A=" pid="59/3125">Henry A. Rowley</na></co>
+<co c="0"><na f="s/Sanghavi:Sujay" pid="69/4911">Sujay Sanghavi</na></co>
+<co c="0"><na f="s/Simcha:David" pid="166/6571">David Simcha</na></co>
+<co c="0"><na f="s/Smith:John_R=" pid="s/JohnRSmith">John R. Smith</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/Storcheus:Dmitry" pid="168/8434">Dmitry Storcheus</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="t/Tjoa:Steve" pid="271/0079">Steve Tjoa</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="t/Tsai:Ming=Hen" pid="02/10069">Ming-Hen Tsai</na></co>
+<co c="0"><na f="v/Veit:Andreas" pid="133/1801">Andreas Veit</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wang:Shengjin" pid="38/2763">Shengjin Wang</na></co>
+<co c="0"><na f="w/Wu:Shanshan" pid="12/2506">Shanshan Wu</na></co>
+<co c="0"><na f="w/Wu:Xiang" pid="81/6077">Xiang Wu</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Yiming" pid="25/1666">Yiming Yang</na></co>
+<co c="0"><na f="y/Yao:Tiansheng" pid="10/9922">Tiansheng Yao</na></co>
+<co c="0"><na f="y/Ye:Guangnan" pid="20/9998">Guangnan Ye</na></co>
+<co c="0"><na f="y/Yen:Ian_En=Hsu" pid="134/4013">Ian En-Hsu Yen</na></co>
+<co c="0"><na f="y/Yi:Xinyang" pid="139/1029">Xinyang Yi</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="z/Zaheer:Manzil" pid="40/10701">Manzil Zaheer</na></co>
+<co c="0"><na f="z/Zhang:Tongtao" pid="48/10574">Tongtao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wei" pid="10/4661">Wei Zhang</na></co>
+<co c="0"><na f="z/Zhang_0022:Xu" pid="98/5660-22">Xu Zhang 0022</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+<co c="0"><na f="z/Zhu:Chen" pid="59/10522">Chen Zhu</na></co>
+</coauthors>
+</dblpperson>
+

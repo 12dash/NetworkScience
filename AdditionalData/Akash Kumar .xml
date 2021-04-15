@@ -1,3 +1,3125 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff840663f7b962201ace34d604e06576d3e6244ed42b85dc875f9a7219754f89
-size 146383
+<?xml version="1.0"?>
+<dblpperson name="Akash Kumar 0001" pid="29/414" n="186">
+<person key="homepages/29/414" mdate="2018-12-10">
+<author pid="29/414">Akash Kumar 0001</author>
+<note type="affiliation">TU Dresden, Germany</note>
+<note type="affiliation" label="former">National University of Singapore</note>
+<url>http://www.akashkumar.net/</url>
+<url>https://www.cfaed.tu-dresden.de/pd-staff</url>
+<url>http://www.ece.nus.edu.sg/stfpage/eleak/</url>
+<url>https://orcid.org/0000-0001-7125-1737</url>
+<url>https://www.wikidata.org/entity/Q57768252</url>
+</person>
+<homonyms n="6">
+<h f="k/Kumar:Akash"><name>Akash Kumar</name>
+</h>
+<h f="k/Kumar_0002:Akash"><person key="homepages/140/9567" mdate="2016-07-10">
+<author pid="140/9567">Akash Kumar 0002</author>
+<note type="affiliation">Yahoo!</note>
+</person>
+</h>
+<h f="k/Kumar_0003:Akash"><person key="homepages/140/9567-3" mdate="2016-07-10">
+<author pid="140/9567-3">Akash Kumar 0003</author>
+<note type="affiliation">Purdue University, IN, USA</note>
+</person>
+</h>
+<h f="k/Kumar_0004:Akash"><person key="homepages/225/5375" mdate="2021-01-25">
+<author pid="225/5375">Akash Kumar 0004</author>
+<note type="affiliation">Indian Institute of Technology Mandi, India</note>
+<note label="until 2019" type="affiliation">Delhi Technological University, New Delhi, India</note>
+<url>https://akash2907.github.io/</url>
+<url>https://orcid.org/0000-0002-0441-7853</url>
+</person>
+</h>
+<h f="k/Kumar_0005:Akash"><person key="homepages/285/4431" mdate="2021-02-22">
+<author pid="285/4431">Akash Kumar 0005</author>
+<note type="affiliation">Indian Institute of Technology Indore, Department of Mathematics, India</note>
+</person>
+</h>
+<h f="k/Kumar_0006:Akash"><person key="homepages/226/3796-6" mdate="2021-01-12">
+<author pid="226/3796-6">Akash Kumar 0006</author>
+<note type="affiliation">Max Planck Institute for Software Systems (MPI-SWS), Saarbr&#252;cken, Germany</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/tc/UllahSSRK21" mdate="2021-04-09">
+<author pid="218/1191">Salim Ullah</author>
+<author pid="285/5114">Hendrik Schmidl</author>
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="39/10300">Semeen Rehman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Area-Optimized Accurate and Approximate Softcore Signed Multiplier Architectures.</title>
+<pages>384-392</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TC.2020.2988404</ee>
+<url>db/journals/tc/tc70.html#UllahSSRK21</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/ParraG021" mdate="2021-02-09">
+<author pid="268/2353">Cecilia De la Parra</author>
+<author pid="95/6393">Andre Guntoro</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Efficient Accuracy Recovery in Approximate Neural Networks by Systematic Error Modelling.</title>
+<pages>365-371</pages>
+<year>2021</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3394885.3431533</ee>
+<crossref>conf/aspdac/2021</crossref>
+<url>db/conf/aspdac/aspdac2021.html#ParraG021</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/RaitzaMTHKBK20" mdate="2020-07-15">
+<author orcid="0000-0003-2370-4054" pid="121/1652">Michael Raitza</author>
+<author pid="69/10395">Steffen M&#228;rcker</author>
+<author pid="144/4668">Jens Trommer</author>
+<author pid="144/4719">Andre Heinzig</author>
+<author pid="50/2079">Sascha Kl&#252;ppelholz</author>
+<author pid="b/ChristelBaier">Christel Baier</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Quantitative Characterization of Reconfigurable Transistor Logic Gates.</title>
+<pages>112598-112614</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3001352</ee>
+<url>db/journals/access/access8.html#RaitzaMTHKBK20</url>
+</article>
+</r>
+<r><article key="journals/access/GuptaUAT020" mdate="2020-08-06">
+<author orcid="0000-0001-5836-2125" pid="45/7178-4">Siddharth Gupta 0004</author>
+<author orcid="0000-0002-9774-9522" pid="218/1191">Salim Ullah</author>
+<author orcid="0000-0001-9640-4437" pid="77/1128">Kapil Ahuja</author>
+<author pid="07/3137">Aruna Tiwari</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>ALigN: A Highly Accurate Adaptive Layerwise Log_2_Lead Quantization of Pre-Trained Neural Networks.</title>
+<pages>118899-118911</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3005286</ee>
+<url>db/journals/access/access8.html#GuptaUAT020</url>
+</article>
+</r>
+<r><article key="journals/access/RanjbarSEK20" mdate="2020-12-01">
+<author orcid="0000-0001-7944-7101" pid="251/4343">Behnaz Ranjbar</author>
+<author orcid="0000-0001-9504-8637" pid="239/8712">Bardia Safaei</author>
+<author orcid="0000-0002-5661-3629" pid="e/AlirezaEjlali">Alireza Ejlali</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>FANTOM: Fault Tolerant Task-Drop Aware Scheduling for Mixed-Criticality Systems.</title>
+<pages>187232-187248</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3031039</ee>
+<url>db/journals/access/access8.html#RanjbarSEK20</url>
+</article>
+</r>
+<r><article key="journals/fgcs/ParraGK20" mdate="2020-09-19">
+<author orcid="0000-0002-1463-6822" pid="268/2353">Cecilia De la Parra</author>
+<author pid="95/6393">Andre Guntoro</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Improving approximate neural networks for perception tasks through specialized optimization.</title>
+<pages>597-606</pages>
+<year>2020</year>
+<volume>113</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2020.07.031</ee>
+<url>db/journals/fgcs/fgcs113.html#ParraGK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/EbrahimiU020" mdate="2020-03-30">
+<author pid="153/0637">Zahra Ebrahimi</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>LeAp: Leading-one Detection-based Softcore Approximate Multipliers with Tunable Accuracy.</title>
+<pages>605-610</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045171</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#EbrahimiU020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SahooV020" mdate="2020-12-29">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>CL(R)Early: An Early-stage DSE Methodology for Cross-Layer Reliability-aware Heterogeneous Embedded Systems.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218747</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#SahooV020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/RaiRS020" mdate="2020-12-29">
+<author pid="218/1119">Shubham Rai</author>
+<author pid="121/1652">Michael Raitza</author>
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>DiSCERN: Distilling Standard-Cells for Emerging Reconfigurable Nanotechnologies.</title>
+<pages>674-677</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116216</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#RaiRS020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/UllahGAT020" mdate="2021-04-09">
+<author pid="218/1191">Salim Ullah</author>
+<author pid="45/7178-4">Siddharth Gupta 0004</author>
+<author orcid="0000-0001-9640-4437" pid="77/1128">Kapil Ahuja</author>
+<author pid="07/3137">Aruna Tiwari</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>L2L: A Highly Accurate Log_2_Lead Quantization of Pre-trained Neural Networks.</title>
+<pages>979-982</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116373</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#UllahGAT020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ParraGK20" mdate="2020-10-25">
+<author orcid="0000-0002-1463-6822" pid="268/2353">Cecilia De la Parra</author>
+<author pid="95/6393">Andre Guntoro</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>ProxSim: GPU-based Simulation Framework for Cross-Layer Approximate DNN Optimization.</title>
+<pages>1193-1198</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116476</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#ParraGK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/SahooV020" mdate="2020-12-29">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Markov Chain-based Modeling and Analysis of Checkpointing with Rollback Recovery for Efficient DSE in Soft Real-time Systems.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT50435.2020.9250892</ee>
+<crossref>conf/dft/2020</crossref>
+<url>db/conf/dft/dft2020.html#SahooV020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/PanickerKJ20" mdate="2021-04-09">
+<author pid="277/9493">Rajesh C. Panicker</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-6139-1100" pid="04/8123">Deepu John</author>
+<title>Introducing FPGA-based Machine Learning on the Edge to Undergraduate Students.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE44824.2020.9274007</ee>
+<crossref>conf/fie/2020</crossref>
+<url>db/conf/fie/fie2020.html#PanickerKJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/Nguyen020" mdate="2020-03-04">
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Maximizing the Serviceability of Partially Reconfigurable FPGA Systems in Multi-tenant Environment.</title>
+<pages>29-39</pages>
+<year>2020</year>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/3373087.3375305</ee>
+<crossref>conf/fpga/2020</crossref>
+<url>db/conf/fpga/fpga2020.html#Nguyen020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/EbrahimiU020" mdate="2021-03-10">
+<author pid="153/0637">Zahra Ebrahimi</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>SIMDive: Approximate SIMD Soft Multiplier-Divider for FPGAs with Tunable Accuracy.</title>
+<pages>151-156</pages>
+<year>2020</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3386263.3406907</ee>
+<crossref>conf/glvlsi/2020</crossref>
+<url>db/conf/glvlsi/glvlsi2020.html#EbrahimiU020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/JohnU0CJ20" mdate="2021-04-09">
+<author pid="173/4379">Arlene John</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="182/7346">Barry Cardiff</author>
+<author orcid="0000-0002-6139-1100" pid="04/8123">Deepu John</author>
+<title>An Approximate Binary Classifier for Data Integrity Assessment in IoT Sensors.</title>
+<pages>1-4</pages>
+<year>2020</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS49266.2020.9294859</ee>
+<crossref>conf/icecsys/2020</crossref>
+<url>db/conf/icecsys/icecsys2020.html#JohnU0CJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ParraG020" mdate="2021-01-18">
+<author pid="268/2353">Cecilia De la Parra</author>
+<author pid="95/6393">Andre Guntoro</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Full Approximation of Deep Neural Networks through Efficient Optimization.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS45731.2020.9181236</ee>
+<crossref>conf/iscas/2020</crossref>
+<url>db/conf/iscas/iscas2020.html#ParraG020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/PotluriA020" mdate="2020-07-22">
+<author pid="93/9978">Seetal Potluri</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>SeqL: Secure Scan-Locking for IP Protection.</title>
+<pages>7-13</pages>
+<year>2020</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED48828.2020.9136991</ee>
+<crossref>conf/isqed/2020</crossref>
+<url>db/conf/isqed/isqed2020.html#PotluriA020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/RautRV020" mdate="2020-08-12">
+<author pid="247/3715">Gopal Raut</author>
+<author pid="218/1119">Shubham Rai</author>
+<author pid="57/11307">Santosh Kumar Vishvakarma</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>A CORDIC Based Configurable Activation Function for ANN Applications.</title>
+<pages>78-83</pages>
+<year>2020</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI49217.2020.00024</ee>
+<crossref>conf/isvlsi/2020</crossref>
+<url>db/conf/isvlsi/isvlsi2020.html#RautRV020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/meco/CordaVA0JC20" mdate="2020-08-20">
+<author pid="228/2481">Stefano Corda</author>
+<author pid="192/1305">Bram Veenboer</author>
+<author pid="04/8978">Ahsan Javed Awan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="56/9361">Roel Jordans</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Near Memory Acceleration on High Resolution Radio Astronomy Imaging.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<crossref>conf/meco/2020</crossref>
+<booktitle>MECO</booktitle>
+<ee>https://doi.org/10.1109/MECO49872.2020.9134089</ee>
+<url>db/conf/meco/meco2020.html#CordaVA0JC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-04098" mdate="2020-05-14">
+<author pid="228/2481">Stefano Corda</author>
+<author pid="192/1305">Bram Veenboer</author>
+<author pid="04/8978">Ahsan Javed Awan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="56/9361">Roel Jordans</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Near Memory Acceleration on High Resolution Radio Astronomy Imaging.</title>
+<year>2020</year>
+<volume>abs/2005.04098</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.04098</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-04098</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-13032" mdate="2020-05-28">
+<author pid="93/9978">Seetal Potluri</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>SeqL: Secure Scan-Locking for IP Protection.</title>
+<year>2020</year>
+<volume>abs/2005.13032</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.13032</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-13032</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-11893" mdate="2020-10-27">
+<author pid="29/10123">Rohit Agrawal</author>
+<author pid="77/1128">Kapil Ahuja</author>
+<author pid="277/1469">Dhaarna Maheshwari</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>ParaLarH: Parallel FPGA Router based upon Lagrange Heuristics.</title>
+<year>2020</year>
+<volume>abs/2010.11893</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.11893</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-11893</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12869" mdate="2020-11-02">
+<author pid="277/5119">Suresh Nambi</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="277/5288">Aditya Lohana</author>
+<author pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>ExPAN(N)D: Exploring Posits for Efficient Artificial Neural Network Design in FPGA-based Systems.</title>
+<year>2020</year>
+<volume>abs/2010.12869</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12869</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12869</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-01148" mdate="2020-11-06">
+<author pid="153/0637">Zahra Ebrahimi</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>SIMDive: Approximate SIMD Soft Multiplier-Divider for FPGAs with Tunable Accuracy.</title>
+<year>2020</year>
+<volume>abs/2011.01148</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.01148</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-01148</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-03262" mdate="2020-11-12">
+<author pid="251/4343">Behnaz Ranjbar</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="e/AlirezaEjlali">Alireza Ejlali</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Power-Aware Run-Time Scheduler for Mixed-Criticality Systems on Multi-Core Platform.</title>
+<year>2020</year>
+<volume>abs/2011.03262</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.03262</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-03262</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-02530" mdate="2020-12-10">
+<author pid="218/1119">Shubham Rai</author>
+<author pid="188/8998">Walter Lau Neto</author>
+<author pid="240/0894">Yukio Miyasaka</author>
+<author pid="280/3389">Xinpei Zhang</author>
+<author pid="280/0391">Mingfei Yu</author>
+<author pid="280/3164">Qingyang Yi</author>
+<author pid="56/1768">Masahiro Fujita</author>
+<author pid="280/3786">Guilherme B. Manske</author>
+<author pid="234/1454">Matheus F. Pontes</author>
+<author pid="16/5173">Leomar S. da Rosa Jr.</author>
+<author pid="02/284">Marilton S. de Aguiar</author>
+<author pid="93/5285">Paulo F. Butzen</author>
+<author pid="258/6304">Po-Chun Chien</author>
+<author pid="116/1189">Yu-Shan Huang</author>
+<author pid="280/3160">Hoa-Ren Wang</author>
+<author pid="13/2622">Jie-Hong R. Jiang</author>
+<author pid="147/1190">Jiaqi Gu</author>
+<author pid="75/6680">Zheng Zhao</author>
+<author pid="258/6469">Zixuan Jiang</author>
+<author pid="p/DavidZhigangPan">David Z. Pan</author>
+<author pid="210/1357">Brunno A. Abreu</author>
+<author pid="280/3386">Isac de Souza Campos</author>
+<author pid="249/8820">Augusto Andre Souza Berndt</author>
+<author pid="38/1116">Cristina Meinhardt</author>
+<author pid="280/3474">Jonata T. Carvalho</author>
+<author pid="29/9850">Mateus Grellert</author>
+<author pid="84/5693">Sergio Bampi</author>
+<author pid="277/5288">Aditya Lohana</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="80/1961-15">Wei Zeng 0015</author>
+<author pid="67/2433">Azadeh Davoodi</author>
+<author pid="75/6468">Rasit Onur Topaloglu</author>
+<author pid="40/7018">Yuan Zhou</author>
+<author pid="230/4364">Jordan Dotzel</author>
+<author pid="86/7054">Yichi Zhang</author>
+<author pid="152/4299">Hanyu Wang</author>
+<author pid="81/4227">Zhiru Zhang</author>
+<author pid="09/11301">Valerio Tenace</author>
+<author pid="48/9513">Pierre-Emmanuel Gaillardon</author>
+<author pid="50/976">Alan Mishchenko</author>
+<author pid="78/2457">Satrajit Chatterjee</author>
+<title>Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization.</title>
+<year>2020</year>
+<volume>abs/2012.02530</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.02530</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-02530</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/AlserHKMA19" mdate="2020-05-30">
+<author pid="178/2725">Mohammed Alser</author>
+<author pid="147/4013">Hasan Hassan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author orcid="0000-0002-5443-0706" pid="a/CanAlkan">Can Alkan</author>
+<title>Shouji: a fast and efficient pre-alignment filter for sequence alignment.</title>
+<pages>4255-4263</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>Bioinform.</journal>
+<number>21</number>
+<ee>https://doi.org/10.1093/bioinformatics/btz234</ee>
+<ee>https://www.wikidata.org/entity/Q92690726</ee>
+<url>db/journals/bioinformatics/bioinformatics35.html#AlserHKMA19</url>
+</article>
+</r>
+<r><article key="journals/integration/SahooNVK19" mdate="2020-10-26">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Multi-objective design space exploration for system partitioning of FPGA-based Dynamic Partially Reconfigurable Systems.</title>
+<pages>95-107</pages>
+<year>2019</year>
+<volume>67</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2018.10.006</ee>
+<url>db/journals/integration/integration67.html#SahooNVK19</url>
+</article>
+</r>
+<r><article key="journals/pieee/FettweisDCKBBEF19" mdate="2020-10-02">
+<author orcid="0000-0003-4622-1311" pid="f/GFettweis">Gerhard P. Fettweis</author>
+<author orcid="0000-0003-1257-0281" pid="98/4349">Meik Dorpinghaus</author>
+<author orcid="0000-0002-5007-445X" pid="04/5327">Jer&#243;nimo Castrill&#243;n</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-5321-9343" pid="b/ChristelBaier">Christel Baier</author>
+<author pid="09/77">Karlheinz Bock</author>
+<author pid="49/1035">Frank Ellinger</author>
+<author pid="233/4157">Andreas Fery</author>
+<author pid="f/FHPFitzek">Frank H. P. Fitzek</author>
+<author pid="h/HHartig">Hermann H&#228;rtig</author>
+<author orcid="0000-0003-3083-7760" pid="02/8576">Kambiz Jamshidi</author>
+<author orcid="0000-0002-6680-1295" pid="97/11514">Thomas Kissinger</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author orcid="0000-0002-8359-0135" pid="123/6023">Michael Mertig</author>
+<author pid="66/4013">Wolfgang E. Nagel</author>
+<author orcid="0000-0001-7008-1537" pid="10/1557-2">Giang T. Nguyen 0002</author>
+<author pid="23/4164">Dirk Plettemeier</author>
+<author pid="95/3054">Michael Schr&#246;ter</author>
+<author pid="69/2809">Thorsten Strufe</author>
+<title>Architecture and Advanced Electronics Pathways Toward Highly Adaptive Energy- Efficient Computing.</title>
+<pages>204-231</pages>
+<year>2019</year>
+<volume>107</volume>
+<journal>Proc. IEEE</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JPROC.2018.2874895</ee>
+<ee>https://www.wikidata.org/entity/Q62633027</ee>
+<url>db/journals/pieee/pieee107.html#FettweisDCKBBEF19</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/RaiTRMWK19" mdate="2020-03-11">
+<author orcid="0000-0002-6522-5628" pid="218/1119">Shubham Rai</author>
+<author orcid="0000-0003-2972-438X" pid="144/4668">Jens Trommer</author>
+<author pid="121/1652">Michael Raitza</author>
+<author orcid="0000-0003-3814-0378" pid="144/4455">Thomas Mikolajick</author>
+<author orcid="0000-0001-9504-5671" pid="144/4813">Walter M. Weber</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Designing Efficient Circuits Based on Runtime-Reconfigurable Field-Effect Transistors.</title>
+<pages>560-572</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TVLSI.2018.2884646</ee>
+<ee>https://www.wikidata.org/entity/Q62633025</ee>
+<url>db/journals/tvlsi/tvlsi27.html#RaiTRMWK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/SahooV019" mdate="2020-10-25">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>A Hybrid Agent-based Design Methodology for Dynamic Cross-layer Reliability in Heterogeneous Embedded Systems.</title>
+<pages>38</pages>
+<year>2019</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3316781.3317746</ee>
+<ee>http://ieeexplore.ieee.org/document/8806795</ee>
+<crossref>conf/dac/2019</crossref>
+<url>db/conf/dac/dac2019.html#SahooV019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/MousaviPC019" mdate="2019-10-22">
+<author pid="221/9342">Mahsa Mousavi</author>
+<author pid="87/8906">Hamid Reza Pourshaghaghi</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Scatter Scrubbing: A Method to Reduce SEU Repair Time in FPGA Configuration Memory.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT.2019.8875431</ee>
+<crossref>conf/dft/2019</crossref>
+<url>db/conf/dft/dft2019.html#MousaviPC019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/RanjbarNE019" mdate="2021-04-09">
+<author orcid="0000-0001-7944-7101" pid="251/4343">Behnaz Ranjbar</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="e/AlirezaEjlali">Alireza Ejlali</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Online Peak Power and Maximum Temperature Management in Multi-core Mixed-Criticality Embedded Systems.</title>
+<pages>546-553</pages>
+<year>2019</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2019.00084</ee>
+<crossref>conf/dsd/2019</crossref>
+<url>db/conf/dsd/dsd2019.html#RanjbarNE019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/LisaNH0L19" mdate="2019-10-23">
+<author pid="152/6823">Nusrat Jahan Lisa</author>
+<author pid="153/0579">Tuan Duy Anh Nguyen</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>High-Throughput BitPacking Compression.</title>
+<pages>643-646</pages>
+<year>2019</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2019.00101</ee>
+<crossref>conf/dsd/2019</crossref>
+<url>db/conf/dsd/dsd2019.html#LisaNH0L19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/RupaniR019" mdate="2019-10-23">
+<author pid="218/1181">Ansh Rupani</author>
+<author pid="218/1119">Shubham Rai</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Exploiting Emerging Reconfigurable Technologies for Secure Devices.</title>
+<pages>668-671</pages>
+<year>2019</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2019.00107</ee>
+<crossref>conf/dsd/2019</crossref>
+<url>db/conf/dsd/dsd2019.html#RupaniR019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epew/SardarDKBK19" mdate="2020-04-09">
+<author orcid="0000-0001-7652-559X" pid="180/8569">Muhammad Usama Sardar</author>
+<author orcid="0000-0001-5718-8276" pid="28/11061">Clemens Dubslaff</author>
+<author orcid="0000-0003-1724-2586" pid="50/2079">Sascha Kl&#252;ppelholz</author>
+<author orcid="0000-0002-5321-9343" pid="b/ChristelBaier">Christel Baier</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Performance Evaluation of Thermal-Constrained Scheduling Strategies in Multi-core Systems.</title>
+<pages>133-147</pages>
+<year>2019</year>
+<booktitle>EPEW</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44411-2_9</ee>
+<crossref>conf/epew/2019</crossref>
+<url>db/conf/epew/epew2019.html#SardarDKBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/BalajiU0019" mdate="2019-05-16">
+<author pid="235/8858">Adarsha Balaji</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Design Methodology for Embedded Approximate Artificial Neural Networks.</title>
+<pages>489-494</pages>
+<year>2019</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3299874.3319490</ee>
+<crossref>conf/glvlsi/2019</crossref>
+<url>db/conf/glvlsi/glvlsi2019.html#BalajiU0019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/RaiRN019" mdate="2019-09-24">
+<author pid="218/1119">Shubham Rai</author>
+<author pid="218/1181">Ansh Rupani</author>
+<author pid="249/2971">Pallab Nath</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Hardware Watermarking Using Polymorphic Inverter Designs Based On Reconfigurable Nanotechnologies.</title>
+<pages>663-669</pages>
+<year>2019</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2019.00123</ee>
+<crossref>conf/isvlsi/2019</crossref>
+<url>db/conf/isvlsi/isvlsi2019.html#RaiRN019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/PotluriKA19" mdate="2020-05-11">
+<author pid="93/9978">Seetal Potluri</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="39/9049">Aydin Aysu</author>
+<title>SeqL: SAT-attack Resilient Sequential Locking.</title>
+<pages>656</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/656</ee>
+<url>db/journals/iacr/iacr2019.html#PotluriKA19</url>
+</article>
+</r>
+<r><article key="journals/tmscs/CastrillonLKVAA18" mdate="2020-09-02">
+<author pid="04/5327">Jer&#243;nimo Castrill&#243;n</author>
+<author pid="49/2123">Matthias Lieber</author>
+<author pid="50/2079">Sascha Kl&#252;ppelholz</author>
+<author pid="52/6494">Marcus V&#246;lp</author>
+<author pid="162/7710">Nils Asmussen</author>
+<author pid="42/998">Uwe A&#223;mann</author>
+<author pid="b/FBaader">Franz Baader</author>
+<author pid="b/ChristelBaier">Christel Baier</author>
+<author pid="f/GFettweis">Gerhard P. Fettweis</author>
+<author pid="82/1092">Jochen Fr&#246;hlich</author>
+<author pid="144/4631">Andr&#233;s Goens</author>
+<author pid="16/9207">Sebastian Haas</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="h/HHartig">Hermann H&#228;rtig</author>
+<author pid="180/3667">Mattis Hasler</author>
+<author pid="175/1228">Immo Huismann</author>
+<author pid="127/0442">Tomas Karnagel</author>
+<author pid="85/7069">Sven Karol</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="147/5951">Linda Leuschner</author>
+<author pid="189/1813">Siqi Ling</author>
+<author pid="69/10395">Steffen M&#228;rcker</author>
+<author orcid="0000-0002-7134-8384" pid="82/263">Christian Menard</author>
+<author pid="172/8735">Johannes Mey</author>
+<author pid="66/4013">Wolfgang E. Nagel</author>
+<author pid="119/3702">Benedikt N&#246;then</author>
+<author pid="56/3960">Rafael Pe&#241;aloza</author>
+<author pid="121/1652">Michael Raitza</author>
+<author pid="71/5052">J&#246;rg Stiller</author>
+<author pid="162/7729">Annett Ungeth&#252;m</author>
+<author pid="66/624">Axel Voigt</author>
+<author pid="143/2676">Sascha Wunderlich</author>
+<title>A Hardware/Software Stack for Heterogeneous Systems.</title>
+<pages>243-259</pages>
+<year>2018</year>
+<volume>4</volume>
+<journal>IEEE Trans. Multi Scale Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMSCS.2017.2771750</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMSCS.2017.2771750</ee>
+<ee>https://www.wikidata.org/entity/Q58200600</ee>
+<url>db/journals/tmscs/tmscs4.html#CastrillonLKVAA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/SahooNV018" mdate="2020-10-25">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Lifetime-aware design methodology for dynamic partially reconfigurable systems.</title>
+<pages>393-398</pages>
+<year>2018</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2018.8297355</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3201705</ee>
+<crossref>conf/aspdac/2018</crossref>
+<url>db/conf/aspdac/aspdac2018.html#SahooNV018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/UllahM018" mdate="2018-11-21">
+<author pid="218/1191">Salim Ullah</author>
+<author pid="221/2831">Sanjeev Sripadraj Murthy</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title><i>SMApproxlib</i>: library of FPGA-based approximate multipliers.</title>
+<pages>157:1-157:6</pages>
+<year>2018</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3195970.3196115</ee>
+<ee>https://doi.org/10.1109/DAC.2018.8465845</ee>
+<crossref>conf/dac/2018</crossref>
+<url>db/conf/dac/dac2018.html#UllahM018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/UllahRPKH0018" mdate="2020-12-29">
+<author pid="218/1191">Salim Ullah</author>
+<author pid="39/10300">Semeen Rehman</author>
+<author pid="199/8771">Bharath Srinivas Prabakaran</author>
+<author pid="41/10300">Florian Kriebel</author>
+<author pid="191/2451">Muhammad Abdullah Hanif</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Area-optimized low-latency approximate multipliers for FPGA-based hardware accelerators.</title>
+<pages>159:1-159:6</pages>
+<year>2018</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3195970.3195996</ee>
+<ee>https://doi.org/10.1109/DAC.2018.8465781</ee>
+<crossref>conf/dac/2018</crossref>
+<url>db/conf/dac/dac2018.html#UllahRPKH0018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/LisaUHLT018" mdate="2019-10-23">
+<author pid="152/6823">Nusrat Jahan Lisa</author>
+<author pid="162/7729">Annett Ungeth&#252;m</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="153/0579">Tuan Duy Anh Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>FPGA vs. SIMD: Comparison for Main Memory-Based Fast Column Scan.</title>
+<pages>116-140</pages>
+<year>2018</year>
+<booktitle>DATA (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-26636-3_6</ee>
+<crossref>conf/data/2018s</crossref>
+<url>db/conf/data/data2018s.html#LisaUHLT018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/LisaUHN0L18" mdate="2018-08-29">
+<author pid="152/6823">Nusrat Jahan Lisa</author>
+<author pid="162/7729">Annett Ungeth&#252;m</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Column Scan Optimization by Increasing Intra-Instruction Parallelism.</title>
+<pages>344-353</pages>
+<year>2018</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0006897003440353</ee>
+<crossref>conf/data/2018</crossref>
+<url>db/conf/data/data2018.html#LisaUHN0L18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/RaiRWRHBTMW018" mdate="2020-06-15">
+<author pid="218/1119">Shubham Rai</author>
+<author pid="218/1181">Ansh Rupani</author>
+<author pid="27/3968">Dennis Walter</author>
+<author pid="121/1652">Michael Raitza</author>
+<author pid="144/4719">Andre Heinzig</author>
+<author pid="179/3120">Tim Baldauf</author>
+<author pid="144/4668">Jens Trommer</author>
+<author pid="44/6754">Christian Mayr</author>
+<author orcid="0000-0001-9504-5671" pid="144/4813">Walter M. Weber</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>A physical synthesis flow for early technology evaluation of silicon nanowire based reconfigurable FETs.</title>
+<pages>605-608</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342080</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#RaiRWRHBTMW018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/RaiR018" mdate="2018-04-24">
+<author pid="218/1119">Shubham Rai</author>
+<author pid="121/1652">Michael Raitza</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Technology mapping flow for emerging reconfigurable silicon nanowire transistors.</title>
+<pages>767-772</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342110</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#RaiR018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/PrabakaranRHUM018" mdate="2020-12-29">
+<author pid="199/8771">Bharath Srinivas Prabakaran</author>
+<author pid="39/10300">Semeen Rehman</author>
+<author pid="191/2451">Muhammad Abdullah Hanif</author>
+<author pid="218/1191">Salim Ullah</author>
+<author pid="218/1146">Ghazal Mazaheri</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<title>DeMAS: An efficient design methodology for building approximate adders for FPGA-based systems.</title>
+<pages>917-920</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342140</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#PrabakaranRHUM018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/GottschallPK18" mdate="2019-01-18">
+<author pid="226/3822">Bjorn Gottschall</author>
+<author pid="226/3805">Thomas PreuBer</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Reloc - An Open-Source Vivado Workflow for Generating Relocatable End-User Configuration Tiles.</title>
+<pages>211</pages>
+<year>2018</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2018.00045</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2018.00045</ee>
+<crossref>conf/fccm/2018</crossref>
+<url>db/conf/fccm/fccm2018.html#GottschallPK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/Hoo018" mdate="2018-11-06">
+<author pid="121/1711">Chin Hau Hoo</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>ParaDRo: A Parallel Deterministic Router Based on Spatial Partitioning and Scheduling.</title>
+<pages>67-76</pages>
+<year>2018</year>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/3174243.3174246</ee>
+<crossref>conf/fpga/2018</crossref>
+<url>db/conf/fpga/fpga2018.html#Hoo018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/SahooNV018" mdate="2020-10-25">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>QoS-Aware Cross-Layer Reliability-Integrated FPGA-Based Dynamic Partially Reconfigurable System Partitioning.</title>
+<pages>230-233</pages>
+<year>2018</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2018.00041</ee>
+<crossref>conf/fpt/2018</crossref>
+<url>db/conf/fpt/fpt2018.html#SahooNV018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/MoriamFWKSF18" mdate="2020-12-01">
+<author pid="176/1190">Sadia Moriam</author>
+<author pid="73/5092">Elke Franz 0001</author>
+<author pid="220/6895">Paul Walther</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="69/2809">Thorsten Strufe</author>
+<author pid="f/GFettweis">Gerhard P. Fettweis</author>
+<title>Protecting Communication in Many-Core Systems against Active Attackers.</title>
+<pages>45-50</pages>
+<year>2018</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3194554.3194582</ee>
+<crossref>conf/glvlsi/2018</crossref>
+<url>db/conf/glvlsi/glvlsi2018.html#MoriamFWKSF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/DasK18a" mdate="2019-06-02">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Dataflow-Based Mapping of Spiking Neural Networks on Neuromorphic Hardware.</title>
+<pages>419-422</pages>
+<year>2018</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3194554.3194627</ee>
+<ee>https://www.wikidata.org/entity/Q62633648</ee>
+<crossref>conf/glvlsi/2018</crossref>
+<url>db/conf/glvlsi/glvlsi2018.html#DasK18a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/RaiSCYHGN018" mdate="2021-04-09">
+<author pid="218/1119">Shubham Rai</author>
+<author pid="195/4175">Srivatsa Rangachar Srinivasa</author>
+<author pid="229/4325">Patsy Cadareanu</author>
+<author pid="179/2993">Xunzhao Yin</author>
+<author orcid="0000-0002-6636-9738" pid="h/XiaoboSharonHu">Xiaobo Sharon Hu</author>
+<author pid="48/9513">Pierre-Emmanuel Gaillardon</author>
+<author pid="v/NarayananVijaykrishnan">Vijaykrishnan Narayanan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Emerging reconfigurable nanotechnologies: can they support future electronics?</title>
+<pages>13</pages>
+<year>2018</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3240765.3243472</ee>
+<ee>http://ieeexplore.ieee.org/document/8587718/</ee>
+<crossref>conf/iccad/2018</crossref>
+<url>db/conf/iccad/iccad2018.html#RaiSCYHGN018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/HaqueVNEKT18" mdate="2020-03-27">
+<author pid="19/7451">Mohammad Shihabul Haque</author>
+<author pid="179/3177">Sriram Vasudevan</author>
+<author pid="223/8979">Alamuri Sriram Nihar</author>
+<author orcid="0000-0002-9628-3847" pid="73/1708">Arvind Easwaran</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="t/YCTay">Y. C. Tay</author>
+<title>A Self-Reconfiguring Cache Architecture to Improve Control Quality in Cyber-Physical Systems.</title>
+<pages>116-123</pages>
+<year>2018</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2018.00024</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2018.00024</ee>
+<crossref>conf/isorc/2018</crossref>
+<url>db/conf/isorc/isorc2018.html#HaqueVNEKT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tale/PanickerKSJ18" mdate="2021-01-12">
+<author pid="277/9493">Rajesh C. Panicker</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="22/1632">Dipti Srinivasan</author>
+<author orcid="0000-0002-6139-1100" pid="04/8123">Deepu John</author>
+<title>Adaptive Learning and Analytics in Engineering Education.</title>
+<pages>1193-1196</pages>
+<year>2018</year>
+<booktitle>TALE</booktitle>
+<ee>https://doi.org/10.1109/TALE.2018.8615200</ee>
+<crossref>conf/tale/2018</crossref>
+<url>db/conf/tale/tale2018.html#PanickerKSJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LisaUHLN018" mdate="2020-03-12">
+<author pid="152/6823">Nusrat Jahan Lisa</author>
+<author pid="162/7729">Annett Ungeth&#252;m</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Column Scan Acceleration in Hybrid CPU-FPGA Systems.</title>
+<pages>22-33</pages>
+<year>2018</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2018-camera-ready/habich_adms2018.pdf</ee>
+<crossref>conf/vldb/2018adms</crossref>
+<url>db/conf/vldb/adms2018.html#LisaUHLN018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/SahooV018" mdate="2020-10-25">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>CLRFrame: An Analysis Framework for Designing Cross-Layer Reliability in Embedded Systems.</title>
+<pages>307-312</pages>
+<year>2018</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2018.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2018.81</ee>
+<crossref>conf/vlsid/2018</crossref>
+<url>db/conf/vlsid/vlsid2018.html#SahooV018</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cases/2018" mdate="2018-11-06">
+<editor pid="22/5985">Tulika Mitra</editor>
+<editor pid="29/414">Akash Kumar 0001</editor>
+<title>Proceedings of the International Conference on Compilers, Architecture and Synthesis for Embedded Systems, CASES 2018, Torino, Italy, September 30 - October 05, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>CASES</booktitle>
+<year>2018</year>
+<isbn>978-1-5386-5564-1</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=3283552</ee>
+<url>db/conf/cases/cases2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-03885" mdate="2018-08-13">
+<author pid="29/10123">Rohit Agrawal</author>
+<author pid="217/1500">Chin Hao Hoo</author>
+<author pid="77/1128">Kapil Ahuja</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Parallel FPGA Router using Sub-Gradient method and Steiner tree.</title>
+<year>2018</year>
+<volume>abs/1803.03885</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.03885</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-03885</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-07858" mdate="2019-01-18">
+<author pid="178/2725">Mohammed Alser</author>
+<author pid="147/4013">Hasan Hassan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="a/CanAlkan">Can Alkan</author>
+<title>SLIDER: Fast and Efficient Computation of Banded Sequence Alignment.</title>
+<year>2018</year>
+<volume>abs/1809.07858</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.07858</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-07858</url>
+</article>
+</r>
+<r><article key="journals/jei/MathavanV0CKRS17" mdate="2017-12-04">
+<author pid="156/5389">Senthan Mathavan</author>
+<author pid="210/1249">Kanapathippillai Vaheesan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="210/2163">Chanjief Chandrakumar</author>
+<author pid="156/5234">Khurram Kamal</author>
+<author pid="168/6498">Mujib Rahman</author>
+<author pid="210/1327">Martyn Stonecliffe-Jones</author>
+<title>Detection of pavement cracks using tiled fuzzy Hough transform.</title>
+<pages>53008</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>J. Electronic Imaging</journal>
+<number>5</number>
+<ee>https://doi.org/10.1117/1.JEI.26.5.053008</ee>
+<url>db/journals/jei/jei26.html#MathavanV0CKRS17</url>
+</article>
+</r>
+<r><article key="journals/todaes/SantosVK17" mdate="2018-11-06">
+<author pid="41/3686">Rui Santos</author>
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Scrubbing Mechanism for Heterogeneous Applications in Reconfigurable Devices.</title>
+<pages>33:1-33:26</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2997646</ee>
+<url>db/journals/todaes/todaes22.html#SantosVK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/LiS0L0C17" mdate="2018-11-06">
+<author pid="33/2805">Ang Li</author>
+<author pid="23/7512">Shuaiwen Leon Song</author>
+<author pid="23/1112-2">Weifeng Liu 0002</author>
+<author pid="93/3167-1">Xu Liu 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Locality-Aware CTA Clustering for Modern GPUs.</title>
+<pages>297-311</pages>
+<year>2017</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3037697.3037709</ee>
+<crossref>conf/asplos/2017</crossref>
+<url>db/conf/asplos/asplos2017.html#LiS0L0C17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/0001RS0H17" mdate="2020-12-29">
+<author pid="168/1018">Arun Subramaniyan 0001</author>
+<author pid="39/10300">Semeen Rehman</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Soft error-aware architectural exploration for designing reliability adaptive cache hierarchies in multi-cores.</title>
+<pages>37-42</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7926955</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130388</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#0001RS0H17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BruestelK17" mdate="2017-08-14">
+<author pid="199/8624">Martin Bruestel</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Accounting for systematic errors in approximate computing.</title>
+<pages>298-301</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927003</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130448</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#BruestelK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/RaitzaKVWTMW17" mdate="2020-06-15">
+<author pid="121/1652">Michael Raitza</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="52/6494">Marcus V&#246;lp</author>
+<author pid="27/3968">Dennis Walter</author>
+<author pid="144/4668">Jens Trommer</author>
+<author orcid="0000-0003-3814-0378" pid="144/4455">Thomas Mikolajick</author>
+<author orcid="0000-0001-9504-5671" pid="144/4813">Walter M. Weber</author>
+<title>Exploiting transistor-level reconfiguration to optimize combinational circuits.</title>
+<pages>338-343</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927013</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130460</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#RaitzaKVWTMW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/El-HarouniRP0HS17" mdate="2020-12-29">
+<author pid="180/3702">Walaa El-Harouni</author>
+<author pid="39/10300">Semeen Rehman</author>
+<author pid="199/8771">Bharath Srinivas Prabakaran</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="10/9281">Rehan Hafiz</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<title>Embracing approximate computing for energy-efficient motion estimation in high efficiency video coding.</title>
+<pages>1384-1389</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927209</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130706</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#El-HarouniRP0HS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/Hoo017" mdate="2019-02-07">
+<author pid="121/1711">Chin Hau Hoo</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>ParaDiMe: A Distributed Memory FPGA Router Based on Speculative Parallelism and Path Encoding.</title>
+<pages>172-179</pages>
+<year>2017</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2017.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2017.34</ee>
+<crossref>conf/fccm/2017</crossref>
+<url>db/conf/fccm/fccm2017.html#Hoo017</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/estimedia/2017" mdate="2018-11-06">
+<editor pid="42/6513">Sander Stuijk</editor>
+<editor pid="29/414">Akash Kumar 0001</editor>
+<title>Proceedings of the 15th IEEE/ACM Symposium on Embedded Systems for Real-Time Multimedia, ESTImedia 2017, Seoul, Republic of Korea, October 15 - 20, 2017</title>
+<booktitle>ESTImedia</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-5117-1</isbn>
+<ee>https://doi.org/10.1145/3139315</ee>
+<url>db/conf/estimedia/estimedia2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jei/MathavanKKNSR16" mdate="2019-05-14">
+<author pid="156/5389">Senthan Mathavan</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="156/5234">Khurram Kamal</author>
+<author pid="240/7939">Michael Nieminen</author>
+<author pid="70/129">Hitesh Shah</author>
+<author pid="168/6498">Mujib Rahman</author>
+<title>Fast segmentation of industrial quality pavement images using Laws texture energy measures and k-means clustering.</title>
+<pages>053010</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>J. Electronic Imaging</journal>
+<number>5</number>
+<ee>https://doi.org/10.1117/1.JEI.25.5.053010</ee>
+<url>db/journals/jei/jei25.html#MathavanKKNSR16</url>
+</article>
+</r>
+<r><article key="journals/mam/KhanhKSA16" mdate="2020-02-22">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0003-2056-0569" pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author pid="85/2357">Khin Mi Mi Aung</author>
+<title>Leakage aware resource management approach with machine learning optimization framework for partially reconfigurable architectures.</title>
+<pages>231-243</pages>
+<year>2016</year>
+<volume>47</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2016.09.012</ee>
+<url>db/journals/mam/mam47.html#KhanhKSA16</url>
+</article>
+</r>
+<r><article key="journals/tcad/SinghSKH16" mdate="2020-12-29">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Resource and Throughput Aware Execution Trace Analysis for Efficient Run-Time Mapping on MPSoCs.</title>
+<pages>72-85</pages>
+<year>2016</year>
+<volume>35</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2446938</ee>
+<url>db/journals/tcad/tcad35.html#SinghSKH16</url>
+</article>
+</r>
+<r><article key="journals/tpds/0001KV16" mdate="2020-10-02">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Reliability and Energy-Aware Mapping and Scheduling of Multimedia Applications on Multiprocessor Systems.</title>
+<pages>869-884</pages>
+<year>2016</year>
+<volume>27</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2015.2412137</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2015.2412137</ee>
+<ee>https://www.wikidata.org/entity/Q62633660</ee>
+<url>db/journals/tpds/tpds27.html#0001KV16</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/SinghS0H16" mdate="2020-12-29">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Analysis and Mapping for Thermal and Energy Efficiency of 3-D Video Processing on 3-D Multicore Processors.</title>
+<pages>2745-2758</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVLSI.2016.2517025</ee>
+<url>db/journals/tvlsi/tvlsi24.html#SinghS0H16</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/SahooKV16" mdate="2017-04-30">
+<author pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Design and evaluation of reliability-oriented task re-mapping in MPSoCs using time-series analysis of intermittent faults.</title>
+<pages>798-803</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7459415/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#SahooKV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VenkataramanSK16" mdate="2017-04-30">
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="41/3686">Rui Santos</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>A flexible inexact TMR technique for SRAM-based FPGAs.</title>
+<pages>810-813</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7459417/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#VenkataramanSK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LiSKZCC16" mdate="2017-04-30">
+<author pid="33/2805">Ang Li</author>
+<author pid="23/7512">Shuaiwen Leon Song</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="93/1040">Eddy Z. Zhang</author>
+<author pid="98/5776">Daniel G. Chavarr&#237;a-Miranda</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Critical points based register-concurrency autotuning for GPUs.</title>
+<pages>1273-1278</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7459506/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#LiSKZCC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/SahooV016" mdate="2020-10-25">
+<author orcid="0000-0002-2243-5350" pid="179/2952">Siva Satyendra Sahoo</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Cross-layer fault-tolerant design of real-time systems.</title>
+<pages>63-68</pages>
+<year>2016</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT.2016.7684071</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFT.2016.7684071</ee>
+<crossref>conf/dft/2016</crossref>
+<url>db/conf/dft/dft2016.html#SahooV016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/NguyenK16" mdate="2018-11-06">
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>PRFloor: An Automatic Floorplanner for Partially Reconfigurable FPGA Systems.</title>
+<pages>149-158</pages>
+<year>2016</year>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/2847263.2847270</ee>
+<crossref>conf/fpga/2016</crossref>
+<url>db/conf/fpga/fpga2016.html#NguyenK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HooH016" mdate="2017-05-21">
+<author pid="121/1711">Chin Hau Hoo</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>ParaFRo: A hybrid parallel FPGA router using fine grained synchronization and partitioning.</title>
+<pages>1-11</pages>
+<year>2016</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2016.7577299</ee>
+<crossref>conf/fpl/2016</crossref>
+<url>db/conf/fpl/fpl2016.html#HooH016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/Nguyen016" mdate="2017-05-21">
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>XNoC: A non-intrusive TDM circuit-switched Network-on-Chip.</title>
+<pages>1-11</pages>
+<year>2016</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2016.7577378</ee>
+<crossref>conf/fpl/2016</crossref>
+<url>db/conf/fpl/fpl2016.html#Nguyen016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/RehmanES0H16" mdate="2020-12-29">
+<author pid="39/10300">Semeen Rehman</author>
+<author pid="180/3702">Walaa El-Harouni</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Architectural-space exploration of approximate multipliers.</title>
+<pages>80</pages>
+<year>2016</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/2966986.2967005</ee>
+<crossref>conf/iccad/2016</crossref>
+<url>db/conf/iccad/iccad2016.html#RehmanES0H16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/LiSWKC16" mdate="2018-11-06">
+<author pid="33/2805">Ang Li</author>
+<author pid="23/7512">Shuaiwen Leon Song</author>
+<author pid="136/3848">Mark Wijtvliet</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>SFU-Driven Transparent Approximation Acceleration on GPUs.</title>
+<pages>15:1-15:14</pages>
+<year>2016</year>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/2925426.2926255</ee>
+<crossref>conf/ics/2016</crossref>
+<url>db/conf/ics/ics2016.html#LiSWKC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/LiSB0CC16" mdate="2017-05-24">
+<author pid="33/2805">Ang Li</author>
+<author pid="23/7512">Shuaiwen Leon Song</author>
+<author pid="183/4836">Eric Brugel</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="98/5776">Daniel G. Chavarr&#237;a-Miranda</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>X: A Comprehensive Analytic Model for Parallel Machines.</title>
+<pages>242-252</pages>
+<year>2016</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2016.89</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2016.89</ee>
+<crossref>conf/ipps/2016</crossref>
+<url>db/conf/ipps/ipdps2016.html#LiSB0CC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/KhanhA016" mdate="2020-09-05">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author orcid="0000-0002-5652-3455" pid="85/2357">Khin Mi Mi Aung</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Automatic framework to generate reconfigurable accelerators for option pricing applications.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2016.7857157</ee>
+<crossref>conf/reconfig/2016</crossref>
+<url>db/conf/reconfig/reconfig2016.html#KhanhA016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scopes/KhanhKA16" mdate="2020-09-05">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-5652-3455" pid="85/2357">Khin Mi Mi Aung</author>
+<title>Machine Learning Approach to Generate Pareto Front for List-scheduling Algorithms.</title>
+<pages>127-134</pages>
+<year>2016</year>
+<booktitle>SCOPES</booktitle>
+<ee>https://doi.org/10.1145/2906363.2906380</ee>
+<crossref>conf/scopes/2016</crossref>
+<url>db/conf/scopes/scopes2016.html#KhanhKA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/mam/LiKHC15" mdate="2020-02-22">
+<author pid="33/2805">Ang Li</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Correlation ratio based volume image registration on GPUs.</title>
+<pages>998-1011</pages>
+<year>2015</year>
+<volume>39</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.micpro.2015.04.002</ee>
+<url>db/journals/mam/mam39.html#LiKHC15</url>
+</article>
+</r>
+<r><article key="journals/taes/PangKGL15" mdate="2020-04-16">
+<author pid="12/8821">Chee Khiang Pang</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="142/6927">Cher-Hiang Goh</author>
+<author pid="133/3498">Cao Vinh Le</author>
+<title>Nano-satellite swarm for SAR applications: design and robust scheduling.</title>
+<pages>853-865</pages>
+<year>2015</year>
+<volume>51</volume>
+<journal>IEEE Trans. Aerosp. Electron. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TAES.2014.140077</ee>
+<url>db/journals/taes/taes51.html#PangKGL15</url>
+</article>
+</r>
+<r><article key="journals/trets/0001VK15" mdate="2020-04-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Autonomous Soft-Error Tolerance of FPGA Configuration Bits.</title>
+<pages>12:1-12:17</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2629580</ee>
+<ee>https://www.wikidata.org/entity/Q62633670</ee>
+<url>db/journals/trets/trets8.html#0001VK15</url>
+</article>
+</r>
+<r><article key="journals/trets/0001SK15" mdate="2020-04-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Execution Trace-Driven Energy-Reliability Optimization for Multimedia MPSoCs.</title>
+<pages>18:1-18:19</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2665071</ee>
+<ee>https://www.wikidata.org/entity/Q62633675</ee>
+<url>db/journals/trets/trets8.html#0001SK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/HaqueLKW15" mdate="2017-05-26">
+<author pid="19/7451">Mohammad Shihabul Haque</author>
+<author pid="33/2805">Ang Li</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="59/6202">Qingsong Wei</author>
+<title>Accelerating non-volatile/hybrid processor cache design space exploration for application specific embedded systems.</title>
+<pages>435-440</pages>
+<year>2015</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2015.7059045</ee>
+<crossref>conf/aspdac/2015</crossref>
+<url>db/conf/aspdac/aspdac2015.html#HaqueLKW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SantosVK15" mdate="2018-11-06">
+<author pid="41/3686">Rui Santos</author>
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Dynamically adaptive scrubbing mechanism for improved reliability in reconfigurable embedded systems.</title>
+<pages>156:1-156:6</pages>
+<year>2015</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2744769.2744827</ee>
+<crossref>conf/dac/2015</crossref>
+<url>db/conf/dac/dac2015.html#SantosVK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/0001KVSMA15" mdate="2017-04-30">
+<author pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="60/617">Rishad Ahmed Shafik</author>
+<author pid="79/2874">Geoff V. Merrett</author>
+<author pid="48/5139">Bashir M. Al-Hashimi</author>
+<title>Workload uncertainty characterization and adaptive frequency scaling for energy minimization of embedded systems.</title>
+<pages>43-48</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755764</ee>
+<ee>http://ieeexplore.ieee.org/document/7092356/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#0001KVSMA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KhanhSKA15" mdate="2020-01-24">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="85/2357">Khin Mi Mi Aung</author>
+<title>Exploiting loop-array dependencies to accelerate the design space exploration with high level synthesis.</title>
+<pages>157-162</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755788</ee>
+<ee>http://ieeexplore.ieee.org/document/7092375/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#KhanhSKA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/FernandoWNKC15" mdate="2017-04-30">
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="136/3848">Mark Wijtvliet</author>
+<author pid="55/9958">Cedric Nugteren</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>(AS)<sup>2</sup>: accelerator synthesis using algorithmic skeletons for rapid design space exploration.</title>
+<pages>305-308</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755821</ee>
+<ee>http://ieeexplore.ieee.org/document/7092403/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#FernandoWNKC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VenkataramanKSE15" mdate="2017-04-30">
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="161/0168">Jeremy Schlachter</author>
+<author pid="85/951">Christian C. Enz</author>
+<title>Designing inexact systems efficiently using elimination heuristics.</title>
+<pages>758-763</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755926</ee>
+<ee>http://ieeexplore.ieee.org/document/7092488/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#VenkataramanKSE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/TangAKP15" mdate="2017-04-30">
+<author pid="79/918">Liang Tang</author>
+<author pid="10/6689">Jude Angelo Ambrose</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="38/622">Sri Parameswaran</author>
+<title>Dynamic reconfigurable puncturing for secure wireless communication.</title>
+<pages>888-891</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2757018</ee>
+<ee>http://ieeexplore.ieee.org/document/7092511/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#TangAKP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HooKH15" mdate="2017-05-21">
+<author pid="121/1711">Chin Hau Hoo</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>ParaLaR: A parallel FPGA router based on Lagrangian relaxation.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2015.7294012</ee>
+<crossref>conf/fpl/2015</crossref>
+<url>db/conf/fpl/fpl2015.html#HooKH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/OomenNKC15" mdate="2017-05-21">
+<author pid="169/2321">Roel Oomen</author>
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>An automated technique to generate relocatable partial bitstreams for Xilinx FPGAs.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2015.7293980</ee>
+<crossref>conf/fpl/2015</crossref>
+<url>db/conf/fpl/fpl2015.html#OomenNKC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpdc/LiTKC15" mdate="2018-11-06">
+<author pid="33/2805">Ang Li</author>
+<author pid="t/YCTay">Y. C. Tay</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Transit: A Visual Analytical Model for Multithreaded Machines.</title>
+<pages>101-106</pages>
+<year>2015</year>
+<booktitle>HPDC</booktitle>
+<ee>https://doi.org/10.1145/2749246.2749265</ee>
+<crossref>conf/hpdc/2015</crossref>
+<url>db/conf/hpdc/hpdc2015.html#LiTKC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/LiBCK15" mdate="2018-11-06">
+<author pid="33/2805">Ang Li</author>
+<author pid="40/8745">Gert-Jan van den Braak</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Fine-Grained Synchronizations and Dataflow Programming on GPUs.</title>
+<pages>109-118</pages>
+<year>2015</year>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/2751205.2751232</ee>
+<crossref>conf/ics/2015</crossref>
+<url>db/conf/ics/ics2015.html#LiBCK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/SantosVK15" mdate="2017-05-25">
+<author pid="41/3686">Rui Santos</author>
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Generic scrubbing-based architecture for custom error correction algorithms.</title>
+<pages>112-118</pages>
+<year>2015</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2015.7416555</ee>
+<crossref>conf/rsp/2015</crossref>
+<url>db/conf/rsp/rsp2015.html#SantosVK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/VenkataramanSKK15" mdate="2017-05-25">
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="41/3686">Rui Santos</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="137/1404">Jasper Kuijsten</author>
+<title>Hardware task migration module for improved fault tolerance and predictability.</title>
+<pages>197-202</pages>
+<year>2015</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2015.7363676</ee>
+<crossref>conf/samos/2015</crossref>
+<url>db/conf/samos/samos2015.html#VenkataramanSKK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/LiBKC15" mdate="2018-11-06">
+<author pid="33/2805">Ang Li</author>
+<author pid="40/8745">Gert-Jan van den Braak</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Adaptive and transparent cache bypassing for GPUs.</title>
+<pages>17:1-17:12</pages>
+<year>2015</year>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/2807591.2807606</ee>
+<crossref>conf/sc/2015</crossref>
+<url>db/conf/sc/sc2015.html#LiBKC15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HaqueKHWL15" mdate="2018-08-13">
+<author pid="19/7451">Mohammad Shihabul Haque</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="87/2533">Qiang Wu</author>
+<author pid="129/2076">Shaobo Luo</author>
+<title>TRISHUL: A Single-pass Optimal Two-level Inclusive Data Cache Hierarchy Selection Process for Real-time MPSoCs.</title>
+<year>2015</year>
+<volume>abs/1506.03182</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.03182</ee>
+<url>db/journals/corr/corr1506.html#HaqueKHWL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HaqueLKW15" mdate="2018-08-13">
+<author pid="19/7451">Mohammad Shihabul Haque</author>
+<author pid="33/2805">Ang Li</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="59/6202">Qingsong Wei</author>
+<title>Accelerating Non-volatile/Hybrid Processor Cache Design Space Exploration for Application Specific Embedded Systems.</title>
+<year>2015</year>
+<volume>abs/1506.03193</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.03193</ee>
+<url>db/journals/corr/corr1506.html#HaqueLKW15</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/BoyleOMKS14" mdate="2020-12-29">
+<author orcid="0000-0003-4494-9771" pid="150/3322">Evan A. Boyle</author>
+<author orcid="0000-0002-4141-0095" pid="150/3121">Brian J. O'Roak</author>
+<author orcid="0000-0002-9661-014X" pid="150/3035">Beth K. Martin</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-1516-1865" pid="82/9357">Jay Shendure</author>
+<title>MIPgen: optimized modeling and design of molecular inversion probes for targeted resequencing.</title>
+<pages>2670-2672</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Bioinform.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1093/bioinformatics/btu353</ee>
+<ee>https://www.wikidata.org/entity/Q34136927</ee>
+<url>db/journals/bioinformatics/bioinformatics30.html#BoyleOMKS14</url>
+</article>
+</r>
+<r><article key="journals/fgcs/0001KV14" mdate="2020-02-19">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Communication and migration energy aware task mapping for reliable multiprocessor systems.</title>
+<pages>216-228</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2013.06.016</ee>
+<ee>https://www.wikidata.org/entity/Q58671323</ee>
+<url>db/journals/fgcs/fgcs30.html#0001KV14</url>
+</article>
+</r>
+<r><article key="journals/tcas/HuangHZKL14" mdate="2020-05-22">
+<author orcid="0000-0003-3722-9979" pid="05/10461">Kejie Huang</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="81/1620">Rong Zhao</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="16/2244">Yong Lian</author>
+<title>A Low Active Leakage and High Reliability Phase Change Memory (PCM) Based Non-Volatile FPGA Storage Element.</title>
+<pages>2605-2613</pages>
+<year>2014</year>
+<volume>61-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCSI.2014.2312499</ee>
+<url>db/journals/tcas/tcasI61.html#HuangHZKL14</url>
+</article>
+</r>
+<r><article key="journals/tecs/DasKV14" mdate="2020-09-08">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Energy-aware task mapping and scheduling for reliable embedded computing systems.</title>
+<pages>72:1-72:27</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2s</number>
+<ee>https://doi.org/10.1145/2544375.2544392</ee>
+<ee>https://www.wikidata.org/entity/Q58671377</ee>
+<url>db/journals/tecs/tecs13.html#DasKV14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/0001SMAKV14" mdate="2018-11-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="60/617">Rishad A. Shafik</author>
+<author pid="79/2874">Geoff V. Merrett</author>
+<author pid="48/5139">Bashir M. Al-Hashimi</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Reinforcement Learning-Based Inter- and Intra-Application Thermal Optimization for Lifetime Improvement of Multicore Systems.</title>
+<pages>170:1-170:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593199</ee>
+<ee>https://www.wikidata.org/entity/Q58671465</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#0001SMAKV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DasKV14" mdate="2017-09-16">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Temperature aware energy-reliability trade-offs for mapping of throughput-constrained applications on multimedia MPSoCs.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.115</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2616732</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#DasKV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DasKVBM14" mdate="2017-05-23">
+<author pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<author pid="b/CristianaBolchini">Cristiana Bolchini</author>
+<author pid="46/4009">Antonio Miele</author>
+<title>Combined DVFS and mapping exploration for lifetime and soft-error susceptibility improvement in MPSoCs.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.074</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2616681</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#DasKVBM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/0001KV14" mdate="2018-11-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Artificial intelligence based task mapping and pipelined scheduling for checkpointing on real time systems with imperfect fault detection.</title>
+<pages>134-140</pages>
+<year>2014</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT.2014.6962066</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFT.2014.6962066</ee>
+<ee>https://www.wikidata.org/entity/Q58671291</ee>
+<crossref>conf/dft/2014</crossref>
+<url>db/conf/dft/dft2014.html#0001KV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/LiK14" mdate="2019-02-07">
+<author pid="33/2805">Ang Li</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Accelerating Volume Image Registration through Correlation Ratio Based Methods on GPUs.</title>
+<pages>82-89</pages>
+<year>2014</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2014.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2014.29</ee>
+<crossref>conf/dsd/2014</crossref>
+<url>db/conf/dsd/dsd2014.html#LiK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/KhanhSKA14" mdate="2020-09-05">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-5652-3455" pid="85/2357">Khin Mi Mi Aung</author>
+<title>Design Space Exploration to Accelerate Nelder-Mead Algorithm Using FPGA.</title>
+<pages>100</pages>
+<year>2014</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2014.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2014.33</ee>
+<ee>https://www.wikidata.org/entity/Q58671360</ee>
+<crossref>conf/fccm/2014</crossref>
+<url>db/conf/fccm/fccm2014.html#KhanhSKA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/NguyenK14" mdate="2018-11-24">
+<author pid="153/0579">Tuan D. A. Nguyen</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>PR-HMPSoC: A versatile partially reconfigurable heterogeneous Multiprocessor System-on-Chip for dynamic FPGA-based embedded systems.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927492</ee>
+<ee>https://www.wikidata.org/entity/Q58671448</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#NguyenK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/SantosV0K14" mdate="2018-11-24">
+<author pid="41/3686">Rui Santos</author>
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Criticality-aware scrubbing mechanism for SRAM-based FPGAs.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927476</ee>
+<ee>https://www.wikidata.org/entity/Q58671341</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#SantosV0K14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/VenkataramanS0K14" mdate="2018-11-24">
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="41/3686">Rui Santos</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>A bit-interleaved embedded hamming scheme to correct single-bit and multi-bit upsets for SRAM-based FPGAs.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927385</ee>
+<ee>https://www.wikidata.org/entity/Q58671238</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#VenkataramanS0K14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/VenkataramanSMK14" mdate="2018-11-24">
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="41/3686">Rui Santos</author>
+<author pid="152/5202">Sidharth Maheshwari</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Multi-directional error correction schemes for SRAM-based FPGAs.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927448</ee>
+<ee>https://www.wikidata.org/entity/Q58671429</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#VenkataramanSMK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/WangKSK14" mdate="2020-01-24">
+<author orcid="0000-0001-8273-0856" pid="145/2904">Siqi Wang</author>
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Leakage and performance aware resource management for 2D dynamically reconfigurable FPGA architectures.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927420</ee>
+<ee>https://www.wikidata.org/entity/Q58671397</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#WangKSK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/WangKH14" mdate="2017-05-24">
+<author pid="67/6649-16">Yi Wang 0016</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>FPGA-based high throughput XTS-AES encryption/decryption for storage area network.</title>
+<pages>268-271</pages>
+<year>2014</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2014.7082791</ee>
+<crossref>conf/fpt/2014</crossref>
+<url>db/conf/fpt/fpt2014.html#WangKH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ghtc/KumarKAMV14" mdate="2017-05-17">
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="156/5234">Khurram Kamal</author>
+<author pid="156/5262">Mohommad Omer Arshad</author>
+<author pid="156/5389">Senthan Mathavan</author>
+<author pid="156/5254">Tanabaalan Vadamala</author>
+<title>Smart irrigation using low-cost moisture sensors and XBee-based communication.</title>
+<pages>333-337</pages>
+<year>2014</year>
+<booktitle>GHTC</booktitle>
+<ee>https://doi.org/10.1109/GHTC.2014.6970301</ee>
+<crossref>conf/ghtc/2014</crossref>
+<url>db/conf/ghtc/ghtc2014.html#KumarKAMV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/KhanhSK14" mdate="2020-01-24">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>A multi-stage leakage aware resource management technique for reconfigurable architectures.</title>
+<pages>63-68</pages>
+<year>2014</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2591513.2591526</ee>
+<ee>https://www.wikidata.org/entity/Q58671256</ee>
+<crossref>conf/glvlsi/2014</crossref>
+<url>db/conf/glvlsi/glvlsi2014.html#KhanhSK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarcv/PangKGL14" mdate="2017-05-23">
+<author pid="12/8821">Chee Khiang Pang</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="142/6927">Cher-Hiang Goh</author>
+<author pid="133/3498">Cao Vinh Le</author>
+<title>Design and robust scheduling of nano-satellite swarm for synthetic aperture radar applications.</title>
+<pages>705-710</pages>
+<year>2014</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2014.7064390</ee>
+<crossref>conf/icarcv/2014</crossref>
+<url>db/conf/icarcv/icarcv2014.html#PangKGL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isicir/WuH0LLM14" mdate="2017-05-19">
+<author pid="87/2533">Qiang Wu</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="129/2076">Shaobo Luo</author>
+<author pid="33/2805">Ang Li</author>
+<author pid="198/7878">Shihab Mohamed</author>
+<title>A heterogeneous platform with GPU and FPGA for power efficient high performance computing.</title>
+<pages>220-223</pages>
+<year>2014</year>
+<booktitle>ISIC</booktitle>
+<ee>https://doi.org/10.1109/ISICIR.2014.7029447</ee>
+<crossref>conf/isicir/2014</crossref>
+<url>db/conf/isicir/isic2014.html#WuH0LLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/XingWK14" mdate="2018-11-24">
+<author pid="156/4671">Yihuan Xing</author>
+<author pid="91/4917">Ford-Long Wong</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Lightweight Bare-Metal Stateful Firewall.</title>
+<pages>53-58</pages>
+<year>2014</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2014.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2014.15</ee>
+<ee>https://www.wikidata.org/entity/Q58671412</ee>
+<crossref>conf/prdc/2014</crossref>
+<url>db/conf/prdc/prdc2014.html#XingWK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/SureshSK14" mdate="2020-01-24">
+<author pid="154/8149">Dipika Suresh</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>A multi-stage thermal management strategy for 3D multicores.</title>
+<pages>78-84</pages>
+<year>2014</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2014.6966896</ee>
+<ee>https://www.wikidata.org/entity/Q58671270</ee>
+<crossref>conf/rsp/2014</crossref>
+<url>db/conf/rsp/rsp2014.html#SureshSK14</url>
+</inproceedings>
+</r>
+<r><article key="journals/fcsc/SinghKWS13" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="21/1136">Jigang Wu</author>
+<author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
+<title>CADSE: communication aware design space exploration for efficient run-time MPSoC management.</title>
+<pages>416-430</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11704-013-2196-1</ee>
+<ee>https://www.wikidata.org/entity/Q58210178</ee>
+<url>db/journals/fcsc/fcsc7.html#SinghKWS13</url>
+</article>
+</r>
+<r><article key="journals/netmahib/DwivediAKM13" mdate="2020-09-08">
+<author orcid="0000-0003-0767-1328" pid="153/2698">Vivek Dhar Dwivedi</author>
+<author pid="153/2757">Shikha Arora</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0003-3590-1178" pid="153/2690">Sarad Kumar Mishra</author>
+<title>Computational analysis of xanthine dehydrogenase enzyme from different source organisms.</title>
+<pages>185-189</pages>
+<year>2013</year>
+<volume>2</volume>
+<journal>Netw. Model. Anal. Health Informatics Bioinform.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s13721-013-0029-7</ee>
+<url>db/journals/netmahib/netmahib2.html#DwivediAKM13</url>
+</article>
+</r>
+<r><article key="journals/te/KumarFP13" mdate="2020-04-16">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="97/7663">Rajesh Chandrasekhara Panicker</author>
+<title>Project-Based Learning in Embedded Systems Education Using an FPGA Platform.</title>
+<pages>407-415</pages>
+<year>2013</year>
+<volume>56</volume>
+<journal>IEEE Trans. Educ.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TE.2013.2246568</ee>
+<ee>https://www.wikidata.org/entity/Q58671671</ee>
+<url>db/journals/te/te56.html#KumarFP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/HaqueKHWL13" mdate="2018-11-24">
+<author pid="19/7451">Mohammad Shihabul Haque</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="87/2533">Qiang Wu</author>
+<author pid="129/2076">Shaobo Luo</author>
+<title>TRISHUL: A single-pass optimal two-level inclusive data cache hierarchy selection process for real-time MPSoCs.</title>
+<pages>320-325</pages>
+<year>2013</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2013.6509615</ee>
+<ee>https://www.wikidata.org/entity/Q58671727</ee>
+<crossref>conf/aspdac/2013</crossref>
+<url>db/conf/aspdac/aspdac2013.html#HaqueKHWL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/DasKV13" mdate="2018-11-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Aging-aware hardware-software task partitioning for reliable reconfigurable multiprocessor systems.</title>
+<pages>1:1-1:10</pages>
+<year>2013</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1109/CASES.2013.6662505</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2555730</ee>
+<ee>https://www.wikidata.org/entity/Q58671495</ee>
+<crossref>conf/cases/2013</crossref>
+<url>db/conf/cases/cases2013.html#DasKV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SinghSKH13" mdate="2020-12-29">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Mapping on multi/many-core systems: survey of current and emerging trends.</title>
+<pages>1:1-1:10</pages>
+<year>2013</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2463209.2488734</ee>
+<ee>https://www.wikidata.org/entity/Q58671643</ee>
+<crossref>conf/dac/2013</crossref>
+<url>db/conf/dac/dac2013.html#SinghSKH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SinghDK13" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Energy optimization by exploiting execution slacks in streaming applications on multiprocessor systems.</title>
+<pages>115:1-115:7</pages>
+<year>2013</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2463209.2488875</ee>
+<ee>https://www.wikidata.org/entity/Q58671528</ee>
+<crossref>conf/dac/2013</crossref>
+<url>db/conf/dac/dac2013.html#SinghDK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DasKV13" mdate="2019-06-02">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Reliability-driven task mapping for lifetime extension of networks-on-chip based multiprocessor systems.</title>
+<pages>689-694</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.149</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485457</ee>
+<ee>https://www.wikidata.org/entity/Q62633691</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#DasKV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DasKV13a" mdate="2019-06-02">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Communication and migration energy aware design space exploration for multicore systems with intermittent faults.</title>
+<pages>1631-1636</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.331</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485676</ee>
+<ee>https://www.wikidata.org/entity/Q62633686</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#DasKV13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/BolchiniCMDKV13" mdate="2018-11-24">
+<author orcid="0000-0001-5065-7906" pid="b/CristianaBolchini">Cristiana Bolchini</author>
+<author pid="115/7168">Matteo Carminati</author>
+<author orcid="0000-0003-3197-0723" pid="46/4009">Antonio Miele</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Run-time mapping for reliable many-cores based on energy/performance trade-offs.</title>
+<pages>58-64</pages>
+<year>2013</year>
+<booktitle>DFTS</booktitle>
+<ee>https://doi.org/10.1109/DFT.2013.6653583</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFT.2013.6653583</ee>
+<ee>https://www.wikidata.org/entity/Q58329656</ee>
+<crossref>conf/dft/2013</crossref>
+<url>db/conf/dft/dft2013.html#BolchiniCMDKV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/KhanhSKA13" mdate="2020-09-05">
+<author pid="135/7872">Pham Nam Khanh</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-5652-3455" pid="85/2357">Khin Mi Mi Aung</author>
+<title>Incorporating Energy and Throughput Awareness in Design Space Exploration and Run-Time Mapping for Heterogeneous MPSoCs.</title>
+<pages>513-521</pages>
+<year>2013</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2013.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2013.61</ee>
+<ee>https://www.wikidata.org/entity/Q58671610</ee>
+<crossref>conf/dsd/2013</crossref>
+<url>db/conf/dsd/dsd2013.html#KhanhSKA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/SinghDK13" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>RAPIDITAS: RAPId Design-Space-Exploration Incorporating Trace-Based Analysis and Simulation.</title>
+<pages>836-843</pages>
+<year>2013</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2013.93</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2013.93</ee>
+<ee>https://www.wikidata.org/entity/Q58671685</ee>
+<crossref>conf/dsd/2013</crossref>
+<url>db/conf/dsd/dsd2013.html#SinghDK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/estimedia/CoxSKC13" mdate="2020-01-24">
+<author pid="139/5775">Marco Cox</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Thermal-aware mapping of streaming applications on 3D Multi-Processor Systems.</title>
+<pages>11-20</pages>
+<year>2013</year>
+<booktitle>ESTImedia</booktitle>
+<ee>https://doi.org/10.1109/ESTIMedia.2013.6704498</ee>
+<ee>https://www.wikidata.org/entity/Q58671741</ee>
+<crossref>conf/estimedia/2013</crossref>
+<url>db/conf/estimedia/estimedia2013.html#CoxSKC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/AngKH13" mdate="2018-11-24">
+<author pid="06/7231">Zhi Ping Ang</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>High Speed Video Processing Using Fine-Grained Processing on FPGA Platform.</title>
+<pages>85-88</pages>
+<year>2013</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2013.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2013.32</ee>
+<ee>https://www.wikidata.org/entity/Q58671575</ee>
+<crossref>conf/fccm/2013</crossref>
+<url>db/conf/fccm/fccm2013.html#AngKH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/DasVK13" mdate="2019-06-02">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="136/3838">Shyamsundar Venkataraman</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Improving autonomous soft-error tolerance of FPGA through LUT configuration bit manipulation.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2013.6645498</ee>
+<ee>https://www.wikidata.org/entity/Q62633684</ee>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#DasVK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/FernandoWSHSKC13" mdate="2018-11-02">
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="136/3848">Mark Wijtvliet</author>
+<author pid="59/9361">Firew Siyoum</author>
+<author pid="70/6707">Yifan He</author>
+<author orcid="0000-0002-2518-6847" pid="42/6513">Sander Stuijk</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>MAMPSX: A demonstration of rapid, predictable HMPSOC synthesis.</title>
+<pages>1</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2013.6645623</ee>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#FernandoWSHSKC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HooHK13" mdate="2017-05-21">
+<author pid="121/1711">Chin Hau Hoo</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>A directional coarse-grained power gated FPGA switch box and power gating aware routing algorithm.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2013.6645548</ee>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#HooHK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/AngK13" mdate="2018-11-24">
+<author pid="06/7231">Zhi Ping Ang</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Real-time and low power embedded &#8467;1-optimization solver design.</title>
+<pages>168-175</pages>
+<year>2013</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2013.6718348</ee>
+<ee>https://www.wikidata.org/entity/Q58671698</ee>
+<crossref>conf/fpt/2013</crossref>
+<url>db/conf/fpt/fpt2013.html#AngK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/DasSK13" mdate="2020-01-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Energy-aware dynamic reconfiguration of communication-centric applications for reliable MPSoCs.</title>
+<pages>1-7</pages>
+<year>2013</year>
+<booktitle>ReCoSoC</booktitle>
+<ee>https://doi.org/10.1109/ReCoSoC.2013.6581540</ee>
+<ee>https://www.wikidata.org/entity/Q58671543</ee>
+<crossref>conf/recosoc/2013</crossref>
+<url>db/conf/recosoc/ReCoSoC2013.html#DasSK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/FernandoSHKC13" mdate="2018-11-24">
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="59/9361">Firew Siyoum</author>
+<author pid="70/6707">Yifan He</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>MAMPSx: A design framework for rapid synthesis of predictable heterogeneous MPSoCs.</title>
+<pages>136-142</pages>
+<year>2013</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2013.6683970</ee>
+<ee>https://www.wikidata.org/entity/Q58671630</ee>
+<crossref>conf/rsp/2013</crossref>
+<url>db/conf/rsp/rsp2013.html#FernandoSHKC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigact/Kumar12" mdate="2018-11-06">
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Review of polynomia and related realms by Dan Kalman.</title>
+<pages>15-20</pages>
+<year>2012</year>
+<volume>43</volume>
+<journal>SIGACT News</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2261417.2261422</ee>
+<url>db/journals/sigact/sigact43.html#Kumar12</url>
+</article>
+</r>
+<r><article key="journals/todaes/SinghKS12" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<title>Accelerating throughput-aware runtime mapping for heterogeneous MPSoCs.</title>
+<pages>9:1-9:29</pages>
+<year>2012</year>
+<volume>18</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2390191.2390200</ee>
+<ee>https://www.wikidata.org/entity/Q58671767</ee>
+<url>db/journals/todaes/todaes18.html#SinghKS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/WangDKC12" mdate="2019-02-07">
+<author pid="123/8071">Sheng Hao Wang</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Minimizing Power Consumption of Spatial Division Based Networks-on-Chip Using Multi-path and Frequency Reduction.</title>
+<pages>576-583</pages>
+<year>2012</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2012.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2012.85</ee>
+<ee>https://www.wikidata.org/entity/Q58671875</ee>
+<crossref>conf/dsd/2012</crossref>
+<url>db/conf/dsd/dsd2012.html#WangDKC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/AllugunduPLK12" mdate="2018-11-24">
+<author pid="121/1611">Izaan Allugundu</author>
+<author pid="121/1664">Pranay Puranik</author>
+<author pid="121/1750">Yat Piu Lo</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Acceleration of distance-to-default with hardware-software co-design.</title>
+<pages>338-344</pages>
+<year>2012</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2012.6339227</ee>
+<ee>https://www.wikidata.org/entity/Q58671781</ee>
+<crossref>conf/fpl/2012</crossref>
+<url>db/conf/fpl/fpl2012.html#AllugunduPLK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HooK12" mdate="2018-11-24">
+<author pid="121/1711">Chin Hau Hoo</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>An area-efficient partially reconfigurable crossbar switch with low reconfiguration delay.</title>
+<pages>400-406</pages>
+<year>2012</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2012.6339136</ee>
+<ee>https://www.wikidata.org/entity/Q58671795</ee>
+<crossref>conf/fpl/2012</crossref>
+<url>db/conf/fpl/fpl2012.html#HooK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/KhuranaGPK12" mdate="2018-11-24">
+<author pid="121/1573">Kanav Khurana</author>
+<author pid="75/6183">Pooja Gupta</author>
+<author pid="97/7663">Rajesh Chandrasekhara Panicker</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Development of an FPGA-based real-time P300 speller.</title>
+<pages>551-554</pages>
+<year>2012</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2012.6339377</ee>
+<ee>https://www.wikidata.org/entity/Q58671810</ee>
+<crossref>conf/fpl/2012</crossref>
+<url>db/conf/fpl/fpl2012.html#KhuranaGPK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/DasKV12" mdate="2018-11-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Energy-Aware Communication and Remapping of Tasks for Reliable Multimedia Multiprocessor Systems.</title>
+<pages>564-571</pages>
+<year>2012</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2012.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2012.82</ee>
+<ee>https://www.wikidata.org/entity/Q58671821</ee>
+<crossref>conf/icpads/2012</crossref>
+<url>db/conf/icpads/icpads2012.html#DasKV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/DasKV12" mdate="2018-11-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/3541">Bharadwaj Veeravalli</author>
+<title>Fault-tolerant network interface for spatial division multiplexing based Network-on-Chip.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>ReCoSoC</booktitle>
+<ee>https://doi.org/10.1109/ReCoSoC.2012.6322894</ee>
+<ee>https://www.wikidata.org/entity/Q58671849</ee>
+<crossref>conf/recosoc/2012</crossref>
+<url>db/conf/recosoc/ReCoSoC2012.html#DasKV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/DasK12" mdate="2018-11-24">
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>Fault-aware task re-mapping for throughput constrained multimedia applications on NoC-based MPSoCs.</title>
+<pages>149-155</pages>
+<year>2012</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2012.6380704</ee>
+<ee>https://www.wikidata.org/entity/Q58671833</ee>
+<crossref>conf/rsp/2012</crossref>
+<url>db/conf/rsp/rsp2012.html#DasK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/JiashuDK12" mdate="2018-11-24">
+<author pid="123/2330">Jiashu Li</author>
+<author orcid="0000-0002-5673-2636" pid="95/9639">Anup Das 0001</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<title>A design flow for partially reconfigurable heterogeneous multi-processor platforms.</title>
+<pages>170-176</pages>
+<year>2012</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2012.6380707</ee>
+<ee>https://www.wikidata.org/entity/Q58671756</ee>
+<crossref>conf/rsp/2012</crossref>
+<url>db/conf/rsp/rsp2012.html#JiashuDK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/SinghKS11" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
+<title>A hybrid strategy for mapping multiple throughput-constrained applications on MPSoCs.</title>
+<pages>175-184</pages>
+<year>2011</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/2038698.2038726</ee>
+<ee>https://www.wikidata.org/entity/Q58210192</ee>
+<crossref>conf/cases/2011</crossref>
+<url>db/conf/cases/cases2011.html#SinghKS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cf/ShabbirSKCM11" mdate="2018-11-24">
+<author pid="75/3222">Ahsan Shabbir</author>
+<author orcid="0000-0002-2518-6847" pid="42/6513">Sander Stuijk</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="74/5612">Bart Mesman</author>
+<title>An MPSoC design approach for multiple use-cases of throughput constrainted applications.</title>
+<pages>20</pages>
+<year>2011</year>
+<booktitle>Conf. Computing Frontiers</booktitle>
+<ee>https://doi.org/10.1145/2016604.2016628</ee>
+<ee>https://www.wikidata.org/entity/Q58671915</ee>
+<crossref>conf/cf/2011</crossref>
+<url>db/conf/cf/cf2011.html#ShabbirSKCM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/JordansSSKC11" mdate="2020-06-15">
+<author pid="56/9361">Roel Jordans</author>
+<author pid="59/9361">Firew Siyoum</author>
+<author orcid="0000-0002-2518-6847" pid="42/6513">Sander Stuijk</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>An Automated Flow to Map Throughput Constrained Applications to a MPSoC.</title>
+<pages>47-58</pages>
+<year>2011</year>
+<booktitle>PPES</booktitle>
+<ee type="oa">https://doi.org/10.4230/OASIcs.PPES.2011.47</ee>
+<crossref>conf/date/2011ppes</crossref>
+<url>db/conf/date/ppes2011.html#JordansSSKC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esweek/KumarFM11" mdate="2018-11-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="156/6755">Manmohan Manoharan</author>
+<title>Bringing soccer to the field of real-time embedded systems education.</title>
+<pages>46-52</pages>
+<year>2011</year>
+<booktitle>WESE</booktitle>
+<ee>https://doi.org/10.1145/2077370.2077377</ee>
+<ee>https://www.wikidata.org/entity/Q58671928</ee>
+<crossref>conf/esweek/2011wese</crossref>
+<url>db/conf/esweek/wese2011.html#KumarFM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/SinghKS11" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<title>A Design Space Exploration Methodology for Application Specific MPSoC Design.</title>
+<pages>339-340</pages>
+<year>2011</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2011.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2011.44</ee>
+<ee>https://www.wikidata.org/entity/Q58671891</ee>
+<crossref>conf/isvlsi/2011</crossref>
+<url>db/conf/isvlsi/isvlsi2011.html#SinghKS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paap/SinghKJS11" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="21/1136">Wu Jigang</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<title>Communication-Aware Design Space Exploration for Efficient Run-Time MPSoC Management.</title>
+<pages>72-76</pages>
+<year>2011</year>
+<booktitle>PAAP</booktitle>
+<ee>https://doi.org/10.1109/PAAP.2011.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PAAP.2011.18</ee>
+<ee>https://www.wikidata.org/entity/Q58671940</ee>
+<crossref>conf/paap/2011</crossref>
+<url>db/conf/paap/paap2011.html#SinghKJS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/ShabbirKMC11" mdate="2018-11-24">
+<author pid="75/3222">Ahsan Shabbir</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Distributed resource management for concurrent execution of multimedia applications on MPSoC platforms.</title>
+<pages>132-139</pages>
+<year>2011</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2011.6045454</ee>
+<ee>https://www.wikidata.org/entity/Q58671954</ee>
+<crossref>conf/samos/2011ic</crossref>
+<url>db/conf/samos/samos2011ic.html#ShabbirKMC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/SinghSKJ10" mdate="2020-02-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="21/1136">Wu Jigang</author>
+<title>Communication-aware heuristics for run-time task mapping on NoC-based MPSoC platforms.</title>
+<pages>242-255</pages>
+<year>2010</year>
+<volume>56</volume>
+<journal>J. Syst. Archit.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.sysarc.2010.04.007</ee>
+<ee>https://www.wikidata.org/entity/Q58210202</ee>
+<url>db/journals/jsa/jsa56.html#SinghSKJ10</url>
+</article>
+</r>
+<r><article key="journals/jsa/ShabbirKSMC10" mdate="2020-02-24">
+<author pid="75/3222">Ahsan Shabbir</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0002-2518-6847" pid="42/6513">Sander Stuijk</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>CA-MPSoC: An automated design flow for predictable multi-processor architectures for multiple applications.</title>
+<pages>265-277</pages>
+<year>2010</year>
+<volume>56</volume>
+<journal>J. Syst. Archit.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.sysarc.2010.03.007</ee>
+<ee>https://www.wikidata.org/entity/Q58671995</ee>
+<url>db/journals/jsa/jsa56.html#ShabbirKSMC10</url>
+</article>
+</r>
+<r><article key="journals/tcad/KumarMCH10" mdate="2020-09-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>Iterative Probabilistic Performance Prediction for Multi-Application Multiprocessor Systems.</title>
+<pages>538-551</pages>
+<year>2010</year>
+<volume>29</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2010.2042887</ee>
+<ee>https://www.wikidata.org/entity/Q58672023</ee>
+<url>db/journals/tcad/tcad29.html#KumarMCH10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cf/ShabbirSKTMC10" mdate="2018-11-24">
+<author pid="75/3222">Ahsan Shabbir</author>
+<author orcid="0000-0002-2518-6847" pid="42/6513">Sander Stuijk</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="58/656">Bart D. Theelen</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>A predictable communication assist.</title>
+<pages>97-98</pages>
+<year>2010</year>
+<booktitle>Conf. Computing Frontiers</booktitle>
+<ee>https://doi.org/10.1145/1787275.1787301</ee>
+<ee>https://www.wikidata.org/entity/Q58671967</ee>
+<crossref>conf/cf/2010</crossref>
+<url>db/conf/cf/cf2010.html#ShabbirSKTMC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/SinghKSH10" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>Mapping real-life applications on run-time reconfigurable NoC-based MPSoC on FPGA.</title>
+<pages>365-368</pages>
+<year>2010</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2010.5681427</ee>
+<ee>https://www.wikidata.org/entity/Q58672040</ee>
+<crossref>conf/fpt/2010</crossref>
+<url>db/conf/fpt/fpt2010.html#SinghKSH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/YangKH10" mdate="2018-11-24">
+<author pid="47/9860">Zhiyao Joseph Yang</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>An area-efficient dynamically reconfigurable Spatial Division Multiplexing network-on-chip with static throughput guarantee.</title>
+<pages>389-392</pages>
+<year>2010</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2010.5681443</ee>
+<ee>https://www.wikidata.org/entity/Q58671981</ee>
+<crossref>conf/fpt/2010</crossref>
+<url>db/conf/fpt/fpt2010.html#YangKH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/procedia/SinghJKS10" mdate="2020-01-24">
+<author pid="10/7647-2">Amit Kumar Singh 0002</author>
+<author pid="21/1136">Wu Jigang</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
+<title>Run-time mapping of multiple communicating tasks on MPSoC platforms.</title>
+<pages>1019-1026</pages>
+<year>2010</year>
+<crossref>conf/iccS/2010</crossref>
+<booktitle>ICCS</booktitle>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.procs.2010.04.113</ee>
+<ee>https://www.wikidata.org/entity/Q58210197</ee>
+<url>db/journals/procedia/procedia1.html#SinghJKS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/ShabbirKMC09" mdate="2018-11-24">
+<author pid="75/3222">Ahsan Shabbir</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Performance evaluation of concurrently executing parallel applications on multi-processor systems.</title>
+<pages>100-107</pages>
+<year>2009</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/ICSAMOS.2009.5289220</ee>
+<ee>https://www.wikidata.org/entity/Q58672061</ee>
+<crossref>conf/samos/2009ic</crossref>
+<url>db/conf/samos/samos2009ic.html#ShabbirKMC09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/KumarMTCH08" mdate="2020-02-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="58/656">Bart D. Theelen</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>Analyzing composability of applications on MPSoC platforms.</title>
+<pages>369-383</pages>
+<year>2008</year>
+<volume>54</volume>
+<journal>J. Syst. Archit.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1016/j.sysarc.2007.10.002</ee>
+<ee>https://www.wikidata.org/entity/Q58672075</ee>
+<url>db/journals/jsa/jsa54.html#KumarMTCH08</url>
+</article>
+</r>
+<r><article key="journals/todaes/KumarFHMC08" mdate="2018-11-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Multiprocessor systems synthesis for multiple use-cases of multiple applications on FPGA.</title>
+<year>2008</year>
+<volume>13</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1367045.1367049</ee>
+<ee>https://www.wikidata.org/entity/Q58672093</ee>
+<url>db/journals/todaes/todaes13.html#KumarFHMC08</url>
+<pages>40:1-40:27</pages>
+</article>
+</r>
+<r><inproceedings key="conf/date/KumarB08" mdate="2019-05-09">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="45/3508">Kees van Berkel 0001</author>
+<title>Vectorization of Reed Solomon Decoding and Mapping on the EVP.</title>
+<pages>450-455</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2008.4484722</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2008.4484722</ee>
+<ee>https://doi.org/10.1145/1403375.1403483</ee>
+<ee>https://www.wikidata.org/entity/Q58672109</ee>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#KumarB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imtic/ShabbirKMC08" mdate="2017-05-19">
+<author pid="75/3222">Ahsan Shabbir</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Enabling MPSoC Design Space Exploration on FPGAs.</title>
+<pages>412-421</pages>
+<year>2008</year>
+<booktitle>IMTIC</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-89853-5_44</ee>
+<crossref>conf/imtic/2008</crossref>
+<url>db/conf/imtic/imtic2008.html#ShabbirKMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/KumarMCTH07" mdate="2018-11-06">
+<author pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="58/656">Bart D. Theelen</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>A Probabilistic Approach to Model Resource Contention for Performance Estimation of Multi-featured Media Devices.</title>
+<pages>726-731</pages>
+<year>2007</year>
+<crossref>conf/dac/2007</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1278480.1278662</ee>
+<url>db/conf/dac/dac2007.html#KumarMCTH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KumarHHC07" mdate="2018-11-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="02/3616">Andreas Hansson</author>
+<author pid="32/6786">Jos Huisken</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Interactive presentation: An FPGA design flow for reconfigurable network-based multi-processor systems on chip.</title>
+<pages>117-122</pages>
+<year>2007</year>
+<crossref>conf/date/2007</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2007.364577</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2007.364577</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1266393</ee>
+<ee>https://www.wikidata.org/entity/Q58672137</ee>
+<url>db/conf/date/date2007.html#KumarHHC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/KumarFHMC07" mdate="2018-11-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="02/5004">Shakith Fernando</author>
+<author pid="29/3884">Yajun Ha</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<title>Multi-processor System-level Synthesis for Multiple Applications on Platform FPGA.</title>
+<pages>92-97</pages>
+<year>2007</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2007.4380631</ee>
+<ee>https://www.wikidata.org/entity/Q58672149</ee>
+<crossref>conf/fpl/2007</crossref>
+<url>db/conf/fpl/fpl2007.html#KumarFHMC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/KumarMCMY06" mdate="2018-11-24">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="19/4446">Jef L. van Meerbergen</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>Global Analysis of Resource Arbitration for MPSoC.</title>
+<pages>71-78</pages>
+<year>2006</year>
+<crossref>conf/dsd/2006</crossref>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2006.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2006.57</ee>
+<ee>https://www.wikidata.org/entity/Q58672161</ee>
+<url>db/conf/dsd/dsd2006.html#KumarMCMY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/estimedia/KumarMTCY06" mdate="2019-02-07">
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="74/5612">Bart Mesman</author>
+<author pid="58/656">Bart D. Theelen</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="29/3884">Yajun Ha</author>
+<title>Resource Manager for Non-preemptive Heterogeneous Multiprocessor System-on-chip.</title>
+<pages>33-38</pages>
+<year>2006</year>
+<booktitle>ESTImedia</booktitle>
+<ee>https://doi.org/10.1109/ESTMED.2006.321271</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ESTMED.2006.321271</ee>
+<ee>https://www.wikidata.org/entity/Q58672191</ee>
+<crossref>conf/estimedia/2006</crossref>
+<url>db/conf/estimedia/estimedia2006.html#KumarMTCY06</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/MohanAA05" mdate="2020-02-20">
+<author orcid="0000-0001-6764-268X" pid="m/GMohan">Gurusamy Mohan</author>
+<author orcid="0000-0001-7125-1737" pid="29/414">Akash Kumar 0001</author>
+<author pid="79/858">M. Ashish</author>
+<title>Efficient techniques for improved QoS performance in WDM optical burst switched networks.</title>
+<pages>754-764</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>Comput. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.comcom.2004.10.007</ee>
+<ee>https://www.wikidata.org/entity/Q58672206</ee>
+<url>db/journals/comcom/comcom28.html#MohanAA05</url>
+</article>
+</r>
+<r><inproceedings key="conf/wmp/CiobanuDK02" mdate="2020-12-29">
+<author orcid="0000-0002-8166-9456" pid="c/GCiobanu">Gabriel Ciobanu</author>
+<author pid="84/2274">Rahul Desai</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Membrane Systems and Distributed Computing.</title>
+<pages>187-202</pages>
+<year>2002</year>
+<crossref>conf/wmp/2002</crossref>
+<booktitle>WMC-CdeA</booktitle>
+<ee>https://doi.org/10.1007/3-540-36490-0_12</ee>
+<url>db/conf/wmp/wmc2002.html#CiobanuDK02</url>
+</inproceedings>
+</r>
+<coauthors n="257" nc="10">
+<co c="0" n="2"><na f="a/Abreu:Brunno" pid="210/1357">Brunno Abreu</na><na>Brunno A. Abreu</na></co>
+<co c="0"><na f="a/Agrawal:Rohit" pid="29/10123">Rohit Agrawal</na></co>
+<co c="0"><na f="a/Aguiar:Marilton_S=_de" pid="02/284">Marilton S. de Aguiar</na></co>
+<co c="0"><na f="a/Ahuja:Kapil" pid="77/1128">Kapil Ahuja</na></co>
+<co c="0"><na f="a/Al=Hashimi:Bashir_M=" pid="48/5139">Bashir M. Al-Hashimi</na></co>
+<co c="0"><na f="a/Alkan:Can" pid="a/CanAlkan">Can Alkan</na></co>
+<co c="3"><na f="a/Allugundu:Izaan" pid="121/1611">Izaan Allugundu</na></co>
+<co c="0"><na f="a/Alser:Mohammed" pid="178/2725">Mohammed Alser</na></co>
+<co c="0"><na f="a/Ambrose:Jude_Angelo" pid="10/6689">Jude Angelo Ambrose</na></co>
+<co c="0"><na f="a/Ang:Zhi_Ping" pid="06/7231">Zhi Ping Ang</na></co>
+<co c="4"><na f="a/Arora:Shikha" pid="153/2757">Shikha Arora</na></co>
+<co c="1"><na f="a/Arshad:Mohommad_Omer" pid="156/5262">Mohommad Omer Arshad</na></co>
+<co c="0"><na f="a/Ashish:M=" pid="79/858">M. Ashish</na></co>
+<co c="0"><na f="a/Asmussen:Nils" pid="162/7710">Nils Asmussen</na></co>
+<co c="0"><na f="a/A=szlig=mann:Uwe" pid="42/998">Uwe A&#223;mann</na></co>
+<co c="0"><na f="a/Aung:Khin_Mi_Mi" pid="85/2357">Khin Mi Mi Aung</na></co>
+<co c="0"><na f="a/Awan:Ahsan_Javed" pid="04/8978">Ahsan Javed Awan</na></co>
+<co c="9"><na f="a/Aysu:Aydin" pid="39/9049">Aydin Aysu</na></co>
+<co c="0"><na f="b/Baader:Franz" pid="b/FBaader">Franz Baader</na></co>
+<co c="0"><na f="b/Baier:Christel" pid="b/ChristelBaier">Christel Baier</na></co>
+<co c="0"><na f="b/Balaji:Adarsha" pid="235/8858">Adarsha Balaji</na></co>
+<co c="0"><na f="b/Baldauf:Tim" pid="179/3120">Tim Baldauf</na></co>
+<co c="0"><na f="b/Bampi:Sergio" pid="84/5693">Sergio Bampi</na></co>
+<co c="-1"><na f="b/Berkel_0001:Kees_van" pid="45/3508">Kees van Berkel 0001</na></co>
+<co c="0"><na f="b/Berndt:Augusto_Andre_Souza" pid="249/8820">Augusto Andre Souza Berndt</na></co>
+<co c="0"><na f="b/Bock:Karlheinz" pid="09/77">Karlheinz Bock</na></co>
+<co c="0"><na f="b/Bolchini:Cristiana" pid="b/CristianaBolchini">Cristiana Bolchini</na></co>
+<co c="2"><na f="b/Boyle:Evan_A=" pid="150/3322">Evan A. Boyle</na></co>
+<co c="0"><na f="b/Braak:Gert=Jan_van_den" pid="40/8745">Gert-Jan van den Braak</na></co>
+<co c="-1"><na f="b/Bruestel:Martin" pid="199/8624">Martin Bruestel</na></co>
+<co c="0"><na f="b/Brugel:Eric" pid="183/4836">Eric Brugel</na></co>
+<co c="0"><na f="b/Butzen:Paulo_F=" pid="93/5285">Paulo F. Butzen</na></co>
+<co c="0"><na f="c/Cadareanu:Patsy" pid="229/4325">Patsy Cadareanu</na></co>
+<co c="0"><na f="c/Campos:Isac_de_Souza" pid="280/3386">Isac de Souza Campos</na></co>
+<co c="0"><na f="c/Cardiff:Barry" pid="182/7346">Barry Cardiff</na></co>
+<co c="0"><na f="c/Carminati:Matteo" pid="115/7168">Matteo Carminati</na></co>
+<co c="0"><na f="c/Carvalho:Jonata_T=" pid="280/3474">Jonata T. Carvalho</na></co>
+<co c="0"><na f="c/Castrill=oacute=n:Jer=oacute=nimo" pid="04/5327">Jer&#243;nimo Castrill&#243;n</na></co>
+<co c="1"><na f="c/Chandrakumar:Chanjief" pid="210/2163">Chanjief Chandrakumar</na></co>
+<co c="0"><na f="c/Chatterjee:Satrajit" pid="78/2457">Satrajit Chatterjee</na></co>
+<co c="0"><na f="c/Chavarr=iacute=a=Miranda:Daniel_G=" pid="98/5776">Daniel G. Chavarr&#237;a-Miranda</na></co>
+<co c="0"><na f="c/Chien:Po=Chun" pid="258/6304">Po-Chun Chien</na></co>
+<co c="7"><na f="c/Ciobanu:Gabriel" pid="c/GCiobanu">Gabriel Ciobanu</na></co>
+<co c="0"><na f="c/Corda:Stefano" pid="228/2481">Stefano Corda</na></co>
+<co c="0"><na f="c/Corporaal:Henk" pid="53/6375">Henk Corporaal</na></co>
+<co c="0"><na f="c/Cox:Marco" pid="139/5775">Marco Cox</na></co>
+<co c="0"><na f="d/Das_0001:Anup" pid="95/9639">Anup Das 0001</na></co>
+<co c="0"><na f="d/Davoodi:Azadeh" pid="67/2433">Azadeh Davoodi</na></co>
+<co c="0" n="2"><na f="d/Deepu:Chacko_John" pid="04/8123">Chacko John Deepu</na><na>Deepu John</na></co>
+<co c="7"><na f="d/Desai:Rahul" pid="84/2274">Rahul Desai</na></co>
+<co c="0" n="2"><na f="d/D=ouml=rpinghaus:Meik" pid="98/4349">Meik D&#246;rpinghaus</na><na>Meik Dorpinghaus</na></co>
+<co c="0"><na f="d/Dotzel:Jordan" pid="230/4364">Jordan Dotzel</na></co>
+<co c="0"><na f="d/Dubslaff:Clemens" pid="28/11061">Clemens Dubslaff</na></co>
+<co c="4"><na f="d/Dwivedi:Vivek_Dhar" pid="153/2698">Vivek Dhar Dwivedi</na></co>
+<co c="0"><na f="e/Easwaran:Arvind" pid="73/1708">Arvind Easwaran</na></co>
+<co c="0"><na f="e/Ebrahimi:Zahra" pid="153/0637">Zahra Ebrahimi</na></co>
+<co c="0"><na f="e/Ejlali:Alireza" pid="e/AlirezaEjlali">Alireza Ejlali</na></co>
+<co c="0"><na f="e/El=Harouni:Walaa" pid="180/3702">Walaa El-Harouni</na></co>
+<co c="0"><na f="e/Ellinger:Frank" pid="49/1035">Frank Ellinger</na></co>
+<co c="0"><na f="e/Enz:Christian_C=" pid="85/951">Christian C. Enz</na></co>
+<co c="0"><na f="f/Fernando:Shakith" pid="02/5004">Shakith Fernando</na></co>
+<co c="0"><na f="f/Fery:Andreas" pid="233/4157">Andreas Fery</na></co>
+<co c="0"><na f="f/Fettweis:Gerhard_P=" pid="f/GFettweis">Gerhard P. Fettweis</na></co>
+<co c="0"><na f="f/Fitzek:Frank_H=_P=" pid="f/FHPFitzek">Frank H. P. Fitzek</na></co>
+<co c="0"><na f="f/Franz_0001:Elke" pid="73/5092">Elke Franz 0001</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Jochen" pid="82/1092">Jochen Fr&#246;hlich</na></co>
+<co c="0"><na f="f/Fujita:Masahiro" pid="56/1768">Masahiro Fujita</na></co>
+<co c="0"><na f="g/Gaillardon:Pierre=Emmanuel" pid="48/9513">Pierre-Emmanuel Gaillardon</na></co>
+<co c="0" n="2"><na f="g/Goens:Andres" pid="144/4631">Andres Goens</na><na>Andr&#233;s Goens</na></co>
+<co c="5"><na f="g/Goh:Cher=Hiang" pid="142/6927">Cher-Hiang Goh</na></co>
+<co c="8"><na f="g/Gottschall:Bjorn" pid="226/3822">Bjorn Gottschall</na></co>
+<co c="0"><na f="g/Grellert:Mateus" pid="29/9850">Mateus Grellert</na></co>
+<co c="0"><na f="g/Gu:Jiaqi" pid="147/1190">Jiaqi Gu</na></co>
+<co c="0"><na f="g/Guntoro:Andre" pid="95/6393">Andre Guntoro</na></co>
+<co c="0"><na f="g/Gupta:Pooja" pid="75/6183">Pooja Gupta</na></co>
+<co c="0"><na f="g/Gupta_0004:Siddharth" pid="45/7178-4">Siddharth Gupta 0004</na></co>
+<co c="0"><na f="h/Ha:Yajun" pid="29/3884">Yajun Ha</na></co>
+<co c="0"><na f="h/Haas:Sebastian" pid="16/9207">Sebastian Haas</na></co>
+<co c="0"><na f="h/Habich:Dirk" pid="97/5806">Dirk Habich</na></co>
+<co c="0"><na f="h/Hafiz:Rehan" pid="10/9281">Rehan Hafiz</na></co>
+<co c="0"><na f="h/Hanif:Muhammad_Abdullah" pid="191/2451">Muhammad Abdullah Hanif</na></co>
+<co c="0"><na f="h/Hansson:Andreas" pid="02/3616">Andreas Hansson</na></co>
+<co c="0"><na f="h/Haque:Mohammad_Shihabul" pid="19/7451">Mohammad Shihabul Haque</na></co>
+<co c="0"><na f="h/H=auml=rtig:Hermann" pid="h/HHartig">Hermann H&#228;rtig</na></co>
+<co c="0"><na f="h/Hasler:Mattis" pid="180/3667">Mattis Hasler</na></co>
+<co c="0"><na f="h/Hassan:Hasan" pid="147/4013">Hasan Hassan</na></co>
+<co c="0"><na f="h/He:Yifan" pid="70/6707">Yifan He</na></co>
+<co c="0"><na f="h/Heinzig:Andre" pid="144/4719">Andre Heinzig</na></co>
+<co c="0"><na f="h/Henkel:J=ouml=rg" pid="h/JorgHenkel">J&#246;rg Henkel</na></co>
+<co c="0" n="2"><na f="h/Herrmann:Linda" pid="147/5951">Linda Herrmann</na><na>Linda Leuschner</na></co>
+<co c="0"><na f="h/Hoo:Chin_Hao" pid="217/1500">Chin Hao Hoo</na></co>
+<co c="0"><na f="h/Hoo:Chin_Hau" pid="121/1711">Chin Hau Hoo</na></co>
+<co c="0"><na f="h/Hu:Xiaobo_Sharon" pid="h/XiaoboSharonHu">Xiaobo Sharon Hu</na></co>
+<co c="0"><na f="h/Huang:Kejie" pid="05/10461">Kejie Huang</na></co>
+<co c="0"><na f="h/Huang:Yu=Shan" pid="116/1189">Yu-Shan Huang</na></co>
+<co c="0"><na f="h/Huisken:Jos" pid="32/6786">Jos Huisken</na></co>
+<co c="0"><na f="h/Huismann:Immo" pid="175/1228">Immo Huismann</na></co>
+<co c="0"><na f="j/Jamshidi:Kambiz" pid="02/8576">Kambiz Jamshidi</na></co>
+<co c="0" n="2"><na f="j/Jiang:Jie=Hong_Roland" pid="13/2622">Jie-Hong Roland Jiang</na><na>Jie-Hong R. Jiang</na></co>
+<co c="0"><na f="j/Jiang:Zixuan" pid="258/6469">Zixuan Jiang</na></co>
+<co c="0" n="2"><na f="j/Jigang:Wu" pid="21/1136">Wu Jigang</na><na>Jigang Wu</na></co>
+<co c="0"><na f="j/John:Arlene" pid="173/4379">Arlene John</na></co>
+<co c="0"><na f="j/Jordans:Roel" pid="56/9361">Roel Jordans</na></co>
+<co c="1"><na f="k/Kamal:Khurram" pid="156/5234">Khurram Kamal</na></co>
+<co c="0"><na f="k/Karnagel:Tomas" pid="127/0442">Tomas Karnagel</na></co>
+<co c="0"><na f="k/Karol:Sven" pid="85/7069">Sven Karol</na></co>
+<co c="0"><na f="k/Khanh:Pham_Nam" pid="135/7872">Pham Nam Khanh</na></co>
+<co c="0"><na f="k/Khurana:Kanav" pid="121/1573">Kanav Khurana</na></co>
+<co c="0"><na f="k/Kissinger:Thomas" pid="97/11514">Thomas Kissinger</na></co>
+<co c="0"><na f="k/Kl=uuml=ppelholz:Sascha" pid="50/2079">Sascha Kl&#252;ppelholz</na></co>
+<co c="0"><na f="k/Kriebel:Florian" pid="41/10300">Florian Kriebel</na></co>
+<co c="0"><na f="k/Kuijsten:Jasper" pid="137/1404">Jasper Kuijsten</na></co>
+<co c="5"><na f="l/Le:Cao_Vinh" pid="133/3498">Cao Vinh Le</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Li:Ang" pid="33/2805">Ang Li</na></co>
+<co c="0"><na f="l/Li:Jiashu" pid="123/2330">Jiashu Li</na></co>
+<co c="0"><na f="l/Lian:Yong" pid="16/2244">Yong Lian</na></co>
+<co c="0"><na f="l/Lieber:Matthias" pid="49/2123">Matthias Lieber</na></co>
+<co c="0"><na f="l/Ling:Siqi" pid="189/1813">Siqi Ling</na></co>
+<co c="0"><na f="l/Lisa:Nusrat_Jahan" pid="152/6823">Nusrat Jahan Lisa</na></co>
+<co c="0"><na f="l/Liu_0002:Weifeng" pid="23/1112-2">Weifeng Liu 0002</na></co>
+<co c="0"><na f="l/Liu_0001:Xu" pid="93/3167-1">Xu Liu 0001</na></co>
+<co c="3"><na f="l/Lo:Yat_Piu" pid="121/1750">Yat Piu Lo</na></co>
+<co c="0"><na f="l/Lohana:Aditya" pid="277/5288">Aditya Lohana</na></co>
+<co c="0"><na f="l/Luo:Shaobo" pid="129/2076">Shaobo Luo</na></co>
+<co c="0"><na f="m/Maheshwari:Dhaarna" pid="277/1469">Dhaarna Maheshwari</na></co>
+<co c="0"><na f="m/Maheshwari:Sidharth" pid="152/5202">Sidharth Maheshwari</na></co>
+<co c="0"><na f="m/Manoharan:Manmohan" pid="156/6755">Manmohan Manoharan</na></co>
+<co c="0"><na f="m/Manske:Guilherme_B=" pid="280/3786">Guilherme B. Manske</na></co>
+<co c="0"><na f="m/M=auml=rcker:Steffen" pid="69/10395">Steffen M&#228;rcker</na></co>
+<co c="2"><na f="m/Martin:Beth_K=" pid="150/3035">Beth K. Martin</na></co>
+<co c="1"><na f="m/Mathavan:Senthan" pid="156/5389">Senthan Mathavan</na></co>
+<co c="0"><na f="m/Mayr:Christian" pid="44/6754">Christian Mayr</na></co>
+<co c="0"><na f="m/Mazaheri:Ghazal" pid="218/1146">Ghazal Mazaheri</na></co>
+<co c="0"><na f="m/Meerbergen:Jef_L=_van" pid="19/4446">Jef L. van Meerbergen</na></co>
+<co c="0"><na f="m/Meinhardt:Cristina" pid="38/1116">Cristina Meinhardt</na></co>
+<co c="0"><na f="m/Menard:Christian" pid="82/263">Christian Menard</na></co>
+<co c="0"><na f="m/Merchant:Farhad" pid="141/0649">Farhad Merchant</na></co>
+<co c="0"><na f="m/Merrett:Geoff_V=" pid="79/2874">Geoff V. Merrett</na></co>
+<co c="0"><na f="m/Mertig:Michael" pid="123/6023">Michael Mertig</na></co>
+<co c="0"><na f="m/Mesman:Bart" pid="74/5612">Bart Mesman</na></co>
+<co c="0"><na f="m/Mey:Johannes" pid="172/8735">Johannes Mey</na></co>
+<co c="0"><na f="m/Miele:Antonio" pid="46/4009">Antonio Miele</na></co>
+<co c="0"><na f="m/Mikolajick:Thomas" pid="144/4455">Thomas Mikolajick</na></co>
+<co c="0"><na f="m/Mishchenko:Alan" pid="50/976">Alan Mishchenko</na></co>
+<co c="4"><na f="m/Mishra:Sarad_Kumar" pid="153/2690">Sarad Kumar Mishra</na></co>
+<co c="0"><na f="m/Mitra:Tulika" pid="22/5985">Tulika Mitra</na></co>
+<co c="0"><na f="m/Miyasaka:Yukio" pid="240/0894">Yukio Miyasaka</na></co>
+<co c="0"><na f="m/Mohamed:Shihab" pid="198/7878">Shihab Mohamed</na></co>
+<co c="0"><na f="m/Mohan:Gurusamy" pid="m/GMohan">Gurusamy Mohan</na></co>
+<co c="0"><na f="m/Moriam:Sadia" pid="176/1190">Sadia Moriam</na></co>
+<co c="0"><na f="m/Mousavi:Mahsa" pid="221/9342">Mahsa Mousavi</na></co>
+<co c="0"><na f="m/Murthy:Sanjeev_Sripadraj" pid="221/2831">Sanjeev Sripadraj Murthy</na></co>
+<co c="0"><na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na></co>
+<co c="0"><na f="n/Nagel:Wolfgang_E=" pid="66/4013">Wolfgang E. Nagel</na></co>
+<co c="0"><na f="n/Nambi:Suresh" pid="277/5119">Suresh Nambi</na></co>
+<co c="0"><na f="n/Nath:Pallab" pid="249/2971">Pallab Nath</na></co>
+<co c="0"><na f="n/Neto:Walter_Lau" pid="188/8998">Walter Lau Neto</na></co>
+<co c="0"><na f="n/Nguyen_0002:Giang_T=" pid="10/1557-2">Giang T. Nguyen 0002</na></co>
+<co c="0" n="2"><na f="n/Nguyen:Tuan_D=_A=" pid="153/0579">Tuan D. A. Nguyen</na><na>Tuan Duy Anh Nguyen</na></co>
+<co c="1"><na f="n/Nieminen:Michael" pid="240/7939">Michael Nieminen</na></co>
+<co c="0"><na f="n/Nihar:Alamuri_Sriram" pid="223/8979">Alamuri Sriram Nihar</na></co>
+<co c="0" n="2"><na f="n/Noethen:Benedikt" pid="119/3702">Benedikt Noethen</na><na>Benedikt N&#246;then</na></co>
+<co c="0"><na f="n/Nugteren:Cedric" pid="55/9958">Cedric Nugteren</na></co>
+<co c="0"><na f="o/Oomen:Roel" pid="169/2321">Roel Oomen</na></co>
+<co c="2"><na f="o/O=Roak:Brian_J=" pid="150/3121">Brian J. O'Roak</na></co>
+<co c="0"><na f="p/Pan:David_Z=" pid="p/DavidZhigangPan">David Z. Pan</na></co>
+<co c="5"><na f="p/Pang:Chee_Khiang" pid="12/8821">Chee Khiang Pang</na></co>
+<co c="0"><na f="p/Panicker:Rajesh_C=" pid="277/9493">Rajesh C. Panicker</na></co>
+<co c="0"><na f="p/Panicker:Rajesh_Chandrasekhara" pid="97/7663">Rajesh Chandrasekhara Panicker</na></co>
+<co c="0"><na f="p/Parameswaran:Sri" pid="38/622">Sri Parameswaran</na></co>
+<co c="0"><na f="p/Parra:Cecilia_De_la" pid="268/2353">Cecilia De la Parra</na></co>
+<co c="0"><na f="p/Pe=ntilde=aloza:Rafael" pid="56/3960">Rafael Pe&#241;aloza</na></co>
+<co c="0"><na f="p/Plettemeier:Dirk" pid="23/4164">Dirk Plettemeier</na></co>
+<co c="0"><na f="p/Pontes:Matheus_F=" pid="234/1454">Matheus F. Pontes</na></co>
+<co c="9"><na f="p/Potluri:Seetal" pid="93/9978">Seetal Potluri</na></co>
+<co c="0"><na f="p/Pourshaghaghi:Hamid_Reza" pid="87/8906">Hamid Reza Pourshaghaghi</na></co>
+<co c="0"><na f="p/Prabakaran:Bharath_Srinivas" pid="199/8771">Bharath Srinivas Prabakaran</na></co>
+<co c="8"><na f="p/PreuBer:Thomas" pid="226/3805">Thomas PreuBer</na></co>
+<co c="3"><na f="p/Puranik:Pranay" pid="121/1664">Pranay Puranik</na></co>
+<co c="1"><na f="r/Rahman:Mujib" pid="168/6498">Mujib Rahman</na></co>
+<co c="0"><na f="r/Rai:Shubham" pid="218/1119">Shubham Rai</na></co>
+<co c="0"><na f="r/Raitza:Michael" pid="121/1652">Michael Raitza</na></co>
+<co c="0"><na f="r/Ranjbar:Behnaz" pid="251/4343">Behnaz Ranjbar</na></co>
+<co c="0"><na f="r/Raut:Gopal" pid="247/3715">Gopal Raut</na></co>
+<co c="0"><na f="r/Rehman:Semeen" pid="39/10300">Semeen Rehman</na></co>
+<co c="0"><na f="r/Rosa_Jr=:Leomar_S=_da" pid="16/5173">Leomar S. da Rosa Jr.</na></co>
+<co c="0"><na f="r/Rupani:Ansh" pid="218/1181">Ansh Rupani</na></co>
+<co c="0"><na f="s/Safaei:Bardia" pid="239/8712">Bardia Safaei</na></co>
+<co c="0"><na f="s/Sahoo:Siva_Satyendra" pid="179/2952">Siva Satyendra Sahoo</na></co>
+<co c="0"><na f="s/Santos:Rui" pid="41/3686">Rui Santos</na></co>
+<co c="0"><na f="s/Sardar:Muhammad_Usama" pid="180/8569">Muhammad Usama Sardar</na></co>
+<co c="0"><na f="s/Schlachter:Jeremy" pid="161/0168">Jeremy Schlachter</na></co>
+<co c="0"><na f="s/Schmidl:Hendrik" pid="285/5114">Hendrik Schmidl</na></co>
+<co c="0"><na f="s/Schr=ouml=ter:Michael" pid="95/3054">Michael Schr&#246;ter</na></co>
+<co c="0"><na f="s/Shabbir:Ahsan" pid="75/3222">Ahsan Shabbir</na></co>
+<co c="0" n="2"><na f="s/Shafik:Rishad_A=" pid="60/617">Rishad A. Shafik</na><na>Rishad Ahmed Shafik</na></co>
+<co c="0"><na f="s/Shafique_0001:Muhammad" pid="s/MuhammadShafique">Muhammad Shafique 0001</na></co>
+<co c="1"><na f="s/Shah:Hitesh" pid="70/129">Hitesh Shah</na></co>
+<co c="2"><na f="s/Shendure:Jay" pid="82/9357">Jay Shendure</na></co>
+<co c="0"><na f="s/Singh_0002:Amit_Kumar" pid="10/7647-2">Amit Kumar Singh 0002</na></co>
+<co c="0"><na f="s/Siyoum:Firew" pid="59/9361">Firew Siyoum</na></co>
+<co c="0" n="2"><na f="s/Song:Shuaiwen" pid="23/7512">Shuaiwen Song</na><na>Shuaiwen Leon Song</na></co>
+<co c="0"><na f="s/Srikanthan:Thambipillai" pid="23/1694">Thambipillai Srikanthan</na></co>
+<co c="0"><na f="s/Srinivasa:Srivatsa_Rangachar" pid="195/4175">Srivatsa Rangachar Srinivasa</na></co>
+<co c="0"><na f="s/Srinivasan:Dipti" pid="22/1632">Dipti Srinivasan</na></co>
+<co c="0"><na f="s/Stiller:J=ouml=rg" pid="71/5052">J&#246;rg Stiller</na></co>
+<co c="1"><na f="s/Stonecliffe=Jones:Martyn" pid="210/1327">Martyn Stonecliffe-Jones</na></co>
+<co c="0"><na f="s/Strufe:Thorsten" pid="69/2809">Thorsten Strufe</na></co>
+<co c="0"><na f="s/Stuijk:Sander" pid="42/6513">Sander Stuijk</na></co>
+<co c="0"><na f="s/Subramaniyan_0001:Arun" pid="168/1018">Arun Subramaniyan 0001</na></co>
+<co c="0"><na f="s/Suresh:Dipika" pid="154/8149">Dipika Suresh</na></co>
+<co c="0"><na f="t/Tang:Liang" pid="79/918">Liang Tang</na></co>
+<co c="0"><na f="t/Tay:Y=_C=" pid="t/YCTay">Y. C. Tay</na></co>
+<co c="0"><na f="t/Tenace:Valerio" pid="09/11301">Valerio Tenace</na></co>
+<co c="0"><na f="t/Theelen:Bart_D=" pid="58/656">Bart D. Theelen</na></co>
+<co c="0"><na f="t/Tiwari:Aruna" pid="07/3137">Aruna Tiwari</na></co>
+<co c="0"><na f="t/Topaloglu:Rasit_Onur" pid="75/6468">Rasit Onur Topaloglu</na></co>
+<co c="0"><na f="t/Trommer:Jens" pid="144/4668">Jens Trommer</na></co>
+<co c="0"><na f="u/Ullah:Salim" pid="218/1191">Salim Ullah</na></co>
+<co c="0"><na f="u/Ungeth=uuml=m:Annett" pid="162/7729">Annett Ungeth&#252;m</na></co>
+<co c="1"><na f="v/Vadamala:Tanabaalan" pid="156/5254">Tanabaalan Vadamala</na></co>
+<co c="1"><na f="v/Vaheesan:Kanapathippillai" pid="210/1249">Kanapathippillai Vaheesan</na></co>
+<co c="0"><na f="v/Vasudevan:Sriram" pid="179/3177">Sriram Vasudevan</na></co>
+<co c="0"><na f="v/Veenboer:Bram" pid="192/1305">Bram Veenboer</na></co>
+<co c="0"><na f="v/Veeravalli:Bharadwaj" pid="58/3541">Bharadwaj Veeravalli</na></co>
+<co c="0"><na f="v/Venkataraman:Shyamsundar" pid="136/3838">Shyamsundar Venkataraman</na></co>
+<co c="0" n="2"><na f="v/Vijaykrishnan:Narayanan" pid="v/NarayananVijaykrishnan">Narayanan Vijaykrishnan</na><na>Vijaykrishnan Narayanan</na></co>
+<co c="0"><na f="v/Vishvakarma:Santosh_Kumar" pid="57/11307">Santosh Kumar Vishvakarma</na></co>
+<co c="0"><na f="v/Voigt:Axel" pid="66/624">Axel Voigt</na></co>
+<co c="0"><na f="v/V=ouml=lp:Marcus" pid="52/6494">Marcus V&#246;lp</na></co>
+<co c="0"><na f="w/Walter:Dennis" pid="27/3968">Dennis Walter</na></co>
+<co c="0"><na f="w/Walther:Paul" pid="220/6895">Paul Walther</na></co>
+<co c="0"><na f="w/Wang:Hanyu" pid="152/4299">Hanyu Wang</na></co>
+<co c="0"><na f="w/Wang:Hoa=Ren" pid="280/3160">Hoa-Ren Wang</na></co>
+<co c="0"><na f="w/Wang:Sheng_Hao" pid="123/8071">Sheng Hao Wang</na></co>
+<co c="0"><na f="w/Wang:Siqi" pid="145/2904">Siqi Wang</na></co>
+<co c="0"><na f="w/Wang_0016:Yi" pid="67/6649-16">Yi Wang 0016</na></co>
+<co c="0"><na f="w/Weber:Walter_M=" pid="144/4813">Walter M. Weber</na></co>
+<co c="0"><na f="w/Wei:Qingsong" pid="59/6202">Qingsong Wei</na></co>
+<co c="0"><na f="w/Wijtvliet:Mark" pid="136/3848">Mark Wijtvliet</na></co>
+<co c="6"><na f="w/Wong:Ford=Long" pid="91/4917">Ford-Long Wong</na></co>
+<co c="0"><na f="w/Wu:Qiang" pid="87/2533">Qiang Wu</na></co>
+<co c="0"><na f="w/Wunderlich:Sascha" pid="143/2676">Sascha Wunderlich</na></co>
+<co c="6"><na f="x/Xing:Yihuan" pid="156/4671">Yihuan Xing</na></co>
+<co c="0"><na f="y/Yang:Zhiyao_Joseph" pid="47/9860">Zhiyao Joseph Yang</na></co>
+<co c="0"><na f="y/Yi:Qingyang" pid="280/3164">Qingyang Yi</na></co>
+<co c="0"><na f="y/Yin:Xunzhao" pid="179/2993">Xunzhao Yin</na></co>
+<co c="0"><na f="y/Yu:Mingfei" pid="280/0391">Mingfei Yu</na></co>
+<co c="0"><na f="z/Zeng_0015:Wei" pid="80/1961-15">Wei Zeng 0015</na></co>
+<co c="0"><na f="z/Zhang:Eddy_Z=" pid="93/1040">Eddy Z. Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinpei" pid="280/3389">Xinpei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yichi" pid="86/7054">Yichi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhiru" pid="81/4227">Zhiru Zhang</na></co>
+<co c="0"><na f="z/Zhao:Rong" pid="81/1620">Rong Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zheng" pid="75/6680">Zheng Zhao</na></co>
+<co c="0"><na f="z/Zhou:Yuan" pid="40/7018">Yuan Zhou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,557 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e07f0cfa6d95ca0d87e36165478e3978e2da35330fc337df2cd3553bf4a6e94d
-size 25516
+<?xml version="1.0"?>
+<dblpperson name="Itamar Levi" pid="119/4177" n="32">
+<person key="homepages/119/4177" mdate="2012-10-08">
+<author pid="119/4177">Itamar Levi</author>
+</person>
+<r><article key="journals/cryptography/BreuerL20" mdate="2021-01-21">
+<author pid="282/4994">Rinat Breuer</author>
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<title>How Bad Are Bad Templates? Optimistic Design-Stage Side-Channel Security Evaluation and its Cost.</title>
+<pages>36</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Cryptogr.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3390/cryptography4040036</ee>
+<url>db/journals/cryptography/cryptography4.html#BreuerL20</url>
+</article>
+</r>
+<r><article key="journals/ijcta/LeviBS20" mdate="2020-05-22">
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6947-4410" pid="186/1828">Davide Bellizia</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<title>Beyond algorithmic noise or how to shuffle parallel implementations?</title>
+<pages>674-695</pages>
+<year>2020</year>
+<volume>48</volume>
+<journal>Int. J. Circuit Theory Appl.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cta.2756</ee>
+<url>db/journals/ijcta/ijcta48.html#LeviBS20</url>
+</article>
+</r>
+<r><article key="journals/tcas/LeviBBS20" mdate="2020-12-17">
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6947-4410" pid="186/1828">Davide Bellizia</author>
+<author orcid="0000-0002-2678-1613" pid="88/677">David Bol</author>
+<author orcid="0000-0001-7444-0285" pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<title>Ask Less, Get More: Side-Channel Signal Hiding, Revisited.</title>
+<pages>4904-4917</pages>
+<year>2020</year>
+<volume>67-I</volume>
+<journal>IEEE Trans. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCSI.2020.3005338</ee>
+<url>db/journals/tcas/tcasI67.html#LeviBBS20</url>
+</article>
+</r>
+<r><article key="journals/tosc/BilginMDLS20" mdate="2020-10-26">
+<author pid="50/11487">Beg&#252;l Bilgin</author>
+<author pid="196/5987">Lauren De Meyer</author>
+<author orcid="0000-0003-2558-1756" pid="08/4501">S&#233;bastien Duval</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<title>Low AND Depth and Efficient Inverses: a Guide on S-boxes for Low-latency Masking.</title>
+<pages>144-184</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2020.i1.144-184</ee>
+<url>db/journals/tosc/tosc2020.html#BilginMDLS20</url>
+</article>
+</r>
+<r><article key="journals/tosc/BelliziaBBCDGLL20" mdate="2021-03-04">
+<author pid="186/1828">Davide Bellizia</author>
+<author pid="189/1685">Francesco Berti</author>
+<author pid="227/9029">Olivier Bronchain</author>
+<author pid="220/2633">Ga&#235;tan Cassiers</author>
+<author orcid="0000-0003-2558-1756" pid="08/4501">S&#233;bastien Duval</author>
+<author pid="85/10076-2">Chun Guo 0002</author>
+<author pid="90/4585">Gregor Leander</author>
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="258/9153">Charles Momin</author>
+<author pid="78/1061">Olivier Pereira</author>
+<author pid="56/11145">Thomas Peters</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="271/5385">Balazs Udvarhelyi</author>
+<author pid="159/2635">Friedrich Wiemer</author>
+<title>Spook: Sponge-Based Leakage-Resistant Authenticated Encryption with a Masked Tweakable Block Cipher.</title>
+<pages>295-349</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>S1</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2020.iS1.295-349</ee>
+<url>db/journals/tosc/tosc2020.html#BelliziaBBCDGLL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/KnechtelK0HCMDF20" mdate="2020-06-25">
+<author pid="94/9547">Johann Knechtel</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="68/10491">Annelie Heuser</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="89/4589">Soumyajit Dey</author>
+<author pid="67/5667">Yunsi Fei</author>
+<author pid="125/0193">Yaacov Belenky</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.</title>
+<pages>508-513</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116483</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#KnechtelK0HCMDF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZabibESWLKF20" mdate="2021-01-18">
+<author pid="208/0367">David Zooker Zabib</author>
+<author pid="283/1135">Matan Elkoni</author>
+<author pid="282/9768">Or Ohev Shalom</author>
+<author pid="131/5141">Yoav Weizman</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="74/6754">Osnat Keren</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Temporal Power Redistribution as a Countermeasure against Side-Channel Attacks.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS45731.2020.9180478</ee>
+<crossref>conf/iscas/2020</crossref>
+<url>db/conf/iscas/iscas2020.html#ZabibESWLKF20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-09672" mdate="2020-03-31">
+<author pid="94/9547">Johann Knechtel</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="68/10491">Annelie Heuser</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="89/4589">Soumyajit Dey</author>
+<author pid="67/5667">Yunsi Fei</author>
+<author pid="125/0193">Yaacov Belenky</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.</title>
+<year>2020</year>
+<volume>abs/2001.09672</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.09672</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-09672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CassiersGLS20" mdate="2020-05-11">
+<author pid="220/2633">Ga&#235;tan Cassiers</author>
+<author pid="28/2414">Benjamin Gr&#233;goire</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<title>Hardware Private Circuits: From Trivial Composition to Full Verification.</title>
+<pages>185</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/185</ee>
+<url>db/journals/iacr/iacr2020.html#CassiersGLS20</url>
+</article>
+</r>
+<r><article key="journals/integration/NawazBLSF19" mdate="2020-02-20">
+<author pid="143/0419">Kashif Nawaz</author>
+<author pid="224/6273">L&#233;opold Van Brandt</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="13/6542">Denis Flandre</author>
+<title>A security oriented transient-noise simulation methodology: Evaluation of intrinsic physical noise of cryptographic designs.</title>
+<pages>71-79</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2019.06.006</ee>
+<url>db/journals/integration/integration68.html#NawazBLSF19</url>
+</article>
+</r>
+<r><article key="journals/jssc/TacoLLF19" mdate="2020-08-30">
+<author orcid="0000-0003-3046-2364" pid="173/0919">Ramiro Taco</author>
+<author pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6480-9218" pid="03/5549">Marco Lanuzza</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>An 88-fJ/40-MHz [0.4 V]-0.61-pJ/1-GHz [0.9 V] Dual-Mode Logic 8 &#215; 8 bit Multiplier Accumulator With a Self-Adjustment Mechanism in 28-nm FD-SOI.</title>
+<pages>560-568</pages>
+<year>2019</year>
+<volume>54</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSSC.2018.2882139</ee>
+<url>db/journals/jssc/jssc54.html#TacoLLF19</url>
+</article>
+</r>
+<r><article key="journals/tches/LeviBS19" mdate="2020-02-06">
+<author pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6947-4410" pid="186/1828">Davide Bellizia</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<title>Reducing a Masked Implementation's Effective Security Order with Setup Manipulations And an Explanation Based on Externally-Amplified Couplings.</title>
+<pages>293-317</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2019.i2.293-317</ee>
+<url>db/journals/tches/tches2019.html#LeviBS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/TacoLLF19" mdate="2019-09-25">
+<author pid="173/0919">Ramiro Taco</author>
+<author pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6480-9218" pid="03/5549">Marco Lanuzza</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Live Demo: An 88fJ / 40 MHz [0.4V] - 0.61pJ / 1GHz [0.9V] Dual Mode Logic 8&#215;8-Bit Multiplier Accumulator with a Self-Adjustment Mechanism in 28 nm FD-SOI.</title>
+<pages>1</pages>
+<year>2019</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2019.8702170</ee>
+<crossref>conf/iscas/2019</crossref>
+<url>db/conf/iscas/iscas2019.html#TacoLLF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntms/RudinLFK19" mdate="2019-07-25">
+<author pid="218/1145">Yehuda Rudin</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="97/6182">Alexander Fish</author>
+<author pid="74/6754">Osnat Keren</author>
+<title>FPGA Implementation of pAsynch Design Paradigm.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>NTMS</booktitle>
+<ee>https://doi.org/10.1109/NTMS.2019.8763813</ee>
+<crossref>conf/ntms/2019</crossref>
+<url>db/conf/ntms/ntms2019.html#RudinLFK19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/LeviFK18" mdate="2020-03-11">
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<author pid="97/6182">Alexander Fish</author>
+<author orcid="0000-0002-3101-9551" pid="74/6754">Osnat Keren</author>
+<title>Low-Cost Pseudoasynchronous Circuit Design Style With Reduced Exploitable Side Information.</title>
+<pages>82-95</pages>
+<year>2018</year>
+<volume>26</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVLSI.2017.2757064</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVLSI.2017.2757064</ee>
+<url>db/journals/tvlsi/tvlsi26.html#LeviFK18</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/GitermanVLWKF18" mdate="2020-03-11">
+<author orcid="0000-0002-3845-4580" pid="144/6034">Robert Giterman</author>
+<author pid="227/3576">Maoz Vicentowski</author>
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<author pid="131/5141">Yoav Weizman</author>
+<author orcid="0000-0002-3101-9551" pid="74/6754">Osnat Keren</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Leakage Power Attack-Resilient Symmetrical 8T SRAM Cell.</title>
+<pages>2180-2184</pages>
+<year>2018</year>
+<volume>26</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>10</number>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVLSI.2018.2840132</ee>
+<url>db/journals/tvlsi/tvlsi26.html#GitermanVLWKF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/LeviRFK18" mdate="2018-04-24">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="218/1145">Yehuda Rudin</author>
+<author pid="97/6182">Alexander Fish</author>
+<author pid="74/6754">Osnat Keren</author>
+<title>Embedded randomness and data dependencies design paradigm: Advantages and challenges.</title>
+<pages>395-400</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342042</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#LeviRFK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ngcas/NawazLSF18" mdate="2018-12-20">
+<author pid="143/0419">Kashif Nawaz</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="38/2138">Fran&#231;ois-Xavier Standaert</author>
+<author pid="13/6542">Denis Flandre</author>
+<title>A Transient Noise Analysis of Secured Dual-Rail Based Logic Style.</title>
+<pages>146-149</pages>
+<year>2018</year>
+<booktitle>NGCAS</booktitle>
+<ee>https://doi.org/10.1109/NGCAS.2018.8572199</ee>
+<crossref>conf/ngcas/2018</crossref>
+<url>db/conf/ngcas/ngcas2018.html#NawazLSF18</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/LeviMAKF17" mdate="2018-07-04">
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<author pid="210/0334">Netanel Miller</author>
+<author pid="210/0552">Elad Avni</author>
+<author pid="74/6754">Osnat Keren</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>A Survey of the Sensitivities of Security Oriented Flip-Flop Circuits.</title>
+<pages>24797-24809</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2017.2766243</ee>
+<url>db/journals/access/access5.html#LeviMAKF17</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/LeviFK17" mdate="2020-03-11">
+<author orcid="0000-0002-5591-5799" pid="119/4177">Itamar Levi</author>
+<author pid="97/6182">Alexander Fish</author>
+<author pid="74/6754">Osnat Keren</author>
+<title>CPA Secured Data-Dependent Delay-Assignment Methodology.</title>
+<pages>608-620</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVLSI.2016.2592967</ee>
+<url>db/journals/tvlsi/tvlsi25.html#LeviFK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/TacoLLF17" mdate="2018-11-02">
+<author pid="173/0919">Ramiro Taco</author>
+<author pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6480-9218" pid="03/5549">Marco Lanuzza</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Evaluation of Dual Mode Logic in 28nm FD-SOI technology.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2017.8050998</ee>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#TacoLLF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/MoyalLTF16" mdate="2020-02-20">
+<author pid="188/1392">Lior Moyal</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="92/4765">Adam Teman</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Synthesis of Dual Mode Logic.</title>
+<pages>246-253</pages>
+<year>2016</year>
+<volume>55</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2016.07.004</ee>
+<url>db/journals/integration/integration55.html#MoyalLTF16</url>
+</article>
+</r>
+<r><article key="journals/tcas/AvitalLKF16" mdate="2020-05-22">
+<author orcid="0000-0002-3812-8697" pid="149/5058">Moshe Avital</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="74/6754">Osnat Keren</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>CMOS Based Gates for Blurring Power Information.</title>
+<pages>1033-1042</pages>
+<year>2016</year>
+<volume>63-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCSI.2016.2546387</ee>
+<url>db/journals/tcas/tcasI63.html#AvitalLKF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/TacoLLF16" mdate="2017-06-15">
+<author pid="173/0919">Ramiro Taco</author>
+<author pid="119/4177">Itamar Levi</author>
+<author orcid="0000-0002-6480-9218" pid="03/5549">Marco Lanuzza</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Extended exploration of low granularity back biasing control in 28nm UTBB FD-SOI technology.</title>
+<pages>41-44</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2016.7527165</ee>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#TacoLLF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/YuzhaninovLF15" mdate="2018-08-15">
+<author pid="138/0428">Viacheslav Yuzhaninov</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Design Flow and Characterization Methodology for Dual Mode Logic.</title>
+<pages>3089-3101</pages>
+<year>2015</year>
+<volume>3</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2016.2514398</ee>
+<url>db/journals/access/access3.html#YuzhaninovLF15</url>
+</article>
+</r>
+<r><article key="journals/tcas/AvitalDLKF15" mdate="2020-05-22">
+<author pid="149/5058">Moshe Avital</author>
+<author pid="119/4131">Hadar Dagan</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="74/6754">Osnat Keren</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>DPA-Secured Quasi-Adiabatic Logic (SQAL) for Low-Power Passive RFID Tags Employing S-Boxes.</title>
+<pages>149-156</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCSI.2014.2359720</ee>
+<url>db/journals/tcas/tcasI62.html#AvitalDLKF15</url>
+</article>
+</r>
+<r><article key="journals/tcas/LeviKF15" mdate="2020-05-22">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="74/6754">Osnat Keren</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Data-Dependent Delays as a Barrier Against Power Attacks.</title>
+<pages>2069-2078</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TCSI.2015.2452371</ee>
+<url>db/journals/tcas/tcasI62.html#LeviKF15</url>
+</article>
+</r>
+<r><article key="journals/tcas/LeviAFW14" mdate="2020-05-22">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="147/7347">Amir Albeck</author>
+<author pid="97/6182">Alexander Fish</author>
+<author pid="49/3159">Shmuel Wimer</author>
+<title>A Low Energy and High Performance ${\rm DM}^{2}$ Adder.</title>
+<pages>3175-3183</pages>
+<year>2014</year>
+<volume>61-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCSI.2014.2334793</ee>
+<url>db/journals/tcas/tcasI61.html#LeviAFW14</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/LeviBF14" mdate="2020-03-11">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="01/2649">Alexander Belenky</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Logical Effort for CMOS-Based Dual Mode Logic Gates.</title>
+<pages>1042-1053</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TVLSI.2013.2257902</ee>
+<url>db/journals/tvlsi/tvlsi22.html#LeviBF14</url>
+</article>
+</r>
+<r><article key="journals/access/LeviF13" mdate="2018-07-04">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Dual Mode Logic - Design for Energy Efficiency and High Performance.</title>
+<pages>258-265</pages>
+<year>2013</year>
+<volume>1</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2013.2262015</ee>
+<url>db/journals/access/access1.html#LeviF13</url>
+</article>
+</r>
+<r><article key="journals/mj/LeviKF13" mdate="2020-02-22">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="119/4097">Asaf Kaizerman</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>Low voltage dual mode logic: Model analysis and parameter extraction.</title>
+<pages>553-560</pages>
+<year>2013</year>
+<volume>44</volume>
+<journal>Microelectron. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.mejo.2013.03.005</ee>
+<url>db/journals/mj/mj44.html#LeviKF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/LeviBKBF12" mdate="2017-05-26">
+<author pid="119/4177">Itamar Levi</author>
+<author pid="119/4242">Ori Bass</author>
+<author pid="119/4097">Asaf Kaizerman</author>
+<author pid="01/2649">Alexander Belenky</author>
+<author pid="97/6182">Alexander Fish</author>
+<title>High speed Dual Mode Logic Carry Look Ahead Adder.</title>
+<pages>3037-3040</pages>
+<year>2012</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2012.6271959</ee>
+<crossref>conf/iscas/2012</crossref>
+<url>db/conf/iscas/iscas2012.html#LeviBKBF12</url>
+</inproceedings>
+</r>
+<coauthors n="57" nc="1">
+<co c="0"><na f="a/Albeck:Amir" pid="147/7347">Amir Albeck</na></co>
+<co c="0"><na f="a/Avital:Moshe" pid="149/5058">Moshe Avital</na></co>
+<co c="0"><na f="a/Avni:Elad" pid="210/0552">Elad Avni</na></co>
+<co c="0"><na f="b/Bass:Ori" pid="119/4242">Ori Bass</na></co>
+<co c="0"><na f="b/Belenky:Alexander" pid="01/2649">Alexander Belenky</na></co>
+<co c="0"><na f="b/Belenky:Yaacov" pid="125/0193">Yaacov Belenky</na></co>
+<co c="0"><na f="b/Bellizia:Davide" pid="186/1828">Davide Bellizia</na></co>
+<co c="0"><na f="b/Berti:Francesco" pid="189/1685">Francesco Berti</na></co>
+<co c="0"><na f="b/Bilgin:Beg=uuml=l" pid="50/11487">Beg&#252;l Bilgin</na></co>
+<co c="0"><na f="b/Bol:David" pid="88/677">David Bol</na></co>
+<co c="0"><na f="b/Brandt:L=eacute=opold_Van" pid="224/6273">L&#233;opold Van Brandt</na></co>
+<co c="-1"><na f="b/Breuer:Rinat" pid="282/4994">Rinat Breuer</na></co>
+<co c="0"><na f="b/Bronchain:Olivier" pid="227/9029">Olivier Bronchain</na></co>
+<co c="0"><na f="c/Cassiers:Ga=euml=tan" pid="220/2633">Ga&#235;tan Cassiers</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="d/Dagan:Hadar" pid="119/4131">Hadar Dagan</na></co>
+<co c="0"><na f="d/Dey:Soumyajit" pid="89/4589">Soumyajit Dey</na></co>
+<co c="0"><na f="d/Duval:S=eacute=bastien" pid="08/4501">S&#233;bastien Duval</na></co>
+<co c="0"><na f="e/Elkoni:Matan" pid="283/1135">Matan Elkoni</na></co>
+<co c="0"><na f="f/Fei:Yunsi" pid="67/5667">Yunsi Fei</na></co>
+<co c="0"><na f="f/Fish:Alexander" pid="97/6182">Alexander Fish</na></co>
+<co c="0"><na f="f/Flandre:Denis" pid="13/6542">Denis Flandre</na></co>
+<co c="0"><na f="g/Giterman:Robert" pid="144/6034">Robert Giterman</na></co>
+<co c="0"><na f="g/Gr=eacute=goire:Benjamin" pid="28/2414">Benjamin Gr&#233;goire</na></co>
+<co c="0"><na f="g/G=uuml=neysu:Tim" pid="50/6307">Tim G&#252;neysu</na></co>
+<co c="0"><na f="g/Guo_0002:Chun" pid="85/10076-2">Chun Guo 0002</na></co>
+<co c="0"><na f="h/Heuser:Annelie" pid="68/10491">Annelie Heuser</na></co>
+<co c="0"><na f="k/Kaizerman:Asaf" pid="119/4097">Asaf Kaizerman</na></co>
+<co c="0"><na f="k/Kavun:Elif_Bilge" pid="00/8569">Elif Bilge Kavun</na></co>
+<co c="0"><na f="k/Keren:Osnat" pid="74/6754">Osnat Keren</na></co>
+<co c="0"><na f="k/Knechtel:Johann" pid="94/9547">Johann Knechtel</na></co>
+<co c="0"><na f="l/Lanuzza:Marco" pid="03/5549">Marco Lanuzza</na></co>
+<co c="0"><na f="l/Leander:Gregor" pid="90/4585">Gregor Leander</na></co>
+<co c="0"><na f="l/Leurent:Ga=euml=tan" pid="30/1133">Ga&#235;tan Leurent</na></co>
+<co c="0"><na f="m/Meyer:Lauren_De" pid="196/5987">Lauren De Meyer</na></co>
+<co c="0"><na f="m/Miller:Netanel" pid="210/0334">Netanel Miller</na></co>
+<co c="0"><na f="m/Momin:Charles" pid="258/9153">Charles Momin</na></co>
+<co c="0"><na f="m/Moyal:Lior" pid="188/1392">Lior Moyal</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Debdeep" pid="85/3079">Debdeep Mukhopadhyay</na></co>
+<co c="0"><na f="n/Nawaz:Kashif" pid="143/0419">Kashif Nawaz</na></co>
+<co c="0"><na f="p/Pereira:Olivier" pid="78/1061">Olivier Pereira</na></co>
+<co c="0"><na f="p/Peters:Thomas" pid="56/11145">Thomas Peters</na></co>
+<co c="0"><na f="p/Polian:Ilia" pid="94/4552">Ilia Polian</na></co>
+<co c="0"><na f="r/Regazzoni_0001:Francesco" pid="31/1489-1">Francesco Regazzoni 0001</na></co>
+<co c="0"><na f="r/Rudin:Yehuda" pid="218/1145">Yehuda Rudin</na></co>
+<co c="0"><na f="s/Schaumont:Patrick" pid="39/1269">Patrick Schaumont</na></co>
+<co c="0"><na f="s/Shalom:Or_Ohev" pid="282/9768">Or Ohev Shalom</na></co>
+<co c="0"><na f="s/Standaert:Fran=ccedil=ois=Xavier" pid="38/2138">Fran&#231;ois-Xavier Standaert</na></co>
+<co c="0"><na f="t/Taco:Ramiro" pid="173/0919">Ramiro Taco</na></co>
+<co c="0"><na f="t/Teman:Adam" pid="92/4765">Adam Teman</na></co>
+<co c="0"><na f="u/Udvarhelyi:Balazs" pid="271/5385">Balazs Udvarhelyi</na></co>
+<co c="0"><na f="v/Vicentowski:Maoz" pid="227/3576">Maoz Vicentowski</na></co>
+<co c="0"><na f="w/Weizman:Yoav" pid="131/5141">Yoav Weizman</na></co>
+<co c="0"><na f="w/Wiemer:Friedrich" pid="159/2635">Friedrich Wiemer</na></co>
+<co c="0"><na f="w/Wimer:Shmuel" pid="49/3159">Shmuel Wimer</na></co>
+<co c="0"><na f="y/Yuzhaninov:Viacheslav" pid="138/0428">Viacheslav Yuzhaninov</na></co>
+<co c="0"><na f="z/Zabib:David_Zooker" pid="208/0367">David Zooker Zabib</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,110 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b34ffeb48b21ab6bba32bbf875976b32d103bb4b1ff45691f4c18871169b07a4
-size 5197
+<?xml version="1.0"?>
+<dblpperson name="Seongyun Ko" pid="181/5722" n="5">
+<person key="homepages/181/5722" mdate="2016-06-18">
+<author pid="181/5722">Seongyun Ko</author>
+</person>
+<r><article key="journals/pvldb/LeeLKKAKH20" mdate="2021-03-23">
+<author pid="46/6759">Juchang Lee</author>
+<author pid="36/6298">Hyejeong Lee</author>
+<author pid="181/5722">Seongyun Ko</author>
+<author pid="204/3562">Kyu Hwan Kim</author>
+<author pid="53/6117">Mihnea Andrei</author>
+<author pid="120/2351">Friedrich Keller</author>
+<author pid="62/2450">Wook-Shin Han</author>
+<title>Asymmetric-Partition Replication for Highly Scalable Distributed Transaction Processing in Practice.</title>
+<pages>3112-3124</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3112-lee.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415538</ee>
+<url>db/journals/pvldb/pvldb13.html#LeeLKKAKH20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ParkKBKHH20" mdate="2020-10-25">
+<author pid="266/5948">Yeonsu Park</author>
+<author pid="181/5722">Seongyun Ko</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="45/2879">Kyoungmin Kim</author>
+<author pid="266/5820">Kijae Hong</author>
+<author pid="62/2450">Wook-Shin Han</author>
+<title>G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching.</title>
+<pages>1099-1114</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389702</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ParkKBKHH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KoH18" mdate="2018-11-21">
+<author pid="181/5722">Seongyun Ko</author>
+<author pid="62/2450">Wook-Shin Han</author>
+<title>TurboGraph++: A Scalable and Fast Graph Analytics System.</title>
+<pages>395-410</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196915</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#KoH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KimLBHLKJ16" mdate="2020-10-25">
+<author pid="82/3706">Hyeonji Kim</author>
+<author pid="181/5852">Juneyoung Lee</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="62/2450">Wook-Shin Han</author>
+<author pid="51/4563">Jeong-Hoon Lee</author>
+<author pid="181/5722">Seongyun Ko</author>
+<author orcid="0000-0002-5619-1032" pid="181/5794">Moath H. A. Jarrah</author>
+<title>DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine.</title>
+<pages>1231-1245</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915209</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#KimLBHLKJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LeeSPKNCSH16" mdate="2018-11-06">
+<author pid="46/6759">Juchang Lee</author>
+<author pid="164/5593">Hyungyu Shin</author>
+<author pid="181/5688">Chang Gyoo Park</author>
+<author pid="181/5722">Seongyun Ko</author>
+<author pid="181/5766">Jaeyun Noh</author>
+<author pid="181/5866">Yongjae Chuh</author>
+<author pid="14/1748">Wolfgang Stephan</author>
+<author pid="62/2450">Wook-Shin Han</author>
+<title>Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA.</title>
+<pages>1307-1318</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2903734</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LeeSPKNCSH16</url>
+</inproceedings>
+</r>
+<coauthors n="19" nc="1">
+<co c="0"><na f="a/Andrei:Mihnea" pid="53/6117">Mihnea Andrei</na></co>
+<co c="0"><na f="b/Bhowmick:Sourav_S=" pid="b/SSBhowmick">Sourav S. Bhowmick</na></co>
+<co c="0"><na f="c/Chuh:Yongjae" pid="181/5866">Yongjae Chuh</na></co>
+<co c="0"><na f="h/Han:Wook=Shin" pid="62/2450">Wook-Shin Han</na></co>
+<co c="0"><na f="h/Hong:Kijae" pid="266/5820">Kijae Hong</na></co>
+<co c="0"><na f="j/Jarrah:Moath_H=_A=" pid="181/5794">Moath H. A. Jarrah</na></co>
+<co c="0"><na f="k/Keller:Friedrich" pid="120/2351">Friedrich Keller</na></co>
+<co c="0"><na f="k/Kim:Hyeonji" pid="82/3706">Hyeonji Kim</na></co>
+<co c="0"><na f="k/Kim:Kyoungmin" pid="45/2879">Kyoungmin Kim</na></co>
+<co c="0"><na f="k/Kim:Kyu_Hwan" pid="204/3562">Kyu Hwan Kim</na></co>
+<co c="0"><na f="l/Lee:Hyejeong" pid="36/6298">Hyejeong Lee</na></co>
+<co c="0"><na f="l/Lee:Jeong=Hoon" pid="51/4563">Jeong-Hoon Lee</na></co>
+<co c="0"><na f="l/Lee:Juchang" pid="46/6759">Juchang Lee</na></co>
+<co c="0"><na f="l/Lee:Juneyoung" pid="181/5852">Juneyoung Lee</na></co>
+<co c="0"><na f="n/Noh:Jaeyun" pid="181/5766">Jaeyun Noh</na></co>
+<co c="0"><na f="p/Park:Chang_Gyoo" pid="181/5688">Chang Gyoo Park</na></co>
+<co c="0"><na f="p/Park:Yeonsu" pid="266/5948">Yeonsu Park</na></co>
+<co c="0"><na f="s/Shin:Hyungyu" pid="164/5593">Hyungyu Shin</na></co>
+<co c="0"><na f="s/Stephan:Wolfgang" pid="14/1748">Wolfgang Stephan</na></co>
+</coauthors>
+</dblpperson>
+

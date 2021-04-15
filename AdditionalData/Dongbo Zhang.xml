@@ -1,3 +1,835 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1cc50ec36a6212a5e9ab621f2fd0d2eb76de2e7f15ce18b97fb32f68f2fb865
-size 35181
+<?xml version="1.0"?>
+<dblpperson name="Dongbo Zhang" pid="24/5091" n="55">
+<person key="homepages/24/5091" mdate="2009-06-10">
+<author pid="24/5091">Dongbo Zhang</author>
+</person>
+<r><article key="journals/tvcg/ZhangLQH21" mdate="2021-02-11">
+<author orcid="0000-0001-5076-340X" pid="24/5091">Dongbo Zhang</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author orcid="0000-0001-7699-1355" pid="79/627">Hong Qin</author>
+<author orcid="0000-0002-6749-4485" pid="h/YingHe1">Ying He 0001</author>
+<title>Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.</title>
+<pages>2015-2027</pages>
+<year>2021</year>
+<volume>27</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TVCG.2020.3027069</ee>
+<url>db/journals/tvcg/tvcg27.html#ZhangLQH21</url>
+</article>
+</r>
+<r><article key="journals/access/LiZYZ20" mdate="2020-10-07">
+<author pid="151/0728">Yapeng Li</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="59/6917">Feng Yin</author>
+<author pid="13/6769">Ying Zhang</author>
+<title>Operation Mode Decision of Indoor Cleaning Robot Based on Causal Reasoning and Attribute Learning.</title>
+<pages>173376-173386</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3003343</ee>
+<url>db/journals/access/access8.html#LiZYZ20</url>
+</article>
+</r>
+<r><article key="journals/cg/HuZLQ20" mdate="2020-08-12">
+<author pid="169/1230">Zhiyu Hu</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="57/2281-1">Shuai Li 0001</author>
+<author pid="79/627">Hong Qin</author>
+<title>Attention-based relation and context modeling for point cloud semantic segmentation.</title>
+<pages>126-134</pages>
+<year>2020</year>
+<volume>90</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2020.06.001</ee>
+<url>db/journals/cg/cg90.html#HuZLQ20</url>
+</article>
+</r>
+<r><article key="journals/jaihc/TanZ20" mdate="2021-03-02">
+<author orcid="0000-0002-5331-0980" pid="234/5436">Zhiping Tan</author>
+<author orcid="0000-0001-8723-7016" pid="24/5091">Dongbo Zhang</author>
+<title>A fuzzy adaptive gravitational search algorithm for two-dimensional multilevel thresholding image segmentation.</title>
+<pages>4983-4994</pages>
+<year>2020</year>
+<volume>11</volume>
+<journal>J. Ambient Intell. Humaniz. Comput.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1007/s12652-020-01777-7</ee>
+<url>db/journals/jaihc/jaihc11.html#TanZ20</url>
+</article>
+</r>
+<r><article key="journals/jvcir/LiTZLMC20" mdate="2020-08-11">
+<author pid="66/2069">Xiao Li</author>
+<author pid="221/0838">Hongzhong Tang</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="52/5150">Ting Liu</author>
+<author pid="227/5747">Lizhen Mao</author>
+<author pid="83/10146">Tianyu Chen</author>
+<title>Histopathological image classification through discriminative feature learning and mutual information-based multi-channel joint sparse representation.</title>
+<pages>102799</pages>
+<year>2020</year>
+<volume>70</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2020.102799</ee>
+<url>db/journals/jvcir/jvcir70.html#LiTZLMC20</url>
+</article>
+</r>
+<r><article key="journals/soco/XiongZLZ20" mdate="2020-05-04">
+<author pid="15/8081">Lu Xiong</author>
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<author pid="35/5570">Kangshun Li</author>
+<author pid="z/LixiaZhang5">Lixia Zhang 0005</author>
+<title>The extraction algorithm of color disease spot image based on Otsu and watershed.</title>
+<pages>7253-7263</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>Soft Comput.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s00500-019-04339-y</ee>
+<url>db/journals/soco/soco24.html#XiongZLZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/iconip/ZhangFLQRZH20" mdate="2020-12-29">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="77/4730">Zheng Fang</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author pid="79/627">Hong Qin</author>
+<author pid="07/3794">Antonio Robles-Kelly</author>
+<author pid="94/3019-30">Chao Zhang 0030</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>Deep Patch-Based Human Segmentation.</title>
+<pages>229-240</pages>
+<year>2020</year>
+<booktitle>ICONIP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-63830-6_20</ee>
+<crossref>conf/iconip/2020-1</crossref>
+<url>db/conf/iconip/iconip2020-1.html#ZhangFLQRZH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LiZYZ20" mdate="2021-02-16">
+<author pid="151/0728">Yapeng Li</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="59/6917">Feng Yin</author>
+<author pid="13/6769">Ying Zhang</author>
+<title>Cleaning Robot Operation Decision Based on Causal Reasoning and Attribute Learning<sup>*</sup>.</title>
+<pages>6878-6885</pages>
+<year>2020</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS45743.2020.9340930</ee>
+<crossref>conf/iros/2020</crossref>
+<url>db/conf/iros/iros2020.html#LiZYZ20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-05968" mdate="2021-01-23">
+<author pid="24/5091">Dongbo Zhang</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author pid="79/627">Hong Qin</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.</title>
+<year>2020</year>
+<volume>abs/2002.05968</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.05968</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-05968</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-05661" mdate="2021-01-23">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="77/4730">Zheng Fang</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author pid="79/627">Hong Qin</author>
+<author pid="07/3794">Antonio Robles-Kelly</author>
+<author pid="94/3019-30">Chao Zhang 0030</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>Deep Patch-based Human Segmentation.</title>
+<year>2020</year>
+<volume>abs/2007.05661</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.05661</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-05661</url>
+</article>
+</r>
+<r><article key="journals/iet-ipr/TangZZW19" mdate="2020-06-18">
+<author pid="221/0838">Hongzhong Tang</author>
+<author pid="60/4135">Ling Zhu</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="31/2864">Xiang Wang</author>
+<title>Single image rain removal model using pure rain dictionary learning.</title>
+<pages>1797-1804</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>IET Image Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1049/iet-ipr.2018.5122</ee>
+<url>db/journals/iet-ipr/iet-ipr13.html#TangZZW19</url>
+</article>
+</r>
+<r><article key="journals/iet-ipr/ZhangYTZX19" mdate="2021-01-26">
+<author orcid="0000-0003-3776-3426" pid="24/5091">Dongbo Zhang</author>
+<author pid="254/1696">Lianglin Yi</author>
+<author pid="221/0838">Hongzhong Tang</author>
+<author pid="13/6769">Ying Zhang</author>
+<author pid="26/5544">Haixia Xu</author>
+<title>Multi-scale microstructure binary pattern extraction and learning for image representation.</title>
+<pages>2507-2515</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>IET Image Process.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1049/iet-ipr.2018.6358</ee>
+<url>db/journals/iet-ipr/iet-ipr13.html#ZhangYTZX19</url>
+</article>
+</r>
+<r><article key="journals/ijcini/LiQZ19" mdate="2021-04-09">
+<author pid="39/8351">Rongrong Li</author>
+<author pid="193/9317">Linrun Qiu</author>
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<title>Research on an Improved Coordinating Method Based on Genetic Algorithms and Particle Swarm Optimization.</title>
+<pages>18-29</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Int. J. Cogn. Informatics Nat. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/IJCINI.2019040102</ee>
+<url>db/journals/ijcini/ijcini13.html#LiQZ19</url>
+</article>
+</r>
+<r><article key="journals/ijcini/LiuZL19" mdate="2021-04-09">
+<author pid="179/0912">Suping Liu</author>
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<author pid="75/4924">Jialin Li</author>
+<title>Study on Traffic Multi-Source Data Fusion.</title>
+<pages>63-75</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Int. J. Cogn. Informatics Nat. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/IJCINI.2019040105</ee>
+<url>db/journals/ijcini/ijcini13.html#LiuZL19</url>
+</article>
+</r>
+<r><article key="journals/mva/ZhangCYCTX19" mdate="2019-11-13">
+<author orcid="0000-0003-3776-3426" pid="24/5091">Dongbo Zhang</author>
+<author pid="90/9428">Honglei Chen</author>
+<author pid="59/6917">Feng Yin</author>
+<author pid="65/2429">Zhiqiang Chen</author>
+<author pid="221/0838">Hongzhong Tang</author>
+<author pid="172/4855">Haixia Xu 0001</author>
+<title>Efficient and distinctive binary descriptor for rotated circular image recognition.</title>
+<pages>749-761</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>Mach. Vis. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00138-019-01026-8</ee>
+<url>db/journals/mva/mva30.html#ZhangCYCTX19</url>
+</article>
+</r>
+<r><article key="journals/sivp/TangLZZML19" mdate="2020-09-06">
+<author pid="221/0838">Hongzhong Tang</author>
+<author pid="66/2069">Xiao Li</author>
+<author pid="06/3425">Xiaogang Zhang</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="227/5747">Lizhen Mao</author>
+<author pid="52/5150">Ting Liu</author>
+<title>Coherence-regularized discriminative dictionary learning for histopathological image classification.</title>
+<pages>923-931</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Signal Image Video Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11760-019-01429-0</ee>
+<url>db/journals/sivp/sivp13.html#TangLZZML19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/YinZ0HQ19" mdate="2019-10-02">
+<author pid="234/6271">Binyi Yin</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="57/2281-1">Shuai Li 0001</author>
+<author pid="94/5679">Aimin Hao</author>
+<author pid="79/627">Hong Qin</author>
+<title>Context-Aware Network for 3D Human Pose Estimation from Monocular RGB Image.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8852263</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#YinZ0HQ19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cagd/WangHGZQH18" mdate="2020-10-26">
+<author orcid="0000-0001-7852-2106" pid="77/11040">Xiaochao Wang</author>
+<author pid="85/1917">Jianping Hu</author>
+<author pid="45/1026">Lixin Guo</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="79/627">Hong Qin</author>
+<author pid="94/5679">Aimin Hao</author>
+<title>Feature-preserving, mesh-free empirical mode decomposition for point clouds and its applications.</title>
+<pages>1-16</pages>
+<year>2018</year>
+<volume>59</volume>
+<journal>Comput. Aided Geom. Des.</journal>
+<ee>https://doi.org/10.1016/j.cagd.2017.11.002</ee>
+<url>db/journals/cagd/cagd59.html#WangHGZQH18</url>
+</article>
+</r>
+<r><article key="journals/cg/WangHZGQH18" mdate="2020-10-26">
+<author orcid="0000-0001-7852-2106" pid="77/11040">Xiaochao Wang</author>
+<author pid="85/1917">Jianping Hu</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="45/1026">Lixin Guo</author>
+<author pid="79/627">Hong Qin</author>
+<author pid="94/5679">Aimin Hao</author>
+<title>Multi-scale geometry detail recovery on surfaces via Empirical Mode Decomposition.</title>
+<pages>118-127</pages>
+<year>2018</year>
+<volume>70</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2017.07.024</ee>
+<url>db/journals/cg/cg70.html#WangHZGQH18</url>
+</article>
+</r>
+<r><article key="journals/cad/ZhangWHQ17" mdate="2020-10-26">
+<author pid="24/5091">Dongbo Zhang</author>
+<author orcid="0000-0001-7852-2106" pid="77/11040">Xiaochao Wang</author>
+<author pid="85/1917">Jianping Hu</author>
+<author pid="79/627">Hong Qin</author>
+<title>Interactive modeling of complex geometric details based on empirical mode decomposition for multi-scale 3D shapes.</title>
+<pages>1-10</pages>
+<year>2017</year>
+<volume>87</volume>
+<journal>Comput. Aided Des.</journal>
+<ee>https://doi.org/10.1016/j.cad.2017.02.003</ee>
+<url>db/journals/cad/cad87.html#ZhangWHQ17</url>
+</article>
+</r>
+<r><article key="journals/ijcse/MoZC17" mdate="2020-07-30">
+<author pid="179/0846">Fu Mo</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="40/4275">E-Liang Chen</author>
+<title>An improved adaptive selection search for block motion estimation.</title>
+<pages>106-111</pages>
+<year>2017</year>
+<volume>15</volume>
+<journal>Int. J. Comput. Sci. Eng.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJCSE.2017.10007009</ee>
+<url>db/journals/ijcse/ijcse15.html#MoZC17</url>
+</article>
+</r>
+<r><article key="journals/ijes/ZhangSX17" mdate="2020-09-11">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="73/8721">Yanfang Shou</author>
+<author pid="96/4526">Jianmin Xu</author>
+<title>An improved parallel K-means algorithm based on MapReduce.</title>
+<pages>275-282</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJES.2017.10005724</ee>
+<url>db/journals/ijes/ijes9.html#ZhangSX17</url>
+</article>
+</r>
+<r><article key="journals/titb/ZhangZ16" mdate="2020-03-13">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="59/2568">Yuanyuan Zhao</author>
+<title>Novel Accurate and Fast Optic Disc Detection in Retinal Images With Vessel Distribution and Directional Characteristics.</title>
+<pages>333-342</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JBHI.2014.2365514</ee>
+<ee>https://www.wikidata.org/entity/Q51017744</ee>
+<url>db/journals/titb/titb20.html#ZhangZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bic-ta/XiongZL16" mdate="2021-04-09">
+<author pid="15/8081">Lu Xiong</author>
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<author pid="35/5570">Kangshun Li</author>
+<title>An Improved Extraction Algorithm About Disease Spots.</title>
+<pages>407-412</pages>
+<year>2016</year>
+<booktitle>BIC-TA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-3614-9_50</ee>
+<crossref>conf/bic-ta/2016-2</crossref>
+<url>db/conf/bic-ta/bic-ta2016-2.html#XiongZL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bic-ta/LiuZ16" mdate="2021-04-09">
+<author pid="179/0912">Suping Liu</author>
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<title>The Short-Term Traffic Flow Prediction Based on MapReduce.</title>
+<pages>448-453</pages>
+<year>2016</year>
+<booktitle>BIC-TA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-3614-9_55</ee>
+<crossref>conf/bic-ta/2016-2</crossref>
+<url>db/conf/bic-ta/bic-ta2016-2.html#LiuZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccpr/WangZHZ16" mdate="2017-05-24">
+<author pid="94/3104">Ying Wang</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="53/4550">Huixian Huang</author>
+<author pid="13/6769">Ying Zhang</author>
+<title>Robust Optic Disc Detection Based on Multi-features and Two-Stage Decision Strategy.</title>
+<pages>182-190</pages>
+<year>2016</year>
+<booktitle>CCPR (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-3005-5_16</ee>
+<crossref>conf/ccpr/2016-2</crossref>
+<url>db/conf/ccpr/ccpr2016-2.html#WangZHZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cis/ZhangX16" mdate="2017-05-26">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="15/8081">Lu Xiong</author>
+<title>The Research of Dynamic Shortest Path Based on Cloud Computing.</title>
+<pages>452-455</pages>
+<year>2016</year>
+<booktitle>CIS</booktitle>
+<ee>https://doi.org/10.1109/CIS.2016.0110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CIS.2016.0110</ee>
+<crossref>conf/cis/2016</crossref>
+<url>db/conf/cis/cis2016.html#ZhangX16</url>
+</inproceedings>
+</r>
+<r><article key="journals/vc/WangHZQ15" mdate="2020-10-26">
+<author orcid="0000-0001-7852-2106" pid="77/11040">Xiaochao Wang</author>
+<author pid="85/1917">Jianping Hu</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="79/627">Hong Qin</author>
+<title>Efficient EMD and Hilbert spectra computation for 3D geometry processing and analysis via space-filling curve.</title>
+<pages>1135-1145</pages>
+<year>2015</year>
+<volume>31</volume>
+<journal>Vis. Comput.</journal>
+<number>6-8</number>
+<ee>https://doi.org/10.1007/s00371-015-1100-4</ee>
+<url>db/journals/vc/vc31.html#WangHZQ15</url>
+</article>
+</r>
+<r><inproceedings key="conf/isica/ZhangZ15" mdate="2021-04-09">
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<author pid="57/6771">Jingbo Zhang</author>
+<title>An Improved Algorithm of Watermark Preprocessing Based on Arnold Transformation and Chaotic Map.</title>
+<pages>241-247</pages>
+<year>2015</year>
+<booktitle>ISICA</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-0356-1_24</ee>
+<crossref>conf/isica/2015</crossref>
+<url>db/conf/isica/isica2015.html#ZhangZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isica/ZhangS15" mdate="2021-04-09">
+<author orcid="0000-0002-8940-7784" pid="24/5091">Dongbo Zhang</author>
+<author pid="73/8721">Yanfang Shou</author>
+<title>An Improved Parallel K-Means Algorithm Based on Cloud Computing.</title>
+<pages>312-320</pages>
+<year>2015</year>
+<booktitle>ISICA</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-0356-1_32</ee>
+<crossref>conf/isica/2015</crossref>
+<url>db/conf/isica/isica2015.html#ZhangS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ZhangL14" mdate="2017-05-25">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="88/4295">Xia Liu</author>
+<title>Circular spot detection and segmentation with rotating line local binary analysis.</title>
+<pages>1683-1687</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2014.7025337</ee>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#ZhangL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jei/ZhangPYS13" mdate="2017-05-28">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="126/0756">Yinghui Peng</author>
+<author pid="56/4890">Yao Yi</author>
+<author pid="126/0768">Xingyu Shang</author>
+<title>Red lesion detection using background estimation and lesions characteristics in diabetic retinal image.</title>
+<pages>043024</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>J. Electronic Imaging</journal>
+<number>4</number>
+<ee>https://doi.org/10.1117/1.JEI.22.4.043024</ee>
+<url>db/journals/jei/jei22.html#ZhangPYS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccpr/ShenZP12" mdate="2017-05-24">
+<author pid="158/0999">Ben Shen</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="126/0756">Yinghui Peng</author>
+<title>Blood Bifurcation Structure and Global to Local Strategy Based Retinal Image Registration.</title>
+<pages>394-403</pages>
+<year>2012</year>
+<booktitle>CCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33506-8_49</ee>
+<crossref>conf/ccpr/2012</crossref>
+<url>db/conf/ccpr/ccpr2012.html#ShenZP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ZhangYSP12" mdate="2017-04-30">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="56/4890">Yao Yi</author>
+<author pid="126/0768">Xingyu Shang</author>
+<author pid="126/0756">Yinghui Peng</author>
+<title>Optic disc localization by projection with vessel distribution and appearance characteristics.</title>
+<pages>3176-3179</pages>
+<year>2012</year>
+<booktitle>ICPR</booktitle>
+<ee>http://ieeexplore.ieee.org/document/6460839/</ee>
+<crossref>conf/icpr/2012</crossref>
+<url>db/conf/icpr/icpr2012.html#ZhangYSP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acpr/ZhangLSYW11" mdate="2017-05-25">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="63/6031">Xiong Li</author>
+<author pid="126/0768">Xingyu Shang</author>
+<author pid="56/4890">Yao Yi</author>
+<author pid="90/548">Yaonan Wang</author>
+<title>Robust hemorrhage detection in diabetic retinopathy image.</title>
+<pages>209-213</pages>
+<year>2011</year>
+<booktitle>ACPR</booktitle>
+<ee>https://doi.org/10.1109/ACPR.2011.6166529</ee>
+<crossref>conf/acpr/2011</crossref>
+<url>db/conf/acpr/acpr2011.html#ZhangLSYW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnw/XuZW10" mdate="2020-09-15">
+<author pid="27/0">Yu Xu</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="90/548">Yaonan Wang</author>
+<title>Active Diverse Learning Neural Network Ensemble Approach for Power Transformer Fault Diagnosis.</title>
+<pages>1151-1159</pages>
+<year>2010</year>
+<volume>5</volume>
+<journal>J. Networks</journal>
+<number>10</number>
+<ee type="archive">https://doi.org/10.4304/jnw.5.10.1151-1159</ee>
+<url>db/journals/jnw/jnw5.html#XuZW10</url>
+</article>
+</r>
+<r><article key="journals/tvt/MaZ10" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>A Method for Simulating Complex Nakagami Fading Time Series With Nonuniform Phase and Prescribed Autocorrelation Characteristics.</title>
+<pages>29-35</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVT.2009.2030891</ee>
+<url>db/journals/tvt/tvt59.html#MaZ10</url>
+</article>
+</r>
+<r><article key="journals/ijon/ZhangWH09" mdate="2017-05-20">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="90/548">Yaonan Wang</author>
+<author pid="53/4550">Huixian Huang</author>
+<title>Rough neural network modeling based on fuzzy rough model and its application to texture classification.</title>
+<pages>2433-2443</pages>
+<year>2009</year>
+<volume>72</volume>
+<journal>Neurocomputing</journal>
+<number>10-12</number>
+<ee>https://doi.org/10.1016/j.neucom.2008.12.003</ee>
+<url>db/journals/ijon/ijon72.html#ZhangWH09</url>
+</article>
+</r>
+<r><article key="journals/npl/ZhangW09a" mdate="2020-07-09">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="90/548">Yaonan Wang</author>
+<title>Rough Neural Network Based on Bottom-Up Fuzzy Rough Data Analysis.</title>
+<pages>187-211</pages>
+<year>2009</year>
+<volume>30</volume>
+<journal>Neural Process. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11063-009-9118-0</ee>
+<url>db/journals/npl/npl30.html#ZhangW09a</url>
+</article>
+</r>
+<r><article key="journals/twc/MaZLW09" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="14/4729">Alex Leith</author>
+<author pid="06/462">Zhengdao Wang</author>
+<title>Error performance of transmit beamforming with delayed and limited feedback.</title>
+<pages>1164-1170</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TWC.2008.080570</ee>
+<url>db/journals/twc/twc8.html#MaZLW09</url>
+</article>
+</r>
+<r><article key="journals/twc/MaJZ08" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="16/6071">Jinghua Jin</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Throughput and Channel Access Statistics of Generalized Selection Multiuser Scheduling.</title>
+<pages>2975-2987</pages>
+<year>2008</year>
+<volume>7</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TWC.2008.060726</ee>
+<url>db/journals/twc/twc7.html#MaJZ08</url>
+</article>
+</r>
+<r><article key="journals/jclc/ZhaoZ07" mdate="2020-05-14">
+<author pid="123/3580">Shouhui Zhao</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>The Totality of Chinese Characters - A Digital Perspective.</title>
+<pages>107-125</pages>
+<year>2007</year>
+<volume>17</volume>
+<journal>J. Chin. Lang. Comput.</journal>
+<number>1</number>
+<ee>http://www.colips.org/journal/volume17/JCLC_2007_V17_N2_04.pdf</ee>
+<url>db/journals/jclc/jclc17.html#ZhaoZ07</url>
+</article>
+</r>
+<r><article key="journals/spl/MaZS07" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="95/2265">Robert Schober</author>
+<title>Rate-Maximizing Multiuser Scheduling for Parallel Channel Access.</title>
+<pages>441-444</pages>
+<year>2007</year>
+<volume>14</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/LSP.2006.891343</ee>
+<url>db/journals/spl/spl14.html#MaZS07</url>
+</article>
+</r>
+<r><article key="journals/twc/MaSZ07" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="95/2265">Robert Schober</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Exact BER for M-QAM with MRC and Imperfect Channel Estimation in Rician Fading Channels.</title>
+<pages>926-936</pages>
+<year>2007</year>
+<volume>6</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TWC.2007.05243</ee>
+<url>db/journals/twc/twc6.html#MaSZ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/fskd/ZhangW07" mdate="2017-05-25">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="90/548">Yaonan Wang</author>
+<title>Fuzzy Rough Modeling Approach: Based on Fuzzy Clustering and GA Search Strategy.</title>
+<pages>161-166</pages>
+<year>2007</year>
+<booktitle>FSKD (3)</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2007.334</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FSKD.2007.334</ee>
+<crossref>conf/fskd/2007-3</crossref>
+<url>db/conf/fskd/fskd2007-3.html#ZhangW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MaZS07" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="95/2265">Robert Schober</author>
+<title>Optimal Power Allocation for Parallel Access Multiuser Scheduling.</title>
+<pages>2992-2996</pages>
+<year>2007</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2007.567</ee>
+<crossref>conf/globecom/2007</crossref>
+<url>db/conf/globecom/globecom2007.html#MaZS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MaZ07" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Complex Nakagami Channel Simulator with Accurate Phase and Auto-Correlation Properties.</title>
+<pages>3847-3851</pages>
+<year>2007</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2007.731</ee>
+<crossref>conf/globecom/2007</crossref>
+<url>db/conf/globecom/globecom2007.html#MaZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MaZ07a" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Error Rate of Transmit Beamforming with Delayed and Limited Feedback.</title>
+<pages>4071-4075</pages>
+<year>2007</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2007.774</ee>
+<crossref>conf/globecom/2007</crossref>
+<url>db/conf/globecom/globecom2007.html#MaZ07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/MaZ07" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Channel Access Statistics of Parallel Multiuser Scheduling.</title>
+<pages>5586-5591</pages>
+<year>2007</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2007.926</ee>
+<crossref>conf/icc/2007</crossref>
+<url>db/conf/icc/icc2007.html#MaZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/snpd/ZhangWH07" mdate="2017-05-26">
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="90/548">Yaonan Wang</author>
+<author pid="53/4550">Huixian Huang</author>
+<title>Rough Neural Network Modeling Through Supervised G-K Fuzzy Clustering.</title>
+<pages>336-341</pages>
+<year>2007</year>
+<booktitle>SNPD (3)</booktitle>
+<crossref>conf/snpd/2007</crossref>
+<url>db/conf/snpd/snpd2007-3.html#ZhangWH07</url>
+<ee>https://doi.org/10.1109/SNPD.2007.179</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SNPD.2007.179</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MaZ06" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Generalized Selection Multiuser Scheduling with Channel Estimation Errors.</title>
+<year>2006</year>
+<crossref>conf/globecom/2006</crossref>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2006.455</ee>
+<url>db/conf/globecom/globecom2006.html#MaZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/MaZ06" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Performance of generalized selection multiuser scheduling over generalized fading channels.</title>
+<pages>91-96</pages>
+<year>2006</year>
+<crossref>conf/iwcmc/2006</crossref>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1145/1143549.1143570</ee>
+<url>db/conf/iwcmc/iwcmc2006.html#MaZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/ZhouZQ06" mdate="2017-05-24">
+<author pid="69/5011">Wei Zhou</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="32/2358">Daji Qiao</author>
+<title>Comparative study of routing metrics for multi-radio multi-channel wireless networks.</title>
+<pages>270-275</pages>
+<year>2006</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2006.1683476</ee>
+<crossref>conf/wcnc/2006</crossref>
+<url>db/conf/wcnc/wcnc2006.html#ZhouZQ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/MaZS05" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<author pid="95/2265">Robert Schober</author>
+<title>Effect of channel estimation errors on M-QAM with GSC diversity in fading channels.</title>
+<pages>2190-2194</pages>
+<year>2005</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2005.1494725</ee>
+<crossref>conf/icc/2005</crossref>
+<url>db/conf/icc/icc2005.html#MaZS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/MaSZ05" mdate="2020-11-27">
+<author pid="85/6836-4">Yao Ma 0004</author>
+<author pid="95/2265">Robert Schober</author>
+<author pid="24/5091">Dongbo Zhang</author>
+<title>Exact BERs for M-QAM with MRC and channel estimation errors in Rician channels.</title>
+<pages>967-972</pages>
+<year>2005</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2005.1424639</ee>
+<crossref>conf/wcnc/2005</crossref>
+<url>db/conf/wcnc/wcnc2005.html#MaSZ05</url>
+</inproceedings>
+</r>
+<coauthors n="61" nc="2">
+<co c="0"><na f="c/Chen:E=Liang" pid="40/4275">E-Liang Chen</na></co>
+<co c="0"><na f="c/Chen:Honglei" pid="90/9428">Honglei Chen</na></co>
+<co c="0"><na f="c/Chen:Tianyu" pid="83/10146">Tianyu Chen</na></co>
+<co c="0"><na f="c/Chen:Zhiqiang" pid="65/2429">Zhiqiang Chen</na></co>
+<co c="0"><na f="f/Fang:Zheng" pid="77/4730">Zheng Fang</na></co>
+<co c="0"><na f="g/Guo:Lixin" pid="45/1026">Lixin Guo</na></co>
+<co c="0"><na f="h/Hao:Aimin" pid="94/5679">Aimin Hao</na></co>
+<co c="0"><na f="h/He_0001:Ying" pid="h/YingHe1">Ying He 0001</na></co>
+<co c="0"><na f="h/Hu:Jianping" pid="85/1917">Jianping Hu</na></co>
+<co c="0"><na f="h/Hu:Zhiyu" pid="169/1230">Zhiyu Hu</na></co>
+<co c="0"><na f="h/Huang:Huixian" pid="53/4550">Huixian Huang</na></co>
+<co c="0"><na f="j/Jin:Jinghua" pid="16/6071">Jinghua Jin</na></co>
+<co c="0"><na f="l/Leith:Alex" pid="14/4729">Alex Leith</na></co>
+<co c="0"><na f="l/Li:Jialin" pid="75/4924">Jialin Li</na></co>
+<co c="0"><na f="l/Li:Kangshun" pid="35/5570">Kangshun Li</na></co>
+<co c="0"><na f="l/Li:Rongrong" pid="39/8351">Rongrong Li</na></co>
+<co c="0"><na f="l/Li_0001:Shuai" pid="57/2281-1">Shuai Li 0001</na></co>
+<co c="0"><na f="l/Li:Xiao" pid="66/2069">Xiao Li</na></co>
+<co c="0"><na f="l/Li:Xiong" pid="63/6031">Xiong Li</na></co>
+<co c="0"><na f="l/Li:Yapeng" pid="151/0728">Yapeng Li</na></co>
+<co c="0"><na f="l/Liu:Suping" pid="179/0912">Suping Liu</na></co>
+<co c="0"><na f="l/Liu:Ting" pid="52/5150">Ting Liu</na></co>
+<co c="-1"><na f="l/Liu:Xia" pid="88/4295">Xia Liu</na></co>
+<co c="0"><na f="l/Lu:Xuequan" pid="137/2585">Xuequan Lu</na></co>
+<co c="0"><na f="m/Ma_0004:Yao" pid="85/6836-4">Yao Ma 0004</na></co>
+<co c="0"><na f="m/Mao:Lizhen" pid="227/5747">Lizhen Mao</na></co>
+<co c="0"><na f="m/Mo:Fu" pid="179/0846">Fu Mo</na></co>
+<co c="0"><na f="p/Peng:Yinghui" pid="126/0756">Yinghui Peng</na></co>
+<co c="0"><na f="q/Qiao:Daji" pid="32/2358">Daji Qiao</na></co>
+<co c="0"><na f="q/Qin:Hong" pid="79/627">Hong Qin</na></co>
+<co c="0"><na f="q/Qiu:Linrun" pid="193/9317">Linrun Qiu</na></co>
+<co c="0"><na f="r/Robles=Kelly:Antonio" pid="07/3794">Antonio Robles-Kelly</na></co>
+<co c="0"><na f="s/Schober:Robert" pid="95/2265">Robert Schober</na></co>
+<co c="0"><na f="s/Shang:Xingyu" pid="126/0768">Xingyu Shang</na></co>
+<co c="0"><na f="s/Shen:Ben" pid="158/0999">Ben Shen</na></co>
+<co c="1"><na f="s/Shou:Yanfang" pid="73/8721">Yanfang Shou</na></co>
+<co c="0"><na f="t/Tan:Zhiping" pid="234/5436">Zhiping Tan</na></co>
+<co c="0"><na f="t/Tang:Hongzhong" pid="221/0838">Hongzhong Tang</na></co>
+<co c="0"><na f="w/Wang:Xiang" pid="31/2864">Xiang Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaochao" pid="77/11040">Xiaochao Wang</na></co>
+<co c="0"><na f="w/Wang:Yaonan" pid="90/548">Yaonan Wang</na></co>
+<co c="0"><na f="w/Wang:Ying" pid="94/3104">Ying Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengdao" pid="06/462">Zhengdao Wang</na></co>
+<co c="0"><na f="x/Xiong:Lu" pid="15/8081">Lu Xiong</na></co>
+<co c="0" n="2"><na f="x/Xu_0001:Hai=Xia" pid="172/4855">Hai-Xia Xu 0001</na><na>Haixia Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Haixia" pid="26/5544">Haixia Xu</na></co>
+<co c="1"><na f="x/Xu:Jianmin" pid="96/4526">Jianmin Xu</na></co>
+<co c="0"><na f="x/Xu:Yu" pid="27/0">Yu Xu</na></co>
+<co c="0"><na f="y/Yi:Lianglin" pid="254/1696">Lianglin Yi</na></co>
+<co c="0"><na f="y/Yi:Yao" pid="56/4890">Yao Yi</na></co>
+<co c="0"><na f="y/Yin:Binyi" pid="234/6271">Binyi Yin</na></co>
+<co c="0"><na f="y/Yin:Feng" pid="59/6917">Feng Yin</na></co>
+<co c="0"><na f="z/Zhang_0030:Chao" pid="94/3019-30">Chao Zhang 0030</na></co>
+<co c="-1"><na f="z/Zhang:Jingbo" pid="57/6771">Jingbo Zhang</na></co>
+<co c="0"><na f="z/Zhang_0005:Lixia" pid="z/LixiaZhang5">Lixia Zhang 0005</na></co>
+<co c="0"><na f="z/Zhang:Xiaogang" pid="06/3425">Xiaogang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Ying" pid="13/6769">Ying Zhang</na></co>
+<co c="-1"><na f="z/Zhao:Shouhui" pid="123/3580">Shouhui Zhao</na></co>
+<co c="-1"><na f="z/Zhao:Yuanyuan" pid="59/2568">Yuanyuan Zhao</na></co>
+<co c="0"><na f="z/Zhou:Wei" pid="69/5011">Wei Zhou</na></co>
+<co c="0"><na f="z/Zhu:Ling" pid="60/4135">Ling Zhu</na></co>
+</coauthors>
+</dblpperson>
+

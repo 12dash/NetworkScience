@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d816ea1c2b4732b54d1f5ff32c4438b0bfd237b104e927fe514ccbe6cad5c1d
-size 86583
+<?xml version="1.0"?>
+<dblpperson name="Willem Visser" pid="54/5019" n="128">
+<person key="homepages/54/5019" mdate="2018-10-30">
+<author pid="54/5019">Willem Visser</author>
+<url>http://www.cs.sun.ac.za/~wvisser/</url>
+<url>https://www.acm.org/articles/people-of-acm/2018/willem-visser</url>
+<url>https://scholar.google.com/citations?user=5yAC8o8AAAAJ</url>
+</person>
+<r><article key="journals/sigsoft/ArthoPAABBBCCDE20" mdate="2020-09-17">
+<author pid="21/6330">Cyrille Artho</author>
+<author pid="30/9676">Quoc-Sang Phan</author>
+<author pid="137/8259">Peter Aldous</author>
+<author pid="257/0992">Alyas Almaawi</author>
+<author pid="130/1704">Lucas Bang</author>
+<author pid="257/0957">Lasse Berglund</author>
+<author pid="07/3368">Tevfik Bultan</author>
+<author pid="02/4907">Zhenbang Chen</author>
+<author pid="191/3116">Hayes Converse</author>
+<author pid="92/748-6">Wei Dong 0006</author>
+<author pid="228/5731">William Eiers</author>
+<author pid="43/6015">Milos Gligoric</author>
+<author pid="77/6137">Simon Goldsmith</author>
+<author pid="55/4092">Lars Grunske</author>
+<author pid="247/5749">Joshua Hooker</author>
+<author pid="233/6851">Ismet Burak Kadron</author>
+<author pid="24/9748">Timo Kehrer</author>
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="167/6015">Xuan-Bach D. Le</author>
+<author pid="89/6793-1">David Lo 0001</author>
+<author pid="m/EricMercer">Eric Mercer</author>
+<author pid="00/4734">Sasa Misailovic</author>
+<author pid="257/0963">Egor Namakonov</author>
+<author pid="214/0485">Hoang Lam Nguyen</author>
+<author pid="214/0370">Yannic Noller</author>
+<author pid="247/5808">Benjamin Ogles</author>
+<author pid="129/1434">Rohan Padhye</author>
+<author pid="60/3424">Pavel Par&#237;zek</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="247/6110">Sheridan Jacob Powell</author>
+<author pid="150/1658">Seemanta Saha</author>
+<author pid="04/418">Koushik Sen</author>
+<author pid="05/7251">Elena Sherman</author>
+<author pid="247/6216">Kyle Storey</author>
+<author pid="214/0411">Minxing Tang</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="64/856-1">Ji Wang 0001</author>
+<author pid="147/2984">Hengbiao Yu</author>
+<title>The Java Pathfinder Workshop 2019.</title>
+<pages>20-22</pages>
+<year>2020</year>
+<volume>45</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3385678.3385685</ee>
+<url>db/journals/sigsoft/sigsoft45.html#ArthoPAABBBCCDE20</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/ClunHFV20" mdate="2020-05-04">
+<author orcid="0000-0001-5190-8957" pid="166/1094">Donato Clun</author>
+<author orcid="0000-0002-1801-2996" pid="263/2531">Phillip van Heerden</author>
+<author orcid="0000-0001-9646-646X" pid="40/8264">Antonio Filieri</author>
+<author orcid="0000-0002-0913-3091" pid="54/5019">Willem Visser</author>
+<title>Improving Symbolic Automata Learning with Concolic Execution.</title>
+<pages>3-26</pages>
+<year>2020</year>
+<booktitle>FASE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45234-6_1</ee>
+<crossref>conf/fase/2020</crossref>
+<url>db/conf/fase/fase2020.html#ClunHFV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/TaljaardGV20" mdate="2020-08-26">
+<author pid="251/1259">Jan Taljaard</author>
+<author orcid="0000-0002-5636-6656" pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author orcid="0000-0002-0913-3091" pid="54/5019">Willem Visser</author>
+<title>Constraint Caching Revisited.</title>
+<pages>251-266</pages>
+<year>2020</year>
+<booktitle>NFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-55754-6_15</ee>
+<crossref>conf/nfm/2020</crossref>
+<url>db/conf/nfm/nfm2020.html#TaljaardGV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saicsit/LeidMV20" mdate="2020-09-23">
+<author pid="274/7446">Alexander Leid</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Testing Ethereum Smart Contracts: A Comparison of Symbolic Analysis and Fuzz Testing Tools.</title>
+<pages>35-43</pages>
+<year>2020</year>
+<booktitle>SAICSIT</booktitle>
+<ee>https://doi.org/10.1145/3410886.3410907</ee>
+<crossref>conf/saicsit/2020</crossref>
+<url>db/conf/saicsit/saicsit2020.html#LeidMV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saicsit/KeirsgieterV20" mdate="2020-09-23">
+<author pid="274/7481">Wim Keirsgieter</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Graft: Static Analysis of Java Bytecode with Graph Databases.</title>
+<pages>217-226</pages>
+<year>2020</year>
+<booktitle>SAICSIT</booktitle>
+<ee>https://doi.org/10.1145/3410886.3410901</ee>
+<crossref>conf/saicsit/2020</crossref>
+<url>db/conf/saicsit/saicsit2020.html#KeirsgieterV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SharmaHWMV20" mdate="2020-11-10">
+<author pid="01/3680">Vaibhav Sharma</author>
+<author pid="136/2621">Soha Hussein</author>
+<author pid="70/5189">Michael W. Whalen</author>
+<author pid="29/4899">Stephen McCamant</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Java Ranger: statically summarizing regions for efficient symbolic execution of Java.</title>
+<pages>123-134</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409734</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#SharmaHWMV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/VisserG20" mdate="2020-05-04">
+<author orcid="0000-0002-0913-3091" pid="54/5019">Willem Visser</author>
+<author orcid="0000-0002-5636-6656" pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<title>COASTAL: Combining Concolic and Fuzzing for Java (Competition Contribution).</title>
+<pages>373-377</pages>
+<year>2020</year>
+<booktitle>TACAS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45237-7_23</ee>
+<crossref>conf/tacas/2020-2</crossref>
+<url>db/conf/tacas/tacas2020-2.html#VisserG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/SharmaHWMV20" mdate="2020-05-04">
+<author orcid="0000-0001-9877-8926" pid="01/3680">Vaibhav Sharma</author>
+<author orcid="0000-0002-5071-6811" pid="136/2621">Soha Hussein</author>
+<author orcid="0000-0003-3824-1435" pid="70/5189">Michael W. Whalen</author>
+<author pid="29/4899">Stephen McCamant</author>
+<author orcid="0000-0002-0913-3091" pid="54/5019">Willem Visser</author>
+<title>Java Ranger at SV-COMP 2020 (Competition Contribution).</title>
+<pages>393-397</pages>
+<year>2020</year>
+<booktitle>TACAS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45237-7_27</ee>
+<crossref>conf/tacas/2020-2</crossref>
+<url>db/conf/tacas/tacas2020-2.html#SharmaHWMV20</url>
+</inproceedings>
+</r>
+<r><article key="journals/joi/DunaiskiGV19" mdate="2019-05-09">
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="54/5019">Willem Visser</author>
+<title>On the interplay between normalisation, bias, and performance of paper impact metrics.</title>
+<pages>270-290</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>J. Informetrics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.joi.2019.01.003</ee>
+<url>db/journals/joi/joi13.html#DunaiskiGV19</url>
+</article>
+</r>
+<r><article key="journals/joi/DunaiskiGV19a" mdate="2019-05-09">
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Globalised vs averaged: Bias and ranking performance on the author level.</title>
+<pages>299-313</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>J. Informetrics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.joi.2019.01.006</ee>
+<url>db/journals/joi/joi13.html#DunaiskiGV19a</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/LePPLVS19" mdate="2020-09-17">
+<author pid="167/6015">Xuan-Bach D. Le</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="129/1434">Rohan Padhye</author>
+<author orcid="0000-0002-4367-7201" pid="89/6793-1">David Lo 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="04/418">Koushik Sen</author>
+<title>Saffron: Adaptive Grammar-based Fuzzing for Worst-Case Analysis.</title>
+<pages>14</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3364452.3364455</ee>
+<url>db/journals/sigsoft/sigsoft44.html#LePPLVS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/tacas/ArthoV19" mdate="2019-08-20">
+<author orcid="0000-0002-3656-1614" pid="21/6330">Cyrille Artho</author>
+<author orcid="0000-0002-0913-3091" pid="54/5019">Willem Visser</author>
+<title>Java Pathfinder at SV-COMP 2019 (Competition Contribution).</title>
+<pages>224-228</pages>
+<year>2019</year>
+<booktitle>TACAS (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17502-3_18</ee>
+<crossref>conf/tacas/2019-3</crossref>
+<url>db/conf/tacas/tacas2019-3.html#ArthoV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/NollerPFLV19" mdate="2019-08-20">
+<author pid="214/0370">Yannic Noller</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="193/3445">Aymeric Fromherz</author>
+<author pid="167/6015">Xuan-Bach D. Le</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Symbolic Pathfinder for SV-COMP - (Competition Contribution).</title>
+<pages>239-243</pages>
+<year>2019</year>
+<booktitle>TACAS (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17502-3_21</ee>
+<crossref>conf/tacas/2019-3</crossref>
+<url>db/conf/tacas/tacas2019-3.html#NollerPFLV19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-11768" mdate="2019-04-02">
+<author pid="19/7057">ThanhVu Nguyen</author>
+<author pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>SymInfer: Inferring Program Invariants using Symbolic States.</title>
+<year>2019</year>
+<volume>abs/1903.11768</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.11768</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-11768</url>
+</article>
+</r>
+<r><article key="journals/joi/DunaiskiGV18" mdate="2018-09-05">
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="54/5019">Willem Visser</author>
+<title>How to evaluate rankings of academic entities using test data.</title>
+<pages>631-655</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>J. Informetrics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.joi.2018.06.002</ee>
+<url>db/journals/joi/joi12.html#DunaiskiGV18</url>
+</article>
+</r>
+<r><article key="journals/joi/DunaiskiGV18a" mdate="2018-09-13">
+<author orcid="0000-0003-1957-3979" pid="120/5784">Marcel Dunaiski</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Author ranking evaluation at scale.</title>
+<pages>679-702</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>J. Informetrics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.joi.2018.06.004</ee>
+<url>db/journals/joi/joi12.html#DunaiskiGV18a</url>
+</article>
+</r>
+<r><article key="journals/tse/BaiYWBSLDV18" mdate="2018-07-10">
+<author orcid="0000-0002-6390-9890" pid="86/9673">Guangdong Bai</author>
+<author pid="174/4963">Quanqi Ye</author>
+<author pid="61/908">Yongzheng Wu</author>
+<author pid="193/3275">Heila Botha</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Towards Model Checking Android Applications.</title>
+<pages>595-612</pages>
+<year>2018</year>
+<volume>44</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSE.2017.2697848</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2017.2697848</ee>
+<url>db/journals/tse/tse44.html#BaiYWBSLDV18</url>
+</article>
+</r>
+<r><inproceedings key="conf/issta/KhurshidPV18" mdate="2018-11-21">
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Test input generation with Java PathFinder: then and now (invited talk abstract).</title>
+<pages>1-2</pages>
+<year>2018</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/3213846.3234687</ee>
+<crossref>conf/issta/2018</crossref>
+<url>db/conf/issta/issta2018.html#KhurshidPV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/LuckowPV18" mdate="2018-06-18">
+<author pid="13/11526">Kasper S&#248;e Luckow</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Monte Carlo Tree Search for Finding Costly Paths in Programs.</title>
+<pages>123-138</pages>
+<year>2018</year>
+<booktitle>SEFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92970-5_8</ee>
+<crossref>conf/sefm/2018</crossref>
+<url>db/conf/sefm/sefm2018.html#LuckowPV18</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/SharmaWMV17" mdate="2020-09-17">
+<author pid="01/3680">Vaibhav Sharma</author>
+<author pid="70/5189">Michael W. Whalen</author>
+<author pid="29/4899">Stephen McCamant</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Veritesting Challenges in Symbolic Execution of Java.</title>
+<pages>1-5</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3149485.3149491</ee>
+<url>db/journals/sigsoft/sigsoft42.html#SharmaWMV17</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/TheisenDWV17" mdate="2020-09-17">
+<author pid="21/8805">Christopher Theisen</author>
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="w/LaurieAWilliams">Laurie A. Williams</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Software Engineering Research at the International Conference on Software Engineering in 2016.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3149485.3149496</ee>
+<url>db/journals/sigsoft/sigsoft42.html#TheisenDWV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/TheisenDWV17" mdate="2019-02-12">
+<author pid="21/8805">Christopher Theisen</author>
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="w/LaurieAWilliams">Laurie A. Williams</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Writing good software engineering research papers: revisited.</title>
+<pages>402</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-C.2017.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE-C.2017.51</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3098479</ee>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#TheisenDWV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/LeCLGV17" mdate="2018-11-06">
+<author pid="167/6015">Xuan-Bach D. Le</author>
+<author pid="29/10300">Duc-Hiep Chu</author>
+<author orcid="0000-0002-4367-7201" pid="89/6793-1">David Lo 0001</author>
+<author pid="93/4573">Claire Le Goues</author>
+<author pid="54/5019">Willem Visser</author>
+<title>JFIX: semantics-based repair of Java programs via symbolic PathFinder.</title>
+<pages>376-379</pages>
+<year>2017</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/3092703.3098225</ee>
+<crossref>conf/issta/2017</crossref>
+<url>db/conf/issta/issta2017.html#LeCLGV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/NguyenDV17" mdate="2020-12-29">
+<author pid="19/7057">ThanhVu Nguyen</author>
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>SymInfer: inferring program invariants using symbolic states.</title>
+<pages>804-814</pages>
+<year>2017</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2017.8115691</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2017.8115691</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3155662</ee>
+<crossref>conf/kbse/2017</crossref>
+<url>db/conf/kbse/ase2017.html#NguyenDV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saicsit/VisserP17" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<title>Probabilistic programming for Java using symbolic execution and model counting.</title>
+<pages>35:1-35:10</pages>
+<year>2017</year>
+<booktitle>SAICSIT</booktitle>
+<ee>https://doi.org/10.1145/3129416.3129433</ee>
+<crossref>conf/saicsit/2017</crossref>
+<url>db/conf/saicsit/saicsit2017.html#VisserP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LeCLGV17" mdate="2019-06-02">
+<author pid="167/6015">Xuan-Bach D. Le</author>
+<author pid="29/10300">Duc-Hiep Chu</author>
+<author orcid="0000-0002-4367-7201" pid="89/6793-1">David Lo 0001</author>
+<author pid="93/4573">Claire Le Goues</author>
+<author pid="54/5019">Willem Visser</author>
+<title>S3: syntax- and semantic-guided repair synthesis via programming by examples.</title>
+<pages>593-604</pages>
+<year>2017</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3106237.3106309</ee>
+<ee>https://www.wikidata.org/entity/Q59567489</ee>
+<crossref>conf/sigsoft/2017</crossref>
+<url>db/conf/sigsoft/fse2017.html#LeCLGV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/BothaTMV17" mdate="2018-11-06">
+<author pid="193/3275">Heila Botha</author>
+<author pid="88/4695">Oksana Tkachuk</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Addressing challenges in obtaining high coverage when model checking Android applications.</title>
+<pages>31-40</pages>
+<year>2017</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1145/3092282.3092302</ee>
+<crossref>conf/spin/2017</crossref>
+<url>db/conf/spin/spin2017.html#BothaTMV17</url>
+</inproceedings>
+</r>
+<r><article key="journals/joi/DunaiskiVG16" mdate="2017-05-28">
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<title>Evaluating paper and author ranking algorithms using impact and contribution awards.</title>
+<pages>392-407</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>J. Informetrics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.joi.2016.01.010</ee>
+<url>db/journals/joi/joi10.html#DunaiskiVG16</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/BothaMVT16" mdate="2020-09-17">
+<author pid="193/3275">Heila Botha</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="88/4695">Oksana Tkachuk</author>
+<title>StateComparator: Detecting Unbounded Variables Using JPF.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<volume>41</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3011286.3011299</ee>
+<url>db/journals/sigsoft/sigsoft41.html#BothaMVT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/Visser16" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<title>What makes killing a mutant hard.</title>
+<pages>39-44</pages>
+<year>2016</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2970276.2970345</ee>
+<ee>http://ieeexplore.ieee.org/document/7582743/</ee>
+<crossref>conf/kbse/2016</crossref>
+<url>db/conf/kbse/ase2016.html#Visser16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/PonzioAFV16" mdate="2018-11-06">
+<author pid="80/6093">Pablo Ponzio</author>
+<author pid="69/610">Nazareno Aguirre</author>
+<author pid="13/1323">Marcelo F. Frias</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Field-exhaustive testing.</title>
+<pages>908-919</pages>
+<year>2016</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2950290.2950336</ee>
+<crossref>conf/sigsoft/2016</crossref>
+<url>db/conf/sigsoft/fse2016.html#PonzioAFV16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icse/2016" mdate="2020-09-07">
+<editor pid="d/LKDillon">Laura K. Dillon</editor>
+<editor pid="54/5019">Willem Visser</editor>
+<editor pid="w/LaurieAWilliams">Laurie A. Williams</editor>
+<title>Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016</title>
+<booktitle>ICSE</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-3900-1</isbn>
+<ee>https://doi.org/10.1145/2884781</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7878354/proceeding</ee>
+<url>db/conf/icse/icse2016.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/icse/2016c" mdate="2020-09-07">
+<editor pid="d/LKDillon">Laura K. Dillon</editor>
+<editor pid="54/5019">Willem Visser</editor>
+<editor pid="w/LaurieAWilliams">Laurie A. Williams</editor>
+<title>Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016 - Companion Volume</title>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4205-6</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2889160</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7876286/proceeding</ee>
+<url>db/conf/icse/icse2016c.html</url>
+</proceedings>
+</r>
+<r><article key="journals/computer/ArdisBHOSV15" mdate="2020-08-12">
+<author pid="08/2084">Mark A. Ardis</author>
+<author pid="01/338">David Budgen</author>
+<author pid="33/3812">Gregory W. Hislop</author>
+<author pid="o/AJeffersonOffutt">Jeff Offutt</author>
+<author pid="04/2219">Mark J. Sebern</author>
+<author pid="54/5019">Willem Visser</author>
+<title>SE 2014: Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering.</title>
+<pages>106-109</pages>
+<year>2015</year>
+<volume>48</volume>
+<journal>Computer</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/MC.2015.345</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2015.345</ee>
+<url>db/journals/computer/computer48.html#ArdisBHOSV15</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/MerweTMV15" mdate="2020-09-17">
+<author pid="124/0004">Heila van der Merwe</author>
+<author pid="88/4695">Oksana Tkachuk</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Generation of Library Models for Verification of Android Applications.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2693208.2693247</ee>
+<url>db/journals/sigsoft/sigsoft40.html#MerweTMV15</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/MerweTNMV15" mdate="2020-09-17">
+<author pid="124/0004">Heila van der Merwe</author>
+<author pid="88/4695">Oksana Tkachuk</author>
+<author pid="172/0383">Sean Nel</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Environment Modeling Using Runtime Values for JPF-Android.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/2830719.2830727</ee>
+<url>db/journals/sigsoft/sigsoft40.html#MerweTNMV15</url>
+</article>
+</r>
+<r><article key="journals/tse/RosnerGAVF15" mdate="2017-05-17">
+<author pid="94/7855">Nicol&#225;s Rosner</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="69/610">Nazareno Aguirre</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="13/1323">Marcelo F. Frias</author>
+<title>BLISS: Improved Symbolic Execution by Bounded Lazy Initialization with SAT Support.</title>
+<pages>639-660</pages>
+<year>2015</year>
+<volume>41</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TSE.2015.2389225</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2015.2389225</ee>
+<url>db/journals/tse/tse41.html#RosnerGAVF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/gttse/DwyerFGGPV15" mdate="2017-06-29">
+<author pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="40/8264">Antonio Filieri</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="178/3831">Mitchell J. Gerrard</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Probabilistic Program Analysis.</title>
+<pages>1-25</pages>
+<year>2015</year>
+<booktitle>GTTSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-60074-1_1</ee>
+<crossref>conf/gttse/2015</crossref>
+<url>db/conf/gttse/gttse2015.html#DwyerFGGPV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/FilieriPVG15" mdate="2015-05-04">
+<author pid="40/8264">Antonio Filieri</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<title>Statistical Symbolic Execution with Informed Sampling.</title>
+<pages>51-52</pages>
+<year>2015</year>
+<booktitle>Software Engineering &#38; Management</booktitle>
+<crossref>conf/se/2015</crossref>
+<url>db/conf/se/se2015.html#FilieriPVG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/FilieriFPV15" mdate="2017-06-15">
+<author orcid="0000-0001-9646-646X" pid="40/8264">Antonio Filieri</author>
+<author pid="13/1323">Marcelo F. Frias</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Model Counting for Complex Data Structures.</title>
+<pages>222-241</pages>
+<year>2015</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23404-5_15</ee>
+<crossref>conf/spin/2015</crossref>
+<url>db/conf/spin/spin2015.html#FilieriFPV15</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/MerweMV14" mdate="2020-09-17">
+<author pid="124/0004">Heila van der Merwe</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Execution and property specifications for JPF-android.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2557833.2560576</ee>
+<url>db/journals/sigsoft/sigsoft39.html#MerweMV14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/VisserBS14" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<author pid="51/912">Nikolaj Bj&#248;rner</author>
+<author pid="33/1623">Natarajan Shankar</author>
+<title>Software engineering and automated deduction.</title>
+<pages>155-166</pages>
+<year>2014</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1145/2593882.2593899</ee>
+<crossref>conf/icse/2014fose</crossref>
+<url>db/conf/icse/fose2014.html#VisserBS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LuckowPDFV14" mdate="2020-12-29">
+<author pid="13/11526">Kasper S&#248;e Luckow</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author orcid="0000-0001-9646-646X" pid="40/8264">Antonio Filieri</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Exact and approximate probabilistic symbolic execution for nondeterministic programs.</title>
+<pages>575-586</pages>
+<year>2014</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2642937.2643011</ee>
+<crossref>conf/kbse/2014</crossref>
+<url>db/conf/kbse/ase2014.html#LuckowPDFV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BorgesFdPV14" mdate="2018-11-06">
+<author pid="36/9538">Mateus Borges</author>
+<author orcid="0000-0001-9646-646X" pid="40/8264">Antonio Filieri</author>
+<author orcid="0000-0002-1323-8769" pid="16/608">Marcelo d'Amorim</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Compositional solution space quantification for probabilistic software analysis.</title>
+<pages>123-132</pages>
+<year>2014</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/2594291.2594329</ee>
+<crossref>conf/pldi/2014</crossref>
+<url>db/conf/pldi/pldi2014.html#BorgesFdPV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/FilieriPV14" mdate="2021-01-13">
+<author pid="40/8264">Antonio Filieri</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Reliability Analysis in Symbolic Pathfinder: A brief summary.</title>
+<pages>39-40</pages>
+<year>2014</year>
+<booktitle>Software Engineering</booktitle>
+<crossref>conf/se/2014</crossref>
+<url>db/conf/se/se2014.html#FilieriPV14</url>
+<ee type="oa">https://dl.gi.de/20.500.12116/30948</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/FilieriPVG14" mdate="2018-11-06">
+<author orcid="0000-0001-9646-646X" pid="40/8264">Antonio Filieri</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<title>Statistical symbolic execution with informed sampling.</title>
+<pages>437-448</pages>
+<year>2014</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2635868.2635899</ee>
+<crossref>conf/sigsoft/2014</crossref>
+<url>db/conf/sigsoft/fse2014.html#FilieriPVG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ase/PasareanuVBGMR13" mdate="2017-05-18">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="39/5776">David H. Bushnell</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="91/1422">Peter C. Mehlitz</author>
+<author pid="66/4832">Neha Rungta</author>
+<title>Symbolic PathFinder: integrating symbolic execution with model checking for Java bytecode analysis.</title>
+<pages>391-425</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10515-013-0122-2</ee>
+<url>db/journals/ase/ase20.html#PasareanuVBGMR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/csee/ArdisBHOSV13" mdate="2017-05-17">
+<author pid="08/2084">Mark A. Ardis</author>
+<author pid="01/338">David Budgen</author>
+<author pid="33/3812">Gregory W. Hislop</author>
+<author pid="o/AJeffersonOffutt">Jeff Offutt</author>
+<author pid="04/2219">Mark J. Sebern</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Workshop on revisions to SE 2004.</title>
+<pages>356-358</pages>
+<year>2013</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET.2013.6595278</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSEET.2013.6595278</ee>
+<crossref>conf/csee/2013</crossref>
+<url>db/conf/csee/csee2013.html#ArdisBHOSV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FilieriPV13" mdate="2017-06-04">
+<author orcid="0000-0001-9646-646X" pid="40/8264">Antonio Filieri</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Reliability analysis in symbolic pathfinder.</title>
+<pages>622-631</pages>
+<year>2013</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2013.6606608</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2013.6606608</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2486870</ee>
+<crossref>conf/icse/2013</crossref>
+<url>db/conf/icse/icse2013.html#FilieriPV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ArdisBHOSV04" mdate="2017-05-23">
+<author pid="08/2084">Mark A. Ardis</author>
+<author pid="01/338">David Budgen</author>
+<author pid="33/3812">Gregory W. Hislop</author>
+<author pid="o/AJeffersonOffutt">Jeff Offutt</author>
+<author pid="04/2219">Mark J. Sebern</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Town hall discussion of SE 2004 revisions (panel).</title>
+<pages>1127</pages>
+<year>2013</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2013.6606663</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2013.6606663</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2486943</ee>
+<crossref>conf/icse/2013</crossref>
+<url>db/conf/icse/icse2013.html#ArdisBHOSV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MehlitzRV04" mdate="2017-05-23">
+<author pid="91/1422">Peter C. Mehlitz</author>
+<author pid="66/4832">Neha Rungta</author>
+<author pid="54/5019">Willem Visser</author>
+<title>A hands-on Java PathFinder tutorial.</title>
+<pages>1493-1495</pages>
+<year>2013</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2013.6606756</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2013.6606756</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2487052</ee>
+<crossref>conf/icse/2013</crossref>
+<url>db/conf/icse/icse2013.html#MehlitzRV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/GeldenhuysAFV13" mdate="2017-05-25">
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author pid="69/610">Nazareno Aguirre</author>
+<author pid="13/1323">Marcelo F. Frias</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Bounded Lazy Initialization.</title>
+<pages>229-243</pages>
+<year>2013</year>
+<booktitle>NASA Formal Methods</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38088-4_16</ee>
+<crossref>conf/nfm/2013</crossref>
+<url>db/conf/nfm/nfm2013.html#GeldenhuysAFV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/HislopABSOV13" mdate="2018-11-06">
+<author pid="33/3812">Gregory W. Hislop</author>
+<author pid="08/2084">Mark A. Ardis</author>
+<author pid="01/338">David Budgen</author>
+<author pid="04/2219">Mark J. Sebern</author>
+<author pid="o/AJeffersonOffutt">Jeff Offutt</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Revision of the SE 2004 curriculum model.</title>
+<pages>383-384</pages>
+<year>2013</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/2445196.2445312</ee>
+<crossref>conf/sigcse/2013</crossref>
+<url>db/conf/sigcse/sigcse2013.html#HislopABSOV13</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/MerweMV12" mdate="2020-09-17">
+<author pid="124/0004">Heila van der Merwe</author>
+<author pid="59/6051">Brink van der Merwe</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Verifying android applications using Java PathFinder.</title>
+<pages>1-5</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/2382756.2382797</ee>
+<url>db/journals/sigsoft/sigsoft37.html#MerweMV12</url>
+</article>
+</r>
+<r><article key="journals/sosym/VisserDW12" mdate="2020-09-18">
+<author pid="54/5019">Willem Visser</author>
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="70/5189">Michael W. Whalen</author>
+<title>The hidden models of model checking.</title>
+<pages>541-555</pages>
+<year>2012</year>
+<volume>11</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10270-012-0281-9</ee>
+<url>db/journals/sosym/sosym11.html#VisserDW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/issta/GeldenhuysDV12" mdate="2018-11-06">
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Probabilistic symbolic execution.</title>
+<pages>166-176</pages>
+<year>2012</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/2338965.2336773</ee>
+<crossref>conf/issta/2012</crossref>
+<url>db/conf/issta/issta2012.html#GeldenhuysDV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saicsit/DunaiskiV12" mdate="2018-11-06">
+<author pid="120/5784">Marcel Dunaiski</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Comparing paper ranking algorithms.</title>
+<pages>21-30</pages>
+<year>2012</year>
+<booktitle>SAICSIT</booktitle>
+<ee>https://doi.org/10.1145/2389836.2389840</ee>
+<crossref>conf/saicsit/2012</crossref>
+<url>db/conf/saicsit/saicsit2012.html#DunaiskiV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saicsit/RedelinghuysVG12" mdate="2018-11-06">
+<author pid="120/5807">Gideon Redelinghuys</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<title>Symbolic execution of programs with strings.</title>
+<pages>139-148</pages>
+<year>2012</year>
+<booktitle>SAICSIT</booktitle>
+<ee>https://doi.org/10.1145/2389836.2389853</ee>
+<crossref>conf/saicsit/2012</crossref>
+<url>db/conf/saicsit/saicsit2012.html#RedelinghuysVG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/VisserGD12" mdate="2020-12-29">
+<author pid="54/5019">Willem Visser</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<title>Green: reducing, reusing and recycling constraints in program analysis.</title>
+<pages>58</pages>
+<year>2012</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2393596.2393665</ee>
+<crossref>conf/sigsoft/2012</crossref>
+<url>db/conf/sigsoft/fse2012.html#VisserGD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/CadarGKPSTV11" mdate="2018-11-06">
+<author pid="86/4141">Cristian Cadar</author>
+<author pid="20/1639">Patrice Godefroid</author>
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="04/418">Koushik Sen</author>
+<author pid="81/6785">Nikolai Tillmann</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Symbolic execution for software testing in practice: preliminary assessment.</title>
+<pages>1066-1071</pages>
+<year>2011</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1985793.1985995</ee>
+<crossref>conf/icse/2011</crossref>
+<url>db/conf/icse/icse2011.html#CadarGKPSTV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictac/Visser11" mdate="2018-06-26">
+<author pid="54/5019">Willem Visser</author>
+<title>Infinitely Often Testing - (Extended Abstract).</title>
+<pages>6</pages>
+<year>2011</year>
+<booktitle>ICTAC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-23283-1_3</ee>
+<crossref>conf/ictac/2011</crossref>
+<url>db/conf/ictac/ictac2011.html#Visser11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/PasareanuRV11" mdate="2018-11-06">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="66/4832">Neha Rungta</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Symbolic execution with mixed concrete-symbolic solving.</title>
+<pages>34-44</pages>
+<year>2011</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/2001420.2001425</ee>
+<crossref>conf/issta/2011</crossref>
+<url>db/conf/issta/issta2011.html#PasareanuRV11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ase/IrelandV10" mdate="2017-05-18">
+<author pid="54/4624">Andrew Ireland</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Guest Editorial.</title>
+<pages>117-118</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10515-010-0065-9</ee>
+<url>db/journals/ase/ase17.html#IrelandV10</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/VisserG10" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<author pid="g/JacoGeldenhuys">Jaco Geldenhuys</author>
+<title>Impendulo: debugging the programmer.</title>
+<pages>351-352</pages>
+<year>2010</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1858996.1859071</ee>
+<crossref>conf/kbse/2010</crossref>
+<url>db/conf/kbse/ase2010.html#VisserG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/WhalenGMPTV10" mdate="2019-09-16">
+<author pid="70/5189">Michael W. Whalen</author>
+<author pid="20/1639">Patrice Godefroid</author>
+<author orcid="0000-0001-9527-7042" pid="27/2914">Leonardo Mariani</author>
+<author pid="90/329">Andrea Polini</author>
+<author pid="81/6785">Nikolai Tillmann</author>
+<author pid="54/5019">Willem Visser</author>
+<title>FITE: future integrated testing environment.</title>
+<pages>401-406</pages>
+<year>2010</year>
+<booktitle>FoSER</booktitle>
+<ee>https://doi.org/10.1145/1882362.1882444</ee>
+<crossref>conf/sigsoft/2010foser</crossref>
+<url>db/conf/sigsoft/foser2010.html#WhalenGMPTV10</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/GodefroidMPTVW10" mdate="2018-08-23">
+<author pid="20/1639">Patrice Godefroid</author>
+<author pid="27/2914">Leonardo Mariani</author>
+<author pid="90/329">Andrea Polini</author>
+<author pid="81/6785">Nikolai Tillmann</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="70/5189">Michael W. Whalen</author>
+<title>FITE - Future Integrated Testing Environment.</title>
+<year>2010</year>
+<booktitle>Practical Software Testing: Tool Automation and Human Factors</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2010/2619/</ee>
+<crossref>conf/dagstuhl/2010P10111</crossref>
+<url>db/conf/dagstuhl/P10111.html#GodefroidMPTVW10</url>
+</inproceedings>
+</r>
+<r><article key="journals/logcom/BordiniFWV09" mdate="2020-12-25">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Property-based Slicing for Agent Verification.</title>
+<pages>1385-1425</pages>
+<year>2009</year>
+<volume>19</volume>
+<journal>J. Log. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1093/logcom/exp029</ee>
+<ee>https://www.wikidata.org/entity/Q98283654</ee>
+<url>db/journals/logcom/logcom19.html#BordiniFWV09</url>
+</article>
+</r>
+<r><article key="journals/sttt/AnandPV09" mdate="2020-04-02">
+<author pid="95/5667">Saswat Anand</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Symbolic execution with abstraction.</title>
+<pages>53-67</pages>
+<year>2009</year>
+<volume>11</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10009-008-0090-1</ee>
+<url>db/journals/sttt/sttt11.html#AnandPV09</url>
+</article>
+</r>
+<r><article key="journals/sttt/PasareanuV09" mdate="2020-04-02">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>A survey of new trends in symbolic execution for software testing and analysis.</title>
+<pages>339-353</pages>
+<year>2009</year>
+<volume>11</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10009-009-0118-1</ee>
+<url>db/journals/sttt/sttt11.html#PasareanuV09</url>
+</article>
+</r>
+<r><inproceedings key="conf/spin/Visser09" mdate="2018-06-26">
+<author pid="54/5019">Willem Visser</author>
+<title>Who Really Cares If the Program Crashes?.</title>
+<pages>5</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02652-2_4</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#Visser09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/RungtaMV09" mdate="2017-05-17">
+<author pid="66/4832">Neha Rungta</author>
+<author pid="m/EricMercer">Eric G. Mercer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Efficient Testing of Concurrent Programs with Abstraction-Guided Symbolic Execution.</title>
+<pages>174-191</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_16</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#RungtaMV09</url>
+</inproceedings>
+</r>
+<r><article key="journals/lmcs/PasareanuPV07" mdate="2020-06-25">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author orcid="0000-0001-8877-4729" pid="23/6970">Radek Pel&#225;nek</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Predicate Abstraction with Under-Approximation Refinement.</title>
+<year>2007</year>
+<volume>3</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2168/LMCS-3(1:5)2007</ee>
+<ee>https://www.wikidata.org/entity/Q62039406</ee>
+<url>db/journals/lmcs/lmcs3.html#PasareanuPV07</url>
+</article>
+</r>
+<r><inproceedings key="conf/hvc/PasareanuV07" mdate="2017-05-19">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Symbolic Execution and Model Checking for Testing.</title>
+<pages>17-18</pages>
+<year>2007</year>
+<crossref>conf/hvc/2007</crossref>
+<booktitle>Haifa Verification Conference</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77966-7_5</ee>
+<url>db/conf/hvc/hvc2007.html#PasareanuV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/DwyerHRPV07" mdate="2017-06-15">
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="52/5739">John Hatcliff</author>
+<author pid="98/4700">Robby</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Formal Software Analysis Emerging Trends in Software Model Checking.</title>
+<pages>120-136</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.6</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254714</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#DwyerHRPV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/TombBV07" mdate="2018-11-06">
+<author pid="91/466">Aaron Tomb</author>
+<author pid="03/3836">Guillaume P. Brat</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Variably interprocedural program analysis for runtime error detection.</title>
+<pages>97-107</pages>
+<year>2007</year>
+<crossref>conf/issta/2007</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1273463.1273478</ee>
+<url>db/conf/issta/issta2007.html#TombBV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AnandPV07" mdate="2018-06-26">
+<author pid="95/5667">Saswat Anand</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>JPF-SE: A Symbolic Execution Extension to Java PathFinder.</title>
+<pages>134-138</pages>
+<year>2007</year>
+<crossref>conf/tacas/2007</crossref>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-71209-1_12</ee>
+<url>db/conf/tacas/tacas2007.html#AnandPV07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2006P6172" mdate="2013-06-19">
+<editor pid="98/3919">Stefan Edelkamp</editor>
+<editor pid="20/6822">Stefan Leue</editor>
+<editor pid="54/5019">Willem Visser</editor>
+<title>Directed Model Checking, 26.04. - 29.04.2006</title>
+<booktitle>Directed Model Checking</booktitle>
+<volume>06172</volume>
+<year>2007</year>
+<publisher>Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI), Schloss Dagstuhl, Germany</publisher>
+<url>db/conf/dagstuhl/P6172.html</url>
+<ee>http://drops.dagstuhl.de/portals/06172/</ee>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701140" mdate="2018-08-13">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="23/6970">Radek Pel&#225;nek</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Predicate Abstraction with Under-approximation Refinement</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701140</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701140</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701140</url>
+</article>
+</r>
+<r><article key="journals/aamas/BordiniFVW06" mdate="2020-12-25">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Verifying Multi-agent Programs by Model Checking.</title>
+<pages>239-256</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>Auton. Agents Multi Agent Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10458-006-5955-7</ee>
+<ee>https://www.wikidata.org/entity/Q98283859</ee>
+<url>db/journals/aamas/aamas12.html#BordiniFVW06</url>
+</article>
+</r>
+<r><article key="journals/entcs/CookSV06" mdate="2021-02-12">
+<author pid="36/113">Byron Cook</author>
+<author pid="09/6787">Scott D. Stoller</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Preface.</title>
+<pages>1-2</pages>
+<year>2006</year>
+<volume>144</volume>
+<journal>Electron. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2006.01.001</ee>
+<url>db/journals/entcs/entcs144.html#CookSV06</url>
+</article>
+</r>
+<r><inproceedings key="conf/issta/VisserPP06" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="23/6970">Radek Pel&#225;nek</author>
+<title>Test input generation for java containers using state matching.</title>
+<pages>37-48</pages>
+<year>2006</year>
+<crossref>conf/issta/2006</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1146238.1146243</ee>
+<url>db/conf/issta/issta2006.html#VisserPP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/AnandPV06" mdate="2017-05-17">
+<author pid="95/5667">Saswat Anand</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Symbolic Execution with Abstract Subsumption Checking.</title>
+<pages>163-181</pages>
+<year>2006</year>
+<crossref>conf/spin/2006</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/11691617_10</ee>
+<url>db/conf/spin/spin2006.html#AnandPV06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/EdelkampLV06" mdate="2018-08-23">
+<author pid="98/3919">Stefan Edelkamp</author>
+<author pid="20/6822">Stefan Leue</author>
+<author pid="54/5019">Willem Visser</author>
+<title>06172 Executive Summary -- Directed Model Checking.</title>
+<year>2006</year>
+<booktitle>Directed Model Checking</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/944</ee>
+<crossref>conf/dagstuhl/2006P6172</crossref>
+<url>db/conf/dagstuhl/P6172.html#EdelkampLV06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/EdelkampLV06a" mdate="2018-08-23">
+<author pid="98/3919">Stefan Edelkamp</author>
+<author pid="20/6822">Stefan Leue</author>
+<author pid="54/5019">Willem Visser</author>
+<title>06172 Abstracts Collection -- Directed Model Checking.</title>
+<year>2006</year>
+<booktitle>Directed Model Checking</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/946</ee>
+<crossref>conf/dagstuhl/2006P6172</crossref>
+<url>db/conf/dagstuhl/P6172.html#EdelkampLV06a</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/StollerV05" mdate="2020-03-13">
+<author pid="09/6787">Scott D. Stoller</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Foreword.</title>
+<pages>75-76</pages>
+<year>2005</year>
+<volume>26</volume>
+<journal>Formal Methods Syst. Des.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10703-005-1488-y</ee>
+<url>db/journals/fmsd/fmsd26.html#StollerV05</url>
+</article>
+</r>
+<r><article key="journals/fmsd/PenixVPPELW05" mdate="2020-03-13">
+<author pid="84/3141">John Penix</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="68/3940">Seungjoon Park</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="35/3112">Eric Engstrom</author>
+<author pid="24/819">Aaron Larson</author>
+<author pid="13/4313">Nicholas Weininger</author>
+<title>Verifying Time Partitioning in the DEOS Scheduling Kernel.</title>
+<pages>103-135</pages>
+<year>2005</year>
+<volume>26</volume>
+<journal>Formal Methods Syst. Des.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10703-005-1490-4</ee>
+<url>db/journals/fmsd/fmsd26.html#PenixVPPELW05</url>
+</article>
+</r>
+<r><article key="journals/tcs/ArthoBGHKLPRSVW05" mdate="2021-02-17">
+<author pid="21/6330">Cyrille Artho</author>
+<author pid="b/HBarringer">Howard Barringer</author>
+<author pid="01/5453">Allen Goldberg</author>
+<author pid="84/3029">Klaus Havelund</author>
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="90/685">Michael R. Lowry</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="r/GrigoreRosu">Grigore Rosu</author>
+<author pid="04/418">Koushik Sen</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="57/1203">Richard Washington</author>
+<title>Combining test case generation and runtime verification.</title>
+<pages>209-234</pages>
+<year>2005</year>
+<volume>336</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2004.11.007</ee>
+<url>db/journals/tcs/tcs336.html#ArthoBGHKLPRSVW05</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/LindstromMV05" mdate="2017-05-21">
+<author pid="l/GaryLindstrom">Gary Lindstrom</author>
+<author pid="91/1422">Peter C. Mehlitz</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Model Checking Real Time Java Using Java PathFinder.</title>
+<pages>444-456</pages>
+<year>2005</year>
+<crossref>conf/atva/2005</crossref>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/11562948_33</ee>
+<url>db/conf/atva/atva2005.html#LindstromMV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/PasareanuPV05" mdate="2018-10-03">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="23/6970">Radek Pel&#225;nek</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Concrete Model Checking with Abstract Matching and Refinement.</title>
+<pages>52-66</pages>
+<year>2005</year>
+<crossref>conf/cav/2005</crossref>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/11513988_7</ee>
+<url>db/conf/cav/cav2005.html#PasareanuPV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/VisserPP05" mdate="2019-06-02">
+<author pid="54/5019">Willem Visser</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author orcid="0000-0001-8877-4729" pid="23/6970">Radek Pel&#225;nek</author>
+<title>Test input generation for red-black trees using abstraction.</title>
+<pages>414-417</pages>
+<year>2005</year>
+<crossref>conf/kbse/2005</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1101908.1101983</ee>
+<ee>https://www.wikidata.org/entity/Q62039410</ee>
+<url>db/conf/kbse/ase2005.html#VisserPP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/VisserM05" mdate="2017-05-17">
+<author pid="54/5019">Willem Visser</author>
+<author pid="91/1422">Peter C. Mehlitz</author>
+<title>Model Checking Programs with Java PathFinder.</title>
+<pages>27</pages>
+<year>2005</year>
+<crossref>conf/spin/2005</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/11537328_5</ee>
+<url>db/conf/spin/spin2005.html#VisserM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/expert/BordiniFVW04" mdate="2020-12-25">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Model Checking Rational Agents.</title>
+<pages>46-52</pages>
+<year>2004</year>
+<volume>19</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MIS.2004.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2004.47</ee>
+<ee>https://www.wikidata.org/entity/Q98283928</ee>
+<url>db/journals/expert/expert19.html#BordiniFVW04</url>
+</article>
+</r>
+<r><article key="journals/fmsd/BratDGGHLPVVW04" mdate="2020-03-13">
+<author pid="03/3836">Guillaume P. Brat</author>
+<author pid="16/331">Doron Drusinsky</author>
+<author pid="39/117">Dimitra Giannakopoulou</author>
+<author pid="01/5453">Allen Goldberg</author>
+<author pid="84/3029">Klaus Havelund</author>
+<author pid="90/685">Michael R. Lowry</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="59/4227">Arnaud Venet</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="57/1203">Richard Washington</author>
+<title>Experimental Evaluation of Verification and Validation Tools on Martian Rover Software.</title>
+<pages>167-198</pages>
+<year>2004</year>
+<volume>25</volume>
+<journal>Formal Methods Syst. Des.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1023/B:FORM.0000040027.28662.a4</ee>
+<url>db/journals/fmsd/fmsd25.html#BratDGGHLPVVW04</url>
+</article>
+</r>
+<r><article key="journals/sttt/GroceV04" mdate="2020-04-02">
+<author pid="g/AlexGroce">Alex Groce</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Heuristics for model checking Java programs.</title>
+<pages>260-276</pages>
+<year>2004</year>
+<volume>6</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10009-003-0130-9</ee>
+<url>db/journals/sttt/sttt6.html#GroceV04</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BordiniFVW04" mdate="2019-06-18">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>State-Space Reduction Techniques in Agent Verification.</title>
+<pages>896-903</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10118</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1018842</ee>
+<url>db/conf/atal/aamas2004.html#BordiniFVW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/VisserPK04" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<title>Test input generation with java PathFinder.</title>
+<pages>97-107</pages>
+<year>2004</year>
+<crossref>conf/issta/2004</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1007512.1007526</ee>
+<url>db/conf/issta/issta2004.html#VisserPK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/DwyerRTV04" mdate="2020-12-29">
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="98/4700">Robby</author>
+<author pid="88/4695">Oksana Tkachuk</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Analyzing Interaction Orderings with Model Checking.</title>
+<pages>154-163</pages>
+<year>2004</year>
+<crossref>conf/kbse/2004</crossref>
+<booktitle>ASE</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2004.10067</ee>
+<url>db/conf/kbse/ase2004.html#DwyerRTV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/PasareanuV04" mdate="2017-05-17">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Verification of Java Programs Using Symbolic Execution and Invariant Generation.</title>
+<pages>164-181</pages>
+<ee>https://doi.org/10.1007/978-3-540-24732-6_13</ee>
+<year>2004</year>
+<crossref>conf/spin/2004</crossref>
+<booktitle>SPIN</booktitle>
+<url>db/conf/spin/spin2004.html#PasareanuV04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ase/VisserHBPL03" mdate="2017-05-18">
+<author pid="54/5019">Willem Visser</author>
+<author pid="84/3029">Klaus Havelund</author>
+<author pid="03/3836">Guillaume P. Brat</author>
+<author pid="68/3940">Seungjoon Park</author>
+<author pid="38/6631">Flavio Lerda</author>
+<title>Model Checking Programs.</title>
+<pages>203-232</pages>
+<year>2003</year>
+<volume>10</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1023/A:1022920129859</ee>
+<url>db/journals/ase/ase10.html#VisserHBPL03</url>
+</article>
+</r>
+<r><article key="journals/entcs/CookSV03" mdate="2021-02-12">
+<author pid="36/113">Byron Cook</author>
+<author pid="09/6787">Scott D. Stoller</author>
+<author pid="54/5019">Willem Visser</author>
+<title>SoftMC 2003: Workshop on Software Model Checking.</title>
+<year>2003</year>
+<volume>89</volume>
+<journal>Electron. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(05)80001-5</ee>
+<url>db/journals/entcs/entcs89.html#CookSV03</url>
+<pages>377</pages>
+</article>
+</r>
+<r><article key="journals/sttt/PasareanuDV03" mdate="2020-12-29">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Finding feasible abstract counter-examples.</title>
+<pages>34-48</pages>
+<year>2003</year>
+<volume>5</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10009-002-0088-z</ee>
+<url>db/journals/sttt/sttt5.html#PasareanuDV03</url>
+</article>
+</r>
+<r><inproceedings key="conf/asm/ArthoDGHLPRV03" mdate="2017-05-21">
+<author pid="21/6330">Cyrille Artho</author>
+<author pid="16/331">Doron Drusinsky</author>
+<author pid="01/5453">Allen Goldberg</author>
+<author pid="84/3029">Klaus Havelund</author>
+<author pid="90/685">Michael R. Lowry</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="r/GrigoreRosu">Grigore Rosu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Experiments with Test Case Generation and Runtime Analysis.</title>
+<pages>87-107</pages>
+<year>2003</year>
+<crossref>conf/asm/2003</crossref>
+<booktitle>Abstract State Machines</booktitle>
+<ee>https://doi.org/10.1007/3-540-36498-6_5</ee>
+<url>db/conf/asm/asm2003.html#ArthoDGHLPRV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BordiniFPVW03" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="94/6543">Carmen Pardavila</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Model Checking Multi-Agent Programs with CASP.</title>
+<pages>110-113</pages>
+<ee>https://doi.org/10.1007/978-3-540-45069-6_10</ee>
+<year>2003</year>
+<crossref>conf/cav/2003</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav2003.html#BordiniFPVW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fates/HeimdahlRVDG03" mdate="2017-05-26">
+<author pid="68/654">Mats Per Erik Heimdahl</author>
+<author pid="11/1335">Sanjai Rayadurgam</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="27/4067">George Devaraj</author>
+<author pid="63/4571">Jimin Gao</author>
+<title>Auto-generating Test Sequences Using Model Checkers: A Case Study.</title>
+<pages>42-59</pages>
+<ee>https://doi.org/10.1007/978-3-540-24617-6_4</ee>
+<year>2003</year>
+<crossref>conf/fates/2003</crossref>
+<booktitle>FATES</booktitle>
+<url>db/conf/fates/fates2003.html#HeimdahlRVDG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/BordiniFVW03" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Verifiable Multi-agent Programs.</title>
+<pages>72-89</pages>
+<ee>https://doi.org/10.1007/978-3-540-25936-7_4</ee>
+<year>2003</year>
+<crossref>conf/promas/2003</crossref>
+<booktitle>PROMAS</booktitle>
+<url>db/conf/promas/promas2003.html#BordiniFVW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/GroceV03" mdate="2017-05-17">
+<author pid="g/AlexGroce">Alex Groce</author>
+<author pid="54/5019">Willem Visser</author>
+<title>What Went Wrong: Explaining Counterexamples.</title>
+<pages>121-135</pages>
+<year>2003</year>
+<crossref>conf/spin/2003</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/3-540-44829-2_8</ee>
+<url>db/conf/spin/spin2003.html#GroceV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/KhurshidPV03" mdate="2017-05-24">
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Generalized Symbolic Execution for Model Checking and Testing.</title>
+<pages>553-568</pages>
+<year>2003</year>
+<crossref>conf/tacas/2003</crossref>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36577-X_40</ee>
+<url>db/conf/tacas/tacas2003.html#KhurshidPV03</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/HavelundV02" mdate="2020-04-02">
+<author pid="84/3029">Klaus Havelund</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Program model checking as a new trend.</title>
+<pages>8-20</pages>
+<year>2002</year>
+<volume>4</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10009-002-0080-7</ee>
+<url>db/journals/sttt/sttt4.html#HavelundV02</url>
+</article>
+</r>
+<r><inproceedings key="conf/issta/GroceV02" mdate="2018-11-06">
+<author pid="g/AlexGroce">Alex Groce</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Model checking Java programs using structural heuristics.</title>
+<pages>12-21</pages>
+<year>2002</year>
+<crossref>conf/issta/2002</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/566172.566175</ee>
+<url>db/conf/issta/issta2002.html#GroceV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/GroceV02" mdate="2017-05-17">
+<author pid="g/AlexGroce">Alex Groce</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Heuristic Model Checking for Java Programs.</title>
+<pages>242-245</pages>
+<year>2002</year>
+<crossref>conf/spin/2002</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/3-540-46017-9_21</ee>
+<url>db/conf/spin/spin2002.html#GroceV02</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/PecheurVS01" mdate="2020-08-25">
+<author pid="17/1340">Charles Pecheur</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="s/ReidGSimmons">Reid G. Simmons</author>
+<title>RIACS Workshop on the Verification and Validation of Autonomous and Adaptive Systems.</title>
+<pages>107-111</pages>
+<year>2001</year>
+<volume>22</volume>
+<journal>AI Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1609/aimag.v22i3.1583</ee>
+<url>db/journals/aim/aim22.html#PecheurVS01</url>
+</article>
+</r>
+<r><article key="journals/entcs/StollerV01" mdate="2021-02-12">
+<author pid="09/6787">Scott D. Stoller</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Preface.</title>
+<year>2001</year>
+<volume>55</volume>
+<journal>Electron. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<pages>394</pages>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(05)80578-X</ee>
+<url>db/journals/entcs/entcs55.html#StollerV01</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/PenixTV01" mdate="2020-09-17">
+<author pid="84/3141">John Penix</author>
+<author pid="92/6497">Nigel Tracey</author>
+<author pid="54/5019">Willem Visser</author>
+<title>The first international workshop on automated program analysis, testing and verification.</title>
+<pages>40</pages>
+<year>2001</year>
+<volume>26</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/505894.505903</ee>
+<url>db/journals/sigsoft/sigsoft26.html#PenixTV01</url>
+</article>
+</r>
+<r><article key="journals/sofo/TraceyPV01" mdate="2020-08-12">
+<author pid="92/6497">Nigel Tracey</author>
+<author pid="84/3141">John Penix</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Automated analysis, verification and testing.</title>
+<pages>82</pages>
+<year>2001</year>
+<volume>2</volume>
+<journal>Softw. Focus</journal>
+<number>2</number>
+<url>db/journals/sofo/sofo2.html#TraceyPV01</url>
+<ee>https://doi.org/10.1002/swf.34</ee>
+</article>
+</r>
+<r><article key="journals/stvr/TraceyPV01" mdate="2020-04-01">
+<author pid="92/6497">Nigel Tracey</author>
+<author pid="84/3141">John Penix</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Editorial: The First International Workshop on Automated Program Analysis, Testing and Verification (WAPATV 2000).</title>
+<pages>63-64</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>Softw. Test. Verification Reliab.</journal>
+<number>2</number>
+<url>db/journals/stvr/stvr11.html#TraceyPV01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/DwyerHJLPRZV01" mdate="2020-12-29">
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="52/5739">John Hatcliff</author>
+<author pid="87/3705">Roby Joehanes</author>
+<author pid="75/2797">Shawn Laubach</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="98/4700">Robby</author>
+<author pid="18/1656">Hongjun Zheng</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Tool-Supported Program Abstraction for Finite-State Verification.</title>
+<pages>177-187</pages>
+<year>2001</year>
+<crossref>conf/icse/2001</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse2001.html#DwyerHJLPRZV01</url>
+<ee>https://doi.org/10.1109/ICSE.2001.919092</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2001.919092</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TraceyPV01" mdate="2017-05-23">
+<author pid="92/6497">Nigel Tracey</author>
+<author pid="84/3141">John Penix</author>
+<author pid="54/5019">Willem Visser</author>
+<title>The Second International Workshop on Automated Program Analysis, Testing and Verification.</title>
+<pages>755</pages>
+<year>2001</year>
+<crossref>conf/icse/2001</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse2001.html#TraceyPV01</url>
+<ee>https://doi.org/10.1109/ICSE.2001.919162</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2001.919162</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/BratV01" mdate="2017-05-23">
+<author pid="03/3836">Guillaume P. Brat</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Combining Static Analysis and Model Checking for Software Analysis.</title>
+<pages>262-</pages>
+<year>2001</year>
+<crossref>conf/kbse/2001</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2001.989812</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2001.989812</ee>
+<url>db/conf/kbse/ase2001.html#BratV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/LerdaV01" mdate="2017-05-17">
+<author pid="38/6631">Flavio Lerda</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Addressing Dynamic Issues of Program Model Checking.</title>
+<pages>80-102</pages>
+<year>2001</year>
+<crossref>conf/spin/2001</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/3-540-45139-0_6</ee>
+<url>db/conf/spin/spin2001.html#LerdaV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/PasareanuDV01" mdate="2017-05-24">
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Finding Feasible Counter-examples when Model Checking Abstracted Java Programs.</title>
+<pages>284-298</pages>
+<year>2001</year>
+<crossref>conf/tacas/2001</crossref>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45319-9_20</ee>
+<url>db/conf/tacas/tacas2001.html#PasareanuDV01</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/VisserB00" mdate="2020-04-02">
+<author pid="54/5019">Willem Visser</author>
+<author pid="b/HBarringer">Howard Barringer</author>
+<title>Practical CTL<sup>*</sup> Model Checking: Should SPIN be Extended?</title>
+<pages>350-365</pages>
+<year>2000</year>
+<volume>2</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s100090050042</ee>
+<url>db/journals/sttt/sttt2.html#VisserB00</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmsp/VisserPP00" mdate="2018-11-06">
+<author pid="54/5019">Willem Visser</author>
+<author pid="68/3940">Seungjoon Park</author>
+<author pid="84/3141">John Penix</author>
+<title>Using predicate abstraction to reduce object-oriented programs for model checking.</title>
+<pages>3-182</pages>
+<year>2000</year>
+<crossref>conf/fmsp/2000</crossref>
+<booktitle>FMSP</booktitle>
+<ee>https://doi.org/10.1145/349360.351125</ee>
+<url>db/conf/fmsp/fmsp2000.html#VisserPP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PenixVELW00" mdate="2018-11-06">
+<author pid="84/3141">John Penix</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="35/3112">Eric Engstrom</author>
+<author pid="24/819">Aaron Larson</author>
+<author pid="13/4313">Nicholas Weininger</author>
+<title>Verification of time partitioning in the DEOS scheduler kernel.</title>
+<pages>488-497</pages>
+<year>2000</year>
+<crossref>conf/icse/2000</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/337180.337364</ee>
+<url>db/conf/icse/icse2000.html#PenixVELW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TraceyPV00" mdate="2018-11-06">
+<author pid="92/6497">Nigel Tracey</author>
+<author pid="84/3141">John Penix</author>
+<author pid="54/5019">Willem Visser</author>
+<title>The First International Workshop on Automated Program Analysis, Testing and Verification.</title>
+<pages>796</pages>
+<year>2000</year>
+<crossref>conf/icse/2000</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/337180.337819</ee>
+<url>db/conf/icse/icse2000.html#TraceyPV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/VisserHBP00" mdate="2017-05-23">
+<author pid="54/5019">Willem Visser</author>
+<author pid="84/3029">Klaus Havelund</author>
+<author pid="03/3836">Guillaume P. Brat</author>
+<author pid="68/3940">Seungjoon Park</author>
+<title>Model Checking Programs.</title>
+<pages>3-12</pages>
+<year>2000</year>
+<crossref>conf/kbse/2000</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2000.873645</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2000.873645</ee>
+<url>db/conf/kbse/ase2000.html#VisserHBP00</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/spin/2000" mdate="2019-05-14">
+<editor pid="84/3029">Klaus Havelund</editor>
+<editor pid="84/3141">John Penix</editor>
+<editor pid="54/5019">Willem Visser</editor>
+<title>SPIN Model Checking and Software Verification, 7th International SPIN Workshop, Stanford, CA, USA, August 30 - September 1, 2000, Proceedings</title>
+<booktitle>SPIN</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1885</volume>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-41030-9</isbn>
+<ee>https://doi.org/10.1007/10722468</ee>
+<url>db/conf/spin/spin2000.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/charme/VisserBFGW97" mdate="2014-01-28">
+<author pid="54/5019">Willem Visser</author>
+<author pid="b/HBarringer">Howard Barringer</author>
+<author pid="81/5249">Donal Fellows</author>
+<author pid="71/1699">Graham Gough</author>
+<author pid="01/5807">Alan R. Williams</author>
+<title>Efficient CTL* model checking for analysis of rainbow designs.</title>
+<pages>128-145</pages>
+<year>1997</year>
+<crossref>conf/charme/1997</crossref>
+<booktitle>CHARME</booktitle>
+<url>db/conf/charme/charme1997.html#VisserBFGW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dimacs/VisserB96" mdate="2019-07-16">
+<author pid="54/5019">Willem Visser</author>
+<author pid="b/HBarringer">Howard Barringer</author>
+<title>Memory efficient state storage in Spin.</title>
+<pages>185-203</pages>
+<year>1996</year>
+<booktitle>The Spin Verification System</booktitle>
+<crossref>conf/dimacs/dimacs32</crossref>
+<url>db/conf/dimacs/dimacs32.html#VisserB96</url>
+<ee>https://doi.org/10.1090/dimacs/032/13</ee>
+</inproceedings>
+</r>
+<coauthors n="137" nc="1">
+<co c="0"><na f="a/Aguirre:Nazareno" pid="69/610">Nazareno Aguirre</na></co>
+<co c="0"><na f="a/Aldous:Peter" pid="137/8259">Peter Aldous</na></co>
+<co c="0"><na f="a/Almaawi:Alyas" pid="257/0992">Alyas Almaawi</na></co>
+<co c="0"><na f="a/Anand:Saswat" pid="95/5667">Saswat Anand</na></co>
+<co c="0"><na f="a/Ardis:Mark_A=" pid="08/2084">Mark A. Ardis</na></co>
+<co c="0"><na f="a/Artho:Cyrille" pid="21/6330">Cyrille Artho</na></co>
+<co c="0"><na f="b/Bai:Guangdong" pid="86/9673">Guangdong Bai</na></co>
+<co c="0"><na f="b/Bang:Lucas" pid="130/1704">Lucas Bang</na></co>
+<co c="0"><na f="b/Barringer:Howard" pid="b/HBarringer">Howard Barringer</na></co>
+<co c="0"><na f="b/Berglund:Lasse" pid="257/0957">Lasse Berglund</na></co>
+<co c="0"><na f="b/Bj=oslash=rner:Nikolaj" pid="51/912">Nikolaj Bj&#248;rner</na></co>
+<co c="0"><na f="b/Bordini:Rafael_H=" pid="b/RafaelHBordini">Rafael H. Bordini</na></co>
+<co c="0"><na f="b/Borges:Mateus" pid="36/9538">Mateus Borges</na></co>
+<co c="0"><na f="b/Botha:Heila" pid="193/3275">Heila Botha</na></co>
+<co c="0" n="2"><na f="b/Brat:Guillaume" pid="03/3836">Guillaume Brat</na><na>Guillaume P. Brat</na></co>
+<co c="0"><na f="b/Budgen:David" pid="01/338">David Budgen</na></co>
+<co c="0"><na f="b/Bultan:Tevfik" pid="07/3368">Tevfik Bultan</na></co>
+<co c="0"><na f="b/Bushnell:David_H=" pid="39/5776">David H. Bushnell</na></co>
+<co c="0"><na f="c/Cadar:Cristian" pid="86/4141">Cristian Cadar</na></co>
+<co c="0"><na f="c/Chen:Zhenbang" pid="02/4907">Zhenbang Chen</na></co>
+<co c="0"><na f="c/Chu:Duc=Hiep" pid="29/10300">Duc-Hiep Chu</na></co>
+<co c="0"><na f="c/Clun:Donato" pid="166/1094">Donato Clun</na></co>
+<co c="0"><na f="c/Converse:Hayes" pid="191/3116">Hayes Converse</na></co>
+<co c="0"><na f="c/Cook:Byron" pid="36/113">Byron Cook</na></co>
+<co c="0"><na f="d/d=Amorim:Marcelo" pid="16/608">Marcelo d'Amorim</na></co>
+<co c="0"><na f="d/Devaraj:George" pid="27/4067">George Devaraj</na></co>
+<co c="0"><na f="d/Dillon:Laura_K=" pid="d/LKDillon">Laura K. Dillon</na></co>
+<co c="0"><na f="d/Dong:Jin_Song" pid="33/6517">Jin Song Dong</na></co>
+<co c="0"><na f="d/Dong_0006:Wei" pid="92/748-6">Wei Dong 0006</na></co>
+<co c="0"><na f="d/Drusinsky:Doron" pid="16/331">Doron Drusinsky</na></co>
+<co c="0"><na f="d/Dunaiski:Marcel" pid="120/5784">Marcel Dunaiski</na></co>
+<co c="0"><na f="d/Dwyer:Matthew_B=" pid="d/MatthewBDwyer">Matthew B. Dwyer</na></co>
+<co c="0"><na f="e/Edelkamp:Stefan" pid="98/3919">Stefan Edelkamp</na></co>
+<co c="0"><na f="e/Eiers:William" pid="228/5731">William Eiers</na></co>
+<co c="0"><na f="e/Engstrom:Eric" pid="35/3112">Eric Engstrom</na></co>
+<co c="0"><na f="f/Fellows:Donal" pid="81/5249">Donal Fellows</na></co>
+<co c="0"><na f="f/Filieri:Antonio" pid="40/8264">Antonio Filieri</na></co>
+<co c="0"><na f="f/Fisher_0001:Michael" pid="f/MichaelFisher">Michael Fisher 0001</na></co>
+<co c="0"><na f="f/Frias:Marcelo_F=" pid="13/1323">Marcelo F. Frias</na></co>
+<co c="0"><na f="f/Fromherz:Aymeric" pid="193/3445">Aymeric Fromherz</na></co>
+<co c="0"><na f="g/Gao:Jimin" pid="63/4571">Jimin Gao</na></co>
+<co c="0"><na f="g/Geldenhuys:Jaco" pid="g/JacoGeldenhuys">Jaco Geldenhuys</na></co>
+<co c="0"><na f="g/Gerrard:Mitchell_J=" pid="178/3831">Mitchell J. Gerrard</na></co>
+<co c="0"><na f="g/Giannakopoulou:Dimitra" pid="39/117">Dimitra Giannakopoulou</na></co>
+<co c="0"><na f="g/Gligoric:Milos" pid="43/6015">Milos Gligoric</na></co>
+<co c="0"><na f="g/Godefroid:Patrice" pid="20/1639">Patrice Godefroid</na></co>
+<co c="0"><na f="g/Goldberg:Allen" pid="01/5453">Allen Goldberg</na></co>
+<co c="0"><na f="g/Goldsmith:Simon" pid="77/6137">Simon Goldsmith</na></co>
+<co c="0"><na f="g/Goues:Claire_Le" pid="93/4573">Claire Le Goues</na></co>
+<co c="0"><na f="g/Gough:Graham" pid="71/1699">Graham Gough</na></co>
+<co c="0"><na f="g/Groce:Alex" pid="g/AlexGroce">Alex Groce</na></co>
+<co c="0"><na f="g/Grunske:Lars" pid="55/4092">Lars Grunske</na></co>
+<co c="0"><na f="h/Hatcliff:John" pid="52/5739">John Hatcliff</na></co>
+<co c="0"><na f="h/Havelund:Klaus" pid="84/3029">Klaus Havelund</na></co>
+<co c="0"><na f="h/Heerden:Phillip_van" pid="263/2531">Phillip van Heerden</na></co>
+<co c="0"><na f="h/Heimdahl:Mats_Per_Erik" pid="68/654">Mats Per Erik Heimdahl</na></co>
+<co c="0"><na f="h/Hislop:Gregory_W=" pid="33/3812">Gregory W. Hislop</na></co>
+<co c="0"><na f="h/Hooker:Joshua" pid="247/5749">Joshua Hooker</na></co>
+<co c="0"><na f="h/Hussein:Soha" pid="136/2621">Soha Hussein</na></co>
+<co c="-1"><na f="i/Ireland:Andrew" pid="54/4624">Andrew Ireland</na></co>
+<co c="0"><na f="j/Joehanes:Roby" pid="87/3705">Roby Joehanes</na></co>
+<co c="0"><na f="k/Kadron:Ismet_Burak" pid="233/6851">Ismet Burak Kadron</na></co>
+<co c="0"><na f="k/Kehrer:Timo" pid="24/9748">Timo Kehrer</na></co>
+<co c="-1"><na f="k/Keirsgieter:Wim" pid="274/7481">Wim Keirsgieter</na></co>
+<co c="0"><na f="k/Khurshid:Sarfraz" pid="k/SarfrazKhurshid">Sarfraz Khurshid</na></co>
+<co c="0"><na f="l/Larson:Aaron" pid="24/819">Aaron Larson</na></co>
+<co c="0"><na f="l/Laubach:Shawn" pid="75/2797">Shawn Laubach</na></co>
+<co c="0"><na f="l/Le:Xuan=Bach_D=" pid="167/6015">Xuan-Bach D. Le</na></co>
+<co c="0"><na f="l/Leid:Alexander" pid="274/7446">Alexander Leid</na></co>
+<co c="0"><na f="l/Lerda:Flavio" pid="38/6631">Flavio Lerda</na></co>
+<co c="0"><na f="l/Leue:Stefan" pid="20/6822">Stefan Leue</na></co>
+<co c="0"><na f="l/Lindstrom:Gary" pid="l/GaryLindstrom">Gary Lindstrom</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Lo_0001:David" pid="89/6793-1">David Lo 0001</na></co>
+<co c="0"><na f="l/Lowry:Michael_R=" pid="90/685">Michael R. Lowry</na></co>
+<co c="0"><na f="l/Luckow:Kasper_S=oslash=e" pid="13/11526">Kasper S&#248;e Luckow</na></co>
+<co c="0"><na f="m/Mariani:Leonardo" pid="27/2914">Leonardo Mariani</na></co>
+<co c="0"><na f="m/McCamant:Stephen" pid="29/4899">Stephen McCamant</na></co>
+<co c="0"><na f="m/Mehlitz:Peter_C=" pid="91/1422">Peter C. Mehlitz</na></co>
+<co c="0" n="2"><na f="m/Mercer:Eric" pid="m/EricMercer">Eric Mercer</na><na>Eric G. Mercer</na></co>
+<co c="0"><na f="m/Merwe:Brink_van_der" pid="59/6051">Brink van der Merwe</na></co>
+<co c="0"><na f="m/Merwe:Heila_van_der" pid="124/0004">Heila van der Merwe</na></co>
+<co c="0"><na f="m/Misailovic:Sasa" pid="00/4734">Sasa Misailovic</na></co>
+<co c="0"><na f="n/Namakonov:Egor" pid="257/0963">Egor Namakonov</na></co>
+<co c="0"><na f="n/Nel:Sean" pid="172/0383">Sean Nel</na></co>
+<co c="0"><na f="n/Nguyen:Hoang_Lam" pid="214/0485">Hoang Lam Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:ThanhVu" pid="19/7057">ThanhVu Nguyen</na></co>
+<co c="0"><na f="n/Noller:Yannic" pid="214/0370">Yannic Noller</na></co>
+<co c="0" n="2"><na f="o/Offutt:A=_Jefferson" pid="o/AJeffersonOffutt">A. Jefferson Offutt</na><na>Jeff Offutt</na></co>
+<co c="0"><na f="o/Ogles:Benjamin" pid="247/5808">Benjamin Ogles</na></co>
+<co c="0"><na f="p/Padhye:Rohan" pid="129/1434">Rohan Padhye</na></co>
+<co c="0"><na f="p/Pardavila:Carmen" pid="94/6543">Carmen Pardavila</na></co>
+<co c="0"><na f="p/Par=iacute=zek:Pavel" pid="60/3424">Pavel Par&#237;zek</na></co>
+<co c="0"><na f="p/Park:Seungjoon" pid="68/3940">Seungjoon Park</na></co>
+<co c="0"><na f="p/Pasareanu:Corina_S=" pid="03/4368">Corina S. Pasareanu</na></co>
+<co c="0"><na f="p/Pecheur:Charles" pid="17/1340">Charles Pecheur</na></co>
+<co c="0"><na f="p/Pel=aacute=nek:Radek" pid="23/6970">Radek Pel&#225;nek</na></co>
+<co c="0"><na f="p/Penix:John" pid="84/3141">John Penix</na></co>
+<co c="0"><na f="p/Phan:Quoc=Sang" pid="30/9676">Quoc-Sang Phan</na></co>
+<co c="0"><na f="p/Polini:Andrea" pid="90/329">Andrea Polini</na></co>
+<co c="0"><na f="p/Ponzio:Pablo" pid="80/6093">Pablo Ponzio</na></co>
+<co c="0"><na f="p/Powell:Sheridan_Jacob" pid="247/6110">Sheridan Jacob Powell</na></co>
+<co c="0"><na f="r/Rayadurgam:Sanjai" pid="11/1335">Sanjai Rayadurgam</na></co>
+<co c="0"><na f="r/Redelinghuys:Gideon" pid="120/5807">Gideon Redelinghuys</na></co>
+<co c="0"><na f="r/Robby:" pid="98/4700">Robby</na></co>
+<co c="0"><na f="r/Rosner:Nicol=aacute=s" pid="94/7855">Nicol&#225;s Rosner</na></co>
+<co c="0"><na f="r/Rosu:Grigore" pid="r/GrigoreRosu">Grigore Rosu</na></co>
+<co c="0"><na f="r/Rungta:Neha" pid="66/4832">Neha Rungta</na></co>
+<co c="0"><na f="s/Saha:Seemanta" pid="150/1658">Seemanta Saha</na></co>
+<co c="0"><na f="s/Sebern:Mark_J=" pid="04/2219">Mark J. Sebern</na></co>
+<co c="0"><na f="s/Sen:Koushik" pid="04/418">Koushik Sen</na></co>
+<co c="0"><na f="s/Shankar:Natarajan" pid="33/1623">Natarajan Shankar</na></co>
+<co c="0"><na f="s/Sharma:Vaibhav" pid="01/3680">Vaibhav Sharma</na></co>
+<co c="0"><na f="s/Sherman:Elena" pid="05/7251">Elena Sherman</na></co>
+<co c="0"><na f="s/Simmons:Reid_G=" pid="s/ReidGSimmons">Reid G. Simmons</na></co>
+<co c="0"><na f="s/Stoller:Scott_D=" pid="09/6787">Scott D. Stoller</na></co>
+<co c="0"><na f="s/Storey:Kyle" pid="247/6216">Kyle Storey</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="0"><na f="t/Taljaard:Jan" pid="251/1259">Jan Taljaard</na></co>
+<co c="0"><na f="t/Tang:Minxing" pid="214/0411">Minxing Tang</na></co>
+<co c="0"><na f="t/Theisen:Christopher" pid="21/8805">Christopher Theisen</na></co>
+<co c="0"><na f="t/Tillmann:Nikolai" pid="81/6785">Nikolai Tillmann</na></co>
+<co c="0"><na f="t/Tkachuk:Oksana" pid="88/4695">Oksana Tkachuk</na></co>
+<co c="0"><na f="t/Tomb:Aaron" pid="91/466">Aaron Tomb</na></co>
+<co c="0"><na f="t/Tracey:Nigel" pid="92/6497">Nigel Tracey</na></co>
+<co c="0"><na f="v/Venet:Arnaud" pid="59/4227">Arnaud Venet</na></co>
+<co c="0"><na f="w/Wang_0001:Ji" pid="64/856-1">Ji Wang 0001</na></co>
+<co c="0"><na f="w/Washington:Richard" pid="57/1203">Richard Washington</na></co>
+<co c="0"><na f="w/Weininger:Nicholas" pid="13/4313">Nicholas Weininger</na></co>
+<co c="0"><na f="w/Whalen:Michael_W=" pid="70/5189">Michael W. Whalen</na></co>
+<co c="0"><na f="w/Williams:Alan_R=" pid="01/5807">Alan R. Williams</na></co>
+<co c="0"><na f="w/Williams:Laurie_A=" pid="w/LaurieAWilliams">Laurie A. Williams</na></co>
+<co c="0"><na f="w/Wooldridge:Michael_J=" pid="w/MichaelWooldridge">Michael J. Wooldridge</na></co>
+<co c="0"><na f="w/Wu:Yongzheng" pid="61/908">Yongzheng Wu</na></co>
+<co c="0"><na f="y/Ye:Quanqi" pid="174/4963">Quanqi Ye</na></co>
+<co c="0"><na f="y/Yu:Hengbiao" pid="147/2984">Hengbiao Yu</na></co>
+<co c="0"><na f="z/Zheng:Hongjun" pid="18/1656">Hongjun Zheng</na></co>
+</coauthors>
+</dblpperson>
+

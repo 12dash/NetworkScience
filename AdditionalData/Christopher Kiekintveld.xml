@@ -1,3 +1,1816 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:764cd965a577d6f41129130e068d033ef2306d02b64c8818c71628d3bccf8487
-size 86060
+<?xml version="1.0"?>
+<dblpperson name="Christopher Kiekintveld" pid="95/1694" n="109">
+<person key="homepages/95/1694" mdate="2019-09-28">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<note type="affiliation">University of Texas at El Paso, USA</note>
+<url>https://orcid.org/0000-0003-0615-9584</url>
+</person>
+<r><inproceedings key="conf/cvpr/OrtizRMFKHJ20" mdate="2020-08-11">
+<author pid="210/2608">Anthony Ortiz</author>
+<author pid="194/7729">Caleb Robinson</author>
+<author pid="43/5615">Dan Morris</author>
+<author pid="72/1015">Olac Fuentes</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="255/5030">Md Mahmudulla Hassan</author>
+<author pid="20/1944">Nebojsa Jojic</author>
+<title>Local Context Normalization: Revisiting Local Normalization.</title>
+<pages>11273-11282</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01129</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#OrtizRMFKHJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/GranadosMOK20" mdate="2021-01-05">
+<author pid="230/2003">Alonso Granados</author>
+<author pid="259/1556">Mohammad Sujan Miah</author>
+<author pid="210/2608">Anthony Ortiz</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>A Realistic Approach for Network Traffic Obfuscation Using Adversarial Machine Learning.</title>
+<pages>45-57</pages>
+<year>2020</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-64793-3_3</ee>
+<crossref>conf/gamesec/2020</crossref>
+<url>db/conf/gamesec/gamesec2020.html#GranadosMOK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/AnwarLKK20" mdate="2021-01-09">
+<author orcid="0000-0001-8907-3043" pid="129/1516">Ahmed H. Anwar</author>
+<author pid="218/6441">Nandi O. Leslie</author>
+<author orcid="0000-0003-2169-5975" pid="45/9386">Charles A. Kamhoua</author>
+<author orcid="0000-0003-0615-9584" pid="95/1694">Christopher Kiekintveld</author>
+<title>A Game Theoretic Framework for Software Diversity for Network Security.</title>
+<pages>297-311</pages>
+<year>2020</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-64793-3_16</ee>
+<crossref>conf/gamesec/2020</crossref>
+<url>db/conf/gamesec/gamesec2020.html#AnwarLKK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/MiahGVTK20" mdate="2021-01-29">
+<author pid="259/1556">Mohammad Sujan Miah</author>
+<author pid="178/8704">Marcus Gutierrez</author>
+<author pid="162/5080">Oscar Veliz</author>
+<author pid="223/0205">Omkar Thakoor</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Concealing Cyber-Decoys using Two-Sided Feature Deception Games.</title>
+<pages>1-10</pages>
+<year>2020</year>
+<booktitle>HICSS</booktitle>
+<ee type="oa">http://hdl.handle.net/10125/63974</ee>
+<crossref>conf/hicss/2020</crossref>
+<url>db/conf/hicss/hicss2020.html#MiahGVTK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ih/Kiekintveld20" mdate="2020-07-06">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Game-Theoretic Perspectives and Algorithms for Cybersecurity.</title>
+<pages>3</pages>
+<year>2020</year>
+<booktitle>IH&#38;MMSec</booktitle>
+<ee>https://doi.org/10.1145/3369412.3396883</ee>
+<crossref>conf/ih/2020</crossref>
+<url>db/conf/ih/ihmmsec2020.html#Kiekintveld20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secdev/AcostaBKLK20" mdate="2020-10-28">
+<author pid="45/9239">Jaime C. Acosta</author>
+<author pid="77/9586">Anjon Basak</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="218/6441">Nandi Leslie</author>
+<author pid="45/9386">Charles A. Kamhoua</author>
+<title>Cybersecurity Deception Experimentation System.</title>
+<pages>34-40</pages>
+<year>2020</year>
+<booktitle>SecDev</booktitle>
+<ee>https://doi.org/10.1109/SecDev45635.2020.00022</ee>
+<crossref>conf/secdev/2020</crossref>
+<url>db/conf/secdev/secdev2020.html#AcostaBKLK20</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/20/GutierrezK20" mdate="2020-02-13">
+<author pid="178/8704">Marcus Gutierrez</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Online Learning Methods for Controlling Dynamic Cyber Deception Strategies.</title>
+<pages>231-251</pages>
+<year>2020</year>
+<booktitle>Adaptive Autonomous Secure Cyber Systems</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33432-1_11</ee>
+<crossref>books/sp/20/JCSS2020</crossref>
+<url>db/books/collections/JCSS2020.html#GutierrezK20</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-09069" mdate="2020-03-02">
+<author pid="129/7129">Iffat Anjum</author>
+<author pid="259/1556">Mohammad Sujan Miah</author>
+<author pid="20/5424">Mu Zhu</author>
+<author pid="259/1033">Nazia Sharmin</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="22/4463">William Enck</author>
+<author pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Optimizing Vulnerability-Driven Honey Traffic Using Game Theory.</title>
+<year>2020</year>
+<volume>abs/2002.09069</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.09069</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-09069</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-11243" mdate="2020-10-26">
+<author pid="57/10426">Karel Hor&#225;k</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="136/6061">Vojtech Kovar&#237;k</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Solving Zero-Sum One-Sided Partially Observable Stochastic Games.</title>
+<year>2020</year>
+<volume>abs/2010.11243</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.11243</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-11243</url>
+</article>
+</r>
+<r><article key="journals/compsec/DurkotaLBKP19" mdate="2020-02-20">
+<author pid="151/0822">Karel Durkota</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="p/MichalPechoucek">Michal Pechoucek</author>
+<title>Hardening networks against strategic attackers using attack graph games.</title>
+<year>2019</year>
+<volume>87</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2019.101578</ee>
+<url>db/journals/compsec/compsec87.html#DurkotaLBKP19</url>
+</article>
+</r>
+<r><article key="journals/compsec/HorakBTKK19" mdate="2020-02-20">
+<author pid="57/10426">Karel Hor&#225;k</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="252/4957">Petr Tom&#225;sek</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="45/9386">Charles A. Kamhoua</author>
+<title>Optimizing honeypot strategies against dynamic lateral movement using partially observable stochastic games.</title>
+<year>2019</year>
+<volume>87</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2019.101579</ee>
+<url>db/journals/compsec/compsec87.html#HorakBTKK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/ThakoorTVXK19" mdate="2019-05-29">
+<author pid="223/0205">Omkar Thakoor</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="08/3904">Phebe Vayanos</author>
+<author pid="04/1895">Haifeng Xu</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>General-Sum Cyber Deception Games under Partial Attacker Valuation Information.</title>
+<pages>2215-2217</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3332062</ee>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#ThakoorTVXK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cogsci/GutierrezCBABKG19" mdate="2021-02-02">
+<author pid="178/8704">Marcus Gutierrez</author>
+<author pid="32/5231">Jakub Cern&#253;</author>
+<author pid="09/2998">Noam Ben-Asher</author>
+<author pid="249/6771">Efrat Aharonov-Majar</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="39/3618">Cleotilde Gonzalez</author>
+<title>Evaluating Models of Human Behavior in an Adversarial Multi-Armed Bandit Problem.</title>
+<pages>394-400</pages>
+<year>2019</year>
+<booktitle>CogSci</booktitle>
+<ee type="oa">https://mindmodeling.org/cogsci2019/papers/0088/index.html</ee>
+<crossref>conf/cogsci/2019</crossref>
+<url>db/conf/cogsci/cogsci2019.html#GutierrezCBABKG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/BasakKVGAK19" mdate="2019-10-23">
+<author pid="77/9586">Anjon Basak</author>
+<author pid="45/9386">Charles A. Kamhoua</author>
+<author pid="71/11139">Sridhar Venkatesan</author>
+<author pid="178/8704">Marcus Gutierrez</author>
+<author pid="129/1516">Ahmed H. Anwar</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Identifying Stealthy Attackers in a Game Theoretic Framework Using Deception.</title>
+<pages>21-32</pages>
+<year>2019</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32430-8_2</ee>
+<crossref>conf/gamesec/2019</crossref>
+<url>db/conf/gamesec/gamesec2019.html#BasakKVGAK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/ThakoorTVXKF19" mdate="2019-10-23">
+<author pid="223/0205">Omkar Thakoor</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="08/3904">Phebe Vayanos</author>
+<author pid="04/1895">Haifeng Xu</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="57/2878">Fei Fang</author>
+<title>Cyber Camouflage Games for Strategic Deception.</title>
+<pages>525-541</pages>
+<year>2019</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32430-8_31</ee>
+<crossref>conf/gamesec/2019</crossref>
+<url>db/conf/gamesec/gamesec2019.html#ThakoorTVXKF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HorakBKK19" mdate="2019-08-20">
+<author pid="57/10426">Karel Hor&#225;k</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="45/9386">Charles A. Kamhoua</author>
+<title>Compact Representation of Value Function in Partially Observable Stochastic Games.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/50</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#HorakBKK19</url>
+<pages>350-356</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-05511" mdate="2019-07-05">
+<author pid="57/10426">Karel Hor&#225;k</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="45/9386">Charles A. Kamhoua</author>
+<title>Compact Representation of Value Function in Partially Observable Stochastic Games.</title>
+<year>2019</year>
+<volume>abs/1903.05511</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.05511</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-05511</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-05845" mdate="2020-01-02">
+<author pid="210/2608">Anthony Ortiz</author>
+<author pid="194/7729">Caleb Robinson</author>
+<author pid="43/5615">Dan Morris</author>
+<author pid="72/1015">Olac Fuentes</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="255/5030">Mahmudulla Hassan</author>
+<author pid="20/1944">Nebojsa Jojic</author>
+<title>Local Context Normalization: Revisiting Local Normalization.</title>
+<year>2019</year>
+<volume>abs/1912.05845</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.05845</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-05845</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/ChowdhuryKS018" mdate="2018-07-16">
+<author pid="178/8681">Moinul Morshed Porag Chowdhury</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<author pid="97/4283-1">William Yeoh 0001</author>
+<title>Bidding Strategy for Periodic Double Auctions Using Monte Carlo Tree Search.</title>
+<pages>1897-1899</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3238016</ee>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#ChowdhuryKS018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/OrtizGFKRB18" mdate="2019-02-06">
+<author pid="210/2608">Anthony Ortiz</author>
+<author pid="230/2003">Alonso Granados</author>
+<author pid="72/1015">Olac Fuentes</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="91/1575">Dalton S. Rosario</author>
+<author pid="192/2863">Zachary Bell</author>
+<title>Integrated Learning and Feature Selection for Deep Neural Networks in Multispectral Images.</title>
+<pages>1196-1205</pages>
+<year>2018</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018_workshops/w21/html/Ortiz_Integrated_Learning_and_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2018.00165</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2018.00165</ee>
+<crossref>conf/cvpr/2018w</crossref>
+<url>db/conf/cvpr/cvprw2018.html#OrtizGFKRB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/BasakGK18" mdate="2018-11-02">
+<author orcid="0000-0001-8427-038X" pid="77/9586">Anjon Basak</author>
+<author orcid="0000-0003-0746-5137" pid="178/8704">Marcus Gutierrez</author>
+<author orcid="0000-0003-0615-9584" pid="95/1694">Christopher Kiekintveld</author>
+<title>Algorithms for Subgame Abstraction with Applications to Cyber Defense.</title>
+<pages>556-568</pages>
+<year>2018</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01554-1_32</ee>
+<crossref>conf/gamesec/2018</crossref>
+<url>db/conf/gamesec/gamesec2018.html#BasakGK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/BasakCGCKJBK18" mdate="2019-07-05">
+<author orcid="0000-0001-8427-038X" pid="77/9586">Anjon Basak</author>
+<author orcid="0000-0002-9407-3782" pid="32/5231">Jakub Cern&#253;</author>
+<author orcid="0000-0003-0746-5137" pid="178/8704">Marcus Gutierrez</author>
+<author orcid="0000-0001-5599-9462" pid="223/7487">Shelby R. Curtis</author>
+<author orcid="0000-0003-2169-5975" pid="45/9386">Charles A. Kamhoua</author>
+<author orcid="0000-0003-4766-4827" pid="47/3367-3">Daniel Jones 0003</author>
+<author orcid="0000-0002-3841-9515" pid="24/5039">Branislav Bosansk&#253;</author>
+<author orcid="0000-0003-0615-9584" pid="95/1694">Christopher Kiekintveld</author>
+<title>An Initial Study of Targeted Personality Models in the FlipIt Game.</title>
+<pages>623-636</pages>
+<year>2018</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01554-1_36</ee>
+<crossref>conf/gamesec/2018</crossref>
+<url>db/conf/gamesec/gamesec2018.html#BasakCGCKJBK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ChowdhuryKT018" mdate="2019-08-20">
+<author pid="178/8681">Moinul Morshed Porag Chowdhury</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="19/2438">Son Tran</author>
+<author pid="97/4283-1">William Yeoh 0001</author>
+<title>Bidding in Periodic Double Auctions Using Heuristics and Dynamic Monte Carlo Tree Search.</title>
+<pages>166-172</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/23</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#ChowdhuryKT018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SinhaFAKT18" mdate="2020-05-06">
+<author pid="26/9089">Arunesh Sinha</author>
+<author pid="57/2878">Fei Fang</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Stackelberg Security Games: Looking Beyond a Decade of Success.</title>
+<pages>5494-5501</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/775</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#SinhaFAKT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/milcom/OrtizFRK18" mdate="2019-01-15">
+<author pid="210/2608">Anthony Ortiz</author>
+<author pid="72/1015">Olac Fuentes</author>
+<author pid="91/1575">Dalton S. Rosario</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>On the Defense Against Adversarial Examples Beyond the Visible Spectrum.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>MILCOM</booktitle>
+<ee>https://doi.org/10.1109/MILCOM.2018.8599763</ee>
+<crossref>conf/milcom/2018</crossref>
+<url>db/conf/milcom/milcom2018.html#OrtizFRK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigecom/CernyBK18" mdate="2018-11-21">
+<author pid="32/5231">Jakub Cern&#253;</author>
+<author pid="221/2835">Branislav Boyansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Incremental Strategy Generation for Stackelberg Equilibria in Extensive-Form Games.</title>
+<pages>151-168</pages>
+<year>2018</year>
+<booktitle>EC</booktitle>
+<ee>https://doi.org/10.1145/3219166.3219219</ee>
+<crossref>conf/sigecom/2018</crossref>
+<url>db/conf/sigecom/sigecom2018.html#CernyBK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/GuoABK17" mdate="2021-02-18">
+<author pid="74/4904">Qingyu Guo</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Strategic Information Revelation and Commitment in Security Games.</title>
+<year>2017</year>
+<booktitle>AAAI Workshops</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15104</ee>
+<crossref>conf/aaai/2017w</crossref>
+<url>db/conf/aaai/aaai2017w.html#GuoABK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/GutierrezK17" mdate="2021-02-18">
+<author pid="178/8704">Marcus Paul Gutierrez</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Adapting Honeypot Configurations to Detect Evolving Exploits.</title>
+<year>2017</year>
+<booktitle>AAAI Workshops</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15230</ee>
+<crossref>conf/aaai/2017w</crossref>
+<url>db/conf/aaai/aaai2017w.html#GutierrezK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/GutierrezK17" mdate="2017-05-11">
+<author pid="178/8704">Marcus Gutierrez</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Adapting with Honeypot Configurations to Detect Evolving Exploits.</title>
+<pages>1565-1567</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091363</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#GutierrezK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/DurkotaLKHBP17" mdate="2017-10-18">
+<author pid="151/0822">Karel Durkota</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="57/10426">Karel Hor&#225;k</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="20/1317">Tom&#225;s Pevn&#253;</author>
+<title>Optimal Strategies for Detecting Data Exfiltration by Internal and External Attackers.</title>
+<pages>171-192</pages>
+<year>2017</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68711-7_10</ee>
+<crossref>conf/gamesec/2017</crossref>
+<url>db/conf/gamesec/gamesec2017.html#DurkotaLKHBP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SchlenkerXGKSTS17" mdate="2019-08-20">
+<author pid="178/8675">Aaron Schlenker</author>
+<author pid="04/1895">Haifeng Xu</author>
+<author pid="86/4491">Mina Guirguis</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="26/9089">Arunesh Sinha</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="183/3812">Solomon Y. Sonya</author>
+<author pid="204/2997">Darryl Balderas</author>
+<author pid="204/2979">Noah Dunstatter</author>
+<title>Don't Bury your Head in Warnings: A Game-Theoretic Approach for Intelligent Allocation of Cyber-security Alerts.</title>
+<pages>381-387</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/54</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#SchlenkerXGKSTS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GuoABK17" mdate="2020-05-06">
+<author pid="74/4904">Qingyu Guo</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Comparing Strategic Secrecy and Stackelberg Commitment in Security Games.</title>
+<pages>3691-3699</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/516</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#GuoABK17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/gamesec/2017" mdate="2020-05-07">
+<editor pid="79/5181">Stefan Rass</editor>
+<editor pid="42/6178-1">Bo An 0001</editor>
+<editor pid="95/1694">Christopher Kiekintveld</editor>
+<editor pid="57/2878">Fei Fang</editor>
+<editor pid="01/8557">Stefan Schauer</editor>
+<title>Decision and Game Theory for Security - 8th International Conference, GameSec 2017, Vienna, Austria, October 23-25, 2017, Proceedings</title>
+<booktitle>GameSec</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10575</volume>
+<isbn>978-3-319-68710-0</isbn>
+<isbn>978-3-319-68711-7</isbn>
+<ee>https://doi.org/10.1007/978-3-319-68711-7</ee>
+<url>db/conf/gamesec/gamesec2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/expert/DurkotaLKBP16" mdate="2020-03-06">
+<author pid="151/0822">Karel Durkota</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="p/MichalPechoucek">Michal Pechoucek</author>
+<title>Case Studies of Network Defense with Attack Graph Games.</title>
+<pages>24-30</pages>
+<year>2016</year>
+<volume>31</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MIS.2016.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2016.74</ee>
+<ee>https://www.wikidata.org/entity/Q59209596</ee>
+<url>db/journals/expert/expert31.html#DurkotaLKBP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/CermakBDLK16" mdate="2021-02-10">
+<author pid="131/5318">Jiri Cermak</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="151/0822">Karel Durkota</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Using Correlated Strategies for Computing Stackelberg Equilibria in Extensive-Form Games.</title>
+<pages>439-445</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12332</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#CermakBDLK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/GutierrezK16" mdate="2021-02-18">
+<author pid="178/8704">Marcus Paul Gutierrez</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Bandits for Cybersecurity: Adaptive Intrusion Detection Using Honeypots.</title>
+<year>2016</year>
+<booktitle>AAAI Workshop: Artificial Intelligence for Cyber Security</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12655</ee>
+<crossref>conf/aaai/2016security</crossref>
+<url>db/conf/aaai/security2016.html#GutierrezK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ZhaoAK16" mdate="2021-02-10">
+<author pid="178/8719">Mengchen Zhao</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Optimizing Personalized Email Filtering Thresholds to Mitigate Sequential Spear Phishing Attacks.</title>
+<pages>658-665</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12083</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhaoAK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/McCarthyTKGK16" mdate="2021-02-10">
+<author pid="178/8575">Sara Marie McCarthy</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="178/8592">Meredith L. Gore</author>
+<author pid="178/8587">Alex Killion</author>
+<title>Preventing Illegal Logging: Simultaneous Optimization of Resource Teams and Tactics for Security.</title>
+<pages>3880-3886</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12160</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#McCarthyTKGK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/VelizGK16" mdate="2021-02-10">
+<author pid="162/5080">Oscar Veliz</author>
+<author pid="178/8704">Marcus Gutierrez</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Teaching Automated Strategic Reasoning Using Capstone Tournaments.</title>
+<pages>4134-4135</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12288</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#VelizGK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amec/ChowdhuryFFK016" mdate="2017-09-16">
+<author pid="178/8681">Moinul Morshed Porag Chowdhury</author>
+<author pid="195/5026">Russell Y. Folk</author>
+<author orcid="0000-0002-1381-6776" pid="119/6404">Ferdinando Fioretto</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="97/4283-1">William Yeoh 0001</author>
+<title>Investigation of Learning Strategies for the SPOT Broker in Power TAC.</title>
+<pages>96-111</pages>
+<year>2016</year>
+<booktitle>AMEC/TADA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-54229-4_7</ee>
+<crossref>conf/amec/2016</crossref>
+<url>db/conf/amec/amec2016.html#ChowdhuryFFK016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BasakFNK16" mdate="2017-05-23">
+<author pid="77/9586">Anjon Basak</author>
+<author pid="57/2878">Fei Fang</author>
+<author pid="117/4935">Thanh Hong Nguyen</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Abstraction Methods for Solving Graph-Based Security Games.</title>
+<pages>13-33</pages>
+<year>2016</year>
+<booktitle>AAMAS Workshops (Visionary Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46840-2_2</ee>
+<crossref>conf/atal/2016v</crossref>
+<url>db/conf/atal/aamas2016v.html#BasakFNK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/BasakFNK16" mdate="2017-05-23">
+<author pid="77/9586">Anjon Basak</author>
+<author pid="57/2878">Fei Fang</author>
+<author pid="117/4935">Thanh Hong Nguyen</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Combining Graph Contraction and Strategy Generation for Green Security Games.</title>
+<pages>251-271</pages>
+<year>2016</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-47413-7_15</ee>
+<crossref>conf/gamesec/2016</crossref>
+<url>db/conf/gamesec/gamesec2016.html#BasakFNK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/FordBYSSSKT16" mdate="2018-08-15">
+<author pid="58/8150">Benjamin J. Ford</author>
+<author pid="21/3987-2">Matthew Brown 0002</author>
+<author pid="121/3511">Amulya Yadav</author>
+<author pid="12/2427">Amandeep Singh</author>
+<author pid="26/9089">Arunesh Sinha</author>
+<author pid="33/4411">Biplav Srivastava</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Protecting the NECTAR of the Ganga River Through Game-Theoretic Factory Inspections.</title>
+<pages>97-108</pages>
+<year>2016</year>
+<booktitle>PAAMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-39324-7_9</ee>
+<crossref>conf/paams/2016</crossref>
+<url>db/conf/paams/paams2016.html#FordBYSSSKT16</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/AgarwalABFFKKKL15" mdate="2020-08-25">
+<author pid="72/1395">Nitin Agarwal</author>
+<author pid="23/8725">Sean Andrist</author>
+<author pid="00/4118">Dan Bohus</author>
+<author pid="57/2878">Fei Fang</author>
+<author pid="155/7628">Laurie Fenstermacher</author>
+<author pid="75/6949">Lalana Kagal</author>
+<author pid="15/3582">Takashi Kido</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="70/701">William F. Lawless</author>
+<author pid="92/309-1">Huan Liu 0001</author>
+<author pid="m/AndrewMcCallum">Andrew McCallum</author>
+<author pid="77/3904ohio">Hemant Purohit</author>
+<author pid="66/7522">Oshani Seneviratne</author>
+<author pid="72/4302">Keiki Takadama</author>
+<author pid="37/142">Gavin Taylor</author>
+<title>Reports on the 2015 AAAI Spring Symposium Series.</title>
+<pages>113-119</pages>
+<year>2015</year>
+<volume>36</volume>
+<journal>AI Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1609/aimag.v36i3.2608</ee>
+<url>db/journals/aim/aim36.html#AgarwalABFFKKKL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BosanskyJTK15" mdate="2021-02-10">
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="59/3808">Albert Xin Jiang</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Combining Compact Representation and Incremental Generation in Large Games with Sequential Strategies.</title>
+<pages>812-818</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9824</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#BosanskyJTK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/DurkotaLKB15" mdate="2015-05-15">
+<author pid="151/0822">Karel Durkota</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<title>Game-Theoretic Algorithms for Optimal Network Security Hardening Using Attack Graphs.</title>
+<pages>1773-1774</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2773429</ee>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#DurkotaLKB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/VelizK15" mdate="2015-05-15">
+<author pid="162/5080">Oscar Veliz</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Selecting Robust Strategies Based on Abstracted Game Models.</title>
+<pages>1877-1878</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2773482</ee>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#VelizK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/KlimaLK15" mdate="2019-06-02">
+<author pid="151/8734">Richard Kl&#237;ma</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Combining Online Learning and Equilibrium Computation in Security Games.</title>
+<pages>130-149</pages>
+<year>2015</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25594-1_8</ee>
+<ee>https://www.wikidata.org/entity/Q59209601</ee>
+<crossref>conf/gamesec/2015</crossref>
+<url>db/conf/gamesec/gamesec2015.html#KlimaLK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/DurkotaLBK15" mdate="2019-06-02">
+<author pid="151/0822">Karel Durkota</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Approximate Solutions for Attack Graph Games with Imperfect Information.</title>
+<pages>228-249</pages>
+<year>2015</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25594-1_13</ee>
+<ee>https://www.wikidata.org/entity/Q59209600</ee>
+<crossref>conf/gamesec/2015</crossref>
+<url>db/conf/gamesec/gamesec2015.html#DurkotaLBK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DurkotaLBK15" mdate="2019-08-20">
+<author pid="151/0822">Karel Durkota</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Optimal Network Security Hardening Using Attack Graph Games.</title>
+<pages>526-532</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/080</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#DurkotaLBK15</url>
+</inproceedings>
+</r>
+<r><incollection key="series/ais/KiekintveldLP15" mdate="2019-06-02">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<author pid="85/7359">Radek P&#237;bil</author>
+<title>Game-Theoretic Foundations for the Strategic Use of Honeypots in Network Security.</title>
+<pages>81-101</pages>
+<year>2015</year>
+<booktitle>Cyber Warfare</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14039-1_5</ee>
+<ee>https://www.wikidata.org/entity/Q59209604</ee>
+<crossref>series/ais/56</crossref>
+<url>db/series/ais/ais56.html#KiekintveldLP15</url>
+</incollection>
+</r>
+<r><article key="journals/aamas/BrownAKOT14" mdate="2020-05-06">
+<author pid="21/3987-2">Matthew Brown 0002</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>An extended study on multi-objective security games.</title>
+<pages>31-71</pages>
+<year>2014</year>
+<volume>28</volume>
+<journal>Auton. Agents Multi Agent Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10458-012-9209-6</ee>
+<url>db/journals/aamas/aamas28.html#BrownAKOT14</url>
+</article>
+</r>
+<r><article key="journals/jair/BosanskyKLP14" mdate="2019-01-21">
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="p/MichalPechoucek">Michal Pechoucek</author>
+<title>An Exact Double-Oracle Algorithm for Zero-Sum Extensive-Form Games with Imperfect Information.</title>
+<pages>829-866</pages>
+<year>2014</year>
+<volume>51</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4477</ee>
+<url>db/journals/jair/jair51.html#BosanskyKLP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/gamesec/KlimaKL14" mdate="2017-05-23">
+<author pid="151/8734">Richard Kl&#237;ma</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<title>Online Learning Methods for Border Patrol Resource Allocation.</title>
+<pages>340-349</pages>
+<year>2014</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12601-2_20</ee>
+<crossref>conf/gamesec/2014</crossref>
+<url>db/conf/gamesec/gamesec2014.html#KlimaKL14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KorzhykYKCT14" mdate="2018-08-13">
+<author pid="54/8399">Dmytro Korzhyk</author>
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability, Equivalence, and Uniqueness.</title>
+<year>2014</year>
+<volume>abs/1401.3888</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.3888</ee>
+<url>db/journals/corr/corr1401.html#KorzhykYKCT14</url>
+</article>
+</r>
+<r><article key="journals/ai/YangKOTJ13" mdate="2017-05-27">
+<author pid="53/4040">Rong Yang</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="20/7264">Richard John</author>
+<title>Improving resource allocation strategies against human adversaries in security games: An extended study.</title>
+<pages>440-469</pages>
+<year>2013</year>
+<volume>195</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2012.11.004</ee>
+<url>db/journals/ai/ai195.html#YangKOTJ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ParraK13" mdate="2021-02-18">
+<author pid="138/5606">Jaime Parra Jr.</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Initial Exploration of Machine Learning to Predict Customer Demand in an Energy Market Simulation.</title>
+<year>2013</year>
+<booktitle>AAAI Workshop: Trading Agent Design and Analysis</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7150</ee>
+<crossref>conf/aaai/2013trading</crossref>
+<url>db/conf/aaai/trading2013.html#ParraK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldIK13" mdate="2013-06-28">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="54/8703">Towhidul Islam</author>
+<author pid="k/VladikKreinovich">Vladik Kreinovich</author>
+<title>Security games with interval uncertainty.</title>
+<pages>231-238</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2484959</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#KiekintveldIK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BosanskyKLCP13" mdate="2013-06-28">
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="131/5318">Jiri Cermak</author>
+<author pid="p/MichalPechoucek">Michal Pechoucek</author>
+<title>Double-oracle algorithm for computing an exact nash equilibrium in zero-sum extensive-form games.</title>
+<pages>335-342</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2484975</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#BosanskyKLCP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/TsaiQVKT13" mdate="2013-06-28">
+<author pid="71/7118">Jason Tsai</author>
+<author pid="131/5301">Yundi Qian</author>
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Security games with contagion: handling asymmetric information.</title>
+<pages>1185-1186</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2485134</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#TsaiQVKT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socialcom/TsaiQVKT13" mdate="2017-06-05">
+<author pid="71/7118">Jason Tsai</author>
+<author pid="131/5301">Yundi Qian</author>
+<author orcid="0000-0003-2471-5345" pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Bayesian Security Games for Controlling Contagion.</title>
+<pages>33-38</pages>
+<year>2013</year>
+<booktitle>SocialCom</booktitle>
+<ee>https://doi.org/10.1109/SocialCom.2013.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SocialCom.2013.11</ee>
+<crossref>conf/socialcom/2013</crossref>
+<url>db/conf/socialcom/socialcom2013.html#TsaiQVKT13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/amec/2012" mdate="2017-05-26">
+<editor pid="36/806">Esther David</editor>
+<editor pid="95/1694">Christopher Kiekintveld</editor>
+<editor pid="40/5122">Valentin Robu</editor>
+<editor pid="20/1380">Onn Shehory</editor>
+<editor pid="06/1681-1">Sebastian Stein 0001</editor>
+<title>Agent-Mediated Electronic Commerce. Designing Trading Strategies and Mechanisms for Electronic Markets - AMEC and TADA 2012, Valencia, Spain, June 4th, 2012, Revised Selected Papers</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+<volume>136</volume>
+<ee>https://doi.org/10.1007/978-3-642-40864-9</ee>
+<isbn>978-3-642-40863-2</isbn>
+<booktitle>AMEC/TADA</booktitle>
+<url>db/conf/amec/amec2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/aim/AgmonAAABDGGGJKKLLMMMOOOPPRRTSSSSSSUW12" mdate="2020-09-05">
+<author pid="52/1053">Noa Agmon</author>
+<author pid="24/584">Vikas Agrawal</author>
+<author pid="25/557">David W. Aha</author>
+<author pid="a/YiannisAloimonos">Yiannis Aloimonos</author>
+<author pid="56/11451">Donagh Buckley</author>
+<author pid="d/PrashantDoshi">Prashant Doshi</author>
+<author pid="88/4021">Christopher W. Geib</author>
+<author pid="23/4422">Floriana Grasso</author>
+<author pid="48/6123">Nancy Green</author>
+<author pid="87/1373">Benjamin Johnston</author>
+<author pid="12/5585">Burt Kaliski</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="32/1523">Edith Law</author>
+<author pid="39/3002">Henry Lieberman</author>
+<author pid="58/2801">Ole J. Mengshoel</author>
+<author pid="79/6776">Ted Metzler</author>
+<author pid="06/6951">Joseph Modayil</author>
+<author pid="o/DouglasWOard">Douglas W. Oard</author>
+<author pid="40/6734">Nilufer Onder</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="29/533">Katerina Pastra</author>
+<author pid="p/DoinaPrecup">Doina Precup</author>
+<author pid="67/6515">Sowmya Ramachandran</author>
+<author pid="12/4444">Chris Reed</author>
+<author orcid="0000-0003-2993-6681" pid="17/8399">Sanem Sariel Talay</author>
+<author pid="s/TedSelker">Ted Selker</author>
+<author pid="65/1917">Lokendra Shastri</author>
+<author pid="s/StephenFSmith">Stephen F. Smith</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="64/3431">Siddharth Srivastava</author>
+<author pid="54/1919">Gita Sukthankar</author>
+<author pid="09/2971">David C. Uthus</author>
+<author pid="84/6183">Mary-Anne Williams</author>
+<title>Reports of the AAAI 2011 Conference Workshops.</title>
+<year>2012</year>
+<volume>33</volume>
+<journal>AI Mag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1609/aimag.v33i1.2390</ee>
+<url>db/journals/aim/aim33.html#AgmonAAABDGGGJKKLLMMMOOOPPRRTSSSSSSUW12</url>
+<pages>57-70</pages>
+</article>
+</r>
+<r><article key="journals/aim/YinJTKLSS12" mdate="2020-08-25">
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="59/3808">Albert Xin Jiang</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="81/1149">Kevin Leyton-Brown</author>
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<author pid="53/5243">John P. Sullivan</author>
+<title>TRUSTS: Scheduling Randomized Patrols for Fare Inspection in Transit Systems Using Game Theory.</title>
+<pages>59-72</pages>
+<year>2012</year>
+<volume>33</volume>
+<journal>AI Mag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1609/aimag.v33i4.2432</ee>
+<url>db/journals/aim/aim33.html#YinJTKLSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/AnKKSSTV12" mdate="2021-02-18">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="63/5749-1">David Kempe 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="117/4929">Eric Shieh</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<title>Security Games with Limited Surveillance.</title>
+<year>2012</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4836</ee>
+<crossref>conf/aaai/2012</crossref>
+<url>db/conf/aaai/aaai2012.html#AnKKSSTV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaiss/AnKKSSTV12" mdate="2020-05-06">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="63/5749-1">David Kempe 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="117/4929">Eric Anyung Shieh</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<title>Security Games with Limited Surveillance: An Initial Report.</title>
+<year>2012</year>
+<booktitle>AAAI Spring Symposium: Game Theory for Security, Sustainability, and Health</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/SSS/SSS12/paper/view/4262</ee>
+<crossref>conf/aaaiss/2012-3</crossref>
+<url>db/conf/aaaiss/aaaiss2012-03.html#AnKKSSTV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaiss/JiangYJTKLS12" mdate="2013-09-25">
+<author pid="59/3808">Albert Xin Jiang</author>
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="80/5262">Matthew P. Johnson</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="81/1149">Kevin Leyton-Brown</author>
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>Towards Optimal Patrol Strategies for Fare Inspection in Transit Systems.</title>
+<year>2012</year>
+<booktitle>AAAI Spring Symposium: Game Theory for Security, Sustainability, and Health</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/SSS/SSS12/paper/view/4263</ee>
+<crossref>conf/aaaiss/2012-3</crossref>
+<url>db/conf/aaaiss/aaaiss2012-03.html#JiangYJTKLS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaiss/KiekintveldK12" mdate="2013-09-25">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="k/VladikKreinovich">Vladik Kreinovich</author>
+<title>Efficient Approximation for Security Games with Interval Uncertainty.</title>
+<year>2012</year>
+<booktitle>AAAI Spring Symposium: Game Theory for Security, Sustainability, and Health</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/SSS/SSS12/paper/view/4346</ee>
+<crossref>conf/aaaiss/2012-3</crossref>
+<url>db/conf/aaaiss/aaaiss2012-03.html#KiekintveldK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aamas/BrownAKOT12" mdate="2020-05-06">
+<author pid="21/3987-2">Matthew Brown 0002</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Multi-objective optimization for security games.</title>
+<pages>863-870</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2343820</ee>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#BrownAKOT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BosanskyKLP12" mdate="2017-06-15">
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<author pid="p/MichalPechoucek">Michal Pechoucek</author>
+<title>Iterative Algorithm for Solving Two-player Zero-sum Extensive-form Games with Imperfect Information.</title>
+<pages>193-198</pages>
+<year>2012</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-098-7-193</ee>
+<crossref>conf/ecai/2012</crossref>
+<url>db/conf/ecai/ecai2012.html#BosanskyKLP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/PibilLKBP12" mdate="2019-06-02">
+<author pid="85/7359">Radek P&#237;bil</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author pid="p/MichalPechoucek">Michal Pechoucek</author>
+<title>Game Theoretic Model of Strategic Honeypot Selection in Computer Networks.</title>
+<pages>201-220</pages>
+<year>2012</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34266-0_12</ee>
+<ee>https://www.wikidata.org/entity/Q59209614</ee>
+<crossref>conf/gamesec/2012</crossref>
+<url>db/conf/gamesec/gamesec2012.html#PibilLKBP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iaai/YinJJKLSTS12" mdate="2021-02-10">
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="59/3808">Albert Xin Jiang</author>
+<author pid="80/5262">Matthew Paul Johnson</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="81/1149">Kevin Leyton-Brown</author>
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="53/5243">John P. Sullivan</author>
+<title>TRUSTS: Scheduling Randomized Patrols for Fare Inspection in Transit Systems.</title>
+<year>2012</year>
+<booktitle>IAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/IAAI/IAAI-12/paper/view/4733</ee>
+<crossref>conf/iaai/2012</crossref>
+<url>db/conf/iaai/iaai2012.html#YinJJKLSTS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jair/KorzhykYKCT11" mdate="2019-01-21">
+<author pid="54/8399">Dmytro Korzhyk</author>
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability, Equivalence, and Uniqueness.</title>
+<pages>297-327</pages>
+<year>2011</year>
+<volume>41</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3269</ee>
+<url>db/journals/jair/jair41.html#KorzhykYKCT11</url>
+</article>
+</r>
+<r><article key="journals/sigecom/AnPSTKM11" mdate="2020-06-04">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="38/4453">James Pita</author>
+<author pid="117/4929">Eric Anyung Shieh</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="90/404">Janusz Marecki</author>
+<title>GUARDS and PROTECT: next generation applications of security games.</title>
+<pages>31-34</pages>
+<year>2011</year>
+<volume>10</volume>
+<journal>SIGecom Exch.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1978721.1978729</ee>
+<url>db/journals/sigecom/sigecom10.html#AnPSTKM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/AguirreLGTEK11" mdate="2021-02-18">
+<author pid="91/10858">Oswaldo Aguirre</author>
+<author pid="49/10858">Nicolas Lopez</author>
+<author pid="59/10919">Eric Gutierrez</author>
+<author pid="46/1509">Heidi A. Taboada</author>
+<author pid="43/10919">Jose Epiritu</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Towards the Integration of Multi-Attribute Optimization and Game Theory for Border Security Patrolling Strategies.</title>
+<year>2011</year>
+<booktitle>Applied Adversarial Reasoning and Risk Modeling</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3853</ee>
+<crossref>conf/aaai/2011aarrm</crossref>
+<url>db/conf/aaai/aarrm2011.html#AguirreLGTEK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/AnTOSK11" mdate="2021-02-18">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="117/4929">Eric Anyung Shieh</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Refinement of Strong Stackelberg Equilibria in Security Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3461</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AnTOSK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/LermaKK11" mdate="2021-02-18">
+<author pid="51/10919">Octavio Lerma</author>
+<author pid="k/VladikKreinovich">Vladik Kreinovich</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Linear-Time Resource Allocation in Security Games with Identical Fully Protective Resources.</title>
+<year>2011</year>
+<booktitle>Applied Adversarial Reasoning and Risk Modeling</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3978</ee>
+<crossref>conf/aaai/2011aarrm</crossref>
+<url>db/conf/aaai/aarrm2011.html#LermaKK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaiss/AnJTK11" mdate="2020-05-06">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="55/6591">Manish Jain</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Mixed-Initiative Optimization in Security Games: A Preliminary Report.</title>
+<year>2011</year>
+<booktitle>AAAI Spring Symposium: Help Me Help You: Bridging the Gaps in Human-Agent Collaboration</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2375</ee>
+<crossref>conf/aaaiss/2011-5</crossref>
+<url>db/conf/aaaiss/aaaiss2011-5.html#AnJTK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/PitaTKCS11" mdate="2011-11-18">
+<author pid="38/4453">James Pita</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="09/9925">Shane Cullen</author>
+<author pid="45/9925">Erin Steigerwald</author>
+<title>GUARDS: game theoretic security allocation on a national scale.</title>
+<pages>37-44</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2030476&#38;CFID=69153967&#38;CFTOKEN=38069692</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#PitaTKCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/JainKT11" mdate="2011-11-18">
+<author pid="55/6591">Manish Jain</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Quality-bounded solutions for finite Bayesian Stackelberg games: scaling up.</title>
+<pages>997-1004</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034411&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#JainKT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldMT11" mdate="2011-11-18">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="90/404">Janusz Marecki</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Approximation methods for infinite Bayesian Stackelberg games: modeling distributional payoff uncertainty.</title>
+<pages>1005-1012</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034412&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#KiekintveldMT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YangKOTJ11" mdate="2011-11-18">
+<author pid="53/4040">Rong Yang</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="20/7264">Richard John</author>
+<title>Improved computational models of human behavior in security games.</title>
+<pages>1155-1156</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034464&#38;CFID=69154334&#38;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#YangKOTJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/YangKOTJ11" mdate="2017-05-23">
+<author pid="53/4040">Rong Yang</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="20/7264">Richard John</author>
+<title>Improving Resource Allocation Strategy against Human Adversaries in Security Games.</title>
+<pages>458-464</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-084</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#YangKOTJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/PitaTKCS11" mdate="2017-05-23">
+<author pid="38/4453">James Pita</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="09/9925">Shane Cullen</author>
+<author pid="45/9925">Erin Steigerwald</author>
+<title>GUARDS - Innovative Application of Game Theory for National Airport Security.</title>
+<pages>2710-2715</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-451</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#PitaTKCS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/informaticaSI/KiekintveldMPS10" mdate="2021-02-16">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="90/404">Janusz Marecki</author>
+<author pid="22/1006">Praveen Paruchuri</author>
+<author pid="s/KatiaPSycara">Katia P. Sycara</author>
+<title>Editor's Introduction to the Special Issue on Quantitative Risk Analysis Techniques for Security Applications.</title>
+<pages>127-128</pages>
+<year>2010</year>
+<volume>34</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>2</number>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/283</ee>
+<url>db/journals/informaticaSI/informaticaSI34.html#KiekintveldMPS10</url>
+</article>
+</r>
+<r><article key="journals/informaticaSI/TaylorKWT10" mdate="2021-02-16">
+<author pid="46/4287">Matthew E. Taylor</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="36/5245">Craig Western</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>A Framework for Evaluating Deployed Security Systems: Is There a Chink in your ARMOR?</title>
+<pages>129-140</pages>
+<year>2010</year>
+<volume>34</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>2</number>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/284</ee>
+<url>db/journals/informaticaSI/informaticaSI34.html#TaylorKWT10</url>
+</article>
+</r>
+<r><article key="journals/interfaces/JainTPKRTO10" mdate="2017-05-27">
+<author pid="55/6591">Manish Jain</author>
+<author pid="71/7118">Jason Tsai</author>
+<author pid="38/4453">James Pita</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="25/8681">Shyamsunder Rathi</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<title>Software Assistants for Randomized Patrol Planning for the LAX Airport Police and the Federal Air Marshal Service.</title>
+<pages>267-290</pages>
+<year>2010</year>
+<volume>40</volume>
+<journal>Interfaces</journal>
+<number>4</number>
+<ee>https://doi.org/10.1287/inte.1100.0505</ee>
+<url>db/journals/interfaces/interfaces40.html#JainTPKRTO10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/JainKKOT10" mdate="2021-02-18">
+<author pid="55/6591">Manish Jain</author>
+<author pid="56/8399">Erim Kardes</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Security Games with Arbitrary Schedules: A Branch and Price Approach.</title>
+<year>2010</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1698</ee>
+<crossref>conf/aaai/2010</crossref>
+<url>db/conf/aaai/aaai2010.html#JainKKOT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/TsaiYKKKT10" mdate="2021-02-18">
+<author pid="71/7118">Jason Tsai</author>
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="74/7563">Jun-young Kwak</author>
+<author pid="63/5749-1">David Kempe 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Urban Security: Game-Theoretic Resource Allocation in Networked Domains.</title>
+<year>2010</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1701</ee>
+<crossref>conf/aaai/2010</crossref>
+<url>db/conf/aaai/aaai2010.html#TsaiYKKKT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldYKT10" mdate="2018-11-30">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="67/103">Atul Kumar</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Asynchronous algorithms for approximate distributed constraint optimization with quality bounds.</title>
+<pages>133-140</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838225</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#KiekintveldYKT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/YinKKCT10" mdate="2018-11-30">
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="54/8399">Dmytro Korzhyk</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Stackelberg vs. Nash in security games: interchangeability, equivalence, and uniqueness.</title>
+<pages>1139-1146</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838360</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#YinKKCT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/TsaiYKKKT10" mdate="2018-11-30">
+<author pid="71/7118">Jason Tsai</author>
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="74/7563">Jun-young Kwak</author>
+<author pid="63/5749-1">David Kempe 0001</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>How to protect a city: strategic security placement in graph-based domains.</title>
+<pages>1453-1454</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838428</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#TsaiYKKKT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldTM10" mdate="2018-11-30">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="90/404">Janusz Marecki</author>
+<title>Robust Bayesian methods for Stackelberg security games.</title>
+<pages>1467-1468</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838435</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#KiekintveldTM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesec/KiekintveldMT10" mdate="2017-05-23">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="90/404">Janusz Marecki</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Methods and Algorithms for Infinite Bayesian Stackelberg Security Games - (Extended Abstract).</title>
+<pages>257-265</pages>
+<year>2010</year>
+<booktitle>GameSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17197-0_18</ee>
+<crossref>conf/gamesec/2010</crossref>
+<url>db/conf/gamesec/gamesec2010.html#KiekintveldMT10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ecra/KiekintveldMJCW09" mdate="2020-02-22">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="27/4080">Jason Miller</author>
+<author pid="12/6104">Patrick R. Jordan</author>
+<author pid="58/8045">Lee F. Callender</author>
+<author orcid="0000-0002-1691-6844" pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Forecasting market prices in a supply chain game.</title>
+<pages>63-77</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>Electron. Commer. Res. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.elerap.2008.11.005</ee>
+<ee>https://www.wikidata.org/entity/Q62636464</ee>
+<url>db/journals/ecra/ecra8.html#KiekintveldMJCW09</url>
+</article>
+</r>
+<r><article key="journals/sigecom/PitaBJKTOT09" mdate="2020-06-04">
+<author pid="38/4453">James Pita</author>
+<author pid="36/9838">Harish Bellamane</author>
+<author pid="55/6591">Manish Jain</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="71/7118">Jason Tsai</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Security applications: lessons of real-world deployment.</title>
+<pages>5</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>SIGecom Exch.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1980522.1980527</ee>
+<url>db/journals/sigecom/sigecom8.html#PitaBJKTOT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldJTPOT09" mdate="2018-11-30">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="55/6591">Manish Jain</author>
+<author pid="71/7118">Jason Tsai</author>
+<author pid="38/4453">James Pita</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Computing optimal randomized resource allocations for massive security games.</title>
+<pages>689-696</pages>
+<year>2009</year>
+<booktitle>AAMAS (1)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1558108</ee>
+<crossref>conf/atal/2009-1</crossref>
+<url>db/conf/atal/aamas2009-1.html#KiekintveldJTPOT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldW08" mdate="2018-11-30">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Selecting strategies using empirical game models: an experimental analysis of meta-strategies.</title>
+<pages>1095-1101</pages>
+<year>2008</year>
+<booktitle>AAMAS (2)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1402373</ee>
+<crossref>conf/atal/2008-2</crossref>
+<url>db/conf/atal/aamas2008-2.html#KiekintveldW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Kiekintveld07" mdate="2021-02-10">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Empirical Game-Theoretic Methods for Strategy Design and Analysis in Complex Games.</title>
+<pages>1935-1936</pages>
+<year>2007</year>
+<crossref>conf/aaai/2007</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2007.html#Kiekintveld07</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-342.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/JordanKW07" mdate="2019-06-02">
+<author pid="12/6104">Patrick R. Jordan</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author orcid="0000-0002-1691-6844" pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Empirical game-theoretic analysis of the TAC Supply Chain game.</title>
+<pages>193</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1329125.1329359</ee>
+<ee>https://www.wikidata.org/entity/Q62636477</ee>
+<url>db/conf/atal/aamas2007.html#JordanKW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KiekintveldMJW07" mdate="2019-06-02">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="27/4080">Jason Miller</author>
+<author pid="12/6104">Patrick R. Jordan</author>
+<author orcid="0000-0002-1691-6844" pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Forecasting market prices in a supply chain game.</title>
+<pages>234</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1329125.1329408</ee>
+<ee>https://www.wikidata.org/entity/Q62636479</ee>
+<url>db/conf/atal/aamas2007.html#KiekintveldMJW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/JordanKMW06" mdate="2017-05-23">
+<author pid="12/6104">Patrick R. Jordan</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="27/4080">Jason Miller</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Market Efficiency, Sales Competition, and the Bullwhip Effect in the TAC SCM Tournaments.</title>
+<pages>62-74</pages>
+<year>2006</year>
+<crossref>conf/atal/2006tada-amec</crossref>
+<booktitle>TADA/AMEC</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-72502-2_5</ee>
+<url>db/conf/atal/tada-amec2006.html#JordanKMW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigecom/KiekintveldMJW06" mdate="2018-11-06">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="27/4080">Jason Miller</author>
+<author pid="12/6104">Patrick R. Jordan</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Controlling a supply chain agent using value-based decomposition.</title>
+<pages>208-217</pages>
+<year>2006</year>
+<crossref>conf/sigecom/2006</crossref>
+<booktitle>EC</booktitle>
+<ee>https://doi.org/10.1145/1134707.1134730</ee>
+<url>db/conf/sigecom/sigecom2006.html#KiekintveldMJW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigecom/VorobeychikKW06" mdate="2018-11-06">
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Empirical mechanism design: methods, with application to a supply-chain scenario.</title>
+<pages>306-315</pages>
+<year>2006</year>
+<crossref>conf/sigecom/2006</crossref>
+<booktitle>EC</booktitle>
+<ee>https://doi.org/10.1145/1134707.1134741</ee>
+<url>db/conf/sigecom/sigecom2006.html#VorobeychikKW06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ci/WellmanESVKS05" mdate="2020-03-15">
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<author pid="71/3180">Joshua Estelle</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="62/257">Vishal Soni</author>
+<title>Strategic Interactions in a Supply Chain Game.</title>
+<pages>1-26</pages>
+<year>2005</year>
+<volume>21</volume>
+<journal>Comput. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.0824-7935.2005.00263.x</ee>
+<url>db/journals/ci/ci21.html#WellmanESVKS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/KiekintveldVW05" mdate="2017-05-23">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>An Analysis of the 2004 Supply Chain Management Trading Agent Competition.</title>
+<pages>99-112</pages>
+<year>2005</year>
+<booktitle>AMEC@AAMAS/TADA@IJCAI</booktitle>
+<ee>https://doi.org/10.1007/11888727_8</ee>
+<crossref>conf/ijcai/2005at</crossref>
+<url>db/conf/ijcai/amec-tada2005.html#KiekintveldVW05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigecom/KiekintveldWSS04" mdate="2020-06-04">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="62/257">Vishal Soni</author>
+<title>Value-driven procurement in the TAC supply chain game.</title>
+<pages>9-18</pages>
+<year>2004</year>
+<volume>4</volume>
+<journal>SIGecom Exch.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1120701.1120704</ee>
+<url>db/journals/sigecom/sigecom4.html#KiekintveldWSS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/KiekintveldWSEVSR04" mdate="2021-02-05">
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="71/3180">Joshua Estelle</author>
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="62/257">Vishal Soni</author>
+<author pid="38/5408">Matthew R. Rudary</author>
+<title>Distributed Feedback Control for Decision Making on Supply Chains.</title>
+<pages>384-392</pages>
+<year>2004</year>
+<crossref>conf/aips/2004</crossref>
+<booktitle>ICAPS</booktitle>
+<url>db/conf/aips/icaps2004.html#KiekintveldWSEVSR04</url>
+<ee type="oa">http://www.aaai.org/Library/ICAPS/2004/icaps04-045.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cg/EstelleVWSKS04" mdate="2019-06-02">
+<author pid="71/3180">Joshua Estelle</author>
+<author orcid="0000-0003-2471-5345" pid="70/2217">Yevgeniy Vorobeychik</author>
+<author orcid="0000-0002-1691-6844" pid="w/MichaelPWellman">Michael P. Wellman</author>
+<author pid="09/3058">Satinder P. Singh</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<author pid="62/257">Vishal Soni</author>
+<title>Strategic Interactions in the TAC 2003 Supply Chain Tournament.</title>
+<pages>316-331</pages>
+<year>2004</year>
+<crossref>conf/cg/2004</crossref>
+<booktitle>Computers and Games</booktitle>
+<ee>https://doi.org/10.1007/11674399_22</ee>
+<ee>https://www.wikidata.org/entity/Q62636495</ee>
+<url>db/conf/cg/cg2004.html#EstelleVWSKS04</url>
+</inproceedings>
+</r>
+<coauthors n="167" nc="2">
+<co c="0"><na f="a/Acosta:Jaime_C=" pid="45/9239">Jaime C. Acosta</na></co>
+<co c="0"><na f="a/Agarwal:Nitin" pid="72/1395">Nitin Agarwal</na></co>
+<co c="0"><na f="a/Agmon:Noa" pid="52/1053">Noa Agmon</na></co>
+<co c="0"><na f="a/Agrawal:Vikas" pid="24/584">Vikas Agrawal</na></co>
+<co c="1"><na f="a/Aguirre:Oswaldo" pid="91/10858">Oswaldo Aguirre</na></co>
+<co c="0"><na f="a/Aha:David_W=" pid="25/557">David W. Aha</na></co>
+<co c="0"><na f="a/Aharonov=Majar:Efrat" pid="249/6771">Efrat Aharonov-Majar</na></co>
+<co c="0"><na f="a/Aloimonos:Yiannis" pid="a/YiannisAloimonos">Yiannis Aloimonos</na></co>
+<co c="0"><na f="a/An_0001:Bo" pid="42/6178-1">Bo An 0001</na></co>
+<co c="0"><na f="a/Andrist:Sean" pid="23/8725">Sean Andrist</na></co>
+<co c="0"><na f="a/Anjum:Iffat" pid="129/7129">Iffat Anjum</na></co>
+<co c="0"><na f="a/Anwar:Ahmed_H=" pid="129/1516">Ahmed H. Anwar</na></co>
+<co c="0"><na f="b/Balderas:Darryl" pid="204/2997">Darryl Balderas</na></co>
+<co c="0"><na f="b/Basak:Anjon" pid="77/9586">Anjon Basak</na></co>
+<co c="0"><na f="b/Bell:Zachary" pid="192/2863">Zachary Bell</na></co>
+<co c="0"><na f="b/Bellamane:Harish" pid="36/9838">Harish Bellamane</na></co>
+<co c="0"><na f="b/Ben=Asher:Noam" pid="09/2998">Noam Ben-Asher</na></co>
+<co c="0"><na f="b/Bohus:Dan" pid="00/4118">Dan Bohus</na></co>
+<co c="0"><na f="b/Bosansk=yacute=:Branislav" pid="24/5039">Branislav Bosansk&#253;</na></co>
+<co c="0"><na f="b/Boyansk=yacute=:Branislav" pid="221/2835">Branislav Boyansk&#253;</na></co>
+<co c="0"><na f="b/Brown_0002:Matthew" pid="21/3987-2">Matthew Brown 0002</na></co>
+<co c="0"><na f="b/Buckley:Donagh" pid="56/11451">Donagh Buckley</na></co>
+<co c="0"><na f="c/Callender:Lee_F=" pid="58/8045">Lee F. Callender</na></co>
+<co c="0"><na f="c/Cermak:Jiri" pid="131/5318">Jiri Cermak</na></co>
+<co c="0"><na f="c/Cern=yacute=:Jakub" pid="32/5231">Jakub Cern&#253;</na></co>
+<co c="0"><na f="c/Chowdhury:Moinul_Morshed_Porag" pid="178/8681">Moinul Morshed Porag Chowdhury</na></co>
+<co c="0"><na f="c/Conitzer:Vincent" pid="c/VincentConitzer">Vincent Conitzer</na></co>
+<co c="0"><na f="c/Cullen:Shane" pid="09/9925">Shane Cullen</na></co>
+<co c="0"><na f="c/Curtis:Shelby_R=" pid="223/7487">Shelby R. Curtis</na></co>
+<co c="0"><na f="d/David:Esther" pid="36/806">Esther David</na></co>
+<co c="0"><na f="d/Doshi:Prashant" pid="d/PrashantDoshi">Prashant Doshi</na></co>
+<co c="0"><na f="d/Dunstatter:Noah" pid="204/2979">Noah Dunstatter</na></co>
+<co c="0"><na f="d/Durkota:Karel" pid="151/0822">Karel Durkota</na></co>
+<co c="0"><na f="e/Enck:William" pid="22/4463">William Enck</na></co>
+<co c="1"><na f="e/Epiritu:Jose" pid="43/10919">Jose Epiritu</na></co>
+<co c="0"><na f="e/Estelle:Joshua" pid="71/3180">Joshua Estelle</na></co>
+<co c="0"><na f="f/Fang:Fei" pid="57/2878">Fei Fang</na></co>
+<co c="0"><na f="f/Fenstermacher:Laurie" pid="155/7628">Laurie Fenstermacher</na></co>
+<co c="0"><na f="f/Fioretto:Ferdinando" pid="119/6404">Ferdinando Fioretto</na></co>
+<co c="0"><na f="f/Folk:Russell_Y=" pid="195/5026">Russell Y. Folk</na></co>
+<co c="0"><na f="f/Ford:Benjamin_J=" pid="58/8150">Benjamin J. Ford</na></co>
+<co c="0"><na f="f/Fuentes:Olac" pid="72/1015">Olac Fuentes</na></co>
+<co c="0"><na f="g/Geib:Christopher_W=" pid="88/4021">Christopher W. Geib</na></co>
+<co c="0"><na f="g/Gonzalez:Cleotilde" pid="39/3618">Cleotilde Gonzalez</na></co>
+<co c="0"><na f="g/Gore:Meredith_L=" pid="178/8592">Meredith L. Gore</na></co>
+<co c="0"><na f="g/Granados:Alonso" pid="230/2003">Alonso Granados</na></co>
+<co c="0"><na f="g/Grasso:Floriana" pid="23/4422">Floriana Grasso</na></co>
+<co c="0"><na f="g/Green:Nancy" pid="48/6123">Nancy Green</na></co>
+<co c="0"><na f="g/Guirguis:Mina" pid="86/4491">Mina Guirguis</na></co>
+<co c="0"><na f="g/Guo:Qingyu" pid="74/4904">Qingyu Guo</na></co>
+<co c="1"><na f="g/Gutierrez:Eric" pid="59/10919">Eric Gutierrez</na></co>
+<co c="0" n="2"><na f="g/Gutierrez:Marcus_Paul" pid="178/8704">Marcus Paul Gutierrez</na><na>Marcus Gutierrez</na></co>
+<co c="0" n="2"><na f="h/Hassan:Mahmudulla" pid="255/5030">Mahmudulla Hassan</na><na>Md Mahmudulla Hassan</na></co>
+<co c="0"><na f="h/Hor=aacute=k:Karel" pid="57/10426">Karel Hor&#225;k</na></co>
+<co c="0"><na f="i/Islam:Towhidul" pid="54/8703">Towhidul Islam</na></co>
+<co c="0"><na f="j/Jain:Manish" pid="55/6591">Manish Jain</na></co>
+<co c="0"><na f="j/Jiang:Albert_Xin" pid="59/3808">Albert Xin Jiang</na></co>
+<co c="0"><na f="j/John:Richard" pid="20/7264">Richard John</na></co>
+<co c="0" n="2"><na f="j/Johnson:Matthew_P=" pid="80/5262">Matthew P. Johnson</na><na>Matthew Paul Johnson</na></co>
+<co c="0"><na f="j/Johnston:Benjamin" pid="87/1373">Benjamin Johnston</na></co>
+<co c="0"><na f="j/Jojic:Nebojsa" pid="20/1944">Nebojsa Jojic</na></co>
+<co c="0"><na f="j/Jones_0003:Daniel" pid="47/3367-3">Daniel Jones 0003</na></co>
+<co c="0"><na f="j/Jordan:Patrick_R=" pid="12/6104">Patrick R. Jordan</na></co>
+<co c="0"><na f="k/Kagal:Lalana" pid="75/6949">Lalana Kagal</na></co>
+<co c="0" n="2"><na f="k/Kaliski_Jr=:Burton_S=" pid="12/5585">Burton S. Kaliski Jr.</na><na>Burt Kaliski</na></co>
+<co c="0"><na f="k/Kamhoua:Charles_A=" pid="45/9386">Charles A. Kamhoua</na></co>
+<co c="0"><na f="k/Kardes:Erim" pid="56/8399">Erim Kardes</na></co>
+<co c="0"><na f="k/Kempe_0001:David" pid="63/5749-1">David Kempe 0001</na></co>
+<co c="0"><na f="k/Kido:Takashi" pid="15/3582">Takashi Kido</na></co>
+<co c="0"><na f="k/Killion:Alex" pid="178/8587">Alex Killion</na></co>
+<co c="0"><na f="k/Kl=iacute=ma:Richard" pid="151/8734">Richard Kl&#237;ma</na></co>
+<co c="0"><na f="k/Korzhyk:Dmytro" pid="54/8399">Dmytro Korzhyk</na></co>
+<co c="0"><na f="k/Kovar=iacute=k:Vojtech" pid="136/6061">Vojtech Kovar&#237;k</na></co>
+<co c="0"><na f="k/Kreinovich:Vladik" pid="k/VladikKreinovich">Vladik Kreinovich</na></co>
+<co c="0"><na f="k/Kumar:Atul" pid="67/103">Atul Kumar</na></co>
+<co c="0"><na f="k/Kwak:Jun=young" pid="74/7563">Jun-young Kwak</na></co>
+<co c="0"><na f="l/Law:Edith" pid="32/1523">Edith Law</na></co>
+<co c="0"><na f="l/Lawless:William_F=" pid="70/701">William F. Lawless</na></co>
+<co c="0"><na f="l/Lerma:Octavio" pid="51/10919">Octavio Lerma</na></co>
+<co c="0" n="2"><na f="l/Leslie:Nandi" pid="218/6441">Nandi Leslie</na><na>Nandi O. Leslie</na></co>
+<co c="0"><na f="l/Leyton=Brown:Kevin" pid="81/1149">Kevin Leyton-Brown</na></co>
+<co c="0"><na f="l/Lieberman:Henry" pid="39/3002">Henry Lieberman</na></co>
+<co c="0"><na f="l/Lis=yacute=:Viliam" pid="76/5110">Viliam Lis&#253;</na></co>
+<co c="0"><na f="l/Liu_0001:Huan" pid="92/309-1">Huan Liu 0001</na></co>
+<co c="1"><na f="l/Lopez:Nicolas" pid="49/10858">Nicolas Lopez</na></co>
+<co c="0"><na f="m/Marecki:Janusz" pid="90/404">Janusz Marecki</na></co>
+<co c="0"><na f="m/McCallum:Andrew" pid="m/AndrewMcCallum">Andrew McCallum</na></co>
+<co c="0"><na f="m/McCarthy:Sara_Marie" pid="178/8575">Sara Marie McCarthy</na></co>
+<co c="0"><na f="m/Mengshoel:Ole_J=" pid="58/2801">Ole J. Mengshoel</na></co>
+<co c="0"><na f="m/Metzler:Ted" pid="79/6776">Ted Metzler</na></co>
+<co c="0"><na f="m/Miah:Mohammad_Sujan" pid="259/1556">Mohammad Sujan Miah</na></co>
+<co c="0"><na f="m/Miller:Jason" pid="27/4080">Jason Miller</na></co>
+<co c="0"><na f="m/Modayil:Joseph" pid="06/6951">Joseph Modayil</na></co>
+<co c="0"><na f="m/Morris:Dan" pid="43/5615">Dan Morris</na></co>
+<co c="0"><na f="n/Nguyen:Thanh_Hong" pid="117/4935">Thanh Hong Nguyen</na></co>
+<co c="0"><na f="o/Oard:Douglas_W=" pid="o/DouglasWOard">Douglas W. Oard</na></co>
+<co c="0"><na f="o/Onder:Nilufer" pid="40/6734">Nilufer Onder</na></co>
+<co c="0"><na f="o/Ord=oacute==ntilde=ez:Fernando" pid="63/3305">Fernando Ord&#243;&#241;ez</na></co>
+<co c="0"><na f="o/Ortiz:Anthony" pid="210/2608">Anthony Ortiz</na></co>
+<co c="0"><na f="o/O=Sullivan:Barry" pid="o/BarryOSullivan">Barry O'Sullivan</na></co>
+<co c="-1"><na f="p/Parra_Jr=:Jaime" pid="138/5606">Jaime Parra Jr.</na></co>
+<co c="0"><na f="p/Paruchuri:Praveen" pid="22/1006">Praveen Paruchuri</na></co>
+<co c="0"><na f="p/Pastra:Katerina" pid="29/533">Katerina Pastra</na></co>
+<co c="0"><na f="p/Pechoucek:Michal" pid="p/MichalPechoucek">Michal Pechoucek</na></co>
+<co c="0"><na f="p/Pevn=yacute=:Tom=aacute=s" pid="20/1317">Tom&#225;s Pevn&#253;</na></co>
+<co c="0"><na f="p/P=iacute=bil:Radek" pid="85/7359">Radek P&#237;bil</na></co>
+<co c="0"><na f="p/Pita:James" pid="38/4453">James Pita</na></co>
+<co c="0"><na f="p/Precup:Doina" pid="p/DoinaPrecup">Doina Precup</na></co>
+<co c="0"><na f="p/Purohit:Hemant" pid="77/3904ohio">Hemant Purohit</na></co>
+<co c="0"><na f="q/Qian:Yundi" pid="131/5301">Yundi Qian</na></co>
+<co c="0"><na f="r/Ramachandran:Sowmya" pid="67/6515">Sowmya Ramachandran</na></co>
+<co c="0"><na f="r/Rass:Stefan" pid="79/5181">Stefan Rass</na></co>
+<co c="0"><na f="r/Rathi:Shyamsunder" pid="25/8681">Shyamsunder Rathi</na></co>
+<co c="0"><na f="r/Reed:Chris" pid="12/4444">Chris Reed</na></co>
+<co c="0"><na f="r/Robinson:Caleb" pid="194/7729">Caleb Robinson</na></co>
+<co c="0"><na f="r/Robu:Valentin" pid="40/5122">Valentin Robu</na></co>
+<co c="0"><na f="r/Rosario:Dalton_S=" pid="91/1575">Dalton S. Rosario</na></co>
+<co c="0"><na f="r/Rudary:Matthew_R=" pid="38/5408">Matthew R. Rudary</na></co>
+<co c="0"><na f="s/Sandholm:Tuomas" pid="s/TuomasSandholm">Tuomas Sandholm</na></co>
+<co c="0" n="2"><na f="s/Sariel:Sanem" pid="17/8399">Sanem Sariel</na><na>Sanem Sariel Talay</na></co>
+<co c="0"><na f="s/Schauer:Stefan" pid="01/8557">Stefan Schauer</na></co>
+<co c="0"><na f="s/Schlenker:Aaron" pid="178/8675">Aaron Schlenker</na></co>
+<co c="0"><na f="s/Selker:Ted" pid="s/TedSelker">Ted Selker</na></co>
+<co c="0"><na f="s/Seneviratne:Oshani" pid="66/7522">Oshani Seneviratne</na></co>
+<co c="0"><na f="s/Sharmin:Nazia" pid="259/1033">Nazia Sharmin</na></co>
+<co c="0"><na f="s/Shastri:Lokendra" pid="65/1917">Lokendra Shastri</na></co>
+<co c="0"><na f="s/Shehory:Onn" pid="20/1380">Onn Shehory</na></co>
+<co c="0" n="2"><na f="s/Shieh:Eric_Anyung" pid="117/4929">Eric Anyung Shieh</na><na>Eric Shieh</na></co>
+<co c="0"><na f="s/Singh:Amandeep" pid="12/2427">Amandeep Singh</na></co>
+<co c="0"><na f="s/Singh:Munindar_P=" pid="s/MunindarPSingh">Munindar P. Singh</na></co>
+<co c="0"><na f="s/Singh:Satinder_P=" pid="09/3058">Satinder P. Singh</na></co>
+<co c="0"><na f="s/Sinha:Arunesh" pid="26/9089">Arunesh Sinha</na></co>
+<co c="0"><na f="s/Smith:Stephen_F=" pid="s/StephenFSmith">Stephen F. Smith</na></co>
+<co c="0"><na f="s/Son:Tran_Cao" pid="s/TranCaoSon">Tran Cao Son</na></co>
+<co c="0"><na f="s/Soni:Vishal" pid="62/257">Vishal Soni</na></co>
+<co c="0"><na f="s/Sonya:Solomon_Y=" pid="183/3812">Solomon Y. Sonya</na></co>
+<co c="0"><na f="s/Srivastava:Biplav" pid="33/4411">Biplav Srivastava</na></co>
+<co c="0"><na f="s/Srivastava:Siddharth" pid="64/3431">Siddharth Srivastava</na></co>
+<co c="0"><na f="s/Steigerwald:Erin" pid="45/9925">Erin Steigerwald</na></co>
+<co c="0"><na f="s/Stein_0001:Sebastian" pid="06/1681-1">Sebastian Stein 0001</na></co>
+<co c="0" n="2"><na f="s/Sukthankar:Gita_Reese" pid="54/1919">Gita Reese Sukthankar</na><na>Gita Sukthankar</na></co>
+<co c="0"><na f="s/Sullivan:John_P=" pid="53/5243">John P. Sullivan</na></co>
+<co c="0"><na f="s/Sycara:Katia_P=" pid="s/KatiaPSycara">Katia P. Sycara</na></co>
+<co c="1"><na f="t/Taboada:Heidi_A=" pid="46/1509">Heidi A. Taboada</na></co>
+<co c="0"><na f="t/Takadama:Keiki" pid="72/4302">Keiki Takadama</na></co>
+<co c="0"><na f="t/Tambe:Milind" pid="67/2667">Milind Tambe</na></co>
+<co c="0"><na f="t/Taylor:Gavin" pid="37/142">Gavin Taylor</na></co>
+<co c="0"><na f="t/Taylor:Matthew_E=" pid="46/4287">Matthew E. Taylor</na></co>
+<co c="0"><na f="t/Thakoor:Omkar" pid="223/0205">Omkar Thakoor</na></co>
+<co c="0"><na f="t/Tom=aacute=sek:Petr" pid="252/4957">Petr Tom&#225;sek</na></co>
+<co c="0"><na f="t/Tran:Son" pid="19/2438">Son Tran</na></co>
+<co c="0"><na f="t/Tsai:Jason" pid="71/7118">Jason Tsai</na></co>
+<co c="0"><na f="u/Uthus:David_C=" pid="09/2971">David C. Uthus</na></co>
+<co c="0"><na f="v/Vayanos:Phebe" pid="08/3904">Phebe Vayanos</na></co>
+<co c="0"><na f="v/Veliz:Oscar" pid="162/5080">Oscar Veliz</na></co>
+<co c="0"><na f="v/Venkatesan:Sridhar" pid="71/11139">Sridhar Venkatesan</na></co>
+<co c="0"><na f="v/Vorobeychik:Yevgeniy" pid="70/2217">Yevgeniy Vorobeychik</na></co>
+<co c="0"><na f="w/Wellman:Michael_P=" pid="w/MichaelPWellman">Michael P. Wellman</na></co>
+<co c="0"><na f="w/Western:Craig" pid="36/5245">Craig Western</na></co>
+<co c="0"><na f="w/Williams:Mary=Anne" pid="84/6183">Mary-Anne Williams</na></co>
+<co c="0"><na f="x/Xu:Haifeng" pid="04/1895">Haifeng Xu</na></co>
+<co c="0"><na f="y/Yadav:Amulya" pid="121/3511">Amulya Yadav</na></co>
+<co c="0"><na f="y/Yang:Rong" pid="53/4040">Rong Yang</na></co>
+<co c="0"><na f="y/Yeoh_0001:William" pid="97/4283-1">William Yeoh 0001</na></co>
+<co c="0"><na f="y/Yin:Zhengyu" pid="54/3357">Zhengyu Yin</na></co>
+<co c="0"><na f="z/Zhao:Mengchen" pid="178/8719">Mengchen Zhao</na></co>
+<co c="0"><na f="z/Zhu:Mu" pid="20/5424">Mu Zhu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,4035 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d909b6961799a1d0e81b172076ebf969ffc5c9f290b45f5da16948c7743edce
-size 173751
+<?xml version="1.0"?>
+<dblpperson name="Juan-Zi Li" pid="l/JuanZiLi" n="244">
+<person key="homepages/l/JuanZiLi" mdate="2020-02-12">
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<note type="affiliation">Tsinghua University, Beijing, China</note>
+<url>http://keg.cs.tsinghua.edu.cn/persons/ljz/</url>
+<url>https://scholar.google.com/citations?user=SgNB-ioAAAAJ</url>
+<url>https://dl.acm.org/profile/81350597955</url>
+</person>
+<r><inproceedings key="conf/IEEEwisa/LiuYLH20" mdate="2020-09-22">
+<author pid="26/10932">Shaopeng Liu</author>
+<author pid="239/6130">Jifan Yu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<title>Geographical Information Enhanced POI Hierarchical Classification.</title>
+<pages>108-119</pages>
+<year>2020</year>
+<booktitle>WISA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60029-7_10</ee>
+<crossref>conf/IEEEwisa/2020</crossref>
+<url>db/conf/IEEEwisa/wisa2020.html#LiuYLH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/TongW00L0C20" mdate="2021-02-02">
+<author pid="247/4597">Meihan Tong</author>
+<author pid="42/1503">Shuai Wang</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Image Enhanced Event Detection in News Articles.</title>
+<pages>9040-9047</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://aaai.org/ojs/index.php/AAAI/article/view/6437</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#TongW00L0C20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/YuLXZWFLWHLLT20" mdate="2021-01-08">
+<author pid="239/6130">Jifan Yu</author>
+<author pid="220/7076">Gan Luo</author>
+<author pid="05/5091">Tong Xiao</author>
+<author pid="225/1430">Qingyang Zhong</author>
+<author pid="125/5538">Yuquan Wang</author>
+<author pid="203/9459">Wenzheng Feng</author>
+<author pid="199/4697">Junyi Luo</author>
+<author pid="98/10212">Chenyu Wang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs.</title>
+<pages>3135-3142</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.285</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.285/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#YuLXZWFLWHLLT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/TongXWCHLX20" mdate="2021-01-08">
+<author pid="247/4597">Meihan Tong</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="42/1503">Shuai Wang</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="33/3881">Jun Xie</author>
+<title>Improving Event Detection via Open-domain Trigger Knowledge.</title>
+<pages>5887-5897</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.522</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.522/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#TongXWCHLX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WangWHJHLLLLZ20" mdate="2021-01-08">
+<author pid="03/2015">Xiaozhi Wang</author>
+<author pid="38/8097">Ziqi Wang</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="263/9815">Wangyi Jiang</author>
+<author pid="202/0285">Rong Han</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="83/6353-30">Peng Li 0030</author>
+<author pid="161/0001">Yankai Lin</author>
+<author pid="00/5012-16">Jie Zhou 0016</author>
+<title>MAVEN: A Massive General Domain Event Detection Dataset.</title>
+<pages>1652-1671</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.129</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.129/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#WangWHJHLLLLZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LvHHLLZZKW20" mdate="2021-01-08">
+<author pid="52/1775">Xin Lv</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="10/4661">Wei Zhang</author>
+<author pid="86/7054">Yichi Zhang</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="246/2921">Suhui Wu</author>
+<title>Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph.</title>
+<pages>5694-5703</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.459</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.459/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#LvHHLLZZKW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiuCPLC20" mdate="2021-01-08">
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment.</title>
+<pages>6355-6364</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.515</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.515/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#LiuCPLC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/WangJHLLLZ20" mdate="2020-12-15">
+<author pid="03/2015">Xiaozhi Wang</author>
+<author pid="264/9638">Shengyu Jia</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="83/6353-30">Peng Li 0030</author>
+<author pid="00/5012-16">Jie Zhou 0016</author>
+<title>Neural Gibbs Sampling for Joint Event Argument Extraction.</title>
+<pages>169-180</pages>
+<year>2020</year>
+<booktitle>AACL/IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/2020.aacl-main.21/</ee>
+<crossref>conf/ijcnlp/2020</crossref>
+<url>db/conf/ijcnlp/ijcnlp2020.html#WangJHLLLZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/YuWLHLTHL20" mdate="2020-12-15">
+<author pid="239/6130">Jifan Yu</author>
+<author pid="98/10212">Chenyu Wang</author>
+<author pid="220/7076">Gan Luo</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="47/6668">Minlie Huang</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>ExpanRL: Hierarchical Reinforcement Learning for Course Concept Expansion in MOOCs.</title>
+<pages>770-780</pages>
+<year>2020</year>
+<booktitle>AACL/IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/2020.aacl-main.77/</ee>
+<crossref>conf/ijcnlp/2020</crossref>
+<url>db/conf/ijcnlp/ijcnlp2020.html#YuWLHLTHL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-13590" mdate="2021-01-23">
+<author pid="03/2015">Xiaozhi Wang</author>
+<author pid="38/8097">Ziqi Wang</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="263/9815">Wangyi Jiang</author>
+<author pid="202/0285">Rong Han</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0003-1374-5979" pid="83/6353-30">Peng Li 0030</author>
+<author pid="161/0001">Yankai Lin</author>
+<author pid="00/5012-16">Jie Zhou 0016</author>
+<title>MAVEN: A Massive General Domain Event Detection Dataset.</title>
+<year>2020</year>
+<volume>abs/2004.13590</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.13590</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-13590</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-13631" mdate="2020-12-01">
+<author pid="00/5012-24">Jie Zhou 0024</author>
+<author pid="52/1775">Xin Lv</author>
+<author pid="49/1457-2">Cheng Yang 0002</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="95/3291">Maosong Sun</author>
+<title>KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion.</title>
+<year>2020</year>
+<volume>abs/2004.13631</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.13631</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-13631</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-03875" mdate="2020-07-20">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="229/2976">Shulin Cao</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="270/0095">Yutong Xiang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<author pid="78/4523">Bin He</author>
+<title>KQA Pro: A Large Diagnostic Dataset for Complex Question Answering over Knowledge Base.</title>
+<year>2020</year>
+<volume>abs/2007.03875</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.03875</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-03875</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-07320" mdate="2020-07-21">
+<author pid="24/6781">Tiansi Dong</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="44/2560">Christian Bauckhage</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="w/StefanWrobel">Stefan Wrobel</author>
+<author pid="c/ABCremers">Armin B. Cremers</author>
+<title>Learning Syllogism with Euler Neural-Networks.</title>
+<year>2020</year>
+<volume>abs/2007.07320</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.07320</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-07320</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-01899" mdate="2020-10-12">
+<author pid="52/1775">Xin Lv</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="10/4661">Wei Zhang</author>
+<author pid="86/7054">Yichi Zhang</author>
+<author pid="146/4832">Hao Kong</author>
+<author pid="246/2921">Suhui Wu</author>
+<title>Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph.</title>
+<year>2020</year>
+<volume>abs/2010.01899</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.01899</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-01899</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-03249" mdate="2021-02-03">
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245">Zhiyuan Liu</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment.</title>
+<year>2020</year>
+<volume>abs/2010.03249</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.03249</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-03249</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-00413" mdate="2021-02-03">
+<author pid="23/10446">Zhengyan Zhang</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="63/778">Hao Zhou</author>
+<author pid="10/2179">Pei Ke</author>
+<author pid="248/2313">Yuxian Gu</author>
+<author pid="221/0765">Deming Ye</author>
+<author pid="126/2333">Yujia Qin</author>
+<author pid="275/3665">YuSheng Su</author>
+<author pid="222/9546">Haozhe Ji</author>
+<author pid="58/2489">Jian Guan</author>
+<author pid="228/5500">Fanchao Qi</author>
+<author pid="03/2015">Xiaozhi Wang</author>
+<author pid="93/7107">Yanan Zheng</author>
+<author pid="252/5581">Guoyang Zeng</author>
+<author pid="214/8159">Huanqi Cao</author>
+<author pid="156/3418">Shengqi Chen 0001</author>
+<author pid="262/3741">Daixuan Li</author>
+<author pid="280/0130">Zhenbo Sun</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="47/6668">Minlie Huang</author>
+<author pid="10/8243">Wentao Han</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="50/1222-1">Xiaoyan Zhu 0001</author>
+<author pid="95/3291">Maosong Sun</author>
+<title>CPM: A Large-scale Generative Chinese Pre-trained Language Model.</title>
+<year>2020</year>
+<volume>abs/2012.00413</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.00413</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-00413</url>
+</article>
+</r>
+<r><article key="journals/dint/JinLZHLZ19" mdate="2020-06-15">
+<author pid="190/7770">Hailong Jin</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="05/3499-36">Jing Zhang 0036</author>
+<author orcid="0000-0002-8907-3526" pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="21/1048">Peng Zhang</author>
+<title>XLORE2: Large-scale Cross-lingual Knowledge Graph Construction and Application.</title>
+<pages>77-98</pages>
+<year>2019</year>
+<volume>1</volume>
+<journal>Data Intell.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1162/dint_a_00003</ee>
+<url>db/journals/dint/dint1.html#JinLZHLZ19</url>
+</article>
+</r>
+<r><article key="journals/mlc/LiWWLL19" mdate="2020-08-25">
+<author pid="37/4190-74">Yang Li 0074</author>
+<author pid="29/5259">Jie Wang</author>
+<author orcid="0000-0002-1553-2937" pid="56/963">Suge Wang</author>
+<author pid="80/6535">Jiye Liang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Local dense mixed region cutting + global rebalancing: a method for imbalanced text sentiment classification.</title>
+<pages>1805-1820</pages>
+<year>2019</year>
+<volume>10</volume>
+<journal>Int. J. Mach. Learn. Cybern.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s13042-018-0858-x</ee>
+<url>db/journals/mlc/mlc10.html#LiWWLL19</url>
+</article>
+</r>
+<r><article key="journals/symmetry/LiLWLLL19" mdate="2020-12-29">
+<author pid="37/4190-74">Yang Li 0074</author>
+<author pid="127/8758">Ying Lv</author>
+<author orcid="0000-0002-1553-2937" pid="56/963">Suge Wang</author>
+<author pid="80/6535">Jiye Liang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<title>Cooperative Hybrid Semi-Supervised Learning for Text Sentiment Classification.</title>
+<pages>133</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>Symmetry</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/sym11020133</ee>
+<url>db/journals/symmetry/symmetry11.html#LiLWLLL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/DongWLBC19" mdate="2021-02-02">
+<author pid="24/6781">Tiansi Dong</author>
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="44/2560">Christian Bauckhage</author>
+<author pid="c/ABCremers">Armin B. Cremers</author>
+<title>Triple Classification Using Regions and Fine-Grained Entity Typing.</title>
+<pages>77-85</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.330177</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DongWLBC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ShiHL0Z19" mdate="2021-02-02">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>Learning to Embed Sentences Using Attentive Recursive Trees.</title>
+<pages>6991-6998</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33016991</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShiHL0Z19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ShiLHL0Z19" mdate="2021-02-02">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="35/3221">Chen Liang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization.</title>
+<pages>6999-7006</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33016999</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShiLHL0Z19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/CaoLLLLC19" mdate="2021-02-03">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="53/3245">Zhiyuan Liu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Multi-Channel Graph Neural Network for Entity Alignment.</title>
+<pages>1452-1461</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1140</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1140/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#CaoLLLLC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/YuWLHLLT19" mdate="2020-05-07">
+<author pid="239/6130">Jifan Yu</author>
+<author pid="98/10212">Chenyu Wang</author>
+<author pid="220/7076">Gan Luo</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Course Concept Expansion in MOOCs with External Knowledge and Interactive Game.</title>
+<pages>4292-4302</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1421</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1421/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#YuWLHLLT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccks/ZhangLJY19" mdate="2020-09-07">
+<author pid="38/8912">Jiangtao Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="256/8741">Zengtao Jiao</author>
+<author pid="89/5901-10">Jun Yan 0010</author>
+<title>Overview of CCKS 2018 Task 1: Named Entity Recognition in Chinese Electronic Medical Records.</title>
+<pages>158-164</pages>
+<year>2019</year>
+<booktitle>CCKS</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-1956-7_14</ee>
+<crossref>conf/ccks/2019</crossref>
+<url>db/conf/ccks/ccks2019.html#ZhangLJY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/Tong0HLW19" mdate="2020-05-07">
+<author pid="247/4597">Meihan Tong</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="42/1503">Shuai Wang</author>
+<title>Leveraging Multi-head Attention Mechanism to Improve Event Detection.</title>
+<pages>268-280</pages>
+<year>2019</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32381-3_22</ee>
+<crossref>conf/cncl/2019</crossref>
+<url>db/conf/cncl/ccl2019.html#Tong0HLW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/WangHLTJ19" mdate="2020-05-07">
+<author pid="42/1503">Shuai Wang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="247/4597">Meihan Tong</author>
+<author pid="250/8895">Jiabo Jiang</author>
+<title>Learning Multilingual Sentence Embeddings from Monolingual Corpus.</title>
+<pages>346-357</pages>
+<year>2019</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32381-3_28</ee>
+<crossref>conf/cncl/2019</crossref>
+<url>db/conf/cncl/ccl2019.html#WangHLTJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/LuHL19" mdate="2020-05-07">
+<author pid="250/8971">Hsuehkuan Lu</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>How Important Is POS to Dependency Parsing? Joint POS Tagging and Dependency Parsing Neural Networks.</title>
+<pages>625-637</pages>
+<year>2019</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32381-3_50</ee>
+<crossref>conf/cncl/2019</crossref>
+<url>db/conf/cncl/ccl2019.html#LuHL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ShiZL19" mdate="2020-12-25">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Explainable and Explicit Visual Reasoning Over Scene Graphs.</title>
+<pages>8376-8384</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00857</ee>
+<ee>https://www.wikidata.org/entity/Q102634273</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#ShiZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LiCHSLC19" mdate="2020-05-07">
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model.</title>
+<pages>2723-2732</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1274</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#LiCHSLC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LvGHHLL19" mdate="2020-08-29">
+<author pid="52/1775">Xin Lv</author>
+<author pid="248/2313">Yuxian Gu</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations.</title>
+<pages>3374-3379</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1334</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#LvGHHLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/JinHLD19" mdate="2020-05-07">
+<author pid="190/7770">Hailong Jin</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="24/6781">Tiansi Dong</author>
+<title>Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks.</title>
+<pages>4968-4977</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1502</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#JinHLD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WangWHLLLSZR19" mdate="2021-03-02">
+<author orcid="0000-0002-5727-143X" pid="03/2015">Xiaozhi Wang</author>
+<author pid="38/8097">Ziqi Wang</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="83/6353-30">Peng Li 0030</author>
+<author pid="95/3291">Maosong Sun</author>
+<author pid="00/5012-16">Jie Zhou 0016</author>
+<author pid="36/360-1">Xiang Ren 0001</author>
+<title>HMEAE: Hierarchical Modular Event Argument Extraction.</title>
+<pages>5776-5782</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1584</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#WangWHLLLSZR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/DongBJLCSCZ19" mdate="2019-07-29">
+<author pid="24/6781">Tiansi Dong</author>
+<author pid="44/2560">Christian Bauckhage</author>
+<author pid="190/7770">Hailong Jin</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="245/4736">Olaf Cremers</author>
+<author pid="80/5362">Daniel Speicher</author>
+<author pid="c/ABCremers">Armin B. Cremers</author>
+<author pid="35/1335-1">J&#246;rg Zimmermann 0001</author>
+<title>Imposing Category Trees Onto Word-Embeddings Using A Geometric Construction.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rJlWOj0qF7</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#DongBJLCSCZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icycsee/Lu0HL19" mdate="2020-05-07">
+<author pid="250/8971">Hsuehkuan Lu</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Knowledge-Enhanced Bilingual Textual Representations for Cross-Lingual Semantic Textual Similarity.</title>
+<pages>425-440</pages>
+<year>2019</year>
+<booktitle>ICPCSEE (1)</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-0118-0_33</ee>
+<crossref>conf/icycsee/2019-1</crossref>
+<url>db/conf/icycsee/icpcsee2019-1.html#Lu0HL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jist/ZhuWLHSLSJ19" mdate="2020-05-07">
+<author pid="237/4830">Fangwei Zhu</author>
+<author pid="20/8879">Zhengguo Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="258/5190">Shining Lv</author>
+<author pid="258/5217">Ran Shen</author>
+<author pid="119/0230">Junjun Jiang</author>
+<title>Event-Oriented Wiki Document Generation.</title>
+<pages>50-66</pages>
+<year>2019</year>
+<booktitle>JIST</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41407-8_4</ee>
+<crossref>conf/jist/2019</crossref>
+<url>db/conf/jist/jist2019.html#ZhuWLHSLSJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jist/ZhangX0THLS19" mdate="2020-05-07">
+<author pid="219/8811">Xinru Zhang</author>
+<author pid="191/7319">Huifang Xu</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="140/1599">Yuanpeng Tan</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="151/7509">Jiaxin Shi</author>
+<title>DSEL: A Domain-Specific Entity Linking System.</title>
+<pages>146-161</pages>
+<year>2019</year>
+<booktitle>JIST</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41407-8_10</ee>
+<crossref>conf/jist/2019</crossref>
+<url>db/conf/jist/jist2019.html#ZhangX0THLS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/YangHJZLHH19" mdate="2020-05-07">
+<author pid="249/7539">Yulai Yang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="190/7770">Hailong Jin</author>
+<author pid="21/1048">Peng Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="15/6040">Yi Huang</author>
+<author pid="86/6507">Min Hu</author>
+<title>Domain Adaptive Question Answering over Knowledge Base.</title>
+<pages>179-188</pages>
+<year>2019</year>
+<booktitle>NLPCC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32236-6_15</ee>
+<crossref>conf/nlpcc/2019-2</crossref>
+<url>db/conf/nlpcc/nlpcc2019-2.html#YangHJZLHH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-09898" mdate="2020-05-12">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="53/3245-10">Zhiyuan Liu 0010</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>Multi-Channel Graph Neural Network for Entity Alignment.</title>
+<year>2019</year>
+<volume>abs/1908.09898</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.09898</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-09898</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-11513" mdate="2020-08-29">
+<author pid="52/1775">Xin Lv</author>
+<author pid="248/2313">Yuxian Gu</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations.</title>
+<year>2019</year>
+<volume>abs/1908.11513</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.11513</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-11513</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-07739" mdate="2020-05-07">
+<author pid="239/6130">Jifan Yu</author>
+<author pid="98/10212">Chenyu Wang</author>
+<author pid="220/7076">Gan Luo</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Course Concept Expansion in MOOCs with External Knowledge and Interactive Game.</title>
+<year>2019</year>
+<volume>abs/1909.07739</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.07739</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-07739</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-06136" mdate="2021-01-23">
+<author pid="03/2015">Xiaozhi Wang</author>
+<author orcid="0000-0002-5178-0866" pid="207/8893">Tianyu Gao</author>
+<author pid="195/0435">Zhaocheng Zhu</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="181/2667">Jian Tang</author>
+<title>KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation.</title>
+<year>2019</year>
+<volume>abs/1911.06136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.06136</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-06136</url>
+</article>
+</r>
+<r><article key="journals/tkdd/YangTL18" mdate="2020-04-16">
+<author pid="48/450-9">Yang Yang 0009</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Learning to Infer Competitive Relationships in Heterogeneous Networks.</title>
+<pages>12:1-12:23</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3051127</ee>
+<url>db/journals/tkdd/tkdd12.html#YangTL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccks/YuPLD18" mdate="2019-04-26">
+<author pid="239/6130">Jifan Yu</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="20/2139">Xiaoping Du</author>
+<title>Predicting Concept-Based Research Trends with Rhetorical Framing.</title>
+<pages>116-128</pages>
+<year>2018</year>
+<booktitle>CCKS</booktitle>
+<ee>https://doi.org/10.1007/978-981-13-3146-6_10</ee>
+<crossref>conf/ccks/2018</crossref>
+<url>db/conf/ccks/ccks2018.html#YuPLD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/MengHYL18" mdate="2020-05-07">
+<author pid="211/9455">Binjie Meng</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="174/0878">Erhong Yang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Metadata Extraction for Scientific Papers.</title>
+<pages>111-122</pages>
+<year>2018</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01716-3_10</ee>
+<crossref>conf/cncl/2018</crossref>
+<url>db/conf/cncl/ccl2018.html#MengHYL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/JinHL18" mdate="2020-05-07">
+<author pid="190/7770">Hailong Jin</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Type Hierarchy Enhanced Heterogeneous Network Embedding for Fine-Grained Entity Typing in Knowledge Bases.</title>
+<pages>170-182</pages>
+<year>2018</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01716-3_15</ee>
+<crossref>conf/cncl/2018</crossref>
+<url>db/conf/cncl/ccl2018.html#JinHL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/JinHLD18" mdate="2020-05-07">
+<author pid="190/7770">Hailong Jin</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="24/6781">Tiansi Dong</author>
+<title>Attributed and Predictive Entity Embedding for Fine-Grained Entity Typing in Knowledge Bases.</title>
+<pages>282-292</pages>
+<year>2018</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C18-1024/</ee>
+<crossref>conf/coling/2018</crossref>
+<url>db/conf/coling/coling2018.html#JinHLD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/0002HLL18" mdate="2020-05-07">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Neural Collective Entity Linking.</title>
+<pages>675-686</pages>
+<year>2018</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C18-1057/</ee>
+<crossref>conf/coling/2018</crossref>
+<url>db/conf/coling/coling2018.html#0002HLL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangLL0HW18" mdate="2021-01-04">
+<author pid="38/8912">Jiangtao Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiao-Li Li 0001</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="42/1503">Shuai Wang</author>
+<title>Is a Common Phrase an Entity Mention or Not? Dual Representations for Domain-Specific Named Entity Recognition.</title>
+<pages>830-846</pages>
+<year>2018</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91452-7_53</ee>
+<crossref>conf/dasfaa/2018-1</crossref>
+<url>db/conf/dasfaa/dasfaa2018-1.html#ZhangLL0HW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/HanCLLLSL18" mdate="2020-08-29">
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="229/2976">Shulin Cao</author>
+<author pid="52/1775">Xin Lv</author>
+<author pid="161/0001">Yankai Lin</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="95/3291">Maosong Sun</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>OpenKE: An Open Toolkit for Knowledge Embedding.</title>
+<pages>139-144</pages>
+<year>2018</year>
+<booktitle>EMNLP (Demonstration)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-2024</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-2024/</ee>
+<crossref>conf/emnlp/2018-d</crossref>
+<url>db/conf/emnlp/emnlp2018-d.html#HanCLLLSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/0002HLLLCD18" mdate="2020-10-23">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="83/6331-17">Xu Chen 0017</author>
+<author pid="24/6781">Tiansi Dong</author>
+<title>Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision.</title>
+<pages>227-237</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1021</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1021/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#0002HLLLCD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LvHLL18" mdate="2020-05-07">
+<author pid="52/1775">Xin Lv</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Differentiating Concepts and Instances for Knowledge Graph Embedding.</title>
+<pages>1971-1979</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1222</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1222/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#LvHLL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/ZhangLWZ0HL18" mdate="2021-01-04">
+<author pid="38/8912">Jiangtao Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="42/1503">Shuai Wang</author>
+<author pid="04/3348">Yan Zhang</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiao-Li Li 0001</author>
+<title>Category Multi-representation: A Unified Solution for Named Entity Recognition in Clinical Texts.</title>
+<pages>275-287</pages>
+<year>2018</year>
+<booktitle>PAKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93037-4_22</ee>
+<crossref>conf/pakdd/2018-2</crossref>
+<url>db/conf/pakdd/pakdd2018-2.html#ZhangLWZ0HL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-02338" mdate="2020-05-07">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>Learning to Embed Sentences Using Attentive Recursive Trees.</title>
+<year>2018</year>
+<volume>abs/1811.02338</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.02338</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-02338</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-02394" mdate="2020-05-07">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="35/3221">Chen Liang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<title>DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization.</title>
+<year>2018</year>
+<volume>abs/1811.02394</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.02394</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-02394</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-04588" mdate="2020-05-07">
+<author pid="52/1775">Xin Lv</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Differentiating Concepts and Instances for Knowledge Graph Embedding.</title>
+<year>2018</year>
+<volume>abs/1811.04588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.04588</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-04588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-08603" mdate="2020-05-07">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<title>Neural Collective Entity Linking.</title>
+<year>2018</year>
+<volume>abs/1811.08603</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.08603</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-08603</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-10776" mdate="2020-09-09">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="83/6331-17">Xu Chen 0017</author>
+<author pid="24/6781">Tiansi Dong</author>
+<title>Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision.</title>
+<year>2018</year>
+<volume>abs/1811.10776</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.10776</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-10776</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-01855" mdate="2019-01-01">
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Explainable and Explicit Visual Reasoning over Scene Graphs.</title>
+<year>2018</year>
+<volume>abs/1812.01855</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.01855</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-01855</url>
+</article>
+</r>
+<r><article key="journals/eswa/LiuOL17" mdate="2017-06-26">
+<author pid="79/9544">Yongbin Liu</author>
+<author pid="19/8006">Chunping Ouyang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Ensemble method to joint inference for knowledge extraction.</title>
+<pages>114-121</pages>
+<year>2017</year>
+<volume>83</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2017.04.036</ee>
+<url>db/journals/eswa/eswa83.html#LiuOL17</url>
+</article>
+</r>
+<r><article key="journals/kbs/HuZHL17" mdate="2020-05-07">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="13/5236">Bin Zhang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Adaptive online event detection in news streams.</title>
+<pages>105-112</pages>
+<year>2017</year>
+<volume>138</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2017.09.039</ee>
+<url>db/journals/kbs/kbs138.html#HuZHL17</url>
+</article>
+</r>
+<r><article key="journals/tois/HouLLTG17" mdate="2020-12-29">
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="54/10119">Xiaofei Guo</author>
+<title>Learning to Align Comments to News Topics.</title>
+<pages>9:1-9:31</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3072591</ee>
+<url>db/journals/tois/tois36.html#HouLLTG17</url>
+</article>
+</r>
+<r><article key="journals/tois/ZhangTMTJLLM17" mdate="2018-11-06">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="42/10808">Cong Ma</author>
+<author pid="58/1757">Hanghang Tong</author>
+<author pid="84/7756">Yu Jing</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="132/3514">Walter Luyten</author>
+<author pid="m/MarieFrancineMoens">Marie-Francine Moens</author>
+<title>Fast and Flexible Top-<i>k</i> Similarity Search on Large Networks.</title>
+<pages>13:1-13:30</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3086695</ee>
+<url>db/journals/tois/tois36.html#ZhangTMTJLLM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZhangTZMLSHS17" mdate="2021-02-10">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="194/2743">Yuanyi Zhong</author>
+<author pid="195/8267">Yuchen Mo</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="37/2900">Guojie Song</author>
+<author pid="h/WendyHall">Wendy Hall</author>
+<author pid="54/4948">Jimeng Sun</author>
+<title>StructInf: Mining Structural Influence from Social Streams.</title>
+<pages>73-80</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14763</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangTZMLSHS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/HuLNLS17" mdate="2021-02-10">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="92/8277">Liqiang Nie</author>
+<author pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="12/1176">Chao Shao</author>
+<title>What Happens Next? Future Subevent Prediction Using Contextual Hierarchical LSTM.</title>
+<pages>3450-3456</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14324</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HuLNLS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/PanLLT17" mdate="2019-08-20">
+<author pid="186/9707">Liangming Pan</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Prerequisite Relation Learning for Concepts in MOOCs.</title>
+<pages>1447-1456</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1133</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#PanLLT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/CaoHJCL17" mdate="2020-09-09">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="127/0072">Lifu Huang</author>
+<author pid="61/2408">Heng Ji</author>
+<author pid="83/6331-17">Xu Chen 0017</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding.</title>
+<pages>1623-1633</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1149</ee>
+<ee>https://www.wikidata.org/entity/Q43919716</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#CaoHJCL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cncl/ZhangCHLZ17" mdate="2020-05-07">
+<author pid="05/3499-36">Jing Zhang 0036</author>
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="20/134">Hai-Tao Zheng</author>
+<title>XLink: An Unsupervised Bilingual Entity Linking System.</title>
+<pages>172-183</pages>
+<year>2017</year>
+<booktitle>CCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-69005-6_15</ee>
+<crossref>conf/cncl/2017</crossref>
+<url>db/conf/cncl/ccl2017.html#ZhangCHLZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/CaoSLLL17" mdate="2019-09-11">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="151/7509">Jiaxin Shi</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="203/9704">Chengjiang Li</author>
+<title>On Modeling Sense Relatedness in Multi-prototype Word Embedding.</title>
+<pages>233-242</pages>
+<year>2017</year>
+<booktitle>IJCNLP(1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I17-1024/</ee>
+<crossref>conf/ijcnlp/2017-1</crossref>
+<url>db/conf/ijcnlp/ijcnlp2017-1.html#CaoSLLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/PanWLLT17" mdate="2019-09-11">
+<author pid="186/9707">Liangming Pan</author>
+<author pid="19/30">Xiaochen Wang</author>
+<author pid="203/9704">Chengjiang Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Course Concept Extraction in MOOCs via Embedding-Based Graph Propagation.</title>
+<pages>875-884</pages>
+<year>2017</year>
+<booktitle>IJCNLP(1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I17-1088/</ee>
+<crossref>conf/ijcnlp/2017-1</crossref>
+<url>db/conf/ijcnlp/ijcnlp2017-1.html#PanWLLT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ZhangPHLZZ17" mdate="2020-05-30">
+<author pid="04/3348">Yan Zhang</author>
+<author pid="206/9406">Thomas Paradis</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="05/3499-36">Jing Zhang 0036</author>
+<author pid="20/134">Haitao Zheng</author>
+<title>Cross-Lingual Infobox Alignment in Wikipedia Using Entity-Attribute Factor Graph.</title>
+<pages>745-760</pages>
+<year>2017</year>
+<booktitle>International Semantic Web Conference (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68288-4_44</ee>
+<ee>https://www.wikidata.org/entity/Q87833185</ee>
+<crossref>conf/semweb/2017-1</crossref>
+<url>db/conf/semweb/iswc2017-1.html#ZhangPHLZZ17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ccks/2017" mdate="2018-01-23">
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="16/1161">Ming Zhou</editor>
+<editor pid="71/5935">Guilin Qi</editor>
+<editor pid="82/283">Ni Lao</editor>
+<editor pid="86/4212">Tong Ruan</editor>
+<editor pid="72/5841">Jianfeng Du</editor>
+<title>Knowledge Graph and Semantic Computing. Language, Knowledge, and Intelligence - Second China Conference, CCKS 2017, Chengdu, China, August 26-29, 2017, Revised Selected Papers</title>
+<booktitle>CCKS</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>784</volume>
+<isbn>978-981-10-7358-8</isbn>
+<isbn>978-981-10-7359-5</isbn>
+<ee>https://doi.org/10.1007/978-981-10-7359-5</ee>
+<url>db/conf/ccks/ccks2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jcst/ShaoHLWCX16" mdate="2017-05-28">
+<author pid="12/1176">Chao Shao</author>
+<author pid="141/4440">Linmei Hu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="145/7823">Tong Lee Chung</author>
+<author pid="173/9109">Jun-Bo Xia</author>
+<title>RiMOM-IM: A Novel Iterative Framework for Instance Matching.</title>
+<pages>185-197</pages>
+<year>2016</year>
+<volume>31</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11390-016-1620-z</ee>
+<url>db/journals/jcst/jcst31.html#ShaoHLWCX16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccks/WangPLLLT16" mdate="2018-03-25">
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="30/10212">Shuangjie Li</author>
+<author pid="85/7189">Mingyang Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Boosting to Build a Large-Scale Cross-Lingual Ontology.</title>
+<pages>41-53</pages>
+<year>2016</year>
+<booktitle>CCKS</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-3168-7_5</ee>
+<crossref>conf/ccks/2016</crossref>
+<url>db/conf/ccks/ccks2016.html#WangPLLLT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccks/ZhangL16" mdate="2017-05-23">
+<author pid="38/8912">Jiangtao Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Graph-Based Jointly Modeling Entity Detection and Linking in Domain-Specific Area.</title>
+<pages>146-159</pages>
+<year>2016</year>
+<booktitle>CCKS</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-3168-7_15</ee>
+<crossref>conf/ccks/2016</crossref>
+<url>db/conf/ccks/ccks2016.html#ZhangL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangLLSLW16" mdate="2020-12-29">
+<author pid="38/8912">Jiangtao Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="24/1131">Yao Shi</author>
+<author pid="143/6631">Junpeng Li</author>
+<author pid="35/1989">Zhigang Wang</author>
+<title>Domain-Specific Entity Linking via Fake Named Entity Detection.</title>
+<pages>101-116</pages>
+<year>2016</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-32025-0_7</ee>
+<crossref>conf/dasfaa/2016-1</crossref>
+<url>db/conf/dasfaa/dasfaa2016-1.html#ZhangLLSLW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangL16" mdate="2019-08-20">
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Text-Enhanced Representation Learning for Knowledge Graph.</title>
+<pages>1293-1299</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/187</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#WangL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ksem/PanWLT16" mdate="2018-03-25">
+<author pid="186/9707">Liangming Pan</author>
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Domain Specific Cross-Lingual Knowledge Linking Based on Similarity Flooding.</title>
+<pages>426-438</pages>
+<year>2016</year>
+<booktitle>KSEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-47650-6_34</ee>
+<crossref>conf/ksem/2016</crossref>
+<url>db/conf/ksem/ksem2016.html#PanWLT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/HouLLJ16" mdate="2020-12-29">
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="185/1354">Jianbin Jin</author>
+<title>Detecting Public Influence on News Using Topic-Aware Dynamic Granger Test.</title>
+<pages>331-346</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46227-1_21</ee>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#HouLLJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ZhangJPL16" mdate="2019-05-28">
+<author pid="04/3348">Yan Zhang</author>
+<author pid="190/7770">Hailong Jin</author>
+<author pid="186/9707">Liangming Pan</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>RiMOM results for OAEI 2016.</title>
+<pages>210-216</pages>
+<year>2016</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1766/oaei16_paper13.pdf</ee>
+<crossref>conf/semweb/2016om</crossref>
+<url>db/conf/semweb/om2016.html#ZhangJPL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smp/ZhangZSHZTL16" mdate="2018-03-08">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="10/9988">Honglei Zhuang</author>
+<author pid="143/7072">Yanglei Song</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="48/3730">Yutao Zhang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Knowledge Fragment Enrichment Using Domain Knowledge Base.</title>
+<pages>274-286</pages>
+<year>2016</year>
+<booktitle>SMP</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-2993-6_24</ee>
+<crossref>conf/smp/2016</crossref>
+<url>db/conf/smp/smp2016.html#ZhangZSHZTL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/QianDMJL16" mdate="2018-08-13">
+<author pid="187/3108">Yujie Qian</author>
+<author pid="183/0980">Yinpeng Dong</author>
+<author pid="51/6507">Ye Ma</author>
+<author pid="190/7770">Hailong Jin</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Feature Engineering and Ensemble Modeling for Paper Acceptance Rank Prediction.</title>
+<year>2016</year>
+<volume>abs/1611.04369</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.04369</ee>
+<url>db/journals/corr/corr1611.html#QianDMJL16</url>
+</article>
+</r>
+<r><book key="series/synthesis/2015Tang" mdate="2018-03-25">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Semantic Mining of Social Networks</title>
+<booktitle>Semantic Mining of Social Networks</booktitle>
+<publisher>Morgan &#38; Claypool Publishers</publisher>
+<year>2015</year>
+<series href="db/series/synthesis/wbe.html">Synthesis Lectures on the Semantic Web: Theory and Technology</series>
+<ee>https://doi.org/10.2200/S00629ED1V01Y201502WBE011</ee>
+</book>
+</r>
+<r><article key="journals/isci/WangLL15" mdate="2017-05-27">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="02/1225">Minqiang Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>A multi-objective evolutionary algorithm for feature selection based on mutual information with a new redundancy measure.</title>
+<pages>73-88</pages>
+<year>2015</year>
+<volume>307</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2015.02.031</ee>
+<url>db/journals/isci/isci307.html#WangLL15</url>
+</article>
+</r>
+<r><article key="journals/kbs/HouLWTZYZ15" mdate="2020-05-07">
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="21/1048">Peng Zhang</author>
+<author pid="151/5624">Ruibing Yang</author>
+<author pid="28/8138">Qian Zheng</author>
+<title>NewsMiner: Multifaceted news analysis for event search.</title>
+<pages>17-29</pages>
+<year>2015</year>
+<volume>76</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2014.11.017</ee>
+<url>db/journals/kbs/kbs76.html#HouLWTZYZ15</url>
+</article>
+</r>
+<r><article key="journals/kbs/LiLLWT15" mdate="2020-02-25">
+<author pid="68/8126">Zhixing Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="51/3646">Yi Liao</author>
+<author pid="145/9918">Siqiang Wen</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Labeling clusters from both linguistic and statistical perspectives: A hybrid approach.</title>
+<pages>219-227</pages>
+<year>2015</year>
+<volume>76</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2014.12.019</ee>
+<url>db/journals/kbs/kbs76.html#LiLLWT15</url>
+</article>
+</r>
+<r><article key="journals/kbs/HuSLJ15" mdate="2020-02-25">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="12/1176">Chao Shao</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="61/2408">Heng Ji</author>
+<title>Incremental learning from news events.</title>
+<pages>618-626</pages>
+<year>2015</year>
+<volume>89</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2015.09.007</ee>
+<url>db/journals/kbs/kbs89.html#HuSLJ15</url>
+</article>
+</r>
+<r><article key="journals/tkdd/ZhangTLLX15" mdate="2020-04-16">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="51/3710">Yang Liu</author>
+<author pid="x/ChunxiaoXing">Chunxiao Xing</author>
+<title>Who Influenced You? Predicting Retweet via Social Influence Locality.</title>
+<pages>25:1-25:26</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2700398</ee>
+<url>db/journals/tkdd/tkdd9.html#ZhangTLLX15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/YangTLSCLY15" mdate="2021-02-10">
+<author pid="48/450-9">Yang Yang 0009</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="18/1523">Cane Wing-ki Leung</author>
+<author pid="37/3868">Yizhou Sun</author>
+<author pid="149/1347">Qicong Chen</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>RAIN: Social Role-Aware Information Diffusion.</title>
+<pages>367-373</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9384</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#YangTLSCLY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/HuWZLLSTL15" mdate="2020-12-29">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="97/5074">Xuzhong Wang</author>
+<author pid="144/5590">Mengdi Zhang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="12/1176">Chao Shao</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="79/9544">Yongbin Liu</author>
+<title>Learning Topic Hierarchies for Wikipedia Categories.</title>
+<pages>346-351</pages>
+<year>2015</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p15-2057</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P15-2057/</ee>
+<ee>https://www.wikidata.org/entity/Q87833553</ee>
+<crossref>conf/acl/2015-2</crossref>
+<url>db/conf/acl/acl2015-2.html#HuWZLLSTL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/HouLLS15" mdate="2020-12-29">
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="38/1070">Yu Su</author>
+<title>Measuring the Influence from User-Generated Content to News via Cross-dependence Topic Modeling.</title>
+<pages>125-141</pages>
+<year>2015</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18120-2_8</ee>
+<crossref>conf/dasfaa/2015-1</crossref>
+<url>db/conf/dasfaa/dasfaa2015-1.html#HouLLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/CaoLGBJT15" mdate="2020-01-28">
+<author pid="20/8038-2">Yixin Cao 0002</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="54/10119">Xiaofei Guo</author>
+<author pid="53/4127">Shuanhu Bai</author>
+<author pid="61/2408">Heng Ji</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Name List Only? Target Entity Disambiguation in Short Texts.</title>
+<pages>654-664</pages>
+<year>2015</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d15-1077</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D15-1077/</ee>
+<crossref>conf/emnlp/2015</crossref>
+<url>db/conf/emnlp/emnlp2015.html#CaoLGBJT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/HuLLSW15" mdate="2020-12-29">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="12/1176">Chao Shao</author>
+<author pid="97/5074">Xuzhong Wang</author>
+<title>TSDPMM: Incorporating Prior Topic Knowledge into Dirichlet Process Mixture Models for Text Clustering.</title>
+<pages>787-792</pages>
+<year>2015</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d15-1091</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D15-1091/</ee>
+<crossref>conf/emnlp/2015</crossref>
+<url>db/conf/emnlp/emnlp2015.html#HuLLSW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/YangSTML15" mdate="2018-11-06">
+<author pid="48/450-9">Yang Yang 0009</author>
+<author pid="37/3868">Yizhou Sun</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="26/4179">Bo Ma</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Entity Matching across Heterogeneous Sources.</title>
+<pages>1395-1404</pages>
+<year>2015</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2783258.2783353</ee>
+<crossref>conf/kdd/2015</crossref>
+<url>db/conf/kdd/kdd2015.html#YangSTML15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ZhangTMTJL15" mdate="2018-11-06">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="42/10808">Cong Ma</author>
+<author pid="58/1757">Hanghang Tong</author>
+<author pid="84/7756">Yu Jing</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Panther: Fast Top-k Similarity Search on Large Networks.</title>
+<pages>1445-1454</pages>
+<year>2015</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2783258.2783267</ee>
+<crossref>conf/kdd/2015</crossref>
+<url>db/conf/kdd/kdd2015.html#ZhangTMTJL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/HuLZS15" mdate="2020-01-10">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="05/3499-36">Jing Zhang 0036</author>
+<author pid="12/1176">Chao Shao</author>
+<title>o-HETM: An Online Hierarchical Entity Topic Model for News Streams.</title>
+<pages>696-707</pages>
+<year>2015</year>
+<booktitle>PAKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18038-0_54</ee>
+<crossref>conf/pakdd/2015-1</crossref>
+<url>db/conf/pakdd/pakdd2015-1.html#HuLZS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ZhangL15" mdate="2019-05-28">
+<author pid="04/3348">Yan Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>RiMOM results for OAEI 2015.</title>
+<pages>185-191</pages>
+<year>2015</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1545/oaei15_paper13.pdf</ee>
+<crossref>conf/semweb/2015om</crossref>
+<url>db/conf/semweb/om2015.html#ZhangL15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/nlpcc/2015" mdate="2019-05-14">
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="61/2408">Heng Ji</editor>
+<editor pid="63/1870">Dongyan Zhao 0001</editor>
+<editor pid="25/2643">Yansong Feng</editor>
+<title>Natural Language Processing and Chinese Computing - 4th CCF Conference, NLPCC 2015, Nanchang, China, October 9-13, 2015, Proceedings</title>
+<booktitle>NLPCC</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9362</volume>
+<isbn>978-3-319-25206-3</isbn>
+<ee>https://doi.org/10.1007/978-3-319-25207-0</ee>
+<url>db/conf/nlpcc/nlpcc2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangTMTJL15" mdate="2018-08-13">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="42/10808">Cong Ma</author>
+<author pid="58/1757">Hanghang Tong</author>
+<author pid="84/7756">Yu Jing</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Panther: Fast Top-k Similarity Search in Large Networks.</title>
+<year>2015</year>
+<volume>abs/1504.02577</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.02577</ee>
+<url>db/journals/corr/corr1504.html#ZhangTMTJL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WangL15i" mdate="2018-08-13">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>RDF2Rules: Learning Rules from RDF Knowledge Bases by Mining Frequent Predicate Cycles.</title>
+<year>2015</year>
+<volume>abs/1512.07734</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.07734</ee>
+<url>db/journals/corr/corr1512.html#WangL15i</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/HauptmannHLSR15" mdate="2017-06-07">
+<author pid="h/AlexanderGHauptmann">Alexander G. Hauptmann</author>
+<author pid="127/5312">James Hodson</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="20/3519">Nicu Sebe</author>
+<author pid="55/6363">Achim Rettinger</author>
+<title>Cross-Lingual Cross-Media Content Linking: Annotations and Joint Representations (Dagstuhl Seminar 15201).</title>
+<pages>43-56</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>Dagstuhl Reports</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.5.5.43</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports5.html#HauptmannHLSR15</url>
+</article>
+</r>
+<r><article key="journals/fcsc/YousafLCTD14" mdate="2018-03-25">
+<author pid="87/11145">Jamal Yousaf</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="69/157">Lu Chen</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="122/2718">Xiaowen Dai</author>
+<title>Generalized multipath planning model for ride-sharing systems.</title>
+<pages>100-118</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-013-3021-6</ee>
+<url>db/journals/fcsc/fcsc8.html#YousafLCTD14</url>
+</article>
+</r>
+<r><article key="journals/tist/HeLYYZ14" mdate="2020-05-11">
+<author pid="51/6972">Qi He</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="51/1293">Rong Yan</author>
+<author pid="66/3108">John Yen</author>
+<author pid="z/HaizhengZhang">Haizheng Zhang</author>
+<title>Introduction to the Special Issue on Linking Social Granularity and Functions.</title>
+<pages>22:1-22:3</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>ACM Trans. Intell. Syst. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2594452</ee>
+<url>db/journals/tist/tist5.html#HeLYYZ14</url>
+</article>
+</r>
+<r><article key="journals/tkde/CaiLLMTL14" mdate="2018-03-25">
+<author pid="58/3467">Yi Cai</author>
+<author orcid="0000-0003-4914-2934" pid="l/HofungLeung">Ho-fung Leung</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<author pid="73/6274">Huaqing Min</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Typicality-Based Collaborative Filtering Recommendation.</title>
+<pages>766-779</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2013.7</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.7</ee>
+<url>db/journals/tkde/tkde26.html#CaiLLMTL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEwisa/YousafL14" mdate="2019-02-21">
+<author pid="87/11145">Jamal Yousaf</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>A Driver and Riders Matching Approach.</title>
+<pages>53-60</pages>
+<year>2014</year>
+<booktitle>IEEE WISA</booktitle>
+<ee>https://doi.org/10.1109/WISA.2014.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WISA.2014.18</ee>
+<crossref>conf/IEEEwisa/2014</crossref>
+<url>db/conf/IEEEwisa/wisa2014.html#YousafL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/WangLLLTZZ14" mdate="2021-02-18">
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="30/10212">Shuangjie Li</author>
+<author pid="85/7189">Mingyang Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="16/1586-1">Kuo Zhang 0001</author>
+<author pid="96/3115">Kun Zhang</author>
+<title>Cross-Lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis.</title>
+<pages>180-186</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8260</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#WangLLLTZZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/YangJZWCLXT14" mdate="2021-02-18">
+<author pid="48/450-9">Yang Yang 0009</author>
+<author pid="71/2992-1">Jia Jia 0001</author>
+<author pid="77/5329">Shumei Zhang</author>
+<author pid="149/1290">Boya Wu</author>
+<author pid="149/1347">Qicong Chen</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="x/ChunxiaoXing">Chunxiao Xing</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>How Do Your Friends on Social Media Disclose Your Emotions?</title>
+<pages>306-312</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8393</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#YangJZWCLXT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/YangLLMTL14" mdate="2021-02-18">
+<author pid="48/450-9">Yang Yang 0009</author>
+<author pid="132/3514">Walter Luyten</author>
+<author pid="31/2088-5">Lu Liu 0005</author>
+<author pid="m/MarieFrancineMoens">Marie-Francine Moens</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Forecasting Potential Diabetes Complications.</title>
+<pages>313-319</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8396</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#YangLLMTL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/0001TZLL14" mdate="2021-02-18">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="10/9988">Honglei Zhuang</author>
+<author pid="18/1523">Cane Wing-Ki Leung</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Role-Aware Conformity Modeling and Analysis in Social Networks.</title>
+<pages>958-965</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8391</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#0001TZLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/LiWLZT14" mdate="2019-05-29">
+<author pid="68/8126">Zhixing Li</author>
+<author pid="145/9918">Siqiang Wen</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="21/1048">Peng Zhang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>On Modelling Non-linear Topical Dependencies.</title>
+<pages>458-466</pages>
+<year>2014</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v32/lib14.html</ee>
+<crossref>conf/icml/2014</crossref>
+<url>db/conf/icml/icml2014.html#LiWLZT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jist/LamHL14" mdate="2020-05-07">
+<author pid="158/7662">R&#233;mi Lam</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Personalized Model Combination for News Recommendation in Microblogs.</title>
+<pages>321-334</pages>
+<year>2014</year>
+<booktitle>JIST</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15615-6_24</ee>
+<crossref>conf/jist/2014</crossref>
+<url>db/conf/jist/jist2014.html#LamHL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/WenLL14" mdate="2017-05-21">
+<author pid="145/9918">Siqiang Wen</author>
+<author pid="68/8126">Zhixing Li</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Enhance Social Context Understanding with Semantic Chunks.</title>
+<pages>251-262</pages>
+<year>2014</year>
+<booktitle>NLPCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-45924-9_23</ee>
+<crossref>conf/nlpcc/2014</crossref>
+<url>db/conf/nlpcc/nlpcc2014.html#WenLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ShaoHL14" mdate="2019-05-28">
+<author pid="12/1176">Chao Shao</author>
+<author pid="141/4440">Linmei Hu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>RiMOM-IM results for OAEI 2014.</title>
+<pages>149-154</pages>
+<year>2014</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1317/oaei14_paper7.pdf</ee>
+<crossref>conf/semweb/2014om</crossref>
+<url>db/conf/semweb/om2014.html#ShaoHL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vinci/GuoLYM14" mdate="2018-11-06">
+<author pid="54/10119">Xiaofei Guo</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="151/5624">Ruibing Yang</author>
+<author pid="58/568">Xiaoli Ma</author>
+<title>NEI: A Framework for Dynamic News Event Exploration and Visualization.</title>
+<pages>121</pages>
+<year>2014</year>
+<booktitle>VINCI</booktitle>
+<ee>https://doi.org/10.1145/2636240.2636845</ee>
+<crossref>conf/vinci/2014</crossref>
+<url>db/conf/vinci/vinci2014.html#GuoLYM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LuanLSC14" mdate="2018-11-06">
+<author pid="55/5812">Huan-Bo Luan</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="95/3291">Maosong Sun</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<title>The design of a live social observatory system.</title>
+<pages>1025-1030</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2579214</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#LuanLSC14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/crc/p/MoensL14" mdate="2015-06-25">
+<author pid="m/MarieFrancineMoens">Marie-Francine Moens</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Mining User Generated Content and Its Applications.</title>
+<pages>3-17</pages>
+<year>2014</year>
+<booktitle>Mining User Generated Content</booktitle>
+<ee>http://www.crcnetbase.com/doi/abs/10.1201/b16413-3</ee>
+<crossref>books/crc/mugc2014</crossref>
+<url>db/books/collections/mugc2014.html#MoensL14</url>
+</incollection>
+</r>
+<r><incollection key="books/crc/p/MoensL14a" mdate="2015-06-25">
+<author pid="m/MarieFrancineMoens">Marie-Francine Moens</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Conclusions and a Road Map for Future Developments.</title>
+<pages>319-328</pages>
+<year>2014</year>
+<booktitle>Mining User Generated Content</booktitle>
+<ee>http://www.crcnetbase.com/doi/abs/10.1201/b16413-17</ee>
+<crossref>books/crc/mugc2014</crossref>
+<url>db/books/collections/mugc2014.html#MoensL14a</url>
+</incollection>
+</r>
+<r><book key="books/crc/mugc2014" mdate="2016-05-20">
+<editor pid="m/MarieFrancineMoens">Marie-Francine Moens</editor>
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="24/6606">Tat-Seng Chua</editor>
+<title>Mining User Generated Content.</title>
+<publisher>Chapman and Hall/CRC</publisher>
+<year>2014</year>
+<isbn>978-1-4665-5740-6</isbn>
+<isbn>978-1-4665-5741-3</isbn>
+<ee>http://www.crcnetbase.com/isbn/9781466557413</ee>
+<url>db/books/collections/mugc2014.html</url>
+</book>
+</r>
+<r><proceedings key="conf/semweb/2014om" mdate="2020-02-12">
+<editor pid="97/4603">Pavel Shvaiko</editor>
+<editor pid="85/192">J&#233;r&#244;me Euzenat</editor>
+<editor pid="84/4465">Ming Mao</editor>
+<editor pid="22/5749">Ernesto Jim&#233;nez-Ruiz</editor>
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="65/4336">Axel Ngonga</editor>
+<title>Proceedings of the 9th International Workshop on Ontology Matching collocated with the 13th International Semantic Web Conference (ISWC 2014), Riva del Garda, Trentino, Italy, October 20, 2014.</title>
+<booktitle>OM</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1317</volume>
+<year>2014</year>
+<ee type="oa">http://ceur-ws.org/Vol-1317</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1317-8</ee>
+<url>db/conf/semweb/om2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/kbs/WangLZST13" mdate="2020-02-25">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="48/76">Yue Zhao</author>
+<author pid="54/3891">Rossi Setchi</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>A unified approach to matching semantic data on the Web.</title>
+<pages>173-184</pages>
+<year>2013</year>
+<volume>39</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2012.10.015</ee>
+<url>db/journals/kbs/kbs39.html#WangLZST13</url>
+</article>
+</r>
+<r><article key="journals/kbs/LiWZT13" mdate="2020-02-25">
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Large scale instance matching via multiple indexes and candidate selection.</title>
+<pages>112-120</pages>
+<year>2013</year>
+<volume>50</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2013.06.004</ee>
+<url>db/journals/kbs/kbs50.html#LiWZT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/WangLLTP13" mdate="2019-08-19">
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="68/8126">Zhixing Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>Transfer Learning Based Cross-lingual Knowledge Extraction for Wikipedia.</title>
+<pages>641-650</pages>
+<year>2013</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P13-1063/</ee>
+<crossref>conf/acl/2013-1</crossref>
+<url>db/conf/acl/acl2013-1.html#WangLLTP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adma/YousafLM13" mdate="2017-05-17">
+<author pid="87/11145">Jamal Yousaf</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="57/11418">Yuanchao Ma</author>
+<title>Community Based User Behavior Analysis on Daily Mobile Internet Usage.</title>
+<pages>60-71</pages>
+<year>2013</year>
+<booktitle>ADMA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-53914-5_6</ee>
+<crossref>conf/adma/2013-1</crossref>
+<url>db/conf/adma/adma2013-1.html#YousafLM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csemws/WenMLPX13" mdate="2017-05-24">
+<author pid="155/0113">Xubo Wen</author>
+<author pid="58/568">Xiaoli Ma</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<author pid="120/1044">Jiayu Xie</author>
+<title>Toward Ontology Representation and Reasoning for News.</title>
+<pages>186-198</pages>
+<year>2013</year>
+<booktitle>CSWS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-54025-7_16</ee>
+<crossref>conf/csemws/2013</crossref>
+<url>db/conf/csemws/csws2013.html#WenMLPX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csemws/LuZL13" mdate="2019-11-28">
+<author pid="132/4738">Yuqing Lu</author>
+<author pid="97/8704">Lei Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Evaluating Article Quality and Editor Reputation in Wikipedia.</title>
+<pages>215-227</pages>
+<year>2013</year>
+<booktitle>CSWS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-54025-7_19</ee>
+<ee>https://www.wikidata.org/entity/Q66709424</ee>
+<crossref>conf/csemws/2013</crossref>
+<url>db/conf/csemws/csws2013.html#LuZL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HouLLQGHT13" mdate="2020-05-07">
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="133/1956">Jiangfeng Qu</author>
+<author pid="54/10119">Xiaofei Guo</author>
+<author pid="133/1947">Ou Hui</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>What Users Care About: A Framework for Social Content Alignment.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6871</ee>
+<ee type="oa">http://ijcai.org/Abstract/13/210</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#HouLLQGHT13</url>
+<pages>1401-1407</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangLT13" mdate="2019-08-20">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Boosting Cross-Lingual Knowledge Linking via Concept Annotation.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6606</ee>
+<ee type="oa">http://ijcai.org/Abstract/13/402</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#WangLT13</url>
+<pages>2733-2739</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhangLTCL13" mdate="2019-08-20">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="50/10062">Biao Liu</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="19/1766">Ting Chen</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Social Influence Locality for Modeling Retweeting Behaviors.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6740</ee>
+<ee type="oa">http://ijcai.org/Abstract/13/406</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#ZhangLTCL13</url>
+<pages>2761-2767</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isctcs/ZhangLW13" mdate="2018-06-27">
+<author pid="16/1586">Kuo Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="99/6515">Gang Wu</author>
+<title>Term Committee Based Event Identification and Dependency Discovery.</title>
+<pages>311-327</pages>
+<year>2013</year>
+<booktitle>ISCTCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-43908-1_40</ee>
+<crossref>conf/isctcs/2013</crossref>
+<url>db/conf/isctcs/isctcs2013.html#ZhangLW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isctcs/ZhangLHYS13" mdate="2018-06-27">
+<author pid="16/1586">Kuo Zhang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="97/2951">MingCai Hong</author>
+<author pid="221/7748">XueDong Yan</author>
+<author pid="39/4333">Qiang Song</author>
+<title>A Semantics Enabled Intelligent Semi-structured Document Processor.</title>
+<pages>328-344</pages>
+<year>2013</year>
+<booktitle>ISCTCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-43908-1_41</ee>
+<crossref>conf/isctcs/2013</crossref>
+<url>db/conf/isctcs/isctcs2013.html#ZhangLHYS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlpcc/HuLLSL13" mdate="2017-05-21">
+<author pid="141/4440">Linmei Hu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="95/5287">Zhihui Li</author>
+<author pid="12/1176">Chao Shao</author>
+<author pid="68/8126">Zhixing Li</author>
+<title>Incorporating Entities in News Topic Modeling.</title>
+<pages>139-150</pages>
+<year>2013</year>
+<booktitle>NLPCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41644-6_14</ee>
+<crossref>conf/nlpcc/2013</crossref>
+<url>db/conf/nlpcc/nlpcc2013.html#HuLLSL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/WangLWLLZSLZT13" mdate="2019-05-28">
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="30/10212">Shuangjie Li</author>
+<author pid="85/7189">Mingyang Li</author>
+<author pid="97/4647">Dongsheng Zhang</author>
+<author pid="24/1131">Yao Shi</author>
+<author pid="79/9544">Yongbin Liu</author>
+<author pid="21/1048">Peng Zhang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>XLore: A Large-scale English-Chinese Bilingual Knowledge Graph.</title>
+<pages>121-124</pages>
+<year>2013</year>
+<booktitle>International Semantic Web Conference (Posters &#38; Demos)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1035/iswc2013_demo_31.pdf</ee>
+<crossref>conf/semweb/2013p</crossref>
+<url>db/conf/semweb/iswc2013p.html#WangLWLLZSLZT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ZhengSLWH13" mdate="2019-05-28">
+<author pid="28/8138">Qian Zheng</author>
+<author pid="12/1176">Chao Shao</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="141/4440">Linmei Hu</author>
+<title>RiMOM2013 results for OAEI 2013.</title>
+<pages>161-168</pages>
+<year>2013</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1111/oaei13_paper9.pdf</ee>
+<crossref>conf/semweb/2013om</crossref>
+<url>db/conf/semweb/om2013.html#ZhengSLWH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/XuWBLZKZ13" mdate="2019-11-28">
+<author pid="128/5647">Mengling Xu</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="54/830">Rongfang Bie</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="04/3239">Chen Zheng</author>
+<author pid="135/6557">Wantian Ke</author>
+<author pid="92/235">Mingquan Zhou</author>
+<title>Discovering Missing Semantic Relations between Entities in Wikipedia.</title>
+<pages>673-686</pages>
+<year>2013</year>
+<booktitle>International Semantic Web Conference (1)</booktitle>
+<crossref>conf/semweb/2013-1</crossref>
+<url>db/conf/semweb/iswc2013-1.html#XuWBLZKZ13</url>
+<ee type="oa">https://doi.org/10.1007/978-3-642-41335-3_42</ee>
+<ee>https://www.wikidata.org/entity/Q66693412</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/csemws/2012" mdate="2019-03-06">
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="71/5935">Guilin Qi</editor>
+<editor pid="63/1870">Dongyan Zhao 0001</editor>
+<editor pid="n/WolfgangNejdl">Wolfgang Nejdl</editor>
+<editor pid="20/134">Hai-Tao Zheng</editor>
+<title>Semantic Web and Web Science - 6th Chinese Semantic Web Symposium and 1st Chinese Web Science Conference, CSWS 2012, Shenzhen, China, November 28-30, 2012.</title>
+<publisher>Springer</publisher>
+<year>2013</year>
+<isbn>978-1-4614-6879-0</isbn>
+<isbn>978-1-4614-6880-6</isbn>
+<ee>https://doi.org/10.1007/978-1-4614-6880-6</ee>
+<booktitle>CSWS</booktitle>
+<url>db/conf/csemws/csws2012.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/nlpcc/2013" mdate="2019-03-06">
+<editor pid="42/6620">Guodong Zhou</editor>
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="63/1870">Dongyan Zhao 0001</editor>
+<editor pid="25/2643">Yansong Feng</editor>
+<title>Natural Language Processing and Chinese Computing - Second CCF Conference, NLPCC 2013, Chongqing, China, November 15-19, 2013, Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>400</volume>
+<ee>https://doi.org/10.1007/978-3-642-41644-6</ee>
+<isbn>978-3-642-41643-9</isbn>
+<booktitle>NLPCC</booktitle>
+<url>db/conf/nlpcc/nlpcc2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jasis/LinLDHQTLD12" mdate="2020-09-05">
+<author pid="88/2478">Nan Lin</author>
+<author pid="06/988">Daifeng Li</author>
+<author orcid="0000-0003-2567-2009" pid="38/6013-1">Ying Ding 0001</author>
+<author pid="64/2272">Bing He</author>
+<author pid="95/6861">Zheng Qin</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0001-9679-9168" pid="34/8380">Tianxi Dong</author>
+<title>The dynamic features of Delicious, Flickr, and YouTube.</title>
+<pages>139-162</pages>
+<year>2012</year>
+<volume>63</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/asi.21628</ee>
+<url>db/journals/jasis/jasis63.html#LinLDHQTLD12</url>
+</article>
+</r>
+<r><article key="journals/jzusc/WangWLP12" mdate="2020-05-13">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>Knowledge extraction from Chinese wiki encyclopedias.</title>
+<pages>268-280</pages>
+<year>2012</year>
+<volume>13</volume>
+<journal>J. Zhejiang Univ. Sci. C</journal>
+<number>4</number>
+<ee>https://doi.org/10.1631/jzus.C1101008</ee>
+<url>db/journals/jzusc/jzusc13.html#WangWLP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/adma/LiLHZ12" mdate="2020-09-04">
+<author pid="181/2821">Ming Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="20/134-2">Hai-Tao Zheng 0002</author>
+<title>Personalized Diversity Search Based on User's Social Relationships.</title>
+<pages>663-674</pages>
+<year>2012</year>
+<booktitle>ADMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35527-1_55</ee>
+<crossref>conf/adma/2012</crossref>
+<url>db/conf/adma/adma2012.html#LiLHZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/YousafLZH12" mdate="2020-05-07">
+<author pid="87/11145">Jamal Yousaf</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="81/8341">Haisu Zhang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<title>Exploration and Visualization of Administrator Network in Wikipedia.</title>
+<pages>46-59</pages>
+<year>2012</year>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29253-8_5</ee>
+<ee>https://www.wikidata.org/entity/Q66710945</ee>
+<crossref>conf/apweb/2012</crossref>
+<url>db/conf/apweb/apweb2012.html#YousafLZH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/ZhangLL12" mdate="2017-05-26">
+<author pid="97/8704">Lei Zhang</author>
+<author pid="25/11211">Yuankang Liu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>A Mathematical Model for Human Flesh Search Engine.</title>
+<pages>187-198</pages>
+<year>2012</year>
+<booktitle>APWeb Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29426-6_23</ee>
+<crossref>conf/apweb/2012w</crossref>
+<url>db/conf/apweb/apweb2012w.html#ZhangLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ausai/YousafLCTDD12" mdate="2018-03-25">
+<author pid="87/11145">Jamal Yousaf</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="69/157">Lu Chen</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="122/2718">Xiaowen Dai</author>
+<author pid="63/5619">John Du</author>
+<title>Ride-Sharing: A Multi Source-Destination Path Planning Approach.</title>
+<pages>815-826</pages>
+<year>2012</year>
+<booktitle>Australasian Conference on Artificial Intelligence</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35101-3_69</ee>
+<crossref>conf/ausai/2012</crossref>
+<url>db/conf/ausai/ausai2012.html#YousafLCTDD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/YangTKZLDLW12" mdate="2018-11-06">
+<author pid="48/450-9">Yang Yang 0009</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="121/4312">Jacklyne Keomany</author>
+<author pid="117/4244">Yanting Zhao</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="38/6013-1">Ying Ding 0001</author>
+<author pid="91/7844">Tian Li</author>
+<author pid="121/4169">Liangwei Wang</author>
+<title>Mining competitive relationships by learning across heterogeneous networks.</title>
+<pages>1432-1441</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398449</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#YangTKZLDLW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csemws/ZhengLWH12" mdate="2020-05-07">
+<author pid="28/8138">Qian Zheng</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="41/422">Zhichun Wang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<title>Co-mention and Context-Based Entity Linking.</title>
+<pages>117-129</pages>
+<year>2012</year>
+<booktitle>CSWS</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-6880-6_10</ee>
+<crossref>conf/csemws/2012</crossref>
+<url>db/conf/csemws/csws2012.html#ZhengLWH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csemws/WenMXL12" mdate="2017-05-24">
+<author pid="155/0113">Xubo Wen</author>
+<author pid="58/568">Xiaoli Ma</author>
+<author pid="05/11146">Huan Xia</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Inferring Public and Private Topics for Similar Events.</title>
+<pages>153-159</pages>
+<year>2012</year>
+<booktitle>CSWS</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-6880-6_13</ee>
+<crossref>conf/csemws/2012</crossref>
+<url>db/conf/csemws/csws2012.html#WenMXL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csemws/LiuLL12" mdate="2017-05-24">
+<author pid="80/8341">Yuchao Liu</author>
+<author pid="73/2252">Lin Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Qualitative Cognition for Uncertainty Knowledge Using Cloud Model.</title>
+<pages>397-404</pages>
+<year>2012</year>
+<booktitle>CSWS</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-6880-6_35</ee>
+<crossref>conf/csemws/2012</crossref>
+<url>db/conf/csemws/csws2012.html#LiuLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/XiaLTM12" mdate="2018-03-25">
+<author pid="05/11146">Huan Xia</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="m/MarieFrancineMoens">Marie-Francine Moens</author>
+<title>Plink-LDA: Using Link as Prior Information in Topic Modeling.</title>
+<pages>213-227</pages>
+<year>2012</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29038-1_17</ee>
+<crossref>conf/dasfaa/2012-1</crossref>
+<url>db/conf/dasfaa/dasfaa2012-1.html#XiaLTM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/WangLWT12" mdate="2019-11-28">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Cross-lingual knowledge linking across wiki knowledge bases.</title>
+<pages>459-468</pages>
+<year>2012</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2187836.2187899</ee>
+<ee>https://www.wikidata.org/entity/Q66711006</ee>
+<crossref>conf/www/2012</crossref>
+<url>db/conf/www/www2012.html#WangLWT12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/aswc/2011" mdate="2019-05-14">
+<editor pid="59/6490">Jeff Z. Pan</editor>
+<editor pid="94/5089">Huajun Chen</editor>
+<editor pid="75/4867">Hong-Gee Kim</editor>
+<editor pid="l/JuanZiLi">Juanzi Li</editor>
+<editor pid="11/5670">Zhe Wu</editor>
+<editor pid="h/IanHorrocks">Ian Horrocks</editor>
+<editor pid="16/645">Riichiro Mizoguchi</editor>
+<editor pid="54/6252-1">Zhaohui Wu 0001</editor>
+<title>The Semantic Web - Joint International Semantic Technology Conference, JIST 2011, Hangzhou, China, December 4-7, 2011. Proceedings</title>
+<volume>7185</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-29923-0</ee>
+<ee>https://www.wikidata.org/entity/Q56840132</ee>
+<isbn>978-3-642-29922-3</isbn>
+<booktitle>JIST</booktitle>
+<url>db/conf/aswc/jist2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/expert/YangTLY11" mdate="2020-03-06">
+<author pid="45/3180">Zi Yang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="18/4472">Wenjun Yang</author>
+<title>Social Community Analysis via a Factor Graph Model.</title>
+<pages>58-65</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MIS.2010.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2010.55</ee>
+<url>db/journals/expert/expert26.html#YangTLY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aswc/WangWLP11" mdate="2019-11-28">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="35/1989">Zhigang Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>Building a Large Scale Knowledge Base from Chinese Wiki Encyclopedia.</title>
+<pages>80-95</pages>
+<year>2011</year>
+<booktitle>JIST</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29923-0_6</ee>
+<ee>https://www.wikidata.org/entity/Q66709240</ee>
+<crossref>conf/aswc/2011</crossref>
+<url>db/conf/aswc/jist2011.html#WangWLP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/YangCTZSL11" mdate="2018-11-06">
+<author pid="45/3180">Zi Yang</author>
+<author pid="37/5626">Keke Cai</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="89/5992-7">Li Zhang 0007</author>
+<author pid="87/1363">Zhong Su</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Social context summarization.</title>
+<pages>255-264</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2009916.2009954</ee>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#YangCTZSL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/fcsc/WangTLW10" mdate="2018-03-25">
+<author pid="90/4225">Feng Wang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>A constraint-based topic modeling approach for name disambiguation.</title>
+<pages>100-111</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Frontiers Comput. Sci. China</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-009-0064-9</ee>
+<url>db/journals/fcsc/fcsc4.html#WangTLW10</url>
+</article>
+</r>
+<r><article key="journals/fcsc/DaudLZM10" mdate="2018-11-30">
+<author orcid="0000-0002-8284-6354" pid="87/2487">Ali Daud</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="25/2023">Faqir Muhammad</author>
+<title>Knowledge discovery through directed probabilistic topic models: a survey.</title>
+<pages>280-301</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Frontiers Comput. Sci. China</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11704-009-0062-y</ee>
+<url>db/journals/fcsc/fcsc4.html#DaudLZM10</url>
+</article>
+</r>
+<r><article key="journals/kbs/DaudLZM10" mdate="2020-02-25">
+<author orcid="0000-0002-8284-6354" pid="87/2487">Ali Daud</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="25/2023">Faqir Muhammad</author>
+<title>Temporal expert finding through generalized time topic modeling.</title>
+<pages>615-625</pages>
+<year>2010</year>
+<volume>23</volume>
+<journal>Knowl. Based Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.knosys.2010.04.008</ee>
+<url>db/journals/kbs/kbs23.html#DaudLZM10</url>
+</article>
+</r>
+<r><article key="journals/tsc/GuXL10" mdate="2020-04-02">
+<author pid="16/4413">Zhifeng Gu</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Service Data Correlation Modeling and Its Application in Data-Driven Service Composition.</title>
+<pages>279-291</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>IEEE Trans. Serv. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2010.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.22</ee>
+<url>db/journals/tsc/tsc3.html#GuXL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/CaiLLTL10" mdate="2018-11-06">
+<author pid="58/3467">Yi Cai</author>
+<author orcid="0000-0003-4914-2934" pid="l/HofungLeung">Ho-fung Leung</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Recommendation based on object typicality.</title>
+<pages>1529-1532</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871664</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#CaiLLTL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LiHDTSQYLD10" mdate="2020-09-05">
+<author pid="06/988">Daifeng Li</author>
+<author pid="64/2272">Bing He</author>
+<author orcid="0000-0003-2567-2009" pid="38/6013-1">Ying Ding 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author orcid="0000-0001-8608-3203" pid="27/6523">Cassidy R. Sugimoto</author>
+<author pid="95/6861">Zheng Qin</author>
+<author orcid="0000-0002-0365-9340" pid="47/7380">Erjia Yan</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author orcid="0000-0001-9679-9168" pid="34/8380">Tianxi Dong</author>
+<title>Community-based topic modeling for social tagging.</title>
+<pages>1565-1568</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871673</ee>
+<ee>https://www.wikidata.org/entity/Q57768534</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#LiHDTSQYLD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/YangGCTLZS10" mdate="2018-11-06">
+<author pid="45/3180">Zi Yang</author>
+<author pid="09/8315">Jingyi Guo</author>
+<author pid="37/5626">Keke Cai</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="89/5992-7">Li Zhang 0007</author>
+<author pid="87/1363">Zhong Su</author>
+<title>Understanding retweeting behaviors in social networks.</title>
+<pages>1633-1636</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871691</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#YangGCTLZS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/YangLTL10" mdate="2021-03-15">
+<author pid="45/3180">Zi Yang</author>
+<author pid="64/6025-44">Wei Li 0044</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Term Filtering with Bounded Error.</title>
+<pages>609-618</pages>
+<year>2010</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2010.131</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2010.131</ee>
+<crossref>conf/icdm/2010</crossref>
+<url>db/conf/icdm/icdm2010.html#YangLTL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/CaiLLTL10" mdate="2018-03-25">
+<author pid="58/3467">Yi Cai</author>
+<author orcid="0000-0003-4914-2934" pid="l/HofungLeung">Ho-fung Leung</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>TyCo: Towards Typicality-based Collaborative Filtering Recommendation.</title>
+<pages>97-104</pages>
+<year>2010</year>
+<booktitle>ICTAI (2)</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2010.89</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICTAI.2010.89</ee>
+<crossref>conf/ictai/2010-2</crossref>
+<url>db/conf/ictai/ictai2010-2.html#CaiLLTL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/WangZHZLQT10" mdate="2020-05-07">
+<author pid="41/422">Zhichun Wang</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="32/5685-1">Lei Hou 0001</author>
+<author pid="48/76">Yue Zhao</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="26/5083">Yu Qi</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>RiMOM results for OAEI 2010.</title>
+<year>2010</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-689/oaei10_paper11.pdf</ee>
+<crossref>conf/semweb/2010om</crossref>
+<url>db/conf/semweb/om2010.html#WangZHZLQT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/DaudLZZDM10" mdate="2020-10-25">
+<author orcid="0000-0002-8284-6354" pid="87/2487">Ali Daud</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="97/8704">Lei Zhang</author>
+<author orcid="0000-0003-2567-2009" pid="38/6013-1">Ying Ding 0001</author>
+<author pid="25/2023">Faqir Muhammad</author>
+<title>Modeling Ontology of Folksonomy with Latent Semantics of Tags.</title>
+<pages>516-523</pages>
+<year>2010</year>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.10</ee>
+<crossref>conf/webi/2010</crossref>
+<url>db/conf/webi/webi2010.html#DaudLZZDM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/WuLHW09" mdate="2017-05-28">
+<author pid="99/6515">Gang Wu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="94/1585">Jianqiang Hu</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>System Pi: A Native RDF Repository Based on the Hypergraph Representation for RDF Data Model.</title>
+<pages>652-664</pages>
+<year>2009</year>
+<volume>24</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11390-009-9265-9</ee>
+<url>db/journals/jcst/jcst24.html#WuLHW09</url>
+</article>
+</r>
+<r><article key="journals/jnw/HuLZ09" mdate="2020-09-15">
+<author pid="94/1585">Jianqiang Hu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="23/7957">Zhiyong Zeng</author>
+<title>SWSCF: A Semantic-based Web Service Composition Framework.</title>
+<pages>290-297</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>J. Networks</journal>
+<number>4</number>
+<ee type="archive">https://doi.org/10.4304/jnw.4.4.290-297</ee>
+<url>db/journals/jnw/jnw4.html#HuLZ09</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiTLL09" mdate="2020-10-26">
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="59/871">Yi Li</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<title>RiMOM: A Dynamic Multistrategy Ontology Alignment Framework.</title>
+<pages>1218-1232</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2008.202</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2008.202</ee>
+<url>db/journals/tkde/tkde21.html#LiTLL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/adma/DaudLZM09" mdate="2020-10-25">
+<author orcid="0000-0002-8284-6354" pid="87/2487">Ali Daud</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="25/2023">Faqir Muhammad</author>
+<title>Exploiting Temporal Authors Interests via Temporal-Author-Topic Modeling.</title>
+<pages>435-443</pages>
+<year>2009</year>
+<booktitle>ADMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03348-3_42</ee>
+<crossref>conf/adma/2009</crossref>
+<url>db/conf/adma/adma2009.html#DaudLZM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/DaudLZM09" mdate="2020-10-25">
+<author orcid="0000-0002-8284-6354" pid="87/2487">Ali Daud</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="25/2023">Faqir Muhammad</author>
+<title>Conference Mining via Generalized Topic Modeling.</title>
+<pages>244-259</pages>
+<year>2009</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04180-8_33</ee>
+<crossref>conf/pkdd/2009-1</crossref>
+<url>db/conf/pkdd/pkdd2009-1.html#DaudLZM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ShiLTXL09" mdate="2018-06-26">
+<author pid="06/468">Feng Shi</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="73/5346">Guo Tong Xie</author>
+<author pid="11/6652">Hanyu Li</author>
+<title>Actively Learning Ontology Matching via User Interaction.</title>
+<pages>585-600</pages>
+<year>2009</year>
+<booktitle>International Semantic Web Conference</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04930-9_37</ee>
+<crossref>conf/semweb/2009</crossref>
+<url>db/conf/semweb/iswc2009.html#ShiLTXL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ZhangZSLT08" mdate="2019-05-28">
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="70/5221">Qian Zhong</author>
+<author pid="06/468">Feng Shi</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>RiMOM Results for OAEI 2009.</title>
+<year>2009</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-551/oaei09_paper11.pdf</ee>
+<crossref>conf/semweb/2009om</crossref>
+<url>db/conf/semweb/om2009.html#ZhangZSLT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhongLLXTZP09" mdate="2018-11-06">
+<author pid="70/5221">Qian Zhong</author>
+<author pid="11/6652">Hanyu Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="73/5346">Guo Tong Xie</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="91/3754">Yue Pan</author>
+<title>A gauss function based approach for unbalanced ontology matching.</title>
+<pages>669-680</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559915</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#ZhongLLXTZP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/DaudLZM09" mdate="2017-05-21">
+<author pid="87/2487">Ali Daud</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<author pid="25/2023">Faqir Muhammad</author>
+<title>A Generalized Topic Modeling Approach for Maven Search.</title>
+<pages>138-149</pages>
+<year>2009</year>
+<booktitle>APWeb/WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00672-2_14</ee>
+<crossref>conf/waim/2009</crossref>
+<url>db/conf/waim/waim2009.html#DaudLZM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/YangTZLG09" mdate="2018-03-08">
+<author pid="45/3180">Zi Yang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="93/2407">Bo Gao</author>
+<title>Topic-Level Random Walk through Probabilistic Model.</title>
+<pages>162-173</pages>
+<year>2009</year>
+<booktitle>APWeb/WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00672-2_16</ee>
+<crossref>conf/waim/2009</crossref>
+<url>db/conf/waim/waim2009.html#YangTZLG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ChenTYLZ09" mdate="2018-03-25">
+<author pid="65/4007">Dewei Chen</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="65/5048">Limin Yao</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<title>Query-Focused Summarization by Combining Topic Model and Affinity Propagation.</title>
+<pages>174-185</pages>
+<year>2009</year>
+<booktitle>APWeb/WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00672-2_17</ee>
+<crossref>conf/waim/2009</crossref>
+<url>db/conf/waim/waim2009.html#ChenTYLZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ChenTLZ09" mdate="2018-11-06">
+<author pid="65/4007">Dewei Chen</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<title>Discovering the staring people from social networks.</title>
+<pages>1219-1220</pages>
+<year>2009</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1526709.1526937</ee>
+<crossref>conf/www/2009</crossref>
+<url>db/conf/www/www2009.html#ChenTLZ09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/igi/09/0001LL09" mdate="2019-08-16">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Swarms.</title>
+<pages>176-206</pages>
+<year>2009</year>
+<booktitle>The Semantic Web for Knowledge and Data Management</booktitle>
+<ee>https://doi.org/10.4018/978-1-60566-028-8.ch008</ee>
+<crossref>books/igi/09/MW2009</crossref>
+<url>db/books/collections/MW2009.html#0001LL09</url>
+</incollection>
+</r>
+<r><proceedings key="conf/cikm/2009swsm" mdate="2018-03-25">
+<editor pid="k/IrwinKing">Irwin King</editor>
+<editor pid="l/JuanZiLi">Juan-Zi Li</editor>
+<editor pid="72/3906">Gui-Rong Xue</editor>
+<editor pid="t/JieTang">Jie Tang 0001</editor>
+<title>Proceedings of the 2nd ACM Workshop on Social Web Search and Mining, CIKM-SWSM 2009, Hong Kong, China, November 2, 2009</title>
+<booktitle>CIKM-SWSM</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<url>db/conf/cikm/swsm2009.html</url>
+<isbn>978-1-60558-806-3</isbn>
+</proceedings>
+</r>
+<r><article key="journals/fcsc/LiTZLLH08" mdate="2020-10-26">
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="27/2403">Yunhao Liu</author>
+<author pid="97/2951">MingCai Hong</author>
+<title>Arnetminer: expertise oriented search using social networks.</title>
+<pages>94-105</pages>
+<year>2008</year>
+<volume>2</volume>
+<journal>Frontiers Comput. Sci. China</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-008-0008-9</ee>
+<url>db/journals/fcsc/fcsc2.html#LiTZLLH08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/XinLTL08" mdate="2020-10-25">
+<author pid="35/1895">Xin Xin</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<title>Academic conference homepage understanding using constrained hierarchical conditional random fields.</title>
+<pages>1301-1310</pages>
+<year>2008</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1458082.1458254</ee>
+<crossref>conf/cikm/2008</crossref>
+<url>db/conf/cikm/cikm2008.html#XinLTL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/GuLX08" mdate="2017-05-19">
+<author pid="16/4413">Zhifeng Gu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<title>Automatic Service Composition Based on Enhanced Service Dependency Graph.</title>
+<pages>246-253</pages>
+<year>2008</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2008.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2008.68</ee>
+<crossref>conf/icws/2008</crossref>
+<url>db/conf/icws/icws2008.html#GuLX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/TangZYLZS08" mdate="2018-11-06">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="65/5048">Limin Yao</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="89/5992-7">Li Zhang 0007</author>
+<author pid="87/1363">Zhong Su</author>
+<title>ArnetMiner: extraction and mining of academic social networks.</title>
+<pages>990-998</pages>
+<year>2008</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1401890.1402008</ee>
+<crossref>conf/kdd/2008</crossref>
+<url>db/conf/kdd/kdd2008.html#TangZYLZS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/ZhangTLL08" mdate="2018-04-22">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="217/9105">Liu Liu 0005</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>A Mixture Model for Expert Finding.</title>
+<pages>466-478</pages>
+<year>2008</year>
+<booktitle>PAKDD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68125-0_41</ee>
+<crossref>conf/pakdd/2008</crossref>
+<url>db/conf/pakdd/pakdd2008.html#ZhangTLL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/ZhangLWW08" mdate="2017-05-25">
+<author pid="16/1586">Kuo Zhang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="99/6515">Gang Wu</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Term Committee Based Event Identification within News Topics.</title>
+<pages>821-829</pages>
+<year>2008</year>
+<booktitle>PAKDD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68125-0_80</ee>
+<crossref>conf/pakdd/2008</crossref>
+<url>db/conf/pakdd/pakdd2008.html#ZhangLWW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/LiYB08" mdate="2008-09-12">
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="37/4180">Xinyu You</author>
+<author pid="67/2196">Xiaoying Bai</author>
+<title>Translating OWL Specified Domain Knowledge to Aspect Oriented Model.</title>
+<pages>203-208</pages>
+<year>2008</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2008</crossref>
+<url>db/conf/seke/seke2008.html#LiYB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/WuLFW08" mdate="2018-06-26">
+<author pid="99/6515">Gang Wu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="58/4464">Ling Feng</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Identifying Potentially Important Concepts and Relations in an Ontology.</title>
+<pages>33-49</pages>
+<year>2008</year>
+<booktitle>International Semantic Web Conference</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-88564-1_3</ee>
+<crossref>conf/semweb/2008</crossref>
+<url>db/conf/semweb/iswc2008.html#WuLFW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ZhangZLT08" mdate="2019-05-28">
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="70/5221">Qian Zhong</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>RiMOM Results for OAEI 2008.</title>
+<year>2008</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-431/oaei08_paper9.pdf</ee>
+<crossref>conf/semweb/2008om</crossref>
+<url>db/conf/semweb/om2008.html#ZhangZLT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ZhongLTLZ08" mdate="2018-03-25">
+<author pid="70/5221">Qian Zhong</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="59/871">Yi Li</author>
+<author pid="z/LizhuZhou">Lizhu Zhou</author>
+<title>Path Similarity Based Directory Ontology Matching.</title>
+<pages>37-44</pages>
+<year>2008</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1109/WAIM.2008.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAIM.2008.77</ee>
+<crossref>conf/waim/2008</crossref>
+<url>db/conf/waim/waim2008.html#ZhongLTLZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/WuLHW08" mdate="2017-05-21">
+<author pid="99/6515">Gang Wu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="94/1585">Jianqiang Hu</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>System II: A Native RDF Repository Based on the Hypergraph Representation for RDF Data Model.</title>
+<pages>62-69</pages>
+<year>2008</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1109/WAIM.2008.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAIM.2008.90</ee>
+<crossref>conf/waim/2008</crossref>
+<url>db/conf/waim/waim2008.html#WuLHW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ZhangTLYWZL08" mdate="2018-03-08">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="45/3180">Zi Yang</author>
+<author pid="21/4330">Sijie Wang</author>
+<author pid="09/3798">Jingjing Zuo</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Recommendation over a Heterogeneous Social Network.</title>
+<pages>309-316</pages>
+<year>2008</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1109/WAIM.2008.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAIM.2008.71</ee>
+<crossref>conf/waim/2008</crossref>
+<url>db/conf/waim/waim2008.html#ZhangTLYWZL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/WangLTZW08" mdate="2018-03-08">
+<author pid="90/4225">Feng Wang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Name Disambiguation Using Atomic Clusters.</title>
+<pages>357-364</pages>
+<year>2008</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1109/WAIM.2008.96</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAIM.2008.96</ee>
+<crossref>conf/waim/2008</crossref>
+<url>db/conf/waim/waim2008.html#WangLTZW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/WuLW08" mdate="2018-11-06">
+<author pid="99/6515">Gang Wu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>System II: a hypergraph based native rdf repository.</title>
+<pages>1035-1036</pages>
+<year>2008</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1367497.1367643</ee>
+<crossref>conf/www/2008</crossref>
+<url>db/conf/www/www2008.html#WuLW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/TangZYL08" mdate="2018-11-06">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="65/5048">Limin Yao</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Extraction and mining of an academic social network.</title>
+<pages>1193-1194</pages>
+<year>2008</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1367497.1367722</ee>
+<crossref>conf/www/2008</crossref>
+<url>db/conf/www/www2008.html#TangZYL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/TangZZL08" mdate="2018-11-06">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="60/5637-1">Duo Zhang 0001</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>A unified framework for name disambiguation.</title>
+<pages>1205-1206</pages>
+<year>2008</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1367497.1367728</ee>
+<crossref>conf/www/2008</crossref>
+<url>db/conf/www/www2008.html#TangZZL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiXTD08" mdate="2018-11-06">
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="72/3906">Gui-Rong Xue</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="38/6013-1">Ying Ding 0001</author>
+<title>WWW 2008 workshop on social web search and mining: SWSM2008.</title>
+<pages>1281-1282</pages>
+<year>2008</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1367497.1367768</ee>
+<crossref>conf/www/2008</crossref>
+<url>db/conf/www/www2008.html#LiXTD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ZhangTLW07" mdate="2018-11-06">
+<author pid="60/5637-1">Duo Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>A constraint-based probabilistic framework for name disambiguation.</title>
+<pages>1019-1022</pages>
+<year>2007</year>
+<crossref>conf/cikm/2007</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1321440.1321600</ee>
+<url>db/conf/cikm/cikm2007.html#ZhangTLW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/GuLTXH07" mdate="2018-03-25">
+<author pid="16/4413">Zhifeng Gu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="79/3688">Ruobo Huang</author>
+<title>Verification of Web Service Conversations Specified in WSCL.</title>
+<pages>432-437</pages>
+<year>2007</year>
+<crossref>conf/compsac/2007-2</crossref>
+<booktitle>COMPSAC (2)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2007.235</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2007.235</ee>
+<url>db/conf/compsac/compsac2007-2.html#GuLTXH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangTL07" mdate="2018-03-08">
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Expert Finding in a Social Network.</title>
+<pages>1066-1069</pages>
+<year>2007</year>
+<crossref>conf/dasfaa/2007</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71703-4_106</ee>
+<url>db/conf/dasfaa/dasfaa2007.html#ZhangTL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infoscale/GuLH07" mdate="2018-11-28">
+<author pid="16/4413">Zhifeng Gu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="79/3688">Ruobo Huang</author>
+<title>Two extensions of service description to enhance the scalability of SOA.</title>
+<pages>25</pages>
+<year>2007</year>
+<booktitle>Infoscale</booktitle>
+<ee>https://doi.org/10.4108/infoscale.2007.884</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1366836</ee>
+<crossref>conf/infoscale/2007</crossref>
+<url>db/conf/infoscale/infoscale2007.html#GuLH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isads/WangBLH07" mdate="2017-05-24">
+<author pid="26/6114">Yongbo Wang</author>
+<author pid="67/2196">Xiaoying Bai</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="79/3688">Ruobo Huang</author>
+<title>Ontology-Based Test Case Generation for Testing Web Services.</title>
+<pages>43-50</pages>
+<year>2007</year>
+<booktitle>ISADS</booktitle>
+<ee>https://doi.org/10.1109/ISADS.2007.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISADS.2007.54</ee>
+<crossref>conf/isads/2007</crossref>
+<url>db/conf/isads/isads2007.html#WangBLH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LiZLT07" mdate="2019-05-28">
+<author pid="59/871">Yi Li</author>
+<author pid="70/5221">Qian Zhong</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Result of Ontology Alignment with RiMOM at OAEI'07.</title>
+<year>2007</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-304/paper20.pdf</ee>
+<crossref>conf/semweb/2007om</crossref>
+<url>db/conf/semweb/om2007.html#LiZLT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/TangZZYZL07" mdate="2019-05-28">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author pid="60/5637-1">Duo Zhang 0001</author>
+<author pid="65/5048">Limin Yao</author>
+<author pid="26/1793">Chunlin Zhu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>ArnetMiner: An Expertise Oriented Search System for Web Community.</title>
+<year>2007</year>
+<booktitle>Semantic Web Challenge</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-295/paper01.pdf</ee>
+<crossref>conf/semweb/2007challenge</crossref>
+<url>db/conf/semweb/challenge2007.html#TangZZYZL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/skg/WuL07" mdate="2017-05-24">
+<author pid="99/6515">Gang Wu</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>SWRank: An Approach for Ranking Semantic Web Reversely and Consistently.</title>
+<pages>116-121</pages>
+<year>2007</year>
+<booktitle>SKG</booktitle>
+<ee>https://doi.org/10.1109/SKG.2007.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SKG.2007.81</ee>
+<crossref>conf/skg/2007</crossref>
+<url>db/conf/skg/skg2007.html#WuL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/YaoTL07" mdate="2018-03-25">
+<author pid="65/5048">Limin Yao</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>A Unified Approach to Researcher Profiling.</title>
+<pages>359-366</pages>
+<year>2007</year>
+<crossref>conf/webi/2007</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI.2007.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI.2007.60</ee>
+<url>db/conf/webi/webi2007.html#YaoTL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/XinLT07" mdate="2018-03-25">
+<author pid="35/1895">Xin Xin</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Enhancing Semantic Web by Semantic Annotation: Experiences in Building an Automatic Conference Calendar.</title>
+<pages>439-442</pages>
+<year>2007</year>
+<crossref>conf/webi/2007</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI.2007.116</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI.2007.116</ee>
+<url>db/conf/webi/webi2007.html#XinLT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wecwis/GuXL07" mdate="2017-05-24">
+<author pid="16/4413">Zhifeng Gu</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Inheritance-Aware Document-Driven Service Composition.</title>
+<pages>513-516</pages>
+<year>2007</year>
+<crossref>conf/wecwis/2007</crossref>
+<booktitle>CEC/EEE</booktitle>
+<ee>https://doi.org/10.1109/CEC-EEE.2007.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CEC-EEE.2007.56</ee>
+<url>db/conf/wecwis/cec2007.html#GuXL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiTZLLH07" mdate="2020-10-25">
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="05/3499-1">Jing Zhang 0001</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="27/2403">Yunhao Liu</author>
+<author pid="97/2951">MingCai Hong</author>
+<title>EOS: expertise oriented search using social networks.</title>
+<pages>1271-1272</pages>
+<year>2007</year>
+<crossref>conf/www/2007</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1242572.1242803</ee>
+<url>db/conf/www/www2007.html#LiTZLLH07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/XuZLY06" mdate="2017-05-28">
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="92/5857">Po Zhang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="18/4472">Wenjun Yang</author>
+<title>A Semantic Matchmaker for Ranking Web Services.</title>
+<pages>574-581</pages>
+<year>2006</year>
+<volume>21</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11390-006-0574-y</ee>
+<url>db/journals/jcst/jcst21.html#XuZLY06</url>
+</article>
+</r>
+<r><article key="journals/ws/TangLLHLW06" mdate="2019-01-29">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="09/4408">Xiaotong Huang</author>
+<author pid="59/871">Yi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Using Bayesian decision for ontology mapping.</title>
+<pages>243-262</pages>
+<year>2006</year>
+<volume>4</volume>
+<journal>J. Web Semant.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.websem.2006.06.001</ee>
+<url>db/journals/ws/ws4.html#TangLLHLW06</url>
+</article>
+</r>
+<r><inproceedings key="conf/apweb/YangLW06" mdate="2017-05-26">
+<author pid="18/4472">Wenjun Yang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Transforming Heterogeneous Messages Automatically in Web Service Composition.</title>
+<pages>145-156</pages>
+<year>2006</year>
+<crossref>conf/apweb/2006</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/11610113_14</ee>
+<url>db/conf/apweb/apweb2006.html#YangLW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/LiangTLW06" mdate="2018-03-25">
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Semantic Similarity Based Ontology Cache.</title>
+<pages>250-262</pages>
+<year>2006</year>
+<crossref>conf/apweb/2006</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/11610113_23</ee>
+<url>db/conf/apweb/apweb2006.html#LiangTLW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/ZhangTHLW06" mdate="2018-06-09">
+<author pid="16/1586-1">Kuo Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="97/2951">MingCai Hong</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="24/4105">Wei Wei</author>
+<title>Weighted Ontology-Based Search Exploiting Semantic Similarity.</title>
+<pages>498-510</pages>
+<year>2006</year>
+<crossref>conf/apweb/2006</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/11610113_44</ee>
+<url>db/conf/apweb/apweb2006.html#ZhangTHLW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/LiTSX06" mdate="2018-03-25">
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="39/4333">Qiang Song</author>
+<author pid="84/586">Peng Xu</author>
+<title>Table Detection from Plain Text Using Machine Learning and Document Structure.</title>
+<pages>818-823</pages>
+<year>2006</year>
+<crossref>conf/apweb/2006</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/11610113_79</ee>
+<url>db/conf/apweb/apweb2006.html#LiTSX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aswc/HongTL06" mdate="2018-03-25">
+<author pid="97/2951">MingCai Hong</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Semantic Annotation Using Horizontal and Vertical Contexts.</title>
+<pages>58-64</pages>
+<year>2006</year>
+<crossref>conf/aswc/2006</crossref>
+<booktitle>ASWC</booktitle>
+<ee>https://doi.org/10.1007/11836025_6</ee>
+<url>db/conf/aswc/aswc2006.html#HongTL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aswc/XieCL06" mdate="2017-05-23">
+<author pid="90/1767">Xiaoqin Xie</author>
+<author pid="28/5241">Kaiyun Chen</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>A Composition Oriented and Graph-Based Service Search Method.</title>
+<pages>530-536</pages>
+<year>2006</year>
+<crossref>conf/aswc/2006</crossref>
+<booktitle>ASWC</booktitle>
+<ee>https://doi.org/10.1007/11836025_51</ee>
+<url>db/conf/aswc/aswc2006.html#XieCL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/WuZLL06" mdate="2017-05-26">
+<author pid="99/6515">Gang Wu</author>
+<author pid="16/1586">Kuo Zhang</author>
+<author pid="18/5099">Can Liu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Adapting Prime Number Labeling Scheme for Directed Acyclic Graphs.</title>
+<pages>787-796</pages>
+<year>2006</year>
+<crossref>conf/dasfaa/2006</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/11733836_56</ee>
+<url>db/conf/dasfaa/dasfaa2006.html#WuZLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LiLZT06" mdate="2019-05-28">
+<author pid="59/871">Yi Li</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="60/5637-1">Duo Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<title>Result of Ontology Alignment with RiMOM at OAEI'06.</title>
+<year>2006</year>
+<booktitle>Ontology Matching</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-225/paper17.pdf</ee>
+<crossref>conf/semweb/2006om</crossref>
+<url>db/conf/semweb/om2006.html#LiLZT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/TangHLL06" mdate="2018-06-26">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="97/2951">MingCai Hong</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="73/3904">Bangyong Liang</author>
+<title>Tree-Structured Conditional Random Fields for Semantic Annotation.</title>
+<pages>640-653</pages>
+<year>2006</year>
+<crossref>conf/semweb/2006</crossref>
+<booktitle>International Semantic Web Conference</booktitle>
+<ee type="oa">https://doi.org/10.1007/11926078_46</ee>
+<url>db/conf/semweb/iswc2006.html#TangHLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/skg/LiangTLW06" mdate="2018-03-25">
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>SWARMS: A New Tool for Domain Exploration in Semantic Web.</title>
+<pages>65</pages>
+<year>2006</year>
+<crossref>conf/skg/2006</crossref>
+<booktitle>SKG</booktitle>
+<ee>https://doi.org/10.1109/SKG.2006.101</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SKG.2006.101</ee>
+<url>db/conf/skg/skg2006.html#LiangTLW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ZhangXTL06" mdate="2018-06-09">
+<author pid="16/1586-1">Kuo Zhang 0001</author>
+<author pid="90/3055">Hui Xu</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Keyword Extraction Using Support Vector Machine.</title>
+<pages>85-96</pages>
+<year>2006</year>
+<crossref>conf/waim/2006</crossref>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1007/11775300_8</ee>
+<url>db/conf/waim/waim2006.html#ZhangXTL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KuoGJ06" mdate="2018-11-06">
+<author pid="16/1586">Kuo Zhang</author>
+<author pid="99/6515">Gang Wu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Logical structure based semantic relationship extraction from semi-structured documents.</title>
+<pages>1063-1064</pages>
+<year>2006</year>
+<crossref>conf/www/2006</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1135777.1136016</ee>
+<url>db/conf/www/www2006.html#KuoGJ06</url>
+</inproceedings>
+</r>
+<r><article key="journals/jods/TangLLLHW05" mdate="2020-12-16">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="l/HongjunLu">Hongjun Lu</author>
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="09/4408">Xiaotong Huang</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>iASA: Learning to Annotate the Semantic Web.</title>
+<pages>110-145</pages>
+<year>2005</year>
+<crossref>journals/jods/2005-4</crossref>
+<journal>J. Data Semant.</journal>
+<ee>https://doi.org/10.1007/11603412_4</ee>
+<url>db/journals/jods/jods4.html#TangLLLHW05</url>
+</article>
+</r>
+<r><inproceedings key="conf/i3e/ZhangLW05" mdate="2018-06-26">
+<author pid="92/5857">Po Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Discovery and Query: Two Semantic Processes for Web Services.</title>
+<pages>571-590</pages>
+<year>2005</year>
+<booktitle>I3E</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-29773-1_38</ee>
+<crossref>conf/i3e/2005</crossref>
+<url>db/conf/i3e/i3e2005.html#ZhangLW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/ZhangTLW05" mdate="2018-06-09">
+<author pid="16/1586-1">Kuo Zhang 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Feature-Correlation Based Multi-view Detection.</title>
+<pages>1222-1230</pages>
+<year>2005</year>
+<crossref>conf/iccsa/2005-4</crossref>
+<booktitle>ICCSA (4)</booktitle>
+<ee>https://doi.org/10.1007/11424925_127</ee>
+<url>db/conf/iccsa/iccsa2005-4.html#ZhangTLW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/ZhangL05" mdate="2017-05-26">
+<author pid="92/5857">Po Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Ontology assisted Web services discovery.</title>
+<pages>45-50</pages>
+<year>2005</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2005.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2005.26</ee>
+<crossref>conf/sose/2005</crossref>
+<url>db/conf/sose/sose2005.html#ZhangL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/BinYZL05" mdate="2017-05-26">
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="59/2227">Yan Wang</author>
+<author pid="92/5857">Po Zhang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<title>Web services searching based on domain ontology.</title>
+<pages>51-55</pages>
+<year>2005</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2005.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2005.42</ee>
+<crossref>conf/sose/2005</crossref>
+<url>db/conf/sose/sose2005.html#BinYZL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/YangLW05" mdate="2017-05-26">
+<author pid="18/4472">Wenjun Yang</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Interactive service composition in SEWSIP.</title>
+<pages>85-90</pages>
+<year>2005</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2005.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2005.20</ee>
+<crossref>conf/sose/2005</crossref>
+<url>db/conf/sose/sose2005.html#YangLW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/LiXYCZW05" mdate="2017-05-26">
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<author pid="18/4472">Wenjun Yang</author>
+<author pid="65/4007">Dewei Chen</author>
+<author pid="92/5857">Po Zhang</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>SEWSIP: semantic based Web services integration in P2P.</title>
+<pages>97-101</pages>
+<year>2005</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2005.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2005.35</ee>
+<crossref>conf/sose/2005</crossref>
+<url>db/conf/sose/sose2005.html#LiXYCZW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/ZhangLX05" mdate="2018-08-06">
+<author pid="60/5637-1">Duo Zhang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="69/7024-1">Bin Xu 0001</author>
+<title>Web service annotation using ontology mapping.</title>
+<pages>235-242</pages>
+<year>2005</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2005.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2005.40</ee>
+<crossref>conf/sose/2005</crossref>
+<url>db/conf/sose/sose2005.html#ZhangLX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/XuLX05" mdate="2017-05-25">
+<author pid="90/3055">Hui Xu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="84/586">Peng Xu</author>
+<title>List Data Extraction in Semi-structured Document.</title>
+<pages>584-585</pages>
+<year>2005</year>
+<crossref>conf/wise/2005</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/11581062_51</ee>
+<url>db/conf/wise/wise2005.html#XuLX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiangTL05" mdate="2018-11-06">
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<title>Association search in semantic web: search + inference.</title>
+<pages>992-993</pages>
+<year>2005</year>
+<crossref>conf/www/2005si</crossref>
+<booktitle>WWW (Special interest tracks and posters)</booktitle>
+<ee>https://doi.org/10.1145/1062745.1062834</ee>
+<url>db/conf/www/www2005si.html#LiangTL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsec/XiaoqinLXW04" mdate="2017-05-17">
+<author pid="90/1767">Xiaoqin Xie</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="84/586">Peng Xu</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>MDC-Based Grey-Box Component Modeling and Prediction Analysis.</title>
+<pages>732-733</pages>
+<year>2004</year>
+<crossref>conf/apsec/2004</crossref>
+<booktitle>APSEC</booktitle>
+<ee>https://doi.org/10.1109/APSEC.2004.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/APSEC.2004.65</ee>
+<url>db/conf/apsec/apsec2004.html#XiaoqinLXW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/TangLWC04" mdate="2018-03-25">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<author pid="05/6368">Yue-Ru Cai</author>
+<title>Loss Minimization Based Keyword Distillation.</title>
+<pages>572-577</pages>
+<ee>https://doi.org/10.1007/978-3-540-24655-8_62</ee>
+<year>2004</year>
+<crossref>conf/apweb/2004</crossref>
+<booktitle>APWeb</booktitle>
+<url>db/conf/apweb/apweb2004.html#TangLWC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/awcc/XuZLTZW04" mdate="2018-03-25">
+<author pid="37/1950">Jianjun Xu</author>
+<author pid="02/562">Qian Zhu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="92/5857">Po Zhang</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Semantic Based Web Services Discovery.</title>
+<pages>388-393</pages>
+<ee>https://doi.org/10.1007/978-3-540-30483-8_47</ee>
+<year>2004</year>
+<crossref>conf/awcc/2004</crossref>
+<booktitle>AWCC</booktitle>
+<url>db/conf/awcc/awcc2004.html#XuZLTZW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/awcc/XieTLW04" mdate="2018-03-25">
+<author pid="90/1767">Xiaoqin Xie</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>A Component Retrieval Method Based on Facet-Weight Self-learning.</title>
+<pages>437-448</pages>
+<ee>https://doi.org/10.1007/978-3-540-30483-8_54</ee>
+<year>2004</year>
+<crossref>conf/awcc/2004</crossref>
+<booktitle>AWCC</booktitle>
+<url>db/conf/awcc/awcc2004.html#XieTLW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/awcc/TangLLW04" mdate="2018-03-25">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Risk Minimization Based Ontology Mapping.</title>
+<pages>469-480</pages>
+<ee>https://doi.org/10.1007/978-3-540-30483-8_58</ee>
+<year>2004</year>
+<crossref>conf/awcc/2004</crossref>
+<booktitle>AWCC</booktitle>
+<url>db/conf/awcc/awcc2004.html#TangLLW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/LiangTLW04" mdate="2018-03-25">
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Keyword Extraction Based Peer Clustering.</title>
+<pages>827-830</pages>
+<ee>https://doi.org/10.1007/978-3-540-30208-7_115</ee>
+<year>2004</year>
+<crossref>conf/gcc/2004</crossref>
+<booktitle>GCC</booktitle>
+<url>db/conf/gcc/gcc2004.html#LiangTLW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/LiangTLW04" mdate="2018-03-25">
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Using DAML+OIL to Enhance Search Semantic.</title>
+<pages>465-468</pages>
+<year>2004</year>
+<crossref>conf/webi/2004</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI.2004.151</ee>
+<url>db/conf/webi/webi2004.html#LiangTLW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/XuZLZW04" mdate="2004-12-16">
+<author pid="37/1950">Jianjun Xu</author>
+<author pid="02/562">Qian Zhu</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="92/5857">Po Zhang</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Modeling and Implementation of Unified Semantic Web Platform.</title>
+<pages>603-606</pages>
+<year>2004</year>
+<crossref>conf/webi/2004</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI.2004.100</ee>
+<url>db/conf/webi/webi2004.html#XuZLZW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl-sighan/LiLDWL03" mdate="2020-05-20">
+<author pid="213/3471">Mingqin Li</author>
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="67/9281">Zhendong Dong</author>
+<author pid="16/3245">Zuoying Wang</author>
+<author pid="58/5931">Dajin Lu</author>
+<title>Building a Large Chinese Corpus Annotated with Semantic Dependency.</title>
+<year>2003</year>
+<booktitle>SIGHAN</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W03-1712/</ee>
+<ee>https://doi.org/10.3115/1119250.1119262</ee>
+<crossref>conf/acl-sighan/2003</crossref>
+<url>db/conf/acl-sighan/acl-sighan2003.html#LiLDWL03</url>
+<pages>84-91</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/TangLWC03" mdate="2018-03-25">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<author pid="05/6368">Yue-Ru Cai</author>
+<title>Research of Satisfying Atomic and Anonymous Electronic Commerce Protocol.</title>
+<pages>319-326</pages>
+<ee>https://doi.org/10.1007/978-3-540-24680-0_55</ee>
+<year>2003</year>
+<crossref>conf/gcc/2003-2</crossref>
+<booktitle>GCC (2)</booktitle>
+<url>db/conf/gcc/gcc2003-2.html#TangLWC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/LiangLW03" mdate="2017-05-24">
+<author pid="73/3904">Bangyong Liang</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<title>Knowledge Sharing by Grid Technology.</title>
+<pages>903-906</pages>
+<ee>https://doi.org/10.1007/978-3-540-24680-0_143</ee>
+<year>2003</year>
+<crossref>conf/gcc/2003-2</crossref>
+<booktitle>GCC (2)</booktitle>
+<url>db/conf/gcc/gcc2003-2.html#LiangLW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qsic/CaoLWZ03" mdate="2017-05-24">
+<author pid="57/7029">WeiQi Cao</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<author pid="63/3737">Tao Zeng</author>
+<title>Asynchronous Communication For Complicated E-Commerce Applications.</title>
+<pages>161-</pages>
+<year>2003</year>
+<crossref>conf/qsic/2003</crossref>
+<booktitle>QSIC</booktitle>
+<ee>https://doi.org/10.1109/QSIC.2003.1319099</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/QSIC.2003.1319099</ee>
+<url>db/conf/qsic/qsic2003.html#CaoLWZ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsfdgrc/TangLWC03" mdate="2018-03-25">
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="l/JuanZiLi">Juan-Zi Li</author>
+<author pid="68/2151">Kehong Wang</author>
+<author pid="05/6368">Yue-Ru Cai</author>
+<title>Research of Atomic and Anonymous Electronic Commerce Protocol.</title>
+<pages>711-714</pages>
+<year>2003</year>
+<crossref>conf/rsfdgrc/2003</crossref>
+<booktitle>RSFDGrC</booktitle>
+<ee>https://doi.org/10.1007/3-540-39205-X_122</ee>
+<url>db/conf/rsfdgrc/rsfdgrc2003.html#TangLWC03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijclclp/LiH99" mdate="2020-06-18">
+<author pid="l/JuanZiLi">Juanzi Li</author>
+<author pid="53/4081">Changning Huang</author>
+<title>A Model for Word Sense Disambiguation.</title>
+<year>1999</year>
+<volume>4</volume>
+<journal>Int. J. Comput. Linguistics Chin. Lang. Process.</journal>
+<number>2</number>
+<ee type="oa">http://www.aclclp.org.tw/clclp/v4n2/v4n2a1.pdf</ee>
+<url>db/journals/ijclclp/ijclclp4.html#LiH99</url>
+</article>
+</r>
+<coauthors n="312" nc="1">
+<co c="0"><na f="b/Bai:Shuanhu" pid="53/4127">Shuanhu Bai</na></co>
+<co c="0"><na f="b/Bai:Xiaoying" pid="67/2196">Xiaoying Bai</na></co>
+<co c="0"><na f="b/Bauckhage:Christian" pid="44/2560">Christian Bauckhage</na></co>
+<co c="0"><na f="b/Bie:Rongfang" pid="54/830">Rongfang Bie</na></co>
+<co c="0"><na f="c/Cai:Keke" pid="37/5626">Keke Cai</na></co>
+<co c="0"><na f="c/Cai:Yi" pid="58/3467">Yi Cai</na></co>
+<co c="0"><na f="c/Cai:Yue=Ru" pid="05/6368">Yue-Ru Cai</na></co>
+<co c="0"><na f="c/Cao:Huanqi" pid="214/8159">Huanqi Cao</na></co>
+<co c="0"><na f="c/Cao:Shulin" pid="229/2976">Shulin Cao</na></co>
+<co c="0"><na f="c/Cao:WeiQi" pid="57/7029">WeiQi Cao</na></co>
+<co c="0"><na f="c/Cao_0002:Yixin" pid="20/8038-2">Yixin Cao 0002</na></co>
+<co c="0"><na f="c/Chen:Dewei" pid="65/4007">Dewei Chen</na></co>
+<co c="0"><na f="c/Chen:Huajun" pid="94/5089">Huajun Chen</na></co>
+<co c="0"><na f="c/Chen:Kaiyun" pid="28/5241">Kaiyun Chen</na></co>
+<co c="0"><na f="c/Chen:Lu" pid="69/157">Lu Chen</na></co>
+<co c="0"><na f="c/Chen:Qicong" pid="149/1347">Qicong Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Shengqi" pid="156/3418">Shengqi Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Ting" pid="19/1766">Ting Chen</na></co>
+<co c="0"><na f="c/Chen_0017:Xu" pid="83/6331-17">Xu Chen 0017</na></co>
+<co c="0"><na f="c/Chua:Tat=Seng" pid="24/6606">Tat-Seng Chua</na></co>
+<co c="0"><na f="c/Chung:Tong_Lee" pid="145/7823">Tong Lee Chung</na></co>
+<co c="0"><na f="c/Cremers:Armin_B=" pid="c/ABCremers">Armin B. Cremers</na></co>
+<co c="0"><na f="c/Cremers:Olaf" pid="245/4736">Olaf Cremers</na></co>
+<co c="0"><na f="d/Dai:Xiaowen" pid="122/2718">Xiaowen Dai</na></co>
+<co c="0"><na f="d/Daud:Ali" pid="87/2487">Ali Daud</na></co>
+<co c="0"><na f="d/Ding_0001:Ying" pid="38/6013-1">Ying Ding 0001</na></co>
+<co c="0"><na f="d/Dong:Tiansi" pid="24/6781">Tiansi Dong</na></co>
+<co c="0"><na f="d/Dong:Tianxi" pid="34/8380">Tianxi Dong</na></co>
+<co c="0"><na f="d/Dong:Yinpeng" pid="183/0980">Yinpeng Dong</na></co>
+<co c="0"><na f="d/Dong:Zhendong" pid="67/9281">Zhendong Dong</na></co>
+<co c="0"><na f="d/Du:Jianfeng" pid="72/5841">Jianfeng Du</na></co>
+<co c="0"><na f="d/Du:John" pid="63/5619">John Du</na></co>
+<co c="0"><na f="d/Du:Xiaoping" pid="20/2139">Xiaoping Du</na></co>
+<co c="0"><na f="e/Euzenat:J=eacute=r=ocirc=me" pid="85/192">J&#233;r&#244;me Euzenat</na></co>
+<co c="0"><na f="f/Feng:Ling" pid="58/4464">Ling Feng</na></co>
+<co c="0"><na f="f/Feng:Wenzheng" pid="203/9459">Wenzheng Feng</na></co>
+<co c="0"><na f="f/Feng:Yansong" pid="25/2643">Yansong Feng</na></co>
+<co c="0"><na f="g/Gao:Bo" pid="93/2407">Bo Gao</na></co>
+<co c="0"><na f="g/Gao:Tianyu" pid="207/8893">Tianyu Gao</na></co>
+<co c="0"><na f="g/Gu:Yuxian" pid="248/2313">Yuxian Gu</na></co>
+<co c="0"><na f="g/Gu:Zhifeng" pid="16/4413">Zhifeng Gu</na></co>
+<co c="0"><na f="g/Guan:Jian" pid="58/2489">Jian Guan</na></co>
+<co c="0"><na f="g/Guo:Jingyi" pid="09/8315">Jingyi Guo</na></co>
+<co c="0"><na f="g/Guo:Xiaofei" pid="54/10119">Xiaofei Guo</na></co>
+<co c="0"><na f="h/Hall:Wendy" pid="h/WendyHall">Wendy Hall</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Han:Rong" pid="202/0285">Rong Han</na></co>
+<co c="0"><na f="h/Han:Wentao" pid="10/8243">Wentao Han</na></co>
+<co c="0"><na f="h/Han_0007:Xu" pid="19/3011-7">Xu Han 0007</na></co>
+<co c="0"><na f="h/Hauptmann:Alexander_G=" pid="h/AlexanderGHauptmann">Alexander G. Hauptmann</na></co>
+<co c="0"><na f="h/He:Bin" pid="78/4523">Bin He</na></co>
+<co c="0"><na f="h/He:Bing" pid="64/2272">Bing He</na></co>
+<co c="0"><na f="h/He:Qi" pid="51/6972">Qi He</na></co>
+<co c="0"><na f="h/Hodson:James" pid="127/5312">James Hodson</na></co>
+<co c="0"><na f="h/Hong:MingCai" pid="97/2951">MingCai Hong</na></co>
+<co c="0"><na f="h/Horrocks:Ian" pid="h/IanHorrocks">Ian Horrocks</na></co>
+<co c="0"><na f="h/Hou_0001:Lei" pid="32/5685-1">Lei Hou 0001</na></co>
+<co c="0" n="2"><na f="h/Hu:Jian=Qiang" pid="94/1585">Jian-Qiang Hu</na><na>Jianqiang Hu</na></co>
+<co c="0"><na f="h/Hu:Linmei" pid="141/4440">Linmei Hu</na></co>
+<co c="0"><na f="h/Hu:Min" pid="86/6507">Min Hu</na></co>
+<co c="0"><na f="h/Huang:Changning" pid="53/4081">Changning Huang</na></co>
+<co c="0"><na f="h/Huang:Lifu" pid="127/0072">Lifu Huang</na></co>
+<co c="0"><na f="h/Huang:Minlie" pid="47/6668">Minlie Huang</na></co>
+<co c="0"><na f="h/Huang:Ruobo" pid="79/3688">Ruobo Huang</na></co>
+<co c="0"><na f="h/Huang:Xiaotong" pid="09/4408">Xiaotong Huang</na></co>
+<co c="0"><na f="h/Huang:Yi" pid="15/6040">Yi Huang</na></co>
+<co c="0"><na f="h/Hui:Ou" pid="133/1947">Ou Hui</na></co>
+<co c="0"><na f="j/Ji:Haozhe" pid="222/9546">Haozhe Ji</na></co>
+<co c="0"><na f="j/Ji:Heng" pid="61/2408">Heng Ji</na></co>
+<co c="0"><na f="j/Jia_0001:Jia" pid="71/2992-1">Jia Jia 0001</na></co>
+<co c="0"><na f="j/Jia:Shengyu" pid="264/9638">Shengyu Jia</na></co>
+<co c="0"><na f="j/Jiang:Jiabo" pid="250/8895">Jiabo Jiang</na></co>
+<co c="0"><na f="j/Jiang:Junjun" pid="119/0230">Junjun Jiang</na></co>
+<co c="0"><na f="j/Jiang:Wangyi" pid="263/9815">Wangyi Jiang</na></co>
+<co c="0"><na f="j/Jiao:Zengtao" pid="256/8741">Zengtao Jiao</na></co>
+<co c="0"><na f="j/Jim=eacute=nez=Ruiz:Ernesto" pid="22/5749">Ernesto Jim&#233;nez-Ruiz</na></co>
+<co c="0"><na f="j/Jin:Hailong" pid="190/7770">Hailong Jin</na></co>
+<co c="0"><na f="j/Jin:Jianbin" pid="185/1354">Jianbin Jin</na></co>
+<co c="0"><na f="j/Jing:Yu" pid="84/7756">Yu Jing</na></co>
+<co c="0"><na f="k/Ke:Pei" pid="10/2179">Pei Ke</na></co>
+<co c="0"><na f="k/Ke:Wantian" pid="135/6557">Wantian Ke</na></co>
+<co c="0"><na f="k/Keomany:Jacklyne" pid="121/4312">Jacklyne Keomany</na></co>
+<co c="0"><na f="k/Kim:Hong=Gee" pid="75/4867">Hong-Gee Kim</na></co>
+<co c="0"><na f="k/King:Irwin" pid="k/IrwinKing">Irwin King</na></co>
+<co c="0"><na f="k/Kong:Hao" pid="146/4832">Hao Kong</na></co>
+<co c="0"><na f="l/Lam:R=eacute=mi" pid="158/7662">R&#233;mi Lam</na></co>
+<co c="0"><na f="l/Lao:Ni" pid="82/283">Ni Lao</na></co>
+<co c="0" n="2"><na f="l/Leung:Cane_Wing=ki" pid="18/1523">Cane Wing-ki Leung</na><na>Cane Wing-Ki Leung</na></co>
+<co c="0"><na f="l/Leung:Ho=fung" pid="l/HofungLeung">Ho-fung Leung</na></co>
+<co c="0"><na f="l/Li:Chengjiang" pid="203/9704">Chengjiang Li</na></co>
+<co c="0"><na f="l/Li:Daifeng" pid="06/988">Daifeng Li</na></co>
+<co c="0"><na f="l/Li:Daixuan" pid="262/3741">Daixuan Li</na></co>
+<co c="0"><na f="l/Li:Hanyu" pid="11/6652">Hanyu Li</na></co>
+<co c="0"><na f="l/Li:Junpeng" pid="143/6631">Junpeng Li</na></co>
+<co c="0"><na f="l/Li:Lin" pid="73/2252">Lin Li</na></co>
+<co c="0"><na f="l/Li:Ming" pid="181/2821">Ming Li</na></co>
+<co c="0"><na f="l/Li:Mingqin" pid="213/3471">Mingqin Li</na></co>
+<co c="0"><na f="l/Li:Mingyang" pid="85/7189">Mingyang Li</na></co>
+<co c="0"><na f="l/Li:Minqiang" pid="02/1225">Minqiang Li</na></co>
+<co c="0"><na f="l/Li_0030:Peng" pid="83/6353-30">Peng Li 0030</na></co>
+<co c="0"><na f="l/Li_0001:Qing" pid="181/2689-1">Qing Li 0001</na></co>
+<co c="0"><na f="l/Li:Shuangjie" pid="30/10212">Shuangjie Li</na></co>
+<co c="0"><na f="l/Li:Tian" pid="91/7844">Tian Li</na></co>
+<co c="0"><na f="l/Li_0044:Wei" pid="64/6025-44">Wei Li 0044</na></co>
+<co c="0" n="2"><na f="l/Li_0001:Xiaoli" pid="l/XiaoliLi">Xiaoli Li 0001</na><na>Xiao-Li Li 0001</na></co>
+<co c="0"><na f="l/Li_0074:Yang" pid="37/4190-74">Yang Li 0074</na></co>
+<co c="0"><na f="l/Li:Yi" pid="59/871">Yi Li</na></co>
+<co c="0"><na f="l/Li:Zhihui" pid="95/5287">Zhihui Li</na></co>
+<co c="0"><na f="l/Li:Zhixing" pid="68/8126">Zhixing Li</na></co>
+<co c="0"><na f="l/Liang:Bangyong" pid="73/3904">Bangyong Liang</na></co>
+<co c="0"><na f="l/Liang:Chen" pid="35/3221">Chen Liang</na></co>
+<co c="0"><na f="l/Liang:Jiye" pid="80/6535">Jiye Liang</na></co>
+<co c="0"><na f="l/Liao:Yi" pid="51/3646">Yi Liao</na></co>
+<co c="0"><na f="l/Lin:Nan" pid="88/2478">Nan Lin</na></co>
+<co c="0"><na f="l/Lin:Yankai" pid="161/0001">Yankai Lin</na></co>
+<co c="0"><na f="l/Liu:Biao" pid="50/10062">Biao Liu</na></co>
+<co c="0"><na f="l/Liu:Can" pid="18/5099">Can Liu</na></co>
+<co c="0"><na f="l/Liu_0005:Liu" pid="217/9105">Liu Liu 0005</na></co>
+<co c="0"><na f="l/Liu_0005:Lu" pid="31/2088-5">Lu Liu 0005</na></co>
+<co c="0"><na f="l/Liu:Shaopeng" pid="26/10932">Shaopeng Liu</na></co>
+<co c="0"><na f="l/Liu:Yang" pid="51/3710">Yang Liu</na></co>
+<co c="0"><na f="l/Liu:Yongbin" pid="79/9544">Yongbin Liu</na></co>
+<co c="0"><na f="l/Liu:Yuankang" pid="25/11211">Yuankang Liu</na></co>
+<co c="0"><na f="l/Liu:Yuchao" pid="80/8341">Yuchao Liu</na></co>
+<co c="0"><na f="l/Liu:Yunhao" pid="27/2403">Yunhao Liu</na></co>
+<co c="0"><na f="l/Liu:Zhiyuan" pid="53/3245">Zhiyuan Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Zhiyuan" pid="53/3245-1">Zhiyuan Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0010:Zhiyuan" pid="53/3245-10">Zhiyuan Liu 0010</na></co>
+<co c="0"><na f="l/Lu:Dajin" pid="58/5931">Dajin Lu</na></co>
+<co c="0"><na f="l/Lu:Hongjun" pid="l/HongjunLu">Hongjun Lu</na></co>
+<co c="0"><na f="l/Lu:Hsuehkuan" pid="250/8971">Hsuehkuan Lu</na></co>
+<co c="0"><na f="l/Lu:Yuqing" pid="132/4738">Yuqing Lu</na></co>
+<co c="0"><na f="l/Luan:Huan=Bo" pid="55/5812">Huan-Bo Luan</na></co>
+<co c="0"><na f="l/Luo:Gan" pid="220/7076">Gan Luo</na></co>
+<co c="0"><na f="l/Luo:Junyi" pid="199/4697">Junyi Luo</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="l/Luyten:Walter" pid="132/3514">Walter Luyten</na></co>
+<co c="0"><na f="l/Lv:Shining" pid="258/5190">Shining Lv</na></co>
+<co c="0"><na f="l/Lv:Xin" pid="52/1775">Xin Lv</na></co>
+<co c="0"><na f="l/Lv:Ying" pid="127/8758">Ying Lv</na></co>
+<co c="0"><na f="m/Ma:Bo" pid="26/4179">Bo Ma</na></co>
+<co c="0"><na f="m/Ma:Cong" pid="42/10808">Cong Ma</na></co>
+<co c="0"><na f="m/Ma:Xiaoli" pid="58/568">Xiaoli Ma</na></co>
+<co c="0"><na f="m/Ma:Ye" pid="51/6507">Ye Ma</na></co>
+<co c="0"><na f="m/Ma:Yuanchao" pid="57/11418">Yuanchao Ma</na></co>
+<co c="0"><na f="m/Mao:Ming" pid="84/4465">Ming Mao</na></co>
+<co c="0"><na f="m/Meng:Binjie" pid="211/9455">Binjie Meng</na></co>
+<co c="0"><na f="m/Min:Huaqing" pid="73/6274">Huaqing Min</na></co>
+<co c="0"><na f="m/Mizoguchi:Riichiro" pid="16/645">Riichiro Mizoguchi</na></co>
+<co c="0"><na f="m/Mo:Yuchen" pid="195/8267">Yuchen Mo</na></co>
+<co c="0"><na f="m/Moens:Marie=Francine" pid="m/MarieFrancineMoens">Marie-Francine Moens</na></co>
+<co c="0"><na f="m/Muhammad:Faqir" pid="25/2023">Faqir Muhammad</na></co>
+<co c="0"><na f="n/Nejdl:Wolfgang" pid="n/WolfgangNejdl">Wolfgang Nejdl</na></co>
+<co c="0" n="2"><na f="n/Ngomo:Axel=Cyrille_Ngonga" pid="65/4336">Axel-Cyrille Ngonga Ngomo</na><na>Axel Ngonga</na></co>
+<co c="0"><na f="n/Nie:Liqiang" pid="92/8277">Liqiang Nie</na></co>
+<co c="0"><na f="o/Ouyang:Chunping" pid="19/8006">Chunping Ouyang</na></co>
+<co c="0"><na f="p/Pan:Jeff_Z=" pid="59/6490">Jeff Z. Pan</na></co>
+<co c="0"><na f="p/Pan:Liangming" pid="186/9707">Liangming Pan</na></co>
+<co c="0"><na f="p/Pan:Yue" pid="91/3754">Yue Pan</na></co>
+<co c="0"><na f="p/Paradis:Thomas" pid="206/9406">Thomas Paradis</na></co>
+<co c="0"><na f="q/Qi:Fanchao" pid="228/5500">Fanchao Qi</na></co>
+<co c="0"><na f="q/Qi:Guilin" pid="71/5935">Guilin Qi</na></co>
+<co c="0"><na f="q/Qi:Yu" pid="26/5083">Yu Qi</na></co>
+<co c="0"><na f="q/Qian:Yujie" pid="187/3108">Yujie Qian</na></co>
+<co c="0"><na f="q/Qin:Yujia" pid="126/2333">Yujia Qin</na></co>
+<co c="0"><na f="q/Qin:Zheng" pid="95/6861">Zheng Qin</na></co>
+<co c="0"><na f="q/Qu:Jiangfeng" pid="133/1956">Jiangfeng Qu</na></co>
+<co c="0"><na f="r/Ren_0001:Xiang" pid="36/360-1">Xiang Ren 0001</na></co>
+<co c="0"><na f="r/Rettinger:Achim" pid="55/6363">Achim Rettinger</na></co>
+<co c="0"><na f="r/Ruan:Tong" pid="86/4212">Tong Ruan</na></co>
+<co c="0"><na f="s/Sebe:Nicu" pid="20/3519">Nicu Sebe</na></co>
+<co c="0" n="2"><na f="s/Setchi:Rossitza" pid="54/3891">Rossitza Setchi</na><na>Rossi Setchi</na></co>
+<co c="0"><na f="s/Shao:Chao" pid="12/1176">Chao Shao</na></co>
+<co c="0"><na f="s/Shen:Ran" pid="258/5217">Ran Shen</na></co>
+<co c="0"><na f="s/Shi:Feng" pid="06/468">Feng Shi</na></co>
+<co c="0"><na f="s/Shi:Jiaxin" pid="151/7509">Jiaxin Shi</na></co>
+<co c="0"><na f="s/Shi:Yao" pid="24/1131">Yao Shi</na></co>
+<co c="0"><na f="s/Shvaiko:Pavel" pid="97/4603">Pavel Shvaiko</na></co>
+<co c="0"><na f="s/Song:Guojie" pid="37/2900">Guojie Song</na></co>
+<co c="0"><na f="s/Song:Qiang" pid="39/4333">Qiang Song</na></co>
+<co c="0"><na f="s/Song:Yanglei" pid="143/7072">Yanglei Song</na></co>
+<co c="0"><na f="s/Speicher:Daniel" pid="80/5362">Daniel Speicher</na></co>
+<co c="0"><na f="s/Su:Yu" pid="38/1070">Yu Su</na></co>
+<co c="0"><na f="s/Su:YuSheng" pid="275/3665">YuSheng Su</na></co>
+<co c="0"><na f="s/Su:Zhong" pid="87/1363">Zhong Su</na></co>
+<co c="0"><na f="s/Sugimoto:Cassidy_R=" pid="27/6523">Cassidy R. Sugimoto</na></co>
+<co c="0"><na f="s/Sun:Jimeng" pid="54/4948">Jimeng Sun</na></co>
+<co c="0"><na f="s/Sun:Maosong" pid="95/3291">Maosong Sun</na></co>
+<co c="0"><na f="s/Sun:Yizhou" pid="37/3868">Yizhou Sun</na></co>
+<co c="0"><na f="s/Sun:Zhenbo" pid="280/0130">Zhenbo Sun</na></co>
+<co c="0"><na f="t/Tan:Yuanpeng" pid="140/1599">Yuanpeng Tan</na></co>
+<co c="0"><na f="t/Tang:Jian" pid="181/2667">Jian Tang</na></co>
+<co c="0"><na f="t/Tang_0001:Jie" pid="t/JieTang">Jie Tang 0001</na></co>
+<co c="0"><na f="t/Tong:Hanghang" pid="58/1757">Hanghang Tong</na></co>
+<co c="0"><na f="t/Tong:Meihan" pid="247/4597">Meihan Tong</na></co>
+<co c="0"><na f="w/Wang:Chenyu" pid="98/10212">Chenyu Wang</na></co>
+<co c="0"><na f="w/Wang:Feng" pid="90/4225">Feng Wang</na></co>
+<co c="0"><na f="w/Wang:Jie" pid="29/5259">Jie Wang</na></co>
+<co c="0"><na f="w/Wang:Kehong" pid="68/2151">Kehong Wang</na></co>
+<co c="0"><na f="w/Wang:Liangwei" pid="121/4169">Liangwei Wang</na></co>
+<co c="0"><na f="w/Wang:Shuai" pid="42/1503">Shuai Wang</na></co>
+<co c="0"><na f="w/Wang:Sijie" pid="21/4330">Sijie Wang</na></co>
+<co c="0"><na f="w/Wang:Suge" pid="56/963">Suge Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaochen" pid="19/30">Xiaochen Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaozhi" pid="03/2015">Xiaozhi Wang</na></co>
+<co c="0"><na f="w/Wang:Xuzhong" pid="97/5074">Xuzhong Wang</na></co>
+<co c="0"><na f="w/Wang:Yan" pid="59/2227">Yan Wang</na></co>
+<co c="0"><na f="w/Wang:Yongbo" pid="26/6114">Yongbo Wang</na></co>
+<co c="0"><na f="w/Wang:Yuquan" pid="125/5538">Yuquan Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengguo" pid="20/8879">Zhengguo Wang</na></co>
+<co c="0"><na f="w/Wang:Zhichun" pid="41/422">Zhichun Wang</na></co>
+<co c="0"><na f="w/Wang:Zhigang" pid="35/1989">Zhigang Wang</na></co>
+<co c="0"><na f="w/Wang:Ziqi" pid="38/8097">Ziqi Wang</na></co>
+<co c="0"><na f="w/Wang:Zuoying" pid="16/3245">Zuoying Wang</na></co>
+<co c="0"><na f="w/Wei:Wei" pid="24/4105">Wei Wei</na></co>
+<co c="0"><na f="w/Wen:Siqiang" pid="145/9918">Siqiang Wen</na></co>
+<co c="0"><na f="w/Wen:Xubo" pid="155/0113">Xubo Wen</na></co>
+<co c="0"><na f="w/Wrobel:Stefan" pid="w/StefanWrobel">Stefan Wrobel</na></co>
+<co c="0"><na f="w/Wu:Boya" pid="149/1290">Boya Wu</na></co>
+<co c="0"><na f="w/Wu:Gang" pid="99/6515">Gang Wu</na></co>
+<co c="0"><na f="w/Wu:Suhui" pid="246/2921">Suhui Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Zhaohui" pid="54/6252-1">Zhaohui Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Zhe" pid="11/5670">Zhe Wu</na></co>
+<co c="0"><na f="x/Xia:Huan" pid="05/11146">Huan Xia</na></co>
+<co c="0"><na f="x/Xia:Jun=Bo" pid="173/9109">Jun-Bo Xia</na></co>
+<co c="0"><na f="x/Xiang:Yutong" pid="270/0095">Yutong Xiang</na></co>
+<co c="0"><na f="x/Xiao:Tong" pid="05/5091">Tong Xiao</na></co>
+<co c="0"><na f="x/Xie:Guo_Tong" pid="73/5346">Guo Tong Xie</na></co>
+<co c="0"><na f="x/Xie:Jiayu" pid="120/1044">Jiayu Xie</na></co>
+<co c="0"><na f="x/Xie:Jun" pid="33/3881">Jun Xie</na></co>
+<co c="0"><na f="x/Xie:Xiaoqin" pid="90/1767">Xiaoqin Xie</na></co>
+<co c="0"><na f="x/Xin:Xin" pid="35/1895">Xin Xin</na></co>
+<co c="0"><na f="x/Xing:Chunxiao" pid="x/ChunxiaoXing">Chunxiao Xing</na></co>
+<co c="0"><na f="x/Xu_0001:Bin" pid="69/7024-1">Bin Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Hui" pid="90/3055">Hui Xu</na></co>
+<co c="0"><na f="x/Xu:Huifang" pid="191/7319">Huifang Xu</na></co>
+<co c="0"><na f="x/Xu:Jianjun" pid="37/1950">Jianjun Xu</na></co>
+<co c="0"><na f="x/Xu:Mengling" pid="128/5647">Mengling Xu</na></co>
+<co c="0"><na f="x/Xu:Peng" pid="84/586">Peng Xu</na></co>
+<co c="0"><na f="x/Xue:Gui=Rong" pid="72/3906">Gui-Rong Xue</na></co>
+<co c="0"><na f="y/Yan:Erjia" pid="47/7380">Erjia Yan</na></co>
+<co c="0"><na f="y/Yan_0010:Jun" pid="89/5901-10">Jun Yan 0010</na></co>
+<co c="0"><na f="y/Yan:Rong" pid="51/1293">Rong Yan</na></co>
+<co c="0"><na f="y/Yan:XueDong" pid="221/7748">XueDong Yan</na></co>
+<co c="0"><na f="y/Yang_0002:Cheng" pid="49/1457-2">Cheng Yang 0002</na></co>
+<co c="0"><na f="y/Yang:Erhong" pid="174/0878">Erhong Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Ruibing" pid="151/5624">Ruibing Yang</na></co>
+<co c="0"><na f="y/Yang:Wenjun" pid="18/4472">Wenjun Yang</na></co>
+<co c="0"><na f="y/Yang_0009:Yang" pid="48/450-9">Yang Yang 0009</na></co>
+<co c="0"><na f="y/Yang:Yulai" pid="249/7539">Yulai Yang</na></co>
+<co c="0"><na f="y/Yang:Zi" pid="45/3180">Zi Yang</na></co>
+<co c="0"><na f="y/Yao:Limin" pid="65/5048">Limin Yao</na></co>
+<co c="0"><na f="y/Ye:Deming" pid="221/0765">Deming Ye</na></co>
+<co c="0"><na f="y/Yen:John" pid="66/3108">John Yen</na></co>
+<co c="0"><na f="y/You:Xinyu" pid="37/4180">Xinyu You</na></co>
+<co c="0"><na f="y/Yousaf:Jamal" pid="87/11145">Jamal Yousaf</na></co>
+<co c="0"><na f="y/Yu:Jifan" pid="239/6130">Jifan Yu</na></co>
+<co c="0"><na f="z/Zeng:Guoyang" pid="252/5581">Guoyang Zeng</na></co>
+<co c="0"><na f="z/Zeng:Tao" pid="63/3737">Tao Zeng</na></co>
+<co c="0"><na f="z/Zeng:Zhiyong" pid="23/7957">Zhiyong Zeng</na></co>
+<co c="0"><na f="z/Zhang:Bin" pid="13/5236">Bin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Dongsheng" pid="97/4647">Dongsheng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Duo" pid="60/5637-1">Duo Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Haisu" pid="81/8341">Haisu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Haizheng" pid="z/HaizhengZhang">Haizheng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hanwang" pid="79/8116">Hanwang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiangtao" pid="38/8912">Jiangtao Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Jing" pid="05/3499-1">Jing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0036:Jing" pid="05/3499-36">Jing Zhang 0036</na></co>
+<co c="0"><na f="z/Zhang:Kun" pid="96/3115">Kun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Kuo" pid="16/1586">Kuo Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Kuo" pid="16/1586-1">Kuo Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Lei" pid="97/8704">Lei Zhang</na></co>
+<co c="0"><na f="z/Zhang_0007:Li" pid="89/5992-7">Li Zhang 0007</na></co>
+<co c="0"><na f="z/Zhang:Mengdi" pid="144/5590">Mengdi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Peng" pid="21/1048">Peng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Po" pid="92/5857">Po Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shumei" pid="77/5329">Shumei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wei" pid="10/4661">Wei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiao" pid="49/4478">Xiao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinru" pid="219/8811">Xinru Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yan" pid="04/3348">Yan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yichi" pid="86/7054">Yichi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yutao" pid="48/3730">Yutao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhengyan" pid="23/10446">Zhengyan Zhang</na></co>
+<co c="0"><na f="z/Zhao_0001:Dongyan" pid="63/1870">Dongyan Zhao 0001</na></co>
+<co c="0"><na f="z/Zhao:Yanting" pid="117/4244">Yanting Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yue" pid="48/76">Yue Zhao</na></co>
+<co c="0"><na f="z/Zheng:Chen" pid="04/3239">Chen Zheng</na></co>
+<co c="0" n="2"><na f="z/Zheng:Hai=Tao" pid="20/134">Hai-Tao Zheng</na><na>Haitao Zheng</na></co>
+<co c="0"><na f="z/Zheng_0002:Hai=Tao" pid="20/134-2">Hai-Tao Zheng 0002</na></co>
+<co c="0"><na f="z/Zheng:Qian" pid="28/8138">Qian Zheng</na></co>
+<co c="0"><na f="z/Zheng:Yanan" pid="93/7107">Yanan Zheng</na></co>
+<co c="0"><na f="z/Zhong:Qian" pid="70/5221">Qian Zhong</na></co>
+<co c="0"><na f="z/Zhong:Qingyang" pid="225/1430">Qingyang Zhong</na></co>
+<co c="0"><na f="z/Zhong:Yuanyi" pid="194/2743">Yuanyi Zhong</na></co>
+<co c="0"><na f="z/Zhou:Guodong" pid="42/6620">Guodong Zhou</na></co>
+<co c="0"><na f="z/Zhou:Hao" pid="63/778">Hao Zhou</na></co>
+<co c="0"><na f="z/Zhou_0016:Jie" pid="00/5012-16">Jie Zhou 0016</na></co>
+<co c="0"><na f="z/Zhou_0024:Jie" pid="00/5012-24">Jie Zhou 0024</na></co>
+<co c="0"><na f="z/Zhou:Lizhu" pid="z/LizhuZhou">Lizhu Zhou</na></co>
+<co c="0"><na f="z/Zhou:Ming" pid="16/1161">Ming Zhou</na></co>
+<co c="0"><na f="z/Zhou:Mingquan" pid="92/235">Mingquan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Chunlin" pid="26/1793">Chunlin Zhu</na></co>
+<co c="0"><na f="z/Zhu:Fangwei" pid="237/4830">Fangwei Zhu</na></co>
+<co c="0"><na f="z/Zhu:Qian" pid="02/562">Qian Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Xiaoyan" pid="50/1222-1">Xiaoyan Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu:Zhaocheng" pid="195/0435">Zhaocheng Zhu</na></co>
+<co c="0"><na f="z/Zhuang:Honglei" pid="10/9988">Honglei Zhuang</na></co>
+<co c="0"><na f="z/Zimmermann_0001:J=ouml=rg" pid="35/1335-1">J&#246;rg Zimmermann 0001</na></co>
+<co c="0"><na f="z/Zuo:Jingjing" pid="09/3798">Jingjing Zuo</na></co>
+</coauthors>
+</dblpperson>
+

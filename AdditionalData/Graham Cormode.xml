@@ -1,3 +1,3421 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e796e0de47d3d5740dc49aeefc4fc0cc86b0298fe1a4b79496119c0b46fcf653
-size 151169
+<?xml version="1.0"?>
+<dblpperson name="Graham Cormode" pid="c/GrahamCormode" n="238">
+<person key="homepages/c/GrahamCormode" mdate="2020-02-12">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<note type="affiliation">Rutgers University, USA</note>
+<url>http://dimacs.rutgers.edu/~graham/</url>
+<url>https://scholar.google.com/citations?user=gpLVKmEAAAAJ</url>
+<url>https://dl.acm.org/profile/81100135281</url>
+<url>https://orcid.org/0000-0002-0698-0922</url>
+<url>https://www.wikidata.org/entity/Q59696755</url>
+</person>
+<r><article key="journals/tkde/CormodeKS21" mdate="2021-01-26">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0003-0485-6474" pid="46/10579">Tejas Kulkarni</author>
+<author orcid="0000-0002-7609-9217" pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Constrained Private Mechanisms for Count Data.</title>
+<pages>415-430</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2912179</ee>
+<url>db/journals/tkde/tkde33.html#CormodeKS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/ShekelyanC21" mdate="2021-04-14">
+<author pid="144/3316">Michael Shekelyan</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Sequential Random Sampling Revisited: Hidden Shuffle Method.</title>
+<pages>3628-3636</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/shekelyan21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#ShekelyanC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-07546" mdate="2021-01-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="222/9819">Charlie Dickens</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<title>Subspace exploration: Bounds on Projected Frequency Estimation.</title>
+<year>2021</year>
+<volume>abs/2101.07546</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.07546</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-07546</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-09299" mdate="2021-02-24">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="34/9376">Abhinav Mishra</author>
+<author pid="34/5349">Joseph Ross</author>
+<author pid="143/7938">Pavel Vesel&#253;</author>
+<title>Theory meets Practice: worst case behavior of quantile algorithms.</title>
+<year>2021</year>
+<volume>abs/2102.09299</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.09299</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-09299</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-16640" mdate="2021-04-07">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="289/1670">Samuel Maddock</author>
+<author pid="05/2263">Carsten Maple</author>
+<title>Frequency Estimation under Local Differential Privacy [Experiments, Analysis and Benchmarks].</title>
+<year>2021</year>
+<volume>abs/2103.16640</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.16640</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-16640</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-01808" mdate="2021-04-12">
+<author pid="160/3232">Ziyue Huang</author>
+<author pid="166/6079">Yuan Qiu</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Frequency Estimation Under Multiparty Differential Privacy: One-shot and Streaming.</title>
+<year>2021</year>
+<volume>abs/2104.01808</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.01808</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-01808</url>
+</article>
+</r>
+<r><inproceedings key="conf/pods/CormodeV20" mdate="2020-06-05">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="143/7938">Pavel Vesel&#253;</author>
+<title>A Tight Lower Bound for Comparison-Based Quantile Summaries.</title>
+<pages>81-93</pages>
+<year>2020</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3375395.3387650</ee>
+<crossref>conf/pods/2020</crossref>
+<url>db/conf/pods/pods2020.html#CormodeV20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-01668" mdate="2020-04-08">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="16/4051">Zohar S. Karnin</author>
+<author pid="28/1212">Edo Liberty</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="143/7938">Pavel Vesel&#253;</author>
+<title>Relative Error Streaming Quantiles.</title>
+<year>2020</year>
+<volume>abs/2004.01668</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.01668</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-01668</url>
+</article>
+</r>
+<r><article key="journals/cacm/Cormode19" mdate="2019-08-02">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Technical perspective: The true cost of popularity.</title>
+<pages>94</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3339183</ee>
+<url>db/journals/cacm/cacm62.html#Cormode19</url>
+</article>
+</r>
+<r><article key="journals/csur/CormodeJ19" mdate="2019-05-09">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<title><i>L</i><sub><i>p</i></sub> Samplers and Their Applications: A Survey.</title>
+<pages>16:1-16:31</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3297715</ee>
+<url>db/journals/csur/csur52.html#CormodeJ19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeKS19" mdate="2020-04-25">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Answering Range Queries Under Local Differential Privacy.</title>
+<pages>1126-1138</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1126-cormode.pdf</ee>
+<ee>https://doi.org/10.14778/3339490.3339496</ee>
+<url>db/journals/pvldb/pvldb12.html#CormodeKS19</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/ChakrabartiC0TV19" mdate="2019-11-26">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="12/4662">Suresh Venkatasubramanian</author>
+<title>Verifiable Stream Computation and Arthur-Merlin Communication.</title>
+<pages>1265-1299</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/17M112289X</ee>
+<url>db/journals/siamcomp/siamcomp48.html#ChakrabartiC0TV19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Cormode19" mdate="2020-03-06">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Technical Perspective: #8712;KTELO.</title>
+<pages>14</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371316.3371320</ee>
+<url>db/journals/sigmod/sigmod48.html#Cormode19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/CormodeDK19" mdate="2019-08-08">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="195/6259">Jacques Dark</author>
+<author orcid="0000-0003-1802-4011" pid="15/8910">Christian Konrad</author>
+<title>Independent Sets in Vertex-Arrival Streams.</title>
+<pages>45:1-45:14</pages>
+<year>2019</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2019.45</ee>
+<crossref>conf/icalp/2019</crossref>
+<url>db/conf/icalp/icalp2019.html#CormodeDK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/CormodeH19" mdate="2019-12-19">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="217/4333">Chris Hickey</author>
+<title>Efficient Interactive Proofs for Linear Algebra.</title>
+<pages>48:1-48:19</pages>
+<year>2019</year>
+<booktitle>ISAAC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ISAAC.2019.48</ee>
+<crossref>conf/isaac/2019</crossref>
+<url>db/conf/isaac/isaac2019.html#CormodeH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpec/ChitnisC19" mdate="2020-03-27">
+<author orcid="0000-0002-6098-7770" pid="00/9923">Rajesh Chitnis</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Towards a Theory of Parameterized Streaming Algorithms.</title>
+<pages>7:1-7:15</pages>
+<year>2019</year>
+<booktitle>IPEC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.IPEC.2019.7</ee>
+<crossref>conf/iwpec/2019</crossref>
+<url>db/conf/iwpec/ipec2019.html#ChitnisC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waoa/CormodeV19" mdate="2020-01-28">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="143/7938">Pavel Vesel&#253;</author>
+<title>Streaming Algorithms for Bin Packing and Vector Scheduling.</title>
+<pages>72-88</pages>
+<year>2019</year>
+<booktitle>WAOA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-39479-0_6</ee>
+<crossref>conf/waoa/2019</crossref>
+<url>db/conf/waoa/waoa2019.html#CormodeV19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-03838" mdate="2021-01-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0003-1169-7934" pid="143/7938">Pavel Vesel&#253;</author>
+<title>Tight Lower Bound for Comparison-Based Quantile Summaries.</title>
+<year>2019</year>
+<volume>abs/1905.03838</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.03838</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-03838</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-04897" mdate="2019-05-28">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="143/7938">Pavel Vesel&#253;</author>
+<title>Streaming Algorithms for Bin Packing and Vector Scheduling.</title>
+<year>2019</year>
+<volume>abs/1905.04897</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.04897</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-04897</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-14166" mdate="2019-11-04">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="222/9819">Charlie Dickens</author>
+<title>Iterative Hessian Sketch in Input Sparsity Time.</title>
+<year>2019</year>
+<volume>abs/1910.14166</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.14166</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-14166</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-09650" mdate="2019-12-03">
+<author pid="00/9923">Rajesh Chitnis</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Towards a Theory of Parameterized Streaming Algorithms.</title>
+<year>2019</year>
+<volume>abs/1911.09650</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.09650</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-09650</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/HickeyC18" mdate="2019-04-03">
+<author pid="217/4333">Chris Hickey</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Cheap Checking for Cloud Computing: Statistical Analysis via Annotated Data Streams.</title>
+<pages>1318-1326</pages>
+<year>2018</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v84/hickey18a.html</ee>
+<crossref>conf/aistats/2018</crossref>
+<url>db/conf/aistats/aistats2018.html#HickeyC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangTC18" mdate="2018-11-20">
+<author pid="50/671">Yu Zhang</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Learning Graphical Models from a Distributed Stream.</title>
+<pages>725-736</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00071</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00071</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ZhangTC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeKS18" mdate="2018-11-20">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Constrained Private Mechanisms for Count Data.</title>
+<pages>845-856</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00081</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00081</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#CormodeKS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeH18" mdate="2018-11-20">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="217/4333">Chris Hickey</author>
+<title>You Can Check Others' Work More Quickly Than Doing It Yourself.</title>
+<pages>1681</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00213</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#CormodeH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/CormodeD18" mdate="2018-08-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="195/6259">Jacques Dark</author>
+<title>Fast Sketch-based Recovery of Correlation Outliers.</title>
+<pages>13:1-13:18</pages>
+<year>2018</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2018.13</ee>
+<crossref>conf/icdt/2018</crossref>
+<url>db/conf/icdt/icdt2018.html#CormodeD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/CormodeDW18" mdate="2019-04-03">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="222/9819">Charlie Dickens</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<title>Leveraging Well-Conditioned Bases: Streaming and Distributed Summaries in Minkowski p-Norms.</title>
+<pages>1048-1056</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/cormode18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#CormodeDW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscopt/CormodeDK18" mdate="2018-07-18">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="195/6259">Jacques Dark</author>
+<author pid="15/8910">Christian Konrad</author>
+<title>Approximating the Caro-Wei Bound for Independent Sets in Graph Streams.</title>
+<pages>101-114</pages>
+<year>2018</year>
+<booktitle>ISCO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96151-4_9</ee>
+<crossref>conf/iscopt/2018</crossref>
+<url>db/conf/iscopt/isco2018.html#CormodeDK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/Cormode18" mdate="2018-11-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Data Summarization and Distributed Computation.</title>
+<pages>167-168</pages>
+<year>2018</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/3212734.3212795</ee>
+<crossref>conf/podc/2018</crossref>
+<url>db/conf/podc/podc2018.html#Cormode18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeKS18" mdate="2018-11-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Marginal Release Under Local Differential Privacy.</title>
+<pages>131-146</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196906</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#CormodeKS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeJKLSW18" mdate="2018-12-08">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="j/SomeshJha">Somesh Jha</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="l/NinghuiLi">Ninghui Li</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="145/3288-1">Tianhao Wang 0001</author>
+<title>Privacy at Scale: Local Differential Privacy in Practice.</title>
+<pages>1655-1658</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3197390</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#CormodeJKLSW18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Cormode18" mdate="2019-02-14">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Count-Min Sketch.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_87</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/c2.html#Cormode18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-02571" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="222/9819">Charlie Dickens</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<title>Leveraging Well-Conditioned Bases: Streaming \&#38; Distributed Summaries in Minkowski p-Norms.</title>
+<year>2018</year>
+<volume>abs/1807.02571</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.02571</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-02571</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-08331" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="195/6259">Jacques Dark</author>
+<author pid="15/8910">Christian Konrad</author>
+<title>Independent Sets in Vertex-Arrival Streams.</title>
+<year>2018</year>
+<volume>abs/1807.08331</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.08331</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-08331</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-02023" mdate="2019-01-01">
+<author pid="35/4939">Kook Jin Ahn</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="27/4913">Anthony Wirth</author>
+<title>Correlation Clustering in Data Streams.</title>
+<year>2018</year>
+<volume>abs/1812.02023</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.02023</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-02023</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-10942" mdate="2019-01-02">
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Answering Range Queries Under Local Differential Privacy.</title>
+<year>2018</year>
+<volume>abs/1812.10942</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.10942</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-10942</url>
+</article>
+</r>
+<r><article key="journals/cacm/Cormode17" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Data sketching.</title>
+<pages>48-55</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3080008</ee>
+<url>db/journals/cacm/cacm60.html#Cormode17</url>
+</article>
+</r>
+<r><article key="journals/queue/Cormode17" mdate="2017-07-25">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Data Sketching.</title>
+<pages>60</pages>
+<year>2017</year>
+<volume>15</volume>
+<journal>ACM Queue</journal>
+<number>2</number>
+<ee>http://doi.acm.org/10.1145/3084693.3104030</ee>
+<url>db/journals/queue/queue15.html#Cormode17</url>
+</article>
+</r>
+<r><article key="journals/tcs/CormodeJ17" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<title>A second look at counting triangles in graph streams (corrected).</title>
+<pages>22-30</pages>
+<year>2017</year>
+<volume>683</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2016.06.020</ee>
+<url>db/journals/tcs/tcs683.html#CormodeJ17</url>
+</article>
+</r>
+<r><article key="journals/tcs/CormodeJ17a" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<title>Corrigendum to &#34;A second look at counting triangles in graph streams&#34; [Theoret. Comput. Sci. 552 (2014) 44-51].</title>
+<pages>31-32</pages>
+<year>2017</year>
+<volume>683</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2016.06.036</ee>
+<url>db/journals/tcs/tcs683.html#CormodeJ17a</url>
+</article>
+</r>
+<r><article key="journals/tods/ZhangCPSX17" mdate="2021-04-09">
+<author pid="29/4190">Jun Zhang</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<title>PrivBayes: Private Data Release via Bayesian Networks.</title>
+<pages>25:1-25:41</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3134428</ee>
+<url>db/journals/tods/tods42.html#ZhangCPSX17</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/CormodeJMM17" mdate="2018-08-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>The Sparse Awakens: Streaming Algorithms for Matching Size Estimation in Sparse Graphs.</title>
+<pages>29:1-29:15</pages>
+<year>2017</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2017.29</ee>
+<crossref>conf/esa/2017</crossref>
+<url>db/conf/esa/esa2017.html#CormodeJMM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wea/Cormode17" mdate="2018-08-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Engineering Streaming Algorithms.</title>
+<pages>3:1-3:1</pages>
+<year>2017</year>
+<booktitle>SEA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SEA.2017.3</ee>
+<crossref>conf/wea/2017</crossref>
+<url>db/conf/wea/sea2017.html#Cormode17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeDK17" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="195/6259">Jacques Dark</author>
+<author pid="15/8910">Christian Konrad</author>
+<title>Independent Set Size Approximation in Graph Streams.</title>
+<year>2017</year>
+<volume>abs/1702.08299</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.08299</ee>
+<url>db/journals/corr/corr1702.html#CormodeDK17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-00608" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Constrained Differential Privacy for Count Data.</title>
+<year>2017</year>
+<volume>abs/1710.00608</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.00608</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-00608</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-01985" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="195/6259">Jacques Dark</author>
+<title>Fast Sketch-based Recovery of Correlation Outliers.</title>
+<year>2017</year>
+<volume>abs/1710.01985</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.01985</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-01985</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-02103" mdate="2018-08-13">
+<author pid="50/671">Yu Zhang</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Learning Graphical Models from a Distributed Stream.</title>
+<year>2017</year>
+<volume>abs/1710.02103</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.02103</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-02103</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-02952" mdate="2018-08-13">
+<author pid="46/10579">Tejas Kulkarni</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Marginal Release Under Local Differential Privacy.</title>
+<year>2017</year>
+<volume>abs/1711.02952</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.02952</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-02952</url>
+</article>
+</r>
+<r><article key="journals/talg/CohenCDL16" mdate="2020-12-29">
+<author pid="40/1039">Edith Cohen</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0001-7211-1584" pid="d/NickGDuffield">Nick G. Duffield</author>
+<author pid="l/CarstenLund">Carsten Lund</author>
+<title>On the Tradeoff between Stability and Fit.</title>
+<pages>7:1-7:24</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2963103</ee>
+<url>db/journals/talg/talg13.html#CohenCDL16</url>
+</article>
+</r>
+<r><article key="journals/toc/ChakrabartiC016" mdate="2020-06-21">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Robust Lower Bounds for Communication and Stream Computation.</title>
+<pages>1-35</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>Theory Comput.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.4086/toc.2016.v012a010</ee>
+<url>db/journals/toc/toc12.html#ChakrabartiC016</url>
+</article>
+</r>
+<r><article key="journals/vldb/LuoWYC16" mdate="2019-05-21">
+<author orcid="0000-0002-2823-4488" pid="131/4164">Ge Luo</author>
+<author pid="49/3800">Lu Wang</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Quantiles over data streams: experimental comparisons, new analyses, and further improvements.</title>
+<pages>449-472</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-016-0424-7</ee>
+<url>db/journals/vldb/vldb25.html#LuoWYC16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/JorgensenYC16" mdate="2018-11-06">
+<author pid="31/113">Zach Jorgensen</author>
+<author pid="y/TingYu">Ting Yu</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Publishing Attributed Social Graphs with Formal Privacy Guarantees.</title>
+<pages>107-122</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915215</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#JorgensenYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/ChitnisCEHMMV16" mdate="2021-02-02">
+<author orcid="0000-0002-6098-7770" pid="00/9923">Rajesh Chitnis</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="146/7746">Hossein Esfandiari</author>
+<author pid="h/MohammadTaghiHajiaghayi">MohammadTaghi Hajiaghayi</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<author pid="150/2747">Sofya Vorotnikova</author>
+<title>Kernelization via Sampling with Applications to Finding Matchings and Related Problems in Dynamic Graph Streams.</title>
+<pages>1326-1344</pages>
+<year>2016</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611974331.ch92</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2884527</ee>
+<crossref>conf/soda/2016</crossref>
+<url>db/conf/soda/soda2016.html#ChitnisCEHMMV16</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/16/CormodeG16" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Join Sizes, Frequency Moments, and Applications.</title>
+<pages>87-102</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_4</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#CormodeG16</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/16/CormodeI16" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="i/PiotrIndyk">Piotr Indyk</author>
+<title>Stable Distributions in Streaming Computations.</title>
+<pages>283-300</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_14</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#CormodeI16</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Cormode16" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>AMS Sketch.</title>
+<pages>76-78</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_578</ee>
+<url>db/reference/algo/algo2016.html#Cormode16</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Cormode16a" mdate="2017-07-12">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Count-Min Sketch.</title>
+<pages>464-468</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_579</ee>
+<url>db/reference/algo/algo2016.html#Cormode16a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Cormode16b" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Misra-Gries Summaries.</title>
+<pages>1334-1337</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_572</ee>
+<url>db/reference/algo/algo2016.html#Cormode16b</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeJMM16" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>The Sparse Awakens: Streaming Algorithms for Matching Size Estimation in Sparse Graphs.</title>
+<year>2016</year>
+<volume>abs/1608.03118</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.03118</ee>
+<url>db/journals/corr/corr1608.html#CormodeJMM16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HeCMPS15" mdate="2020-04-25">
+<author pid="28/949-1">Xi He 0001</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>DPT: Differentially Private Trajectory Synthesis Using Hierarchical Reference Systems.</title>
+<pages>1154-1165</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1154-he.pdf</ee>
+<ee>https://doi.org/10.14778/2809974.2809978</ee>
+<url>db/journals/pvldb/pvldb8.html#HeCMPS15</url>
+</article>
+</r>
+<r><article key="journals/vldb/MirylenkaCPS15" mdate="2018-11-30">
+<author pid="67/11335">Katsiaryna Mirylenka</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Conditional heavy hitters: detecting interesting correlations in data streams.</title>
+<pages>395-414</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-015-0382-5</ee>
+<url>db/journals/vldb/vldb24.html#MirylenkaCPS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/Cormode15" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Streaming Methods in Data Analysis.</title>
+<pages>3-6</pages>
+<year>2015</year>
+<booktitle>BICOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-20424-6_1</ee>
+<crossref>conf/bncod/2015</crossref>
+<url>db/conf/bncod/bicod2015.html#Cormode15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coco/ChakrabartiCMTV15" mdate="2019-12-20">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="12/4662">Suresh Venkatasubramanian</author>
+<title>Verifiable Stream Computation and Arthur-Merlin Communication.</title>
+<pages>217-243</pages>
+<year>2015</year>
+<booktitle>Computational Complexity Conference</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CCC.2015.217</ee>
+<crossref>conf/coco/2015</crossref>
+<url>db/conf/coco/coco2015.html#ChakrabartiCMTV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/JorgensenYC15" mdate="2018-11-30">
+<author pid="31/113">Zach Jorgensen</author>
+<author pid="y/TingYu">Ting Yu</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Conservative or liberal? Personalized differential privacy.</title>
+<pages>1023-1034</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113353</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113353</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#JorgensenYC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Cormode15" mdate="2018-08-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>The Confounding Problem of Private Data Release (Invited Talk).</title>
+<pages>1-12</pages>
+<year>2015</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2015.1</ee>
+<crossref>conf/icdt/2015</crossref>
+<url>db/conf/icdt/icdt2015.html#Cormode15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/AhnCGMW15" mdate="2019-05-29">
+<author pid="35/4939">Kook Jin Ahn</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="27/4913">Anthony Wirth</author>
+<title>Correlation Clustering in Data Streams.</title>
+<pages>2237-2246</pages>
+<year>2015</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v37/ahn15.html</ee>
+<crossref>conf/icml/2015</crossref>
+<url>db/conf/icml/icml2015.html#AhnCGMW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Cormode15" mdate="2018-11-06">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Compact Summaries over Large Datasets.</title>
+<pages>157-158</pages>
+<year>2015</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2745754.2745781</ee>
+<crossref>conf/pods/2015</crossref>
+<url>db/conf/pods/pods2015.html#Cormode15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangCPSX15" mdate="2021-04-09">
+<author pid="29/4190">Jun Zhang</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<title>Private Release of Graph Statistics using Ladder Functions.</title>
+<pages>731-745</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2737785</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ZhangCPSX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/ChitnisCHM15" mdate="2021-02-02">
+<author orcid="0000-0002-6098-7770" pid="00/9923">Rajesh Hemant Chitnis</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="h/MohammadTaghiHajiaghayi">Mohammad Taghi Hajiaghayi</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<title>Parameterized Streaming: Maximal Matching and Vertex Cover.</title>
+<pages>1234-1251</pages>
+<year>2015</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973730.82</ee>
+<crossref>conf/soda/2015</crossref>
+<url>db/conf/soda/soda2015.html#ChitnisCHM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/ChitnisCEHM15" mdate="2018-11-06">
+<author orcid="0000-0002-6098-7770" pid="00/9923">Rajesh Hemant Chitnis</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="146/7746">Hossein Esfandiari</author>
+<author pid="h/MohammadTaghiHajiaghayi">MohammadTaghi Hajiaghayi</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<title>Brief Announcement: New Streaming Algorithms for Parameterized Maximal Matching &#38; Beyond.</title>
+<pages>56-58</pages>
+<year>2015</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2755573.2755618</ee>
+<crossref>conf/spaa/2015</crossref>
+<url>db/conf/spaa/spaa2015.html#ChitnisCEHM15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ChitnisCEHMMV15" mdate="2018-08-13">
+<author pid="00/9923">Rajesh Hemant Chitnis</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="146/7746">Hossein Esfandiari</author>
+<author pid="h/MohammadTaghiHajiaghayi">MohammadTaghi Hajiaghayi</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<author pid="150/2747">Sofya Vorotnikova</author>
+<title>Kernelization via Sampling with Applications to Dynamic Graph Streams.</title>
+<year>2015</year>
+<volume>abs/1505.01731</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.01731</ee>
+<url>db/journals/corr/corr1505.html#ChitnisCEHMMV15</url>
+</article>
+</r>
+<r><article key="journals/dpd/CormodeF14" mdate="2020-05-18">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0003-0358-3208" pid="05/10127">Donatella Firmani</author>
+<title>A unifying framework for &#8467; 0-sampling algorithms.</title>
+<pages>315-335</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10619-013-7131-9</ee>
+<url>db/journals/dpd/dpd32.html#CormodeF14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Cormode14" mdate="2020-04-25">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Front Matter.</title>
+<pages>i-ix</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/FrontMatterVol7No6.pdf</ee>
+<url>db/journals/pvldb/pvldb7.html#Cormode14</url>
+</article>
+</r>
+<r><article key="journals/talg/ChakrabartiCMT14" mdate="2018-11-06">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Annotations in Data Streams.</title>
+<pages>7:1-7:30</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2636924</ee>
+<url>db/journals/talg/talg11.html#ChakrabartiCMT14</url>
+</article>
+</r>
+<r><article key="journals/tcs/CormodeJ14" mdate="2021-02-17">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<title>A second look at counting triangles in graph streams.</title>
+<pages>44-51</pages>
+<year>2014</year>
+<volume>552</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2014.07.025</ee>
+<url>db/journals/tcs/tcs552.html#CormodeJ14</url>
+</article>
+</r>
+<r><article key="journals/tods/PapadopoulosCDG14" mdate="2018-11-06">
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Lightweight Query Authentication on Streams.</title>
+<pages>30:1-30:45</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2656336</ee>
+<url>db/journals/tods/tods39.html#PapadopoulosCDG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/CormodeD14" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/NickGDuffield">Nick G. Duffield</author>
+<title>Sampling for big data: a tutorial.</title>
+<pages>1975</pages>
+<year>2014</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2623330.2630811</ee>
+<crossref>conf/kdd/2014</crossref>
+<url>db/conf/kdd/kdd2014.html#CormodeD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangCPSX14" mdate="2018-11-06">
+<author pid="29/4190">Jun Zhang</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<title>PrivBayes: private data release via bayesian networks.</title>
+<pages>1423-1434</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2588573</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ZhangCPSX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/ChakrabartiCGT14" mdate="2021-02-02">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="20/6275">Navin Goyal</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Annotations for Sparse Data Streams.</title>
+<pages>687-706</pages>
+<year>2014</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973402.52</ee>
+<crossref>conf/soda/2014</crossref>
+<url>db/conf/soda/soda2014.html#ChakrabartiCGT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MaMTC14" mdate="2019-06-24">
+<author pid="m/QiangMa6">Qiang Ma 0006</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="08/3723">Brian Thompson</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Modeling collaboration in academia: a game theoretic approach.</title>
+<pages>1177-1182</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2579032</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#MaMTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/CormodeMY14" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="40/11207">Jinyun Yan</author>
+<title>People like us: mining scholarly data for comparable researchers.</title>
+<pages>1227-1232</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2579038</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#CormodeMY14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeJ14" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="29/358">Hossein Jowhari</author>
+<title>A Second Look at Counting Triangles in Graph Streams.</title>
+<year>2014</year>
+<volume>abs/1401.2175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.2175</ee>
+<url>db/journals/corr/corr1401.html#CormodeJ14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeMY14" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="40/11207">Jinyun Yan</author>
+<title>People Like Us: Mining Scholarly Data for Comparable Researchers.</title>
+<year>2014</year>
+<volume>abs/1403.2941</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.2941</ee>
+<url>db/journals/corr/corr1403.html#CormodeMY14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChitnisCHM14" mdate="2018-08-13">
+<author pid="00/9923">Rajesh Hemant Chitnis</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="h/MohammadTaghiHajiaghayi">Mohammad Taghi Hajiaghayi</author>
+<author pid="11/4322">Morteza Monemizadeh</author>
+<title>Parameterized Streaming Algorithms for Vertex Cover.</title>
+<year>2014</year>
+<volume>abs/1405.0093</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.0093</ee>
+<url>db/journals/corr/corr1405.html#ChitnisCHM14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeMMT14" mdate="2019-06-24">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/QiangMa6">Qiang Ma 0006</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="08/3723">Brian Thompson</author>
+<title>Modeling Collaboration in Academia: A Game Theoretic Approach.</title>
+<year>2014</year>
+<volume>abs/1407.2220</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.2220</ee>
+<url>db/journals/corr/corr1407.html#CormodeMMT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/ChakrabartiCMTV14" mdate="2020-09-08">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="12/4662">Suresh Venkatasubramanian</author>
+<title>Verifiable Stream Computation and Arthur-Merlin Communication.</title>
+<pages>86</pages>
+<year>2014</year>
+<volume>21</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2014/086</ee>
+<url>db/journals/eccc/eccc21.html#ChakrabartiCMTV14</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/CormodeMT13" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Streaming Graph Computations with a Helpful Advisor.</title>
+<pages>409-442</pages>
+<year>2013</year>
+<volume>65</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00453-011-9598-y</ee>
+<url>db/journals/algorithmica/algorithmica65.html#CormodeMT13</url>
+</article>
+</r>
+<r><article key="journals/joi/CormodeMMT13" mdate="2019-06-24">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/QiangMa6">Qiang Ma 0006</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="08/3723">Brian Thompson</author>
+<title>Socializing the h-index.</title>
+<pages>718-721</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>J. Informetrics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.joi.2013.05.001</ee>
+<url>db/journals/joi/joi7.html#CormodeMMT13</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/ChakrabartiCKM13" mdate="2018-11-02">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="76/8036">Ranganath Kondapally</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Information Cost Tradeoffs for Augmented Index and Streaming Language Recognition.</title>
+<pages>61-83</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIAM J. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1137/100816481</ee>
+<url>db/journals/siamcomp/siamcomp42.html#ChakrabartiCKM13</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Cormode13" mdate="2020-03-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>The continuous distributed monitoring model.</title>
+<pages>5-14</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2481528.2481530</ee>
+<url>db/journals/sigmod/sigmod42.html#Cormode13</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Cormode13a" mdate="2020-03-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>What does an associate editor actually do?</title>
+<pages>52-58</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2503792.2503805</ee>
+<url>db/journals/sigmod/sigmod42.html#Cormode13a</url>
+</article>
+</r>
+<r><article key="journals/tods/AgarwalCHPWY13" mdate="2019-05-21">
+<author pid="a/PankajKAgarwal">Pankaj K. Agarwal</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<author pid="17/3933">Jeff M. Phillips</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Mergeable summaries.</title>
+<pages>26:1-26:28</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2500128</ee>
+<url>db/journals/tods/tods38.html#AgarwalCHPWY13</url>
+</article>
+</r>
+<r><inproceedings key="conf/alenex/CormodeF13" mdate="2019-10-19">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0003-0358-3208" pid="05/10127">Donatella Firmani</author>
+<title>On Unifying the Space of &#8467;<sub>0</sub>-Sampling Algorithms.</title>
+<pages>163-172</pages>
+<year>2013</year>
+<booktitle>ALENEX</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972931.14</ee>
+<crossref>conf/alenex/2013</crossref>
+<url>db/conf/alenex/alenex2013.html#CormodeF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cie/Cormode13" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Summary Data Structures for Massive Data.</title>
+<pages>78-86</pages>
+<year>2013</year>
+<booktitle>CiE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39053-1_9</ee>
+<crossref>conf/cie/2013</crossref>
+<url>db/conf/cie/cie2013.html#Cormode13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/CormodeMY13" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="40/11207">Jinyun Yan</author>
+<title>First author advantage: citation labeling in research.</title>
+<pages>13-18</pages>
+<year>2013</year>
+<booktitle>CompSci@CIKM</booktitle>
+<ee>https://doi.org/10.1145/2508497.2508500</ee>
+<crossref>conf/cikm/2013compsci</crossref>
+<url>db/conf/cikm/compsci2013.html#CormodeMY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/CormodeSGYPS13" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="31/9364">Entong Shen</author>
+<author pid="19/3993">Xi Gong</author>
+<author pid="y/TingYu">Ting Yu</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>UMicS: from anonymized data to usable microdata.</title>
+<pages>2255-2260</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505737</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#CormodeSGYPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodePSSY13" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="31/9364">Entong Shen</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="y/TingYu">Ting Yu</author>
+<title>Empirical privacy and empirical utility of anonymized data.</title>
+<pages>77-82</pages>
+<year>2013</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2013.6547431</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2013.6547431</ee>
+<crossref>conf/icde/2013w</crossref>
+<url>db/conf/icde/icdew2013.html#CormodePSSY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YaroslavtsevCPS13" mdate="2018-11-30">
+<author pid="31/7137">Grigory Yaroslavtsev</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Accurate and efficient private release of datacubes and contingency tables.</title>
+<pages>745-756</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544871</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544871</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#YaroslavtsevCPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MirylenkaPCS13" mdate="2017-05-17">
+<author pid="67/11335">Katsiaryna Mirylenka</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Finding interesting correlations with conditional heavy hitters.</title>
+<pages>1069-1080</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544898</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544898</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#MirylenkaPCS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WangLYC13" mdate="2019-05-21">
+<author pid="49/3800">Lu Wang</author>
+<author pid="131/4164">Ge Luo</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Quantiles over data streams: an experimental study.</title>
+<pages>737-748</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465312</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#WangLYC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PapadopoulosCDG13" mdate="2018-11-06">
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Lightweight authentication of linear algebraic queries on data streams.</title>
+<pages>881-892</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465281</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#PapadopoulosCDG13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2013bd3" mdate="2020-02-12">
+<editor pid="c/GrahamCormode">Graham Cormode</editor>
+<editor pid="43/1219-1">Ke Yi 0001</editor>
+<editor pid="d/ADeligiannakis">Antonios Deligiannakis</editor>
+<editor pid="g/MinosNGarofalakis">Minos N. Garofalakis</editor>
+<title>Proceedings of the First International Workshop on Big Dynamic Distributed Data, Riva del Garda, Italy, August 30, 2013</title>
+<booktitle>BD3@VLDB</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1018</volume>
+<year>2013</year>
+<ee type="oa">http://ceur-ws.org/Vol-1018</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1018-1</ee>
+<url>db/conf/vldb/bd32013.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-2137" mdate="2018-08-13">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/NickGDuffield">Nick G. Duffield</author>
+<author pid="l/CarstenLund">Carsten Lund</author>
+<title>On the Tradeoff between Stability and Fit</title>
+<ee type="oa">http://arxiv.org/abs/1302.2137</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.2137</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-2137</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-3816" mdate="2018-08-13">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="20/6275">Navin Goyal</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Annotations for Sparse Data Streams</title>
+<ee type="oa">http://arxiv.org/abs/1304.3816</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.3816</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-3816</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeMY13" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="40/11207">Jinyun Yan</author>
+<title>First Author Advantage: Citation Labeling in Research.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.1968</ee>
+<volume>abs/1310.1968</volume>
+<url>db/journals/corr/corr1310.html#CormodeMY13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/ChakrabartiCMTV13" mdate="2020-09-08">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="12/4662">Suresh Venkatasubramanian</author>
+<title>On Interactivity in Arthur-Merlin Communication and Stream Computation.</title>
+<pages>180</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2013/180</ee>
+<url>db/journals/eccc/eccc20.html#ChakrabartiCMTV13</url>
+</article>
+</r>
+<r><article key="journals/ftdb/CormodeGHJ12" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="j/ChrisJermaine">Chris Jermaine</author>
+<title>Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches.</title>
+<pages>1-294</pages>
+<year>2012</year>
+<volume>4</volume>
+<journal>Found. Trends Databases</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1561/1900000004</ee>
+<url>db/journals/ftdb/ftdb4.html#CormodeGHJ12</url>
+</article>
+</r>
+<r><article key="journals/jacm/CormodeMYZ12" mdate="2019-05-21">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="45/47-1">Qin Zhang 0001</author>
+<title>Continuous sampling from distributed streams.</title>
+<pages>10:1-10:25</pages>
+<year>2012</year>
+<volume>59</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2160158.2160163</ee>
+<url>db/journals/jacm/jacm59.html#CormodeMYZ12</url>
+</article>
+</r>
+<r><article key="journals/sigkdd/CormodeMY12" mdate="2020-09-29">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="40/11207">Jinyun Yan</author>
+<title>Studying the source code of scientific research.</title>
+<pages>59-62</pages>
+<year>2012</year>
+<volume>14</volume>
+<journal>SIGKDD Explor.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2481244.2481254</ee>
+<url>db/journals/sigkdd/sigkdd14.html#CormodeMY12</url>
+</article>
+</r>
+<r><article key="journals/software/CormodeM12" mdate="2020-06-08">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthu Muthukrishnan</author>
+<title>Approximating Data with the Count-Min Sketch.</title>
+<pages>64-69</pages>
+<year>2012</year>
+<volume>29</volume>
+<journal>IEEE Softw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MS.2011.127</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2011.127</ee>
+<url>db/journals/software/software29.html#CormodeM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/GoyalDC12" mdate="2019-09-13">
+<author pid="03/3019-1">Amit Goyal 0001</author>
+<author pid="77/2856">Hal Daum&#233; III</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Sketch Algorithms for Estimating Point Queries in NLP.</title>
+<pages>1093-1103</pages>
+<year>2012</year>
+<booktitle>EMNLP-CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D12-1100/</ee>
+<crossref>conf/emnlp/2012</crossref>
+<url>db/conf/emnlp/emnlp2012.html#GoyalDC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fun/CormodeMY12" mdate="2017-05-26">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="40/11207">Jinyun Yan</author>
+<title>Scienceography: The Study of How Science Is Written.</title>
+<pages>379-391</pages>
+<year>2012</year>
+<booktitle>FUN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30347-0_37</ee>
+<crossref>conf/fun/2012</crossref>
+<url>db/conf/fun/fun2012.html#CormodeMY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodePSSY12" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="31/9364">Entong Shen</author>
+<author pid="y/TingYu">Ting Yu</author>
+<title>Differentially Private Spatial Decompositions.</title>
+<pages>20-31</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.16</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#CormodePSSY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeSSY12" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="31/9364">Entong Shen</author>
+<author pid="y/TingYu">Ting Yu</author>
+<title>Aggregate Query Answering on Possibilistic Data with Cardinality Constraints.</title>
+<pages>258-269</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.15</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#CormodeSSY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuBCHS12" mdate="2018-11-30">
+<author pid="93/7784">Meiyu Lu</author>
+<author pid="94/3560">Srinivas Bangalore</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>A Dataset Search Engine for the Research Document Corpus.</title>
+<pages>1237-1240</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.80</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#LuBCHS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/CormodePST12" mdate="2018-11-06">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="t/ThanhTran2">Thanh T. L. Tran</author>
+<title>Differentially private summaries for sparse data.</title>
+<pages>299-311</pages>
+<year>2012</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/2274576.2274608</ee>
+<crossref>conf/icdt/2012</crossref>
+<url>db/conf/icdt/icdt2012.html#CormodePST12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/innovations/CormodeMT12" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Practical verified computation with streaming interactive proofs.</title>
+<pages>90-112</pages>
+<year>2012</year>
+<booktitle>ITCS</booktitle>
+<ee>https://doi.org/10.1145/2090236.2090245</ee>
+<crossref>conf/innovations/2012</crossref>
+<url>db/conf/innovations/innovations2012.html#CormodeMT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AgarwalCHPWY12" mdate="2019-05-21">
+<author pid="a/PankajKAgarwal">Pankaj K. Agarwal</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<author pid="17/3933">Jeff M. Phillips</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Mergeable summaries.</title>
+<pages>23-34</pages>
+<year>2012</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2213556.2213562</ee>
+<crossref>conf/pods/2012</crossref>
+<url>db/conf/pods/pods2012.html#AgarwalCHPWY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/CohenCD12" mdate="2018-11-06">
+<author pid="40/1039">Edith Cohen</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/NickGDuffield">Nick G. Duffield</author>
+<title>Don't let the negatives bring you down: sampling from streams of signed updates.</title>
+<pages>343-354</pages>
+<year>2012</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/2254756.2254798</ee>
+<crossref>conf/sigmetrics/2012</crossref>
+<url>db/conf/sigmetrics/sigmetrics2012.html#CohenCD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/CormodeY12" mdate="2019-05-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Tracking Distributed Aggregates over Time-Based Sliding Windows.</title>
+<pages>416-430</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_28</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#CormodeY12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1202-2638" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="94/10966">Jinyun Yun</author>
+<title>Scienceography: the study of how science is written</title>
+<ee type="oa">http://arxiv.org/abs/1202.2638</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1202.2638</volume>
+<url>db/journals/corr/corr1202.html#abs-1202-2638</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-6096" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia M. Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="31/7137">Grigory Yaroslavtsev</author>
+<title>Accurate and Efficient Private Release of Datacubes and Contingency Tables</title>
+<ee type="oa">http://arxiv.org/abs/1207.6096</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.6096</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-6096</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CormodeMMT12" mdate="2019-06-24">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/QiangMa6">Qiang Ma 0006</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="08/3723">Brian Thompson</author>
+<title>Socializing the h-index.</title>
+<year>2012</year>
+<volume>abs/1211.7133</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1211.7133</ee>
+<url>db/journals/corr/corr1211.html#CormodeMMT12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/ChakrabartiCMT12" mdate="2020-09-08">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Annotations in Data Streams.</title>
+<pages>22</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2012/022</ee>
+<url>db/journals/eccc/eccc19.html#ChakrabartiCMT12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/shonan-reports/CormodeMY12" mdate="2021-03-04">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Large-Scale Distributed Computation (NII Shonan Meeting 2012-1).</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>NII Shonan Meet. Rep.</journal>
+<ee type="oa">https://shonan.nii.ac.jp/seminars/011/</ee>
+<url>db/journals/shonan-reports/shonan-reports2012.html#CormodeMY12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CohenCD11" mdate="2020-04-25">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/NickGDuffield">Nick G. Duffield</author>
+<title>Structure-Aware Sampling: Flexible and Accurate Summarization.</title>
+<pages>819-830</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p819-cohen.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#CohenCD11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeTY11" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Verifying Computations with Streaming Interactive Proofs.</title>
+<pages>25-36</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol5/p025_grahamcormode_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2047485.2047488</ee>
+<url>db/journals/pvldb/pvldb5.html#CormodeTY11</url>
+</article>
+</r>
+<r><article key="journals/talg/CormodeMY11" mdate="2019-05-21">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Algorithms for distributed functional monitoring.</title>
+<pages>21:1-21:20</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1921659.1921667</ee>
+<url>db/journals/talg/talg7.html#CormodeMY11</url>
+</article>
+</r>
+<r><article key="journals/tkde/JestesCLY11" mdate="2019-05-21">
+<author pid="24/7114">Jeffrey Jestes</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Semantics of Ranking Queries for Probabilistic Data.</title>
+<pages>1903-1917</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2010.192</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.192</ee>
+<url>db/journals/tkde/tkde23.html#JestesCLY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/almodep/Cormode11" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Algorithms for Continuous Distributing Monitoring: A survey.</title>
+<pages>1-10</pages>
+<year>2011</year>
+<booktitle>AlMoDEP</booktitle>
+<ee>https://doi.org/10.1145/2031792.2031793</ee>
+<crossref>conf/almodep/2011</crossref>
+<url>db/conf/almodep/almodep2011.html#Cormode11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/Cormode11" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>Personal privacy vs population privacy: learning to attack anonymization.</title>
+<pages>1253-1261</pages>
+<year>2011</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2020408.2020598</ee>
+<crossref>conf/kdd/2011</crossref>
+<url>db/conf/kdd/kdd2011.html#Cormode11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/CormodeY11" mdate="2019-05-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Tracking distributed aggregates over time-based sliding windows.</title>
+<pages>213-214</pages>
+<year>2011</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/1993806.1993839</ee>
+<crossref>conf/podc/2011</crossref>
+<url>db/conf/podc/podc2011.html#CormodeY11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/CohenCD11" mdate="2018-11-06">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/NickGDuffield">Nick G. Duffield</author>
+<title>Structure-aware sampling on data streams.</title>
+<pages>197-208</pages>
+<year>2011</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/1993744.1993763</ee>
+<crossref>conf/sigmetrics/2011</crossref>
+<url>db/conf/sigmetrics/sigmetrics2011.html#CohenCD11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/social2011/BhagatCM11" mdate="2017-05-16">
+<author pid="30/3887">Smriti Bhagat</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Node Classification in Social Networks.</title>
+<pages>115-148</pages>
+<year>2011</year>
+<booktitle>Social Network Data Analytics</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-8462-3_5</ee>
+<crossref>books/sp/social11</crossref>
+<url>db/books/collections/Social2011.html#BhagatCM11</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1101-3291" mdate="2018-08-13">
+<author pid="30/3887">Smriti Bhagat</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Node Classification in Social Networks</title>
+<ee type="oa">http://arxiv.org/abs/1101.3291</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1101.3291</volume>
+<url>db/journals/corr/corr1101.html#abs-1101-3291</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-5146" mdate="2018-08-13">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/NickGDuffield">Nick G. Duffield</author>
+<title>Structure-Aware Sampling: Flexible and Accurate Summarization</title>
+<ee type="oa">http://arxiv.org/abs/1102.5146</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.5146</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-5146</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-0825" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="05/906">Cecilia Magdalena Procopiuc</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="t/ThanhTran2">Thanh T. L. Tran</author>
+<title>Differentially Private Publication of Sparse Data</title>
+<ee type="oa">http://arxiv.org/abs/1103.0825</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.0825</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-0825</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-5170" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="83/9361">Magda Procopiuc</author>
+<author pid="31/9364">Entong Shen</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="y/TingYu">Ting Yu</author>
+<title>Differentially Private Spatial Decompositions</title>
+<ee type="oa">http://arxiv.org/abs/1103.5170</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.5170</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-5170</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1105-2003" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Practical Verified Computation with Streaming Interactive Proofs</title>
+<ee type="oa">http://arxiv.org/abs/1105.2003</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1105.2003</volume>
+<url>db/journals/corr/corr1105.html#abs-1105-2003</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-6882" mdate="2019-05-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Verifying Computations with Streaming Interactive Proofs</title>
+<ee type="oa">http://arxiv.org/abs/1109.6882</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.6882</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-6882</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/ChakrabartiCM11" mdate="2020-09-08">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Robust Lower Bounds for Communication and Stream Computation.</title>
+<pages>62</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2011/062</ee>
+<url>db/journals/eccc/eccc18.html#ChakrabartiCM11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/CormodeMT11" mdate="2020-09-08">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Streaming Graph Computations with a Helpful Advisor.</title>
+<pages>105</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2011/105</ee>
+<url>db/journals/eccc/eccc18.html#CormodeMT11</url>
+</article>
+</r>
+<r><article key="journals/firstmonday/CormodeKW10" mdate="2019-07-01">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="89/7016">Balachander Krishnamurthy</author>
+<author pid="w/WalterWillinger">Walter Willinger</author>
+<title>A manifesto for modeling and measurement in social media.</title>
+<year>2010</year>
+<volume>15</volume>
+<journal>First Monday</journal>
+<number>9</number>
+<ee type="oa">https://firstmonday.org/ojs/index.php/fm/article/view/3072</ee>
+<url>db/journals/firstmonday/firstmonday15.html#CormodeKW10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeLLS10" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="l/NinghuiLi">Ninghui Li</author>
+<author pid="92/250">Tiancheng Li</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Minimizing Minimality and Maximizing Utility: Analyzing Method-based attacks on Anonymized Data.</title>
+<pages>1045-1056</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R93.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920972</ee>
+<url>db/journals/pvldb/pvldb3.html#CormodeLLS10</url>
+</article>
+</r>
+<r><article key="journals/talg/ChakrabartiCM10" mdate="2018-11-06">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>A near-optimal algorithm for estimating the entropy of a stream.</title>
+<year>2010</year>
+<volume>6</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1798596.1798604</ee>
+<url>db/journals/talg/talg6.html#ChakrabartiCM10</url>
+<pages>51:1-51:21</pages>
+</article>
+</r>
+<r><article key="journals/tkde/CormodeG10" mdate="2017-05-20">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Histograms and Wavelets on Probabilistic Data.</title>
+<pages>1142-1157</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.66</ee>
+<url>db/journals/tkde/tkde22.html#CormodeG10</url>
+</article>
+</r>
+<r><article key="journals/tods/BerindeICS10" mdate="2018-11-06">
+<author pid="36/6864">Radu Berinde</author>
+<author pid="i/PiotrIndyk">Piotr Indyk</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/MartinStrauss">Martin J. Strauss</author>
+<title>Space-optimal heavy hitters with strong error bounds.</title>
+<pages>26:1-26:28</pages>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1862919.1862923</ee>
+<url>db/journals/tods/tods35.html#BerindeICS10</url>
+</article>
+</r>
+<r><article key="journals/vldb/CormodeH10" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<title>Methods for finding frequent items in data streams.</title>
+<pages>3-20</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-009-0172-z</ee>
+<url>db/journals/vldb/vldb19.html#CormodeH10</url>
+</article>
+</r>
+<r><article key="journals/vldb/CormodeSYZ10" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="y/TingYu">Ting Yu</author>
+<author pid="68/1429">Qing Zhang</author>
+<title>Anonymizing bipartite graph data using safe groupings.</title>
+<pages>115-139</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-009-0167-9</ee>
+<ee>https://www.wikidata.org/entity/Q57440923</ee>
+<url>db/journals/vldb/vldb19.html#CormodeSYZ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/CormodeKW10" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="44/5186">Howard J. Karloff</author>
+<author orcid="0000-0003-3746-6704" pid="27/4913">Anthony Wirth</author>
+<title>Set cover algorithms for very large datasets.</title>
+<pages>479-488</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871501</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#CormodeKW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/CormodeMT10" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Streaming Graph Computations with a Helpful Advisor.</title>
+<pages>231-242</pages>
+<year>2010</year>
+<booktitle>ESA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15775-2_20</ee>
+<crossref>conf/esa/2010-1</crossref>
+<url>db/conf/esa/esa2010-1.html#CormodeMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/ChakrabartiCKM10" mdate="2018-11-30">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="76/8036">Ranganath Kondapally</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Information Cost Tradeoffs for Augmented Index and Streaming Language Recognition.</title>
+<pages>387-396</pages>
+<year>2010</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2010.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOCS.2010.44</ee>
+<crossref>conf/focs/2010</crossref>
+<url>db/conf/focs/focs2010.html#ChakrabartiCKM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeS10" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Anonymized Data: Generation, models, usage.</title>
+<pages>1211-1212</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447721</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447721</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#CormodeS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CormodeMYZ10" mdate="2019-05-21">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="45/47-1">Qin Zhang 0001</author>
+<title>Optimal sampling from distributed streams.</title>
+<pages>77-86</pages>
+<year>2010</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1807085.1807099</ee>
+<crossref>conf/pods/2010</crossref>
+<url>db/conf/pods/pods2010.html#CormodeMYZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wosn/BhagatCS10" mdate="2014-05-29">
+<author pid="30/3887">Smriti Bhagat</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Prediction Promotes Privacy in Dynamic Social Networks.</title>
+<year>2010</year>
+<booktitle>WOSN</booktitle>
+<ee>https://www.usenix.org/conference/wosn-2010/prediction-promotes-privacy-dynamic-social-networks</ee>
+<crossref>conf/wosn/2010</crossref>
+<url>db/conf/wosn/wosn2010.html#BhagatCS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BhagatCKS10" mdate="2018-11-06">
+<author pid="30/3887">Smriti Bhagat</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="89/7016">Balachander Krishnamurthy</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Privacy in dynamic social networks.</title>
+<pages>1059-1060</pages>
+<year>2010</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1772690.1772803</ee>
+<crossref>conf/www/2010</crossref>
+<url>db/conf/www/www2010.html#BhagatCKS10</url>
+</inproceedings>
+</r>
+<r><book key="series/ccn/CT2010" mdate="2019-05-29">
+<editor orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</editor>
+<editor pid="t/MarinaThottan">Marina Thottan</editor>
+<title>Algorithms for Next Generation Networks</title>
+<publisher>Springer</publisher>
+<year>2010</year>
+<series href="db/series/ccn/index.html">Computer Communications and Networks</series>
+<isbn>978-1-84882-764-6</isbn>
+<isbn>978-1-84882-765-3</isbn>
+<ee>https://doi.org/10.1007/978-1-84882-765-3</ee>
+<url>db/series/ccn/CT2010.html</url>
+</book>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-2899" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="61/8038">Justin Thaler</author>
+<title>Streaming Graph Computations with a Helpful Advisor</title>
+<ee type="oa">http://arxiv.org/abs/1004.2899</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.2899</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-2899</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-3304" mdate="2018-08-13">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="76/8036">Ranganath Kondapally</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Information Cost Tradeoffs for Augmented Index and Streaming Language Recognition</title>
+<ee type="oa">http://arxiv.org/abs/1004.3304</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.3304</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-3304</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1011-2511" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Individual Privacy vs Population Privacy: Learning to Attack Anonymization</title>
+<ee type="oa">http://arxiv.org/abs/1011.2511</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1011.2511</volume>
+<url>db/journals/corr/corr1011.html#abs-1011-2511</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/ChakrabartiCKM10" mdate="2020-09-08">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="76/8036">Ranganath Kondapally</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Information Cost Tradeoffs for Augmented Index and Streaming Language Recognition.</title>
+<pages>76</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2010/076</ee>
+<url>db/journals/eccc/eccc17.html#ChakrabartiCKM10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/CormodeTY10" mdate="2020-09-08">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="61/8038">Justin Thaler</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Verifying Computations with Streaming Interactive Proofs.</title>
+<pages>159</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2010/159</ee>
+<url>db/journals/eccc/eccc17.html#CormodeTY10</url>
+</article>
+</r>
+<r><article key="journals/cacm/CormodeH09" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<title>Finding the frequent items in streams of data.</title>
+<pages>97-105</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/1562764.1562789</ee>
+<url>db/journals/cacm/cacm52.html#CormodeH09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeDGM09" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Probabilistic Histograms for Probabilistic Data.</title>
+<pages>526-537</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-394.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687687</ee>
+<url>db/journals/pvldb/pvldb2.html#CormodeDGM09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeSBK09" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="30/3887">Smriti Bhagat</author>
+<author pid="89/7016">Balachander Krishnamurthy</author>
+<title>Class-based graph anonymization for social network data.</title>
+<pages>766-777</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-pvldb26.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687714</ee>
+<url>db/journals/pvldb/pvldb2.html#CormodeSBK09</url>
+</article>
+</r>
+<r><article key="journals/sadm/CormodeTX09" mdate="2020-10-01">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0001-5321-924X" pid="40/3710">Srikanta Tirthapura</author>
+<author pid="51/516">Bojian Xu</author>
+<title>Time-decayed correlated aggregates over data streams.</title>
+<pages>294-310</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Stat. Anal. Data Min.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1002/sam.10053</ee>
+<ee>https://www.wikidata.org/entity/Q60148591</ee>
+<url>db/journals/sadm/sadm2.html#CormodeTX09</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/CormodeTX09" mdate="2019-06-02">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0001-5321-924X" pid="40/3710">Srikanta Tirthapura</author>
+<author pid="51/516">Bojian Xu</author>
+<title>Time-decaying Sketches for Robust Aggregation of Sensor Data.</title>
+<pages>1309-1339</pages>
+<year>2009</year>
+<volume>39</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/08071795X</ee>
+<ee>https://www.wikidata.org/entity/Q60148592</ee>
+<url>db/journals/siamcomp/siamcomp39.html#CormodeTX09</url>
+</article>
+</r>
+<r><article key="journals/tods/YiLCHKS09" mdate="2019-05-21">
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Small synopses for group-by query verification on outsourced data streams.</title>
+<year>2009</year>
+<volume>34</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1567274.1567277</ee>
+<url>db/journals/tods/tods34.html#YiLCHKS09</url>
+<pages>15:1-15:42</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/ChakrabartiCM09" mdate="2018-11-02">
+<author orcid="0000-0003-3633-9180" pid="85/5044">Amit Chakrabarti</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Annotations in Data Streams.</title>
+<pages>222-234</pages>
+<year>2009</year>
+<booktitle>ICALP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02927-1_20</ee>
+<crossref>conf/icalp/2009-1</crossref>
+<url>db/conf/icalp/icalp2009-1.html#ChakrabartiCM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeSSX09" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="10/6892">Vladislav Shkapenyuk</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="51/516">Bojian Xu</author>
+<title>Forward Decay: A Practical Time Decay Model for Streaming Systems.</title>
+<pages>138-149</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.65</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#CormodeSSX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeG09" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Histograms and Wavelets on Probabilistic Data.</title>
+<pages>293-304</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.74</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#CormodeG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeLY09" mdate="2019-05-21">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Semantics of Ranking Queries for Probabilistic Data and Expected Ranks.</title>
+<pages>305-316</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.75</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#CormodeLY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/BerindeCIS09" mdate="2018-11-06">
+<author pid="36/6864">Radu Berinde</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="i/PiotrIndyk">Piotr Indyk</author>
+<author pid="s/MartinStrauss">Martin J. Strauss</author>
+<title>Space-optimal heavy hitters with strong error bounds.</title>
+<pages>157-166</pages>
+<year>2009</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1559795.1559819</ee>
+<crossref>conf/pods/2009</crossref>
+<url>db/conf/pods/pods2009.html#BerindeCIS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/CormodeTX09" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<author pid="51/516">Bojian Xu</author>
+<title>Time-Decayed Correlated Aggregates over Data Streams.</title>
+<pages>271-282</pages>
+<year>2009</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972795.24</ee>
+<crossref>conf/sdm/2009</crossref>
+<url>db/conf/sdm/sdm2009.html#CormodeTX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeGKMSZ09" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="87/1222">Xi Zhang</author>
+<title>Estimating the confidence of conditional functional dependencies.</title>
+<pages>469-482</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559895</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#CormodeGKMSZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeS09" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Anonymized data: generation, models, usage.</title>
+<pages>1015-1018</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559968</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#CormodeS09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Cormode09" mdate="2017-07-12">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Count-Min Sketch.</title>
+<pages>511-516</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_87</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/c.html#Cormode09</url>
+</incollection>
+</r>
+<r><article key="journals/firstmonday/CormodeK08" mdate="2019-07-01">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="89/7016">Balachander Krishnamurthy</author>
+<title>Key differences between Web 1.0 and Web 2.0.</title>
+<year>2008</year>
+<volume>13</volume>
+<journal>First Monday</journal>
+<number>6</number>
+<ee type="oa">https://firstmonday.org/ojs/index.php/fm/article/view/2125</ee>
+<url>db/journals/firstmonday/firstmonday13.html#CormodeK08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeSYZ08" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="y/TingYu">Ting Yu</author>
+<author pid="68/1429">Qing Zhang</author>
+<title>Anonymizing bipartite graph data using safe groupings.</title>
+<pages>833-844</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453947.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453947</ee>
+<url>db/journals/pvldb/pvldb1.html#CormodeSYZ08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeH08" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<title>Finding frequent items in data streams.</title>
+<pages>1530-1541</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454225.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454225</ee>
+<url>db/journals/pvldb/pvldb1.html#CormodeH08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Cormode08" mdate="2020-03-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<title>How NOT to review a paper: the tools and techniques of the adversarial reviewer.</title>
+<pages>100-104</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1519103.1519122</ee>
+<url>db/journals/sigmod/sigmod37.html#Cormode08</url>
+</article>
+</r>
+<r><article key="journals/tkdd/CormodeKMS08" mdate="2020-04-16">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Finding hierarchical heavy hitters in streaming data.</title>
+<year>2008</year>
+<volume>1</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1324172.1324174</ee>
+<url>db/journals/tkdd/tkdd1.html#CormodeKMS08</url>
+<pages>2:1-2:48</pages>
+</article>
+</r>
+<r><article key="journals/tods/CormodeG08" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Approximate continuous querying over distributed streams.</title>
+<year>2008</year>
+<volume>33</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1366102.1366106</ee>
+<url>db/journals/tods/tods33.html#CormodeG08</url>
+<pages>9:1-9:39</pages>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/CormodeG08" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Streaming in a connected world: querying and tracking distributed data streams.</title>
+<pages>745</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353442</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#CormodeG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeKMW08" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="68/5000">Yihua Wu</author>
+<title>On Signatures for Communication Graphs.</title>
+<pages>189-198</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497427</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497427</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#CormodeKMW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeKT08" mdate="2019-06-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author orcid="0000-0001-5321-924X" pid="40/3710">Srikanta Tirthapura</author>
+<title>Exponentially Decayed Aggregates on Data Streams.</title>
+<pages>1379-1381</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497562</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497562</ee>
+<ee>https://www.wikidata.org/entity/Q60148595</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#CormodeKT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CormodeKT08" mdate="2019-06-02">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author orcid="0000-0001-5321-924X" pid="40/3710">Srikanta Tirthapura</author>
+<title>Time-decaying aggregates in out-of-order streams.</title>
+<pages>89-98</pages>
+<year>2008</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1376916.1376930</ee>
+<ee>https://www.wikidata.org/entity/Q60148597</ee>
+<crossref>conf/pods/2008</crossref>
+<url>db/conf/pods/pods2008.html#CormodeKT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CormodeM08" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Approximation algorithms for clustering uncertain data.</title>
+<pages>191-200</pages>
+<year>2008</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1376916.1376944</ee>
+<crossref>conf/pods/2008</crossref>
+<url>db/conf/pods/pods2008.html#CormodeM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/CormodeMY08" mdate="2019-05-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Algorithms for distributed functional monitoring.</title>
+<pages>1076-1085</pages>
+<year>2008</year>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1347082.1347200</ee>
+<crossref>conf/soda/2008</crossref>
+<url>db/conf/soda/soda2008.html#CormodeMY08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/CormodeKMS08" mdate="2017-05-21">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Summarizing Two-Dimensional Data with Skyline-Based Statistical Descriptors.</title>
+<pages>42-60</pages>
+<year>2008</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69497-7_6</ee>
+<crossref>conf/ssdbm/2008</crossref>
+<url>db/conf/ssdbm/ssdbm2008.html#CormodeKMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/ChakrabartiCM08" mdate="2018-11-06">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Robust lower bounds for communication and stream computation.</title>
+<pages>641-650</pages>
+<year>2008</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/1374376.1374470</ee>
+<crossref>conf/stoc/2008</crossref>
+<url>db/conf/stoc/stoc2008.html#ChakrabartiCM08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0806-1071" mdate="2018-08-13">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Histograms and Wavelets on Probabilistic Data</title>
+<ee type="oa">http://arxiv.org/abs/0806.1071</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0806.1071</volume>
+<url>db/journals/corr/corr0806.html#abs-0806-1071</url>
+</article>
+</r>
+<r><article key="journals/modulad/Cormode07" mdate="2020-05-20">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Fundamentals of analyzing and mining data streams.</title>
+<pages>1-5</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>Monde des Util. Anal. Donn&#233;es</journal>
+<ee>http://editions-rnti.fr/?inprocid=1001723</ee>
+<url>db/journals/modulad/modulad36.html#Cormode07</url>
+</article>
+</r>
+<r><article key="journals/talg/CormodeM07" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>The string edit distance matching problem with moves.</title>
+<year>2007</year>
+<volume>3</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1219944.1219947</ee>
+<url>db/journals/talg/talg3.html#CormodeM07</url>
+<pages>2:1-2:19</pages>
+</article>
+</r>
+<r><inproceedings key="conf/approx/GangulyC07" mdate="2017-05-23">
+<author pid="g/SumitGanguly">Sumit Ganguly</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>On Estimating Frequency Moments of Data Streams.</title>
+<pages>479-493</pages>
+<year>2007</year>
+<crossref>conf/approx/2007</crossref>
+<booktitle>APPROX-RANDOM</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74208-1_35</ee>
+<url>db/conf/approx/approx2007.html#GangulyC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeMZ07" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="89/7018">Wei Zhuang</author>
+<title>Conquering the Divide: Continuous Clustering of Distributed Data Streams.</title>
+<pages>1036-1045</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.368962</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.368962</ee>
+<url>db/conf/icde/icde2007.html#CormodeMZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/BhagatCMRX07" mdate="2021-02-05">
+<author pid="30/3887">Smriti Bhagat</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="17/2129">Irina Rozenbaum</author>
+<author pid="71/5855">Hongyi Xue</author>
+<title>No Blog is an Island - Analyzing Connections Across Information Networks.</title>
+<year>2007</year>
+<booktitle>ICWSM</booktitle>
+<ee type="oa">http://www.icwsm.org/papers/paper20.html</ee>
+<crossref>conf/icwsm/2007</crossref>
+<url>db/conf/icwsm/icwsm2007.html#BhagatCMRX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BhagatCR07" mdate="2017-05-19">
+<author pid="30/3887">Smriti Bhagat</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="17/2129">Irina Rozenbaum</author>
+<title>Applying Link-Based Classification to Label Blogs.</title>
+<pages>97-117</pages>
+<year>2007</year>
+<booktitle>WebKDD/SNA-KDD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00528-2_6</ee>
+<crossref>conf/kdd/2007web</crossref>
+<url>db/conf/kdd/webkdd2007.html#BhagatCR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/CormodeTX07" mdate="2019-06-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author orcid="0000-0001-5321-924X" pid="40/3710">Srikanta Tirthapura</author>
+<author pid="51/516">Bojian Xu</author>
+<title>Time-decaying sketches for sensor data aggregation.</title>
+<pages>215-224</pages>
+<year>2007</year>
+<crossref>conf/podc/2007</crossref>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/1281100.1281132</ee>
+<ee>https://www.wikidata.org/entity/Q60148600</ee>
+<url>db/conf/podc/podc2007.html#CormodeTX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeG07" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Sketching probabilistic data streams.</title>
+<pages>281-292</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247513</ee>
+<url>db/conf/sigmod/sigmod2007.html#CormodeG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeG07a" mdate="2018-11-06">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Streaming in a connected world: querying and tracking distributed data streams.</title>
+<pages>1178-1181</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247649</ee>
+<url>db/conf/sigmod/sigmod2007.html#CormodeG07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/ChakrabartiCM07" mdate="2016-09-26">
+<author pid="85/5044">Amit Chakrabarti</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>A near-optimal algorithm for computing the entropy of a stream.</title>
+<pages>328-335</pages>
+<year>2007</year>
+<crossref>conf/soda/2007</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1283383.1283418</ee>
+<url>db/conf/soda/soda2007.html#ChakrabartiCM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CormodeGS06" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<title>Fast Approximate Wavelet Tracking on Streams.</title>
+<pages>4-22</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_4</ee>
+<url>db/conf/edbt/edbt2006.html#CormodeGS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeMZ06" mdate="2017-05-17">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="89/7018">Wei Zhuang</author>
+<title>What's Different: Distributed, Continuous Monitoring of Duplicate-Resilient Aggregates on Data Streams.</title>
+<pages>57</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.173</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2006.173</ee>
+<url>db/conf/icde/icde2006.html#CormodeMZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CormodeKMS06" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Space- and time-efficient deterministic algorithms for biased quantiles over data streams.</title>
+<pages>263-272</pages>
+<year>2006</year>
+<crossref>conf/pods/2006</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1142351.1142389</ee>
+<url>db/conf/pods/pods2006.html#CormodeKMS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KeralapuraCR06" mdate="2018-11-06">
+<author pid="86/1392">Ram Keralapura</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="64/4489">Jeyashankher Ramamirtham</author>
+<title>Communication-efficient distributed monitoring of thresholded counts.</title>
+<pages>289-300</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142507</ee>
+<url>db/conf/sigmod/sigmod2006.html#KeralapuraCR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/CormodeM06" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Combinatorial Algorithms for Compressed Sensing.</title>
+<pages>280-294</pages>
+<year>2006</year>
+<crossref>conf/sirocco/2006</crossref>
+<booktitle>SIROCCO</booktitle>
+<ee>https://doi.org/10.1007/11780823_22</ee>
+<url>db/conf/sirocco/sirocco2006.html#CormodeM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CormodeG06" mdate="2020-03-12">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Streaming in a Connected World.</title>
+<pages>1266</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164260</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p1266-cormode.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#CormodeG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/CormodeG05" mdate="2020-08-19">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Efficient Strategies for Continuous Distributed Tracking Tasks.</title>
+<pages>33-39</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A05mar/cormode.ps</ee>
+<url>db/journals/debu/debu28.html#CormodeG05</url>
+</article>
+</r>
+<r><article key="journals/jal/CormodeM05" mdate="2019-06-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>An improved data stream summary: the count-min sketch and its applications.</title>
+<pages>58-75</pages>
+<year>2005</year>
+<volume>55</volume>
+<journal>J. Algorithms</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.jalgor.2003.12.001</ee>
+<ee>https://www.wikidata.org/entity/Q61920316</ee>
+<url>db/journals/jal/jal55.html#CormodeM05</url>
+</article>
+</r>
+<r><article key="journals/tods/CormodeM05" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>What's hot and what's not: tracking most frequent items dynamically.</title>
+<pages>249-278</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1061318.1061325</ee>
+<url>db/journals/tods/tods30.html#CormodeM05</url>
+</article>
+</r>
+<r><article key="journals/ton/CormodeM05" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>What's new: finding significant differences in network data streams.</title>
+<pages>1219-1232</pages>
+<year>2005</year>
+<volume>13</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TNET.2005.860096</ee>
+<url>db/journals/ton/ton13.html#CormodeM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/CormodeKMS05" mdate="2017-05-17">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Effective Computation of Biased Quantiles over Data Streams.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<pages>20-31</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.55</ee>
+<url>db/conf/icde/icde2005.html#CormodeKMS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CormodeM05" mdate="2018-11-06">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Space efficient mining of multigraph streams.</title>
+<pages>271-282</pages>
+<year>2005</year>
+<crossref>conf/pods/2005</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1065167.1065201</ee>
+<url>db/conf/pods/pods2005.html#CormodeM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/CormodeM05" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Summarizing and Mining Skewed Data Streams.</title>
+<year>2005</year>
+<crossref>conf/sdm/2005</crossref>
+<booktitle>SDM</booktitle>
+<url>db/conf/sdm/sdm2005.html#CormodeM05</url>
+<ee>https://doi.org/10.1137/1.9781611972757.5</ee>
+<pages>44-55</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeGMR05" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="r/RajeevRastogi">Rajeev Rastogi</author>
+<title>Holistic Aggregates in a Networked World: Distributed Tracking of Approximate Quantiles.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#CormodeGMR05</url>
+<pages>25-36</pages>
+<ee>https://doi.org/10.1145/1066157.1066161</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/CormodeM05" mdate="2012-12-07">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Substring compression problems.</title>
+<pages>321-330</pages>
+<year>2005</year>
+<crossref>conf/soda/2005</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1070432.1070478</ee>
+<url>db/conf/soda/soda2005.html#CormodeM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CormodeG05" mdate="2020-03-12">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Sketching Streams Through the Net: Distributed Approximate Query Tracking.</title>
+<pages>13-24</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p13-cormode.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083598</ee>
+<url>db/conf/vldb/vldb2005.html#CormodeG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CormodeMR05" mdate="2020-03-12">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="17/2129">Irina Rozenbaum</author>
+<title>Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling.</title>
+<pages>25-36</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p25-cormode.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083599</ee>
+<url>db/conf/vldb/vldb2005.html#CormodeMR05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dimacs/dimacs70" mdate="2019-09-16">
+<editor pid="a/JamesAbello">James Abello</editor>
+<editor orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</editor>
+<title>Discrete Methods in Epidemiology, Proceedings of a DIMACS Workshop, New Brunswick, New Jersey, USA, March 18-19, 2004</title>
+<booktitle>Discrete Methods in Epidemiology</booktitle>
+<year>2005</year>
+<publisher>DIMACS/AMS</publisher>
+<series href="db/conf/dimacs/index.html">DIMACS Series in Discrete Mathematics and Theoretical Computer Science</series>
+<volume>70</volume>
+<isbn>978-0-8218-4379-6</isbn>
+<ee>https://doi.org/10.1090/dimacs/070</ee>
+<ee>http://dimacs.rutgers.edu/Volumes/Vol70.html</ee>
+<url>db/conf/dimacs/dimacs70.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tkde/OzsoyogluBOC04" mdate="2017-05-20">
+<author pid="o/GultekinOzsoyoglu">Gultekin &#214;zsoyoglu</author>
+<author pid="01/2558">Nevzat Hurkan Balkir</author>
+<author pid="o/ZMeralOzsoyoglu">Z. Meral &#214;zsoyoglu</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>On Automated Lesson Construction from Electronic Textbooks.</title>
+<pages>317-331</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2003.1262184</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2003.1262184</ee>
+<url>db/journals/tkde/tkde16.html#OzsoyogluBOC04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dimacs/AbelloCFMMM04" mdate="2019-09-16">
+<author pid="a/JamesAbello">James Abello</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="16/4728">Dmitriy Fradkin</author>
+<author pid="22/1891">David Madigan</author>
+<author pid="93/3470">Ofer Melnik</author>
+<author pid="41/2613">Ilya B. Muchnik</author>
+<title>Selected Data Mining Concepts.</title>
+<pages>1-40</pages>
+<year>2004</year>
+<booktitle>Discrete Methods in Epidemiology</booktitle>
+<crossref>conf/dimacs/dimacs70</crossref>
+<url>db/conf/dimacs/dimacs70.html#AbelloCFMMM04</url>
+<ee>https://doi.org/10.1090/dimacs/070/01</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/CormodeM04" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>What's New: Finding Significant Differences in Network Data Streams.</title>
+<year>2004</year>
+<crossref>conf/infocom/2004</crossref>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2004.1354567</ee>
+<url>db/conf/infocom/infocom2004.html#CormodeM04</url>
+<pages>1534-1545</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/CormodeM04" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>An Improved Data Stream Summary: The Count-Min Sketch and Its Applications.</title>
+<pages>29-38</pages>
+<ee>https://doi.org/10.1007/978-3-540-24698-5_7</ee>
+<year>2004</year>
+<crossref>conf/latin/2004</crossref>
+<booktitle>LATIN</booktitle>
+<url>db/conf/latin/latin2004.html#CormodeM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/JohnsonCKMSS04" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="44/2433">Oliver Spatscheck</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Holistic UDAFs at streaming speeds.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#JohnsonCKMSS04</url>
+<ee>https://doi.org/10.1145/1007568.1007575</ee>
+<pages>35-46</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CormodeKMS04" mdate="2018-11-06">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Diamond in the Rough: Finding Hierarchical Heavy Hitters in Multi-Dimensional Data.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#CormodeKMS04</url>
+<pages>155-166</pages>
+<ee>https://doi.org/10.1145/1007568.1007588</ee>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Cormode03" mdate="2016-09-16">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<title>Sequence distance embeddings.</title>
+<year>2003</year>
+<school>University of Warwick, Coventry, UK</school>
+<ee>http://wrap.warwick.ac.uk/61310/</ee>
+<ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.396853</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/tkde/CormodeDIM03" mdate="2018-11-30">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="06/3699">Mayur Datar</author>
+<author pid="i/PiotrIndyk">Piotr Indyk</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Comparing Data Streams Using Hamming Norms (How to Zero In).</title>
+<pages>529-540</pages>
+<year>2003</year>
+<volume>15</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2003.1198388</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2003.1198388</ee>
+<url>db/journals/tkde/tkde15.html#CormodeDIM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/CormodeM03" mdate="2018-11-02">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Estimating Dominance Norms of Multiple Data Streams.</title>
+<pages>148-160</pages>
+<ee>https://doi.org/10.1007/978-3-540-39658-1_16</ee>
+<year>2003</year>
+<crossref>conf/esa/2003</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa2003.html#CormodeM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CormodeM03" mdate="2018-11-06">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>What's hot and what's not: tracking most frequent items dynamically.</title>
+<pages>296-306</pages>
+<year>2003</year>
+<crossref>conf/pods/2003</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/773153.773182</ee>
+<url>db/conf/pods/pods2003.html#CormodeM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CormodeKMS03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S15P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50048-3</ee>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Finding Hierarchical Heavy Hitters in Data Streams.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<pages>464-475</pages>
+<url>db/conf/vldb/vldb2003.html#CormodeKMS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CormodeIKM02" mdate="2017-05-17">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="i/PiotrIndyk">Piotr Indyk</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Fast Mining of Massive Tabular Data via Approximate Distance Computations.</title>
+<pages>605-614</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994778</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994778</ee>
+<url>db/conf/icde/icde2002.html#CormodeIKM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/CormodeM02" mdate="2012-12-07">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>The string edit distance matching problem with moves.</title>
+<pages>667-676</pages>
+<year>2002</year>
+<crossref>conf/soda/2002</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=545381.545470</ee>
+<url>db/conf/soda/soda2002.html#CormodeM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CormodeDIM02" mdate="2020-03-12">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="06/3699">Mayur Datar</author>
+<author pid="i/PiotrIndyk">Piotr Indyk</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<title>Comparing Data Streams Using Hamming Norms (How to Zero In).</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2002/S10P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50037-8</ee>
+<url>db/conf/vldb/vldb2002.html#CormodeDIM02</url>
+<pages>335-345</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/CormodeMS01" mdate="2017-05-23">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="m/SMuthukrishnan">S. Muthukrishnan</author>
+<author pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</author>
+<title>Permutation Editing and Matching via Embeddings.</title>
+<pages>481-492</pages>
+<year>2001</year>
+<crossref>conf/icalp/2001</crossref>
+<booktitle>ICALP</booktitle>
+<ee>https://doi.org/10.1007/3-540-48224-5_40</ee>
+<url>db/conf/icalp/icalp2001.html#CormodeMS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adl/OzsoyogluBCO00" mdate="2017-05-23">
+<author pid="o/GultekinOzsoyoglu">Gultekin &#214;zsoyoglu</author>
+<author pid="01/2558">Nevzat Hurkan Balkir</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="o/ZMeralOzsoyoglu">Z. Meral &#214;zsoyoglu</author>
+<title>Electronic Books in Digital Libraries.</title>
+<pages>5-14</pages>
+<year>2000</year>
+<crossref>conf/adl/2000</crossref>
+<booktitle>ADL</booktitle>
+<ee>https://doi.org/10.1109/ADL.2000.848365</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ADL.2000.848365</ee>
+<url>db/conf/adl/adl2000.html#OzsoyogluBCO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/CormodePSV00" mdate="2012-12-07">
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="p/MikePaterson">Mike Paterson</author>
+<author pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</author>
+<author pid="v/UziVishkin">Uzi Vishkin</author>
+<title>Communication complexity of document exchange.</title>
+<pages>197-206</pages>
+<year>2000</year>
+<crossref>conf/soda/2000</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=338219.338252</ee>
+<url>db/conf/soda/soda2000.html#CormodePSV00</url>
+</inproceedings>
+</r>
+<coauthors n="178" nc="2">
+<co c="0"><na f="a/Abello:James" pid="a/JamesAbello">James Abello</na></co>
+<co c="0"><na f="a/Agarwal:Pankaj_K=" pid="a/PankajKAgarwal">Pankaj K. Agarwal</na></co>
+<co c="0"><na f="a/Ahn:Kook_Jin" pid="35/4939">Kook Jin Ahn</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Balkir:Nevzat_Hurkan" pid="01/2558">Nevzat Hurkan Balkir</na></co>
+<co c="0"><na f="b/Bangalore:Srinivas" pid="94/3560">Srinivas Bangalore</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Berinde:Radu" pid="36/6864">Radu Berinde</na></co>
+<co c="0"><na f="b/Bhagat:Smriti" pid="30/3887">Smriti Bhagat</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="c/Chakrabarti:Amit" pid="85/5044">Amit Chakrabarti</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0" n="2"><na f="c/Chitnis:Rajesh_Hemant" pid="00/9923">Rajesh Hemant Chitnis</na><na>Rajesh Chitnis</na></co>
+<co c="0"><na f="c/Cohen:Edith" pid="40/1039">Edith Cohen</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0"><na f="d/Dark:Jacques" pid="195/6259">Jacques Dark</na></co>
+<co c="0"><na f="d/Datar:Mayur" pid="06/3699">Mayur Datar</na></co>
+<co c="0"><na f="d/Daum=eacute=_III:Hal" pid="77/2856">Hal Daum&#233; III</na></co>
+<co c="0"><na f="d/Deligiannakis:Antonios" pid="d/ADeligiannakis">Antonios Deligiannakis</na></co>
+<co c="0"><na f="d/Dickens:Charlie" pid="222/9819">Charlie Dickens</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="d/Duffield:Nick_G=" pid="d/NickGDuffield">Nick G. Duffield</na></co>
+<co c="0"><na f="e/Esfandiari:Hossein" pid="146/7746">Hossein Esfandiari</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0"><na f="f/Firmani:Donatella" pid="05/10127">Donatella Firmani</na></co>
+<co c="0"><na f="f/Fradkin:Dmitriy" pid="16/4728">Dmitriy Fradkin</na></co>
+<co c="0"><na f="g/Ganguly:Sumit" pid="g/SumitGanguly">Sumit Ganguly</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Golab:Lukasz" pid="42/3296">Lukasz Golab</na></co>
+<co c="0"><na f="g/Gong:Xi" pid="19/3993">Xi Gong</na></co>
+<co c="0"><na f="g/Goyal_0001:Amit" pid="03/3019-1">Amit Goyal 0001</na></co>
+<co c="0"><na f="g/Goyal:Navin" pid="20/6275">Navin Goyal</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="g/Guha:Sudipto" pid="g/SudiptoGuha">Sudipto Guha</na></co>
+<co c="0"><na f="h/Haas:Peter_J=" pid="h/PeterJHaas">Peter J. Haas</na></co>
+<co c="0"><na f="h/Hadjieleftheriou:Marios" pid="86/6294">Marios Hadjieleftheriou</na></co>
+<co c="0" n="2"><na f="h/Hajiaghayi:Mohammad_Taghi" pid="h/MohammadTaghiHajiaghayi">Mohammad Taghi Hajiaghayi</na><na>MohammadTaghi Hajiaghayi</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/He_0001:Xi" pid="28/949-1">Xi He 0001</na></co>
+<co c="-1"><na f="h/Hickey:Chris" pid="217/4333">Chris Hickey</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huang:Zengfeng" pid="97/9726">Zengfeng Huang</na></co>
+<co c="0"><na f="h/Huang:Ziyue" pid="160/3232">Ziyue Huang</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="i/Indyk:Piotr" pid="i/PiotrIndyk">Piotr Indyk</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="0"><na f="j/Jermaine:Chris" pid="j/ChrisJermaine">Chris Jermaine</na></co>
+<co c="0"><na f="j/Jestes:Jeffrey" pid="24/7114">Jeffrey Jestes</na></co>
+<co c="0"><na f="j/Jha:Somesh" pid="j/SomeshJha">Somesh Jha</na></co>
+<co c="0"><na f="j/Johnson:Theodore" pid="j/TheodoreJohnson">Theodore Johnson</na></co>
+<co c="0"><na f="j/Jorgensen:Zach" pid="31/113">Zach Jorgensen</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="j/Jowhari:Hossein" pid="29/358">Hossein Jowhari</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Karloff:Howard_J=" pid="44/5186">Howard J. Karloff</na></co>
+<co c="0"><na f="k/Karnin:Zohar_S=" pid="16/4051">Zohar S. Karnin</na></co>
+<co c="0"><na f="k/Keralapura:Ram" pid="86/1392">Ram Keralapura</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Kollios:George" pid="k/GeorgeKollios">George Kollios</na></co>
+<co c="0"><na f="k/Kondapally:Ranganath" pid="76/8036">Ranganath Kondapally</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Konrad:Christian" pid="15/8910">Christian Konrad</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koudas:Nick" pid="k/NickKoudas">Nick Koudas</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0"><na f="k/Krishnamurthy:Balachander" pid="89/7016">Balachander Krishnamurthy</na></co>
+<co c="0"><na f="k/Kulkarni:Tejas" pid="46/10579">Tejas Kulkarni</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Li_0001:Feifei" pid="l/FeifeiLi">Feifei Li 0001</na></co>
+<co c="0"><na f="l/Li:Ninghui" pid="l/NinghuiLi">Ninghui Li</na></co>
+<co c="0"><na f="l/Li:Tiancheng" pid="92/250">Tiancheng Li</na></co>
+<co c="0"><na f="l/Liberty:Edo" pid="28/1212">Edo Liberty</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="l/Lu:Meiyu" pid="93/7784">Meiyu Lu</na></co>
+<co c="0"><na f="l/Lund:Carsten" pid="l/CarstenLund">Carsten Lund</na></co>
+<co c="0"><na f="l/Luo:Ge" pid="131/4164">Ge Luo</na></co>
+<co c="0"><na f="m/Ma_0006:Qiang" pid="m/QiangMa6">Qiang Ma 0006</na></co>
+<co c="0"><na f="m/Machanavajjhala:Ashwin" pid="m/AMachanavajjhala">Ashwin Machanavajjhala</na></co>
+<co c="1"><na f="m/Maddock:Samuel" pid="289/1670">Samuel Maddock</na></co>
+<co c="0"><na f="m/Madigan:David" pid="22/1891">David Madigan</na></co>
+<co c="1"><na f="m/Maple:Carsten" pid="05/2263">Carsten Maple</na></co>
+<co c="0"><na f="m/McGregor_0001:Andrew" pid="51/1169">Andrew McGregor 0001</na></co>
+<co c="0"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na></co>
+<co c="0"><na f="m/Melnik:Ofer" pid="93/3470">Ofer Melnik</na></co>
+<co c="0"><na f="m/Mirylenka:Katsiaryna" pid="67/11335">Katsiaryna Mirylenka</na></co>
+<co c="0"><na f="m/Mishra:Abhinav" pid="34/9376">Abhinav Mishra</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="m/Monemizadeh:Morteza" pid="11/4322">Morteza Monemizadeh</na></co>
+<co c="0"><na f="m/Muchnik:Ilya_B=" pid="41/2613">Ilya B. Muchnik</na></co>
+<co c="0" n="2"><na f="m/Muthukrishnan:S=" pid="m/SMuthukrishnan">S. Muthukrishnan</na><na>S. Muthu Muthukrishnan</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="=/=Ouml=zsoyoglu:Gultekin" pid="o/GultekinOzsoyoglu">Gultekin &#214;zsoyoglu</na></co>
+<co c="0"><na f="=/=Ouml=zsoyoglu:Z=_Meral" pid="o/ZMeralOzsoyoglu">Z. Meral &#214;zsoyoglu</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Palpanas:Themis" pid="p/ThemisPalpanas">Themis Palpanas</na></co>
+<co c="0"><na f="p/Papadopoulos_0001:Stavros" pid="82/75">Stavros Papadopoulos 0001</na></co>
+<co c="0"><na f="p/Paterson:Mike" pid="p/MikePaterson">Mike Paterson</na></co>
+<co c="0"><na f="p/Phillips:Jeff_M=" pid="17/3933">Jeff M. Phillips</na></co>
+<co c="0" n="2"><na f="p/Procopiuc:Cecilia_M=" pid="05/906">Cecilia M. Procopiuc</na><na>Cecilia Magdalena Procopiuc</na></co>
+<co c="0"><na f="p/Procopiuc:Magda" pid="83/9361">Magda Procopiuc</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="q/Qiu:Yuan" pid="166/6079">Yuan Qiu</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0"><na f="r/Ramamirtham:Jeyashankher" pid="64/4489">Jeyashankher Ramamirtham</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Rastogi:Rajeev" pid="r/RajeevRastogi">Rajeev Rastogi</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/Ross:Joseph" pid="34/5349">Joseph Ross</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="r/Rozenbaum:Irina" pid="17/2129">Irina Rozenbaum</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="0"><na f="s/Sahinalp:S=uuml=leyman_Cenk" pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</na></co>
+<co c="-1"><na f="s/Shekelyan:Michael" pid="144/3316">Michael Shekelyan</na></co>
+<co c="0"><na f="s/Shen:Entong" pid="31/9364">Entong Shen</na></co>
+<co c="0"><na f="s/Shkapenyuk:Vladislav" pid="10/6892">Vladislav Shkapenyuk</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Spatscheck:Oliver" pid="44/2433">Oliver Spatscheck</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0" n="2"><na f="s/Strauss_0001:Martin" pid="s/MartinStrauss">Martin Strauss 0001</na><na>Martin J. Strauss</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="t/Thaler:Justin" pid="61/8038">Justin Thaler</na></co>
+<co c="0"><na f="t/Thompson:Brian" pid="08/3723">Brian Thompson</na></co>
+<co c="0"><na f="t/Thottan:Marina" pid="t/MarinaThottan">Marina Thottan</na></co>
+<co c="0"><na f="t/Tirthapura:Srikanta" pid="40/3710">Srikanta Tirthapura</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="t/Tran:Thanh_T=_L=" pid="t/ThanhTran2">Thanh T. L. Tran</na></co>
+<co c="0"><na f="v/Venkatasubramanian:Suresh" pid="12/4662">Suresh Venkatasubramanian</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="v/Vesel=yacute=:Pavel" pid="143/7938">Pavel Vesel&#253;</na></co>
+<co c="0"><na f="v/Vishkin:Uzi" pid="v/UziVishkin">Uzi Vishkin</na></co>
+<co c="0"><na f="v/Vorotnikova:Sofya" pid="150/2747">Sofya Vorotnikova</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wang:Lu" pid="49/3800">Lu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Tianhao" pid="145/3288-1">Tianhao Wang 0001</na></co>
+<co c="0"><na f="w/Wei:Zhewei" pid="94/4260">Zhewei Wei</na></co>
+<co c="0"><na f="w/Willinger:Walter" pid="w/WalterWillinger">Walter Willinger</na></co>
+<co c="0"><na f="w/Wirth:Anthony" pid="27/4913">Anthony Wirth</na></co>
+<co c="0"><na f="w/Woodruff:David_P=" pid="w/DPWoodruff">David P. Woodruff</na></co>
+<co c="0"><na f="w/Wu:Yihua" pid="68/5000">Yihua Wu</na></co>
+<co c="0"><na f="x/Xiao:Xiaokui" pid="33/1903">Xiaokui Xiao</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Bojian" pid="51/516">Bojian Xu</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="x/Xue:Hongyi" pid="71/5855">Hongyi Xue</na></co>
+<co c="0"><na f="y/Yan:Jinyun" pid="40/11207">Jinyun Yan</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yaroslavtsev:Grigory" pid="31/7137">Grigory Yaroslavtsev</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Ting" pid="y/TingYu">Ting Yu</na></co>
+<co c="0"><na f="y/Yun:Jinyun" pid="94/10966">Jinyun Yun</na></co>
+<co c="0"><na f="z/Zhang:Jun" pid="29/4190">Jun Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Qin" pid="45/47-1">Qin Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Qing" pid="68/1429">Qing Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xi" pid="87/1222">Xi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yu" pid="50/671">Yu Zhang</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+<co c="0"><na f="z/Zhuang:Wei" pid="89/7018">Wei Zhuang</na></co>
+</coauthors>
+</dblpperson>
+

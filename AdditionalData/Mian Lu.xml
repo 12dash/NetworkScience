@@ -1,3 +1,509 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:feee90ce122acd6ce4a9b7eb0d72331c6a8ab5e231b1faf485f7396d83f76cd3
-size 22780
+<?xml version="1.0"?>
+<dblpperson name="Mian Lu" pid="76/1844" n="27">
+<person key="homepages/76/1844" mdate="2009-06-09">
+<author pid="76/1844">Mian Lu</author>
+</person>
+<r><article key="journals/pvldb/00080LWZCDHWWZR21" mdate="2021-03-23">
+<author pid="10/217-8">Cheng Chen 0008</author>
+<author pid="181/2799-22">Jun Yang 0022</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="287/9822">Taize Wang</author>
+<author pid="44/2876">Zhao Zheng</author>
+<author pid="89/211">Yuqiang Chen</author>
+<author pid="24/6075">Wenyuan Dai</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="37/1143">Weng-Fai Wong</author>
+<author pid="198/5701">Guoan Wu</author>
+<author pid="95/6307">Yuping Zhao</author>
+<author pid="207/1860">Andy Rudoff</author>
+<title>Optimizing An In-memory Database System For AI-powered On-line Decision Augmentation Using Persistent Memory.</title>
+<pages>799-812</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p799-chen.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#00080LWZCDHWWZR21</url>
+</article>
+</r>
+<r><article key="journals/jpdc/ChengHLL18" mdate="2020-02-22">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Many-core needs fine-grained scheduling: A case study of query processing on Intel Xeon Phi processors.</title>
+<pages>395-404</pages>
+<year>2018</year>
+<volume>120</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2017.09.005</ee>
+<url>db/journals/jpdc/jpdc120.html#ChengHLL18</url>
+</article>
+</r>
+<r><article key="journals/tecs/XieDLLTOLHG18" mdate="2020-09-08">
+<author orcid="0000-0001-7285-6682" pid="145/6282">Xinfeng Xie</author>
+<author pid="219/2975">Dayou Du</author>
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="62/6991">Wai Teng Tang</author>
+<author pid="135/6267">Zhongliang Ong</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>Exploiting Sparsity to Accelerate Fully Connected Layers of CNN-Based Applications on Mobile SoCs.</title>
+<pages>37:1-37:25</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3122788</ee>
+<url>db/journals/tecs/tecs17.html#XieDLLTOLHG18</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiangTZLHG17" mdate="2020-09-24">
+<author orcid="0000-0002-9076-7998" pid="83/2265">Yun Liang 0001</author>
+<author pid="62/6991">Wai Teng Tang</author>
+<author pid="130/9004">Ruizhe Zhao</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>Scale-Free Sparse Matrix-Vector Multiplication on Many-Core Architectures.</title>
+<pages>2106-2119</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2017.2681072</ee>
+<url>db/journals/tcad/tcad36.html#LiangTZLHG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ChengHLLHG16" mdate="2018-11-06">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>Efficient Query Processing on Many-core Architectures: A Case Study with Intel Xeon Phi Processor.</title>
+<pages>2081-2084</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899407</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ChengHLLHG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/JhaHLCH15" mdate="2020-04-25">
+<author pid="130/2298">Saurabh Jha</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<title>Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach.</title>
+<pages>642-653</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p642-Jha.pdf</ee>
+<ee>https://doi.org/10.14778/2735703.2735704</ee>
+<url>db/journals/pvldb/pvldb8.html#JhaHLCH15</url>
+</article>
+</r>
+<r><article key="journals/tpds/LuLHOHG15" mdate="2020-10-02">
+<author pid="76/1844">Mian Lu</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="135/6267">Zhongliang Ong</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>MrPhi: An Optimized MapReduce Framework on Intel Xeon Phi Coprocessors.</title>
+<pages>3066-3078</pages>
+<year>2015</year>
+<volume>26</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TPDS.2014.2365784</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2014.2365784</ee>
+<url>db/journals/tpds/tpds26.html#LuLHOHG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgo/JiaoLHM15" mdate="2020-03-27">
+<author pid="92/8351">Qing Jiao</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author orcid="0000-0003-4136-4188" pid="22/5985">Tulika Mitra</author>
+<title>Improving GPGPU energy-efficiency through concurrent kernel execution and DVFS.</title>
+<pages>1-11</pages>
+<year>2015</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1109/CGO.2015.7054182</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CGO.2015.7054182</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2738602</ee>
+<crossref>conf/cgo/2015</crossref>
+<url>db/conf/cgo/cgo2015.html#JiaoLHM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cgo/TangZLLHLG15" mdate="2017-09-19">
+<author pid="62/6991">Wai Teng Tang</author>
+<author pid="130/9004">Ruizhe Zhao</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="158/7553">Huynh Phung Huyng</author>
+<author pid="158/7533">Xibai Li</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>Optimizing and auto-tuning scale-free sparse matrix-vector multiplication on Intel Xeon Phi.</title>
+<pages>136-145</pages>
+<year>2015</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1109/CGO.2015.7054194</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CGO.2015.7054194</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2738618</ee>
+<crossref>conf/cgo/2015</crossref>
+<url>db/conf/cgo/cgo2015.html#TangZLLHLG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HeLH13" mdate="2020-04-25">
+<author pid="132/8994">Jiong He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<title>Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU Architecture.</title>
+<pages>889-900</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p889-he.pdf</ee>
+<ee>https://doi.org/10.14778/2536206.2536216</ee>
+<url>db/journals/pvldb/pvldb6.html#HeLH13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhangHHL13" mdate="2020-11-12">
+<author orcid="0000-0002-9927-6925" pid="135/4657">Shuhao Zhang 0001</author>
+<author pid="132/8994">Jiong He</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<title>OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU Architectures.</title>
+<pages>1374-1377</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1374-he.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536319</ee>
+<url>db/journals/pvldb/pvldb6.html#ZhangHHL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/apweb/LuLWWZ13" mdate="2020-10-25">
+<author pid="76/1844">Mian Lu</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="41/3365">Bingqiang Wang</author>
+<author pid="127/6087">Junkai Wu</author>
+<author pid="93/10333">Jiuxin Zhao</author>
+<title>GPU-Accelerated Bidirected De Bruijn Graph Construction for Genome Assembly.</title>
+<pages>51-62</pages>
+<year>2013</year>
+<crossref>conf/apweb/2013</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37401-2_8</ee>
+<url>db/conf/apweb/apweb2013.html#LuLWWZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/LuBLTZ13" mdate="2020-10-25">
+<author pid="76/1844">Mian Lu</author>
+<author pid="59/10452">Ge Bai</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="93/10333">Jiuxin Zhao</author>
+<title>Accelerating Topic Model Training on a Single Machine.</title>
+<pages>184-195</pages>
+<year>2013</year>
+<crossref>conf/apweb/2013</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37401-2_20</ee>
+<url>db/conf/apweb/apweb2013.html#LuBLTZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/LuZHOLHGH13" mdate="2021-03-31">
+<author pid="76/1844">Mian Lu</author>
+<author pid="97/8704">Lei Zhang</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="135/6267">Zhongliang Ong</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<author pid="135/6257">Richard Huynh</author>
+<title>Optimizing the MapReduce framework on Intel Xeon Phi coprocessor.</title>
+<pages>125-130</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691563</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BigData.2013.6691563</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#LuZHOLHGH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/GuoQYWFLSM13" mdate="2021-03-31">
+<author pid="139/4266">GuiXin Guo</author>
+<author pid="37/9792">Shuang Qiu</author>
+<author pid="134/3199">Zhiqiang Ye</author>
+<author pid="41/3365">Bingqiang Wang</author>
+<author pid="87/1793">Lin Fang</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="62/6547">Simon See</author>
+<author pid="51/5793">Rui Mao 0001</author>
+<title>GPU-accelerated adaptive compression framework for genomics data.</title>
+<pages>181-186</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691572</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BigData.2013.6691572</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#GuoQYWFLSM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HeLH13" mdate="2018-08-13">
+<author pid="132/8994">Jiong He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<title>Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU Architecture.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.1955</ee>
+<volume>abs/1307.1955</volume>
+<url>db/journals/corr/corr1307.html#HeLH13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LuZHOLHGH13" mdate="2018-08-13">
+<author pid="76/1844">Mian Lu</author>
+<author pid="97/8704">Lei Zhang</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="135/6267">Zhongliang Ong</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<author pid="135/6257">Richard Huynh</author>
+<title>Optimizing the MapReduce Framework on Intel Xeon Phi Coprocessor.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.0215</ee>
+<volume>abs/1309.0215</volume>
+<url>db/journals/corr/corr1309.html#LuZHOLHGH13</url>
+</article>
+</r>
+<r><article key="journals/dpd/LuTBL12" mdate="2020-10-26">
+<author pid="76/1844">Mian Lu</author>
+<author pid="42/8098">Yuwei Tan</author>
+<author pid="59/10452">Ge Bai</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<title>High-performance short sequence alignment with GPU acceleration.</title>
+<pages>385-399</pages>
+<year>2012</year>
+<volume>30</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1007/s10619-012-7099-x</ee>
+<url>db/journals/dpd/dpd30.html#LuTBL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/LuZLW12" mdate="2020-10-25">
+<author pid="76/1844">Mian Lu</author>
+<author pid="93/10333">Jiuxin Zhao</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="41/3365">Bingqiang Wang</author>
+<title>Accelerating minor allele frequency computation with graphics processors.</title>
+<pages>85-92</pages>
+<year>2012</year>
+<booktitle>BigMine</booktitle>
+<ee>https://doi.org/10.1145/2351316.2351328</ee>
+<crossref>conf/kdd/2012bigmine</crossref>
+<url>db/conf/kdd/bigmine2012.html#LuZLW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/LuTZBL12" mdate="2020-10-25">
+<author pid="76/1844">Mian Lu</author>
+<author pid="42/8098">Yuwei Tan</author>
+<author pid="93/10333">Jiuxin Zhao</author>
+<author pid="59/10452">Ge Bai</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<title>Integrating GPU-Accelerated Sequence Alignment and SNP Detection for Genome Resequencing Analysis.</title>
+<pages>124-140</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_8</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#LuTZBL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LuZLWFL11" mdate="2020-10-25">
+<author pid="76/1844">Mian Lu</author>
+<author pid="93/10333">Jiuxin Zhao</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="41/3365">Bingqiang Wang</author>
+<author pid="08/10333">Shaohua Fu</author>
+<author pid="42/1680-4">Zhe Lin 0004</author>
+<title>GSNP: A DNA Single-Nucleotide Polymorphism Detection System with GPU Acceleration.</title>
+<pages>592-601</pages>
+<year>2011</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2011.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2011.51</ee>
+<crossref>conf/icpp/2011</crossref>
+<url>db/conf/icpp/icpp2011.html#LuZLWFL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/LuHL10" mdate="2020-10-25">
+<author pid="76/1844">Mian Lu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<title>Supporting extended precision on graphics processors.</title>
+<pages>19-26</pages>
+<year>2010</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1869389.1869392</ee>
+<crossref>conf/damon/2010</crossref>
+<url>db/conf/damon/damon2010.html#LuHL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/HeLYFGLS09" mdate="2020-10-26">
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="80/4136">Ke Yang</author>
+<author pid="19/5914">Rui Fang</author>
+<author pid="42/5865">Naga K. Govindaraju</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="67/6038">Pedro V. Sander</author>
+<title>Relational query coprocessing on graphics processors.</title>
+<year>2009</year>
+<volume>34</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1620585.1620588</ee>
+<url>db/journals/tods/tods34.html#HeLYFGLS09</url>
+<pages>21:1-21:39</pages>
+</article>
+</r>
+<r><inproceedings key="conf/damon/FangLXHL09" mdate="2020-10-25">
+<author pid="05/5672">Wenbin Fang</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="00/5109">Xiangye Xiao</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<title>Frequent itemset mining on graphics processors.</title>
+<pages>34-42</pages>
+<year>2009</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1565694.1565702</ee>
+<crossref>conf/damon/2009</crossref>
+<url>db/conf/damon/damon2009.html#FangLXHL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeYFLGLS08" mdate="2020-10-25">
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="80/4136">Ke Yang</author>
+<author pid="19/5914">Rui Fang</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="42/5865">Naga K. Govindaraju</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="67/6038">Pedro V. Sander</author>
+<title>Relational joins on graphics processors.</title>
+<pages>511-524</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376670</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#HeYFLGLS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/YangHFLGLSS07" mdate="2020-10-25">
+<author pid="80/4136">Ke Yang</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="19/5914">Rui Fang</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="42/5865">Naga K. Govindaraju</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="67/6038">Pedro V. Sander</author>
+<author pid="23/2553">Jiaoying Shi</author>
+<title>In-memory grid files on graphics processors.</title>
+<pages>5</pages>
+<year>2007</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1363189.1363196</ee>
+<crossref>conf/damon/2007</crossref>
+<url>db/conf/damon/damon2007.html#YangHFLGLSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FangHLYGLS07" mdate="2020-10-25">
+<author pid="19/5914">Rui Fang</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="80/4136">Ke Yang</author>
+<author pid="42/5865">Naga K. Govindaraju</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="67/6038">Pedro V. Sander</author>
+<title>GPUQP: query co-processing using graphics processors.</title>
+<pages>1061-1063</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247606</ee>
+<url>db/conf/sigmod/sigmod2007.html#FangHLYGLS07</url>
+</inproceedings>
+</r>
+<coauthors n="53" nc="1">
+<co c="0"><na f="b/Bai:Ge" pid="59/10452">Ge Bai</na></co>
+<co c="0"><na f="c/Chen_0008:Cheng" pid="10/217-8">Cheng Chen 0008</na></co>
+<co c="0"><na f="c/Chen:Yuqiang" pid="89/211">Yuqiang Chen</na></co>
+<co c="0"><na f="c/Cheng:Xuntao" pid="159/7654">Xuntao Cheng</na></co>
+<co c="0"><na f="d/Dai:Wenyuan" pid="24/6075">Wenyuan Dai</na></co>
+<co c="0"><na f="d/Du:Dayou" pid="219/2975">Dayou Du</na></co>
+<co c="0"><na f="f/Fang:Lin" pid="87/1793">Lin Fang</na></co>
+<co c="0"><na f="f/Fang:Rui" pid="19/5914">Rui Fang</na></co>
+<co c="0"><na f="f/Fang:Wenbin" pid="05/5672">Wenbin Fang</na></co>
+<co c="0"><na f="f/Fu:Shaohua" pid="08/10333">Shaohua Fu</na></co>
+<co c="0"><na f="g/Goh:Rick_Siow_Mong" pid="24/2670">Rick Siow Mong Goh</na></co>
+<co c="0"><na f="g/Govindaraju:Naga_K=" pid="42/5865">Naga K. Govindaraju</na></co>
+<co c="0"><na f="g/Guo:GuiXin" pid="139/4266">GuiXin Guo</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0"><na f="h/He:Jiong" pid="132/8994">Jiong He</na></co>
+<co c="0"><na f="h/Huyng:Huynh_Phung" pid="158/7553">Huynh Phung Huyng</na></co>
+<co c="0"><na f="h/Huynh:Huynh_Phung" pid="27/2165">Huynh Phung Huynh</na></co>
+<co c="0"><na f="h/Huynh:Richard" pid="135/6257">Richard Huynh</na></co>
+<co c="0"><na f="j/Jha:Saurabh" pid="130/2298">Saurabh Jha</na></co>
+<co c="0"><na f="j/Jiao:Qing" pid="92/8351">Qing Jiao</na></co>
+<co c="0"><na f="l/Lau:Chiew_Tong" pid="30/6609">Chiew Tong Lau</na></co>
+<co c="0"><na f="l/Li_0027:Qian" pid="69/5902-27">Qian Li 0027</na></co>
+<co c="0"><na f="l/Li:Xibai" pid="158/7533">Xibai Li</na></co>
+<co c="0"><na f="l/Liang_0001:Yun" pid="83/2265">Yun Liang 0001</na></co>
+<co c="0"><na f="l/Lin_0004:Zhe" pid="42/1680-4">Zhe Lin 0004</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="m/Mao_0001:Rui" pid="51/5793">Rui Mao 0001</na></co>
+<co c="0"><na f="m/Mitra:Tulika" pid="22/5985">Tulika Mitra</na></co>
+<co c="0"><na f="o/Ong:Zhongliang" pid="135/6267">Zhongliang Ong</na></co>
+<co c="0"><na f="q/Qiu:Shuang" pid="37/9792">Shuang Qiu</na></co>
+<co c="0"><na f="r/Rudoff:Andy" pid="207/1860">Andy Rudoff</na></co>
+<co c="0"><na f="s/Sander:Pedro_V=" pid="67/6038">Pedro V. Sander</na></co>
+<co c="0"><na f="s/See:Simon" pid="62/6547">Simon See</na></co>
+<co c="0"><na f="s/Shi:Jiaoying" pid="23/2553">Jiaoying Shi</na></co>
+<co c="0"><na f="t/Tan:Yuwei" pid="42/8098">Yuwei Tan</na></co>
+<co c="0"><na f="t/Tang_0001:Jie" pid="t/JieTang">Jie Tang 0001</na></co>
+<co c="0"><na f="t/Tang:Wai_Teng" pid="62/6991">Wai Teng Tang</na></co>
+<co c="0"><na f="w/Wang:Bingqiang" pid="41/3365">Bingqiang Wang</na></co>
+<co c="0"><na f="w/Wang:Taize" pid="287/9822">Taize Wang</na></co>
+<co c="0"><na f="w/Wong:Weng=Fai" pid="37/1143">Weng-Fai Wong</na></co>
+<co c="0"><na f="w/Wu:Guoan" pid="198/5701">Guoan Wu</na></co>
+<co c="0"><na f="w/Wu:Junkai" pid="127/6087">Junkai Wu</na></co>
+<co c="0"><na f="x/Xiao:Xiangye" pid="00/5109">Xiangye Xiao</na></co>
+<co c="0"><na f="x/Xie:Xinfeng" pid="145/6282">Xinfeng Xie</na></co>
+<co c="0"><na f="y/Yang_0022:Jun" pid="181/2799-22">Jun Yang 0022</na></co>
+<co c="0"><na f="y/Yang:Ke" pid="80/4136">Ke Yang</na></co>
+<co c="0"><na f="y/Ye:Zhiqiang" pid="134/3199">Zhiqiang Ye</na></co>
+<co c="0"><na f="z/Zhang:Lei" pid="97/8704">Lei Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Shuhao" pid="135/4657">Shuhao Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Jiuxin" pid="93/10333">Jiuxin Zhao</na></co>
+<co c="0"><na f="z/Zhao:Ruizhe" pid="130/9004">Ruizhe Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yuping" pid="95/6307">Yuping Zhao</na></co>
+<co c="0"><na f="z/Zheng:Zhao" pid="44/2876">Zhao Zheng</na></co>
+</coauthors>
+</dblpperson>
+

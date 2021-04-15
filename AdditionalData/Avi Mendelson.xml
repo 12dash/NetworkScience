@@ -1,3 +1,1794 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:785f48eadcd36facfeffbd32e56bba7b03d1b5627b391f41ac9bc280f07d3109
-size 81161
+<?xml version="1.0"?>
+<dblpperson name="Avi Mendelson" pid="01/1397" n="106">
+<person key="homepages/01/1397" mdate="2009-06-09">
+<author pid="01/1397">Avi Mendelson</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2103-13646" mdate="2021-04-07">
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="77/3198">Alex M. Bronstein</author>
+<author pid="119/1476">Or Litany</author>
+<title>Contrast to Divide: Self-Supervised Pre-Training for Learning with Noisy Labels.</title>
+<year>2021</year>
+<volume>abs/2103.13646</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.13646</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-13646</url>
+</article>
+</r>
+<r><article key="journals/jhss/KumarDGBHCM20" mdate="2020-12-01">
+<author orcid="0000-0001-8363-2852" pid="39/3973">Vinay B. Y. Kumar</author>
+<author pid="128/3106">Suman Deb</author>
+<author pid="83/7953-1">Naina Gupta 0001</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="218/1227">Jawad Haj-Yahya</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Towards Designing a Secure RISC-V System-on-Chip: ITUS.</title>
+<pages>329-342</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s41635-020-00108-8</ee>
+<url>db/journals/jhss/jhss4.html#KumarDGBHCM20</url>
+</article>
+</r>
+<r><article key="journals/taco/YasinHBM20" mdate="2021-02-17">
+<author pid="147/5059">Ahmad Yasin</author>
+<author pid="218/1227">Jawad Haj-Yahya</author>
+<author pid="b/YBenAsher">Yosi Ben-Asher</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>A Metric-Guided Method for Discovering Impactful Features and Architectural Insights for Skylake-Based Processors.</title>
+<pages>46:1-46:25</pages>
+<year>2020</year>
+<volume>16</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/3369383</ee>
+<url>db/journals/taco/taco16.html#YasinHBM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/ChmielBZBYKBM20" mdate="2020-10-06">
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="03/5857">Ron Banner</author>
+<author pid="241/9702">Yevgeny Yermolin</author>
+<author pid="241/9356">Alex Karbachevsky</author>
+<author pid="77/3198">Alex M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Feature Map Transform Coding for Energy-Efficient CNN Inference.</title>
+<pages>1-9</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9206968</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#ChmielBZBYKBM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/Haj-YahyaAK0RMC20" mdate="2020-11-17">
+<author pid="218/1227">Jawad Haj-Yahya</author>
+<author pid="178/2725">Mohammed Alser</author>
+<author pid="148/9733">Jeremie S. Kim</author>
+<author pid="06/10860-1">Lois Orosa 0001</author>
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors.</title>
+<pages>1051-1066</pages>
+<year>2020</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO50266.2020.00088</ee>
+<crossref>conf/micro/2020</crossref>
+<url>db/conf/micro/micro2020.html#Haj-YahyaAK0RMC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-02188" mdate="2020-03-10">
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="254/1367">Yaniv Nemcovsky</author>
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="77/3198">Alex M. Bronstein</author>
+<title>Colored Noise Injection for Training Adversarially Robust Neural Networks.</title>
+<year>2020</year>
+<volume>abs/2003.02188</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.02188</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-02188</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-08906" mdate="2020-04-22">
+<author pid="241/9356">Alex Karbachevsky</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="241/9702">Yevgeny Yermolin</author>
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="77/3198">Alex M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>HCM: Hardware-Aware Complexity Metric for Neural Network Architectures.</title>
+<year>2020</year>
+<volume>abs/2004.08906</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.08906</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-08906</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-01593" mdate="2020-05-08">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="235/3371">Yinnon Stav</author>
+<title>Electromigration-Aware Architecture for Modern Microprocessors.</title>
+<year>2020</year>
+<volume>abs/2005.01593</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.01593</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-01593</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-10312" mdate="2020-08-28">
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="77/3198">Alex M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Self-Supervised Learning for Large-Scale Unsupervised Image Clustering.</title>
+<year>2020</year>
+<volume>abs/2008.10312</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.10312</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-10312</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-03945" mdate="2020-09-17">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Asymmetric Aging Effect on Modern Microprocessors.</title>
+<year>2020</year>
+<volume>abs/2009.03945</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.03945</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-03945</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-09094" mdate="2020-09-23">
+<author pid="218/1227">Jawad Haj-Yahya</author>
+<author pid="178/2725">Mohammed Alser</author>
+<author pid="148/9733">Jeremie S. Kim</author>
+<author pid="06/10860-1">Lois Orosa 0001</author>
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors.</title>
+<year>2020</year>
+<volume>abs/2009.09094</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.09094</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-09094</url>
+</article>
+</r>
+<r><article key="journals/cal/YasinMB19" mdate="2020-03-15">
+<author orcid="0000-0002-8891-0513" pid="147/5059">Ahmad Yasin</author>
+<author orcid="0000-0003-4274-6866" pid="01/1397">Avi Mendelson</author>
+<author pid="b/YBenAsher">Yosi Ben-Asher</author>
+<title>Tuning Performance via Metrics with Expectations.</title>
+<pages>91-94</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LCA.2019.2916408</ee>
+<url>db/journals/cal/cal18.html#YasinMB19</url>
+</article>
+</r>
+<r><article key="journals/computer/BresnikerFMMRW19" mdate="2021-04-09">
+<author orcid="0000-0002-8360-3194" pid="59/1752">Kirk M. Bresniker</author>
+<author pid="99/4818">Paolo Faraboschi</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0001-9830-8588" pid="53/726">Dejan S. Milojicic</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<author pid="70/2118">Robert N. M. Watson</author>
+<title>Rack-Scale Capabilities: Fine-Grained Protection for Large-Scale Memories.</title>
+<pages>52-62</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>Computer</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MC.2018.2888769</ee>
+<url>db/journals/computer/computer52.html#BresnikerFMMRW19</url>
+</article>
+</r>
+<r><article key="journals/computer/Mendelson19" mdate="2020-08-12">
+<author orcid="0000-0003-4274-6866" pid="01/1397">Avi Mendelson</author>
+<title>Security and Privacy in the Age of Big Data and Machine Learning.</title>
+<pages>65-70</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>Computer</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/MC.2019.2943137</ee>
+<url>db/journals/computer/computer52.html#Mendelson19</url>
+</article>
+</r>
+<r><article key="journals/ijes/KedarMC19" mdate="2020-09-11">
+<author pid="27/6750">Gil Kedar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="58/2164">Israel Cidon</author>
+<title>Energy oriented EDF for real-time systems.</title>
+<pages>472-482</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJES.2019.10022128</ee>
+<url>db/journals/ijes/ijes11.html#KedarMC19</url>
+</article>
+</r>
+<r><article key="journals/taco/AzrielHARHMRWFM19" mdate="2021-04-09">
+<author pid="164/0858">Leonid Azriel</author>
+<author pid="198/0735">Lukas Humbel</author>
+<author pid="163/1550">Reto Achermann</author>
+<author orcid="0000-0002-6372-217X" pid="75/10952">Alex Richardson</author>
+<author pid="188/9957">Moritz Hoffmann</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<author pid="70/2118">Robert N. M. Watson</author>
+<author pid="99/4818">Paolo Faraboschi</author>
+<author orcid="0000-0001-9830-8588" pid="53/726">Dejan S. Milojicic</author>
+<title>Memory-Side Protection With a Capability Enforcement Co-Processor.</title>
+<pages>5:1-5:26</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1145/3302257</ee>
+<url>db/journals/taco/taco16.html#AzrielHARHMRWFM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ats/KumarDKKCM19" mdate="2020-12-29">
+<author orcid="0000-0001-8363-2852" pid="39/3973">Vinay B. Y. Kumar</author>
+<author pid="128/3106">Suman Deb</author>
+<author pid="41/11351">Rupesh Kumar</author>
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Recruiting Fault Tolerance Techniques for Microprocessor Security.</title>
+<pages>80-85</pages>
+<year>2019</year>
+<booktitle>ATS</booktitle>
+<ee>https://doi.org/10.1109/ATS47505.2019.00015</ee>
+<crossref>conf/ats/2019</crossref>
+<url>db/conf/ats/ats2019.html#KumarDKKCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/AzrielGM19" mdate="2019-11-10">
+<author pid="164/0858">Leonid Azriel</author>
+<author pid="92/459">Ran Ginosar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>SoK: An Overview of Algorithmic Methods in IC Reverse Engineering.</title>
+<pages>65-74</pages>
+<year>2019</year>
+<booktitle>ASHES@CCS</booktitle>
+<ee>https://doi.org/10.1145/3338508.3359575</ee>
+<crossref>conf/ccs/2019ashes</crossref>
+<url>db/conf/ccs/ashes2019.html#AzrielGM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/Haj-YahyaRMC19" mdate="2019-05-04">
+<author pid="218/1227">Jawad Haj-Yahya</author>
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<title>A Comprehensive Evaluation of Power Delivery Schemes for Modern Microprocessors.</title>
+<pages>123-130</pages>
+<year>2019</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2019.8697544</ee>
+<crossref>conf/isqed/2019</crossref>
+<url>db/conf/isqed/isqed2019.html#Haj-YahyaRMC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/KumarCHM19" mdate="2020-12-29">
+<author orcid="0000-0001-8363-2852" pid="39/3973">Vinay B. Y. Kumar</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="218/1227">Jawad Haj-Yahya</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>ITUS: A Secure RISC-V System-on-Chip.</title>
+<pages>418-423</pages>
+<year>2019</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC46988.2019.1570564307</ee>
+<crossref>conf/socc/2019</crossref>
+<url>db/conf/socc/socc2019.html#KumarCHM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/Mendelson19" mdate="2020-05-19">
+<author pid="01/1397">Avi Mendelson</author>
+<title>Secure Speculative Core.</title>
+<pages>426-431</pages>
+<year>2019</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC46988.2019.1570564192</ee>
+<crossref>conf/socc/2019</crossref>
+<url>db/conf/socc/socc2019.html#Mendelson19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/space/2019" mdate="2019-11-22">
+<editor pid="94/7837">Shivam Bhasin</editor>
+<editor pid="01/1397">Avi Mendelson</editor>
+<editor pid="06/2136">Mridul Nandi</editor>
+<title>Security, Privacy, and Applied Cryptography Engineering - 9th International Conference, SPACE 2019, Gandhinagar, India, December 3-7, 2019, Proceedings</title>
+<booktitle>SPACE</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11947</volume>
+<isbn>978-3-030-35868-6</isbn>
+<isbn>978-3-030-35869-3</isbn>
+<ee>https://doi.org/10.1007/978-3-030-35869-3</ee>
+<url>db/conf/space/space2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09872" mdate="2019-05-02">
+<author pid="239/5937">Yochai Zur</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="217/1801">Itay Evron</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Towards Learning of Filter-Level Heterogeneous Compression of Convolutional Neural Networks.</title>
+<year>2019</year>
+<volume>abs/1904.09872</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09872</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09872</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-10830" mdate="2019-06-03">
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="03/5857">Ron Banner</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="241/9702">Yevgeny Yermolin</author>
+<author pid="241/9356">Alex Karbachevsky</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Feature Map Transform Coding for Energy-Efficient CNN Inference.</title>
+<year>2019</year>
+<volume>abs/1905.10830</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.10830</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-10830</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-11481" mdate="2019-09-27">
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="03/5857">Ron Banner</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>CAT: Compression-Aware Training for bandwidth reduction.</title>
+<year>2019</year>
+<volume>abs/1909.11481</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.11481</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-11481</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-07190" mdate="2019-12-02">
+<author pid="228/7866">Yury Nahshan</author>
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="03/5857">Ron Banner</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Loss Aware Post-training Quantization.</title>
+<year>2019</year>
+<volume>abs/1911.07190</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.07190</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-07190</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-07198" mdate="2019-12-02">
+<author pid="254/1367">Yaniv Nemcovsky</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="239/6051">Brian Chmiel</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Smoothed Inference for Adversarially-Trained Models.</title>
+<year>2019</year>
+<volume>abs/1911.07198</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.07198</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-07198</url>
+</article>
+</r>
+<r><article key="journals/computer/ConteDMM18" mdate="2021-04-09">
+<author pid="91/1557">Thomas M. Conte</author>
+<author pid="50/5072">Erik P. DeBenedictis</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0001-9830-8588" pid="53/726">Dejan S. Milojicic</author>
+<title>Rebooting Computers to Avoid Meltdown and Spectre.</title>
+<pages>74-77</pages>
+<year>2018</year>
+<volume>51</volume>
+<journal>Computer</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MC.2018.2141022</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2018.2141022</ee>
+<url>db/journals/computer/computer51.html#ConteDMM18</url>
+</article>
+</r>
+<r><article key="journals/ton/YallouzRBMO18" mdate="2018-07-10">
+<author orcid="0000-0002-3724-4311" pid="133/3891">Jose Yallouz</author>
+<author orcid="0000-0002-4064-1238" pid="48/2092">Ori Rottenstreich</author>
+<author orcid="0000-0003-1644-2172" pid="06/8283">P&#233;ter Babarczi</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0001-5561-6599" pid="65/1175">Ariel Orda</author>
+<title>Minimum-Weight Link-Disjoint Node-&#34;Somewhat Disjoint&#34; Paths.</title>
+<pages>1110-1122</pages>
+<year>2018</year>
+<volume>26</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TNET.2018.2823912</ee>
+<url>db/journals/ton/ton26.html#YallouzRBMO18</url>
+</article>
+</r>
+<r><article key="journals/tpds/YuXEBMX18" mdate="2020-10-02">
+<author orcid="0000-0001-8067-9612" pid="70/8170-1">Zhibin Yu 0001</author>
+<author orcid="0000-0003-1930-0049" pid="01/849">Wen Xiong</author>
+<author orcid="0000-0001-8792-4473" pid="e/LievenEeckhout">Lieven Eeckhout</author>
+<author orcid="0000-0001-6875-5539" pid="139/4211">Zhendong Bei</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0001-9480-0356" pid="x/ChengZhongXu">Chengzhong Xu 0001</author>
+<title>MIA: Metric Importance Analysis for Big Data Workload Characterization.</title>
+<pages>1371-1384</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPDS.2017.2758781</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2017.2758781</ee>
+<url>db/journals/tpds/tpds29.html#YuXEBMX18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/BaskinLZBM18" mdate="2018-08-08">
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2319">Natan Liss</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Streaming Architecture for Large-Scale Quantized Neural Networks on an FPGA-Based Dataflow Platform.</title>
+<pages>162-169</pages>
+<year>2018</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2018.00032</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPSW.2018.00032</ee>
+<crossref>conf/ipps/2018w</crossref>
+<url>db/conf/ipps/ipdps2018w.html#BaskinLZBM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-11440" mdate="2018-08-13">
+<author pid="217/3595">Chalak Ori</author>
+<author pid="217/3318">Weiguang Cai</author>
+<author pid="64/6025">Wei Li</author>
+<author pid="66/5168">Lei Fang</author>
+<author pid="217/3365">Libing Zheng</author>
+<author pid="217/3465">Jintang Wang</author>
+<author pid="217/3539">Zuguang Wu</author>
+<author pid="67/10269">Xiongli Gu</author>
+<author pid="51/2659">Haibin Wang</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>ScaleSimulator: A Fast and Cycle-Accurate Parallel Simulator for Architectural Exploration.</title>
+<year>2018</year>
+<volume>abs/1803.11440</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.11440</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-11440</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-10969" mdate="2018-08-13">
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="213/7801">Eli Schwartz</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="205/2319">Natan Liss</author>
+<author pid="50/7998">Raja Giryes</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>UNIQ: Uniform Noise Injection for the Quantization of Neural Networks.</title>
+<year>2018</year>
+<volume>abs/1804.10969</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.10969</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-10969</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-00162" mdate="2018-10-30">
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2319">Natan Liss</author>
+<author pid="228/6856">Yoav Chai</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<author pid="213/7801">Eli Schwartz</author>
+<author pid="50/7998">Raja Giryes</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<title>NICE: Noise Injection and Clamping Estimation for Neural Network Quantization.</title>
+<year>2018</year>
+<volume>abs/1810.00162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.00162</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-00162</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-10869" mdate="2018-11-30">
+<author pid="205/2319">Natan Liss</author>
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="77/3198">Alexander M. Bronstein</author>
+<author pid="50/7998">Raja Giryes</author>
+<title>Efficient non-uniform quantizer for quantized neural network targeting reconfigurable hardware.</title>
+<year>2018</year>
+<volume>abs/1811.10869</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.10869</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-10869</url>
+</article>
+</r>
+<r><article key="journals/cal/VernerMS17" mdate="2020-03-15">
+<author pid="97/9707">Uri Verner</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<title>Extending Amdahl's Law for Multicores with Turbo Boost.</title>
+<pages>30-33</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/LCA.2015.2512982</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LCA.2015.2512982</ee>
+<url>db/journals/cal/cal16.html#VernerMS17</url>
+</article>
+</r>
+<r><article key="journals/tc/KedarMC17" mdate="2017-05-20">
+<author pid="27/6750">Gil Kedar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="58/2164">Israel Cidon</author>
+<title>SPACE: Semi-Partitioned CachE for Energy Efficient, Hard Real-Time Systems.</title>
+<pages>717-730</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TC.2016.2608775</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2016.2608775</ee>
+<url>db/journals/tc/tc66.html#KedarMC17</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/AzrielGGM17" mdate="2020-03-11">
+<author orcid="0000-0003-1603-1365" pid="164/0858">Leonid Azriel</author>
+<author pid="92/459">Ran Ginosar</author>
+<author orcid="0000-0002-9145-7609" pid="38/1135">Shay Gueron</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Using Scan Side Channel to Detect IP Theft.</title>
+<pages>3268-3280</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TVLSI.2017.2715188</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVLSI.2017.2715188</ee>
+<url>db/journals/tvlsi/tvlsi25.html#AzrielGGM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/AzrielGM17" mdate="2018-11-06">
+<author pid="164/0858">Leonid Azriel</author>
+<author pid="92/459">Ran Ginosar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Revealing On-chip Proprietary Security Functions with Scan Side Channel Based Reverse Engineering.</title>
+<pages>233-238</pages>
+<year>2017</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3060403.3060464</ee>
+<crossref>conf/glvlsi/2017</crossref>
+<url>db/conf/glvlsi/glvlsi2017.html#AzrielGM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simutools/OriCLFZWWGWM17" mdate="2018-11-21">
+<author pid="217/3595">Chalak Ori</author>
+<author pid="217/3318">Weiguang Cai</author>
+<author pid="64/6025">Wei Li</author>
+<author pid="66/5168">Lei Fang</author>
+<author pid="217/3365">Libing Zheng</author>
+<author pid="217/3465">Jintang Wang</author>
+<author pid="217/3539">Zuguang Wu</author>
+<author pid="67/10269">Xiongli Gu</author>
+<author pid="51/2659">Haibin Wang</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>ScaleSimulator: A Fast and Cycle-Accurate Parallel Simulator for Architectural Exploration.</title>
+<pages>32-41</pages>
+<year>2017</year>
+<booktitle>SimuTools</booktitle>
+<ee>https://doi.org/10.1145/3173519.3173528</ee>
+<crossref>conf/simutools/2017</crossref>
+<url>db/conf/simutools/simutools2017.html#OriCLFZWWGWM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-00052" mdate="2018-08-13">
+<author pid="205/2308">Chaim Baskin</author>
+<author pid="205/2319">Natan Liss</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="205/2315">Evgenii Zheltonozhskii</author>
+<title>Streaming Architecture for Large-Scale Quantized Neural Networks on an FPGA-Based Dataflow Platform.</title>
+<year>2017</year>
+<volume>abs/1708.00052</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.00052</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-00052</url>
+</article>
+</r>
+<r><article key="journals/computer/RotemWMGWA16" mdate="2020-08-12">
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="92/459">Ran Ginosar</author>
+<author pid="49/11232">Eliezer Weissmann</author>
+<author pid="41/6690">Yoni Aizik</author>
+<title>H-EARtH: Heterogeneous Multicore Platform Energy Management.</title>
+<pages>47-55</pages>
+<year>2016</year>
+<volume>49</volume>
+<journal>Computer</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/MC.2016.309</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2016.309</ee>
+<url>db/journals/computer/computer49.html#RotemWMGWA16</url>
+</article>
+</r>
+<r><article key="journals/ijpp/WeisGFMGU16" mdate="2020-04-01">
+<author pid="17/9378">Sebastian Weis</author>
+<author pid="31/9378">Arne Garbade</author>
+<author orcid="0000-0003-2963-2821" pid="48/5201">Bernhard Fechner</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="36/2773">Roberto Giorgi</author>
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<title>Architectural Support for Fault Tolerance in a Teradevice Dataflow System.</title>
+<pages>208-232</pages>
+<year>2016</year>
+<volume>44</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-014-0312-y</ee>
+<url>db/journals/ijpp/ijpp44.html#WeisGFMGU16</url>
+</article>
+</r>
+<r><article key="journals/taco/Haj-YihiaYBM16" mdate="2021-02-17">
+<author pid="218/1227">Jawad Haj-Yihia</author>
+<author pid="147/5059">Ahmad Yasin</author>
+<author pid="b/YBenAsher">Yosi Ben-Asher</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Fine-Grain Power Breakdown of Modern Out-of-Order Cores and Its Implications on Skylake-Based Systems.</title>
+<pages>56:1-56:25</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/3018112</ee>
+<url>db/journals/taco/taco13.html#Haj-YihiaYBM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnp/YallouzRBMO16" mdate="2017-05-26">
+<author pid="133/3891">Jose Yallouz</author>
+<author pid="48/2092">Ori Rottenstreich</author>
+<author pid="06/8283">P&#233;ter Babarczi</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="65/1175">Ariel Orda</author>
+<title>Optimal link-disjoint node-&#34;somewhat disjoint&#34; paths.</title>
+<pages>1-10</pages>
+<year>2016</year>
+<booktitle>ICNP</booktitle>
+<ee>https://doi.org/10.1109/ICNP.2016.7784451</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICNP.2016.7784451</ee>
+<crossref>conf/icnp/2016</crossref>
+<url>db/conf/icnp/icnp2016.html#YallouzRBMO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/AzrielGGM16" mdate="2019-09-25">
+<author pid="164/0858">Leonid Azriel</author>
+<author pid="92/459">Ran Ginosar</author>
+<author orcid="0000-0002-9145-7609" pid="38/1135">Shay Gueron</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Using Scan Side Channel for Detecting IP Theft.</title>
+<pages>1:1-1:8</pages>
+<year>2016</year>
+<booktitle>HASP@ISCA</booktitle>
+<ee>https://doi.org/10.1145/2948618.2948619</ee>
+<crossref>conf/isca/2016hasp</crossref>
+<url>db/conf/isca/hasp2016.html#AzrielGGM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/ZenoMS16" mdate="2018-11-06">
+<author pid="176/9173">Lior Zeno</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="94/2996">Mark Silberstein</author>
+<title>GPUpIO: the case for I/O-driven preemption on GPUs.</title>
+<pages>63-71</pages>
+<year>2016</year>
+<booktitle>GPGPU@PPoPP</booktitle>
+<ee>https://doi.org/10.1145/2884045.2884053</ee>
+<crossref>conf/ppopp/2016gpgpu</crossref>
+<url>db/conf/ppopp/gpgpu2016.html#ZenoMS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/cal/AzrielMW15" mdate="2020-03-15">
+<author pid="164/0858">Leonid Azriel</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<title>Peripheral Memory: A Technique for Fighting Memory Bandwidth Bottleneck.</title>
+<pages>54-57</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/LCA.2014.2319077</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LCA.2014.2319077</ee>
+<url>db/journals/cal/cal14.html#AzrielMW15</url>
+</article>
+</r>
+<r><article key="journals/mj/RotemGMW15" mdate="2020-02-22">
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="92/459">Ran Ginosar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<title>Power and thermal constraints of modern system-on-a-chip computer.</title>
+<pages>1225-1229</pages>
+<year>2015</year>
+<volume>46</volume>
+<journal>Microelectron. J.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.mejo.2015.09.002</ee>
+<url>db/journals/mj/mj46.html#RotemGMW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/Vateva-GurovaSM15" mdate="2020-10-25">
+<author pid="58/8733">Tsvetoslava Vateva-Gurova</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>The Impact of Hypervisor Scheduling on Compromising Virtualized Environments.</title>
+<pages>1910-1917</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.283</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#Vateva-GurovaSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/NowakYMZ15" mdate="2021-02-01">
+<author pid="74/3507">Andrzej Nowak</author>
+<author pid="147/5059">Ahmad Yasin</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>Establishing a Base of Trust with Performance Counters for Enterprise Workloads.</title>
+<pages>541-548</pages>
+<year>2015</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc15/technical-session/presentation/nowak</ee>
+<crossref>conf/usenix/2015</crossref>
+<url>db/conf/usenix/usenix2015.html#NowakYMZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AvniLM15" mdate="2017-05-19">
+<author pid="23/5898">Hillel Avni</author>
+<author pid="64/1366">Eliezer Levy</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Hardware Transactions in Nonvolatile Memory.</title>
+<pages>617-630</pages>
+<year>2015</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-48653-5_41</ee>
+<crossref>conf/wdag/2015</crossref>
+<url>db/conf/wdag/disc2015.html#AvniLM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cal/RotemGWM14" mdate="2020-03-15">
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="92/459">Ran Ginosar</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Energy Aware Race to Halt: A Down to EARtH Approach for Platform Energy Management.</title>
+<pages>25-28</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/L-CA.2012.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/L-CA.2012.32</ee>
+<url>db/journals/cal/cal13.html#RotemGWM14</url>
+</article>
+</r>
+<r><article key="journals/mam/GiorgiBBCEFFGGGGGKKLLLLMMNPPTUWWZV14" mdate="2020-02-22">
+<author pid="36/2773">Roberto Giorgi</author>
+<author orcid="0000-0003-2941-5499" pid="88/929">Rosa M. Badia</author>
+<author pid="62/1166">Fran&#231;ois Bodin</author>
+<author pid="81/858-1">Albert Cohen 0001</author>
+<author pid="66/3873">Paraskevas Evripidou</author>
+<author orcid="0000-0003-4778-5696" pid="99/4818">Paolo Faraboschi</author>
+<author orcid="0000-0003-2963-2821" pid="48/5201">Bernhard Fechner</author>
+<author pid="g/GuangRGao">Guang R. Gao</author>
+<author pid="31/9378">Arne Garbade</author>
+<author pid="117/6956">Rahulkumar Gayatri</author>
+<author pid="45/3067">Sylvain Girbal</author>
+<author pid="87/3627">Daniel Goodman 0001</author>
+<author pid="82/1263">Behram Khan</author>
+<author pid="84/8269">Souad Koliai</author>
+<author pid="157/6416">Joshua Landwehr</author>
+<author pid="126/2047">Nhat Minh L&#234;</author>
+<author pid="92/2954-16">Feng Li 0016</author>
+<author pid="32/3102">Mikel Luj&#225;n</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="67/6663">Laurent Morin</author>
+<author pid="88/6620">Nacho Navarro</author>
+<author pid="157/6528">Tomasz Patejko</author>
+<author pid="65/8110">Antoniu Pop</author>
+<author orcid="0000-0002-2776-9253" pid="69/345">Pedro Trancoso</author>
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<author pid="25/3454">Ian Watson</author>
+<author pid="17/9378">Sebastian Weis</author>
+<author pid="81/2622">St&#233;phane Zuckerman</author>
+<author orcid="0000-0003-2917-2482" pid="v/MateoValero">Mateo Valero</author>
+<title>TERAFLUX: Harnessing dataflow in next generation teradevices.</title>
+<pages>976-990</pages>
+<year>2014</year>
+<volume>38</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.micpro.2014.04.001</ee>
+<ee>https://www.wikidata.org/entity/Q61730828</ee>
+<url>db/journals/mam/mam38.html#GiorgiBBCEFFGGGGGKKLLLLMMNPPTUWWZV14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icccn/VernerMS14" mdate="2017-05-17">
+<author pid="97/9707">Uri Verner</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<title>Scheduling periodic real-time communication in multi-GPU systems.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>ICCCN</booktitle>
+<ee>https://doi.org/10.1109/ICCCN.2014.6911778</ee>
+<crossref>conf/icccn/2014</crossref>
+<url>db/conf/icccn/icccn2014.html#VernerMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/VernerMS14" mdate="2017-05-25">
+<author pid="97/9707">Uri Verner</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<title>Batch Method for Efficient Resource Sharing in Real-Time Multi-GPU Systems.</title>
+<pages>347-362</pages>
+<year>2014</year>
+<booktitle>ICDCN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45249-9_23</ee>
+<crossref>conf/icdcn/2014</crossref>
+<url>db/conf/icdcn/icdcn2014.html#VernerMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiswc/YassinBM14" mdate="2017-05-26">
+<author pid="147/5059">Ahmad Yasin</author>
+<author pid="b/YBenAsher">Yosi Ben-Asher</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Deep-dive analysis of the data analytics workload in CloudSuite.</title>
+<pages>202-211</pages>
+<year>2014</year>
+<booktitle>IISWC</booktitle>
+<ee>https://doi.org/10.1109/IISWC.2014.6983059</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IISWC.2014.6983059</ee>
+<crossref>conf/iiswc/2014</crossref>
+<url>db/conf/iiswc/iiswc2014.html#YassinBM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/RotemWMYG14" mdate="2017-05-26">
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="147/5059">Ahmad Yasin</author>
+<author pid="92/459">Ran Ginosar</author>
+<title>Energy management of highly dynamic server workloads in an heterogeneous data center.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1109/PATMOS.2014.6951868</ee>
+<crossref>conf/patmos/2014</crossref>
+<url>db/conf/patmos/patmos2014.html#RotemWMYG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/KarpasSDGMT13" mdate="2021-02-10">
+<author pid="92/7121">Erez Karpas</author>
+<author pid="51/8415">Tomer Sagi</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="g/AvigdorGal">Avigdor Gal</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="t/MosheTennenholtz">Moshe Tennenholtz</author>
+<title>Data-Parallel Computing Meets STRIPS.</title>
+<year>2013</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6289</ee>
+<crossref>conf/aaai/2013</crossref>
+<url>db/conf/aaai/aaai2013.html#KarpasSDGMT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/SolinasBBCEFFGGGGKKLLMMNPTUVWWZG13" mdate="2019-07-07">
+<author pid="05/4946">Marco Solinas</author>
+<author orcid="0000-0003-2941-5499" pid="88/929">Rosa M. Badia</author>
+<author pid="62/1166">Fran&#231;ois Bodin</author>
+<author pid="81/858-1">Albert Cohen 0001</author>
+<author pid="66/3873">Paraskevas Evripidou</author>
+<author orcid="0000-0003-4778-5696" pid="99/4818">Paolo Faraboschi</author>
+<author orcid="0000-0003-2963-2821" pid="48/5201">Bernhard Fechner</author>
+<author pid="g/GuangRGao">Guang R. Gao</author>
+<author pid="31/9378">Arne Garbade</author>
+<author pid="45/3067">Sylvain Girbal</author>
+<author pid="87/3627">Daniel Goodman 0001</author>
+<author pid="82/1263">Behram Khan</author>
+<author pid="84/8269">Souad Koliai</author>
+<author pid="92/2954-16">Feng Li 0016</author>
+<author pid="32/3102">Mikel Luj&#225;n</author>
+<author pid="67/6663">Laurent Morin</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="88/6620">Nacho Navarro</author>
+<author pid="65/8110">Antoniu Pop</author>
+<author orcid="0000-0002-2776-9253" pid="69/345">Pedro Trancoso</author>
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<author orcid="0000-0003-2917-2482" pid="v/MateoValero">Mateo Valero</author>
+<author pid="17/9378">Sebastian Weis</author>
+<author pid="25/3454">Ian Watson</author>
+<author pid="81/2622">St&#233;phane Zuckerman</author>
+<author orcid="0000-0003-0384-8229" pid="36/2773">Roberto Giorgi</author>
+<title>The TERAFLUX Project: Exploiting the DataFlow Paradigm in Next Generation Teradevices.</title>
+<pages>272-279</pages>
+<year>2013</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2013.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2013.39</ee>
+<ee>https://www.wikidata.org/entity/Q61730846</ee>
+<crossref>conf/dsd/2013</crossref>
+<url>db/conf/dsd/dsd2013.html#SolinasBBCEFFGGGGKKLLMMNPTUVWWZG13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/isca/2013" mdate="2013-06-28">
+<editor pid="01/1397">Avi Mendelson</editor>
+<title>The 40th Annual International Symposium on Computer Architecture, ISCA'13, Tel-Aviv, Israel, June 23-27, 2013</title>
+<publisher>ACM</publisher>
+<booktitle>ISCA</booktitle>
+<year>2013</year>
+<isbn>978-1-4503-2079-5</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2485922</ee>
+<url>db/conf/isca/isca2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/taco/MalitsBKM12" mdate="2021-02-17">
+<author pid="39/10860">Roman Malits</author>
+<author pid="14/1037">Evgeny Bolotin</author>
+<author pid="k/AvinoamKolodny">Avinoam Kolodny</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Exploring the limits of GPGPU scheduling in control flow bound applications.</title>
+<pages>29:1-29:22</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/2086696.2086708</ee>
+<url>db/journals/taco/taco8.html#MalitsBKM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/VeidenbaumKSM12" mdate="2019-12-27">
+<author pid="117/6991">Alex Veidenbaum</author>
+<author pid="24/4627">Nectarios Koziris</author>
+<author orcid="0000-0001-5272-7533" pid="71/108">Toshinori Sato</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Topic 4: High-Performance Architecture and Compilers.</title>
+<pages>204-205</pages>
+<year>2012</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32820-6_21</ee>
+<crossref>conf/europar/2012</crossref>
+<url>db/conf/europar/europar2012.html#VeidenbaumKSM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/systor/VernerSSM12" mdate="2018-11-06">
+<author pid="97/9707">Uri Verner</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="94/2996">Mark Silberstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Scheduling processing of real-time data streams on heterogeneous multi-GPU systems.</title>
+<pages>7</pages>
+<year>2012</year>
+<booktitle>SYSTOR</booktitle>
+<ee>https://doi.org/10.1145/2367589.2367596</ee>
+<crossref>conf/systor/2012</crossref>
+<url>db/conf/systor/systor2012.html#VernerSSM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/VillaviejaKVERMNCU11" mdate="2019-10-19">
+<author pid="76/9970">Carlos Villavieja</author>
+<author pid="41/9693">Vasileios Karakostas</author>
+<author orcid="0000-0002-1452-840X" pid="44/1754">Llu&#237;s Vilanova</author>
+<author pid="89/6105">Yoav Etsion</author>
+<author pid="39/2928">Alex Ram&#237;rez</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="88/6620">Nacho Navarro</author>
+<author orcid="0000-0003-1277-9296" pid="41/1128">Adri&#225;n Cristal</author>
+<author orcid="0000-0002-0544-9697" pid="79/1809">Osman S. Unsal</author>
+<title>DiDi: Mitigating the Performance Impact of TLB Shootdowns Using a Shared TLB Directory.</title>
+<pages>340-349</pages>
+<year>2011</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.2011.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PACT.2011.65</ee>
+<crossref>conf/IEEEpact/2011</crossref>
+<url>db/conf/IEEEpact/pact2011.html#VillaviejaKVERMNCU11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tdsc/TimorMBS10" mdate="2020-10-26">
+<author pid="71/7995">Avi Timor</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0001-7754-1970" pid="45/6067">Yitzhak Birk</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<title>Using Underutilized CPU Resources to Enhance Its Reliability.</title>
+<pages>94-109</pages>
+<year>2010</year>
+<volume>7</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TDSC.2008.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TDSC.2008.31</ee>
+<url>db/journals/tdsc/tdsc7.html#TimorMBS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccd/GuzIKKMW10" mdate="2019-02-11">
+<author pid="48/4965">Zvika Guz</author>
+<author pid="54/9640">Oved Itzhak</author>
+<author pid="k/IditKeidar">Idit Keidar</author>
+<author pid="k/AvinoamKolodny">Avinoam Kolodny</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<title>Threads vs. caches: Modeling the behavior of parallel workloads.</title>
+<pages>274-281</pages>
+<year>2010</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2010.5647747</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2010.5647747</ee>
+<crossref>conf/iccd/2010</crossref>
+<url>db/conf/iccd/iccd2010.html#GuzIKKMW10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ics/2010" mdate="2018-11-06">
+<editor pid="26/1323">Taisuke Boku</editor>
+<editor pid="94/6535">Hiroshi Nakashima</editor>
+<editor pid="01/1397">Avi Mendelson</editor>
+<title>Proceedings of the 24th International Conference on Supercomputing, 2010, Tsukuba, Ibaraki, Japan, June 2-4, 2010</title>
+<isbn>978-1-4503-0018-6</isbn>
+<booktitle>ICS</booktitle>
+<publisher>ACM</publisher>
+<year>2010</year>
+<ee>https://doi.org/10.1145/1810085</ee>
+<url>db/conf/ics/ics2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cal/GuzBKKMW09" mdate="2020-03-15">
+<author pid="48/4965">Zvika Guz</author>
+<author pid="14/1037">Evgeny Bolotin</author>
+<author pid="k/IditKeidar">Idit Keidar</author>
+<author pid="k/AvinoamKolodny">Avinoam Kolodny</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<title>Many-Core vs. Many-Thread Machines: Stay Away From the Valley.</title>
+<pages>25-28</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/L-CA.2009.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/L-CA.2009.4</ee>
+<url>db/journals/cal/cal8.html#GuzBKKMW09</url>
+</article>
+</r>
+<r><article key="journals/taco/GaborMW09" mdate="2021-02-17">
+<author pid="97/2831">Ron Gabor</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="61/4577">Shlomo Weiss</author>
+<title>Service level agreement for multithreaded processors.</title>
+<year>2009</year>
+<volume>6</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1145/1543753.1543755</ee>
+<url>db/journals/taco/taco6.html#GaborMW09</url>
+<pages>6:1-6:33</pages>
+</article>
+</r>
+<r><inproceedings key="conf/micro/RotemMGW09" mdate="2018-11-06">
+<author pid="51/7846">Efraim Rotem</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="92/459">Ran Ginosar</author>
+<author pid="35/1243">Uri C. Weiser</author>
+<title>Multiple clock and voltage domains for chip multi processors.</title>
+<pages>459-468</pages>
+<year>2009</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/1669112.1669170</ee>
+<ee>http://ieeexplore.ieee.org/document/5375435/</ee>
+<crossref>conf/micro/2009</crossref>
+<url>db/conf/micro/micro2009.html#RotemMGW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/SahaZCGYRFZRM09" mdate="2018-11-06">
+<author pid="52/6044">Bratin Saha</author>
+<author pid="55/1292">Xiaocheng Zhou</author>
+<author pid="04/1286">Hu Chen</author>
+<author pid="15/1300">Ying Gao</author>
+<author pid="08/6611">Shoumeng Yan</author>
+<author pid="78/6954">Mohan Rajagopalan</author>
+<author pid="77/129">Jesse Fang</author>
+<author pid="58/1250">Peinan Zhang</author>
+<author pid="02/4298">Ronny Ronen</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Programming model for a heterogeneous x86 platform.</title>
+<pages>431-440</pages>
+<year>2009</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/1542476.1542525</ee>
+<crossref>conf/pldi/2009</crossref>
+<url>db/conf/pldi/pldi2009.html#SahaZCGYRFZRM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SuriFAPMM08" mdate="2020-10-25">
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author pid="a/JacobAAbraham">Jacob A. Abraham</author>
+<author pid="87/4847">Stefan Poledna</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="30/4561">Subhasish Mitra</author>
+<title>Dependable Embedded Systems Special Day Panel: Issues and Challenges in Dependable Embedded Systems.</title>
+<pages>1394-1395</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2008.4484868</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2008.4484868</ee>
+<ee>https://doi.org/10.1145/1403375.1403712</ee>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#SuriFAPMM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/taco/GaborWM07" mdate="2021-02-17">
+<author pid="97/2831">Ron Gabor</author>
+<author pid="61/4577">Shlomo Weiss</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Fairness enforcement in switch on event multithreading.</title>
+<year>2007</year>
+<volume>4</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1145/1275937.1275939</ee>
+<url>db/journals/taco/taco4.html#GaborWM07</url>
+<pages>15</pages>
+</article>
+</r>
+<r><article key="journals/tocs/BeharMK07" mdate="2018-11-06">
+<author pid="46/3176">Michael Behar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="k/AvinoamKolodny">Avinoam Kolodny</author>
+<title>Trace cache sampling filter.</title>
+<year>2007</year>
+<volume>25</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1189736.1189739</ee>
+<url>db/journals/tocs/tocs25.html#BeharMK07</url>
+<pages>3</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/GontmakherMSS07" mdate="2017-05-19">
+<author pid="12/5109">Alex Gontmakher</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="61/6641">Gregory Shklover</author>
+<title>Code Compilation for an Explicitly Parallel Register-Sharing Architecture.</title>
+<pages>58</pages>
+<year>2007</year>
+<crossref>conf/icpp/2007</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2007.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2007.24</ee>
+<url>db/conf/icpp/icpp2007.html#GontmakherMSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/Mendelson07" mdate="2018-11-06">
+<author pid="01/1397">Avi Mendelson</author>
+<title>Current trends in computer architectures: multi-cores, many-cores and special-cores.</title>
+<pages>1</pages>
+<year>2007</year>
+<crossref>conf/ics/2007</crossref>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/1274971.1274972</ee>
+<url>db/conf/ics/ics2007.html#Mendelson07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/GontmakherMS07" mdate="2018-11-06">
+<author pid="12/5109">Alex Gontmakher</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<title>Using fine grain multithreading for energy efficient computing.</title>
+<pages>259-269</pages>
+<year>2007</year>
+<crossref>conf/ppopp/2007</crossref>
+<booktitle>PPOPP</booktitle>
+<ee>https://doi.org/10.1145/1229428.1229480</ee>
+<url>db/conf/ppopp/ppopp2007.html#GontmakherMS07</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crc/MendelsonSGS07" mdate="2017-07-12">
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="12/5109">Alex Gontmakher</author>
+<author pid="61/6641">Gregory Shklover</author>
+<title>A Programming Model and Architectural Extensions for Fine-Grain Parallelism.</title>
+<year>2007</year>
+<booktitle>Handbook of Parallel Computing</booktitle>
+<ee>https://doi.org/10.1201/9781420011296.ch7</ee>
+<crossref>reference/crc/2007pc</crossref>
+<url>db/reference/crc/pc2007.html#MendelsonSGS07</url>
+</incollection>
+</r>
+<r><article key="journals/ijpp/GendlerMB06" mdate="2020-04-01">
+<author pid="20/6439">Alexander Gendler</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0001-7754-1970" pid="45/6067">Yitzhak Birk</author>
+<title>A PAB-Based Multi-Prefetcher Mechanism.</title>
+<pages>171-188</pages>
+<year>2006</year>
+<volume>34</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-006-0006-1</ee>
+<url>db/journals/ijpp/ijpp34.html#GendlerMB06</url>
+</article>
+</r>
+<r><article key="journals/sigarch/GontmakherSM06" mdate="2020-07-30">
+<author pid="12/5109">Alex Gontmakher</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Inthreads: a low granularity parallelization model.</title>
+<pages>77-80</pages>
+<year>2006</year>
+<volume>34</volume>
+<journal>SIGARCH Comput. Archit. News</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1147349.1147350</ee>
+<url>db/journals/sigarch/sigarch34.html#GontmakherSM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/GontmakherMSS06" mdate="2017-05-19">
+<author pid="12/5109">Alex Gontmakher</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="61/6641">Gregory Shklover</author>
+<title>Speculative synchronization and thread management for fine granularity threads.</title>
+<pages>278-287</pages>
+<year>2006</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2006.1598136</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598136</ee>
+<crossref>conf/hpca/2006</crossref>
+<url>db/conf/hpca/hpca2006.html#GontmakherMSS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwmm/Mendelson06" mdate="2018-11-06">
+<author pid="01/1397">Avi Mendelson</author>
+<title>Memory management challenges in the power-aware computing era.</title>
+<pages>1-2</pages>
+<year>2006</year>
+<crossref>conf/iwmm/2006</crossref>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1145/1133956.1133957</ee>
+<url>db/conf/iwmm/ismm2006.html#Mendelson06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/GaborWM06" mdate="2017-05-21">
+<author pid="97/2831">Ron Gabor</author>
+<author pid="61/4577">Shlomo Weiss</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Fairness and Throughput in Switch on Event Multithreading.</title>
+<pages>149-160</pages>
+<year>2006</year>
+<crossref>conf/micro/2006</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2006.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICRO.2006.25</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1194835</ee>
+<url>db/conf/micro/micro2006.html#GaborWM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/BeharMK05" mdate="2017-05-22">
+<author pid="46/3176">Michael Behar</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="k/AvinoamKolodny">Avinoam Kolodny</author>
+<title>Trace Cache Sampling Filter.</title>
+<pages>255-266</pages>
+<year>2005</year>
+<crossref>conf/IEEEpact/2005</crossref>
+<booktitle>IEEE PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.2005.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PACT.2005.38</ee>
+<url>db/conf/IEEEpact/IEEEpact2005.html#BeharMK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/RosnerAMSM04" mdate="2017-05-23">
+<author pid="51/5639">Roni Rosner</author>
+<author pid="85/6400">Yoav Almog</author>
+<author pid="90/5737">Micha Moffie</author>
+<author pid="59/1507">Naftali Schwartz</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Power Awareness through Selective Dynamically Optimized Traces.</title>
+<pages>162-175</pages>
+<year>2004</year>
+<crossref>conf/isca/2004</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2004.1310772</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2004.1310772</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1006715</ee>
+<url>db/conf/isca/isca2004.html#RosnerAMSM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/cal/CohenFMRR03" mdate="2021-03-26">
+<author pid="09/6762-1">Aviad Cohen 0001</author>
+<author pid="51/6955">Lev Finkelstein</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="02/4298">Ronny Ronen</author>
+<author pid="53/5166">Dmitry Rudoy</author>
+<title>On Estimating Optimal Performance of CPU Dynamic Thermal Management.</title>
+<year>2003</year>
+<volume>2</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<ee>https://doi.org/10.1109/L-CA.2003.5</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/L-CA.2003.5</ee>
+<url>db/journals/cal/cal2.html#CohenFMRR03</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/SolomonMROA03" mdate="2020-03-11">
+<author pid="68/6581">Baruch Solomon</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="02/4298">Ronny Ronen</author>
+<author pid="02/974">Doron Orenstein</author>
+<author pid="85/6400">Yoav Almog</author>
+<title>Micro-operation cache: a power aware frontend for variable instruction length ISA.</title>
+<pages>801-811</pages>
+<year>2003</year>
+<volume>11</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TVLSI.2003.814327</ee>
+<url>db/journals/tvlsi/tvlsi11.html#SolomonMROA03</url>
+</article>
+</r>
+<r><inproceedings key="conf/pacs/RosnerAMSM03" mdate="2017-05-26">
+<author pid="51/5639">Roni Rosner</author>
+<author pid="85/6400">Yoav Almog</author>
+<author pid="90/5737">Micha Moffie</author>
+<author pid="59/1507">Naftali Schwartz</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>PARROT: Power Awareness Through Selective Dynamically Optimized Traces.</title>
+<pages>196-214</pages>
+<ee>https://doi.org/10.1007/978-3-540-28641-7_14</ee>
+<year>2003</year>
+<crossref>conf/pacs/2003</crossref>
+<booktitle>PACS</booktitle>
+<url>db/conf/pacs/pacs2003.html#RosnerAMSM03</url>
+</inproceedings>
+</r>
+<r><article key="journals/paapp/SuriM01" mdate="2020-10-26">
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Design of a parallel interconnect based on communication pattern considerations.</title>
+<pages>243-271</pages>
+<year>2001</year>
+<volume>16</volume>
+<journal>Parallel Algorithms Appl.</journal>
+<number>4</number>
+<url>db/journals/paapp/paapp16.html#SuriM01</url>
+<ee>https://doi.org/10.1080/01495730108935273</ee>
+</article>
+</r>
+<r><article key="journals/tocs/MendelsonG01" mdate="2018-11-06">
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="50/4924">Freddy Gabbay</author>
+<title>The effect of seance communication on multiprocessing systems.</title>
+<pages>252-281</pages>
+<year>2001</year>
+<volume>19</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/377769.377780</ee>
+<url>db/journals/tocs/tocs19.html#MendelsonG01</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/RosnerMR01" mdate="2017-05-22">
+<author pid="51/5639">Roni Rosner</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="02/4298">Ronny Ronen</author>
+<title>Filtering Techniques to Improve Trace-Cache Efficiency.</title>
+<pages>37-48</pages>
+<year>2001</year>
+<crossref>conf/IEEEpact/2001</crossref>
+<booktitle>IEEE PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.2001.953286</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PACT.2001.953286</ee>
+<url>db/conf/IEEEpact/IEEEpact2001.html#RosnerMR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/SolomonMOAR01" mdate="2018-11-06">
+<author pid="68/6581">Baruch Solomon</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="02/974">Doron Orenstein</author>
+<author pid="85/6400">Yoav Almog</author>
+<author pid="02/4298">Ronny Ronen</author>
+<title>Micro-operation cache: a power aware frontend for the variable instruction length ISA.</title>
+<pages>4-9</pages>
+<year>2001</year>
+<crossref>conf/islped/2001</crossref>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1145/383082.383085</ee>
+<url>db/conf/islped/islped2001.html#SolomonMOAR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/MendelsonS00" mdate="2020-10-25">
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<title>Designing High-Performance &#38; Reliable Superscalar Architectures: The out of Order Reliable Superscalar (O3RS) Approach.</title>
+<pages>473-481</pages>
+<year>2000</year>
+<crossref>conf/dsn/2000</crossref>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/ICDSN.2000.857578</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDSN.2000.857578</ee>
+<url>db/conf/dsn/dsn2000.html#MendelsonS00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/MendelsonB99" mdate="2020-04-01">
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="02/3578">Michael Bekerman</author>
+<title>Design Alternatives of Multithreaded Architecture.</title>
+<pages>161-193</pages>
+<year>1999</year>
+<volume>27</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>3</number>
+<url>db/journals/ijpp/ijpp27.html#MendelsonB99</url>
+<ee>https://doi.org/10.1023/A:1018733528538</ee>
+</article>
+</r>
+<r><article key="journals/jsa/GabbayM99" mdate="2020-05-19">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>The &#34;Smart&#34; simulation environment - A tool-set to develop new cache coherency protocols.</title>
+<pages>619-632</pages>
+<year>1999</year>
+<volume>45</volume>
+<journal>J. Syst. Archit.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/S1383-7621(98)00007-1</ee>
+<url>db/journals/jsa/jsa45.html#GabbayM99</url>
+</article>
+</r>
+<r><article key="journals/mam/GabbayM98" mdate="2020-02-22">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Improving achievable ILP through value prediction and program profiling.</title>
+<pages>315-332</pages>
+<year>1998</year>
+<volume>22</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0141-9331(98)00088-X</ee>
+<url>db/journals/mam/mam22.html#GabbayM98</url>
+</article>
+</r>
+<r><article key="journals/tocs/GabbayM98" mdate="2018-11-06">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Using Value Prediction to Increase the Power of Speculative Execution Hardware.</title>
+<pages>234-270</pages>
+<year>1998</year>
+<volume>16</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/290409.290411</ee>
+<url>db/journals/tocs/tocs16.html#GabbayM98</url>
+</article>
+</r>
+<r><inproceedings key="conf/isca/GabbayM98" mdate="2018-11-26">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>The Effect of Instruction Fetch Bandwidth on Value Prediction.</title>
+<pages>272-281</pages>
+<year>1998</year>
+<crossref>conf/isca/1998</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.1998.694787</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.1998.694787</ee>
+<ee>https://dl.acm.org/citation.cfm?id=278058</ee>
+<url>db/conf/isca/isca98.html#GabbayM98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/MendelsonS97" mdate="2020-10-25">
+<author pid="01/1397">Avi Mendelson</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<title>Cache based fault recovery for distributed systems.</title>
+<pages>119-129</pages>
+<year>1997</year>
+<crossref>conf/iceccs/1997</crossref>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.1997.622303</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICECCS.1997.622303</ee>
+<url>db/conf/iceccs/iceccs1997.html#MendelsonS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/GabbayM97" mdate="2017-05-26">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Smart: An Advanced Shared-Memory Simulator - Towards a System-Level Simulation Environmen.</title>
+<pages>131-</pages>
+<year>1997</year>
+<crossref>conf/mascots/1997</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.1997.567597</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.1997.567597</ee>
+<url>db/conf/mascots/mascots1997.html#GabbayM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/GabbayM97" mdate="2017-05-21">
+<author pid="50/4924">Freddy Gabbay</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>Can Program Profiling Support Value Prediction?</title>
+<pages>270-280</pages>
+<year>1997</year>
+<crossref>conf/micro/1997</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.1997.645817</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICRO.1997.645817</ee>
+<ee>http://portal.acm.org/citation.cfm?id=266800.266826</ee>
+<url>db/conf/micro/micro97.html#GabbayM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/BekermanMS96" mdate="2017-05-22">
+<author pid="02/3578">Michael Bekerman</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="33/2598">Gad Sheaffer</author>
+<title>Performance and hardware complexity tradeoffs in designing multithreaded architectures.</title>
+<pages>24-34</pages>
+<year>1996</year>
+<booktitle>IEEE PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.1996.552552</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PACT.1996.552552</ee>
+<crossref>conf/IEEEpact/1996</crossref>
+<url>db/conf/IEEEpact/IEEEpact1996.html#BekermanMS96</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/BekermanM95" mdate="2017-05-20">
+<author pid="02/3578">Michael Bekerman</author>
+<author pid="01/1397">Avi Mendelson</author>
+<title>A performance analysis of Pentium processor systems.</title>
+<pages>72-83</pages>
+<year>1995</year>
+<volume>15</volume>
+<journal>IEEE Micro</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/40.464592</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/40.464592</ee>
+<url>db/journals/micro/micro15.html#BekermanM95</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifipPACT/MendelsonM94" mdate="2014-09-25">
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="71/2760">Bilha Mendelson</author>
+<title>Toward a General-Purpose Multi-Stream System.</title>
+<pages>335-338</pages>
+<year>1994</year>
+<crossref>conf/ifipPACT/1994</crossref>
+<booktitle>IFIP PACT</booktitle>
+<url>db/conf/ifipPACT/ifipPACT1994.html#MendelsonM94</url>
+<ee>http://dl.acm.org/citation.cfm?id=713838</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spdp/SuriMP91" mdate="2020-10-25">
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<author pid="01/1397">Avi Mendelson</author>
+<author pid="p/DhirajKPradhan">Dhiraj K. Pradhan</author>
+<title>BDG-torus union graph-an efficient algorithmically specializedparallel interconnect.</title>
+<pages>407-414</pages>
+<year>1991</year>
+<booktitle>SPDP</booktitle>
+<ee>https://doi.org/10.1109/SPDP.1991.218212</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SPDP.1991.218212</ee>
+<crossref>conf/spdp/1991</crossref>
+<url>db/conf/spdp/spdp1991.html#SuriMP91</url>
+</inproceedings>
+</r>
+<coauthors n="166" nc="3">
+<co c="0"><na f="a/Abraham:Jacob_A=" pid="a/JacobAAbraham">Jacob A. Abraham</na></co>
+<co c="0"><na f="a/Achermann:Reto" pid="163/1550">Reto Achermann</na></co>
+<co c="0"><na f="a/Aizik:Yoni" pid="41/6690">Yoni Aizik</na></co>
+<co c="0"><na f="a/Almog:Yoav" pid="85/6400">Yoav Almog</na></co>
+<co c="0"><na f="a/Alser:Mohammed" pid="178/2725">Mohammed Alser</na></co>
+<co c="0"><na f="a/Avni:Hillel" pid="23/5898">Hillel Avni</na></co>
+<co c="0"><na f="a/Azriel:Leonid" pid="164/0858">Leonid Azriel</na></co>
+<co c="0"><na f="b/Babarczi:P=eacute=ter" pid="06/8283">P&#233;ter Babarczi</na></co>
+<co c="0"><na f="b/Badia:Rosa_M=" pid="88/929">Rosa M. Badia</na></co>
+<co c="0"><na f="b/Banner:Ron" pid="03/5857">Ron Banner</na></co>
+<co c="0"><na f="b/Baskin:Chaim" pid="205/2308">Chaim Baskin</na></co>
+<co c="0"><na f="b/Behar:Michael" pid="46/3176">Michael Behar</na></co>
+<co c="2"><na f="b/Bei:Zhendong" pid="139/4211">Zhendong Bei</na></co>
+<co c="0"><na f="b/Bekerman:Michael" pid="02/3578">Michael Bekerman</na></co>
+<co c="0"><na f="b/Ben=Asher:Yosi" pid="b/YBenAsher">Yosi Ben-Asher</na></co>
+<co c="0"><na f="b/Bhasin:Shivam" pid="94/7837">Shivam Bhasin</na></co>
+<co c="0"><na f="b/Birk:Yitzhak" pid="45/6067">Yitzhak Birk</na></co>
+<co c="0"><na f="b/Bodin:Fran=ccedil=ois" pid="62/1166">Fran&#231;ois Bodin</na></co>
+<co c="0"><na f="b/Boku:Taisuke" pid="26/1323">Taisuke Boku</na></co>
+<co c="0"><na f="b/Bolotin:Evgeny" pid="14/1037">Evgeny Bolotin</na></co>
+<co c="0" n="2"><na f="b/Bresniker:Kirk" pid="59/1752">Kirk Bresniker</na><na>Kirk M. Bresniker</na></co>
+<co c="0" n="2"><na f="b/Bronstein:Alexander_M=" pid="77/3198">Alexander M. Bronstein</na><na>Alex M. Bronstein</na></co>
+<co c="1"><na f="c/Cai:Weiguang" pid="217/3318">Weiguang Cai</na></co>
+<co c="0"><na f="c/Chai:Yoav" pid="228/6856">Yoav Chai</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chen:Hu" pid="04/1286">Hu Chen</na></co>
+<co c="0"><na f="c/Chmiel:Brian" pid="239/6051">Brian Chmiel</na></co>
+<co c="0"><na f="c/Cidon:Israel" pid="58/2164">Israel Cidon</na></co>
+<co c="0"><na f="c/Cohen_0001:Albert" pid="81/858-1">Albert Cohen 0001</na></co>
+<co c="0"><na f="c/Cohen_0001:Aviad" pid="09/6762-1">Aviad Cohen 0001</na></co>
+<co c="0"><na f="c/Conte:Thomas_M=" pid="91/1557">Thomas M. Conte</na></co>
+<co c="0"><na f="c/Cristal:Adri=aacute=n" pid="41/1128">Adri&#225;n Cristal</na></co>
+<co c="0"><na f="d/Deb:Suman" pid="128/3106">Suman Deb</na></co>
+<co c="0" n="2"><na f="d/DeBenedictis:Erik" pid="50/5072">Erik DeBenedictis</na><na>Erik P. DeBenedictis</na></co>
+<co c="0"><na f="d/Domshlak:Carmel" pid="d/CarmelDomshlak">Carmel Domshlak</na></co>
+<co c="2"><na f="e/Eeckhout:Lieven" pid="e/LievenEeckhout">Lieven Eeckhout</na></co>
+<co c="0"><na f="e/Etsion:Yoav" pid="89/6105">Yoav Etsion</na></co>
+<co c="0"><na f="e/Evripidou:Paraskevas" pid="66/3873">Paraskevas Evripidou</na></co>
+<co c="0"><na f="e/Evron:Itay" pid="217/1801">Itay Evron</na></co>
+<co c="0"><na f="f/Fang:Jesse" pid="77/129">Jesse Fang</na></co>
+<co c="1"><na f="f/Fang:Lei" pid="66/5168">Lei Fang</na></co>
+<co c="0"><na f="f/Faraboschi:Paolo" pid="99/4818">Paolo Faraboschi</na></co>
+<co c="0"><na f="f/Fechner:Bernhard" pid="48/5201">Bernhard Fechner</na></co>
+<co c="0"><na f="f/Fetzer:Christof" pid="f/ChristofFetzer">Christof Fetzer</na></co>
+<co c="0"><na f="f/Finkelstein:Lev" pid="51/6955">Lev Finkelstein</na></co>
+<co c="0"><na f="g/Gabbay:Freddy" pid="50/4924">Freddy Gabbay</na></co>
+<co c="0"><na f="g/Gabor:Ron" pid="97/2831">Ron Gabor</na></co>
+<co c="0"><na f="g/Gal:Avigdor" pid="g/AvigdorGal">Avigdor Gal</na></co>
+<co c="0"><na f="g/Gao:Guang_R=" pid="g/GuangRGao">Guang R. Gao</na></co>
+<co c="0"><na f="g/Gao:Ying" pid="15/1300">Ying Gao</na></co>
+<co c="0"><na f="g/Garbade:Arne" pid="31/9378">Arne Garbade</na></co>
+<co c="0"><na f="g/Gayatri:Rahulkumar" pid="117/6956">Rahulkumar Gayatri</na></co>
+<co c="0"><na f="g/Gendler:Alexander" pid="20/6439">Alexander Gendler</na></co>
+<co c="0"><na f="g/Ginosar:Ran" pid="92/459">Ran Ginosar</na></co>
+<co c="0"><na f="g/Giorgi:Roberto" pid="36/2773">Roberto Giorgi</na></co>
+<co c="0"><na f="g/Girbal:Sylvain" pid="45/3067">Sylvain Girbal</na></co>
+<co c="0"><na f="g/Giryes:Raja" pid="50/7998">Raja Giryes</na></co>
+<co c="0"><na f="g/Gontmakher:Alex" pid="12/5109">Alex Gontmakher</na></co>
+<co c="0"><na f="g/Goodman_0001:Daniel" pid="87/3627">Daniel Goodman 0001</na></co>
+<co c="1"><na f="g/Gu:Xiongli" pid="67/10269">Xiongli Gu</na></co>
+<co c="0"><na f="g/Gueron:Shay" pid="38/1135">Shay Gueron</na></co>
+<co c="0"><na f="g/Gupta_0001:Naina" pid="83/7953-1">Naina Gupta 0001</na></co>
+<co c="0"><na f="g/Guz:Zvika" pid="48/4965">Zvika Guz</na></co>
+<co c="0" n="2"><na f="h/Haj=Yahya:Jawad" pid="218/1227">Jawad Haj-Yahya</na><na>Jawad Haj-Yihia</na></co>
+<co c="0"><na f="h/Hoffmann:Moritz" pid="188/9957">Moritz Hoffmann</na></co>
+<co c="0"><na f="h/Humbel:Lukas" pid="198/0735">Lukas Humbel</na></co>
+<co c="0"><na f="i/Itzhak:Oved" pid="54/9640">Oved Itzhak</na></co>
+<co c="0"><na f="k/Karakostas:Vasileios" pid="41/9693">Vasileios Karakostas</na></co>
+<co c="0"><na f="k/Karbachevsky:Alex" pid="241/9356">Alex Karbachevsky</na></co>
+<co c="0"><na f="k/Karpas:Erez" pid="92/7121">Erez Karpas</na></co>
+<co c="0"><na f="k/Kedar:Gil" pid="27/6750">Gil Kedar</na></co>
+<co c="0"><na f="k/Keidar:Idit" pid="k/IditKeidar">Idit Keidar</na></co>
+<co c="0"><na f="k/Khairallah:Mustafa" pid="127/2364">Mustafa Khairallah</na></co>
+<co c="0"><na f="k/Khan:Behram" pid="82/1263">Behram Khan</na></co>
+<co c="0"><na f="k/Kim:Jeremie_S=" pid="148/9733">Jeremie S. Kim</na></co>
+<co c="0"><na f="k/Koliai:Souad" pid="84/8269">Souad Koliai</na></co>
+<co c="0"><na f="k/Kolodny:Avinoam" pid="k/AvinoamKolodny">Avinoam Kolodny</na></co>
+<co c="0"><na f="k/Koziris:Nectarios" pid="24/4627">Nectarios Koziris</na></co>
+<co c="0"><na f="k/Kumar:Rupesh" pid="41/11351">Rupesh Kumar</na></co>
+<co c="0"><na f="k/Kumar:Vinay_B=_Y=" pid="39/3973">Vinay B. Y. Kumar</na></co>
+<co c="0"><na f="l/Landwehr:Joshua" pid="157/6416">Joshua Landwehr</na></co>
+<co c="0"><na f="l/L=ecirc=:Nhat_Minh" pid="126/2047">Nhat Minh L&#234;</na></co>
+<co c="0"><na f="l/Levy:Eliezer" pid="64/1366">Eliezer Levy</na></co>
+<co c="0"><na f="l/Li_0016:Feng" pid="92/2954-16">Feng Li 0016</na></co>
+<co c="1"><na f="l/Li:Wei" pid="64/6025">Wei Li</na></co>
+<co c="0"><na f="l/Liss:Natan" pid="205/2319">Natan Liss</na></co>
+<co c="0"><na f="l/Litany:Or" pid="119/1476">Or Litany</na></co>
+<co c="0"><na f="l/Luj=aacute=n:Mikel" pid="32/3102">Mikel Luj&#225;n</na></co>
+<co c="0"><na f="m/Malits:Roman" pid="39/10860">Roman Malits</na></co>
+<co c="0"><na f="m/Mendelson:Bilha" pid="71/2760">Bilha Mendelson</na></co>
+<co c="0"><na f="m/Milojicic:Dejan_S=" pid="53/726">Dejan S. Milojicic</na></co>
+<co c="0"><na f="m/Mitra:Subhasish" pid="30/4561">Subhasish Mitra</na></co>
+<co c="0"><na f="m/Moffie:Micha" pid="90/5737">Micha Moffie</na></co>
+<co c="0"><na f="m/Morin:Laurent" pid="67/6663">Laurent Morin</na></co>
+<co c="0"><na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na></co>
+<co c="0"><na f="n/Nahshan:Yury" pid="228/7866">Yury Nahshan</na></co>
+<co c="0"><na f="n/Nakashima:Hiroshi" pid="94/6535">Hiroshi Nakashima</na></co>
+<co c="0"><na f="n/Nandi:Mridul" pid="06/2136">Mridul Nandi</na></co>
+<co c="0"><na f="n/Navarro:Nacho" pid="88/6620">Nacho Navarro</na></co>
+<co c="0"><na f="n/Nemcovsky:Yaniv" pid="254/1367">Yaniv Nemcovsky</na></co>
+<co c="0"><na f="n/Nowak:Andrzej" pid="74/3507">Andrzej Nowak</na></co>
+<co c="0"><na f="o/Orda:Ariel" pid="65/1175">Ariel Orda</na></co>
+<co c="0"><na f="o/Orenstein:Doron" pid="02/974">Doron Orenstein</na></co>
+<co c="1"><na f="o/Ori:Chalak" pid="217/3595">Chalak Ori</na></co>
+<co c="0"><na f="o/Orosa_0001:Lois" pid="06/10860-1">Lois Orosa 0001</na></co>
+<co c="0"><na f="p/Patejko:Tomasz" pid="157/6528">Tomasz Patejko</na></co>
+<co c="0"><na f="p/Poledna:Stefan" pid="87/4847">Stefan Poledna</na></co>
+<co c="0"><na f="p/Pop:Antoniu" pid="65/8110">Antoniu Pop</na></co>
+<co c="0"><na f="p/Pradhan:Dhiraj_K=" pid="p/DhirajKPradhan">Dhiraj K. Pradhan</na></co>
+<co c="0"><na f="r/Rajagopalan:Mohan" pid="78/6954">Mohan Rajagopalan</na></co>
+<co c="0"><na f="r/Ram=iacute=rez:Alex" pid="39/2928">Alex Ram&#237;rez</na></co>
+<co c="0"><na f="r/Richardson:Alex" pid="75/10952">Alex Richardson</na></co>
+<co c="0"><na f="r/Ronen:Ronny" pid="02/4298">Ronny Ronen</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="r/Rosner:Roni" pid="51/5639">Roni Rosner</na></co>
+<co c="0"><na f="r/Rotem:Efraim" pid="51/7846">Efraim Rotem</na></co>
+<co c="0"><na f="r/Rottenstreich:Ori" pid="48/2092">Ori Rottenstreich</na></co>
+<co c="0"><na f="r/Rudoy:Dmitry" pid="53/5166">Dmitry Rudoy</na></co>
+<co c="0"><na f="s/Sagi:Tomer" pid="51/8415">Tomer Sagi</na></co>
+<co c="0"><na f="s/Saha:Bratin" pid="52/6044">Bratin Saha</na></co>
+<co c="0"><na f="s/Sato:Toshinori" pid="71/108">Toshinori Sato</na></co>
+<co c="0"><na f="s/Schuster:Assaf" pid="s/AssafSchuster">Assaf Schuster</na></co>
+<co c="0"><na f="s/Schwartz:Eli" pid="213/7801">Eli Schwartz</na></co>
+<co c="0"><na f="s/Schwartz:Naftali" pid="59/1507">Naftali Schwartz</na></co>
+<co c="0"><na f="s/Sheaffer:Gad" pid="33/2598">Gad Sheaffer</na></co>
+<co c="0"><na f="s/Shklover:Gregory" pid="61/6641">Gregory Shklover</na></co>
+<co c="0"><na f="s/Silberstein:Mark" pid="94/2996">Mark Silberstein</na></co>
+<co c="0"><na f="s/Solinas:Marco" pid="05/4946">Marco Solinas</na></co>
+<co c="0"><na f="s/Solomon:Baruch" pid="68/6581">Baruch Solomon</na></co>
+<co c="0"><na f="s/Stav:Yinnon" pid="235/3371">Yinnon Stav</na></co>
+<co c="0"><na f="s/Suri:Neeraj" pid="s/NeerajSuri">Neeraj Suri</na></co>
+<co c="0"><na f="t/Tennenholtz:Moshe" pid="t/MosheTennenholtz">Moshe Tennenholtz</na></co>
+<co c="0"><na f="t/Timor:Avi" pid="71/7995">Avi Timor</na></co>
+<co c="0"><na f="t/Trancoso:Pedro" pid="69/345">Pedro Trancoso</na></co>
+<co c="0"><na f="u/Ungerer:Theo" pid="u/TheoUngerer">Theo Ungerer</na></co>
+<co c="0"><na f="u/Unsal:Osman_S=" pid="79/1809">Osman S. Unsal</na></co>
+<co c="0"><na f="v/Valero:Mateo" pid="v/MateoValero">Mateo Valero</na></co>
+<co c="0"><na f="v/Vateva=Gurova:Tsvetoslava" pid="58/8733">Tsvetoslava Vateva-Gurova</na></co>
+<co c="0"><na f="v/Veidenbaum:Alex" pid="117/6991">Alex Veidenbaum</na></co>
+<co c="0"><na f="v/Verner:Uri" pid="97/9707">Uri Verner</na></co>
+<co c="0"><na f="v/Vilanova:Llu=iacute=s" pid="44/1754">Llu&#237;s Vilanova</na></co>
+<co c="0"><na f="v/Villavieja:Carlos" pid="76/9970">Carlos Villavieja</na></co>
+<co c="1"><na f="w/Wang:Haibin" pid="51/2659">Haibin Wang</na></co>
+<co c="1"><na f="w/Wang:Jintang" pid="217/3465">Jintang Wang</na></co>
+<co c="0"><na f="w/Watson:Ian" pid="25/3454">Ian Watson</na></co>
+<co c="0"><na f="w/Watson:Robert_N=_M=" pid="70/2118">Robert N. M. Watson</na></co>
+<co c="0"><na f="w/Weis:Sebastian" pid="17/9378">Sebastian Weis</na></co>
+<co c="0"><na f="w/Weiser:Uri_C=" pid="35/1243">Uri C. Weiser</na></co>
+<co c="0"><na f="w/Weiss:Shlomo" pid="61/4577">Shlomo Weiss</na></co>
+<co c="0"><na f="w/Weissmann:Eliezer" pid="49/11232">Eliezer Weissmann</na></co>
+<co c="1"><na f="w/Wu:Zuguang" pid="217/3539">Zuguang Wu</na></co>
+<co c="2"><na f="x/Xiong:Wen" pid="01/849">Wen Xiong</na></co>
+<co c="2" n="2"><na f="x/Xu_0001:Cheng=Zhong" pid="x/ChengZhongXu">Cheng-Zhong Xu 0001</na><na>Chengzhong Xu 0001</na></co>
+<co c="0"><na f="y/Yallouz:Jose" pid="133/3891">Jose Yallouz</na></co>
+<co c="0"><na f="y/Yan:Shoumeng" pid="08/6611">Shoumeng Yan</na></co>
+<co c="0"><na f="y/Yasin:Ahmad" pid="147/5059">Ahmad Yasin</na></co>
+<co c="0"><na f="y/Yermolin:Yevgeny" pid="241/9702">Yevgeny Yermolin</na></co>
+<co c="2"><na f="y/Yu_0001:Zhibin" pid="70/8170-1">Zhibin Yu 0001</na></co>
+<co c="0"><na f="z/Zeno:Lior" pid="176/9173">Lior Zeno</na></co>
+<co c="0"><na f="z/Zhang:Peinan" pid="58/1250">Peinan Zhang</na></co>
+<co c="0"><na f="z/Zheltonozhskii:Evgenii" pid="205/2315">Evgenii Zheltonozhskii</na></co>
+<co c="1"><na f="z/Zheng:Libing" pid="217/3365">Libing Zheng</na></co>
+<co c="0"><na f="z/Zhou:Xiaocheng" pid="55/1292">Xiaocheng Zhou</na></co>
+<co c="0"><na f="z/Zuckerman:St=eacute=phane" pid="81/2622">St&#233;phane Zuckerman</na></co>
+<co c="0"><na f="z/Zur:Yochai" pid="239/5937">Yochai Zur</na></co>
+<co c="0"><na f="z/Zwaenepoel:Willy" pid="z/WZwaenepoel">Willy Zwaenepoel</na></co>
+</coauthors>
+</dblpperson>
+

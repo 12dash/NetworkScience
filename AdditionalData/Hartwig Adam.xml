@@ -1,3 +1,1039 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6bd8d783fa5d4fd0e78ef93f9cbfd91eb69bd157378a0463fccb3bbbff78a6e2
-size 48973
+<?xml version="1.0"?>
+<dblpperson name="Hartwig Adam" pid="75/948" n="53">
+<person key="homepages/75/948" mdate="2009-06-09">
+<author pid="75/948">Hartwig Adam</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2102-11859" mdate="2021-02-24">
+<author pid="96/625">Mark Weber</author>
+<author pid="33/3881">Jun Xie</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="166/6430">Paul Voigtlaender</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="168/8809">Bradley Green</author>
+<author pid="40/5825-1">Andreas Geiger 0001</author>
+<author pid="41/1228">Bastian Leibe</author>
+<author pid="c/DanielCremers">Daniel Cremers</author>
+<author pid="128/7869">Aljosa Osep</author>
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>STEP: Segmenting and Tracking Every Pixel.</title>
+<year>2021</year>
+<volume>abs/2102.11859</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.11859</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-11859</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChengCZ0HAC20" mdate="2020-08-11">
+<author pid="73/8079">Bowen Cheng</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="52/5150-5">Ting Liu 0005</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation.</title>
+<pages>12472-12482</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01249</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#ChengCZ0HAC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChenGLLKAL20" mdate="2020-08-11">
+<author pid="89/5615">Bo Chen</author>
+<author pid="17/8614">Golnaz Ghiasi</author>
+<author pid="157/6334">Hanxiao Liu</author>
+<author pid="47/8105">Tsung-Yi Lin</author>
+<author pid="160/8529">Dmitry Kalenichenko</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="29/6166">Quoc V. Le</author>
+<title>MnasFPN: Learning Latency-Aware Pyramid Architecture for Object Detection on Mobile Devices.</title>
+<pages>13604-13613</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01362</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#ChenGLLKAL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SunZCSA020" mdate="2020-10-29">
+<author pid="232/1563">Jennifer J. Sun</author>
+<author pid="30/11243">Jiaping Zhao</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="52/5150-5">Ting Liu 0005</author>
+<title>View-Invariant Probabilistic Embedding for Human Pose.</title>
+<pages>53-70</pages>
+<year>2020</year>
+<booktitle>ECCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58558-7_4</ee>
+<crossref>conf/eccv/2020-5</crossref>
+<url>db/conf/eccv/eccv2020-5.html#SunZCSA020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/WangZGAYC20" mdate="2020-10-29">
+<author pid="95/1127">Huiyu Wang</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="168/8809">Bradley Green</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="y/AlanLYuille">Alan L. Yuille</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation.</title>
+<pages>108-126</pages>
+<year>2020</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58548-8_7</ee>
+<crossref>conf/eccv/2020-4</crossref>
+<url>db/conf/eccv/eccv2020-4.html#WangZGAYC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/JiaSSCCHAB20" mdate="2020-11-03">
+<author pid="228/8465">Menglin Jia</author>
+<author pid="189/3206">Mengyun Shi</author>
+<author pid="263/7266">Mikhail Sirotenko</author>
+<author pid="47/8023">Yin Cui</author>
+<author pid="c/ClaireCardie">Claire Cardie</author>
+<author pid="05/8412">Bharath Hariharan</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<title>Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset.</title>
+<pages>316-332</pages>
+<year>2020</year>
+<booktitle>ECCV (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58452-8_19</ee>
+<crossref>conf/eccv/2020-1</crossref>
+<url>db/conf/eccv/eccv2020-1.html#JiaSSCCHAB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChenLCCCZAS20" mdate="2020-11-05">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="207/7710">Raphael Gontijo Lopes</author>
+<author pid="73/8079">Bowen Cheng</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="83/7734">Ekin D. Cubuk</author>
+<author pid="169/3474">Barret Zoph</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="37/4945">Jonathon Shlens</author>
+<title>Naive-Student: Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation.</title>
+<pages>695-714</pages>
+<year>2020</year>
+<booktitle>ECCV (9)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58545-7_40</ee>
+<crossref>conf/eccv/2020-9</crossref>
+<url>db/conf/eccv/eccv2020-9.html#ChenLCCCZAS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/GuhaHSG0LMSNCMA20" mdate="2020-10-15">
+<author pid="00/8763">Tanaya Guha</author>
+<author pid="147/4585">Vlad Hosu</author>
+<author pid="40/374">Dietmar Saupe</author>
+<author pid="12/4880">Bastian Goldl&#252;cke</author>
+<author pid="78/2996-4">Naveen Kumar 0004</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="149/7410">Victor R. Martinez</author>
+<author pid="192/5601">Krishna Somandepalli</author>
+<author pid="19/3899">Shrikanth Narayanan</author>
+<author pid="34/1311">Wen-Huang Cheng</author>
+<author pid="276/3157">Kree McLaughlin</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="36/4809">John See</author>
+<author pid="04/8109">Lai-Kuan Wong</author>
+<title>ATQAM/MAST'20: Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends.</title>
+<pages>4758-4760</pages>
+<year>2020</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3394171.3421895</ee>
+<crossref>conf/mm/2020</crossref>
+<url>db/conf/mm/mm2020.html#GuhaHSG0LMSNCMA20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-05488" mdate="2020-01-17">
+<author pid="232/1563">Jennifer J. Sun</author>
+<author pid="52/5150-5">Ting Liu 0005</author>
+<author pid="152/1255">Alan S. Cowen</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="43/7423">Gautam Prasad</author>
+<title>EEV Dataset: Predicting Expressions Evoked by Diverse Videos.</title>
+<year>2020</year>
+<volume>abs/2001.05488</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.05488</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-05488</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-07853" mdate="2020-03-24">
+<author pid="95/1127">Huiyu Wang</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="168/8809">Bradley Green</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="y/AlanLYuille">Alan L. Yuille</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation.</title>
+<year>2020</year>
+<volume>abs/2003.07853</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.07853</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-07853</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-12276" mdate="2020-04-28">
+<author pid="228/8465">Menglin Jia</author>
+<author pid="189/3206">Mengyun Shi</author>
+<author pid="263/7266">Mikhail Sirotenko</author>
+<author pid="47/8023">Yin Cui</author>
+<author pid="c/ClaireCardie">Claire Cardie</author>
+<author pid="05/8412">Bharath Hariharan</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<title>Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset.</title>
+<year>2020</year>
+<volume>abs/2004.12276</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.12276</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-12276</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-10266" mdate="2020-05-28">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="207/7710">Raphael Gontijo Lopes</author>
+<author pid="73/8079">Bowen Cheng</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="83/7734">Ekin D. Cubuk</author>
+<author pid="169/3474">Barret Zoph</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="37/4945">Jonathon Shlens</author>
+<title>Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation.</title>
+<year>2020</year>
+<volume>abs/2005.10266</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.10266</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-10266</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-13321" mdate="2020-12-04">
+<author pid="52/5150-5">Ting Liu 0005</author>
+<author pid="232/1563">Jennifer J. Sun</author>
+<author pid="31/5383-3">Long Zhao 0003</author>
+<author pid="30/11243">Jiaping Zhao</author>
+<author pid="215/4356">Liangzhe Yuan</author>
+<author pid="123/3714">Yuxiao Wang</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>View-Invariant, Occlusion-Robust Probabilistic Embedding for Human Pose.</title>
+<year>2020</year>
+<volume>abs/2010.13321</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.13321</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-13321</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-00759" mdate="2020-12-04">
+<author pid="95/1127">Huiyu Wang</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="y/AlanLYuille">Alan L. Yuille</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.</title>
+<year>2020</year>
+<volume>abs/2012.00759</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.00759</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-00759</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-01405" mdate="2020-12-07">
+<author pid="31/5383-3">Long Zhao 0003</author>
+<author pid="123/3714">Yuxiao Wang</author>
+<author pid="30/11243">Jiaping Zhao</author>
+<author pid="215/4356">Liangzhe Yuan</author>
+<author pid="232/1563">Jennifer J. Sun</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="149/7762-5">Xi Peng 0005</author>
+<author pid="m/DNMetaxas">Dimitris N. Metaxas</author>
+<author pid="52/5150">Ting Liu</author>
+<title>Learning View-Disentangled Human Pose Representation by Contrastive Cross-View Mutual Information Maximization.</title>
+<year>2020</year>
+<volume>abs/2012.01405</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.01405</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-01405</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-05258" mdate="2021-01-02">
+<author pid="43/7562">Siyuan Qiao</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="y/AlanLYuille">Alan L. Yuille</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation.</title>
+<year>2020</year>
+<volume>abs/2012.05258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.05258</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-05258</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiuCSAHY019" mdate="2020-01-20">
+<author pid="146/8008">Chenxi Liu</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="04/2514">Wei Hua</author>
+<author pid="y/AlanLYuille">Alan L. Yuille</author>
+<author pid="79/2528">Fei-Fei Li 0001</author>
+<title>Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation.</title>
+<pages>82-92</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00017</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#LiuCSAHY019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/VoigtlaenderCSA19" mdate="2020-01-20">
+<author pid="166/6430">Paul Voigtlaender</author>
+<author pid="37/10771">Yuning Chai</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="41/1228">Bastian Leibe</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>FEELVOS: Fast End-To-End Embedding Learning for Video Object Segmentation.</title>
+<pages>9481-9490</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Voigtlaender_FEELVOS_Fast_End-To-End_Embedding_Learning_for_Video_Object_Segmentation_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00971</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#VoigtlaenderCSA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/HowardPALSCWCTC19" mdate="2021-02-11">
+<author pid="139/0987">Andrew Howard 0002</author>
+<author pid="32/2940">Ruoming Pang</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="29/6166">Quoc V. Le</author>
+<author pid="s/MarkSandler">Mark Sandler 0002</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="42/512">Weijun Wang</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="11/7863">Mingxing Tan</author>
+<author pid="85/9099">Grace Chu</author>
+<author pid="08/2793">Vijay Vasudevan</author>
+<author pid="18/10777">Yukun Zhu</author>
+<title>Searching for MobileNetV3.</title>
+<pages>1314-1324</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00140</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#HowardPALSCWCTC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/ChuPWHSBLA19" mdate="2021-02-11">
+<author pid="85/9099">Grace Chu</author>
+<author pid="13/2050">Brian Potetz</author>
+<author pid="42/512">Weijun Wang</author>
+<author pid="139/0987">Andrew Howard 0002</author>
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="75/7456">Fernando Brucher</author>
+<author pid="39/2593">Thomas Leung</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Geo-Aware Networks for Fine-Grained Recognition.</title>
+<pages>247-254</pages>
+<year>2019</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2019.00033</ee>
+<crossref>conf/iccvw/2019</crossref>
+<url>db/conf/iccvw/iccvw2019.html#ChuPWHSBLA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/GuoHZSCLASB19" mdate="2020-09-17">
+<author pid="32/319-5">Sheng Guo 0005</author>
+<author pid="23/1317">Weilin Huang</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="243/3458">Prasanna Srikhanta</author>
+<author pid="47/8023">Yin Cui</author>
+<author pid="86/6196">Yuan Li</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="88/5426">Matthew R. Scott</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<title>The iMaterialist Fashion Attribute Dataset.</title>
+<pages>3113-3116</pages>
+<year>2019</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2019.00377</ee>
+<crossref>conf/iccvw/2019</crossref>
+<url>db/conf/iccvw/iccvw2019.html#GuoHZSCLASB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-02985" mdate="2019-07-22">
+<author pid="146/8008">Chenxi Liu</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="04/2514">Wei Hua</author>
+<author pid="y/AlanLYuille">Alan L. Yuille</author>
+<author pid="79/2528">Li Fei-Fei 0001</author>
+<title>Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation.</title>
+<year>2019</year>
+<volume>abs/1901.02985</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.02985</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-02985</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-09513" mdate="2019-05-21">
+<author pid="166/6430">Paul Voigtlaender</author>
+<author pid="37/10771">Yuning Chai</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="41/1228">Bastian Leibe</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation.</title>
+<year>2019</year>
+<volume>abs/1902.09513</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.09513</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-09513</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02244" mdate="2021-02-11">
+<author pid="139/0987">Andrew Howard 0002</author>
+<author pid="s/MarkSandler">Mark Sandler 0002</author>
+<author pid="85/9099">Grace Chu</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="11/7863">Mingxing Tan</author>
+<author pid="42/512">Weijun Wang</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="32/2940">Ruoming Pang</author>
+<author pid="08/2793">Vijay Vasudevan</author>
+<author pid="29/6166">Quoc V. Le</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Searching for MobileNetV3.</title>
+<year>2019</year>
+<volume>abs/1905.02244</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02244</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02244</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-01737" mdate="2021-02-11">
+<author pid="85/9099">Grace Chu</author>
+<author pid="13/2050">Brian Potetz</author>
+<author pid="42/512">Weijun Wang</author>
+<author pid="139/0987">Andrew Howard 0002</author>
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="75/7456">Fernando Brucher</author>
+<author pid="39/2593">Thomas Leung</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Geo-Aware Networks for Fine Grained Recognition.</title>
+<year>2019</year>
+<volume>abs/1906.01737</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.01737</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-01737</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-05750" mdate="2020-09-17">
+<author pid="32/319-5">Sheng Guo 0005</author>
+<author pid="23/1317">Weilin Huang</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="243/3458">Prasanna Srikhanta</author>
+<author pid="47/8023">Yin Cui</author>
+<author pid="86/6196">Yuan Li</author>
+<author pid="88/5426">Matthew R. Scott</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<title>The iMaterialist Fashion Attribute Dataset.</title>
+<year>2019</year>
+<volume>abs/1906.05750</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.05750</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-05750</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-04751" mdate="2019-10-16">
+<author pid="73/8079">Bowen Cheng</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="52/5150-5">Ting Liu 0005</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>Panoptic-DeepLab.</title>
+<year>2019</year>
+<volume>abs/1910.04751</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.04751</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-04751</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-10194" mdate="2019-12-03">
+<author pid="73/8079">Bowen Cheng</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="52/5150-5">Ting Liu 0005</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<title>Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation.</title>
+<year>2019</year>
+<volume>abs/1911.10194</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.10194</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-10194</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01001" mdate="2020-01-02">
+<author pid="232/1563">Jennifer J. Sun</author>
+<author pid="30/11243">Jiaping Zhao</author>
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="52/5150-5">Ting Liu 0005</author>
+<title>View-Invariant Probabilistic Embedding for Human Pose.</title>
+<year>2019</year>
+<volume>abs/1912.01001</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01001</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01001</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01106" mdate="2020-01-02">
+<author pid="89/5615">Bo Chen</author>
+<author pid="17/8614">Golnaz Ghiasi</author>
+<author pid="157/6334">Hanxiao Liu</author>
+<author pid="47/8105">Tsung-Yi Lin</author>
+<author pid="160/8529">Dmitry Kalenichenko</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="29/6166">Quoc V. Le</author>
+<title>MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices.</title>
+<year>2019</year>
+<volume>abs/1912.01106</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01106</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01106</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/JacobKCZTHAK18" mdate="2019-02-06">
+<author pid="211/7647">Benoit Jacob</author>
+<author pid="211/7953">Skirmantas Kligys</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="119/1462">Menglong Zhu</author>
+<author pid="178/1833">Matthew Tang</author>
+<author pid="139/0987">Andrew G. Howard</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="160/8529">Dmitry Kalenichenko</author>
+<title>Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.</title>
+<pages>2704-2713</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00286</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00286</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#JacobKCZTHAK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChenHPS0A18" mdate="2019-01-07">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="151/9332">Alexander Hermans</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="95/4442-1">Peng Wang 0001</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>MaskLab: Instance Segmentation by Refining Object Detection With Semantic and Direction Features.</title>
+<pages>4013-4022</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_MaskLab_Instance_Segmentation_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00422</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#ChenHPS0A18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HornASCSSAPB18" mdate="2020-09-08">
+<author pid="144/8033">Grant Van Horn</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="47/8023">Yin Cui</author>
+<author pid="01/6072">Chen Sun</author>
+<author pid="04/11130">Alexander Shepard</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="p/PietroPerona">Pietro Perona</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<title>The INaturalist Species Classification and Detection Dataset.</title>
+<pages>8769-8778</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Van_Horn_The_INaturalist_Species_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00914</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00914</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#HornASCSSAPB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/YangHCZGSSA18" mdate="2021-01-12">
+<author orcid="0000-0003-4728-0321" pid="08/10809">Tien-Ju Yang</author>
+<author pid="139/0987">Andrew G. Howard</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="218/5561">Alec Go</author>
+<author pid="s/MarkSandler">Mark Sandler 0002</author>
+<author pid="49/3209">Vivienne Sze</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications.</title>
+<pages>289-304</pages>
+<year>2018</year>
+<booktitle>ECCV (10)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01249-6_18</ee>
+<crossref>conf/eccv/2018-10</crossref>
+<url>db/conf/eccv/eccv2018-10.html#YangHCZGSSA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChenZPSA18" mdate="2018-10-08">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.</title>
+<pages>833-851</pages>
+<year>2018</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01234-2_49</ee>
+<crossref>conf/eccv/2018-7</crossref>
+<url>db/conf/eccv/eccv2018-7.html#ChenZPSA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChenCZPZSAS18" mdate="2021-01-21">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="169/3474">Barret Zoph</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="37/4945">Jonathon Shlens</author>
+<title>Searching for Efficient Multi-Scale Architectures for Dense Image Prediction.</title>
+<pages>8713-8724</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/c90070e1f03e982448983975a0f52d57-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#ChenCZPZSAS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02611" mdate="2021-01-23">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="52/5594">Florian Schroff</author>
+<author orcid="0000-0003-1258-4341" pid="75/948">Hartwig Adam</author>
+<title>Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.</title>
+<year>2018</year>
+<volume>abs/1802.02611</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02611</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02611</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-03230" mdate="2018-08-13">
+<author pid="08/10809">Tien-Ju Yang</author>
+<author pid="139/0987">Andrew G. Howard</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="218/5561">Alec Go</author>
+<author pid="49/3209">Vivienne Sze</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications.</title>
+<year>2018</year>
+<volume>abs/1804.03230</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.03230</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-03230</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-04184" mdate="2018-10-05">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="88/9242">Maxwell D. Collins</author>
+<author pid="18/10777">Yukun Zhu</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="169/3474">Barret Zoph</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="37/4945">Jonathon Shlens</author>
+<title>Searching for Efficient Multi-Scale Architectures for Dense Image Prediction.</title>
+<year>2018</year>
+<volume>abs/1809.04184</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.04184</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-04184</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/HanSA17" mdate="2017-11-14">
+<author pid="73/4880">Bohyung Han</author>
+<author pid="71/9029">Jack Sim</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>BranchOut: Regularization for Online Ensemble Tracking with Convolutional Neural Networks.</title>
+<pages>521-530</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2017.63</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#HanSA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/SongLWCZA17" mdate="2020-09-08">
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="86/6196">Yuan Li</author>
+<author pid="47/6534-1">Bo Wu 0001</author>
+<author pid="70/9988">Chao-Yeh Chen</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Learning Unified Embedding for Apparel Recognition.</title>
+<pages>2243-2246</pages>
+<year>2017</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2017.262</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCVW.2017.262</ee>
+<crossref>conf/iccvw/2017</crossref>
+<url>db/conf/iccvw/iccvw2017.html#SongLWCZA17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HowardZCKWWAA17" mdate="2018-08-13">
+<author pid="139/0987">Andrew G. Howard</author>
+<author pid="119/1462">Menglong Zhu</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="160/8529">Dmitry Kalenichenko</author>
+<author pid="42/512">Weijun Wang</author>
+<author pid="71/6931">Tobias Weyand</author>
+<author pid="a/MarcoAndreetto">Marco Andreetto</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.</title>
+<year>2017</year>
+<volume>abs/1704.04861</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.04861</ee>
+<url>db/journals/corr/corr1704.html#HowardZCKWWAA17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChenPSA17" mdate="2018-08-13">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Rethinking Atrous Convolution for Semantic Image Segmentation.</title>
+<year>2017</year>
+<volume>abs/1706.05587</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05587</ee>
+<url>db/journals/corr/corr1706.html#ChenPSA17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SongLWCZA17" mdate="2020-09-08">
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="86/6196">Yuan Li</author>
+<author pid="47/6534-1">Bo Wu 0001</author>
+<author pid="70/9988">Chao-Yeh Chen</author>
+<author pid="49/4478">Xiao Zhang</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Learning Unified Embedding for Apparel Recognition.</title>
+<year>2017</year>
+<volume>abs/1707.05929</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05929</ee>
+<url>db/journals/corr/corr1707.html#SongLWCZA17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HornASSAPB17" mdate="2020-09-08">
+<author pid="144/8033">Grant Van Horn</author>
+<author pid="90/8653">Oisin Mac Aodha</author>
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="04/11130">Alexander Shepard</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="p/PietroPerona">Pietro Perona</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<title>The iNaturalist Challenge 2017 Dataset.</title>
+<year>2017</year>
+<volume>abs/1707.06642</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.06642</ee>
+<url>db/journals/corr/corr1707.html#HornASSAPB17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-00193" mdate="2018-08-13">
+<author pid="211/7159">Hee Jung Ryu</author>
+<author pid="56/2856">Margaret Mitchell</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Improving Smiling Detection with Race and Gender Diversity.</title>
+<year>2017</year>
+<volume>abs/1712.00193</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.00193</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-00193</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-04837" mdate="2018-08-13">
+<author pid="138/2443">Liang-Chieh Chen</author>
+<author pid="151/9332">Alexander Hermans</author>
+<author pid="79/632">George Papandreou</author>
+<author pid="52/5594">Florian Schroff</author>
+<author pid="95/4442-1">Peng Wang 0001</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features.</title>
+<year>2017</year>
+<volume>abs/1712.04837</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.04837</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-04837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-05877" mdate="2018-08-13">
+<author pid="211/7647">Benoit Jacob</author>
+<author pid="211/7953">Skirmantas Kligys</author>
+<author pid="89/5615">Bo Chen</author>
+<author pid="119/1462">Menglong Zhu</author>
+<author pid="178/1833">Matthew Tang</author>
+<author pid="139/0987">Andrew G. Howard</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="160/8529">Dmitry Kalenichenko</author>
+<title>Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.</title>
+<year>2017</year>
+<volume>abs/1712.05877</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.05877</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-05877</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/DengDJFMBLNA14" mdate="2021-02-01">
+<author pid="07/6526-1">Jia Deng 0001</author>
+<author pid="68/3975">Nan Ding</author>
+<author pid="19/2618">Yangqing Jia</author>
+<author pid="84/2426">Andrea Frome</author>
+<author pid="26/2599">Kevin Murphy 0002</author>
+<author pid="b/SamyBengio">Samy Bengio</author>
+<author pid="86/6196">Yuan Li</author>
+<author pid="60/7025">Hartmut Neven</author>
+<author pid="75/948">Hartwig Adam</author>
+<title>Large-Scale Object Classification Using Label Relation Graphs.</title>
+<pages>48-64</pages>
+<year>2014</year>
+<booktitle>ECCV (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10590-1_4</ee>
+<crossref>conf/eccv/2014-1</crossref>
+<url>db/conf/eccv/eccv2014-1.html#DengDJFMBLNA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhengZSABBBCN09" mdate="2020-09-08">
+<author pid="32/4440">Yantao Zheng</author>
+<author pid="z/MingZhao3">Ming Zhao 0003</author>
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="24/7456">Ulrich Buddemeier</author>
+<author pid="93/2043">Alessandro Bissacco</author>
+<author pid="75/7456">Fernando Brucher</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<author pid="60/7025">Hartmut Neven</author>
+<title>Tour the world: Building a web-scale landmark recognition engine.</title>
+<pages>1085-1092</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206749</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206749</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206749</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#ZhengZSABBBCN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/FromeCAZWBANV09" mdate="2020-12-29">
+<author pid="84/2426">Andrea Frome</author>
+<author pid="68/9054">German Cheung</author>
+<author pid="04/1744">Ahmad Abdulkader</author>
+<author orcid="0000-0002-0578-0830" pid="97/363">Marco Zennaro</author>
+<author pid="47/6534-1">Bo Wu 0001</author>
+<author pid="93/2043">Alessandro Bissacco</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="60/7025">Hartmut Neven</author>
+<author pid="87/6503">Luc Vincent</author>
+<title>Large-scale privacy protection in Google Street View.</title>
+<pages>2373-2380</pages>
+<year>2009</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2009.5459413</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2009.5459413</ee>
+<crossref>conf/iccv/2009</crossref>
+<url>db/conf/iccv/iccv2009.html#FromeCAZWBANV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/ZhengZSABBBCNY09" mdate="2020-09-08">
+<author pid="32/4440">Yantao Zheng</author>
+<author pid="z/MingZhao3">Ming Zhao 0003</author>
+<author pid="24/4470-9">Yang Song 0009</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="24/7456">Ulrich Buddemeier</author>
+<author pid="93/2043">Alessandro Bissacco</author>
+<author pid="75/7456">Fernando Brucher</author>
+<author pid="24/6606">Tat-Seng Chua</author>
+<author pid="60/7025">Hartmut Neven</author>
+<author pid="81/3062">Jay Yagnik</author>
+<title>Tour the world: a technical demonstration of a web-scale landmark recognition engine.</title>
+<pages>961-962</pages>
+<year>2009</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/1631272.1631468</ee>
+<crossref>conf/mm/2009</crossref>
+<url>db/conf/mm/mm2009.html#ZhengZSABBBCNY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fgr/ZhaoYAB08" mdate="2019-02-07">
+<author pid="z/MingZhao3">Ming Zhao 0003</author>
+<author pid="81/3062">Jay Yagnik</author>
+<author pid="75/948">Hartwig Adam</author>
+<author pid="47/3614">David Bau</author>
+<title>Large scale learning and recognition of faces in web videos.</title>
+<pages>1-7</pages>
+<year>2008</year>
+<booktitle>FG</booktitle>
+<ee>https://doi.org/10.1109/AFGR.2008.4813381</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AFGR.2008.4813381</ee>
+<crossref>conf/fgr/2008</crossref>
+<url>db/conf/fgr/fg2008.html#ZhaoYAB08</url>
+</inproceedings>
+</r>
+<coauthors n="121" nc="2">
+<co c="0"><na f="a/Abdulkader:Ahmad" pid="04/1744">Ahmad Abdulkader</na></co>
+<co c="0"><na f="a/Andreetto:Marco" pid="a/MarcoAndreetto">Marco Andreetto</na></co>
+<co c="0"><na f="a/Aodha:Oisin_Mac" pid="90/8653">Oisin Mac Aodha</na></co>
+<co c="0"><na f="b/Bau:David" pid="47/3614">David Bau</na></co>
+<co c="0"><na f="b/Belongie:Serge_J=" pid="b/SJBelongie">Serge J. Belongie</na></co>
+<co c="0"><na f="b/Bengio:Samy" pid="b/SamyBengio">Samy Bengio</na></co>
+<co c="0"><na f="b/Bissacco:Alessandro" pid="93/2043">Alessandro Bissacco</na></co>
+<co c="0"><na f="b/Brucher:Fernando" pid="75/7456">Fernando Brucher</na></co>
+<co c="0"><na f="b/Buddemeier:Ulrich" pid="24/7456">Ulrich Buddemeier</na></co>
+<co c="0"><na f="c/Cardie:Claire" pid="c/ClaireCardie">Claire Cardie</na></co>
+<co c="0"><na f="c/Chai:Yuning" pid="37/10771">Yuning Chai</na></co>
+<co c="0"><na f="c/Chen:Bo" pid="89/5615">Bo Chen</na></co>
+<co c="0"><na f="c/Chen:Chao=Yeh" pid="70/9988">Chao-Yeh Chen</na></co>
+<co c="0"><na f="c/Chen:Liang=Chieh" pid="138/2443">Liang-Chieh Chen</na></co>
+<co c="0"><na f="c/Cheng:Bowen" pid="73/8079">Bowen Cheng</na></co>
+<co c="0"><na f="c/Cheng:Wen=Huang" pid="34/1311">Wen-Huang Cheng</na></co>
+<co c="0"><na f="c/Cheung:German" pid="68/9054">German Cheung</na></co>
+<co c="0"><na f="c/Chu:Grace" pid="85/9099">Grace Chu</na></co>
+<co c="0"><na f="c/Chua:Tat=Seng" pid="24/6606">Tat-Seng Chua</na></co>
+<co c="0"><na f="c/Collins:Maxwell_D=" pid="88/9242">Maxwell D. Collins</na></co>
+<co c="0"><na f="c/Cowen:Alan_S=" pid="152/1255">Alan S. Cowen</na></co>
+<co c="0"><na f="c/Cremers:Daniel" pid="c/DanielCremers">Daniel Cremers</na></co>
+<co c="0" n="2"><na f="c/Cubuk:Ekin_Dogus" pid="83/7734">Ekin Dogus Cubuk</na><na>Ekin D. Cubuk</na></co>
+<co c="0"><na f="c/Cui:Yin" pid="47/8023">Yin Cui</na></co>
+<co c="0"><na f="d/Deng_0001:Jia" pid="07/6526-1">Jia Deng 0001</na></co>
+<co c="0"><na f="d/Ding:Nan" pid="68/3975">Nan Ding</na></co>
+<co c="0"><na f="f/Frome:Andrea" pid="84/2426">Andrea Frome</na></co>
+<co c="0"><na f="g/Geiger_0001:Andreas" pid="40/5825-1">Andreas Geiger 0001</na></co>
+<co c="0"><na f="g/Ghiasi:Golnaz" pid="17/8614">Golnaz Ghiasi</na></co>
+<co c="0"><na f="g/Go:Alec" pid="218/5561">Alec Go</na></co>
+<co c="0"><na f="g/Goldl=uuml=cke:Bastian" pid="12/4880">Bastian Goldl&#252;cke</na></co>
+<co c="0"><na f="g/Green:Bradley" pid="168/8809">Bradley Green</na></co>
+<co c="0"><na f="g/Guha:Tanaya" pid="00/8763">Tanaya Guha</na></co>
+<co c="0"><na f="g/Guo_0005:Sheng" pid="32/319-5">Sheng Guo 0005</na></co>
+<co c="0"><na f="h/Han:Bohyung" pid="73/4880">Bohyung Han</na></co>
+<co c="0"><na f="h/Hariharan:Bharath" pid="05/8412">Bharath Hariharan</na></co>
+<co c="0"><na f="h/Hermans:Alexander" pid="151/9332">Alexander Hermans</na></co>
+<co c="0"><na f="h/Horn:Grant_Van" pid="144/8033">Grant Van Horn</na></co>
+<co c="0"><na f="h/Hosu:Vlad" pid="147/4585">Vlad Hosu</na></co>
+<co c="0" n="2"><na f="h/Howard:Andrew_G=" pid="139/0987">Andrew G. Howard</na><na>Andrew Howard 0002</na></co>
+<co c="0"><na f="h/Hua:Wei" pid="04/2514">Wei Hua</na></co>
+<co c="0"><na f="h/Huang:Thomas_S=" pid="h/ThomasSHuang">Thomas S. Huang</na></co>
+<co c="0"><na f="h/Huang:Weilin" pid="23/1317">Weilin Huang</na></co>
+<co c="0"><na f="j/Jacob:Benoit" pid="211/7647">Benoit Jacob</na></co>
+<co c="0"><na f="j/Jia:Menglin" pid="228/8465">Menglin Jia</na></co>
+<co c="0"><na f="j/Jia:Yangqing" pid="19/2618">Yangqing Jia</na></co>
+<co c="0"><na f="k/Kalenichenko:Dmitry" pid="160/8529">Dmitry Kalenichenko</na></co>
+<co c="0"><na f="k/Kligys:Skirmantas" pid="211/7953">Skirmantas Kligys</na></co>
+<co c="0"><na f="k/Kumar_0004:Naveen" pid="78/2996-4">Naveen Kumar 0004</na></co>
+<co c="0"><na f="l/Le:Quoc_V=" pid="29/6166">Quoc V. Le</na></co>
+<co c="0"><na f="l/Leal=Taix=eacute=:Laura" pid="47/8483">Laura Leal-Taix&#233;</na></co>
+<co c="0"><na f="l/Leibe:Bastian" pid="41/1228">Bastian Leibe</na></co>
+<co c="0" n="2"><na f="l/Leung:Thomas_K=" pid="39/2593">Thomas K. Leung</na><na>Thomas Leung</na></co>
+<co c="0" n="2"><na f="l/Li_0001:Fei=Fei" pid="79/2528">Fei-Fei Li 0001</na><na>Li Fei-Fei 0001</na></co>
+<co c="0"><na f="l/Li:Yuan" pid="86/6196">Yuan Li</na></co>
+<co c="0"><na f="l/Lin:Tsung=Yi" pid="47/8105">Tsung-Yi Lin</na></co>
+<co c="0"><na f="l/Lin:Weisi" pid="14/3737">Weisi Lin</na></co>
+<co c="0"><na f="l/Liu:Chenxi" pid="146/8008">Chenxi Liu</na></co>
+<co c="0"><na f="l/Liu:Hanxiao" pid="157/6334">Hanxiao Liu</na></co>
+<co c="0"><na f="l/Liu:Ting" pid="52/5150">Ting Liu</na></co>
+<co c="0"><na f="l/Liu_0005:Ting" pid="52/5150-5">Ting Liu 0005</na></co>
+<co c="0"><na f="l/Lopes:Raphael_Gontijo" pid="207/7710">Raphael Gontijo Lopes</na></co>
+<co c="0"><na f="m/Martinez:Victor_R=" pid="149/7410">Victor R. Martinez</na></co>
+<co c="0"><na f="m/McLaughlin:Kree" pid="276/3157">Kree McLaughlin</na></co>
+<co c="0"><na f="m/Metaxas:Dimitris_N=" pid="m/DNMetaxas">Dimitris N. Metaxas</na></co>
+<co c="1"><na f="m/Mitchell:Margaret" pid="56/2856">Margaret Mitchell</na></co>
+<co c="0"><na f="m/Murphy_0002:Kevin" pid="26/2599">Kevin Murphy 0002</na></co>
+<co c="0" n="2"><na f="n/Narayanan:Shri" pid="19/3899">Shri Narayanan</na><na>Shrikanth Narayanan</na></co>
+<co c="0"><na f="n/Neven:Hartmut" pid="60/7025">Hartmut Neven</na></co>
+<co c="0"><na f="o/Osep:Aljosa" pid="128/7869">Aljosa Osep</na></co>
+<co c="0"><na f="p/Pang:Ruoming" pid="32/2940">Ruoming Pang</na></co>
+<co c="0"><na f="p/Papandreou:George" pid="79/632">George Papandreou</na></co>
+<co c="0"><na f="p/Peng_0005:Xi" pid="149/7762-5">Xi Peng 0005</na></co>
+<co c="0"><na f="p/Perona:Pietro" pid="p/PietroPerona">Pietro Perona</na></co>
+<co c="0"><na f="p/Potetz:Brian" pid="13/2050">Brian Potetz</na></co>
+<co c="0"><na f="p/Prasad:Gautam" pid="43/7423">Gautam Prasad</na></co>
+<co c="0"><na f="q/Qiao:Siyuan" pid="43/7562">Siyuan Qiao</na></co>
+<co c="1"><na f="r/Ryu:Hee_Jung" pid="211/7159">Hee Jung Ryu</na></co>
+<co c="0"><na f="s/Sandler_0002:Mark" pid="s/MarkSandler">Mark Sandler 0002</na></co>
+<co c="0"><na f="s/Saupe:Dietmar" pid="40/374">Dietmar Saupe</na></co>
+<co c="0"><na f="s/Schroff:Florian" pid="52/5594">Florian Schroff</na></co>
+<co c="0"><na f="s/Scott:Matthew_R=" pid="88/5426">Matthew R. Scott</na></co>
+<co c="0"><na f="s/See:John" pid="36/4809">John See</na></co>
+<co c="0"><na f="s/Shepard:Alexander" pid="04/11130">Alexander Shepard</na></co>
+<co c="0"><na f="s/Shi:Mengyun" pid="189/3206">Mengyun Shi</na></co>
+<co c="0"><na f="s/Shlens:Jonathon" pid="37/4945">Jonathon Shlens</na></co>
+<co c="0"><na f="s/Sim:Jack" pid="71/9029">Jack Sim</na></co>
+<co c="0"><na f="s/Sirotenko:Mikhail" pid="263/7266">Mikhail Sirotenko</na></co>
+<co c="0"><na f="s/Somandepalli:Krishna" pid="192/5601">Krishna Somandepalli</na></co>
+<co c="0"><na f="s/Song_0009:Yang" pid="24/4470-9">Yang Song 0009</na></co>
+<co c="0"><na f="s/Srikhanta:Prasanna" pid="243/3458">Prasanna Srikhanta</na></co>
+<co c="0"><na f="s/Sun:Chen" pid="01/6072">Chen Sun</na></co>
+<co c="0"><na f="s/Sun:Jennifer_J=" pid="232/1563">Jennifer J. Sun</na></co>
+<co c="0"><na f="s/Sze:Vivienne" pid="49/3209">Vivienne Sze</na></co>
+<co c="0"><na f="t/Tan:Mingxing" pid="11/7863">Mingxing Tan</na></co>
+<co c="0"><na f="t/Tang:Matthew" pid="178/1833">Matthew Tang</na></co>
+<co c="0"><na f="v/Vasudevan:Vijay" pid="08/2793">Vijay Vasudevan</na></co>
+<co c="0"><na f="v/Vincent:Luc" pid="87/6503">Luc Vincent</na></co>
+<co c="0"><na f="v/Voigtlaender:Paul" pid="166/6430">Paul Voigtlaender</na></co>
+<co c="0"><na f="w/Wang:Huiyu" pid="95/1127">Huiyu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Peng" pid="95/4442-1">Peng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Weijun" pid="42/512">Weijun Wang</na></co>
+<co c="0"><na f="w/Wang:Yuxiao" pid="123/3714">Yuxiao Wang</na></co>
+<co c="0"><na f="w/Weber:Mark" pid="96/625">Mark Weber</na></co>
+<co c="0"><na f="w/Weyand:Tobias" pid="71/6931">Tobias Weyand</na></co>
+<co c="0"><na f="w/Wong:Lai=Kuan" pid="04/8109">Lai-Kuan Wong</na></co>
+<co c="0"><na f="w/Wu_0001:Bo" pid="47/6534-1">Bo Wu 0001</na></co>
+<co c="0"><na f="x/Xie:Jun" pid="33/3881">Jun Xie</na></co>
+<co c="0"><na f="y/Yagnik:Jay" pid="81/3062">Jay Yagnik</na></co>
+<co c="0"><na f="y/Yang:Tien=Ju" pid="08/10809">Tien-Ju Yang</na></co>
+<co c="0"><na f="y/Yuan:Liangzhe" pid="215/4356">Liangzhe Yuan</na></co>
+<co c="0"><na f="y/Yuille:Alan_L=" pid="y/AlanLYuille">Alan L. Yuille</na></co>
+<co c="0"><na f="z/Zennaro:Marco" pid="97/363">Marco Zennaro</na></co>
+<co c="0"><na f="z/Zhang:Xiao" pid="49/4478">Xiao Zhang</na></co>
+<co c="0"><na f="z/Zhao:Jiaping" pid="30/11243">Jiaping Zhao</na></co>
+<co c="0"><na f="z/Zhao_0003:Long" pid="31/5383-3">Long Zhao 0003</na></co>
+<co c="0"><na f="z/Zhao_0003:Ming" pid="z/MingZhao3">Ming Zhao 0003</na></co>
+<co c="0"><na f="z/Zheng:Yantao" pid="32/4440">Yantao Zheng</na></co>
+<co c="0"><na f="z/Zhu:Menglong" pid="119/1462">Menglong Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yukun" pid="18/10777">Yukun Zhu</na></co>
+<co c="0"><na f="z/Zoph:Barret" pid="169/3474">Barret Zoph</na></co>
+</coauthors>
+</dblpperson>
+

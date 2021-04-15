@@ -1,3 +1,3327 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec2158662847dafc46e5286d9ff951abd7d4ecee6be997bbded1ba6fb3120ab8
-size 151060
+<?xml version="1.0"?>
+<dblpperson name="Richard Socher" pid="79/128" n="213">
+<person key="homepages/79/128" mdate="2019-01-10">
+<author pid="79/128">Richard Socher</author>
+<note type="affiliation">Salesforce Research, USA</note>
+<url>http://www.socher.org/</url>
+<url>https://scholar.google.com/citations?user=FaOcyfMAAAAJ</url>
+<url>https://twitter.com/richardsocher</url>
+<url>https://www.wikidata.org/entity/Q22827172</url>
+</person>
+<r><inproceedings key="conf/acl/ZengLHSXLK20" mdate="2021-01-08">
+<author pid="222/5876">Jichuan Zeng</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="k/IrwinKing">Irwin King</author>
+<title>Photon: A Robust Cross-Domain Text-to-SQL System.</title>
+<pages>204-214</pages>
+<year>2020</year>
+<booktitle>ACL (demo)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-demos.24</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-demos.24/</ee>
+<crossref>conf/acl/2020-d</crossref>
+<url>db/conf/acl/acl2020-d.html#ZengLHSXLK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/GaoWJXSKLH20" mdate="2021-01-08">
+<author pid="79/3190-1">Yifan Gao 0001</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="k/IrwinKing">Irwin King</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading.</title>
+<pages>935-945</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.88</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.88/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#GaoWJXSKLH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/TanJKS20" mdate="2021-01-08">
+<author pid="241/8934">Samson Tan</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="k/MinYenKan">Min-Yen Kan</author>
+<author pid="79/128">Richard Socher</author>
+<title>It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations.</title>
+<pages>2920-2935</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.263</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.263/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#TanJKS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/DeYoungJRLXSW20" mdate="2021-01-08">
+<author pid="136/8673">Jay DeYoung</author>
+<author pid="169/3355">Sarthak Jain</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="l/EricLehman">Eric Lehman</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="00/8247">Byron C. Wallace</author>
+<title>ERASER: A Benchmark to Evaluate Rationalized NLP Models.</title>
+<pages>4443-4458</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.408</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.408/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#DeYoungJRLXSW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/RajaniZTZWVGXSR20" mdate="2021-01-08">
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="207/6895">Jeremy Weiss</author>
+<author pid="264/4850">Aadit Vyas</author>
+<author pid="19/8217">Abhijit Gupta</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>ESPRIT: Explaining Solutions to Physical Reasoning Tasks.</title>
+<pages>7906-7917</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.706</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.706/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#RajaniZTZWVGXSR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aistats/WangKXS20" mdate="2020-06-29">
+<author pid="70/6155">Huan Wang</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Assessing Local Generalization Capability in Deep Models.</title>
+<pages>2077-2087</pages>
+<year>2020</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v108/wang20f.html</ee>
+<crossref>conf/aistats/2020</crossref>
+<url>db/conf/aistats/aistats2020.html#WangKXS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiWZXSD20" mdate="2020-08-11">
+<author pid="207/4317">Hengduo Li</author>
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="59/10522">Chen Zhu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="d/LarrySDavis">Larry S. Davis</author>
+<title>Learning From Noisy Anchors for One-Stage Object Detection.</title>
+<pages>10585-10594</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01060</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#LiWZXSD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WuHSX20" mdate="2021-01-08">
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue.</title>
+<pages>917-929</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.66</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.66/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#WuHSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/XiaXYS20" mdate="2021-01-08">
+<author pid="210/2265">Congying Xia</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<author pid="79/128">Richard Socher</author>
+<title>Composed Variational Natural Language Generation for Few-shot Intents.</title>
+<pages>3379-3388</pages>
+<year>2020</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.findings-emnlp.303</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.findings-emnlp.303/</ee>
+<crossref>conf/emnlp/2020f</crossref>
+<url>db/conf/emnlp/emnlp2020f.html#XiaXYS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LinSX20" mdate="2021-01-08">
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing.</title>
+<pages>4870-4888</pages>
+<year>2020</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.findings-emnlp.438</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.findings-emnlp.438/</ee>
+<crossref>conf/emnlp/2020f</crossref>
+<url>db/conf/emnlp/emnlp2020f.html#LinSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZhangHLWWYSX20" mdate="2021-01-08">
+<author pid="90/6415-5">Jianguo Zhang 0005</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="86/8117">Wenhao Liu</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="167/0275">Yao Wan</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference.</title>
+<pages>5064-5082</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.411</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.411/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#ZhangHLWWYSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/YavuzHLKSX20" mdate="2021-01-08">
+<author pid="129/1217">Semih Yavuz</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="86/8117">Wenhao Liu</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging.</title>
+<pages>5083-5089</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.412</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.412/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#YavuzHLKSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/KeskarMXS20" mdate="2021-01-08">
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>The Thieves on Sesame Street are Polyglots - Extracting Multilingual Models from Monolingual APIs.</title>
+<pages>6203-6207</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.501</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.501/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#KeskarMXS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/YinRRSX20" mdate="2021-01-08">
+<author pid="117/7310-1">Wenpeng Yin 0001</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start.</title>
+<pages>8229-8239</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.660</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.660/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#YinRRSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/KryscinskiMXS20" mdate="2021-01-08">
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Evaluating the Factual Consistency of Abstractive Text Summarization.</title>
+<pages>9332-9346</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.750</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.750/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#KryscinskiMXS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/AsaiHHSX20" mdate="2020-05-07">
+<author pid="213/8066">Akari Asai</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="52/1296">Hannaneh Hajishirzi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=SJgVHkrYDH</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#AsaiHHSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/LeSH20" mdate="2020-05-07">
+<author pid="45/466">Hung Le</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Non-Autoregressive Dialog State Tracking.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=H1e_cC4twS</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#LeSH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/LiSH20" mdate="2021-01-19">
+<author pid="193/6773-1">Junnan Li 0001</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>DivideMix: Learning with Noisy Labels as Semi-supervised Learning.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HJgExaVtwr</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#LiSH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/NguyenJHS20" mdate="2020-07-17">
+<author pid="252/5270">Xuan-Phi Nguyen</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="79/128">Richard Socher</author>
+<title>Tree-Structured Attention with Hierarchical Accumulation.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HJxK5pEYvr</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#NguyenJHS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/CamposTXSGT20" mdate="2020-12-15">
+<author pid="98/8044">Victor Campos</author>
+<author pid="211/8083">Alexander Trott</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="12/7205">Xavier Gir&#243;-i-Nieto</author>
+<author pid="94/6751">Jordi Torres</author>
+<title>Explore, Discover and Learn: Unsupervised Discovery of State-Covering Skills.</title>
+<pages>1317-1327</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/campos20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#CamposTXSGT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/WangWBZXS20" mdate="2021-01-29">
+<author pid="63/8652">Weiran Wang</author>
+<author pid="95/10649">Guangsen Wang</author>
+<author pid="260/0421">Aadyot Bhatnagar</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>An Investigation of Phone-Based Subword Units for End-to-End Speech Recognition.</title>
+<pages>1778-1782</pages>
+<year>2020</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2020-1873</ee>
+<crossref>conf/interspeech/2020</crossref>
+<url>db/conf/interspeech/interspeech2020.html#WangWBZXS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ita/VarshneyKS20" mdate="2020-11-19">
+<author pid="36/4028">Lav R. Varshney</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Limits of Detecting Text Generated by Large-Scale Language Models.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>ITA</booktitle>
+<ee>https://doi.org/10.1109/ITA50056.2020.9245012</ee>
+<crossref>conf/ita/2020</crossref>
+<url>db/conf/ita/ita2020.html#VarshneyKS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChenBLZWXS20" mdate="2021-01-19">
+<author pid="217/1509">Minshuo Chen</author>
+<author pid="03/6325">Yu Bai</author>
+<author pid="88/3262">Jason D. Lee</author>
+<author pid="82/199">Tuo Zhao</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Towards Understanding Hierarchical Learning: Benefits of Neural Representations.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/fb647ca6672b0930e9d00dc384d8b16f-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#ChenBLZWXS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Hosseini-AslMWY20" mdate="2021-01-19">
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="129/1217">Semih Yavuz</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Simple Language Model for Task-Oriented Dialogue.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/e946209592563be0f01c844ab2170f0c-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#Hosseini-AslMWY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/YaoZMLSX20" mdate="2021-01-19">
+<author pid="197/1635">Huaxiu Yao</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="88/4321">Mehrdad Mahdavi</author>
+<author pid="27/178">Zhenhui Li</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Online Structured Meta-learning.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/4b86ca48d90bd5f0978afa3a012503a4-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#YaoZMLSX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ZhouXSH20" mdate="2021-01-19">
+<author pid="84/6614">Pan Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven Chu-Hong Hoi</author>
+<title>Theory-Inspired Path-Regularized Differential Network Architecture Search.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/5e1b18c4c6a6d31695acbae3fd70ecc6-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#ZhouXSH20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-03438" mdate="2020-02-12">
+<author pid="36/4028">Lav R. Varshney</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Limits of Detecting Text Generated by Large-Scale Language Models.</title>
+<year>2020</year>
+<volume>abs/2002.03438</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.03438</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-03438</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-03647" mdate="2020-04-30">
+<author pid="98/8044">V&#237;ctor Campos</author>
+<author pid="211/8083">Alexander Trott</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="12/7205">Xavier Gir&#243;-i-Nieto</author>
+<author pid="94/6751">Jordi Torres</author>
+<title>Explore, Discover and Learn: Unsupervised Discovery of State-Covering Skills.</title>
+<year>2020</year>
+<volume>abs/2002.03647</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.03647</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-03647</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-04010" mdate="2020-02-12">
+<author pid="03/6325">Yu Bai</author>
+<author pid="64/2350">Ben Krause</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Taylorized Training: Towards Better Approximation of Neural Network Training at Finite Width.</title>
+<year>2020</year>
+<volume>abs/2002.04010</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.04010</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-04010</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-07394" mdate="2021-01-19">
+<author pid="193/6773-1">Junnan Li 0001</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>DivideMix: Learning with Noisy Labels as Semi-supervised Learning.</title>
+<year>2020</year>
+<volume>abs/2002.07394</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.07394</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-07394</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-08024" mdate="2020-03-02">
+<author pid="45/466">Hung Le</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Non-Autoregressive Dialog State Tracking.</title>
+<year>2020</year>
+<volume>abs/2002.08024</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.08024</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-08024</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-08046" mdate="2020-07-17">
+<author pid="252/5270">Xuan-Phi Nguyen</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="79/128">Richard Socher</author>
+<title>Tree-structured Attention with Hierarchical Accumulation.</title>
+<year>2020</year>
+<volume>abs/2002.08046</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.08046</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-08046</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-09046" mdate="2020-03-03">
+<author pid="120/8494">Devansh Arpit</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="56/953">Yoshua Bengio</author>
+<title>Neural Bayes: A Generic Parameterization Method for Unsupervised Representation Learning.</title>
+<year>2020</year>
+<volume>abs/2002.09046</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.09046</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-09046</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-01285" mdate="2021-01-19">
+<author pid="193/6773-1">Junnan Li 0001</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Towards Noise-resistant Object Detection with Noisy Annotations.</title>
+<year>2020</year>
+<volume>abs/2003.01285</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.01285</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-01285</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-13525" mdate="2021-01-19">
+<author pid="210/2719">Isabela Albuquerque</author>
+<author pid="43/7797">Nikhil Naik</author>
+<author pid="193/6773-1">Junnan Li 0001</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improving out-of-distribution generalization via multi-task self-supervised pretraining.</title>
+<year>2020</year>
+<volume>abs/2003.13525</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.13525</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-13525</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03497" mdate="2020-04-08">
+<author pid="180/7507">Ali Madani</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="43/7797">Nikhil Naik</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="231/7667">Namrata Anand</author>
+<author pid="245/4951">Raphael R. Eguchi</author>
+<author pid="37/4538">Po-Ssu Huang</author>
+<author pid="79/128">Richard Socher</author>
+<title>ProGen: Language Modeling for Protein Generation.</title>
+<year>2020</year>
+<volume>abs/2004.03497</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03497</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03497</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-06871" mdate="2020-04-21">
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues.</title>
+<year>2020</year>
+<volume>abs/2004.06871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.06871</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-06871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-13332" mdate="2020-05-03">
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="211/8083">Alexander Trott</author>
+<author pid="55/178">Sunil Srinivasa</author>
+<author pid="43/7797">Nikhil Naik</author>
+<author pid="263/9982">Melvin Gruesbeck</author>
+<author pid="p/DavidCParkes">David C. Parkes</author>
+<author pid="79/128">Richard Socher</author>
+<title>The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies.</title>
+<year>2020</year>
+<volume>abs/2004.13332</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.13332</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-13332</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-00730" mdate="2020-05-08">
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="207/6895">Jeremy Weiss</author>
+<author pid="264/4850">Aadit Vyas</author>
+<author pid="19/8217">Abhijit Gupta</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>ESPRIT: Explaining Solutions to Physical Reasoning Tasks.</title>
+<year>2020</year>
+<volume>abs/2005.00730</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.00730</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-00730</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-00796" mdate="2020-05-08">
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="129/1217">Semih Yavuz</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Simple Language Model for Task-Oriented Dialogue.</title>
+<year>2020</year>
+<volume>abs/2005.00796</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.00796</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-00796</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-04364" mdate="2020-07-17">
+<author pid="241/8934">Samson Tan</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="k/MinYenKan">Min-Yen Kan</author>
+<author pid="79/128">Richard Socher</author>
+<title>It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations.</title>
+<year>2020</year>
+<volume>abs/2005.04364</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.04364</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-04364</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-04966" mdate="2021-01-19">
+<author pid="193/6773-1">Junnan Li 0001</author>
+<author pid="84/6614">Pan Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Prototypical Contrastive Learning of Unsupervised Representations.</title>
+<year>2020</year>
+<volume>abs/2005.04966</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.04966</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-04966</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-12484" mdate="2020-07-17">
+<author pid="79/3190-1">Yifan Gao 0001</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="k/IrwinKing">Irwin King</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>EMT: Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading.</title>
+<year>2020</year>
+<volume>abs/2005.12484</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.12484</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-12484</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-03732" mdate="2020-06-12">
+<author pid="67/6825">Mingfei Gao</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="71/1270">Ran Xu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos.</title>
+<year>2020</year>
+<volume>abs/2006.03732</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.03732</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-03732</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-09595" mdate="2020-10-28">
+<author pid="154/6762">Andre Esteva</author>
+<author pid="267/9690">Anuprit Kale</author>
+<author pid="155/1910">Romain Paulus</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="117/7310-1">Wenpeng Yin 0001</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<author pid="79/128">Richard Socher</author>
+<title>CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization.</title>
+<year>2020</year>
+<volume>abs/2006.09595</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.09595</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-09595</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13425" mdate="2020-07-01">
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="247/6493">Raffaella Buschiazzo</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="247/6477">Teresa Marshall</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>A High-Quality Multilingual Dataset for Structured Documentation Translation.</title>
+<year>2020</year>
+<volume>abs/2006.13425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13425</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13436" mdate="2020-07-01">
+<author pid="217/1509">Minshuo Chen</author>
+<author pid="03/6325">Yu Bai</author>
+<author pid="88/3262">Jason D. Lee</author>
+<author pid="82/199">Tuo Zhao</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Towards Understanding Hierarchical Learning: Benefits of Neural Representations.</title>
+<year>2020</year>
+<volume>abs/2006.13436</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13436</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13436</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-15222" mdate="2020-07-01">
+<author pid="24/2880">Jesse Vig</author>
+<author pid="180/7507">Ali Madani</author>
+<author pid="36/4028">Lav R. Varshney</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<title>BERTology Meets Biology: Interpreting Attention in Protein Language Models.</title>
+<year>2020</year>
+<volume>abs/2006.15222</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.15222</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-15222</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-16537" mdate="2020-07-02">
+<author pid="84/6614">Pan Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Theory-Inspired Path-Regularized Differential Network Architecture Search.</title>
+<year>2020</year>
+<volume>abs/2006.16537</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.16537</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-16537</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-02871" mdate="2020-07-18">
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="270/0005">Amrit Rau</author>
+<author pid="269/9984">Abhinand Sivaprasad</author>
+<author pid="270/0003">Chiachun Hsieh</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="246/8064">Xiangru Tang</author>
+<author pid="264/4850">Aadit Vyas</author>
+<author pid="12/11473">Neha Verma</author>
+<author pid="270/0023">Pranav Krishna</author>
+<author pid="247/6392">Yangxiaokang Liu</author>
+<author pid="270/0013">Nadia Irwanto</author>
+<author pid="259/5503">Jessica Pan</author>
+<author pid="269/9995">Faiaz Rahman</author>
+<author pid="57/10875">Ahmad Zaidi</author>
+<author pid="270/0017">Murori Mutuma</author>
+<author pid="269/9988">Yasin Tarabar</author>
+<author pid="65/2886">Ankit Gupta</author>
+<author pid="67/1014">Tao Yu</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>DART: Open-Domain Structured Data Record to Text Generation.</title>
+<year>2020</year>
+<volume>abs/2007.02871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.02871</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-02871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-12626" mdate="2020-07-29">
+<author pid="203/8539">Alexander R. Fabbri</author>
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>SummEval: Re-evaluating Summarization Evaluation.</title>
+<year>2020</year>
+<volume>abs/2007.12626</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.12626</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-12626</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-15280" mdate="2020-08-03">
+<author pid="222/5876">Jichuan Zeng</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="k/IrwinKing">Irwin King</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<title>Photon: A Robust Cross-Domain Text-to-SQL System.</title>
+<year>2020</year>
+<volume>abs/2007.15280</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.15280</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-15280</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-04087" mdate="2020-09-17">
+<author pid="274/2217">Christopher Liu</author>
+<author pid="237/9869">Laura Domin&#233;</author>
+<author pid="167/4318">Kevin Chavez</author>
+<author pid="79/128">Richard Socher</author>
+<title>Central Yup'ik and Machine Translation of Low-Resource Polysynthetic Languages.</title>
+<year>2020</year>
+<volume>abs/2009.04087</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.04087</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-04087</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-06367" mdate="2020-09-18">
+<author pid="64/2350">Ben Krause</author>
+<author pid="156/0933">Akhilesh Deepak Gotmare</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<title>GeDi: Generative Discriminator Guided Sequence Generation.</title>
+<year>2020</year>
+<volume>abs/2009.06367</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.06367</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-06367</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-10056" mdate="2020-09-23">
+<author pid="210/2265">Congying Xia</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<author pid="79/128">Richard Socher</author>
+<title>Composed Variational Natural Language Generation for Few-shot Intents.</title>
+<year>2020</year>
+<volume>abs/2009.10056</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.10056</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-10056</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-13845" mdate="2020-09-30">
+<author pid="67/1014">Tao Yu</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="218/7334">Bailin Wang</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="80/9004">Xinyi Yang</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing.</title>
+<year>2020</year>
+<volume>abs/2009.13845</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.13845</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-13845</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-02584" mdate="2020-10-28">
+<author pid="117/7310-1">Wenpeng Yin 0001</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start.</title>
+<year>2020</year>
+<volume>abs/2010.02584</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.02584</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-02584</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-07126" mdate="2020-10-20">
+<author pid="36/4028">Lav R. Varshney</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="79/128">Richard Socher</author>
+<title>Explaining Creative Artifacts.</title>
+<year>2020</year>
+<volume>abs/2010.07126</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.07126</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-07126</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-09030" mdate="2020-10-21">
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="64/2350">Ben Krause</author>
+<author pid="276/7199">Wengpeng Yin</author>
+<author pid="88/7733">Tong Niu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Explaining and Improving Model Behavior with k Nearest Neighbor Representations.</title>
+<year>2020</year>
+<volume>abs/2010.09030</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.09030</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-09030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-11545" mdate="2020-10-26">
+<author pid="197/1635">Huaxiu Yao</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="88/4321">Mehrdad Mahdavi</author>
+<author pid="27/178">Zhenhui Li</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Online Structured Meta-learning.</title>
+<year>2020</year>
+<volume>abs/2010.11545</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.11545</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-11545</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-13009" mdate="2020-11-03">
+<author pid="90/6415-5">Jianguo Zhang 0005</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="86/8117">Wenhao Liu</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="167/0275">Yao Wan</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference.</title>
+<year>2020</year>
+<volume>abs/2010.13009</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.13009</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-13009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-12627" mdate="2021-01-05">
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing.</title>
+<year>2020</year>
+<volume>abs/2012.12627</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.12627</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-12627</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-14193" mdate="2021-01-05">
+<author pid="139/0187">Stanislaw Jastrzebski</author>
+<author pid="120/8494">Devansh Arpit</author>
+<author pid="219/5415">Oliver &#197;strand</author>
+<author pid="228/9255">Giancarlo Kerg</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="41/9736">Kyunghyun Cho</author>
+<author pid="124/8920">Krzysztof Geras</author>
+<title>Catastrophic Fisher Explosion: Early Phase Fisher Matrix Impacts Generalization.</title>
+<year>2020</year>
+<volume>abs/2012.14193</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.14193</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-14193</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/WuMHXSF19" mdate="2020-01-28">
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="174/2905">Andrea Madotto</author>
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="29/4187">Pascale Fung</author>
+<title>Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems.</title>
+<pages>808-819</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1078</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1078/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#WuMHXSF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/YuZYTLLELPCJDPS19" mdate="2020-01-28">
+<author pid="67/1014">Tao Yu</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="202/1809">Michihiro Yasunaga</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="98/7732">Suyi Li</author>
+<author pid="242/8249">Heyang Er</author>
+<author pid="44/8976">Irene Li</author>
+<author pid="16/6344">Bo Pang</author>
+<author pid="69/510">Tao Chen</author>
+<author pid="242/7872">Emily Ji</author>
+<author pid="242/8242">Shreya Dixit</author>
+<author pid="137/8041">David Proctor</author>
+<author pid="242/7898">Sungrok Shim</author>
+<author pid="242/8273">Jonathan Kraft</author>
+<author pid="242/8103">Vincent Zhang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>SParC: Cross-Domain Semantic Parsing in Context.</title>
+<pages>4511-4523</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1443</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1443/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#YuZYTLLELPCJDPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/RajaniMXS19" mdate="2020-01-28">
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Explain Yourself! Leveraging Language Models for Commonsense Reasoning.</title>
+<pages>4932-4942</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1487</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1487/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#RajaniMXS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl-deeplo/SinghMSX19" mdate="2020-08-14">
+<author pid="85/4905">Jasdeep Singh</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>BERT is Not an Interlingua and the Bias of Tokenization.</title>
+<pages>47-55</pages>
+<year>2019</year>
+<booktitle>DeepLo@EMNLP-IJCNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-6106</ee>
+<crossref>conf/acl-deeplo/2019</crossref>
+<url>db/conf/acl-deeplo/acl-deeplo2019.html#SinghMSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/WuXMSD19" mdate="2020-01-20">
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="198/0963">Chih-Yao Ma</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="d/LarrySDavis">Larry S. Davis</author>
+<title>AdaFrame: Adaptive Frame Selection for Fast Video Recognition.</title>
+<pages>1278-1287</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_AdaFrame_Adaptive_Frame_Selection_for_Fast_Video_Recognition_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00137</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#WuXMSD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/KryscinskiKMXS19" mdate="2019-12-12">
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Neural Text Summarization: A Critical Evaluation.</title>
+<pages>540-551</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1051</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#KryscinskiKMXS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/GaoDSX19" mdate="2019-12-12">
+<author pid="67/6825">Mingfei Gao</author>
+<author pid="d/LarrySDavis">Larry Davis 0001</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>WSLLN: Weakly Supervised Natural Language Localization Networks.</title>
+<pages>1481-1487</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1157</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#GaoDSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/YuZELXPLTSLJYSC19" mdate="2020-05-24">
+<author pid="67/1014">Tao Yu</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="242/8249">Heyang Er</author>
+<author pid="98/7732">Suyi Li</author>
+<author pid="248/7781">Eric Xue</author>
+<author pid="16/6344">Bo Pang</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="154/6550">Tianze Shi</author>
+<author pid="233/6392">Zihan Li</author>
+<author pid="165/5324">Youxuan Jiang</author>
+<author pid="202/1809">Michihiro Yasunaga</author>
+<author pid="242/7898">Sungrok Shim</author>
+<author pid="69/510">Tao Chen</author>
+<author pid="203/8539">Alexander R. Fabbri</author>
+<author pid="125/3616">Zifan Li</author>
+<author pid="64/2464">Luyao Chen</author>
+<author pid="90/3868">Yuwen Zhang</author>
+<author pid="242/8242">Shreya Dixit</author>
+<author pid="242/8103">Vincent Zhang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="04/10300">Walter S. Lasecki</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases.</title>
+<pages>1962-1979</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1204</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#YuZELXPLTSLJYSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZhangYESXLSXSR19" mdate="2019-12-12">
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="67/1014">Tao Yu</author>
+<author pid="242/8249">Heyang Er</author>
+<author pid="242/7898">Sungrok Shim</author>
+<author pid="248/7781">Eric Xue</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="154/6550">Tianze Shi</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions.</title>
+<pages>5337-5348</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1537</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#ZhangYESXLSXSR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/GaoX0SX19" mdate="2020-03-05">
+<author pid="67/6825">Mingfei Gao</author>
+<author pid="162/8984">Mingze Xu</author>
+<author pid="d/LarrySDavis">Larry Davis 0001</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>StartNet: Online Detection of Action Start in Untrimmed Videos.</title>
+<pages>5541-5550</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00564</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#GaoX0SX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/GotmareKXS19" mdate="2019-07-25">
+<author pid="156/0933">Akhilesh Gotmare</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=r14EOsCqKX</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#GotmareKXS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/Hosseini-AslZXS19" mdate="2019-07-25">
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=B1G9doA9F7</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#Hosseini-AslZXS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/LiuTSX19" mdate="2019-07-25">
+<author pid="09/3214">Hao Liu</author>
+<author pid="211/8083">Alexander Trott</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Competitive experience replay.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=Sklsm20ctX</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#LiuTSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/MaLWAKSX19" mdate="2019-07-25">
+<author pid="198/0963">Chih-Yao Ma</author>
+<author pid="144/6253">Jiasen Lu</author>
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="83/1655">Ghassan AlRegib</author>
+<author pid="36/4127">Zsolt Kira</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Self-Monitoring Navigation Agent via Auxiliary Progress Estimation.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=r1GAsjC5Fm</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#MaLWAKSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/WuSX19" mdate="2019-07-25">
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Global-to-local Memory Pointer Networks for Task-Oriented Dialogue.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=ryxnHhRqFm</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#WuSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/ZhongXKS19" mdate="2019-07-25">
+<author pid="182/8931">Victor Zhong</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=Syl7OsRqY7</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#ZhongXKS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/LiZWSX19" mdate="2021-01-13">
+<author pid="209/9818">Xilai Li</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="08/4148-1">Tianfu Wu 0001</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting.</title>
+<pages>3925-3934</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19m.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiZWSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/LiuSX19" mdate="2019-06-11">
+<author pid="09/3214">Hao Liu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Taming MAML: Efficient unbiased meta-reinforcement learning.</title>
+<pages>4061-4071</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19g.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuSX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/WangZXS19" mdate="2019-06-11">
+<author pid="70/6155">Huan Wang</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>On the Generalization Gap in Reparameterizable Reinforcement Learning.</title>
+<pages>6648-6658</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19o.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangZXS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/TrottZXS19" mdate="2021-01-21">
+<author pid="211/8083">Alexander Trott</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Keeping Your Distance: Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards.</title>
+<pages>10376-10386</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/64c26b2a2dcf068c49894bd07e0e6389-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9225-keeping-your-distance-solving-sparse-reward-tasks-using-self-balancing-shaped-rewards</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#TrottZXS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/CampagnaXMSL19" mdate="2019-06-09">
+<author pid="167/5968">Giovanni Campagna</author>
+<author pid="143/9693">Silei Xu</author>
+<author pid="218/5332">Mehrad Moradshahi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<title>Genie: a generator of natural language semantic parsers for virtual assistant commands.</title>
+<pages>394-410</pages>
+<year>2019</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3314221.3314594</ee>
+<crossref>conf/pldi/2019</crossref>
+<url>db/conf/pldi/pldi2019.html#CampagnaXMSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wmt/HashimotoBBMSX19" mdate="2020-01-28">
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="247/6493">Raffaella Buschiazzo</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="247/6477">Teresa Marshall</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>A High-Quality Multilingual Dataset for Structured Documentation Translation.</title>
+<pages>116-127</pages>
+<year>2019</year>
+<booktitle>WMT (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w19-5212</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W19-5212/</ee>
+<crossref>conf/wmt/2019-1</crossref>
+<url>db/conf/wmt/wmt2019-1.html#HashimotoBBMSX19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-00603" mdate="2019-01-31">
+<author pid="182/8931">Victor Zhong</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering.</title>
+<year>2019</year>
+<volume>abs/1901.00603</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.00603</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-00603</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-03035" mdate="2019-02-01">
+<author pid="198/0963">Chih-Yao Ma</author>
+<author pid="144/6253">Jiasen Lu</author>
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="83/1655">Ghassan AlRegib</author>
+<author pid="36/4127">Zsolt Kira</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Self-Monitoring Navigation Agent via Auxiliary Progress Estimation.</title>
+<year>2019</year>
+<volume>abs/1901.03035</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.03035</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-03035</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-04713" mdate="2019-02-01">
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Global-to-local Memory Pointer Networks for Task-Oriented Dialogue.</title>
+<year>2019</year>
+<volume>abs/1901.04713</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.04713</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-04713</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-00528" mdate="2019-05-21">
+<author pid="09/3214">Hao Liu</author>
+<author pid="211/8083">Alexander Trott</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Competitive Experience Replay.</title>
+<year>2019</year>
+<volume>abs/1902.00528</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.00528</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-00528</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-09868" mdate="2019-04-01">
+<author pid="67/6825">Mingfei Gao</author>
+<author pid="162/8984">Mingze Xu</author>
+<author pid="d/LarrySDavis">Larry S. Davis</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>StartNet: Online Detection of Action Start in Untrimmed Videos.</title>
+<year>2019</year>
+<volume>abs/1903.09868</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.09868</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-09868</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-00310" mdate="2021-01-13">
+<author pid="209/9818">Xilai Li</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="08/4148-1">Tianfu Wu 0001</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting.</title>
+<year>2019</year>
+<volume>abs/1904.00310</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.00310</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-00310</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09020" mdate="2019-04-26">
+<author pid="167/5968">Giovanni Campagna</author>
+<author pid="143/9693">Silei Xu</author>
+<author pid="218/5332">Mehrad Moradshahi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="l/MonicaSLam">Monica S. Lam</author>
+<title>Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands.</title>
+<year>2019</year>
+<volume>abs/1904.09020</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09020</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09020</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09286" mdate="2019-04-26">
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Unifying Question Answering and Text Classification via Span Extraction.</title>
+<year>2019</year>
+<volume>abs/1904.09286</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09286</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09286</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08743" mdate="2019-05-29">
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="174/2905">Andrea Madotto</author>
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="29/4187">Pascale Fung</author>
+<title>Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems.</title>
+<year>2019</year>
+<volume>abs/1905.08743</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08743</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08743</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-11471" mdate="2019-06-03">
+<author pid="85/4905">Jasdeep Singh</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering.</title>
+<year>2019</year>
+<volume>abs/1905.11471</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.11471</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-11471</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-12654" mdate="2019-06-03">
+<author pid="70/6155">Huan Wang</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>On the Generalization Gap in Reparameterizable Reinforcement Learning.</title>
+<year>2019</year>
+<volume>abs/1905.12654</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.12654</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-12654</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-02285" mdate="2019-11-26">
+<author pid="67/1014">Tao Yu</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="202/1809">Michihiro Yasunaga</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="98/7732">Suyi Li</author>
+<author pid="242/8249">Heyang Er</author>
+<author pid="44/8976">Irene Li</author>
+<author pid="16/6344">Bo Pang</author>
+<author pid="69/510">Tao Chen</author>
+<author pid="242/7872">Emily Ji</author>
+<author pid="242/8242">Shreya Dixit</author>
+<author pid="137/8041">David Proctor</author>
+<author pid="242/7898">Sungrok Shim</author>
+<author pid="242/8273">Jonathan Kraft</author>
+<author pid="242/8103">Vincent Zhang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>SParC: Cross-Domain Semantic Parsing in Context.</title>
+<year>2019</year>
+<volume>abs/1906.02285</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.02285</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-02285</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-02361" mdate="2019-06-13">
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Explain Yourself! Leveraging Language Models for Commonsense Reasoning.</title>
+<year>2019</year>
+<volume>abs/1906.02361</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.02361</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-02361</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00664" mdate="2019-07-08">
+<author pid="155/1889">Wenling Shang</author>
+<author pid="211/8083">Alexander Trott</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Learning World Graphs to Accelerate Hierarchical Reinforcement Learning.</title>
+<year>2019</year>
+<volume>abs/1907.00664</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00664</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00664</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-08960" mdate="2019-08-29">
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Neural Text Summarization: A Critical Evaluation.</title>
+<year>2019</year>
+<volume>abs/1908.08960</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.08960</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-08960</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-00239" mdate="2019-09-16">
+<author pid="67/6825">Mingfei Gao</author>
+<author pid="d/LarrySDavis">Larry S. Davis</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>WSLLN: Weakly Supervised Natural Language Localization Networks.</title>
+<year>2019</year>
+<volume>abs/1909.00239</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.00239</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-00239</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-00786" mdate="2019-11-26">
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="67/1014">Tao Yu</author>
+<author pid="242/8249">Heyang Er</author>
+<author pid="242/7898">Sungrok Shim</author>
+<author pid="248/7781">Eric Xue</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="154/6550">Tianze Shi</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions.</title>
+<year>2019</year>
+<volume>abs/1909.00786</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.00786</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-00786</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-03223" mdate="2019-09-17">
+<author pid="88/7733">Tong Niu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression.</title>
+<year>2019</year>
+<volume>abs/1909.03223</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.03223</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-03223</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-03290" mdate="2019-09-17">
+<author pid="36/4028">Lav R. Varshney</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Pretrained AI Models: Performativity, Mobility, and Change.</title>
+<year>2019</year>
+<volume>abs/1909.03290</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.03290</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-03290</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-05378" mdate="2020-05-24">
+<author pid="67/1014">Tao Yu</author>
+<author pid="60/2536-37">Rui Zhang 0037</author>
+<author pid="242/8249">Heyang Er</author>
+<author pid="98/7732">Suyi Li</author>
+<author pid="248/7781">Eric Xue</author>
+<author pid="16/6344">Bo Pang</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="242/8043">Yi Chern Tan</author>
+<author pid="154/6550">Tianze Shi</author>
+<author pid="233/6392">Zihan Li</author>
+<author pid="165/5324">Youxuan Jiang</author>
+<author pid="202/1809">Michihiro Yasunaga</author>
+<author pid="242/7898">Sungrok Shim</author>
+<author pid="69/510">Tao Chen</author>
+<author pid="203/8539">Alexander R. Fabbri</author>
+<author pid="125/3616">Zifan Li</author>
+<author pid="64/2464">Luyao Chen</author>
+<author pid="90/3868">Yuwen Zhang</author>
+<author pid="242/8242">Shreya Dixit</author>
+<author pid="242/8103">Vincent Zhang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="04/10300">Walter S. Lasecki</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases.</title>
+<year>2019</year>
+<volume>abs/1909.05378</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.05378</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-05378</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-05858" mdate="2019-09-18">
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="36/4028">Lav R. Varshney</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>CTRL: A Conditional Transformer Language Model for Controllable Generation.</title>
+<year>2019</year>
+<volume>abs/1909.05858</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.05858</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-05858</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00164" mdate="2019-10-04">
+<author pid="120/8494">Devansh Arpit</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Entropy Penalty: Towards Generalization Beyond the IID Assumption.</title>
+<year>2019</year>
+<volume>abs/1910.00164</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00164</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00164</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-03544" mdate="2020-07-29">
+<author pid="90/6415-5">Jianguo Zhang 0005</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="180/5537">Chien-Sheng Wu</author>
+<author pid="167/0275">Yao Wan</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking.</title>
+<year>2019</year>
+<volume>abs/1910.03544</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.03544</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-03544</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-10245" mdate="2019-10-25">
+<author pid="251/5575">Ryan Theisen</author>
+<author pid="195/6040">Jason M. Klusowski</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Global Capacity Measures for Deep ReLU Networks via Path Sampling.</title>
+<year>2019</year>
+<volume>abs/1910.10245</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.10245</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-10245</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12840" mdate="2019-10-31">
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Evaluating the Factual Consistency of Abstractive Text Summarization.</title>
+<year>2019</year>
+<volume>abs/1910.12840</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12840</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12840</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-13008" mdate="2019-10-31">
+<author pid="234/7612">Michael Shum</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Sketch-Fill-A-R: A Persona-Grounded Chit-Chat Generation Framework.</title>
+<year>2019</year>
+<volume>abs/1910.13008</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.13008</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-13008</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-01417" mdate="2019-11-11">
+<author pid="211/8083">Alexander Trott</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Keeping Your Distance: Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards.</title>
+<year>2019</year>
+<volume>abs/1911.01417</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.01417</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-01417</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-03429" mdate="2019-11-11">
+<author pid="136/8673">Jay DeYoung</author>
+<author pid="169/3355">Sarthak Jain</author>
+<author pid="166/1729">Nazneen Fatema Rajani</author>
+<author pid="l/EricLehman">Eric Lehman</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="00/8247">Byron C. Wallace</author>
+<title>ERASER: A Benchmark to Evaluate Rationalized NLP Models.</title>
+<year>2019</year>
+<volume>abs/1911.03429</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.03429</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-03429</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-03588" mdate="2019-12-01">
+<author pid="36/7028">Linqing Liu</author>
+<author pid="70/6155">Huan Wang</author>
+<author pid="00/7739">Jimmy Lin</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Attentive Student Meets Multi-Task Teacher: Improved Knowledge Distillation for Pretrained Models.</title>
+<year>2019</year>
+<volume>abs/1911.03588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.03588</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-03588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-10470" mdate="2019-12-03">
+<author pid="213/8066">Akari Asai</author>
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="52/1296">Hannaneh Hajishirzi</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering.</title>
+<year>2019</year>
+<volume>abs/1911.10470</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.10470</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-10470</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-05086" mdate="2020-01-02">
+<author pid="207/4317">Hengduo Li</author>
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="59/10522">Chen Zhu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="d/LarrySDavis">Larry S. Davis</author>
+<title>Learning from Noisy Anchors for One-stage Object Detection.</title>
+<year>2019</year>
+<volume>abs/1912.05086</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.05086</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-05086</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/SocherZX18" mdate="2019-09-16">
+<author pid="182/8931">Victor Zhong</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Global-Locally Self-Attentive Encoder for Dialogue State Tracking.</title>
+<pages>1458-1467</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-1135/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1135</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#SocherZX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/SocherZXM18" mdate="2019-09-16">
+<author pid="203/9401">Sewon Min</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Efficient and Robust Question Answering from Minimal Context over Documents.</title>
+<pages>1725-1735</pages>
+<year>2018</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-1160/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-1160</ee>
+<crossref>conf/acl/2018-1</crossref>
+<url>db/conf/acl/acl2018-1.html#SocherZXM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhouZCSX18" mdate="2019-02-06">
+<author pid="122/7357">Luowei Zhou</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="68/2447">Jason J. Corso</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>End-to-End Dense Video Captioning With Masked Transformer.</title>
+<pages>8739-8748</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00911</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00911</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#ZhouZCSX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/KryscinskiPXS18" mdate="2020-01-28">
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="155/1910">Romain Paulus</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improving Abstraction in Text Summarization.</title>
+<pages>1808-1817</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1207</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1207/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#KryscinskiPXS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/LinSX18" mdate="2020-01-28">
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Multi-Hop Knowledge Graph Reasoning with Reward Shaping.</title>
+<pages>3243-3253</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1362</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1362/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#LinSX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/ZhouXS18" mdate="2018-09-18">
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improving End-to-End Speech Recognition with Policy Learning.</title>
+<pages>5819-5823</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462361</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#ZhouXS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/Gu0XLS18" mdate="2019-07-25">
+<author pid="164/5848">Jiatao Gu</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="74/571">Victor O. K. Li</author>
+<author pid="79/128">Richard Socher</author>
+<title>Non-Autoregressive Neural Machine Translation.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=B1l8BtlCb</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#Gu0XLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/MerityKS18" mdate="2019-07-25">
+<author pid="177/9285">Stephen Merity</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Regularizing and Optimizing LSTM Language Models.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=SyyGPP0TZ</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#MerityKS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/PaulusXS18" mdate="2019-07-25">
+<author pid="155/1910">Romain Paulus</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Deep Reinforced Model for Abstractive Summarization.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HkAClQgA-</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#PaulusXS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/SchrimpfM0S18" mdate="2019-04-04">
+<author pid="190/7063">Martin Schrimpf</author>
+<author pid="177/9285">Stephen Merity</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Flexible Approach to Automated RNN Architecture Generation.</title>
+<year>2018</year>
+<booktitle>ICLR (Workshop)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BJDCPSJPM</ee>
+<crossref>conf/iclr/2018w</crossref>
+<url>db/conf/iclr/iclr2018w.html#SchrimpfM0S18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/ShuXS18" mdate="2019-07-25">
+<author pid="163/2175">Tianmin Shu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=SJJQVZW0b</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#ShuXS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/TrottXS18" mdate="2019-07-25">
+<author pid="211/8083">Alexander Trott</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Interpretable Counting for Visual Question Answering.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=S1J2ZyZ0Z</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#TrottXS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/XiongZS18" mdate="2019-07-25">
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="79/128">Richard Socher</author>
+<title>DCN+: Mixed Objective And Deep Residual Coattention for Question Answering.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=H1meywxRW</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#XiongZS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/Hosseini-AslZXS18" mdate="2021-01-29">
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech Domain Adaptation.</title>
+<pages>3758-3762</pages>
+<year>2018</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2018-1535</ee>
+<crossref>conf/interspeech/2018</crossref>
+<url>db/conf/interspeech/interspeech2018.html#Hosseini-AslZXS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-08240" mdate="2018-08-13">
+<author pid="177/9285">Stephen Merity</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>An Analysis of Neural Language Modeling at Multiple Scales.</title>
+<year>2018</year>
+<volume>abs/1803.08240</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.08240</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-08240</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-00522" mdate="2018-08-13">
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech Domain Adaptation.</title>
+<year>2018</year>
+<volume>abs/1804.00522</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.00522</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-00522</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-00819" mdate="2018-08-13">
+<author pid="122/7357">Luowei Zhou</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="68/2447">Jason J. Corso</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>End-to-End Dense Video Captioning with Masked Transformer.</title>
+<year>2018</year>
+<volume>abs/1804.00819</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.00819</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-00819</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-08092" mdate="2018-08-13">
+<author pid="203/9401">Sewon Min</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Efficient and Robust Question Answering from Minimal Context over Documents.</title>
+<year>2018</year>
+<volume>abs/1805.08092</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.08092</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-08092</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-09655" mdate="2018-08-13">
+<author pid="182/8931">Victor Zhong</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Global-Locally Self-Attentive Dialogue State Tracker.</title>
+<year>2018</year>
+<volume>abs/1805.09655</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.09655</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-09655</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-06977" mdate="2018-08-13">
+<author pid="156/0933">Akhilesh Gotmare</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Using Mode Connectivity for Loss Landscape Analysis.</title>
+<year>2018</year>
+<volume>abs/1806.06977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.06977</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-06977</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-08730" mdate="2018-08-13">
+<author pid="205/2296">Bryan McCann</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>The Natural Language Decathlon: Multitask Learning as Question Answering.</title>
+<year>2018</year>
+<volume>abs/1806.08730</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.08730</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-08730</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-00374" mdate="2018-08-13">
+<author pid="145/7216">Ehsan Hosseini-Asl</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Augmented Cyclic Adversarial Learning for Domain Adaptation.</title>
+<year>2018</year>
+<volume>abs/1807.00374</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.00374</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-00374</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-07913" mdate="2018-09-02">
+<author pid="225/5389">Wojciech Kryscinski</author>
+<author pid="155/1910">Romain Paulus</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improving Abstraction in Text Summarization.</title>
+<year>2018</year>
+<volume>abs/1808.07913</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.07913</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-07913</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-10568" mdate="2018-09-03">
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="80/7282">Caiming Xiong</author>
+<title>Multi-Hop Knowledge Graph Reasoning with Reward Shaping.</title>
+<year>2018</year>
+<volume>abs/1808.10568</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.10568</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-10568</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-07402" mdate="2018-10-05">
+<author pid="70/6155">Huan Wang</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Identifying Generalization Properties in Neural Networks.</title>
+<year>2018</year>
+<volume>abs/1809.07402</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.07402</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-07402</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-13243" mdate="2018-11-08">
+<author pid="156/0933">Akhilesh Gotmare</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation.</title>
+<year>2018</year>
+<volume>abs/1810.13243</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.13243</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-13243</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-12432" mdate="2018-12-03">
+<author pid="150/8447">Zuxuan Wu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="198/0963">Chih-Yao Ma</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="d/LarrySDavis">Larry S. Davis</author>
+<title>AdaFrame: Adaptive Frame Selection for Fast Video Recognition.</title>
+<year>2018</year>
+<volume>abs/1811.12432</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.12432</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-12432</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LuXPS17" mdate="2017-11-16">
+<author pid="144/6253">Jiasen Lu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="64/2121">Devi Parikh</author>
+<author pid="79/128">Richard Socher</author>
+<title>Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning.</title>
+<pages>3242-3250</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.345</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2017.345</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#LuXPS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/BradburyS17" mdate="2020-01-28">
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>Towards Neural Machine Translation with Latent Tree Attention.</title>
+<pages>12-16</pages>
+<year>2017</year>
+<booktitle>SPNLP@EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w17-4303</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W17-4303/</ee>
+<crossref>conf/emnlp/2017spnlp</crossref>
+<url>db/conf/emnlp/spnlp2017.html#BradburyS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/HashimotoXTS17" mdate="2020-01-28">
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="18/3787">Yoshimasa Tsuruoka</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks.</title>
+<pages>1923-1933</pages>
+<year>2017</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d17-1206</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D17-1206/</ee>
+<crossref>conf/emnlp/2017</crossref>
+<url>db/conf/emnlp/emnlp2017.html#HashimotoXTS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/0002MXS17" mdate="2019-07-25">
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="177/9285">Stephen Merity</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Quasi-Recurrent Neural Networks.</title>
+<year>2017</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=H1zJ-v5xl</ee>
+<crossref>conf/iclr/2017</crossref>
+<url>db/conf/iclr/iclr2017.html#0002MXS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/InanKS17" mdate="2019-07-25">
+<author pid="147/7861">Hakan Inan</author>
+<author pid="140/4732">Khashayar Khosravi</author>
+<author pid="79/128">Richard Socher</author>
+<title>Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling.</title>
+<year>2017</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=r1aPbsFle</ee>
+<crossref>conf/iclr/2017</crossref>
+<url>db/conf/iclr/iclr2017.html#InanKS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/MerityX0S17" mdate="2019-07-25">
+<author pid="177/9285">Stephen Merity</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>Pointer Sentinel Mixture Models.</title>
+<year>2017</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=Byj72udxe</ee>
+<crossref>conf/iclr/2017</crossref>
+<url>db/conf/iclr/iclr2017.html#MerityX0S17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/XiongZS17" mdate="2019-07-25">
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Dynamic Coattention Networks For Question Answering.</title>
+<year>2017</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rJeKjwvclx</ee>
+<crossref>conf/iclr/2017</crossref>
+<url>db/conf/iclr/iclr2017.html#XiongZS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/McCannBXS17" mdate="2021-01-21">
+<author pid="205/2296">Bryan McCann</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Learned in Translation: Contextualized Word Vectors.</title>
+<pages>6294-6305</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/20c86a628232a67e7bd46f76fba7ce12-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7209-learned-in-translation-contextualized-word-vectors</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#McCannBXS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rep4nlp/JohansenS17" mdate="2020-01-28">
+<author pid="180/2797">Alexander Rosenberg Johansen</author>
+<author pid="79/128">Richard Socher</author>
+<title>Learning when to skim and when to read.</title>
+<pages>257-264</pages>
+<year>2017</year>
+<booktitle>Rep4NLP@ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w17-2631</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W17-2631/</ee>
+<crossref>conf/rep4nlp/2017</crossref>
+<url>db/conf/rep4nlp/rep4nlp2017.html#JohansenS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PaulusXS17" mdate="2018-08-13">
+<author pid="155/1910">Romain Paulus</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Deep Reinforced Model for Abstractive Summarization.</title>
+<year>2017</year>
+<volume>abs/1705.04304</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.04304</ee>
+<url>db/journals/corr/corr1705.html#PaulusXS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-00107" mdate="2019-03-21">
+<author pid="205/2296">Bryan McCann</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Learned in Translation: Contextualized Word Vectors.</title>
+<year>2017</year>
+<volume>abs/1708.00107</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.00107</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-00107</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-01009" mdate="2018-08-13">
+<author pid="177/9285">Stephen Merity</author>
+<author pid="205/2296">Bryan McCann</author>
+<author pid="79/128">Richard Socher</author>
+<title>Revisiting Activation Regularization for Language RNNs.</title>
+<year>2017</year>
+<volume>abs/1708.01009</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.01009</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-01009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-02182" mdate="2018-08-13">
+<author pid="177/9285">Stephen Merity</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Regularizing and Optimizing LSTM Language Models.</title>
+<year>2017</year>
+<volume>abs/1708.02182</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.02182</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-02182</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-00103" mdate="2018-08-13">
+<author pid="182/8931">Victor Zhong</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning.</title>
+<year>2017</year>
+<volume>abs/1709.00103</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.00103</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-00103</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-01915" mdate="2019-03-21">
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>Towards Neural Machine Translation with Latent Tree Attention.</title>
+<year>2017</year>
+<volume>abs/1709.01915</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.01915</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-01915</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-00106" mdate="2018-08-13">
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="79/128">Richard Socher</author>
+<title>DCN+: Mixed Objective and Deep Residual Coattention for Question Answering.</title>
+<year>2017</year>
+<volume>abs/1711.00106</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.00106</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-00106</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-02132" mdate="2018-08-13">
+<author pid="179/2264">Karim Ahmed</author>
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Weighted Transformer Network for Machine Translation.</title>
+<year>2017</year>
+<volume>abs/1711.02132</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.02132</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-02132</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-02281" mdate="2019-03-21">
+<author pid="164/5848">Jiatao Gu</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="74/571">Victor O. K. Li</author>
+<author pid="79/128">Richard Socher</author>
+<title>Non-Autoregressive Neural Machine Translation.</title>
+<year>2017</year>
+<volume>abs/1711.02281</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.02281</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-02281</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-05483" mdate="2018-08-13">
+<author pid="180/2797">Alexander Rosenberg Johansen</author>
+<author pid="79/128">Richard Socher</author>
+<title>Learning when to skim and when to read.</title>
+<year>2017</year>
+<volume>abs/1712.05483</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.05483</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-05483</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07101" mdate="2018-08-13">
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improving End-to-End Speech Recognition with Policy Learning.</title>
+<year>2017</year>
+<volume>abs/1712.07101</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07101</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07101</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07108" mdate="2018-08-13">
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improved Regularization Techniques for End-to-End Speech Recognition.</title>
+<year>2017</year>
+<volume>abs/1712.07108</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07108</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07108</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07294" mdate="2018-08-13">
+<author pid="163/2175">Tianmin Shu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning.</title>
+<year>2017</year>
+<volume>abs/1712.07294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07294</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07294</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07296" mdate="2019-03-21">
+<author pid="144/7537">Huishuai Zhang</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>Block-diagonal Hessian-free Optimization for Training Neural Networks.</title>
+<year>2017</year>
+<volume>abs/1712.07296</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07296</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07296</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07316" mdate="2019-03-21">
+<author pid="190/7063">Martin Schrimpf</author>
+<author pid="177/9285">Stephen Merity</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Flexible Approach to Automated RNN Architecture Generation.</title>
+<year>2017</year>
+<volume>abs/1712.07316</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07316</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07316</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07628" mdate="2018-08-13">
+<author pid="166/6729">Nitish Shirish Keskar</author>
+<author pid="79/128">Richard Socher</author>
+<title>Improving Generalization Performance by Switching from Adam to SGD.</title>
+<year>2017</year>
+<volume>abs/1712.07628</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07628</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07628</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-08697" mdate="2018-08-13">
+<author pid="211/8083">Alexander Trott</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Interpretable Counting for Visual Question Answering.</title>
+<year>2017</year>
+<volume>abs/1712.08697</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.08697</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-08697</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/KumarIOIBGZPS16" mdate="2019-05-29">
+<author pid="52/7766">Ankit Kumar</author>
+<author pid="122/8668">Ozan Irsoy</author>
+<author pid="148/7155">Peter Ondruska</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="164/5562">Ishaan Gulrajani</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="155/1910">Romain Paulus</author>
+<author pid="79/128">Richard Socher</author>
+<title>Ask Me Anything: Dynamic Memory Networks for Natural Language Processing.</title>
+<pages>1378-1387</pages>
+<year>2016</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v48/kumar16.html</ee>
+<crossref>conf/icml/2016</crossref>
+<url>db/conf/icml/icml2016.html#KumarIOIBGZPS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/XiongMS16" mdate="2019-05-29">
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="177/9285">Stephen Merity</author>
+<author pid="79/128">Richard Socher</author>
+<title>Dynamic Memory Networks for Visual and Textual Question Answering.</title>
+<pages>2397-2406</pages>
+<year>2016</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v48/xiong16.html</ee>
+<crossref>conf/icml/2016</crossref>
+<url>db/conf/icml/icml2016.html#XiongMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wassa/Socher16" mdate="2020-01-28">
+<author pid="79/128">Richard Socher</author>
+<title>Deep Learning for Sentiment Analysis - Invited Talk.</title>
+<pages>36</pages>
+<year>2016</year>
+<booktitle>WASSA@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w16-0408</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W16-0408/</ee>
+<crossref>conf/wassa/2016</crossref>
+<url>db/conf/wassa/wassa2016.html#Socher16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wmt/BradburyS16" mdate="2020-01-28">
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>MetaMind Neural Machine Translation System for WMT 2016.</title>
+<pages>264-267</pages>
+<year>2016</year>
+<booktitle>WMT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w16-2308</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W16-2308/</ee>
+<crossref>conf/wmt/2016</crossref>
+<url>db/conf/wmt/wmt2016.html#BradburyS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/XiongMS16" mdate="2018-08-13">
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="177/9285">Stephen Merity</author>
+<author pid="79/128">Richard Socher</author>
+<title>Dynamic Memory Networks for Visual and Textual Question Answering.</title>
+<year>2016</year>
+<volume>abs/1603.01417</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.01417</ee>
+<url>db/journals/corr/corr1603.html#XiongMS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MerityXBS16" mdate="2019-03-21">
+<author pid="177/9285">Stephen Merity</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="79/128">Richard Socher</author>
+<title>Pointer Sentinel Mixture Models.</title>
+<year>2016</year>
+<volume>abs/1609.07843</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.07843</ee>
+<url>db/journals/corr/corr1609.html#MerityXBS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/InanKS16" mdate="2021-01-23">
+<author pid="147/7861">Hakan Inan</author>
+<author orcid="0000-0003-3997-2766" pid="140/4732">Khashayar Khosravi</author>
+<author pid="79/128">Richard Socher</author>
+<title>Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling.</title>
+<year>2016</year>
+<volume>abs/1611.01462</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.01462</ee>
+<url>db/journals/corr/corr1611.html#InanKS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BradburyMXS16" mdate="2019-03-21">
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="177/9285">Stephen Merity</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Quasi-Recurrent Neural Networks.</title>
+<year>2016</year>
+<volume>abs/1611.01576</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.01576</ee>
+<url>db/journals/corr/corr1611.html#BradburyMXS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HashimotoXTS16" mdate="2018-08-13">
+<author pid="76/2653">Kazuma Hashimoto</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="18/3787">Yoshimasa Tsuruoka</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks.</title>
+<year>2016</year>
+<volume>abs/1611.01587</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.01587</ee>
+<url>db/journals/corr/corr1611.html#HashimotoXTS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/XiongZS16" mdate="2018-08-13">
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="182/8931">Victor Zhong</author>
+<author pid="79/128">Richard Socher</author>
+<title>Dynamic Coattention Networks For Question Answering.</title>
+<year>2016</year>
+<volume>abs/1611.01604</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.01604</ee>
+<url>db/journals/corr/corr1611.html#XiongZS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LongprePXS16" mdate="2018-08-13">
+<author pid="190/7024">Shayne Longpre</author>
+<author pid="190/7060">Sabeek Pradhan</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="79/128">Richard Socher</author>
+<title>A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs.</title>
+<year>2016</year>
+<volume>abs/1611.05104</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.05104</ee>
+<url>db/journals/corr/corr1611.html#LongprePXS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LuXPS16" mdate="2018-08-13">
+<author pid="144/6253">Jiasen Lu</author>
+<author pid="80/7282">Caiming Xiong</author>
+<author pid="64/2121">Devi Parikh</author>
+<author pid="79/128">Richard Socher</author>
+<title>Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.</title>
+<year>2016</year>
+<volume>abs/1612.01887</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.01887</ee>
+<url>db/journals/corr/corr1612.html#LuXPS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/TaiSM15" mdate="2020-01-28">
+<author pid="160/8934">Kai Sheng Tai</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.</title>
+<pages>1556-1566</pages>
+<year>2015</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p15-1150</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P15-1150/</ee>
+<crossref>conf/acl/2015-1</crossref>
+<url>db/conf/acl/acl2015-1.html#TaiSM15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TaiSM15" mdate="2018-08-13">
+<author pid="160/8934">Kai Sheng Tai</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.</title>
+<year>2015</year>
+<volume>abs/1503.00075</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.00075</ee>
+<url>db/journals/corr/corr1503.html#TaiSM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KumarISBEPOGS15" mdate="2019-03-21">
+<author pid="52/7766">Ankit Kumar</author>
+<author pid="122/8668">Ozan Irsoy</author>
+<author pid="23/1700">Jonathan Su</author>
+<author pid="160/3382">James Bradbury 0002</author>
+<author pid="42/3212">Robert English</author>
+<author pid="164/6141">Brian Pierce</author>
+<author pid="148/7155">Peter Ondruska</author>
+<author pid="164/5562">Ishaan Gulrajani</author>
+<author pid="79/128">Richard Socher</author>
+<title>Ask Me Anything: Dynamic Memory Networks for Natural Language Processing.</title>
+<year>2015</year>
+<volume>abs/1506.07285</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.07285</ee>
+<url>db/journals/corr/corr1506.html#KumarISBEPOGS15</url>
+</article>
+</r>
+<r><article key="journals/tacl/SocherKLMN14" mdate="2021-02-17">
+<author pid="79/128">Richard Socher</author>
+<author pid="04/9925">Andrej Karpathy</author>
+<author pid="29/6166">Quoc V. Le</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Grounded Compositional Semantics for Finding and Describing Images with Sentences.</title>
+<pages>207-218</pages>
+<year>2014</year>
+<volume>2</volume>
+<journal>Trans. Assoc. Comput. Linguistics</journal>
+<ee type="oa">https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/325</ee>
+<url>db/journals/tacl/tacl2.html#SocherKLMN14</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/IyyerBCSD14" mdate="2020-01-28">
+<author pid="148/9178">Mohit Iyyer</author>
+<author pid="57/5950">Jordan L. Boyd-Graber</author>
+<author pid="48/2870">Leonardo Max Batista Claudino</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="77/2856">Hal Daum&#233; III</author>
+<title>A Neural Network for Factoid Question Answering over Paragraphs.</title>
+<pages>633-644</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1070</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1070/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#IyyerBCSD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/PenningtonSM14" mdate="2020-01-28">
+<author pid="57/10489">Jeffrey Pennington</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Glove: Global Vectors for Word Representation.</title>
+<pages>1532-1543</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1162</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1162/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#PenningtonSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/KulkarniSBK14" mdate="2020-10-24">
+<author pid="23/4804">Chinmay Eishan Kulkarni</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="48/2547">Michael S. Bernstein</author>
+<author pid="97/4414">Scott R. Klemmer</author>
+<title>Scaling short-answer grading by combining peer assessment with algorithmic scoring.</title>
+<pages>99-108</pages>
+<year>2014</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/2556325.2566238</ee>
+<crossref>conf/lats/2014</crossref>
+<url>db/conf/lats/lats2014.html#KulkarniSBK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/PaulusSM14" mdate="2021-01-21">
+<author pid="155/1910">Romain Paulus</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Global Belief Recursive Neural Networks.</title>
+<pages>2888-2896</pages>
+<year>2014</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2014/hash/1415db70fe9ddb119e23e9b2808cde38-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5275-global-belief-recursive-neural-networks</ee>
+<crossref>conf/nips/2014</crossref>
+<url>db/conf/nips/nips2014.html#PaulusSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/SocherBMN13" mdate="2019-08-19">
+<author pid="79/128">Richard Socher</author>
+<author pid="07/7435">John Bauer</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Parsing with Compositional Vector Grammars.</title>
+<pages>455-465</pages>
+<year>2013</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P13-1045/</ee>
+<crossref>conf/acl/2013-1</crossref>
+<url>db/conf/acl/acl2013-1.html#SocherBMN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/LuongSM13" mdate="2019-09-11">
+<author pid="153/2222">Thang Luong</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Better Word Representations with Recursive Neural Networks for Morphology.</title>
+<pages>104-113</pages>
+<year>2013</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W13-3512/</ee>
+<crossref>conf/conll/2013</crossref>
+<url>db/conf/conll/conll2013.html#LuongSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZouSCM13" mdate="2019-09-11">
+<author pid="95/9989">Will Y. Zou</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="16/6461">Daniel M. Cer</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Bilingual Word Embeddings for Phrase-Based Machine Translation.</title>
+<pages>1393-1398</pages>
+<year>2013</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D13-1141/</ee>
+<crossref>conf/emnlp/2013</crossref>
+<url>db/conf/emnlp/emnlp2013.html#ZouSCM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/SocherPWCMNP13" mdate="2019-09-11">
+<author pid="79/128">Richard Socher</author>
+<author pid="225/4948">Alex Perelygin</author>
+<author pid="153/9509">Jean Wu</author>
+<author pid="03/9138">Jason Chuang</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<author pid="13/2617">Christopher Potts</author>
+<title>Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank.</title>
+<pages>1631-1642</pages>
+<year>2013</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D13-1170/</ee>
+<crossref>conf/emnlp/2013</crossref>
+<url>db/conf/emnlp/emnlp2013.html#SocherPWCMNP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/SocherM13" mdate="2019-09-11">
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Deep Learning for NLP (without Magic).</title>
+<pages>1-3</pages>
+<year>2013</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/N13-4001/</ee>
+<crossref>conf/naacl/2013</crossref>
+<url>db/conf/naacl/naacl2013.html#SocherM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SocherCMN13" mdate="2021-01-21">
+<author pid="79/128">Richard Socher</author>
+<author pid="87/7949">Danqi Chen</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Reasoning With Neural Tensor Networks for Knowledge Base Completion.</title>
+<pages>926-934</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/b337e84de8752b27eda3a12363109e80-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#SocherCMN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SocherGMN13" mdate="2021-01-21">
+<author pid="79/128">Richard Socher</author>
+<author pid="125/1966">Milind Ganjoo</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Zero-Shot Learning Through Cross-Modal Transfer.</title>
+<pages>935-943</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/2d6cc4b2d139a53512fb8cbb3086ae2e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#SocherGMN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1301-3618" mdate="2019-07-25">
+<author pid="87/7949">Danqi Chen</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Learning New Facts From Knowledge Bases With Neural Tensor Networks and Semantic Word Vectors</title>
+<ee type="oa">http://arxiv.org/abs/1301.3618</ee>
+<year>2013</year>
+<crossref>conf/iclr/2013w</crossref>
+<booktitle>ICLR (Workshop Poster)</booktitle>
+<url>db/conf/iclr/iclr2013w.html#abs-1301-3618</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1301-3666" mdate="2019-03-29">
+<author pid="79/128">Richard Socher</author>
+<author pid="125/1966">Milind Ganjoo</author>
+<author pid="125/1978">Hamsa Sridhar</author>
+<author pid="21/11275">Osbert Bastani</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Zero-Shot Learning Through Cross-Modal Transfer</title>
+<ee type="oa">http://arxiv.org/abs/1301.3666</ee>
+<year>2013</year>
+<crossref>conf/iclr/2013w</crossref>
+<booktitle>ICLR (Workshop)</booktitle>
+<url>db/conf/iclr/iclr2013w.html#abs-1301-3666</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/acl/2013cvsm" mdate="2019-08-19">
+<editor pid="54/8163">Alexandre Allauzen</editor>
+<editor pid="86/3862">Hugo Larochelle</editor>
+<editor pid="m/ChristopherDManning">Christopher D. Manning</editor>
+<editor pid="79/128">Richard Socher</editor>
+<title>Proceedings of the Workshop on Continuous Vector Space Models and their Compositionality, CVSM@ACL 2013, Sofia, Bulgaria, August 9, 2013</title>
+<booktitle>CVSM@ACL</booktitle>
+<publisher>Association for Computational Linguistics</publisher>
+<year>2013</year>
+<isbn>978-1-937284-67-1</isbn>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/W13-32/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W13-3200/</ee>
+<url>db/conf/acl/cvsm2013.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/acl/SocherBM12" mdate="2019-09-13">
+<author pid="79/128">Richard Socher</author>
+<author pid="56/953">Yoshua Bengio</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Deep Learning for NLP (without Magic).</title>
+<pages>5</pages>
+<year>2012</year>
+<booktitle>ACL (Tutorial Abstracts)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P12-4005/</ee>
+<crossref>conf/acl/2012t</crossref>
+<url>db/conf/acl/acl2012t.html#SocherBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/HuangSMN12" mdate="2019-09-13">
+<author pid="63/10489">Eric H. Huang</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Improving Word Representations via Global Context and Multiple Word Prototypes.</title>
+<pages>873-882</pages>
+<year>2012</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P12-1092/</ee>
+<crossref>conf/acl/2012-1</crossref>
+<url>db/conf/acl/acl2012-1.html#HuangSMN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/SocherHMN12" mdate="2019-09-13">
+<author pid="79/128">Richard Socher</author>
+<author pid="117/4058">Brody Huval</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Semantic Compositionality through Recursive Matrix-Vector Spaces.</title>
+<pages>1201-1211</pages>
+<year>2012</year>
+<booktitle>EMNLP-CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D12-1110/</ee>
+<crossref>conf/emnlp/2012</crossref>
+<url>db/conf/emnlp/emnlp2012.html#SocherHMN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SocherHBMN12" mdate="2021-01-21">
+<author pid="79/128">Richard Socher</author>
+<author pid="117/4058">Brody Huval</author>
+<author pid="126/1701">Bharath Putta Bath</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<title>Convolutional-Recursive Deep Learning for 3D Object Classification.</title>
+<pages>665-673</pages>
+<year>2012</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2012/hash/3eae62bba9ddf64f69d49dc48e2dd214-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification</ee>
+<crossref>conf/nips/2012</crossref>
+<url>db/conf/nips/nips2012.html#SocherHBMN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/SocherPHNM11" mdate="2019-09-13">
+<author pid="79/128">Richard Socher</author>
+<author pid="57/10489">Jeffrey Pennington</author>
+<author pid="63/10489">Eric H. Huang</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions.</title>
+<pages>151-161</pages>
+<year>2011</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D11-1014/</ee>
+<crossref>conf/emnlp/2011</crossref>
+<url>db/conf/emnlp/emnlp2011.html#SocherPHNM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SocherLNM11" mdate="2019-04-03">
+<author pid="79/128">Richard Socher</author>
+<author pid="31/7450">Cliff Chiung-Yu Lin</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Parsing Natural Scenes and Natural Language with Recursive Neural Networks.</title>
+<pages>129-136</pages>
+<year>2011</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2011</crossref>
+<ee type="oa">https://icml.cc/2011/papers/125_icmlpaper.pdf</ee>
+<url>db/conf/icml/icml2011.html#SocherLNM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SocherHPNM11" mdate="2021-01-21">
+<author pid="79/128">Richard Socher</author>
+<author pid="63/10489">Eric H. Huang</author>
+<author pid="57/10489">Jeffrey Pennington</author>
+<author pid="n/AndrewYNg">Andrew Y. Ng</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection.</title>
+<pages>801-809</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/3335881e06d4d23091389226225e17c7-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4204-dynamic-pooling-and-unfolding-recursive-autoencoders-for-paraphrase-detection</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#SocherHPNM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/SocherMM11" mdate="2019-05-29">
+<author pid="79/128">Richard Socher</author>
+<author pid="97/1011">Andrew L. Maas</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Spectral Chinese Restaurant Processes: Nonparametric Clustering Based on Similarities.</title>
+<pages>698-706</pages>
+<booktitle>AISTATS</booktitle>
+<year>2011</year>
+<crossref>conf/aistats/2011</crossref>
+<ee type="oa">http://proceedings.mlr.press/v15/socher11a/socher11a.pdf</ee>
+<url>db/journals/jmlr/jmlrp15.html#SocherMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Socher010" mdate="2019-07-22">
+<author pid="79/128">Richard Socher</author>
+<author pid="79/2528">Fei-Fei Li 0001</author>
+<title>Connecting modalities: Semi-supervised segmentation and annotation of images using unaligned text corpora.</title>
+<pages>966-973</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5540112</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5540112</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#Socher010</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/DengDSLL009" mdate="2021-02-01">
+<author pid="07/6526-1">Jia Deng 0001</author>
+<author orcid="0000-0003-3067-8720" pid="92/748-3">Wei Dong 0003</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="31/2187">Li-Jia Li</author>
+<author pid="l/KaiLi1">Kai Li 0001</author>
+<author pid="79/2528">Fei-Fei Li 0001</author>
+<title>ImageNet: A large-scale hierarchical image database.</title>
+<pages>248-255</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206848</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206848</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206848</ee>
+<ee>https://www.wikidata.org/entity/Q37043902</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#DengDSLL009</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiS009" mdate="2020-02-14">
+<author pid="31/2187">Li-Jia Li</author>
+<author pid="79/128">Richard Socher</author>
+<author pid="79/2528">Fei-Fei Li 0001</author>
+<title>Towards total scene understanding: Classification, annotation and segmentation in an automatic framework.</title>
+<pages>2036-2043</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206718</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206718</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206718</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#LiS009</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SocherGPSBN09" mdate="2021-01-21">
+<author pid="79/128">Richard Socher</author>
+<author pid="44/10432">Samuel Gershman</author>
+<author pid="66/2491">Adler J. Perotte</author>
+<author pid="23/9678">Per B. Sederberg</author>
+<author pid="86/1910">David M. Blei</author>
+<author pid="99/6772">Kenneth A. Norman</author>
+<title>A Bayesian Analysis of Dynamics in Free Recall.</title>
+<pages>1714-1722</pages>
+<year>2009</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2009/hash/efe937780e95574250dabe07151bdc23-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3720-a-bayesian-analysis-of-dynamics-in-free-recall</ee>
+<crossref>conf/nips/2009</crossref>
+<url>db/conf/nips/nips2009.html#SocherGPSBN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/SocherBC08" mdate="2018-11-02">
+<author pid="79/128">Richard Socher</author>
+<author orcid="0000-0002-9548-7872" pid="59/3600">Adrian Barbu</author>
+<author orcid="0000-0002-5238-8647" pid="54/4552">Dorin Comaniciu</author>
+<title>A learning based hierarchical model for vessel segmentation.</title>
+<pages>1055-1058</pages>
+<year>2008</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2008.4541181</ee>
+<crossref>conf/isbi/2008</crossref>
+<url>db/conf/isbi/isbi2008.html#SocherBC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nodalida/SocherBO07" mdate="2019-09-17">
+<author pid="79/128">Richard Socher</author>
+<author pid="20/6100">Chris Biemann</author>
+<author pid="26/3910">Rainer Osswald</author>
+<title>Combining Contexts in Lexicon Learning for Semantic Parsing.</title>
+<pages>175-182</pages>
+<year>2007</year>
+<booktitle>NODALIDA</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W07-2425/</ee>
+<crossref>conf/nodalida/2007</crossref>
+<url>db/conf/nodalida/nodalida2007.html#SocherBO07</url>
+</inproceedings>
+</r>
+<coauthors n="224" nc="5">
+<co c="0"><na f="a/Ahmed:Karim" pid="179/2264">Karim Ahmed</na></co>
+<co c="0" n="2"><na f="a/Al=Regib:Ghassan" pid="83/1655">Ghassan Al-Regib</na><na>Ghassan AlRegib</na></co>
+<co c="0"><na f="a/Albuquerque:Isabela" pid="210/2719">Isabela Albuquerque</na></co>
+<co c="0"><na f="a/Allauzen:Alexandre" pid="54/8163">Alexandre Allauzen</na></co>
+<co c="0"><na f="a/Anand:Namrata" pid="231/7667">Namrata Anand</na></co>
+<co c="0"><na f="a/Arpit:Devansh" pid="120/8494">Devansh Arpit</na></co>
+<co c="0"><na f="a/Asai:Akari" pid="213/8066">Akari Asai</na></co>
+<co c="0"><na f="=/=Aring=strand:Oliver" pid="219/5415">Oliver &#197;strand</na></co>
+<co c="0"><na f="b/Bai:Yu" pid="03/6325">Yu Bai</na></co>
+<co c="0"><na f="b/Barbu:Adrian" pid="59/3600">Adrian Barbu</na></co>
+<co c="0"><na f="b/Bastani:Osbert" pid="21/11275">Osbert Bastani</na></co>
+<co c="0"><na f="b/Bath:Bharath_Putta" pid="126/1701">Bharath Putta Bath</na></co>
+<co c="0"><na f="b/Bauer:John" pid="07/7435">John Bauer</na></co>
+<co c="0"><na f="b/Bengio:Yoshua" pid="56/953">Yoshua Bengio</na></co>
+<co c="0"><na f="b/Bernstein:Michael_S=" pid="48/2547">Michael S. Bernstein</na></co>
+<co c="0"><na f="b/Bhatnagar:Aadyot" pid="260/0421">Aadyot Bhatnagar</na></co>
+<co c="3"><na f="b/Biemann:Chris" pid="20/6100">Chris Biemann</na></co>
+<co c="0"><na f="b/Blei:David_M=" pid="86/1910">David M. Blei</na></co>
+<co c="0"><na f="b/Boyd=Graber:Jordan_L=" pid="57/5950">Jordan L. Boyd-Graber</na></co>
+<co c="0"><na f="b/Bradbury_0002:James" pid="160/3382">James Bradbury 0002</na></co>
+<co c="0"><na f="b/Buschiazzo:Raffaella" pid="247/6493">Raffaella Buschiazzo</na></co>
+<co c="1"><na f="c/Campagna:Giovanni" pid="167/5968">Giovanni Campagna</na></co>
+<co c="0" n="2"><na f="c/Campos:Victor" pid="98/8044">Victor Campos</na><na>V&#237;ctor Campos</na></co>
+<co c="0"><na f="c/Cer:Daniel_M=" pid="16/6461">Daniel M. Cer</na></co>
+<co c="2"><na f="c/Chavez:Kevin" pid="167/4318">Kevin Chavez</na></co>
+<co c="0"><na f="c/Chen:Danqi" pid="87/7949">Danqi Chen</na></co>
+<co c="0"><na f="c/Chen:Luyao" pid="64/2464">Luyao Chen</na></co>
+<co c="0"><na f="c/Chen:Minshuo" pid="217/1509">Minshuo Chen</na></co>
+<co c="0"><na f="c/Chen:Tao" pid="69/510">Tao Chen</na></co>
+<co c="0"><na f="c/Cho:Kyunghyun" pid="41/9736">Kyunghyun Cho</na></co>
+<co c="0"><na f="c/Chuang:Jason" pid="03/9138">Jason Chuang</na></co>
+<co c="0"><na f="c/Claudino:Leonardo_Max_Batista" pid="48/2870">Leonardo Max Batista Claudino</na></co>
+<co c="0"><na f="c/Comaniciu:Dorin" pid="54/4552">Dorin Comaniciu</na></co>
+<co c="0"><na f="c/Corso:Jason_J=" pid="68/2447">Jason J. Corso</na></co>
+<co c="0"><na f="d/Daum=eacute=_III:Hal" pid="77/2856">Hal Daum&#233; III</na></co>
+<co c="0" n="2"><na f="d/Davis_0001:Larry" pid="d/LarrySDavis">Larry Davis 0001</na><na>Larry S. Davis</na></co>
+<co c="0"><na f="d/Deng_0001:Jia" pid="07/6526-1">Jia Deng 0001</na></co>
+<co c="0"><na f="d/DeYoung:Jay" pid="136/8673">Jay DeYoung</na></co>
+<co c="0"><na f="d/Dixit:Shreya" pid="242/8242">Shreya Dixit</na></co>
+<co c="2"><na f="d/Domin=eacute=:Laura" pid="237/9869">Laura Domin&#233;</na></co>
+<co c="0"><na f="d/Dong_0003:Wei" pid="92/748-3">Wei Dong 0003</na></co>
+<co c="0" n="2"><na f="e/Eguchi:Raphael" pid="245/4951">Raphael Eguchi</na><na>Raphael R. Eguchi</na></co>
+<co c="0"><na f="e/English:Robert" pid="42/3212">Robert English</na></co>
+<co c="0"><na f="e/Er:Heyang" pid="242/8249">Heyang Er</na></co>
+<co c="0"><na f="e/Esteva:Andre" pid="154/6762">Andre Esteva</na></co>
+<co c="0"><na f="f/Fabbri:Alexander_R=" pid="203/8539">Alexander R. Fabbri</na></co>
+<co c="0"><na f="f/Fung:Pascale" pid="29/4187">Pascale Fung</na></co>
+<co c="0"><na f="g/Ganjoo:Milind" pid="125/1966">Milind Ganjoo</na></co>
+<co c="0"><na f="g/Gao:Mingfei" pid="67/6825">Mingfei Gao</na></co>
+<co c="0"><na f="g/Gao_0001:Yifan" pid="79/3190-1">Yifan Gao 0001</na></co>
+<co c="0"><na f="g/Geras:Krzysztof" pid="124/8920">Krzysztof Geras</na></co>
+<co c="0"><na f="g/Gershman:Samuel" pid="44/10432">Samuel Gershman</na></co>
+<co c="0"><na f="g/Gir=oacute==i=Nieto:Xavier" pid="12/7205">Xavier Gir&#243;-i-Nieto</na></co>
+<co c="0" n="2"><na f="g/Gotmare:Akhilesh" pid="156/0933">Akhilesh Gotmare</na><na>Akhilesh Deepak Gotmare</na></co>
+<co c="0"><na f="g/Gruesbeck:Melvin" pid="263/9982">Melvin Gruesbeck</na></co>
+<co c="0"><na f="g/Gu:Jiatao" pid="164/5848">Jiatao Gu</na></co>
+<co c="0"><na f="g/Gulrajani:Ishaan" pid="164/5562">Ishaan Gulrajani</na></co>
+<co c="0"><na f="g/Gupta:Abhijit" pid="19/8217">Abhijit Gupta</na></co>
+<co c="0"><na f="g/Gupta:Ankit" pid="65/2886">Ankit Gupta</na></co>
+<co c="0"><na f="h/Hajishirzi:Hannaneh" pid="52/1296">Hannaneh Hajishirzi</na></co>
+<co c="0"><na f="h/Hashimoto:Kazuma" pid="76/2653">Kazuma Hashimoto</na></co>
+<co c="0" n="2"><na f="h/Hoi:Steven_C=_H=" pid="h/StevenCHHoi">Steven C. H. Hoi</na><na>Steven Chu-Hong Hoi</na></co>
+<co c="0"><na f="h/Hosseini=Asl:Ehsan" pid="145/7216">Ehsan Hosseini-Asl</na></co>
+<co c="0"><na f="h/Hsieh:Chiachun" pid="270/0003">Chiachun Hsieh</na></co>
+<co c="0"><na f="h/Huang:Eric_H=" pid="63/10489">Eric H. Huang</na></co>
+<co c="0"><na f="h/Huang:Po=Ssu" pid="37/4538">Po-Ssu Huang</na></co>
+<co c="0"><na f="h/Huval:Brody" pid="117/4058">Brody Huval</na></co>
+<co c="4"><na f="i/Inan:Hakan" pid="147/7861">Hakan Inan</na></co>
+<co c="0"><na f="i/Irsoy:Ozan" pid="122/8668">Ozan Irsoy</na></co>
+<co c="0"><na f="i/Irwanto:Nadia" pid="270/0013">Nadia Irwanto</na></co>
+<co c="0"><na f="i/Iyyer:Mohit" pid="148/9178">Mohit Iyyer</na></co>
+<co c="0"><na f="j/Jain:Sarthak" pid="169/3355">Sarthak Jain</na></co>
+<co c="0"><na f="j/Jastrzebski:Stanislaw" pid="139/0187">Stanislaw Jastrzebski</na></co>
+<co c="0"><na f="j/Ji:Emily" pid="242/7872">Emily Ji</na></co>
+<co c="0"><na f="j/Jiang:Youxuan" pid="165/5324">Youxuan Jiang</na></co>
+<co c="-1"><na f="j/Johansen:Alexander_Rosenberg" pid="180/2797">Alexander Rosenberg Johansen</na></co>
+<co c="0"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na></co>
+<co c="0"><na f="k/Kale:Anuprit" pid="267/9690">Anuprit Kale</na></co>
+<co c="0"><na f="k/Kan:Min=Yen" pid="k/MinYenKan">Min-Yen Kan</na></co>
+<co c="0"><na f="k/Karpathy:Andrej" pid="04/9925">Andrej Karpathy</na></co>
+<co c="0"><na f="k/Kerg:Giancarlo" pid="228/9255">Giancarlo Kerg</na></co>
+<co c="0"><na f="k/Keskar:Nitish_Shirish" pid="166/6729">Nitish Shirish Keskar</na></co>
+<co c="4"><na f="k/Khosravi:Khashayar" pid="140/4732">Khashayar Khosravi</na></co>
+<co c="0"><na f="k/King:Irwin" pid="k/IrwinKing">Irwin King</na></co>
+<co c="0"><na f="k/Kira:Zsolt" pid="36/4127">Zsolt Kira</na></co>
+<co c="0"><na f="k/Klemmer:Scott_R=" pid="97/4414">Scott R. Klemmer</na></co>
+<co c="0"><na f="k/Klusowski:Jason_M=" pid="195/6040">Jason M. Klusowski</na></co>
+<co c="0"><na f="k/Kraft:Jonathan" pid="242/8273">Jonathan Kraft</na></co>
+<co c="0"><na f="k/Krause:Ben" pid="64/2350">Ben Krause</na></co>
+<co c="0"><na f="k/Krishna:Pranav" pid="270/0023">Pranav Krishna</na></co>
+<co c="0"><na f="k/Kryscinski:Wojciech" pid="225/5389">Wojciech Kryscinski</na></co>
+<co c="0" n="2"><na f="k/Kulkarni_0001:Chinmay" pid="23/4804">Chinmay Kulkarni 0001</na><na>Chinmay Eishan Kulkarni</na></co>
+<co c="0"><na f="k/Kumar:Ankit" pid="52/7766">Ankit Kumar</na></co>
+<co c="1"><na f="l/Lam:Monica_S=" pid="l/MonicaSLam">Monica S. Lam</na></co>
+<co c="0"><na f="l/Larochelle:Hugo" pid="86/3862">Hugo Larochelle</na></co>
+<co c="0"><na f="l/Lasecki:Walter_S=" pid="04/10300">Walter S. Lasecki</na></co>
+<co c="0"><na f="l/Le:Hung" pid="45/466">Hung Le</na></co>
+<co c="0"><na f="l/Le:Quoc_V=" pid="29/6166">Quoc V. Le</na></co>
+<co c="0"><na f="l/Lee:Jason_D=" pid="88/3262">Jason D. Lee</na></co>
+<co c="0"><na f="l/Lehman:Eric" pid="l/EricLehman">Eric Lehman</na></co>
+<co c="0"><na f="l/Li_0001:Fei=Fei" pid="79/2528">Fei-Fei Li 0001</na></co>
+<co c="0"><na f="l/Li:Hengduo" pid="207/4317">Hengduo Li</na></co>
+<co c="0"><na f="l/Li:Irene" pid="44/8976">Irene Li</na></co>
+<co c="0"><na f="l/Li_0001:Junnan" pid="193/6773-1">Junnan Li 0001</na></co>
+<co c="0"><na f="l/Li_0001:Kai" pid="l/KaiLi1">Kai Li 0001</na></co>
+<co c="0"><na f="l/Li:Li=Jia" pid="31/2187">Li-Jia Li</na></co>
+<co c="0"><na f="l/Li:Suyi" pid="98/7732">Suyi Li</na></co>
+<co c="0"><na f="l/Li:Victor_O=_K=" pid="74/571">Victor O. K. Li</na></co>
+<co c="0"><na f="l/Li:Xilai" pid="209/9818">Xilai Li</na></co>
+<co c="0"><na f="l/Li:Zhenhui" pid="27/178">Zhenhui Li</na></co>
+<co c="0"><na f="l/Li:Zifan" pid="125/3616">Zifan Li</na></co>
+<co c="0"><na f="l/Li:Zihan" pid="233/6392">Zihan Li</na></co>
+<co c="0"><na f="l/Lin:Cliff_Chiung=Yu" pid="31/7450">Cliff Chiung-Yu Lin</na></co>
+<co c="0"><na f="l/Lin:Jimmy" pid="00/7739">Jimmy Lin</na></co>
+<co c="0"><na f="l/Lin:Xi_Victoria" pid="215/5264">Xi Victoria Lin</na></co>
+<co c="2"><na f="l/Liu:Christopher" pid="274/2217">Christopher Liu</na></co>
+<co c="0"><na f="l/Liu:Hao" pid="09/3214">Hao Liu</na></co>
+<co c="0"><na f="l/Liu:Linqing" pid="36/7028">Linqing Liu</na></co>
+<co c="0"><na f="l/Liu:Wenhao" pid="86/8117">Wenhao Liu</na></co>
+<co c="0"><na f="l/Liu:Yangxiaokang" pid="247/6392">Yangxiaokang Liu</na></co>
+<co c="0"><na f="l/Longpre:Shayne" pid="190/7024">Shayne Longpre</na></co>
+<co c="0"><na f="l/Lu:Jiasen" pid="144/6253">Jiasen Lu</na></co>
+<co c="0"><na f="l/Luong:Thang" pid="153/2222">Thang Luong</na></co>
+<co c="0"><na f="l/Lyu:Michael_R=" pid="l/MichaelRLyu">Michael R. Lyu</na></co>
+<co c="0"><na f="m/Ma:Chih=Yao" pid="198/0963">Chih-Yao Ma</na></co>
+<co c="0"><na f="m/Maas:Andrew_L=" pid="97/1011">Andrew L. Maas</na></co>
+<co c="0"><na f="m/Madani:Ali" pid="180/7507">Ali Madani</na></co>
+<co c="0"><na f="m/Madotto:Andrea" pid="174/2905">Andrea Madotto</na></co>
+<co c="0"><na f="m/Mahdavi:Mehrdad" pid="88/4321">Mehrdad Mahdavi</na></co>
+<co c="0"><na f="m/Manning:Christopher_D=" pid="m/ChristopherDManning">Christopher D. Manning</na></co>
+<co c="0"><na f="m/Marshall:Teresa" pid="247/6477">Teresa Marshall</na></co>
+<co c="0"><na f="m/McCann:Bryan" pid="205/2296">Bryan McCann</na></co>
+<co c="0"><na f="m/Merity:Stephen" pid="177/9285">Stephen Merity</na></co>
+<co c="0"><na f="m/Min:Sewon" pid="203/9401">Sewon Min</na></co>
+<co c="1"><na f="m/Moradshahi:Mehrad" pid="218/5332">Mehrad Moradshahi</na></co>
+<co c="0"><na f="m/Mutuma:Murori" pid="270/0017">Murori Mutuma</na></co>
+<co c="0"><na f="n/Naik:Nikhil" pid="43/7797">Nikhil Naik</na></co>
+<co c="0"><na f="n/Ng:Andrew_Y=" pid="n/AndrewYNg">Andrew Y. Ng</na></co>
+<co c="0"><na f="n/Nguyen:Xuan=Phi" pid="252/5270">Xuan-Phi Nguyen</na></co>
+<co c="0"><na f="n/Niu:Tong" pid="88/7733">Tong Niu</na></co>
+<co c="0"><na f="n/Norman:Kenneth_A=" pid="99/6772">Kenneth A. Norman</na></co>
+<co c="0"><na f="o/Ondruska:Peter" pid="148/7155">Peter Ondruska</na></co>
+<co c="3"><na f="o/Osswald:Rainer" pid="26/3910">Rainer Osswald</na></co>
+<co c="0"><na f="p/Pan:Jessica" pid="259/5503">Jessica Pan</na></co>
+<co c="0"><na f="p/Pang:Bo" pid="16/6344">Bo Pang</na></co>
+<co c="0"><na f="p/Parikh:Devi" pid="64/2121">Devi Parikh</na></co>
+<co c="0"><na f="p/Parkes:David_C=" pid="p/DavidCParkes">David C. Parkes</na></co>
+<co c="0"><na f="p/Paulus:Romain" pid="155/1910">Romain Paulus</na></co>
+<co c="0"><na f="p/Pennington:Jeffrey" pid="57/10489">Jeffrey Pennington</na></co>
+<co c="0"><na f="p/Perelygin:Alex" pid="225/4948">Alex Perelygin</na></co>
+<co c="0"><na f="p/Perotte:Adler_J=" pid="66/2491">Adler J. Perotte</na></co>
+<co c="0"><na f="p/Pierce:Brian" pid="164/6141">Brian Pierce</na></co>
+<co c="0"><na f="p/Potts:Christopher" pid="13/2617">Christopher Potts</na></co>
+<co c="0"><na f="p/Pradhan:Sabeek" pid="190/7060">Sabeek Pradhan</na></co>
+<co c="0"><na f="p/Proctor:David" pid="137/8041">David Proctor</na></co>
+<co c="0"><na f="r/Radev:Dragomir_R=" pid="r/DragomirRRadev">Dragomir R. Radev</na></co>
+<co c="0"><na f="r/Rahman:Faiaz" pid="269/9995">Faiaz Rahman</na></co>
+<co c="0"><na f="r/Rajani:Nazneen_Fatema" pid="166/1729">Nazneen Fatema Rajani</na></co>
+<co c="0"><na f="r/Rau:Amrit" pid="270/0005">Amrit Rau</na></co>
+<co c="0"><na f="s/Schrimpf:Martin" pid="190/7063">Martin Schrimpf</na></co>
+<co c="0"><na f="s/Sederberg:Per_B=" pid="23/9678">Per B. Sederberg</na></co>
+<co c="0"><na f="s/Shang:Wenling" pid="155/1889">Wenling Shang</na></co>
+<co c="0"><na f="s/Shi:Tianze" pid="154/6550">Tianze Shi</na></co>
+<co c="0"><na f="s/Shim:Sungrok" pid="242/7898">Sungrok Shim</na></co>
+<co c="0"><na f="s/Shu:Tianmin" pid="163/2175">Tianmin Shu</na></co>
+<co c="0"><na f="s/Shum:Michael" pid="234/7612">Michael Shum</na></co>
+<co c="0"><na f="s/Singh:Jasdeep" pid="85/4905">Jasdeep Singh</na></co>
+<co c="0"><na f="s/Sivaprasad:Abhinand" pid="269/9984">Abhinand Sivaprasad</na></co>
+<co c="0"><na f="s/Sridhar:Hamsa" pid="125/1978">Hamsa Sridhar</na></co>
+<co c="0"><na f="s/Srinivasa:Sunil" pid="55/178">Sunil Srinivasa</na></co>
+<co c="0"><na f="s/Su:Jonathan" pid="23/1700">Jonathan Su</na></co>
+<co c="0"><na f="t/Tai:Kai_Sheng" pid="160/8934">Kai Sheng Tai</na></co>
+<co c="0"><na f="t/Tan:Samson" pid="241/8934">Samson Tan</na></co>
+<co c="0"><na f="t/Tan:Yi_Chern" pid="242/8043">Yi Chern Tan</na></co>
+<co c="0"><na f="t/Tang:Xiangru" pid="246/8064">Xiangru Tang</na></co>
+<co c="0"><na f="t/Tarabar:Yasin" pid="269/9988">Yasin Tarabar</na></co>
+<co c="0"><na f="t/Theisen:Ryan" pid="251/5575">Ryan Theisen</na></co>
+<co c="0"><na f="t/Torres:Jordi" pid="94/6751">Jordi Torres</na></co>
+<co c="0"><na f="t/Trott:Alexander" pid="211/8083">Alexander Trott</na></co>
+<co c="0"><na f="t/Tsuruoka:Yoshimasa" pid="18/3787">Yoshimasa Tsuruoka</na></co>
+<co c="0"><na f="v/Varshney:Lav_R=" pid="36/4028">Lav R. Varshney</na></co>
+<co c="0"><na f="v/Verma:Neha" pid="12/11473">Neha Verma</na></co>
+<co c="0"><na f="v/Vig:Jesse" pid="24/2880">Jesse Vig</na></co>
+<co c="0"><na f="v/Vyas:Aadit" pid="264/4850">Aadit Vyas</na></co>
+<co c="0"><na f="w/Wallace:Byron_C=" pid="00/8247">Byron C. Wallace</na></co>
+<co c="0"><na f="w/Wan:Yao" pid="167/0275">Yao Wan</na></co>
+<co c="0"><na f="w/Wang:Bailin" pid="218/7334">Bailin Wang</na></co>
+<co c="0"><na f="w/Wang:Guangsen" pid="95/10649">Guangsen Wang</na></co>
+<co c="0"><na f="w/Wang:Huan" pid="70/6155">Huan Wang</na></co>
+<co c="0"><na f="w/Wang:Weiran" pid="63/8652">Weiran Wang</na></co>
+<co c="0"><na f="w/Weiss:Jeremy" pid="207/6895">Jeremy Weiss</na></co>
+<co c="0"><na f="w/Wu:Chien=Sheng" pid="180/5537">Chien-Sheng Wu</na></co>
+<co c="0"><na f="w/Wu:Jean" pid="153/9509">Jean Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Tianfu" pid="08/4148-1">Tianfu Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Zuxuan" pid="150/8447">Zuxuan Wu</na></co>
+<co c="0"><na f="x/Xia:Congying" pid="210/2265">Congying Xia</na></co>
+<co c="0"><na f="x/Xiong:Caiming" pid="80/7282">Caiming Xiong</na></co>
+<co c="0"><na f="x/Xu:Mingze" pid="162/8984">Mingze Xu</na></co>
+<co c="0"><na f="x/Xu:Ran" pid="71/1270">Ran Xu</na></co>
+<co c="1"><na f="x/Xu:Silei" pid="143/9693">Silei Xu</na></co>
+<co c="0"><na f="x/Xue:Eric" pid="248/7781">Eric Xue</na></co>
+<co c="0"><na f="y/Yang:Xinyi" pid="80/9004">Xinyi Yang</na></co>
+<co c="0"><na f="y/Yao:Huaxiu" pid="197/1635">Huaxiu Yao</na></co>
+<co c="0"><na f="y/Yasunaga:Michihiro" pid="202/1809">Michihiro Yasunaga</na></co>
+<co c="0"><na f="y/Yavuz:Semih" pid="129/1217">Semih Yavuz</na></co>
+<co c="0"><na f="y/Yin:Wengpeng" pid="276/7199">Wengpeng Yin</na></co>
+<co c="0"><na f="y/Yin_0001:Wenpeng" pid="117/7310-1">Wenpeng Yin 0001</na></co>
+<co c="0"><na f="y/Yu:Philip_S=" pid="y/PhilipSYu">Philip S. Yu</na></co>
+<co c="0"><na f="y/Yu:Tao" pid="67/1014">Tao Yu</na></co>
+<co c="0"><na f="z/Zaidi:Ahmad" pid="57/10875">Ahmad Zaidi</na></co>
+<co c="0"><na f="z/Zeng:Jichuan" pid="222/5876">Jichuan Zeng</na></co>
+<co c="0"><na f="z/Zhang:Huishuai" pid="144/7537">Huishuai Zhang</na></co>
+<co c="0"><na f="z/Zhang_0005:Jianguo" pid="90/6415-5">Jianguo Zhang 0005</na></co>
+<co c="0"><na f="z/Zhang_0037:Rui" pid="60/2536-37">Rui Zhang 0037</na></co>
+<co c="0"><na f="z/Zhang:Vincent" pid="242/8103">Vincent Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yuwen" pid="90/3868">Yuwen Zhang</na></co>
+<co c="0"><na f="z/Zhao:Tuo" pid="82/199">Tuo Zhao</na></co>
+<co c="0"><na f="z/Zheng:Stephan" pid="179/2433">Stephan Zheng</na></co>
+<co c="0"><na f="z/Zhong:Victor" pid="182/8931">Victor Zhong</na></co>
+<co c="0"><na f="z/Zhou:Luowei" pid="122/7357">Luowei Zhou</na></co>
+<co c="0"><na f="z/Zhou:Pan" pid="84/6614">Pan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yingbo" pid="72/8614">Yingbo Zhou</na></co>
+<co c="0"><na f="z/Zhu:Chen" pid="59/10522">Chen Zhu</na></co>
+<co c="0"><na f="z/Zou:Will_Y=" pid="95/9989">Will Y. Zou</na></co>
+</coauthors>
+</dblpperson>
+

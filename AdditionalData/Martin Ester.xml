@@ -1,3 +1,2907 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59beb28d593aaa16c3edee89730657b33f1b304db6854d5a0d5ffd0e3d2151ed
-size 129951
+<?xml version="1.0"?>
+<dblpperson name="Martin Ester" pid="e/MartinEster" n="183">
+<person key="homepages/e/MartinEster" mdate="2020-05-12">
+<author pid="e/MartinEster">Martin Ester</author>
+<note type="affiliation">Simon Fraser University, Burnaby, Canada</note>
+<url>http://www.cs.sfu.ca/~ester/</url>
+<url>https://dl.acm.org/profile/81100382875</url>
+<url>https://orcid.org/0000-0001-7732-2815</url>
+<url>https://www.wikidata.org/entity/Q89775770</url>
+</person>
+<r><inproceedings key="conf/psb/AokiE21" mdate="2021-04-01">
+<author pid="261/3697">Raquel Aoki</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>ParKCa: Causal Inference with Partially Known Causes.</title>
+<year>2021</year>
+<booktitle>PSB</booktitle>
+<ee>https://doi.org/10.1142/9789811232701_0019</ee>
+<crossref>conf/psb/2021</crossref>
+<url>db/conf/psb/psb2021.html#AokiE21</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/Sharifi-Noghabi20" mdate="2020-12-29">
+<author pid="244/8627">Hossein Sharifi-Noghabi</author>
+<author pid="277/1088">Shuman Peng</author>
+<author orcid="0000-0002-9424-8052" pid="235/6682">Olga I. Zolotareva</author>
+<author pid="242/5290">Colin C. Collins</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>AITL: Adversarial Inductive Transfer Learning with input and output space adaptation for pharmacogenomics.</title>
+<pages>i380-i388</pages>
+<year>2020</year>
+<volume>36</volume>
+<journal>Bioinform.</journal>
+<number>Supplement-1</number>
+<ee>https://doi.org/10.1093/bioinformatics/btaa442</ee>
+<ee>https://www.wikidata.org/entity/Q97542122</ee>
+<url>db/journals/bioinformatics/bioinformatics36.html#Sharifi-Noghabi20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZhouWBEYCSW20" mdate="2021-02-17">
+<author pid="34/4858">Sheng Zhou</author>
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="222/7980">Pinggang Yu</author>
+<author pid="03/1390-7">Jiawei Chen 0007</author>
+<author pid="232/5615">Qihao Shi</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>DGE: Deep Generative Network Embedding Based on Commonality and Individuality.</title>
+<pages>6949-6956</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://aaai.org/ojs/index.php/AAAI/article/view/6178</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#ZhouWBEYCSW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/XinYELZLYL20" mdate="2020-10-19">
+<author pid="251/9483">Shen Xin</author>
+<author pid="160/7183">Yizhou Ye</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="58/10813">Cheng Long</author>
+<author pid="84/6889">Jie Zhang</author>
+<author pid="l/ZhaoLi">Zhao Li</author>
+<author pid="276/5073">Kaiying Yuan</author>
+<author pid="260/0773">Yanghua Li</author>
+<title>Multi-Channel Sellers Traffic Allocation in Large-scale E-commerce Promotion.</title>
+<pages>2845-2852</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3412730</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#XinYELZLYL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/LiKSYE20" mdate="2021-03-09">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="91/4572">Dawei Yin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data.</title>
+<pages>439-449</pages>
+<year>2020</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3394486.3403086</ee>
+<crossref>conf/kdd/2020</crossref>
+<url>db/conf/kdd/kdd2020.html#LiKSYE20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/MansouriAZE20" mdate="2021-03-09">
+<author pid="224/0218">Mehrdad Mansouri</author>
+<author pid="56/2402">Ali Arab</author>
+<author pid="17/10778">Zahra Zohrevand</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Heidegger: Interpretable Temporal Causal Discovery.</title>
+<pages>1688-1696</pages>
+<year>2020</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3394486.3403220</ee>
+<crossref>conf/kdd/2020</crossref>
+<url>db/conf/kdd/kdd2020.html#MansouriAZE20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ZhangBEZYL020" mdate="2020-10-25">
+<author orcid="0000-0001-5769-8786" pid="19/5112-23">Zhen Zhang 0023</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="74/5065">Jianfeng Zhang</author>
+<author pid="90/10581">Chengwei Yao</author>
+<author pid="l/ZhaoLi">Zhao Li</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.</title>
+<pages>3049-3055</pages>
+<year>2020</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3366423.3380076</ee>
+<crossref>conf/www/2020</crossref>
+<url>db/conf/www/www2020.html#ZhangBEZYL020</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-07952" mdate="2020-03-24">
+<author pid="261/3697">Raquel Aoki</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>ParKCa: Causal Inference with Partially Known Causes.</title>
+<year>2020</year>
+<volume>abs/2003.07952</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.07952</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-07952</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-04435" mdate="2020-06-15">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="91/4572">Dawei Yin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data.</title>
+<year>2020</year>
+<volume>abs/2006.04435</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.04435</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-04435</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-12658" mdate="2020-09-30">
+<author pid="244/8627">Hossein Sharifi-Noghabi</author>
+<author pid="209/8225">Hossein Asghari</author>
+<author pid="198/9428">Nazanin Mehrasa</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Domain Generalization via Semi-supervised Meta Learning.</title>
+<year>2020</year>
+<volume>abs/2009.12658</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.12658</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-12658</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-00179" mdate="2020-11-06">
+<author pid="277/1088">Shuman Peng</author>
+<author pid="218/9475">Weilian Song</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Combining Domain-Specific Meta-Learners in the Parameter Space for Cross-Domain Few-Shot Classification.</title>
+<year>2020</year>
+<volume>abs/2011.00179</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.00179</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-00179</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-07739" mdate="2020-11-18">
+<author pid="03/1390-7">Jiawei Chen 0007</author>
+<author pid="278/8241">Chengquan Jiang</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<author pid="34/4858">Sheng Zhou</author>
+<author pid="86/4656">Yan Feng</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="59/1007">Xiangnan He 0001</author>
+<title>CoSam: An Efficient Collaborative Adaptive Sampler for Recommendation.</title>
+<year>2020</year>
+<volume>abs/2011.07739</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.07739</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-07739</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/Khakabimamaghani19" mdate="2020-12-29">
+<author pid="81/10709">Sahand Khakabimamaghani</author>
+<author pid="162/0576">Salem Malikic</author>
+<author pid="86/2670">Jeffrey Tang</author>
+<author pid="244/8792">Dujian Ding</author>
+<author orcid="0000-0003-2932-7800" pid="96/7593">Ryan D. Morin</author>
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Collaborative intra-tumor heterogeneity detection.</title>
+<pages>i379-i388</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>Bioinform.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1093/bioinformatics/btz355</ee>
+<ee>https://www.wikidata.org/entity/Q90064905</ee>
+<url>db/journals/bioinformatics/bioinformatics35.html#Khakabimamaghani19</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/Sharifi-Noghabi19" mdate="2020-05-30">
+<author pid="244/8627">Hossein Sharifi-Noghabi</author>
+<author orcid="0000-0002-9424-8052" pid="235/6682">Olga I. Zolotareva</author>
+<author pid="242/5290">Colin C. Collins</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>MOLI: multi-omics late integration with deep neural networks for drug response prediction.</title>
+<pages>i501-i509</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>Bioinform.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1093/bioinformatics/btz318</ee>
+<ee>https://www.wikidata.org/entity/Q90065004</ee>
+<url>db/journals/bioinformatics/bioinformatics35.html#Sharifi-Noghabi19</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/Khakabimamaghani19a" mdate="2020-10-26">
+<author pid="81/10709">Sahand Khakabimamaghani</author>
+<author pid="249/1464">Yogeshwar D. Kelkar</author>
+<author orcid="0000-0002-4621-1589" pid="249/1409">Bruno M. Grande</author>
+<author pid="96/7593">Ryan D. Morin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="92/9357">Daniel Ziemek</author>
+<title>SUBSTRA: Supervised Bayesian Patient Stratification.</title>
+<pages>3263-3272</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>Bioinform.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1093/bioinformatics/btz112</ee>
+<ee>https://www.wikidata.org/entity/Q91616032</ee>
+<url>db/journals/bioinformatics/bioinformatics35.html#Khakabimamaghani19a</url>
+</article>
+</r>
+<r><article key="journals/ploscb/Khakabimamaghani19" mdate="2020-10-26">
+<author orcid="0000-0002-5178-0188" pid="81/10709">Sahand Khakabimamaghani</author>
+<author pid="244/8792">Dujian Ding</author>
+<author orcid="0000-0001-5051-1771" pid="269/1539">Oliver Snow</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Uncovering the subtype-specific temporal order of cancer pathway dysregulation.</title>
+<year>2019</year>
+<volume>15</volume>
+<journal>PLoS Comput. Biol.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.1371/journal.pcbi.1007451</ee>
+<ee>https://www.wikidata.org/entity/Q91226202</ee>
+<url>db/journals/ploscb/ploscb15.html#Khakabimamaghani19</url>
+</article>
+</r>
+<r><article key="journals/tcbb/ZhuHE19" mdate="2020-09-06">
+<author orcid="0000-0001-6705-7130" pid="140/2179">Lu Zhu</author>
+<author pid="84/5825">Ralf Hofest&#228;dt</author>
+<author orcid="0000-0001-7732-2815" pid="e/MartinEster">Martin Ester</author>
+<title>Tissue-Specific Subcellular Localization Prediction Using Multi-Label Markov Random Fields.</title>
+<pages>1471-1482</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCBB.2019.2897683</ee>
+<ee>https://www.wikidata.org/entity/Q91423088</ee>
+<url>db/journals/tcbb/tcbb16.html#ZhuHE19</url>
+</article>
+</r>
+<r><article key="journals/tois/LuCJEL19" mdate="2021-04-09">
+<author pid="98/6613-6">Wei Lu 0006</author>
+<author pid="c/KFLChung">Fu-Lai Chung</author>
+<author pid="59/11289">Wenhao Jiang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author orcid="0000-0002-3865-8145" pid="49/3283-5">Wei Liu 0005</author>
+<title>A Deep Bayesian Tensor-Based System for Video Recommendation.</title>
+<pages>7:1-7:22</pages>
+<year>2019</year>
+<volume>37</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3233773</ee>
+<url>db/journals/tois/tois37.html#LuCJEL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/XinEBYLZY019" mdate="2019-11-04">
+<author pid="251/9483">Shen Xin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="90/10581">Chengwei Yao</author>
+<author pid="l/ZhaoLi">Zhao Li</author>
+<author pid="16/1951">Xun Zhou</author>
+<author pid="160/7183">Yizhou Ye</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>Multi-task based Sales Predictions for Online Promotions.</title>
+<pages>2823-2831</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357823</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#XinEBYLZY019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12207" mdate="2019-10-31">
+<author pid="251/8868">Jialin Lu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>An Active Approach for Model Interpretation.</title>
+<year>2019</year>
+<volume>abs/1910.12207</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12207</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12207</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-05954" mdate="2021-01-23">
+<author orcid="0000-0001-5769-8786" pid="19/5112-23">Zhen Zhang 0023</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="74/5065">Jianfeng Zhang</author>
+<author pid="90/10581">Chengwei Yao</author>
+<author pid="81/2909">Zhi Yu</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>Hierarchical Graph Pooling with Structure Learning.</title>
+<year>2019</year>
+<volume>abs/1911.05954</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.05954</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-05954</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/MansouriYRCE18" mdate="2020-05-30">
+<author pid="224/0218">Mehrdad Mansouri</author>
+<author pid="235/8502">Bowei Yuan</author>
+<author pid="235/8104">Colin J. D. Ross</author>
+<author orcid="0000-0002-4485-4054" pid="235/8320">Bruce C. Carleton</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>HUME: large-scale detection of causal genetic factors of adverse drug reactions.</title>
+<pages>4274-4283</pages>
+<year>2018</year>
+<volume>34</volume>
+<journal>Bioinform.</journal>
+<number>24</number>
+<ee>https://doi.org/10.1093/bioinformatics/bty475</ee>
+<ee>https://www.wikidata.org/entity/Q89182374</ee>
+<url>db/journals/bioinformatics/bioinformatics34.html#MansouriYRCE18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ZhouYWBEYZW18" mdate="2019-12-05">
+<author pid="34/4858">Sheng Zhou</author>
+<author pid="69/3036">Hongxia Yang</author>
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="222/7980">Pinggang Yu</author>
+<author pid="144/1628">Jianwei Zhang</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>PRRE: Personalized Relation Ranking Embedding for Attributed Networks.</title>
+<pages>823-832</pages>
+<year>2018</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3269206.3271741</ee>
+<crossref>conf/cikm/2018</crossref>
+<url>db/conf/cikm/cikm2018.html#ZhouYWBEYZW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ChenFEZC018" mdate="2020-11-12">
+<author pid="03/1390-7">Jiawei Chen 0007</author>
+<author pid="86/4656">Yan Feng</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="34/4858">Sheng Zhou</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>Modeling Users' Exposure with Social Knowledge Influence and Consumption Influence for Recommendation.</title>
+<pages>953-962</pages>
+<year>2018</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3269206.3271742</ee>
+<crossref>conf/cikm/2018</crossref>
+<url>db/conf/cikm/cikm2018.html#ChenFEZC018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/WangGEGSZBC18" mdate="2021-01-13">
+<author pid="130/0336">Beidou Wang</author>
+<author pid="17/1430-6">Xin Guo 0006</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="43/6970">Ziyu Guan</author>
+<author pid="228/2598">Bandeep Singh</author>
+<author pid="38/5267">Yu Zhu</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="c/DCai">Deng Cai 0001</author>
+<title>Device-Aware Rule Recommendation for the Internet of Things.</title>
+<pages>2037-2045</pages>
+<year>2018</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3269206.3272009</ee>
+<crossref>conf/cikm/2018</crossref>
+<url>db/conf/cikm/cikm2018.html#WangGEGSZBC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/Chen0ESFC18" mdate="2020-11-12">
+<author pid="03/1390-7">Jiawei Chen 0007</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="232/5615">Qihao Shi</author>
+<author pid="86/4656">Yan Feng</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<title>Social Recommendation with Missing Not at Random Data.</title>
+<pages>29-38</pages>
+<year>2018</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2018.00018</ee>
+<crossref>conf/icdm/2018</crossref>
+<url>db/conf/icdm/icdm2018.html#Chen0ESFC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhangYBZYZE018" mdate="2020-10-25">
+<author orcid="0000-0001-5769-8786" pid="19/5112-23">Zhen Zhang 0023</author>
+<author pid="69/3036">Hongxia Yang</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="34/4858">Sheng Zhou</author>
+<author pid="222/7980">Pinggang Yu</author>
+<author pid="144/1628">Jianwei Zhang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>ANRL: Attributed Network Representation Learning via Deep Neural Networks.</title>
+<pages>3155-3161</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/438</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#ZhangYBZYZE018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ShenYXEBW018" mdate="2018-11-21">
+<author pid="75/6206">Xin Shen</author>
+<author pid="69/3036">Hongxia Yang</author>
+<author pid="223/3196">Weizhao Xian</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="12/7774">Zhongyao Wang</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<title>Mobile Access Record Resolution on Large-Scale Identifier-Linkage Graphs.</title>
+<pages>886-894</pages>
+<year>2018</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3219819.3219916</ee>
+<crossref>conf/kdd/2018</crossref>
+<url>db/conf/kdd/kdd2018.html#ShenYXEBW018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiKLE18" mdate="2020-06-15">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>ROSC: Robust Spectral Clustering on Multi-scale Data.</title>
+<pages>157-166</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3185993</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#LiKLE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Wang0CE18" mdate="2019-12-05">
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="97/6308-1">Wenwu Zhu 0001</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Joint User- and Event- Driven Stable Social Event Organization.</title>
+<pages>1513-1522</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3186063</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#Wang0CE18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sdm/2018" mdate="2018-05-13">
+<editor pid="e/MartinEster">Martin Ester</editor>
+<editor pid="p/DPedreschi">Dino Pedreschi</editor>
+<title>Proceedings of the 2018 SIAM International Conference on Data Mining, SDM 2018, May 3-5, 2018, San Diego Marriott Mission Valley, San Diego, CA, USA.</title>
+<booktitle>SDM</booktitle>
+<publisher>SIAM</publisher>
+<year>2018</year>
+<isbn>978-1-61197-532-1</isbn>
+<ee>https://doi.org/10.1137/1.9781611975321</ee>
+<url>db/conf/sdm/sdm2018.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ester18" mdate="2019-02-14">
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Density-Based Clustering.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_605</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#Ester18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/HuJE18" mdate="2020-11-12">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>User Behavior in Online Social Networks: Influencing Factors.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-7131-2_359</ee>
+<crossref>reference/snam/2018</crossref>
+<url>db/reference/snam/snam2018.html#HuJE18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/HuSE18" mdate="2020-12-01">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="76/4051-2">Zhao Song 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Topic Modeling in Online Social Media, User Features and Social Networks for.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-7131-2_358</ee>
+<crossref>reference/snam/2018</crossref>
+<url>db/reference/snam/snam2018.html#HuSE18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-09741" mdate="2018-08-13">
+<author pid="224/0058">Qingyuan Feng</author>
+<author pid="140/5335">Evgenia V. Dueva</author>
+<author pid="88/2110">Artem Cherkasov</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>PADME: A Deep Learning-based Framework for Drug-Target Interaction Prediction.</title>
+<year>2018</year>
+<volume>abs/1807.09741</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.09741</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-09741</url>
+</article>
+</r>
+<r><article key="journals/jcheminf/HeHBCE17" mdate="2018-11-14">
+<author pid="02/1554">Tong He</author>
+<author pid="200/1807">Marten Heidemeyer</author>
+<author pid="27/3758">Fuqiang Ban</author>
+<author pid="88/2110">Artem Cherkasov</author>
+<author orcid="0000-0001-7732-2815" pid="e/MartinEster">Martin Ester</author>
+<title>SimBoost: a read-across approach for predicting drug-target binding affinities using gradient boosting machines.</title>
+<pages>24:1-24:14</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>J. Cheminformatics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13321-017-0209-z</ee>
+<ee>https://www.wikidata.org/entity/Q43118032</ee>
+<url>db/journals/jcheminf/jcheminf9.html#HeHBCE17</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiuEQHC17" mdate="2020-11-12">
+<author pid="97/2274">Yu Liu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="147/1552">Yuqiu Qian</author>
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Microscopic and Macroscopic Spatio-Temporal Topic Models for Check-in Data.</title>
+<pages>1957-1970</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2703825</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2703825</ee>
+<url>db/journals/tkde/tkde29.html#LiuEQHC17</url>
+</article>
+</r>
+<r><article key="journals/tods/SchubertSEKX17" mdate="2019-10-19">
+<author orcid="0000-0001-9143-4880" pid="61/5820">Erich Schubert</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN.</title>
+<pages>19:1-19:21</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3068335</ee>
+<ee>https://www.wikidata.org/entity/Q57253970</ee>
+<url>db/journals/tods/tods42.html#SchubertSEKX17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bcb/ZhuE17" mdate="2018-11-06">
+<author pid="140/2179">Lu Zhu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Bayesian Collective Markov Random Fields for Subcellular Localization Prediction of Human Proteins.</title>
+<pages>321-329</pages>
+<year>2017</year>
+<booktitle>BCB</booktitle>
+<ee>https://doi.org/10.1145/3107411.3107412</ee>
+<crossref>conf/bcb/2017</crossref>
+<url>db/conf/bcb/bcb2017.html#ZhuE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/WangHLE17" mdate="2019-12-05">
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author orcid="0000-0002-4584-3453" pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="65/6164">Chenghao Liu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Interactive Social Recommendation.</title>
+<pages>357-366</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132880</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#WangHLE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ichi/CarvalhoTMECB17" mdate="2017-10-16">
+<author pid="163/6035">Luiz F. M. Carvalho</author>
+<author pid="119/6795">Carlos H. C. Teixeira</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="07/6511">Osvaldo Carvalho</author>
+<author pid="206/0012">Maria Helena Brandao</author>
+<title>Provider-Consumer Anomaly Detection for Healthcare Systems.</title>
+<pages>229-238</pages>
+<year>2017</year>
+<booktitle>ICHI</booktitle>
+<ee>https://doi.org/10.1109/ICHI.2017.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICHI.2017.75</ee>
+<crossref>conf/ichi/2017</crossref>
+<url>db/conf/ichi/ichi2017.html#CarvalhoTMECB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/WangHEBC17" mdate="2019-07-22">
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<title>Learning Personalized Preference of Strong and Weak Ties for Social Recommendation.</title>
+<pages>1601-1610</pages>
+<year>2017</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3038912.3052556</ee>
+<crossref>conf/www/2017</crossref>
+<url>db/conf/www/www2017.html#WangHEBC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiWEKWZ17" mdate="2020-06-15">
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="93/582">Yao Wu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>Semi-supervised Clustering in Attributed Heterogeneous Information Networks.</title>
+<pages>1621-1629</pages>
+<year>2017</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3038912.3052576</ee>
+<crossref>conf/www/2017</crossref>
+<url>db/conf/www/www2017.html#LiWEKWZ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkdd/LiuWGWXE16" mdate="2020-12-22">
+<author pid="35/837-20">Bin Liu 0020</author>
+<author pid="93/582">Yao Wu</author>
+<author pid="03/9437">Neil Zhenqiang Gong</author>
+<author pid="35/118-2">Junjie Wu 0002</author>
+<author pid="x/HuiXiong">Hui Xiong 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Structural Analysis of User Choices for Mobile App Recommendation.</title>
+<pages>17:1-17:23</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2983533</ee>
+<url>db/journals/tkdd/tkdd11.html#LiuWGWXE16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/FangWZDZE16" mdate="2021-02-10">
+<author pid="154/1941">Hanyin Fang</author>
+<author pid="84/3254-1">Fei Wu 0001</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="31/5936">Xinyu Duan</author>
+<author pid="218/7793">Yueting Zhuang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Community-Based Question Answering via Heterogeneous Social Network Learning.</title>
+<pages>122-128</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11903</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#FangWZDZE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/WangDNGEB16" mdate="2021-02-10">
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="166/1514">Roger Donaldson</author>
+<author pid="31/10466">Christopher Nell</author>
+<author pid="48/2453">Peter Gorniak</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="50/3147">Jiajun Bu</author>
+<title>Recommending Groups to Users Using User-Group Engagement and Time-Dependent Matrix Factorization.</title>
+<pages>1331-1337</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12071</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangDNGEB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/WangLEWC16" mdate="2019-07-23">
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="98/6613">Wei Lu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="71/4716-1">Can Wang 0001</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<title>Social Recommendation with Strong and Weak Ties.</title>
+<pages>5-14</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983701</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#WangLEWC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isi/NabaeiE16" mdate="2017-05-26">
+<author pid="190/3221">Boshra Nabaei</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Activity monitoring using topic models.</title>
+<pages>115-120</pages>
+<year>2016</year>
+<booktitle>ISI</booktitle>
+<ee>https://doi.org/10.1109/ISI.2016.7745453</ee>
+<crossref>conf/isi/2016</crossref>
+<url>db/conf/isi/isi2016.html#NabaeiE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/WangELBZGC16" mdate="2021-01-13">
+<author pid="130/0336">Beidou Wang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="184/0004">Yikang Liao</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="38/5267">Yu Zhu</author>
+<author pid="43/6970">Ziyu Guan</author>
+<author pid="c/DCai">Deng Cai 0001</author>
+<title>The Million Domain Challenge: Broadcast Email Prioritization by Cross-domain Recommendation.</title>
+<pages>1895-1904</pages>
+<year>2016</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2939672.2939863</ee>
+<crossref>conf/kdd/2016</crossref>
+<url>db/conf/kdd/kdd2016.html#WangELBZGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/psb/Khakabimamaghani16" mdate="2020-03-12">
+<author pid="81/10709">Sahand Khakabimamaghani</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Bayesian Biclustering for Patient Stratification.</title>
+<pages>345-356</pages>
+<year>2016</year>
+<booktitle>PSB</booktitle>
+<ee type="oa">http://psb.stanford.edu/psb-online/proceedings/psb16/khakabimamaghani.pdf</ee>
+<crossref>conf/psb/2016</crossref>
+<url>db/conf/psb/psb2016.html#Khakabimamaghani16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/WuLXEY16" mdate="2018-11-06">
+<author pid="93/582">Yao Wu</author>
+<author pid="90/2144">Xudong Liu</author>
+<author pid="36/844">Min Xie</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="47/3749">Qing Yang</author>
+<title>CCCF: Improving Collaborative Filtering via Scalable User-Item Co-Clustering.</title>
+<pages>73-82</pages>
+<year>2016</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2835776.2835836</ee>
+<crossref>conf/wsdm/2016</crossref>
+<url>db/conf/wsdm/wsdm2016.html#WuLXEY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/WuDZE16" mdate="2018-11-06">
+<author pid="93/582">Yao Wu</author>
+<author pid="30/8315">Christopher DuBois</author>
+<author pid="79/3207">Alice X. Zheng</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Collaborative Denoising Auto-Encoders for Top-N Recommender Systems.</title>
+<pages>153-162</pages>
+<year>2016</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2835776.2835837</ee>
+<crossref>conf/wsdm/2016</crossref>
+<url>db/conf/wsdm/wsdm2016.html#WuDZE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/WangEBZGC16" mdate="2021-01-13">
+<author pid="130/0336">Beidou Wang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="38/5267">Yu Zhu</author>
+<author pid="43/6970">Ziyu Guan</author>
+<author pid="c/DCai">Deng Cai 0001</author>
+<title>Which to View: Personalized Prioritization for Broadcast Emails.</title>
+<pages>1181-1190</pages>
+<year>2016</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2872427.2883049</ee>
+<crossref>conf/www/2016</crossref>
+<url>db/conf/www/www2016.html#WangEBZGC16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuWGWXE16" mdate="2020-12-22">
+<author pid="35/837-20">Bin Liu 0020</author>
+<author pid="93/582">Yao Wu</author>
+<author pid="03/9437">Neil Zhenqiang Gong</author>
+<author pid="35/118-2">Junjie Wu 0002</author>
+<author pid="x/HuiXiong">Hui Xiong 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Structural Analysis of User Choices for Mobile App Recommendation.</title>
+<year>2016</year>
+<volume>abs/1605.07980</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.07980</ee>
+<url>db/journals/corr/corr1605.html#LiuWGWXE16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SandulescuE16" mdate="2018-08-13">
+<author pid="162/9036">Vlad Sandulescu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Detecting Singleton Review Spammers Using Semantic Similarity.</title>
+<year>2016</year>
+<volume>abs/1609.02727</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.02727</ee>
+<url>db/journals/corr/corr1609.html#SandulescuE16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/LiuEHC15" mdate="2020-11-12">
+<author pid="97/2274">Yu Liu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Spatio-Temporal Topic Models for Check-in Data.</title>
+<pages>889-894</pages>
+<year>2015</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2015.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2015.45</ee>
+<crossref>conf/icdm/2015</crossref>
+<url>db/conf/icdm/icdm2015.html#LiuEHC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/WuE15" mdate="2018-11-06">
+<author pid="93/582">Yao Wu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>FLAME: A Probabilistic Model Combining Aspect Based Opinion Mining and Collaborative Filtering.</title>
+<pages>199-208</pages>
+<year>2015</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2684822.2685291</ee>
+<crossref>conf/wsdm/2015</crossref>
+<url>db/conf/wsdm/wsdm2015.html#WuE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/SandulescuE15" mdate="2018-11-06">
+<author pid="162/9036">Vlad Sandulescu</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Detecting Singleton Review Spammers Using Semantic Similarity.</title>
+<pages>971-976</pages>
+<year>2015</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2740908.2742570</ee>
+<crossref>conf/www/2015c</crossref>
+<url>db/conf/www/www2015c.html#SandulescuE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/WangEBC14" mdate="2021-02-18">
+<author pid="130/0336">Beidou Wang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="50/3147">Jiajun Bu</author>
+<author pid="c/DCai">Deng Cai 0001</author>
+<title>Who Also Likes It? Generating the Most Persuasive Social Explanations in Recommender Systems.</title>
+<pages>173-179</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8155</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#WangEBC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/TayebiEGB14" mdate="2017-05-23">
+<author pid="83/6142">Mohammad A. Tayebi</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="g/UweGlasser">Uwe Gl&#228;sser</author>
+<author pid="44/2800">Patricia L. Brantingham</author>
+<title>CRIMETRACER: Activity space based crime location prediction.</title>
+<pages>472-480</pages>
+<year>2014</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1109/ASONAM.2014.6921628</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASONAM.2014.6921628</ee>
+<crossref>conf/asunam/2014</crossref>
+<url>db/conf/asunam/asonam2014.html#TayebiEGB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WangE14" mdate="2020-01-28">
+<author pid="181/2812">Hao Wang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>A Sentiment-aligned Topic Model for Product Aspect Rating Prediction.</title>
+<pages>1192-1202</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1126</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1126/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#WangE14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/HuE14" mdate="2020-11-12">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Social Topic Modeling for Point-of-Interest Recommendation in Location-Based Social Networks.</title>
+<pages>845-850</pages>
+<year>2014</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2014.124</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2014.124</ee>
+<crossref>conf/icdm/2014</crossref>
+<url>db/conf/icdm/icdm2014.html#HuE14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/TayebiEGB14" mdate="2018-11-06">
+<author pid="83/6142">Mohammad A. Tayebi</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="g/UweGlasser">Uwe Gl&#228;sser</author>
+<author pid="44/2800">Patricia L. Brantingham</author>
+<title>Spatially embedded co-offence prediction using supervised learning.</title>
+<pages>1789-1798</pages>
+<year>2014</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2623330.2623353</ee>
+<crossref>conf/kdd/2014</crossref>
+<url>db/conf/kdd/kdd2014.html#TayebiEGB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BodenES14" mdate="2020-10-25">
+<author pid="57/7963">Brigitte Boden</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author orcid="0000-0002-4861-1412" pid="s/ThomasSeidl1">Thomas Seidl 0001</author>
+<title>Density-Based Subspace Clustering in Heterogeneous Networks.</title>
+<pages>149-164</pages>
+<year>2014</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44848-9_10</ee>
+<crossref>conf/pkdd/2014-1</crossref>
+<url>db/conf/pkdd/pkdd2014-1.html#BodenES14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/asunam/2014" mdate="2019-10-16">
+<editor pid="59/4107">Xindong Wu 0001</editor>
+<editor pid="e/MartinEster">Martin Ester</editor>
+<editor pid="59/2340">Guandong Xu</editor>
+<title>2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2014, Beijing, China, August 17-20, 2014</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2014</year>
+<isbn>978-1-4799-5877-1</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6911097/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/asonam/2014/5877/00/index.html</ee>
+<booktitle>ASONAM</booktitle>
+<url>db/conf/asunam/asonam2014.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/recsys/2014" mdate="2014-10-02">
+<editor pid="k/AlfredKobsa">Alfred Kobsa</editor>
+<editor pid="90/5406">Michelle X. Zhou</editor>
+<editor pid="e/MartinEster">Martin Ester</editor>
+<editor pid="k/YehudaKoren">Yehuda Koren</editor>
+<title>Eighth ACM Conference on Recommender Systems, RecSys '14, Foster City, Silicon Valley, CA, USA - October 06 - 10, 2014</title>
+<publisher>ACM</publisher>
+<booktitle>RecSys</booktitle>
+<year>2014</year>
+<isbn>978-1-4503-2668-1</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2645710</ee>
+<url>db/conf/recsys/recsys2014.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/HuSE14" mdate="2020-12-01">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="76/4051-2">Zhao Song 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Topic Modeling in Online Social Media, User Features, and Social Networks for.</title>
+<pages>2178-2191</pages>
+<year>2014</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-6170-8_358</ee>
+<url>db/reference/snam/snam2014.html#HuSE14</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/HuJE14" mdate="2020-11-12">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>User Behavior in Online Social Networks, Influencing Factors.</title>
+<pages>2289-2302</pages>
+<year>2014</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-6170-8_359</ee>
+<url>db/reference/snam/snam2014.html#HuJE14</url>
+</incollection>
+</r>
+<r><article key="journals/tkde/GaoEXCS13" mdate="2020-04-03">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="x/HuiXiong">Hui Xiong 0001</author>
+<author pid="c/JinyiCai">Jin-Yi Cai</author>
+<author pid="s/OliverSchulte">Oliver Schulte</author>
+<title>The Minimum Consistent Subset Cover Problem: A Minimization View of Data Mining.</title>
+<pages>690-703</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2011.260</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.260</ee>
+<url>db/journals/tkde/tkde25.html#GaoEXCS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/HuJE13" mdate="2020-11-12">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Spatio-Temporal Topic Modeling in Mobile Social Media for Location Recommendation.</title>
+<pages>1073-1078</pages>
+<year>2013</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2013.139</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2013.139</ee>
+<crossref>conf/icdm/2013</crossref>
+<url>db/conf/icdm/icdm2013.html#HuJE13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/NguyenHGE13" mdate="2020-11-12">
+<author pid="135/0214">Jennifer H. Nguyen</author>
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="43/3011">Stephan G&#252;nnemann</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Finding contexts of social influence in online social networks.</title>
+<pages>1:1-1:9</pages>
+<year>2013</year>
+<booktitle>SNAKDD</booktitle>
+<ee>https://doi.org/10.1145/2501025.2501028</ee>
+<crossref>conf/kdd/2013sna</crossref>
+<url>db/conf/kdd/snakdd2013.html#NguyenHGE13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/HuE13" mdate="2020-11-12">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Spatial topic modeling in online social media for location recommendation.</title>
+<pages>25-32</pages>
+<year>2013</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2507157.2507174</ee>
+<crossref>conf/recsys/2013</crossref>
+<url>db/conf/recsys/recsys2013.html#HuE13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BlomoEF13" mdate="2018-11-06">
+<author pid="135/6736">Jim Blomo</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="135/6611">Marty Field</author>
+<title>RecSys challenge 2013.</title>
+<pages>489-490</pages>
+<year>2013</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2507157.2508008</ee>
+<crossref>conf/recsys/2013</crossref>
+<url>db/conf/recsys/recsys2013.html#BlomoEF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/Ester13" mdate="2018-11-06">
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Recommendation in social networks.</title>
+<pages>491-492</pages>
+<year>2013</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2507157.2508062</ee>
+<crossref>conf/recsys/2013</crossref>
+<url>db/conf/recsys/recsys2013.html#Ester13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MoghaddamE13" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>The FLDA model for aspect-based opinion mining: addressing the cold start problem.</title>
+<pages>909-918</pages>
+<year>2013</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2488388.2488467</ee>
+<crossref>conf/www/2013</crossref>
+<url>db/conf/www/www2013.html#MoghaddamE13</url>
+</inproceedings>
+</r>
+<r><incollection key="books/crc/aggarwal13/Ester13" mdate="2019-08-04">
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Density-Based Clustering.</title>
+<pages>111-126</pages>
+<year>2013</year>
+<crossref>books/crc/aggarwal2013</crossref>
+<booktitle>Data Clustering: Algorithms and Applications</booktitle>
+<url>db/books/collections/aggarwal2013.html#Ester13</url>
+</incollection>
+</r>
+<r><article key="journals/tkde/GaoGEXZJ12" mdate="2020-04-03">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author orcid="0000-0002-0843-4271" pid="81/832">Obi L. Griffith</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="x/HuiXiong">Hui Xiong 0001</author>
+<author pid="00/2166">Qiang Zhao</author>
+<author orcid="0000-0003-3394-2208" pid="02/2455">Steven J. M. Jones</author>
+<title>On the Deep Order-Preserving Submatrix Problem: A Best Effort Approach.</title>
+<pages>309-325</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2010.244</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.244</ee>
+<ee>https://www.wikidata.org/entity/Q58429700</ee>
+<url>db/journals/tkde/tkde24.html#GaoGEXZJ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/HuSE12" mdate="2020-12-01">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="76/4051-2">Zhao Song 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>User Features and Social Networks for Topic Modeling in Online Social Media.</title>
+<pages>202-209</pages>
+<year>2012</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1109/ASONAM.2012.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASONAM.2012.43</ee>
+<crossref>conf/asunam/2012</crossref>
+<url>db/conf/asunam/asonam2012.html#HuSE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/HuJE12" mdate="2020-11-12">
+<author pid="04/2380-12">Bo Hu 0012</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Learning the Strength of the Factors Influencing User Behavior in Online Social Networks.</title>
+<pages>368-375</pages>
+<year>2012</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1109/ASONAM.2012.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASONAM.2012.67</ee>
+<crossref>conf/asunam/2012</crossref>
+<url>db/conf/asunam/asonam2012.html#HuJE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/MoghaddamE12" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>On the design of LDA models for aspect-based opinion mining.</title>
+<pages>803-812</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2396863</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#MoghaddamE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/GunnemannDJE12" mdate="2017-05-26">
+<author pid="43/3011">Stephan G&#252;nnemann</author>
+<author pid="18/325">Phuong Dao</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Assessing the Significance of Data Mining Results on Graphs with Feature Vectors.</title>
+<pages>270-279</pages>
+<year>2012</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2012.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2012.70</ee>
+<crossref>conf/icdm/2012</crossref>
+<url>db/conf/icdm/icdm2012.html#GunnemannDJE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MoghaddamE12" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Aspect-based opinion mining from product reviews.</title>
+<pages>1184</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348533</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#MoghaddamE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/MoghaddamJE12" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>ETF: extended tensor factorization model for personalizing prediction of review helpfulness.</title>
+<pages>163-172</pages>
+<year>2012</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2124295.2124316</ee>
+<crossref>conf/wsdm/2012</crossref>
+<url>db/conf/wsdm/wsdm2012.html#MoghaddamJE12</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/DaoWCELS11" mdate="2020-09-08">
+<author pid="18/325">Phuong Dao</author>
+<author pid="37/9780">Kendric Wang</author>
+<author pid="242/5290">Colin C. Collins</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="88/9660">Anna Lapuk</author>
+<author pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</author>
+<title>Optimally discriminative subnetwork markers predict response to chemotherapy.</title>
+<pages>205-213</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Bioinform.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1093/bioinformatics/btr245</ee>
+<ee>https://www.wikidata.org/entity/Q42762256</ee>
+<url>db/journals/bioinformatics/bioinformatics27.html#DaoWCELS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MoghaddamJE11" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Review recommendation: personalized prediction of the quality of online reviews.</title>
+<pages>2249-2252</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063938</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#MoghaddamJE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/MoghaddamE11" mdate="2017-05-26">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>AQA: Aspect-based Opinion Question Answering.</title>
+<pages>89-96</pages>
+<year>2011</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2011.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2011.34</ee>
+<crossref>conf/icdm/2011w</crossref>
+<url>db/conf/icdm/icdmw2011.html#MoghaddamE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/JamaliE11" mdate="2017-05-23">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>A Transitivity Aware Matrix Factorization Model for Recommendation in Social Networks.</title>
+<pages>2644-2649</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-440</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#JamaliE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/JamaliHE11" mdate="2018-11-06">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="34/10321">Tianle Huang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>A generalized stochastic block model for recommendation in social rating networks.</title>
+<pages>53-60</pages>
+<year>2011</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2043932.2043946</ee>
+<crossref>conf/recsys/2011</crossref>
+<url>db/conf/recsys/recsys2011.html#JamaliHE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/TayebiJEGF11" mdate="2018-11-06">
+<author pid="83/6142">Mohammad A. Tayebi</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="g/UweGlasser">Uwe Gl&#228;sser</author>
+<author pid="71/6909">Richard Frank</author>
+<title>CrimeWalker: a recommendation model for suspect investigation.</title>
+<pages>173-180</pages>
+<year>2011</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2043932.2043965</ee>
+<crossref>conf/recsys/2011</crossref>
+<url>db/conf/recsys/recsys2011.html#TayebiJEGF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MoghaddamE11" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>ILDA: interdependent LDA model for learning latent aspects and their ratings from online product reviews.</title>
+<pages>665-674</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2009916.2010006</ee>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#MoghaddamE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/JamaliHE11" mdate="2018-11-06">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="57/5129">Gholamreza Haffari</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Modeling the temporal dynamics of social rating networks using bidirectional effects of social relations and rating patterns.</title>
+<pages>527-536</pages>
+<year>2011</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1963405.1963480</ee>
+<crossref>conf/www/2011</crossref>
+<url>db/conf/www/www2011.html#JamaliHE11</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lnsn/BrantinghamEFGT11" mdate="2017-05-16">
+<author pid="44/2800">Patricia L. Brantingham</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="71/6909">Richard Frank</author>
+<author pid="g/UweGlasser">Uwe Gl&#228;sser</author>
+<author pid="83/6142">Mohammad A. Tayebi</author>
+<title>Co-offending Network Mining.</title>
+<pages>73-102</pages>
+<year>2011</year>
+<booktitle>Counterterrorism and Open Source Intelligence</booktitle>
+<ee>https://doi.org/10.1007/978-3-7091-0388-3_6</ee>
+<crossref>series/lnsn/2011-2</crossref>
+<url>db/series/lnsn/lnsn2.html#BrantinghamEFGT11</url>
+</incollection>
+</r>
+<r><article key="journals/bioinformatics/YuWLMRLDSEFB10" mdate="2020-03-02">
+<author orcid="0000-0001-8321-8141" pid="20/8323">Nancy Y. Yu</author>
+<author pid="06/8323">James R. Wagner</author>
+<author orcid="0000-0003-0967-3175" pid="07/6792">Matthew R. Laird</author>
+<author pid="38/4649">Gabor Melli</author>
+<author pid="67/6397">S&#233;bastien Rey</author>
+<author pid="79/3811">Raymond Lo</author>
+<author pid="18/325">Phuong Dao</author>
+<author pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="16/1482">Leonard J. Foster</author>
+<author orcid="0000-0002-0584-4099" pid="44/663">Fiona S. L. Brinkman</author>
+<title>PSORTb 3.0: improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities for all prokaryotes.</title>
+<pages>1608-1615</pages>
+<year>2010</year>
+<volume>26</volume>
+<journal>Bioinform.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1093/bioinformatics/btq249</ee>
+<ee>https://www.wikidata.org/entity/Q41126055</ee>
+<url>db/journals/bioinformatics/bioinformatics26.html#YuWLMRLDSEFB10</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/DaoCSMDSE10" mdate="2020-03-02">
+<author pid="18/325">Phuong Dao</author>
+<author pid="99/314">Recep Colak</author>
+<author pid="72/2325">Raheleh Salari</author>
+<author pid="20/6965">Flavia Moser</author>
+<author orcid="0000-0001-9136-099X" pid="18/8713">Elai Davicioni</author>
+<author pid="31/3700">Alexander Sch&#246;nhuth</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Inferring cancer subnetwork markers using density-constrained biclustering.</title>
+<year>2010</year>
+<volume>26</volume>
+<journal>Bioinform.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1093/bioinformatics/btq393</ee>
+<ee>https://www.wikidata.org/entity/Q34110415</ee>
+<url>db/journals/bioinformatics/bioinformatics26.html#DaoCSMDSE10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MelliE10" mdate="2018-11-06">
+<author pid="38/4649">Gabor Melli</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Supervised identification and linking of concept mentions to a domain-specific ontology.</title>
+<pages>1717-1720</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871712</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#MelliE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/MoghaddamE10" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Opinion digger: an unsupervised opinion miner from unstructured product reviews.</title>
+<pages>1825-1828</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871739</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#MoghaddamE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/WangEQZ10" mdate="2017-05-26">
+<author pid="92/6206">Xiaoling Wang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="55/3364">Weining Qian</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>FVC: A Feature-Vector-Based Classification for XML Dissemination.</title>
+<pages>398-409</pages>
+<year>2010</year>
+<booktitle>DASFAA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14589-6_41</ee>
+<crossref>conf/dasfaa/2010w</crossref>
+<url>db/conf/dasfaa/dasfaa2010w.html#WangEQZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/JinMPEH10" mdate="2017-05-17">
+<author pid="09/1433">Wen Jin</author>
+<author pid="03/2997">Michael D. Morse</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="h/ZengjianHu">Zengjian Hu</author>
+<title>Evaluating skylines in the presence of equijoins.</title>
+<pages>249-260</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447841</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447841</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#JinMPEH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/JamaliE10" mdate="2017-05-26">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Modeling and Comparing the Influence of Neighbors on the Behavior of Users in Social and Similarity Networks.</title>
+<pages>336-343</pages>
+<year>2010</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2010.97</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2010.97</ee>
+<crossref>conf/icdm/2010w</crossref>
+<url>db/conf/icdm/icdmw2010.html#JamaliE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miip/SadeghiRELA10" mdate="2017-05-24">
+<author pid="37/2491">Maryam Sadeghi</author>
+<author pid="77/5474">Majid Razmara</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="85/6188">Tim K. Lee</author>
+<author pid="a/MStellaAtkins">M. Stella Atkins</author>
+<title>Graph-based pigment network detection in skin images.</title>
+<pages>762312</pages>
+<year>2010</year>
+<booktitle>Medical Imaging: Image Processing</booktitle>
+<ee>https://doi.org/10.1117/12.844602</ee>
+<crossref>conf/miip/2010</crossref>
+<url>db/conf/miip/miip2010.html#SadeghiRELA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/JamaliE10" mdate="2018-11-06">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>A matrix factorization technique with trust propagation for recommendation in social networks.</title>
+<pages>135-142</pages>
+<year>2010</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1864708.1864736</ee>
+<crossref>conf/recsys/2010</crossref>
+<url>db/conf/recsys/recsys2010.html#JamaliE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/WangXSEZ10" mdate="2017-05-21">
+<author pid="92/6206">Xiaoling Wang</author>
+<author pid="02/6332">Zhen Xu</author>
+<author pid="03/330">Chaofeng Sha</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Semi-supervised Learning from Only Positive and Unlabeled Data Using Entropy.</title>
+<pages>668-679</pages>
+<year>2010</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14246-8_64</ee>
+<crossref>conf/waim/2010</crossref>
+<url>db/conf/waim/waim2010.html#WangXSEZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/WangEQZ10" mdate="2017-05-25">
+<author pid="92/6206">Xiaoling Wang</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="55/3364">Weining Qian</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>A Data Mining Approach to XML Dissemination.</title>
+<pages>442-455</pages>
+<year>2010</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17616-6_40</ee>
+<crossref>conf/wise/2010</crossref>
+<url>db/conf/wise/wise2010.html#WangEQZ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/MalhisBEJ09" mdate="2020-03-02">
+<author orcid="0000-0002-1317-833X" pid="37/6516">Nawar Malhis</author>
+<author pid="84/7065">Yaron S. N. Butterfield</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author orcid="0000-0003-3394-2208" pid="02/2455">Steven J. M. Jones</author>
+<title>Slider - maximum use of probability information for alignment of short sequence reads and SNP detection.</title>
+<pages>6-13</pages>
+<year>2009</year>
+<volume>25</volume>
+<journal>Bioinform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1093/bioinformatics/btn565</ee>
+<ee>https://www.wikidata.org/entity/Q43184467</ee>
+<url>db/journals/bioinformatics/bioinformatics25.html#MalhisBEJ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cse/FardE09" mdate="2017-05-24">
+<author pid="f/AminMilaniFard">Amin Milani Fard</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Collaborative Mining in Multiple Social Networks Data for Criminal Group Discovery.</title>
+<pages>582-587</pages>
+<year>2009</year>
+<booktitle>CSE (4)</booktitle>
+<ee>https://doi.org/10.1109/CSE.2009.435</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2009.435</ee>
+<crossref>conf/cse/2009</crossref>
+<url>db/conf/cse/cse2009-4.html#FardE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/FrankEK09" mdate="2020-06-15">
+<author pid="71/6909">Richard Frank</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author orcid="0000-0002-0335-5099" pid="65/3461">Arno J. Knobbe</author>
+<title>A multi-relational approach to spatial classification.</title>
+<pages>309-318</pages>
+<year>2009</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1557019.1557058</ee>
+<crossref>conf/kdd/2009</crossref>
+<url>db/conf/kdd/kdd2009.html#FrankEK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/JamaliE09" mdate="2018-11-06">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title><i>TrustWalker</i>: a random walk model for combining trust-based and item-based recommendation.</title>
+<pages>397-406</pages>
+<year>2009</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1557019.1557067</ee>
+<crossref>conf/kdd/2009</crossref>
+<url>db/conf/kdd/kdd2009.html#JamaliE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/psb/ColakHMSHES09" mdate="2020-03-12">
+<author pid="99/314">Recep Colak</author>
+<author pid="91/1989">Fereydoun Hormozdiari</author>
+<author pid="20/6965">Flavia Moser</author>
+<author pid="31/3700">Alexander Sch&#246;nhuth</author>
+<author pid="68/8764">J. Holman</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</author>
+<title>Dense Graphlet Statistics of Protein Interaction and Random Networks.</title>
+<pages>178-189</pages>
+<year>2009</year>
+<booktitle>Pacific Symposium on Biocomputing</booktitle>
+<ee type="oa">http://psb.stanford.edu/psb-online/proceedings/psb09/colak.pdf</ee>
+<crossref>conf/psb/2009</crossref>
+<url>db/conf/psb/psb2009.html#ColakHMSHES09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/JamaliE09" mdate="2018-11-06">
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Using a trust network to improve top-N recommendation.</title>
+<pages>181-188</pages>
+<year>2009</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1639714.1639745</ee>
+<crossref>conf/recsys/2009</crossref>
+<url>db/conf/recsys/recsys2009.html#JamaliE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/MoghaddamJEH09" mdate="2018-11-06">
+<author pid="73/7455">Samaneh Moghaddam</author>
+<author pid="86/6506">Mohsen Jamali</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="60/2830">Jafar Habibi</author>
+<title>FeedbackTrust: using feedback effects in trust-based recommendation systems.</title>
+<pages>269-272</pages>
+<year>2009</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/1639714.1639765</ee>
+<crossref>conf/recsys/2009</crossref>
+<url>db/conf/recsys/recsys2009.html#MoghaddamJEH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/MoserCRE09" mdate="2017-05-17">
+<author pid="20/6965">Flavia Moser</author>
+<author pid="99/314">Recep Colak</author>
+<author pid="53/2428">Arash Rafiey</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Mining Cohesive Patterns from Graphs with Feature Vectors.</title>
+<pages>593-604</pages>
+<year>2009</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972795.51</ee>
+<crossref>conf/sdm/2009</crossref>
+<url>db/conf/sdm/sdm2009.html#MoserCRE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wabi/DaoSHHSE09" mdate="2017-05-25">
+<author pid="18/325">Phuong Dao</author>
+<author pid="31/3700">Alexander Sch&#246;nhuth</author>
+<author pid="91/1989">Fereydoun Hormozdiari</author>
+<author pid="63/3502">Iman Hajirasouliha</author>
+<author pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Quantifying Systemic Evolutionary Changes by Color Coding Confidence-Scored PPI Networks.</title>
+<pages>37-48</pages>
+<year>2009</year>
+<booktitle>WABI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04241-6_4</ee>
+<crossref>conf/wabi/2009</crossref>
+<url>db/conf/wabi/wabi2009.html#DaoSHHSE09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/dataware/FungWE09" mdate="2017-08-23">
+<author pid="f/BCMFung">Benjamin C. M. Fung</author>
+<author pid="w/KeWang">Ke Wang 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Hierarchical Document Clustering.</title>
+<pages>970-975</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Data Warehousing and Mining</booktitle>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=10938</ee>
+<crossref>reference/dataware/2009</crossref>
+<url>db/reference/dataware/dataware2009.html#FungWE09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ester09" mdate="2017-07-12">
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Density-based Clustering.</title>
+<pages>795-799</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_605</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#Ester09</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-1931" mdate="2018-08-13">
+<author pid="81/832">Obi L. Griffith</author>
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="68/4112">Mikhail Bilenky</author>
+<author pid="26/6607">Yuliya Prichyna</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="02/2455">Steven J. M. Jones</author>
+<title>KiWi: A Scalable Subspace Clustering Algorithm for Gene Expression Analysis</title>
+<ee type="oa">http://arxiv.org/abs/0904.1931</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.1931</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-1931</url>
+</article>
+</r>
+<r><article key="journals/kais/MoiseSE08" mdate="2019-10-19">
+<author pid="71/1604">Gabriela Moise</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Robust projected clustering.</title>
+<pages>273-298</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-007-0090-6</ee>
+<url>db/journals/kais/kais14.html#MoiseSE08</url>
+</article>
+</r>
+<r><article key="journals/tkdd/GeEGHBB08" mdate="2020-04-16">
+<author pid="89/6869-2">Rong Ge 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="h/ZengjianHu">Zengjian Hu</author>
+<author pid="b/BinayKBhattacharya">Binay K. Bhattacharya</author>
+<author pid="12/959">Boaz Ben-Moshe</author>
+<title>Joint cluster analysis of attribute data and relationship data: The connected <i>k</i>-center problem, algorithms and applications.</title>
+<year>2008</year>
+<volume>2</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1376815.1376816</ee>
+<url>db/journals/tkdd/tkdd2.html#GeEGHBB08</url>
+<pages>7:1-7:35</pages>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0811-4458" mdate="2018-08-13">
+<author pid="s/OliverSchulte">Oliver Schulte</author>
+<author pid="09/6627">Hassan Khosravi</author>
+<author pid="20/6965">Flavia Moser</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Join Bayes Nets: A new type of Bayes net for relational data</title>
+<ee type="oa">http://arxiv.org/abs/0811.4458</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0811.4458</volume>
+<url>db/journals/corr/corr0811.html#abs-0811-4458</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/JinEHH07" mdate="2017-06-05">
+<author pid="09/1433">Wen Jin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="h/ZengjianHu">Zengjian Hu</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>The Multi-Relational Skyline Operator.</title>
+<pages>1276-1280</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.368992</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.368992</ee>
+<url>db/conf/icde/icde2007.html#JinEHH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/DavidsonRE07" mdate="2018-11-06">
+<author pid="81/2360">Ian Davidson</author>
+<author pid="94/2464">S. S. Ravi</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Efficient incremental constrained clustering.</title>
+<pages>240-249</pages>
+<year>2007</year>
+<crossref>conf/kdd/2007</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1281192.1281221</ee>
+<url>db/conf/kdd/kdd2007.html#DavidsonRE07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/GaoESCX07" mdate="2020-04-03">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="c/JinyiCai">Jin-yi Cai</author>
+<author pid="s/OliverSchulte">Oliver Schulte</author>
+<author pid="x/HuiXiong">Hui Xiong 0001</author>
+<title>The minimum consistent subset cover problem and its applications in data mining.</title>
+<pages>310-319</pages>
+<year>2007</year>
+<crossref>conf/kdd/2007</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1281192.1281228</ee>
+<url>db/conf/kdd/kdd2007.html#GaoESCX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/GeEJD07" mdate="2018-11-06">
+<author pid="89/6869-2">Rong Ge 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="81/2360">Ian Davidson</author>
+<title>Constraint-driven clustering.</title>
+<pages>320-329</pages>
+<year>2007</year>
+<crossref>conf/kdd/2007</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1281192.1281229</ee>
+<url>db/conf/kdd/kdd2007.html#GeEJD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/MoserGE07" mdate="2018-11-06">
+<author pid="20/6965">Flavia Moser</author>
+<author pid="89/6869-2">Rong Ge 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Joint cluster analysis of attribute and relationship data withouta-priori specification of the number of clusters.</title>
+<pages>510-519</pages>
+<year>2007</year>
+<crossref>conf/kdd/2007</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1281192.1281248</ee>
+<url>db/conf/kdd/kdd2007.html#MoserGE07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lbm/MelliES07" mdate="2019-05-28">
+<author pid="38/4649">Gabor Melli</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="s/AnoopSarkar">Anoop Sarkar</author>
+<title>Recognition of Multi-sentence n-ary Subcellular Localization Mentions in Biomedical Abstracts.</title>
+<year>2007</year>
+<booktitle>LBM (Short Papers)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-319/Paper2.pdf</ee>
+<crossref>conf/lbm/2007s</crossref>
+<url>db/conf/lbm/lbms2007.html#MelliES07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/FrankME07" mdate="2018-06-26">
+<author pid="71/6909">Richard Frank</author>
+<author pid="20/6965">Flavia Moser</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>A Method for Multi-relational Classification Using Single and Multi-feature Aggregation Functions.</title>
+<pages>430-437</pages>
+<year>2007</year>
+<crossref>conf/pkdd/2007</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74976-9_43</ee>
+<url>db/conf/pkdd/pkdd2007.html#FrankME07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/FrankJE07" mdate="2017-05-24">
+<author pid="71/6909">Richard Frank</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Efficiently Mining Regional Outliers in Spatial Data.</title>
+<pages>112-129</pages>
+<year>2007</year>
+<crossref>conf/ssd/2007</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73540-3_7</ee>
+<url>db/conf/ssd/sstd2007.html#FrankJE07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/JinTEH07" mdate="2017-06-05">
+<author pid="09/1433">Wen Jin</author>
+<author pid="t/AnthonyKHTung">Anthony K. H. Tung</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>On Efficient Processing of Subspace Skyline Queries on High Dimensional Data.</title>
+<pages>12</pages>
+<year>2007</year>
+<crossref>conf/ssdbm/2007</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDBM.2007.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDBM.2007.20</ee>
+<url>db/conf/ssdbm/ssdbm2007.html#JinTEH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LiTJE07" mdate="2020-03-12">
+<author pid="03/6827">Cuiping Li</author>
+<author pid="t/AnthonyKHTung">Anthony K. H. Tung</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>On Dominating Your Neighborhood Profitably.</title>
+<pages>818-829</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p818-li.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#LiTJE07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0710-2083" mdate="2018-08-13">
+<author pid="s/OliverSchulte">Oliver Schulte</author>
+<author pid="20/6965">Flavia Moser</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="66/6604">Zhiyong Lu</author>
+<title>Association Rules in the Relational Calculus</title>
+<ee type="oa">http://arxiv.org/abs/0710.2083</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0710.2083</volume>
+<url>db/journals/corr/corr0710.html#abs-0710-2083</url>
+</article>
+</r>
+<r><article key="journals/tods/PeiYLJELWTYZ06" mdate="2020-03-16">
+<author pid="p/JianPei">Jian Pei</author>
+<author pid="48/5137">Yidong Yuan</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="53/4481-1">Qing Liu 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<title>Towards multidimensional subspace skyline analysis.</title>
+<pages>1335-1381</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1189769.1189774</ee>
+<url>db/journals/tods/tods31.html#PeiYLJELWTYZ06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecml/GaoE06" mdate="2018-06-26">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Right of Inference: Nearest Rectangle Learning Revisited.</title>
+<pages>638-645</pages>
+<year>2006</year>
+<crossref>conf/ecml/2006</crossref>
+<booktitle>ECML</booktitle>
+<ee type="oa">https://doi.org/10.1007/11871842_62</ee>
+<url>db/conf/ecml/ecml2006.html#GaoE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/GaoE06" mdate="2017-05-26">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Turning Clusters into Patterns: Rectangle-Based Discriminative Data Description.</title>
+<pages>200-211</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2006.163</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2006.163</ee>
+<url>db/conf/icdm/icdm2006.html#GaoE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/MoiseSE06" mdate="2019-10-19">
+<author pid="71/1604">Gabriela Moise</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>P3C: A Robust Projected Clustering Algorithm.</title>
+<pages>414-425</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2006.123</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2006.123</ee>
+<url>db/conf/icdm/icdm2006.html#MoiseSE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/GaoGEJ06" mdate="2018-11-06">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="81/832">Obi L. Griffith</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="02/2455">Steven J. M. Jones</author>
+<title>Discovering significant OPSM subspace clusters in massive gene expression data.</title>
+<pages>922-928</pages>
+<year>2006</year>
+<crossref>conf/kdd/2006</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1150402.1150529</ee>
+<url>db/conf/kdd/kdd2006.html#GaoGEJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/EsterGGHB06" mdate="2017-05-17">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="89/6869-2">Rong Ge 0002</author>
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="h/ZengjianHu">Zengjian Hu</author>
+<author pid="12/959">Boaz Ben-Moshe</author>
+<title>Joint Cluster Analysis of Attribute Data and Relationship Data: the Connected k-Center Problem.</title>
+<year>2006</year>
+<crossref>conf/sdm/2006</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972764.22</ee>
+<url>db/conf/sdm/sdm2006.html#EsterGGHB06</url>
+<pages>246-257</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/CaoEQZ06" mdate="2017-05-17">
+<author pid="01/1867">Feng Cao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="55/3364">Weining Qian</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Density-Based Clustering over an Evolving Data Stream with Noise.</title>
+<year>2006</year>
+<crossref>conf/sdm/2006</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972764.29</ee>
+<url>db/conf/sdm/sdm2006.html#CaoEQZ06</url>
+<pages>328-339</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/GaoE06" mdate="2017-05-17">
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Cluster Description Formats, Problems and Algorithms.</title>
+<year>2006</year>
+<crossref>conf/sdm/2006</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972764.41</ee>
+<url>db/conf/sdm/sdm2006.html#GaoE06</url>
+<pages>464-468</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/GeEJH06" mdate="2017-05-21">
+<author pid="89/6869-2">Rong Ge 0002</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="h/ZengjianHu">Zengjian Hu</author>
+<title>A Disc-based Approach to Data Summarization and Privacy Preservation.</title>
+<pages>321-332</pages>
+<year>2006</year>
+<crossref>conf/ssdbm/2006</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDBM.2006.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDBM.2006.6</ee>
+<url>db/conf/ssdbm/ssdbm2006.html#GeEJH06</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/GardyLCRWEB05" mdate="2020-03-02">
+<author pid="95/2437">Jennifer L. Gardy</author>
+<author orcid="0000-0003-0967-3175" pid="07/6792">Matthew R. Laird</author>
+<author pid="c/FeiChen2">Fei Chen 0002</author>
+<author pid="67/6397">S&#233;bastien Rey</author>
+<author pid="02/366">C. J. Walsh</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author orcid="0000-0002-0584-4099" pid="44/663">Fiona S. L. Brinkman</author>
+<title>PSORTb v.2.0: Expanded prediction of bacterial protein subcellular localization and insights gained from comparative proteome analysis.</title>
+<pages>617-623</pages>
+<year>2005</year>
+<volume>21</volume>
+<journal>Bioinform.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1093/bioinformatics/bti057</ee>
+<ee>https://www.wikidata.org/entity/Q28289386</ee>
+<url>db/journals/bioinformatics/bioinformatics21.html#GardyLCRWEB05</url>
+</article>
+</r>
+<r><inproceedings key="conf/pkdd/JinEH05" mdate="2018-06-26">
+<author pid="09/1433">Wen Jin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Efficient Processing of Ranked Queries with Sweeping Selection.</title>
+<pages>527-535</pages>
+<year>2005</year>
+<crossref>conf/pkdd/2005</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/11564126_54</ee>
+<url>db/conf/pkdd/pkdd2005.html#JinEH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PeiJET05" mdate="2020-03-12">
+<author pid="p/JianPei">Jian Pei</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="t/YufeiTao">Yufei Tao</author>
+<title>Catching the Best Views of Skyline: A Semantic Approach Based on Decisive Subspaces.</title>
+<pages>253-264</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p253-pei.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083624</ee>
+<url>db/conf/vldb/vldb2005.html#PeiJET05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/EsterGJH04" mdate="2018-11-06">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="89/6869-2">Rong Ge 0002</author>
+<author pid="09/1433">Wen Jin</author>
+<author pid="h/ZengjianHu">Zengjian Hu</author>
+<title>A microeconomic data mining problem: customer-oriented catalog segmentation.</title>
+<pages>557-562</pages>
+<year>2004</year>
+<crossref>conf/kdd/2004</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1014052.1014119</ee>
+<url>db/conf/kdd/kdd2004.html#EsterGJH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/JinHE04" mdate="2017-06-05">
+<author pid="09/1433">Wen Jin</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Mining Thick Skylines over Large Databases.</title>
+<pages>255-266</pages>
+<ee>https://doi.org/10.1007/978-3-540-30116-5_25</ee>
+<year>2004</year>
+<crossref>conf/pkdd/2004</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd2004.html#JinHE04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/EsterZ04" mdate="2017-05-17">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="91/4353">Xiang Zhang</author>
+<title>A Top-Down Method for Mining Most-Specific Frequent Patterns in Biological Sequences.</title>
+<year>2004</year>
+<crossref>conf/sdm/2004</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972740.9</ee>
+<url>db/conf/sdm/sdm2004.html#EsterZ04</url>
+<pages>90-101</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/EsterKS04" mdate="2019-06-07">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="77/4813">Matthias Schubert</author>
+<title>Accurate and Efficient Crawling for Relevant Websites.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#EsterKS04</url>
+<pages>396-407</pages>
+<ee>http://www.vldb.org/conf/2004/RS10P3.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50037-1</ee>
+</inproceedings>
+</r>
+<r><article key="journals/kais/YuXEK03" mdate="2018-07-06">
+<author pid="y/KaiYu">Kai Yu 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>Feature Weighting and Instance Selection for Collaborative Filtering: An Information-Theoretic Approach*.</title>
+<pages>201-224</pages>
+<year>2003</year>
+<volume>5</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/10.1007/s10115-003-0089-6</ee>
+<url>db/journals/kais/kais5.html#YuXEK03</url>
+</article>
+</r>
+<r><article key="journals/nar/GardySWETSHFLNB03" mdate="2020-10-26">
+<author pid="95/2437">Jennifer L. Gardy</author>
+<author pid="99/1856">Cory Spencer</author>
+<author pid="w/KeWang">Ke Wang 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="12/1458">G&#225;bor E. Tusn&#225;dy</author>
+<author orcid="0000-0003-1207-4018" pid="71/5657">Istv&#225;n Simon</author>
+<author pid="97/1289">Sujun Hua</author>
+<author pid="08/6766">Katalin de Fays</author>
+<author orcid="0000-0002-7727-2018" pid="26/2229">Christophe G. Lambert</author>
+<author pid="38/6619">Kenta Nakai</author>
+<author orcid="0000-0002-0584-4099" pid="44/663">Fiona S. L. Brinkman</author>
+<title>PSORT-B: improving protein subcellular localization prediction for Gram-negative bacteria.</title>
+<pages>3613-3617</pages>
+<year>2003</year>
+<volume>31</volume>
+<journal>Nucleic Acids Res.</journal>
+<number>13</number>
+<url>db/journals/nar/nar31.html#GardySWETSHFLNB03</url>
+<ee type="oa">https://doi.org/10.1093/nar/gkg602</ee>
+<ee>https://www.wikidata.org/entity/Q24671890</ee>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/SheCWEGB03" mdate="2018-11-06">
+<author pid="69/6912">Rong She</author>
+<author pid="c/FeiChen2">Fei Chen 0002</author>
+<author pid="w/KeWang">Ke Wang 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="95/2437">Jennifer L. Gardy</author>
+<author pid="44/663">Fiona S. L. Brinkman</author>
+<title>Frequent-subsequence-based prediction of outer membrane proteins.</title>
+<pages>436-445</pages>
+<year>2003</year>
+<crossref>conf/kdd/2003</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/956750.956800</ee>
+<url>db/conf/kdd/kdd2003.html#SheCWEGB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/HollandEK03" mdate="2017-05-22">
+<author pid="60/2259">Stefan Holland</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/WKiessling">Werner Kie&#223;ling</author>
+<title>Preference Mining: A Novel Approach on Mining User Preferences for Personalized Applications.</title>
+<pages>204-216</pages>
+<ee>https://doi.org/10.1007/978-3-540-39804-2_20</ee>
+<year>2003</year>
+<crossref>conf/pkdd/2003</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd2003.html#HollandEK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/FungWE03" mdate="2017-08-23">
+<author pid="f/BCMFung">Benjamin C. M. Fung</author>
+<author pid="w/KeWang">Ke Wang 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Hierarchical Document Clustering using Frequent Itemsets.</title>
+<year>2003</year>
+<crossref>conf/sdm/2003</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972733.6</ee>
+<url>db/conf/sdm/sdm2003.html#FungWE03</url>
+<pages>59-70</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/EsterKS02" mdate="2018-11-06">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="77/4813">Matthias Schubert</author>
+<title>Web site mining: a new way to spot competitors, customers and suppliers in the world wide web.</title>
+<pages>249-258</pages>
+<year>2002</year>
+<crossref>conf/kdd/2002</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/775047.775084</ee>
+<url>db/conf/kdd/kdd2002.html#EsterKS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BeilEX02" mdate="2018-11-06">
+<author pid="00/4025">Florian Beil</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Frequent term-based text clustering.</title>
+<pages>436-442</pages>
+<year>2002</year>
+<crossref>conf/kdd/2002</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/775047.775110</ee>
+<url>db/conf/kdd/kdd2002.html#BeilEX02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/YuXTEK02" mdate="2018-07-06">
+<author pid="y/KaiYu">Kai Yu 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<author pid="09/3336">Jianjua Tao</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>Instance Selection Techniques for Memory-based Collaborative Filtering.</title>
+<year>2002</year>
+<crossref>conf/sdm/2002</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972726.4</ee>
+<url>db/conf/sdm/sdm2002.html#YuXTEK02</url>
+<pages>59-74</pages>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/BraunmullerEKS01" mdate="2019-10-19">
+<author pid="13/2813">Bernhard Braunm&#252;ller</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Multiple Similarity Queries: A Basic DBMS Operation for Mining in Metric Databases.</title>
+<pages>79-95</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/69.908982</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.908982</ee>
+<url>db/journals/tkde/tkde13.html#BraunmullerEKS01</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/YuXEK01" mdate="2018-11-06">
+<author pid="y/KaiYu">Kai Yu 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>Selecting Relevant Instances for Efficient and Accurate Collaborative Filtering.</title>
+<pages>239-246</pages>
+<year>2001</year>
+<crossref>conf/cikm/2001</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm2001.html#YuXEK01</url>
+<ee>https://doi.org/10.1145/502585.502626</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/YuWXE01" mdate="2018-07-06">
+<author pid="y/KaiYu">Kai Yu 0001</author>
+<author pid="29/5173">Zhong Wen</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Feature Weighting Methods for Improving the Accuracy of Collaborative Filtering (Invited Address).</title>
+<pages>285-290</pages>
+<year>2001</year>
+<crossref>conf/dexaw/2001</crossref>
+<booktitle>DEXA Workshop</booktitle>
+<url>db/conf/dexaw/dexaw2001.html#YuWXE01</url>
+<ee>https://doi.org/10.1109/DEXA.2001.953076</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2001.953076</ee>
+</inproceedings>
+</r>
+<r><book key="books/sp/EsterSander00" mdate="2019-07-10">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Knowledge Discovery in Databases - Techniken und Anwendungen</title>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-67328-8</isbn>
+<ee>http://www.dbs.informatik.uni-muenchen.de/buecher/kdd.html</ee>
+</book>
+</r>
+<r><article key="journals/datamine/EsterFKS00" mdate="2019-10-19">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="70/545">Alexander Frommelt</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Spatial Data Mining: Database Primitives, Algorithms and Efficient DBMS Support.</title>
+<pages>193-216</pages>
+<year>2000</year>
+<volume>4</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>2/3</number>
+<url>db/journals/datamine/datamine4.html#EsterFKS00</url>
+<ee>https://doi.org/10.1023/A:1009843930701</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BraunmullerEKS00" mdate="2019-10-19">
+<author pid="13/2813">Bernhard Braunm&#252;ller</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Efficiently Supporting Multiple Similarity Queries for Mining in Metric Databases.</title>
+<pages>256-267</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839418</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839418</ee>
+<url>db/conf/icde/icde2000.html#BraunmullerEKS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EsterKK00" mdate="2017-05-17">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="19/4077">J&#246;rn Kohlhammer</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>The DC-Tree: A Fully Dynamic Index Structure for Data Warehouses.</title>
+<pages>379-388</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839438</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839438</ee>
+<url>db/conf/icde/icde2000.html#EsterKK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/AnkerstEK00" mdate="2018-11-06">
+<author pid="a/MAnkerst">Mihael Ankerst</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>Towards an effective cooperation of the user and the computer for classification.</title>
+<pages>179-188</pages>
+<year>2000</year>
+<crossref>conf/kdd/2000</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/347090.347124</ee>
+<url>db/conf/kdd/kdd2000.html#AnkerstEK00</url>
+</inproceedings>
+</r>
+<r><article key="journals/gidr/Ester99" mdate="2020-05-18">
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Knowledge Discovery in Spatial Databases (Abstract).</title>
+<pages>25</pages>
+<year>1999</year>
+<volume>23</volume>
+<journal>Datenbank Rundbr.</journal>
+<url>db/journals/gidr/gidr23.html#Ester99</url>
+</article>
+</r>
+<r><article key="journals/informaticaSI/AnkerstEEK99" mdate="2016-02-15">
+<author pid="a/MAnkerst">Mihael Ankerst</author>
+<author pid="02/6562">Christian Elsen</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>Perception-Based Classification.</title>
+<year>1999</year>
+<volume>23</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>4</number>
+<url>db/journals/informaticaSI/informaticaSI23.html#AnkerstEEK99</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/EsterGKS99" mdate="2019-06-25">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="71/6323">Stefan Grundlach</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Database Primitives for Spatial Data Mining.</title>
+<pages>137-150</pages>
+<year>1999</year>
+<crossref>conf/btw/99</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw99.html#EsterGKS99</url>
+<ee>https://doi.org/10.1007/978-3-642-60119-4_9</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/EsterKS99" mdate="2019-06-25">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Knowledge Discovery in Spatial Databases.</title>
+<pages>1-14</pages>
+<year>1999</year>
+<crossref>conf/dagm/1999</crossref>
+<booktitle>DAGM-Symposium</booktitle>
+<url>db/conf/dagm/dagm1999.html#EsterKS99</url>
+<ee>https://doi.org/10.1007/978-3-642-60243-6_1</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/AnkerstEEK99" mdate="2018-11-06">
+<author pid="a/MAnkerst">Mihael Ankerst</author>
+<author pid="02/6562">Christian Elsen</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<title>Visual Classification: An Interactive Approach to Decision Tree Construction.</title>
+<pages>392-396</pages>
+<year>1999</year>
+<crossref>conf/kdd/1999</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/312129.312298</ee>
+<url>db/conf/kdd/kdd99.html#AnkerstEEK99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ki/EsterKS99" mdate="2018-08-05">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Knowledge Discovery in Spatial Databases.</title>
+<pages>61-74</pages>
+<ee>https://doi.org/10.1007/3-540-48238-5_5</ee>
+<year>1999</year>
+<crossref>conf/ki/1999</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki99.html#EsterKS99</url>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/SanderEKX98" mdate="2019-10-19">
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Density-Based Clustering in Spatial Databases: The Algorithm GDBSCAN and Its Applications.</title>
+<pages>169-194</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>2</number>
+<url>db/journals/datamine/datamine2.html#SanderEKX98</url>
+<ee>https://doi.org/10.1023/A:1009745219419</ee>
+<ee>https://www.wikidata.org/entity/Q56675309</ee>
+</article>
+</r>
+<r><article key="journals/ki/EsterKSX98" mdate="2020-07-14">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Clustering for Mining in Large Spatial Databases.</title>
+<pages>18-24</pages>
+<year>1998</year>
+<volume>12</volume>
+<journal>K&#252;nstliche Intell.</journal>
+<number>1</number>
+<url>db/journals/ki/ki1998.html#EsterKSX98</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/EsterW98" mdate="2017-05-23">
+<ee>https://doi.org/10.1007/BFb0100982</ee>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="51/836">R&#252;diger Wittmann</author>
+<title>Incremental Generalization for Mining in a Data Warehousing Environment.</title>
+<pages>135-149</pages>
+<cdrom>EDBT/1998/13770135.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/edbt/98</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt98.html#EsterW98</url>
+<cite label="AS 94">conf/vldb/AgrawalS94</cite>
+<cite label="CHNW 96">conf/icde/CheungHNW96</cite>
+<cite label="EKX 95">conf/kdd/EsterKX95</cite>
+<cite label="EKSX 96">conf/kdd/EsterKSX96</cite>
+<cite label="FSS 96">conf/kdd/FayyadPS96</cite>
+<cite label="HCC 93">journals/tkde/HanCC93</cite>
+<cite label="HF 96">...</cite>
+<cite label="Huy 97">conf/vldb/Huyn97</cite>
+<cite label="MQM 97">conf/sigmod/MumickQM97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/XuEKS98" mdate="2019-10-19">
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>A Distribution-Based Clustering Algorithm for Mining in Large Spatial Databases.</title>
+<pages>324-331</pages>
+<cdrom>ICDE98/P324.pdf</cdrom>
+<year>1998</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde98.html#XuEKS98</url>
+<crossref>conf/icde/98</crossref>
+<ee>https://doi.org/10.1109/ICDE.1998.655795</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.1998.655795</ee>
+<cite>...</cite>
+<cite>conf/sigmod/BeckmannKSS90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/ssd/EsterKX95</cite>
+<cite>books/mit/fayyadPSU96/FayyadPS96</cite>
+<cite>journals/vldb/Guting94</cite>
+<cite>books/wi/KaufmanR90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/NgH94</cite>
+<cite>conf/sigmod/ZhangRL96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/EsterFKS98" mdate="2018-08-05">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="70/545">Alexander Frommelt</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Algorithms for Characterization and Trend Detection in Spatial Databases.</title>
+<pages>44-50</pages>
+<year>1998</year>
+<crossref>conf/kdd/1998</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd98.html#EsterFKS98</url>
+<ee>http://www.aaai.org/Library/KDD/1998/kdd98-007.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/EsterKSWX98" mdate="2020-03-12">
+<crossref>conf/vldb/98</crossref>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="00/4132">Michael Wimmer</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Incremental Clustering for Mining in a Data Warehousing Environment.</title>
+<pages>323-333</pages>
+<year>1998</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb98.html#EsterKSWX98</url>
+<ee type="oa">http://www.vldb.org/conf/1998/p323.pdf</ee>
+<cite label="AF 96">...</cite>
+<cite label="AS 94">conf/vldb/AgrawalS94</cite>
+<cite label="BKSS 90">conf/sigmod/BeckmannKSS90</cite>
+<cite label="Bou 96">journals/tkde/Bouguetta96</cite>
+<cite label="CHNW 96">conf/icde/CheungHNW96</cite>
+<cite label="CPZ 97">conf/vldb/CiacciaPZ97</cite>
+<cite label="EKSX 96">conf/kdd/EsterKSX96</cite>
+<cite label="EKX 95">conf/ssd/EsterKX95</cite>
+<cite label="EW 98">conf/edbt/EsterW98</cite>
+<cite label="FAAM 97">conf/dmkd/FeldmanAAM97</cite>
+<cite label="FPS 96">conf/kdd/FayyadPS96</cite>
+<cite label="Gue 94">journals/vldb/Guting94</cite>
+<cite label="HCC93">journals/tkde/HanCC93</cite>
+<cite label="Huy 97">conf/vldb/Huyn97</cite>
+<cite label="KR 90">books/wi/KaufmanR90</cite>
+<cite label="Luo 95">...</cite>
+<cite label="MJHS 96">...</cite>
+<cite label="MQM 97">conf/sigmod/MumickQM97</cite>
+<cite label="NH 94">conf/vldb/NgH94</cite>
+<cite label="SEKX 98">...</cite>
+<cite label="Sib 73">journals/cj/Sibson73</cite>
+<cite label="ZRL 96">conf/sigmod/ZhangRL96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/EsterKSX97" mdate="2018-08-05">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Density-Connected Sets and their Application for Trend Detection in Spatial Databases.</title>
+<pages>10-15</pages>
+<year>1997</year>
+<crossref>conf/kdd/1997</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd97.html#EsterKSX97</url>
+<ee>http://www.aaai.org/Library/KDD/1997/kdd97-002.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/EsterKS97" mdate="2018-08-05">
+<ee>https://doi.org/10.1007/3-540-63238-7_24</ee>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Spatial Data Mining: A Database Approach.</title>
+<pages>47-66</pages>
+<cdrom>SSD/1997/P047.pdf</cdrom>
+<year>1997</year>
+<crossref>conf/ssd/97</crossref>
+<booktitle>SSD</booktitle>
+<url>db/conf/ssd/ssd97.html#EsterKS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcb/EsterKW96" mdate="2019-08-12">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="45/4095">Stefan Wirth</author>
+<title>Feature Based Classification of Protein Docking Sites: An Algorithm for Large Databases and Experimental Results.</title>
+<pages>193-196</pages>
+<year>1996</year>
+<crossref>conf/gcb/1996p</crossref>
+<booktitle>German Conference on Bioinformatics</booktitle>
+<url>db/conf/gcb/gcb1996p.html#EsterKW96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/EsterKSX96" mdate="2018-08-05">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise.</title>
+<pages>226-231</pages>
+<year>1996</year>
+<crossref>conf/kdd/1996</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd96.html#EsterKSX96</url>
+<ee>http://www.aaai.org/Library/KDD/1996/kdd96-037.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/EsterKSX95" mdate="2019-06-24">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="s/ThomasSeidl1">Thomas Seidl 0001</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Formbasierte Suche nach komplement&#228;ren 3D-Oberfl&#228;chen in einer Protein-Datenbank.</title>
+<pages>373-382</pages>
+<year>1995</year>
+<crossref>conf/btw/95</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw95.html#EsterKSX95</url>
+<ee>https://doi.org/10.1007/978-3-642-79646-3_23</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/EsterKX95" mdate="2018-07-06">
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>A Database Interface for Clustering in Large Spatial Databases.</title>
+<pages>94-99</pages>
+<year>1995</year>
+<crossref>conf/kdd/1995</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd95.html#EsterKX95</url>
+<ee>http://www.aaai.org/Library/KDD/1995/kdd95-045.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/EsterKX95" mdate="2018-07-06">
+<ee>https://doi.org/10.1007/3-540-60159-7_5</ee>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="x/XiaoweiXu">Xiaowei Xu 0001</author>
+<title>Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification.</title>
+<pages>67-82</pages>
+<cdrom>SSD/1995/P067.pdf</cdrom>
+<year>1995</year>
+<crossref>conf/ssd/95</crossref>
+<booktitle>SSD</booktitle>
+<url>db/conf/ssd/ssd95.html#EsterKX95</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Ester89" mdate="2016-11-16">
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Konsistenzwerkzeuge f&#252;r PROLOG-Wissensbasen.</title>
+<year>1989</year>
+<pages>1-143</pages>
+<school>ETH Zurich, Z&#252;rich, Switzerland</school>
+<isbn>978-3-7281-1718-2</isbn>
+<ee>http://d-nb.info/891438785</ee>
+<ee>http://d-nb.info/943468868</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/xps/AppelrathEJU87" mdate="2003-02-27">
+<author pid="a/HansJurgenAppelrath">Hans-J&#252;rgen Appelrath</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<author pid="j/HeinrichJasper">Heinrich Jasper</author>
+<author pid="38/2096">Alfred Ultsch</author>
+<title>KOFIS: Ein Expertensystem zur integrierten Dokumenten- und Wissensverwaltung.</title>
+<pages>1-18</pages>
+<year>1987</year>
+<crossref>conf/xps/1987</crossref>
+<booktitle>Expertensysteme</booktitle>
+<url>db/conf/xps/xps1987.html#AppelrathEJU87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bueroautomation/AppelrathE85" mdate="2003-03-07">
+<author pid="a/HansJurgenAppelrath">Hans-J&#252;rgen Appelrath</author>
+<author pid="e/MartinEster">Martin Ester</author>
+<title>Integrity in a Knowledge Based Office Information System: Modeling with Extended SDM and Implementation with Prolog.</title>
+<pages>172-191</pages>
+<year>1985</year>
+<crossref>conf/bueroautomation/1985</crossref>
+<booktitle>B&#252;roautomation</booktitle>
+<url>db/conf/bueroautomation/bueroautomation1985.html#AppelrathE85</url>
+</inproceedings>
+</r>
+<coauthors n="238" nc="6">
+<co c="0"><na f="a/Ankerst:Mihael" pid="a/MAnkerst">Mihael Ankerst</na></co>
+<co c="-1"><na f="a/Aoki:Raquel" pid="261/3697">Raquel Aoki</na></co>
+<co c="3"><na f="a/Appelrath:Hans=J=uuml=rgen" pid="a/HansJurgenAppelrath">Hans-J&#252;rgen Appelrath</na></co>
+<co c="0"><na f="a/Arab:Ali" pid="56/2402">Ali Arab</na></co>
+<co c="0"><na f="a/Asghari:Hossein" pid="209/8225">Hossein Asghari</na></co>
+<co c="0"><na f="a/Atkins:M=_Stella" pid="a/MStellaAtkins">M. Stella Atkins</na></co>
+<co c="0"><na f="b/Ban:Fuqiang" pid="27/3758">Fuqiang Ban</na></co>
+<co c="0"><na f="b/Beil:Florian" pid="00/4025">Florian Beil</na></co>
+<co c="0"><na f="b/Ben=Moshe:Boaz" pid="12/959">Boaz Ben-Moshe</na></co>
+<co c="0"><na f="b/Bhattacharya:Binay_K=" pid="b/BinayKBhattacharya">Binay K. Bhattacharya</na></co>
+<co c="0"><na f="b/Bilenky:Mikhail" pid="68/4112">Mikhail Bilenky</na></co>
+<co c="5"><na f="b/Blomo:Jim" pid="135/6736">Jim Blomo</na></co>
+<co c="0"><na f="b/Boden:Brigitte" pid="57/7963">Brigitte Boden</na></co>
+<co c="1"><na f="b/Brandao:Maria_Helena" pid="206/0012">Maria Helena Brandao</na></co>
+<co c="0"><na f="b/Brantingham:Patricia_L=" pid="44/2800">Patricia L. Brantingham</na></co>
+<co c="0"><na f="b/Braunm=uuml=ller:Bernhard" pid="13/2813">Bernhard Braunm&#252;ller</na></co>
+<co c="0"><na f="b/Brinkman:Fiona_S=_L=" pid="44/663">Fiona S. L. Brinkman</na></co>
+<co c="0"><na f="b/Bu:Jiajun" pid="50/3147">Jiajun Bu</na></co>
+<co c="0"><na f="b/Butterfield:Yaron_S=_N=" pid="84/7065">Yaron S. N. Butterfield</na></co>
+<co c="0"><na f="c/Cai_0001:Deng" pid="c/DCai">Deng Cai 0001</na></co>
+<co c="0" n="2"><na f="c/Cai:Jin=Yi" pid="c/JinyiCai">Jin-Yi Cai</na><na>Jin-yi Cai</na></co>
+<co c="0"><na f="c/Cao:Feng" pid="01/1867">Feng Cao</na></co>
+<co c="0"><na f="c/Carleton:Bruce_C=" pid="235/8320">Bruce C. Carleton</na></co>
+<co c="1"><na f="c/Carvalho:Luiz_F=_M=" pid="163/6035">Luiz F. M. Carvalho</na></co>
+<co c="1"><na f="c/Carvalho:Osvaldo" pid="07/6511">Osvaldo Carvalho</na></co>
+<co c="0"><na f="c/Chen_0001:Chun" pid="07/4182-0001">Chun Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0002:Fei" pid="c/FeiChen2">Fei Chen 0002</na></co>
+<co c="0"><na f="c/Chen_0007:Jiawei" pid="03/1390-7">Jiawei Chen 0007</na></co>
+<co c="0"><na f="c/Cherkasov:Artem" pid="88/2110">Artem Cherkasov</na></co>
+<co c="0" n="2"><na f="c/Cheung:David_Wai=Lok" pid="c/DWLCheung">David Wai-Lok Cheung</na><na>David W. Cheung</na></co>
+<co c="0"><na f="c/Chindelevitch:Leonid" pid="08/3182">Leonid Chindelevitch</na></co>
+<co c="0" n="2"><na f="c/Chung:Korris_Fu=Lai" pid="c/KFLChung">Korris Fu-Lai Chung</na><na>Fu-Lai Chung</na></co>
+<co c="0"><na f="c/Colak:Recep" pid="99/314">Recep Colak</na></co>
+<co c="0"><na f="c/Collins:Colin_C=" pid="242/5290">Colin C. Collins</na></co>
+<co c="0"><na f="d/Dao:Phuong" pid="18/325">Phuong Dao</na></co>
+<co c="0"><na f="d/Davicioni:Elai" pid="18/8713">Elai Davicioni</na></co>
+<co c="0"><na f="d/Davidson:Ian" pid="81/2360">Ian Davidson</na></co>
+<co c="0"><na f="d/Ding:Dujian" pid="244/8792">Dujian Ding</na></co>
+<co c="0"><na f="d/Donaldson:Roger" pid="166/1514">Roger Donaldson</na></co>
+<co c="0"><na f="d/Duan:Xinyu" pid="31/5936">Xinyu Duan</na></co>
+<co c="0"><na f="d/DuBois:Christopher" pid="30/8315">Christopher DuBois</na></co>
+<co c="0"><na f="d/Dueva:Evgenia_V=" pid="140/5335">Evgenia V. Dueva</na></co>
+<co c="0"><na f="e/Elsen:Christian" pid="02/6562">Christian Elsen</na></co>
+<co c="0"><na f="f/Fang:Hanyin" pid="154/1941">Hanyin Fang</na></co>
+<co c="0"><na f="f/Fard:Amin_Milani" pid="f/AminMilaniFard">Amin Milani Fard</na></co>
+<co c="0"><na f="f/Fays:Katalin_de" pid="08/6766">Katalin de Fays</na></co>
+<co c="0"><na f="f/Feng:Qingyuan" pid="224/0058">Qingyuan Feng</na></co>
+<co c="0"><na f="f/Feng:Yan" pid="86/4656">Yan Feng</na></co>
+<co c="5"><na f="f/Field:Marty" pid="135/6611">Marty Field</na></co>
+<co c="0"><na f="f/Foster:Leonard_J=" pid="16/1482">Leonard J. Foster</na></co>
+<co c="0"><na f="f/Frank:Richard" pid="71/6909">Richard Frank</na></co>
+<co c="0"><na f="f/Frommelt:Alexander" pid="70/545">Alexander Frommelt</na></co>
+<co c="0"><na f="f/Fung:Benjamin_C=_M=" pid="f/BCMFung">Benjamin C. M. Fung</na></co>
+<co c="0"><na f="g/Gao:Byron_J=" pid="g/ByronJGao">Byron J. Gao</na></co>
+<co c="0"><na f="g/Gardy:Jennifer_L=" pid="95/2437">Jennifer L. Gardy</na></co>
+<co c="0"><na f="g/Ge_0002:Rong" pid="89/6869-2">Rong Ge 0002</na></co>
+<co c="0"><na f="g/Gl=auml=sser:Uwe" pid="g/UweGlasser">Uwe Gl&#228;sser</na></co>
+<co c="0"><na f="g/Gong:Neil_Zhenqiang" pid="03/9437">Neil Zhenqiang Gong</na></co>
+<co c="0"><na f="g/Gorniak:Peter" pid="48/2453">Peter Gorniak</na></co>
+<co c="0"><na f="g/Grande:Bruno_M=" pid="249/1409">Bruno M. Grande</na></co>
+<co c="0"><na f="g/Griffith:Obi_L=" pid="81/832">Obi L. Griffith</na></co>
+<co c="0"><na f="g/Grundlach:Stefan" pid="71/6323">Stefan Grundlach</na></co>
+<co c="0"><na f="g/Guan:Ziyu" pid="43/6970">Ziyu Guan</na></co>
+<co c="0"><na f="g/G=uuml=nnemann:Stephan" pid="43/3011">Stephan G&#252;nnemann</na></co>
+<co c="0"><na f="g/Guo_0006:Xin" pid="17/1430-6">Xin Guo 0006</na></co>
+<co c="0"><na f="h/Habibi:Jafar" pid="60/2830">Jafar Habibi</na></co>
+<co c="0"><na f="h/Haffari:Gholamreza" pid="57/5129">Gholamreza Haffari</na></co>
+<co c="0"><na f="h/Hajirasouliha:Iman" pid="63/3502">Iman Hajirasouliha</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/He:Tong" pid="02/1554">Tong He</na></co>
+<co c="0"><na f="h/He_0001:Xiangnan" pid="59/1007">Xiangnan He 0001</na></co>
+<co c="0"><na f="h/Heidemeyer:Marten" pid="200/1807">Marten Heidemeyer</na></co>
+<co c="0"><na f="h/Hofest=auml=dt:Ralf" pid="84/5825">Ralf Hofest&#228;dt</na></co>
+<co c="0"><na f="h/Hoi:Steven_C=_H=" pid="h/StevenCHHoi">Steven C. H. Hoi</na></co>
+<co c="4"><na f="h/Holland:Stefan" pid="60/2259">Stefan Holland</na></co>
+<co c="0"><na f="h/Holman:J=" pid="68/8764">J. Holman</na></co>
+<co c="0"><na f="h/Hormozdiari:Fereydoun" pid="91/1989">Fereydoun Hormozdiari</na></co>
+<co c="0"><na f="h/Hu_0012:Bo" pid="04/2380-12">Bo Hu 0012</na></co>
+<co c="0"><na f="h/Hu:Zengjian" pid="h/ZengjianHu">Zengjian Hu</na></co>
+<co c="0"><na f="h/Hua:Sujun" pid="97/1289">Sujun Hua</na></co>
+<co c="0"><na f="h/Huang:Tianle" pid="34/10321">Tianle Huang</na></co>
+<co c="0"><na f="j/Jamali:Mohsen" pid="86/6506">Mohsen Jamali</na></co>
+<co c="3"><na f="j/Jasper:Heinrich" pid="j/HeinrichJasper">Heinrich Jasper</na></co>
+<co c="0"><na f="j/Jiang:Chengquan" pid="278/8241">Chengquan Jiang</na></co>
+<co c="0"><na f="j/Jiang:Wenhao" pid="59/11289">Wenhao Jiang</na></co>
+<co c="0"><na f="j/Jin:Wen" pid="09/1433">Wen Jin</na></co>
+<co c="0"><na f="j/Jones:Steven_J=_M=" pid="02/2455">Steven J. M. Jones</na></co>
+<co c="0"><na f="k/Kao:Ben" pid="k/BenKao">Ben Kao</na></co>
+<co c="0"><na f="k/Kelkar:Yogeshwar_D=" pid="249/1464">Yogeshwar D. Kelkar</na></co>
+<co c="0"><na f="k/Khakabimamaghani:Sahand" pid="81/10709">Sahand Khakabimamaghani</na></co>
+<co c="0"><na f="k/Khosravi:Hassan" pid="09/6627">Hassan Khosravi</na></co>
+<co c="4"><na f="k/Kie=szlig=ling:Werner" pid="k/WKiessling">Werner Kie&#223;ling</na></co>
+<co c="0"><na f="k/Knobbe:Arno_J=" pid="65/3461">Arno J. Knobbe</na></co>
+<co c="2"><na f="k/Kobsa:Alfred" pid="k/AlfredKobsa">Alfred Kobsa</na></co>
+<co c="0"><na f="k/Kohlhammer:J=ouml=rn" pid="19/4077">J&#246;rn Kohlhammer</na></co>
+<co c="2"><na f="k/Koren:Yehuda" pid="k/YehudaKoren">Yehuda Koren</na></co>
+<co c="0"><na f="k/Kriegel:Hans=Peter" pid="k/HansPeterKriegel">Hans-Peter Kriegel</na></co>
+<co c="0"><na f="l/Laird:Matthew_R=" pid="07/6792">Matthew R. Laird</na></co>
+<co c="0"><na f="l/Lambert:Christophe_G=" pid="26/2229">Christophe G. Lambert</na></co>
+<co c="0"><na f="l/Lapuk:Anna" pid="88/9660">Anna Lapuk</na></co>
+<co c="0"><na f="l/Lee:Tim_K=" pid="85/6188">Tim K. Lee</na></co>
+<co c="0"><na f="l/Li:Cuiping" pid="03/6827">Cuiping Li</na></co>
+<co c="0"><na f="l/Li_0067:Xiang" pid="40/1491-67">Xiang Li 0067</na></co>
+<co c="0"><na f="l/Li:Yanghua" pid="260/0773">Yanghua Li</na></co>
+<co c="0"><na f="l/Li:Zhao" pid="l/ZhaoLi">Zhao Li</na></co>
+<co c="0"><na f="l/Liao:Yikang" pid="184/0004">Yikang Liao</na></co>
+<co c="0"><na f="l/Lin_0001:Xuemin" pid="l/LinXuemin">Xuemin Lin 0001</na></co>
+<co c="0"><na f="l/Liu_0020:Bin" pid="35/837-20">Bin Liu 0020</na></co>
+<co c="0"><na f="l/Liu:Chenghao" pid="65/6164">Chenghao Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Qing" pid="53/4481-1">Qing Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0005:Wei" pid="49/3283-5">Wei Liu 0005</na></co>
+<co c="0"><na f="l/Liu:Xudong" pid="90/2144">Xudong Liu</na></co>
+<co c="0"><na f="l/Liu:Yu" pid="97/2274">Yu Liu</na></co>
+<co c="0"><na f="l/Lo:Raymond" pid="79/3811">Raymond Lo</na></co>
+<co c="0"><na f="l/Long:Cheng" pid="58/10813">Cheng Long</na></co>
+<co c="-1"><na f="l/Lu:Jialin" pid="251/8868">Jialin Lu</na></co>
+<co c="0"><na f="l/Lu:Wei" pid="98/6613">Wei Lu</na></co>
+<co c="0"><na f="l/Lu_0006:Wei" pid="98/6613-6">Wei Lu 0006</na></co>
+<co c="0"><na f="l/Lu:Zhiyong" pid="66/6604">Zhiyong Lu</na></co>
+<co c="0"><na f="l/Luo:Siqiang" pid="117/5965">Siqiang Luo</na></co>
+<co c="0"><na f="m/Malhis:Nawar" pid="37/6516">Nawar Malhis</na></co>
+<co c="0"><na f="m/Malikic:Salem" pid="162/0576">Salem Malikic</na></co>
+<co c="0"><na f="m/Mansouri:Mehrdad" pid="224/0218">Mehrdad Mansouri</na></co>
+<co c="0"><na f="m/Mehrasa:Nazanin" pid="198/9428">Nazanin Mehrasa</na></co>
+<co c="1"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
+<co c="0"><na f="m/Melli:Gabor" pid="38/4649">Gabor Melli</na></co>
+<co c="0"><na f="m/Moghaddam:Samaneh" pid="73/7455">Samaneh Moghaddam</na></co>
+<co c="0"><na f="m/Moise:Gabriela" pid="71/1604">Gabriela Moise</na></co>
+<co c="0"><na f="m/Morin:Ryan_D=" pid="96/7593">Ryan D. Morin</na></co>
+<co c="0"><na f="m/Morse:Michael_D=" pid="03/2997">Michael D. Morse</na></co>
+<co c="0"><na f="m/Moser:Flavia" pid="20/6965">Flavia Moser</na></co>
+<co c="-1"><na f="n/Nabaei:Boshra" pid="190/3221">Boshra Nabaei</na></co>
+<co c="0"><na f="n/Nakai:Kenta" pid="38/6619">Kenta Nakai</na></co>
+<co c="0"><na f="n/Nell:Christopher" pid="31/10466">Christopher Nell</na></co>
+<co c="0"><na f="n/Nguyen:Jennifer_H=" pid="135/0214">Jennifer H. Nguyen</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="-1"><na f="p/Pedreschi:Dino" pid="p/DPedreschi">Dino Pedreschi</na></co>
+<co c="0"><na f="p/Pei:Jian" pid="p/JianPei">Jian Pei</na></co>
+<co c="0"><na f="p/Peng:Shuman" pid="277/1088">Shuman Peng</na></co>
+<co c="0"><na f="p/Prichyna:Yuliya" pid="26/6607">Yuliya Prichyna</na></co>
+<co c="0"><na f="q/Qian:Weining" pid="55/3364">Weining Qian</na></co>
+<co c="0"><na f="q/Qian:Yuqiu" pid="147/1552">Yuqiu Qian</na></co>
+<co c="0"><na f="r/Rafiey:Arash" pid="53/2428">Arash Rafiey</na></co>
+<co c="0"><na f="r/Ravi:S=_S=" pid="94/2464">S. S. Ravi</na></co>
+<co c="0"><na f="r/Razmara:Majid" pid="77/5474">Majid Razmara</na></co>
+<co c="0"><na f="r/Rey:S=eacute=bastien" pid="67/6397">S&#233;bastien Rey</na></co>
+<co c="0"><na f="r/Ross:Colin_J=_D=" pid="235/8104">Colin J. D. Ross</na></co>
+<co c="0"><na f="s/Sadeghi:Maryam" pid="37/2491">Maryam Sadeghi</na></co>
+<co c="0"><na f="s/Sahinalp:S=uuml=leyman_Cenk" pid="s/SCSahinalp">S&#252;leyman Cenk Sahinalp</na></co>
+<co c="0"><na f="s/Salari:Raheleh" pid="72/2325">Raheleh Salari</na></co>
+<co c="0"><na f="s/Sander_0001:J=ouml=rg" pid="s/JorgSander">J&#246;rg Sander 0001</na></co>
+<co c="-1"><na f="s/Sandulescu:Vlad" pid="162/9036">Vlad Sandulescu</na></co>
+<co c="0"><na f="s/Sarkar:Anoop" pid="s/AnoopSarkar">Anoop Sarkar</na></co>
+<co c="0"><na f="s/Sch=ouml=nhuth:Alexander" pid="31/3700">Alexander Sch&#246;nhuth</na></co>
+<co c="0"><na f="s/Schubert:Erich" pid="61/5820">Erich Schubert</na></co>
+<co c="0"><na f="s/Schubert:Matthias" pid="77/4813">Matthias Schubert</na></co>
+<co c="0"><na f="s/Schulte:Oliver" pid="s/OliverSchulte">Oliver Schulte</na></co>
+<co c="0"><na f="s/Seidl_0001:Thomas" pid="s/ThomasSeidl1">Thomas Seidl 0001</na></co>
+<co c="0"><na f="s/Sha:Chaofeng" pid="03/330">Chaofeng Sha</na></co>
+<co c="0"><na f="s/Shan:Caihua" pid="193/1652">Caihua Shan</na></co>
+<co c="0"><na f="s/Sharifi=Noghabi:Hossein" pid="244/8627">Hossein Sharifi-Noghabi</na></co>
+<co c="0"><na f="s/She:Rong" pid="69/6912">Rong She</na></co>
+<co c="0"><na f="s/Shen:Xin" pid="75/6206">Xin Shen</na></co>
+<co c="0"><na f="s/Shi:Qihao" pid="232/5615">Qihao Shi</na></co>
+<co c="0"><na f="s/Simon:Istv=aacute=n" pid="71/5657">Istv&#225;n Simon</na></co>
+<co c="0"><na f="s/Singh:Bandeep" pid="228/2598">Bandeep Singh</na></co>
+<co c="0"><na f="s/Snow:Oliver" pid="269/1539">Oliver Snow</na></co>
+<co c="0"><na f="s/Song:Weilian" pid="218/9475">Weilian Song</na></co>
+<co c="0"><na f="s/Song_0002:Zhao" pid="76/4051-2">Zhao Song 0002</na></co>
+<co c="0"><na f="s/Spencer:Cory" pid="99/1856">Cory Spencer</na></co>
+<co c="0"><na f="t/Tang:Jeffrey" pid="86/2670">Jeffrey Tang</na></co>
+<co c="0"><na f="t/Tao:Jianjua" pid="09/3336">Jianjua Tao</na></co>
+<co c="0"><na f="t/Tao:Yufei" pid="t/YufeiTao">Yufei Tao</na></co>
+<co c="0"><na f="t/Tayebi:Mohammad_A=" pid="83/6142">Mohammad A. Tayebi</na></co>
+<co c="1"><na f="t/Teixeira:Carlos_H=_C=" pid="119/6795">Carlos H. C. Teixeira</na></co>
+<co c="0"><na f="t/Tung:Anthony_K=_H=" pid="t/AnthonyKHTung">Anthony K. H. Tung</na></co>
+<co c="0"><na f="t/Tusn=aacute=dy:G=aacute=bor_E=" pid="12/1458">G&#225;bor E. Tusn&#225;dy</na></co>
+<co c="3"><na f="u/Ultsch:Alfred" pid="38/2096">Alfred Ultsch</na></co>
+<co c="0"><na f="w/Wagner:James_R=" pid="06/8323">James R. Wagner</na></co>
+<co c="0"><na f="w/Walsh:C=_J=" pid="02/366">C. J. Walsh</na></co>
+<co c="0"><na f="w/Wang:Beidou" pid="130/0336">Beidou Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Can" pid="71/4716-1">Can Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Hao" pid="181/2812">Hao Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ke" pid="w/KeWang">Ke Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Kendric" pid="37/9780">Kendric Wang</na></co>
+<co c="0"><na f="w/Wang_0011:Wei" pid="w/WeiWang11">Wei Wang 0011</na></co>
+<co c="0"><na f="w/Wang:Xiaoling" pid="92/6206">Xiaoling Wang</na></co>
+<co c="0"><na f="w/Wang_0019:Xin" pid="10/5630-19">Xin Wang 0019</na></co>
+<co c="0"><na f="w/Wang:Zhongyao" pid="12/7774">Zhongyao Wang</na></co>
+<co c="0"><na f="w/Wen:Zhong" pid="29/5173">Zhong Wen</na></co>
+<co c="0"><na f="w/Wimmer:Michael" pid="00/4132">Michael Wimmer</na></co>
+<co c="0"><na f="w/Wirth:Stefan" pid="45/4095">Stefan Wirth</na></co>
+<co c="-1"><na f="w/Wittmann:R=uuml=diger" pid="51/836">R&#252;diger Wittmann</na></co>
+<co c="0"><na f="w/Wu_0001:Fei" pid="84/3254-1">Fei Wu 0001</na></co>
+<co c="0"><na f="w/Wu_0002:Junjie" pid="35/118-2">Junjie Wu 0002</na></co>
+<co c="0"><na f="w/Wu_0001:Xindong" pid="59/4107">Xindong Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Yao" pid="93/582">Yao Wu</na></co>
+<co c="0"><na f="x/Xian:Weizhao" pid="223/3196">Weizhao Xian</na></co>
+<co c="0"><na f="x/Xie:Min" pid="36/844">Min Xie</na></co>
+<co c="0"><na f="x/Xin:Shen" pid="251/9483">Shen Xin</na></co>
+<co c="0"><na f="x/Xiong_0001:Hui" pid="x/HuiXiong">Hui Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Guandong" pid="59/2340">Guandong Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Xiaowei" pid="x/XiaoweiXu">Xiaowei Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Zhen" pid="02/6332">Zhen Xu</na></co>
+<co c="0"><na f="y/Yang:Hongxia" pid="69/3036">Hongxia Yang</na></co>
+<co c="0"><na f="y/Yang:Qing" pid="47/3749">Qing Yang</na></co>
+<co c="0"><na f="y/Yao:Chengwei" pid="90/10581">Chengwei Yao</na></co>
+<co c="0"><na f="y/Ye:Yizhou" pid="160/7183">Yizhou Ye</na></co>
+<co c="0"><na f="y/Yin:Dawei" pid="91/4572">Dawei Yin</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Kai" pid="y/KaiYu">Kai Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Nancy_Y=" pid="20/8323">Nancy Y. Yu</na></co>
+<co c="0"><na f="y/Yu:Pinggang" pid="222/7980">Pinggang Yu</na></co>
+<co c="0"><na f="y/Yu:Zhi" pid="81/2909">Zhi Yu</na></co>
+<co c="0"><na f="y/Yuan:Bowei" pid="235/8502">Bowei Yuan</na></co>
+<co c="0"><na f="y/Yuan:Kaiying" pid="276/5073">Kaiying Yuan</na></co>
+<co c="0"><na f="y/Yuan:Yidong" pid="48/5137">Yidong Yuan</na></co>
+<co c="0"><na f="z/Zhang:Jianfeng" pid="74/5065">Jianfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jianwei" pid="144/1628">Jianwei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jie" pid="84/6889">Jie Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Qing" pid="68/1429-1">Qing Zhang 0001</na></co>
+<co c="-1"><na f="z/Zhang:Xiang" pid="91/4353">Xiang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0023:Zhen" pid="19/5112-23">Zhen Zhang 0023</na></co>
+<co c="0"><na f="z/Zhao:Qiang" pid="00/2166">Qiang Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhou" pid="75/7785">Zhou Zhao</na></co>
+<co c="0"><na f="z/Zheng:Alice_X=" pid="79/3207">Alice X. Zheng</na></co>
+<co c="0"><na f="z/Zheng:Yudian" pid="160/1053">Yudian Zheng</na></co>
+<co c="0"><na f="z/Zhou:Aoying" pid="z/AoyingZhou">Aoying Zhou</na></co>
+<co c="2"><na f="z/Zhou:Michelle_X=" pid="90/5406">Michelle X. Zhou</na></co>
+<co c="0"><na f="z/Zhou:Sheng" pid="34/4858">Sheng Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xun" pid="16/1951">Xun Zhou</na></co>
+<co c="0"><na f="z/Zhu:Lu" pid="140/2179">Lu Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Wenwu" pid="97/6308-1">Wenwu Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu:Yu" pid="38/5267">Yu Zhu</na></co>
+<co c="0"><na f="z/Zhuang:Yueting" pid="218/7793">Yueting Zhuang</na></co>
+<co c="0"><na f="z/Ziemek:Daniel" pid="92/9357">Daniel Ziemek</na></co>
+<co c="0"><na f="z/Zohrevand:Zahra" pid="17/10778">Zahra Zohrevand</na></co>
+<co c="0"><na f="z/Zolotareva:Olga_I=" pid="235/6682">Olga I. Zolotareva</na></co>
+</coauthors>
+</dblpperson>
+

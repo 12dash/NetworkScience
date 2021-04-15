@@ -1,3 +1,4200 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed039a209ea538c4c3c84735383fbd986e7e11c5ed10510b736681158fe47c48
-size 192636
+<?xml version="1.0"?>
+<dblpperson name="Donald Kossmann" pid="k/DonaldKossmann" n="218">
+<person key="homepages/k/DonaldKossmann" mdate="2020-02-12">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<url>https://www.microsoft.com/en-us/research/people/donaldk/https://www.microsoft.com/en-us/research/people/donaldk/</url>
+<url>https://www.inf.ethz.ch/de/departement/faculty-profs/person-detail.html?persid=120707</url>
+<url>https://dl.acm.org/profile/81100626540</url>
+<note type="affiliation">Microsoft, Redmond, WA, USA</note>
+<note type="affiliation" label="former">ETH Z&#252;rich, Switzerland</note>
+</person>
+<r><inproceedings key="conf/cidr/ArasuKKR21" mdate="2021-03-23">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Integrity-based Attacks for Encrypted Databases and Implications.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee>http://cidrdb.org/cidr2021/papers/cidr2021_paper22.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#ArasuKKR21</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/PrasaadCK20" mdate="2020-10-06">
+<author pid="217/3619">Guna Prasaad</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Concurrent Prefix Recovery: Performing CPR on a Database.</title>
+<pages>16-23</pages>
+<year>2020</year>
+<volume>49</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3422648.3422653</ee>
+<url>db/journals/sigmod/sigmod49.html#PrasaadCK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/YangCWGLMLKA20" mdate="2020-06-05">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404">Chi Wang</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="263/7214">Rajeev Acharya</author>
+<title>Qd-tree: Learning Data Layouts for Big Data Analytics.</title>
+<pages>193-208</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389770</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#YangCWGLMLKA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DingMYWDLZCGKLK20" mdate="2020-10-25">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0003-1340-6475" pid="86/3457-1">Jia Yu 0001</author>
+<author pid="09/404">Chi Wang</author>
+<author pid="40/7404">Jaeyoung Do</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="155/9999">Hantian Zhang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>ALEX: An Updatable Adaptive Learned Index.</title>
+<pages>969-984</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389711</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#DingMYWDLZCGKLK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AntonopoulosASE20" mdate="2020-06-05">
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="266/6008">Kunal D. Singh</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="45/10343">Nitish Gupta</author>
+<author pid="28/7328">Rajat Jain</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="15/3353">Hanuma Kodavalla</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="266/5882">Nikolas Ogg</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="03/2047">Jakub Szymaszek</author>
+<author pid="266/5782">Jeffrey Trimmer</author>
+<author pid="48/1784">Kapil Vaswani</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<author pid="74/1997">Mike Zwilling</author>
+<title>Azure SQL Database Always Encrypted.</title>
+<pages>1511-1525</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3386141</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#AntonopoulosASE20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10898" mdate="2020-04-28">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404">Chi Wang</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="263/7214">Rajeev Acharya</author>
+<title>Qd-tree: Learning Data Layouts for Big Data Analytics.</title>
+<year>2020</year>
+<volume>abs/2004.10898</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10898</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10898</url>
+</article>
+</r>
+<r><article key="journals/pvldb/El-HindiBAKR19" mdate="2020-04-25">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>BlockchainDB - A Shared Database on Blockchains.</title>
+<pages>1597-1609</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342636</ee>
+<url>db/journals/pvldb/pvldb12.html#El-HindiBAKR19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChandramouliXLK19" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="20/6977-1">Dong Xie 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>FishStore: Fast Ingestion and Indexing of Raw Data.</title>
+<pages>1922-1925</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1922-chandramouli.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352100</ee>
+<url>db/journals/pvldb/pvldb12.html#ChandramouliXLK19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2020-10-07">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="32/8882">Jignesh Patel</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/GehrkeAAAHHKKRS19" mdate="2020-11-24">
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="162/3919">Lindsay Allen</author>
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="h/JoachimHammer">Joachim Hammer</author>
+<author pid="48/6924">James Hunter</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="03/2047">Jakub Szymaszek</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="30/3557-3">Jonathan Lee 0003</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Veritas: Shared Verifiable Databases and Tables in the Cloud.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p111-gehrke-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#GehrkeAAAHHKKRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/Kossmann19" mdate="2019-06-18">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>The Global AI Supercomputer.</title>
+<pages>6</pages>
+<year>2019</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3328905.3338225</ee>
+<crossref>conf/debs/2019</crossref>
+<url>db/conf/debs/debs2019.html#Kossmann19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PrasaadCK19" mdate="2019-06-22">
+<author pid="217/3619">Guna Prasaad</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Concurrent Prefix Recovery: Performing CPR on a Database.</title>
+<pages>687-704</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3300090</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#PrasaadCK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002LECK19" mdate="2019-06-22">
+<author pid="122/5424-2">Chang Ge 0002</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="18/8783">Eric Eilebrecht</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Speculative Distributed CSV Data Parsing for Big Data Analytics.</title>
+<pages>883-899</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319898</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#0002LECK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/XieCLK19" mdate="2019-08-14">
+<author pid="20/6977-1">Dong Xie 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>FishStore: Faster Ingestion with Subset Hashing.</title>
+<pages>1711-1728</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319896</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#XieCLK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AntonopoulosBDS19" mdate="2019-06-22">
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="243/2457">Alex Budovski</author>
+<author pid="26/10719">Cristian Diaconu</author>
+<author pid="243/2327">Alejandro Hernandez Saenz</author>
+<author pid="243/2500">Jack Hu</author>
+<author pid="15/3353">Hanuma Kodavalla</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="09/1637">Sandeep Lingam</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="55/3343">Naveen Prakash</author>
+<author pid="243/2361">Vijendra Purohit</author>
+<author pid="243/2328">Hugh Qu</author>
+<author pid="243/2479">Chaitanya Sreenivas Ravella</author>
+<author pid="243/2519">Krystyna Reisteter</author>
+<author pid="243/2394">Sheetal Shrotri</author>
+<author pid="155/5478">Dixin Tang</author>
+<author pid="243/2323">Vikram Wakade</author>
+<title>Socrates: The New SQL Server in the Cloud.</title>
+<pages>1743-1756</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314047</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#AntonopoulosBDS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/El-HindiHBRAK19" mdate="2019-06-22">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="231/1325">Martin Heyden</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>BlockchainDB - Towards a Shared Database on Blockchains.</title>
+<pages>1905-1908</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320237</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#El-HindiHBRAK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/PoggiCBFGBM0MBK19" mdate="2020-12-29">
+<author pid="21/7644">Nicol&#225;s Poggi</author>
+<author pid="26/1049">V&#237;ctor Cuevas-Vicentt&#237;n</author>
+<author orcid="0000-0003-3037-3580" pid="56/5336">Josep Lluis Berral</author>
+<author pid="194/7673">Thomas Fenech</author>
+<author pid="271/1925">Gonzalo G&#243;mez</author>
+<author pid="271/1410">Davide Brini</author>
+<author pid="211/9904">Alejandro Montero</author>
+<author pid="13/6290">David Carrera 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="79/2594">Jos&#233; A. Blakeley</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="03/5825">Clemens A. Szyperski</author>
+<title>Benchmarking Elastic Cloud Big Data Services Under SLA Constraints.</title>
+<pages>1-18</pages>
+<year>2019</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-55024-0_1</ee>
+<crossref>conf/tpctc/2019</crossref>
+<url>db/conf/tpctc/tpctc2019.html#PoggiCBFGBM0MBK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08898" mdate="2019-05-29">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="155/9999">Hantian Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="09/404">Chi Wang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<title>ALEX: An Updatable Adaptive Learned Index.</title>
+<year>2019</year>
+<volume>abs/1905.08898</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08898</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08898</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChandramouliPKL18" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="217/3619">Guna Prasaad</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/3658">Justin J. Levandoski</author>
+<author pid="48/6924">James Hunter</author>
+<author pid="29/8730">Mike Barnett</author>
+<title>FASTER: An Embedded Concurrent Key-Value Store for State Management.</title>
+<pages>1930-1933</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1930-chandramouli.pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3236227</ee>
+<url>db/journals/pvldb/pvldb11.html#ChandramouliPKL18</url>
+</article>
+</r>
+<r><article key="journals/vldb/MakreshanskiGAK18" mdate="2018-10-03">
+<author orcid="0000-0002-3135-0172" pid="131/4149">Darko Makreshanski</author>
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Many-query join: efficient shared execution of relational joins on modern hardware.</title>
+<pages>669-692</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-017-0475-4</ee>
+<url>db/journals/vldb/vldb27.html#MakreshanskiGAK18</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BraunMTK18" mdate="2021-01-29">
+<author pid="123/8661">Lucas Braun</author>
+<author pid="173/9193">Renato Marroquin</author>
+<author pid="18/10139">Ken Tsay</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>MTBase: Optimizing Cross-Tenant Database Queries.</title>
+<pages>13-24</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.03</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#BraunMTK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChandramouliPKL18" mdate="2018-11-21">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="217/3619">Guna Prasaad</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/3658">Justin J. Levandoski</author>
+<author pid="48/6924">James Hunter</author>
+<author pid="29/8730">Mike Barnett</author>
+<title>FASTER: A Concurrent Key-Value Store with In-Place Updates.</title>
+<pages>275-290</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196898</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#ChandramouliPKL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/KhanSK18" mdate="2021-02-01">
+<author pid="67/2933">Arijit Khan</author>
+<author pid="190/7057">Gustavo Segovia</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>On Smart Query Routing: For Distributed Graph Querying with Decoupled Storage.</title>
+<pages>401-412</pages>
+<year>2018</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc18/presentation/khan</ee>
+<crossref>conf/usenix/2018</crossref>
+<url>db/conf/usenix/usenix2018.html#KhanSK18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bigdataconf/2018" mdate="2021-04-09">
+<editor pid="88/6485">Naoki Abe</editor>
+<editor pid="92/309-1">Huan Liu 0001</editor>
+<editor pid="p/CaltonPu">Calton Pu</editor>
+<editor pid="h/XiaohuaHu">Xiaohua Hu 0001</editor>
+<editor pid="33/11518">Nesreen K. Ahmed</editor>
+<editor pid="67/2732">Mu Qiao</editor>
+<editor pid="24/4470">Yang Song</editor>
+<editor pid="k/DonaldKossmann">Donald Kossmann</editor>
+<editor pid="l/BingLiu1">Bing Liu 0001</editor>
+<editor pid="99/4464">Kisung Lee</editor>
+<editor pid="64/10812">Jiliang Tang</editor>
+<editor pid="34/2685">Jingrui He</editor>
+<editor pid="61/1466">Jeffrey S. Saltz</editor>
+<title>IEEE International Conference on Big Data, Big Data 2018, Seattle, WA, USA, December 10-13, 2018</title>
+<booktitle>IEEE BigData</booktitle>
+<publisher>IEEE</publisher>
+<year>2018</year>
+<isbn>978-1-5386-5035-6</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8610059/proceeding</ee>
+<url>db/conf/bigdataconf/bigdataconf2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02631" mdate="2018-10-05">
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="h/JoachimHammer">Joachim Hammer</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="03/2047">Jakub Szymaszek</author>
+<title>Pushing the Limits of Encrypted Databases with Secure Hardware.</title>
+<year>2018</year>
+<volume>abs/1809.02631</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02631</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02631</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiKCGK17" mdate="2020-04-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Mison: A Fast JSON Parser for Data Analytics.</title>
+<pages>1118-1129</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1118-li.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115416</ee>
+<url>db/journals/pvldb/pvldb10.html#LiKCGK17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PilmanBBMK17" mdate="2020-04-25">
+<author pid="61/418">Markus Pilman</author>
+<author pid="204/3628">Kevin Bocksrocker</author>
+<author pid="123/8661">Lucas Braun</author>
+<author pid="173/9193">Renato Marroquin</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Fast Scans on Key-Value Stores.</title>
+<pages>1526-1537</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1526-bocksrocker.pdf</ee>
+<ee>https://doi.org/10.14778/3137628.3137659</ee>
+<url>db/journals/pvldb/pvldb10.html#PilmanBBMK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/NushiKHK17" mdate="2021-02-10">
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="36/3834">Ece Kamar</author>
+<author pid="h/EricHorvitz">Eric Horvitz</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>On Human Intellect and Machine Failures: Troubleshooting Integrative Machine Learning Systems.</title>
+<pages>1017-1025</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15032</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NushiKHK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Kossmann17" mdate="2021-01-13">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Confidentiality &#224; la Carte with Cipherbase.</title>
+<pages>23</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#Kossmann17</url>
+<ee type="oa">https://dl.gi.de/20.500.12116/635</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ChandramouliGGK17" mdate="2020-03-12">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/3658">Justin J. Levandoski</author>
+<author pid="173/9193">Renato Marroquin</author>
+<author pid="70/8577">Wenlei Xie</author>
+<title>READY: Completeness is in the Eye of the Beholder.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p18-chandramouli-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#ChandramouliGGK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArasuEKKMPR17" mdate="2018-11-06">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="124/7251">Pingfan Meng</author>
+<author pid="83/7560">Vineet Pandey</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Concerto: A High Concurrency Key-Value Store with Integrity.</title>
+<pages>251-266</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064030</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#ArasuEKKMPR17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BraunMTK17" mdate="2018-08-13">
+<author pid="123/8661">Lucas Braun</author>
+<author pid="173/9193">Renato Marroquin</author>
+<author pid="18/10139">Kai-En Tsay</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>MTBase: Optimizing Cross-Tenant Database Queries.</title>
+<year>2017</year>
+<volume>abs/1703.04290</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.04290</ee>
+<url>db/journals/corr/corr1703.html#BraunMTK17</url>
+</article>
+</r>
+<r><article key="journals/cacm/AbadiAABBCCDDFG16" mdate="2018-11-06">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/JeffreyDean">Jeffrey Dean</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="00/11358">Todd Walter</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<title>The Beckman report on database research.</title>
+<pages>92-99</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2845915</ee>
+<url>db/journals/cacm/cacm59.html#AbadiAABBCCDDFG16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MakreshanskiGAK16" mdate="2020-04-25">
+<author pid="131/4149">Darko Makreshanski</author>
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>MQJoin: Efficient Shared Execution of Main-Memory Joins.</title>
+<pages>480-491</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p480-makreshanski.pdf</ee>
+<ee>https://doi.org/10.14778/2904121.2904124</ee>
+<url>db/journals/pvldb/pvldb9.html#MakreshanskiGAK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/hcomp/NushiS0K16" mdate="2021-02-10">
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="58/657">Adish Singla</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Learning and Feature Selection under Budget Constraints in Crowdsourcing.</title>
+<pages>159-168</pages>
+<year>2016</year>
+<booktitle>HCOMP</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/HCOMP/HCOMP16/paper/view/14032</ee>
+<crossref>conf/hcomp/2016</crossref>
+<url>db/conf/hcomp/hcomp2016.html#NushiS0K16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KhanZK16" mdate="2017-05-17">
+<author pid="67/2933">Arijit Khan</author>
+<author pid="181/9110">Benjamin Zehnder</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Revenue maximization by viral marketing: A social network host's perspective.</title>
+<pages>37-48</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498227</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498227</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#KhanZK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PilmanKKKP16" mdate="2018-11-06">
+<author pid="61/418">Markus Pilman</author>
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="181/5759">Florian K&#246;hl</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="166/8361">Damien Profeta</author>
+<title>ParTime: Parallel Temporal Aggregation.</title>
+<pages>999-1010</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2903732</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#PilmanKKKP16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GruenheidKS16" mdate="2018-08-13">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Online Event Integration with StoryPivot.</title>
+<year>2016</year>
+<volume>abs/1610.07732</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.07732</ee>
+<url>db/journals/corr/corr1610.html#GruenheidKS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KhanSK16" mdate="2018-08-13">
+<author pid="67/2933">Arijit Khan</author>
+<author pid="190/7057">Gustavo Segovia</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Let's Do Smart Routing: For Distributed Graph Querying with Decoupled Storage.</title>
+<year>2016</year>
+<volume>abs/1611.03959</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.03959</ee>
+<url>db/journals/corr/corr1611.html#KhanSK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NushiKHK16" mdate="2018-08-13">
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="36/3834">Ece Kamar</author>
+<author pid="h/EricHorvitz">Eric Horvitz</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>On Human Intellect and Machine Failures: Troubleshooting Integrative Machine Learning Systems.</title>
+<year>2016</year>
+<volume>abs/1611.08309</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.08309</ee>
+<url>db/journals/corr/corr1611.html#NushiKHK16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LoroGKPB15" mdate="2020-04-25">
+<author pid="166/8387">Alessandra Loro</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="166/8361">Damien Profeta</author>
+<author pid="166/8380">Philippe Beaudequin</author>
+<title>Indexing and Selecting Hierarchical Business Logic.</title>
+<pages>1656-1667</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1656-loro.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824064</ee>
+<url>db/journals/pvldb/pvldb8.html#LoroGKPB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/hcomp/NushiSGZKK15" mdate="2021-02-10">
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="58/657">Adish Singla</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Crowd Access Path Optimization: Diversity Matters.</title>
+<pages>130-139</pages>
+<year>2015</year>
+<booktitle>HCOMP</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/HCOMP/HCOMP15/paper/view/11577</ee>
+<crossref>conf/hcomp/2015</crossref>
+<url>db/conf/hcomp/hcomp2015.html#NushiSGZKK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ArasuEJKKR15" mdate="2017-05-17">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="15/9508">Manas Joglekar</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Transaction processing on confidential data using cipherbase.</title>
+<pages>435-446</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113304</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113304</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#ArasuEJKKR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KaufmannFMGGK15" mdate="2017-05-17">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="122/5424-2">Chang Ge 0002</author>
+<author pid="59/5488">Anil K. Goel</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Bi-temporal Timeline Index: A data structure for Processing Queries on bi-temporal data.</title>
+<pages>471-482</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113307</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113307</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#KaufmannFMGGK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/VanchinathanMRK15" mdate="2018-11-06">
+<author pid="151/6848">Hastagiri P. Vanchinathan</author>
+<author pid="164/6214">Andreas Marfurt</author>
+<author pid="84/7253">Charles-Antoine Robelin</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<title>Discovering Valuable items from Massive Data.</title>
+<pages>1195-1204</pages>
+<year>2015</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2783258.2783360</ee>
+<crossref>conf/kdd/2015</crossref>
+<url>db/conf/kdd/kdd2015.html#VanchinathanMRK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BraunEGKKWAILL15" mdate="2018-11-06">
+<author pid="123/8661">Lucas Braun</author>
+<author pid="163/0482">Thomas Etter</author>
+<author pid="163/0543">Georgios Gasparis</author>
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="84/2090">Daniel Widmer</author>
+<author pid="163/0584">Aharon Avitzur</author>
+<author pid="78/985">Anthony Iliopoulos</author>
+<author pid="64/1366">Eliezer Levy</author>
+<author pid="73/2796">Ning Liang</author>
+<title>Analytics in Motion: High Performance Event-Processing AND Real-Time Analytics in the Same Database.</title>
+<pages>251-264</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2742783</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#BraunEGKKWAILL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LoesingPEK15" mdate="2018-11-06">
+<author pid="74/7376">Simon Loesing</author>
+<author pid="61/418">Markus Pilman</author>
+<author pid="163/0482">Thomas Etter</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>On the Design and Scalability of Distributed Shared-Data Databases.</title>
+<pages>663-676</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2751519</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#LoesingPEK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GruenheidKRS15" mdate="2020-10-25">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0001-6148-1854" pid="51/11411">Theodoros Rekatsinas</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>StoryPivot: Comparing and Contrasting Story Evolution.</title>
+<pages>1415-1420</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735356</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#GruenheidKRS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BarthelsLAK15" mdate="2018-11-06">
+<author pid="123/3160">Claude Barthels</author>
+<author pid="74/7376">Simon Loesing</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Rack-Scale In-Memory Join Processing using RDMA.</title>
+<pages>1463-1475</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2750547</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#BarthelsLAK15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/VanchinathanMRK15" mdate="2018-08-13">
+<author pid="151/6848">Hastagiri P. Vanchinathan</author>
+<author pid="164/6214">Andreas Marfurt</author>
+<author pid="84/7253">Charles-Antoine Robelin</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<title>Discovering Valuable Items from Massive Data.</title>
+<year>2015</year>
+<volume>abs/1506.00935</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.00935</ee>
+<url>db/journals/corr/corr1506.html#VanchinathanMRK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NushiSGZKK15" mdate="2018-08-13">
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="58/657">Adish Singla</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Crowd Access Path Optimization: Diversity Matters.</title>
+<year>2015</year>
+<volume>abs/1508.01951</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.01951</ee>
+<url>db/journals/corr/corr1508.html#NushiSGZKK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GruenheidNKGK15" mdate="2018-08-13">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Fault-Tolerant Entity Resolution with the Crowd.</title>
+<year>2015</year>
+<volume>abs/1512.00537</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.00537</ee>
+<url>db/journals/corr/corr1512.html#GruenheidNKGK15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GiannikisMAK14" mdate="2020-04-25">
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="131/4149">Darko Makreshanski</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Shared Workload Optimization.</title>
+<pages>429-440</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p429-giannikis.pdf</ee>
+<ee>https://doi.org/10.14778/2732279.2732280</ee>
+<url>db/journals/pvldb/pvldb7.html#GiannikisMAK14</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBCCDDFGHHHIJKMMMNRMOORSSWW14" mdate="2020-03-06">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/JeffreyDean">Jeffrey Dean</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="00/11358">Todd Walter</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<title>The Beckman Report on Database Research.</title>
+<pages>61-70</pages>
+<year>2014</year>
+<volume>43</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2694428.2694441</ee>
+<url>db/journals/sigmod/sigmod43.html#AbadiAABBCCDDFGHHHIJKMMMNRMOORSSWW14</url>
+</article>
+</r>
+<r><article key="journals/vldb/UnterbrunnerAK14" mdate="2019-06-02">
+<author pid="64/6456">Philipp Unterbrunner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>High availability, elasticity, and strong consistency for massively parallel scans over relational data.</title>
+<pages>627-652</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s00778-013-0343-9</ee>
+<ee>https://www.wikidata.org/entity/Q59400827</ee>
+<url>db/journals/vldb/vldb23.html#UnterbrunnerAK14</url>
+</article>
+</r>
+<r><article key="journals/vldb/BinnigHFKLM14" mdate="2017-05-28">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="48/6743">Stefan Hildenbrand</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="46/6759">Juchang Lee</author>
+<author pid="89/6071">Norman May</author>
+<title>Distributed snapshot isolation: global transactions pay globally, local transactions pay locally.</title>
+<pages>987-1011</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-014-0359-9</ee>
+<url>db/journals/vldb/vldb23.html#BinnigHFKLM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbsec/SanamradBKV14" mdate="2018-07-04">
+<author pid="68/9726">Tahmineh Sanamrad</author>
+<author pid="123/8661">Lucas Braun</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Randomly Partitioned Encryption for Cloud Databases.</title>
+<pages>307-323</pages>
+<year>2014</year>
+<booktitle>DBSec</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43936-4_20</ee>
+<crossref>conf/dbsec/2014</crossref>
+<url>db/conf/dbsec/dbsec2014.html#SanamradBKV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KaufmannFMK14" mdate="2021-01-29">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?</title>
+<pages>738-749</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.80</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#KaufmannFMK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TinnefeldKBP14" mdate="2017-05-17">
+<author pid="43/7967">Christian Tinnefeld</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="85/2521">Joos-Hendrik B&#246;se</author>
+<author pid="58/3831">Hasso Plattner</author>
+<title>Parallel join executions in RAMCloud.</title>
+<pages>182-190</pages>
+<year>2014</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2014.6818325</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2014.6818325</ee>
+<crossref>conf/icde/2014w</crossref>
+<url>db/conf/icde/icdew2014.html#TinnefeldKBP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KhanYDK14" mdate="2018-11-06">
+<author pid="67/2933">Arijit Khan</author>
+<author pid="147/1261">Pouya Yanki</author>
+<author pid="147/1238">Bojana Dimcheva</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Towards indexing functions: answering scalar product queries.</title>
+<pages>241-252</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610493</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#KhanYDK14</url>
+</inproceedings>
+</r>
+<r><article key="journals/eatcs/GruenheidKNG13" mdate="2021-02-12">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="117/4927">Besmira Nushi</author>
+<title>When is A=B?</title>
+<year>2013</year>
+<volume>111</volume>
+<journal>Bull. EATCS</journal>
+<ee type="oa">http://eatcs.org/beatcs/index.php/beatcs/article/view/206</ee>
+<url>db/journals/eatcs/eatcs111.html#GruenheidKNG13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KaufmannVFKF13" mdate="2020-04-25">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="43/11411">Panagiotis Vagenas</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Comprehensive and Interactive Temporal Query Processing with SAP HANA.</title>
+<pages>1210-1213</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1210-kaufmann.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536278</ee>
+<url>db/journals/pvldb/pvldb6.html#KaufmannVFKF13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlexiouKL13" mdate="2020-04-25">
+<author pid="137/6756">Karolina Alexiou</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<title>Adaptive Range Filters for Cold Data: Avoiding Trips to Siberia.</title>
+<pages>1714-1725</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1714-kossmann.pdf</ee>
+<ee>https://doi.org/10.14778/2556549.2556556</ee>
+<url>db/journals/pvldb/pvldb6.html#AlexiouKL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ArasuBEKKRV13" mdate="2020-03-12">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Orthogonal Security with Cipherbase.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper33.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#ArasuBEKKRV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbcrowd/GruenheidK13" mdate="2019-05-28">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Cost and Quality Trade-Offs in Crowdsourcing.</title>
+<pages>43-46</pages>
+<year>2013</year>
+<booktitle>DBCrowd</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1025/vision2.pdf</ee>
+<crossref>conf/dbcrowd/2013</crossref>
+<url>db/conf/dbcrowd/dbcrowd2013.html#GruenheidK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/TinnefeldKGBRSP13" mdate="2018-11-06">
+<author pid="43/7967">Christian Tinnefeld</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="90/5189">Martin Grund</author>
+<author pid="85/2521">Joos-Hendrik Boese</author>
+<author pid="121/4087">Frank Renkes</author>
+<author pid="87/1055">Vishal Sikka</author>
+<author pid="58/3831">Hasso Plattner</author>
+<title>Elastic online analytical processing on RAMCloud.</title>
+<pages>454-464</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452429</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#TinnefeldKGBRSP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/ArasuEKKRV13" mdate="2017-05-21">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>A secure coprocessor for database applications.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2013.6645524</ee>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#ArasuEKKRV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KaufmannMHKT13" mdate="2017-05-17">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="131/4158">Amin Amiri Manjili</author>
+<author pid="48/6743">Stefan Hildenbrand</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="131/4823">Andreas Tonder</author>
+<title>Time travel in column stores.</title>
+<pages>110-121</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544818</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544818</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#KaufmannMHKT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KaufmannFKM13" mdate="2017-05-17">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="89/6071">Norman May</author>
+<title>A generic database benchmarking service.</title>
+<pages>1276-1279</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544923</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544923</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#KaufmannFKM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdmw/SanamradK13" mdate="2017-05-23">
+<author pid="68/9726">Tahmineh Sanamrad</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Query Log Attack on Encrypted Databases.</title>
+<pages>95-107</pages>
+<year>2013</year>
+<booktitle>Secure Data Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06811-4_14</ee>
+<crossref>conf/sdmw/2013</crossref>
+<url>db/conf/sdmw/sdmw2013.html#SanamradK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArasuBEJKKRUV13" mdate="2018-11-06">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="15/9508">Manas Joglekar</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="54/1412">Prasang Upadhyaya</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Secure database-as-a-service with Cipherbase.</title>
+<pages>1033-1036</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2467797</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#ArasuBEJKKRUV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GiannikisMAK13" mdate="2018-11-06">
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="131/4149">Darko Makreshanski</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Workload optimization using SharedDB.</title>
+<pages>1045-1048</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463678</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#GiannikisMAK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KaufmannMVFKFM13" mdate="2018-11-06">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="131/4158">Amin Amiri Manjili</author>
+<author pid="43/11411">Panagiotis Vagenas</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="89/6071">Norman May</author>
+<title>Timeline index: a unified data structure for processing queries on temporal data in SAP HANA.</title>
+<pages>1173-1184</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465293</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#KaufmannMVFKFM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/KaufmannFMTK13" mdate="2017-05-23">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="131/4823">Andreas Tonder</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>TPC-BiH: A Benchmark for Bitemporal Databases.</title>
+<pages>16-31</pages>
+<year>2013</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04936-6_2</ee>
+<crossref>conf/tpctc/2013</crossref>
+<url>db/conf/tpctc/tpctc2013.html#KaufmannFMTK13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-1903" mdate="2018-08-13">
+<author pid="37/3843">Mario Paolucci</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="53/3352">Rosaria Conte</author>
+<author pid="l/PaulLukowicz">Paul Lukowicz</author>
+<author pid="36/5990">Panos Argyrakis</author>
+<author pid="b/AnnBlandford">Ann Blandford</author>
+<author pid="47/11237">Giulia Bonelli</author>
+<author pid="16/397">Stuart Anderson</author>
+<author pid="28/2925">Sara de Freitas</author>
+<author pid="62/5243">Bruce Edmonds</author>
+<author pid="g/GNigelGilbert">Nigel Gilbert</author>
+<author pid="g/MarkusHGross">Markus H. Gross</author>
+<author pid="19/4077">J&#246;rn Kohlhammer</author>
+<author pid="70/5363">Petros Koumoutsakos</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="00/8381">Bj&#246;rn-Ola Linn&#233;r</author>
+<author pid="s/PhilippSlusallek">Philipp Slusallek</author>
+<author pid="s/OlgaSorkine">Olga Sorkine</author>
+<author pid="30/4038">Robert W. Sumner</author>
+<author pid="78/6036">Dirk Helbing</author>
+<title>Towards a living earth simulator</title>
+<ee type="oa">http://arxiv.org/abs/1304.1903</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.1903</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-1903</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-3700" mdate="2018-08-13">
+<author pid="g/FoscaGiannotti">Fosca Giannotti</author>
+<author pid="p/DPedreschi">Dino Pedreschi</author>
+<author pid="p/AlexPentland">Alex Pentland</author>
+<author pid="l/PaulLukowicz">Paul Lukowicz</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="50/3289">James L. Crowley</author>
+<author pid="78/6036">Dirk Helbing</author>
+<title>A planetary nervous system for social mining and collective awareness</title>
+<ee type="oa">http://arxiv.org/abs/1304.3700</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.3700</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-3700</url>
+</article>
+</r>
+<r><article key="journals/debu/ArasuBEJKKRUV12" mdate="2020-03-10">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="15/9508">Manas Joglekar</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="54/1412">Prasang Upadhyaya</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Engineering Security and Performance with Cipherbase.</title>
+<pages>65-72</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A12dec/cipher.pdf</ee>
+<url>db/journals/debu/debu35.html#ArasuBEJKKRUV12</url>
+</article>
+</r>
+<r><article key="journals/debu/SanamradNWKB12" mdate="2020-03-10">
+<author pid="68/9726">Tahmineh Sanamrad</author>
+<author pid="123/8674">Patrick Nick</author>
+<author pid="84/2090">Daniel Widmer</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="123/8661">Lucas Braun</author>
+<title>My Private Google Calendar and GMail.</title>
+<pages>83-92</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A12dec/my-private.pdf</ee>
+<url>db/journals/debu/debu35.html#SanamradNWKB12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GiannikisAK12" mdate="2020-04-25">
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>SharedDB: Killing One Thousand Queries With One Stone.</title>
+<pages>526-537</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p526_georgiosgiannikis_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2168651.2168654</ee>
+<url>db/journals/pvldb/pvldb5.html#GiannikisAK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BlunschiJKMS12" mdate="2020-04-25">
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="71/2922">Claudio Jossen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/10440">Magdalini Mori</author>
+<author pid="38/5145">Kurt Stockinger</author>
+<title>SODA: Generating SQL for Business Users.</title>
+<pages>932-943</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p932_lukasblunschi_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2336664.2336667</ee>
+<url>db/journals/pvldb/pvldb5.html#BlunschiJKMS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LoesingHKK12" mdate="2018-11-06">
+<author pid="74/7376">Simon Loesing</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Stormy: an elastic and highly available streaming service in the cloud.</title>
+<pages>55-60</pages>
+<year>2012</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee>https://doi.org/10.1145/2320765.2320789</ee>
+<crossref>conf/edbt/2012w</crossref>
+<url>db/conf/edbt/edbtw2012.html#LoesingHKK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BotanFKT12" mdate="2018-11-06">
+<author pid="62/5535">Irina Botan</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Transactional stream processing.</title>
+<pages>204-215</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247622</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#BotanFKT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/JossenBMKS12" mdate="2017-05-17">
+<author pid="71/2922">Claudio Jossen</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="54/10440">Magdalini Mori</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="38/5145">Kurt Stockinger</author>
+<title>The Credit Suisse Meta-data Warehouse.</title>
+<pages>1382-1393</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.41</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#JossenBMKS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Kossman12" mdate="2019-05-28">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Using the Crowd to Solve Database Problems.</title>
+<pages>1</pages>
+<year>2012</year>
+<booktitle>CrowdSearch</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-842/crowdsearch-kossman.pdf</ee>
+<crossref>conf/www/2012crowdsearch</crossref>
+<url>db/conf/www/crowdsearch2012.html#Kossman12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-0056" mdate="2018-08-13">
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>SharedDB: Killing One Thousand Queries With One Stone</title>
+<ee type="oa">http://arxiv.org/abs/1203.0056</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.0056</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-0056</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0134" mdate="2018-08-13">
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="71/2922">Claudio Jossen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/10440">Magdalini Mori</author>
+<author pid="38/5145">Kurt Stockinger</author>
+<title>SODA: Generating SQL for Business Users</title>
+<ee type="oa">http://arxiv.org/abs/1207.0134</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0134</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0134</url>
+</article>
+</r>
+<r><article key="journals/bise/LoosLVZKMLKFGW11" mdate="2020-03-06">
+<author pid="l/PeterLoos">Peter Loos</author>
+<author pid="13/4189">Jens Lechtenb&#246;rger</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<author pid="52/6897">Alexander Zeier</author>
+<author pid="41/3476-3">Jens Kr&#252;ger 0003</author>
+<author pid="m/JurgenMuller3">J&#252;rgen M&#252;ller 0003</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0002-9585-1814" pid="68/261">Benjamin Fabian</author>
+<author orcid="0000-0002-0079-0423" pid="g/OliverGunther">Oliver G&#252;nther</author>
+<author pid="84/285">Robert Winter 0001</author>
+<title>In-memory Databases in Business Information Systems.</title>
+<pages>389-395</pages>
+<year>2011</year>
+<volume>3</volume>
+<journal>Bus. Inf. Syst. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s12599-011-0188-y</ee>
+<ee>https://www.wikidata.org/entity/Q57603372</ee>
+<url>db/journals/bise/bise3.html#LoosLVZKMLKFGW11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FengFKKMRWX11" mdate="2020-04-25">
+<author pid="73/10355">Amber Feng</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="62/58">Sukriti Ramesh</author>
+<author pid="58/5765-2">Andrew Wang 0002</author>
+<author pid="47/7258">Reynold Xin</author>
+<title>CrowdDB: Query Processing with the VLDB Crowd.</title>
+<pages>1387-1390</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1387-feng.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#FengFKKMRWX11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GrinevGHK11" mdate="2020-04-25">
+<author pid="01/4258">Maxim Grinev</author>
+<author pid="69/3201">Maria P. Grineva</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Analytics for the Real-Time Web.</title>
+<pages>1391-1394</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1391-grinev.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#GrinevGHK11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DoanFKK11" mdate="2020-04-25">
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Crowdsourcing Applications and Platforms: A Data Management Perspective.</title>
+<pages>1508-1509</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1508-doan-tutorial4.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#DoanFKK11</url>
+</article>
+</r>
+<r><article key="journals/wi/LoosLVZKMLKFGW11" mdate="2020-05-21">
+<author pid="l/PeterLoos">Peter Loos</author>
+<author orcid="0000-0002-3064-147X" pid="13/4189">Jens Lechtenb&#246;rger</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<author pid="52/6897">Alexander Zeier</author>
+<author pid="41/3476-3">Jens Kr&#252;ger 0003</author>
+<author pid="m/JurgenMuller3">J&#252;rgen M&#252;ller 0003</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="68/261">Benjamin Fabian</author>
+<author pid="g/OliverGunther">Oliver G&#252;nther</author>
+<author pid="84/285">Robert Winter 0001</author>
+<title>In-Memory-Datenmanagement in betrieblichen Anwendungssystemen.</title>
+<pages>383-390</pages>
+<year>2011</year>
+<volume>53</volume>
+<journal>Wirtsch.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11576-011-0296-9</ee>
+<url>db/journals/wi/wi53.html#LoosLVZKMLKFGW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/AlonsoKR11" mdate="2020-03-12">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>SWissBox: An Architecture for Data Processing Appliances.</title>
+<pages>32-37</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper4.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#AlonsoKR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/BlunschiJKMS11" mdate="2018-11-06">
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="71/2922">Claudio Jossen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/10440">Magdalini Mori</author>
+<author pid="38/5145">Kurt Stockinger</author>
+<title>Data-thirsty business analysts need SODA: search over data warehouse.</title>
+<pages>2525-2528</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2064009</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#BlunschiJKMS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FranklinKKRX11" mdate="2018-11-06">
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="62/58">Sukriti Ramesh</author>
+<author pid="47/7258">Reynold Xin</author>
+<title>CrowdDB: answering queries with crowdsourcing.</title>
+<pages>61-72</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989331</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#FranklinKKRX11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/AilamakiCKLM11" mdate="2017-11-07">
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="29/204">Steve Loughran</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Information Management in the Cloud (Dagstuhl Seminar 11321).</title>
+<pages>1-28</pages>
+<year>2011</year>
+<volume>1</volume>
+<journal>Dagstuhl Reports</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.1.8.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports1.html#AilamakiCKLM11</url>
+</article>
+</r>
+<r><article key="journals/dbsk/KossmannK10" mdate="2020-02-04">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Data Management in the Cloud: Promises, State-of-the-art, and Open Questions.</title>
+<pages>121-129</pages>
+<year>2010</year>
+<volume>10</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-010-0033-3</ee>
+<url>db/journals/dbsk/dbsk10.html#KossmannK10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KossmannKLMMP10" mdate="2020-04-25">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="74/7376">Simon Loesing</author>
+<author pid="51/8510">Stephan Merkli</author>
+<author pid="55/3545">Raman Mittal</author>
+<author pid="31/8510">Flavio Pfaffhauser</author>
+<title>Cloudy: A Modular Cloud Storage System.</title>
+<pages>1533-1536</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D05.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921031</ee>
+<url>db/journals/pvldb/pvldb3.html#KossmannKLMMP10</url>
+</article>
+</r>
+<r><article key="journals/vldb/LoBKOH10" mdate="2020-10-08">
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author orcid="0000-0002-0570-2904" pid="51/534">Wing-Kai Hon</author>
+<title>A framework for testing DBMS features.</title>
+<pages>203-230</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-009-0157-y</ee>
+<url>db/journals/vldb/vldb19.html#LoBKOH10</url>
+</article>
+</r>
+<r><article key="journals/vldb/DudaKZ10" mdate="2017-05-28">
+<author pid="57/2740">Cristian Duda</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="42/5942">Chong Zhou</author>
+<title>Predicate-based indexing for desktop search.</title>
+<pages>735-758</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-010-0187-5</ee>
+<url>db/journals/vldb/vldb19.html#DudaKZ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Kossmann10" mdate="2017-05-17">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>How new is the cloud?</title>
+<pages>3</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447647</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447647</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#Kossmann10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HaasMKH10" mdate="2017-05-17">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<title>A first step towards integration independence.</title>
+<pages>147-150</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452753</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452753</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#HaasMKH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KossmannKL10" mdate="2018-11-06">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="74/7376">Simon Loesing</author>
+<title>An evaluation of alternative architectures for transaction processing in the cloud.</title>
+<pages>579-590</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807231</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#KossmannKL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GiannikisUMAFK10" mdate="2018-11-06">
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="64/6456">Philipp Unterbrunner</author>
+<author pid="86/8165">Jeremy Meyer</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="49/7259">Dietmar Fauser</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Crescando.</title>
+<pages>1227-1230</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807326</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#GiannikisUMAFK10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AgrawalABBCCDFFGGGHHHIKKMMOORSSSW09" mdate="2020-10-26">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author orcid="0000-0003-0250-9268" pid="b/EricABrewer">Eric A. Brewer</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="g/LeGruenwald">Le Gruenwald</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="k/HenryFKorth">Henry F. Korth</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="22/4992">Roger Magoulas</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="90/3808">Tim O'Reilly</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="s/SunitaSarawagi">Sunita Sarawagi</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>The Claremont report on database research.</title>
+<pages>56-65</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/1516046.1516062</ee>
+<url>db/journals/cacm/cacm52.html#AgrawalABBCCDFFGGGHHHIKKMMOORSSSW09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KraskaHAK09" mdate="2020-04-25">
+<author pid="26/6037">Tim Kraska</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Consistency Rationing in the Cloud: Pay only when it matters.</title>
+<pages>253-264</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-759.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687657</ee>
+<url>db/journals/pvldb/pvldb2.html#KraskaHAK09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/UnterbrunnerGAFK09" mdate="2020-04-25">
+<author pid="64/6456">Philipp Unterbrunner</author>
+<author pid="16/7259">Georgios Giannikis</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="49/7259">Dietmar Fauser</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Predictable Performance for Unpredictable Workloads.</title>
+<pages>706-717</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-323.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687707</ee>
+<url>db/journals/pvldb/pvldb2.html#UnterbrunnerGAFK09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BamfordBBFFGKKMNZ09" mdate="2020-04-25">
+<author pid="84/3381">Roger Bamford</author>
+<author pid="43/3643">Vinayak R. Borkar</author>
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="59/172">David A. Graf</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="07/4770">Dan Muresan</author>
+<author pid="77/7258">Sorin Nasoi</author>
+<author pid="15/7259">Markos Zacharioudaki</author>
+<title>XQuery Reloaded.</title>
+<pages>1342-1353</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-1078.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687560</ee>
+<url>db/journals/pvldb/pvldb2.html#BamfordBBFFGKKMNZ09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiCHKMB09" mdate="2020-04-25">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>How Best to Build Web-Scale Data Managers? A Panel Discussion.</title>
+<pages>1647</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-panel2.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687616</ee>
+<url>db/journals/pvldb/pvldb2.html#AbadiCHKMB09</url>
+</article>
+</r>
+<r><article key="journals/sigmod/FlorescuK09" mdate="2020-03-06">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Rethinking cost and performance of database systems.</title>
+<pages>43-48</pages>
+<year>2009</year>
+<volume>38</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1558334.1558339</ee>
+<url>db/journals/sigmod/sigmod38.html#FlorescuK09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BotanAFKT09" mdate="2018-11-06">
+<author pid="62/5535">Irina Botan</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Flexible and scalable storage management for data-intensive stream processing.</title>
+<pages>934-945</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516467</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#BotanAFKT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/HaasHKM09" mdate="2017-05-25">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Schema AND Data: A Holistic Approach to Mapping, Resolution and Fusion in Information Integration.</title>
+<pages>27-40</pages>
+<year>2009</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04840-1_5</ee>
+<crossref>conf/er/2009</crossref>
+<url>db/conf/er/er2009.html#HaasHKM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DudaFKMZ09" mdate="2017-05-17">
+<author pid="57/2740">Cristian Duda</author>
+<author pid="12/801">Gianni Frey</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="20/6564">Reto Matter</author>
+<author pid="42/5942">Chong Zhou</author>
+<title>AJAX Crawl: Making AJAX Applications Searchable.</title>
+<pages>78-89</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.90</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#DudaFKMZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/KaufmannK09" mdate="2018-06-26">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Developing an Enterprise Web Application in XQuery.</title>
+<pages>465-468</pages>
+<year>2009</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02818-2_39</ee>
+<crossref>conf/icwe/2009</crossref>
+<url>db/conf/icwe/icwe2009.html#KaufmannK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKKL09" mdate="2018-11-06">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="74/7376">Simon Loesing</author>
+<title>How is the weather tomorrow?: towards a benchmark for the cloud.</title>
+<year>2009</year>
+<booktitle>DBTest</booktitle>
+<ee>https://doi.org/10.1145/1594156.1594168</ee>
+<crossref>conf/sigmod/2009dbtest</crossref>
+<url>db/conf/sigmod/dbtest2009.html#BinnigKKL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/FournyPFKKM09" mdate="2018-11-06">
+<author pid="86/1723">Ghislain Fourny</author>
+<author pid="61/418">Markus Pilman</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="38/1216">Darin McBeath</author>
+<title>XQuery in the browser.</title>
+<pages>1011-1020</pages>
+<year>2009</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1526709.1526845</ee>
+<crossref>conf/www/2009</crossref>
+<url>db/conf/www/www2009.html#FournyPFKKM09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2009" mdate="2021-03-11">
+<editor pid="c/UgurCetintemel">Ugur &#199;etintemel</editor>
+<editor pid="z/SBZdonik">Stanley B. Zdonik</editor>
+<editor pid="k/DonaldKossmann">Donald Kossmann</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2009, Providence, Rhode Island, USA, June 29 - July 2, 2009</title>
+<booktitle>SIGMOD Conference</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-551-2</isbn>
+<ee>https://doi.org/10.1145/1559845</ee>
+<url>db/conf/sigmod/sigmod2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/BinnigKL08" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<title>Towards Automatic Test Database Generation.</title>
+<pages>28-35</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A08mar/binnig.pdf</ee>
+<url>db/journals/debu/debu31.html#BinnigKL08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DudaFKZ08" mdate="2020-04-25">
+<author pid="57/2740">Cristian Duda</author>
+<author pid="12/801">Gianni Frey</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="42/5942">Chong Zhou</author>
+<title>AJAXSearch: crawling, indexing and searching web 2.0 applications.</title>
+<pages>1440-1443</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454195.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454195</ee>
+<url>db/journals/pvldb/pvldb1.html#DudaFKZ08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Amer-YahiaMHDAKW08" mdate="2020-03-06">
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Databases and Web 2.0 panel at VLDB 2007.</title>
+<pages>49-52</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1374780.1374794</ee>
+<url>db/journals/sigmod/sigmod37.html#Amer-YahiaMHDAKW08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AgrawalABBCCDFFGGGHHHIKKMMOORSSSW08" mdate="2020-10-26">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author orcid="0000-0003-0250-9268" pid="b/EricABrewer">Eric A. Brewer</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="g/LeGruenwald">Le Gruenwald</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="k/HenryFKorth">Henry F. Korth</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="22/4992">Roger Magoulas</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="90/3808">Tim O'Reilly</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="s/SunitaSarawagi">Sunita Sarawagi</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>The Claremont report on database research.</title>
+<pages>9-19</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1462571.1462573</ee>
+<ee>https://www.wikidata.org/entity/Q56582453</ee>
+<url>db/journals/sigmod/sigmod37.html#AgrawalABBCCDFFGGGHHHIKKMMOORSSSW08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AlonsoKRTBBFRT08" mdate="2020-03-06">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="53/6957">Andrew Baumann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="53/3712">Oriana Riva</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>The ETH Zurich systems group and enterprise computing center.</title>
+<pages>94-99</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1519103.1519120</ee>
+<url>db/journals/sigmod/sigmod37.html#AlonsoKRTBBFRT08</url>
+</article>
+</r>
+<r><article key="journals/wi/LotzPFKMP08" mdate="2020-05-21">
+<author pid="32/383">Volkmar Lotz</author>
+<author pid="92/6686">Emmanuel Pigout</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0002-1091-8486" pid="59/6145">Fabio Massacci</author>
+<author pid="98/5319">Alexander Pretschner</author>
+<title>Towards Systematic Achievement of Compliance in Service-Oriented Architectures: The MASTER Approach.</title>
+<pages>383-391</pages>
+<year>2008</year>
+<volume>50</volume>
+<journal>Wirtsch.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11576-008-0086-1</ee>
+<url>db/journals/wi/wi50.html#LotzPFKMP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/Kossmann08" mdate="2018-11-06">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Building web applications without a database system.</title>
+<pages>3</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353347</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#Kossmann08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RamanSQRDKNS08" mdate="2017-05-17">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="46/4288">Garret Swart</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="95/459">Frederick Reiss</author>
+<author pid="60/6249">Vijay Dialani</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="84/3614">Richard Sidle</author>
+<title>Constant-Time Query Processing.</title>
+<pages>60-69</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497414</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497414</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#RamanSQRDKNS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BinnigKLS08" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="65/6866">Angel Saenz-Badillos</author>
+<title>Automatic Result Verification for the Functional Testing of a Query Language.</title>
+<pages>1534-1536</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497614</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497614</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#BinnigKLS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKL08" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Multi-RQP: generating test databases for the functional testing of OLTP applications.</title>
+<pages>5</pages>
+<year>2008</year>
+<booktitle>DBTest</booktitle>
+<ee>https://doi.org/10.1145/1385269.1385276</ee>
+<crossref>conf/sigmod/2008dbtest</crossref>
+<url>db/conf/sigmod/dbtest2008.html#BinnigKL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BrantnerFGKK08" mdate="2018-11-06">
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="59/172">David A. Graf</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Building a database on S3.</title>
+<pages>251-264</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376645</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#BrantnerFGKK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FournyKKPF08" mdate="2018-11-06">
+<author pid="86/1723">Ghislain Fourny</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="61/418">Markus Pilman</author>
+<author pid="70/3007">Daniela Florescu</author>
+<title>XQuery in the browser.</title>
+<pages>1337-1340</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376769</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#FournyKKPF08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2008dbtest" mdate="2021-03-11">
+<editor pid="31/3294">Leo Giakoumakis</editor>
+<editor pid="k/DonaldKossmann">Donald Kossmann</editor>
+<title>Proceedings of the 1st International Workshop on Testing Database Systems, DBTest 2008, Vancouver, BC, Canada, June 13, 2008</title>
+<booktitle>DBTest</booktitle>
+<publisher>ACM</publisher>
+<year>2008</year>
+<isbn>978-1-60558-233-7</isbn>
+<ee>https://doi.org/10.1145/1385269</ee>
+<url>db/conf/sigmod/dbtest2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pik/AbererABBBDKPTV07" mdate="2020-06-24">
+<author pid="a/KarlAberer">Karl Aberer</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="b/GBarrenetxea">Guillermo Barrenetxea</author>
+<author pid="15/6935">Jan Beutel</author>
+<author pid="65/9849">Jacques Bovay</author>
+<author pid="03/4325">Henri Dubois-Ferri&#232;re</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0001-6972-4371" pid="28/4718">Marc Parlange</author>
+<author pid="t/LotharThiele">Lothar Thiele</author>
+<author pid="v/MVetterli">Martin Vetterli</author>
+<title>Infrastructures for a Smart Earth - The Swiss NCCR-MICS initiative -.</title>
+<pages>20-25</pages>
+<year>2007</year>
+<volume>30</volume>
+<journal>PIK Prax. Informationsverarbeitung Kommun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1515/PIKO.2007.20</ee>
+<url>db/journals/pik/pik30.html#AbererABBBDKPTV07</url>
+</article>
+</r>
+<r><article key="journals/vldb/HaftmannKL07" mdate="2020-10-08">
+<author pid="46/6613">Florian Haftmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>A framework for efficient regression tests on database applications.</title>
+<pages>145-164</pages>
+<year>2007</year>
+<volume>16</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-006-0028-8</ee>
+<url>db/journals/vldb/vldb16.html#HaftmannKL07</url>
+</article>
+</r>
+<r><article key="journals/wi/WeissKKGLMHBIPK07" mdate="2020-05-21">
+<author pid="79/894">Daniel Wei&#223; 0001</author>
+<author pid="69/2545">J&#246;rn Kaack</author>
+<author pid="k/StefanKirn">Stefan Kirn</author>
+<author pid="86/1898">Maike Gilliot</author>
+<author pid="66/4848">Lutz Lowis</author>
+<author pid="74/5441">G&#252;nter M&#252;ller</author>
+<author pid="24/3228">Andrea Herrmann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="i/TimeaIlles">Timea Illes</author>
+<author pid="p/BarbaraPaech">Barbara Paech</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Die SIKOSA-Methodik.</title>
+<pages>188-198</pages>
+<year>2007</year>
+<volume>49</volume>
+<journal>Wirtsch.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11576-007-0049-y</ee>
+<url>db/journals/wi/wi49.html#WeissKKGLMHBIPK07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/MullerAK07" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>SwissQM: Next Generation Data Processing in Sensor Networks.</title>
+<pages>1-9</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p01.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#MullerAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/DudaGK07" mdate="2020-03-12">
+<author pid="57/2740">Cristian Duda</author>
+<author pid="59/172">David A. Graf</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Predicate-based Indexing of Enterprise Web Applications.</title>
+<pages>102-107</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p11.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#DudaGK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/MullerAK07" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A virtual machine for sensor networks.</title>
+<pages>145-158</pages>
+<year>2007</year>
+<crossref>conf/eurosys/2007</crossref>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/1272996.1273013</ee>
+<url>db/conf/eurosys/eurosys2007.html#MullerAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BinnigKL07" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Reverse Query Processing.</title>
+<pages>506-515</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367896</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367896</ee>
+<url>db/conf/icde/icde2007.html#BinnigKL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DittrichDJKS07" mdate="2017-05-17">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="57/2740">Cristian Duda</author>
+<author pid="55/5371">Bjorn Jarisch</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Bringing Precision to Desktop Search: A Predicate-based Desktop Search Architecture.</title>
+<pages>1461-1465</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369036</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369036</ee>
+<url>db/conf/icde/icde2007.html#DittrichDJKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKLO07" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<title>QAGen: generating query-aware test databases.</title>
+<pages>341-352</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247520</ee>
+<url>db/conf/sigmod/sigmod2007.html#BinnigKLO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MullerRDAK07" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="21/4498">Jan S. Rellermeyer</author>
+<author pid="45/1113">Michael Duller</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A dynamic and flexible sensor network platform.</title>
+<pages>1085-1087</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247615</ee>
+<url>db/conf/sigmod/sigmod2007.html#MullerRDAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DullerTAK07" mdate="2018-11-06">
+<author pid="45/1113">Michael Duller</author>
+<author pid="36/6557">Rokas Tamosevicius</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>XTream: personal data streams.</title>
+<pages>1088-1090</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247616</ee>
+<url>db/conf/sigmod/sigmod2007.html#DullerTAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BotanFFKKT07" mdate="2020-03-12">
+<author pid="62/5535">Irina Botan</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="36/6557">Rokas Tamosevicius</author>
+<title>Extending XQuery with Window Functions.</title>
+<pages>75-86</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p75-botan.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#BotanFFKKT07</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/KossmannA06" mdate="2020-02-24">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Software Mass Customization.</title>
+<pages>5-14</pages>
+<year>2006</year>
+<volume>19</volume>
+<journal>Datenbank-Spektrum</journal>
+<ee type="archive">http://www.datenbank-spektrum.de/v2/archiv/beitrag.html?key=dbspektrum/KossmannA06&#38;nummer=19</ee>
+<url>db/journals/dbsk/dbsk2006.html#KossmannA06</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbererAK06" mdate="2020-03-06">
+<author pid="a/KarlAberer">Karl Aberer</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Data management for a smart earth: the Swiss NCCR-MICS initiative.</title>
+<pages>40-45</pages>
+<year>2006</year>
+<volume>35</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1228268.1228277</ee>
+<url>db/journals/sigmod/sigmod35.html#AbererAK06</url>
+</article>
+</r>
+<r><inproceedings key="conf/dmsn/FischerK06" mdate="2018-11-06">
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Quality of service in stateful information filters.</title>
+<pages>41-46</pages>
+<year>2006</year>
+<booktitle>DMSN</booktitle>
+<ee>https://doi.org/10.1145/1315903.1315913</ee>
+<crossref>conf/dmsn/2006</crossref>
+<url>db/conf/dmsn/dmsn2006.html#FischerK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKL06" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Testing database applications.</title>
+<pages>739-741</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142572</ee>
+<url>db/conf/sigmod/sigmod2006.html#BinnigKL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FlorescuK06" mdate="2018-11-06">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Programming for XML.</title>
+<pages>801</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142597</ee>
+<url>db/conf/sigmod/sigmod2006.html#FlorescuK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/ChamberlinCFKR06" mdate="2017-11-07">
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="08/5419">Jonathan Robie</author>
+<title>Programming with XQuery.</title>
+<year>2006</year>
+<crossref>conf/ximep/2006</crossref>
+<booktitle>XIME-P</booktitle>
+<ee>http://www.ximep-2006.org/papers/Paper-Chamberlin-Carey.pdf</ee>
+<url>db/conf/ximep/ximep2006.html#ChamberlinCFKR06</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/OzsuKM05" mdate="2017-06-09">
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Special issue: Best papers of VLDB 2004.</title>
+<pages>355-356</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-005-0179-z</ee>
+<url>db/journals/vldb/vldb14.html#OzsuKM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HaftmannKK05" mdate="2020-03-12">
+<author pid="46/6613">Florian Haftmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<title>Efficient Regression Tests for Database Applications.</title>
+<pages>95-106</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P08.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#HaftmannKK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FischerK05" mdate="2017-05-17">
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Batched Processing for Information Filters.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#FischerK05</url>
+<pages>902-913</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.25</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/KossmannR05" mdate="2017-05-19">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="51/387">Christian Reichel</author>
+<title>SLL: Running My Web Services on Your WS Platforms.</title>
+<pages>759-766</pages>
+<year>2005</year>
+<crossref>conf/icws/2005</crossref>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2005.113</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2005.113</ee>
+<url>db/conf/icws/icws2005.html#KossmannR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FischerKD05" mdate="2018-11-06">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>AGILE: Adaptive Indexing for Context-Aware Information Filters.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#FischerKD05</url>
+<pages>215-226</pages>
+<ee>https://doi.org/10.1145/1066157.1066183</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HaftmannKL05" mdate="2020-10-08">
+<author pid="46/6613">Florian Haftmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<title>Parallel Execution of Test Runs for Database Application Systems.</title>
+<pages>589-600</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/thu/p589-haftmann.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083662</ee>
+<url>db/conf/vldb/vldb2005.html#HaftmannKL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DittrichKK05" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<title>Bridging the Gap between OLAP and SQL.</title>
+<pages>1031-1042</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p1031-dittrich.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083711</ee>
+<url>db/conf/vldb/vldb2005.html#DittrichKK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DittrichSKB05" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<title>iMeMex: Escapes from the Personal Information Jungle.</title>
+<pages>1306-1309</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1306-dittrich.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083759</ee>
+<url>db/conf/vldb/vldb2005.html#DittrichSKB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/widm/Kossmann05" mdate="2018-11-06">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A web of data: new architectures for new technology.</title>
+<pages>1</pages>
+<year>2005</year>
+<crossref>conf/widm/2005</crossref>
+<booktitle>WIDM</booktitle>
+<ee>https://doi.org/10.1145/1097047.1097048</ee>
+<url>db/conf/widm/widm2005.html#Kossmann05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KossmannR05" mdate="2018-11-06">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="51/387">Christian Reichel</author>
+<title>SLL: running my web services on your WS platforms.</title>
+<pages>962-963</pages>
+<year>2005</year>
+<crossref>conf/www/2005si</crossref>
+<booktitle>WWW (Special interest tracks and posters)</booktitle>
+<ee>https://doi.org/10.1145/1062745.1062819</ee>
+<url>db/conf/www/www2005si.html#KossmannR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/DudaK05" mdate="2020-03-12">
+<author pid="57/2740">Cristian Duda</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Adaptive XML Storage or The Importance of Being Lazy.</title>
+<year>2005</year>
+<crossref>conf/ximep/2005</crossref>
+<booktitle>XIME-P</booktitle>
+<ee type="oa">http://www.ximeco.org/Xime/AdaptiveXMLStorageDuda.pdf</ee>
+<url>db/conf/ximep/ximep2005.html#DudaK05</url>
+</inproceedings>
+</r>
+<r><article key="journals/insk/KossmannLT04" mdate="2020-08-13">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/FrankLeymann">Frank Leymann</author>
+<author pid="61/4391">Dirk Taubner</author>
+<title>Editorial (Web Services).</title>
+<pages>113</pages>
+<year>2004</year>
+<volume>27</volume>
+<journal>Inform. Spektrum</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00287-004-0377-x</ee>
+<url>db/journals/insk/insk27.html#KossmannLT04</url>
+</article>
+</r>
+<r><article key="journals/insk/KossmannL04" mdate="2020-08-13">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/FrankLeymann">Frank Leymann</author>
+<title>Web Services.</title>
+<pages>117-128</pages>
+<year>2004</year>
+<volume>27</volume>
+<journal>Inform. Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00287-004-0378-9</ee>
+<url>db/journals/insk/insk27.html#KossmannL04</url>
+</article>
+</r>
+<r><article key="journals/vldb/FlorescuHKLRWCS04" mdate="2017-11-06">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="57/1313">Chris Hillery</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/5635">Paul Lucas</author>
+<author pid="41/53">Fabio Riccardi</author>
+<author pid="28/6679">Till Westmann</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="40/1908">Arvind Sundararajan</author>
+<title>The BEA streaming XQuery processor.</title>
+<pages>294-315</pages>
+<year>2004</year>
+<volume>13</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-004-0137-1</ee>
+<url>db/journals/vldb/vldb13.html#FlorescuHKLRWCS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/FlorescuK04" mdate="2019-02-11">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>XML Query Processing.</title>
+<pages>874</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320100</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320100</ee>
+<url>db/conf/icde/icde2004.html#FlorescuK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/m-dbis/FischerK04" mdate="2015-07-22">
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Kontextsensitive Informationsfilter.</title>
+<pages>122-126</pages>
+<year>2004</year>
+<crossref>conf/m-dbis/2004</crossref>
+<booktitle>Grundlagen und Anwendungen mobiler Informationstechnologie</booktitle>
+<url>db/conf/m-dbis/m-dbis2004.html#FischerK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/DiaoFKCF04" mdate="2017-11-06">
+<author pid="d/YanleiDiao">Yanlei Diao</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>Implementing Memoization in a Streaming XQuery Processor.</title>
+<pages>35-50</pages>
+<ee>https://doi.org/10.1007/978-3-540-30081-6_4</ee>
+<year>2004</year>
+<crossref>conf/xsym/2004</crossref>
+<booktitle>XSym</booktitle>
+<url>db/conf/xsym/xsym2004.html#DiaoFKCF04</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2004" mdate="2019-06-07">
+<editor pid="n/MarioANascimento">Mario A. Nascimento</editor>
+<editor pid="o/MTamerOzsu">M. Tamer &#214;zsu</editor>
+<editor pid="k/DonaldKossmann">Donald Kossmann</editor>
+<editor pid="m/RJMiller">Ren&#233;e J. Miller</editor>
+<editor pid="79/2594">Jos&#233; A. Blakeley</editor>
+<editor pid="95/5216">K. Bernhard Schiefer</editor>
+<title>(e)Proceedings of the Thirtieth International Conference on Very Large Data Bases, VLDB 2004, Toronto, Canada, August 31 - September 3 2004</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>2004</year>
+<isbn>0-12-088469-0</isbn>
+<ee>https://www.sciencedirect.com/book/9780120884698/</ee>
+<url>db/conf/vldb/vldb2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cn/FlorescuGK03" mdate="2020-02-19">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="60/2581">Andreas Gr&#252;nhagen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>XL: an XML programming language for Web service specification and composition.</title>
+<pages>641-660</pages>
+<year>2003</year>
+<volume>42</volume>
+<journal>Comput. Networks</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/S1389-1286(03)00224-X</ee>
+<url>db/journals/cn/cn42.html#FlorescuGK03</url>
+</article>
+</r>
+<r><article key="journals/toit/BraumandlKK03" mdate="2018-11-06">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Quality of service in an information economy.</title>
+<pages>291-333</pages>
+<year>2003</year>
+<volume>3</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/945846.945847</ee>
+<url>db/journals/toit/toit3.html#BraumandlKK03</url>
+</article>
+</r>
+<r><inproceedings key="conf/bxml/Kossmann03" mdate="2004-01-28">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>XL: Eine Plattform f&#252;r Web Services.</title>
+<pages>139</pages>
+<year>2003</year>
+<crossref>conf/bxml/2003</crossref>
+<booktitle>Berliner XML Tage</booktitle>
+<url>db/conf/bxml/bxml2003.html#Kossmann03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/FlorescuGK03" mdate="2020-03-12">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="60/2581">Andreas Gr&#252;nhagen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>XL: a platform for Web Services.</title>
+<year>2003</year>
+<crossref>conf/cidr/2003</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2003/program/p8.pdf</ee>
+<url>db/conf/cidr/cidr2003.html#FlorescuGK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/FlorescuHKLRWCSA03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S30P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50093-8</ee>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="57/1313">Chris Hillery</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/5635">Paul Lucas</author>
+<author pid="41/53">Fabio Riccardi</author>
+<author pid="28/6679">Till Westmann</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="40/1908">Arvind Sundararajan</author>
+<author pid="30/2465">Geetika Agrawal</author>
+<title>The BEA/XQRL Streaming XQuery Processor.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#FlorescuHKLRWCSA03</url>
+<pages>997-1008</pages>
+</inproceedings>
+</r>
+<r><article key="journals/ife/KeidlKKK02" mdate="2020-05-21">
+<author pid="87/1093">Markus Keidl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<title>Verteilte Metadatenverwaltung und Anfragebearbeitung f&#252;r Internet-Datenquellen.</title>
+<pages>123-134</pages>
+<year>2002</year>
+<volume>17</volume>
+<journal>Inform. Forsch. Entwickl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00450-002-0116-y</ee>
+<url>db/journals/ife/ife17.html#KeidlKKK02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/KeidlKKK02" mdate="2017-05-17">
+<author pid="87/1093">Markus Keidl</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A Publish &#38; Subscribe Architecture for Distributed Metadata Management.</title>
+<pages>309-320</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994739</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994739</ee>
+<url>db/conf/icde/icde2002.html#KeidlKKK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FlorescuGKR02" mdate="2018-11-06">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="60/2581">Andreas Gr&#252;nhagen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="48/6951">Steffen Rost</author>
+<title>XL: a platform for web services.</title>
+<pages>625</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564779</ee>
+<url>db/conf/sigmod/sigmod2002.html#FlorescuGKR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KossmannRR02" mdate="2020-03-12">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="99/2484">Frank Ramsak</author>
+<author pid="48/6951">Steffen Rost</author>
+<title>Shooting Stars in the Sky: An Online Algorithm for Skyline Queries.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2002/S09P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50032-9</ee>
+<url>db/conf/vldb/vldb2002.html#KossmannRR02</url>
+<pages>275-286</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/FlorescuGK02" mdate="2018-11-06">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="60/2581">Andreas Gr&#252;nhagen</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>XL: an XML programming language for web service specification and composition.</title>
+<pages>65-76</pages>
+<year>2002</year>
+<crossref>conf/www/2002</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/511446.511456</ee>
+<url>db/conf/www/www2002.html#FlorescuGK02</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BraumandlKKKSS01" mdate="2020-03-10">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="87/1093">Markus Keidl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="s/StefanSeltzsam">Stefan Seltzsam</author>
+<author pid="17/804">Konrad Stocker</author>
+<title>ObjectGlobe: Open Distributed Query Processing Services on the Internet.</title>
+<pages>64-70</pages>
+<year>2001</year>
+<ee type="oa">http://sites.computer.org/debull/A01MAR-CD.pdf</ee>
+<volume>24</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<url>db/journals/debu/debu24.html#BraumandlKKKSS01</url>
+</article>
+</r>
+<r><article key="journals/debu/FlorescuK01" mdate="2020-03-10">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>An XML Programming Language for Web Service Specification and Composition.</title>
+<pages>48-56</pages>
+<year>2001</year>
+<ee type="oa">http://sites.computer.org/debull/A01JUN-CD.pdf</ee>
+<volume>24</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu24.html#FlorescuK01</url>
+</article>
+</r>
+<r><article key="journals/vldb/BraumandlKKKKSS01" mdate="2017-05-28">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="87/1093">Markus Keidl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<author pid="s/StefanSeltzsam">Stefan Seltzsam</author>
+<author pid="17/804">Konrad Stocker</author>
+<title>ObjectGlobe: Ubiquitous query processing on the Internet.</title>
+<pages>48-71</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s007780100043</ee>
+<url>db/journals/vldb/vldb10.html#BraumandlKKKKSS01</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/ManolescuFK01" mdate="2006-09-13">
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Answering XML Queries over Heterogeneous Data Sources.</title>
+<year>2001</year>
+<crossref>conf/bda/2001</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2001.html#ManolescuFK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/KeidlKKK01" mdate="2019-06-25">
+<author pid="87/1093">Markus Keidl</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Verteilte Metadatenverwaltung f&#252;r die Anfragebearbeitung auf Internet-Datenquellen.</title>
+<pages>107-126</pages>
+<year>2001</year>
+<crossref>conf/btw/2001</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2001.html#KeidlKKK01</url>
+<ee>https://doi.org/10.1007/978-3-642-56687-5_10</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GartnerKKZ01" mdate="2017-05-17">
+<author pid="78/3558">Andreas G&#228;rtner</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/3588">Bernhard Zeller</author>
+<title>Efficient Bulk Deletes in Relational Databases.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#GartnerKKZ01</url>
+<pages>183-192</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914827</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914827</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BorzsonyiKS01" mdate="2018-11-14">
+<author pid="81/3829">Stephan B&#246;rzs&#246;nyi</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="17/804">Konrad Stocker</author>
+<title>The Skyline Operator.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#BorzsonyiKS01</url>
+<pages>421-430</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914855</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914855</ee>
+<ee>https://www.wikidata.org/entity/Q57535908</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/StockerKBK01" mdate="2017-05-17">
+<author pid="17/804">Konrad Stocker</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Integrating Semi-Join-Reducers into State of the Art Query Processors.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#StockerKBK01</url>
+<pages>575-584</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914872</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914872</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ManolescuFK01" mdate="2020-03-12">
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Answering XML Queries on Heterogeneous Data Sources.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#ManolescuFK01</url>
+<pages>241-250</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P241.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/cn/FlorescuKM00" mdate="2020-02-19">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Integrating keyword search into XML query processing.</title>
+<pages>119-135</pages>
+<year>2000</year>
+<volume>33</volume>
+<journal>Comput. Networks</journal>
+<number>1-6</number>
+<url>db/journals/cn/cn33.html#FlorescuKM00</url>
+<ee>https://doi.org/10.1016/S1389-1286(00)00069-4</ee>
+<ee>https://www.wikidata.org/entity/Q54811123</ee>
+</article>
+</r>
+<r><article key="journals/csur/Kossmann00" mdate="2018-11-06">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>The State of the art in distributed query processing.</title>
+<pages>422-469</pages>
+<year>2000</year>
+<volume>32</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/371578.371598</ee>
+<url>db/journals/csur/csur32.html#Kossmann00</url>
+</article>
+</r>
+<r><article key="journals/sigmod/WestmannKHM00" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/362084.362137</ee>
+<author pid="28/6679">Till Westmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>The Implementation and Performance of Compressed Databases.</title>
+<pages>55-67</pages>
+<cdrom>sigmodR/29-3/P055.pdf</cdrom>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod29.html#WestmannKHM00</url>
+<cite label="AG94">...</cite>
+<cite label="ALM96">conf/icde/AntoshenkovLM96</cite>
+<cite label="BCE76">...</cite>
+<cite label="CK98">conf/vldb/CareyK98</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="Cor85">journals/cacm/Cormack85</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="FG89">journals/tods/FreytagG89</cite>
+<cite label="GO95">journals/sigmod/ONeilG95</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="GRS98">conf/icde/GoldsteinRS98</cite>
+<cite label="GS91">...</cite>
+<cite label="HCLS97">journals/vldb/HaasCLS97</cite>
+<cite label="HR96">journals/vldb/HarrisR96</cite>
+<cite label="Huf52">...</cite>
+<cite label="IW94">conf/vldb/IyerW94</cite>
+<cite label="LW79">...</cite>
+<cite label="MZ92">conf/sigir/MoffatZ92</cite>
+<cite label="NR95">conf/icde/NgR95</cite>
+<cite label="Pal74">...</cite>
+<cite label="RH93">journals/sigmod/RothH93</cite>
+<cite label="RHS95">conf/comad/RayHS95</cite>
+<cite label="Sev83">journals/is/Severance83</cite>
+<cite label="SNG93">...</cite>
+<cite label="TPC95">...</cite>
+<cite label="VLD94">conf/vldb/94</cite>
+<cite label="Wag73">journals/ibmsj/Wagner73</cite>
+<cite label="Wel84">journals/computer/Welch84</cite>
+<cite label="WNC87">journals/cacm/WittenNC87</cite>
+<cite label="YL94">conf/icde/YanL94</cite>
+</article>
+</r>
+<r><article key="journals/tods/KossmannS00" mdate="2018-11-06">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="17/804">Konrad Stocker</author>
+<title>Iterative dynamic programming: a new class of query optimization algorithms.</title>
+<pages>43-82</pages>
+<year>2000</year>
+<volume>25</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/352958.352982</ee>
+<url>db/journals/tods/tods25.html#KossmannS00</url>
+</article>
+</r>
+<r><article key="journals/tods/KossmannFDA00" mdate="2003-11-19">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="78/4246">Gerhard Drasch</author>
+<title>Cache investment: integrating query optimization and distributed data placement.</title>
+<pages>517-558</pages>
+<year>2000</year>
+<volume>25</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>http://portal.acm.org/citation.cfm?id=377674.377677</ee>
+<url>db/journals/tods/tods25.html#KossmannFDA00</url>
+</article>
+</r>
+<r><article key="journals/vldb/BraumandlCKK00" mdate="2017-05-28">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="58/5754">Jens Clau&#223;en</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Functional-Join Processing.</title>
+<pages>156-177</pages>
+<year>2000</year>
+<volume>8</volume>
+<journal>VLDB J.</journal>
+<number>3-4</number>
+<url>db/journals/vldb/vldb8.html#BraumandlCKK00</url>
+<ee>https://doi.org/10.1007/s007780050002</ee>
+<cdrom>VLDBJ8/00080156.pdf</cdrom>
+<cite label="BCK98">conf/vldb/BraumandlCK98</cite>
+<cite label="BK89">journals/tkde/BertinoK89</cite>
+<cite label="BM72">journals/acta/BayerM72</cite>
+<cite label="BP95">conf/icde/BilirisP95</cite>
+<cite label="BR90">conf/pos/BrownR90</cite>
+<cite label="CD92">conf/sigmod/CluetD92</cite>
+<cite label="CDF+94">conf/sigmod/CareyDFHMNSSTTWZ94</cite>
+<cite label="CDRS86">conf/vldb/CareyDRS86</cite>
+<cite label="CKK98">...</cite>
+<cite label="CM95">...</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="CSL+90">conf/vldb/CareySLLM90</cite>
+<cite label="DLM93">conf/pdis/DeWittLM93</cite>
+<cite label="ED88">journals/csur/EnbodyD88</cite>
+<cite label="EGK95">conf/vldb/EicklerGK95</cite>
+<cite label="EKK97">conf/vldb/EicklerKK97</cite>
+<cite label="GGT96">conf/vldb/GardarinGT96</cite>
+<cite label="GKG+97">conf/bncod/GrustKGHS97</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="H&#228;r78">journals/tods/Harder78</cite>
+<cite label="HCLS97">journals/vldb/HaasCLS97</cite>
+<cite label="HR96">journals/vldb/HarrisR96</cite>
+<cite label="HZ87">journals/tois/HornickZ87</cite>
+<cite label="Ita93">...</cite>
+<cite label="KC86">conf/oopsla/KhoshafianC86</cite>
+<cite label="KGM91">conf/sigmod/KellerGM91</cite>
+<cite label="KM90">conf/sigmod/KemperM90</cite>
+<cite label="Lit80">conf/vldb/Litwin80</cite>
+<cite label="LLOW91">journals/cacm/LambLOW91</cite>
+<cite label="LMB97">...</cite>
+<cite label="LR99">journals/vldb/LiR99</cite>
+<cite label="MGS+94">conf/oodbs/MaierGSDKV92</cite>
+<cite label="MS87">books/mit/shriverW87/MaierS87</cite>
+<cite label="O2T94">...</cite>
+<cite label="Obj96">...</cite>
+<cite label="PCV94">conf/sigmetrics/PatelCV94</cite>
+<cite label="SABdB94">conf/vldb/SteenhagenABB94</cite>
+<cite label="SC90">conf/sigmod/ShekitaC90</cite>
+<cite label="SG89">conf/vldb/SegevG89</cite>
+<cite label="Sto96">books/mk/Stonebraker96</cite>
+<cite label="Val87">journals/tods/Valduriez87</cite>
+<cite label="Ver90">...</cite>
+<cite label="WW90">conf/pos/WilliamsW90</cite>
+<cite label="XH94">conf/vldb/XieH94</cite>
+</article>
+</r>
+<r><article key="journals/vldb/ClaussenKKW00" mdate="2017-05-28">
+<author pid="58/5754">Jens Clau&#223;en</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="94/358">Christian Wiesner</author>
+<title>Exploiting early sorting and early partitioning for decisionsupport query processing.</title>
+<pages>190-213</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s007780000030</ee>
+<url>db/journals/vldb/vldb9.html#ClaussenKKW00</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/FlorescuKM00" mdate="2006-09-13">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Integrating Keyword Search into XML Query Processing.</title>
+<year>2000</year>
+<crossref>conf/bda/2000</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2000.html#FlorescuKM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tes/BraumandlKKKKPSS00" mdate="2019-08-08">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="87/1093">Markus Keidl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<author pid="11/6611">Stefan Pr&#246;ls</author>
+<author pid="s/StefanSeltzsam">Stefan Seltzsam</author>
+<author pid="17/804">Konrad Stocker</author>
+<title>ObjectGlobe: Ubiquitous Query Processing on the Internet.</title>
+<pages>247-268</pages>
+<year>2000</year>
+<crossref>conf/tes/2000</crossref>
+<booktitle>TES</booktitle>
+<url>db/conf/tes/tes2000.html#BraumandlKKKKPSS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ManolescuFKXO00" mdate="2020-03-12">
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4296">Florian Xhumari</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Agora: Living with XML and Relational.</title>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#ManolescuFKXO00</url>
+<pages>623-626</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P623.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/debu/KemperKZ99" mdate="2020-03-10">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/3588">Bernhard Zeller</author>
+<title>Performance Tuning for SAP R/3.</title>
+<pages>32-39</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu22.html#KemperKZ99</url>
+<cdrom>DEBU22-2/P32.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99june/sap.ps</ee>
+<cite label="BEG96">...</cite>
+<cite label="CD97">journals/sigmod/ChaudhuriD97</cite>
+<cite label="DHKK97">conf/sigmod/DoppelhammerHKK97</cite>
+<cite label="KKM98">conf/sigmod/KemperKM98</cite>
+<cite label="MW97">...</cite>
+<cite label="Sch99">...</cite>
+<cite label="TPC95">...</cite>
+<cite label="WHSH96">...</cite>
+</article>
+</r>
+<r><article key="journals/debu/Kossmann99" mdate="2020-03-10">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>2</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu22.html#Kossmann99</url>
+<cdrom>DEBU22-3/P02.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99sept/letter.ps</ee>
+</article>
+</r>
+<r><article key="journals/debu/FlorescuK99" mdate="2020-03-10">
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Storing and Querying XML Data using an RDMBS.</title>
+<pages>27-34</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu22.html#FlorescuK99</url>
+<cdrom>DEBU22-3/P27.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99sept/we.ps</ee>
+<cite>conf/icde/BronczWK98</cite>
+<cite>conf/sigmod/DeutschFS99</cite>
+<cite>...</cite>
+<cite>conf/vldb/ShanmugasundaramGTZDN99</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><article key="journals/gidr/BraumandlKKKPS99" mdate="2020-05-18">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<author pid="11/6611">Stefan Pr&#246;ls</author>
+<author pid="17/804">Konrad Stocker</author>
+<title>ObjectGlobe: Integrating Data Processing Services on the Internet.</title>
+<pages>37-42</pages>
+<year>1999</year>
+<volume>24</volume>
+<journal>Datenbank Rundbr.</journal>
+<url>db/journals/gidr/gidr24.html#BraumandlKKKPS99</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/ClaussenK99" mdate="2019-06-25">
+<author pid="58/5754">Jens Clau&#223;en</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Die Deutsche Fu&#223;ball-B&#246;rse: Erfahrungen mit einer &#34;klassischen&#34; Internet-Datenbankanwendung.</title>
+<pages>59-68</pages>
+<year>1999</year>
+<crossref>conf/btw/99</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw99.html#ClaussenK99</url>
+<ee>https://doi.org/10.1007/978-3-642-60119-4_4</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BraumandlKK99" mdate="2021-03-12">
+<author pid="08/3274">Reinhard Braumandl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Database Patchwork on the Internet.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/databasepatchworeald.pdf</cdrom>
+<pages>550-552</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#BraumandlKK99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304573</ee>
+<ee>https://doi.org/10.1145/304181.304573</ee>
+<cite label="GMPQ+97">journals/jiis/Garcia-MolinaPQRSUVW97</cite>
+<cite label="Gra90">conf/sigmod/Graefe90</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="HKWY97">conf/vldb/HaasKWY97</cite>
+<cite label="MS97">conf/vldb/RothS97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KemperKW99" mdate="2020-03-12">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="94/358">Christian Wiesner</author>
+<title>Generalised Hash Teams for Join and Group-by.</title>
+<pages>30-41</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#KemperKW99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P3.pdf</ee>
+<cite label="Bab79">journals/tods/Babb79</cite>
+<cite label="Blo70">journals/cacm/Bloom70</cite>
+<cite label="Bra84">conf/vldb/Bratbergsengen84</cite>
+<cite label="Car75">journals/cacm/Cardenas75</cite>
+<cite label="CI98">conf/sigmod/ChanI98</cite>
+<cite label="CKK98">...</cite>
+<cite label="CM95">conf/dbpl/CluetM95</cite>
+<cite label="CS89">conf/vldb/ChangS89</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="GBC98">conf/vldb/GraefeBC98</cite>
+<cite label="GO95">journals/sigmod/ONeilG95</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="Gra94">conf/icde/Graefe94</cite>
+<cite label="GSE+94">conf/sigmod/GraySEBW94</cite>
+<cite label="HCLS97">journals/vldb/HaasCLS97</cite>
+<cite label="HM97">conf/vldb/HelmerM97</cite>
+<cite label="HR96">journals/vldb/HarrisR96</cite>
+<cite label="HWM98">conf/vldb/HelmerWM98</cite>
+<cite label="Lar97">...</cite>
+<cite label="O'N87">conf/hpts/ONeil87</cite>
+<cite label="OQ97">conf/sigmod/ONeilQ97</cite>
+<cite label="RRS91">...</cite>
+<cite label="Sha86">journals/tods/Shapiro86</cite>
+<cite label="TPC95">...</cite>
+<cite label="Ull89">books/cs/Ullman89</cite>
+<cite label="VG84">journals/tods/ValduriezG84</cite>
+<cite label="WB98">conf/icde/WuB98</cite>
+<cite label="VL94">conf/icde/YanL94</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HaasKU99" mdate="2020-03-12">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="20/779">Ioana Ursu</author>
+<title>Loading a Cache with Query Results.</title>
+<pages>351-362</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#HaasKU99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P35.pdf</ee>
+<cite label="ASU89">...</cite>
+<cite label="BEG96">...</cite>
+<cite label="CDN+97">conf/sigmod/CareyDNAGS97</cite>
+<cite label="CK97">conf/sigmod/CareyK97</cite>
+<cite label="CKV93">conf/sigmod/CurewitzKV93</cite>
+<cite label="D+90">journals/tkde/Deux90</cite>
+<cite label="DFJ+96">conf/vldb/DarFJST96</cite>
+<cite label="DHM+98">journals/vldb/DesslochHMMT98</cite>
+<cite label="FJK96">conf/sigmod/FranklinJK96</cite>
+<cite label="FK97">...</cite>
+<cite label="GK94">conf/edbt/GerlhofK94</cite>
+<cite label="HKU99">...</cite>
+<cite label="HKWY97">conf/vldb/HaasKWY97</cite>
+<cite label="HMNR95">journals/ife/HarderMNR95</cite>
+<cite label="KB94">conf/pdis/KellerB94</cite>
+<cite label="KJA93">conf/sigmod/KellerJA93</cite>
+<cite label="KK95">journals/vldb/KemperK95</cite>
+<cite label="KKM98">conf/sigmod/KemperKM98</cite>
+<cite label="Loh98">conf/sigmod/Lohman88</cite>
+<cite label="Mos92">journals/tse/Moss92</cite>
+<cite label="PZ91">conf/vldb/PalmerZ91</cite>
+<cite label="ROH98">conf/vldb/RothOH99</cite>
+<cite label="Rou91">journals/tods/Roussopoulos91</cite>
+<cite label="RS97">conf/vldb/RothS97</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Kossmann98" mdate="2020-03-10">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>3</pages>
+<year>1998</year>
+<volume>21</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<cdrom>DEBU/98SEP-CD.PDF</cdrom>
+<url>db/journals/debu/debu21.html#Kossmann98</url>
+<ee type="oa">http://sites.computer.org/debull/98sept/letter1.ps</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/KemperKM98" mdate="2021-03-11">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/FlorianMatthes">Florian Matthes</author>
+<title>SAP R/3: A Database Application System (Tutorial).</title>
+<pages>499</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#KemperKM98</url>
+<ee>https://doi.org/10.1145/276304.276351</ee>
+<ee>https://doi.org/10.1145/276305.276351</ee>
+<cdrom>SIGMOD98/P499.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CareyK98" mdate="2020-03-12">
+<crossref>conf/vldb/98</crossref>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Reducing the Braking Distance of an SQL Query Engine.</title>
+<pages>158-169</pages>
+<year>1998</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb98.html#CareyK98</url>
+<ee type="oa">http://www.vldb.org/conf/1998/p158.pdf</ee>
+<cite label="AHU83">books/aw/AhoHU83</cite>
+<cite label="BCC94">conf/vldb/BrownCC94</cite>
+<cite label="BGW+81">journals/tods/BernsteinGWRR81</cite>
+<cite label="CG96">conf/sigmod/ChaudhuriG96</cite>
+<cite label="CK97">conf/sigmod/CareyK97</cite>
+<cite label="DG92">journals/cacm/DeWittG92</cite>
+<cite label="DNS91a">conf/vldb/DeWittNS91</cite>
+<cite label="DNS91b">conf/pdis/DeWittNS91</cite>
+<cite label="DNSS92">conf/vldb/DeWittNSS92</cite>
+<cite label="HS92">conf/sigmod/HaasS92</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="Koo80">phd/Kooi80</cite>
+<cite label="KS95">journals/sigmod/KimballS95</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="MD88">conf/sigmod/MuralikrishnaD88</cite>
+<cite label="PI97">conf/vldb/PoosalaI97</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+<cite label="PSC84">conf/sigmod/Piatetsky-ShapiroC84</cite>
+<cite label="WKHM98">...</cite>
+<cite label="Yao79">journals/tods/Yao79</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/CareyK97" mdate="2020-03-10">
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Processing Top N and Bottom N Queries.</title>
+<pages>12-19</pages>
+<year>1997</year>
+<volume>20</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<cdrom>DEBU/97SEP-CD.PDF</cdrom>
+<url>db/journals/debu/debu20.html#CareyK97</url>
+<ee type="oa">http://sites.computer.org/debull/97SEP-CD.pdf</ee>
+<cite label="ABF+92">...</cite>
+<cite label="CG96">conf/sigmod/ChaudhuriG96</cite>
+<cite label="Cha96">books/mk/Chamberlin96</cite>
+<cite label="CK97">conf/sigmod/CareyK97</cite>
+<cite label="Cor95">...</cite>
+<cite label="GD87">conf/sigmod/GraefeD87</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="KS95">journals/sigmod/KimballS95</cite>
+<cite label="Loh88">conf/sigmod/Lohman88</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DoppelhammerHKK97" mdate="2018-11-06">
+<author pid="64/6567">Jochen Doppelhammer</author>
+<author pid="84/6740">Thomas H&#246;ppler</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Database Performance in the Real World - TPC-D and SAP R/3 (Experience Paper).</title>
+<pages>123-134</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#DoppelhammerHKK97</url>
+<ee>https://doi.org/10.1145/253260.253280</ee>
+<cdrom>SIGMOD97/P123.PDF</cdrom>
+<cite label="BDT83">conf/vldb/BittonDT83</cite>
+<cite label="BEG96">...</cite>
+<cite label="Col96">journals/sigmod/Colliat96</cite>
+<cite label="DHKK">...</cite>
+<cite label="FS96">conf/sigmod/FernandezS96</cite>
+<cite label="GBLP96">conf/icde/GrayBLP96</cite>
+<cite label="Gra93">books/mk/Gray93</cite>
+<cite label="LM95">...</cite>
+<cite label="Mat96">...</cite>
+<cite label="SAP">...</cite>
+<cite label="TPC95">...</cite>
+<cite label="WHSH96">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CareyK97" mdate="2018-11-06">
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>On Saying &#34;Enough Already!&#34; in SQL.</title>
+<pages>219-230</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#CareyK97</url>
+<ee>https://doi.org/10.1145/253260.253302</ee>
+<cdrom>SIGMOD97/P219.PDF</cdrom>
+<cite label="A+92">...</cite>
+<cite label="BM96">conf/cikm/BayardoM96</cite>
+<cite label="C+95">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="CG96">conf/sigmod/ChaudhuriG96</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="Fag96">conf/pods/Fagin96</cite>
+<cite label="GD87">conf/sigmod/GraefeD87</cite>
+<cite label="G+92">conf/sigmod/GangulyHK92</cite>
+<cite label="IBM95">...</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="KS95">journals/sigmod/KimballS95</cite>
+<cite label="Loh88">conf/sigmod/Lohman88</cite>
+<cite label="MS93">books/mk/MeltonS93</cite>
+<cite label="S+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="S+96">conf/sigmod/SimmenSM96</cite>
+<cite label="Sto96">books/mk/Stonebraker96</cite>
+<cite label="WA91">conf/pdis/WilschutA91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HaasKWY97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="68/2431">Edward L. Wimmers</author>
+<author pid="y/JunYang1">Jun Yang 0001</author>
+<title>Optimizing Queries Across Diverse Data Sources.</title>
+<pages>276-285</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#HaasKWY97</url>
+<ee>http://www.vldb.org/conf/1997/P276.PDF</ee>
+<cite label="C+95">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="Cat96">books/mk/Cattell96</cite>
+<cite label="CS93">conf/vldb/ChaudhuriS93</cite>
+<cite label="Day83">conf/vldb/Dayal83</cite>
+<cite label="DKS92">conf/vldb/DuKS92</cite>
+<cite label="FJK96">conf/sigmod/FranklinJK96</cite>
+<cite label="FRV95">conf/coopis/FlorescuRV95</cite>
+<cite label="GD87">conf/sigmod/GraefeD87</cite>
+<cite label="G+93">journals/debu/GassnerLSW93</cite>
+<cite label="GST96">conf/vldb/GardarinST96</cite>
+<cite label="H+89">conf/sigmod/HaasFLP89</cite>
+<cite label="K+96">...</cite>
+<cite label="LFL88">conf/vldb/LeeFL88</cite>
+<cite label="Loh88">conf/sigmod/Lohman88</cite>
+<cite label="LRO96">conf/vldb/LevyRO96</cite>
+<cite label="LRU96">conf/pods/LevyRU96</cite>
+<cite label="M+96">conf/vldb/McKennaBHT96</cite>
+<cite label="N+93">conf/spieSR/NiblackBEFGPYFT93</cite>
+<cite label="PGH96">conf/pdis/PapakonstantinouGH96</cite>
+<cite label="PGMW95">conf/icde/PapakonstantinouGW95</cite>
+<cite label="Qia96">conf/icde/Qian96</cite>
+<cite label="RS97">conf/vldb/RothS97</cite>
+<cite label="S+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="S+94">books/acm/kim95/ShanADDK95</cite>
+<cite label="TRV96">...</cite>
+<cite label="Wie93">conf/sigmod/Wiederhold93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/EicklerKK97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="06/2300">Andr&#233; Eickler</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Finding Data in the Neighborhood.</title>
+<pages>336-345</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#EicklerKK97</url>
+<ee>http://www.vldb.org/conf/1997/P336.PDF</ee>
+<cite label="AHMW94">journals/pe/AnantharamHMW94</cite>
+<cite label="CCI89">...</cite>
+<cite label="CDF+94">conf/sigmod/CareyDFHMNSSTTWZ94</cite>
+<cite label="DLMM93">journals/loplas/DayLMM93</cite>
+<cite label="EGK95">conf/vldb/EicklerGK95</cite>
+<cite label="GS94">...</cite>
+<cite label="Ita93">...</cite>
+<cite label="JK93">conf/sigmod/JohnsonK93</cite>
+<cite label="JLS+95">...</cite>
+<cite label="KW94">conf/sigmod/KrollW94</cite>
+<cite label="LNS94">conf/vldb/LitwinNS94</cite>
+<cite label="Lom96">conf/pdis/Lomet96</cite>
+<cite label="LY81">journals/tods/LehmanY81</cite>
+<cite label="Moc87">...</cite>
+<cite label="Ord93">phd/Ordille93</cite>
+<cite label="PSS96">conf/icde/PatankarSS96</cite>
+<cite label="Ter85">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/HaasKWY96" mdate="2020-03-10">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="68/2431">Edward L. Wimmers</author>
+<author pid="y/JunYang1">Jun Yang 0001</author>
+<title>An Optimizer for Heterogeneous Systems with NonStandard Data and Search Capabilities.</title>
+<pages>37-44</pages>
+<year>1996</year>
+<volume>19</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<cdrom>DEBU/96DEC-CD.PDF</cdrom>
+<url>db/journals/debu/debu19.html#HaasKWY96</url>
+<ee type="oa">http://sites.computer.org/debull/96DEC-CD.pdf</ee>
+<cite label="ACPS96">conf/sigmod/AdaliCPS96</cite>
+<cite label="C+95">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="Cat96">books/mk/Cattell96</cite>
+<cite label="CG96">conf/sigmod/ChaudhuriG96</cite>
+<cite label="FRV95">...</cite>
+<cite label="HS93">conf/sigmod/HellersteinS93</cite>
+<cite label="KHWY96">conf/vldb/HaasKWY97</cite>
+<cite label="Loh88">conf/sigmod/Lohman88</cite>
+<cite label="LP95">conf/cikm/LiuP95</cite>
+<cite label="PGH96">conf/pdis/PapakonstantinouGH96</cite>
+<cite label="PGMW95">conf/icde/PapakonstantinouGW95</cite>
+<cite label="Qia96">conf/icde/Qian96</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SAD+94">...</cite>
+<cite label="TRV96">conf/icdcs/TomasicRV96</cite>
+<cite label="TRV97">...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/FranklinJK96" mdate="2018-11-06">
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="j/BjornTorJonsson1">Bj&#246;rn &#222;&#243;r J&#243;nsson 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Performance Tradeoffs for Client-Server Query Processing.</title>
+<pages>149-160</pages>
+<year>1996</year>
+<crossref>conf/sigmod/96</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod96.html#FranklinJK96</url>
+<ee>https://doi.org/10.1145/233269.233328</ee>
+<cdrom>SIGMOD96/P149.PDF</cdrom>
+<cite label="Bro92">...</cite>
+<cite label="C+94">conf/sigmod/CareyDFHMNSSTTWZ94</cite>
+<cite label="Cat94">books/mk/Cattell94</cite>
+<cite label="CL86">conf/sigmod/CareyL86</cite>
+<cite label="D+90">conf/vldb/DeWittFMV90</cite>
+<cite label="Fra96">books/kl/Franklin96</cite>
+<cite label="GHK92">conf/sigmod/GangulyHK92</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="GW93">...</cite>
+<cite label="HF86">journals/tods/HagmannF86</cite>
+<cite label="IK90">conf/sigmod/IoannidisK90</cite>
+<cite label="J+90">conf/edbt/JenqWKL90</cite>
+<cite label="KF95">...</cite>
+<cite label="Kul94">conf/sigmod/Kulkarni94</cite>
+<cite label="LC85">conf/vldb/LuC85</cite>
+<cite label="LVZ93">conf/vldb/LanzelotteVZ93</cite>
+<cite label="ML86">conf/vldb/MackertL86</cite>
+<cite label="MLR90">journals/cj/MartinLR90</cite>
+<cite label="PCV94">conf/sigmetrics/PatelCV94</cite>
+<cite label="R+95">journals/debu/RoussopoulosCKDP95</cite>
+<cite label="S+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="S+90">...</cite>
+<cite label="S+94">conf/icde/StonebrakerADLO94</cite>
+<cite label="SE93">conf/pdis/SrivastavaE93</cite>
+<cite label="Sha86">journals/tods/Shapiro86</cite>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0085339" mdate="2017-04-05">
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Efficient main-memory management of persistent objects.</title>
+<pages>I-X, 1-174</pages>
+<publisher>Shaker</publisher>
+<school>RWTH Aachen University, Germany</school>
+<year>1995</year>
+<series>Berichte aus der Informatik</series>
+<isbn>978-3-8265-0551-5</isbn>
+<ee>http://d-nb.info/943539285</ee>
+</book>
+</r>
+<r><article key="journals/vldb/KemperK95" mdate="2020-03-12">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Adaptable Pointer Swizzling Strategies in Object Bases: Design, Realization, and Quantitative Analysis</title>
+<journal>VLDB J.</journal>
+<volume>4</volume>
+<number>3</number>
+<year>1995</year>
+<pages>519-566</pages>
+<ee type="oa">http://www.vldb.org/journal/VLDBJ4/P519.pdf</ee>
+<url>db/journals/vldb/vldb4.html#KemperK95</url>
+<cite label="Atkinson et al. 1983">journals/spe/AtkinsonCCM83</cite>
+<cite label="Bancilhon et al. 1988">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="Bayer &#38; McCreight 1972">journals/acta/BayerM72</cite>
+<cite label="Biliris 1992">conf/sigmod/Biliris92</cite>
+<cite label="Bruns et al. 1992">journals/gidr/BrunsKKMWZ92</cite>
+<cite label="Carey et al. 1986">conf/vldb/CareyDRS86</cite>
+<cite label="Cattell &#38; Skeen 1992">journals/tods/CattellS92</cite>
+<cite label="Cockshott et al. 1984">journals/spe/CockshottACBM84</cite>
+<cite label="Cockshott &#38; Foulk 1990">...</cite>
+<cite label="Dan et al. 1993">conf/icde/DanYC93</cite>
+<cite label="DeWitt et al. 1990">conf/vldb/DeWittFMV90</cite>
+<cite label="Edelson 1992">conf/c++/Edelson92</cite>
+<cite label="Fagin et al. 1979">journals/tods/FaginNPS79</cite>
+<cite label="Gerlhof et al. 1992">...</cite>
+<cite label="Gerlhof et al. 1993">conf/fodo/GerlhofKKM93</cite>
+<cite label="Gruber et al. 1992">...</cite>
+<cite label="Hosking &#38; Moss 1991">conf/pos/HoskingM90</cite>
+<cite label="Hosking &#38; Moss 1993">conf/oopsla/HoskingM93</cite>
+<cite label="Kaehler &#38; Krasner 1983">...</cite>
+<cite label="Kemper et al. 1994">journals/tkde/KemperKM94</cite>
+<cite label="Kemper &#38; Kossman 1993">journals/vldb/KemperK95</cite>
+<cite label="Kemper &#38; Kossman 1994">conf/vldb/KemperK94</cite>
+<cite label="Kemper &#38; Moerklotte 1992">journals/is/KemperM92</cite>
+<cite label="Kemper &#38; Moerkotte 1994">books/ph/KemperM94</cite>
+<cite label="Kemper &#38; Moerkotte 1992">conf/vldb/KemperMS92</cite>
+<cite label="Kemper et al. 1991">conf/btw/KemperMWZ91</cite>
+<cite label="Khoshafian &#38; Copeland 1986">conf/oopsla/KhoshafianC86</cite>
+<cite label="Kim et al. 1988">conf/oopsla/KimBCGWB88</cite>
+<cite label="Koch &#38; Rosenberg 1990">...</cite>
+<cite label="Kossmann 1991">...</cite>
+<cite label="Kossmann et al. 1993">...</cite>
+<cite label="Kotulla 1992">...</cite>
+<cite label="Lamb et al. 1991">journals/cacm/LambLOW91</cite>
+<cite label="Larson 1988">journals/tods/Larson88</cite>
+<cite label="Maier &#38; Stein 1987">...</cite>
+<cite label="McAuliffe &#38; Solomon 1995">conf/icde/McAuliffeS95</cite>
+<cite label="Morel &#38; Renvoise 1979">journals/cacm/MorelR79</cite>
+<cite label="Moss 1990">journals/tois/Moss90</cite>
+<cite label="Moss 1992">journals/tse/Moss92</cite>
+<cite label="Moss &#38; Sinofsky 1988">conf/oodbs/MossS88</cite>
+<cite label="Munro et al. 1994">conf/pos/MunroCMSS94</cite>
+<cite label="Rosenberg et al. 1990">...</cite>
+<cite label="Roussopoulos &#38; Delis 1991">journals/sigmod/RoussopoulosD91</cite>
+<cite label="Russel et al. 1994">conf/pos/RusselSC94</cite>
+<cite label="Schuh et al. 1990">conf/pos/SchuhCD90</cite>
+<cite label="Shekita &#38; Zwilling 1990">conf/pos/ShekitaZ90</cite>
+<cite label="Singhal et al. 1992">conf/pos/SinghalKW92</cite>
+<cite label="Suzuki et al. 1994">conf/pos/SuzukiKT94</cite>
+<cite label="Tsangaris &#38; Naughton 1991">conf/sigmod/TsangarisN91</cite>
+<cite label="Vaughan &#38; Dearle 1992">conf/pos/VaughanD92</cite>
+<cite label="Velez et al. 1989">conf/vldb/VelezBD89</cite>
+<cite label="White &#38; DeWitt 1994">conf/sigmod/WhiteD94</cite>
+<cite label="White &#38; DeWitt 1992">conf/vldb/WhiteD92</cite>
+<cite label="Wilson 1991">...</cite>
+<cite label="Wilson &#38; Kakkad 1992">...</cite>
+<cite label="Winslett 1993">...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/EicklerGK95" mdate="2017-03-29">
+<crossref>conf/vldb/95</crossref>
+<author pid="06/2300">Andr&#233; Eickler</author>
+<author pid="55/2695">Carsten Andreas Gerlhof</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A Performance Evaluation of OID Mapping Techniques.</title>
+<pages>18-29</pages>
+<year>1995</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb95.html#EicklerGK95</url>
+<ee>http://www.vldb.org/conf/1995/P018.PDF</ee>
+<cite label="Ahn93">conf/fodo/Ahn93</cite>
+<cite label="AK89">conf/sigmod/AbiteboulK89</cite>
+<cite label="BM72">journals/acta/BayerM72</cite>
+<cite label="BR90">conf/pos/BrownR90</cite>
+<cite label="CDF+94">conf/sigmod/CareyDFHMNSSTTWZ94</cite>
+<cite label="Chu92">journals/ipl/Chung92</cite>
+<cite label="COL92">conf/vldb/ChanOL92</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="DSZ90">conf/pos/90</cite>
+<cite label="ED88">journals/csur/EnbodyD88</cite>
+<cite label="FNPS79">journals/tods/FaginNPS79</cite>
+<cite label="GKKM93">conf/fodo/GerlhofKKM93</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="HZ87">journals/tois/HornickZ87</cite>
+<cite label="Ita93">...</cite>
+<cite label="KC86">conf/oopsla/KhoshafianC86</cite>
+<cite label="KM94">books/ph/KemperM94</cite>
+<cite label="KSW92">...</cite>
+<cite label="KW94">conf/pos/KaplanW94</cite>
+<cite label="Lar88a">journals/cacm/Larson88</cite>
+<cite label="Lar88b">journals/tods/Larson88</cite>
+<cite label="Lit80">conf/vldb/Litwin80</cite>
+<cite label="Lit88">conf/sigmod/Litwin81</cite>
+<cite label="MGH+94">conf/compcon/MitchellGHKKKMNPR94</cite>
+<cite label="MHL+92">journals/tods/MohanHLPS92</cite>
+<cite label="ML92">conf/sigmod/MohanL92</cite>
+<cite label="Moc87">...</cite>
+<cite label="Moh92">conf/icde/Mohan93</cite>
+<cite label="MS87">...</cite>
+<cite label="Oto88">conf/icde/Otoo88</cite>
+<cite label="SO92">conf/icde/SullivanO92</cite>
+<cite label="Sun93">...</cite>
+<cite label="Wat81">conf/ac/Watson80b</cite>
+<cite label="WB94">conf/oodbs/WellsB92</cite>
+<cite label="WW90">conf/pos/WilliamsW90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KemperK94" mdate="2017-03-29">
+<crossref>conf/vldb/94</crossref>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Dual-Buffering Strategies in Object Bases.</title>
+<pages>427-438</pages>
+<year>1994</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb94.html#KemperK94</url>
+<ee>http://www.vldb.org/conf/1994/P427.PDF</ee>
+<cite label="CD73">books/ph/CoffmanD73</cite>
+<cite label="CD85">conf/vldb/ChouD85</cite>
+<cite label="CDN93">conf/sigmod/CareyDN93</cite>
+<cite label="Den80">journals/tse/Denning80</cite>
+<cite label="DFMV90">conf/vldb/DeWittFMV90</cite>
+<cite label="EH84">journals/tods/EffelsbergH84</cite>
+<cite label="GKKMk93">conf/fodo/GerlhofKKM93</cite>
+<cite label="Gro91">...</cite>
+<cite label="Inc93">...</cite>
+<cite label="KBC+88">conf/oopsla/KimBCGWB88</cite>
+<cite label="KGBW90">journals/tkde/KimGBW90</cite>
+<cite label="Kim90">...</cite>
+<cite label="KK93">conf/icde/KemperK93</cite>
+<cite label="KM94">books/ph/KemperM94</cite>
+<cite label="Knu73">books/aw/Knuth73a</cite>
+<cite label="LLOW91">journals/cacm/LambLOW91</cite>
+<cite label="NFS91">conf/sigmod/NgFS91</cite>
+<cite label="OOW93">conf/sigmod/ONeilOW93</cite>
+<cite label="TN91">conf/sigmod/TsangarisN91</cite>
+<cite label="WD92">conf/vldb/WhiteD92</cite>
+<cite label="Win93">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KemperK93" mdate="2019-02-11">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Adaptable Pointer Swizzling Strategies in Object Bases.</title>
+<pages>155-162</pages>
+<cdrom>ICDE93/P155.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#KemperK93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344067</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344067</ee>
+<cite label="CDRS86">conf/vldb/CareyDRS86</cite>
+<cite label="CS90">...</cite>
+<cite label="KBC+88">conf/oopsla/KimBCGWB88</cite>
+<cite label="KK83">...</cite>
+<cite label="KK93">...</cite>
+<cite label="KMWZ91">conf/btw/KemperMWZ91</cite>
+<cite label="LLOW91">journals/cacm/LambLOW91</cite>
+<cite label="Mos91">journals/tse/Moss92</cite>
+<cite label="SCD90">conf/pos/SchuhCD90</cite>
+<cite label="WD92">conf/vldb/WhiteD92</cite>
+</inproceedings>
+</r>
+<r><article key="journals/gidr/BrunsKKMWZ92" mdate="2020-05-18">
+<author pid="81/6211">Kai Bruns</author>
+<author pid="16/5817">Christoph Kilger</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="w/HansDirkWalter">Hans-Dirk Walter</author>
+<author pid="01/343">Andreas Zachmann</author>
+<title>Objekte in multiplen Repr&#228;sentationen.</title>
+<pages>39-40</pages>
+<year>1992</year>
+<volume>10</volume>
+<journal>Datenbank Rundbr.</journal>
+<url>db/journals/gidr/gidr10.html#BrunsKKMWZ92</url>
+</article>
+</r>
+<coauthors n="361" nc="1">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0"><na f="a/Abe:Naoki" pid="88/6485">Naoki Abe</na></co>
+<co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
+<co c="0"><na f="a/Acharya:Rajeev" pid="263/7214">Rajeev Acharya</na></co>
+<co c="0"><na f="a/Agrawal:Geetika" pid="30/2465">Geetika Agrawal</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Ahmed:Nesreen_K=" pid="33/11518">Nesreen K. Ahmed</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Alexiou:Karolina" pid="137/6756">Karolina Alexiou</na></co>
+<co c="0"><na f="a/Allen:Lindsay" pid="162/3919">Lindsay Allen</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Anderson:Stuart" pid="16/397">Stuart Anderson</na></co>
+<co c="0"><na f="a/Antonopoulos:Panagiotis" pid="119/6881">Panagiotis Antonopoulos</na></co>
+<co c="0"><na f="a/Arasu:Arvind" pid="a/ArvindArasu">Arvind Arasu</na></co>
+<co c="0"><na f="a/Argyrakis:Panos" pid="36/5990">Panos Argyrakis</na></co>
+<co c="0"><na f="a/Avitzur:Aharon" pid="163/0584">Aharon Avitzur</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Bamford:Roger" pid="84/3381">Roger Bamford</na></co>
+<co c="0"><na f="b/Barnett:Mike" pid="29/8730">Mike Barnett</na></co>
+<co c="0"><na f="b/Barrenetxea:Guillermo" pid="b/GBarrenetxea">Guillermo Barrenetxea</na></co>
+<co c="0"><na f="b/Barthels:Claude" pid="123/3160">Claude Barthels</na></co>
+<co c="0"><na f="b/Baumann:Andrew" pid="53/6957">Andrew Baumann</na></co>
+<co c="0"><na f="b/Beaudequin:Philippe" pid="166/8380">Philippe Beaudequin</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0" n="2"><na f="b/Berral:Josep_Llu=iacute=s" pid="56/5336">Josep Llu&#237;s Berral</na><na>Josep Lluis Berral</na></co>
+<co c="0"><na f="b/Beutel:Jan" pid="15/6935">Jan Beutel</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Blakeley:Jos=eacute=_A=" pid="79/2594">Jos&#233; A. Blakeley</na></co>
+<co c="0"><na f="b/Blanas:Spyros" pid="65/5338">Spyros Blanas</na></co>
+<co c="0"><na f="b/Blandford:Ann" pid="b/AnnBlandford">Ann Blandford</na></co>
+<co c="0"><na f="b/Blunschi:Lukas" pid="28/1678">Lukas Blunschi</na></co>
+<co c="0"><na f="b/Bocksrocker:Kevin" pid="204/3628">Kevin Bocksrocker</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bonelli:Giulia" pid="47/11237">Giulia Bonelli</na></co>
+<co c="0"><na f="b/Borkar:Vinayak_R=" pid="43/3643">Vinayak R. Borkar</na></co>
+<co c="0"><na f="b/B=ouml=rzs=ouml=nyi:Stephan" pid="81/3829">Stephan B&#246;rzs&#246;nyi</na></co>
+<co c="0" n="2"><na f="b/B=ouml=se:Joos=Hendrik" pid="85/2521">Joos-Hendrik B&#246;se</na><na>Joos-Hendrik Boese</na></co>
+<co c="0"><na f="b/Botan:Irina" pid="62/5535">Irina Botan</na></co>
+<co c="0"><na f="b/Bovay:Jacques" pid="65/9849">Jacques Bovay</na></co>
+<co c="0"><na f="b/Brantner:Matthias" pid="82/1740">Matthias Brantner</na></co>
+<co c="0"><na f="b/Braumandl:Reinhard" pid="08/3274">Reinhard Braumandl</na></co>
+<co c="0"><na f="b/Braun:Lucas" pid="123/8661">Lucas Braun</na></co>
+<co c="0"><na f="b/Brewer:Eric_A=" pid="b/EricABrewer">Eric A. Brewer</na></co>
+<co c="0"><na f="b/Brini:Davide" pid="271/1410">Davide Brini</na></co>
+<co c="0"><na f="b/Bruns:Kai" pid="81/6211">Kai Bruns</na></co>
+<co c="0"><na f="b/Budovski:Alex" pid="243/2457">Alex Budovski</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Carey_0001:Michael_J=" pid="31/3455">Michael J. Carey 0001</na></co>
+<co c="0"><na f="c/Carrera_0001:David" pid="13/6290">David Carrera 0001</na></co>
+<co c="0"><na f="=/=Ccedil=etintemel:Ugur" pid="c/UgurCetintemel">Ugur &#199;etintemel</na></co>
+<co c="0"><na f="c/Chamberlin:Donald_D=" pid="c/DDChamberlin">Donald D. Chamberlin</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Clau=szlig=en:Jens" pid="58/5754">Jens Clau&#223;en</na></co>
+<co c="0"><na f="c/Conte:Rosaria" pid="53/3352">Rosaria Conte</na></co>
+<co c="0"><na f="c/Crowley:James_L=" pid="50/3289">James L. Crowley</na></co>
+<co c="0"><na f="c/Cuevas=Vicentt=iacute=n:V=iacute=ctor" pid="26/1049">V&#237;ctor Cuevas-Vicentt&#237;n</na></co>
+<co c="0"><na f="d/Dean:Jeffrey" pid="d/JeffreyDean">Jeffrey Dean</na></co>
+<co c="0"><na f="d/Diaconu:Cristian" pid="26/10719">Cristian Diaconu</na></co>
+<co c="0"><na f="d/Dialani:Vijay" pid="60/6249">Vijay Dialani</na></co>
+<co c="0"><na f="d/Diao:Yanlei" pid="d/YanleiDiao">Yanlei Diao</na></co>
+<co c="0"><na f="d/Dimcheva:Bojana" pid="147/1238">Bojana Dimcheva</na></co>
+<co c="0"><na f="d/Ding:Jialin" pid="145/8597">Jialin Ding</na></co>
+<co c="0" n="2"><na f="d/Dittrich:Jens" pid="d/JensPeterDittrich">Jens Dittrich</na><na>Jens-Peter Dittrich</na></co>
+<co c="0"><na f="d/Do:Jaeyoung" pid="40/7404">Jaeyoung Do</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Luna Dong</na></co>
+<co c="0"><na f="d/Doppelhammer:Jochen" pid="64/6567">Jochen Doppelhammer</na></co>
+<co c="0"><na f="d/Drasch:Gerhard" pid="78/4246">Gerhard Drasch</na></co>
+<co c="0"><na f="d/Dubois=Ferri=egrave=re:Henri" pid="03/4325">Henri Dubois-Ferri&#232;re</na></co>
+<co c="0"><na f="d/Duda:Cristian" pid="57/2740">Cristian Duda</na></co>
+<co c="0"><na f="d/Duller:Michael" pid="45/1113">Michael Duller</na></co>
+<co c="0"><na f="e/Edmonds:Bruce" pid="62/5243">Bruce Edmonds</na></co>
+<co c="0" n="2"><na f="e/Eguro:Kenneth" pid="66/786">Kenneth Eguro</na><na>Ken Eguro</na></co>
+<co c="0"><na f="e/Eickler:Andr=eacute=" pid="06/2300">Andr&#233; Eickler</na></co>
+<co c="0"><na f="e/Eilebrecht:Eric" pid="18/8783">Eric Eilebrecht</na></co>
+<co c="0"><na f="e/El=Hindi:Muhammad" pid="164/1407">Muhammad El-Hindi</na></co>
+<co c="0"><na f="e/Etter:Thomas" pid="163/0482">Thomas Etter</na></co>
+<co c="0"><na f="f/Fabian:Benjamin" pid="68/261">Benjamin Fabian</na></co>
+<co c="0"><na f="f/F=auml=rber:Franz" pid="36/7116">Franz F&#228;rber</na></co>
+<co c="0"><na f="f/Fauser:Dietmar" pid="49/7259">Dietmar Fauser</na></co>
+<co c="0"><na f="f/Fenech:Thomas" pid="194/7673">Thomas Fenech</na></co>
+<co c="0"><na f="f/Feng:Amber" pid="73/10355">Amber Feng</na></co>
+<co c="0"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na></co>
+<co c="0"><na f="f/Florescu:Daniela" pid="70/3007">Daniela Florescu</na></co>
+<co c="0"><na f="f/Fourny:Ghislain" pid="86/1723">Ghislain Fourny</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="f/Freitas:Sara_de" pid="28/2925">Sara de Freitas</na></co>
+<co c="0"><na f="f/Frey:Gianni" pid="12/801">Gianni Frey</na></co>
+<co c="0"><na f="g/Garcia=Molina:Hector" pid="g/HGarciaMolina">Hector Garcia-Molina</na></co>
+<co c="0"><na f="g/G=auml=rtner:Andreas" pid="78/3558">Andreas G&#228;rtner</na></co>
+<co c="0"><na f="g/Gasparis:Georgios" pid="163/0543">Georgios Gasparis</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Ge_0002:Chang" pid="122/5424-2">Chang Ge 0002</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Gerlhof:Carsten_Andreas" pid="55/2695">Carsten Andreas Gerlhof</na></co>
+<co c="0"><na f="g/Giakoumakis:Leo" pid="31/3294">Leo Giakoumakis</na></co>
+<co c="0"><na f="g/Giannikis:Georgios" pid="16/7259">Georgios Giannikis</na></co>
+<co c="0"><na f="g/Giannotti:Fosca" pid="g/FoscaGiannotti">Fosca Giannotti</na></co>
+<co c="0" n="2"><na f="g/Gilbert:G=_Nigel" pid="g/GNigelGilbert">G. Nigel Gilbert</na><na>Nigel Gilbert</na></co>
+<co c="0"><na f="g/Gilliot:Maike" pid="86/1898">Maike Gilliot</na></co>
+<co c="0"><na f="g/Goel:Anil_K=" pid="59/5488">Anil K. Goel</na></co>
+<co c="0"><na f="g/Goldstein:Jonathan" pid="g/JonathanGoldstein">Jonathan Goldstein</na></co>
+<co c="0"><na f="g/G=oacute=mez:Gonzalo" pid="271/1925">Gonzalo G&#243;mez</na></co>
+<co c="0"><na f="g/Graf:David_A=" pid="59/172">David A. Graf</na></co>
+<co c="0" n="2"><na f="g/Grinev:Maxim_N=" pid="01/4258">Maxim N. Grinev</na><na>Maxim Grinev</na></co>
+<co c="0"><na f="g/Grineva:Maria_P=" pid="69/3201">Maria P. Grineva</na></co>
+<co c="0"><na f="g/Gross:Markus_H=" pid="g/MarkusHGross">Markus H. Gross</na></co>
+<co c="0"><na f="g/Gruenheid:Anja" pid="81/10578">Anja Gruenheid</na></co>
+<co c="0"><na f="g/Gruenwald:Le" pid="g/LeGruenwald">Le Gruenwald</na></co>
+<co c="0"><na f="g/Grund:Martin" pid="90/5189">Martin Grund</na></co>
+<co c="0"><na f="g/Gr=uuml=nhagen:Andreas" pid="60/2581">Andreas Gr&#252;nhagen</na></co>
+<co c="0"><na f="g/G=uuml=nther:Oliver" pid="g/OliverGunther">Oliver G&#252;nther</na></co>
+<co c="0"><na f="g/Gupta:Nitish" pid="45/10343">Nitish Gupta</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Haftmann:Florian" pid="46/6613">Florian Haftmann</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Hammer:Joachim" pid="h/JoachimHammer">Joachim Hammer</na></co>
+<co c="0"><na f="h/He:Jingrui" pid="34/2685">Jingrui He</na></co>
+<co c="0"><na f="h/Helbing:Dirk" pid="78/6036">Dirk Helbing</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Helmer:Sven" pid="h/SvenHelmer">Sven Helmer</na></co>
+<co c="0"><na f="h/Hentschel_0001:Martin" pid="50/7258-1">Martin Hentschel 0001</na></co>
+<co c="0"><na f="h/Herrmann:Andrea" pid="24/3228">Andrea Herrmann</na></co>
+<co c="0"><na f="h/Heyden:Martin" pid="231/1325">Martin Heyden</na></co>
+<co c="0"><na f="h/Hildenbrand:Stefan" pid="48/6743">Stefan Hildenbrand</na></co>
+<co c="0"><na f="h/Hillery:Chris" pid="57/1313">Chris Hillery</na></co>
+<co c="0"><na f="h/Hon:Wing=Kai" pid="51/534">Wing-Kai Hon</na></co>
+<co c="0"><na f="h/H=ouml=ppler:Thomas" pid="84/6740">Thomas H&#246;ppler</na></co>
+<co c="0"><na f="h/Horvitz:Eric" pid="h/EricHorvitz">Eric Horvitz</na></co>
+<co c="0"><na f="h/Hu:Jack" pid="243/2500">Jack Hu</na></co>
+<co c="0"><na f="h/Hu_0001:Xiaohua" pid="h/XiaohuaHu">Xiaohua Hu 0001</na></co>
+<co c="0" n="2"><na f="h/Hunter:Jim" pid="48/6924">Jim Hunter</na><na>James Hunter</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Iliopoulos:Anthony" pid="78/985">Anthony Iliopoulos</na></co>
+<co c="0" n="2"><na f="i/Illes=Seifert:Timea" pid="i/TimeaIlles">Timea Illes-Seifert</na><na>Timea Illes</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jain:Rajat" pid="28/7328">Rajat Jain</na></co>
+<co c="0"><na f="j/Jarisch:Bjorn" pid="55/5371">Bjorn Jarisch</na></co>
+<co c="0"><na f="j/Joglekar:Manas" pid="15/9508">Manas Joglekar</na></co>
+<co c="0"><na f="j/J=oacute=nsson_0001:Bj=ouml=rn_=THORN==oacute=r" pid="j/BjornTorJonsson1">Bj&#246;rn &#222;&#243;r J&#243;nsson 0001</na></co>
+<co c="0"><na f="j/Jossen:Claudio" pid="71/2922">Claudio Jossen</na></co>
+<co c="0"><na f="k/Kaack:J=ouml=rn" pid="69/2545">J&#246;rn Kaack</na></co>
+<co c="0"><na f="k/Kamar:Ece" pid="36/3834">Ece Kamar</na></co>
+<co c="0"><na f="k/Katsipoulakis:Nikos_R=" pid="142/7802">Nikos R. Katsipoulakis</na></co>
+<co c="0"><na f="k/Kaufmann:Martin" pid="54/7064">Martin Kaufmann</na></co>
+<co c="0"><na f="k/Kaushik:Raghav" pid="09/2901">Raghav Kaushik</na></co>
+<co c="0"><na f="k/Keidl:Markus" pid="87/1093">Markus Keidl</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Khan:Arijit" pid="67/2933">Arijit Khan</na></co>
+<co c="0"><na f="k/Kilger:Christoph" pid="16/5817">Christoph Kilger</na></co>
+<co c="0"><na f="k/Kirn:Stefan" pid="k/StefanKirn">Stefan Kirn</na></co>
+<co c="0"><na f="k/Kodavalla:Hanuma" pid="15/3353">Hanuma Kodavalla</na></co>
+<co c="0"><na f="k/K=ouml=hl:Florian" pid="181/5759">Florian K&#246;hl</na></co>
+<co c="0"><na f="k/Kohlhammer:J=ouml=rn" pid="19/4077">J&#246;rn Kohlhammer</na></co>
+<co c="0"><na f="k/Korth:Henry_F=" pid="k/HenryFKorth">Henry F. Korth</na></co>
+<co c="0"><na f="k/Koumoutsakos:Petros" pid="70/5363">Petros Koumoutsakos</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krause_0001:Andreas" pid="87/1831-1">Andreas Krause 0001</na></co>
+<co c="0"><na f="k/Kreutz:Alexander" pid="54/1533">Alexander Kreutz</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0"><na f="k/Kr=uuml=ger_0003:Jens" pid="41/3476-3">Jens Kr&#252;ger 0003</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lechtenb=ouml=rger:Jens" pid="13/4189">Jens Lechtenb&#246;rger</na></co>
+<co c="0"><na f="l/Lee_0003:Jonathan" pid="30/3557-3">Jonathan Lee 0003</na></co>
+<co c="0"><na f="l/Lee:Juchang" pid="46/6759">Juchang Lee</na></co>
+<co c="0"><na f="l/Lee:Kisung" pid="99/4464">Kisung Lee</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Levandoski:Justin_J=" pid="02/3658">Justin J. Levandoski</na></co>
+<co c="0"><na f="l/Levy:Eliezer" pid="64/1366">Eliezer Levy</na></co>
+<co c="0"><na f="l/Leymann:Frank" pid="l/FrankLeymann">Frank Leymann</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Liang:Ning" pid="73/2796">Ning Liang</na></co>
+<co c="0"><na f="l/Lingam:Sandeep" pid="09/1637">Sandeep Lingam</na></co>
+<co c="0"><na f="l/Linn=eacute=r:Bj=ouml=rn=Ola" pid="00/8381">Bj&#246;rn-Ola Linn&#233;r</na></co>
+<co c="0"><na f="l/Liu_0001:Bing" pid="l/BingLiu1">Bing Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0001:Huan" pid="92/309-1">Huan Liu 0001</na></co>
+<co c="0"><na f="l/Lo_0001:Eric" pid="80/2320">Eric Lo 0001</na></co>
+<co c="0"><na f="l/Loesing:Simon" pid="74/7376">Simon Loesing</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="l/Loos:Peter" pid="l/PeterLoos">Peter Loos</na></co>
+<co c="0"><na f="l/Loro:Alessandra" pid="166/8387">Alessandra Loro</na></co>
+<co c="0"><na f="l/Lotz:Volkmar" pid="32/383">Volkmar Lotz</na></co>
+<co c="0"><na f="l/Loughran:Steve" pid="29/204">Steve Loughran</na></co>
+<co c="0"><na f="l/Lowis:Lutz" pid="66/4848">Lutz Lowis</na></co>
+<co c="0"><na f="l/Lucas:Paul" pid="80/5635">Paul Lucas</na></co>
+<co c="0"><na f="l/Lukowicz:Paul" pid="l/PaulLukowicz">Paul Lukowicz</na></co>
+<co c="0"><na f="m/Madden:Samuel" pid="m/SamuelMadden">Samuel Madden</na></co>
+<co c="0"><na f="m/Magoulas:Roger" pid="22/4992">Roger Magoulas</na></co>
+<co c="0"><na f="m/Makreshanski:Darko" pid="131/4149">Darko Makreshanski</na></co>
+<co c="0"><na f="m/Manjili:Amin_Amiri" pid="131/4158">Amin Amiri Manjili</na></co>
+<co c="0"><na f="m/Manolescu:Ioana" pid="m/IoanaManolescu">Ioana Manolescu</na></co>
+<co c="0"><na f="m/Marfurt:Andreas" pid="164/6214">Andreas Marfurt</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Marroquin:Renato" pid="173/9193">Renato Marroquin</na></co>
+<co c="0"><na f="m/Massacci:Fabio" pid="59/6145">Fabio Massacci</na></co>
+<co c="0"><na f="m/Matter:Reto" pid="20/6564">Reto Matter</na></co>
+<co c="0"><na f="m/Matthes:Florian" pid="m/FlorianMatthes">Florian Matthes</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="m/McBeath:Darin" pid="38/1216">Darin McBeath</na></co>
+<co c="0"><na f="m/Mehrotra:Sharad" pid="m/SharadMehrotra">Sharad Mehrotra</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="0"><na f="m/Meng:Pingfan" pid="124/7251">Pingfan Meng</na></co>
+<co c="0"><na f="m/Merkli:Stephan" pid="51/8510">Stephan Merkli</na></co>
+<co c="0"><na f="m/Meyer:Jeremy" pid="86/8165">Jeremy Meyer</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Minhas:Umar_Farooq" pid="99/6349">Umar Farooq Minhas</na></co>
+<co c="0"><na f="m/Mittal:Raman" pid="55/3545">Raman Mittal</na></co>
+<co c="0"><na f="m/Moerkotte:Guido" pid="m/GuidoMoerkotte">Guido Moerkotte</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Montero:Alejandro" pid="211/9904">Alejandro Montero</na></co>
+<co c="0"><na f="m/Mori:Magdalini" pid="54/10440">Magdalini Mori</na></co>
+<co c="0"><na f="m/M=uuml=ller:G=uuml=nter" pid="74/5441">G&#252;nter M&#252;ller</na></co>
+<co c="0"><na f="m/M=uuml=ller_0003:J=uuml=rgen" pid="m/JurgenMuller3">J&#252;rgen M&#252;ller 0003</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="0"><na f="m/Muresan:Dan" pid="07/4770">Dan Muresan</na></co>
+<co c="0"><na f="n/Narang:Inderpal" pid="n/InderpalNarang">Inderpal Narang</na></co>
+<co c="0"><na f="n/Nascimento:Mario_A=" pid="n/MarioANascimento">Mario A. Nascimento</na></co>
+<co c="0"><na f="n/Nasoi:Sorin" pid="77/7258">Sorin Nasoi</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nick:Patrick" pid="123/8674">Patrick Nick</na></co>
+<co c="0"><na f="n/Nushi:Besmira" pid="117/4927">Besmira Nushi</na></co>
+<co c="0"><na f="o/Ogg:Nikolas" pid="266/5882">Nikolas Ogg</na></co>
+<co c="0"><na f="o/Olston:Christopher" pid="o/ChristopherOlston">Christopher Olston</na></co>
+<co c="0"><na f="o/Olteanu:Dan" pid="o/DanOlteanu">Dan Olteanu</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0"><na f="o/O=Reilly:Tim" pid="90/3808">Tim O'Reilly</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Paech:Barbara" pid="p/BarbaraPaech">Barbara Paech</na></co>
+<co c="0"><na f="p/Pandey:Vineet" pid="83/7560">Vineet Pandey</na></co>
+<co c="0"><na f="p/Paolucci:Mario" pid="37/3843">Mario Paolucci</na></co>
+<co c="0"><na f="p/Parlange:Marc" pid="28/4718">Marc Parlange</na></co>
+<co c="0"><na f="p/Patel:Jignesh" pid="32/8882">Jignesh Patel</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Pedreschi:Dino" pid="p/DPedreschi">Dino Pedreschi</na></co>
+<co c="0"><na f="p/Pentland:Alex" pid="p/AlexPentland">Alex Pentland</na></co>
+<co c="0"><na f="p/Pfaffhauser:Flavio" pid="31/8510">Flavio Pfaffhauser</na></co>
+<co c="0"><na f="p/Pigout:Emmanuel" pid="92/6686">Emmanuel Pigout</na></co>
+<co c="0"><na f="p/Pilman:Markus" pid="61/418">Markus Pilman</na></co>
+<co c="0"><na f="p/Plattner:Hasso" pid="58/3831">Hasso Plattner</na></co>
+<co c="0"><na f="p/Poggi:Nicol=aacute=s" pid="21/7644">Nicol&#225;s Poggi</na></co>
+<co c="0"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na></co>
+<co c="0"><na f="p/Prakash:Naveen" pid="55/3343">Naveen Prakash</na></co>
+<co c="0"><na f="p/Prasaad:Guna" pid="217/3619">Guna Prasaad</na></co>
+<co c="0"><na f="p/Pretschner:Alexander" pid="98/5319">Alexander Pretschner</na></co>
+<co c="0"><na f="p/Profeta:Damien" pid="166/8361">Damien Profeta</na></co>
+<co c="0"><na f="p/Pr=ouml=ls:Stefan" pid="11/6611">Stefan Pr&#246;ls</na></co>
+<co c="0"><na f="p/Pu:Calton" pid="p/CaltonPu">Calton Pu</na></co>
+<co c="0"><na f="p/Purohit:Vijendra" pid="243/2361">Vijendra Purohit</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="q/Qiao:Mu" pid="67/2732">Mu Qiao</na></co>
+<co c="0"><na f="q/Qu:Hugh" pid="243/2328">Hugh Qu</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0" n="2"><na f="r/Ramamurthy:Ravishankar" pid="02/4973">Ravishankar Ramamurthy</na><na>Ravi Ramamurthy</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0"><na f="r/Ramesh:Sukriti" pid="62/58">Sukriti Ramesh</na></co>
+<co c="0"><na f="r/Ramsak:Frank" pid="99/2484">Frank Ramsak</na></co>
+<co c="0"><na f="r/Ravella:Chaitanya_Sreenivas" pid="243/2479">Chaitanya Sreenivas Ravella</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="-1"><na f="r/Reichel:Christian" pid="51/387">Christian Reichel</na></co>
+<co c="0"><na f="r/Reiss:Frederick" pid="95/459">Frederick Reiss</na></co>
+<co c="0"><na f="r/Reisteter:Krystyna" pid="243/2519">Krystyna Reisteter</na></co>
+<co c="0"><na f="r/Rekatsinas:Theodoros" pid="51/11411">Theodoros Rekatsinas</na></co>
+<co c="0"><na f="r/Rellermeyer:Jan_S=" pid="21/4498">Jan S. Rellermeyer</na></co>
+<co c="0"><na f="r/Renen:Alexander_van" pid="219/9679">Alexander van Renen</na></co>
+<co c="0"><na f="r/Renkes:Frank" pid="121/4087">Frank Renkes</na></co>
+<co c="0"><na f="r/Riccardi:Fabio" pid="41/53">Fabio Riccardi</na></co>
+<co c="0"><na f="r/Riva:Oriana" pid="53/3712">Oriana Riva</na></co>
+<co c="0"><na f="r/Robelin:Charles=Antoine" pid="84/7253">Charles-Antoine Robelin</na></co>
+<co c="0"><na f="r/Robie:Jonathan" pid="08/5419">Jonathan Robie</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="r/Rost:Steffen" pid="48/6951">Steffen Rost</na></co>
+<co c="0"><na f="s/Saenz:Alejandro_Hernandez" pid="243/2327">Alejandro Hernandez Saenz</na></co>
+<co c="0"><na f="s/Saenz=Badillos:Angel" pid="65/6866">Angel Saenz-Badillos</na></co>
+<co c="0"><na f="s/Salles:Marcos_Antonio_Vaz" pid="70/4277">Marcos Antonio Vaz Salles</na></co>
+<co c="0"><na f="s/Saltz:Jeffrey_S=" pid="61/1466">Jeffrey S. Saltz</na></co>
+<co c="0"><na f="s/Sanamrad:Tahmineh" pid="68/9726">Tahmineh Sanamrad</na></co>
+<co c="0"><na f="s/Sarawagi:Sunita" pid="s/SunitaSarawagi">Sunita Sarawagi</na></co>
+<co c="0"><na f="s/Schiefer:K=_Bernhard" pid="95/5216">K. Bernhard Schiefer</na></co>
+<co c="0"><na f="s/Segovia:Gustavo" pid="190/7057">Gustavo Segovia</na></co>
+<co c="0"><na f="s/Seltzsam:Stefan" pid="s/StefanSeltzsam">Stefan Seltzsam</na></co>
+<co c="0"><na f="s/Setty:Srinath_T=_V=" pid="68/8463">Srinath T. V. Setty</na></co>
+<co c="0"><na f="s/Shrotri:Sheetal" pid="243/2394">Sheetal Shrotri</na></co>
+<co c="0"><na f="s/Sidle:Richard" pid="84/3614">Richard Sidle</na></co>
+<co c="0"><na f="s/Sikka:Vishal" pid="87/1055">Vishal Sikka</na></co>
+<co c="0"><na f="s/Singh:Kunal_D=" pid="266/6008">Kunal D. Singh</na></co>
+<co c="0"><na f="s/Singla:Adish" pid="58/657">Adish Singla</na></co>
+<co c="0"><na f="s/Slusallek:Philipp" pid="s/PhilippSlusallek">Philipp Slusallek</na></co>
+<co c="0"><na f="s/Song:Yang" pid="24/4470">Yang Song</na></co>
+<co c="0" n="2"><na f="s/Sorkine=Hornung:Olga" pid="s/OlgaSorkine">Olga Sorkine-Hornung</na><na>Olga Sorkine</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stocker:Konrad" pid="17/804">Konrad Stocker</na></co>
+<co c="0"><na f="s/Stockinger:Kurt" pid="38/5145">Kurt Stockinger</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sumner:Robert_W=" pid="30/4038">Robert W. Sumner</na></co>
+<co c="0"><na f="s/Sundararajan:Arvind" pid="40/1908">Arvind Sundararajan</na></co>
+<co c="0"><na f="s/Swart:Garret" pid="46/4288">Garret Swart</na></co>
+<co c="0" n="2"><na f="s/Szalay:Alex" pid="s/AlexanderSSzalay">Alex Szalay</na><na>Alexander S. Szalay</na></co>
+<co c="0"><na f="s/Szymaszek:Jakub" pid="03/2047">Jakub Szymaszek</na></co>
+<co c="0"><na f="s/Szyperski:Clemens_A=" pid="03/5825">Clemens A. Szyperski</na></co>
+<co c="0"><na f="t/Tamosevicius:Rokas" pid="36/6557">Rokas Tamosevicius</na></co>
+<co c="0"><na f="t/Tang:Dixin" pid="155/5478">Dixin Tang</na></co>
+<co c="0"><na f="t/Tang:Jiliang" pid="64/10812">Jiliang Tang</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Taubner:Dirk" pid="61/4391">Dirk Taubner</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="t/Thiele:Lothar" pid="t/LotharThiele">Lothar Thiele</na></co>
+<co c="0"><na f="t/Tinnefeld:Christian" pid="43/7967">Christian Tinnefeld</na></co>
+<co c="0"><na f="t/Tonder:Andreas" pid="131/4823">Andreas Tonder</na></co>
+<co c="0"><na f="t/Trimmer:Jeffrey" pid="266/5782">Jeffrey Trimmer</na></co>
+<co c="0" n="2"><na f="t/Tsay:Kai=En" pid="18/10139">Kai-En Tsay</na><na>Ken Tsay</na></co>
+<co c="0"><na f="u/Unterbrunner:Philipp" pid="64/6456">Philipp Unterbrunner</na></co>
+<co c="0"><na f="u/Upadhyaya:Prasang" pid="54/1412">Prasang Upadhyaya</na></co>
+<co c="0"><na f="u/Ursu:Ioana" pid="20/779">Ioana Ursu</na></co>
+<co c="0"><na f="v/Vagenas:Panagiotis" pid="43/11411">Panagiotis Vagenas</na></co>
+<co c="0"><na f="v/Vanchinathan:Hastagiri_P=" pid="151/6848">Hastagiri P. Vanchinathan</na></co>
+<co c="0"><na f="v/Vaswani:Kapil" pid="48/1784">Kapil Vaswani</na></co>
+<co c="0"><na f="v/Venkatesan:Ramarathnam" pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</na></co>
+<co c="0"><na f="v/Vetterli:Martin" pid="v/MVetterli">Martin Vetterli</na></co>
+<co c="0"><na f="v/Vossen:Gottfried" pid="v/GottfriedVossen">Gottfried Vossen</na></co>
+<co c="0"><na f="w/Wakade:Vikram" pid="243/2323">Vikram Wakade</na></co>
+<co c="0"><na f="w/Walter:Hans=Dirk" pid="w/HansDirkWalter">Hans-Dirk Walter</na></co>
+<co c="0"><na f="w/Walter:Todd" pid="00/11358">Todd Walter</na></co>
+<co c="0"><na f="w/Wang_0002:Andrew" pid="58/5765-2">Andrew Wang 0002</na></co>
+<co c="0"><na f="w/Wang:Chi" pid="09/404">Chi Wang</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Wei=szlig=_0001:Daniel" pid="79/894">Daniel Wei&#223; 0001</na></co>
+<co c="0"><na f="w/Westmann:Till" pid="28/6679">Till Westmann</na></co>
+<co c="0"><na f="w/Widmer:Daniel" pid="84/2090">Daniel Widmer</na></co>
+<co c="0"><na f="w/Widom:Jennifer" pid="w/JenniferWidom">Jennifer Widom</na></co>
+<co c="0"><na f="w/Wiesner:Christian" pid="94/358">Christian Wiesner</na></co>
+<co c="0"><na f="w/Wimmers:Edward_L=" pid="68/2431">Edward L. Wimmers</na></co>
+<co c="0"><na f="w/Winter_0001:Robert" pid="84/285">Robert Winter 0001</na></co>
+<co c="0"><na f="x/Xhumari:Florian" pid="02/4296">Florian Xhumari</na></co>
+<co c="0"><na f="x/Xie_0001:Dong" pid="20/6977-1">Dong Xie 0001</na></co>
+<co c="0"><na f="x/Xie:Wenlei" pid="70/8577">Wenlei Xie</na></co>
+<co c="0"><na f="x/Xin:Reynold" pid="47/7258">Reynold Xin</na></co>
+<co c="0"><na f="y/Yang_0001:Jun" pid="y/JunYang1">Jun Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Zongheng" pid="181/5822">Zongheng Yang</na></co>
+<co c="0"><na f="y/Yanki:Pouya" pid="147/1261">Pouya Yanki</na></co>
+<co c="0"><na f="y/Yu_0001:Jia" pid="86/3457-1">Jia Yu 0001</na></co>
+<co c="0"><na f="z/Zacharioudaki:Markos" pid="15/7259">Markos Zacharioudaki</na></co>
+<co c="0"><na f="z/Zachmann:Andreas" pid="01/343">Andreas Zachmann</na></co>
+<co c="0"><na f="z/Zamanian:Erfan" pid="141/9169">Erfan Zamanian</na></co>
+<co c="0"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na></co>
+<co c="0"><na f="z/Zehnder:Benjamin" pid="181/9110">Benjamin Zehnder</na></co>
+<co c="0"><na f="z/Zeier:Alexander" pid="52/6897">Alexander Zeier</na></co>
+<co c="0"><na f="z/Zeller:Bernhard" pid="80/3588">Bernhard Zeller</na></co>
+<co c="0"><na f="z/Zhang:Hantian" pid="155/9999">Hantian Zhang</na></co>
+<co c="0"><na f="z/Zhou:Chong" pid="42/5942">Chong Zhou</na></co>
+<co c="0"><na f="z/Zwilling:Mike" pid="74/1997">Mike Zwilling</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,935 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:552e9aaac4d0f1f32558a038fcc5942fa90dc5d7cfcabea3aa185915514912c2
-size 49016
+<?xml version="1.0"?>
+<dblpperson name="Dongwon Park" pid="55/11454" n="26">
+<person key="homepages/55/11454" mdate="2012-05-31">
+<author pid="55/11454">Dongwon Park</author>
+</person>
+<r><article key="journals/tcad/ParkLKHGLC20" mdate="2020-12-01">
+<author orcid="0000-0003-1508-3315" pid="55/11454">Dongwon Park</author>
+<author orcid="0000-0003-0778-0110" pid="53/11179">Daeyeal Lee</author>
+<author orcid="0000-0003-3842-5613" pid="139/2460">Ilgweon Kang</author>
+<author orcid="0000-0002-8548-4539" pid="161/9916">Chester Holtz</author>
+<author pid="22/8296">Sicun Gao</author>
+<author orcid="0000-0003-0965-7247" pid="l/BillLin">Bill Lin</author>
+<author orcid="0000-0002-9865-8390" pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>Grid-Based Framework for Routability Analysis and Diagnosis With Conditional Design Rules.</title>
+<pages>5097-5110</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2020.2977066</ee>
+<url>db/journals/tcad/tcad39.html#ParkLKHGLC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/ParkLKGLC20" mdate="2020-03-30">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="53/11179">Daeyeal Lee</author>
+<author pid="139/2460">Ilgweon Kang</author>
+<author pid="22/8296">Sicun Gao</author>
+<author pid="l/BillLin">Bill Lin</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>SP&#38;R: Simultaneous Placement and Routing framework for standard cell synthesis in sub-7nm.</title>
+<pages>345-350</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045729</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#ParkLKGLC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ParkKKC20" mdate="2020-11-14">
+<author orcid="0000-0001-6060-9705" pid="55/11454">Dongwon Park</author>
+<author orcid="0000-0003-2486-2783" pid="254/2961">Dong Un Kang</author>
+<author orcid="0000-0002-6984-2850" pid="77/2107">Jisoo Kim</author>
+<author orcid="0000-0001-8739-8960" pid="85/2542">Se Young Chun</author>
+<title>Multi-Temporal Recurrent Neural Networks for Progressive Non-uniform Single Image Deblurring with Incremental Temporal Training.</title>
+<pages>327-343</pages>
+<year>2020</year>
+<booktitle>ECCV (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58539-6_20</ee>
+<crossref>conf/eccv/2020-6</crossref>
+<url>db/conf/eccv/eccv2020-6.html#ParkKKC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/ChengHLP20" mdate="2021-01-18">
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<author pid="143/4616">Chia-Tung Ho</author>
+<author pid="53/11179">Daeyeal Lee</author>
+<author pid="55/11454">Dongwon Park</author>
+<title>A Routability-Driven Complimentary-FET (CFET) Standard Cell Synthesis Framework using SMT.</title>
+<pages>158:1-158:8</pages>
+<year>2020</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3400302.3415611</ee>
+<ee>https://ieeexplore.ieee.org/document/9256570</ee>
+<crossref>conf/iccad/2020</crossref>
+<url>db/conf/iccad/iccad2020.html#ChengHLP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ParkSSCC20" mdate="2020-10-25">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="227/2546">Yonghyeok Seo</author>
+<author pid="249/2372">Dongju Shin</author>
+<author pid="13/1402">Jaesik Choi</author>
+<author orcid="0000-0001-8739-8960" pid="85/2542">Se Young Chun</author>
+<title>A Single Multi-Task Deep Neural Network with Post-Processing for Object Detection with Reasoning and Robotic Grasp Detection.</title>
+<pages>7300-7306</pages>
+<year>2020</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA40945.2020.9197179</ee>
+<crossref>conf/icra/2020</crossref>
+<url>db/conf/icra/icra2020.html#ParkSSCC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ParkSC20" mdate="2020-10-25">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="227/2546">Yonghyeok Seo</author>
+<author orcid="0000-0001-8739-8960" pid="85/2542">Se Young Chun</author>
+<title>Real-Time, Highly Accurate Robotic Grasp Detection using Fully Convolutional Neural Network with Rotation Ensemble Module.</title>
+<pages>9397-9403</pages>
+<year>2020</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA40945.2020.9197002</ee>
+<crossref>conf/icra/2020</crossref>
+<url>db/conf/icra/icra2020.html#ParkSC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ChengLP20" mdate="2021-01-18">
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<author pid="53/11179">Daeyeal Lee</author>
+<author pid="55/11454">Dongwon Park</author>
+<title>Standard-Cell Scaling Framework with Guaranteed Pin-Accessibility.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS45731.2020.9180592</ee>
+<crossref>conf/iscas/2020</crossref>
+<url>db/conf/iscas/iscas2020.html#ChengLP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-04709" mdate="2020-02-14">
+<author pid="120/3921">Kwan-Young Kim</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="49/1431">Kwang In Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Task-Aware Variational Adversarial Active Learning.</title>
+<year>2020</year>
+<volume>abs/2002.04709</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.04709</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-04709</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-12507" mdate="2021-01-05">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="254/2961">Dong Un Kang</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Blur More To Deblur Better: Multi-Blur2Deblur For Efficient Video Deblurring.</title>
+<year>2020</year>
+<volume>abs/2012.12507</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.12507</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-12507</url>
+</article>
+</r>
+<r><article key="journals/todaes/KangQPKYCG19" mdate="2019-05-10">
+<author pid="139/2460">Ilgweon Kang</author>
+<author pid="62/11304">Fang Qiao</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="52/6817">Daniel Kane</author>
+<author pid="y/EFYYoung">Evangeline F. Y. Young</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<author pid="g/RLGraham">Ronald L. Graham</author>
+<title>Three-dimensional Floorplan Representations by Using Corner Links and Partial Order.</title>
+<pages>13:1-13:33</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3289179</ee>
+<url>db/journals/todaes/todaes24.html#KangQPKYCG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/NahTBHMSL19" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="205/3991">Xintao Wang</author>
+<author pid="228/2769">Kelvin C. K. Chan</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="230/2044">Hyeonjun Sim</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="77/2107">Jisoo Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="142/1614">Muhammad Haris</author>
+<author pid="17/1926">Greg Shakhnarovich</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<author pid="140/7811">Syed Waqas Zamir</author>
+<author pid="230/3630">Aditya Arora</author>
+<author pid="32/6735">Salman Khan</author>
+<author orcid="0000-0002-4263-3143" pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="263/1603">Rahul Kumar Gupta</author>
+<author pid="216/4089">Vishal M. Chudasama</author>
+<author pid="263/1688">Heena Patel</author>
+<author pid="60/10346">Kishor P. Upla</author>
+<author pid="17/7704">Hongfei Fan</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="08/2771">Yumei Zhang</author>
+<author pid="40/1491">Xiang Li</author>
+<author pid="98/5684">Wenjie Zhang</author>
+<author pid="263/1072">Qingwen He</author>
+<author orcid="0000-0002-6709-1627" pid="191/2655">Kuldeep Purohit</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="96/9913">Jeonghun Kim</author>
+<author pid="39/8776">Mohammad Tofighi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>NTIRE 2019 Challenge on Video Deblurring: Methods and Results.</title>
+<pages>1974-1984</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00249</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#NahTBHMSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AbdelhamedTB19" mdate="2021-04-09">
+<author pid="202/2128">Abdelrahman Abdelhamed</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="02/4733">Michael S. Brown</author>
+<author pid="250/5604">Songhyun Yu</author>
+<author pid="240/3623">Bumjun Park</author>
+<author pid="24/6358">Jechang Jeong</author>
+<author pid="80/6256">Seung-Won Jung</author>
+<author pid="19/1414">Dong-Wook Kim</author>
+<author pid="241/9847">Jae Ryun Chung</author>
+<author pid="33/5934">Jiaming Liu</author>
+<author pid="142/0325">Yuzhi Wang</author>
+<author pid="50/5051">Chi-Hao Wu</author>
+<author pid="62/5979">Qin Xu</author>
+<author pid="68/363">Chuan Wang</author>
+<author pid="210/0993">Shaofan Cai</author>
+<author pid="156/3870">Yifan Ding</author>
+<author pid="143/7181">Haoqiang Fan</author>
+<author pid="69/393-1">Jue Wang 0001</author>
+<author pid="55/957-8">Kai Zhang 0008</author>
+<author pid="93/2671">Wangmeng Zuo</author>
+<author pid="222/2064">Magauiya Zhussip</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="217/1481">Shakarim Soltanayev</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="16/4406">Chang Chen</author>
+<author pid="142/1614">Muhammad Haris</author>
+<author pid="260/3239">Kazutoshi Akita</author>
+<author pid="64/7198">Tomoki Yoshida</author>
+<author pid="17/1926">Greg Shakhnarovich</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<author pid="140/7811">Syed Waqas Zamir</author>
+<author pid="230/3630">Aditya Arora</author>
+<author pid="32/6735">Salman Khan</author>
+<author orcid="0000-0002-4263-3143" pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="30/4050">Sung-Jea Ko</author>
+<author pid="232/2729">Dong-Pan Lim</author>
+<author pid="07/10150">Seung-Wook Kim</author>
+<author pid="206/5810">Seo-Won Ji</author>
+<author pid="67/1944">Sang-Won Lee</author>
+<author pid="184/3592">Wenyi Tang</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="06/2696">Yuqian Zhou</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="22/5614">Deyu Meng</author>
+<author pid="64/5666-6">Lei Zhang 0006</author>
+<author pid="191/4640">Hongwei Yong</author>
+<author pid="159/0469">Yiyun Zhao</author>
+<author pid="251/3519">Pengliang Tang</author>
+<author pid="74/6493">Yue Lu</author>
+<author pid="47/3014">Raimondo Schettini</author>
+<author pid="36/1511">Simone Bianco</author>
+<author pid="238/0054">Simone Zini</author>
+<author pid="88/8066">Chi Li</author>
+<author pid="181/2842">Yang Wang</author>
+<author pid="01/4449">Zhiguo Cao</author>
+<title>NTIRE 2019 Challenge on Real Image Denoising: Methods and Results.</title>
+<pages>2197-2210</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Abdelhamed_NTIRE_2019_Challenge_on_Real_Image_Denoising_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00273</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#AbdelhamedTB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/CaiGTZa19" mdate="2021-04-14">
+<author pid="204/0848">Jianrui Cai</author>
+<author pid="126/1028">Shuhang Gu</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="64/5666-6">Lei Zhang 0006</author>
+<author pid="82/1364">Xiao Liu</author>
+<author pid="200/7992">Yukang Ding</author>
+<author pid="167/0539">Dongliang He</author>
+<author pid="66/190">Chao Li</author>
+<author pid="86/4628">Yi Fu</author>
+<author pid="159/2939">Shilei Wen</author>
+<author pid="134/1620">Ruicheng Feng</author>
+<author pid="209/5709">Jinjin Gu</author>
+<author pid="q/YuQiao1">Yu Qiao 0001</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="263/1037">Sanghoon Yoon</author>
+<author pid="250/5412">Junhyung Kwak</author>
+<author pid="138/9497">Donghee Son</author>
+<author pid="140/7811">Syed Waqas Zamir</author>
+<author pid="230/3630">Aditya Arora</author>
+<author pid="32/6735">Salman Khan</author>
+<author orcid="0000-0002-4263-3143" pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="263/1585">Zhengping Wei</author>
+<author pid="21/2715">Lei Liu</author>
+<author pid="22/4111">Hong Cai</author>
+<author pid="77/8693">Darui Li</author>
+<author pid="195/2562">Fujie Gao</author>
+<author pid="211/5794">Zheng Hui</author>
+<author pid="03/710">Xiumei Wang</author>
+<author orcid="0000-0003-1443-0776" pid="99/4522">Xinbo Gao 0001</author>
+<author pid="189/4511">Guoan Cheng</author>
+<author pid="250/5738">Ai Matsune</author>
+<author pid="150/4872">Qiuyu Li</author>
+<author pid="90/7536">Leilei Zhu</author>
+<author pid="153/2518">Huaijuan Zang</author>
+<author pid="127/2859">Shu Zhan</author>
+<author pid="189/6418">Yajun Qiu</author>
+<author pid="149/7989">Ruxin Wang</author>
+<author pid="12/3242">Jiawei Li</author>
+<author pid="196/3616">Yongcheng Jing</author>
+<author pid="71/5333">Mingli Song</author>
+<author pid="168/2186">Pengju Liu</author>
+<author pid="55/957-8">Kai Zhang 0008</author>
+<author pid="06/4968">Jingdong Liu</author>
+<author pid="72/9555">Jiye Liu</author>
+<author pid="94/936">Hongzhi Zhang</author>
+<author pid="93/2671">Wangmeng Zuo</author>
+<author pid="184/3592">Wenyi Tang</author>
+<author pid="72/2590-31">Jing Liu 0031</author>
+<author pid="158/9686">Youngjung Kim</author>
+<author pid="263/1632">Changyeop Shin</author>
+<author pid="119/4240">Minbeom Kim</author>
+<author pid="09/623">Sungho Kim</author>
+<author pid="63/1474">Pablo Navarrete Michelini</author>
+<author pid="178/1112">Hanwen Liu</author>
+<author pid="50/6054">Dan Zhu</author>
+<author pid="121/0043">Xuan Xu</author>
+<author pid="09/1365-5">Xin Li 0005</author>
+<author pid="244/2336">Furui Bai</author>
+<author pid="74/9057">Xiaopeng Sun</author>
+<author pid="133/3991">Lin Zha</author>
+<author pid="207/5397">Yuanfei Huang</author>
+<author pid="31/6140">Wen Lu</author>
+<author pid="91/7629">Yanpeng Cao</author>
+<author pid="87/6150">Du Chen</author>
+<author pid="210/1373">Zewei He</author>
+<author pid="250/5396">Anshun Sun</author>
+<author pid="44/5693">Siliang Tang</author>
+<author pid="17/7704">Hongfei Fan</author>
+<author pid="40/1491">Xiang Li</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="98/5684">Wenjie Zhang</author>
+<author pid="08/2771">Yumei Zhang</author>
+<author pid="263/1072">Qingwen He</author>
+<author pid="228/6607">Jinghui Qin</author>
+<author pid="154/3822">Lishan Huang</author>
+<author pid="183/6271">Yukai Shi</author>
+<author pid="138/4243">Pengxu Wei</author>
+<author pid="58/5626">Wushao Wen</author>
+<author pid="84/7019">Liang Lin</author>
+<author pid="50/5754-1">Jun Yu 0001</author>
+<author pid="241/5497">Guochen Xie</author>
+<author pid="226/2759">Mengyan Li</author>
+<author pid="22/6904">Rong Chen</author>
+<author pid="169/3960">Xiaotong Luo</author>
+<author pid="46/1965">Chen Hong</author>
+<author pid="03/3500">Yanyun Qu</author>
+<author pid="21/5657">Cuihua Li</author>
+<author pid="177/3125">Zhi-Song Liu</author>
+<author pid="33/10711">Li-Wen Wang</author>
+<author pid="235/0657">Chu-Tak Li</author>
+<author pid="35/2787">Can Zhao</author>
+<author pid="75/10470">Bowen Li</author>
+<author pid="52/10137">Chung-Chi Tsai</author>
+<author pid="20/4086">Shang-Chih Chuang</author>
+<author pid="251/1927">Joonhee Choi</author>
+<author pid="02/777">Joonsoo Kim</author>
+<author pid="05/6329">Xiaoyun Jiang</author>
+<author pid="260/3236">Ze Pan</author>
+<author pid="170/9612">Qunbo Lv</author>
+<author pid="87/1635">Zheng Tan</author>
+<author pid="263/1470">Peidong He</author>
+<title>NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results.</title>
+<pages>2211-2223</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Cai_NTIRE_2019_Challenge_on_Real_Image_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00274</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#CaiGTZa19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/IgnatovT19" mdate="2021-04-14">
+<author pid="199/2294">Andrey Ignatov</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="23/9252">Xiaochao Qu</author>
+<author pid="177/2261">Xingguang Zhou</author>
+<author pid="52/5150">Ting Liu</author>
+<author pid="119/0306">Pengfei Wan</author>
+<author pid="140/7811">Syed Waqas Zamir</author>
+<author pid="230/3630">Aditya Arora</author>
+<author pid="32/6735">Salman Khan</author>
+<author orcid="0000-0002-4263-3143" pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="63/1474">Pablo Navarrete Michelini</author>
+<author pid="178/1112">Hanwen Liu</author>
+<author pid="50/6054">Dan Zhu</author>
+<author pid="160/7296">Zhiwei Zhong</author>
+<author pid="89/5820">Xianming Liu</author>
+<author pid="119/0230">Junjun Jiang</author>
+<author pid="16/3958">Debin Zhao</author>
+<author pid="142/1614">Muhammad Haris</author>
+<author pid="260/3239">Kazutoshi Akita</author>
+<author pid="64/7198">Tomoki Yoshida</author>
+<author pid="17/1926">Greg Shakhnarovich</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<author pid="03/2134">Jie Liu</author>
+<author pid="88/394">Cheolkon Jung</author>
+<author pid="47/3014">Raimondo Schettini</author>
+<author pid="36/1511">Simone Bianco</author>
+<author pid="53/6816">Claudio Cusano</author>
+<author orcid="0000-0001-7432-4284" pid="213/0588">Flavio Piccoli</author>
+<author pid="168/2186">Pengju Liu</author>
+<author pid="55/957-8">Kai Zhang 0008</author>
+<author pid="06/4968">Jingdong Liu</author>
+<author pid="72/9555">Jiye Liu</author>
+<author pid="94/936">Hongzhi Zhang</author>
+<author pid="93/2671">Wangmeng Zuo</author>
+<author pid="263/1054">Nelson Chong Ngee Bow</author>
+<author pid="04/8109">Lai-Kuan Wong</author>
+<author pid="36/4809">John See</author>
+<author pid="228/6607">Jinghui Qin</author>
+<author pid="154/3822">Lishan Huang</author>
+<author pid="183/6271">Yukai Shi</author>
+<author pid="138/4243">Pengxu Wei</author>
+<author pid="58/5626">Wushao Wen</author>
+<author pid="84/7019">Liang Lin</author>
+<author pid="211/5794">Zheng Hui</author>
+<author pid="03/710">Xiumei Wang</author>
+<author orcid="0000-0003-1443-0776" pid="99/4522">Xinbo Gao 0001</author>
+<author pid="263/1107">Kanti Kumari</author>
+<author pid="235/3478">Vikas Kumar Anand</author>
+<author pid="213/7790">Mahendra Khened</author>
+<author pid="16/847">Ganapathy Krishnamurthi</author>
+<title>NTIRE 2019 Challenge on Image Enhancement: Methods and Results.</title>
+<pages>2224-2232</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Ignatov_NTIRE_2019_Challenge_on_Image_Enhancement_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00275</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#IgnatovT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AncutiATGZ0a19" mdate="2021-04-09">
+<author pid="89/5661">Codruta O. Ancuti</author>
+<author pid="82/3581">Cosmin Ancuti</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author pid="64/5666-6">Lei Zhang 0006</author>
+<author pid="79/3711">Ming-Hsuan Yang 0001</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="52/8508">Xuelu Li</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="38/6049">Hao Jiang</author>
+<author pid="201/7699">Siyuan Yang</author>
+<author pid="150/4295">Yan Liu</author>
+<author pid="23/9252">Xiaochao Qu</author>
+<author pid="119/0306">Pengfei Wan</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="95/10445">Ming Hong</author>
+<author pid="23/354">Jinying Huang</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="22/7663">Shuxin Chen</author>
+<author pid="263/1152">Bomin Wang</author>
+<author pid="63/1474">Pablo Navarrete Michelini</author>
+<author pid="178/1112">Hanwen Liu</author>
+<author pid="50/6054">Dan Zhu</author>
+<author pid="72/2590-31">Jing Liu 0031</author>
+<author pid="192/2528">Sanchayan Santra</author>
+<author pid="222/3772">Ranjan Mondal</author>
+<author pid="79/2737">Bhabatosh Chanda</author>
+<author pid="239/5824">Peter Morales</author>
+<author pid="239/5905">Tzofi Klinghoffer</author>
+<author pid="229/7573">Le Manh Quan</author>
+<author pid="04/1831">Yong-Guk Kim</author>
+<author pid="06/4676">Xiao Liang</author>
+<author pid="230/1495">Runde Li</author>
+<author pid="06/10816">Jinshan Pan</author>
+<author pid="75/1030">Jinhui Tang</author>
+<author orcid="0000-0002-6709-1627" pid="191/2655">Kuldeep Purohit</author>
+<author pid="254/1457">Maitreya Suin</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="47/3014">Raimondo Schettini</author>
+<author pid="36/1511">Simone Bianco</author>
+<author orcid="0000-0001-7432-4284" pid="213/0588">Flavio Piccoli</author>
+<author pid="53/6816">Claudio Cusano</author>
+<author orcid="0000-0002-5925-2646" pid="176/5396">Luigi Celona</author>
+<author pid="195/6460">Sunhee Hwang</author>
+<author pid="263/1349">Yu Seung Ma</author>
+<author pid="77/5360">Hyeran Byun</author>
+<author pid="61/10849">Subrahmanyam Murala</author>
+<author pid="213/7979">Akshay Dudhane</author>
+<author pid="250/5488">Harshjeet Singh Aulakh</author>
+<author pid="44/10028">Tianxiang Zheng</author>
+<author pid="15/4777">Tao Zhang</author>
+<author pid="263/1433">Weining Qin</author>
+<author pid="263/1316">Runnan Zhou</author>
+<author pid="59/11341">Shanhu Wang</author>
+<author pid="27/4360">Jean-Philippe Tarel</author>
+<author pid="207/0923">Chuansheng Wang</author>
+<author pid="37/10763">Jiawei Wu</author>
+<title>NTIRE 2019 Image Dehazing Challenge Report.</title>
+<pages>2241-2253</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Ancuti_NTIRE_2019_Image_Dehazing_Challenge_Report_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00277</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#AncutiATGZ0a19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/ParkKKGLC19" mdate="2019-04-11">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="139/2460">Ilgweon Kang</author>
+<author pid="142/9828">Yeseong Kim</author>
+<author pid="22/8296">Sicun Gao</author>
+<author pid="l/BillLin">Bill Lin</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>ROAD: Routability Analysis and Diagnosis Framework Based on SAT Techniques.</title>
+<pages>65-72</pages>
+<year>2019</year>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/3299902.3309752</ee>
+<crossref>conf/ispd/2019</crossref>
+<url>db/conf/ispd/ispd2019.html#ParkKKGLC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-10157" mdate="2019-04-01">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="77/2107">Jisoo Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Down-Scaling with Learned Kernels in Multi-Scale Deep Neural Networks for Non-Uniform Single Image Deblurring.</title>
+<year>2019</year>
+<volume>abs/1903.10157</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.10157</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-10157</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-07050" mdate="2019-09-23">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="227/2546">Yonghyeok Seo</author>
+<author pid="249/2372">Dongju Shin</author>
+<author pid="13/1402">Jaesik Choi</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>A Single Multi-Task Deep Neural Network with Post-Processing for Object Detection with Reasoning and Robotic Grasp Detection.</title>
+<year>2019</year>
+<volume>abs/1909.07050</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.07050</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-07050</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-07410" mdate="2019-12-04">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="254/2961">Dong Un Kang</author>
+<author pid="77/2107">Jisoo Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training.</title>
+<year>2019</year>
+<volume>abs/1911.07410</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.07410</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-07410</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ParkKC18" mdate="2019-02-06">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="120/3921">Kwan-Young Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Efficient Module Based Single Image Super Resolution for Multiple Problems.</title>
+<pages>882-890</pages>
+<year>2018</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Park_Efficient_Module_Based_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2018.00133</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2018.00133</ee>
+<crossref>conf/cvpr/2018w</crossref>
+<url>db/conf/cvpr/cvprw2018.html#ParkKC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/KangPHC18" mdate="2018-11-21">
+<author pid="139/2460">Ilgweon Kang</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="58/7539">ChangHo Han</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<title>Fast and precise routability analysis with conditional design rules.</title>
+<pages>4:1-4:8</pages>
+<year>2018</year>
+<booktitle>SLIP@DAC</booktitle>
+<ee>https://doi.org/10.1145/3225209.3225210</ee>
+<crossref>conf/dac/2018slip</crossref>
+<url>db/conf/dac/slip2018.html#KangPHC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/ChenCPW18" mdate="2019-01-07">
+<author pid="64/716">Pengwen Chen</author>
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="81/3778">Xinyuan Wang</author>
+<title>Transient circuit simulation for differential algebraic systems using matrix exponential.</title>
+<pages>99</pages>
+<year>2018</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3240765.3264636</ee>
+<ee>http://ieeexplore.ieee.org/document/8587664/</ee>
+<crossref>conf/iccad/2018</crossref>
+<url>db/conf/iccad/iccad2018.html#ChenCPW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/ChengGKPW18" mdate="2018-11-21">
+<author pid="c/ChungKuanCheng">Chung-Kuan Cheng</author>
+<author pid="g/RLGraham">Ronald L. Graham</author>
+<author pid="139/2460">Ilgweon Kang</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="81/3778">Xinyuan Wang</author>
+<title>Tree Structures and Algorithms for Physical Design.</title>
+<pages>120-125</pages>
+<year>2018</year>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/3177540.3177564</ee>
+<crossref>conf/ispd/2018</crossref>
+<url>db/conf/ispd/ispd2018.html#ChengGKPW18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01356" mdate="2018-08-13">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Classification based Grasp Detection using Spatial Transformer Network.</title>
+<year>2018</year>
+<volume>abs/1803.01356</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01356</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01356</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-07762" mdate="2019-01-01">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="227/2546">Yonghyeok Seo</author>
+<author pid="85/2542">Se Young Chun</author>
+<title>Rotation Ensemble Module for Detecting Rotation-Invariant Features.</title>
+<year>2018</year>
+<volume>abs/1812.07762</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.07762</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-07762</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/ParkP02" mdate="2017-05-19">
+<author pid="55/11454">Dongwon Park</author>
+<author pid="45/857">Antonia Papandreou-Suppappola</author>
+<title>Synthesis of dispersive signals and applications in wireless communications.</title>
+<pages>2725-2728</pages>
+<year>2002</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2002.5745211</ee>
+<crossref>conf/icassp/2002</crossref>
+<url>db/conf/icassp/icassp2002.html#ParkP02</url>
+</inproceedings>
+</r>
+<coauthors n="256" nc="1">
+<co c="0"><na f="a/Abdelhamed:Abdelrahman" pid="202/2128">Abdelrahman Abdelhamed</na></co>
+<co c="0"><na f="a/Akita:Kazutoshi" pid="260/3239">Kazutoshi Akita</na></co>
+<co c="0"><na f="a/Anand:Vikas_Kumar" pid="235/3478">Vikas Kumar Anand</na></co>
+<co c="0"><na f="a/Ancuti:Codruta_O=" pid="89/5661">Codruta O. Ancuti</na></co>
+<co c="0"><na f="a/Ancuti:Cosmin" pid="82/3581">Cosmin Ancuti</na></co>
+<co c="0"><na f="a/Arora:Aditya" pid="230/3630">Aditya Arora</na></co>
+<co c="0"><na f="a/Aulakh:Harshjeet_Singh" pid="250/5488">Harshjeet Singh Aulakh</na></co>
+<co c="0"><na f="b/Bai:Furui" pid="244/2336">Furui Bai</na></co>
+<co c="0"><na f="b/Baik:Sungyong" pid="243/2775">Sungyong Baik</na></co>
+<co c="0"><na f="b/Bianco:Simone" pid="36/1511">Simone Bianco</na></co>
+<co c="0"><na f="b/Bow:Nelson_Chong_Ngee" pid="263/1054">Nelson Chong Ngee Bow</na></co>
+<co c="0"><na f="b/Brown:Michael_S=" pid="02/4733">Michael S. Brown</na></co>
+<co c="0"><na f="b/Byun:Hyeran" pid="77/5360">Hyeran Byun</na></co>
+<co c="0"><na f="c/Cai:Hong" pid="22/4111">Hong Cai</na></co>
+<co c="0"><na f="c/Cai:Jianrui" pid="204/0848">Jianrui Cai</na></co>
+<co c="0"><na f="c/Cai:Shaofan" pid="210/0993">Shaofan Cai</na></co>
+<co c="0"><na f="c/Cao:Yanpeng" pid="91/7629">Yanpeng Cao</na></co>
+<co c="0"><na f="c/Cao:Zhiguo" pid="01/4449">Zhiguo Cao</na></co>
+<co c="0"><na f="c/Celona:Luigi" pid="176/5396">Luigi Celona</na></co>
+<co c="0"><na f="c/Chan:Kelvin_C=_K=" pid="228/2769">Kelvin C. K. Chan</na></co>
+<co c="0"><na f="c/Chanda:Bhabatosh" pid="79/2737">Bhabatosh Chanda</na></co>
+<co c="0"><na f="c/Chen:Chang" pid="16/4406">Chang Chen</na></co>
+<co c="0"><na f="c/Chen:Du" pid="87/6150">Du Chen</na></co>
+<co c="0"><na f="c/Chen:Pengwen" pid="64/716">Pengwen Chen</na></co>
+<co c="0"><na f="c/Chen:Rong" pid="22/6904">Rong Chen</na></co>
+<co c="0"><na f="c/Chen:Shuxin" pid="22/7663">Shuxin Chen</na></co>
+<co c="0"><na f="c/Chen:Yizi" pid="250/4440">Yizi Chen</na></co>
+<co c="0"><na f="c/Cheng:Chung=Kuan" pid="c/ChungKuanCheng">Chung-Kuan Cheng</na></co>
+<co c="0"><na f="c/Cheng:Guoan" pid="189/4511">Guoan Cheng</na></co>
+<co c="0"><na f="c/Cherukuri:Venkateswararao" pid="223/6285">Venkateswararao Cherukuri</na></co>
+<co c="0"><na f="c/Choi:Jaesik" pid="13/1402">Jaesik Choi</na></co>
+<co c="0"><na f="c/Choi:Joonhee" pid="251/1927">Joonhee Choi</na></co>
+<co c="0"><na f="c/Chuang:Shang=Chih" pid="20/4086">Shang-Chih Chuang</na></co>
+<co c="0"><na f="c/Chudasama:Vishal_M=" pid="216/4089">Vishal M. Chudasama</na></co>
+<co c="0"><na f="c/Chun:Se_Young" pid="85/2542">Se Young Chun</na></co>
+<co c="0"><na f="c/Chung:Jae_Ryun" pid="241/9847">Jae Ryun Chung</na></co>
+<co c="0"><na f="c/Cusano:Claudio" pid="53/6816">Claudio Cusano</na></co>
+<co c="0"><na f="d/Ding:Yifan" pid="156/3870">Yifan Ding</na></co>
+<co c="0"><na f="d/Ding:Yukang" pid="200/7992">Yukang Ding</na></co>
+<co c="0"><na f="d/Dong:Chao" pid="16/1278">Chao Dong</na></co>
+<co c="0"><na f="d/Dudhane:Akshay" pid="213/7979">Akshay Dudhane</na></co>
+<co c="0"><na f="f/Fan:Haoqiang" pid="143/7181">Haoqiang Fan</na></co>
+<co c="0"><na f="f/Fan:Hongfei" pid="17/7704">Hongfei Fan</na></co>
+<co c="0"><na f="f/Fan:Yuchen" pid="120/4095">Yuchen Fan</na></co>
+<co c="0"><na f="f/Feng:Ruicheng" pid="134/1620">Ruicheng Feng</na></co>
+<co c="0"><na f="f/Fu:Yi" pid="86/4628">Yi Fu</na></co>
+<co c="0"><na f="g/Gao:Fujie" pid="195/2562">Fujie Gao</na></co>
+<co c="0"><na f="g/Gao:Sicun" pid="22/8296">Sicun Gao</na></co>
+<co c="0"><na f="g/Gao_0001:Xinbo" pid="99/4522">Xinbo Gao 0001</na></co>
+<co c="0"><na f="g/Gool:Luc_Van" pid="61/5017">Luc Van Gool</na></co>
+<co c="0"><na f="g/Graham:Ronald_L=" pid="g/RLGraham">Ronald L. Graham</na></co>
+<co c="0"><na f="g/Gu:Jinjin" pid="209/5709">Jinjin Gu</na></co>
+<co c="0"><na f="g/Gu:Shuhang" pid="126/1028">Shuhang Gu</na></co>
+<co c="0"><na f="g/Guo:Tiantong" pid="198/9637">Tiantong Guo</na></co>
+<co c="0"><na f="g/Gupta:Rahul_Kumar" pid="263/1603">Rahul Kumar Gupta</na></co>
+<co c="0"><na f="h/Han:ChangHo" pid="58/7539">ChangHo Han</na></co>
+<co c="0"><na f="h/Haris:Muhammad" pid="142/1614">Muhammad Haris</na></co>
+<co c="0"><na f="h/He:Dongliang" pid="167/0539">Dongliang He</na></co>
+<co c="0"><na f="h/He:Peidong" pid="263/1470">Peidong He</na></co>
+<co c="0"><na f="h/He:Qingwen" pid="263/1072">Qingwen He</na></co>
+<co c="0"><na f="h/He:Zewei" pid="210/1373">Zewei He</na></co>
+<co c="0"><na f="h/Ho:Chia=Tung" pid="143/4616">Chia-Tung Ho</na></co>
+<co c="0"><na f="h/Holtz:Chester" pid="161/9916">Chester Holtz</na></co>
+<co c="0"><na f="h/Hong:Chen" pid="46/1965">Chen Hong</na></co>
+<co c="0"><na f="h/Hong:Ming" pid="95/10445">Ming Hong</na></co>
+<co c="0"><na f="h/Hong:Seokil" pid="243/2738">Seokil Hong</na></co>
+<co c="0"><na f="h/Huang:Jinying" pid="23/354">Jinying Huang</na></co>
+<co c="0"><na f="h/Huang:Lishan" pid="154/3822">Lishan Huang</na></co>
+<co c="0"><na f="h/Huang:Thomas_S=" pid="h/ThomasSHuang">Thomas S. Huang</na></co>
+<co c="0"><na f="h/Huang:Yuanfei" pid="207/5397">Yuanfei Huang</na></co>
+<co c="0"><na f="h/Hui:Zheng" pid="211/5794">Zheng Hui</na></co>
+<co c="0"><na f="h/Hwang:Sunhee" pid="195/6460">Sunhee Hwang</na></co>
+<co c="0"><na f="i/Ignatov:Andrey" pid="199/2294">Andrey Ignatov</na></co>
+<co c="0"><na f="j/Jeong:Jechang" pid="24/6358">Jechang Jeong</na></co>
+<co c="0"><na f="j/Ji:Seo=Won" pid="206/5810">Seo-Won Ji</na></co>
+<co c="0"><na f="j/Jiang:Hao" pid="38/6049">Hao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Junjun" pid="119/0230">Junjun Jiang</na></co>
+<co c="0"><na f="j/Jiang:Xiaoyun" pid="05/6329">Xiaoyun Jiang</na></co>
+<co c="0"><na f="j/Jing:Yongcheng" pid="196/3616">Yongcheng Jing</na></co>
+<co c="0"><na f="j/Jung:Cheolkon" pid="88/394">Cheolkon Jung</na></co>
+<co c="0"><na f="j/Jung:Seung=Won" pid="80/6256">Seung-Won Jung</na></co>
+<co c="0" n="2"><na f="k/Kane:Daniel_M=" pid="52/6817">Daniel M. Kane</na><na>Daniel Kane</na></co>
+<co c="0"><na f="k/Kang:Dong_Un" pid="254/2961">Dong Un Kang</na></co>
+<co c="0"><na f="k/Kang:Ilgweon" pid="139/2460">Ilgweon Kang</na></co>
+<co c="0"><na f="k/Khan:Fahad_Shahbaz" pid="05/8618">Fahad Shahbaz Khan</na></co>
+<co c="0"><na f="k/Khan:Salman" pid="32/6735">Salman Khan</na></co>
+<co c="0"><na f="k/Khened:Mahendra" pid="213/7790">Mahendra Khened</na></co>
+<co c="0" n="2"><na f="k/Kim:Dongwook" pid="19/1414">Dongwook Kim</na><na>Dong-Wook Kim</na></co>
+<co c="0"><na f="k/Kim:Jeonghun" pid="96/9913">Jeonghun Kim</na></co>
+<co c="0"><na f="k/Kim:Jisoo" pid="77/2107">Jisoo Kim</na></co>
+<co c="0"><na f="k/Kim:Joonsoo" pid="02/777">Joonsoo Kim</na></co>
+<co c="0"><na f="k/Kim:Kwan=Young" pid="120/3921">Kwan-Young Kim</na></co>
+<co c="0"><na f="k/Kim:Kwang_In" pid="49/1431">Kwang In Kim</na></co>
+<co c="0"><na f="k/Kim:Minbeom" pid="119/4240">Minbeom Kim</na></co>
+<co c="0"><na f="k/Kim:Munchurl" pid="84/4965">Munchurl Kim</na></co>
+<co c="0" n="2"><na f="k/Kim:Seung_Wook" pid="07/10150">Seung Wook Kim</na><na>Seung-Wook Kim</na></co>
+<co c="0"><na f="k/Kim:Sungho" pid="09/623">Sungho Kim</na></co>
+<co c="0"><na f="k/Kim:Yeseong" pid="142/9828">Yeseong Kim</na></co>
+<co c="0"><na f="k/Kim:Yong=Guk" pid="04/1831">Yong-Guk Kim</na></co>
+<co c="0"><na f="k/Kim:Youngjung" pid="158/9686">Youngjung Kim</na></co>
+<co c="0"><na f="k/Klinghoffer:Tzofi" pid="239/5905">Tzofi Klinghoffer</na></co>
+<co c="0"><na f="k/Ko:Sung=Jea" pid="30/4050">Sung-Jea Ko</na></co>
+<co c="0"><na f="k/Krishnamurthi:Ganapathy" pid="16/847">Ganapathy Krishnamurthi</na></co>
+<co c="0"><na f="k/Kumari:Kanti" pid="263/1107">Kanti Kumari</na></co>
+<co c="0"><na f="k/Kwak:Junhyung" pid="250/5412">Junhyung Kwak</na></co>
+<co c="0"><na f="l/Lee:Daeyeal" pid="53/11179">Daeyeal Lee</na></co>
+<co c="0"><na f="l/Lee:Kyoung_Mu" pid="17/4029">Kyoung Mu Lee</na></co>
+<co c="0"><na f="l/Lee:Sang=Won" pid="67/1944">Sang-Won Lee</na></co>
+<co c="0"><na f="l/Li:Bowen" pid="75/10470">Bowen Li</na></co>
+<co c="0"><na f="l/Li:Chao" pid="66/190">Chao Li</na></co>
+<co c="0"><na f="l/Li:Chi" pid="88/8066">Chi Li</na></co>
+<co c="0"><na f="l/Li:Chu=Tak" pid="235/0657">Chu-Tak Li</na></co>
+<co c="0"><na f="l/Li:Cuihua" pid="21/5657">Cuihua Li</na></co>
+<co c="0"><na f="l/Li:Darui" pid="77/8693">Darui Li</na></co>
+<co c="0"><na f="l/Li:Guo" pid="35/1964">Guo Li</na></co>
+<co c="0" n="2"><na f="l/Li:Jiaming" pid="33/5934">Jiaming Li</na><na>Jiaming Liu</na></co>
+<co c="0"><na f="l/Li:Jiawei" pid="12/3242">Jiawei Li</na></co>
+<co c="0"><na f="l/Li:Mengyan" pid="226/2759">Mengyan Li</na></co>
+<co c="0"><na f="l/Li:Qiuyu" pid="150/4872">Qiuyu Li</na></co>
+<co c="0"><na f="l/Li:Runde" pid="230/1495">Runde Li</na></co>
+<co c="0"><na f="l/Li:Xiang" pid="40/1491">Xiang Li</na></co>
+<co c="0"><na f="l/Li_0005:Xin" pid="09/1365-5">Xin Li 0005</na></co>
+<co c="0"><na f="l/Li:Xuelu" pid="52/8508">Xuelu Li</na></co>
+<co c="0"><na f="l/Liang:Xiao" pid="06/4676">Xiao Liang</na></co>
+<co c="0"><na f="l/Lim:Dong=Pan" pid="232/2729">Dong-Pan Lim</na></co>
+<co c="0"><na f="l/Lin:Bill" pid="l/BillLin">Bill Lin</na></co>
+<co c="0"><na f="l/Lin:Liang" pid="84/7019">Liang Lin</na></co>
+<co c="0"><na f="l/Liu:Ding" pid="26/5200">Ding Liu</na></co>
+<co c="0"><na f="l/Liu:Hanwen" pid="178/1112">Hanwen Liu</na></co>
+<co c="0"><na f="l/Liu:Jie" pid="03/2134">Jie Liu</na></co>
+<co c="0"><na f="l/Liu_0031:Jing" pid="72/2590-31">Jing Liu 0031</na></co>
+<co c="0"><na f="l/Liu:Jingdong" pid="06/4968">Jingdong Liu</na></co>
+<co c="0"><na f="l/Liu:Jiye" pid="72/9555">Jiye Liu</na></co>
+<co c="0"><na f="l/Liu:Lei" pid="21/2715">Lei Liu</na></co>
+<co c="0"><na f="l/Liu:Pengju" pid="168/2186">Pengju Liu</na></co>
+<co c="0"><na f="l/Liu:Ting" pid="52/5150">Ting Liu</na></co>
+<co c="0"><na f="l/Liu:Xianming" pid="89/5820">Xianming Liu</na></co>
+<co c="0"><na f="l/Liu:Xiao" pid="82/1364">Xiao Liu</na></co>
+<co c="0"><na f="l/Liu:Yan" pid="150/4295">Yan Liu</na></co>
+<co c="0"><na f="l/Liu:Zhi=Song" pid="177/3125">Zhi-Song Liu</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Lu:Wen" pid="31/6140">Wen Lu</na></co>
+<co c="0"><na f="l/Lu:Yue" pid="74/6493">Yue Lu</na></co>
+<co c="0"><na f="l/Luo:Xiaotong" pid="169/3960">Xiaotong Luo</na></co>
+<co c="0"><na f="l/Lv:Qunbo" pid="170/9612">Qunbo Lv</na></co>
+<co c="0"><na f="m/Ma:Yu_Seung" pid="263/1349">Yu Seung Ma</na></co>
+<co c="0"><na f="m/Matsune:Ai" pid="250/5738">Ai Matsune</na></co>
+<co c="0"><na f="m/Meng:Deyu" pid="22/5614">Deyu Meng</na></co>
+<co c="0"><na f="m/Michelini:Pablo_Navarrete" pid="63/1474">Pablo Navarrete Michelini</na></co>
+<co c="0"><na f="m/Mondal:Ranjan" pid="222/3772">Ranjan Mondal</na></co>
+<co c="0"><na f="m/Monga:Vishal" pid="73/1467">Vishal Monga</na></co>
+<co c="0"><na f="m/Moon:Gyeongsik" pid="185/6852">Gyeongsik Moon</na></co>
+<co c="0"><na f="m/Morales:Peter" pid="239/5824">Peter Morales</na></co>
+<co c="0"><na f="n/Nah:Seungjun" pid="177/3248">Seungjun Nah</na></co>
+<co c="0"><na f="p/Pan:Jinshan" pid="06/10816">Jinshan Pan</na></co>
+<co c="0"><na f="p/Pan:Ze" pid="260/3236">Ze Pan</na></co>
+<co c="-1"><na f="p/Papandreou=Suppappola:Antonia" pid="45/857">Antonia Papandreou-Suppappola</na></co>
+<co c="0"><na f="p/Park:Bumjun" pid="240/3623">Bumjun Park</na></co>
+<co c="0"><na f="p/Patel:Heena" pid="263/1688">Heena Patel</na></co>
+<co c="0"><na f="p/Piccoli:Flavio" pid="213/0588">Flavio Piccoli</na></co>
+<co c="0"><na f="p/Purohit:Kuldeep" pid="191/2655">Kuldeep Purohit</na></co>
+<co c="0"><na f="q/Qiao:Fang" pid="62/11304">Fang Qiao</na></co>
+<co c="0"><na f="q/Qiao_0001:Yu" pid="q/YuQiao1">Yu Qiao 0001</na></co>
+<co c="0"><na f="q/Qin:Jinghui" pid="228/6607">Jinghui Qin</na></co>
+<co c="0"><na f="q/Qin:Weining" pid="263/1433">Weining Qin</na></co>
+<co c="0"><na f="q/Qiu:Yajun" pid="189/6418">Yajun Qiu</na></co>
+<co c="0"><na f="q/Qu:Xiaochao" pid="23/9252">Xiaochao Qu</na></co>
+<co c="0"><na f="q/Qu:Yanyun" pid="03/3500">Yanyun Qu</na></co>
+<co c="0"><na f="q/Quan:Le_Manh" pid="229/7573">Le Manh Quan</na></co>
+<co c="0"><na f="r/Rajagopalan_0001:A=_N=" pid="73/3473">A. N. Rajagopalan 0001</na></co>
+<co c="0"><na f="s/Santra:Sanchayan" pid="192/2528">Sanchayan Santra</na></co>
+<co c="0"><na f="s/Schettini:Raimondo" pid="47/3014">Raimondo Schettini</na></co>
+<co c="0"><na f="s/See:John" pid="36/4809">John See</na></co>
+<co c="0"><na f="s/Seo:Yonghyeok" pid="227/2546">Yonghyeok Seo</na></co>
+<co c="0" n="2"><na f="s/Shakhnarovich:Gregory" pid="17/1926">Gregory Shakhnarovich</na><na>Greg Shakhnarovich</na></co>
+<co c="0"><na f="s/Shao_0001:Ling" pid="75/1281">Ling Shao 0001</na></co>
+<co c="0"><na f="s/Shi:Yukai" pid="183/6271">Yukai Shi</na></co>
+<co c="0"><na f="s/Shin:Changyeop" pid="263/1632">Changyeop Shin</na></co>
+<co c="0"><na f="s/Shin:Dongju" pid="249/2372">Dongju Shin</na></co>
+<co c="0"><na f="s/Sim:Hyeonjun" pid="230/2044">Hyeonjun Sim</na></co>
+<co c="0"><na f="s/Soltanayev:Shakarim" pid="217/1481">Shakarim Soltanayev</na></co>
+<co c="0"><na f="s/Son:Donghee" pid="138/9497">Donghee Son</na></co>
+<co c="0"><na f="s/Son:Sanghyun" pid="68/6424">Sanghyun Son</na></co>
+<co c="0"><na f="s/Song:Mingli" pid="71/5333">Mingli Song</na></co>
+<co c="0" n="2"><na f="s/Subrahmanyam:M=" pid="61/10849">M. Subrahmanyam</na><na>Subrahmanyam Murala</na></co>
+<co c="0"><na f="s/Suin:Maitreya" pid="254/1457">Maitreya Suin</na></co>
+<co c="0"><na f="s/Sun:Anshun" pid="250/5396">Anshun Sun</na></co>
+<co c="0"><na f="s/Sun:Xiaopeng" pid="74/9057">Xiaopeng Sun</na></co>
+<co c="0"><na f="t/Tan:Zheng" pid="87/1635">Zheng Tan</na></co>
+<co c="0"><na f="t/Tang:Jinhui" pid="75/1030">Jinhui Tang</na></co>
+<co c="0"><na f="t/Tang:Pengliang" pid="251/3519">Pengliang Tang</na></co>
+<co c="0"><na f="t/Tang:Siliang" pid="44/5693">Siliang Tang</na></co>
+<co c="0"><na f="t/Tang:Wenyi" pid="184/3592">Wenyi Tang</na></co>
+<co c="0"><na f="t/Tarel:Jean=Philippe" pid="27/4360">Jean-Philippe Tarel</na></co>
+<co c="0"><na f="t/Timofte:Radu" pid="24/8616">Radu Timofte</na></co>
+<co c="0"><na f="t/Tofighi:Mohammad" pid="39/8776">Mohammad Tofighi</na></co>
+<co c="0"><na f="t/Tsai:Chung=Chi" pid="52/10137">Chung-Chi Tsai</na></co>
+<co c="0"><na f="u/Ukita:Norimichi" pid="46/5881">Norimichi Ukita</na></co>
+<co c="0"><na f="u/Upla:Kishor_P=" pid="60/10346">Kishor P. Upla</na></co>
+<co c="0"><na f="w/Wan:Pengfei" pid="119/0306">Pengfei Wan</na></co>
+<co c="0"><na f="w/Wang:Bomin" pid="263/1152">Bomin Wang</na></co>
+<co c="0"><na f="w/Wang:Chuan" pid="68/363">Chuan Wang</na></co>
+<co c="0"><na f="w/Wang:Chuansheng" pid="207/0923">Chuansheng Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jue" pid="69/393-1">Jue Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Li=Wen" pid="33/10711">Li-Wen Wang</na></co>
+<co c="0"><na f="w/Wang:Ruxin" pid="149/7989">Ruxin Wang</na></co>
+<co c="0"><na f="w/Wang:Shanhu" pid="59/11341">Shanhu Wang</na></co>
+<co c="0"><na f="w/Wang:Xintao" pid="205/3991">Xintao Wang</na></co>
+<co c="0"><na f="w/Wang:Xinyuan" pid="81/3778">Xinyuan Wang</na></co>
+<co c="0"><na f="w/Wang:Xiumei" pid="03/710">Xiumei Wang</na></co>
+<co c="0"><na f="w/Wang:Yang" pid="181/2842">Yang Wang</na></co>
+<co c="0"><na f="w/Wang:Yuzhi" pid="142/0325">Yuzhi Wang</na></co>
+<co c="0"><na f="w/Wei:Pengxu" pid="138/4243">Pengxu Wei</na></co>
+<co c="0"><na f="w/Wei:Zhengping" pid="263/1585">Zhengping Wei</na></co>
+<co c="0"><na f="w/Wen:Shilei" pid="159/2939">Shilei Wen</na></co>
+<co c="0"><na f="w/Wen:Wushao" pid="58/5626">Wushao Wen</na></co>
+<co c="0"><na f="w/Wong:Lai=Kuan" pid="04/8109">Lai-Kuan Wong</na></co>
+<co c="0" n="2"><na f="w/Wu:Chihao" pid="50/5051">Chihao Wu</na><na>Chi-Hao Wu</na></co>
+<co c="0"><na f="w/Wu:Jiawei" pid="37/10763">Jiawei Wu</na></co>
+<co c="0"><na f="x/Xie:Guochen" pid="241/5497">Guochen Xie</na></co>
+<co c="0"><na f="x/Xiong:Zhiwei" pid="54/6827">Zhiwei Xiong</na></co>
+<co c="0"><na f="x/Xu:Qin" pid="62/5979">Qin Xu</na></co>
+<co c="0"><na f="x/Xu:Xuan" pid="121/0043">Xuan Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Ming=Hsuan" pid="79/3711">Ming-Hsuan Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Siyuan" pid="201/7699">Siyuan Yang</na></co>
+<co c="0"><na f="y/Yong:Hongwei" pid="191/4640">Hongwei Yong</na></co>
+<co c="0"><na f="y/Yoon:Sanghoon" pid="263/1037">Sanghoon Yoon</na></co>
+<co c="0"><na f="y/Yoshida:Tomoki" pid="64/7198">Tomoki Yoshida</na></co>
+<co c="0"><na f="y/Young:Evangeline_F=_Y=" pid="y/EFYYoung">Evangeline F. Y. Young</na></co>
+<co c="0"><na f="y/Yu:Jiahui" pid="185/1060">Jiahui Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Jun" pid="50/5754-1">Jun Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Ke" pid="23/2089">Ke Yu</na></co>
+<co c="0"><na f="y/Yu:Songhyun" pid="250/5604">Songhyun Yu</na></co>
+<co c="0"><na f="z/Zamir:Syed_Waqas" pid="140/7811">Syed Waqas Zamir</na></co>
+<co c="0"><na f="z/Zang:Huaijuan" pid="153/2518">Huaijuan Zang</na></co>
+<co c="0"><na f="z/Zha:Lin" pid="133/3991">Lin Zha</na></co>
+<co c="0"><na f="z/Zhan:Shu" pid="127/2859">Shu Zhan</na></co>
+<co c="0"><na f="z/Zhang:Hongzhi" pid="94/936">Hongzhi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0008:Kai" pid="55/957-8">Kai Zhang 0008</na></co>
+<co c="0"><na f="z/Zhang_0006:Lei" pid="64/5666-6">Lei Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang:Tao" pid="15/4777">Tao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenjie" pid="98/5684">Wenjie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yumei" pid="08/2771">Yumei Zhang</na></co>
+<co c="0"><na f="z/Zhao:Can" pid="35/2787">Can Zhao</na></co>
+<co c="0"><na f="z/Zhao:Debin" pid="16/3958">Debin Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yiyun" pid="159/0469">Yiyun Zhao</na></co>
+<co c="0"><na f="z/Zheng:Tianxiang" pid="44/10028">Tianxiang Zheng</na></co>
+<co c="0"><na f="z/Zhong:Zhiwei" pid="160/7296">Zhiwei Zhong</na></co>
+<co c="0"><na f="z/Zhou:Runnan" pid="263/1316">Runnan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xingguang" pid="177/2261">Xingguang Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yuqian" pid="06/2696">Yuqian Zhou</na></co>
+<co c="0"><na f="z/Zhu:Dan" pid="50/6054">Dan Zhu</na></co>
+<co c="0"><na f="z/Zhu:Leilei" pid="90/7536">Leilei Zhu</na></co>
+<co c="0"><na f="z/Zhussip:Magauiya" pid="222/2064">Magauiya Zhussip</na></co>
+<co c="0"><na f="z/Zini:Simone" pid="238/0054">Simone Zini</na></co>
+<co c="0"><na f="z/Zuo:Wangmeng" pid="93/2671">Wangmeng Zuo</na></co>
+</coauthors>
+</dblpperson>
+

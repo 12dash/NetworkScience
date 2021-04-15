@@ -1,3 +1,2381 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59aa131ce43436ebb17605e84baea7e95828a8af8d32ab3469e5fe0f3cd8f18c
-size 107308
+<?xml version="1.0"?>
+<dblpperson name="S. K. Nandy" pid="n/SKNandy" n="151">
+<person key="homepages/n/SKNandy" mdate="2016-03-03">
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<note type="affiliation">ERNET, India</note>
+<url>http://www.serc.iisc.ernet.in/~nandy/</url>
+</person>
+<r><article key="journals/vlsisp/NatarajanKPN20" mdate="2020-10-26">
+<author pid="151/7938">Santhi Natarajan</author>
+<author pid="01/718">N. Krishna Kumar</author>
+<author orcid="0000-0002-3591-5978" pid="30/9413">Debnath Pal</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Towards Accelerated Genome Informatics on Parallel HPC Platforms: The ReneGENE-GI Perspective.</title>
+<pages>1197-1213</pages>
+<year>2020</year>
+<volume>92</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11265-019-01452-x</ee>
+<url>db/journals/vlsisp/vlsisp92.html#NatarajanKPN20</url>
+</article>
+</r>
+<r><article key="journals/jolpe/MahapatraN19" mdate="2021-02-17">
+<author pid="151/7901">Ipsita Biswas Mahapatra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>EX-DRIVE: An Execution Driven Functional Verification Flow.</title>
+<pages>168-181</pages>
+<year>2019</year>
+<volume>15</volume>
+<journal>J. Low Power Electron.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1166/jolpe.2019.1603</ee>
+<url>db/journals/jolpe/jolpe15.html#MahapatraN19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ershov/KulkarniEPCRN19" mdate="2019-12-16">
+<author pid="169/1023">Vadiraj Kulkarni</author>
+<author pid="04/6973">Pavel Emelyanov</author>
+<author pid="15/2876">Denis K. Ponomaryov</author>
+<author pid="150/8195">Madhava Krishna C</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Parallel Factorization of Boolean Polynomials.</title>
+<pages>80-94</pages>
+<year>2019</year>
+<booktitle>Ershov Informatics Conference</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-37487-7_7</ee>
+<crossref>conf/ershov/2019</crossref>
+<url>db/conf/ershov/ershov2019.html#KulkarniEPCRN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MerchantVCRNNL19" mdate="2019-05-20">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="14/6306">Rainer Leupers</author>
+<title>A Systematic Approach for Acceleration of Matrix-Vector Operations in CGRA through Algorithm-Architecture Co-Design.</title>
+<pages>64-69</pages>
+<year>2019</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2019.00030</ee>
+<crossref>conf/vlsid/2019</crossref>
+<url>db/conf/vlsid/vlsid2019.html#MerchantVCRNNL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MerchantVCRNNL19a" mdate="2019-05-20">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="14/6306">Rainer Leupers</author>
+<title>Applying Modified Householder Transform to Kalman Filter.</title>
+<pages>431-436</pages>
+<year>2019</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2019.00092</ee>
+<crossref>conf/vlsid/2019</crossref>
+<url>db/conf/vlsid/vlsid2019.html#MerchantVCRNNL19a</url>
+</inproceedings>
+</r>
+<r><article key="journals/tpds/MohammadiKSN18" mdate="2020-10-02">
+<author orcid="0000-0001-8007-6926" pid="41/444">Mahnaz Mohammadi</author>
+<author orcid="0000-0002-2325-4164" pid="214/1959">Akhil Krishna</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A Hardware Architecture for Radial Basis Function Neural Network Classifier.</title>
+<pages>481-495</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2017.2768366</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2017.2768366</ee>
+<url>db/journals/tpds/tpds29.html#MohammadiKSN18</url>
+</article>
+</r>
+<r><article key="journals/tpds/MerchantVCRNN18" mdate="2020-10-02">
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author orcid="0000-0002-8818-6983" pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Efficient Realization of Householder Transform Through Algorithm-Architecture Co-Design for Acceleration of QR Factorization.</title>
+<pages>1707-1720</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPDS.2018.2803820</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2018.2803820</ee>
+<url>db/journals/tpds/tpds29.html#MerchantVCRNN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/MerchantVCRNN18" mdate="2018-04-26">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Achieving Efficient Realization of Kalman Filter on CGRA Through Algorithm-Architecture Co-design.</title>
+<pages>119-131</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_10</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#MerchantVCRNN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/NatarajanKPN18" mdate="2018-05-05">
+<author orcid="0000-0002-6701-826X" pid="151/7938">Santhi Natarajan</author>
+<author orcid="0000-0002-2385-9606" pid="01/718">N. Krishna Kumar</author>
+<author pid="30/9413">Debnath Pal</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>ReneGENE-GI: Empowering Precision Genomics with FPGAs on HPCs.</title>
+<pages>178-191</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_15</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#NatarajanKPN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/NatarajanKAPN18" mdate="2018-05-05">
+<author orcid="0000-0002-6701-826X" pid="151/7938">Santhi Natarajan</author>
+<author orcid="0000-0002-2385-9606" pid="01/718">N. Krishna Kumar</author>
+<author pid="218/2723">H. V. Anuchan</author>
+<author pid="30/9413">Debnath Pal</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>ReneGENE-Novo: Co-designed Algorithm-Architecture for Accelerated Preprocessing and Assembly of Genomic Short Reads.</title>
+<pages>564-577</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_45</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#NatarajanKAPN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ised/MahapatraN18" mdate="2019-05-09">
+<author pid="151/7901">Ipsita Biswas Mahapatra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>An Algorithm - Architecture Co-Designed System for Dynamic Execution-Driven Pre-Silicon Verification.</title>
+<pages>85-89</pages>
+<year>2018</year>
+<booktitle>ISED</booktitle>
+<ee>https://doi.org/10.1109/ISED.2018.8704038</ee>
+<crossref>conf/ised/2018</crossref>
+<url>db/conf/ised/ised2018.html#MahapatraN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MahapatraAAN18" mdate="2018-04-10">
+<author pid="151/7901">Ipsita Biswas Mahapatra</author>
+<author pid="217/0988">Utkarsh Agarwal</author>
+<author pid="217/0969">Chandrashekhar Azad</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Design Space Exploration of an Execution-Driven Functional Simulation Methodology.</title>
+<pages>295-300</pages>
+<year>2018</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2018.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2018.79</ee>
+<crossref>conf/vlsid/2018</crossref>
+<url>db/conf/vlsid/vlsid2018.html#MahapatraAAN18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-03650" mdate="2018-08-13">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Achieving Efficient Realization of Kalman Filter on CGRA through Algorithm-Architecture Co-design.</title>
+<year>2018</year>
+<volume>abs/1802.03650</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.03650</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-03650</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-05320" mdate="2018-08-13">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="14/6306">Rainer Leupers</author>
+<title>Efficient Realization of Givens Rotation through Algorithm-Architecture Co-design for Acceleration of QR Factorization.</title>
+<year>2018</year>
+<volume>abs/1803.05320</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.05320</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-05320</url>
+</article>
+</r>
+<r><article key="journals/integration/SivanandanMDNN17" mdate="2020-02-20">
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Energy aware synthesis of application kernels through composition of data-paths on a CGRA.</title>
+<pages>320-328</pages>
+<year>2017</year>
+<volume>58</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2017.02.009</ee>
+<url>db/journals/integration/integration58.html#SivanandanMDNN17</url>
+</article>
+</r>
+<r><article key="journals/ppl/MerchantCRNN17" mdate="2020-03-24">
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Accelerating BLAS and LAPACK via Efficient Floating Point Architecture Design.</title>
+<pages>1750006:1-1750006:17</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1142/S0129626417500062</ee>
+<url>db/journals/ppl/ppl27.html#MerchantCRNN17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cases/MadhuSNNNB17" mdate="2018-11-06">
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="207/7229">Tarun Singla</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="207/7236">Francois Neumann</author>
+<author pid="27/5581">Philippe Baufreton</author>
+<title>REDEFINE<sup>&#174;</sup>&#8482;: a case for WCET-friendly hardware accelerators for real time applications (work-in-progress).</title>
+<pages>15:1-15:2</pages>
+<year>2017</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/3125501.3125526</ee>
+<crossref>conf/cases/2017</crossref>
+<url>db/conf/cases/cases2017.html#MadhuSNNNB17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/samos/2017" mdate="2019-10-16">
+<editor pid="p/YaleNPatt">Yale N. Patt</editor>
+<editor pid="n/SKNandy">S. K. Nandy</editor>
+<title>2017 International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation, SAMOS 2017, Pythagorion, Greece, July 17-20, 2017</title>
+<booktitle>SAMOS</booktitle>
+<publisher>IEEE</publisher>
+<year>2017</year>
+<isbn>978-1-5386-3437-0</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8337645/proceeding</ee>
+<url>db/conf/samos/samos2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ncn/BiswasN16" mdate="2020-02-24">
+<author orcid="0000-0002-3057-2478" pid="167/0671">Arnab Kumar Biswas</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Role based shared memory access control mechanisms in NoC based MP-SoC.</title>
+<pages>46-64</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>Nano Commun. Networks</journal>
+<ee>https://doi.org/10.1016/j.nancom.2015.11.002</ee>
+<url>db/journals/ncn/ncn7.html#BiswasN16</url>
+</article>
+</r>
+<r><article key="journals/tpds/MahaleMNN16" mdate="2020-10-02">
+<author pid="161/3399">Gopinath Mahale</author>
+<author pid="161/3108">Hamsika Mahale</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>REFRESH: REDEFINE for Face Recognition Using SURE Homogeneous Cores.</title>
+<pages>3602-3616</pages>
+<year>2016</year>
+<volume>27</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TPDS.2016.2539164</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2016.2539164</ee>
+<url>db/journals/tpds/tpds27.html#MahaleMNN16</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/MohammadiRSN16" mdate="2017-05-26">
+<author pid="41/444">Mahnaz Mohammadi</author>
+<author pid="161/3144">Rohit Ronge</author>
+<author pid="177/3269">Sanjay S. Singapuram</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Performance Evaluation of Feed-Forward Backpropagation Neural Network for Classification on a Reconfigurable Hardware Architecture.</title>
+<pages>312-319</pages>
+<year>2016</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30481-6_25</ee>
+<crossref>conf/arc/2016</crossref>
+<url>db/conf/arc/arc2016.html#MohammadiRSN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipeac/MadhuRDMNN16" mdate="2018-11-06">
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="181/1834">Anuj Rao</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="150/8195">Krishna C. Madhava</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Flexible resource allocation and management for application graphs on ReN&#201; MPSoC.</title>
+<pages>13-18</pages>
+<year>2016</year>
+<booktitle>PARMA-DITAM@HiPEAC</booktitle>
+<ee>https://doi.org/10.1145/2872421.2872426</ee>
+<crossref>conf/hipeac/2016parma</crossref>
+<url>db/conf/hipeac/parma2016.html#MadhuRDMNN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/NatarajanKPN16" mdate="2019-09-25">
+<author pid="151/7938">Santhi Natarajan</author>
+<author pid="01/718">N. Krishna Kumar</author>
+<author orcid="0000-0002-3591-5978" pid="30/9413">Debnath Pal</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>AccuRA: Accurate alignment of short reads on scalable reconfigurable accelerators.</title>
+<pages>79-87</pages>
+<year>2016</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2016.7818334</ee>
+<crossref>conf/samos/2016</crossref>
+<url>db/conf/samos/samos2016.html#NatarajanKPN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MerchantVCRNN16" mdate="2017-06-05">
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Achieving Efficient QR Factorization by Algorithm-Architecture Co-design of Householder Transformation.</title>
+<pages>98-103</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.109</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.109</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#MerchantVCRNN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/PradhanN16" mdate="2017-05-23">
+<author pid="177/5797">Ashish Kumar Pradhan</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>An Energy Efficient Dynamically Reconfigurable QR Decomposition for Wireless MIMO Communication.</title>
+<pages>276-281</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.72</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#PradhanN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MahaleNBNN16" mdate="2017-05-23">
+<author pid="161/3399">Gopinath Mahale</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<author pid="177/5974">Eshan Bhatia</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>VOP: Architecture of a Processor for Vector Operations in On-Line Learning of Neural Networks.</title>
+<pages>391-396</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.65</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#MahaleNBNN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MahaleNBNN16" mdate="2017-05-23">
+<author pid="161/3399">Gopinath Mahale</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<author pid="177/5974">Eshan Bhatia</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>VOP: Architecture of a Processor for Vector Operations in On-Line Learning of Neural Networks.</title>
+<pages>391-396</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.65</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#MahaleNBNN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MerchantCNN16" mdate="2017-06-05">
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="177/6025">Nimash Choudhary</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Efficient Realization of Table Look-Up Based Double Precision Floating Point Arithmetic.</title>
+<pages>415-420</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.113</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.113</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#MerchantCNN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/DasSMNN16" mdate="2017-05-23">
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>RHyMe: REDEFINE Hyper Cell Multicore for Accelerating HPC Kernels.</title>
+<pages>601-602</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.29</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#DasSMNN16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MerchantVCRNN16" mdate="2018-08-13">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Accelerating BLAS on Custom Architecture through Algorithm-Architecture Co-design.</title>
+<year>2016</year>
+<volume>abs/1610.06385</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.06385</ee>
+<url>db/journals/corr/corr1610.html#MerchantVCRNN16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MerchantCRNN16" mdate="2018-08-13">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Accelerating BLAS and LAPACK via Efficient Floating Point Architecture Design.</title>
+<year>2016</year>
+<volume>abs/1610.08705</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.08705</ee>
+<url>db/journals/corr/corr1610.html#MerchantCRNN16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MerchantVCRNN16a" mdate="2018-08-13">
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="177/6048">Tarun Vatwani</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Efficient Realization of Householder Transform through Algorithm-Architecture Co-design for Acceleration of QR Factorization.</title>
+<year>2016</year>
+<volume>abs/1612.04470</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.04470</ee>
+<url>db/journals/corr/corr1612.html#MerchantVCRNN16a</url>
+</article>
+</r>
+<r><article key="journals/cssp/BiswasNN15" mdate="2020-06-21">
+<author orcid="0000-0002-3057-2478" pid="167/0671">Arnab Kumar Biswas</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Router Attack toward NoC-enabled MPSoC and Monitoring Countermeasures against such Threat.</title>
+<pages>3241-3290</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Circuits Syst. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s00034-015-9980-0</ee>
+<url>db/journals/cssp/cssp34.html#BiswasNN15</url>
+</article>
+</r>
+<r><article key="journals/jolpe/KalaNNN15" mdate="2020-05-22">
+<author pid="133/4347">S. Kala</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Scalable and Energy Efficient, Dynamically Reconfigurable Fast Fourier Transform Architecture.</title>
+<pages>426-435</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>J. Low Power Electron.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1166/jolpe.2015.1390</ee>
+<url>db/journals/jolpe/jolpe11.html#KalaNNN15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccbd/DhuldhuleLN15" mdate="2017-05-24">
+<author pid="191/7235">Pratima Ashok Dhuldhule</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>High Performance Computing Cloud - A Platform-as-a-Service Perspective.</title>
+<pages>21-28</pages>
+<year>2015</year>
+<booktitle>CCBD</booktitle>
+<ee>https://doi.org/10.1109/CCBD.2015.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CCBD.2015.56</ee>
+<crossref>conf/ccbd/2015</crossref>
+<url>db/conf/ccbd/ccbd2015.html#DhuldhuleLN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/MadhuDNNN15" mdate="2017-07-11">
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Compiling HPC Kernels for the REDEFINE CGRA.</title>
+<pages>405-410</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.139</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#MadhuDNNN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ises/SivanandanMDNN15" mdate="2020-06-09">
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Energy Aware Synthesis of Application Kernels Expressed in Functional Languages on a Coarse Grained Composable Reconfigurable Array.</title>
+<pages>7-12</pages>
+<year>2015</year>
+<booktitle>iNIS</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/iNIS.2015.39</ee>
+<crossref>conf/ises/2015</crossref>
+<url>db/conf/ises/inis2015.html#SivanandanMDNN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/KachoreLN15" mdate="2017-05-23">
+<author pid="167/1250">Vaibhav Ankush Kachore</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Location Obfuscation for Location Data Privacy.</title>
+<pages>213-220</pages>
+<year>2015</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2015.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2015.39</ee>
+<crossref>conf/services/2015</crossref>
+<url>db/conf/services/services2015.html#KachoreLN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/MohammadiRCN15" mdate="2017-05-23">
+<author pid="41/444">Mahnaz Mohammadi</author>
+<author pid="161/3144">Rohit Ronge</author>
+<author pid="161/3310">Jayesh Ramesh Chandiramani</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>An accelerator for classification using radial basis function neural network.</title>
+<pages>137-142</pages>
+<year>2015</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2015.7406928</ee>
+<crossref>conf/socc/2015</crossref>
+<url>db/conf/socc/socc2015.html#MohammadiRCN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/FellNN15" mdate="2017-05-23">
+<author pid="07/2195">Alexander Fell</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>A deterministic, minimal routing algorithm for a toroidal, rectangular honeycomb topology using a 2-tupled relative address.</title>
+<pages>191-196</pages>
+<year>2015</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2015.7406938</ee>
+<crossref>conf/socc/2015</crossref>
+<url>db/conf/socc/socc2015.html#FellNN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MahaleMGNBN15" mdate="2017-05-23">
+<author pid="161/3399">Gopinath Mahale</author>
+<author pid="161/3108">Hamsika Mahale</author>
+<author pid="161/3392">Arnav Goel</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="35/3376">S. Bhattacharya</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Hardware Solution for Real-Time Face Recognition.</title>
+<pages>81-86</pages>
+<year>2015</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2015.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2015.19</ee>
+<crossref>conf/vlsid/2015</crossref>
+<url>db/conf/vlsid/vlsid2015.html#MahaleMGNBN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MerchantMMVMCSG15" mdate="2017-06-05">
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="133/4270">Arka Maity</author>
+<author pid="150/8223">Mahesh Mahadurkar</author>
+<author pid="119/8506">Kapil Vatwani</author>
+<author pid="150/8354">Ishan Munje</author>
+<author pid="150/8195">Madhava Krishna C</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="141/0590">Nandhini Gopalan</author>
+<author pid="57/4634">Soumyendu Raha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Micro-architectural Enhancements in Distributed Memory CGRAs for LU and QR Factorizations.</title>
+<pages>153-158</pages>
+<year>2015</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2015.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2015.31</ee>
+<crossref>conf/vlsid/2015</crossref>
+<url>db/conf/vlsid/vlsid2015.html#MerchantMMVMCSG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MohammadiSRCNRV15" mdate="2017-05-23">
+<author pid="41/444">Mahnaz Mohammadi</author>
+<author pid="161/3341">Nitin Satpute</author>
+<author pid="161/3144">Rohit Ronge</author>
+<author pid="161/3310">Jayesh R. Chandiramani</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="161/3390">Aamir Raihan</author>
+<author pid="126/2504">Tanmay Verma</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="161/3396">Sukumar Bhattacharya</author>
+<title>A Flexible Scalable Hardware Architecture for Radial Basis Function Neural Networks.</title>
+<pages>505-510</pages>
+<year>2015</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2015.91</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2015.91</ee>
+<crossref>conf/vlsid/2015</crossref>
+<url>db/conf/vlsid/vlsid2015.html#MohammadiSRCNRV15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/DasMKSMNBPNN14" mdate="2020-02-24">
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="60/1949">Madhav Krishna</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="151/7938">Santhi Natarajan</author>
+<author pid="151/7901">Ipsita Biswas</author>
+<author pid="151/7904">Adithya Pulli</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>A framework for post-silicon realization of arbitrary instruction extensions on reconfigurable data-paths.</title>
+<pages>592-614</pages>
+<year>2014</year>
+<volume>60</volume>
+<journal>J. Syst. Archit.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.sysarc.2014.06.002</ee>
+<url>db/journals/jsa/jsa60.html#DasMKSMNBPNN14</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/RakossyMANC14" mdate="2017-06-01">
+<author pid="37/8121">Zolt&#225;n Endre R&#225;kossy</author>
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="141/5918">Axel Acosta Aponte</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<title>Efficient and scalable CGRA-based implementation of Column-wise Givens Rotation.</title>
+<pages>188-189</pages>
+<year>2014</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2014.6868659</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2014.6868659</ee>
+<crossref>conf/asap/2014</crossref>
+<url>db/conf/asap/asap2014.html#RakossyMANC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bdcloud/AkulakrishnaLN14" mdate="2017-05-21">
+<author pid="160/1311">Pavan Kumar Akulakrishna</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Efficient Storage of Big-Data for Real-Time GPS Applications.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>BDCloud</booktitle>
+<ee>https://doi.org/10.1109/BDCloud.2014.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BDCloud.2014.49</ee>
+<crossref>conf/bdcloud/2014</crossref>
+<url>db/conf/bdcloud/bdcloud2014.html#AkulakrishnaLN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bdcloud/GuptaLN14" mdate="2017-05-21">
+<author pid="160/1235">Aakriti Gupta</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Real Time Routing in Road Networks.</title>
+<pages>9-16</pages>
+<year>2014</year>
+<booktitle>BDCloud</booktitle>
+<ee>https://doi.org/10.1109/BDCloud.2014.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BDCloud.2014.85</ee>
+<crossref>conf/bdcloud/2014</crossref>
+<url>db/conf/bdcloud/bdcloud2014.html#GuptaLN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/MahaleMPNB14" mdate="2017-05-24">
+<author pid="161/3399">Gopinath Mahale</author>
+<author pid="161/3108">Hamsika Mahale</author>
+<author pid="161/4671">Rajesh Babu Parimi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="35/3376">S. Bhattacharya</author>
+<title>Hardware architecture of bi-cubic convolution interpolation for real-time image scaling.</title>
+<pages>264-267</pages>
+<year>2014</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2014.7082790</ee>
+<crossref>conf/fpt/2014</crossref>
+<url>db/conf/fpt/fpt2014.html#MahaleMPNB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ised/KalaSNN14" mdate="2019-02-21">
+<author pid="133/4347">S. Kala</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Energy Efficient, Scalable, and Dynamically Reconfigurable FFT Architecture for OFDM Systems.</title>
+<pages>20-24</pages>
+<year>2014</year>
+<booktitle>ISED</booktitle>
+<ee>https://doi.org/10.1109/ISED.2014.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISED.2014.12</ee>
+<crossref>conf/ised/2014</crossref>
+<url>db/conf/ised/ised2014.html#KalaSNN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/MadhuDCSNN14" mdate="2017-05-25">
+<author pid="150/8307">Kavitha T. Madhu</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="150/8195">Madhava Krishna C</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Synthesis of Instruction Extensions on HyperCell, a reconfigurable datapath.</title>
+<pages>215-224</pages>
+<year>2014</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2014.6893214</ee>
+<crossref>conf/samos/2014ic</crossref>
+<url>db/conf/samos/samos2014ic.html#MadhuDCSNN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/MahadurkarMMVMGNN14" mdate="2017-06-05">
+<author pid="150/8223">Mahesh Mahadurkar</author>
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="133/4270">Arka Maity</author>
+<author pid="119/8506">Kapil Vatwani</author>
+<author pid="150/8354">Ishan Munje</author>
+<author pid="141/0590">Nandhini Gopalan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Co-exploration of NLA kernels and specification of Compute Elements in distributed memory CGRAs.</title>
+<pages>225-232</pages>
+<year>2014</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2014.6893215</ee>
+<crossref>conf/samos/2014ic</crossref>
+<url>db/conf/samos/samos2014ic.html#MahadurkarMMVMGNN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/RakossyMANC14" mdate="2017-06-05">
+<author pid="37/8121">Zolt&#225;n Endre R&#225;kossy</author>
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="141/5918">Axel Acosta Aponte</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<title>Scalable and energy-efficient reconfigurable accelerator for column-wise givens rotation.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SoC.2014.7004166</ee>
+<crossref>conf/vlsi/2014soc</crossref>
+<url>db/conf/vlsi/vlsisoc2014.html#RakossyMANC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/MerchantCGNNG14" mdate="2017-06-05">
+<author orcid="0000-0002-3708-5621" pid="141/0649">Farhad Merchant</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="72/4356">Ganesh Garga</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="141/0590">Nandhini Gopalan</author>
+<title>Efficient QR Decomposition Using Low Complexity Column-wise Givens Rotation (CGR).</title>
+<pages>258-263</pages>
+<year>2014</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2014.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2014.51</ee>
+<crossref>conf/vlsid/2014</crossref>
+<url>db/conf/vlsid/vlsid2014.html#MerchantCGNNG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcloud/DhingraLNBG13" mdate="2017-05-17">
+<author pid="120/0457">Mohit Dhingra</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="b/CBhattacharyya">Chiranjib Bhattacharyya</author>
+<author pid="48/2735">Kanchi Gopinath</author>
+<title>Elastic Resources Framework in IaaS, Preserving Performance SLAs.</title>
+<pages>430-437</pages>
+<year>2013</year>
+<booktitle>IEEE CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2013.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CLOUD.2013.66</ee>
+<crossref>conf/IEEEcloud/2013</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2013.html#DhingraLNBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudcom/AnandLN13" mdate="2017-05-23">
+<author pid="43/2393">Ankit Anand</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Virtual Machine Placement Optimization Supporting Performance SLAs.</title>
+<pages>298-305</pages>
+<year>2013</year>
+<booktitle>CloudCom (1)</booktitle>
+<ee>https://doi.org/10.1109/CloudCom.2013.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CloudCom.2013.46</ee>
+<crossref>conf/cloudcom/2013-1</crossref>
+<url>db/conf/cloudcom/cloudcom2013-1.html#AnandLN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KalaNMNN13" mdate="2017-07-11">
+<author pid="133/4347">S. Kala</author>
+<author pid="150/8286">Nalesh Sivanandan</author>
+<author pid="133/4270">Arka Maity</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>High throughput, low latency, memory optimized 64K point FFT architecture using novel radix-4 butterfly unit.</title>
+<pages>3034-3037</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2013.6572518</ee>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#KalaNMNN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/GiriN13" mdate="2017-05-23">
+<author pid="01/6645">Abhijit Giri</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Optimal Pipeline Depth and Supply Voltage for Power-constrained Processors.</title>
+<pages>37-42</pages>
+<year>2013</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2013.159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2013.159</ee>
+<crossref>conf/vlsid/2013</crossref>
+<url>db/conf/vlsid/vlsid2013.html#GiriN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grid/DhingraLN12" mdate="2017-05-26">
+<author pid="120/0457">Mohit Dhingra</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Resource Usage Monitoring in Clouds.</title>
+<pages>184-191</pages>
+<year>2012</year>
+<booktitle>GRID</booktitle>
+<ee>https://doi.org/10.1109/Grid.2012.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/Grid.2012.10</ee>
+<crossref>conf/grid/2012</crossref>
+<url>db/conf/grid/grid2012.html#DhingraLN12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipsj/KrishnamoorthyDVAFNN11" mdate="2020-09-29">
+<author pid="80/9049">Ratna Krishnamoorthy</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="56/1768">Masahiro Fujita</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Data Flow Graph Partitioning Algorithms and Their Evaluations for Optimal Spatio-temporal Computation on a Coarse Grain Reconfigurable Architecture.</title>
+<pages>193-209</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>IPSJ Trans. Syst. LSI Des. Methodol.</journal>
+<ee>https://doi.org/10.2197/ipsjtsldm.4.193</ee>
+<url>db/journals/ipsj/ipsj4.html#KrishnamoorthyDVAFNN11</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/KrishnamoorthyVFANN11" mdate="2017-05-26">
+<author pid="80/9049">Ratna Krishnamoorthy</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="56/1768">Masahiro Fujita</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Dataflow Graph Partitioning for Optimal Spatio-Temporal Computation on a Coarse Grain Reconfigurable Architecture.</title>
+<pages>125-132</pages>
+<year>2011</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19475-7_15</ee>
+<crossref>conf/arc/2011</crossref>
+<url>db/conf/arc/arc2011.html#KrishnamoorthyVFANN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/KrishnamoorthyFVN11" mdate="2017-05-24">
+<author pid="80/9049">Ratna Krishnamoorthy</author>
+<author pid="56/1768">Masahiro Fujita</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Interconnect-topology independent mapping algorithm for a Coarse Grained Reconfigurable Architecture.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2011.6132677</ee>
+<crossref>conf/fpt/2011</crossref>
+<url>db/conf/fpt/fpt2011.html#KrishnamoorthyFVN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icete/DasNN11" mdate="2018-04-13">
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>Accelerating Reduction for Enabling Fast Multiplication over Large Binary Fields.</title>
+<pages>249-263</pages>
+<year>2011</year>
+<booktitle>ICETE (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35755-8_18</ee>
+<crossref>conf/icete/2011s</crossref>
+<url>db/conf/icete/icete2011.html#DasNN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ised/BaluniMNB11" mdate="2021-01-15">
+<author pid="233/8212">Alok Baluni</author>
+<author pid="141/0649">Farhad Merchant</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<title>A Fully Pipelined Modular Multiple Precision Floating Point Multiplier with Vector Support.</title>
+<pages>45-50</pages>
+<year>2011</year>
+<booktitle>ISED</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISED.2011.14</ee>
+<crossref>conf/ised/2011</crossref>
+<url>db/conf/ised/ised2011.html#BaluniMNB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sasp/RaoNND11" mdate="2017-05-22">
+<author pid="95/2740">Adarsha Rao</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="94/7042">Hristo Nikolov</author>
+<author pid="89/6154">Ed F. Deprettere</author>
+<title>USHA: Unified software and hardware architecture for video decoding.</title>
+<pages>30-37</pages>
+<year>2011</year>
+<booktitle>SASP</booktitle>
+<ee>https://doi.org/10.1109/SASP.2011.5941074</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASP.2011.5941074</ee>
+<crossref>conf/sasp/2011</crossref>
+<url>db/conf/sasp/sasp2011.html#RaoNND11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/DasVGMNN11" mdate="2011-10-27">
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="72/4356">Ganesh Garga</author>
+<author pid="55/9350">Rajdeep Mondal</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A Method for Flexible Reduction over Binary Fields using a Field Multiplier.</title>
+<pages>50-58</pages>
+<year>2011</year>
+<booktitle>SECRYPT</booktitle>
+<crossref>conf/secrypt/2011</crossref>
+<url>db/conf/secrypt/secrypt2011.html#DasVGMNN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcit/LakshmiN10" mdate="2017-05-26">
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>I/O Virtualization Architecture for Security.</title>
+<pages>2267-2272</pages>
+<year>2010</year>
+<booktitle>CIT</booktitle>
+<ee>https://doi.org/10.1109/CIT.2010.391</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CIT.2010.391</ee>
+<crossref>conf/IEEEcit/2010</crossref>
+<url>db/conf/IEEEcit/IEEEcit2010.html#LakshmiN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/KrishnamoorthyVGANNF10" mdate="2018-11-06">
+<author pid="80/9049">Ratna Krishnamoorthy</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="72/4356">Ganesh Garga</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="56/1768">Masahiro Fujita</author>
+<title>Towards minimizing execution delays on dynamically reconfigurable processors: a case study on REDEFINE.</title>
+<pages>77-86</pages>
+<year>2010</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1878921.1878935</ee>
+<crossref>conf/cases/2010</crossref>
+<url>db/conf/cases/cases2010.html#KrishnamoorthyVGANNF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/BiswasUMVANN10" mdate="2020-09-05">
+<author pid="45/6459">Prasenjit Biswas</author>
+<author orcid="0000-0003-4943-3643" pid="25/9350">Pramod P. Udupa</author>
+<author pid="55/9350">Rajdeep Mondal</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Accelerating Numerical Linear Algebra Kernels on a Scalable Run Time Reconfigurable Platform.</title>
+<pages>161-166</pages>
+<year>2010</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2010.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2010.65</ee>
+<crossref>conf/isvlsi/2010</crossref>
+<url>db/conf/isvlsi/isvlsi2010.html#BiswasUMVANN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/PrashankPDVANN10" mdate="2017-05-25">
+<author pid="48/8745">N. Thambi Prashank</author>
+<author pid="46/8745">M. Prasadarao</author>
+<author pid="43/8745">Avinaba Dutta</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Enhancements for variable N-point streaming FFT/IFFT on REDEFINE, a runtime reconfigurable architecture.</title>
+<pages>178-184</pages>
+<year>2010</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/ICSAMOS.2010.5642067</ee>
+<crossref>conf/samos/2010ic</crossref>
+<url>db/conf/samos/samos2010ic.html#PrashankPDVANN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/BiswasVANN10" mdate="2017-05-25">
+<author pid="45/6459">Prasenjit Biswas</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Design space exploration of systolic realization of QR factorization on a runtime reconfigurable platform.</title>
+<pages>265-272</pages>
+<year>2010</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/ICSAMOS.2010.5642058</ee>
+<crossref>conf/samos/2010ic</crossref>
+<url>db/conf/samos/samos2010ic.html#BiswasVANN10</url>
+</inproceedings>
+</r>
+<r><article key="journals/amc/MahapatraNG09" mdate="2020-02-21">
+<author pid="01/8621">T. Ray Mahapatra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="02/8621">A. S. Gupta</author>
+<title>Analytical solution of magnetohydrodynamic stagnation-point flow of a power-law fluid towards a stretching surface.</title>
+<pages>1696-1710</pages>
+<year>2009</year>
+<volume>215</volume>
+<journal>Appl. Math. Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.amc.2009.07.022</ee>
+<url>db/journals/amc/amc215.html#MahapatraNG09</url>
+</article>
+</r>
+<r><article key="journals/tecs/AlleVFRNDBCRNN09" mdate="2020-09-08">
+<author pid="25/6717">Mythri Alle</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="07/2195">Alexander Fell</author>
+<author pid="07/2057">C. Ramesh Reddy</author>
+<author pid="76/5797">Joseph Nimmy</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="45/6459">Prasenjit Biswas</author>
+<author pid="28/7454">Jugantor Chetia</author>
+<author pid="95/2740">Adarsha Rao</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>REDEFINE: Runtime reconfigurable polymorphic ASIC.</title>
+<year>2009</year>
+<volume>9</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1596543.1596545</ee>
+<url>db/journals/tecs/tecs9.html#AlleVFRNDBCRNN09</url>
+<pages>11:1-11:48</pages>
+</article>
+</r>
+<r><inproceedings key="conf/arc/AlleVFNN09" mdate="2017-05-26">
+<author pid="25/6717">Mythri Alle</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="07/2195">Alexander Fell</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Compiling Techniques for Coarse Grained Runtime Reconfigurable Architectures.</title>
+<pages>204-215</pages>
+<year>2009</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00641-8_21</ee>
+<crossref>conf/arc/2009</crossref>
+<url>db/conf/arc/arc2009.html#AlleVFNN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/RaoAVSCSMNN09" mdate="2018-10-09">
+<author pid="95/2740">Adarsha Rao</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="69/7330">Sainath V</author>
+<author pid="03/7331">Reyaz Shaik</author>
+<author pid="55/7330">Rajashekhar Chowhan</author>
+<author orcid="0000-0002-0430-6774" pid="152/4942">Sreeramula Sankaraiah</author>
+<author pid="67/7330">Sravanthi Mantha</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>An Input Triggered Polymorphic ASIC for H.264 Decoding.</title>
+<pages>106-113</pages>
+<year>2009</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2009.7</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2009.7</ee>
+<crossref>conf/asap/2009</crossref>
+<url>db/conf/asap/asap2009.html#RaoAVSCSMNN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/FellAVBDCNN09" mdate="2018-11-06">
+<author pid="07/2195">Alexander Fell</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="45/6459">Prasenjit Biswas</author>
+<author pid="27/7454">Saptarsi Das</author>
+<author pid="28/7454">Jugantor Chetia</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Streaming FFT on REDEFINE-v2: an application-architecture design space exploration.</title>
+<pages>127-136</pages>
+<year>2009</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1629395.1629414</ee>
+<crossref>conf/cases/2009</crossref>
+<url>db/conf/cases/cases2009.html#FellAVBDCNN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpc/LakshmiN09" mdate="2017-05-26">
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>I/O Device Virtualization in the Multi-core era, a QoS Perspective.</title>
+<pages>128-135</pages>
+<year>2009</year>
+<booktitle>GPC Workshops</booktitle>
+<ee>https://doi.org/10.1109/GPC.2009.7</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/GPC.2009.7</ee>
+<crossref>conf/gpc/2009w</crossref>
+<url>db/conf/gpc/gpc2009w.html#LakshmiN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/RajoreNJ09" mdate="2017-05-25">
+<author pid="40/6727">Ritesh Rajore</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="17/603">H. S. Jamadagni</author>
+<title>Architecture of Run-Time Reconfigurable Channel Decoder.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2009.5198763</ee>
+<crossref>conf/icc/2009</crossref>
+<url>db/conf/icc/icc2009.html#RajoreNJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/SatrawalaN09" mdate="2017-05-25">
+<author pid="67/5512">A. N. Satrawala</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>RETHROTTLE: Execution throttling in the REDEFINE SoC architecture.</title>
+<pages>82-91</pages>
+<year>2009</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/ICSAMOS.2009.5289245</ee>
+<crossref>conf/samos/2009ic</crossref>
+<url>db/conf/samos/samos2009ic.html#SatrawalaN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/GargaGNJ09" mdate="2017-05-25">
+<author pid="72/4356">Ganesh Garga</author>
+<author pid="25/6096">David Guevorkian</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="17/603">H. S. Jamadagni</author>
+<title>High-throughput flexible constraint length Viterbi decoders on de Bruijn, shuffle-exchange and butterfly connected architectures.</title>
+<pages>157-164</pages>
+<year>2009</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/ICSAMOS.2009.5289227</ee>
+<crossref>conf/samos/2009ic</crossref>
+<url>db/conf/samos/samos2009ic.html#GargaGNJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/FellBCNN09" mdate="2017-05-23">
+<author pid="07/2195">Alexander Fell</author>
+<author pid="45/6459">Prasenjit Biswas</author>
+<author pid="28/7454">Jugantor Chetia</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Generic routing rules and a scalable access enhancement for the Network-on-Chip RECONNECT.</title>
+<pages>251-254</pages>
+<year>2009</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCCON.2009.5398048</ee>
+<crossref>conf/socc/2009</crossref>
+<url>db/conf/socc/socc2009.html#FellBCNN09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/BanerjeeSN08" mdate="2020-02-24">
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="54/3084">G. Surendra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>On the effectiveness of phase based regression models to trade power and performance using dynamic processor adaptation.</title>
+<pages>797-815</pages>
+<year>2008</year>
+<volume>54</volume>
+<journal>J. Syst. Archit.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.sysarc.2008.02.003</ee>
+<url>db/journals/jsa/jsa54.html#BanerjeeSN08</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/AlleVRNFRNN08" mdate="2017-05-26">
+<author pid="25/6717">Mythri Alle</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="72/270">Ramesh C. Ramesh</author>
+<author pid="76/5797">Joseph Nimmy</author>
+<author pid="07/2195">Alexander Fell</author>
+<author pid="95/2740">Adarsha Rao</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Synthesis of application accelerators on Runtime Reconfigurable Hardware.</title>
+<pages>13-18</pages>
+<year>2008</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2008.4580147</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2008.4580147</ee>
+<crossref>conf/asap/2008</crossref>
+<url>db/conf/asap/asap2008.html#AlleVRNFRNN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/RajoreGJN08" mdate="2017-05-26">
+<author pid="40/6727">Ritesh Rajore</author>
+<author pid="72/4356">Ganesh Garga</author>
+<author pid="17/603">H. S. Jamadagni</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Reconfigurable Viterbi decoder on mesh connected multiprocessor architecture.</title>
+<pages>49-54</pages>
+<year>2008</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2008.4580153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2008.4580153</ee>
+<crossref>conf/asap/2008</crossref>
+<url>db/conf/asap/asap2008.html#RajoreGJN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/NimmyRVAFNN08" mdate="2017-05-26">
+<author pid="76/5797">Joseph Nimmy</author>
+<author pid="07/2057">C. Ramesh Reddy</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="07/2195">Alexander Fell</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>RECONNECT: A NoC for polymorphic ASICs using a low overhead single cycle router.</title>
+<pages>251-256</pages>
+<year>2008</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2008.4580187</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2008.4580187</ee>
+<crossref>conf/asap/2008</crossref>
+<url>db/conf/asap/asap2008.html#NimmyRVAFNN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/AdrshaANN08" mdate="2017-05-26">
+<author pid="95/2740">Adarsha Rao</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>Architecture of a polymorphic ASIC for interoperability across multi-mode H.264 decoders.</title>
+<pages>287-292</pages>
+<year>2008</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2008.4580193</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2008.4580193</ee>
+<crossref>conf/asap/2008</crossref>
+<url>db/conf/asap/asap2008.html#AdrshaANN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issoc/GargaAVNJ08" mdate="2020-04-06">
+<author pid="72/4356">Ganesh Garga</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="17/603">H. S. Jamadagni</author>
+<title>Realizing a flexible constraint length Viterbi decoder for software radio on a de Bruijn interconnection network.</title>
+<pages>1-4</pages>
+<year>2008</year>
+<booktitle>SoC</booktitle>
+<ee>https://doi.org/10.1109/ISSOC.2008.4694861</ee>
+<crossref>conf/issoc/2008</crossref>
+<url>db/conf/issoc/issoc2008.html#GargaAVNJ08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jolpe/SenthilRN07" mdate="2020-05-22">
+<author pid="82/6871">Arasu T. Senthil</author>
+<author pid="21/3666">C. P. Ravikumar</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Low-Power Hierarchical Scan Test for Multiple Clock Domains.</title>
+<pages>106-118</pages>
+<year>2007</year>
+<volume>3</volume>
+<journal>J. Low Power Electron.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1166/jolpe.2007.117</ee>
+<url>db/journals/jolpe/jolpe3.html#SenthilRN07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/BanerjeeSN07" mdate="2017-05-26">
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="54/3084">G. Surendra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Program Phase Directed Dynamic Cache Way Reconfiguration for Power Efficiency.</title>
+<pages>884-889</pages>
+<year>2007</year>
+<crossref>conf/aspdac/2007</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2007.358101</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASPDAC.2007.358101</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1323387</ee>
+<url>db/conf/aspdac/aspdac2007.html#BanerjeeSN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/SatrawalaVANN07" mdate="2017-05-21">
+<author pid="67/5512">A. N. Satrawala</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="25/6717">Mythri Alle</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<title>REDEFINE: Architecture of a SoC Fabric for Runtime Composition of Computation Structures.</title>
+<pages>558-561</pages>
+<year>2007</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2007.4380716</ee>
+<crossref>conf/fpl/2007</crossref>
+<url>db/conf/fpl/fpl2007.html#SatrawalaVANN07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jec/SurendraBN06" mdate="2020-08-07">
+<author pid="54/3084">G. Surendra</author>
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Instruction Reuse in SPEC, media and packet processing benchmarks: A comparative study of power, performance and related microarchitectural optimizations.</title>
+<pages>15-34</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>J. Embed. Comput.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/journal-of-embedded-computing/jec00057</ee>
+<url>db/journals/jec/jec2.html#SurendraBN06</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEscc/AnantharangacharSN06" mdate="2017-05-24">
+<author pid="90/3449">Raghu Anantharangachar</author>
+<author pid="32/3176">Gorur N. Shrinivas</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Towards Self-Composing, Prioritized and Consequential Services.</title>
+<pages>518</pages>
+<year>2006</year>
+<crossref>conf/IEEEscc/2006</crossref>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2006.109</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2006.109</ee>
+<url>db/conf/IEEEscc/scc2006.html#AnantharangacharSN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/KalapriyaNN06" mdate="2017-05-21">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="n/NanjangudCNarendra">Nanjangud C. Narendra</author>
+<title>A Framework for Measurement of End-To-End Qos Requirements in Loosely Coupled Systems.</title>
+<pages>926</pages>
+<year>2006</year>
+<crossref>conf/aina/2006</crossref>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1109/AINA.2006.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2006.27</ee>
+<url>db/conf/aina/aina2006.html#KalapriyaNN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/SinghBN06" mdate="2017-05-26">
+<author pid="03/4204">Sandeep B. Singh</author>
+<author pid="35/6284">Jayanta Biswas</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A Cost Effective Pipelined Divider for Double Precision Floating Point Number.</title>
+<pages>132-137</pages>
+<year>2006</year>
+<crossref>conf/asap/2006</crossref>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2006.3</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2006.3</ee>
+<url>db/conf/asap/asap2006.html#SinghBN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/AlleBN06" mdate="2017-05-26">
+<author pid="25/6717">Mythri Alle</author>
+<author pid="35/6284">Jayanta Biswas</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>High Performance VLSI Architecture Design for H.264 CAVLC Decoder.</title>
+<pages>317-322</pages>
+<year>2006</year>
+<crossref>conf/asap/2006</crossref>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2006.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2006.36</ee>
+<url>db/conf/asap/asap2006.html#AlleBN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/BiswasN06" mdate="2017-05-25">
+<author pid="35/6284">Jayanta Biswas</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>Efficient Key Management and Distribution for MANET.</title>
+<pages>2256-2261</pages>
+<year>2006</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2006.255106</ee>
+<crossref>conf/icc/2006</crossref>
+<url>db/conf/icc/icc2006.html#BiswasN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/KalapriyaN06" mdate="2017-05-24">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>On the Implementation of a Streaming Video over Peer to Peer network using Middleware Components.</title>
+<pages>59</pages>
+<year>2006</year>
+<crossref>conf/icn/2006</crossref>
+<booktitle>ICN/ICONS/MCL</booktitle>
+<ee>https://doi.org/10.1109/ICNICONSMCL.2006.160</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICNICONSMCL.2006.160</ee>
+<url>db/conf/icn/icn2006.html#KalapriyaN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/LakshmiNNV06" mdate="2017-05-21">
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<title>Framework for Enabling Highly Available Distributed Applications for Utility Computing.</title>
+<pages>549-560</pages>
+<year>2006</year>
+<crossref>conf/ispa/2006</crossref>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1007/11946441_52</ee>
+<url>db/conf/ispa/ispa2006.html#LakshmiNNV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/VaradarajanNSBIMN06" mdate="2017-05-21">
+<author pid="96/1796">Keshavan Varadarajan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="32/4135">Vishal Sharda</author>
+<author pid="66/4689">Bharadwaj Amrutur</author>
+<author pid="i/RaviRIyer">Ravi R. Iyer</author>
+<author pid="49/7026">Srihari Makineni</author>
+<author pid="57/2813">Donald Newell</author>
+<title>Molecular Caches: A caching structure for dynamic creation of application-specific Heterogeneous cache regions.</title>
+<pages>433-442</pages>
+<year>2006</year>
+<crossref>conf/micro/2006</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2006.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICRO.2006.38</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1194856</ee>
+<url>db/conf/micro/micro2006.html#VaradarajanNSBIMN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/KalapriyaN05" mdate="2017-05-21">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Throughput Driven, Highly Available Streaming Stored Playback Video Service over a Peer-to-Peer Network.</title>
+<pages>229-234</pages>
+<year>2005</year>
+<crossref>conf/aina/2005</crossref>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2005.329</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2005.329</ee>
+<url>db/conf/aina/aina2005.html#KalapriyaN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/NainwalLNNV05" mdate="2017-05-24">
+<author pid="59/246">K. C. Nainwal</author>
+<author pid="36/573">J. Lakshmi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="96/1796">Keshavan Varadarajan</author>
+<title>A Framework for QoS Adaptive Grid Meta Scheduling.</title>
+<pages>292-296</pages>
+<year>2005</year>
+<crossref>conf/dexaw/2005</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2005.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2005.15</ee>
+<url>db/conf/dexaw/dexaw2005.html#NainwalLNNV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itc/SenthilRN05" mdate="2017-05-24">
+<author pid="82/6871">Arasu T. Senthil</author>
+<author pid="21/3666">C. P. Ravikumar</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>A low power and low cost scan test architecture for multi-clock domain SoCs using virtual divide and conquer.</title>
+<pages>9</pages>
+<year>2005</year>
+<booktitle>ITC</booktitle>
+<ee>https://doi.org/10.1109/TEST.2005.1583995</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TEST.2005.1583995</ee>
+<crossref>conf/itc/2005</crossref>
+<url>db/conf/itc/itc2005.html#SenthilRN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/NarendraBNK05" mdate="2018-11-06">
+<author pid="n/NanjangudCNarendra">Nanjangud C. Narendra</author>
+<author pid="54/4697">Umesh Bellur</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="09/4533">K. Kalapriya</author>
+<title>Functional and architectural adaptation in pervasive computing environments.</title>
+<pages>1-7</pages>
+<year>2005</year>
+<booktitle>MPAC</booktitle>
+<ee>https://doi.org/10.1145/1101480.1101485</ee>
+<crossref>conf/middleware/2005mpac</crossref>
+<url>db/conf/middleware/mpac2005.html#NarendraBNK05</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/SarojadeviNB04" mdate="2021-01-15">
+<author pid="82/1217">H. Sarojadevi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<title>On the Correctness of Program Execution When Cache Coherence Is Maintained Locally at Data-Sharing Boundaries in Distributed Shared Memory Multiprocessors.</title>
+<pages>415-446</pages>
+<year>2004</year>
+<volume>32</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1023/B:IJPP.0000038070.79088.0b</ee>
+<url>db/journals/ijpp/ijpp32.html#SarojadeviNB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/KalapriyaNB04" mdate="2017-05-21">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="97/822">K. Venkatesh Babu</author>
+<title>Can Streaming Of Stored Playback Video Be Supported On Peer to Peer Infrastructure?</title>
+<pages>200-203</pages>
+<year>2004</year>
+<crossref>conf/aina/2004</crossref>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1109/AINA.2004.1283786</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2004.1283786</ee>
+<url>db/conf/aina/aina2004.html#KalapriyaNB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/SurendraBN04" mdate="2018-11-27">
+<author pid="54/3084">G. Surendra</author>
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Power-performance trade-off using pipeline delays.</title>
+<pages>384-386</pages>
+<year>2004</year>
+<crossref>conf/aspdac/2004</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASPDAC.2004.164</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1015186</ee>
+<url>db/conf/aspdac/aspdac2004.html#SurendraBN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/BanerjeeSN04" mdate="2018-11-27">
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="54/3084">G. Surendra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Exploiting program execution phases to trade power and performance for media workload.</title>
+<pages>387-389</pages>
+<year>2004</year>
+<crossref>conf/aspdac/2004</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASPDAC.2004.97</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1015187</ee>
+<url>db/conf/aspdac/aspdac2004.html#BanerjeeSN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cf/KalapriyaNSMS04" mdate="2018-11-06">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="79/2025">Deepti Srinivasan</author>
+<author pid="49/182">R. Uma Maheshwari</author>
+<author pid="50/6118">V. Satish</author>
+<title>A framework for resource discovery in pervasive computing for mobile aware task execution.</title>
+<pages>70-77</pages>
+<year>2004</year>
+<crossref>conf/cf/2004</crossref>
+<booktitle>Conf. Computing Frontiers</booktitle>
+<ee>https://doi.org/10.1145/977091.977103</ee>
+<url>db/conf/cf/cf2004.html#KalapriyaNSMS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftdcs/KalapriyaNSMS04" mdate="2017-05-26">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="50/6118">V. Satish</author>
+<author pid="49/182">R. Uma Maheshwari</author>
+<author pid="38/5781">Deepti Srinivas</author>
+<title>An Architectural View of the Entities Required for Execution of Task in Pervasive Space.</title>
+<pages>37-43</pages>
+<year>2004</year>
+<crossref>conf/ftdcs/2004</crossref>
+<booktitle>FTDCS</booktitle>
+<ee>https://doi.org/10.1109/FTDCS.2004.1316591</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FTDCS.2004.1316591</ee>
+<url>db/conf/ftdcs/ftdcs2004.html#KalapriyaNSMS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/KalapriyaBN04" mdate="2017-05-25">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="97/822">K. Venkatesh Babu</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>Streaming stored playback video over a peer-to-peer network.</title>
+<pages>1298-1302</pages>
+<year>2004</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2004.1312722</ee>
+<crossref>conf/icc/2004</crossref>
+<url>db/conf/icc/icc2004.html#KalapriyaBN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wmpi/SurendraBN04" mdate="2018-11-06">
+<author pid="54/3084">G. Surendra</author>
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>On the effectiveness of prefetching and reuse in reducing L1 data cache traffic: a case study of Snort.</title>
+<pages>88-95</pages>
+<year>2004</year>
+<crossref>conf/wmpi/2004</crossref>
+<booktitle>WMPI</booktitle>
+<ee>https://doi.org/10.1145/1054943.1054955</ee>
+<url>db/conf/wmpi/wmpi2004.html#SurendraBN04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/SurendraBN03" mdate="2020-04-01">
+<author pid="54/3084">G. Surendra</author>
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>On the Effectiveness of Flow Aggregation in Improving Instruction Reuse in Network Processing Applications.</title>
+<pages>469-487</pages>
+<year>2003</year>
+<volume>31</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1023/B:IJPP.0000004511.82411.d4</ee>
+<url>db/journals/ijpp/ijpp31.html#SurendraBN03</url>
+</article>
+</r>
+<r><inproceedings key="conf/aPcsac/RaoNK03" mdate="2017-05-24">
+<author pid="09/2838">Pradeep Rao</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="58/5328">M. N. V. Satya Kiran</author>
+<title>Simultaneous MultiStreaming for Complexity-Effective VLIW Architectures.</title>
+<pages>166-179</pages>
+<ee>https://doi.org/10.1007/978-3-540-39864-6_14</ee>
+<year>2003</year>
+<crossref>conf/aPcsac/2003</crossref>
+<booktitle>Asia-Pacific Computer Systems Architecture Conference</booktitle>
+<url>db/conf/aPcsac/aPcsac2003.html#RaoNK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/KiranJRN03" mdate="2018-11-06">
+<author pid="58/5328">M. N. V. Satya Kiran</author>
+<author pid="31/5361">M. N. Jayram</author>
+<author pid="09/2838">Pradeep Rao</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A complexity effective communication model for behavioral modeling of signal processing applications.</title>
+<pages>412-415</pages>
+<year>2003</year>
+<crossref>conf/dac/2003</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/775832.775939</ee>
+<url>db/conf/dac/dac2003.html#KiranJRN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SurendraBN03" mdate="2015-06-30">
+<author pid="54/3084">G. Surendra</author>
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Enhancing Speedup in Network Processing Applications by Exploiting Instruction Reuse with Flow Aggregation.</title>
+<pages>10784-10789</pages>
+<year>2003</year>
+<crossref>conf/date/2003</crossref>
+<booktitle>DATE</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10192</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1022820</ee>
+<url>db/conf/date/date2003.html#SurendraBN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic/KalapriyaRLN03" mdate="2003-10-09">
+<author pid="09/4533">K. Kalapriya</author>
+<author pid="42/2376">B. R. Raghucharan</author>
+<author pid="02/2813">Abhijit M. Lele</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Traffic Profiling for Efficient Network Resource Utilization.</title>
+<pages>789-795</pages>
+<year>2003</year>
+<crossref>conf/ic/2003-2</crossref>
+<booktitle>International Conference on Internet Computing</booktitle>
+<url>db/conf/ic/ic2003-2.html#KalapriyaRLN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/MenonNM03" mdate="2018-11-06">
+<author pid="29/1673">Amitabh Menon</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="42/3597">Mahesh Mehendale</author>
+<title>Multivoltage scheduling with voltage-partitioned variable storage.</title>
+<pages>298-301</pages>
+<year>2003</year>
+<crossref>conf/islped/2003</crossref>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1145/871506.871580</ee>
+<url>db/conf/islped/islped2003.html#MenonNM03</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/03/SurendraBN03" mdate="2019-07-04">
+<author pid="54/3084">G. Surendra</author>
+<author pid="78/3611">Subhasis Banerjee</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Enhancing Speedup in Network Processing Applications by Exploiting Instruction Reuse with Flow Aggregation.</title>
+<pages>359-371</pages>
+<year>2003</year>
+<booktitle>Embedded Software for SoC</booktitle>
+<ee>https://doi.org/10.1007/0-306-48709-8_27</ee>
+<crossref>books/sp/03/JYVW2003</crossref>
+<url>db/books/collections/JYVW2003.html#SurendraBN03</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/europar/SarojadeviNB02" mdate="2021-01-15">
+<author pid="82/1217">H. Sarojadevi</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<title>Enforcing Cache Coherence at Data Sharing Boundaries without Global Control: A Hardware-Software Approach (Research Note).</title>
+<pages>543-546</pages>
+<year>2002</year>
+<crossref>conf/europar/2002</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/3-540-45706-2_73</ee>
+<url>db/conf/europar/europar2002.html#SarojadeviNB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/AgarwalNEB02" mdate="2021-01-15">
+<author pid="46/5478">Manvi Agarwal</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="e/JosTJvanEijndhoven">Jos T. J. van Eijndhoven</author>
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<title>Speculative Trace Scheduling in VLIW Processors.</title>
+<pages>408-413</pages>
+<year>2002</year>
+<crossref>conf/iccd/2002</crossref>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2002.1106803</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2002.1106803</ee>
+<url>db/conf/iccd/iccd2002.html#AgarwalNEB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/AgarwalNEB02" mdate="2021-01-15">
+<author pid="46/5478">Manvi Agarwal</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="e/JosTJvanEijndhoven">Jos T. J. van Eijndhoven</author>
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<title>On the Benefits of Speculative Trace Scheduling in VLIW Processors.</title>
+<pages>822-828</pages>
+<year>2002</year>
+<crossref>conf/pdpta/2002-2</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta2002-2.html#AgarwalNEB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AhmedNS01" mdate="2019-02-28">
+<author pid="68/3232">Arshad Ahmed</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="19/6223">Paul Sathya</author>
+<title>Content adaptive motion estimation for mobile video encoders.</title>
+<pages>237-240</pages>
+<year>2001</year>
+<crossref>conf/iscas/2001</crossref>
+<booktitle>ISCAS (2)</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2001.921051</ee>
+<url>db/conf/iscas/iscas2001-2.html#AhmedNS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/SurendraNS01" mdate="2017-05-23">
+<author pid="54/3084">G. Surendra</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="19/6223">Paul Sathya</author>
+<title>ReDeEm_RTL: A Software Tool for Customizing Soft Cells for Embedded Applications.</title>
+<pages>85-90</pages>
+<year>2001</year>
+<crossref>conf/vlsid/2001</crossref>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/ICVD.2001.902644</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.2001.902644</ee>
+<url>db/conf/vlsid/vlsid2001.html#SurendraNS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/LeleN01" mdate="2017-05-23">
+<author pid="02/2813">Abhijit M. Lele</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Architecture of Reconfigurable a Low Power Gigabit AT Switch.</title>
+<pages>242-247</pages>
+<year>2001</year>
+<crossref>conf/vlsid/2001</crossref>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/ICVD.2001.902667</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.2001.902667</ee>
+<url>db/conf/vlsid/vlsid2001.html#LeleN01</url>
+</inproceedings>
+</r>
+<r><article key="journals/join/LeleNE00" mdate="2020-06-05">
+<author pid="02/2813">Abhijit M. Lele</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="e/DickHJEpema">Dick H. J. Epema</author>
+<title>Harmony - An Architecture for Providing Quality of Service in Mobile Computing Environments.</title>
+<pages>247-266</pages>
+<year>2000</year>
+<volume>1</volume>
+<journal>J. Interconnect. Networks</journal>
+<number>3</number>
+<url>db/journals/join/join1.html#LeleNE00</url>
+<ee>https://doi.org/10.1142/S0219265900000159</ee>
+</article>
+</r>
+<r><article key="journals/vlsisp/RamanathanNV00" mdate="2020-05-20">
+<author pid="17/6873">S. Ramanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="31/3244">V. Visvanathan</author>
+<title>Reconfigurable Filter Coprocessor Architecture for DSP Applications.</title>
+<pages>333-359</pages>
+<year>2000</year>
+<volume>26</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1023/A:1026555400883</ee>
+<url>db/journals/vlsisp/vlsisp26.html#RamanathanNV00</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/RaoN00" mdate="2018-11-06">
+<author pid="98/971">M. Srikanth Rao</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Power minimization using control generated clocks.</title>
+<pages>794-799</pages>
+<year>2000</year>
+<crossref>conf/dac/2000</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/337292.337781</ee>
+<url>db/conf/dac/dac2000.html#RaoN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LeleNE00" mdate="2019-02-12">
+<author pid="02/2813">Abhijit M. Lele</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="e/DickHJEpema">Dick H. J. Epema</author>
+<title>Design Space Exploration for Orividing QoS Within the Harmony Framework.</title>
+<pages>521-524</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (I)</booktitle>
+<url>db/conf/icmcs/icme2000.html#LeleNE00</url>
+<ee>https://doi.org/10.1109/ICME.2000.869653</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BalakrishnanN00" mdate="2021-01-15">
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>Performance evaluation of multithreaded architectures for media processing applications.</title>
+<pages>531-534</pages>
+<year>2000</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2000.857149</ee>
+<crossref>conf/iscas/2000</crossref>
+<url>db/conf/iscas/iscas2000.html#BalakrishnanN00</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/RamanathanVN99" mdate="2020-02-20">
+<author pid="17/6873">S. Ramanathan</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Synthesis of ASIPs for DSP algorithms.</title>
+<pages>13-32</pages>
+<year>1999</year>
+<volume>28</volume>
+<journal>Integr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0167-9260(99)00009-7</ee>
+<url>db/journals/integration/integration28.html#RamanathanVN99</url>
+</article>
+</r>
+<r><article key="journals/sigpro/RamanathanVN99" mdate="2020-02-22">
+<author pid="17/6873">S. Ramanathan</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A computational engine for multirate FIR digital filtering.</title>
+<pages>213-222</pages>
+<year>1999</year>
+<volume>79</volume>
+<journal>Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/S0165-1684(99)00095-X</ee>
+<url>db/journals/sigpro/sigpro79.html#RamanathanVN99</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/RamanathanVN99" mdate="2020-05-20">
+<author pid="17/6873">S. Ramanathan</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Architectural Synthesis of Computational Engines for Subband Adaptive Filtering.</title>
+<pages>173-195</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1023/A:1008177205744</ee>
+<url>db/journals/vlsisp/vlsisp22.html#RamanathanVN99</url>
+</article>
+</r>
+<r><inproceedings key="conf/hipc/LeleN99" mdate="2017-05-24">
+<author pid="02/2813">Abhijit M. Lele</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Harmony - A Framework for Providing Quality of Service in Wireless Mobile Computing Environment.</title>
+<pages>299-308</pages>
+<year>1999</year>
+<crossref>conf/hipc/1999</crossref>
+<booktitle>HiPC</booktitle>
+<url>db/conf/hipc/hipc1999.html#LeleN99</url>
+<ee>https://doi.org/10.1007/978-3-540-46642-0_44</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/GautamVN99" mdate="2017-05-24">
+<author pid="15/4104">Avinash K. Gautam</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Automatic Generation of Tree Multipliers Using Placement-Driven Netlists.</title>
+<pages>285-288</pages>
+<year>1999</year>
+<crossref>conf/iccd/1999</crossref>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.1999.808440</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.1999.808440</ee>
+<url>db/conf/iccd/iccd1999.html#GautamVN99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/RamanathanVN99" mdate="2017-05-23">
+<author pid="17/6873">S. Ramanathan</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Synthesis of Configurable Architectures for DSP Algorithms.</title>
+<pages>350-357</pages>
+<year>1999</year>
+<crossref>conf/vlsid/1999</crossref>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/ICVD.1999.745181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1999.745181</ee>
+<url>db/conf/vlsid/vlsid1999.html#RamanathanVN99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/BalakrishnanN98" mdate="2021-01-15">
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>Arbitrary Precision Arithmetic - SIMD Style.</title>
+<pages>128-132</pages>
+<year>1998</year>
+<crossref>conf/vlsid/1998</crossref>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/ICVD.1998.646590</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1998.646590</ee>
+<url>db/conf/vlsid/vlsid1998.html#BalakrishnanN98</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/MenezesNM97" mdate="2020-02-20">
+<author pid="37/439">Vinod Menezes</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="34/4766">Biswadip Mitra</author>
+<title>Signal compression through spatial frequency-based motion estimation.</title>
+<pages>115-135</pages>
+<year>1997</year>
+<volume>22</volume>
+<journal>Integr.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1016/S0167-9260(97)00008-4</ee>
+<url>db/journals/integration/integration22.html#MenezesNM97</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/KarthikeyanN97" mdate="2017-05-23">
+<author pid="94/4748">M. R. Karthikeyan</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>An asynchronous architecture for digital signal processors.</title>
+<pages>615</pages>
+<year>1997</year>
+<booktitle>ED&#38;TC</booktitle>
+<ee>https://doi.org/10.1109/EDTC.1997.582428</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EDTC.1997.582428</ee>
+<crossref>conf/date/1997</crossref>
+<url>db/conf/date/edtc1997.html#KarthikeyanN97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/BalakrishnanNG97" mdate="2021-01-15">
+<author pid="57/713">Srinivasan Balakrishnan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="81/3406">Arjan J. C. van Gemund</author>
+<title>Modeling multi-threaded architectures in PAMELA for real-time high performance applications.</title>
+<pages>407-414</pages>
+<year>1997</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HIPC.1997.634522</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HIPC.1997.634522</ee>
+<crossref>conf/hipc/1997</crossref>
+<url>db/conf/hipc/hipc1997.html#BalakrishnanNG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/MenezesNM96" mdate="2017-05-26">
+<author pid="37/439">Vinod Menezes</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<author pid="34/4766">Biswadip Mitra</author>
+<title>Spatial frequency based motion estimation for image sequence compression.</title>
+<pages>257-262</pages>
+<year>1996</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HIPC.1996.565832</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HIPC.1996.565832</ee>
+<crossref>conf/hipc/1996</crossref>
+<url>db/conf/hipc/hipc1996.html#MenezesNM96</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/GhoshN95" mdate="2020-03-11">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Design and realization of high-performance wave-pipelined 8&#215;8 b multiplier in CMOS technology.</title>
+<pages>36-48</pages>
+<year>1995</year>
+<volume>3</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/92.365452</ee>
+<url>db/journals/tvlsi/tvlsi3.html#GhoshN95</url>
+</article>
+</r>
+<r><inproceedings key="conf/vlsid/GhoshN95" mdate="2017-05-23">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="n/SKNandy">Soumitra Kumar Nandy</author>
+<title>Wave pipelined architecture folding: a method to achieve low power and low area.</title>
+<pages>184-</pages>
+<year>1995</year>
+<crossref>conf/vlsid/1995</crossref>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/ICVD.1995.512102</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1995.512102</ee>
+<url>db/conf/vlsid/vlsid1995.html#GhoshN95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/GhoshNP94" mdate="2019-02-15">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="90/5099">K. Parthasarathy</author>
+<title>TWTXBB: A Low Latency, High Throughput Multiplier Architecture Using a New 4 --&#62; 2 Compressor.</title>
+<pages>77-82</pages>
+<year>1994</year>
+<crossref>conf/vlsid/1994</crossref>
+<booktitle>VLSI Design</booktitle>
+<url>db/conf/vlsid/vlsid1994.html#GhoshNP94</url>
+<ee>https://doi.org/10.1109/ICVD.1994.282660</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1994.282660</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/GhoshSN94" mdate="2019-02-15">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="67/3314">Shamik Sural</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A 600MHz Half-Bit Level Pipelined Multiplier Macrocell.</title>
+<pages>95-100</pages>
+<year>1994</year>
+<crossref>conf/vlsid/1994</crossref>
+<booktitle>VLSI Design</booktitle>
+<url>db/conf/vlsid/vlsid1994.html#GhoshSN94</url>
+<ee>https://doi.org/10.1109/ICVD.1994.282664</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1994.282664</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/RathnaNP94" mdate="2019-02-15">
+<author pid="16/6556">G. N. Rathna</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="90/5099">K. Parthasarathy</author>
+<title>A Methodology for Architecture Synthesis of Cascaded IIR Filters on TLU FPGAs.</title>
+<pages>225-228</pages>
+<year>1994</year>
+<crossref>conf/vlsid/1994</crossref>
+<booktitle>VLSI Design</booktitle>
+<url>db/conf/vlsid/vlsid1994.html#RathnaNP94</url>
+<ee>https://doi.org/10.1109/ICVD.1994.282690</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1994.282690</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/GiriVNG94" mdate="2019-02-15">
+<author pid="01/6645">Abhijit Giri</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="57/6033">S. K. Ghoshal</author>
+<title>High Speed Digital Filtering on SRAM-Based FPGAs.</title>
+<pages>229-232</pages>
+<year>1994</year>
+<crossref>conf/vlsid/1994</crossref>
+<booktitle>VLSI Design</booktitle>
+<url>db/conf/vlsid/vlsid1994.html#GiriVNG94</url>
+<ee>https://doi.org/10.1109/ICVD.1994.282691</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1994.282691</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/GhoshNSP93" mdate="2018-11-06">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="s/PSadayappan">P. Sadayappan</author>
+<author pid="90/5099">K. Parthasarathy</author>
+<title>Architectural Synthesis of Performance-Driven Multipliers with Accumulator Interleaving.</title>
+<pages>303-307</pages>
+<year>1993</year>
+<crossref>conf/dac/1993</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/157485.164902</ee>
+<url>db/conf/dac/dac93.html#GhoshNSP93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/GhoshN93" mdate="2019-02-11">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>A 400 MHz Wave-Pipelined 8 X 8-Bit Multiplier in CMOS Technology.</title>
+<pages>198-201</pages>
+<year>1993</year>
+<crossref>conf/iccd/1993</crossref>
+<booktitle>ICCD</booktitle>
+<url>db/conf/iccd/iccd1993.html#GhoshN93</url>
+<ee>https://doi.org/10.1109/ICCD.1993.393381</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.1993.393381</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/NandyNVSC93" mdate="2017-05-19">
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="56/10">Ranjani Narayan</author>
+<author pid="31/3244">V. Visvanathan</author>
+<author pid="s/PSadayappan">P. Sadayappan</author>
+<author pid="55/5217">Prashant S. Chauhan</author>
+<title>A Parallel Progressive Refinement Image Rendering Algorithm on a Scalable Multithreaded VLSI Processor Array.</title>
+<pages>94-97</pages>
+<year>1993</year>
+<crossref>conf/icpp/1993-3</crossref>
+<booktitle>ICPP (3)</booktitle>
+<url>db/conf/icpp/icpp1993-3.html#NandyNVSC93</url>
+<ee>https://doi.org/10.1109/ICPP.1993.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.1993.30</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/GhoshNPV93" mdate="2019-02-15">
+<author pid="49/622">Debabrata Ghosh</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="90/5099">K. Parthasarathy</author>
+<author pid="31/3244">V. Visvanathan</author>
+<title>NPCPL: Normal Process Complementary Pass Transistor Logic for Low Latency, High Throughput Designs.</title>
+<pages>341-346</pages>
+<year>1993</year>
+<crossref>conf/vlsid/1993</crossref>
+<booktitle>VLSI Design</booktitle>
+<url>db/conf/vlsid/vlsid1993.html#GhoshNPV93</url>
+<ee>https://doi.org/10.1109/ICVD.1993.669707</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVD.1993.669707</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/BhatN89" mdate="2018-11-06">
+<author pid="91/2413">Narasimha B. Bhat</author>
+<author pid="n/SKNandy">S. K. Nandy</author>
+<title>Special Purpose Architecture for Accelerating Bitmap DRC.</title>
+<pages>674-677</pages>
+<year>1989</year>
+<crossref>conf/dac/1989</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/74382.74501</ee>
+<url>db/conf/dac/dac89.html#BhatN89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/NandyR86" mdate="2018-11-06">
+<author pid="n/SKNandy">S. K. Nandy</author>
+<author pid="96/5081">L. V. Ramakrishnan</author>
+<title>Dual quadtree representation for VLSI designs.</title>
+<pages>663-666</pages>
+<year>1986</year>
+<crossref>conf/dac/1986</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/318013.318133</ee>
+<url>db/conf/dac/dac1986.html#NandyR86</url>
+</inproceedings>
+</r>
+<coauthors n="147" nc="6">
+<co c="0"><na f="a/Agarwal:Manvi" pid="46/5478">Manvi Agarwal</na></co>
+<co c="0"><na f="a/Agarwal:Utkarsh" pid="217/0988">Utkarsh Agarwal</na></co>
+<co c="1"><na f="a/Ahmed:Arshad" pid="68/3232">Arshad Ahmed</na></co>
+<co c="0"><na f="a/Akulakrishna:Pavan_Kumar" pid="160/1311">Pavan Kumar Akulakrishna</na></co>
+<co c="0"><na f="a/Alle:Mythri" pid="25/6717">Mythri Alle</na></co>
+<co c="0" n="2"><na f="a/Amrutur:Bharadwaj_S=" pid="66/4689">Bharadwaj S. Amrutur</na><na>Bharadwaj Amrutur</na></co>
+<co c="0"><na f="a/Anand:Ankit" pid="43/2393">Ankit Anand</na></co>
+<co c="4"><na f="a/Anantharangachar:Raghu" pid="90/3449">Raghu Anantharangachar</na></co>
+<co c="0"><na f="a/Anuchan:H=_V=" pid="218/2723">H. V. Anuchan</na></co>
+<co c="0"><na f="a/Aponte:Axel_Acosta" pid="141/5918">Axel Acosta Aponte</na></co>
+<co c="0"><na f="a/Azad:Chandrashekhar" pid="217/0969">Chandrashekhar Azad</na></co>
+<co c="0"><na f="b/Babu:K=_Venkatesh" pid="97/822">K. Venkatesh Babu</na></co>
+<co c="0"><na f="b/Balakrishnan:Srinivasan" pid="57/713">Srinivasan Balakrishnan</na></co>
+<co c="0"><na f="b/Baluni:Alok" pid="233/8212">Alok Baluni</na></co>
+<co c="1"><na f="b/Banerjee:Subhasis" pid="78/3611">Subhasis Banerjee</na></co>
+<co c="0"><na f="b/Baufreton:Philippe" pid="27/5581">Philippe Baufreton</na></co>
+<co c="0"><na f="b/Bellur:Umesh" pid="54/4697">Umesh Bellur</na></co>
+<co c="-1"><na f="b/Bhat:Narasimha_B=" pid="91/2413">Narasimha B. Bhat</na></co>
+<co c="0"><na f="b/Bhatia:Eshan" pid="177/5974">Eshan Bhatia</na></co>
+<co c="0"><na f="b/Bhattacharya:S=" pid="35/3376">S. Bhattacharya</na></co>
+<co c="0"><na f="b/Bhattacharya:Sukumar" pid="161/3396">Sukumar Bhattacharya</na></co>
+<co c="0"><na f="b/Bhattacharyya:Chiranjib" pid="b/CBhattacharyya">Chiranjib Bhattacharyya</na></co>
+<co c="0"><na f="b/Biswas:Arnab_Kumar" pid="167/0671">Arnab Kumar Biswas</na></co>
+<co c="0" n="2"><na f="b/Biswas:Ipsita" pid="151/7901">Ipsita Biswas</na><na>Ipsita Biswas Mahapatra</na></co>
+<co c="0"><na f="b/Biswas:Jayanta" pid="35/6284">Jayanta Biswas</na></co>
+<co c="0"><na f="b/Biswas:Prasenjit" pid="45/6459">Prasenjit Biswas</na></co>
+<co c="0" n="2"><na f="c/Chandiramani:Jayesh_R=" pid="161/3310">Jayesh R. Chandiramani</na><na>Jayesh Ramesh Chandiramani</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chauhan:Prashant_S=" pid="55/5217">Prashant S. Chauhan</na></co>
+<co c="0"><na f="c/Chetia:Jugantor" pid="28/7454">Jugantor Chetia</na></co>
+<co c="0"><na f="c/Choudhary:Nimash" pid="177/6025">Nimash Choudhary</na></co>
+<co c="0"><na f="c/Chowhan:Rajashekhar" pid="55/7330">Rajashekhar Chowhan</na></co>
+<co c="0"><na f="d/Das:Saptarsi" pid="27/7454">Saptarsi Das</na></co>
+<co c="0"><na f="d/Deprettere:Ed_F=" pid="89/6154">Ed F. Deprettere</na></co>
+<co c="0"><na f="d/Dhingra:Mohit" pid="120/0457">Mohit Dhingra</na></co>
+<co c="0"><na f="d/Dhuldhule:Pratima_Ashok" pid="191/7235">Pratima Ashok Dhuldhule</na></co>
+<co c="0"><na f="d/Dutta:Avinaba" pid="43/8745">Avinaba Dutta</na></co>
+<co c="0"><na f="e/Eijndhoven:Jos_T=_J=_van" pid="e/JosTJvanEijndhoven">Jos T. J. van Eijndhoven</na></co>
+<co c="0" n="2"><na f="e/Emelyanov:Pavel_G=" pid="04/6973">Pavel G. Emelyanov</na><na>Pavel Emelyanov</na></co>
+<co c="0"><na f="e/Epema:Dick_H=_J=" pid="e/DickHJEpema">Dick H. J. Epema</na></co>
+<co c="0"><na f="f/Fell:Alexander" pid="07/2195">Alexander Fell</na></co>
+<co c="0"><na f="f/Fujita:Masahiro" pid="56/1768">Masahiro Fujita</na></co>
+<co c="0"><na f="g/Garga:Ganesh" pid="72/4356">Ganesh Garga</na></co>
+<co c="0"><na f="g/Gautam:Avinash_K=" pid="15/4104">Avinash K. Gautam</na></co>
+<co c="0"><na f="g/Gemund:Arjan_J=_C=_van" pid="81/3406">Arjan J. C. van Gemund</na></co>
+<co c="0"><na f="g/Ghosh:Debabrata" pid="49/622">Debabrata Ghosh</na></co>
+<co c="0"><na f="g/Ghoshal:S=_K=" pid="57/6033">S. K. Ghoshal</na></co>
+<co c="0"><na f="g/Giri:Abhijit" pid="01/6645">Abhijit Giri</na></co>
+<co c="0"><na f="g/Goel:Arnav" pid="161/3392">Arnav Goel</na></co>
+<co c="0"><na f="g/Gopalan:Nandhini" pid="141/0590">Nandhini Gopalan</na></co>
+<co c="0" n="2"><na f="g/Gopinath:K=" pid="48/2735">K. Gopinath</na><na>Kanchi Gopinath</na></co>
+<co c="0"><na f="g/Guevorkian:David" pid="25/6096">David Guevorkian</na></co>
+<co c="3"><na f="g/Gupta:A=_S=" pid="02/8621">A. S. Gupta</na></co>
+<co c="0"><na f="g/Gupta:Aakriti" pid="160/1235">Aakriti Gupta</na></co>
+<co c="0"><na f="i/Iyer:Ravi_R=" pid="i/RaviRIyer">Ravi R. Iyer</na></co>
+<co c="0"><na f="j/Jamadagni:H=_S=" pid="17/603">H. S. Jamadagni</na></co>
+<co c="2"><na f="j/Jayram:M=_N=" pid="31/5361">M. N. Jayram</na></co>
+<co c="0"><na f="k/Kachore:Vaibhav_Ankush" pid="167/1250">Vaibhav Ankush Kachore</na></co>
+<co c="0"><na f="k/Kala:S=" pid="133/4347">S. Kala</na></co>
+<co c="0"><na f="k/Kalapriya:K=" pid="09/4533">K. Kalapriya</na></co>
+<co c="-1"><na f="k/Karthikeyan:M=_R=" pid="94/4748">M. R. Karthikeyan</na></co>
+<co c="2"><na f="k/Kiran:M=_N=_V=_Satya" pid="58/5328">M. N. V. Satya Kiran</na></co>
+<co c="0"><na f="k/Krishna:Akhil" pid="214/1959">Akhil Krishna</na></co>
+<co c="0"><na f="k/Krishna:Madhav" pid="60/1949">Madhav Krishna</na></co>
+<co c="0"><na f="k/Krishnamoorthy:Ratna" pid="80/9049">Ratna Krishnamoorthy</na></co>
+<co c="0"><na f="k/Kulkarni:Vadiraj" pid="169/1023">Vadiraj Kulkarni</na></co>
+<co c="0"><na f="k/Kumar:N=_Krishna" pid="01/718">N. Krishna Kumar</na></co>
+<co c="0"><na f="l/Lakshmi:J=" pid="36/573">J. Lakshmi</na></co>
+<co c="0"><na f="l/Lele:Abhijit_M=" pid="02/2813">Abhijit M. Lele</na></co>
+<co c="0"><na f="l/Leupers:Rainer" pid="14/6306">Rainer Leupers</na></co>
+<co c="0" n="2"><na f="m/Madhava:Krishna_C=" pid="150/8195">Krishna C. Madhava</na><na>Madhava Krishna C</na></co>
+<co c="0"><na f="m/Madhu:Kavitha_T=" pid="150/8307">Kavitha T. Madhu</na></co>
+<co c="0"><na f="m/Mahadurkar:Mahesh" pid="150/8223">Mahesh Mahadurkar</na></co>
+<co c="0"><na f="m/Mahale:Gopinath" pid="161/3399">Gopinath Mahale</na></co>
+<co c="0"><na f="m/Mahale:Hamsika" pid="161/3108">Hamsika Mahale</na></co>
+<co c="3"><na f="m/Mahapatra:T=_Ray" pid="01/8621">T. Ray Mahapatra</na></co>
+<co c="0"><na f="m/Maheshwari:R=_Uma" pid="49/182">R. Uma Maheshwari</na></co>
+<co c="0"><na f="m/Maity:Arka" pid="133/4270">Arka Maity</na></co>
+<co c="0"><na f="m/Makineni:Srihari" pid="49/7026">Srihari Makineni</na></co>
+<co c="0"><na f="m/Mantha:Sravanthi" pid="67/7330">Sravanthi Mantha</na></co>
+<co c="0"><na f="m/Mehendale:Mahesh" pid="42/3597">Mahesh Mehendale</na></co>
+<co c="0"><na f="m/Menezes:Vinod" pid="37/439">Vinod Menezes</na></co>
+<co c="0"><na f="m/Menon:Amitabh" pid="29/1673">Amitabh Menon</na></co>
+<co c="0"><na f="m/Merchant:Farhad" pid="141/0649">Farhad Merchant</na></co>
+<co c="0"><na f="m/Mitra:Biswadip" pid="34/4766">Biswadip Mitra</na></co>
+<co c="0"><na f="m/Mohammadi:Mahnaz" pid="41/444">Mahnaz Mohammadi</na></co>
+<co c="0"><na f="m/Mondal:Rajdeep" pid="55/9350">Rajdeep Mondal</na></co>
+<co c="0"><na f="m/Munje:Ishan" pid="150/8354">Ishan Munje</na></co>
+<co c="0"><na f="n/Nainwal:K=_C=" pid="59/246">K. C. Nainwal</na></co>
+<co c="0"><na f="n/Narayan:Ranjani" pid="56/10">Ranjani Narayan</na></co>
+<co c="0"><na f="n/Narendra:Nanjangud_C=" pid="n/NanjangudCNarendra">Nanjangud C. Narendra</na></co>
+<co c="0"><na f="n/Natarajan:Santhi" pid="151/7938">Santhi Natarajan</na></co>
+<co c="0"><na f="n/Neumann:Francois" pid="207/7236">Francois Neumann</na></co>
+<co c="0"><na f="n/Newell:Donald" pid="57/2813">Donald Newell</na></co>
+<co c="0"><na f="n/Nikolov:Hristo" pid="94/7042">Hristo Nikolov</na></co>
+<co c="0"><na f="n/Nimmy:Joseph" pid="76/5797">Joseph Nimmy</na></co>
+<co c="0"><na f="p/Pal:Debnath" pid="30/9413">Debnath Pal</na></co>
+<co c="0"><na f="p/Parimi:Rajesh_Babu" pid="161/4671">Rajesh Babu Parimi</na></co>
+<co c="0"><na f="p/Parthasarathy:K=" pid="90/5099">K. Parthasarathy</na></co>
+<co c="-1"><na f="p/Patt:Yale_N=" pid="p/YaleNPatt">Yale N. Patt</na></co>
+<co c="0"><na f="p/Ponomaryov:Denis_K=" pid="15/2876">Denis K. Ponomaryov</na></co>
+<co c="-1"><na f="p/Pradhan:Ashish_Kumar" pid="177/5797">Ashish Kumar Pradhan</na></co>
+<co c="0"><na f="p/Prasadarao:M=" pid="46/8745">M. Prasadarao</na></co>
+<co c="0"><na f="p/Prashank:N=_Thambi" pid="48/8745">N. Thambi Prashank</na></co>
+<co c="0"><na f="p/Pulli:Adithya" pid="151/7904">Adithya Pulli</na></co>
+<co c="0"><na f="r/Raghucharan:B=_R=" pid="42/2376">B. R. Raghucharan</na></co>
+<co c="0"><na f="r/Raha:Soumyendu" pid="57/4634">Soumyendu Raha</na></co>
+<co c="0"><na f="r/Raihan:Aamir" pid="161/3390">Aamir Raihan</na></co>
+<co c="0"><na f="r/Rajore:Ritesh" pid="40/6727">Ritesh Rajore</na></co>
+<co c="0"><na f="r/R=aacute=kossy:Zolt=aacute=n_Endre" pid="37/8121">Zolt&#225;n Endre R&#225;kossy</na></co>
+<co c="-1"><na f="r/Ramakrishnan:L=_V=" pid="96/5081">L. V. Ramakrishnan</na></co>
+<co c="0"><na f="r/Ramanathan:S=" pid="17/6873">S. Ramanathan</na></co>
+<co c="0"><na f="r/Ramesh:Ramesh_C=" pid="72/270">Ramesh C. Ramesh</na></co>
+<co c="0"><na f="r/Rao:Adarsha" pid="95/2740">Adarsha Rao</na></co>
+<co c="0"><na f="r/Rao:Anuj" pid="181/1834">Anuj Rao</na></co>
+<co c="-1"><na f="r/Rao:M=_Srikanth" pid="98/971">M. Srikanth Rao</na></co>
+<co c="2"><na f="r/Rao:Pradeep" pid="09/2838">Pradeep Rao</na></co>
+<co c="0"><na f="r/Rathna:G=_N=" pid="16/6556">G. N. Rathna</na></co>
+<co c="5"><na f="r/Ravikumar:C=_P=" pid="21/3666">C. P. Ravikumar</na></co>
+<co c="0"><na f="r/Reddy:C=_Ramesh" pid="07/2057">C. Ramesh Reddy</na></co>
+<co c="0"><na f="r/Ronge:Rohit" pid="161/3144">Rohit Ronge</na></co>
+<co c="0"><na f="s/Sadayappan:P=" pid="s/PSadayappan">P. Sadayappan</na></co>
+<co c="0"><na f="s/Sankaraiah:Sreeramula" pid="152/4942">Sreeramula Sankaraiah</na></co>
+<co c="0"><na f="s/Sarojadevi:H=" pid="82/1217">H. Sarojadevi</na></co>
+<co c="1"><na f="s/Sathya:Paul" pid="19/6223">Paul Sathya</na></co>
+<co c="0"><na f="s/Satish:V=" pid="50/6118">V. Satish</na></co>
+<co c="0"><na f="s/Satpute:Nitin" pid="161/3341">Nitin Satpute</na></co>
+<co c="0"><na f="s/Satrawala:A=_N=" pid="67/5512">A. N. Satrawala</na></co>
+<co c="5"><na f="s/Senthil:Arasu_T=" pid="82/6871">Arasu T. Senthil</na></co>
+<co c="0"><na f="s/Shaik:Reyaz" pid="03/7331">Reyaz Shaik</na></co>
+<co c="0"><na f="s/Sharda:Vishal" pid="32/4135">Vishal Sharda</na></co>
+<co c="4"><na f="s/Shrinivas:Gorur_N=" pid="32/3176">Gorur N. Shrinivas</na></co>
+<co c="0"><na f="s/Singapuram:Sanjay_S=" pid="177/3269">Sanjay S. Singapuram</na></co>
+<co c="0"><na f="s/Singh:Sandeep_B=" pid="03/4204">Sandeep B. Singh</na></co>
+<co c="0"><na f="s/Singla:Tarun" pid="207/7229">Tarun Singla</na></co>
+<co c="0"><na f="s/Sivanandan:Nalesh" pid="150/8286">Nalesh Sivanandan</na></co>
+<co c="0"><na f="s/Srinivas:Deepti" pid="38/5781">Deepti Srinivas</na></co>
+<co c="0"><na f="s/Srinivasan:Deepti" pid="79/2025">Deepti Srinivasan</na></co>
+<co c="0"><na f="s/Sural:Shamik" pid="67/3314">Shamik Sural</na></co>
+<co c="1"><na f="s/Surendra:G=" pid="54/3084">G. Surendra</na></co>
+<co c="0"><na f="u/Udupa:Pramod_P=" pid="25/9350">Pramod P. Udupa</na></co>
+<co c="0"><na f="v/V:Sainath" pid="69/7330">Sainath V</na></co>
+<co c="0"><na f="v/Varadarajan:Keshavan" pid="96/1796">Keshavan Varadarajan</na></co>
+<co c="0"><na f="v/Vatwani:Kapil" pid="119/8506">Kapil Vatwani</na></co>
+<co c="0"><na f="v/Vatwani:Tarun" pid="177/6048">Tarun Vatwani</na></co>
+<co c="0"><na f="v/Verma:Tanmay" pid="126/2504">Tanmay Verma</na></co>
+<co c="0"><na f="v/Visvanathan:V=" pid="31/3244">V. Visvanathan</na></co>
+</coauthors>
+</dblpperson>
+

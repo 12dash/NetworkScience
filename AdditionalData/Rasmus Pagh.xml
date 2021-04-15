@@ -1,3 +1,2534 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c98e1ebc4cf698e0ee125fb182847f74caa63f8594066e89f24b66b41f7169bd
-size 109938
+<?xml version="1.0"?>
+<dblpperson name="Rasmus Pagh" pid="p/RasmusPagh" n="181">
+<person key="homepages/p/RasmusPagh" mdate="2021-03-28">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<note type="affiliation">IT University of Copenhagen, Denmark</note>
+<url>http://www.itu.dk/people/pagh/</url>
+<url>https://twitter.com/rasmuspagh1</url>
+<url>https://orcid.org/0000-0002-1516-9306</url>
+<url>https://www.wikidata.org/entity/Q60299811</url>
+<url>https://mathgenealogy.org/id.php?id=124803</url>
+</person>
+<r><inproceedings key="conf/icdt/PaghS21" mdate="2021-03-11">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="244/2259">Nina Mesing Stausholm</author>
+<title>Efficient Differentially Private F&#8320; Linear Sketching.</title>
+<pages>18:1-18:19</pages>
+<year>2021</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2021.18</ee>
+<crossref>conf/icdt/2021</crossref>
+<url>db/conf/icdt/icdt2021.html#PaghS21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-10905" mdate="2021-01-31">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="h/SarielHarPeled">Sariel Har-Peled</author>
+<author pid="130/0388">Sepideh Mahabadi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>Sampling a Near Neighbor in High Dimensions - Who is the Fairest of Them All?</title>
+<year>2021</year>
+<volume>abs/2101.10905</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.10905</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-10905</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-02193" mdate="2021-02-09">
+<author pid="07/6242">Kasper Green Larsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="211/6738">Jakub Tetek</author>
+<title>CountSketches, Feature Hashing and the Median of Three.</title>
+<year>2021</year>
+<volume>abs/2102.02193</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.02193</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-02193</url>
+</article>
+</r>
+<r><article key="journals/dase/TabeiYP20" mdate="2020-09-01">
+<author orcid="0000-0003-2368-5607" pid="38/1958">Yasuo Tabei</author>
+<author pid="87/1818">Yoshihiro Yamanishi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Space-Efficient Feature Maps for String Alignment Kernels.</title>
+<pages>168-179</pages>
+<year>2020</year>
+<volume>5</volume>
+<journal>Data Sci. Eng.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s41019-020-00120-6</ee>
+<url>db/journals/dase/dase5.html#TabeiYP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurocrypt/GhaziMPV20" mdate="2020-05-04">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="133/2059">Pasin Manurangsi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>Private Aggregation from Fewer Anonymous Messages.</title>
+<pages>798-827</pages>
+<year>2020</year>
+<booktitle>EUROCRYPT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45724-2_27</ee>
+<crossref>conf/eurocrypt/2020-2</crossref>
+<url>db/conf/eurocrypt/eurocrypt2020-2.html#GhaziMPV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/PaghS20" mdate="2020-03-19">
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-3226-4209" pid="169/1167">Johan Sivertsen</author>
+<title>The Space Complexity of Inner Product Filters.</title>
+<pages>22:1-22:14</pages>
+<year>2020</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2020.22</ee>
+<crossref>conf/icdt/2020</crossref>
+<url>db/conf/icdt/icdt2020.html#PaghS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icits/GhaziGKMPV20" mdate="2020-08-15">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="150/1861">Noah Golowich</author>
+<author pid="k/RaviKumar">Ravi Kumar 0001</author>
+<author pid="133/2059">Pasin Manurangsi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>Pure Differentially Private Summation from Anonymous Messages.</title>
+<pages>15:1-15:23</pages>
+<year>2020</year>
+<booktitle>ITC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ITC.2020.15</ee>
+<crossref>conf/icits/2020</crossref>
+<url>db/conf/icits/itc2020.html#GhaziGKMPV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/CohenGP20" mdate="2020-12-15">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="154/6642">Ofir Geri</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Composable Sketches for Functions of Frequencies: Beyond the Worst Case.</title>
+<pages>2057-2067</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/cohen20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#CohenGP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Ghazi0MP20" mdate="2020-12-15">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="k/RaviKumar">Ravi Kumar 0001</author>
+<author pid="133/2059">Pasin Manurangsi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Private Counting from Anonymous Messages: Near-Optimal Accuracy with Vanishing Communication Overhead.</title>
+<pages>3505-3514</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/ghazi20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Ghazi0MP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/CohenPW20" mdate="2021-01-19">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<title>WOR and <i>p</i>'s: Sketches for &#8467;<sub>p</sub>-Sampling Without Replacement.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/f1507aba9fc82ffa7cc7373c58f8a613-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#CohenPW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/0001P020" mdate="2020-06-05">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>Fair Near Neighbor Search: Independent Range Sampling in High Dimensions.</title>
+<pages>191-204</pages>
+<year>2020</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3375395.3387648</ee>
+<crossref>conf/pods/2020</crossref>
+<url>db/conf/pods/pods2020.html#0001P020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/GoswamiJP20" mdate="2020-09-28">
+<author pid="90/9661">Mayank Goswami 0001</author>
+<author pid="27/2539">Riko Jacob</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On the I/O Complexity of the k-Nearest Neighbors Problem.</title>
+<pages>205-212</pages>
+<year>2020</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3375395.3387649</ee>
+<crossref>conf/pods/2020</crossref>
+<url>db/conf/pods/pods2020.html#GoswamiJP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/ChristianiPT20" mdate="2020-11-14">
+<author orcid="0000-0002-3629-1562" pid="150/6192">Tobias Christiani</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0001-5237-1709" pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>Confirmation Sampling for Exact Nearest Neighbor Search.</title>
+<pages>97-110</pages>
+<year>2020</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60936-8_8</ee>
+<crossref>conf/sisap/2020</crossref>
+<url>db/conf/sisap/sisap2020.html#ChristianiPT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/AhleKKPVWZ20" mdate="2020-01-31">
+<author pid="169/9933">Thomas D. Ahle</author>
+<author pid="76/6407">Michael Kapralov</author>
+<author pid="236/4491">Jakob B&#230;k Tejs Knudsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<author pid="154/6494">Amir Zandieh</author>
+<title>Oblivious Sketching of High-Degree Polynomial Kernels.</title>
+<pages>141-160</pages>
+<year>2020</year>
+<booktitle>SODA</booktitle>
+<ee>https://doi.org/10.1137/1.9781611975994.9</ee>
+<crossref>conf/soda/2020</crossref>
+<url>db/conf/soda/soda2020.html#AhleKKPVWZ20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sisap/2020" mdate="2020-10-23">
+<editor pid="50/290">Shin'ichi Satoh</editor>
+<editor orcid="0000-0001-7182-7038" pid="152/1401">Lucia Vadicamo</editor>
+<editor orcid="0000-0001-7713-4208" pid="27/4179">Arthur Zimek</editor>
+<editor orcid="0000-0001-5014-5089" pid="167/9297">Fabio Carrara</editor>
+<editor orcid="0000-0002-8074-1129" pid="b/IlariaBartolini">Ilaria Bartolini</editor>
+<editor orcid="0000-0002-7212-6476" pid="26/2051">Martin Aum&#252;ller 0001</editor>
+<editor orcid="0000-0003-0889-3491" pid="j/BjornTorJonsson1">Bj&#246;rn &#222;&#243;r J&#243;nsson 0001</editor>
+<editor orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</editor>
+<title>Similarity Search and Applications - 13th International Conference, SISAP 2020, Copenhagen, Denmark, September 30 - October 2, 2020, Proceedings</title>
+<booktitle>SISAP</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12440</volume>
+<isbn>978-3-030-60935-1</isbn>
+<isbn>978-3-030-60936-8</isbn>
+<ee>https://doi.org/10.1007/978-3-030-60936-8</ee>
+<url>db/conf/sisap/sisap2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-11932" mdate="2020-02-03">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="244/2259">Nina Mesing Stausholm</author>
+<title>Efficient Differentially Private F<sub>0</sub> Linear Sketching.</title>
+<year>2020</year>
+<volume>abs/2001.11932</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.11932</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-11932</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-01919" mdate="2020-08-15">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="150/1861">Noah Golowich</author>
+<author pid="k/RaviKumar">Ravi Kumar 0001</author>
+<author pid="133/2059">Pasin Manurangsi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>Pure Differentially Private Summation from Anonymous Messages.</title>
+<year>2020</year>
+<volume>abs/2002.01919</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.01919</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-01919</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-04870" mdate="2020-09-28">
+<author pid="90/9661">Mayank Goswami 0001</author>
+<author pid="27/2539">Riko Jacob</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On the I/O complexity of the k-nearest neighbor problem.</title>
+<year>2020</year>
+<volume>abs/2002.04870</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.04870</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-04870</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-04772" mdate="2020-04-14">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="154/6642">Ofir Geri</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Composable Sketches for Functions of Frequencies: Beyond the Worst Case.</title>
+<year>2020</year>
+<volume>abs/2004.04772</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.04772</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-04772</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-06744" mdate="2020-07-21">
+<author pid="40/1039">Edith Cohen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<title>WOR and p's: Sketches for &#120001;<sub>p</sub>-Sampling Without Replacement.</title>
+<year>2020</year>
+<volume>abs/2007.06744</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.06744</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-06744</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/0001CPV19" mdate="2019-09-23">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="150/6192">Tobias Christiani</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="243/7223">Michael Vesterli</author>
+<title>PUFFINN: Parameterless and Universally Fast FInding of Nearest Neighbors.</title>
+<pages>10:1-10:16</pages>
+<year>2019</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2019.10</ee>
+<crossref>conf/esa/2019</crossref>
+<url>db/conf/esa/esa2019.html#0001CPV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/PaghST19" mdate="2019-09-23">
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-4322-7163" pid="244/2259">Nina Mesing Stausholm</author>
+<author orcid="0000-0001-5237-1709" pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>Hardness of Bichromatic Closest Pair with Jaccard Similarity.</title>
+<pages>74:1-74:13</pages>
+<year>2019</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2019.74</ee>
+<crossref>conf/esa/2019</crossref>
+<url>db/conf/esa/esa2019.html#PaghST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/TabeiYP19" mdate="2020-02-03">
+<author pid="38/1958">Yasuo Tabei</author>
+<author pid="87/1818">Yoshihiro Yamanishi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Space-Efficient Feature Maps for String Alignment Kernels.</title>
+<pages>1312-1317</pages>
+<year>2019</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2019.00166</ee>
+<crossref>conf/icdm/2019</crossref>
+<url>db/conf/icdm/icdm2019.html#TabeiYP19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/Pagh19" mdate="2019-02-14">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Similarity Sketching.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_58-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#Pagh19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-01859" mdate="2019-06-13">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>Fair Near Neighbor Search: Independent Range Sampling in High Dimensions.</title>
+<year>2019</year>
+<volume>abs/1906.01859</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.01859</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-01859</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-08320" mdate="2019-06-24">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>Scalable and Differentially Private Distributed Aggregation in the Shuffled Model.</title>
+<year>2019</year>
+<volume>abs/1906.08320</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.08320</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-08320</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-12211" mdate="2019-07-01">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="243/7223">Michael Vesterli</author>
+<title>PUFFINN: Parameterless and Universally Fast FInding of Nearest Neighbors.</title>
+<year>2019</year>
+<volume>abs/1906.12211</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.12211</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-12211</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-02251" mdate="2019-07-08">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="244/2259">Nina Stausholm</author>
+<author pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>Hardness of Bichromatic Closest Pair with Jaccard Similarity.</title>
+<year>2019</year>
+<volume>abs/1907.02251</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.02251</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-02251</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-11358" mdate="2020-08-15">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="150/1861">Noah Golowich</author>
+<author pid="k/RaviKumar">Ravi Kumar 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>Private Heavy Hitters and Range Queries in the Shuffled Model.</title>
+<year>2019</year>
+<volume>abs/1908.11358</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.11358</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-11358</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-01410" mdate="2021-01-23">
+<author pid="76/6407">Michael Kapralov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<author orcid="0000-0002-1294-9390" pid="154/6494">Amir Zandieh</author>
+<title>Oblivious Sketching of High-Degree Polynomial Kernels.</title>
+<year>2019</year>
+<volume>abs/1909.01410</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.01410</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-01410</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-10766" mdate="2019-09-27">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<title>The space complexity of inner product filters.</title>
+<year>2019</year>
+<volume>abs/1909.10766</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.10766</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-10766</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-11073" mdate="2019-09-27">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="133/2059">Pasin Manurangsi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>Private Aggregation from Fewer Anonymous Messages.</title>
+<year>2019</year>
+<volume>abs/1909.11073</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.11073</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-11073</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GhaziGKPV19" mdate="2020-08-15">
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="150/1861">Noah Golowich</author>
+<author pid="k/RaviKumar">Ravi Kumar 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="117/3666">Ameya Velingker</author>
+<title>On the Power of Multiple Anonymous Messages.</title>
+<pages>1382</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1382</ee>
+<url>db/journals/iacr/iacr2019.html#GhaziGKPV19</url>
+</article>
+</r>
+<r><article key="journals/dc/MitzenmacherP18" mdate="2020-03-13">
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Simple multi-party set reconciliation.</title>
+<pages>441-453</pages>
+<year>2018</year>
+<volume>31</volume>
+<journal>Distributed Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00446-017-0316-0</ee>
+<url>db/journals/dc/dc31.html#MitzenmacherP18</url>
+</article>
+</r>
+<r><article key="journals/talg/Pagh18" mdate="2018-11-21">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>CoveringLSH: Locality-Sensitive Hashing without False Negatives.</title>
+<pages>29:1-29:17</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3155300</ee>
+<url>db/journals/talg/talg14.html#Pagh18</url>
+</article>
+</r>
+<r><article key="journals/tkdd/ParkSPCMK18" mdate="2020-04-16">
+<author pid="136/7860">Ha-Myung Park</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="c/ChinWanChung">Chin-Wan Chung</author>
+<author pid="50/3334">Sung-Hyon Myaeng</author>
+<author pid="13/7122">U Kang</author>
+<title>Enumerating Trillion Subgraphs On Distributed Systems.</title>
+<pages>71:1-71:30</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3237191</ee>
+<url>db/journals/tkdd/tkdd12.html#ParkSPCMK18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChristianiPS18" mdate="2018-11-20">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<title>Scalable and Robust Set Similarity Join.</title>
+<pages>1240-1243</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00120</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ChristianiPS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/McCauleyMP18" mdate="2018-11-21">
+<author pid="09/11461">Samuel McCauley</author>
+<author pid="146/0522">Jesper W. Mikkelsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Set Similarity Search for Skewed Data.</title>
+<pages>63-74</pages>
+<year>2018</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3196959.3196985</ee>
+<crossref>conf/pods/2018</crossref>
+<url>db/conf/pods/pods2018.html#McCauleyMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/0001CP018" mdate="2019-09-25">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>Distance-Sensitive Hashing.</title>
+<pages>89-104</pages>
+<year>2018</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3196959.3196976</ee>
+<crossref>conf/pods/2018</crossref>
+<url>db/conf/pods/pods2018.html#0001CP018</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/alenex/2018" mdate="2018-01-04">
+<editor pid="p/RasmusPagh">Rasmus Pagh</editor>
+<editor pid="12/4662">Suresh Venkatasubramanian</editor>
+<title>Proceedings of the Twentieth Workshop on Algorithm Engineering and Experiments, ALENEX 2018, New Orleans, LA, USA, January 7-8, 2018.</title>
+<booktitle>ALENEX</booktitle>
+<publisher>SIAM</publisher>
+<year>2018</year>
+<isbn>978-1-61197-505-5</isbn>
+<ee>https://doi.org/10.1137/1.9781611975055</ee>
+<url>db/conf/alenex/alenex2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-06382" mdate="2018-08-13">
+<author pid="38/1958">Yasuo Tabei</author>
+<author pid="87/1818">Yoshihiro Yamanishi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Scalable Alignment Kernels via Space-Efficient Feature Maps.</title>
+<year>2018</year>
+<volume>abs/1802.06382</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.06382</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-06382</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-03054" mdate="2018-08-13">
+<author pid="09/11461">Samuel McCauley</author>
+<author pid="146/0522">Jesper W. Mikkelsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Set Similarity Search for Skewed Data.</title>
+<year>2018</year>
+<volume>abs/1804.03054</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.03054</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-03054</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-04720" mdate="2018-08-13">
+<author pid="70/4285">Djamal Belazzougui</author>
+<author pid="71/3661">Paolo Boldi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="27/6106">Sebastiano Vigna</author>
+<title>Fast Prefix Search in Little Space, with Applications.</title>
+<year>2018</year>
+<volume>abs/1804.04720</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.04720</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-04720</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-02603" mdate="2019-01-01">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>Confirmation Sampling for Exact Nearest Neighbor Search.</title>
+<year>2018</year>
+<volume>abs/1812.02603</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.02603</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-02603</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/PaghPSS17" mdate="2019-10-19">
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0001-5768-9900" pid="84/9841">Ninh Pham</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<title>I/O-Efficient Similarity Join.</title>
+<pages>1263-1283</pages>
+<year>2017</year>
+<volume>78</volume>
+<journal>Algorithmica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00453-017-0285-5</ee>
+<url>db/journals/algorithmica/algorithmica78.html#PaghPSS17</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/GasieniecLLPT17" mdate="2019-06-02">
+<author pid="g/LeszekGasieniec">Leszek Gasieniec</author>
+<author orcid="0000-0003-0983-7862" pid="55/673">Christos Levcopoulos</author>
+<author pid="l/AndrzejLingas">Andrzej Lingas</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="89/1729">Takeshi Tokuyama</author>
+<title>Efficiently Correcting Matrix Products.</title>
+<pages>428-443</pages>
+<year>2017</year>
+<volume>79</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00453-016-0202-3</ee>
+<ee>https://www.wikidata.org/entity/Q59607292</ee>
+<url>db/journals/algorithmica/algorithmica79.html#GasieniecLLPT17</url>
+</article>
+</r>
+<r><article key="journals/is/PaghSSS17" mdate="2019-09-25">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<author pid="38/684">Matthew Skala</author>
+<title>Approximate furthest neighbor with application to annulus query.</title>
+<pages>152-162</pages>
+<year>2017</year>
+<volume>64</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2016.07.006</ee>
+<url>db/journals/is/is64.html#PaghSSS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/isaac/GudmundssonP17" mdate="2019-10-19">
+<author orcid="0000-0002-6778-7990" pid="55/5525">Joachim Gudmundsson</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Range-Efficient Consistent Sampling and Locality-Sensitive Hashing for Polygons.</title>
+<pages>42:1-42:13</pages>
+<year>2017</year>
+<booktitle>ISAAC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ISAAC.2017.42</ee>
+<crossref>conf/isaac/2017</crossref>
+<url>db/conf/isaac/isaac2017.html#GudmundssonP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/Pagh17" mdate="2018-08-23">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Hardness and Approximation of High-Dimensional Search Problems (Invited Talk).</title>
+<pages>83:1-83:1</pages>
+<year>2017</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2017.83</ee>
+<crossref>conf/mfcs/2017</crossref>
+<url>db/conf/mfcs/mfcs2017.html#Pagh17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/AhleAP17" mdate="2021-02-02">
+<author pid="169/9933">Thomas D. Ahle</author>
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Parameter-free Locality Sensitive Hashing for Spherical Range Reporting.</title>
+<pages>239-256</pages>
+<year>2017</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611974782.16</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3039702</ee>
+<crossref>conf/soda/2017</crossref>
+<url>db/conf/soda/soda2017.html#AhleAP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/GoswamiP0S17" mdate="2021-02-02">
+<author pid="90/9661">Mayank Goswami 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<title>Distance Sensitive Bloom Filters Without False Negatives.</title>
+<pages>257-269</pages>
+<year>2017</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611974782.17</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3039703</ee>
+<crossref>conf/soda/2017</crossref>
+<url>db/conf/soda/soda2017.html#GoswamiP0S17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/ChristianiP17" mdate="2018-11-06">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Set similarity search beyond MinHash.</title>
+<pages>1094-1107</pages>
+<year>2017</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/3055399.3055443</ee>
+<crossref>conf/stoc/2017</crossref>
+<url>db/conf/stoc/stoc2017.html#ChristianiP17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GudmundssonP17" mdate="2018-08-13">
+<author pid="55/5525">Joachim Gudmundsson</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Range-efficient consistent sampling and locality-sensitive hashing for polygons.</title>
+<year>2017</year>
+<volume>abs/1701.05290</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.05290</ee>
+<url>db/journals/corr/corr1701.html#GudmundssonP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AumullerCP017" mdate="2018-08-13">
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>Distance-sensitive hashing.</title>
+<year>2017</year>
+<volume>abs/1703.07867</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.07867</ee>
+<url>db/journals/corr/corr1703.html#AumullerCP017</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChristianiPS17" mdate="2018-08-13">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<title>Scalable and robust set similarity join.</title>
+<year>2017</year>
+<volume>abs/1707.06814</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.06814</ee>
+<url>db/journals/corr/corr1707.html#ChristianiPS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/DietzfelbingerM17" mdate="2017-12-19">
+<author pid="d/MartinDietzfelbinger">Martin Dietzfelbinger</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<title>Theory and Applications of Hashing (Dagstuhl Seminar 17181).</title>
+<pages>1-21</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Dagstuhl Reports</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.7.5.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports7.html#DietzfelbingerM17</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/BulteauFKP16" mdate="2017-06-05">
+<author pid="29/7591">Laurent Bulteau</author>
+<author pid="133/1147">Vincent Froese</author>
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Triangle Counting in Dynamic Graph Streams.</title>
+<pages>259-278</pages>
+<year>2016</year>
+<volume>76</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00453-015-0036-4</ee>
+<url>db/journals/algorithmica/algorithmica76.html#BulteauFKP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/PhamP16" mdate="2019-10-19">
+<author orcid="0000-0001-5768-9900" pid="84/9841">Ninh Pham</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Scalability and Total Recall with Fast CoveringLSH.</title>
+<pages>1109-1118</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983742</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#PhamP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AhlePR016" mdate="2019-09-25">
+<author pid="169/9933">Thomas Dybdahl Ahle</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="10/7611">Ilya P. Razenshteyn</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>On the Complexity of Inner Product Similarity Join.</title>
+<pages>151-164</pages>
+<year>2016</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2902251.2902285</ee>
+<crossref>conf/pods/2016</crossref>
+<url>db/conf/pods/pods2016.html#AhlePR016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Pagh16" mdate="2021-02-02">
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Locality-sensitive Hashing without False Negatives.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611974331.ch1</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2884436</ee>
+<crossref>conf/soda/2016</crossref>
+<url>db/conf/soda/soda2016.html#Pagh16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/swat/2016" mdate="2020-02-11">
+<editor pid="p/RasmusPagh">Rasmus Pagh</editor>
+<title>15th Scandinavian Symposium and Workshops on Algorithm Theory, SWAT 2016, June 22-24, 2016, Reykjavik, Iceland</title>
+<booktitle>SWAT</booktitle>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik</publisher>
+<series href="db/series/lipics/index.html">LIPIcs</series>
+<volume>53</volume>
+<year>2016</year>
+<isbn>978-3-95977-011-8</isbn>
+<ee type="oa">http://www.dagstuhl.de/dagpub/978-3-95977-011-8</ee>
+<url>db/conf/swat/swat2016.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Pagh16" mdate="2017-07-12">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Cuckoo Hashing.</title>
+<pages>478-481</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_97</ee>
+<url>db/reference/algo/algo2016.html#Pagh16</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/GasieniecLLPT16" mdate="2018-08-13">
+<author pid="g/LeszekGasieniec">Leszek Gasieniec</author>
+<author pid="55/673">Christos Levcopoulos</author>
+<author pid="l/AndrzejLingas">Andrzej Lingas</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="89/1729">Takeshi Tokuyama</author>
+<title>Efficiently Correcting Matrix Products.</title>
+<year>2016</year>
+<volume>abs/1602.00435</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.00435</ee>
+<url>db/journals/corr/corr1602.html#GasieniecLLPT16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PhamP16" mdate="2018-08-13">
+<author pid="84/9841">Ninh Pham</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Scalability and Total Recall with Fast CoveringLSH.</title>
+<year>2016</year>
+<volume>abs/1602.02620</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.02620</ee>
+<url>db/journals/corr/corr1602.html#PhamP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AhleAP16" mdate="2018-08-13">
+<author pid="169/9933">Thomas D. Ahle</author>
+<author pid="26/2051">Martin Aum&#252;ller 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>High-dimensional Spherical Range Reporting by Output-Sensitive Multi-Probing LSH.</title>
+<year>2016</year>
+<volume>abs/1605.02673</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.02673</ee>
+<url>db/journals/corr/corr1605.html#AhleAP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GoswamiP0S16" mdate="2020-09-28">
+<author pid="90/9661">Mayank Goswami 0001</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<title>Distance Sensitive Bloom Filters Without False Negatives.</title>
+<year>2016</year>
+<volume>abs/1607.05451</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.05451</ee>
+<url>db/journals/corr/corr1607.html#GoswamiP0S16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Pagh0SS16" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<author pid="38/684">Matthew Skala</author>
+<title>Approximate Furthest Neighbor with Application to Annulus Query.</title>
+<year>2016</year>
+<volume>abs/1611.07303</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.07303</ee>
+<url>db/journals/corr/corr1611.html#Pagh0SS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChristianiP16" mdate="2018-08-13">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Set Similarity Search Beyond MinHash.</title>
+<year>2016</year>
+<volume>abs/1612.07710</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.07710</ee>
+<url>db/journals/corr/corr1612.html#ChristianiP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/PaghPSS15" mdate="2019-10-19">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0001-5768-9900" pid="84/9841">Ninh Pham</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<title>I/O-Efficient Similarity Join.</title>
+<pages>941-952</pages>
+<year>2015</year>
+<booktitle>ESA</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-48350-3_78</ee>
+<crossref>conf/esa/2015</crossref>
+<url>db/conf/esa/esa2015.html#PaghPSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Pagh15" mdate="2018-08-23">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Large-Scale Similarity Joins With Guarantees (Invited Talk).</title>
+<pages>15-24</pages>
+<year>2015</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2015.15</ee>
+<crossref>conf/icdt/2015</crossref>
+<url>db/conf/icdt/icdt2015.html#Pagh15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/PaghSSS15" mdate="2017-06-05">
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="169/1167">Johan Sivertsen</author>
+<author pid="38/684">Matthew Skala</author>
+<title>Approximate Furthest Neighbor in High Dimensions.</title>
+<pages>3-14</pages>
+<year>2015</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25087-8_1</ee>
+<crossref>conf/sisap/2015</crossref>
+<url>db/conf/sisap/sisap2015.html#PaghSSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/GoswamiJLP15" mdate="2021-02-02">
+<author pid="90/9661">Mayank Goswami 0001</author>
+<author pid="48/481">Allan Gr&#248;nlund J&#248;rgensen</author>
+<author pid="07/6242">Kasper Green Larsen</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Approximate Range Emptiness in Constant Time and Optimal Space.</title>
+<pages>769-775</pages>
+<year>2015</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973730.52</ee>
+<crossref>conf/soda/2015</crossref>
+<url>db/conf/soda/soda2015.html#GoswamiJLP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/ChristianiPT15" mdate="2018-11-06">
+<author pid="150/6192">Tobias Christiani</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0001-5237-1709" pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>From Independence to Expansion and Back Again.</title>
+<pages>813-820</pages>
+<year>2015</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/2746539.2746620</ee>
+<crossref>conf/stoc/2015</crossref>
+<url>db/conf/stoc/stoc2015.html#ChristianiPT15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PaghS15" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<title>Association Rule Mining using Maximum Entropy.</title>
+<year>2015</year>
+<volume>abs/1501.02143</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1501.02143</ee>
+<url>db/journals/corr/corr1501.html#PaghS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChristianiPT15" mdate="2018-08-13">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>From Independence to Expansion and Back Again.</title>
+<year>2015</year>
+<volume>abs/1506.03676</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.03676</ee>
+<url>db/journals/corr/corr1506.html#ChristianiPT15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PaghPSS15" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="84/9841">Ninh Pham</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<title>I/O-Efficient Similarity Join.</title>
+<year>2015</year>
+<volume>abs/1507.00552</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.00552</ee>
+<url>db/journals/corr/corr1507.html#PaghPSS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Pagh15" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Locality-sensitive Hashing without False Negatives.</title>
+<year>2015</year>
+<volume>abs/1507.03225</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.03225</ee>
+<url>db/journals/corr/corr1507.html#Pagh15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AhlePR015" mdate="2018-08-13">
+<author pid="169/9933">Thomas D. Ahle</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="10/7611">Ilya P. Razenshteyn</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>On the Complexity of Inner Product Similarity Join.</title>
+<year>2015</year>
+<volume>abs/1510.02824</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.02824</ee>
+<url>db/journals/corr/corr1510.html#AhlePR015</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/LohP14" mdate="2020-12-29">
+<author orcid="0000-0002-0777-0644" pid="49/6062">Po-Shen Loh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Thresholds for Extreme Orientability.</title>
+<pages>522-539</pages>
+<year>2014</year>
+<volume>69</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-013-9749-4</ee>
+<url>db/journals/algorithmica/algorithmica69.html#LohP14</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/AmossenCP14" mdate="2017-05-17">
+<author pid="70/5743">Rasmus Resen Amossen</author>
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Better Size Estimation for Sparse Matrix Products.</title>
+<pages>741-757</pages>
+<year>2014</year>
+<volume>69</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-012-9692-9</ee>
+<url>db/journals/algorithmica/algorithmica69.html#AmossenCP14</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/PaghWYZ14" mdate="2019-05-21">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="45/47-1">Qin Zhang 0001</author>
+<title>Cache-Oblivious Hashing.</title>
+<pages>864-883</pages>
+<year>2014</year>
+<volume>69</volume>
+<journal>Algorithmica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00453-013-9763-6</ee>
+<url>db/journals/algorithmica/algorithmica69.html#PaghWYZ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ParkSKP14" mdate="2019-09-24">
+<author pid="136/7860">Ha-Myung Park</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<author pid="13/7122">U Kang</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>MapReduce Triangle Enumeration With Guarantees.</title>
+<pages>1739-1748</pages>
+<year>2014</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2661829.2662017</ee>
+<crossref>conf/cikm/2014</crossref>
+<url>db/conf/cikm/cikm2014.html#ParkSKP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/PaghS14" mdate="2017-05-26">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<title>The Input/Output Complexity of Sparse Matrix Multiplication.</title>
+<pages>750-761</pages>
+<year>2014</year>
+<booktitle>ESA</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-44777-2_62</ee>
+<crossref>conf/esa/2014</crossref>
+<url>db/conf/esa/esa2014.html#PaghS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/ChristianiP14" mdate="2017-05-19">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Generating k-Independent Variables in Constant Time.</title>
+<pages>196-205</pages>
+<year>2014</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2014.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOCS.2014.29</ee>
+<crossref>conf/focs/2014</crossref>
+<url>db/conf/focs/focs2014.html#ChristianiP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/BjorklundPWZ14" mdate="2019-06-02">
+<author pid="28/6676">Andreas Bj&#246;rklund</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="63/8319">Virginia Vassilevska Williams</author>
+<author orcid="0000-0002-7638-7710" pid="z/UriZwick">Uri Zwick</author>
+<title>Listing Triangles.</title>
+<pages>223-234</pages>
+<year>2014</year>
+<booktitle>ICALP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-43948-7_19</ee>
+<ee>https://www.wikidata.org/entity/Q60299131</ee>
+<crossref>conf/icalp/2014-1</crossref>
+<url>db/conf/icalp/icalp2014-1.html#BjorklundPWZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/PaghSW14" mdate="2018-11-06">
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<author pid="w/DPWoodruff">David P. Woodruff</author>
+<title>Is min-wise hashing optimal for summarizing set intersection?</title>
+<pages>109-120</pages>
+<year>2014</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2594538.2594554</ee>
+<crossref>conf/pods/2014</crossref>
+<url>db/conf/pods/pods2014.html#PaghSW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/PaghS14" mdate="2018-11-06">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-9077-9921" pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>The input/output complexity of triangle enumeration.</title>
+<pages>224-233</pages>
+<year>2014</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2594538.2594552</ee>
+<crossref>conf/pods/2014</crossref>
+<url>db/conf/pods/pods2014.html#PaghS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/KutzkovP14" mdate="2017-06-05">
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Consistent Subset Sampling.</title>
+<pages>294-305</pages>
+<year>2014</year>
+<booktitle>SWAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08404-6_26</ee>
+<crossref>conf/swat/2014</crossref>
+<url>db/conf/swat/swat2014.html#KutzkovP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/KutzkovP14a" mdate="2017-05-23">
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Triangle Counting in Dynamic Graph Streams.</title>
+<pages>306-318</pages>
+<year>2014</year>
+<booktitle>SWAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08404-6_27</ee>
+<crossref>conf/swat/2014</crossref>
+<url>db/conf/swat/swat2014.html#KutzkovP14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MitzenmacherPP14" mdate="2019-10-19">
+<author pid="74/838">Michael Mitzenmacher</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0001-5768-9900" pid="84/9841">Ninh Pham</author>
+<title>Efficient estimation for high similarities using odd sketches.</title>
+<pages>109-118</pages>
+<year>2014</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2566486.2568017</ee>
+<crossref>conf/www/2014</crossref>
+<url>db/conf/www/www2014.html#MitzenmacherPP14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PaghS14" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="29/11004">Morten St&#246;ckel</author>
+<title>The Input/Output Complexity of Sparse Matrix Multiplication.</title>
+<year>2014</year>
+<volume>abs/1403.3551</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.3551</ee>
+<url>db/journals/corr/corr1403.html#PaghS14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KutzkovP14" mdate="2018-08-13">
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Consistent Subset Sampling.</title>
+<year>2014</year>
+<volume>abs/1404.4693</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.4693</ee>
+<url>db/journals/corr/corr1404.html#KutzkovP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KutzkovP14a" mdate="2018-08-13">
+<author pid="29/7591">Laurent Bulteau</author>
+<author pid="133/1147">Vincent Froese</author>
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Triangle counting in dynamic graph streams.</title>
+<year>2014</year>
+<volume>abs/1404.4696</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.4696</ee>
+<url>db/journals/corr/corr1404.html#KutzkovP14a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GoswamiJLP14" mdate="2020-09-28">
+<author pid="90/9661">Mayank Goswami 0001</author>
+<author pid="48/481">Allan Gr&#248;nlund J&#248;rgensen</author>
+<author pid="07/6242">Kasper Green Larsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Approximate Range Emptiness in Constant Time and Optimal Space.</title>
+<year>2014</year>
+<volume>abs/1407.2907</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.2907</ee>
+<url>db/journals/corr/corr1407.html#GoswamiJLP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChristianiP14" mdate="2018-08-13">
+<author pid="150/6192">Tobias Christiani</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Generating k-independent variables in constant time.</title>
+<year>2014</year>
+<volume>abs/1408.2157</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.2157</ee>
+<url>db/journals/corr/corr1408.html#ChristianiP14</url>
+</article>
+</r>
+<r><article key="journals/is/BotelhoPZ13" mdate="2017-05-20">
+<author pid="04/646">Fabiano C. Botelho</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="z/NZiviani">Nivio Ziviani</author>
+<title>Practical perfect hashing in nearly optimal space.</title>
+<pages>108-131</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.is.2012.06.002</ee>
+<url>db/journals/is/is38.html#BotelhoPZ13</url>
+</article>
+</r>
+<r><article key="journals/toct/Pagh13" mdate="2020-06-08">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Compressed matrix multiplication.</title>
+<pages>9:1-9:17</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>ACM Trans. Comput. Theory</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2493252.2493254</ee>
+<url>db/journals/toct/toct5.html#Pagh13</url>
+</article>
+</r>
+<r><inproceedings key="conf/alenex/CampagnaKP13" mdate="2017-05-19">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On parallelizing matrix multiplication by the column-row method.</title>
+<pages>122-132</pages>
+<year>2013</year>
+<booktitle>ALENEX</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972931.11</ee>
+<crossref>conf/alenex/2013</crossref>
+<url>db/conf/alenex/alenex2013.html#CampagnaKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/PaghSW13" mdate="2019-06-16">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="s/GilSegev">Gil Segev 0001</author>
+<author pid="w/UdiWieder">Udi Wieder</author>
+<title>How to Approximate a Set without Knowing Its Size in Advance.</title>
+<pages>80-89</pages>
+<year>2013</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2013.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOCS.2013.17</ee>
+<crossref>conf/focs/2013</crossref>
+<url>db/conf/focs/focs2013.html#PaghSW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/PhamP13" mdate="2019-10-19">
+<author orcid="0000-0001-5768-9900" pid="84/9841">Ninh Pham</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Fast and scalable polynomial kernels via explicit feature maps.</title>
+<pages>239-247</pages>
+<year>2013</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2487575.2487591</ee>
+<crossref>conf/kdd/2013</crossref>
+<url>db/conf/kdd/kdd2013.html#PhamP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/KutzkovP13" mdate="2018-11-06">
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On the streaming complexity of computing local clustering coefficients.</title>
+<pages>677-686</pages>
+<year>2013</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2433396.2433480</ee>
+<crossref>conf/wsdm/2013</crossref>
+<url>db/conf/wsdm/wsdm2013.html#KutzkovP13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-1188" mdate="2019-06-16">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="s/GilSegev">Gil Segev 0001</author>
+<author pid="w/UdiWieder">Udi Wieder</author>
+<title>How to Approximate A Set Without Knowing Its Size In Advance</title>
+<ee type="oa">http://arxiv.org/abs/1304.1188</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.1188</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-1188</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MitzenmacherP13" mdate="2018-08-13">
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Simple Multi-Party Set Reconciliation.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1311.2037</ee>
+<volume>abs/1311.2037</volume>
+<url>db/journals/corr/corr1311.html#MitzenmacherP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PaghS13" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="02/6456-1">Francesco Silvestri 0001</author>
+<title>The Input/Output Complexity of Triangle Enumeration.</title>
+<year>2013</year>
+<volume>abs/1312.0723</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.0723</ee>
+<url>db/journals/corr/corr1312.html#PaghS13</url>
+</article>
+</r>
+<r><article key="journals/ipl/PaghT12" mdate="2017-05-26">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="29/5273">Charalampos E. Tsourakakis</author>
+<title>Colorful triangle counting and a MapReduce implementation.</title>
+<pages>277-281</pages>
+<year>2012</year>
+<volume>112</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.ipl.2011.12.007</ee>
+<url>db/journals/ipl/ipl112.html#PaghT12</url>
+</article>
+</r>
+<r><article key="journals/kais/CampagnaP12" mdate="2017-06-06">
+<author pid="38/7480">Andrea Campagna</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Finding associations and computing similarity via biased pair sampling.</title>
+<pages>505-526</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-011-0428-y</ee>
+<url>db/journals/kais/kais31.html#CampagnaP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/innovations/Pagh12" mdate="2018-11-06">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Compressed matrix multiplication.</title>
+<pages>442-451</pages>
+<year>2012</year>
+<booktitle>ITCS</booktitle>
+<ee>https://doi.org/10.1145/2090236.2090271</ee>
+<crossref>conf/innovations/2012</crossref>
+<url>db/conf/innovations/innovations2012.html#Pagh12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/PhamP12" mdate="2019-10-19">
+<author orcid="0000-0001-5768-9900" pid="84/9841">Ninh Pham</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>A near-linear time approximation algorithm for angle-based outlier detection in high-dimensional data.</title>
+<pages>877-885</pages>
+<year>2012</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2339530.2339669</ee>
+<crossref>conf/kdd/2012</crossref>
+<url>db/conf/kdd/kdd2012.html#PhamP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/LarsenP12" mdate="2021-02-02">
+<author pid="07/6242">Kasper Green Larsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>I/O-efficient data structures for colored range and prefix reporting.</title>
+<pages>583-592</pages>
+<year>2012</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973099.49</ee>
+<ee>https://dl.acm.org/citation.cfm?id=2095165</ee>
+<crossref>conf/soda/2012</crossref>
+<url>db/conf/soda/soda2012.html#LarsenP12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1202-1111" mdate="2018-08-13">
+<author pid="49/6062">Po-Shen Loh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Thresholds for Extreme Orientability</title>
+<ee type="oa">http://arxiv.org/abs/1202.1111</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1202.1111</volume>
+<url>db/journals/corr/corr1202.html#abs-1202-1111</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-0461" mdate="2018-08-13">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On Parallelizing Matrix Multiplication by the Column-Row Method</title>
+<ee type="oa">http://arxiv.org/abs/1210.0461</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.0461</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-0461</url>
+</article>
+</r>
+<r><article key="journals/jea/BelazzouguiBPV11" mdate="2020-06-25">
+<author pid="70/4285">Djamal Belazzougui</author>
+<author orcid="0000-0002-8297-6255" pid="71/3661">Paolo Boldi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-3257-651X" pid="27/6106">Sebastiano Vigna</author>
+<title>Theory and practice of monotone minimal perfect hashing.</title>
+<year>2011</year>
+<volume>16</volume>
+<journal>ACM J. Exp. Algorithmics</journal>
+<ee>https://doi.org/10.1145/1963190.2025378</ee>
+<ee>https://www.wikidata.org/entity/Q56021020</ee>
+<url>db/journals/jea/jea16.html#BelazzouguiBPV11</url>
+</article>
+</r>
+<r><article key="journals/siamrev/PaghPR11" mdate="2020-09-29">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="54/3329">Milan Ruzic</author>
+<title>Linear Probing with 5-wise Independence.</title>
+<pages>547-558</pages>
+<year>2011</year>
+<volume>53</volume>
+<journal>SIAM Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/110827831</ee>
+<url>db/journals/siamrev/siamrev53.html#PaghPR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/CampagnaKP11" mdate="2017-05-26">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="68/5508">Konstantin Kutzkov</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Frequent Pairs in Data Streams: Exploiting Parallelism and Skew.</title>
+<pages>145-150</pages>
+<year>2011</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2011.87</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2011.87</ee>
+<crossref>conf/icdm/2011w</crossref>
+<url>db/conf/icdm/icdmw2011.html#CampagnaKP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AmossenP11" mdate="2017-05-24">
+<author pid="70/5743">Rasmus Resen Amossen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>A New Data Layout for Set Intersection on GPUs.</title>
+<pages>698-708</pages>
+<year>2011</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2011.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2011.71</ee>
+<crossref>conf/ipps/2011</crossref>
+<url>db/conf/ipps/ipdps2011.html#AmossenP11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-1003" mdate="2018-08-13">
+<author pid="70/5743">Rasmus Resen Amossen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>A New Data Layout For Set Intersection on GPUs</title>
+<ee type="oa">http://arxiv.org/abs/1102.1003</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.1003</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-1003</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-6073" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="29/5273">Charalampos E. Tsourakakis</author>
+<title>Colorful Triangle Counting and a MapReduce Implementation</title>
+<ee type="oa">http://arxiv.org/abs/1103.6073</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.6073</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-6073</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-3084" mdate="2018-08-13">
+<author pid="07/6242">Kasper Green Larsen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>I/O-Efficient Data Structures for Colored Range and Prefix Reporting</title>
+<ee type="oa">http://arxiv.org/abs/1104.3084</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.3084</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-3084</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1108-1320" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Compressed Matrix Multiplication</title>
+<ee type="oa">http://arxiv.org/abs/1108.1320</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1108.1320</volume>
+<url>db/journals/corr/corr1108.html#abs-1108-1320</url>
+</article>
+</r>
+<r><inproceedings key="conf/approx/AmossenCP10" mdate="2017-05-23">
+<author pid="70/5743">Rasmus Resen Amossen</author>
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Better Size Estimation for Sparse Matrix Products.</title>
+<pages>406-419</pages>
+<year>2010</year>
+<booktitle>APPROX-RANDOM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15369-3_31</ee>
+<crossref>conf/approx/2010</crossref>
+<url>db/conf/approx/approx2010.html#AmossenCP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/BelazzouguiBPV10" mdate="2018-11-02">
+<author pid="70/4285">Djamal Belazzougui</author>
+<author orcid="0000-0002-8297-6255" pid="71/3661">Paolo Boldi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0002-3257-651X" pid="27/6106">Sebastiano Vigna</author>
+<title>Fast Prefix Search in Little Space, with Applications.</title>
+<pages>427-438</pages>
+<year>2010</year>
+<booktitle>ESA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15775-2_37</ee>
+<crossref>conf/esa/2010-1</crossref>
+<url>db/conf/esa/esa2010-1.html#BelazzouguiBPV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/DietzfelbingerGMMPR10" mdate="2017-06-15">
+<author orcid="0000-0001-5484-3474" pid="d/MartinDietzfelbinger">Martin Dietzfelbinger</author>
+<author pid="g/AndreasGoerdt">Andreas Goerdt</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="83/5094">Andrea Montanari</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="98/5143">Michael Rink 0001</author>
+<title>Tight Thresholds for Cuckoo Hashing via XORSAT.</title>
+<pages>213-225</pages>
+<year>2010</year>
+<booktitle>ICALP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14165-2_19</ee>
+<crossref>conf/icalp/2010-1</crossref>
+<url>db/conf/icalp/icalp2010-1.html#DietzfelbingerGMMPR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CampagnaP10a" mdate="2017-05-26">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On Finding Similar Items in a Stream of Transactions.</title>
+<pages>121-128</pages>
+<year>2010</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2010.152</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2010.152</ee>
+<crossref>conf/icdm/2010w</crossref>
+<url>db/conf/icdm/icdmw2010.html#CampagnaP10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CampagnaP10" mdate="2017-05-26">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On Finding Frequent Patterns in Event Sequences.</title>
+<pages>755-760</pages>
+<year>2010</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2010.132</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2010.132</ee>
+<crossref>conf/icdm/2010</crossref>
+<url>db/conf/icdm/icdm2010.html#CampagnaP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/PaghWYZ10" mdate="2019-05-21">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="45/47-1">Qin Zhang 0001</author>
+<title>Cache-oblivious hashing.</title>
+<pages>297-304</pages>
+<year>2010</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1807085.1807124</ee>
+<crossref>conf/pods/2010</crossref>
+<url>db/conf/pods/pods2010.html#PaghWYZ10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-0239" mdate="2018-08-13">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On Finding Frequent Patterns in Directed Acyclic Graphs</title>
+<ee type="oa">http://arxiv.org/abs/1005.0239</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.0239</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-0239</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4173" mdate="2018-08-13">
+<author pid="70/5743">Rasmus Resen Amossen</author>
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Better size estimation for sparse matrix products</title>
+<ee type="oa">http://arxiv.org/abs/1006.4173</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4173</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4173</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1010-2358" mdate="2018-08-13">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On Finding Frequent Patterns in Event Sequences</title>
+<ee type="oa">http://arxiv.org/abs/1010.2358</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1010.2358</volume>
+<url>db/journals/corr/corr1010.html#abs-1010-2358</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1010-2371" mdate="2018-08-13">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On Finding Similar Items in a Stream of Transactions</title>
+<ee type="oa">http://arxiv.org/abs/1010.2371</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1010.2371</volume>
+<url>db/journals/corr/corr1010.html#abs-1010-2371</url>
+</article>
+</r>
+<r><article key="journals/rsa/Pagh09" mdate="2017-05-26">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Dispersing hash functions.</title>
+<pages>70-82</pages>
+<year>2009</year>
+<volume>35</volume>
+<journal>Random Struct. Algorithms</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/rsa.20257</ee>
+<url>db/journals/rsa/rsa35.html#Pagh09</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/PaghPR09" mdate="2019-06-02">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="54/3329">Milan Ruzic</author>
+<title>Linear Probing with Constant Independence.</title>
+<pages>1107-1120</pages>
+<year>2009</year>
+<volume>39</volume>
+<journal>SIAM J. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/070702278</ee>
+<ee>https://www.wikidata.org/entity/Q61386873</ee>
+<url>db/journals/siamcomp/siamcomp39.html#PaghPR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/alenex/BelazzouguiBPV09" mdate="2017-05-19">
+<author pid="70/4285">Djamal Belazzougui</author>
+<author pid="71/3661">Paolo Boldi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="27/6106">Sebastiano Vigna</author>
+<title>Theory and Practise of Monotone Minimal Perfect Hashing.</title>
+<pages>132-144</pages>
+<year>2009</year>
+<booktitle>ALENEX</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972894.13</ee>
+<crossref>conf/alenex/2009</crossref>
+<url>db/conf/alenex/alenex2009.html#BelazzouguiBPV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/HreinssonKP09" mdate="2017-05-26">
+<author pid="83/7361">J&#243;hannes B. Hreinsson</author>
+<author pid="28/7362">Morten Kr&#248;yer</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Storing a Compressed Function with Constant Time Access.</title>
+<pages>730-741</pages>
+<year>2009</year>
+<booktitle>ESA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04128-0_65</ee>
+<crossref>conf/esa/2009</crossref>
+<url>db/conf/esa/esa2009.html#HreinssonKP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CampagnaP09" mdate="2017-05-26">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Finding Associations and Computing Similarity via Biased Pair Sampling.</title>
+<pages>61-70</pages>
+<year>2009</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2009.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2009.35</ee>
+<crossref>conf/icdm/2009</crossref>
+<url>db/conf/icdm/icdm2009.html#CampagnaP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/AmossenP09" mdate="2018-11-06">
+<author pid="70/5743">Rasmus Resen Amossen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Faster join-projects and sparse matrix multiplications.</title>
+<pages>121-126</pages>
+<year>2009</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1514894.1514909</ee>
+<crossref>conf/icdt/2009</crossref>
+<url>db/conf/icdt/icdt2009.html#AmossenP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/PaghS09" mdate="2018-11-06">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author orcid="0000-0003-0636-9880" pid="r/SSrinivasaRao">Srinivasa Rao Satti</author>
+<title>Secondary indexing in one dimension: beyond b-trees and bitmap indexes.</title>
+<pages>177-186</pages>
+<year>2009</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1559795.1559824</ee>
+<crossref>conf/pods/2009</crossref>
+<url>db/conf/pods/pods2009.html#PaghS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/BelazzouguiBPV09" mdate="2021-02-02">
+<author pid="70/4285">Djamal Belazzougui</author>
+<author pid="71/3661">Paolo Boldi</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="27/6106">Sebastiano Vigna</author>
+<title>Monotone minimal perfect hashing: searching a sorted table with <i>O</i>(1) accesses.</title>
+<pages>785-794</pages>
+<year>2009</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">http://dl.acm.org/citation.cfm?id=1496770.1496856</ee>
+<crossref>conf/soda/2009</crossref>
+<url>db/conf/soda/soda2009.html#BelazzouguiBPV09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0910-0112" mdate="2018-08-13">
+<author pid="38/7480">Andrea Campagna</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Finding Associations and Computing Similarity via Biased Pair Sampling</title>
+<ee type="oa">http://arxiv.org/abs/0910.0112</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0910.0112</volume>
+<url>db/journals/corr/corr0910.html#abs-0910-0112</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0912-0287" mdate="2018-08-13">
+<author pid="d/MartinDietzfelbinger">Martin Dietzfelbinger</author>
+<author pid="g/AndreasGoerdt">Andreas Goerdt</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="83/5094">Andrea Montanari</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="98/5143">Michael Rink 0001</author>
+<title>Tight Thresholds for Cuckoo Hashing via XORSAT</title>
+<ee type="oa">http://arxiv.org/abs/0912.0287</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0912.0287</volume>
+<url>db/journals/corr/corr0912.html#abs-0912-0287</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/JensenP08" mdate="2017-05-17">
+<author pid="04/5111">Morten Skaarup Jensen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Optimality in External Memory Hashing.</title>
+<pages>403-411</pages>
+<year>2008</year>
+<volume>52</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-007-9155-x</ee>
+<url>db/journals/algorithmica/algorithmica52.html#JensenP08</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/PaghP08" mdate="2017-05-27">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Uniform Hashing in Constant Time and Optimal Space.</title>
+<pages>85-96</pages>
+<year>2008</year>
+<volume>38</volume>
+<journal>SIAM J. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1137/060658400</ee>
+<url>db/journals/siamcomp/siamcomp38.html#PaghP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/DietzfelbingerP08" mdate="2018-11-14">
+<author orcid="0000-0001-5484-3474" pid="d/MartinDietzfelbinger">Martin Dietzfelbinger</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Succinct Data Structures for Retrieval and Approximate Membership (Extended Abstract).</title>
+<pages>385-396</pages>
+<year>2008</year>
+<booktitle>ICALP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70575-8_32</ee>
+<ee>https://www.wikidata.org/entity/Q56639229</ee>
+<crossref>conf/icalp/2008-1</crossref>
+<url>db/conf/icalp/icalp2008-1.html#DietzfelbingerP08</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Pagh08" mdate="2017-07-12">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Cuckoo Hashing.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-30162-4_97</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Pagh08</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0803-3693" mdate="2018-08-13">
+<author pid="d/MartinDietzfelbinger">Martin Dietzfelbinger</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Succinct Data Structures for Retrieval and Approximate Membership</title>
+<ee type="oa">http://arxiv.org/abs/0803.3693</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0803.3693</volume>
+<url>db/journals/corr/corr0803.html#abs-0803-3693</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0811-2904" mdate="2018-08-13">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="r/SSrinivasaRao">S. Srinivasa Rao 0001</author>
+<title>Secondary Indexing in One Dimension: Beyond B-trees and Bitmap Indexes</title>
+<ee type="oa">http://arxiv.org/abs/0811.2904</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0811.2904</volume>
+<url>db/journals/corr/corr0811.html#abs-0811-2904</url>
+</article>
+</r>
+<r><inproceedings key="conf/isaac/BillePP07" mdate="2017-05-19">
+<author pid="32/3463">Philip Bille</author>
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Fast Evaluation of Union-Intersection Expressions.</title>
+<pages>739-750</pages>
+<year>2007</year>
+<crossref>conf/isaac/2007</crossref>
+<booktitle>ISAAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77120-3_64</ee>
+<url>db/conf/isaac/isaac2007.html#BillePP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/PaghPR07" mdate="2018-11-06">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="54/3329">Milan Ruzic</author>
+<title>Linear probing with constant independence.</title>
+<pages>318-327</pages>
+<year>2007</year>
+<crossref>conf/stoc/2007</crossref>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/1250790.1250839</ee>
+<url>db/conf/stoc/stoc2007.html#PaghPR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wads/BotelhoPZ07" mdate="2017-05-21">
+<author pid="04/646">Fabiano C. Botelho</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="z/NZiviani">Nivio Ziviani</author>
+<title>Simple and Space-Efficient Minimal Perfect Hash Functions.</title>
+<pages>139-150</pages>
+<year>2007</year>
+<crossref>conf/wads/2007</crossref>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73951-7_13</ee>
+<url>db/conf/wads/wads2007.html#BotelhoPZ07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0708-3259" mdate="2018-08-13">
+<author pid="32/3463">Philip Bille</author>
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Fast evaluation of union-intersection expressions</title>
+<ee type="oa">http://arxiv.org/abs/0708.3259</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0708.3259</volume>
+<url>db/journals/corr/corr0708.html#abs-0708-3259</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0702159" mdate="2018-08-13">
+<author pid="04/646">Fabiano C. Botelho</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="z/NZiviani">Nivio Ziviani</author>
+<title>Perfect Hashing for Data Management Applications</title>
+<ee type="oa">http://arxiv.org/abs/cs/0702159</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0702159</volume>
+<url>db/journals/corr/corr0702.html#abs-cs-0702159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0702170" mdate="2018-08-13">
+<author pid="15/3498">Peter Tiedemann</author>
+<author pid="77/4535">Henrik Reif Andersen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Generic Global Constraints based on MDDs</title>
+<ee type="oa">http://arxiv.org/abs/cs/0702170</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0702170</volume>
+<url>db/journals/corr/corr0702.html#abs-cs-0702170</url>
+</article>
+</r>
+<r><inproceedings key="conf/latin/DemaineHPP06" mdate="2017-05-23">
+<author pid="d/ErikDDemaine">Erik D. Demaine</author>
+<author pid="h/FMaufderHeide">Friedhelm Meyer auf der Heide</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="00/1613">Mihai Patrascu</author>
+<title>De Dictionariis Dynamicis Pauco Spatio Utentibus (<i>lat.</i> On Dynamic Dictionaries Using Little Space).</title>
+<pages>349-361</pages>
+<year>2006</year>
+<crossref>conf/latin/2006</crossref>
+<booktitle>LATIN</booktitle>
+<ee>https://doi.org/10.1007/11682462_34</ee>
+<url>db/conf/latin/latin2006.html#DemaineHPP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/PaghP06" mdate="2018-11-06">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Scalable computation of acyclic joins.</title>
+<pages>225-232</pages>
+<year>2006</year>
+<crossref>conf/pods/2006</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1142351.1142384</ee>
+<url>db/conf/pods/pods2006.html#PaghP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BergerHPPRT06" mdate="2018-11-06">
+<author pid="63/4296">Mette Berger</author>
+<author pid="62/2137">Esben Rune Hansen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="00/1613">Mihai Patrascu</author>
+<author pid="54/3329">Milan Ruzic</author>
+<author pid="15/3498">Peter Tiedemann</author>
+<title>Deterministic load balancing and dictionaries in the parallel disk model.</title>
+<pages>299-307</pages>
+<year>2006</year>
+<crossref>conf/spaa/2006</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1148109.1148160</ee>
+<url>db/conf/spaa/spaa2006.html#BergerHPPRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/FagerbergPP06" mdate="2017-05-26">
+<author pid="f/RolfFagerberg">Rolf Fagerberg</author>
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>External String Sorting: Faster and Cache-Oblivious.</title>
+<pages>68-79</pages>
+<year>2006</year>
+<crossref>conf/stacs/2006</crossref>
+<booktitle>STACS</booktitle>
+<ee>https://doi.org/10.1007/11672142_4</ee>
+<url>db/conf/stacs/stacs2006.html#FagerbergPP06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0611141" mdate="2018-08-13">
+<author pid="15/3498">Peter Tiedemann</author>
+<author pid="77/4535">Henrik Reif Andersen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>A Generic Global Constraint based on MDDs</title>
+<ee type="oa">http://arxiv.org/abs/cs/0611141</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0611141</volume>
+<url>db/journals/corr/corr0611.html#abs-cs-0611141</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0612055" mdate="2018-08-13">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="54/3329">Milan Ruzic</author>
+<title>Linear Probing with Constant Independence</title>
+<ee type="oa">http://arxiv.org/abs/cs/0612055</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0612055</volume>
+<url>db/journals/corr/corr0612.html#abs-cs-0612055</url>
+</article>
+</r>
+<r><article key="journals/mst/FotakisPSS05" mdate="2019-06-02">
+<author orcid="0000-0001-6864-8960" pid="95/4731">Dimitris Fotakis</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<author pid="s/PaulGSpirakis">Paul G. Spirakis</author>
+<title>Space Efficient Hash Tables with Worst Case Constant Access Time.</title>
+<pages>229-248</pages>
+<year>2005</year>
+<volume>38</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00224-004-1195-x</ee>
+<ee>https://www.wikidata.org/entity/Q59818745</ee>
+<url>db/journals/mst/mst38.html#FotakisPSS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/soda/PaghPR05" mdate="2013-06-11">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="r/SSrinivasaRao">S. Srinivasa Rao 0001</author>
+<title>An optimal Bloom filter replacement.</title>
+<pages>823-829</pages>
+<year>2005</year>
+<crossref>conf/soda/2005</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1070432.1070548</ee>
+<url>db/conf/soda/soda2005.html#PaghPR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/MortensenPP05" mdate="2018-11-14">
+<author pid="27/2846">Christian Worm Mortensen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="00/1613">Mihai Patrascu</author>
+<title>On dynamic range reporting in one dimension.</title>
+<pages>104-111</pages>
+<year>2005</year>
+<crossref>conf/stoc/2005</crossref>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/1060590.1060606</ee>
+<ee>https://www.wikidata.org/entity/Q56384697</ee>
+<url>db/conf/stoc/stoc2005.html#MortensenPP05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502032" mdate="2018-08-13">
+<author pid="27/2846">Christian Worm Mortensen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="00/1613">Mihai Patrascu</author>
+<title>On Dynamic Range Reporting in One Dimension</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502032</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502032</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502032</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0512081" mdate="2018-08-13">
+<author pid="d/ErikDDemaine">Erik D. Demaine</author>
+<author pid="h/FMaufderHeide">Friedhelm Meyer auf der Heide</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="00/1613">Mihai Patrascu</author>
+<title>De Dictionariis Dynamicis Pauco Spatio Utentibus</title>
+<ee type="oa">http://arxiv.org/abs/cs/0512081</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0512081</volume>
+<url>db/journals/corr/corr0512.html#abs-cs-0512081</url>
+</article>
+</r>
+<r><article key="journals/jal/PaghR04" mdate="2018-11-14">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="67/4986">Flemming Friche Rodler</author>
+<title>Cuckoo hashing.</title>
+<pages>122-144</pages>
+<year>2004</year>
+<volume>51</volume>
+<journal>J. Algorithms</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.jalgor.2003.12.002</ee>
+<ee>https://www.wikidata.org/entity/Q56021022</ee>
+<url>db/journals/jal/jal51.html#PaghR04</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/PaghPT04" mdate="2017-05-26">
+<author pid="p/AnnaPagh">Anna Pagh</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="t/MikkelThorup">Mikkel Thorup</author>
+<title>On Adaptive Integer Sorting.</title>
+<pages>556-579</pages>
+<ee>https://doi.org/10.1007/978-3-540-30140-0_50</ee>
+<year>2004</year>
+<crossref>conf/esa/2004</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa2004.html#PaghPT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/FotakisPSS03" mdate="2019-06-02">
+<author orcid="0000-0001-6864-8960" pid="95/4731">Dimitris Fotakis</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<author pid="s/PaulGSpirakis">Paul G. Spirakis</author>
+<title>Space Efficient Hash Tables with Worst Case Constant Access Time.</title>
+<pages>271-282</pages>
+<year>2003</year>
+<crossref>conf/stacs/2003</crossref>
+<booktitle>STACS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36494-3_25</ee>
+<ee>https://www.wikidata.org/entity/Q59818820</ee>
+<url>db/conf/stacs/stacs2003.html#FotakisPSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/OstlinP03" mdate="2018-11-06">
+<author pid="p/AnnaPagh">Anna &#214;stlin</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Uniform hashing in constant time and linear space.</title>
+<pages>622-628</pages>
+<year>2003</year>
+<crossref>conf/stoc/2003</crossref>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/780542.780633</ee>
+<url>db/conf/stoc/stoc2003.html#OstlinP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagstuhl/Pagh02" mdate="2017-05-19">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Basic External Memory Data Structures.</title>
+<pages>14-35</pages>
+<year>2002</year>
+<crossref>conf/dagstuhl/2002amh</crossref>
+<booktitle>Algorithms for Memory Hierarchies</booktitle>
+<ee>https://doi.org/10.1007/3-540-36574-5_2</ee>
+<url>db/conf/dagstuhl/amh2002.html#Pagh02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/OstlinP02" mdate="2017-05-23">
+<author pid="p/AnnaPagh">Anna &#214;stlin</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>One-Probe Search.</title>
+<pages>439-450</pages>
+<year>2002</year>
+<crossref>conf/icalp/2002</crossref>
+<booktitle>ICALP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45465-9_38</ee>
+<url>db/conf/icalp/icalp2002.html#OstlinP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/PaghP02" mdate="2012-12-07">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="p/JakobPagter">Jakob Pagter</author>
+<title>Optimal time-space trade-offs for non-comparison-based sorting.</title>
+<pages>9-18</pages>
+<year>2002</year>
+<crossref>conf/soda/2002</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=545381.545383</ee>
+<url>db/conf/soda/soda2002.html#PaghP02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jal/HagerupMP01" mdate="2017-05-28">
+<author pid="h/TorbenHagerup">Torben Hagerup</author>
+<author pid="m/PBMiltersen">Peter Bro Miltersen</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Deterministic Dictionaries.</title>
+<pages>69-85</pages>
+<year>2001</year>
+<volume>41</volume>
+<journal>J. Algorithms</journal>
+<number>1</number>
+<url>db/journals/jal/jal41.html#HagerupMP01</url>
+<ee>https://doi.org/10.1006/jagm.2001.1171</ee>
+</article>
+</r>
+<r><article key="journals/siamcomp/Pagh01" mdate="2017-05-27">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Low Redundancy in Static Dictionaries with Constant Query Time.</title>
+<pages>353-363</pages>
+<year>2001</year>
+<volume>31</volume>
+<journal>SIAM J. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1137/S0097539700369909</ee>
+<url>db/journals/siamcomp/siamcomp31.html#Pagh01</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/PaghR01" mdate="2018-11-14">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="67/4986">Flemming Friche Rodler</author>
+<title>Cuckoo Hashing.</title>
+<pages>121-133</pages>
+<year>2001</year>
+<crossref>conf/esa/2001</crossref>
+<booktitle>ESA</booktitle>
+<ee>https://doi.org/10.1007/3-540-44676-1_10</ee>
+<ee>https://www.wikidata.org/entity/Q29541947</ee>
+<url>db/conf/esa/esa2001.html#PaghR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/PaghR01a" mdate="2017-05-26">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="67/4986">Flemming Friche Rodler</author>
+<title>Lossy Dictionaries.</title>
+<pages>300-311</pages>
+<year>2001</year>
+<crossref>conf/esa/2001</crossref>
+<booktitle>ESA</booktitle>
+<ee>https://doi.org/10.1007/3-540-44676-1_25</ee>
+<url>db/conf/esa/esa2001.html#PaghR01a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/Pagh01" mdate="2018-11-06">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>On the cell probe complexity of membership and perfect hashing.</title>
+<pages>425-432</pages>
+<year>2001</year>
+<crossref>conf/stoc/2001</crossref>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/380752.380836</ee>
+<url>db/conf/stoc/stoc2001.html#Pagh01</url>
+</inproceedings>
+</r>
+<r><article key="journals/njc/Pagh00" mdate="2004-01-14">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>A Trade-Off for Worst-Case Efficient Dictionaries.</title>
+<pages>151-163</pages>
+<year>2000</year>
+<volume>7</volume>
+<journal>Nord. J. Comput.</journal>
+<number>3</number>
+<url>db/journals/njc/njc7.html#Pagh00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/Pagh00" mdate="2019-03-06">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Dispersing Hash Functions.</title>
+<pages>53-68</pages>
+<year>2000</year>
+<crossref>conf/icalp/2000w</crossref>
+<booktitle>ICALP Satellite Workshops</booktitle>
+<url>db/conf/icalp/icalpw2000.html#Pagh00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Pagh00" mdate="2012-12-07">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Faster deterministic dictionaries.</title>
+<pages>487-493</pages>
+<year>2000</year>
+<crossref>conf/soda/2000</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=338219.338595</ee>
+<url>db/conf/soda/soda2000.html#Pagh00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/Pagh00" mdate="2017-05-23">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>A New Trade-Off for Deterministic Dictionaries.</title>
+<pages>22-31</pages>
+<ee>https://doi.org/10.1007/3-540-44985-X_4</ee>
+<year>2000</year>
+<crossref>conf/swat/2000</crossref>
+<booktitle>SWAT</booktitle>
+<url>db/conf/swat/swat2000.html#Pagh00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Pagh99" mdate="2017-05-23">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Low Redundancy in Static Dictionaries with O(1) Worst Case Lookup Time.</title>
+<pages>595-604</pages>
+<ee>https://doi.org/10.1007/3-540-48523-6_56</ee>
+<year>1999</year>
+<crossref>conf/icalp/99</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp99.html#Pagh99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wads/Pagh99" mdate="2017-05-21">
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>Hash and Displace: Efficient Evaluation of Minimal Perfect Hash Functions.</title>
+<pages>49-54</pages>
+<ee>https://doi.org/10.1007/3-540-48447-7_5</ee>
+<year>1999</year>
+<crossref>conf/wads/1999</crossref>
+<booktitle>WADS</booktitle>
+<url>db/conf/wads/wads99.html#Pagh99</url>
+</inproceedings>
+</r>
+<coauthors n="154" nc="2">
+<co c="0" n="2"><na f="a/Ahle:Thomas_D=" pid="169/9933">Thomas D. Ahle</na><na>Thomas Dybdahl Ahle</na></co>
+<co c="0"><na f="a/Amossen:Rasmus_Resen" pid="70/5743">Rasmus Resen Amossen</na></co>
+<co c="0"><na f="a/Andersen:Henrik_Reif" pid="77/4535">Henrik Reif Andersen</na></co>
+<co c="0"><na f="a/Aum=uuml=ller_0001:Martin" pid="26/2051">Martin Aum&#252;ller 0001</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Bartolini:Ilaria" pid="b/IlariaBartolini">Ilaria Bartolini</na></co>
+<co c="0"><na f="b/Belazzougui:Djamal" pid="70/4285">Djamal Belazzougui</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Berger:Mette" pid="63/4296">Mette Berger</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bille:Philip" pid="32/3463">Philip Bille</na></co>
+<co c="0"><na f="b/Bj=ouml=rklund:Andreas" pid="28/6676">Andreas Bj&#246;rklund</na></co>
+<co c="0"><na f="b/Boldi:Paolo" pid="71/3661">Paolo Boldi</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="b/Botelho:Fabiano_C=" pid="04/646">Fabiano C. Botelho</na></co>
+<co c="0"><na f="b/Bulteau:Laurent" pid="29/7591">Laurent Bulteau</na></co>
+<co c="0"><na f="c/Campagna:Andrea" pid="38/7480">Andrea Campagna</na></co>
+<co c="0"><na f="c/Carrara:Fabio" pid="167/9297">Fabio Carrara</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0"><na f="c/Christiani:Tobias" pid="150/6192">Tobias Christiani</na></co>
+<co c="0"><na f="c/Chung:Chin=Wan" pid="c/ChinWanChung">Chin-Wan Chung</na></co>
+<co c="0"><na f="c/Cohen:Edith" pid="40/1039">Edith Cohen</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0"><na f="d/Demaine:Erik_D=" pid="d/ErikDDemaine">Erik D. Demaine</na></co>
+<co c="0"><na f="d/Dietzfelbinger:Martin" pid="d/MartinDietzfelbinger">Martin Dietzfelbinger</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0"><na f="f/Fagerberg:Rolf" pid="f/RolfFagerberg">Rolf Fagerberg</na></co>
+<co c="0"><na f="f/Fotakis:Dimitris" pid="95/4731">Dimitris Fotakis</na></co>
+<co c="0"><na f="f/Froese:Vincent" pid="133/1147">Vincent Froese</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Gasieniec:Leszek" pid="g/LeszekGasieniec">Leszek Gasieniec</na></co>
+<co c="0"><na f="g/Geri:Ofir" pid="154/6642">Ofir Geri</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Goerdt:Andreas" pid="g/AndreasGoerdt">Andreas Goerdt</na></co>
+<co c="0"><na f="g/Golowich:Noah" pid="150/1861">Noah Golowich</na></co>
+<co c="0"><na f="g/Goswami_0001:Mayank" pid="90/9661">Mayank Goswami 0001</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="g/Gudmundsson:Joachim" pid="55/5525">Joachim Gudmundsson</na></co>
+<co c="0"><na f="h/Hagerup:Torben" pid="h/TorbenHagerup">Torben Hagerup</na></co>
+<co c="0"><na f="h/Hansen:Esben_Rune" pid="62/2137">Esben Rune Hansen</na></co>
+<co c="0"><na f="h/Har=Peled:Sariel" pid="h/SarielHarPeled">Sariel Har-Peled</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Heide:Friedhelm_Meyer_auf_der" pid="h/FMaufderHeide">Friedhelm Meyer auf der Heide</na></co>
+<co c="1"><na f="h/Hreinsson:J=oacute=hannes_B=" pid="83/7361">J&#243;hannes B. Hreinsson</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="j/Jacob:Riko" pid="27/2539">Riko Jacob</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="-1"><na f="j/Jensen:Morten_Skaarup" pid="04/5111">Morten Skaarup Jensen</na></co>
+<co c="0"><na f="j/J=oacute=nsson_0001:Bj=ouml=rn_=THORN==oacute=r" pid="j/BjornTorJonsson1">Bj&#246;rn &#222;&#243;r J&#243;nsson 0001</na></co>
+<co c="0"><na f="j/J=oslash=rgensen:Allan_Gr=oslash=nlund" pid="48/481">Allan Gr&#248;nlund J&#248;rgensen</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Kang:U" pid="13/7122">U Kang</na></co>
+<co c="0"><na f="k/Kapralov:Michael" pid="76/6407">Michael Kapralov</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Knudsen:Jakob_B=aelig=k_Tejs" pid="236/4491">Jakob B&#230;k Tejs Knudsen</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="1"><na f="k/Kr=oslash=yer:Morten" pid="28/7362">Morten Kr&#248;yer</na></co>
+<co c="0"><na f="k/Kumar_0001:Ravi" pid="k/RaviKumar">Ravi Kumar 0001</na></co>
+<co c="0"><na f="k/Kutzkov:Konstantin" pid="68/5508">Konstantin Kutzkov</na></co>
+<co c="0"><na f="l/Larsen:Kasper_Green" pid="07/6242">Kasper Green Larsen</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Levcopoulos:Christos" pid="55/673">Christos Levcopoulos</na></co>
+<co c="0"><na f="l/Lingas:Andrzej" pid="l/AndrzejLingas">Andrzej Lingas</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="-1"><na f="l/Loh:Po=Shen" pid="49/6062">Po-Shen Loh</na></co>
+<co c="0"><na f="m/Mahabadi:Sepideh" pid="130/0388">Sepideh Mahabadi</na></co>
+<co c="0"><na f="m/Manurangsi:Pasin" pid="133/2059">Pasin Manurangsi</na></co>
+<co c="0"><na f="m/McCauley:Samuel" pid="09/11461">Samuel McCauley</na></co>
+<co c="0"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na></co>
+<co c="0"><na f="m/Mikkelsen:Jesper_W=" pid="146/0522">Jesper W. Mikkelsen</na></co>
+<co c="0"><na f="m/Miltersen:Peter_Bro" pid="m/PBMiltersen">Peter Bro Miltersen</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="m/Montanari:Andrea" pid="83/5094">Andrea Montanari</na></co>
+<co c="0"><na f="m/Mortensen:Christian_Worm" pid="27/2846">Christian Worm Mortensen</na></co>
+<co c="0"><na f="m/Myaeng:Sung=Hyon" pid="50/3334">Sung-Hyon Myaeng</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0" n="2"><na f="p/Pagh:Anna" pid="p/AnnaPagh">Anna Pagh</na><na>Anna &#214;stlin</na></co>
+<co c="-1" n="2"><na f="p/Pagter:Jakob_Illeborg" pid="p/JakobPagter">Jakob Illeborg Pagter</na><na>Jakob Pagter</na></co>
+<co c="0"><na f="p/Park:Ha=Myung" pid="136/7860">Ha-Myung Park</na></co>
+<co c="0"><na f="p/Patrascu:Mihai" pid="00/1613">Mihai Patrascu</na></co>
+<co c="0"><na f="p/Pham:Ninh" pid="84/9841">Ninh Pham</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0" n="2"><na f="r/Rao_0001:S=_Srinivasa" pid="r/SSrinivasaRao">S. Srinivasa Rao 0001</na><na>Srinivasa Rao Satti</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/Razenshteyn:Ilya_P=" pid="10/7611">Ilya P. Razenshteyn</na></co>
+<co c="0"><na f="r/Rink_0001:Michael" pid="98/5143">Michael Rink 0001</na></co>
+<co c="-1"><na f="r/Rodler:Flemming_Friche" pid="67/4986">Flemming Friche Rodler</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="r/Ruzic:Milan" pid="54/3329">Milan Ruzic</na></co>
+<co c="0"><na f="s/Sanders_0001:Peter" pid="s/PeterSanders">Peter Sanders 0001</na></co>
+<co c="0"><na f="s/Satoh:Shin=ichi" pid="50/290">Shin'ichi Satoh</na></co>
+<co c="0"><na f="s/Segev_0001:Gil" pid="s/GilSegev">Gil Segev 0001</na></co>
+<co c="0"><na f="s/Silvestri_0001:Francesco" pid="02/6456-1">Francesco Silvestri 0001</na></co>
+<co c="0"><na f="s/Sivertsen:Johan" pid="169/1167">Johan Sivertsen</na></co>
+<co c="0"><na f="s/Skala:Matthew" pid="38/684">Matthew Skala</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Spirakis:Paul_G=" pid="s/PaulGSpirakis">Paul G. Spirakis</na></co>
+<co c="0" n="2"><na f="s/Stausholm:Nina_Mesing" pid="244/2259">Nina Mesing Stausholm</na><na>Nina Stausholm</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/St=ouml=ckel:Morten" pid="29/11004">Morten St&#246;ckel</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="t/Tabei:Yasuo" pid="38/1958">Yasuo Tabei</na></co>
+<co c="0"><na f="t/Tetek:Jakub" pid="211/6738">Jakub Tetek</na></co>
+<co c="0"><na f="t/Thorup:Mikkel" pid="t/MikkelThorup">Mikkel Thorup</na></co>
+<co c="0"><na f="t/Tiedemann:Peter" pid="15/3498">Peter Tiedemann</na></co>
+<co c="0"><na f="t/Tokuyama:Takeshi" pid="89/1729">Takeshi Tokuyama</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="t/Tsourakakis:Charalampos_E=" pid="29/5273">Charalampos E. Tsourakakis</na></co>
+<co c="0"><na f="v/Vadicamo:Lucia" pid="152/1401">Lucia Vadicamo</na></co>
+<co c="0"><na f="v/Velingker:Ameya" pid="117/3666">Ameya Velingker</na></co>
+<co c="0"><na f="v/Venkatasubramanian:Suresh" pid="12/4662">Suresh Venkatasubramanian</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="v/Vesterli:Michael" pid="243/7223">Michael Vesterli</na></co>
+<co c="0"><na f="v/Vigna:Sebastiano" pid="27/6106">Sebastiano Vigna</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wei:Zhewei" pid="94/4260">Zhewei Wei</na></co>
+<co c="0"><na f="w/Wieder:Udi" pid="w/UdiWieder">Udi Wieder</na></co>
+<co c="0"><na f="w/Williams:Virginia_Vassilevska" pid="63/8319">Virginia Vassilevska Williams</na></co>
+<co c="0"><na f="w/Woodruff:David_P=" pid="w/DPWoodruff">David P. Woodruff</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yamanishi:Yoshihiro" pid="87/1818">Yoshihiro Yamanishi</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="z/Zandieh:Amir" pid="154/6494">Amir Zandieh</na></co>
+<co c="0"><na f="z/Zhang_0001:Qin" pid="45/47-1">Qin Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+<co c="0"><na f="z/Zimek:Arthur" pid="27/4179">Arthur Zimek</na></co>
+<co c="0"><na f="z/Ziviani:Nivio" pid="z/NZiviani">Nivio Ziviani</na></co>
+<co c="0"><na f="z/Zwick:Uri" pid="z/UriZwick">Uri Zwick</na></co>
+</coauthors>
+</dblpperson>
+

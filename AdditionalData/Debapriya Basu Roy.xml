@@ -1,3 +1,837 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae685962344dc599ec67510b5ebfe0f7816a6e832bad9a9a234ea1aa7a779add
-size 38170
+<?xml version="1.0"?>
+<dblpperson name="Debapriya Basu Roy" pid="116/4686" n="52">
+<person key="homepages/116/4686" mdate="2012-07-03">
+<author pid="116/4686">Debapriya Basu Roy</author>
+</person>
+<r><article key="journals/jetc/AlamBRJBBM20" mdate="2020-12-29">
+<author orcid="0000-0002-3338-2944" pid="192/5163">Manaar Alam</author>
+<author pid="215/3479">Arnab Bag</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="163/8627">Dirmanto Jap</author>
+<author pid="05/10163">Jakub Breier</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Neural Network-based Inherently Fault-tolerant Hardware Cryptographic Primitives without Explicit Redundancy Checks.</title>
+<pages>3:1-3:30</pages>
+<year>2020</year>
+<volume>17</volume>
+<journal>ACM J. Emerg. Technol. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3409594</ee>
+<url>db/journals/jetc/jetc17.html#AlamBRJBBM20</url>
+</article>
+</r>
+<r><article key="journals/tifs/SahaJRCBM20" mdate="2020-08-06">
+<author orcid="0000-0002-5535-1102" pid="148/6886">Sayandeep Saha</author>
+<author orcid="0000-0002-3149-9401" pid="163/8627">Dirmanto Jap</author>
+<author orcid="0000-0003-4664-5237" pid="116/4686">Debapriya Basu Roy</author>
+<author pid="37/1994">Avik Chakraborty</author>
+<author orcid="0000-0002-6903-5127" pid="94/7837">Shivam Bhasin</author>
+<author orcid="0000-0002-6499-8346" pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>A Framework to Counter Statistical Ineffective Fault Analysis of Block Ciphers Using Domain Transformation and Error Correction.</title>
+<pages>1905-1919</pages>
+<year>2020</year>
+<volume>15</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<ee>https://doi.org/10.1109/TIFS.2019.2952262</ee>
+<url>db/journals/tifs/tifs15.html#SahaJRCBM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurocrypt/SahaBRPM20" mdate="2020-05-04">
+<author pid="148/6886">Sayandeep Saha</author>
+<author pid="215/3479">Arnab Bag</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Fault Template Attacks on Block Ciphers Exploiting Fault Propagation.</title>
+<pages>612-643</pages>
+<year>2020</year>
+<booktitle>EUROCRYPT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45721-1_22</ee>
+<crossref>conf/eurocrypt/2020-1</crossref>
+<url>db/conf/eurocrypt/eurocrypt2020-1.html#SahaBRPM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/RoyFS20" mdate="2021-01-18">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="216/6673">Tim Fritzmann</author>
+<author pid="89/4621">Georg Sigl</author>
+<title>Efficient Hardware/Software Co-Design for Post-Quantum Crypto Algorithm SIKE on ARM and RISC-V based Microcontrollers.</title>
+<pages>35:1-35:9</pages>
+<year>2020</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3400302.3415728</ee>
+<ee>https://ieeexplore.ieee.org/document/9256463</ee>
+<crossref>conf/iccad/2020</crossref>
+<url>db/conf/iccad/iccad2020.html#RoyFS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/BagPRM20" mdate="2021-01-05">
+<author pid="215/3479">Arnab Bag</author>
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Cryptographically Secure Multi-tenant Provisioning of FPGAs.</title>
+<pages>208-225</pages>
+<year>2020</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66626-2_11</ee>
+<crossref>conf/space/2020</crossref>
+<url>db/conf/space/space2020.html#BagPRM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/ChowdhuryRM20" mdate="2021-02-17">
+<author pid="253/9931">Siddhartha Chowdhury</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>A Minimalistic Perspective on Koblitz Curve Scalar Multiplication for FPGA Platforms.</title>
+<pages>70-75</pages>
+<year>2020</year>
+<booktitle>VLSI-SOC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SOC46417.2020.9344069</ee>
+<crossref>conf/vlsi/2020</crossref>
+<url>db/conf/vlsi/vlsisoc2020.html#ChowdhuryRM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/et/SadhukhanMRM19" mdate="2020-09-11">
+<author orcid="0000-0002-2922-9517" pid="201/6466">Rajat Sadhukhan</author>
+<author pid="255/7917">Paulson Mathew</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Count Your Toggles: a New Leakage Model for Pre-Silicon Power Analysis of Crypto Designs.</title>
+<pages>605-619</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>J. Electron. Test.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10836-019-05826-8</ee>
+<url>db/journals/et/et35.html#SadhukhanMRM19</url>
+</article>
+</r>
+<r><article key="journals/jce/0003RM19" mdate="2020-07-09">
+<author orcid="0000-0002-7404-8504" pid="30/1250-3">Poulami Das 0003</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Automatic generation of HCCA-resistant scalar multiplication algorithm by proper sequencing of field multiplier operands.</title>
+<pages>263-275</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13389-019-00219-1</ee>
+<url>db/journals/jce/jce9.html#0003RM19</url>
+</article>
+</r>
+<r><article key="journals/jhss/PatranabisRCNSM19" mdate="2020-08-25">
+<author orcid="0000-0002-2309-7939" pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="73/2286">Anirban Chakraborty</author>
+<author pid="241/6585">Naveen Nagar</author>
+<author pid="241/6559">Astikey Singh</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="15/5063">Santosh Ghosh</author>
+<title>Lightweight Design-for-Security Strategies for Combined Countermeasures Against Side Channel and Fault Analysis in IoT Applications.</title>
+<pages>103-131</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s41635-018-0049-y</ee>
+<url>db/journals/jhss/jhss3.html#PatranabisRCNSM19</url>
+</article>
+</r>
+<r><article key="journals/tc/RoyBGHPM19" mdate="2019-02-27">
+<author orcid="0000-0003-4664-5237" pid="116/4686">Debapriya Basu Roy</author>
+<author orcid="0000-0002-6903-5127" pid="94/7837">Shivam Bhasin</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<author orcid="0000-0002-1095-5420" pid="68/10491">Annelie Heuser</author>
+<author orcid="0000-0002-2309-7939" pid="163/2345">Sikhar Patranabis</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>CC Meets FIPS: A Hybrid Test Methodology for First Order Side Channel Analysis.</title>
+<pages>347-361</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TC.2018.2875746</ee>
+<url>db/journals/tc/tc68.html#RoyBGHPM19</url>
+</article>
+</r>
+<r><article key="journals/tecs/RoyBNM19" mdate="2020-09-08">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="18/2551">Ivica Nikolic</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Combining PUF with RLUTs: A Two-party Pay-per-device IP Licensing Scheme on FPGAs.</title>
+<pages>12:1-12:22</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3301307</ee>
+<url>db/journals/tecs/tecs18.html#RoyBNM19</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/RoyM19" mdate="2020-03-11">
+<author orcid="0000-0003-4664-5237" pid="116/4686">Debapriya Basu Roy</author>
+<author orcid="0000-0002-6499-8346" pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>High-Speed Implementation of ECC Scalar Multiplication in GF(p) for Generic Montgomery Curves.</title>
+<pages>1587-1600</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TVLSI.2019.2905899</ee>
+<url>db/journals/tvlsi/tvlsi27.html#RoyM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cosade/RaviRBCM19" mdate="2019-03-21">
+<author pid="153/2475">Prasanna Ravi</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Number &#34;Not Used&#34; Once - Practical Fault Attack on pqm4 Implementations of NIST Candidates.</title>
+<pages>232-250</pages>
+<year>2019</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16350-1_13</ee>
+<crossref>conf/cosade/2019</crossref>
+<url>db/conf/cosade/cosade2019.html#RaviRBCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/BagadiaCRMC19" mdate="2019-11-26">
+<author pid="193/7101">Krishna Bagadia</author>
+<author orcid="0000-0002-4631-2208" pid="176/7583">Urbi Chatterjee</author>
+<author orcid="0000-0003-4664-5237" pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author orcid="0000-0003-3588-163X" pid="05/1579">Rajat Subhra Chakraborty</author>
+<title>Revisiting the Security of LPN Based RFID Authentication Protocol and Potential Exploits in Hardware Implementations.</title>
+<pages>214-230</pages>
+<year>2019</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-35869-3_15</ee>
+<crossref>conf/space/2019</crossref>
+<url>db/conf/space/space2019.html#BagadiaCRMC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-04560" mdate="2019-05-21">
+<author pid="192/5163">Manaar Alam</author>
+<author pid="215/3479">Arnab Bag</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="163/8627">Dirmanto Jap</author>
+<author pid="05/10163">Jakub Breier</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Enhancing Fault Tolerance of Neural Networks for Security-Critical Applications.</title>
+<year>2019</year>
+<volume>abs/1902.04560</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.04560</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-04560</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SahaJRCBM19" mdate="2020-05-11">
+<author pid="148/6886">Sayandeep Saha</author>
+<author pid="163/8627">Dirmanto Jap</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="42/10551">Avik Chakraborti</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Transform-and-Encode: A Countermeasure Framework for Statistical Ineffective Fault Attacks on Block Ciphers.</title>
+<pages>545</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/545</ee>
+<url>db/journals/iacr/iacr2019.html#SahaJRCBM19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/RoyM19" mdate="2020-05-11">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Post Quantum ECC on FPGA Platform.</title>
+<pages>568</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/568</ee>
+<url>db/journals/iacr/iacr2019.html#RoyM19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SahaRBPM19" mdate="2020-05-11">
+<author pid="148/6886">Sayandeep Saha</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="215/3479">Arnab Bag</author>
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Breach the Gate: Exploiting Observability for Fault Template Attacks on Block Ciphers.</title>
+<pages>937</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/937</ee>
+<url>db/journals/iacr/iacr2019.html#SahaRBPM19</url>
+</article>
+</r>
+<r><article key="journals/esl/RoyABGRCM18" mdate="2020-09-10">
+<author orcid="0000-0003-4664-5237" pid="116/4686">Debapriya Basu Roy</author>
+<author orcid="0000-0002-3338-2944" pid="192/5163">Manaar Alam</author>
+<author pid="130/3236">Sarani Bhattacharya</author>
+<author pid="192/5160">Vidya Govindan</author>
+<author orcid="0000-0001-6385-0780" pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author orcid="0000-0003-3588-163X" pid="05/1579">Rajat Subhra Chakraborty</author>
+<author orcid="0000-0002-6499-8346" pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Customized Instructions for Protection Against Memory Integrity Attacks.</title>
+<pages>91-94</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LES.2018.2828506</ee>
+<url>db/journals/esl/esl10.html#RoyABGRCM18</url>
+</article>
+</r>
+<r><article key="journals/jhss/RoyBDGHMNN18" mdate="2020-08-25">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<author pid="20/6417">Wei He</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="136/4513">Xuan Thuy Ngo</author>
+<title>The Conflicted Usage of RLUTs for Security-Critical Applications on FPGA.</title>
+<pages>162-178</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s41635-018-0035-4</ee>
+<url>db/journals/jhss/jhss2.html#RoyBDGHMNN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpl/MukhopadhyayR18" mdate="2019-02-07">
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<title>Revisiting FPGA Implementation of Montgomery Multiplier in Redundant Number System for Efficient ECC Application in GF(p).</title>
+<pages>323-326</pages>
+<year>2018</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2018.00061</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FPL.2018.00061</ee>
+<crossref>conf/fpl/2018</crossref>
+<url>db/conf/fpl/fpl2018.html#MukhopadhyayR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/RoyM18" mdate="2018-08-14">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Minimalistic Perspective to Public Key Implementations on FPGA.</title>
+<pages>381-386</pages>
+<year>2018</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2018.00076</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2018.00076</ee>
+<crossref>conf/isvlsi/2018</crossref>
+<url>db/conf/isvlsi/isvlsi2018.html#RoyM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-04136" mdate="2018-08-13">
+<author pid="215/3479">Arnab Bag</author>
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Cryptographically Secure Multi-Tenant Provisioning of FPGAs.</title>
+<year>2018</year>
+<volume>abs/1802.04136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.04136</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-04136</url>
+</article>
+</r>
+<r><article key="journals/jhss/RoyCCKMN17" mdate="2020-08-25">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="42/10551">Avik Chakraborti</author>
+<author pid="50/4733">Donghoon Chang</author>
+<author pid="191/1601">S. V. Dilip Kumar</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="06/2136">Mridul Nandi</author>
+<title>Two Efficient Fault-Based Attacks on CLOC and SILC.</title>
+<pages>252-268</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s41635-017-0022-1</ee>
+<url>db/journals/jhss/jhss1.html#RoyCCKMN17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cf/PatranabisRM17" mdate="2018-11-06">
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Using Tweaks To Design Fault Resistant Ciphers (Full Version).</title>
+<pages>402-408</pages>
+<year>2017</year>
+<booktitle>Conf. Computing Frontiers</booktitle>
+<ee>https://doi.org/10.1145/3075564.3091965</ee>
+<crossref>conf/cf/2017</crossref>
+<url>db/conf/cf/cf2017.html#PatranabisRM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/0003RM17" mdate="2021-02-10">
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Automatic Generation of HCCA Resistant Scalar Multiplication Algorithm by Proper Sequencing of Field Multiplier Operands.</title>
+<pages>33-49</pages>
+<year>2017</year>
+<booktitle>PROOFS@CHES</booktitle>
+<ee type="oa">https://easychair.org/publications/paper/PQdH</ee>
+<crossref>conf/ches/2017proofs</crossref>
+<url>db/conf/ches/proofs2017.html#0003RM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/SahooNRMC17" mdate="2017-10-16">
+<author pid="141/5764">Durga Prasad Sahoo</author>
+<author pid="26/8612">Phuong Ha Nguyen</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="05/1579">Rajat Subhra Chakraborty</author>
+<title>Side Channel Evaluation of PUF-Based Pseudorandom Permutation.</title>
+<pages>237-243</pages>
+<year>2017</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2017.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2017.79</ee>
+<crossref>conf/dsd/2017</crossref>
+<url>db/conf/dsd/dsd2017.html#SahooNRMC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/BagadiaCRMC17" mdate="2019-02-07">
+<author pid="193/7101">Krishna Bagadia</author>
+<author pid="176/7583">Urbi Chatterjee</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="05/1579">Rajat Subhra Chakraborty</author>
+<title>Exploiting safe error based leakage of RFID authentication protocol using hardware Trojan horse.</title>
+<pages>167</pages>
+<year>2017</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2017.7951831</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2017.7951831</ee>
+<crossref>conf/host/2017</crossref>
+<url>db/conf/host/host2017.html#BagadiaCRMC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivsw/RoyBNM17" mdate="2018-11-02">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author orcid="0000-0001-9578-4837" pid="18/2551">Ivica Nikolic</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Opening pandora's box: Implication of RLUT on secure FPGA applications and IP security.</title>
+<pages>134-139</pages>
+<year>2017</year>
+<booktitle>IVSW</booktitle>
+<ee>https://doi.org/10.1109/IVSW.2017.8031558</ee>
+<crossref>conf/ivsw/2017</crossref>
+<url>db/conf/ivsw/ivsw2017.html#RoyBNM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/0003RM16" mdate="2018-11-06">
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Improved Atomicity to Prevent HCCA on NIST Curves.</title>
+<pages>21-30</pages>
+<year>2016</year>
+<booktitle>AsiaPKC@AsiaCCS</booktitle>
+<ee>https://doi.org/10.1145/2898420.2901921</ee>
+<crossref>conf/ccs/2016asiapkc</crossref>
+<url>db/conf/ccs/asiapkc2016.html#0003RM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/0003RBM16" mdate="2017-05-21">
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="195/8125">Harishma Boyapally</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Inner collisions in ECC: Vulnerabilities of complete addition formulas for NIST curves.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>AsianHOST</booktitle>
+<ee>https://doi.org/10.1109/AsianHOST.2016.7835562</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AsianHOST.2016.7835562</ee>
+<crossref>conf/host/2016a</crossref>
+<url>db/conf/host/asianhost2016.html#0003RBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/PatranabisRSMG16" mdate="2017-05-21">
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="136/6894">Yash Shrivastava</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="15/5063">Santosh Ghosh</author>
+<title>Parsimonious design strategy for linear layers with high diffusion in block ciphers.</title>
+<pages>31-36</pages>
+<year>2016</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2016.7495552</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2016.7495552</ee>
+<crossref>conf/host/2016</crossref>
+<url>db/conf/host/host2016.html#PatranabisRSMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/PatranabisRVMG16" mdate="2017-05-24">
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="29/1834">Praveen Kumar Vadnala</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="15/5063">Santosh Ghosh</author>
+<title>Shuffling across rounds: A lightweight strategy to counter side-channel attacks.</title>
+<pages>440-443</pages>
+<year>2016</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2016.7753323</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2016.7753323</ee>
+<crossref>conf/iccd/2016</crossref>
+<url>db/conf/iccd/iccd2016.html#PatranabisRVMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isicir/RoyARM16" mdate="2017-05-19">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="53/2784">Shubham Agrawal</author>
+<author pid="37/4129">Chester Rebeiro</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Accelerating OpenSSL's ECC with low cost reconfigurable hardware.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>ISIC</booktitle>
+<ee>https://doi.org/10.1109/ISICIR.2016.7829684</ee>
+<crossref>conf/isicir/2016</crossref>
+<url>db/conf/isicir/isic2016.html#RoyARM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memocode/AlamRBGCM16" mdate="2018-11-02">
+<author orcid="0000-0002-3338-2944" pid="192/5163">Manaar Alam</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="130/3236">Sarani Bhattacharya</author>
+<author pid="192/5160">Vidya Govindan</author>
+<author pid="05/1579">Rajat Subhra Chakraborty</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>SmashClean: A hardware level mitigation to stack smashing attacks in OpenRISC.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>MEMOCODE</booktitle>
+<ee>https://doi.org/10.1109/MEMCOD.2016.7797764</ee>
+<crossref>conf/memocode/2016</crossref>
+<url>db/conf/memocode/memocode2016.html#AlamRBGCM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/0003RM16" mdate="2020-03-25">
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Secure public key hardware for IoT applications.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS.2016.7870008</ee>
+<crossref>conf/mwscas/2016</crossref>
+<url>db/conf/mwscas/mwscas2016.html#0003RM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/RoyCCKMN16" mdate="2020-03-27">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="42/10551">Avik Chakraborti</author>
+<author pid="50/4733">Donghoon Chang</author>
+<author pid="191/1601">S. V. Dilip Kumar</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author orcid="0000-0002-1029-6576" pid="06/2136">Mridul Nandi</author>
+<title>Fault Based Almost Universal Forgeries on CLOC and SILC.</title>
+<pages>66-86</pages>
+<year>2016</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49445-6_4</ee>
+<crossref>conf/space/2016</crossref>
+<url>db/conf/space/space2016.html#RoyCCKMN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/PatranabisRM16" mdate="2017-05-23">
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Using Tweaks to Design Fault Resistant Ciphers.</title>
+<pages>585-586</pages>
+<year>2016</year>
+<booktitle>VLSI Design</booktitle>
+<ee>https://doi.org/10.1109/VLSID.2016.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLSID.2016.58</ee>
+<crossref>conf/vlsid/2016</crossref>
+<url>db/conf/vlsid/vlsid2016.html#PatranabisRM16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SonarRCM16" mdate="2020-05-11">
+<author pid="73/9034">Souvik Sonar</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="05/1579">Rajat Subhra Chakraborty</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Side-Channel Watchdog: Run-Time Evaluation of Side-Channel Vulnerability in FPGA-Based Crypto-systems.</title>
+<pages>182</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/182</ee>
+<url>db/journals/iacr/iacr2016.html#SonarRCM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BagadiaCRMC16" mdate="2020-05-11">
+<author pid="193/7101">Krishna Bagadia</author>
+<author pid="176/7583">Urbi Chatterjee</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="05/1579">Rajat Subhra Chakraborty</author>
+<title>Exploiting Safe Error based Leakage of RFID Authentication Protocol using Hardware Trojan Horse.</title>
+<pages>1149</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/1149</ee>
+<url>db/journals/iacr/iacr2016.html#BagadiaCRMC16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/RoyBPMG16" mdate="2020-05-11">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<title>What Lies Ahead: Extending TVLA Testing Methodology Towards Success Rate.</title>
+<pages>1152</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/1152</ee>
+<url>db/journals/iacr/iacr2016.html#RoyBPMG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/NgoNBRDG15" mdate="2017-05-19">
+<author pid="136/4513">Xuan Thuy Ngo</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<title>Integrated Sensor: A Backdoor for Hardware Trojan Insertions?</title>
+<pages>415-422</pages>
+<year>2015</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2015.119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2015.119</ee>
+<crossref>conf/dsd/2015</crossref>
+<url>db/conf/dsd/dsd2015.html#NgoNBRDG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/RoyBGDM15" mdate="2017-05-24">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>From theory to practice of private circuit: A cautionary note.</title>
+<pages>296-303</pages>
+<year>2015</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2015.7357117</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2015.7357117</ee>
+<crossref>conf/iccd/2015</crossref>
+<url>db/conf/iccd/iccd2015.html#RoyBGDM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/Roy0M15" mdate="2019-08-20">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>ECC on Your Fingertips: A Single Instruction Approach for Lightweight ECC Design in GF(p).</title>
+<pages>161-177</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-31301-6_9</ee>
+<crossref>conf/sacrypt/2015</crossref>
+<url>db/conf/sacrypt/sacrypt2015.html#Roy0M15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/RoyBGDMNN15" mdate="2017-05-17">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="136/4513">Xuan Thuy Ngo</author>
+<author pid="134/7426">Zakaria Najm</author>
+<title>Reconfigurable LUT: A Double Edged Sword for Security-Critical Applications.</title>
+<pages>248-268</pages>
+<year>2015</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24126-5_15</ee>
+<crossref>conf/space/2015</crossref>
+<url>db/conf/space/space2015.html#RoyBGDMNN15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/RoyBGDM15" mdate="2020-05-11">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="86/2396">Sylvain Guilley</author>
+<author pid="52/4689">Jean-Luc Danger</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Reconfigurable LUT: Boon or Bane for Secure Applications.</title>
+<pages>120</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/120</ee>
+<url>db/journals/iacr/iacr2015.html#RoyBGDM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DasRM15" mdate="2020-05-11">
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Exploiting the Order of Multiplier Operands: A Low Cost Approach for HCCA Resistance.</title>
+<pages>925</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/925</ee>
+<url>db/journals/iacr/iacr2015.html#DasRM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PatranabisRM15" mdate="2020-05-11">
+<author pid="163/2345">Sikhar Patranabis</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>Using Tweaks To Design Fault Resistant Ciphers.</title>
+<pages>932</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/932</ee>
+<url>db/journals/iacr/iacr2015.html#PatranabisRM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Roy0M15" mdate="2020-05-11">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="30/1250-3">Poulami Das 0003</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>ECC on Your Fingertips: A Single Instruction Approach for Lightweight ECC Design in GF (p).</title>
+<pages>1225</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/1225</ee>
+<url>db/journals/iacr/iacr2015.html#Roy0M15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/RoyMIT14" mdate="2018-11-06">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="33/7553">Masami Izumi</author>
+<author pid="80/432">Junko Takahashi</author>
+<title>Tile Before Multiplication: An Efficient Strategy to Optimize DSP Multiplier for Accelerating Prime Field ECC for NIST Curves.</title>
+<pages>177:1-177:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593234</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#RoyMIT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/WangYRNZMMB13" mdate="2018-11-06">
+<author pid="66/10051">Xinmu Wang</author>
+<author pid="116/7570">Wen Yueh</author>
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="12/2216">Seetharam Narasimhan</author>
+<author pid="87/1585">Yu Zheng</author>
+<author pid="66/1210">Saibal Mukhopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="75/4629">Swarup Bhunia</author>
+<title>Role of power grid in side channel attack and power-grid-aware secure design.</title>
+<pages>78:1-78:9</pages>
+<year>2013</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2463209.2488830</ee>
+<crossref>conf/dac/2013</crossref>
+<url>db/conf/dac/dac2013.html#WangYRNZMMB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vdat/RoyM12" mdate="2017-05-17">
+<author pid="116/4686">Debapriya Basu Roy</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<title>An Efficient High Speed Implementation of Flexible Characteristic-2 Multipliers on FPGAs.</title>
+<pages>99-110</pages>
+<year>2012</year>
+<booktitle>VDAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31494-0_12</ee>
+<crossref>conf/vdat/2012</crossref>
+<url>db/conf/vdat/vdat2012.html#RoyM12</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="2">
+<co c="0"><na f="a/Agrawal:Shubham" pid="53/2784">Shubham Agrawal</na></co>
+<co c="0"><na f="a/Alam:Manaar" pid="192/5163">Manaar Alam</na></co>
+<co c="0"><na f="b/Bag:Arnab" pid="215/3479">Arnab Bag</na></co>
+<co c="0"><na f="b/Bagadia:Krishna" pid="193/7101">Krishna Bagadia</na></co>
+<co c="0"><na f="b/Bhasin:Shivam" pid="94/7837">Shivam Bhasin</na></co>
+<co c="0"><na f="b/Bhattacharya:Sarani" pid="130/3236">Sarani Bhattacharya</na></co>
+<co c="0"><na f="b/Bhunia:Swarup" pid="75/4629">Swarup Bhunia</na></co>
+<co c="0"><na f="b/Boyapally:Harishma" pid="195/8125">Harishma Boyapally</na></co>
+<co c="0"><na f="b/Breier:Jakub" pid="05/10163">Jakub Breier</na></co>
+<co c="0"><na f="c/Chakraborti:Avik" pid="42/10551">Avik Chakraborti</na></co>
+<co c="0"><na f="c/Chakraborty:Anirban" pid="73/2286">Anirban Chakraborty</na></co>
+<co c="0"><na f="c/Chakraborty:Avik" pid="37/1994">Avik Chakraborty</na></co>
+<co c="0"><na f="c/Chakraborty:Rajat_Subhra" pid="05/1579">Rajat Subhra Chakraborty</na></co>
+<co c="0"><na f="c/Chang:Donghoon" pid="50/4733">Donghoon Chang</na></co>
+<co c="0"><na f="c/Chatterjee:Urbi" pid="176/7583">Urbi Chatterjee</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chowdhury:Siddhartha" pid="253/9931">Siddhartha Chowdhury</na></co>
+<co c="0"><na f="d/Danger:Jean=Luc" pid="52/4689">Jean-Luc Danger</na></co>
+<co c="0"><na f="d/Das_0003:Poulami" pid="30/1250-3">Poulami Das 0003</na></co>
+<co c="1"><na f="f/Fritzmann:Tim" pid="216/6673">Tim Fritzmann</na></co>
+<co c="0"><na f="g/Ghosh:Santosh" pid="15/5063">Santosh Ghosh</na></co>
+<co c="0"><na f="g/Govindan:Vidya" pid="192/5160">Vidya Govindan</na></co>
+<co c="0"><na f="g/Guilley:Sylvain" pid="86/2396">Sylvain Guilley</na></co>
+<co c="0"><na f="h/He:Wei" pid="20/6417">Wei He</na></co>
+<co c="0"><na f="h/Heuser:Annelie" pid="68/10491">Annelie Heuser</na></co>
+<co c="0"><na f="i/Izumi:Masami" pid="33/7553">Masami Izumi</na></co>
+<co c="0"><na f="j/Jap:Dirmanto" pid="163/8627">Dirmanto Jap</na></co>
+<co c="0"><na f="k/Kumar:S=_V=_Dilip" pid="191/1601">S. V. Dilip Kumar</na></co>
+<co c="0"><na f="m/Mathew:Paulson" pid="255/7917">Paulson Mathew</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Debdeep" pid="85/3079">Debdeep Mukhopadhyay</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Saibal" pid="66/1210">Saibal Mukhopadhyay</na></co>
+<co c="0"><na f="n/Nagar:Naveen" pid="241/6585">Naveen Nagar</na></co>
+<co c="0"><na f="n/Najm:Zakaria" pid="134/7426">Zakaria Najm</na></co>
+<co c="0"><na f="n/Nandi:Mridul" pid="06/2136">Mridul Nandi</na></co>
+<co c="0"><na f="n/Narasimhan:Seetharam" pid="12/2216">Seetharam Narasimhan</na></co>
+<co c="0"><na f="n/Ngo:Xuan_Thuy" pid="136/4513">Xuan Thuy Ngo</na></co>
+<co c="0"><na f="n/Nguyen:Phuong_Ha" pid="26/8612">Phuong Ha Nguyen</na></co>
+<co c="0"><na f="n/Nikolic:Ivica" pid="18/2551">Ivica Nikolic</na></co>
+<co c="0"><na f="p/Patranabis:Sikhar" pid="163/2345">Sikhar Patranabis</na></co>
+<co c="0"><na f="r/Ravi:Prasanna" pid="153/2475">Prasanna Ravi</na></co>
+<co c="0"><na f="r/Rebeiro:Chester" pid="37/4129">Chester Rebeiro</na></co>
+<co c="0"><na f="r/Regazzoni_0001:Francesco" pid="31/1489-1">Francesco Regazzoni 0001</na></co>
+<co c="0"><na f="s/Sadhukhan:Rajat" pid="201/6466">Rajat Sadhukhan</na></co>
+<co c="0"><na f="s/Saha:Sayandeep" pid="148/6886">Sayandeep Saha</na></co>
+<co c="0"><na f="s/Sahoo:Durga_Prasad" pid="141/5764">Durga Prasad Sahoo</na></co>
+<co c="0"><na f="s/Shrivastava:Yash" pid="136/6894">Yash Shrivastava</na></co>
+<co c="1"><na f="s/Sigl:Georg" pid="89/4621">Georg Sigl</na></co>
+<co c="0"><na f="s/Singh:Astikey" pid="241/6559">Astikey Singh</na></co>
+<co c="0"><na f="s/Sonar:Souvik" pid="73/9034">Souvik Sonar</na></co>
+<co c="0"><na f="t/Takahashi:Junko" pid="80/432">Junko Takahashi</na></co>
+<co c="0"><na f="v/Vadnala:Praveen_Kumar" pid="29/1834">Praveen Kumar Vadnala</na></co>
+<co c="0"><na f="w/Wang:Xinmu" pid="66/10051">Xinmu Wang</na></co>
+<co c="0"><na f="y/Yueh:Wen" pid="116/7570">Wen Yueh</na></co>
+<co c="0"><na f="z/Zheng:Yu" pid="87/1585">Yu Zheng</na></co>
+</coauthors>
+</dblpperson>
+

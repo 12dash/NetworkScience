@@ -1,3 +1,235 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9c7fd689f9d1521a38c87af5dd2ceb75754f377c1ac0af13bd66e92a7b596a1
-size 10584
+<?xml version="1.0"?>
+<dblpperson name="Xuntao Cheng" pid="159/7654" n="12">
+<person key="homepages/159/7654" mdate="2015-03-10">
+<author pid="159/7654">Xuntao Cheng</author>
+</person>
+<r><article key="journals/pvldb/YangWZCLZWCWH20" mdate="2020-08-17">
+<author pid="50/2484">Lei Yang</author>
+<author pid="45/5963">Hong Wu</author>
+<author pid="88/2750">Tieying Zhang</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="81/3390-1">Lei Zou 0001</author>
+<author pid="00/8454">Yujie Wang</author>
+<author pid="272/3258">Rongyao Chen</author>
+<author pid="06/2952">Jianying Wang</author>
+<author pid="243/2404">Gui Huang</author>
+<title>Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines.</title>
+<pages>1976-1989</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1976-yang.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#YangWZCLZWCWH20</url>
+</article>
+</r>
+<r><inproceedings key="conf/fast/ZhangWCXYHZH0CH20" mdate="2021-02-02">
+<author pid="38/5156">Teng Zhang</author>
+<author pid="06/2952">Jianying Wang</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="43/6008">Hao Xu</author>
+<author pid="263/3695">Nanlong Yu</author>
+<author pid="243/2404">Gui Huang</author>
+<author pid="88/2750">Tieying Zhang</author>
+<author pid="82/7536">Dengcheng He</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="54/6265">Wei Cao</author>
+<author pid="17/402">Zhongdong Huang</author>
+<author pid="53/3693">Jianling Sun</author>
+<title>FPGA-Accelerated Compactions for LSM-based Key-Value Store.</title>
+<pages>225-237</pages>
+<year>2020</year>
+<booktitle>FAST</booktitle>
+<ee type="oa">https://www.usenix.org/conference/fast20/presentation/zhang-teng</ee>
+<crossref>conf/fast/2020</crossref>
+<url>db/conf/fast/fast2020.html#ZhangWCXYHZH0CH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ChengHLWLC19" mdate="2020-10-08">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="35/7092">Wei Wang</author>
+<author pid="224/0965">Shengliang Lu</author>
+<author pid="96/3374">Xinyu Chen</author>
+<title>Deploying Hash Tables on Die-Stacked High Bandwidth Memory.</title>
+<pages>239-248</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3358015</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#ChengHLWLC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HuangCWWHZLWCL19" mdate="2019-07-07">
+<author pid="243/2404">Gui Huang</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="06/2952">Jianying Wang</author>
+<author pid="00/8454">Yujie Wang</author>
+<author pid="82/7536">Dengcheng He</author>
+<author pid="88/2750">Tieying Zhang</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="85/1868">Sheng Wang</author>
+<author pid="54/6265">Wei Cao</author>
+<author pid="72/872">Qiang Li</author>
+<title>X-Engine: An Optimized Storage Engine for Large-scale E-commerce Transaction Processing.</title>
+<pages>651-665</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314041</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#HuangCWWHZLWCL19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/ChengLH19" mdate="2019-02-14">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="15/2288">Cheng Liu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<title>Emerging Hardware Technologies.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_170-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#ChengLH19</url>
+</incollection>
+</r>
+<r><article key="journals/jpdc/ChengHLL18" mdate="2020-02-22">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Many-core needs fine-grained scheduling: A case study of query processing on Intel Xeon Phi processors.</title>
+<pages>395-404</pages>
+<year>2018</year>
+<volume>120</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2017.09.005</ee>
+<url>db/journals/jpdc/jpdc120.html#ChengHLL18</url>
+</article>
+</r>
+<r><article key="journals/tpds/ZhouHCL17" mdate="2020-10-02">
+<author pid="131/6619">Amelie Chi Zhou</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>A Declarative Optimization Engine for Resource Provisioning of Scientific Workflows in Geo-Distributed Clouds.</title>
+<pages>647-661</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2016.2599529</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2016.2599529</ee>
+<url>db/journals/tpds/tpds28.html#ZhouHCL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ChengHDL17" mdate="2018-11-06">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="05/5619">Xiaoli Du</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>A Study of Main-Memory Hash Joins on Many-core Processor: A Case with Intel Knights Landing Architecture.</title>
+<pages>657-666</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132916</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#ChengHDL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChengHLLHG16" mdate="2018-11-06">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>Efficient Query Processing on Many-core Architectures: A Case Study with Intel Xeon Phi Processor.</title>
+<pages>2081-2084</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899407</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ChengHLLHG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/JhaHLCH15" mdate="2020-04-25">
+<author pid="130/2298">Saurabh Jha</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="76/1844">Mian Lu</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="27/2165">Huynh Phung Huynh</author>
+<title>Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach.</title>
+<pages>642-653</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p642-Jha.pdf</ee>
+<ee>https://doi.org/10.14778/2735703.2735704</ee>
+<url>db/journals/pvldb/pvldb8.html#JhaHLCH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/ChengHL15" mdate="2018-11-06">
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Energy-Efficient Query Processing on Embedded CPU-GPU Architectures.</title>
+<pages>10:1-10:7</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771939</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#ChengHL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpdc/ZhouHCL15" mdate="2018-11-06">
+<author pid="131/6619">Amelie Chi Zhou</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>A Declarative Optimization Engine for Resource Provisioning of Scientific Workflows in IaaS Clouds.</title>
+<pages>223-234</pages>
+<year>2015</year>
+<booktitle>HPDC</booktitle>
+<ee>https://doi.org/10.1145/2749246.2749251</ee>
+<crossref>conf/hpdc/2015</crossref>
+<url>db/conf/hpdc/hpdc2015.html#ZhouHCL15</url>
+</inproceedings>
+</r>
+<coauthors n="31" nc="1">
+<co c="0"><na f="c/Cao:Wei" pid="54/6265">Wei Cao</na></co>
+<co c="0"><na f="c/Chen:Rongyao" pid="272/3258">Rongyao Chen</na></co>
+<co c="0"><na f="c/Chen:Xinyu" pid="96/3374">Xinyu Chen</na></co>
+<co c="0"><na f="d/Du:Xiaoli" pid="05/5619">Xiaoli Du</na></co>
+<co c="0"><na f="g/Goh:Rick_Siow_Mong" pid="24/2670">Rick Siow Mong Goh</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0"><na f="h/He:Dengcheng" pid="82/7536">Dengcheng He</na></co>
+<co c="0"><na f="h/Huang:Gui" pid="243/2404">Gui Huang</na></co>
+<co c="0"><na f="h/Huang:Zhongdong" pid="17/402">Zhongdong Huang</na></co>
+<co c="0"><na f="h/Huynh:Huynh_Phung" pid="27/2165">Huynh Phung Huynh</na></co>
+<co c="0"><na f="j/Jha:Saurabh" pid="130/2298">Saurabh Jha</na></co>
+<co c="0"><na f="l/Lau:Chiew_Tong" pid="30/6609">Chiew Tong Lau</na></co>
+<co c="0"><na f="l/Li_0001:Feifei" pid="l/FeifeiLi">Feifei Li 0001</na></co>
+<co c="0"><na f="l/Li:Qiang" pid="72/872">Qiang Li</na></co>
+<co c="0"><na f="l/Liu:Cheng" pid="15/2288">Cheng Liu</na></co>
+<co c="0"><na f="l/Lo_0001:Eric" pid="80/2320">Eric Lo 0001</na></co>
+<co c="0"><na f="l/Lu:Mian" pid="76/1844">Mian Lu</na></co>
+<co c="0"><na f="l/Lu:Shengliang" pid="224/0965">Shengliang Lu</na></co>
+<co c="0"><na f="s/Sun:Jianling" pid="53/3693">Jianling Sun</na></co>
+<co c="0"><na f="w/Wang:Jianying" pid="06/2952">Jianying Wang</na></co>
+<co c="0"><na f="w/Wang:Sheng" pid="85/1868">Sheng Wang</na></co>
+<co c="0"><na f="w/Wang:Wei" pid="35/7092">Wei Wang</na></co>
+<co c="0"><na f="w/Wang:Yujie" pid="00/8454">Yujie Wang</na></co>
+<co c="0"><na f="w/Wu:Hong" pid="45/5963">Hong Wu</na></co>
+<co c="0"><na f="x/Xu:Hao" pid="43/6008">Hao Xu</na></co>
+<co c="0"><na f="y/Yang:Lei" pid="50/2484">Lei Yang</na></co>
+<co c="0"><na f="y/Yu:Nanlong" pid="263/3695">Nanlong Yu</na></co>
+<co c="0"><na f="z/Zhang:Teng" pid="38/5156">Teng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Tieying" pid="88/2750">Tieying Zhang</na></co>
+<co c="0"><na f="z/Zhou:Amelie_Chi" pid="131/6619">Amelie Chi Zhou</na></co>
+<co c="0"><na f="z/Zou_0001:Lei" pid="81/3390-1">Lei Zou 0001</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,1438 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7fe19063cec7f47225a06d92a74919d53c4df289c257b8cf0b5930fb32f1b855
-size 70160
+<?xml version="1.0"?>
+<dblpperson name="H. Brendan McMahan" pid="64/898" n="78">
+<person key="homepages/64/898" mdate="2019-01-10">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="64/898">Brendan McMahan</author>
+<url>http://research.google.com/pubs/author35837.html</url>
+<url>http://www.cs.cmu.edu/~mcmahan/</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=6506837280</url>
+<note type="affiliation">Google</note>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2103-00039" mdate="2021-03-04">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="86/4211-1">Shuang Song 0001</author>
+<author pid="166/1707">Om Thakkar 0001</author>
+<author pid="31/8315">Abhradeep Thakurta</author>
+<author pid="83/2535">Zheng Xu</author>
+<title>Practical and Private (Deep) Learning without Sampling or Shuffling.</title>
+<year>2021</year>
+<volume>abs/2103.00039</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00039</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00039</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/ZhuKMSL20" mdate="2020-06-29">
+<author pid="203/8213">Wennan Zhu</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="45/8692">Haicheng Sun</author>
+<author pid="64/6025">Wei Li</author>
+<title>Federated Heavy Hitters Discovery with Differential Privacy.</title>
+<pages>3837-3847</pages>
+<year>2020</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v108/zhu20a.html</ee>
+<crossref>conf/aistats/2020</crossref>
+<url>db/conf/aistats/aistats2020.html#ZhuKMSL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/AugensteinMRRKC20" mdate="2020-05-07">
+<author pid="64/9965">Sean Augenstein</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="242/9298">Swaroop Ramaswamy</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="58/9763">Mingqing Chen</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Generative Models for Effective ML on Private, Decentralized Datasets.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=SJgaRA4FPH</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#AugensteinMRRKC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/WoodworthPSDBMS20" mdate="2020-12-15">
+<author pid="191/6704">Blake E. Woodworth</author>
+<author pid="239/8754">Kumar Kshitij Patel</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="84/9625">Zhen Dai</author>
+<author pid="176/5583">Brian Bullins</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="12/5897">Ohad Shamir</author>
+<author pid="50/3633">Nathan Srebro</author>
+<title>Is Local SGD Better than Minibatch SGD?</title>
+<pages>10334-10343</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/woodworth20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#WoodworthPSDBMS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BalleKMTT20" mdate="2021-01-19">
+<author pid="06/8421">Borja Balle</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="166/1707">Om Dipakbhai Thakkar</author>
+<author pid="31/8315">Abhradeep Thakurta</author>
+<title>Privacy Amplification via Random Check-Ins.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/313f422ac583444ba6045cd122653b0e-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#BalleKMTT20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-07839" mdate="2021-01-23">
+<author pid="191/6704">Blake E. Woodworth</author>
+<author orcid="0000-0002-6886-6826" pid="239/8754">Kumar Kshitij Patel</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="84/9625">Zhen Dai</author>
+<author pid="176/5583">Brian Bullins</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="12/5897">Ohad Shamir</author>
+<author pid="50/3633">Nathan Srebro</author>
+<title>Is Local SGD Better than Minibatch SGD?</title>
+<year>2020</year>
+<volume>abs/2002.07839</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.07839</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-07839</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-00295" mdate="2020-03-10">
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="40/10701">Manzil Zaheer</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="249/8135">Keith Rush</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Adaptive Federated Optimization.</title>
+<year>2020</year>
+<volume>abs/2003.00295</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.00295</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-00295</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-06605" mdate="2020-07-21">
+<author pid="06/8421">Borja Balle</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="166/1707">Om Thakkar 0001</author>
+<author pid="31/8315">Abhradeep Thakurta</author>
+<title>Privacy Amplification via Random Check-Ins.</title>
+<year>2020</year>
+<volume>abs/2007.06605</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.06605</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-06605</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-10031" mdate="2020-09-23">
+<author pid="242/9298">Swaroop Ramaswamy</author>
+<author pid="166/1707">Om Thakkar 0001</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="31/1971">Galen Andrew</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="18/686">Fran&#231;oise Beaufays</author>
+<title>Training Production Language Models without Memorizing User Data.</title>
+<year>2020</year>
+<volume>abs/2009.10031</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.10031</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-10031</url>
+</article>
+</r>
+<r><inproceedings key="conf/acssc/BonawitzSKMG19" mdate="2020-11-04">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="194/2721">Fariborz Salehi</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="87/88">Marco Gruteser</author>
+<title>Federated Learning with Autotuned Communication-Efficient Secure Aggregation.</title>
+<pages>1222-1226</pages>
+<year>2019</year>
+<booktitle>ACSSC</booktitle>
+<ee>https://doi.org/10.1109/IEEECONF44664.2019.9049066</ee>
+<crossref>conf/acssc/2019</crossref>
+<url>db/conf/acssc/acssc2019.html#BonawitzSKMG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/EichnerKMST19" mdate="2019-06-11">
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="12/10044">Tomer Koren</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="50/3633">Nathan Srebro</author>
+<author pid="06/3696">Kunal Talwar</author>
+<title>Semi-Cyclic Stochastic Gradient Descent.</title>
+<pages>1764-1773</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/eichner19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#EichnerKMST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsys/BonawitzEGHIIKK19" mdate="2020-06-18">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="g/WolfgangGrieskamp">Wolfgang Grieskamp</author>
+<author pid="236/4655">Dzmitry Huba</author>
+<author pid="236/4397">Alex Ingerman</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="80/1223">Stefano Mazzocchi</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="47/10671">Timon Van Overveldt</author>
+<author pid="86/2622">David Petrou</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="236/4617">Jason Roselander</author>
+<title>Towards Federated Learning at Scale: System Design.</title>
+<year>2019</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/book/271.pdf</ee>
+<crossref>conf/mlsys/2019</crossref>
+<url>db/conf/mlsys/mlsys2019.html#BonawitzEGHIIKK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-01046" mdate="2019-05-21">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="g/WolfgangGrieskamp">Wolfgang Grieskamp</author>
+<author pid="236/4655">Dzmitry Huba</author>
+<author pid="236/4397">Alex Ingerman</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="80/1223">Stefano Mazzocchi</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/10671">Timon Van Overveldt</author>
+<author pid="86/2622">David Petrou</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="236/4617">Jason Roselander</author>
+<title>Towards Federated Learning at Scale: System Design.</title>
+<year>2019</year>
+<volume>abs/1902.01046</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.01046</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-01046</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-08534" mdate="2019-05-21">
+<author pid="203/8213">Wennan Zhu</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="45/8692">Haicheng Sun</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="64/6025">Wei Li</author>
+<title>Federated Heavy Hitters Discovery with Differential Privacy.</title>
+<year>2019</year>
+<volume>abs/1902.08534</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.08534</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-08534</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-03257" mdate="2021-01-26">
+<author pid="180/5513">Alexander Ratner</author>
+<author pid="36/3251">Dan Alistarh</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="53/8277">Sarah Bird</author>
+<author pid="145/1806">Nicholas Carlini</author>
+<author pid="14/4826">Bryan Catanzaro</author>
+<author pid="34/6550">Eric Chung</author>
+<author pid="d/WJDally">Bill Dally</author>
+<author pid="d/JeffreyDean">Jeff Dean</author>
+<author pid="d/InderjitSDhillon">Inderjit S. Dhillon</author>
+<author pid="19/5000">Alexandros G. Dimakis</author>
+<author pid="47/4438">Pradeep Dubey</author>
+<author pid="e/CharlesElkan">Charles Elkan</author>
+<author pid="61/2980">Grigori Fursin</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="80/806-3">Song Han 0003</author>
+<author pid="77/1117">Kim M. Hazelwood</author>
+<author pid="72/8513">Furong Huang</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="85/10260">Kevin G. Jamieson</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="36/4111">Rania Khalaf</author>
+<author pid="213/8147">Jason Knight</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="30/4308-1">Arun Kumar 0001</author>
+<author pid="53/9879">Anastasios Kyrillidis</author>
+<author orcid="0000-0001-5139-938X" pid="181/2820-73">Jing Li 0073</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="m/ErikMeijer">Erik Meijer 0001</author>
+<author pid="83/8757">Ioannis Mitliagkas</author>
+<author pid="99/10669">Rajat Monga</author>
+<author pid="82/1824">Derek Gordon Murray</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="51/11411">Theodoros Rekatsinas</author>
+<author pid="97/4479">Afshin Rostamizadeh</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="154/6336">Christopher De Sa</author>
+<author pid="66/8332">Hanie Sedghi</author>
+<author pid="58/968">Siddhartha Sen 0001</author>
+<author pid="120/0921">Virginia Smith</author>
+<author pid="s/AlexanderJSmola">Alex Smola</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="136/5765">Evan R. Sparks</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="49/3209">Vivienne Sze</author>
+<author pid="153/2166">Madeleine Udell</author>
+<author pid="85/5045">Joaquin Vanschoren</author>
+<author pid="65/8569">Shivaram Venkataraman</author>
+<author pid="239/4205">Rashmi Vinayak</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="65/10453">Andrew Gordon Wilson</author>
+<author pid="36/3855">Eric P. Xing</author>
+<author pid="36/2133">Matei Zaharia</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="56/5528">Ameet Talwalkar</author>
+<title>SysML: The New Frontier of Machine Learning Systems.</title>
+<year>2019</year>
+<volume>abs/1904.03257</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.03257</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-03257</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-10120" mdate="2019-04-26">
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="12/10044">Tomer Koren</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="50/3633">Nathan Srebro</author>
+<author pid="06/3696">Kunal Talwar</author>
+<title>Semi-Cyclic Stochastic Gradient Descent.</title>
+<year>2019</year>
+<volume>abs/1904.10120</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.10120</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-10120</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-03871" mdate="2020-02-04">
+<author pid="166/1707">Om Thakkar 0001</author>
+<author pid="31/1971">Galen Andrew</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Differentially Private Learning with Adaptive Clipping.</title>
+<year>2019</year>
+<volume>abs/1905.03871</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.03871</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-03871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-06679" mdate="2019-12-02">
+<author pid="64/9965">Sean Augenstein</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="242/9298">Swaroop Ramaswamy</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="58/9763">Mingqing Chen</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Generative Models for Effective ML on Private, Decentralized Datasets.</title>
+<year>2019</year>
+<volume>abs/1911.06679</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.06679</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-06679</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-07963" mdate="2019-12-02">
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Can You Really Backdoor Federated Learning?</title>
+<year>2019</year>
+<volume>abs/1911.07963</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.07963</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-07963</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-00131" mdate="2020-01-02">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="194/2721">Fariborz Salehi</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="87/88">Marco Gruteser</author>
+<title>Federated Learning with Autotuned Communication-Efficient Secure Aggregation.</title>
+<year>2019</year>
+<volume>abs/1912.00131</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.00131</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-00131</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/McMahanRT018" mdate="2019-07-25">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>Learning Differentially Private Recurrent Language Models.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BJ0hF1Z0b</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#McMahanRT018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AgarwalSYKM18" mdate="2021-01-21">
+<author pid="72/3910">Naman Agarwal</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">Brendan McMahan</author>
+<title>cpSGD: Communication-efficient and differentially-private distributed SGD.</title>
+<pages>7575-7586</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/21ce689121e39821d07d04faab328370-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7984-cpsgd-communication-efficient-and-differentially-private-distributed-sgd</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#AgarwalSYKM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/WoodworthWSMS18" mdate="2021-01-21">
+<author pid="191/6704">Blake E. Woodworth</author>
+<author pid="63/10549">Jialei Wang</author>
+<author pid="04/5072">Adam D. Smith</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="50/3633">Nati Srebro</author>
+<title>Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization.</title>
+<pages>8505-8515</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/3ec27c2cff04bc5fd2586ca36c62044e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8069-graph-oracle-models-lower-bounds-and-gaps-for-parallel-stochastic-optimization</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#WoodworthWSMS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-10222" mdate="2018-08-13">
+<author pid="191/6704">Blake E. Woodworth</author>
+<author pid="63/10549">Jialei Wang</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="50/3633">Nathan Srebro</author>
+<title>Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization.</title>
+<year>2018</year>
+<volume>abs/1805.10222</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.10222</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-10222</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-10559" mdate="2018-08-13">
+<author pid="72/3910">Naman Agarwal</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>cpSGD: Communication-efficient and differentially-private distributed SGD.</title>
+<year>2018</year>
+<volume>abs/1805.10559</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.10559</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-10559</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-01097" mdate="2020-12-23">
+<author pid="232/1799">Sebastian Caldas</author>
+<author pid="44/3072">Peter Wu</author>
+<author pid="91/7844-5">Tian Li 0005</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="120/0921">Virginia Smith</author>
+<author pid="56/5528">Ameet Talwalkar</author>
+<title>LEAF: A Benchmark for Federated Settings.</title>
+<year>2018</year>
+<volume>abs/1812.01097</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.01097</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-01097</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-06210" mdate="2019-01-01">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="31/1971">Galen Andrew</author>
+<title>A General Approach to Adding Differential Privacy to Iterative Training Procedures.</title>
+<year>2018</year>
+<volume>abs/1812.06210</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.06210</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-06210</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-07210" mdate="2019-01-01">
+<author pid="232/1799">Sebastian Caldas</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="56/5528">Ameet Talwalkar</author>
+<title>Expanding the Reach of Federated Learning by Reducing Client Resource Requirements.</title>
+<year>2018</year>
+<volume>abs/1812.07210</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.07210</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-07210</url>
+</article>
+</r>
+<r><article key="journals/jmlr/McMahan17" mdate="2019-07-10">
+<author pid="64/898">H. Brendan McMahan</author>
+<title>A survey of Algorithms and Analysis for Adaptive Online Learning.</title>
+<pages>90:1-90:50</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v18/14-428.html</ee>
+<url>db/journals/jmlr/jmlr18.html#McMahan17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/McMahanMRHA17" mdate="2019-04-03">
+<author pid="64/898">Brendan McMahan</author>
+<author pid="176/5430">Eider Moore</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="202/1252">Seth Hampson</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Communication-Efficient Learning of Deep Networks from Decentralized Data.</title>
+<pages>1273-1282</pages>
+<year>2017</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v54/mcmahan17a.html</ee>
+<crossref>conf/aistats/2017</crossref>
+<url>db/conf/aistats/aistats2017.html#McMahanMRHA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/BonawitzIKMMPRS17" mdate="2020-11-10">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="190/7832">Ben Kreuter</author>
+<author pid="138/8983">Antonio Marcedone</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="04/773">Sarvar Patel</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="63/10309">Aaron Segal</author>
+<author pid="125/0309">Karn Seth</author>
+<title>Practical Secure Aggregation for Privacy-Preserving Machine Learning.</title>
+<pages>1175-1191</pages>
+<year>2017</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3133956.3133982</ee>
+<crossref>conf/ccs/2017</crossref>
+<url>db/conf/ccs/ccs2017.html#BonawitzIKMMPRS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csfw/AbadiEGMMPTZ17" mdate="2018-11-02">
+<author pid="a/MartinAbadi">Mart&#237;n Abadi</author>
+<author pid="e/UErlingsson">&#218;lfar Erlingsson</author>
+<author pid="43/7940">Ian J. Goodfellow</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author orcid="0000-0002-2149-1916" pid="19/5860">Ilya Mironov</author>
+<author pid="162/1405">Nicolas Papernot</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>On the Protection of Private Information in Machine Learning Systems: Two Recent Approches.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>CSF</booktitle>
+<ee>https://doi.org/10.1109/CSF.2017.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSF.2017.10</ee>
+<crossref>conf/csfw/2017</crossref>
+<url>db/conf/csfw/csf2017.html#AbadiEGMMPTZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SureshYKM17" mdate="2019-04-03">
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Distributed Mean Estimation with Limited Communication.</title>
+<pages>3329-3337</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/suresh17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SureshYKM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-08022" mdate="2018-08-13">
+<author pid="a/MartinAbadi">Mart&#237;n Abadi</author>
+<author pid="e/UErlingsson">&#218;lfar Erlingsson</author>
+<author pid="43/7940">Ian J. Goodfellow</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="19/5860">Ilya Mironov</author>
+<author pid="162/1405">Nicolas Papernot</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>On the Protection of Private Information in Machine Learning Systems: Two Recent Approaches.</title>
+<year>2017</year>
+<volume>abs/1708.08022</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.08022</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-08022</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-06963" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>Learning Differentially Private Language Models Without Losing Accuracy.</title>
+<year>2017</year>
+<volume>abs/1710.06963</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.06963</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-06963</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BonawitzIKMMPRS17" mdate="2020-05-11">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="190/7832">Ben Kreuter</author>
+<author pid="138/8983">Antonio Marcedone</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="04/773">Sarvar Patel</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="63/10309">Aaron Segal</author>
+<author pid="125/0309">Karn Seth</author>
+<title>Practical Secure Aggregation for Privacy Preserving Machine Learning.</title>
+<pages>281</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/281</ee>
+<url>db/journals/iacr/iacr2017.html#BonawitzIKMMPRS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/AbadiCGMMT016" mdate="2020-11-10">
+<author pid="a/MartinAbadi">Mart&#237;n Abadi</author>
+<author pid="76/7857">Andy Chu</author>
+<author pid="43/7940">Ian J. Goodfellow</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author orcid="0000-0002-2149-1916" pid="19/5860">Ilya Mironov</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>Deep Learning with Differential Privacy.</title>
+<pages>308-318</pages>
+<year>2016</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2976749.2978318</ee>
+<ee>https://www.wikidata.org/entity/Q50262154</ee>
+<crossref>conf/ccs/2016</crossref>
+<url>db/conf/ccs/ccs2016.html#AbadiCGMMT016</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/McMahanMRA16" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="176/5430">Eider Moore</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Federated Learning of Deep Networks using Model Averaging.</title>
+<year>2016</year>
+<volume>abs/1602.05629</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.05629</ee>
+<url>db/journals/corr/corr1602.html#McMahanMRA16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AbadiCGMMTZ16" mdate="2018-08-13">
+<author pid="a/MartinAbadi">Mart&#237;n Abadi</author>
+<author pid="76/7857">Andy Chu</author>
+<author pid="43/7940">Ian J. Goodfellow</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="19/5860">Ilya Mironov</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>Deep Learning with Differential Privacy.</title>
+<year>2016</year>
+<volume>abs/1607.00133</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.00133</ee>
+<url>db/journals/corr/corr1607.html#AbadiCGMMTZ16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KonecnyMRR16" mdate="2018-08-13">
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="62/8001">Peter Richt&#225;rik</author>
+<title>Federated Optimization: Distributed Machine Learning for On-Device Intelligence.</title>
+<year>2016</year>
+<volume>abs/1610.02527</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.02527</ee>
+<url>db/journals/corr/corr1610.html#KonecnyMRR16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KonecnyMYRSB16" mdate="2018-08-13">
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="62/8001">Peter Richt&#225;rik</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="37/2931">Dave Bacon</author>
+<title>Federated Learning: Strategies for Improving Communication Efficiency.</title>
+<year>2016</year>
+<volume>abs/1610.05492</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.05492</ee>
+<url>db/journals/corr/corr1610.html#KonecnyMYRSB16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SureshYMK16" mdate="2018-08-13">
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<title>Distributed Mean Estimation with Limited Communication.</title>
+<year>2016</year>
+<volume>abs/1611.00429</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.00429</ee>
+<url>db/journals/corr/corr1611.html#SureshYMK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BonawitzIKMMPRS16" mdate="2018-08-13">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="190/7832">Ben Kreuter</author>
+<author pid="138/8983">Antonio Marcedone</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="04/773">Sarvar Patel</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="63/10309">Aaron Segal</author>
+<author pid="125/0309">Karn Seth</author>
+<title>Practical Secure Aggregation for Federated Learning on User-Held Data.</title>
+<year>2016</year>
+<volume>abs/1611.04482</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.04482</ee>
+<url>db/journals/corr/corr1611.html#BonawitzIKMMPRS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KonecnyMR15" mdate="2018-08-13">
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Federated Optimization: Distributed Optimization Beyond the Datacenter.</title>
+<year>2015</year>
+<volume>abs/1511.03575</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.03575</ee>
+<url>db/journals/corr/corr1511.html#KonecnyMR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/McMahanO14" mdate="2019-05-29">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="80/3790">Francesco Orabona</author>
+<title>Unconstrained Online Linear Learning in Hilbert Spaces: Minimax Algorithms and Normal Approximations.</title>
+<pages>1020-1039</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/mcmahan14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#McMahanO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/McMahanS14" mdate="2021-01-21">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/6068">Matthew J. Streeter</author>
+<title>Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning.</title>
+<pages>2915-2923</pages>
+<year>2014</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2014/hash/5cce8dede893813f879b873962fb669f-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning</ee>
+<crossref>conf/nips/2014</crossref>
+<url>db/conf/nips/nips2014.html#McMahanS14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/McMahanO14" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="80/3790">Francesco Orabona</author>
+<title>Unconstrained Online Linear Learning in Hilbert Spaces: Minimax Algorithms and Normal Approximations.</title>
+<year>2014</year>
+<volume>abs/1403.0628</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.0628</ee>
+<url>db/journals/corr/corr1403.html#McMahanO14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/McMahan14" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Analysis Techniques for Adaptive Online Learning.</title>
+<year>2014</year>
+<volume>abs/1403.3465</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.3465</ee>
+<url>db/journals/corr/corr1403.html#McMahan14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/GolovinSMY13" mdate="2019-05-29">
+<author pid="34/2538">Daniel Golovin</author>
+<author pid="s/DSculley">D. Sculley</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="18/6094">Michael Young</author>
+<title>Large-Scale Learning with Less RAM via Randomization.</title>
+<pages>325-333</pages>
+<year>2013</year>
+<booktitle>ICML (2)</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v28/golovin13.html</ee>
+<crossref>conf/icml/2013</crossref>
+<url>db/conf/icml/icml2013.html#GolovinSMY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/McMahanHSYEGNPDGCLWHBK13" mdate="2018-11-06">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="134/4009">Gary Holt</author>
+<author pid="s/DSculley">David Sculley</author>
+<author pid="18/6094">Michael Young</author>
+<author pid="27/6365">Dietmar Ebner</author>
+<author pid="134/3986">Julian Grady</author>
+<author pid="39/6840">Lan Nie</author>
+<author pid="48/2352">Todd Phillips</author>
+<author pid="44/4706">Eugene Davydov</author>
+<author pid="34/2538">Daniel Golovin</author>
+<author pid="84/5368">Sharat Chikkerur</author>
+<author pid="03/1467">Dan Liu</author>
+<author pid="w/MartinWattenberg">Martin Wattenberg</author>
+<author pid="134/4005">Arnar Mar Hrafnkelsson</author>
+<author pid="134/4048">Tom Boulos</author>
+<author pid="73/4737">Jeremy Kubica</author>
+<title>Ad click prediction: a view from the trenches.</title>
+<pages>1222-1230</pages>
+<year>2013</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2487575.2488200</ee>
+<crossref>conf/kdd/2013</crossref>
+<url>db/conf/kdd/kdd2013.html#McMahanHSYEGNPDGCLWHBK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/McMahanA13" mdate="2021-01-21">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="91/2520">Jacob D. Abernethy</author>
+<title>Minimax Optimal Algorithms for Unconstrained Linear Optimization.</title>
+<pages>2724-2732</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/e00406144c1e7e35240afed70f34166a-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5148-minimax-optimal-algorithms-for-unconstrained-linear-optimization</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#McMahanA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DuchiJM13" mdate="2021-01-21">
+<author pid="41/439">John C. Duchi</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Estimation, Optimization, and Parallelism when Data is Sparse.</title>
+<pages>2832-2840</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/2812e5cf6d8f21d69c91dddeefb792a7-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4939-estimation-optimization-and-parallelism-when-data-is-sparse</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#DuchiJM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-2176" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Minimax Optimal Algorithms for Unconstrained Linear Optimization</title>
+<ee type="oa">http://arxiv.org/abs/1302.2176</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.2176</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-2176</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-4664" mdate="2018-08-13">
+<author pid="34/2538">Daniel Golovin</author>
+<author pid="s/DSculley">D. Sculley</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="18/6094">Michael Young</author>
+<title>Large-Scale Learning with Less RAM via Randomization</title>
+<ee type="oa">http://arxiv.org/abs/1303.4664</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.4664</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-4664</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/StreeterM12" mdate="2021-01-21">
+<author pid="23/6068">Matthew J. Streeter</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>No-Regret Algorithms for Unconstrained Online Convex Optimization.</title>
+<pages>2411-2419</pages>
+<year>2012</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2012/hash/38ca89564b2259401518960f7a06f94b-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4709-no-regret-algorithms-for-unconstrained-online-convex-optimization</ee>
+<crossref>conf/nips/2012</crossref>
+<url>db/conf/nips/nips2012.html#StreeterM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/McMahanS12" mdate="2019-05-29">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/6068">Matthew J. Streeter</author>
+<title>Open Problem: Better Bounds for Online Logistic Regression.</title>
+<pages>44.1-44.3</pages>
+<booktitle>COLT</booktitle>
+<year>2012</year>
+<crossref>conf/colt/2012</crossref>
+<ee type="oa">http://proceedings.mlr.press/v23/mcmahan12/mcmahan12.pdf</ee>
+<url>db/journals/jmlr/jmlrp23.html#McMahanS12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-2260" mdate="2018-08-13">
+<author pid="23/6068">Matthew J. Streeter</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>No-Regret Algorithms for Unconstrained Online Convex Optimization</title>
+<ee type="oa">http://arxiv.org/abs/1211.2260</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.2260</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-2260</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-3955" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="122/2926">Omkar Muralidharan</author>
+<title>On Calibrated Predictions for Auction Selection Mechanisms</title>
+<ee type="oa">http://arxiv.org/abs/1211.3955</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.3955</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-3955</url>
+</article>
+</r>
+<r><inproceedings key="journals/jmlr/McMahan11" mdate="2019-05-29">
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Discussion of &#34;Contextual Bandit Algorithms with Supervised Learning Guarantees&#34;.</title>
+<pages>27-28</pages>
+<booktitle>AISTATS</booktitle>
+<year>2011</year>
+<crossref>conf/aistats/2011</crossref>
+<ee type="oa">http://proceedings.mlr.press/v15/mcmahan11a/mcmahan11a.pdf</ee>
+<url>db/journals/jmlr/jmlrp15.html#McMahan11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/McMahan11a" mdate="2019-05-29">
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization.</title>
+<pages>525-533</pages>
+<booktitle>AISTATS</booktitle>
+<year>2011</year>
+<crossref>conf/aistats/2011</crossref>
+<ee type="oa">http://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf</ee>
+<url>db/journals/jmlr/jmlrp15.html#McMahan11a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/McMahanS10" mdate="2013-02-19">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/6068">Matthew J. Streeter</author>
+<title>Adaptive Bound Optimization for Online Convex Optimization.</title>
+<pages>244-256</pages>
+<year>2010</year>
+<booktitle>COLT</booktitle>
+<ee>http://colt2010.haifa.il.ibm.com/papers/COLT2010proceedings.pdf#page=252</ee>
+<crossref>conf/colt/2010</crossref>
+<url>db/conf/colt/colt2010.html#McMahanS10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-4862" mdate="2018-08-13">
+<author pid="23/6068">Matthew J. Streeter</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Less Regret via Online Conditioning</title>
+<ee type="oa">http://arxiv.org/abs/1002.4862</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.4862</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-4862</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-4908" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/6068">Matthew J. Streeter</author>
+<title>Adaptive Bound Optimization for Online Convex Optimization</title>
+<ee type="oa">http://arxiv.org/abs/1002.4908</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.4908</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-4908</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1009-3240" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and Implicit Updates</title>
+<ee type="oa">http://arxiv.org/abs/1009.3240</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1009.3240</volume>
+<url>db/journals/corr/corr1009.html#abs-1009-3240</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/McMahanS09" mdate="2021-02-04">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="23/6068">Matthew J. Streeter</author>
+<title>Tighter Bounds for Multi-Armed Bandits with Expert Advice.</title>
+<year>2009</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://www.cs.mcgill.ca/~colt2009/papers/023.pdf#page=1</ee>
+<crossref>conf/colt/2009</crossref>
+<url>db/conf/colt/colt2009.html#McMahanS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/KanadeMB09" mdate="2019-05-29">
+<author pid="31/6692">Varun Kanade</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="72/1936">Brent Bryan</author>
+<title>Sleeping Experts and Bandits with Stochastic Action Availability and Adversarial Rewards.</title>
+<pages>272-279</pages>
+<booktitle>AISTATS</booktitle>
+<year>2009</year>
+<crossref>conf/aistats/2009</crossref>
+<ee type="oa">http://proceedings.mlr.press/v5/kanade09a.html</ee>
+<url>db/journals/jmlr/jmlrp5.html#KanadeMB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/McMahanG07" mdate="2021-02-10">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<title>A Unification of Extensive-Form Games and Markov Decision Processes.</title>
+<pages>86-93</pages>
+<year>2007</year>
+<crossref>conf/aaai/2007</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2007.html#McMahanG07</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-013.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BryanMSS07" mdate="2018-11-06">
+<author pid="72/1936">Brent Bryan</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="87/4098">Chad M. Schafer</author>
+<author pid="38/247">Jeff G. Schneider</author>
+<title>Efficiently computing minimax expected-size confidence regions.</title>
+<pages>97-104</pages>
+<year>2007</year>
+<crossref>conf/icml/2007</crossref>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1273496.1273509</ee>
+<url>db/conf/icml/icml2007.html#BryanMSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KrauseMGG07" mdate="2021-01-21">
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="38/769">Carlos Guestrin</author>
+<author pid="27/2931">Anupam Gupta</author>
+<title>Selecting Observations against Adversarial Objectives.</title>
+<year>2007</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2007/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3341-selecting-observations-against-adversarial-objectives</ee>
+<crossref>conf/nips/2007</crossref>
+<url>db/conf/nips/nips2007.html#KrauseMGG07</url>
+<pages>777-784</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/McMahanG07" mdate="2019-05-29">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<title>A Fast Bundle-based Anytime Algorithm for Poker and other Convex Games.</title>
+<pages>323-330</pages>
+<booktitle>AISTATS</booktitle>
+<year>2007</year>
+<crossref>conf/aistats/2007</crossref>
+<ee type="oa">http://proceedings.mlr.press/v2/mcmahan07a.html</ee>
+<url>db/journals/jmlr/jmlrp2.html#McMahanG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/McMahanG05" mdate="2021-02-05">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<title>Fast Exact Planning in Markov Decision Processes.</title>
+<pages>151-160</pages>
+<year>2005</year>
+<crossref>conf/aips/2005</crossref>
+<booktitle>ICAPS</booktitle>
+<url>db/conf/aips/icaps2005.html#McMahanG05</url>
+<ee type="oa">http://www.aaai.org/Library/ICAPS/2005/icaps05-016.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/McMahanLG05" mdate="2018-11-06">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<title>Bounded real-time dynamic programming: RTDP with monotone upper bounds and performance guarantees.</title>
+<pages>569-576</pages>
+<year>2005</year>
+<crossref>conf/icml/2005</crossref>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1102351.1102423</ee>
+<url>db/conf/icml/icml2005.html#McMahanLG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/FlaxmanKM05" mdate="2012-12-07">
+<author pid="f/AbrahamDFlaxman">Abraham Flaxman</author>
+<author pid="k/AdamTaumanKalai">Adam Tauman Kalai</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Online convex optimization in the bandit setting: gradient descent without a gradient.</title>
+<pages>385-394</pages>
+<year>2005</year>
+<crossref>conf/soda/2005</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1070432.1070486</ee>
+<url>db/conf/soda/soda2005.html#FlaxmanKM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/McMahanP04" mdate="2021-02-11">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="66/3206">Andrzej Proskurowski</author>
+<title>Multi-source spanning trees: algorithms for minimizing source eccentricities.</title>
+<pages>213-222</pages>
+<year>2004</year>
+<volume>137</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/S0166-218X(03)00262-2</ee>
+<url>db/journals/dam/dam137.html#McMahanP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/McMahanB04" mdate="2017-05-21">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="b/AvrimBlum">Avrim Blum</author>
+<title>Online Geometric Optimization in the Bandit Setting Against an Adaptive Adversary.</title>
+<pages>109-123</pages>
+<ee>https://doi.org/10.1007/978-3-540-27819-1_8</ee>
+<year>2004</year>
+<crossref>conf/colt/2004</crossref>
+<booktitle>COLT</booktitle>
+<url>db/conf/colt/colt2004.html#McMahanB04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-LG-0408007" mdate="2018-08-13">
+<author pid="f/AbrahamDFlaxman">Abraham Flaxman</author>
+<author pid="k/AdamTaumanKalai">Adam Tauman Kalai</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Online convex optimization in the bandit setting: gradient descent without a gradient</title>
+<ee type="oa">http://arxiv.org/abs/cs.LG/0408007</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.LG/0408007</volume>
+<url>db/journals/corr/corr0408.html#cs-LG-0408007</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/McMahanGB03" mdate="2012-12-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<author pid="b/AvrimBlum">Avrim Blum</author>
+<title>Planning in the Presence of Cost Functions Controlled by an Adversary.</title>
+<pages>536-543</pages>
+<year>2003</year>
+<crossref>conf/icml/2003</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml2003.html#McMahanGB03</url>
+<ee>http://www.aaai.org/Library/ICML/2003/icml03-071.php</ee>
+</inproceedings>
+</r>
+<coauthors n="209" nc="1">
+<co c="0"><na f="a/Abadi:Mart=iacute=n" pid="a/MartinAbadi">Mart&#237;n Abadi</na></co>
+<co c="0"><na f="a/Abernethy:Jacob_D=" pid="91/2520">Jacob D. Abernethy</na></co>
+<co c="0"><na f="a/Agarwal:Naman" pid="72/3910">Naman Agarwal</na></co>
+<co c="0"><na f="a/Alistarh:Dan" pid="36/3251">Dan Alistarh</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Andrew:Galen" pid="31/1971">Galen Andrew</na></co>
+<co c="0"><na f="a/Arcas:Blaise_Ag=uuml=era_y" pid="71/6378">Blaise Ag&#252;era y Arcas</na></co>
+<co c="0"><na f="a/Augenstein:Sean" pid="64/9965">Sean Augenstein</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Bacon:Dave" pid="37/2931">Dave Bacon</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balle:Borja" pid="06/8421">Borja Balle</na></co>
+<co c="0"><na f="b/Beaufays:Fran=ccedil=oise" pid="18/686">Fran&#231;oise Beaufays</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bird:Sarah" pid="53/8277">Sarah Bird</na></co>
+<co c="0"><na f="b/Blum:Avrim" pid="b/AvrimBlum">Avrim Blum</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="b/Boulos:Tom" pid="134/4048">Tom Boulos</na></co>
+<co c="0"><na f="b/Bryan:Brent" pid="72/1936">Brent Bryan</na></co>
+<co c="0"><na f="b/Bullins:Brian" pid="176/5583">Brian Bullins</na></co>
+<co c="0"><na f="c/Caldas:Sebastian" pid="232/1799">Sebastian Caldas</na></co>
+<co c="0"><na f="c/Carlini:Nicholas" pid="145/1806">Nicholas Carlini</na></co>
+<co c="0"><na f="c/Catanzaro:Bryan" pid="14/4826">Bryan Catanzaro</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0"><na f="c/Chen:Mingqing" pid="58/9763">Mingqing Chen</na></co>
+<co c="0"><na f="c/Chikkerur:Sharat" pid="84/5368">Sharat Chikkerur</na></co>
+<co c="0"><na f="c/Chu:Andy" pid="76/7857">Andy Chu</na></co>
+<co c="0"><na f="c/Chung:Eric" pid="34/6550">Eric Chung</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0"><na f="d/Dai:Zhen" pid="84/9625">Zhen Dai</na></co>
+<co c="0" n="2"><na f="d/Dally:William_J=" pid="d/WJDally">William J. Dally</na><na>Bill Dally</na></co>
+<co c="0"><na f="d/Davydov:Eugene" pid="44/4706">Eugene Davydov</na></co>
+<co c="0" n="2"><na f="d/Dean:Jeffrey" pid="d/JeffreyDean">Jeffrey Dean</na><na>Jeff Dean</na></co>
+<co c="0"><na f="d/Dhillon:Inderjit_S=" pid="d/InderjitSDhillon">Inderjit S. Dhillon</na></co>
+<co c="0"><na f="d/Dimakis:Alexandros_G=" pid="19/5000">Alexandros G. Dimakis</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="d/Dubey:Pradeep" pid="47/4438">Pradeep Dubey</na></co>
+<co c="0"><na f="d/Duchi:John_C=" pid="41/439">John C. Duchi</na></co>
+<co c="0"><na f="e/Ebner:Dietmar" pid="27/6365">Dietmar Ebner</na></co>
+<co c="0"><na f="e/Eichner:Hubert" pid="51/4346">Hubert Eichner</na></co>
+<co c="0"><na f="e/Elkan:Charles" pid="e/CharlesElkan">Charles Elkan</na></co>
+<co c="0"><na f="e/Erlingsson:=Uacute=lfar" pid="e/UErlingsson">&#218;lfar Erlingsson</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0" n="2"><na f="f/Flaxman:Abraham_D=" pid="f/AbrahamDFlaxman">Abraham D. Flaxman</na><na>Abraham Flaxman</na></co>
+<co c="0"><na f="f/Fursin:Grigori" pid="61/2980">Grigori Fursin</na></co>
+<co c="0"><na f="g/Ganger:Gregory_R=" pid="g/GregoryRGanger">Gregory R. Ganger</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Getoor:Lise" pid="g/LiseGetoor">Lise Getoor</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Gibson:Garth_A=" pid="g/GarthAGibson">Garth A. Gibson</na></co>
+<co c="0"><na f="g/Golovin:Daniel" pid="34/2538">Daniel Golovin</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0"><na f="g/Goodfellow:Ian_J=" pid="43/7940">Ian J. Goodfellow</na></co>
+<co c="0"><na f="g/Gordon:Geoffrey_J=" pid="41/487">Geoffrey J. Gordon</na></co>
+<co c="0" n="2"><na f="g/Gottschlich:Justin_Emile" pid="56/2013">Justin Emile Gottschlich</na><na>Justin Gottschlich</na></co>
+<co c="0"><na f="g/Grady:Julian" pid="134/3986">Julian Grady</na></co>
+<co c="0"><na f="g/Grieskamp:Wolfgang" pid="g/WolfgangGrieskamp">Wolfgang Grieskamp</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="g/Guestrin:Carlos" pid="38/769">Carlos Guestrin</na></co>
+<co c="0"><na f="g/Gupta:Anupam" pid="27/2931">Anupam Gupta</na></co>
+<co c="0"><na f="h/Hampson:Seth" pid="202/1252">Seth Hampson</na></co>
+<co c="0"><na f="h/Han_0003:Song" pid="80/806-3">Song Han 0003</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/Hazelwood:Kim_M=" pid="77/1117">Kim M. Hazelwood</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Holt:Gary" pid="134/4009">Gary Holt</na></co>
+<co c="0"><na f="h/Hrafnkelsson:Arnar_Mar" pid="134/4005">Arnar Mar Hrafnkelsson</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huang:Furong" pid="72/8513">Furong Huang</na></co>
+<co c="0"><na f="h/Huba:Dzmitry" pid="236/4655">Dzmitry Huba</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="i/Ingerman:Alex" pid="236/4397">Alex Ingerman</na></co>
+<co c="0"><na f="i/Ivanov:Vladimir" pid="89/4816">Vladimir Ivanov</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Jamieson:Kevin_G=" pid="85/10260">Kevin G. Jamieson</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="0"><na f="j/Jordan:Michael_I=" pid="j/MichaelIJordan">Michael I. Jordan</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Kalai:Adam_Tauman" pid="k/AdamTaumanKalai">Adam Tauman Kalai</na></co>
+<co c="0"><na f="k/Kanade:Varun" pid="31/6692">Varun Kanade</na></co>
+<co c="0"><na f="k/Khalaf:Rania" pid="36/4111">Rania Khalaf</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Kiddon:Chlo=eacute=" pid="08/10907">Chlo&#233; Kiddon</na></co>
+<co c="0"><na f="k/Knight:Jason" pid="213/8147">Jason Knight</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Koren:Tomer" pid="12/10044">Tomer Koren</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krause_0001:Andreas" pid="87/1831-1">Andreas Krause 0001</na></co>
+<co c="0"><na f="k/Kreuter:Ben" pid="190/7832">Ben Kreuter</na></co>
+<co c="0"><na f="k/Kubica:Jeremy" pid="73/4737">Jeremy Kubica</na></co>
+<co c="0"><na f="k/Kumar_0001:Arun" pid="30/4308-1">Arun Kumar 0001</na></co>
+<co c="0"><na f="k/Kumar:Sanjiv" pid="66/6804">Sanjiv Kumar</na></co>
+<co c="0"><na f="k/Kyrillidis:Anastasios" pid="53/9879">Anastasios Kyrillidis</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Li_0073:Jing" pid="181/2820-73">Jing Li 0073</na></co>
+<co c="0"><na f="l/Li_0005:Tian" pid="91/7844-5">Tian Li 0005</na></co>
+<co c="0"><na f="l/Li:Wei" pid="64/6025">Wei Li</na></co>
+<co c="0"><na f="l/Likhachev:Maxim" pid="33/1426">Maxim Likhachev</na></co>
+<co c="0"><na f="l/Liu:Dan" pid="03/1467">Dan Liu</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="m/Madden:Samuel" pid="m/SamuelMadden">Samuel Madden</na></co>
+<co c="0"><na f="m/Marcedone:Antonio" pid="138/8983">Antonio Marcedone</na></co>
+<co c="0"><na f="m/Mathews:Rajiv" pid="230/3901">Rajiv Mathews</na></co>
+<co c="0"><na f="m/Mazzocchi:Stefano" pid="80/1223">Stefano Mazzocchi</na></co>
+<co c="0"><na f="m/Meijer_0001:Erik" pid="m/ErikMeijer">Erik Meijer 0001</na></co>
+<co c="0"><na f="m/Mironov:Ilya" pid="19/5860">Ilya Mironov</na></co>
+<co c="0"><na f="m/Mitliagkas:Ioannis" pid="83/8757">Ioannis Mitliagkas</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="m/Monga:Rajat" pid="99/10669">Rajat Monga</na></co>
+<co c="0"><na f="m/Moore:Eider" pid="176/5430">Eider Moore</na></co>
+<co c="-1"><na f="m/Muralidharan:Omkar" pid="122/2926">Omkar Muralidharan</na></co>
+<co c="0"><na f="m/Murray:Derek_Gordon" pid="82/1824">Derek Gordon Murray</na></co>
+<co c="0"><na f="n/Nie:Lan" pid="39/6840">Lan Nie</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="o/Orabona:Francesco" pid="80/3790">Francesco Orabona</na></co>
+<co c="0"><na f="o/Overveldt:Timon_Van" pid="47/10671">Timon Van Overveldt</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Papailiopoulos:Dimitris_S=" pid="77/344">Dimitris S. Papailiopoulos</na></co>
+<co c="0"><na f="p/Papernot:Nicolas" pid="162/1405">Nicolas Papernot</na></co>
+<co c="0"><na f="p/Patel:Kumar_Kshitij" pid="239/8754">Kumar Kshitij Patel</na></co>
+<co c="0"><na f="p/Patel:Sarvar" pid="04/773">Sarvar Patel</na></co>
+<co c="0"><na f="p/Pekhimenko:Gennady" pid="118/8979">Gennady Pekhimenko</na></co>
+<co c="0"><na f="p/Petrou:David" pid="86/2622">David Petrou</na></co>
+<co c="0"><na f="p/Phillips:Todd" pid="48/2352">Todd Phillips</na></co>
+<co c="-1"><na f="p/Proskurowski:Andrzej" pid="66/3206">Andrzej Proskurowski</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0"><na f="r/Ramaswamy:Swaroop" pid="242/9298">Swaroop Ramaswamy</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Ratner:Alexander" pid="180/5513">Alexander Ratner</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Reddi:Sashank_J=" pid="50/10452">Sashank J. Reddi</na></co>
+<co c="0"><na f="r/Rekatsinas:Theodoros" pid="51/11411">Theodoros Rekatsinas</na></co>
+<co c="0"><na f="r/Richt=aacute=rik:Peter" pid="62/8001">Peter Richt&#225;rik</na></co>
+<co c="0"><na f="r/Roselander:Jason" pid="236/4617">Jason Roselander</na></co>
+<co c="0"><na f="r/Rostamizadeh:Afshin" pid="97/4479">Afshin Rostamizadeh</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="r/Rush:Keith" pid="249/8135">Keith Rush</na></co>
+<co c="0"><na f="s/Sa:Christopher_De" pid="154/6336">Christopher De Sa</na></co>
+<co c="0"><na f="s/Salehi:Fariborz" pid="194/2721">Fariborz Salehi</na></co>
+<co c="0"><na f="s/Schafer:Chad_M=" pid="87/4098">Chad M. Schafer</na></co>
+<co c="0"><na f="s/Schneider:Jeff_G=" pid="38/247">Jeff G. Schneider</na></co>
+<co c="0" n="2"><na f="s/Sculley:D=" pid="s/DSculley">D. Sculley</na><na>David Sculley</na></co>
+<co c="0"><na f="s/Sedghi:Hanie" pid="66/8332">Hanie Sedghi</na></co>
+<co c="0"><na f="s/Segal:Aaron" pid="63/10309">Aaron Segal</na></co>
+<co c="0"><na f="s/Sen_0001:Siddhartha" pid="58/968">Siddhartha Sen 0001</na></co>
+<co c="0"><na f="s/Seth:Karn" pid="125/0309">Karn Seth</na></co>
+<co c="0"><na f="s/Shamir:Ohad" pid="12/5897">Ohad Shamir</na></co>
+<co c="0"><na f="s/Smith:Adam_D=" pid="04/5072">Adam D. Smith</na></co>
+<co c="0"><na f="s/Smith:Virginia" pid="120/0921">Virginia Smith</na></co>
+<co c="0" n="2"><na f="s/Smola:Alexander_J=" pid="s/AlexanderJSmola">Alexander J. Smola</na><na>Alex Smola</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song_0001:Shuang" pid="86/4211-1">Shuang Song 0001</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Sparks:Evan_R=" pid="136/5765">Evan R. Sparks</na></co>
+<co c="0" n="2"><na f="s/Srebro:Nathan" pid="50/3633">Nathan Srebro</na><na>Nati Srebro</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Streeter:Matthew_J=" pid="23/6068">Matthew J. Streeter</na></co>
+<co c="0"><na f="s/Sun:Haicheng" pid="45/8692">Haicheng Sun</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="s/Sze:Vivienne" pid="49/3209">Vivienne Sze</na></co>
+<co c="0"><na f="t/Talwalkar:Ameet" pid="56/5528">Ameet Talwalkar</na></co>
+<co c="0"><na f="t/Talwar:Kunal" pid="06/3696">Kunal Talwar</na></co>
+<co c="0" n="2"><na f="t/Thakkar_0001:Om" pid="166/1707">Om Thakkar 0001</na><na>Om Dipakbhai Thakkar</na></co>
+<co c="0"><na f="t/Thakurta:Abhradeep" pid="31/8315">Abhradeep Thakurta</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="u/Udell:Madeleine" pid="153/2166">Madeleine Udell</na></co>
+<co c="0"><na f="v/Vanschoren:Joaquin" pid="85/5045">Joaquin Vanschoren</na></co>
+<co c="0"><na f="v/Venkataraman:Shivaram" pid="65/8569">Shivaram Venkataraman</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="v/Vinayak:Rashmi" pid="239/4205">Rashmi Vinayak</na></co>
+<co c="0"><na f="w/Wang:Jialei" pid="63/10549">Jialei Wang</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wattenberg:Martin" pid="w/MartinWattenberg">Martin Wattenberg</na></co>
+<co c="0"><na f="w/Weimer:Markus" pid="89/6502">Markus Weimer</na></co>
+<co c="0"><na f="w/Wilson:Andrew_Gordon" pid="65/10453">Andrew Gordon Wilson</na></co>
+<co c="0"><na f="w/Woodworth:Blake_E=" pid="191/6704">Blake E. Woodworth</na></co>
+<co c="0"><na f="w/Wu:Peter" pid="44/3072">Peter Wu</na></co>
+<co c="0"><na f="x/Xing:Eric_P=" pid="36/3855">Eric P. Xing</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Young:Michael" pid="18/6094">Michael Young</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zaheer:Manzil" pid="40/10701">Manzil Zaheer</na></co>
+<co c="0"><na f="z/Zhang_0001:Ce" pid="97/919-1">Ce Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0001:Li" pid="89/5992-1">Li Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+<co c="0"><na f="z/Zhu:Wennan" pid="203/8213">Wennan Zhu</na></co>
+</coauthors>
+</dblpperson>
+

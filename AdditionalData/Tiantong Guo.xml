@@ -1,3 +1,876 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8223f03a13b275933ba10da5f79704efe54997b43193e57b1a19f8bb17c1beda
-size 44427
+<?xml version="1.0"?>
+<dblpperson name="Tiantong Guo" pid="198/9637" n="29">
+<person key="homepages/198/9637" mdate="2017-04-26">
+<author pid="198/9637">Tiantong Guo</author>
+</person>
+<r><article key="journals/tip/CherukuriGSM20" mdate="2020-05-30">
+<author orcid="0000-0001-7854-2027" pid="223/6285">Venkateswararao Cherukuri</author>
+<author orcid="0000-0001-9994-2636" pid="198/9637">Tiantong Guo</author>
+<author orcid="0000-0003-2623-3614" pid="95/218">Steven J. Schiff</author>
+<author orcid="0000-0002-5100-2263" pid="73/1467">Vishal Monga</author>
+<title>Deep MR Brain Image Super-Resolution Using Spatio-Structural Priors.</title>
+<pages>1368-1383</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2019.2942510</ee>
+<ee>https://www.wikidata.org/entity/Q90338030</ee>
+<url>db/journals/tip/tip29.html#CherukuriGSM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/YuCGM20" mdate="2020-08-06">
+<author pid="190/9384">Mingzhao Yu</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Ensemble Dehazing Networks for Non-homogeneous Haze.</title>
+<pages>1832-1841</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00233</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#YuCGM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MetwalyLGM20" mdate="2020-08-06">
+<author pid="264/5910">Kareem Metwaly</author>
+<author pid="52/8508">Xuelu Li</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>NonLocal Channel Attention for NonHomogeneous Image Dehazing.</title>
+<pages>1842-1851</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00234</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#MetwalyLGM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AncutiAVTLWXQMH20" mdate="2021-04-09">
+<author pid="89/5661">Codruta O. Ancuti</author>
+<author pid="82/3581">Cosmin Ancuti</author>
+<author pid="264/5871">Florin-Alexandru Vasluianu</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="72/2590-31">Jing Liu 0031</author>
+<author pid="11/3756">Haiyan Wu</author>
+<author pid="157/8128-6">Yuan Xie 0006</author>
+<author pid="03/3500">Yanyun Qu</author>
+<author pid="10/4950">Lizhuang Ma</author>
+<author pid="150/6487">Ziling Huang</author>
+<author pid="246/9797">Qili Deng</author>
+<author pid="264/5933">Ju-Chin Chao</author>
+<author pid="220/4388">Tsung-Shan Yang</author>
+<author pid="51/6708">Peng-Wen Chen</author>
+<author pid="137/4146">Po-Min Hsu</author>
+<author pid="76/7881">Tzu-Yi Liao</author>
+<author pid="264/5788">Chung-En Sun</author>
+<author pid="75/9983">Pei-Yuan Wu</author>
+<author pid="264/5902">Jeonghyeok Do</author>
+<author pid="50/6848">Jongmin Park</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="264/5910">Kareem Metwaly</author>
+<author pid="52/8508">Xuelu Li</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="190/9384">Mingzhao Yu</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="264/5905">Shiue-Yuan Chuang</author>
+<author pid="67/859">Tsung-Nan Lin</author>
+<author pid="76/1630">David Lee</author>
+<author pid="166/0846">Jerome Chang</author>
+<author pid="264/5909">Zhan-Han Wang</author>
+<author pid="137/3561">Yu-Bang Chang</author>
+<author pid="117/7803">Chang-Hong Lin</author>
+<author pid="03/1299">Yu Dong</author>
+<author pid="76/7825">Hongyu Zhou</author>
+<author pid="80/531">Xiangzhen Kong</author>
+<author pid="217/1530">Sourya Dipta Das</author>
+<author pid="260/3198">Saikat Dutta</author>
+<author pid="24/3533">Xuan Zhao</author>
+<author pid="169/0821">Bing Ouyang</author>
+<author pid="264/5849">Dennis Estrada</author>
+<author pid="225/1521">Meiqi Wang</author>
+<author pid="217/7200">Tianqi Su</author>
+<author pid="195/3147">Siyi Chen</author>
+<author pid="182/4739">Bangyong Sun</author>
+<author pid="182/4665">Vincent Jacob Whannou de Dravo</author>
+<author pid="32/9128">Zhe Yu</author>
+<author pid="132/9397">Pratik Narang</author>
+<author pid="264/5889">Aryan Mehra</author>
+<author pid="264/5782">Navaneeth Raghunath</author>
+<author pid="175/8628">Murari Mandal</author>
+<title>NTIRE 2020 Challenge on NonHomogeneous Dehazing.</title>
+<pages>2029-2044</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00253</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#AncutiAVTLWXQMH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/GuoM20" mdate="2020-07-23">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Reinforced Depth-Aware Deep Learning for Single Image Dehazing.</title>
+<pages>8891-8895</pages>
+<year>2020</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP40776.2020.9054504</ee>
+<crossref>conf/icassp/2020</crossref>
+<url>db/conf/icassp/icassp2020.html#GuoM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-03457" mdate="2021-02-12">
+<author pid="89/5661">Codruta O. Ancuti</author>
+<author pid="82/3581">Cosmin Ancuti</author>
+<author pid="264/5871">Florin-Alexandru Vasluianu</author>
+<author pid="24/8616">Radu Timofte</author>
+<author pid="72/2590-31">Jing Liu 0031</author>
+<author pid="11/3756">Haiyan Wu</author>
+<author pid="157/8128-6">Yuan Xie 0006</author>
+<author pid="03/3500">Yanyun Qu</author>
+<author pid="10/4950">Lizhuang Ma</author>
+<author pid="150/6487">Ziling Huang</author>
+<author pid="246/9797">Qili Deng</author>
+<author pid="264/5933">Ju-Chin Chao</author>
+<author pid="220/4388">Tsung-Shan Yang</author>
+<author pid="51/6708">Peng-Wen Chen</author>
+<author pid="137/4146">Po-Min Hsu</author>
+<author pid="76/7881">Tzu-Yi Liao</author>
+<author pid="264/5788">Chung-En Sun</author>
+<author pid="75/9983">Pei-Yuan Wu</author>
+<author pid="264/5902">Jeonghyeok Do</author>
+<author pid="50/6848">Jongmin Park</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="264/5910">Kareem Metwaly</author>
+<author pid="52/8508">Xuelu Li</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="190/9384">Mingzhao Yu</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="264/5905">Shiue-Yuan Chuang</author>
+<author pid="67/859">Tsung-Nan Lin</author>
+<author pid="76/1630">David Lee</author>
+<author pid="166/0846">Jerome Chang</author>
+<author pid="264/5909">Zhan-Han Wang</author>
+<author pid="137/3561">Yu-Bang Chang</author>
+<author pid="117/7803">Chang-Hong Lin</author>
+<author pid="03/1299">Yu Dong</author>
+<author pid="76/7825">Hongyu Zhou</author>
+<author pid="80/531">Xiangzhen Kong</author>
+<author pid="217/1530">Sourya Dipta Das</author>
+<author pid="260/3198">Saikat Dutta</author>
+<author pid="24/3533">Xuan Zhao</author>
+<author pid="169/0821">Bing Ouyang</author>
+<author pid="264/5849">Dennis Estrada</author>
+<author pid="225/1521">Meiqi Wang</author>
+<author pid="217/7200">Tianqi Su</author>
+<author pid="195/3147">Siyi Chen</author>
+<author pid="182/4739">Bangyong Sun</author>
+<author pid="182/4665">Vincent Jacob Whannou de Dravo</author>
+<author pid="32/9128">Zhe Yu</author>
+<author pid="132/9397">Pratik Narang</author>
+<author pid="264/5889">Aryan Mehra</author>
+<author pid="264/5782">Navaneeth Raghunath</author>
+<author pid="175/8628">Murari Mandal</author>
+<title>NTIRE 2020 Challenge on NonHomogeneous Dehazing.</title>
+<year>2020</year>
+<volume>abs/2005.03457</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.03457</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-03457</url>
+</article>
+</r>
+<r><article key="journals/tip/GuoMM19" mdate="2020-05-30">
+<author orcid="0000-0001-9994-2636" pid="198/9637">Tiantong Guo</author>
+<author orcid="0000-0003-4161-3594" pid="117/0303">Hojjat Seyed Mousavi</author>
+<author orcid="0000-0002-5100-2263" pid="73/1467">Vishal Monga</author>
+<title>Adaptive Transform Domain Image Super-Resolution via Orthogonally Regularized Deep Networks.</title>
+<pages>4685-4700</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIP.2019.2913500</ee>
+<ee>https://www.wikidata.org/entity/Q91789191</ee>
+<url>db/journals/tip/tip28.html#GuoMM19</url>
+</article>
+</r>
+<r><article key="journals/tmi/TofighiGVM19" mdate="2020-06-18">
+<author orcid="0000-0002-3249-1399" pid="39/8776">Mohammad Tofighi</author>
+<author orcid="0000-0001-9994-2636" pid="198/9637">Tiantong Guo</author>
+<author pid="223/4361">Jairam K. P. Vanamala</author>
+<author orcid="0000-0002-5100-2263" pid="73/1467">Vishal Monga</author>
+<title>Prior Information Guided Regularized Deep Learning for Cell Nucleus Detection.</title>
+<pages>2047-2058</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Medical Imaging</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TMI.2019.2895318</ee>
+<ee>https://www.wikidata.org/entity/Q91290225</ee>
+<url>db/journals/tmi/tmi38.html#TofighiGVM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/NahTBHMSL19" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="205/3991">Xintao Wang</author>
+<author pid="228/2769">Kelvin C. K. Chan</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="230/2044">Hyeonjun Sim</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="77/2107">Jisoo Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="142/1614">Muhammad Haris</author>
+<author pid="17/1926">Greg Shakhnarovich</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<author pid="140/7811">Syed Waqas Zamir</author>
+<author pid="230/3630">Aditya Arora</author>
+<author pid="32/6735">Salman Khan</author>
+<author orcid="0000-0002-4263-3143" pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="263/1603">Rahul Kumar Gupta</author>
+<author pid="216/4089">Vishal M. Chudasama</author>
+<author pid="263/1688">Heena Patel</author>
+<author pid="60/10346">Kishor P. Upla</author>
+<author pid="17/7704">Hongfei Fan</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="08/2771">Yumei Zhang</author>
+<author pid="40/1491">Xiang Li</author>
+<author pid="98/5684">Wenjie Zhang</author>
+<author pid="263/1072">Qingwen He</author>
+<author orcid="0000-0002-6709-1627" pid="191/2655">Kuldeep Purohit</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="96/9913">Jeonghun Kim</author>
+<author pid="39/8776">Mohammad Tofighi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>NTIRE 2019 Challenge on Video Deblurring: Methods and Results.</title>
+<pages>1974-1984</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00249</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#NahTBHMSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/GuoLCM19" mdate="2020-04-20">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="52/8508">Xuelu Li</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Dense Scene Information Estimation Network for Dehazing.</title>
+<pages>2122-2130</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Guo_Dense_Scene_Information_Estimation_Network_for_Dehazing_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00265</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#GuoLCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/GuoCM19" mdate="2020-04-20">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Dense '123' Color Enhancement Dehazing Network.</title>
+<pages>2131-2139</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Guo_Dense_123_Color_Enhancement_Dehazing_Network_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00266</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#GuoCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AncutiATGZ0a19" mdate="2021-04-09">
+<author pid="89/5661">Codruta O. Ancuti</author>
+<author pid="82/3581">Cosmin Ancuti</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author pid="64/5666-6">Lei Zhang 0006</author>
+<author pid="79/3711">Ming-Hsuan Yang 0001</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="52/8508">Xuelu Li</author>
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="38/6049">Hao Jiang</author>
+<author pid="201/7699">Siyuan Yang</author>
+<author pid="150/4295">Yan Liu</author>
+<author pid="23/9252">Xiaochao Qu</author>
+<author pid="119/0306">Pengfei Wan</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="95/10445">Ming Hong</author>
+<author pid="23/354">Jinying Huang</author>
+<author pid="250/4440">Yizi Chen</author>
+<author pid="22/7663">Shuxin Chen</author>
+<author pid="263/1152">Bomin Wang</author>
+<author pid="63/1474">Pablo Navarrete Michelini</author>
+<author pid="178/1112">Hanwen Liu</author>
+<author pid="50/6054">Dan Zhu</author>
+<author pid="72/2590-31">Jing Liu 0031</author>
+<author pid="192/2528">Sanchayan Santra</author>
+<author pid="222/3772">Ranjan Mondal</author>
+<author pid="79/2737">Bhabatosh Chanda</author>
+<author pid="239/5824">Peter Morales</author>
+<author pid="239/5905">Tzofi Klinghoffer</author>
+<author pid="229/7573">Le Manh Quan</author>
+<author pid="04/1831">Yong-Guk Kim</author>
+<author pid="06/4676">Xiao Liang</author>
+<author pid="230/1495">Runde Li</author>
+<author pid="06/10816">Jinshan Pan</author>
+<author pid="75/1030">Jinhui Tang</author>
+<author orcid="0000-0002-6709-1627" pid="191/2655">Kuldeep Purohit</author>
+<author pid="254/1457">Maitreya Suin</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="47/3014">Raimondo Schettini</author>
+<author pid="36/1511">Simone Bianco</author>
+<author orcid="0000-0001-7432-4284" pid="213/0588">Flavio Piccoli</author>
+<author pid="53/6816">Claudio Cusano</author>
+<author orcid="0000-0002-5925-2646" pid="176/5396">Luigi Celona</author>
+<author pid="195/6460">Sunhee Hwang</author>
+<author pid="263/1349">Yu Seung Ma</author>
+<author pid="77/5360">Hyeran Byun</author>
+<author pid="61/10849">Subrahmanyam Murala</author>
+<author pid="213/7979">Akshay Dudhane</author>
+<author pid="250/5488">Harshjeet Singh Aulakh</author>
+<author pid="44/10028">Tianxiang Zheng</author>
+<author pid="15/4777">Tao Zhang</author>
+<author pid="263/1433">Weining Qin</author>
+<author pid="263/1316">Runnan Zhou</author>
+<author pid="59/11341">Shanhu Wang</author>
+<author pid="27/4360">Jean-Philippe Tarel</author>
+<author pid="207/0923">Chuansheng Wang</author>
+<author pid="37/10763">Jiawei Wu</author>
+<title>NTIRE 2019 Image Dehazing Challenge Report.</title>
+<pages>2241-2253</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Ancuti_NTIRE_2019_Image_Dehazing_Challenge_Report_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00277</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#AncutiATGZ0a19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GuoHS19" mdate="2019-12-11">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="05/4123">Cong Phuoc Huynh</author>
+<author pid="93/10761">Mashhour Solh</author>
+<title>Domain-Adaptive Pedestrian Detection in Thermal Images.</title>
+<pages>1660-1664</pages>
+<year>2019</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2019.8803104</ee>
+<crossref>conf/icip/2019</crossref>
+<url>db/conf/icip/icip2019.html#GuoHS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-07061" mdate="2019-02-03">
+<author pid="39/8776">Mohammad Tofighi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="223/4361">Jairam K. P. Vanamala</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Prior Information Guided Regularized Deep Learning for Cell Nucleus Detection.</title>
+<year>2019</year>
+<volume>abs/1901.07061</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.07061</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-07061</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-10082" mdate="2019-04-26">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Adaptive Transform Domain Image Super-resolution Via Orthogonally Regularized Deep Networks.</title>
+<year>2019</year>
+<volume>abs/1904.10082</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.10082</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-10082</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-04572" mdate="2019-09-18">
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="95/218">Steven J. Schiff</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep MR Brain Image Super-Resolution Using Spatio-Structural Priors.</title>
+<year>2019</year>
+<volume>abs/1909.04572</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.04572</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-04572</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/GuoMM18" mdate="2018-09-18">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Orthogonally Regularized Deep Networks for Image Super-Resolution.</title>
+<pages>1463-1467</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462555</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#GuoMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/MousaviGM18" mdate="2018-09-18">
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Image Super Resolution via Natural Image Priors.</title>
+<pages>1483-1487</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462270</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#MousaviGM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CherukuriGSM18" mdate="2020-05-30">
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="95/218">Steven J. Schiff</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Mr Image Super-Resolution Using Structural Priors.</title>
+<pages>410-414</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451496</ee>
+<ee>https://www.wikidata.org/entity/Q92731579</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#CherukuriGSM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/TofighiGVM18" mdate="2018-09-11">
+<author pid="39/8776">Mohammad Tofighi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="223/4361">Jairam K. P. Vanamala</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Networks with Shape Priors for Nucleus Detection.</title>
+<pages>719-723</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451797</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#TofighiGVM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-05458" mdate="2018-08-13">
+<author pid="159/2041">Tiep Huu Vu</author>
+<author pid="23/7347">Lam Nguyen</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Network for Simultaneous Decomposition and Classification in UWB-SAR Imagery.</title>
+<year>2018</year>
+<volume>abs/1801.05458</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.05458</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-05458</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02018" mdate="2018-08-13">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Orthogonally Regularized Deep Networks For Image Super-resolution.</title>
+<year>2018</year>
+<volume>abs/1802.02018</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02018</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02018</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02721" mdate="2018-08-13">
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Image Super Resolution via Natural Image Priors.</title>
+<year>2018</year>
+<volume>abs/1802.02721</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02721</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02721</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-03135" mdate="2018-08-13">
+<author pid="39/8776">Mohammad Tofighi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="223/4361">Jairam K. P. Vanamala</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Networks with Shape Priors for Nucleus Detection.</title>
+<year>2018</year>
+<volume>abs/1807.03135</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.03135</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-03135</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-03140" mdate="2018-10-05">
+<author pid="223/6285">Venkateswararao Cherukuri</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="95/218">Steven J. Schiff</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep MR Image Super-Resolution Using Structural Priors.</title>
+<year>2018</year>
+<volume>abs/1809.03140</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.03140</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-03140</url>
+</article>
+</r>
+<r><inproceedings key="conf/acssc/AldayelGMR17" mdate="2018-04-20">
+<author pid="145/4595">Omar Aldayel</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="17/136">Muralidhar Rangaswamy</author>
+<title>Adaptive sequential refinement: A tractable approach for ambiguity function shaping in cognitive radar.</title>
+<pages>573-577</pages>
+<year>2017</year>
+<booktitle>ACSSC</booktitle>
+<ee>https://doi.org/10.1109/ACSSC.2017.8335406</ee>
+<crossref>conf/acssc/2017</crossref>
+<url>db/conf/acssc/acssc2017.html#AldayelGMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/GuoMVM17" mdate="2017-09-07">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="159/2041">Tiep Huu Vu</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep Wavelet Prediction for Image Super-Resolution.</title>
+<pages>1100-1109</pages>
+<year>2017</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2017.148</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2017.148</ee>
+<crossref>conf/cvpr/2017w</crossref>
+<url>db/conf/cvpr/cvprw2017.html#GuoMVM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/TimofteAG0ZLSKN17" mdate="2021-04-09">
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="143/7107">Eirikur Agustsson</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author pid="79/3711">Ming-Hsuan Yang 0001</author>
+<author pid="64/5666-6">Lei Zhang 0006</author>
+<author pid="203/8428">Bee Lim</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="205/3991">Xintao Wang</author>
+<author pid="176/4020">Yapeng Tian</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="166/2763">Yulun Zhang</author>
+<author pid="205/3888">Shixiang Wu</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="84/7019">Liang Lin</author>
+<author pid="q/YuQiao1">Yu Qiao 0001</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="190/7538">Woong Bae</author>
+<author orcid="0000-0001-5252-9668" pid="141/8878">Jae Jun Yoo</author>
+<author pid="173/4627">Yoseob Han</author>
+<author pid="15/5613">Jong Chul Ye</author>
+<author pid="169/7657">Jae-Seok Choi</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="82/1911-2">Wei Han 0002</author>
+<author orcid="0000-0002-0931-1345" pid="26/5200">Ding Liu</author>
+<author pid="205/3982">Haichao Yu</author>
+<author pid="119/4026">Zhangyang Wang</author>
+<author pid="176/5516">Honghui Shi</author>
+<author pid="23/8015">Xinchao Wang</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="134/3031">Yunjin Chen</author>
+<author pid="55/957-8">Kai Zhang 0008</author>
+<author pid="93/2671">Wangmeng Zuo</author>
+<author pid="63/749">Zhimin Tang</author>
+<author pid="58/817">Linkai Luo</author>
+<author pid="55/2211">Shaohui Li</author>
+<author pid="43/8387">Min Fu</author>
+<author pid="17/6060">Lei Cao</author>
+<author pid="201/7460">Wen Heng</author>
+<author pid="158/5803">Giang Bui</author>
+<author pid="182/7439">Truc Le</author>
+<author pid="35/1832">Ye Duan</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="149/7989">Ruxin Wang</author>
+<author pid="33/3328">Xu Lin</author>
+<author pid="41/813">Jianxin Pang</author>
+<author pid="205/3875">Jinchang Xu</author>
+<author pid="57/2056">Yu Zhao</author>
+<author pid="172/1282">Xiangyu Xu</author>
+<author pid="06/10816">Jin-shan Pan</author>
+<author pid="69/4250">Deqing Sun</author>
+<author pid="47/3138">Yujin Zhang</author>
+<author pid="146/4830">Xibin Song</author>
+<author pid="65/7804">Yuchao Dai</author>
+<author pid="94/6767">Xueying Qin</author>
+<author pid="175/3790">Xuan-Phung Huynh</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="159/2041">Tiep Huu Vu</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="141/6253">Crist&#243;v&#227;o Cruz</author>
+<author pid="e/KOEgiazarian">Karen O. Egiazarian</author>
+<author pid="51/956">Vladimir Katkovnik</author>
+<author pid="135/3263">Rakesh Mehta</author>
+<author pid="190/7826">Arnav Kumar Jain</author>
+<author pid="190/7006">Abhinav Agarwalla</author>
+<author pid="205/3931">Ch V. Sai Praveen</author>
+<author pid="205/3902">Ruofan Zhou</author>
+<author pid="195/5685">Hongdiao Wen</author>
+<author pid="205/3914">Che Zhu</author>
+<author pid="185/1067">Zhiqiang Xia</author>
+<author pid="185/0907">Zhengtao Wang</author>
+<author pid="67/398">Qi Guo</author>
+<title>NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results.</title>
+<pages>1110-1121</pages>
+<year>2017</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2017.149</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2017.149</ee>
+<crossref>conf/cvpr/2017w</crossref>
+<url>db/conf/cvpr/cvprw2017.html#TimofteAG0ZLSKN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globalsip/GuoMM16" mdate="2017-05-23">
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>Deep learning based image super-resolution with coupled backpropagation.</title>
+<pages>237-241</pages>
+<year>2016</year>
+<booktitle>GlobalSIP</booktitle>
+<ee>https://doi.org/10.1109/GlobalSIP.2016.7905839</ee>
+<crossref>conf/globalsip/2016</crossref>
+<url>db/conf/globalsip/globalsip2016.html#GuoMM16</url>
+</inproceedings>
+</r>
+<coauthors n="204" nc="2">
+<co c="0"><na f="a/Agarwalla:Abhinav" pid="190/7006">Abhinav Agarwalla</na></co>
+<co c="0"><na f="a/Agustsson:Eirikur" pid="143/7107">Eirikur Agustsson</na></co>
+<co c="0"><na f="a/Aldayel:Omar" pid="145/4595">Omar Aldayel</na></co>
+<co c="0"><na f="a/Ancuti:Codruta_O=" pid="89/5661">Codruta O. Ancuti</na></co>
+<co c="0"><na f="a/Ancuti:Cosmin" pid="82/3581">Cosmin Ancuti</na></co>
+<co c="0"><na f="a/Arora:Aditya" pid="230/3630">Aditya Arora</na></co>
+<co c="0"><na f="a/Aulakh:Harshjeet_Singh" pid="250/5488">Harshjeet Singh Aulakh</na></co>
+<co c="0"><na f="b/Bae:Woong" pid="190/7538">Woong Bae</na></co>
+<co c="0"><na f="b/Baik:Sungyong" pid="243/2775">Sungyong Baik</na></co>
+<co c="0"><na f="b/Bianco:Simone" pid="36/1511">Simone Bianco</na></co>
+<co c="0"><na f="b/Bui:Giang" pid="158/5803">Giang Bui</na></co>
+<co c="0"><na f="b/Byun:Hyeran" pid="77/5360">Hyeran Byun</na></co>
+<co c="0"><na f="c/Cao:Lei" pid="17/6060">Lei Cao</na></co>
+<co c="0"><na f="c/Celona:Luigi" pid="176/5396">Luigi Celona</na></co>
+<co c="0"><na f="c/Chan:Kelvin_C=_K=" pid="228/2769">Kelvin C. K. Chan</na></co>
+<co c="0"><na f="c/Chanda:Bhabatosh" pid="79/2737">Bhabatosh Chanda</na></co>
+<co c="0"><na f="c/Chang:Jerome" pid="166/0846">Jerome Chang</na></co>
+<co c="0"><na f="c/Chang:Yu=Bang" pid="137/3561">Yu-Bang Chang</na></co>
+<co c="0"><na f="c/Chao:Ju=Chin" pid="264/5933">Ju-Chin Chao</na></co>
+<co c="0"><na f="c/Chen:Peng=Wen" pid="51/6708">Peng-Wen Chen</na></co>
+<co c="0"><na f="c/Chen:Shuxin" pid="22/7663">Shuxin Chen</na></co>
+<co c="0"><na f="c/Chen:Siyi" pid="195/3147">Siyi Chen</na></co>
+<co c="0"><na f="c/Chen:Yizi" pid="250/4440">Yizi Chen</na></co>
+<co c="0"><na f="c/Chen:Yunjin" pid="134/3031">Yunjin Chen</na></co>
+<co c="0"><na f="c/Cherukuri:Venkateswararao" pid="223/6285">Venkateswararao Cherukuri</na></co>
+<co c="0"><na f="c/Choi:Jae=Seok" pid="169/7657">Jae-Seok Choi</na></co>
+<co c="0"><na f="c/Chuang:Shiue=Yuan" pid="264/5905">Shiue-Yuan Chuang</na></co>
+<co c="0"><na f="c/Chudasama:Vishal_M=" pid="216/4089">Vishal M. Chudasama</na></co>
+<co c="0"><na f="c/Chun:Se_Young" pid="85/2542">Se Young Chun</na></co>
+<co c="0"><na f="c/Cruz:Crist=oacute=v=atilde=o" pid="141/6253">Crist&#243;v&#227;o Cruz</na></co>
+<co c="0"><na f="c/Cusano:Claudio" pid="53/6816">Claudio Cusano</na></co>
+<co c="0"><na f="d/Dai:Yuchao" pid="65/7804">Yuchao Dai</na></co>
+<co c="0"><na f="d/Das:Sourya_Dipta" pid="217/1530">Sourya Dipta Das</na></co>
+<co c="0"><na f="d/Deng:Qili" pid="246/9797">Qili Deng</na></co>
+<co c="0"><na f="d/Do:Jeonghyeok" pid="264/5902">Jeonghyeok Do</na></co>
+<co c="0"><na f="d/Dong:Chao" pid="16/1278">Chao Dong</na></co>
+<co c="0"><na f="d/Dong:Yu" pid="03/1299">Yu Dong</na></co>
+<co c="0"><na f="d/Dravo:Vincent_Jacob_Whannou_de" pid="182/4665">Vincent Jacob Whannou de Dravo</na></co>
+<co c="0"><na f="d/Duan:Ye" pid="35/1832">Ye Duan</na></co>
+<co c="0"><na f="d/Dudhane:Akshay" pid="213/7979">Akshay Dudhane</na></co>
+<co c="0"><na f="d/Dutta:Saikat" pid="260/3198">Saikat Dutta</na></co>
+<co c="0"><na f="e/Egiazarian:Karen_O=" pid="e/KOEgiazarian">Karen O. Egiazarian</na></co>
+<co c="0"><na f="e/Estrada:Dennis" pid="264/5849">Dennis Estrada</na></co>
+<co c="0"><na f="f/Fan:Hongfei" pid="17/7704">Hongfei Fan</na></co>
+<co c="0"><na f="f/Fan:Yuchen" pid="120/4095">Yuchen Fan</na></co>
+<co c="0"><na f="f/Fu:Min" pid="43/8387">Min Fu</na></co>
+<co c="0"><na f="g/Gool:Luc_Van" pid="61/5017">Luc Van Gool</na></co>
+<co c="0"><na f="g/Guo:Qi" pid="67/398">Qi Guo</na></co>
+<co c="0"><na f="g/Gupta:Rahul_Kumar" pid="263/1603">Rahul Kumar Gupta</na></co>
+<co c="0"><na f="h/Han_0002:Wei" pid="82/1911-2">Wei Han 0002</na></co>
+<co c="0"><na f="h/Han:Yoseob" pid="173/4627">Yoseob Han</na></co>
+<co c="0"><na f="h/Haris:Muhammad" pid="142/1614">Muhammad Haris</na></co>
+<co c="0"><na f="h/He:Qingwen" pid="263/1072">Qingwen He</na></co>
+<co c="0"><na f="h/Heng:Wen" pid="201/7460">Wen Heng</na></co>
+<co c="0"><na f="h/Hong:Ming" pid="95/10445">Ming Hong</na></co>
+<co c="0"><na f="h/Hong:Seokil" pid="243/2738">Seokil Hong</na></co>
+<co c="0"><na f="h/Hsu:Po=Min" pid="137/4146">Po-Min Hsu</na></co>
+<co c="0"><na f="h/Huang:Jinying" pid="23/354">Jinying Huang</na></co>
+<co c="0"><na f="h/Huang:Thomas_S=" pid="h/ThomasSHuang">Thomas S. Huang</na></co>
+<co c="0"><na f="h/Huang:Ziling" pid="150/6487">Ziling Huang</na></co>
+<co c="1"><na f="h/Huynh:Cong_Phuoc" pid="05/4123">Cong Phuoc Huynh</na></co>
+<co c="0"><na f="h/Huynh:Xuan=Phung" pid="175/3790">Xuan-Phung Huynh</na></co>
+<co c="0"><na f="h/Hwang:Sunhee" pid="195/6460">Sunhee Hwang</na></co>
+<co c="0"><na f="j/Jain:Arnav_Kumar" pid="190/7826">Arnav Kumar Jain</na></co>
+<co c="0"><na f="j/Jiang:Hao" pid="38/6049">Hao Jiang</na></co>
+<co c="0"><na f="k/Katkovnik:Vladimir" pid="51/956">Vladimir Katkovnik</na></co>
+<co c="0"><na f="k/Khan:Fahad_Shahbaz" pid="05/8618">Fahad Shahbaz Khan</na></co>
+<co c="0"><na f="k/Khan:Salman" pid="32/6735">Salman Khan</na></co>
+<co c="0"><na f="k/Kim:Heewon" pid="97/9880">Heewon Kim</na></co>
+<co c="0"><na f="k/Kim:Jeonghun" pid="96/9913">Jeonghun Kim</na></co>
+<co c="0"><na f="k/Kim:Jisoo" pid="77/2107">Jisoo Kim</na></co>
+<co c="0"><na f="k/Kim:Munchurl" pid="84/4965">Munchurl Kim</na></co>
+<co c="0"><na f="k/Kim:Yong=Guk" pid="04/1831">Yong-Guk Kim</na></co>
+<co c="0"><na f="k/Klinghoffer:Tzofi" pid="239/5905">Tzofi Klinghoffer</na></co>
+<co c="0"><na f="k/Kong:Xiangzhen" pid="80/531">Xiangzhen Kong</na></co>
+<co c="0"><na f="l/Le:Truc" pid="182/7439">Truc Le</na></co>
+<co c="0"><na f="l/Lee:David" pid="76/1630">David Lee</na></co>
+<co c="0"><na f="l/Lee:Kyoung_Mu" pid="17/4029">Kyoung Mu Lee</na></co>
+<co c="0"><na f="l/Li:Guo" pid="35/1964">Guo Li</na></co>
+<co c="0"><na f="l/Li:Runde" pid="230/1495">Runde Li</na></co>
+<co c="0"><na f="l/Li:Shaohui" pid="55/2211">Shaohui Li</na></co>
+<co c="0"><na f="l/Li:Xiang" pid="40/1491">Xiang Li</na></co>
+<co c="0"><na f="l/Li:Xuelu" pid="52/8508">Xuelu Li</na></co>
+<co c="0"><na f="l/Liang:Xiao" pid="06/4676">Xiao Liang</na></co>
+<co c="0"><na f="l/Liao:Tzu=Yi" pid="76/7881">Tzu-Yi Liao</na></co>
+<co c="0"><na f="l/Lim:Bee" pid="203/8428">Bee Lim</na></co>
+<co c="0"><na f="l/Lin:Chang=Hong" pid="117/7803">Chang-Hong Lin</na></co>
+<co c="0"><na f="l/Lin:Liang" pid="84/7019">Liang Lin</na></co>
+<co c="0" n="2"><na f="l/Lin:Tsungnan" pid="67/859">Tsungnan Lin</na><na>Tsung-Nan Lin</na></co>
+<co c="0"><na f="l/Lin:Xu" pid="33/3328">Xu Lin</na></co>
+<co c="0"><na f="l/Liu:Ding" pid="26/5200">Ding Liu</na></co>
+<co c="0"><na f="l/Liu:Hanwen" pid="178/1112">Hanwen Liu</na></co>
+<co c="0"><na f="l/Liu_0031:Jing" pid="72/2590-31">Jing Liu 0031</na></co>
+<co c="0"><na f="l/Liu:Yan" pid="150/4295">Yan Liu</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Luo:Linkai" pid="58/817">Linkai Luo</na></co>
+<co c="0"><na f="m/Ma:Lizhuang" pid="10/4950">Lizhuang Ma</na></co>
+<co c="0"><na f="m/Ma:Yu_Seung" pid="263/1349">Yu Seung Ma</na></co>
+<co c="0"><na f="m/Mandal:Murari" pid="175/8628">Murari Mandal</na></co>
+<co c="0"><na f="m/Mehra:Aryan" pid="264/5889">Aryan Mehra</na></co>
+<co c="0"><na f="m/Mehta:Rakesh" pid="135/3263">Rakesh Mehta</na></co>
+<co c="0"><na f="m/Metwaly:Kareem" pid="264/5910">Kareem Metwaly</na></co>
+<co c="0"><na f="m/Michelini:Pablo_Navarrete" pid="63/1474">Pablo Navarrete Michelini</na></co>
+<co c="0"><na f="m/Mondal:Ranjan" pid="222/3772">Ranjan Mondal</na></co>
+<co c="0"><na f="m/Monga:Vishal" pid="73/1467">Vishal Monga</na></co>
+<co c="0"><na f="m/Moon:Gyeongsik" pid="185/6852">Gyeongsik Moon</na></co>
+<co c="0"><na f="m/Morales:Peter" pid="239/5824">Peter Morales</na></co>
+<co c="0"><na f="m/Mousavi:Hojjat_Seyed" pid="117/0303">Hojjat Seyed Mousavi</na></co>
+<co c="0"><na f="n/Nah:Seungjun" pid="177/3248">Seungjun Nah</na></co>
+<co c="0"><na f="n/Narang:Pratik" pid="132/9397">Pratik Narang</na></co>
+<co c="0"><na f="n/Nguyen:Lam" pid="23/7347">Lam Nguyen</na></co>
+<co c="0"><na f="o/Ouyang:Bing" pid="169/0821">Bing Ouyang</na></co>
+<co c="0" n="2"><na f="p/Pan:Jinshan" pid="06/10816">Jinshan Pan</na><na>Jin-shan Pan</na></co>
+<co c="0"><na f="p/Pang:Jianxin" pid="41/813">Jianxin Pang</na></co>
+<co c="0"><na f="p/Park:Dongwon" pid="55/11454">Dongwon Park</na></co>
+<co c="0"><na f="p/Park:Jongmin" pid="50/6848">Jongmin Park</na></co>
+<co c="0"><na f="p/Patel:Heena" pid="263/1688">Heena Patel</na></co>
+<co c="0"><na f="p/Piccoli:Flavio" pid="213/0588">Flavio Piccoli</na></co>
+<co c="0"><na f="p/Praveen:Ch_V=_Sai" pid="205/3931">Ch V. Sai Praveen</na></co>
+<co c="0"><na f="p/Purohit:Kuldeep" pid="191/2655">Kuldeep Purohit</na></co>
+<co c="0"><na f="q/Qiao_0001:Yu" pid="q/YuQiao1">Yu Qiao 0001</na></co>
+<co c="0"><na f="q/Qin:Weining" pid="263/1433">Weining Qin</na></co>
+<co c="0"><na f="q/Qin:Xueying" pid="94/6767">Xueying Qin</na></co>
+<co c="0"><na f="q/Qu:Xiaochao" pid="23/9252">Xiaochao Qu</na></co>
+<co c="0"><na f="q/Qu:Yanyun" pid="03/3500">Yanyun Qu</na></co>
+<co c="0"><na f="q/Quan:Le_Manh" pid="229/7573">Le Manh Quan</na></co>
+<co c="0"><na f="r/Raghunath:Navaneeth" pid="264/5782">Navaneeth Raghunath</na></co>
+<co c="0"><na f="r/Rajagopalan_0001:A=_N=" pid="73/3473">A. N. Rajagopalan 0001</na></co>
+<co c="0"><na f="r/Rangaswamy:Muralidhar" pid="17/136">Muralidhar Rangaswamy</na></co>
+<co c="0"><na f="s/Santra:Sanchayan" pid="192/2528">Sanchayan Santra</na></co>
+<co c="0"><na f="s/Schettini:Raimondo" pid="47/3014">Raimondo Schettini</na></co>
+<co c="0"><na f="s/Schiff:Steven_J=" pid="95/218">Steven J. Schiff</na></co>
+<co c="0" n="2"><na f="s/Shakhnarovich:Gregory" pid="17/1926">Gregory Shakhnarovich</na><na>Greg Shakhnarovich</na></co>
+<co c="0"><na f="s/Shao_0001:Ling" pid="75/1281">Ling Shao 0001</na></co>
+<co c="0" n="2"><na f="s/Shi:Humphrey" pid="176/5516">Humphrey Shi</na><na>Honghui Shi</na></co>
+<co c="0"><na f="s/Sim:Hyeonjun" pid="230/2044">Hyeonjun Sim</na></co>
+<co c="1"><na f="s/Solh:Mashhour" pid="93/10761">Mashhour Solh</na></co>
+<co c="0"><na f="s/Son:Sanghyun" pid="68/6424">Sanghyun Son</na></co>
+<co c="0"><na f="s/Song:Xibin" pid="146/4830">Xibin Song</na></co>
+<co c="0"><na f="s/Su:Tianqi" pid="217/7200">Tianqi Su</na></co>
+<co c="0" n="2"><na f="s/Subrahmanyam:M=" pid="61/10849">M. Subrahmanyam</na><na>Subrahmanyam Murala</na></co>
+<co c="0"><na f="s/Suin:Maitreya" pid="254/1457">Maitreya Suin</na></co>
+<co c="0"><na f="s/Sun:Bangyong" pid="182/4739">Bangyong Sun</na></co>
+<co c="0"><na f="s/Sun:Chung=En" pid="264/5788">Chung-En Sun</na></co>
+<co c="0"><na f="s/Sun:Deqing" pid="69/4250">Deqing Sun</na></co>
+<co c="0"><na f="t/Tang:Jinhui" pid="75/1030">Jinhui Tang</na></co>
+<co c="0"><na f="t/Tang:Zhimin" pid="63/749">Zhimin Tang</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0"><na f="t/Tarel:Jean=Philippe" pid="27/4360">Jean-Philippe Tarel</na></co>
+<co c="0"><na f="t/Tian:Yapeng" pid="176/4020">Yapeng Tian</na></co>
+<co c="0"><na f="t/Timofte:Radu" pid="24/8616">Radu Timofte</na></co>
+<co c="0"><na f="t/Tofighi:Mohammad" pid="39/8776">Mohammad Tofighi</na></co>
+<co c="0"><na f="u/Ukita:Norimichi" pid="46/5881">Norimichi Ukita</na></co>
+<co c="0"><na f="u/Upla:Kishor_P=" pid="60/10346">Kishor P. Upla</na></co>
+<co c="0"><na f="v/Vanamala:Jairam_K=_P=" pid="223/4361">Jairam K. P. Vanamala</na></co>
+<co c="0"><na f="v/Vasluianu:Florin=Alexandru" pid="264/5871">Florin-Alexandru Vasluianu</na></co>
+<co c="0"><na f="v/Vu:Tiep_Huu" pid="159/2041">Tiep Huu Vu</na></co>
+<co c="0"><na f="w/Wan:Pengfei" pid="119/0306">Pengfei Wan</na></co>
+<co c="0"><na f="w/Wang:Bomin" pid="263/1152">Bomin Wang</na></co>
+<co c="0"><na f="w/Wang:Chuansheng" pid="207/0923">Chuansheng Wang</na></co>
+<co c="0"><na f="w/Wang:Meiqi" pid="225/1521">Meiqi Wang</na></co>
+<co c="0"><na f="w/Wang:Ruxin" pid="149/7989">Ruxin Wang</na></co>
+<co c="0"><na f="w/Wang:Shanhu" pid="59/11341">Shanhu Wang</na></co>
+<co c="0"><na f="w/Wang:Xinchao" pid="23/8015">Xinchao Wang</na></co>
+<co c="0"><na f="w/Wang:Xintao" pid="205/3991">Xintao Wang</na></co>
+<co c="0"><na f="w/Wang:Zhan=Han" pid="264/5909">Zhan-Han Wang</na></co>
+<co c="0"><na f="w/Wang:Zhangyang" pid="119/4026">Zhangyang Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengtao" pid="185/0907">Zhengtao Wang</na></co>
+<co c="0"><na f="w/Wen:Hongdiao" pid="195/5685">Hongdiao Wen</na></co>
+<co c="0"><na f="w/Wu:Haiyan" pid="11/3756">Haiyan Wu</na></co>
+<co c="0"><na f="w/Wu:Jiawei" pid="37/10763">Jiawei Wu</na></co>
+<co c="0" n="2"><na f="w/Wu:Pei_Yuan" pid="75/9983">Pei Yuan Wu</na><na>Pei-Yuan Wu</na></co>
+<co c="0"><na f="w/Wu:Shixiang" pid="205/3888">Shixiang Wu</na></co>
+<co c="0"><na f="x/Xia:Zhiqiang" pid="185/1067">Zhiqiang Xia</na></co>
+<co c="0"><na f="x/Xie_0006:Yuan" pid="157/8128-6">Yuan Xie 0006</na></co>
+<co c="0"><na f="x/Xu:Jinchang" pid="205/3875">Jinchang Xu</na></co>
+<co c="0"><na f="x/Xu:Xiangyu" pid="172/1282">Xiangyu Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Ming=Hsuan" pid="79/3711">Ming-Hsuan Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Siyuan" pid="201/7699">Siyuan Yang</na></co>
+<co c="0"><na f="y/Yang:Tsung=Shan" pid="220/4388">Tsung-Shan Yang</na></co>
+<co c="0"><na f="y/Ye:Jong_Chul" pid="15/5613">Jong Chul Ye</na></co>
+<co c="0"><na f="y/Yoo:Jae_Jun" pid="141/8878">Jae Jun Yoo</na></co>
+<co c="0"><na f="y/Yu:Haichao" pid="205/3982">Haichao Yu</na></co>
+<co c="0"><na f="y/Yu:Jiahui" pid="185/1060">Jiahui Yu</na></co>
+<co c="0"><na f="y/Yu:Ke" pid="23/2089">Ke Yu</na></co>
+<co c="0"><na f="y/Yu:Mingzhao" pid="190/9384">Mingzhao Yu</na></co>
+<co c="0"><na f="y/Yu:Zhe" pid="32/9128">Zhe Yu</na></co>
+<co c="0"><na f="z/Zamir:Syed_Waqas" pid="140/7811">Syed Waqas Zamir</na></co>
+<co c="0"><na f="z/Zhang_0008:Kai" pid="55/957-8">Kai Zhang 0008</na></co>
+<co c="0"><na f="z/Zhang_0006:Lei" pid="64/5666-6">Lei Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang:Tao" pid="15/4777">Tao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenjie" pid="98/5684">Wenjie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yujin" pid="47/3138">Yujin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yulun" pid="166/2763">Yulun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yumei" pid="08/2771">Yumei Zhang</na></co>
+<co c="0"><na f="z/Zhao:Xuan" pid="24/3533">Xuan Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yu" pid="57/2056">Yu Zhao</na></co>
+<co c="0"><na f="z/Zheng:Tianxiang" pid="44/10028">Tianxiang Zheng</na></co>
+<co c="0"><na f="z/Zhou:Hongyu" pid="76/7825">Hongyu Zhou</na></co>
+<co c="0"><na f="z/Zhou:Runnan" pid="263/1316">Runnan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Ruofan" pid="205/3902">Ruofan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Che" pid="205/3914">Che Zhu</na></co>
+<co c="0"><na f="z/Zhu:Dan" pid="50/6054">Dan Zhu</na></co>
+<co c="0"><na f="z/Zuo:Wangmeng" pid="93/2671">Wangmeng Zuo</na></co>
+</coauthors>
+</dblpperson>
+

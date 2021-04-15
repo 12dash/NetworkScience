@@ -1,3 +1,1873 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:206eb850b01a58008767b572d376c856339aef8e318db0454cb5e0a71bd791d6
-size 91643
+<?xml version="1.0"?>
+<dblpperson name="Pascal Vivet" pid="13/6934" n="94">
+<person key="homepages/13/6934" mdate="2019-10-04">
+<author pid="13/6934">Pascal Vivet</author>
+<note type="affiliation">CEA-LETI, Grenoble, France</note>
+<url>https://orcid.org/0000-0002-7413-8243</url>
+</person>
+<r><article key="journals/jssc/VivetGTPTMMDBVP21" mdate="2021-03-02">
+<author orcid="0000-0002-7413-8243" pid="13/6934">Pascal Vivet</author>
+<author pid="119/3710">Eric Guthmuller</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author orcid="0000-0003-0539-7185" pid="21/9429">Ga&#235;l Pillonnet</author>
+<author pid="182/3984">C&#233;sar Fuguet Tortolero</author>
+<author orcid="0000-0001-7719-661X" pid="13/4385">Ivan Miro-Panad&#232;s</author>
+<author pid="129/7532">Guillaume Moritz</author>
+<author pid="87/485">Jean Durupt</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="144/2053">Didier Varreau</author>
+<author orcid="0000-0002-1249-1631" pid="19/2985">Julian J. H. Pontes</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="146/1332">David Coriat</author>
+<author orcid="0000-0003-4423-4805" pid="61/2192">Michel Harrand</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="159/3100">Lucile Arnaud</author>
+<author orcid="0000-0003-3769-3712" pid="02/7962">Jean Charbonnier</author>
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author pid="139/3489">Arnaud Garnier</author>
+<author pid="45/8992">Fr&#233;d&#233;ric Berger</author>
+<author pid="263/0792">Alain Gueugnot</author>
+<author pid="66/4349">Alain Greiner</author>
+<author orcid="0000-0001-8848-8079" pid="34/8464">Quentin L. Meunier</author>
+<author pid="29/2715">Alexis Farcy</author>
+<author orcid="0000-0001-7926-3513" pid="156/6765">Alexandre Arriordaz</author>
+<author orcid="0000-0002-1473-5572" pid="63/7962">S&#233;verine Cheramy</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<title>IntAct: A 96-Core Processor With Six Chiplets 3D-Stacked on an Active Interposer With Distributed Interconnects and Integrated Power Management.</title>
+<pages>79-97</pages>
+<year>2021</year>
+<volume>56</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSSC.2020.3036341</ee>
+<url>db/journals/jssc/jssc56.html#VivetGTPTMMDBVP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/NoelEKGPCVG20" mdate="2020-06-25">
+<author pid="64/9428">Jean-Philippe No&#235;l</author>
+<author pid="268/1823">V. Egloff</author>
+<author pid="149/9915">Maha Kooli</author>
+<author pid="254/9489">R. Gauchi</author>
+<author pid="08/4890">Jean Michel Portal</author>
+<author pid="254/9492">H.-P. Charles</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="85/5413">Bastien Giraud</author>
+<title>Computational SRAM Design Automation using Pushed-Rule Bitcells for Energy-Efficient Vector Processing.</title>
+<pages>1187-1192</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116506</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#NoelEKGPCVG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/NarayanTVJC20" mdate="2020-06-25">
+<author pid="224/0964">Aditya Narayan</author>
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="23/3290">Ajay Joshi</author>
+<author pid="79/3945">Ayse K. Coskun</author>
+<title>System-level Evaluation of Chip-Scale Silicon Photonic Networks for Emerging Data-Intensive Applications.</title>
+<pages>1444-1449</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116496</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#NarayanTVJC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ThonnartBCBCTTC20" mdate="2020-06-25">
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="216/3279">St&#233;phane Bernab&#233;</author>
+<author pid="02/7962">Jean Charbonnier</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="146/1332">David Coriat</author>
+<author pid="182/3984">C&#233;sar Fuguet Tortolero</author>
+<author pid="268/1816">Pierre Tissier</author>
+<author pid="99/2001">Beno&#238;t Charbonnier</author>
+<author pid="265/7076">St&#233;phane Malhouitre</author>
+<author pid="268/2168">Damien Saint-Patrice</author>
+<author pid="48/7961">Myriam Assous</author>
+<author pid="224/0964">Aditya Narayan</author>
+<author pid="79/3945">Ayse K. Coskun</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>POPSTAR: a Robust Modular Optical NoC Architecture for Chiplet-based 3D Integrated Systems.</title>
+<pages>1456-1461</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116214</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#ThonnartBCBCTTC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ThuriesBCLVBL20" mdate="2020-06-25">
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="133/4598">Olivier Billoint</author>
+<author pid="234/1343">Sylvain Choisnet</author>
+<author pid="54/671">Romain Lemaire</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="37/9256">Perrine Batude</author>
+<author pid="15/4939">Didier Lattard</author>
+<title>M3D-ADTCO: Monolithic 3D Architecture, Design and Technology Co-Optimization for High Energy Efficient 3D IC.</title>
+<pages>1740-1745</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116293</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#ThuriesBCLVBL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/GauchiEKNGVMC20" mdate="2020-08-11">
+<author pid="254/9489">R. Gauchi</author>
+<author pid="268/1823">V. Egloff</author>
+<author pid="149/9915">Maha Kooli</author>
+<author pid="64/9428">Jean-Philippe No&#235;l</author>
+<author pid="85/5413">Bastien Giraud</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="30/4561">Subhasish Mitra</author>
+<author pid="254/9492">H.-P. Charles</author>
+<title>Reconfigurable tiles of computing-in-memory SRAM architecture for scalable vectorization.</title>
+<pages>121-126</pages>
+<year>2020</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1145/3370748.3406550</ee>
+<crossref>conf/islped/2020</crossref>
+<url>db/conf/islped/islped2020.html#GauchiEKNGVMC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isscc/VivetGTPMMTDBVP20" mdate="2021-01-21">
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="119/3710">Eric Guthmuller</author>
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="21/9429">Ga&#235;l Pillonnet</author>
+<author pid="129/7532">Guillaume Moritz</author>
+<author pid="13/4385">Ivan Miro-Panad&#232;s</author>
+<author pid="182/3984">C&#233;sar Fuguet Tortolero</author>
+<author pid="87/485">Jean Durupt</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="144/2053">Didier Varreau</author>
+<author pid="19/2985">Julian J. H. Pontes</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="146/1332">David Coriat</author>
+<author pid="61/2192">Michel Harrand</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="159/3100">Lucile Arnaud</author>
+<author pid="02/7962">Jean Charbonnier</author>
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author pid="139/3489">Arnaud Garnier</author>
+<author pid="45/8992">Fr&#233;d&#233;ric Berger</author>
+<author pid="263/0792">Alain Gueugnot</author>
+<author pid="66/4349">Alain Greiner</author>
+<author pid="34/8464">Quentin L. Meunier</author>
+<author pid="29/2715">Alexis Farcy</author>
+<author pid="156/6765">Alexandre Arriordaz</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<title>2.3 A 220GOPS 96-Core Processor with 6 Chiplets 3D-Stacked on an Active Interposer Offering 0.6ns/mm Latency, 3Tb/s/mm<sup>2</sup> Inter-Chiplet Interconnects and 156mW/mm<sup>2</sup>@ 82%-Peak-Efficiency DC-DC Converters.</title>
+<pages>46-48</pages>
+<year>2020</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC19947.2020.9062927</ee>
+<crossref>conf/isscc/2020</crossref>
+<url>db/conf/isscc/isscc2020.html#VivetGTPMMTDBVP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/BillointACLMTV19" mdate="2020-04-19">
+<author pid="133/4598">Olivier Billoint</author>
+<author pid="179/9341">Karim Azizi-Mourier</author>
+<author pid="19/11181">Gerald Cibrario</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="263/0986">M. Mouhdach</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Merging PDKs to Build a Design Environment for 3D Circuits: Methodology, Challenges and Limitations.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC48104.2019.9058793</ee>
+<crossref>conf/3dic/2019</crossref>
+<url>db/conf/3dic/3dic2019.html#BillointACLMTV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/JaniLVAB19" mdate="2020-04-19">
+<author pid="204/5613">Imed Jani</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="159/3100">Lucile Arnaud</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<title>Misalignment Analysis and Electrical Performance of High Density 3D-IC interconnects.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC48104.2019.9058864</ee>
+<crossref>conf/3dic/2019</crossref>
+<url>db/conf/3dic/3dic2019.html#JaniLVAB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/ThonnartVAC19" mdate="2019-10-02">
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="232/8448">Shikhanshu Agarwal</author>
+<author pid="249/8793">Ramesh Chauhan</author>
+<title>Latency Improvement of an Industrial SoC System Interconnect using an Asynchronous NoC Backbone.</title>
+<pages>46-47</pages>
+<year>2019</year>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2019.00014</ee>
+<crossref>conf/async/2019</crossref>
+<url>db/conf/async/async2019.html#ThonnartVAC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/NarayanTVTC19" mdate="2019-07-23">
+<author pid="224/0964">Aditya Narayan</author>
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="182/3984">C&#233;sar Fuguet Tortolero</author>
+<author pid="79/3945">Ayse K. Coskun</author>
+<title>WAVES: Wavelength Selection for Power-Efficient 2.5D-Integrated Photonic NoCs.</title>
+<pages>516-521</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8715036</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#NarayanTVTC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VivetSMCCCABVLD19" mdate="2020-04-18">
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="23/3538">Gilles Sicard</author>
+<author pid="60/2895">Laurent Millet</author>
+<author pid="97/176">St&#233;phane Chevobbe</author>
+<author pid="77/6993">Karim Ben Chehida</author>
+<author pid="241/1197">Luis Angel Cubero</author>
+<author pid="241/0940">Monte Alegre</author>
+<author pid="241/0863">Maxence Bouvier</author>
+<author pid="08/7963">Alexandre Valentian</author>
+<author pid="179/3053">Maria Lepecq</author>
+<author pid="154/4155">Thomas Dombek</author>
+<author pid="75/9434">Olivier Bichler</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<author pid="37/9256">Perrine Batude</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<title>Advanced 3D Technologies and Architectures for 3D Smart Image Sensors.</title>
+<pages>674-679</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714886</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#VivetSMCCCABVLD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/JaniLVDTB19" mdate="2019-08-13">
+<author pid="204/5613">Imed Jani</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="87/485">Jean Durupt</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<title>Test Solutions for High Density 3D-IC Interconnects - Focus on SRAM-on-Logic Partitioning.</title>
+<pages>1-2</pages>
+<year>2019</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS.2019.8791531</ee>
+<crossref>conf/ets/2019</crossref>
+<url>db/conf/ets/ets2019.html#JaniLVDTB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isscc/WuLRBHJLTVVNWWA19" mdate="2019-03-12">
+<author pid="161/0817">Tony F. Wu</author>
+<author pid="237/1260">Binh Q. Le</author>
+<author pid="237/0931">Robert Radway</author>
+<author pid="233/3969">Andrew Bartolo</author>
+<author pid="165/0740">William Hwang</author>
+<author pid="228/6942">Seungbin Jeong</author>
+<author pid="154/1110">Haitong Li</author>
+<author pid="191/6675">Pulkit Tandon</author>
+<author pid="121/3716">Elisa Vianello</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="200/0294">Etienne Nowak</author>
+<author pid="79/7019">Mary Wootters</author>
+<author pid="48/6697">H.-S. Philip Wong</author>
+<author pid="74/5309">Mohamed M. Sabry Aly</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<author pid="30/4561">Subhasish Mitra</author>
+<title>A 43pJ/Cycle Non-Volatile Microcontroller with 4.7&#956;s Shutdown/Wake-up Integrating 2.3-bit/Cell Resistive RAM and Resilience Techniques.</title>
+<pages>226-228</pages>
+<year>2019</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC.2019.8662402</ee>
+<crossref>conf/isscc/2019</crossref>
+<url>db/conf/isscc/isscc2019.html#WuLRBHJLTVVNWWA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/MathewCW0GVLW19" mdate="2019-08-09">
+<author pid="169/7969">Deepak M. Mathew</author>
+<author pid="171/2191">Andr&#233; Lucas Chinazzo</author>
+<author pid="51/10052">Christian Weis</author>
+<author pid="76/1646-1">Matthias Jung 0001</author>
+<author pid="85/5413">Bastien Giraud</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="233/9845">Alexandre Levisse</author>
+<author pid="48/6980">Norbert Wehn</author>
+<title>RRAMSpec: A Design Space Exploration Framework for High Density Resistive RAM.</title>
+<pages>34-47</pages>
+<year>2019</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27562-4_3</ee>
+<crossref>conf/samos/2019</crossref>
+<url>db/conf/samos/samos2019.html#MathewCW0GVLW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/GauchiKVNBMC19" mdate="2019-12-13">
+<author pid="254/9489">R. Gauchi</author>
+<author pid="149/9915">Maha Kooli</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="64/9428">Jean-Philippe No&#235;l</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<author pid="30/4561">Subhasish Mitra</author>
+<author pid="254/9492">H.-P. Charles</author>
+<title>Memory Sizing of a Scalable SRAM In-Memory Computing Tile Based Architecture.</title>
+<pages>166-171</pages>
+<year>2019</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SoC.2019.8920373</ee>
+<crossref>conf/vlsi/2019</crossref>
+<url>db/conf/vlsi/vlsisoc2019.html#GauchiKVNBMC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esscirc/GuthmullerTVBPD18" mdate="2018-10-23">
+<author pid="119/3710">Eric Guthmuller</author>
+<author pid="182/3984">C&#233;sar Fuguet Tortolero</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="90/5768">C. Bernard</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author pid="87/485">Jean Durupt</author>
+<author pid="228/2823">E. Beignc</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<author pid="66/4349">Alain Greiner</author>
+<author pid="34/8464">Quentin L. Meunier</author>
+<author pid="94/1396">Pirouz Bazargan-Sabet</author>
+<title>A 29 Gops/Watt 3D-Ready 16-Core Computing Fabric with Scalable Cache Coherent Architecture Using Distributed L2 and Adaptive L3 Caches.</title>
+<pages>318-321</pages>
+<year>2018</year>
+<booktitle>ESSCIRC</booktitle>
+<ee>https://doi.org/10.1109/ESSCIRC.2018.8494275</ee>
+<crossref>conf/esscirc/2018</crossref>
+<url>db/conf/esscirc/esscirc2018.html#GuthmullerTVBPD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/JaniLVAB18" mdate="2018-07-06">
+<author pid="204/5613">Imed Jani</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="159/3100">Lucile Arnaud</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<title>BISTs for post-bond test and electrical analysis of high density 3D interconnect defects.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS.2018.8400698</ee>
+<crossref>conf/ets/2018</crossref>
+<url>db/conf/ets/ets2018.html#JaniLVAB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/VivetTBCLBB18" mdate="2019-01-24">
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="133/4598">Olivier Billoint</author>
+<author pid="234/1343">Sylvain Choisnet</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<author pid="37/9256">Perrine Batude</author>
+<title>Monolithic 3D: an alternative to advanced CMOS scaling, technology perspectives and associated design methodology challenges.</title>
+<pages>157-160</pages>
+<year>2018</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2018.8617955</ee>
+<crossref>conf/icecsys/2018</crossref>
+<url>db/conf/icecsys/icecsys2018.html#VivetTBCLBB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jssc/VivetTLSBBDLPDC17" mdate="2020-08-30">
+<author orcid="0000-0002-7413-8243" pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="54/671">Romain Lemaire</author>
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="95/6911">Edith Beign&#233;</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="29/9979">Florian Darve</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<author pid="87/5667">Abbas Sheibanyrad</author>
+<author pid="41/1007">Fr&#233;d&#233;ric P&#233;trot</author>
+<author pid="35/7358">Eric Flamand</author>
+<author pid="118/1644">Jean Michailos</author>
+<author pid="156/6765">Alexandre Arriordaz</author>
+<author pid="38/6031">Lee Wang</author>
+<author pid="25/5746">Juergen Schloeffel</author>
+<title>A 4 &#215; 4 &#215; 2 Homogeneous Scalable 3D Network-on-Chip Circuit With 326 MFlit/s 0.66 pJ/b Robust and Fault Tolerant Asynchronous 3D Links.</title>
+<pages>33-49</pages>
+<year>2017</year>
+<volume>52</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSSC.2016.2611497</ee>
+<url>db/journals/jssc/jssc52.html#VivetTLSBBDLPDC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/newcas/JaniLVB17" mdate="2018-11-02">
+<author pid="204/5613">Imed Jani</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<title>Innovative structures to test bonding alignment and characterize high density interconnects in 3D-IC.</title>
+<pages>153-156</pages>
+<year>2017</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2017.8010128</ee>
+<crossref>conf/newcas/2017</crossref>
+<url>db/conf/newcas/newcas2017.html#JaniLVB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/KhursheedVHM16" mdate="2020-03-13">
+<author pid="85/4316">S. Saqib Khursheed</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="74/9056">Fabian Hopsch</author>
+<author pid="11/4438">Erik Jan Marinissen</author>
+<title>Guest Editors' Introduction: Robust 3-D Stacked ICs.</title>
+<pages>6-7</pages>
+<year>2016</year>
+<volume>33</volume>
+<journal>IEEE Des. Test</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MDAT.2016.2542210</ee>
+<url>db/journals/dt/dt33.html#KhursheedVHM16</url>
+</article>
+</r>
+<r><article key="journals/dt/CoudrainSPFFLCS16" mdate="2021-01-21">
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author pid="139/6236">Papa Momar Souare</author>
+<author pid="78/5056">Rafael Prieto</author>
+<author pid="88/8564">Vincent Fiori</author>
+<author pid="29/2715">Alexis Farcy</author>
+<author pid="168/5987">Laurent Le-Pailleur</author>
+<author pid="118/1564">Jean-Philippe Colonna</author>
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="88/2043">M. Haykel Ben Jamaa</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="22/7962">Fran&#231;ois de Crecy</author>
+<author pid="179/3793">Sylvain Dumas</author>
+<author pid="179/3800">Christian Chancel</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<title>Experimental Insights Into Thermal Dissipation in TSV-Based 3-D Integrated Circuits.</title>
+<pages>21-36</pages>
+<year>2016</year>
+<volume>33</volume>
+<journal>IEEE Des. Test</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MDAT.2015.2506678</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDAT.2015.2506678</ee>
+<url>db/journals/dt/dt33.html#CoudrainSPFFLCS16</url>
+</article>
+</r>
+<r><article key="journals/tcad/BeneventiBVB16" mdate="2020-09-24">
+<author pid="92/10266">Francesco Beneventi</author>
+<author orcid="0000-0002-1148-2450" pid="45/1193">Andrea Bartolini</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-8068-3806" pid="b/LucaBenini">Luca Benini</author>
+<title>Thermal Analysis and Interpolation Techniques for a Logic + WideIO Stacked DRAM Test Chip.</title>
+<pages>623-636</pages>
+<year>2016</year>
+<volume>35</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2474382</ee>
+<url>db/journals/tcad/tcad35.html#BeneventiBVB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dic/LattardAGBBSJJM16" mdate="2018-11-02">
+<author pid="15/4939">Didier Lattard</author>
+<author pid="159/3100">Lucile Arnaud</author>
+<author pid="139/3489">Arnaud Garnier</author>
+<author pid="202/8893">N. Bresson</author>
+<author pid="171/6074">Franck Bana</author>
+<author pid="202/8823">R. Segaud</author>
+<author pid="61/7962">Amadine Jouve</author>
+<author pid="202/8840">H. Jacquinot</author>
+<author orcid="0000-0001-6104-2050" pid="156/2680">St&#233;phane Moreau</author>
+<author pid="179/9341">Karim Azizi-Mourier</author>
+<author pid="139/6397">C. Chantre</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="21/9429">Ga&#235;l Pillonnet</author>
+<author pid="202/8839">F. Casset</author>
+<author pid="171/5829">F. Ponthenier</author>
+<author pid="29/2715">Alexis Farcy</author>
+<author pid="62/4595">S. Lhostis</author>
+<author pid="118/1644">Jean Michailos</author>
+<author pid="156/6765">Alexandre Arriordaz</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<title>ITAC: A complete 3D integration test platform.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2016.7970012</ee>
+<crossref>conf/3dic/2016</crossref>
+<url>db/conf/3dic/3dic2016.html#LattardAGBBSJJM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/SantosVTBCCW16" mdate="2021-01-21">
+<author pid="23/4872">C. Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="142/0316">Sebastien Thuries</author>
+<author pid="133/4598">Olivier Billoint</author>
+<author pid="118/1564">Jean-Philippe Colonna</author>
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author pid="67/6401">L. Wang</author>
+<title>Thermal performance of CoolCube&#8482; monolithic and TSV-based 3D integration processes.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2016.7970007</ee>
+<crossref>conf/3dic/2016</crossref>
+<url>db/conf/3dic/3dic2016.html#SantosVTBCCW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/DuruptVS16" mdate="2017-05-22">
+<author pid="87/485">Jean Durupt</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="25/5746">Juergen Schloeffel</author>
+<title>IJTAG supported 3D DFT using chiplet-footprints for testing multi-chips active interposer system.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS.2016.7519310</ee>
+<crossref>conf/ets/2016</crossref>
+<url>db/conf/ets/ets2016.html#DuruptVS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isscc/VivetTLBBDLPSCC16" mdate="2019-10-19">
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="54/671">Romain Lemaire</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="29/9979">Florian Darve</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<author pid="41/1007">Fr&#233;d&#233;ric P&#233;trot</author>
+<author pid="35/7358">Eric Flamand</author>
+<author pid="118/1644">Jean Michailos</author>
+<title>8.1 A 4&#215;4&#215;2 homogeneous scalable 3D network-on-chip circuit with 326MFlit/s 0.66pJ/b robust and fault-tolerant asynchronous 3D links.</title>
+<pages>146-147</pages>
+<year>2016</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC.2016.7417949</ee>
+<crossref>conf/isscc/2016</crossref>
+<url>db/conf/isscc/isscc2016.html#VivetTLBBDLPSCC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/VivetBCDGPPTGLJ15" mdate="2019-10-19">
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="119/3710">Eric Guthmuller</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author pid="21/9429">Ga&#235;l Pillonnet</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="139/3489">Arnaud Garnier</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="61/7962">Amandine Jouve</author>
+<author pid="171/6074">Franck Bana</author>
+<author pid="171/5845">Thierry Mourier</author>
+<author pid="63/7962">S&#233;verine Cheramy</author>
+<title>3D advanced integration technology for heterogeneous systems.</title>
+<pages>FS6.1-FS6.3</pages>
+<year>2015</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2015.7334468</ee>
+<crossref>conf/3dic/2015</crossref>
+<url>db/conf/3dic/3dic2015.html#VivetBCDGPPTGLJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/SantosPVCCR15" mdate="2021-01-21">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="78/5056">Rafael Prieto</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="118/1564">Jean-Philippe Colonna</author>
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Graphite-based heat spreaders for hotspot mitigation in 3D ICs.</title>
+<pages>TS10.4.1-TS10.4.4</pages>
+<year>2015</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2015.7334618</ee>
+<crossref>conf/3dic/2015</crossref>
+<url>db/conf/3dic/3dic2015.html#SantosPVCCR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/PillonnetJV15" mdate="2017-05-21">
+<author pid="21/9429">Ga&#235;l Pillonnet</author>
+<author pid="171/5981">Nicolas Jeanniot</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>3D ICs: An opportunity for fully-integrated, dense and efficient power supplies.</title>
+<pages>TS6.4.1-TS6.4.8</pages>
+<year>2015</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2015.7334574</ee>
+<crossref>conf/3dic/2015</crossref>
+<url>db/conf/3dic/3dic2015.html#PillonnetJV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/PontesVT15" mdate="2019-10-19">
+<author pid="19/2985">Julian J. H. Pontes</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<title>Two-phase protocol converters for 3D asynchronous 1-of-n data links.</title>
+<pages>154-159</pages>
+<year>2015</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2015.7058997</ee>
+<crossref>conf/aspdac/2015</crossref>
+<url>db/conf/aspdac/aspdac2015.html#PontesVT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/Weis0ESVGKW15" mdate="2017-04-30">
+<author pid="51/10052">Christian Weis</author>
+<author pid="76/1646-1">Matthias Jung 0001</author>
+<author pid="161/0227">Peter Ehses</author>
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="47/11158">Sven Goossens</author>
+<author pid="87/10491">Martijn Koedam</author>
+<author pid="48/6980">Norbert Wehn</author>
+<title>Retention time measurements and modelling of bit error rates of WIDE I/O DRAM in MPSoCs.</title>
+<pages>495-500</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755865</ee>
+<ee>http://ieeexplore.ieee.org/document/7092439/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#Weis0ESVGKW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BeigneCLPTV15" mdate="2019-10-19">
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="15/4939">Didier Lattard</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Fine-grain DVFS and AVFS techniques for complex SoC design: An overview of architectural solutions through technology nodes.</title>
+<pages>1550-1553</pages>
+<year>2015</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2015.7168942</ee>
+<crossref>conf/iscas/2015</crossref>
+<url>db/conf/iscas/iscas2015.html#BeigneCLPTV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/SassolasSGMVBP15" mdate="2017-05-24">
+<author pid="14/8377">Tanguy Sassolas</author>
+<author pid="51/2672">Chiara Sandionigi</author>
+<author pid="01/7646">Alexandre Guerre</author>
+<author pid="123/2321">Julien Mottin</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="11/5827">Hela Boussetta</author>
+<author pid="84/5281">Nicolas Peltier</author>
+<title>A simulation framework for rapid prototyping and evaluation of thermal mitigation techniques in many-core architectures.</title>
+<pages>25-30</pages>
+<year>2015</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/ISLPED.2015.7273485</ee>
+<crossref>conf/islped/2015</crossref>
+<url>db/conf/islped/islped2015.html#SassolasSGMVBP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/FkihVFRNS15" mdate="2017-05-21">
+<author pid="151/4564">Yassine Fkih</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="23/6156">Marie-Lise Flottes</author>
+<author pid="75/1130">Bruno Rouzeyre</author>
+<author pid="71/5847">Giorgio Di Natale</author>
+<author pid="25/5746">Juergen Schloeffel</author>
+<title>3D DFT Challenges and Solutions.</title>
+<pages>603-608</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.11</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#FkihVFRNS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/Weis0NWSVH15" mdate="2017-06-15">
+<author pid="51/10052">Christian Weis</author>
+<author orcid="0000-0003-0036-2143" pid="76/1646-1">Matthias Jung 0001</author>
+<author pid="170/2158">Omar Naji</author>
+<author pid="48/6980">Norbert Wehn</author>
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="02/3616">Andreas Hansson</author>
+<title>Thermal Aspects and High-Level Explorations of 3D Stacked DRAMs.</title>
+<pages>609-614</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.60</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#Weis0NWSVH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/VivetBGPTC15" mdate="2019-10-19">
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="119/3710">Eric Guthmuller</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<title>Interconnect Challenges for 3D Multi-cores: From 3D Network-on-Chip to Cache Interconnects.</title>
+<pages>615-620</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.21</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#VivetBGPTC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/BerthierBVS15" mdate="2018-11-02">
+<author pid="176/5825">Florent Berthier</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="28/4014">Olivier Sentieys</author>
+<title>Power gain estimation of an event-driven wake-up controller dedicated to WSN's microcontroller.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2015.7182064</ee>
+<crossref>conf/newcas/2015</crossref>
+<url>db/conf/newcas/newcas2015.html#BerthierBVS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jssc/PanadesBTAVLPMTTCEWF14" mdate="2020-08-30">
+<author pid="13/4385">Ivan Miro Panades</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="15/10051">Laurent Alacoque</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="06/1855">Suzanne Lesecq</author>
+<author pid="98/5797">Diego Puschini</author>
+<author pid="59/3148">Anca Molnos</author>
+<author pid="88/5437">Farhat Thabet</author>
+<author pid="07/8837">Beno&#238;t Tain</author>
+<author pid="77/6993">Karim Ben Chehida</author>
+<author pid="11/1670">Sylvain Engels</author>
+<author pid="69/2227">Robin Wilson</author>
+<author pid="03/11157">Didier Fuin</author>
+<title>A Fine-Grain Variation-Aware Dynamic Vdd-Hopping AVFS Architecture on a 32 nm GALS MPSoC.</title>
+<pages>1475-1486</pages>
+<year>2014</year>
+<volume>49</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/JSSC.2014.2317137</ee>
+<url>db/journals/jssc/jssc49.html#PanadesBTAVLPMTTCEWF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dic/SantosSCCCVBRJF14" mdate="2021-01-21">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="139/6236">Papa Momar Souare</author>
+<author pid="22/7962">Fran&#231;ois de Crecy</author>
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author pid="118/1564">Jean-Philippe Colonna</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="165/2183">Andras Borbely</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<author pid="88/2043">M. Haykel Ben Jamaa</author>
+<author pid="88/8564">Vincent Fiori</author>
+<author pid="29/2715">Alexis Farcy</author>
+<title>Using TSVs for thermal mitigation in 3D circuits: Wish and truth.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2014.7152167</ee>
+<crossref>conf/3dic/2014</crossref>
+<url>db/conf/3dic/3dic2014.html#SantosSCCCVBRJF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/SantosVCCR14" mdate="2021-01-21">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="118/1564">Jean-Philippe Colonna</author>
+<author orcid="0000-0003-1727-4529" pid="127/0244">Perceval Coudrain</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Thermal performance of 3D ICs: Analysis and alternatives.</title>
+<pages>1-7</pages>
+<year>2014</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2014.7152163</ee>
+<crossref>conf/3dic/2014</crossref>
+<url>db/conf/3dic/3dic2014.html#SantosVCCR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/BelhadjVVDHT14" mdate="2018-11-06">
+<author pid="95/9428">Bilel Belhadj</author>
+<author pid="08/7963">Alexandre Valentian</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="16/1360">Marc Duranton</author>
+<author pid="47/1699">Liqiang He</author>
+<author pid="35/1139">Olivier Temam</author>
+<title>The improbable but highly appropriate marriage of 3D stacking and neuromorphic accelerators.</title>
+<pages>1:1-1:9</pages>
+<year>2014</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/2656106.2656130</ee>
+<crossref>conf/cases/2014</crossref>
+<url>db/conf/cases/cases2014.html#BelhadjVVDHT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicc/SantosVMPKR14" mdate="2019-09-16">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="153/9659">Gene Matter</author>
+<author pid="84/5281">Nicolas Peltier</author>
+<author pid="96/8857">Sylvian Kaiser</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Thermal modeling methodology for efficient system-level thermal analysis.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>CICC</booktitle>
+<ee>https://doi.org/10.1109/CICC.2014.6946045</ee>
+<crossref>conf/cicc/2014</crossref>
+<url>db/conf/cicc/cicc2014.html#SantosVMPKR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BeneventiBVDB14" mdate="2017-05-23">
+<author pid="92/10266">Francesco Beneventi</author>
+<author pid="45/1193">Andrea Bartolini</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="b/LucaBenini">Luca Benini</author>
+<title>Thermal analysis and model identification techniques for a logic + WIDEIO stacked DRAM test chip.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.345</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2617079</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#BeneventiBVDB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SassolasSGAVBFP14" mdate="2017-05-23">
+<author pid="14/8377">Tanguy Sassolas</author>
+<author pid="51/2672">Chiara Sandionigi</author>
+<author pid="01/7646">Alexandre Guerre</author>
+<author pid="130/5914">Alexandre Aminot</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="11/5827">Hela Boussetta</author>
+<author pid="75/6330">Luca Ferro</author>
+<author pid="84/5281">Nicolas Peltier</author>
+<title>Early design stage thermal evaluation and mitigation: The locomotiv architectural case.</title>
+<pages>1-2</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.327</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2617058</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#SassolasSGAVBFP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SantosVR14" mdate="2019-09-16">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Thermal impact of 3D stacking and die thickness: Analysis and characterization of a memory-on-logic 3D circuit.</title>
+<pages>718-721</pages>
+<year>2014</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2014.7050086</ee>
+<crossref>conf/icecsys/2014</crossref>
+<url>db/conf/icecsys/icecsys2014.html#SantosVR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/FkihVRFNS14" mdate="2017-05-21">
+<author pid="151/4564">Yassine Fkih</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="75/1130">Bruno Rouzeyre</author>
+<author pid="23/6156">Marie-Lise Flottes</author>
+<author pid="71/5847">Giorgio Di Natale</author>
+<author pid="25/5746">Juergen Schloeffel</author>
+<title>2D to 3D Test Pattern Retargeting Using IEEE P1687 Based 3D DFT Architectures.</title>
+<pages>386-391</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.83</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.83</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#FkihVRFNS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dic/SantosVDGPR13" mdate="2019-10-22">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="139/6357">Philippe Garrault</author>
+<author pid="84/5281">Nicolas Peltier</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>System-level thermal modeling for 3D circuits: Characterization with a 65nm memory-on-logic circuit.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>3DIC</booktitle>
+<ee>https://doi.org/10.1109/3DIC.2013.6702379</ee>
+<crossref>conf/3dic/2013</crossref>
+<url>db/conf/3dic/3dic2013.html#SantosVDGPR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/HelmstetterBLCVLPPF13" mdate="2017-05-26">
+<author pid="07/4696">Claude Helmstetter</author>
+<author pid="129/2131">Sylvain Basset</author>
+<author pid="54/671">Romain Lemaire</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="36/3342">Michel Langevin</author>
+<author pid="77/371">Chuck Pilkington</author>
+<author pid="25/6932">Pierre G. Paulin</author>
+<author pid="03/11157">Didier Fuin</author>
+<title>A dynamic stream link for efficient data flow control in NoC based heterogeneous MPSoC.</title>
+<pages>41-46</pages>
+<year>2013</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2013.6509556</ee>
+<crossref>conf/aspdac/2013</crossref>
+<url>db/conf/aspdac/aspdac2013.html#HelmstetterBLCVLPPF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/HelmstetterCGMV13" mdate="2017-06-15">
+<author orcid="0000-0002-2323-6919" pid="07/4696">Claude Helmstetter</author>
+<author pid="29/4784">J&#233;r&#244;me Cornet</author>
+<author pid="25/2481">Bruno Galil&#233;e</author>
+<author pid="00/5933">Matthieu Moy</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Fast and accurate TLM simulations using temporal decoupling for FIFO-based communications.</title>
+<pages>1185-1188</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.246</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485573</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#HelmstetterCGMV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/YakovlevVR13" mdate="2017-05-23">
+<author pid="83/4837">Alex Yakovlev</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="59/4092">Marc Renaudin</author>
+<title>Advances in asynchronous logic: from principles to GALS &#38; NoC, recent industry applications, and commercial CAD tools.</title>
+<pages>1715-1724</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.346</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485694</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#YakovlevVR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/MetzlerTBDGVVB13" mdate="2017-06-02">
+<author pid="65/4965">Carolina Metzler</author>
+<author orcid="0000-0001-8573-2910" pid="03/5894">Aida Todri-Sanial</author>
+<author pid="62/1403">Alberto Bosio</author>
+<author pid="84/2681">Luigi Dilillo</author>
+<author pid="48/6113-1">Patrick Girard 0001</author>
+<author pid="46/6853">Arnaud Virazel</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="41/4608">Marc Belleville</author>
+<title>Computing detection probability of delay defects in signal line tsvs.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS.2013.6569349</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ETS.2013.6569349</ee>
+<crossref>conf/ets/2013</crossref>
+<url>db/conf/ets/ets2013.html#MetzlerTBDGVVB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iolts/PontesCV13" mdate="2017-05-22">
+<author pid="19/2985">Julian J. H. Pontes</author>
+<author pid="c/NeyLVCalazans">Ney Calazans</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Parity check for m-of-n delay insensitive codes.</title>
+<pages>157-162</pages>
+<year>2013</year>
+<booktitle>IOLTS</booktitle>
+<ee>https://doi.org/10.1109/IOLTS.2013.6604068</ee>
+<crossref>conf/iolts/2013</crossref>
+<url>db/conf/iolts/iolts2013.html#PontesCV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ClermidyDGMV13" mdate="2017-05-26">
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="119/3710">Eric Guthmuller</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>3D stacking for multi-core architectures: From WIDEIO to distributed caches.</title>
+<pages>537-540</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2013.6571899</ee>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#ClermidyDGMV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ChengTBDGVVB13" mdate="2021-04-14">
+<author pid="05/10696">Yuanqing Cheng</author>
+<author orcid="0000-0001-8573-2910" pid="03/5894">Aida Todri-Sanial</author>
+<author pid="62/1403">Alberto Bosio</author>
+<author pid="139/7024">Luigi Dillio</author>
+<author pid="48/6113-1">Patrick Girard 0001</author>
+<author pid="46/6853">Arnaud Virazel</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="41/4608">Marc Belleville</author>
+<title>A novel method to mitigate TSV electromigration for 3D ICs.</title>
+<pages>121-126</pages>
+<year>2013</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2013.6654633</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2013.6654633</ee>
+<crossref>conf/isvlsi/2013</crossref>
+<url>db/conf/isvlsi/isvlsi2013.html#ChengTBDGVVB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/FkihVRFN13" mdate="2017-05-24">
+<author pid="151/4564">Yassine Fkih</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="75/1130">Bruno Rouzeyre</author>
+<author pid="23/6156">Marie-Lise Flottes</author>
+<author pid="71/5847">Giorgio Di Natale</author>
+<title>A 3D IC BIST for pre-bond test of TSVs using ring oscillators.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2013.6573611</ee>
+<crossref>conf/newcas/2013</crossref>
+<url>db/conf/newcas/newcas2013.html#FkihVRFN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/DucrouxHRV13" mdate="2017-05-26">
+<author pid="137/2928">Thomas Ducroux</author>
+<author pid="05/2743">Germain Haugou</author>
+<author pid="137/3026">Vincent Risson</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Fast and accurate power annotated simulation: Application to a many-core architecture.</title>
+<pages>191-198</pages>
+<year>2013</year>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1109/PATMOS.2013.6662173</ee>
+<crossref>conf/patmos/2013</crossref>
+<url>db/conf/patmos/patmos2013.html#DucrouxHRV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/PontesCV13" mdate="2017-05-24">
+<author pid="19/2985">Julian J. H. Pontes</author>
+<author pid="c/NeyLVCalazans">Ney Calazans</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>H2A: A hardened asynchronous network on chip.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2013.6644865</ee>
+<crossref>conf/sbcci/2013</crossref>
+<url>db/conf/sbcci/sbcci2013.html#PontesCV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/ThonnartBV12" mdate="2019-10-19">
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>A Pseudo-Synchronous Implementation Flow for WCHB QDI Asynchronous Circuits.</title>
+<pages>73-80</pages>
+<year>2012</year>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2012.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2012.29</ee>
+<crossref>conf/async/2012</crossref>
+<url>db/conf/async/async2012.html#ThonnartBV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/PontesCV12" mdate="2017-05-23">
+<author pid="19/2985">Julian J. H. Pontes</author>
+<author pid="c/NeyLVCalazans">Ney Calazans</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Adding Temporal Redundancy to Delay Insensitive Codes to Mitigate Single Event Effects.</title>
+<pages>142-149</pages>
+<year>2012</year>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2012.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2012.26</ee>
+<crossref>conf/async/2012</crossref>
+<url>db/conf/async/async2012.html#PontesCV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/PontesCV12" mdate="2017-05-23">
+<author pid="19/2985">Julian J. H. Pontes</author>
+<author pid="c/NeyLVCalazans">Ney Calazans</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>An accurate Single Event Effect digital design flow for reliable system level design.</title>
+<pages>224-229</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176466</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176466</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2492764</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#PontesCV12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/async/2012" mdate="2019-10-16">
+<editor pid="42/2580">Jens Spars&#248;</editor>
+<editor pid="94/5746">Montek Singh</editor>
+<editor pid="13/6934">Pascal Vivet</editor>
+<title>18th IEEE International Symposium on Asynchronous Circuits and Systems, ASYNC 2012, Kgs. Lyngby, Denmark, May 7-9, 2012</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2012</year>
+<isbn>978-1-4673-1360-5</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6242773/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/async/2012/4688/00/index.html</ee>
+<booktitle>ASYNC</booktitle>
+<url>db/conf/async/async2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dt/ChristmannBCVWLP11" mdate="2020-05-17">
+<author pid="93/10303">Jean-Fr&#233;d&#233;ric Christmann</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="63/9852">Cyril Condemine</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0003-1995-945X" pid="78/10301">J&#233;r&#244;me Willemin</author>
+<author pid="58/10303">Nicolas Leblond</author>
+<author pid="29/5753">Christian Piguet</author>
+<title>Bringing Robustness and Power Efficiency to Autonomous Energy-Harvesting Microsystems.</title>
+<pages>84-94</pages>
+<year>2011</year>
+<volume>28</volume>
+<journal>IEEE Des. Test Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MDT.2011.101</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDT.2011.101</ee>
+<url>db/journals/dt/dt28.html#ChristmannBCVWLP11</url>
+</article>
+</r>
+<r><article key="journals/jolpe/VivetBLZ11" mdate="2020-05-22">
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="71/5402">Hugo Lebreton</author>
+<author pid="55/4737">Nacer-Eddine Zergainoh</author>
+<title>On-line Power Optimization of Data Flow Multi-Core Architecture Based on Vdd-Hopping for Local Dynamic Voltage and Frequency Scaling.</title>
+<pages>265-273</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>J. Low Power Electron.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1166/jolpe.2011.1135</ee>
+<url>db/journals/jolpe/jolpe7.html#VivetBLZ11</url>
+</article>
+</r>
+<r><article key="journals/jolpe/AlbeaPVPBL11" mdate="2020-05-22">
+<author orcid="0000-0003-3586-6659" pid="151/8816">Carolina Albea</author>
+<author pid="98/5797">Diego Puschini</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="06/1855">Suzanne Lesecq</author>
+<title>Architecture and Robust Control of a Digital Frequency-Locked Loop for Fine-Grain Dynamic Voltage and Frequency Scaling in Globally Asynchronous Locally Synchronous Structures.</title>
+<pages>328-340</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>J. Low Power Electron.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1166/jolpe.2011.1141</ee>
+<url>db/journals/jolpe/jolpe7.html#AlbeaPVPBL11</url>
+</article>
+</r>
+<r><inproceedings key="conf/codes/AkessonHCDGCKVW11" mdate="2021-01-05">
+<author orcid="0000-0003-2949-2080" pid="13/5546">Benny Akesson</author>
+<author pid="43/1486">Po-Chun Huang</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="g/KeesGoossens">Kees Goossens</author>
+<author orcid="0000-0002-1282-2111" pid="49/2395">Yuan-Hao Chang 0001</author>
+<author orcid="0000-0003-1974-0394" pid="07/3181">Tei-Wei Kuo</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="65/6840">Drew Wingard</author>
+<title>Memory controllers for high-performance and real-time MPSoCs: requirements, architectures, and future trends.</title>
+<pages>3-12</pages>
+<year>2011</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/2039370.2039374</ee>
+<crossref>conf/codes/2011</crossref>
+<url>db/conf/codes/codes2011.html#AkessonHCDGCKVW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ClermidyDDLV11" mdate="2017-05-23">
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="29/9979">Florian Darve</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author pid="07/10036">Walid Lafi</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>3D Embedded multi-core: Some perspectives.</title>
+<pages>1327-1332</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2011.5763213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2011.5763213</ee>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#ClermidyDDLV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/DarveSVP11" mdate="2017-05-21">
+<author pid="29/9979">Florian Darve</author>
+<author pid="87/5667">Abbas Sheibanyrad</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="41/1007">Fr&#233;d&#233;ric P&#233;trot</author>
+<title>Physical Implementation of an Asynchronous 3D-NoC Router Using Serial Vertical Links.</title>
+<pages>25-30</pages>
+<year>2011</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2011.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2011.59</ee>
+<crossref>conf/isvlsi/2011</crossref>
+<url>db/conf/isvlsi/isvlsi2011.html#DarveSVP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/VivetDTC11" mdate="2019-10-19">
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="85/9944">Denis Dutoit</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<title>3D NoC using through silicon Via: An asynchronous implementation.</title>
+<pages>232-237</pages>
+<year>2011</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISoC.2011.6081643</ee>
+<crossref>conf/vlsi/2011soc</crossref>
+<url>db/conf/vlsi/vlsisoc2011.html#VivetDTC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/ChristmannBCLVWW10" mdate="2019-10-19">
+<author pid="93/10303">Jean-Fr&#233;d&#233;ric Christmann</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="63/9852">Cyril Condemine</author>
+<author pid="58/10303">Nicolas Leblond</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="39/9709">G. Waltisperger</author>
+<author orcid="0000-0003-1995-945X" pid="78/10301">J&#233;r&#244;me Willemin</author>
+<title>Bringing Robustness and Power Efficiency to Autonomous Energy Harvesting Microsystems.</title>
+<pages>62-71</pages>
+<year>2010</year>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2010.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2010.19</ee>
+<crossref>conf/async/2010</crossref>
+<url>db/conf/async/async2010.html#ChristmannBCLVWW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ThonnartVC10" mdate="2017-05-23">
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<title>A fully-asynchronous low-power framework for GALS NoC integration.</title>
+<pages>33-38</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5457239</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1870938</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#ThonnartVC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isscc/ClermidyBLMPTVW10" mdate="2019-10-19">
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="54/671">Romain Lemaire</author>
+<author orcid="0000-0001-6611-7306" pid="12/6873">J&#233;r&#244;me Martin</author>
+<author pid="13/4385">Ivan Miro Panades</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="48/6980">Norbert Wehn</author>
+<title>A 477mW NoC-based digital baseband for MIMO 4G SDR.</title>
+<pages>278-279</pages>
+<year>2010</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC.2010.5433920</ee>
+<crossref>conf/isscc/2010</crossref>
+<url>db/conf/isscc/isscc2010.html#ClermidyBLMPTVW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/VivetBLZ10" mdate="2018-11-02">
+<author pid="13/6934">Pascal Vivet</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="71/5402">Hugo Lebreton</author>
+<author pid="55/4737">Nacer-Eddine Zergainoh</author>
+<title>On Line Power Optimization of Data Flow Multi-core Architecture Based on Vdd-Hopping for Local DVFS.</title>
+<pages>94-104</pages>
+<year>2010</year>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17752-1_10</ee>
+<crossref>conf/patmos/2010</crossref>
+<url>db/conf/patmos/patmos2010.html#VivetBLZ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jssc/BeigneCLMTTVVVP09" mdate="2020-08-30">
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="21/7913">H&#233;l&#232;ne Lhermet</author>
+<author pid="53/1450">Sylvain Miermont</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author orcid="0000-0003-4259-9579" pid="60/323">Xuan-Tu Tran</author>
+<author pid="08/7963">Alexandre Valentian</author>
+<author pid="144/2053">Didier Varreau</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="44/7646">Xavier Popon</author>
+<author pid="71/5402">Hugo Lebreton</author>
+<title>An Asynchronous Power Aware and Adaptive NoC Based Circuit.</title>
+<pages>1167-1177</pages>
+<year>2009</year>
+<volume>44</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JSSC.2009.2014206</ee>
+<url>db/journals/jssc/jssc44.html#BeigneCLMTTVVVP09</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/ThonnartBVV09" mdate="2020-03-11">
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="08/7963">Alexandre Valentian</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Power Reduction of Asynchronous Logic Circuits Using Activity Detection.</title>
+<pages>893-906</pages>
+<year>2009</year>
+<volume>17</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TVLSI.2008.2011912</ee>
+<url>db/journals/tvlsi/tvlsi17.html#ThonnartBVV09</url>
+</article>
+</r>
+<r><inproceedings key="conf/async/ThonnartBV09" mdate="2019-10-19">
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Design and Implementation of a GALS Adapter for ANoC Based Architectures.</title>
+<pages>13-22</pages>
+<year>2009</year>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2009.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2009.13</ee>
+<crossref>conf/async/2009</crossref>
+<url>db/conf/async/async2009.html#ThonnartBV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/ClermidyLTV09" mdate="2019-10-19">
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="54/671">Romain Lemaire</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>A Communication and configuration controller for NoC based reconfigurable data flow architecture.</title>
+<pages>153-162</pages>
+<year>2009</year>
+<booktitle>NOCS</booktitle>
+<ee>https://doi.org/10.1109/NOCS.2009.5071463</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NOCS.2009.5071463</ee>
+<crossref>conf/nocs/2009</crossref>
+<url>db/conf/nocs/nocs2009.html#ClermidyLTV09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jssc/LattardBCDLVB08" mdate="2020-08-30">
+<author pid="15/4939">Didier Lattard</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="27/5990">Yves Durand</author>
+<author pid="54/671">Romain Lemaire</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="68/5304">Friedbert Berens</author>
+<title>A Reconfigurable Baseband Platform Based on an Asynchronous Network-on-Chip.</title>
+<pages>223-235</pages>
+<year>2008</year>
+<volume>43</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSSC.2007.909339</ee>
+<url>db/journals/jssc/jssc43.html#LattardBCDLVB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/async/ThonnartBVV08" mdate="2019-10-19">
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="08/7963">Alexandre Valentian</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Automatic Power Regulation Based on an Asynchronous Activity Detection and its Application to ANOC Node Leakage Reduction.</title>
+<pages>48-57</pages>
+<year>2008</year>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2008.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2008.17</ee>
+<crossref>conf/async/2008</crossref>
+<url>db/conf/async/async2008.html#ThonnartBVV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esscirc/BeigneCMVVBBKK08" mdate="2020-10-25">
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="53/1450">Sylvain Miermont</author>
+<author pid="08/7963">Alexandre Valentian</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="274/8385">S. Barasinski</author>
+<author pid="274/8511">F. Blisson</author>
+<author pid="274/8513">N. Kohli</author>
+<author pid="64/2898">S. Kumar</author>
+<title>A fully integrated power supply unit for fine grain power management application to embedded Low Voltage SRAMs.</title>
+<pages>138-141</pages>
+<year>2008</year>
+<booktitle>ESSCIRC</booktitle>
+<ee>https://doi.org/10.1109/ESSCIRC.2008.4681811</ee>
+<crossref>conf/esscirc/2008</crossref>
+<url>db/conf/esscirc/esscirc2008.html#BeigneCMVVBBKK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LebretonV08" mdate="2017-05-21">
+<author pid="71/5402">Hugo Lebreton</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Power Modeling in SystemC at Transaction Level, Application to a DVFS Architecture.</title>
+<pages>463-466</pages>
+<year>2008</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2008.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2008.71</ee>
+<crossref>conf/isvlsi/2008</crossref>
+<url>db/conf/isvlsi/isvlsi2008.html#LebretonV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/BeigneCMV08" mdate="2008-05-23">
+<author pid="95/6911">Edith Beign&#233;</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="53/1450">Sylvain Miermont</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Dynamic Voltage and Frequency Scaling Architecture for Units Integration within a GALS NoC.</title>
+<pages>129-138</pages>
+<year>2008</year>
+<booktitle>NOCS</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NOCS.2008.26</ee>
+<crossref>conf/nocs/2008</crossref>
+<url>db/conf/nocs/nocs2008.html#BeigneCMV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/PanadesCVG08" mdate="2008-05-23">
+<author pid="13/4385">Ivan Miro Panades</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="66/4349">Alain Greiner</author>
+<title>Physical Implementation of the DSPIN Network-on-Chip in the FAUST Architecture.</title>
+<pages>139-148</pages>
+<year>2008</year>
+<booktitle>NOCS</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NOCS.2008.35</ee>
+<crossref>conf/nocs/2008</crossref>
+<url>db/conf/nocs/nocs2008.html#PanadesCVG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/KrsticGGV07" mdate="2020-05-17">
+<author pid="33/1954">Milos Krstic</author>
+<author pid="30/1597">Eckhard Grass</author>
+<author pid="28/6272">Frank K. G&#252;rkaynak</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Globally Asynchronous, Locally Synchronous Circuits: Overview and Outlook.</title>
+<pages>430-441</pages>
+<year>2007</year>
+<volume>24</volume>
+<journal>IEEE Des. Test Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MDT.2007.164</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDT.2007.164</ee>
+<url>db/journals/dt/dt24.html#KrsticGGV07</url>
+</article>
+</r>
+<r><inproceedings key="conf/async/SalaunSTV07" mdate="2017-05-23">
+<author pid="86/2766">Gwen Sala&#252;n</author>
+<author pid="95/5951">Wendelin Serwe</author>
+<author pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Formal Verification of CHP Specifications with CADP Illustration on an Asynchronous Network-on-Chip.</title>
+<pages>73-82</pages>
+<year>2007</year>
+<crossref>conf/async/2007</crossref>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2007.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2007.18</ee>
+<url>db/conf/async/async2007.html#SalaunSTV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isscc/LattardBBBCDDVVPBB07" mdate="2018-11-02">
+<author pid="15/4939">Didier Lattard</author>
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="85/4584">Christian Bernard</author>
+<author pid="144/2075">Catherine Bour</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="27/5990">Yves Durand</author>
+<author pid="87/485">Jean Durupt</author>
+<author pid="144/2053">Didier Varreau</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="67/1270">Pierre Penard</author>
+<author pid="144/1763">Arnaud Bouttier</author>
+<author pid="68/5304">Friedbert Berens</author>
+<title>A Telecom Baseband Circuit based on an Asynchronous Network-on-Chip.</title>
+<pages>258-601</pages>
+<year>2007</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC.2007.373392</ee>
+<crossref>conf/isscc/2007</crossref>
+<url>db/conf/isscc/isscc2007.html#LattardBBBCDDVVPBB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/Koch-HoferRTV07" mdate="2019-10-19">
+<author pid="81/4793">Cedric Koch-Hofer</author>
+<author pid="59/4092">Marc Renaudin</author>
+<author orcid="0000-0001-7721-5796" pid="05/1177">Yvain Thonnart</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>ASC, a SystemC Extension for Modeling Asynchronous Systems, and Its Application to an Asynchronous NoC.</title>
+<pages>295-306</pages>
+<year>2007</year>
+<crossref>conf/nocs/2007</crossref>
+<booktitle>NOCS</booktitle>
+<ee>https://doi.org/10.1109/NOCS.2007.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NOCS.2007.12</ee>
+<url>db/conf/nocs/nocs2007.html#Koch-HoferRTV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/MiermontVR07" mdate="2017-05-26">
+<author pid="53/1450">Sylvain Miermont</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="59/4092">Marc Renaudin</author>
+<title>A Power Supply Selector for Energy- and Area-Efficient Local Dynamic Voltage Scaling.</title>
+<pages>556-565</pages>
+<year>2007</year>
+<crossref>conf/patmos/2007</crossref>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74442-9_54</ee>
+<url>db/conf/patmos/patmos2007.html#MiermontVR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/Dinh-DucVC07" mdate="2017-05-25">
+<author pid="68/5593">Anh-Vu Dinh-Duc</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="86/2300">Alain Clouard</author>
+<title>A Transaction Level Modeling of Network-on-Chip Architecture for Energy Estimation.</title>
+<pages>58-64</pages>
+<year>2007</year>
+<booktitle>RIVF</booktitle>
+<ee>https://doi.org/10.1109/RIVF.2007.369136</ee>
+<crossref>conf/rivf/2007</crossref>
+<url>db/conf/rivf/rivf2007.html#Dinh-DucVC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/BeigneV06" mdate="2018-11-02">
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="13/6934">Pascal Vivet</author>
+<title>Design of On-chip and Off-chip Interfaces for a GALS NoC Architecture.</title>
+<pages>172-183</pages>
+<year>2006</year>
+<crossref>conf/async/2006</crossref>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2006.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2006.16</ee>
+<url>db/conf/async/async2006.html#BeigneV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/BeigneCVCR05" mdate="2018-11-02">
+<author orcid="0000-0001-6350-1054" pid="95/6911">Edith Beign&#233;</author>
+<author pid="80/4541">Fabien Clermidy</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="86/2300">Alain Clouard</author>
+<author pid="59/4092">Marc Renaudin</author>
+<title>An Asynchronous NOC Architecture Providing Low Latency Service and Its Multi-Level Design Framework.</title>
+<pages>54-63</pages>
+<year>2005</year>
+<crossref>conf/async/2005</crossref>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.2005.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.2005.10</ee>
+<url>db/conf/async/async2005.html#BeigneCVCR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/RenaudinVR99" mdate="2017-05-23">
+<author pid="59/4092">Marc Renaudin</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="73/221">Fr&#233;d&#233;ric Robin</author>
+<title>A Design Framework for Asynchronous/Synchronous Circuits Based on CHP to VHDL Translation.</title>
+<pages>135-144</pages>
+<year>1999</year>
+<crossref>conf/async/1999</crossref>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.1999.761529</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.1999.761529</ee>
+<url>db/conf/async/async1999.html#RenaudinVR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/async/RenaudinVR98" mdate="2017-05-23">
+<author pid="59/4092">Marc Renaudin</author>
+<author pid="13/6934">Pascal Vivet</author>
+<author pid="73/221">Fr&#233;d&#233;ric Robin</author>
+<title>ASPRO-216: A Standard-Cell Q.D.I. 16-Bit RISC Asynchronous Microprocessor.</title>
+<pages>22-31</pages>
+<year>1998</year>
+<crossref>conf/async/1998</crossref>
+<booktitle>ASYNC</booktitle>
+<ee>https://doi.org/10.1109/ASYNC.1998.666491</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASYNC.1998.666491</ee>
+<url>db/conf/async/async1998.html#RenaudinVR98</url>
+</inproceedings>
+</r>
+<coauthors n="226" nc="1">
+<co c="0"><na f="a/Agarwal:Shikhanshu" pid="232/8448">Shikhanshu Agarwal</na></co>
+<co c="0"><na f="a/Akesson:Benny" pid="13/5546">Benny Akesson</na></co>
+<co c="0"><na f="a/Alacoque:Laurent" pid="15/10051">Laurent Alacoque</na></co>
+<co c="0" n="2"><na f="a/Albea=Sanchez:Carolina" pid="151/8816">Carolina Albea-Sanchez</na><na>Carolina Albea</na></co>
+<co c="0"><na f="a/Alegre:Monte" pid="241/0940">Monte Alegre</na></co>
+<co c="0"><na f="a/Aminot:Alexandre" pid="130/5914">Alexandre Aminot</na></co>
+<co c="0"><na f="a/Arnaud:Lucile" pid="159/3100">Lucile Arnaud</na></co>
+<co c="0"><na f="a/Arriordaz:Alexandre" pid="156/6765">Alexandre Arriordaz</na></co>
+<co c="0"><na f="a/Assous:Myriam" pid="48/7961">Myriam Assous</na></co>
+<co c="0"><na f="a/Azizi=Mourier:Karim" pid="179/9341">Karim Azizi-Mourier</na></co>
+<co c="0"><na f="b/Bana:Franck" pid="171/6074">Franck Bana</na></co>
+<co c="0"><na f="b/Barasinski:S=" pid="274/8385">S. Barasinski</na></co>
+<co c="0"><na f="b/Bartolini:Andrea" pid="45/1193">Andrea Bartolini</na></co>
+<co c="0"><na f="b/Bartolo:Andrew" pid="233/3969">Andrew Bartolo</na></co>
+<co c="0"><na f="b/Basset:Sylvain" pid="129/2131">Sylvain Basset</na></co>
+<co c="0"><na f="b/Batude:Perrine" pid="37/9256">Perrine Batude</na></co>
+<co c="0"><na f="b/Bazargan=Sabet:Pirouz" pid="94/1396">Pirouz Bazargan-Sabet</na></co>
+<co c="0"><na f="b/Beignc:E=" pid="228/2823">E. Beignc</na></co>
+<co c="0"><na f="b/Beign=eacute=:Edith" pid="95/6911">Edith Beign&#233;</na></co>
+<co c="0"><na f="b/Belhadj:Bilel" pid="95/9428">Bilel Belhadj</na></co>
+<co c="0"><na f="b/Belleville:Marc" pid="41/4608">Marc Belleville</na></co>
+<co c="0"><na f="b/Beneventi:Francesco" pid="92/10266">Francesco Beneventi</na></co>
+<co c="0"><na f="b/Benini:Luca" pid="b/LucaBenini">Luca Benini</na></co>
+<co c="0"><na f="b/Berens:Friedbert" pid="68/5304">Friedbert Berens</na></co>
+<co c="0"><na f="b/Berger:Fr=eacute=d=eacute=ric" pid="45/8992">Fr&#233;d&#233;ric Berger</na></co>
+<co c="0"><na f="b/Bernab=eacute=:St=eacute=phane" pid="216/3279">St&#233;phane Bernab&#233;</na></co>
+<co c="0"><na f="b/Bernard:C=" pid="90/5768">C. Bernard</na></co>
+<co c="0"><na f="b/Bernard:Christian" pid="85/4584">Christian Bernard</na></co>
+<co c="0"><na f="b/Berthier:Florent" pid="176/5825">Florent Berthier</na></co>
+<co c="0"><na f="b/Bichler:Olivier" pid="75/9434">Olivier Bichler</na></co>
+<co c="0"><na f="b/Billoint:Olivier" pid="133/4598">Olivier Billoint</na></co>
+<co c="0"><na f="b/Blisson:F=" pid="274/8511">F. Blisson</na></co>
+<co c="0"><na f="b/Borbely:Andras" pid="165/2183">Andras Borbely</na></co>
+<co c="0"><na f="b/Bosio:Alberto" pid="62/1403">Alberto Bosio</na></co>
+<co c="0"><na f="b/Bour:Catherine" pid="144/2075">Catherine Bour</na></co>
+<co c="0"><na f="b/Boussetta:Hela" pid="11/5827">Hela Boussetta</na></co>
+<co c="0"><na f="b/Bouttier:Arnaud" pid="144/1763">Arnaud Bouttier</na></co>
+<co c="0"><na f="b/Bouvier:Maxence" pid="241/0863">Maxence Bouvier</na></co>
+<co c="0"><na f="b/Bresson:N=" pid="202/8893">N. Bresson</na></co>
+<co c="0" n="2"><na f="c/Calazans:Ney_Laert_Vilar" pid="c/NeyLVCalazans">Ney Laert Vilar Calazans</na><na>Ney Calazans</na></co>
+<co c="0"><na f="c/Casset:F=" pid="202/8839">F. Casset</na></co>
+<co c="0"><na f="c/Chancel:Christian" pid="179/3800">Christian Chancel</na></co>
+<co c="0"><na f="c/Chang_0001:Yuan=Hao" pid="49/2395">Yuan-Hao Chang 0001</na></co>
+<co c="0"><na f="c/Chantre:C=" pid="139/6397">C. Chantre</na></co>
+<co c="0"><na f="c/Charbonnier:Beno=icirc=t" pid="99/2001">Beno&#238;t Charbonnier</na></co>
+<co c="0"><na f="c/Charbonnier:Jean" pid="02/7962">Jean Charbonnier</na></co>
+<co c="0"><na f="c/Charles:H==P=" pid="254/9492">H.-P. Charles</na></co>
+<co c="0"><na f="c/Chauhan:Ramesh" pid="249/8793">Ramesh Chauhan</na></co>
+<co c="0"><na f="c/Chehida:Karim_Ben" pid="77/6993">Karim Ben Chehida</na></co>
+<co c="0"><na f="c/Cheng:Yuanqing" pid="05/10696">Yuanqing Cheng</na></co>
+<co c="0"><na f="c/Cheramy:S=eacute=verine" pid="63/7962">S&#233;verine Cheramy</na></co>
+<co c="0"><na f="c/Chevobbe:St=eacute=phane" pid="97/176">St&#233;phane Chevobbe</na></co>
+<co c="0"><na f="c/Chinazzo:Andr=eacute=_Lucas" pid="171/2191">Andr&#233; Lucas Chinazzo</na></co>
+<co c="0"><na f="c/Choisnet:Sylvain" pid="234/1343">Sylvain Choisnet</na></co>
+<co c="0"><na f="c/Christmann:Jean=Fr=eacute=d=eacute=ric" pid="93/10303">Jean-Fr&#233;d&#233;ric Christmann</na></co>
+<co c="0"><na f="c/Cibrario:Gerald" pid="19/11181">Gerald Cibrario</na></co>
+<co c="0"><na f="c/Clermidy:Fabien" pid="80/4541">Fabien Clermidy</na></co>
+<co c="0"><na f="c/Clouard:Alain" pid="86/2300">Alain Clouard</na></co>
+<co c="0"><na f="c/Colonna:Jean=Philippe" pid="118/1564">Jean-Philippe Colonna</na></co>
+<co c="0"><na f="c/Condemine:Cyril" pid="63/9852">Cyril Condemine</na></co>
+<co c="0"><na f="c/Coriat:David" pid="146/1332">David Coriat</na></co>
+<co c="0"><na f="c/Cornet:J=eacute=r=ocirc=me" pid="29/4784">J&#233;r&#244;me Cornet</na></co>
+<co c="0"><na f="c/Coskun:Ayse_K=" pid="79/3945">Ayse K. Coskun</na></co>
+<co c="0"><na f="c/Coudrain:Perceval" pid="127/0244">Perceval Coudrain</na></co>
+<co c="0"><na f="c/Crecy:Fran=ccedil=ois_de" pid="22/7962">Fran&#231;ois de Crecy</na></co>
+<co c="0"><na f="c/Cubero:Luis_Angel" pid="241/1197">Luis Angel Cubero</na></co>
+<co c="0"><na f="d/Darve:Florian" pid="29/9979">Florian Darve</na></co>
+<co c="0"><na f="d/Dilillo:Luigi" pid="84/2681">Luigi Dilillo</na></co>
+<co c="0"><na f="d/Dillio:Luigi" pid="139/7024">Luigi Dillio</na></co>
+<co c="0"><na f="d/Dinh=Duc:Anh=Vu" pid="68/5593">Anh-Vu Dinh-Duc</na></co>
+<co c="0"><na f="d/Dombek:Thomas" pid="154/4155">Thomas Dombek</na></co>
+<co c="0"><na f="d/Ducroux:Thomas" pid="137/2928">Thomas Ducroux</na></co>
+<co c="0"><na f="d/Dumas:Sylvain" pid="179/3793">Sylvain Dumas</na></co>
+<co c="0"><na f="d/Durand:Yves" pid="27/5990">Yves Durand</na></co>
+<co c="0"><na f="d/Duranton:Marc" pid="16/1360">Marc Duranton</na></co>
+<co c="0"><na f="d/Durupt:Jean" pid="87/485">Jean Durupt</na></co>
+<co c="0"><na f="d/Dutoit:Denis" pid="85/9944">Denis Dutoit</na></co>
+<co c="0"><na f="e/Egloff:V=" pid="268/1823">V. Egloff</na></co>
+<co c="0"><na f="e/Ehses:Peter" pid="161/0227">Peter Ehses</na></co>
+<co c="0"><na f="e/Engels:Sylvain" pid="11/1670">Sylvain Engels</na></co>
+<co c="0"><na f="f/Farcy:Alexis" pid="29/2715">Alexis Farcy</na></co>
+<co c="0"><na f="f/Ferro:Luca" pid="75/6330">Luca Ferro</na></co>
+<co c="0"><na f="f/Fiori:Vincent" pid="88/8564">Vincent Fiori</na></co>
+<co c="0"><na f="f/Fkih:Yassine" pid="151/4564">Yassine Fkih</na></co>
+<co c="0"><na f="f/Flamand:Eric" pid="35/7358">Eric Flamand</na></co>
+<co c="0"><na f="f/Flottes:Marie=Lise" pid="23/6156">Marie-Lise Flottes</na></co>
+<co c="0"><na f="f/Fuin:Didier" pid="03/11157">Didier Fuin</na></co>
+<co c="0"><na f="g/Galil=eacute=e:Bruno" pid="25/2481">Bruno Galil&#233;e</na></co>
+<co c="0"><na f="g/Garnier:Arnaud" pid="139/3489">Arnaud Garnier</na></co>
+<co c="0"><na f="g/Garrault:Philippe" pid="139/6357">Philippe Garrault</na></co>
+<co c="0"><na f="g/Gauchi:R=" pid="254/9489">R. Gauchi</na></co>
+<co c="0"><na f="g/Girard_0001:Patrick" pid="48/6113-1">Patrick Girard 0001</na></co>
+<co c="0"><na f="g/Giraud:Bastien" pid="85/5413">Bastien Giraud</na></co>
+<co c="0"><na f="g/Goossens:Kees" pid="g/KeesGoossens">Kees Goossens</na></co>
+<co c="0"><na f="g/Goossens:Sven" pid="47/11158">Sven Goossens</na></co>
+<co c="0"><na f="g/Grass:Eckhard" pid="30/1597">Eckhard Grass</na></co>
+<co c="0"><na f="g/Greiner:Alain" pid="66/4349">Alain Greiner</na></co>
+<co c="0"><na f="g/Guerre:Alexandre" pid="01/7646">Alexandre Guerre</na></co>
+<co c="0"><na f="g/Gueugnot:Alain" pid="263/0792">Alain Gueugnot</na></co>
+<co c="0"><na f="g/G=uuml=rkaynak:Frank_K=" pid="28/6272">Frank K. G&#252;rkaynak</na></co>
+<co c="0"><na f="g/Guthmuller:Eric" pid="119/3710">Eric Guthmuller</na></co>
+<co c="0"><na f="h/Hansson:Andreas" pid="02/3616">Andreas Hansson</na></co>
+<co c="0"><na f="h/Harrand:Michel" pid="61/2192">Michel Harrand</na></co>
+<co c="0"><na f="h/Haugou:Germain" pid="05/2743">Germain Haugou</na></co>
+<co c="0"><na f="h/He:Liqiang" pid="47/1699">Liqiang He</na></co>
+<co c="0"><na f="h/Helmstetter:Claude" pid="07/4696">Claude Helmstetter</na></co>
+<co c="0"><na f="h/Hopsch:Fabian" pid="74/9056">Fabian Hopsch</na></co>
+<co c="0"><na f="h/Huang:Po=Chun" pid="43/1486">Po-Chun Huang</na></co>
+<co c="0"><na f="h/Hwang:William" pid="165/0740">William Hwang</na></co>
+<co c="0"><na f="j/Jacquinot:H=" pid="202/8840">H. Jacquinot</na></co>
+<co c="0"><na f="j/Jamaa:M=_Haykel_Ben" pid="88/2043">M. Haykel Ben Jamaa</na></co>
+<co c="0"><na f="j/Jani:Imed" pid="204/5613">Imed Jani</na></co>
+<co c="0"><na f="j/Jeanniot:Nicolas" pid="171/5981">Nicolas Jeanniot</na></co>
+<co c="0"><na f="j/Jeong:Seungbin" pid="228/6942">Seungbin Jeong</na></co>
+<co c="0"><na f="j/Joshi:Ajay" pid="23/3290">Ajay Joshi</na></co>
+<co c="0" n="2"><na f="j/Jouve:Amadine" pid="61/7962">Amadine Jouve</na><na>Amandine Jouve</na></co>
+<co c="0"><na f="j/Jung_0001:Matthias" pid="76/1646-1">Matthias Jung 0001</na></co>
+<co c="0"><na f="k/Kaiser:Sylvian" pid="96/8857">Sylvian Kaiser</na></co>
+<co c="0"><na f="k/Khursheed:S=_Saqib" pid="85/4316">S. Saqib Khursheed</na></co>
+<co c="0"><na f="k/Koch=Hofer:Cedric" pid="81/4793">Cedric Koch-Hofer</na></co>
+<co c="0"><na f="k/Koedam:Martijn" pid="87/10491">Martijn Koedam</na></co>
+<co c="0"><na f="k/Kohli:N=" pid="274/8513">N. Kohli</na></co>
+<co c="0"><na f="k/Kooli:Maha" pid="149/9915">Maha Kooli</na></co>
+<co c="0"><na f="k/Krstic:Milos" pid="33/1954">Milos Krstic</na></co>
+<co c="0"><na f="k/Kumar:S=" pid="64/2898">S. Kumar</na></co>
+<co c="0"><na f="k/Kuo:Tei=Wei" pid="07/3181">Tei-Wei Kuo</na></co>
+<co c="0"><na f="l/Lafi:Walid" pid="07/10036">Walid Lafi</na></co>
+<co c="0"><na f="l/Langevin:Michel" pid="36/3342">Michel Langevin</na></co>
+<co c="0"><na f="l/Lattard:Didier" pid="15/4939">Didier Lattard</na></co>
+<co c="0"><na f="l/Le:Binh_Q=" pid="237/1260">Binh Q. Le</na></co>
+<co c="0"><na f="l/Le=Pailleur:Laurent" pid="168/5987">Laurent Le-Pailleur</na></co>
+<co c="0"><na f="l/Leblond:Nicolas" pid="58/10303">Nicolas Leblond</na></co>
+<co c="0"><na f="l/Lebreton:Hugo" pid="71/5402">Hugo Lebreton</na></co>
+<co c="0"><na f="l/Lemaire:Romain" pid="54/671">Romain Lemaire</na></co>
+<co c="0"><na f="l/Lepecq:Maria" pid="179/3053">Maria Lepecq</na></co>
+<co c="0"><na f="l/Lesecq:Suzanne" pid="06/1855">Suzanne Lesecq</na></co>
+<co c="0"><na f="l/Levisse:Alexandre" pid="233/9845">Alexandre Levisse</na></co>
+<co c="0"><na f="l/Lhermet:H=eacute=l=egrave=ne" pid="21/7913">H&#233;l&#232;ne Lhermet</na></co>
+<co c="0"><na f="l/Lhostis:S=" pid="62/4595">S. Lhostis</na></co>
+<co c="0"><na f="l/Li:Haitong" pid="154/1110">Haitong Li</na></co>
+<co c="0" n="2"><na f="m/Malhouitre:Stephane" pid="265/7076">Stephane Malhouitre</na><na>St&#233;phane Malhouitre</na></co>
+<co c="0"><na f="m/Marinissen:Erik_Jan" pid="11/4438">Erik Jan Marinissen</na></co>
+<co c="0"><na f="m/Martin:J=eacute=r=ocirc=me" pid="12/6873">J&#233;r&#244;me Martin</na></co>
+<co c="0"><na f="m/Mathew:Deepak_M=" pid="169/7969">Deepak M. Mathew</na></co>
+<co c="0"><na f="m/Matter:Gene" pid="153/9659">Gene Matter</na></co>
+<co c="0"><na f="m/Metzler:Carolina" pid="65/4965">Carolina Metzler</na></co>
+<co c="0"><na f="m/Meunier:Quentin_L=" pid="34/8464">Quentin L. Meunier</na></co>
+<co c="0"><na f="m/Michailos:Jean" pid="118/1644">Jean Michailos</na></co>
+<co c="0"><na f="m/Miermont:Sylvain" pid="53/1450">Sylvain Miermont</na></co>
+<co c="0"><na f="m/Millet:Laurent" pid="60/2895">Laurent Millet</na></co>
+<co c="0"><na f="m/Mitra:Subhasish" pid="30/4561">Subhasish Mitra</na></co>
+<co c="0" n="2"><na f="m/Molnos:Anca_Mariana" pid="59/3148">Anca Mariana Molnos</na><na>Anca Molnos</na></co>
+<co c="0"><na f="m/Moreau:St=eacute=phane" pid="156/2680">St&#233;phane Moreau</na></co>
+<co c="0"><na f="m/Moritz:Guillaume" pid="129/7532">Guillaume Moritz</na></co>
+<co c="0"><na f="m/Mottin:Julien" pid="123/2321">Julien Mottin</na></co>
+<co c="0"><na f="m/Mouhdach:M=" pid="263/0986">M. Mouhdach</na></co>
+<co c="0"><na f="m/Mourier:Thierry" pid="171/5845">Thierry Mourier</na></co>
+<co c="0"><na f="m/Moy:Matthieu" pid="00/5933">Matthieu Moy</na></co>
+<co c="0"><na f="n/Naji:Omar" pid="170/2158">Omar Naji</na></co>
+<co c="0"><na f="n/Narayan:Aditya" pid="224/0964">Aditya Narayan</na></co>
+<co c="0"><na f="n/Natale:Giorgio_Di" pid="71/5847">Giorgio Di Natale</na></co>
+<co c="0"><na f="n/No=euml=l:Jean=Philippe" pid="64/9428">Jean-Philippe No&#235;l</na></co>
+<co c="0"><na f="n/Nowak:Etienne" pid="200/0294">Etienne Nowak</na></co>
+<co c="0" n="2"><na f="p/Panades:Ivan_Miro" pid="13/4385">Ivan Miro Panades</na><na>Ivan Miro-Panad&#232;s</na></co>
+<co c="0"><na f="p/Paulin:Pierre_G=" pid="25/6932">Pierre G. Paulin</na></co>
+<co c="0"><na f="p/Peltier:Nicolas" pid="84/5281">Nicolas Peltier</na></co>
+<co c="0"><na f="p/Penard:Pierre" pid="67/1270">Pierre Penard</na></co>
+<co c="0"><na f="p/P=eacute=trot:Fr=eacute=d=eacute=ric" pid="41/1007">Fr&#233;d&#233;ric P&#233;trot</na></co>
+<co c="0"><na f="p/Piguet:Christian" pid="29/5753">Christian Piguet</na></co>
+<co c="0"><na f="p/Pilkington:Chuck" pid="77/371">Chuck Pilkington</na></co>
+<co c="0"><na f="p/Pillonnet:Ga=euml=l" pid="21/9429">Ga&#235;l Pillonnet</na></co>
+<co c="0"><na f="p/Pontes:Julian_J=_H=" pid="19/2985">Julian J. H. Pontes</na></co>
+<co c="0"><na f="p/Ponthenier:F=" pid="171/5829">F. Ponthenier</na></co>
+<co c="0"><na f="p/Popon:Xavier" pid="44/7646">Xavier Popon</na></co>
+<co c="0"><na f="p/Portal:Jean_Michel" pid="08/4890">Jean Michel Portal</na></co>
+<co c="0"><na f="p/Prieto:Rafael" pid="78/5056">Rafael Prieto</na></co>
+<co c="0"><na f="p/Puschini:Diego" pid="98/5797">Diego Puschini</na></co>
+<co c="0"><na f="r/Radway:Robert" pid="237/0931">Robert Radway</na></co>
+<co c="0" n="2"><na f="r/Reis:Ricardo_Augusto_da_Luz" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</na><na>Ricardo Reis 0001</na></co>
+<co c="0"><na f="r/Renaudin:Marc" pid="59/4092">Marc Renaudin</na></co>
+<co c="0"><na f="r/Risson:Vincent" pid="137/3026">Vincent Risson</na></co>
+<co c="0"><na f="r/Robin:Fr=eacute=d=eacute=ric" pid="73/221">Fr&#233;d&#233;ric Robin</na></co>
+<co c="0"><na f="r/Rouzeyre:Bruno" pid="75/1130">Bruno Rouzeyre</na></co>
+<co c="0" n="2"><na f="s/Sabry:Mohamed_M=" pid="74/5309">Mohamed M. Sabry</na><na>Mohamed M. Sabry Aly</na></co>
+<co c="0"><na f="s/Saint=Patrice:Damien" pid="268/2168">Damien Saint-Patrice</na></co>
+<co c="0"><na f="s/Sala=uuml=n:Gwen" pid="86/2766">Gwen Sala&#252;n</na></co>
+<co c="0"><na f="s/Sandionigi:Chiara" pid="51/2672">Chiara Sandionigi</na></co>
+<co c="0"><na f="s/Santos:C=" pid="23/4872">C. Santos</na></co>
+<co c="0"><na f="s/Santos:Cristiano" pid="84/3732">Cristiano Santos</na></co>
+<co c="0"><na f="s/Sassolas:Tanguy" pid="14/8377">Tanguy Sassolas</na></co>
+<co c="0" n="2"><na f="s/Schl=ouml=ffel:J=uuml=rgen" pid="25/5746">J&#252;rgen Schl&#246;ffel</na><na>Juergen Schloeffel</na></co>
+<co c="0"><na f="s/Segaud:R=" pid="202/8823">R. Segaud</na></co>
+<co c="0"><na f="s/Sentieys:Olivier" pid="28/4014">Olivier Sentieys</na></co>
+<co c="0"><na f="s/Serwe:Wendelin" pid="95/5951">Wendelin Serwe</na></co>
+<co c="0"><na f="s/Sheibanyrad:Abbas" pid="87/5667">Abbas Sheibanyrad</na></co>
+<co c="0"><na f="s/Sicard:Gilles" pid="23/3538">Gilles Sicard</na></co>
+<co c="0"><na f="s/Singh:Montek" pid="94/5746">Montek Singh</na></co>
+<co c="0"><na f="s/Souare:Papa_Momar" pid="139/6236">Papa Momar Souare</na></co>
+<co c="0"><na f="s/Spars=oslash=:Jens" pid="42/2580">Jens Spars&#248;</na></co>
+<co c="0"><na f="t/Tain:Beno=icirc=t" pid="07/8837">Beno&#238;t Tain</na></co>
+<co c="0"><na f="t/Tandon:Pulkit" pid="191/6675">Pulkit Tandon</na></co>
+<co c="0"><na f="t/Temam:Olivier" pid="35/1139">Olivier Temam</na></co>
+<co c="0"><na f="t/Thabet:Farhat" pid="88/5437">Farhat Thabet</na></co>
+<co c="0"><na f="t/Thonnart:Yvain" pid="05/1177">Yvain Thonnart</na></co>
+<co c="0"><na f="t/Thuries:Sebastien" pid="142/0316">Sebastien Thuries</na></co>
+<co c="0"><na f="t/Tissier:Pierre" pid="268/1816">Pierre Tissier</na></co>
+<co c="0" n="2"><na f="t/Todri:Aida" pid="03/5894">Aida Todri</na><na>Aida Todri-Sanial</na></co>
+<co c="0"><na f="t/Tortolero:C=eacute=sar_Fuguet" pid="182/3984">C&#233;sar Fuguet Tortolero</na></co>
+<co c="0"><na f="t/Tran:Xuan=Tu" pid="60/323">Xuan-Tu Tran</na></co>
+<co c="0"><na f="v/Valentian:Alexandre" pid="08/7963">Alexandre Valentian</na></co>
+<co c="0"><na f="v/Varreau:Didier" pid="144/2053">Didier Varreau</na></co>
+<co c="0"><na f="v/Vianello:Elisa" pid="121/3716">Elisa Vianello</na></co>
+<co c="0"><na f="v/Virazel:Arnaud" pid="46/6853">Arnaud Virazel</na></co>
+<co c="0"><na f="w/Waltisperger:G=" pid="39/9709">G. Waltisperger</na></co>
+<co c="0"><na f="w/Wang:L=" pid="67/6401">L. Wang</na></co>
+<co c="0"><na f="w/Wang:Lee" pid="38/6031">Lee Wang</na></co>
+<co c="0"><na f="w/Wehn:Norbert" pid="48/6980">Norbert Wehn</na></co>
+<co c="0"><na f="w/Weis:Christian" pid="51/10052">Christian Weis</na></co>
+<co c="0"><na f="w/Willemin:J=eacute=r=ocirc=me" pid="78/10301">J&#233;r&#244;me Willemin</na></co>
+<co c="0"><na f="w/Wilson:Robin" pid="69/2227">Robin Wilson</na></co>
+<co c="0"><na f="w/Wingard:Drew" pid="65/6840">Drew Wingard</na></co>
+<co c="0"><na f="w/Wong:H==S=_Philip" pid="48/6697">H.-S. Philip Wong</na></co>
+<co c="0"><na f="w/Wootters:Mary" pid="79/7019">Mary Wootters</na></co>
+<co c="0"><na f="w/Wu:Tony_F=" pid="161/0817">Tony F. Wu</na></co>
+<co c="0" n="2"><na f="y/Yakovlev:Alexandre" pid="83/4837">Alexandre Yakovlev</na><na>Alex Yakovlev</na></co>
+<co c="0"><na f="z/Zergainoh:Nacer=Eddine" pid="55/4737">Nacer-Eddine Zergainoh</na></co>
+</coauthors>
+</dblpperson>
+

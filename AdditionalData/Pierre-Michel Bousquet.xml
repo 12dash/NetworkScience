@@ -1,3 +1,633 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ac8cfa8f8cbfadc8e65c191bcd73a397b648a1131b1586829dd59827d14f203
-size 31881
+<?xml version="1.0"?>
+<dblpperson name="Pierre-Michel Bousquet" pid="09/9875" n="32">
+<person key="homepages/09/9875" mdate="2011-07-14">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+</person>
+<r><inproceedings key="conf/eusipco/RouvierDB20" mdate="2021-01-08">
+<author pid="02/8760">Mickael Rouvier</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<title>Review of different robust x-vector extractors for speaker verification.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://doi.org/10.23919/Eusipco47968.2020.9287426</ee>
+<crossref>conf/eusipco/2020</crossref>
+<url>db/conf/eusipco/eusipco2020.html#RouvierDB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/MorchidBKJ19" mdate="2020-03-12">
+<author orcid="0000-0002-4427-2468" pid="61/10479">Mohamed Morchid</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="137/8665">Killian Janod</author>
+<title>Latent Topic-based Subspace for Natural Language Processing.</title>
+<pages>833-853</pages>
+<year>2019</year>
+<volume>91</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s11265-018-1388-1</ee>
+<url>db/journals/vlsisp/vlsisp91.html#MorchidBKJ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/interspeech/LeeHKYOV0DSLD0R19" mdate="2021-01-29">
+<author pid="35/4621">Kong Aik Lee</author>
+<author pid="75/5713">Ville Hautam&#228;ki</author>
+<author pid="94/4754">Tomi H. Kinnunen</author>
+<author pid="61/5339">Hitoshi Yamamoto</author>
+<author pid="87/10649">Koji Okabe</author>
+<author pid="201/7499">Ville Vestman</author>
+<author pid="14/4834-19">Jing Huang 0019</author>
+<author pid="57/9235">Guohong Ding</author>
+<author pid="22/1460">Hanwu Sun</author>
+<author pid="44/5405">Anthony Larcher</author>
+<author orcid="0000-0002-1332-3357" pid="158/4101">Rohan Kumar Das</author>
+<author pid="36/4118">Haizhou Li 0001</author>
+<author pid="02/8760">Mickael Rouvier</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="68/2031">Wei Rao</author>
+<author pid="97/6505">Qing Wang</author>
+<author pid="65/6731">Chunlei Zhang</author>
+<author pid="130/7964">Fahimeh Bahmaninezhad</author>
+<author pid="21/10462">H&#233;ctor Delgado</author>
+<author pid="89/6736">Massimiliano Todisco</author>
+<title>I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences.</title>
+<pages>1497-1501</pages>
+<year>2019</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2019-1533</ee>
+<crossref>conf/interspeech/2019</crossref>
+<url>db/conf/interspeech/interspeech2019.html#LeeHKYOV0DSLD0R19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/BousquetR19" mdate="2021-01-29">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="02/8760">Mickael Rouvier</author>
+<title>On Robustness of Unsupervised Domain Adaptation for Speaker Recognition.</title>
+<pages>2958-2962</pages>
+<year>2019</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2019-1524</ee>
+<crossref>conf/interspeech/2019</crossref>
+<url>db/conf/interspeech/interspeech2019.html#BousquetR19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-07386" mdate="2020-02-20">
+<author pid="35/4621">Kong Aik Lee</author>
+<author pid="75/5713">Ville Hautam&#228;ki</author>
+<author pid="94/4754">Tomi Kinnunen</author>
+<author pid="61/5339">Hitoshi Yamamoto</author>
+<author pid="87/10649">Koji Okabe</author>
+<author pid="201/7499">Ville Vestman</author>
+<author pid="14/4834-19">Jing Huang 0019</author>
+<author pid="57/9235">Guohong Ding</author>
+<author pid="22/1460">Hanwu Sun</author>
+<author pid="44/5405">Anthony Larcher</author>
+<author pid="158/4101">Rohan Kumar Das</author>
+<author pid="36/4118">Haizhou Li 0001</author>
+<author pid="02/8760">Mickael Rouvier</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="68/2031">Wei Rao</author>
+<author pid="97/6505">Qing Wang</author>
+<author pid="65/6731">Chunlei Zhang</author>
+<author pid="130/7964">Fahimeh Bahmaninezhad</author>
+<author pid="21/10462">H&#233;ctor Delgado</author>
+<author pid="206/8859">Jose Patino 0001</author>
+<author pid="81/10013">Qiongqiong Wang</author>
+<author pid="54/4084">Ling Guo</author>
+<author pid="64/1770">Takafumi Koshinaka</author>
+<author pid="218/6679">Jiacen Zhang</author>
+<author pid="74/4623">Koichi Shinoda</author>
+<author pid="176/5378">Trung Ngo Trong</author>
+<author pid="93/9671">Md. Sahidullah</author>
+<author pid="35/6336">Fan Lu</author>
+<author pid="67/764">Yun Tang</author>
+<author pid="148/3800">Ming Tu</author>
+<author pid="239/6504">Kah Kuan Teh</author>
+<author pid="05/2859">Tran Huy Dat</author>
+<author pid="131/7095">Kuruvachan K. George</author>
+<author pid="173/6521">Ivan Kukanov</author>
+<author pid="226/2057">Florent Desnous</author>
+<author pid="78/7768">Jichen Yang</author>
+<author pid="08/1563">Emre Yilmaz</author>
+<author pid="173/6633">Longting Xu</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="125/2814">Chenglin Xu</author>
+<author pid="214/2295">Zhi Hao Lim</author>
+<author pid="c/ChngEngSiong">Eng Siong Chng</author>
+<author pid="61/8329">Shivesh Ranjan</author>
+<author pid="85/2699">John H. L. Hansen</author>
+<author pid="89/6736">Massimiliano Todisco</author>
+<author pid="84/366">Nicholas W. D. Evans</author>
+<title>I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences.</title>
+<year>2019</year>
+<volume>abs/1904.07386</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.07386</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-07386</url>
+</article>
+</r>
+<r><article key="journals/csl/KhederMBBA17" mdate="2020-02-20">
+<author orcid="0000-0002-9219-162X" pid="150/2661">Waad Ben Kheder</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="150/2643">Moez Ajili</author>
+<title>Fast i-vector denoising using MAP estimation and a noise distributions database for robust speaker recognition.</title>
+<pages>104-122</pages>
+<year>2017</year>
+<volume>45</volume>
+<journal>Comput. Speech Lang.</journal>
+<ee>https://doi.org/10.1016/j.csl.2016.12.007</ee>
+<url>db/journals/csl/csl45.html#KhederMBBA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/interspeech/BousquetR17" mdate="2018-01-16">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="02/8760">Mickael Rouvier</author>
+<title>Duration Mismatch Compensation Using Four-Covariance Model and Deep Neural Network for Speaker Verification.</title>
+<pages>1547-1551</pages>
+<year>2017</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee>http://www.isca-speech.org/archive/Interspeech_2017/abstracts/0093.html</ee>
+<crossref>conf/interspeech/2017</crossref>
+<url>db/conf/interspeech/interspeech2017.html#BousquetR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/MorchidBKJBDL16" mdate="2021-01-29">
+<author pid="61/10479">Mohamed Morchid</author>
+<author pid="194/1190">Mohamed Bouaziz</author>
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="137/8665">Killian Janod</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="60/3648">Georges Linar&#232;s</author>
+<title>Spoken Language Understanding in a Latent Topic-Based Subspace.</title>
+<pages>710-714</pages>
+<year>2016</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2016-50</ee>
+<crossref>conf/interspeech/2016</crossref>
+<url>db/conf/interspeech/interspeech2016.html#MorchidBKJBDL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/KhederABMB16" mdate="2021-01-29">
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="150/2643">Moez Ajili</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>LIA System for the SITW Speaker Recognition Challenge.</title>
+<pages>848-852</pages>
+<year>2016</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="oa">https://doi.org/10.21437/Interspeech.2016-1310</ee>
+<crossref>conf/interspeech/2016</crossref>
+<url>db/conf/interspeech/interspeech2016.html#KhederABMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/BousquetB16" mdate="2021-01-29">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>Constrained discriminative speaker verification specific to normalized i-vectors.</title>
+<pages>53-59</pages>
+<year>2016</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://doi.org/10.21437/Odyssey.2016-8</ee>
+<crossref>conf/odyssey/2016</crossref>
+<url>db/conf/odyssey/odyssey2016.html#BousquetB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slt/ParcolletMBDLM16" mdate="2017-05-24">
+<author pid="195/0257">Titouan Parcollet</author>
+<author pid="61/10479">Mohamed Morchid</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="60/3648">Georges Linar&#232;s</author>
+<author pid="86/129">Renato De Mori</author>
+<title>Quaternion Neural Networks for Spoken Language Understanding.</title>
+<pages>362-368</pages>
+<year>2016</year>
+<booktitle>SLT</booktitle>
+<ee>https://doi.org/10.1109/SLT.2016.7846290</ee>
+<crossref>conf/slt/2016</crossref>
+<url>db/conf/slt/slt2016.html#ParcolletMBDLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/taln/BouazizMBDJKL16" mdate="2020-08-17">
+<author pid="194/1190">Mohamed Bouaziz</author>
+<author pid="61/10479">Mohamed Morchid</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="137/8665">Killian Janod</author>
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="60/3648">Georges Linar&#232;s</author>
+<title>Un Sous-espace Th&#233;matique Latent pour la Compr&#233;hension du Langage Parl&#233; (A Latent Topic-based Subspace for Spoken Language Understanding).</title>
+<pages>651-659</pages>
+<year>2016</year>
+<booktitle>JEP-TALN-RECITAL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/2016.jeptalnrecital-jep.73/</ee>
+<crossref>conf/taln/2016-1</crossref>
+<url>db/conf/taln/jep2016.html#BouazizMBDJKL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/RouvierBAKMB16" mdate="2018-08-13">
+<author pid="02/8760">Mickael Rouvier</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="150/2643">Moez Ajili</author>
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>LIA system description for NIST SRE 2016.</title>
+<year>2016</year>
+<volume>abs/1612.05168</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.05168</ee>
+<url>db/journals/corr/corr1612.html#RouvierBAKMB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/RouvierBF15" mdate="2017-05-25">
+<author pid="02/8760">Mickael Rouvier</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="91/1442">Beno&#238;t Favre</author>
+<title>Speaker diarization through speaker embeddings.</title>
+<pages>2082-2086</pages>
+<year>2015</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://doi.org/10.1109/EUSIPCO.2015.7362751</ee>
+<crossref>conf/eusipco/2015</crossref>
+<url>db/conf/eusipco/eusipco2015.html#RouvierBF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/MatroufKBAB15" mdate="2017-05-25">
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="150/2643">Moez Ajili</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>Dealing with additive noise in speaker recognition systems based on i-vector approach.</title>
+<pages>2092-2096</pages>
+<year>2015</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://doi.org/10.1109/EUSIPCO.2015.7362753</ee>
+<crossref>conf/eusipco/2015</crossref>
+<url>db/conf/eusipco/eusipco2015.html#MatroufKBAB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/KhederMBAB15" mdate="2017-05-19">
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="150/2643">Moez Ajili</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<title>Additive noise compensation in the i-vector space for speaker recognition.</title>
+<pages>4190-4194</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2015.7178760</ee>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#KhederMBAB15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Bousquet14" mdate="2020-07-21">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<title>B&#233;n&#233;fices et limites des repr&#233;sentations en facteur de variabilit&#233; totale pour la reconnaissance du locuteur. (Benefits and limits of the total variability factor representation for speaker recognition).</title>
+<year>2014</year>
+<school>University of Avignon, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01127228</ee>
+</phdthesis>
+</r>
+<r><article key="journals/prl/Hernandez-SierraCBB14" mdate="2020-02-22">
+<author pid="03/9230">Gabriel Hern&#225;ndez Sierra</author>
+<author pid="117/3355">Jos&#233; R. Calvo</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<title>Session compensation using binary speech representation for speaker recognition.</title>
+<pages>17-23</pages>
+<year>2014</year>
+<volume>49</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2014.05.021</ee>
+<url>db/journals/prl/prl49.html#Hernandez-SierraCBB14</url>
+</article>
+</r>
+<r><article key="journals/prl/MorchidDBLT14" mdate="2020-02-22">
+<author pid="61/10479">Mohamed Morchid</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="60/3648">Georges Linar&#232;s</author>
+<author orcid="0000-0002-4392-1825" pid="53/3721">Juan-Manuel Torres-Moreno</author>
+<title>Feature selection using Principal Component Analysis for massive retweet detection.</title>
+<pages>33-39</pages>
+<year>2014</year>
+<volume>49</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2014.05.020</ee>
+<ee>https://www.wikidata.org/entity/Q57731936</ee>
+<url>db/journals/prl/prl49.html#MorchidDBLT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/MorchidDBBLM14" mdate="2017-05-19">
+<author pid="61/10479">Mohamed Morchid</author>
+<author pid="83/7858">Richard Dufour</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="16/9876">Mohamed Bouallegue</author>
+<author pid="60/3648">Georges Linar&#232;s</author>
+<author pid="86/129">Renato De Mori</author>
+<title>Improving dialogue classification using a topic space representation and a Gaussian classifier based on the decision rule.</title>
+<pages>126-130</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6853571</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#MorchidDBBLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/BousquetBM14" mdate="2021-01-29">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="53/1360">Driss Matrouf</author>
+<title>Exploring some limits of Gaussian PLDA modeling for i-vector distributions.</title>
+<year>2014</year>
+<booktitle>Odyssey</booktitle>
+<ee type="oa">https://isca-speech.org/archive/odyssey_2014/abstracts.html#abs3</ee>
+<crossref>conf/odyssey/2014</crossref>
+<url>db/conf/odyssey/odyssey2014.html#BousquetBM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slsp/KhederMBBA14" mdate="2017-05-24">
+<author pid="150/2661">Waad Ben Kheder</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="150/2643">Moez Ajili</author>
+<title>Robust Speaker Recognition Using MAP Estimation of Additive Noise in i-vectors Space.</title>
+<pages>97-107</pages>
+<year>2014</year>
+<booktitle>SLSP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11397-5_7</ee>
+<crossref>conf/slsp/2014</crossref>
+<url>db/conf/slsp/slsp2014.html#KhederMBBA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciarp/BousquetBM13" mdate="2018-06-26">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="53/1360">Driss Matrouf</author>
+<title>Identify the Benefits of the Different Steps in an i-Vector Based Speaker Verification System.</title>
+<pages>278-285</pages>
+<year>2013</year>
+<booktitle>CIARP (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-41827-3_35</ee>
+<crossref>conf/ciarp/2013-2</crossref>
+<url>db/conf/ciarp/ciarp2013-2.html#BousquetBM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/aizhouHBMMA13" mdate="2018-09-12">
+<author pid="11/8618">Rahim Saeidi</author>
+<author pid="35/4621">Kong-Aik Lee</author>
+<author pid="94/4754">Tomi Kinnunen</author>
+<author pid="140/2989">Tawfik Hasan</author>
+<author pid="02/5705">Benoit G. B. Fauve</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="05/1112">Elie el Khoury</author>
+<author pid="140/3425">Pablo Luis Sordo Martinez</author>
+<author pid="91/9238">Jia Min Karen Kua</author>
+<author pid="00/3382">Changhuai You</author>
+<author pid="22/1460">Hanwu Sun</author>
+<author pid="44/5405">Anthony Larcher</author>
+<author pid="11/10499">Padmanabhan Rajan</author>
+<author pid="75/5713">Ville Hautam&#228;ki</author>
+<author pid="77/9449">Cemal Hanil&#231;i</author>
+<author pid="133/8671">Billy Braithwaite</author>
+<author pid="140/2904">Rosa Gonz&#225;lez Hautam&#228;ki</author>
+<author pid="13/463">Seyed Omid Sadjadi</author>
+<author pid="37/2109-1">Gang Liu 0001</author>
+<author pid="67/8055">Hynek Boril</author>
+<author pid="135/9040">Navid Shokouhi</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="119/9566">Laurent El Shafey</author>
+<author pid="22/3303">Pejman Mowlaee</author>
+<author pid="92/6424">Julien Epps</author>
+<author pid="37/8053">Tharmarajah Thiruvaran</author>
+<author pid="57/3801">David A. van Leeuwen</author>
+<author pid="70/6176">Bin Ma</author>
+<author pid="36/4118">Haizhou Li 0001</author>
+<author pid="85/2699">John H. L. Hansen</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="31/5046">S&#233;bastien Marcel</author>
+<author pid="18/3657">John S. D. Mason</author>
+<author pid="24/3343">Eliathamby Ambikairajah</author>
+<title>I4u submission to NIST SRE 2012: a large-scale collaborative effort for noise-robust speaker verification.</title>
+<pages>1986-1990</pages>
+<year>2013</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee>http://www.isca-speech.org/archive/interspeech_2013/i13_1986.html</ee>
+<crossref>conf/interspeech/2013</crossref>
+<url>db/conf/interspeech/interspeech2013.html#aizhouHBMMA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BousquetB12" mdate="2017-05-19">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>Typicality extraction in a Speaker Binary Keys model.</title>
+<pages>1713-1716</pages>
+<year>2012</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2012.6288228</ee>
+<crossref>conf/icassp/2012</crossref>
+<url>db/conf/icassp/icassp2012.html#BousquetB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LarcherBLMLB12" mdate="2018-09-12">
+<author pid="44/5405">Anthony Larcher</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="35/4621">Kong-Aik Lee</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author orcid="0000-0001-9158-9401" pid="36/4118">Haizhou Li 0001</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>I-vectors in the context of phonetically-constrained short utterances for speaker verification.</title>
+<pages>4773-4776</pages>
+<year>2012</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2012.6288986</ee>
+<crossref>conf/icassp/2012</crossref>
+<url>db/conf/icassp/icassp2012.html#LarcherBLMLB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/SarkarMBB12" mdate="2015-03-16">
+<author pid="09/9232">Achintya Kumar Sarkar</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>Study of the Effect of I-vector Modeling on Short and Mismatch Utterance Duration for Speaker Verification.</title>
+<year>2012</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee>http://www.isca-speech.org/archive/interspeech_2012/i12_2662.html</ee>
+<crossref>conf/interspeech/2012</crossref>
+<url>db/conf/interspeech/interspeech2012.html#SarkarMBB12</url>
+<pages>2662-2665</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odyssey/BousquetLMBP12" mdate="2014-09-10">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="44/5405">Anthony Larcher</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="62/6194">Oldrich Plchot</author>
+<title>Variance-spectra based normalization for i-vector standard and probabilistic linear discriminant analysis.</title>
+<pages>157-164</pages>
+<year>2012</year>
+<booktitle>Odyssey</booktitle>
+<ee>http://www.isca-speech.org/archive/odyssey_2012/od12_157.html</ee>
+<crossref>conf/odyssey/2012</crossref>
+<url>db/conf/odyssey/odyssey2012.html#BousquetLMBP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/taln/LarcherBMB12" mdate="2019-09-11">
+<author pid="44/5405">Anthony Larcher</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>Analyse en Composante Principale pour l'extraction des i-vecteurs en v&#233;rification du locuteur (Principal Component Analysis for i-vector extraction in speaker verification.) [in French].</title>
+<pages>297-304</pages>
+<year>2012</year>
+<booktitle>JEP-TALN-RECITAL 2012</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/F12-1038/</ee>
+<crossref>conf/taln/2012-1</crossref>
+<url>db/conf/taln/taln2012-1.html#LarcherBMB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BonastreBMM11" mdate="2017-05-19">
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="26/9278">Xavier Anguera Mir&#243;</author>
+<title>Discriminant binary data representation for speaker recognition.</title>
+<pages>5284-5287</pages>
+<year>2011</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2011.5947550</ee>
+<crossref>conf/icassp/2011</crossref>
+<url>db/conf/icassp/icassp2011.html#BonastreBMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/BonastreMSB11" mdate="2013-01-29">
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<author pid="26/9278">Xavier Anguera Mir&#243;</author>
+<author pid="03/9230">Gabriel Hern&#225;ndez Sierra</author>
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<title>Speaker Modeling Using Local Binary Decisions.</title>
+<pages>13-16</pages>
+<year>2011</year>
+<booktitle>INTERSPEECH</booktitle>
+<crossref>conf/interspeech/2011</crossref>
+<url>db/conf/interspeech/interspeech2011.html#BonastreMSB11</url>
+<ee>http://www.isca-speech.org/archive/interspeech_2011/i11_0013.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/BousquetMB11" mdate="2013-01-29">
+<author pid="09/9875">Pierre-Michel Bousquet</author>
+<author pid="53/1360">Driss Matrouf</author>
+<author pid="72/3130">Jean-Fran&#231;ois Bonastre</author>
+<title>Intersession Compensation and Scoring Methods in the i-vectors Space for Speaker Recognition.</title>
+<pages>485-488</pages>
+<year>2011</year>
+<booktitle>INTERSPEECH</booktitle>
+<crossref>conf/interspeech/2011</crossref>
+<url>db/conf/interspeech/interspeech2011.html#BousquetMB11</url>
+<ee>http://www.isca-speech.org/archive/interspeech_2011/i11_0485.html</ee>
+</inproceedings>
+</r>
+<coauthors n="87" nc="1">
+<co c="0"><na f="a/Ajili:Moez" pid="150/2643">Moez Ajili</na></co>
+<co c="0"><na f="a/Ambikairajah:Eliathamby" pid="24/3343">Eliathamby Ambikairajah</na></co>
+<co c="0"><na f="b/Bahmaninezhad:Fahimeh" pid="130/7964">Fahimeh Bahmaninezhad</na></co>
+<co c="0"><na f="b/Bonastre:Jean=Fran=ccedil=ois" pid="72/3130">Jean-Fran&#231;ois Bonastre</na></co>
+<co c="0"><na f="b/Boril:Hynek" pid="67/8055">Hynek Boril</na></co>
+<co c="0"><na f="b/Bouallegue:Mohamed" pid="16/9876">Mohamed Bouallegue</na></co>
+<co c="0"><na f="b/Bouaziz:Mohamed" pid="194/1190">Mohamed Bouaziz</na></co>
+<co c="0"><na f="b/Braithwaite:Billy" pid="133/8671">Billy Braithwaite</na></co>
+<co c="0"><na f="d/Das:Rohan_Kumar" pid="158/4101">Rohan Kumar Das</na></co>
+<co c="0"><na f="d/Dat:Tran_Huy" pid="05/2859">Tran Huy Dat</na></co>
+<co c="0"><na f="d/Delgado:H=eacute=ctor" pid="21/10462">H&#233;ctor Delgado</na></co>
+<co c="0"><na f="d/Desnous:Florent" pid="226/2057">Florent Desnous</na></co>
+<co c="0" n="2"><na f="d/Ding:Guo=Hong" pid="57/9235">Guo-Hong Ding</na><na>Guohong Ding</na></co>
+<co c="0"><na f="d/Dufour:Richard" pid="83/7858">Richard Dufour</na></co>
+<co c="0"><na f="e/Epps:Julien" pid="92/6424">Julien Epps</na></co>
+<co c="0"><na f="e/Evans:Nicholas_W=_D=" pid="84/366">Nicholas W. D. Evans</na></co>
+<co c="0"><na f="f/Fauve:Benoit_G=_B=" pid="02/5705">Benoit G. B. Fauve</na></co>
+<co c="0"><na f="f/Favre:Beno=icirc=t" pid="91/1442">Beno&#238;t Favre</na></co>
+<co c="0"><na f="g/George:Kuruvachan_K=" pid="131/7095">Kuruvachan K. George</na></co>
+<co c="0"><na f="g/Guo:Ling" pid="54/4084">Ling Guo</na></co>
+<co c="0"><na f="h/Hanil=ccedil=i:Cemal" pid="77/9449">Cemal Hanil&#231;i</na></co>
+<co c="0"><na f="h/Hansen:John_H=_L=" pid="85/2699">John H. L. Hansen</na></co>
+<co c="0"><na f="h/Hasan:Tawfik" pid="140/2989">Tawfik Hasan</na></co>
+<co c="0"><na f="h/Hautam=auml=ki:Rosa_Gonz=aacute=lez" pid="140/2904">Rosa Gonz&#225;lez Hautam&#228;ki</na></co>
+<co c="0"><na f="h/Hautam=auml=ki:Ville" pid="75/5713">Ville Hautam&#228;ki</na></co>
+<co c="0"><na f="h/Huang_0019:Jing" pid="14/4834-19">Jing Huang 0019</na></co>
+<co c="0"><na f="j/Janod:Killian" pid="137/8665">Killian Janod</na></co>
+<co c="0"><na f="k/Kheder:Waad_Ben" pid="150/2661">Waad Ben Kheder</na></co>
+<co c="0"><na f="k/Khoury:Elie_el" pid="05/1112">Elie el Khoury</na></co>
+<co c="0" n="2"><na f="k/Kinnunen:Tomi" pid="94/4754">Tomi Kinnunen</na><na>Tomi H. Kinnunen</na></co>
+<co c="0"><na f="k/Koshinaka:Takafumi" pid="64/1770">Takafumi Koshinaka</na></co>
+<co c="0"><na f="k/Kua:Jia_Min_Karen" pid="91/9238">Jia Min Karen Kua</na></co>
+<co c="0"><na f="k/Kukanov:Ivan" pid="173/6521">Ivan Kukanov</na></co>
+<co c="0" n="2"><na f="l/Lara:Jos=eacute=_Ram=oacute=n_Calvo_de" pid="117/3355">Jos&#233; Ram&#243;n Calvo de Lara</na><na>Jos&#233; R. Calvo</na></co>
+<co c="0"><na f="l/Larcher:Anthony" pid="44/5405">Anthony Larcher</na></co>
+<co c="0" n="2"><na f="l/Lee:Kong=Aik" pid="35/4621">Kong-Aik Lee</na><na>Kong Aik Lee</na></co>
+<co c="0"><na f="l/Leeuwen:David_A=_van" pid="57/3801">David A. van Leeuwen</na></co>
+<co c="0"><na f="l/Li_0001:Haizhou" pid="36/4118">Haizhou Li 0001</na></co>
+<co c="0"><na f="l/Lim:Zhi_Hao" pid="214/2295">Zhi Hao Lim</na></co>
+<co c="0"><na f="l/Linar=egrave=s:Georges" pid="60/3648">Georges Linar&#232;s</na></co>
+<co c="0"><na f="l/Liu_0001:Gang" pid="37/2109-1">Gang Liu 0001</na></co>
+<co c="0"><na f="l/Lu:Fan" pid="35/6336">Fan Lu</na></co>
+<co c="0"><na f="m/Ma:Bin" pid="70/6176">Bin Ma</na></co>
+<co c="0"><na f="m/Marcel:S=eacute=bastien" pid="31/5046">S&#233;bastien Marcel</na></co>
+<co c="0"><na f="m/Martinez:Pablo_Luis_Sordo" pid="140/3425">Pablo Luis Sordo Martinez</na></co>
+<co c="0"><na f="m/Mason:John_S=_D=" pid="18/3657">John S. D. Mason</na></co>
+<co c="0"><na f="m/Matrouf:Driss" pid="53/1360">Driss Matrouf</na></co>
+<co c="0"><na f="m/Mir=oacute=:Xavier_Anguera" pid="26/9278">Xavier Anguera Mir&#243;</na></co>
+<co c="0"><na f="m/Morchid:Mohamed" pid="61/10479">Mohamed Morchid</na></co>
+<co c="0"><na f="m/Mori:Renato_De" pid="86/129">Renato De Mori</na></co>
+<co c="0"><na f="m/Mowlaee:Pejman" pid="22/3303">Pejman Mowlaee</na></co>
+<co c="0"><na f="o/Okabe:Koji" pid="87/10649">Koji Okabe</na></co>
+<co c="0"><na f="p/Parcollet:Titouan" pid="195/0257">Titouan Parcollet</na></co>
+<co c="0"><na f="p/Patino_0001:Jose" pid="206/8859">Jose Patino 0001</na></co>
+<co c="0"><na f="p/Plchot:Oldrich" pid="62/6194">Oldrich Plchot</na></co>
+<co c="0"><na f="r/Rajan:Padmanabhan" pid="11/10499">Padmanabhan Rajan</na></co>
+<co c="0"><na f="r/Ranjan:Shivesh" pid="61/8329">Shivesh Ranjan</na></co>
+<co c="0"><na f="r/Rao:Wei" pid="68/2031">Wei Rao</na></co>
+<co c="0"><na f="r/Rouvier:Mickael" pid="02/8760">Mickael Rouvier</na></co>
+<co c="0"><na f="s/Sadjadi:Seyed_Omid" pid="13/463">Seyed Omid Sadjadi</na></co>
+<co c="0"><na f="s/Saeidi:Rahim" pid="11/8618">Rahim Saeidi</na></co>
+<co c="0"><na f="s/Sahidullah:Md=" pid="93/9671">Md. Sahidullah</na></co>
+<co c="0"><na f="s/Sarkar:Achintya_Kumar" pid="09/9232">Achintya Kumar Sarkar</na></co>
+<co c="0"><na f="s/Shafey:Laurent_El" pid="119/9566">Laurent El Shafey</na></co>
+<co c="0"><na f="s/Shinoda:Koichi" pid="74/4623">Koichi Shinoda</na></co>
+<co c="0"><na f="s/Shokouhi:Navid" pid="135/9040">Navid Shokouhi</na></co>
+<co c="0"><na f="s/Sierra:Gabriel_Hern=aacute=ndez" pid="03/9230">Gabriel Hern&#225;ndez Sierra</na></co>
+<co c="0" n="2"><na f="s/Siong:Chng_Eng" pid="c/ChngEngSiong">Chng Eng Siong</na><na>Eng Siong Chng</na></co>
+<co c="0"><na f="s/Sun:Hanwu" pid="22/1460">Hanwu Sun</na></co>
+<co c="0"><na f="t/Tang:Yun" pid="67/764">Yun Tang</na></co>
+<co c="0"><na f="t/Teh:Kah_Kuan" pid="239/6504">Kah Kuan Teh</na></co>
+<co c="0"><na f="t/Thiruvaran:Tharmarajah" pid="37/8053">Tharmarajah Thiruvaran</na></co>
+<co c="0"><na f="t/Todisco:Massimiliano" pid="89/6736">Massimiliano Todisco</na></co>
+<co c="0"><na f="t/Torres=Moreno:Juan=Manuel" pid="53/3721">Juan-Manuel Torres-Moreno</na></co>
+<co c="0"><na f="t/Trong:Trung_Ngo" pid="176/5378">Trung Ngo Trong</na></co>
+<co c="0"><na f="t/Tu:Ming" pid="148/3800">Ming Tu</na></co>
+<co c="0"><na f="v/Vestman:Ville" pid="201/7499">Ville Vestman</na></co>
+<co c="0"><na f="w/Wang:Qing" pid="97/6505">Qing Wang</na></co>
+<co c="0"><na f="w/Wang:Qiongqiong" pid="81/10013">Qiongqiong Wang</na></co>
+<co c="0"><na f="x/Xu:Chenglin" pid="125/2814">Chenglin Xu</na></co>
+<co c="0"><na f="x/Xu:Longting" pid="173/6633">Longting Xu</na></co>
+<co c="0"><na f="y/Yamamoto:Hitoshi" pid="61/5339">Hitoshi Yamamoto</na></co>
+<co c="0"><na f="y/Yang:Jichen" pid="78/7768">Jichen Yang</na></co>
+<co c="0"><na f="y/Yilmaz:Emre" pid="08/1563">Emre Yilmaz</na></co>
+<co c="0" n="2"><na f="y/You:Chang_Huai" pid="00/3382">Chang Huai You</na><na>Changhuai You</na></co>
+<co c="0"><na f="z/Zhang:Chunlei" pid="65/6731">Chunlei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiacen" pid="218/6679">Jiacen Zhang</na></co>
+</coauthors>
+</dblpperson>
+

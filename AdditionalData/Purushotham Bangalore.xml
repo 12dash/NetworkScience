@@ -1,3 +1,1007 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18fc1683488b0753b3f9b573d7d4dcaf18784c332b15521cde4d24fc2102b8d6
-size 45805
+<?xml version="1.0"?>
+<dblpperson name="Purushotham Bangalore" pid="39/2060" n="61">
+<person key="homepages/39/2060" mdate="2017-10-20">
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+</person>
+<r><article key="journals/concurrency/SkjellumBG20" mdate="2020-03-02">
+<author pid="40/6558">Anthony Skjellum</author>
+<author orcid="0000-0002-1098-9997" pid="39/2060">Purushotham V. Bangalore</author>
+<author pid="51/6006">Ryan E. Grant</author>
+<title>Foreword to the Special Issue of the Workshop on Exascale MPI (ExaMPI 2017).</title>
+<year>2020</year>
+<volume>32</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.5459</ee>
+<url>db/journals/concurrency/concurrency32.html#SkjellumBG20</url>
+</article>
+</r>
+<r><article key="journals/pc/HolmesMSBS19" mdate="2020-02-22">
+<author orcid="0000-0002-2776-2609" pid="179/7956">Daniel J. Holmes</author>
+<author orcid="0000-0003-1664-1817" pid="204/9397">Bradley Morgan</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author orcid="0000-0002-1098-9997" pid="39/2060">Purushotham V. Bangalore</author>
+<author pid="13/4967">Srinivas Sridharan</author>
+<title>Planning for performance: Enhancing achievable performance for MPI through persistent collective operations.</title>
+<pages>32-57</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Parallel Comput.</journal>
+<ee>https://doi.org/10.1016/j.parco.2018.08.001</ee>
+<url>db/journals/pc/pc81.html#HolmesMSBS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/YanCCLB19" mdate="2020-03-17">
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="06/4171">James Cheng</author>
+<author pid="42/7395">Hongzhi Chen</author>
+<author pid="58/10813">Cheng Long</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Lightweight Fault Tolerance in Pregel-Like Systems.</title>
+<pages>69:1-69:10</pages>
+<year>2019</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1145/3337821.3337823</ee>
+<crossref>conf/icpp/2019</crossref>
+<url>db/conf/icpp/icpp2019.html#YanCCLB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/BangaloreRHJMBS19" mdate="2020-10-25">
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<author pid="89/2886">Rolf Rabenseifner</author>
+<author pid="179/7956">Daniel J. Holmes</author>
+<author pid="129/5568">Julien Jaeger</author>
+<author orcid="0000-0001-6663-7854" pid="00/6141">Guillaume Mercier</author>
+<author pid="247/5654">Claudia Blaas-Schenner</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<title>Exposition, clarification, and expansion of MPI semantic terms and conventions: is a nonblocking MPI function permitted to block?</title>
+<pages>2:1-2:10</pages>
+<year>2019</year>
+<booktitle>EuroMPI</booktitle>
+<ee>https://doi.org/10.1145/3343211.3343213</ee>
+<crossref>conf/pvm/2019</crossref>
+<url>db/conf/pvm/eurompi2019.html#BangaloreRHJMBS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/springsim/HaddockBCS19" mdate="2019-06-14">
+<author pid="21/5469">Walker Haddock</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<author pid="66/2781">Matthew L. Curry</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<title>High Performance Erasure Coding for Very Large Stripe Sizes.</title>
+<pages>1-12</pages>
+<year>2019</year>
+<booktitle>SpringSim</booktitle>
+<ee>https://doi.org/10.23919/SpringSim.2019.8732912</ee>
+<crossref>conf/springsim/2019</crossref>
+<url>db/conf/springsim/springsim2019.html#HaddockBCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsede/PatelBAMKRNZBB19" mdate="2019-08-02">
+<author pid="246/0260">Trupesh R. Patel</author>
+<author pid="246/0096">Sandeep Bodduluri</author>
+<author pid="169/3283">Thomas Anthony</author>
+<author pid="246/0300">William S. Monroe</author>
+<author pid="246/0236">Pravinkumar G. Kandhare</author>
+<author pid="29/6708">John-Paul Robinson</author>
+<author pid="36/6125">Arie Nakhmani</author>
+<author pid="07/2693">Chengcui Zhang</author>
+<author pid="246/0115">Surya P. Bhatt</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<title>Performance Characterization of Single and Multi GPU Training of U-Net Architecture for Medical Image Segmentation Tasks.</title>
+<pages>115:1-115:4</pages>
+<year>2019</year>
+<booktitle>PEARC</booktitle>
+<ee>https://doi.org/10.1145/3332186.3333152</ee>
+<crossref>conf/xsede/2019</crossref>
+<url>db/conf/xsede/pearc2019.html#PatelBAMKRNZBB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-03314" mdate="2019-09-17">
+<author pid="29/6708">John-Paul Robinson</author>
+<author pid="169/3283">Thomas Anthony</author>
+<author pid="223/1699">Ravi Tripathi</author>
+<author pid="223/1790">Sara A. Sims</author>
+<author pid="125/4743">Kristina M. Visscher</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<title>Analyzing the HCP Datasets using GPUs: The Anatomy of a Science Engagement.</title>
+<year>2019</year>
+<volume>abs/1909.03314</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.03314</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-03314</url>
+</article>
+</r>
+<r><inproceedings key="conf/pvm/XiongBSH18" mdate="2018-11-21">
+<author pid="184/5924">Qingqing Xiong</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="87/324">Martin C. Herbordt</author>
+<title>MPI Derived Datatypes: Performance and Portability Issues.</title>
+<pages>15:1-15:10</pages>
+<year>2018</year>
+<booktitle>EuroMPI</booktitle>
+<ee>https://doi.org/10.1145/3236367.3236378</ee>
+<crossref>conf/pvm/2018</crossref>
+<url>db/conf/pvm/eurompi2018.html#XiongBSH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsede/RobinsonATSVB18" mdate="2018-11-21">
+<author pid="29/6708">John-Paul Robinson</author>
+<author pid="169/3283">Thomas Anthony</author>
+<author pid="223/1699">Ravi Tripathi</author>
+<author pid="223/1790">Sara A. Sims</author>
+<author pid="125/4743">Kristina M. Visscher</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<title>Analyzing the Human Connectome Project Datasets using GPUs: The Anatomy of a Science Engagement.</title>
+<pages>1:1-1:6</pages>
+<year>2018</year>
+<booktitle>PEARC</booktitle>
+<ee>https://doi.org/10.1145/3219104.3219163</ee>
+<crossref>conf/xsede/2018</crossref>
+<url>db/conf/xsede/pearc2018.html#RobinsonATSVB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/ZhangCYCLB17" mdate="2020-08-08">
+<author pid="118/5486-1">Qizhen Zhang 0001</author>
+<author pid="42/7395">Hongzhi Chen</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="06/4171">James Cheng</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Architectural implications on the performance and cost of graph analytics systems.</title>
+<pages>40-51</pages>
+<year>2017</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3127479.3128606</ee>
+<crossref>conf/cloud/2017</crossref>
+<url>db/conf/cloud/socc2017.html#ZhangCYCLB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/AhmedSBP17" mdate="2018-11-06">
+<author pid="176/1196">Hadia Ahmed</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="31/1579">Peter Pirkelbauer</author>
+<title>Transforming blocking MPI collectives to Non-blocking and persistent operations.</title>
+<pages>3:1-3:11</pages>
+<year>2017</year>
+<booktitle>EuroMPI/USA</booktitle>
+<ee>https://doi.org/10.1145/3127024.3127033</ee>
+<crossref>conf/pvm/2017</crossref>
+<url>db/conf/pvm/eurompi2017.html#AhmedSBP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/MorganHSBS17" mdate="2018-11-06">
+<author pid="204/9397">Bradley Morgan</author>
+<author pid="179/7956">Daniel J. Holmes</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="13/4967">Srinivas Sridharan</author>
+<title>Planning for performance: persistent collective operations for MPI.</title>
+<pages>4:1-4:11</pages>
+<year>2017</year>
+<booktitle>EuroMPI/USA</booktitle>
+<ee>https://doi.org/10.1145/3127024.3127028</ee>
+<crossref>conf/pvm/2017</crossref>
+<url>db/conf/pvm/eurompi2017.html#MorganHSBS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/supercomputer/HaddockCBS17" mdate="2017-10-20">
+<author pid="21/5469">Walker Haddock</author>
+<author pid="66/2781">Matthew L. Curry</author>
+<author pid="39/2060">Purushotham V. Bangalore</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<title>GPU Erasure Coding for Campaign Storage.</title>
+<pages>145-159</pages>
+<year>2017</year>
+<booktitle>ISC Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67630-2_13</ee>
+<crossref>conf/supercomputer/2017w</crossref>
+<url>db/conf/supercomputer/isc2017w.html#HaddockCBS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/ThapaliyaBLMM16" mdate="2018-11-02">
+<author pid="63/10761">Sagar Thapaliya</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="34/6823">Jay F. Lofstead</author>
+<author orcid="0000-0002-1366-1655" pid="05/772">Kathryn Mohror</author>
+<author pid="189/1241">Adam Moody</author>
+<title>Managing I/O Interference in a Shared Burst Buffer System.</title>
+<pages>416-425</pages>
+<year>2016</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2016.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2016.54</ee>
+<crossref>conf/icpp/2016</crossref>
+<url>db/conf/icpp/icpp2016.html#ThapaliyaBLMM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/HassaniSBB15" mdate="2018-11-06">
+<author pid="134/3154">Amin Hassani</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="78/643">Ron Brightwell</author>
+<title>Practical resilient cases for FA-MPI, a transactional fault-tolerant MPI.</title>
+<pages>1:1-1:10</pages>
+<year>2015</year>
+<booktitle>ExaMPI@SC</booktitle>
+<ee>https://doi.org/10.1145/2831129.2831130</ee>
+<crossref>conf/sc/2015exampi</crossref>
+<url>db/conf/sc/exampi2015.html#HassaniSBB15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ic3/2015" mdate="2019-10-16">
+<editor pid="p/ManishParashar">Manish Parashar</editor>
+<editor pid="37/5123">Tirumale Ramesh</editor>
+<editor pid="172/9138">Jaric Zola</editor>
+<editor pid="n/NanjangudCNarendra">Nanjangud C. Narendra</editor>
+<editor pid="84/2688">Kishore Kothapalli</editor>
+<editor pid="26/3607">J. Amudha</editor>
+<editor pid="39/2060">Purushotham Bangalore</editor>
+<editor pid="17/5917">Deepa Gupta</editor>
+<editor pid="38/70">Animesh Pathak</editor>
+<editor pid="54/5942">Sanjay Chaudhary</editor>
+<editor pid="01/1211">K. V. Dinesha</editor>
+<editor pid="62/1798">Sushil K. Prasad</editor>
+<title>Eighth International Conference on Contemporary Computing, IC3 2015, Noida, India, August 20-22, 2015</title>
+<booktitle>IC3</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2015</year>
+<isbn>978-1-4673-7947-2</isbn>
+<isbn>978-1-4673-7948-9</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7337021/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/ic3/2015/7947/00/index.html</ee>
+<url>db/conf/ic3/ic3-2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/icppw/ThapaliyaBLMM14" mdate="2018-11-02">
+<author pid="63/10761">Sagar Thapaliya</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="34/6823">Jay F. Lofstead</author>
+<author orcid="0000-0002-1366-1655" pid="05/772">Kathryn Mohror</author>
+<author pid="189/1241">Adam Moody</author>
+<title>IO-Cop: Managing Concurrent Accesses to Shared Parallel File System.</title>
+<pages>52-60</pages>
+<year>2014</year>
+<booktitle>ICPP Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICPPW.2014.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPPW.2014.20</ee>
+<crossref>conf/icppw/2014</crossref>
+<url>db/conf/icppw/icppw2014.html#ThapaliyaBLMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/HassaniSBB14" mdate="2018-11-06">
+<author pid="134/3154">Amin Hassani</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="78/643">Ron Brightwell</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Comparing, Contrasting, Generalizing, and Integrating Two Current Designs for Fault-Tolerant MPI.</title>
+<pages>63</pages>
+<year>2014</year>
+<booktitle>EuroMPI/ASIA</booktitle>
+<ee>https://doi.org/10.1145/2642769.2642776</ee>
+<crossref>conf/pvm/2014</crossref>
+<url>db/conf/pvm/eurompi2014.html#HassaniSBB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsede/AroraCBM13" mdate="2018-11-06">
+<author pid="91/881">Ritu Arora</author>
+<author pid="132/7648">Ejenio Capetillo</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<title>A high-level framework for parallelizing legacy applications for multiple platforms.</title>
+<pages>58:1-58:8</pages>
+<year>2013</year>
+<booktitle>XSEDE</booktitle>
+<ee>https://doi.org/10.1145/2484762.2484829</ee>
+<crossref>conf/xsede/2013</crossref>
+<url>db/conf/xsede/xsede2013.html#AroraCBM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/AroraBM12" mdate="2020-05-22">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<title>Raising the level of abstraction for developing message passing applications.</title>
+<pages>1079-1100</pages>
+<year>2012</year>
+<volume>59</volume>
+<journal>J. Supercomput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11227-010-0490-3</ee>
+<url>db/journals/tjs/tjs59.html#AroraBM12</url>
+</article>
+</r>
+<r><article key="journals/tjs/AfganBS12" mdate="2020-05-22">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="68/10233">Tibor Skala</author>
+<title>Scheduling and planning job execution of loosely coupled applications.</title>
+<pages>1431-1454</pages>
+<year>2012</year>
+<volume>59</volume>
+<journal>J. Supercomput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11227-011-0555-y</ee>
+<url>db/journals/tjs/tjs59.html#AfganBS12</url>
+</article>
+</r>
+<r><article key="journals/tjs/JacobGCMB12" mdate="2020-05-22">
+<author pid="32/7538">Ferosh Jacob</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<author pid="c/JeffreyCCarver">Jeffrey C. Carver</author>
+<author pid="76/5882">Marjan Mernik</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>PPModel: a modeling tool for source code maintenance and optimization of parallel programs.</title>
+<pages>1560-1582</pages>
+<year>2012</year>
+<volume>62</volume>
+<journal>J. Supercomput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11227-012-0821-7</ee>
+<url>db/journals/tjs/tjs62.html#JacobGCMB12</url>
+</article>
+</r>
+<r><article key="journals/tjs/AroraBM12a" mdate="2020-05-22">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<title>Tools and techniques for non-invasive explicit parallelization.</title>
+<pages>1583-1608</pages>
+<year>2012</year>
+<volume>62</volume>
+<journal>J. Supercomput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11227-012-0822-6</ee>
+<url>db/journals/tjs/tjs62.html#AroraBM12a</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACMse/JacobGB12" mdate="2018-11-06">
+<author pid="32/7538">Ferosh Jacob</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Modulo-X: a simple transformation language for HPC programs.</title>
+<pages>351-352</pages>
+<year>2012</year>
+<booktitle>ACM Southeast Regional Conference</booktitle>
+<ee>https://doi.org/10.1145/2184512.2184600</ee>
+<crossref>conf/ACMse/2012</crossref>
+<url>db/conf/ACMse/ACMse2012.html#JacobGB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/AfganBS11" mdate="2020-02-19">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="25/6988">Karolj Skala</author>
+<title>Application Information Services for distributed computing environments.</title>
+<pages>173-181</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.future.2010.08.004</ee>
+<url>db/journals/fgcs/fgcs27.html#AfganBS11</url>
+</article>
+</r>
+<r><article key="journals/tjs/AroraBM11" mdate="2020-05-22">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<title>A technique for non-invasive application-level checkpointing.</title>
+<pages>227-255</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>J. Supercomput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11227-010-0383-5</ee>
+<url>db/journals/tjs/tjs57.html#AroraBM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACMse/JacobGSB11" mdate="2018-11-06">
+<author pid="32/7538">Ferosh Jacob</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<author pid="62/3689-2">Yu Sun 0002</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>A platform-independent tool for modeling parallel programs.</title>
+<pages>138-143</pages>
+<year>2011</year>
+<booktitle>ACM Southeast Regional Conference</booktitle>
+<ee>https://doi.org/10.1145/2016039.2016079</ee>
+<crossref>conf/ACMse/2011</crossref>
+<url>db/conf/ACMse/ACMse2011.html#JacobGSB11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-1525" mdate="2018-08-13">
+<author pid="33/9891">Robert Louis Cloud</author>
+<author pid="66/2781">Matthew L. Curry</author>
+<author pid="30/4898">H. Lee Ward</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Accelerating Lossless Data Compression with GPUs</title>
+<ee type="oa">http://arxiv.org/abs/1107.1525</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.1525</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-1525</url>
+</article>
+</r>
+<r><article key="journals/cluster/AfganB10" mdate="2020-09-29">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Exploiting performance characterization of BLAST in the grid.</title>
+<pages>385-395</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Clust. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10586-010-0121-z</ee>
+<url>db/journals/cluster/cluster13.html#AfganB10</url>
+</article>
+</r>
+<r><article key="journals/jot/RoychoudhuryGZBS10" mdate="2021-02-17">
+<author pid="65/1656">Suman Roychoudhury</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<author pid="05/3499-3">Jing Zhang 0003</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<title>A Program Transformation Technique to Support AOP within C++ Template.</title>
+<pages>143-160</pages>
+<year>2010</year>
+<volume>9</volume>
+<journal>J. Object Technol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5381/jot.2010.9.1.a3</ee>
+<url>db/journals/jot/jot9.html#RoychoudhuryGZBS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/hipc/JacobWTBMG10" mdate="2019-02-07">
+<author pid="32/7538">Ferosh Jacob</author>
+<author pid="09/8319">David Whittaker</author>
+<author pid="63/10761">Sagar Thapaliya</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<title>CUDACL: A tool for CUDA and OpenCL programmers.</title>
+<pages>1-11</pages>
+<year>2010</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HIPC.2010.5713193</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HIPC.2010.5713193</ee>
+<crossref>conf/hipc/2010</crossref>
+<url>db/conf/hipc/hipc2010.html#JacobWTBMG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/JacobABMG10" mdate="2010-12-07">
+<author pid="32/7538">Ferosh Jacob</author>
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<title>Raising the Level of Abstraction of GPU-programming.</title>
+<pages>339-345</pages>
+<year>2010</year>
+<booktitle>PDPTA</booktitle>
+<crossref>conf/pdpta/2010</crossref>
+<url>db/conf/pdpta/pdpta2010.html#JacobABMG10</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/GemmillRSB09" mdate="2020-03-02">
+<author orcid="0000-0002-0174-1754" pid="53/5224">Jill B. Gemmill</author>
+<author pid="29/6708">John-Paul Robinson</author>
+<author pid="52/6993">Tom Scavo</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Cross-domain authorization for federated virtual organizations using the myVocs collaboration environment.</title>
+<pages>509-532</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.1350</ee>
+<url>db/journals/concurrency/concurrency21.html#GemmillRSB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cluster/AfganBD09" mdate="2017-05-21">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="66/7891">Dustin Duncan</author>
+<title>GridAtlas - A grid application and resource configuration repository and discovery service.</title>
+<pages>1-10</pages>
+<year>2009</year>
+<booktitle>CLUSTER</booktitle>
+<ee>https://doi.org/10.1109/CLUSTR.2009.5289195</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CLUSTR.2009.5289195</ee>
+<crossref>conf/cluster/2009</crossref>
+<url>db/conf/cluster/cluster2009.html#AfganBD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AroraBM09" mdate="2017-05-23">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="76/5882">Marjan Mernik</author>
+<title>Developing scientific applications using Generative Programming.</title>
+<pages>51-58</pages>
+<year>2009</year>
+<booktitle>SE-CSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/SECSE.2009.5069162</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SECSE.2009.5069162</ee>
+<crossref>conf/icse/2009secse</crossref>
+<url>db/conf/icse/secse2009.html#AroraBM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AroraB09" mdate="2019-02-12">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>A framework for raising the level of abstraction of explicit parallelization.</title>
+<pages>339-342</pages>
+<year>2009</year>
+<booktitle>ICSE Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSE-COMPANION.2009.5071016</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE-COMPANION.2009.5071016</ee>
+<crossref>conf/icse/2009c</crossref>
+<url>db/conf/icse/icse2009c.html#AroraB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gca/BangaloreA08" mdate="2009-02-12">
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="28/6086">Enis Afgan</author>
+<title>G-BLAST: A Grid Service for BLAST.</title>
+<pages>264-270</pages>
+<year>2008</year>
+<booktitle>GCA</booktitle>
+<crossref>conf/gca/2008</crossref>
+<url>db/conf/gca/gca2008.html#BangaloreA08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcit/AroraMBRM08" mdate="2017-05-25">
+<author pid="91/881">Ritu Arora</author>
+<author pid="76/5882">Marjan Mernik</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="65/1656">Suman Roychoudhury</author>
+<author pid="97/6859">Saraswathi Mukkai</author>
+<title>A Domain-Specific Language for Application-Level Checkpointing.</title>
+<pages>26-38</pages>
+<year>2008</year>
+<booktitle>ICDCIT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-89737-8_3</ee>
+<crossref>conf/icdcit/2008</crossref>
+<url>db/conf/icdcit/icdcit2008.html#AroraMBRM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mg/AfganB08" mdate="2018-11-06">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Experiences with developing and deploying dynamic BLAST.</title>
+<pages>38</pages>
+<year>2008</year>
+<booktitle>Mardi Gras Conference</booktitle>
+<ee>https://doi.org/10.1145/1341811.1341853</ee>
+<crossref>conf/mg/2008</crossref>
+<url>db/conf/mg/mg2008.html#AfganB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mg/RobinsonBWM08" mdate="2018-11-06">
+<author pid="29/6708">John-Paul Robinson</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="25/4287">Jelai Wang</author>
+<author pid="86/723">Tapan Mehta</author>
+<title>Powering statistical genetics with the grid: using GridWay to automate R-based workflows.</title>
+<pages>40</pages>
+<year>2008</year>
+<booktitle>Mardi Gras Conference</booktitle>
+<ee>https://doi.org/10.1145/1341811.1341856</ee>
+<crossref>conf/mg/2008</crossref>
+<url>db/conf/mg/mg2008.html#RobinsonBWM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mg/HalappanavarRAYB08" mdate="2018-11-06">
+<author pid="41/3413">Mahantesh Halappanavar</author>
+<author pid="29/6708">John-Paul Robinson</author>
+<author pid="28/6086">Enis Afgan</author>
+<author pid="84/6594">Mary Fran Yafchak</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>A common application platform for the SURAgrid (CAP).</title>
+<pages>41</pages>
+<year>2008</year>
+<booktitle>Mardi Gras Conference</booktitle>
+<ee>https://doi.org/10.1145/1341811.1341857</ee>
+<crossref>conf/mg/2008</crossref>
+<url>db/conf/mg/mg2008.html#HalappanavarRAYB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/AroraB08" mdate="2009-02-05">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Using Aspect-Oriented Programming for Checkpointing a Parallel Application.</title>
+<pages>955-961</pages>
+<year>2008</year>
+<booktitle>PDPTA</booktitle>
+<crossref>conf/pdpta/2008</crossref>
+<url>db/conf/pdpta/pdpta2008.html#AroraB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/AfganB08" mdate="2019-02-14">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Embarrassingly parallel jobs are not embarrassingly easy to schedule on the grid.</title>
+<pages>1-10</pages>
+<year>2008</year>
+<booktitle>MTAGS@SC</booktitle>
+<ee>https://doi.org/10.1109/MTAGS.2008.4777910</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MTAGS.2008.4777910</ee>
+<crossref>conf/sc/2008mtags</crossref>
+<url>db/conf/sc/mtags2008.html#AfganB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ISCApdcs/AroraB07" mdate="2007-10-04">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Grid enabling a content based image retrieval application.</title>
+<pages>19-23</pages>
+<year>2007</year>
+<crossref>conf/ISCApdcs/2007</crossref>
+<booktitle>ISCA PDCS</booktitle>
+<url>db/conf/ISCApdcs/ISCApdcs2007.html#AroraB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aosd/Bangalore07" mdate="2018-11-06">
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Generating parallel applications for distributed memory systems using aspects, components, and patterns.</title>
+<pages>3</pages>
+<year>2007</year>
+<booktitle>ACP4IS</booktitle>
+<ee>https://doi.org/10.1145/1233901.1233904</ee>
+<crossref>conf/aosd/2007acp4is</crossref>
+<url>db/conf/aosd/acp4is2007.html#Bangalore07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/AfganB07" mdate="2017-05-26">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Performance Characterization of BLAST for the Grid.</title>
+<pages>1394-1398</pages>
+<year>2007</year>
+<crossref>conf/bibe/2007</crossref>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2007.4375754</ee>
+<url>db/conf/bibe/bibe2007.html#AfganB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gsem/AfganB07" mdate="2021-01-13">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Application Specification Language (ASL) - A Language for Describing Applications in Grid Computing.</title>
+<pages>24-38</pages>
+<year>2007</year>
+<booktitle>GSEM</booktitle>
+<crossref>conf/gsem/2007</crossref>
+<url>db/conf/gsem/gsem2007.html#AfganB07</url>
+<ee type="oa">https://dl.gi.de/20.500.12116/22148</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings117/article1918.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/AfganGB07" mdate="2019-05-28">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="g/JeffreyGGray">Jeffrey G. Gray</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Using Domain-Specific Modeling to Generate User Interfaces for Wizards.</title>
+<year>2007</year>
+<booktitle>MDDAUI</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-297/paper3.pdf</ee>
+<crossref>conf/models/2007mddaui</crossref>
+<url>db/conf/models/mddaui2007.html#AfganGB07</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/GuanHBGSVL06" mdate="2020-03-02">
+<author pid="18/4893">Zhijie Guan</author>
+<author pid="88/5223">Francisco Hern&#225;ndez</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="g/JeffreyGGray">Jeffrey G. Gray</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="66/4772">Vijay Velusamy</author>
+<author pid="10/3416">Yin Liu</author>
+<title>Grid-Flow: a Grid-enabled scientific workflow system with a Petri-net-based interface.</title>
+<pages>1115-1140</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.988</ee>
+<url>db/journals/concurrency/concurrency18.html#GuanHBGSVL06</url>
+</article>
+</r>
+<r><article key="journals/concurrency/HernandezBGGR06" mdate="2020-03-02">
+<author pid="88/5223">Francisco Hern&#225;ndez</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="g/JeffreyGGray">Jeffrey G. Gray</author>
+<author pid="18/4893">Zhijie Guan</author>
+<author pid="32/769">Kevin D. Reilly</author>
+<title>GAUGE: Grid Automation and Generative Environment.</title>
+<pages>1293-1316</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.991</ee>
+<url>db/journals/concurrency/concurrency18.html#HernandezBGGR06</url>
+</article>
+</r>
+<r><inproceedings key="conf/grc/AfganSB06" mdate="2017-05-26">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="04/8610">Pavithran Sathyanarayana</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Dynamic Task Distribution in the Grid for BLAST.</title>
+<pages>554-557</pages>
+<year>2006</year>
+<booktitle>GrC</booktitle>
+<ee>https://doi.org/10.1109/GRC.2006.1635863</ee>
+<crossref>conf/grc/2006</crossref>
+<url>db/conf/grc/grc2006.html#AfganSB06</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/HernandezBR05" mdate="2020-09-17">
+<author pid="88/5223">Francisco Hern&#225;ndez</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="32/769">Kevin D. Reilly</author>
+<title>End-user tools for grid computing.</title>
+<pages>1-5</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1082983.1083237</ee>
+<url>db/journals/sigsoft/sigsoft30.html#HernandezBR05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACMse/AroraB05" mdate="2020-07-28">
+<author pid="91/881">Ritu Arora</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Text mining: classification &#38; clustering of articles related to sports.</title>
+<pages>153-154</pages>
+<year>2005</year>
+<crossref>conf/ACMse/2005-1</crossref>
+<booktitle>ACM Southeast Regional Conference (1)</booktitle>
+<ee>https://doi.org/10.1145/1167350.1167397</ee>
+<url>db/conf/ACMse/ACMse2005-1.html#AroraB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/egc/AfganVB05" mdate="2017-05-23">
+<author pid="28/6086">Enis Afgan</author>
+<author pid="66/4772">Vijay Velusamy</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Grid Resource Broker Using Application Benchmarking.</title>
+<pages>691-701</pages>
+<year>2005</year>
+<crossref>conf/egc/2005</crossref>
+<booktitle>EGC</booktitle>
+<ee>https://doi.org/10.1007/11508380_70</ee>
+<url>db/conf/egc/egc2005.html#AfganVB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grid/RobinsonGJBCPZA05" mdate="2017-06-15">
+<author pid="29/6708">John-Paul Robinson</author>
+<author orcid="0000-0002-0174-1754" pid="53/5224">Jill B. Gemmill</author>
+<author pid="65/2038">Pravin Joshi</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="71/1">Yiyi Chen</author>
+<author pid="65/1882">Silbia Peechakara</author>
+<author pid="07/3660">Song Zhou</author>
+<author pid="45/7031">Prahalad Achutharao</author>
+<title>Web-enabled grid authentication in a non-Kerberos environment.</title>
+<pages>318-322</pages>
+<year>2005</year>
+<crossref>conf/grid/2005</crossref>
+<booktitle>GRID</booktitle>
+<ee>https://doi.org/10.1109/GRID.2005.1542763</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/GRID.2005.1542763</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1253517</ee>
+<url>db/conf/grid/grid2005.html#RobinsonGJBCPZA05</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/HauptBH02" mdate="2020-03-02">
+<author pid="71/4156">Tomasz Haupt</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="86/2005">Gregory Henley</author>
+<title>Mississippi Computational Web Portal.</title>
+<pages>1275-1287</pages>
+<year>2002</year>
+<volume>14</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13-15</number>
+<url>db/journals/concurrency/concurrency14.html#HauptBH02</url>
+<ee>https://doi.org/10.1002/cpe.675</ee>
+</article>
+</r>
+<r><article key="journals/concurrency/SkjellumWLWBLSM01" mdate="2020-03-02">
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="10/4187">Diane G. Wooley</author>
+<author pid="75/6746">Ziyang Lu</author>
+<author pid="69/1015">Michael Wolf</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="13/566">Andrew Lumsdaine</author>
+<author pid="79/3928">Jeffrey M. Squyres</author>
+<author pid="28/6941">Brian C. McCandless</author>
+<title>Object-oriented analysis and design of the Message Passing Interface.</title>
+<pages>245-292</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/concurrency/concurrency13.html#SkjellumWLWBLSM01</url>
+<ee>https://doi.org/10.1002/cpe.556</ee>
+</article>
+</r>
+<r><inproceedings key="conf/hpcn/HauptBH01" mdate="2017-05-23">
+<author pid="71/4156">Tomasz Haupt</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="86/2005">Gregory Henley</author>
+<title>A Computational Web Portal for the Distributed Marine Environment Forecast System.</title>
+<pages>104-113</pages>
+<year>2001</year>
+<crossref>conf/hpcn/2001</crossref>
+<booktitle>HPCN Europe</booktitle>
+<ee>https://doi.org/10.1007/3-540-48228-8_11</ee>
+<url>db/conf/hpcn/hpcn2001.html#HauptBH01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pact/BirovPBVPDESSBSOFOE99" mdate="2017-05-24">
+<author pid="14/4425">Lubomir Birov</author>
+<author pid="27/4233">Arkady Prokofiev</author>
+<author pid="14/2343">Yuri Bartenev</author>
+<author pid="61/5527">Anatoly Vargin</author>
+<author pid="54/4975">Avijit Purkayastha</author>
+<author pid="d/YoginderSDandass">Yoginder S. Dandass</author>
+<author pid="64/1548">Vladimir Erzunov</author>
+<author pid="04/4986">Elena Shanikova</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<author pid="08/5687">Eugeny Shuvalov</author>
+<author pid="14/2183">Vitaly Ovechkin</author>
+<author pid="01/4760">Nataly Frolova</author>
+<author pid="68/1436">Sergey Orlov</author>
+<author pid="40/2612">Sergey Egorov</author>
+<title>The Parallel Mathematical Libraries Project (PMLP): Overview, Design Innovations, and Preliminary Results.</title>
+<pages>186-193</pages>
+<ee>https://doi.org/10.1007/3-540-48387-X_19</ee>
+<year>1999</year>
+<crossref>conf/pact/1999</crossref>
+<booktitle>PaCT</booktitle>
+<url>db/conf/pact/pact1999.html#BirovPBVPDESSBSOFOE99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsc/BirovBVPSDB99" mdate="2017-03-20">
+<author pid="14/4425">Lubomir Birov</author>
+<author pid="14/2343">Yuri Bartenev</author>
+<author pid="61/5527">Anatoly Vargin</author>
+<author pid="54/4975">Avijit Purkayastha</author>
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="d/YoginderSDandass">Yoginder S. Dandass</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>The Parallel Mathematical Libraries Project (PMLP) - A Next Generation Scalable, Sparse, Object-Oriented, Mathematical Library Suite.</title>
+<year>1999</year>
+<crossref>conf/ppsc/1999</crossref>
+<booktitle>PPSC</booktitle>
+<url>db/conf/ppsc/ppsc1999.html#BirovBVPSDB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsc/SkjellumB95" mdate="2017-03-20">
+<author pid="40/6558">Anthony Skjellum</author>
+<author pid="39/2060">Purushotham Bangalore</author>
+<title>Driving Issues in Scalable Libraries: Poly-Algorithms, Data Distribution Independence, Redistribution, Local Storage Schemes.</title>
+<pages>734-737</pages>
+<year>1995</year>
+<crossref>conf/ppsc/1995</crossref>
+<booktitle>PPSC</booktitle>
+<url>db/conf/ppsc/ppsc1995.html#SkjellumB95</url>
+</inproceedings>
+</r>
+<coauthors n="105" nc="1">
+<co c="0"><na f="a/Achutharao:Prahalad" pid="45/7031">Prahalad Achutharao</na></co>
+<co c="0"><na f="a/Afgan:Enis" pid="28/6086">Enis Afgan</na></co>
+<co c="0"><na f="a/Ahmed:Hadia" pid="176/1196">Hadia Ahmed</na></co>
+<co c="0"><na f="a/Amudha:J=" pid="26/3607">J. Amudha</na></co>
+<co c="0"><na f="a/Anthony:Thomas" pid="169/3283">Thomas Anthony</na></co>
+<co c="0"><na f="a/Arora:Ritu" pid="91/881">Ritu Arora</na></co>
+<co c="0"><na f="b/Bartenev:Yuri" pid="14/2343">Yuri Bartenev</na></co>
+<co c="0"><na f="b/Bhatt:Surya_P=" pid="246/0115">Surya P. Bhatt</na></co>
+<co c="0"><na f="b/Birov:Lubomir" pid="14/4425">Lubomir Birov</na></co>
+<co c="0"><na f="b/Blaas=Schenner:Claudia" pid="247/5654">Claudia Blaas-Schenner</na></co>
+<co c="0"><na f="b/Bodduluri:Sandeep" pid="246/0096">Sandeep Bodduluri</na></co>
+<co c="0"><na f="b/Brightwell:Ron" pid="78/643">Ron Brightwell</na></co>
+<co c="0"><na f="c/Capetillo:Ejenio" pid="132/7648">Ejenio Capetillo</na></co>
+<co c="0"><na f="c/Carver:Jeffrey_C=" pid="c/JeffreyCCarver">Jeffrey C. Carver</na></co>
+<co c="0"><na f="c/Chaudhary:Sanjay" pid="54/5942">Sanjay Chaudhary</na></co>
+<co c="0"><na f="c/Chen:Hongzhi" pid="42/7395">Hongzhi Chen</na></co>
+<co c="0"><na f="c/Chen:Yiyi" pid="71/1">Yiyi Chen</na></co>
+<co c="0"><na f="c/Cheng:James" pid="06/4171">James Cheng</na></co>
+<co c="0"><na f="c/Cloud:Robert_Louis" pid="33/9891">Robert Louis Cloud</na></co>
+<co c="0"><na f="c/Curry:Matthew_L=" pid="66/2781">Matthew L. Curry</na></co>
+<co c="0"><na f="d/Dandass:Yoginder_S=" pid="d/YoginderSDandass">Yoginder S. Dandass</na></co>
+<co c="0"><na f="d/Dinesha:K=_V=" pid="01/1211">K. V. Dinesha</na></co>
+<co c="0"><na f="d/Duncan:Dustin" pid="66/7891">Dustin Duncan</na></co>
+<co c="0"><na f="e/Egorov:Sergey" pid="40/2612">Sergey Egorov</na></co>
+<co c="0"><na f="e/Erzunov:Vladimir" pid="64/1548">Vladimir Erzunov</na></co>
+<co c="0"><na f="f/Frolova:Nataly" pid="01/4760">Nataly Frolova</na></co>
+<co c="0"><na f="g/Gemmill:Jill_B=" pid="53/5224">Jill B. Gemmill</na></co>
+<co c="0"><na f="g/Grant:Ryan_E=" pid="51/6006">Ryan E. Grant</na></co>
+<co c="0" n="2"><na f="g/Gray:Jeffrey_G=" pid="g/JeffreyGGray">Jeffrey G. Gray</na><na>Jeff Gray</na></co>
+<co c="0"><na f="g/Guan:Zhijie" pid="18/4893">Zhijie Guan</na></co>
+<co c="0"><na f="g/Gupta:Deepa" pid="17/5917">Deepa Gupta</na></co>
+<co c="0"><na f="h/Haddock:Walker" pid="21/5469">Walker Haddock</na></co>
+<co c="0"><na f="h/Halappanavar:Mahantesh" pid="41/3413">Mahantesh Halappanavar</na></co>
+<co c="0"><na f="h/Hassani:Amin" pid="134/3154">Amin Hassani</na></co>
+<co c="0"><na f="h/Haupt:Tomasz" pid="71/4156">Tomasz Haupt</na></co>
+<co c="0"><na f="h/Henley:Gregory" pid="86/2005">Gregory Henley</na></co>
+<co c="0"><na f="h/Herbordt:Martin_C=" pid="87/324">Martin C. Herbordt</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez:Francisco" pid="88/5223">Francisco Hern&#225;ndez</na></co>
+<co c="0"><na f="h/Holmes:Daniel_J=" pid="179/7956">Daniel J. Holmes</na></co>
+<co c="0"><na f="j/Jacob:Ferosh" pid="32/7538">Ferosh Jacob</na></co>
+<co c="0"><na f="j/Jaeger:Julien" pid="129/5568">Julien Jaeger</na></co>
+<co c="0"><na f="j/Joshi:Pravin" pid="65/2038">Pravin Joshi</na></co>
+<co c="0"><na f="k/Kandhare:Pravinkumar_G=" pid="246/0236">Pravinkumar G. Kandhare</na></co>
+<co c="0"><na f="k/Kothapalli:Kishore" pid="84/2688">Kishore Kothapalli</na></co>
+<co c="0"><na f="l/Liu:Yin" pid="10/3416">Yin Liu</na></co>
+<co c="0"><na f="l/Lofstead:Jay_F=" pid="34/6823">Jay F. Lofstead</na></co>
+<co c="0"><na f="l/Long:Cheng" pid="58/10813">Cheng Long</na></co>
+<co c="0"><na f="l/Loo:Boon_Thau" pid="75/3108">Boon Thau Loo</na></co>
+<co c="0"><na f="l/Lu:Ziyang" pid="75/6746">Ziyang Lu</na></co>
+<co c="0"><na f="l/Lumsdaine:Andrew" pid="13/566">Andrew Lumsdaine</na></co>
+<co c="0"><na f="m/McCandless:Brian_C=" pid="28/6941">Brian C. McCandless</na></co>
+<co c="0"><na f="m/Mehta:Tapan" pid="86/723">Tapan Mehta</na></co>
+<co c="0"><na f="m/Mercier:Guillaume" pid="00/6141">Guillaume Mercier</na></co>
+<co c="0"><na f="m/Mernik:Marjan" pid="76/5882">Marjan Mernik</na></co>
+<co c="0"><na f="m/Mohror:Kathryn" pid="05/772">Kathryn Mohror</na></co>
+<co c="0"><na f="m/Monroe:William_S=" pid="246/0300">William S. Monroe</na></co>
+<co c="0"><na f="m/Moody:Adam" pid="189/1241">Adam Moody</na></co>
+<co c="0"><na f="m/Morgan:Bradley" pid="204/9397">Bradley Morgan</na></co>
+<co c="0"><na f="m/Mukkai:Saraswathi" pid="97/6859">Saraswathi Mukkai</na></co>
+<co c="0"><na f="n/Nakhmani:Arie" pid="36/6125">Arie Nakhmani</na></co>
+<co c="0"><na f="n/Narendra:Nanjangud_C=" pid="n/NanjangudCNarendra">Nanjangud C. Narendra</na></co>
+<co c="0"><na f="o/Orlov:Sergey" pid="68/1436">Sergey Orlov</na></co>
+<co c="0"><na f="o/Ovechkin:Vitaly" pid="14/2183">Vitaly Ovechkin</na></co>
+<co c="0"><na f="p/Parashar:Manish" pid="p/ManishParashar">Manish Parashar</na></co>
+<co c="0"><na f="p/Patel:Trupesh_R=" pid="246/0260">Trupesh R. Patel</na></co>
+<co c="0"><na f="p/Pathak:Animesh" pid="38/70">Animesh Pathak</na></co>
+<co c="0"><na f="p/Peechakara:Silbia" pid="65/1882">Silbia Peechakara</na></co>
+<co c="0"><na f="p/Pirkelbauer:Peter" pid="31/1579">Peter Pirkelbauer</na></co>
+<co c="0"><na f="p/Prasad:Sushil_K=" pid="62/1798">Sushil K. Prasad</na></co>
+<co c="0"><na f="p/Prokofiev:Arkady" pid="27/4233">Arkady Prokofiev</na></co>
+<co c="0"><na f="p/Purkayastha:Avijit" pid="54/4975">Avijit Purkayastha</na></co>
+<co c="0"><na f="r/Rabenseifner:Rolf" pid="89/2886">Rolf Rabenseifner</na></co>
+<co c="0"><na f="r/Ramesh:Tirumale" pid="37/5123">Tirumale Ramesh</na></co>
+<co c="0"><na f="r/Reilly:Kevin_D=" pid="32/769">Kevin D. Reilly</na></co>
+<co c="0"><na f="r/Robinson:John=Paul" pid="29/6708">John-Paul Robinson</na></co>
+<co c="0"><na f="r/Roychoudhury:Suman" pid="65/1656">Suman Roychoudhury</na></co>
+<co c="0"><na f="s/Sathyanarayana:Pavithran" pid="04/8610">Pavithran Sathyanarayana</na></co>
+<co c="0"><na f="s/Scavo:Tom" pid="52/6993">Tom Scavo</na></co>
+<co c="0"><na f="s/Shanikova:Elena" pid="04/4986">Elena Shanikova</na></co>
+<co c="0"><na f="s/Shuvalov:Eugeny" pid="08/5687">Eugeny Shuvalov</na></co>
+<co c="0"><na f="s/Sims:Sara_A=" pid="223/1790">Sara A. Sims</na></co>
+<co c="0"><na f="s/Skala:Karolj" pid="25/6988">Karolj Skala</na></co>
+<co c="0"><na f="s/Skala:Tibor" pid="68/10233">Tibor Skala</na></co>
+<co c="0"><na f="s/Skjellum:Anthony" pid="40/6558">Anthony Skjellum</na></co>
+<co c="0"><na f="s/Squyres:Jeffrey_M=" pid="79/3928">Jeffrey M. Squyres</na></co>
+<co c="0"><na f="s/Sridharan:Srinivas" pid="13/4967">Srinivas Sridharan</na></co>
+<co c="0"><na f="s/Sun_0002:Yu" pid="62/3689-2">Yu Sun 0002</na></co>
+<co c="0"><na f="t/Thapaliya:Sagar" pid="63/10761">Sagar Thapaliya</na></co>
+<co c="0"><na f="t/Tripathi:Ravi" pid="223/1699">Ravi Tripathi</na></co>
+<co c="0"><na f="v/Vargin:Anatoly" pid="61/5527">Anatoly Vargin</na></co>
+<co c="0"><na f="v/Velusamy:Vijay" pid="66/4772">Vijay Velusamy</na></co>
+<co c="0"><na f="v/Visscher:Kristina_M=" pid="125/4743">Kristina M. Visscher</na></co>
+<co c="0"><na f="w/Wang:Jelai" pid="25/4287">Jelai Wang</na></co>
+<co c="0" n="2"><na f="w/Ward:Lee" pid="30/4898">Lee Ward</na><na>H. Lee Ward</na></co>
+<co c="0"><na f="w/Whittaker:David" pid="09/8319">David Whittaker</na></co>
+<co c="0"><na f="w/Wolf:Michael" pid="69/1015">Michael Wolf</na></co>
+<co c="0"><na f="w/Wooley:Diane_G=" pid="10/4187">Diane G. Wooley</na></co>
+<co c="0"><na f="x/Xiong:Qingqing" pid="184/5924">Qingqing Xiong</na></co>
+<co c="0"><na f="y/Yafchak:Mary_Fran" pid="84/6594">Mary Fran Yafchak</na></co>
+<co c="0"><na f="y/Yan_0001:Da" pid="81/9436-1">Da Yan 0001</na></co>
+<co c="0"><na f="z/Zhang:Chengcui" pid="07/2693">Chengcui Zhang</na></co>
+<co c="0"><na f="z/Zhang_0003:Jing" pid="05/3499-3">Jing Zhang 0003</na></co>
+<co c="0"><na f="z/Zhang_0001:Qizhen" pid="118/5486-1">Qizhen Zhang 0001</na></co>
+<co c="0"><na f="z/Zhou:Song" pid="07/3660">Song Zhou</na></co>
+<co c="0"><na f="z/Zola:Jaric" pid="172/9138">Jaric Zola</na></co>
+</coauthors>
+</dblpperson>
+

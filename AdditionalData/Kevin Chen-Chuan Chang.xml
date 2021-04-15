@@ -1,3 +1,2560 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81408a8d59007e5e238ff71d444226edda928030225913c5f41f1404080c9c19
-size 111442
+<?xml version="1.0"?>
+<dblpperson name="Kevin Chen-Chuan Chang" pid="c/KCCChang" n="156">
+<person key="homepages/c/KCCChang" mdate="2019-10-04">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="c/KCCChang">Kevin Chang 0001</author>
+<note type="affiliation">University of Illinois, Urbana Champaign, IL, USA</note>
+<url>http://www.forwarddatalab.org/kevinccchang</url>
+<url>https://cs.illinois.edu/directory/profile/kcchang</url>
+<url>https://scholar.google.com/citations?user=sugWZ6MAAAAJ</url>
+<url>https://ieeexplore.ieee.org/author/37292348800</url>
+</person>
+<homonyms n="1">
+<h f="c/Chang:Kevin"><person publtype="disambiguation" key="homepages/69/5103" mdate="2018-08-05">
+<author pid="69/5103">Kevin Chang</author>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pvldb/0009CCSMC21" mdate="2021-03-23">
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="251/5251">Chenhao Ma</author>
+<author pid="276/5053">Hongtai Cao</author>
+<title>On Analyzing Graphs with Motif-Paths.</title>
+<pages>1111-1123</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1111-li.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#0009CCSMC21</url>
+</article>
+</r>
+<r><article key="journals/tkde/FangLZWSCL21" mdate="2020-12-31">
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author orcid="0000-0003-4741-801X" pid="121/4164">Wenqing Lin</author>
+<author orcid="0000-0002-0904-3184" pid="47/1961">Vincent W. Zheng</author>
+<author orcid="0000-0003-0977-3600" pid="16/0-8">Min Wu 0008</author>
+<author orcid="0000-0002-9675-3036" pid="197/7234">Jiaqi Shi</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<title>Metagraph-Based Learning on Heterogeneous Graphs.</title>
+<pages>154-168</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2922956</ee>
+<url>db/journals/tkde/tkde33.html#FangLZWSCL21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/LiCNCHC20" mdate="2021-03-23">
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="276/5051">Matin Najafi</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="57/10423">Xiaolin Han</author>
+<author pid="276/5053">Hongtai Cao</author>
+<title>M-Cypher: A GQL Framework Supporting Motifs.</title>
+<pages>3433-3436</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3417440</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#LiCNCHC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/HuangWCHX20" mdate="2021-01-21">
+<author orcid="0000-0003-2197-2469" pid="29/6643-9">Jie Huang 0009</author>
+<author pid="42/898">Zilong Wang</author>
+<author pid="c/KCCChang">Kevin Chang 0001</author>
+<author pid="03/4630">Wen-Mei Hwu</author>
+<author pid="81/1130">Jinjun Xiong</author>
+<title>Exploring Semantic Capacity of Terms.</title>
+<pages>8509-8518</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.684</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.emnlp-main.684/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#HuangWCHX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiCHFOLC020" mdate="2020-09-05">
+<author pid="217/3887">Boxuan Li</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="173/1958">Min Ou</author>
+<author orcid="0000-0001-9711-6533" pid="55/11133">Ruibang Luo</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>MC-Explorer: Analyzing and Visualizing Motif-Cliques on Large Networks.</title>
+<pages>1722-1725</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00154</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#LiCHFOLC020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ChenCC20" mdate="2021-02-17">
+<author pid="12/1713">Zhijie Chen</author>
+<author pid="276/5053">Hongtai Cao</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>GraphEBM: Energy-based Graph Construction for Semi-Supervised Learning.</title>
+<pages>62-71</pages>
+<year>2020</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM50108.2020.00015</ee>
+<crossref>conf/icdm/2020</crossref>
+<url>db/conf/icdm/icdm2020.html#ChenCC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/PeiWCLY20" mdate="2021-02-10">
+<author pid="157/2982">Hongbin Pei</author>
+<author pid="258/4905">Bingzhe Wei</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="284/8639-4">Yu Lei 0004</author>
+<author pid="46/999-2">Bo Yang 0002</author>
+<title>Geom-GCN: Geometric Graph Convolutional Networks.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=S1e2agrFvS</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#PeiWCLY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/PeiW0ZY20" mdate="2021-01-19">
+<author pid="157/2982">Hongbin Pei</author>
+<author pid="258/4905">Bingzhe Wei</author>
+<author pid="c/KCCChang">Kevin Chang 0001</author>
+<author pid="192/1046">Chunxu Zhang</author>
+<author pid="46/999">Bo Yang</author>
+<title>Curvature Regularization to Prevent Distortion in Graph Embedding.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/eeb29740e8e9bcf14dc26c2fff8cca81-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#PeiW0ZY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/JavariHHRC20" mdate="2020-05-06">
+<author pid="146/3335">Amin Javari</author>
+<author pid="222/1220">Zhankui He</author>
+<author pid="246/8147">Zijie Huang</author>
+<author pid="234/7834">Jeetu Raj</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Weakly Supervised Attention for Hashtag Recommendation using Graph Data.</title>
+<pages>1038-1048</pages>
+<year>2020</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3366423.3380182</ee>
+<crossref>conf/www/2020</crossref>
+<url>db/conf/www/www2020.html#JavariHHRC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/JavariDETC20" mdate="2020-05-06">
+<author pid="146/3335">Amin Javari</author>
+<author pid="207/7927">Tyler Derr</author>
+<author pid="154/6695">Pouya Esmailian</author>
+<author pid="64/10812">Jiliang Tang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>ROSE: Role-based Signed Network Embedding.</title>
+<pages>2782-2788</pages>
+<year>2020</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3366423.3380038</ee>
+<crossref>conf/www/2020</crossref>
+<url>db/conf/www/www2020.html#JavariDETC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-05287" mdate="2021-02-10">
+<author pid="157/2982">Hongbin Pei</author>
+<author pid="258/4905">Bingzhe Wei</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="284/8639-4">Yu Lei 0004</author>
+<author pid="46/999-2">Bo Yang 0002</author>
+<title>Geom-GCN: Geometric Graph Convolutional Networks.</title>
+<year>2020</year>
+<volume>abs/2002.05287</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.05287</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-05287</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-02452" mdate="2020-09-01">
+<author pid="26/1492-1">Chaochao Chen 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="79/9746">Qibing Li</author>
+<author pid="09/5763">Xiaolin Zheng</author>
+<title>Semi-supervised Learning Meets Factorization: Learning to Recommend with Chain Graph Model.</title>
+<year>2020</year>
+<volume>abs/2003.02452</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.02452</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-02452</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-01898" mdate="2020-12-14">
+<author pid="29/6643-9">Jie Huang 0009</author>
+<author pid="42/898">Zilong Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="03/4630">Wen-Mei Hwu</author>
+<author pid="81/1130">Jinjun Xiong</author>
+<title>Exploring Semantic Capacity of Terms.</title>
+<year>2020</year>
+<volume>abs/2010.01898</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.01898</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-01898</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14211" mdate="2020-12-01">
+<author pid="157/2982">Hongbin Pei</author>
+<author pid="258/4905">Bingzhe Wei</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="192/1046">Chunxu Zhang</author>
+<author pid="46/999">Bo Yang</author>
+<title>Curvature Regularization to Prevent Distortion in Graph Embedding.</title>
+<year>2020</year>
+<volume>abs/2011.14211</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14211</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14211</url>
+</article>
+</r>
+<r><article key="journals/cim/CavallariCCCZ19" mdate="2020-03-27">
+<author pid="188/6085">Sandro Cavallari</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<author pid="247/9265">HongYun Cai</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<title>Embedding Both Finite and Infinite Communities on Graphs [Application Notes].</title>
+<pages>39-50</pages>
+<year>2019</year>
+<volume>14</volume>
+<journal>IEEE Comput. Intell. Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MCI.2019.2919396</ee>
+<url>db/journals/cim/cim14.html#CavallariCCCZ19</url>
+</article>
+</r>
+<r><article key="journals/tkde/CaoC19" mdate="2019-02-27">
+<author orcid="0000-0002-3793-6844" pid="43/3527">Hong Cao</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Nonintrusive Smartphone User Verification Using Anonymized Multimodal Data.</title>
+<pages>479-492</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2828309</ee>
+<url>db/journals/tkde/tkde31.html#CaoC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/SankarZC19" mdate="2020-01-19">
+<author pid="175/5341">Aravind Sankar</author>
+<author pid="29/2669">Xinyang Zhang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Meta-GNN: metagraph neural network for semi-supervised learning in attributed heterogeneous information networks.</title>
+<pages>137-144</pages>
+<year>2019</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1145/3341161.3342859</ee>
+<crossref>conf/asunam/2019</crossref>
+<url>db/conf/asunam/asonam2019.html#SankarZC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/KumarGWCS19" mdate="2020-09-05">
+<author pid="139/3283">Suhansanu Kumar</author>
+<author pid="241/5964">Heting Gao</author>
+<author pid="41/4471">Changyu Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0003-3315-6055" pid="s/HariSundaram">Hari Sundaram</author>
+<title>Hierarchical multi-armed bandits for discovering hidden populations.</title>
+<pages>145-153</pages>
+<year>2019</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1145/3341161.3342880</ee>
+<crossref>conf/asunam/2019</crossref>
+<url>db/conf/asunam/asonam2019.html#KumarGWCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HuCCSFL19" mdate="2019-06-11">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="175/5341">Aravind Sankar</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="164/9028">Brian Y. H. Lam</author>
+<title>Discovering Maximal Motif Cliques in Large Heterogeneous Information Networks.</title>
+<pages>746-757</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00072</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#HuCCSFL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BendreWRMLZLYZC19" mdate="2019-06-11">
+<author pid="166/8365">Mangesh Bendre</author>
+<author pid="213/7854">Tana Wattanawaroon</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="213/7327">Kelly Mack</author>
+<author pid="75/6589">Yuyang Liu</author>
+<author pid="242/5186">Shichu Zhu</author>
+<author pid="09/2321">Yu Lu</author>
+<author pid="176/4132">Ping-Jing Yang</author>
+<author pid="166/8402">Xinyan Zhou</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="64/4500">Karrie Karahalios</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>Faster, Higher, Stronger: Redesigning Spreadsheets for Scale.</title>
+<pages>1972-1975</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00217</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#BendreWRMLZLYZC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/YangC19" mdate="2019-10-04">
+<author pid="162/0187">Carl Yang</author>
+<author pid="c/KCCChang">Kevin Chang 0001</author>
+<title>Relationship Profiling over Social Networks: Reverse Smoothness from Similarity to Closeness.</title>
+<pages>342-350</pages>
+<year>2019</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611975673.39</ee>
+<crossref>conf/sdm/2019</crossref>
+<url>db/conf/sdm/sdm2019.html#YangC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BendreWMCP19" mdate="2019-10-04">
+<author pid="166/8365">Mangesh Bendre</author>
+<author pid="213/7854">Tana Wattanawaroon</author>
+<author pid="213/7327">Kelly Mack</author>
+<author pid="c/KCCChang">Kevin Chang 0001</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>Anti-Freeze for Large and Complex Spreadsheets: Asynchronous Formula Computation.</title>
+<pages>1277-1294</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319876</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#BendreWMCP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-04505" mdate="2019-05-28">
+<author pid="139/3283">Suhansanu Kumar</author>
+<author pid="241/5964">Heting Gao</author>
+<author pid="41/4471">Changyu Wang</author>
+<author pid="s/HariSundaram">Hari Sundaram</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Mining Hidden Populations through Attributed Search.</title>
+<year>2019</year>
+<volume>abs/1905.04505</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.04505</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-04505</url>
+</article>
+</r>
+<r><article key="journals/ijmi/HoangLPZCRL18" mdate="2020-10-26">
+<author pid="159/1950">Tao Hoang</author>
+<author pid="l/JixueLiu">Jixue Liu</author>
+<author orcid="0000-0001-8730-8910" pid="168/7356">Nicole Pratt</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="184/9853">Elizabeth Roughead</author>
+<author orcid="0000-0002-9023-1878" pid="20/1583">Jiuyong Li</author>
+<title>Authenticity and credibility aware detection of adverse drug events from social media.</title>
+<pages>101-115</pages>
+<year>2018</year>
+<volume>120</volume>
+<journal>Int. J. Medical Informatics</journal>
+<ee>https://doi.org/10.1016/j.ijmedinf.2018.09.002</ee>
+<ee>https://www.wikidata.org/entity/Q58549425</ee>
+<url>db/journals/ijmi/ijmi120.html#HoangLPZCRL18</url>
+</article>
+</r>
+<r><article key="journals/ijmi/HoangLPZCRL18a" mdate="2020-10-26">
+<author orcid="0000-0002-5137-6214" pid="159/1950">Tao Hoang</author>
+<author pid="l/JixueLiu">Jixue Liu</author>
+<author orcid="0000-0001-8730-8910" pid="168/7356">Nicole Pratt</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="184/9853">Elizabeth Roughead</author>
+<author orcid="0000-0002-9023-1878" pid="20/1583">Jiuyong Li</author>
+<title>Authenticity and credibility aware detection of adverse drug events from social media.</title>
+<pages>157-171</pages>
+<year>2018</year>
+<volume>120</volume>
+<journal>Int. J. Medical Informatics</journal>
+<ee>https://doi.org/10.1016/j.ijmedinf.2018.10.003</ee>
+<url>db/journals/ijmi/ijmi120.html#HoangLPZCRL18a</url>
+</article>
+</r>
+<r><article key="journals/tkdd/ChenCLZ18" mdate="2020-10-26">
+<author orcid="0000-0003-1419-964X" pid="26/1492-1">Chaochao Chen 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="79/9746">Qibing Li</author>
+<author pid="09/5763">Xiaolin Zheng</author>
+<title>Semi-supervised Learning Meets Factorization: Learning to Recommend with Chain Graph Model.</title>
+<pages>73:1-73:24</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3264745</ee>
+<url>db/journals/tkdd/tkdd12.html#ChenCLZ18</url>
+</article>
+</r>
+<r><article key="journals/tkde/CaiZC18" mdate="2018-08-11">
+<author orcid="0000-0001-5853-2841" pid="247/9265">HongYun Cai</author>
+<author orcid="0000-0002-0904-3184" pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications.</title>
+<pages>1616-1637</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2807452</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2018.2807452</ee>
+<url>db/journals/tkde/tkde30.html#CaiZC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiuZZZCWY18" mdate="2021-02-18">
+<author pid="36/6192">Zemin Liu</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="96/6668">Fanwei Zhu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="97/6864">Minghui Wu</author>
+<author pid="46/136">Jing Ying</author>
+<title>Distance-Aware DAG Embedding for Proximity Search on Heterogeneous Graphs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16770</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuZZZCWY18</url>
+<pages>2355-2362</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/Mack0CKP18" mdate="2019-07-30">
+<author pid="213/7327">Kelly Mack</author>
+<author pid="34/5858-5">John Lee 0005</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="64/4500">Karrie Karahalios</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>Characterizing Scalability Issues in Spreadsheet Software using Online Forums.</title>
+<year>2018</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3170427.3174359</ee>
+<crossref>conf/chi/2018a</crossref>
+<url>db/conf/chi/chi2018a.html#Mack0CKP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BendreVZCP18" mdate="2019-07-30">
+<author pid="166/8365">Mangesh Bendre</author>
+<author pid="188/6180">Vipul Venkataraman</author>
+<author pid="166/8402">Xinyan Zhou</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>Towards a Holistic Integration of Spreadsheets with Databases: A Scalable Storage Engine for Presentational Data Management.</title>
+<pages>113-124</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00020</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00020</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#BendreVZCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/Zheng0LYFZTC18" mdate="2021-02-23">
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="70/5884-2">Mo Sha 0002</author>
+<author orcid="0000-0001-9646-291X" pid="143/0258-1">Yuchen Li 0001</author>
+<author pid="69/3036">Hongxia Yang</author>
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="93/4085">Zhenjie Zhang</author>
+<author pid="t/KianLeeTan">Kian-Lee Tan</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Heterogeneous Embedding Propagation for Large-Scale E-Commerce User Alignment.</title>
+<pages>1434-1439</pages>
+<year>2018</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2018.00198</ee>
+<crossref>conf/icdm/2018</crossref>
+<url>db/conf/icdm/icdm2018.html#Zheng0LYFZTC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiuZZYCWY18" mdate="2018-11-21">
+<author pid="36/6192">Zemin Liu</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="69/3036">Hongxia Yang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="97/6864">Minghui Wu</author>
+<author pid="46/136">Jing Ying</author>
+<title>Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network.</title>
+<pages>1613-1622</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3186073</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#LiuZZYCWY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MaCCDXC18" mdate="2020-08-13">
+<author pid="166/0023">Denghao Ma</author>
+<author pid="40/3980">Yueguo Chen</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<author pid="80/7820">Chuanfei Xu</author>
+<author pid="02/5438">Yi Chang 0001</author>
+<title>Leveraging Fine-Grained Wikipedia Categories for Entity Search.</title>
+<pages>1623-1632</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3186074</ee>
+<ee>https://www.wikidata.org/entity/Q87832933</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#MaCCDXC18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Chang18" mdate="2019-07-30">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Deep-Web Search.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_188</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#Chang18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-03829" mdate="2019-07-30">
+<author pid="213/7327">Kelly Mack</author>
+<author pid="34/5858-5">John Lee 0005</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="64/4500">Karrie Karahalios</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>Characterizing Scalability Issues in Spreadsheet Software using Online Forums.</title>
+<year>2018</year>
+<volume>abs/1801.03829</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.03829</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-03829</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-06265" mdate="2018-08-13">
+<author pid="146/3335">Amin Javari</author>
+<author pid="209/7361">Hongxiang Qiu</author>
+<author pid="211/2852">Elham Barzegaran</author>
+<author pid="21/5241">Mahdi Jalili</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Statistical Link Label Modeling for Sign Prediction: Smoothing Sparsity by Joining Local and Global Information.</title>
+<year>2018</year>
+<volume>abs/1802.06265</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.06265</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-06265</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CaiZZCH17" mdate="2020-04-25">
+<author pid="247/9265">HongYun Cai</author>
+<author pid="47/1961">Vincent Wenchen Zheng</author>
+<author pid="96/6668">Fanwei Zhu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0002-9738-4949" pid="70/6862">Zi Huang</author>
+<title>From Community Detection to Community Profiling.</title>
+<pages>817-828</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p817-zheng.pdf</ee>
+<ee>https://doi.org/10.14778/3067421.3067430</ee>
+<url>db/journals/pvldb/pvldb10.html#CaiZZCH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiuZZZCWY17" mdate="2021-02-10">
+<author pid="36/6192">Zemin Liu</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="75/7785">Zhou Zhao</author>
+<author pid="96/6668">Fanwei Zhu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="97/6864">Minghui Wu</author>
+<author pid="46/136">Jing Ying</author>
+<title>Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.</title>
+<pages>154-160</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14508</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuZZZCWY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/CavallariZCCC17" mdate="2018-11-14">
+<author pid="188/6085">Sandro Cavallari</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="247/9265">HongYun Cai</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<title>Learning Community Embedding with Community Detection and Node Embedding on Graphs.</title>
+<pages>377-386</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132925</ee>
+<ee>https://www.wikidata.org/entity/Q57727555</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#CavallariZCCC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CaiZCZCH17" mdate="2019-09-25">
+<author pid="247/9265">HongYun Cai</author>
+<author pid="47/1961">Vincent Wenchen Zheng</author>
+<author pid="04/11514">Penghe Chen</author>
+<author pid="96/6668">Fanwei Zhu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0002-9738-4949" pid="70/6862">Zi Huang</author>
+<title>SocialLens: Searching and Browsing Communities by Content and Interaction.</title>
+<pages>1397-1398</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.194</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.194</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#CaiZCZCH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/WangZLC17" mdate="2018-01-23">
+<author pid="58/6299">Jia Wang</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="36/6192">Zemin Liu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Topological Recurrent Neural Network for Diffusion Prediction.</title>
+<pages>475-484</pages>
+<year>2017</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2017.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2017.57</ee>
+<crossref>conf/icdm/2017</crossref>
+<url>db/conf/icdm/icdm2017.html#WangZLC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/JavariQBJC17" mdate="2019-09-25">
+<author pid="146/3335">Amin Javari</author>
+<author pid="209/7361">Hongxiang Qiu</author>
+<author pid="211/2852">Elham Barzegaran</author>
+<author orcid="0000-0002-0517-9420" pid="21/5241">Mahdi Jalili</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Statistical Link Label Modeling for Sign Prediction: Smoothing Sparsity by Joining Local and Global Information.</title>
+<pages>1039-1044</pages>
+<year>2017</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2017.135</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2017.135</ee>
+<crossref>conf/icdm/2017</crossref>
+<url>db/conf/icdm/icdm2017.html#JavariQBJC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CaiZZCH17" mdate="2018-08-13">
+<author pid="247/9265">HongYun Cai</author>
+<author pid="47/1961">Vincent Wenchen Zheng</author>
+<author pid="96/6668">Fanwei Zhu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="70/6862">Zi Huang</author>
+<title>From Community Detection to Community Profiling.</title>
+<year>2017</year>
+<volume>abs/1701.04528</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.04528</ee>
+<url>db/journals/corr/corr1701.html#CaiZZCH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CaiZC17" mdate="2018-08-13">
+<author pid="247/9265">HongYun Cai</author>
+<author pid="47/1961">Vincent Wenchen Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Active Learning for Graph Embedding.</title>
+<year>2017</year>
+<volume>abs/1705.05085</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.05085</ee>
+<url>db/journals/corr/corr1705.html#CaiZC17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-06712" mdate="2018-08-13">
+<author pid="166/8365">Mangesh Bendre</author>
+<author pid="188/6180">Vipul Venkataraman</author>
+<author pid="166/8402">Xinyan Zhou</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>Towards a Holistic Integration of Spreadsheets with Databases: A Scalable Storage Engine for Presentational Data Management.</title>
+<year>2017</year>
+<volume>abs/1708.06712</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.06712</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-06712</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-01554" mdate="2018-08-13">
+<author pid="162/0187">Carl Yang</author>
+<author pid="39/6752">Hanqing Lu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>CONE: Community Oriented Network Embedding.</title>
+<year>2017</year>
+<volume>abs/1709.01554</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.01554</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-01554</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-07604" mdate="2018-08-13">
+<author pid="247/9265">HongYun Cai</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.</title>
+<year>2017</year>
+<volume>abs/1709.07604</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.07604</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-07604</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-01363" mdate="2018-08-13">
+<author pid="162/0187">Carl Yang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Relationship Profiling over Social Networks: Reverse Smoothness from Similarity to Closeness.</title>
+<year>2017</year>
+<volume>abs/1710.01363</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.01363</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-01363</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-05697" mdate="2018-08-13">
+<author pid="175/5341">Aravind Sankar</author>
+<author pid="29/2669">Xinyang Zhang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Motif-based Convolutional Neural Network on Graphs.</title>
+<year>2017</year>
+<volume>abs/1711.05697</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.05697</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-05697</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-10162" mdate="2018-08-13">
+<author pid="58/6299">Jia Wang</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="36/6192">Zemin Liu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Topological Recurrent Neural Network for Diffusion Prediction.</title>
+<year>2017</year>
+<volume>abs/1711.10162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.10162</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-10162</url>
+</article>
+</r>
+<r><article key="journals/artmed/HoangLPZCRL16" mdate="2020-02-20">
+<author pid="159/1950">Tao Hoang</author>
+<author orcid="0000-0002-0794-0404" pid="l/JixueLiu">Jixue Liu</author>
+<author orcid="0000-0001-8730-8910" pid="168/7356">Nicole Pratt</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="184/9853">Elizabeth Roughead</author>
+<author orcid="0000-0002-9023-1878" pid="20/1583">Jiuyong Li</author>
+<title>Detecting signals of detrimental prescribing cascades from social media.</title>
+<pages>43-56</pages>
+<year>2016</year>
+<volume>71</volume>
+<journal>Artif. Intell. Medicine</journal>
+<ee>https://doi.org/10.1016/j.artmed.2016.06.002</ee>
+<ee>https://www.wikidata.org/entity/Q39507393</ee>
+<url>db/journals/artmed/artmed71.html#HoangLPZCRL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZhengCGALC16" mdate="2021-02-10">
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="43/3527">Hong Cao</author>
+<author pid="63/7642">Shenghua Gao</author>
+<author pid="175/5549">Aditi Adhikari</author>
+<author pid="125/3930">Miao Lin</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Cold-Start Heterogeneous-Device Wireless Localization.</title>
+<pages>1429-1435</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11842</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhengCGALC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ZhengC16" mdate="2018-11-06">
+<author pid="47/1961">Vincent Wenchen Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Regularizing Structured Classifier with Conditional Probabilistic Constraints for Semi-supervised Learning.</title>
+<pages>1029-1038</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983860</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#ZhengC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangLZWCL16" mdate="2021-04-09">
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="121/4164">Wenqing Lin</author>
+<author pid="47/1961">Vincent Wenchen Zheng</author>
+<author orcid="0000-0003-0977-3600" pid="16/0-8">Min Wu 0008</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0002-0762-6562" pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<title>Semantic proximity search on graphs with metagraph-based learning.</title>
+<pages>277-288</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498247</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498247</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#FangLZWCL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangZC16" mdate="2019-08-31">
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Learning to query: Focused web page harvesting for entity aspects.</title>
+<pages>1002-1013</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498308</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498308</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#FangZC16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhengCCCC16" mdate="2018-08-13">
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="188/6085">Sandro Cavallari</author>
+<author pid="247/9265">HongYun Cai</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="80/7421">Erik Cambria</author>
+<title>From Node Embedding To Community Embedding.</title>
+<year>2016</year>
+<volume>abs/1610.09950</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.09950</ee>
+<url>db/journals/corr/corr1610.html#ZhengCCCC16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BendreSZZCP15" mdate="2020-04-25">
+<author pid="166/8365">Mangesh Bendre</author>
+<author pid="166/8388">Bofan Sun</author>
+<author pid="36/5080">Ding Zhang</author>
+<author pid="166/8402">Xinyan Zhou</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="40/7459">Aditya G. Parameswaran</author>
+<title>DATASPREAD: Unifying Databases and Spreadsheets.</title>
+<pages>2000-2003</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2000-bendre.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824121</ee>
+<url>db/journals/pvldb/pvldb8.html#BendreSZZCP15</url>
+</article>
+</r>
+<r><article key="journals/vldb/ZhuFCY15" mdate="2019-08-31">
+<author pid="96/6668">Fanwei Zhu</author>
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="46/136">Jing Ying</author>
+<title>Scheduled approximation for Personalized PageRank with Utility-based Hub Selection.</title>
+<pages>655-679</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-014-0376-8</ee>
+<url>db/journals/vldb/vldb24.html#ZhuFCY15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigcomp/LinCZCK15" mdate="2017-05-26">
+<author pid="125/3930">Miao Lin</author>
+<author pid="43/3527">Hong Cao</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="k/ShonaliKrishnaswamy">Shonali Krishnaswamy</author>
+<title>Mobile user verification/identification using statistical mobility profile.</title>
+<pages>15-18</pages>
+<year>2015</year>
+<booktitle>BigComp</booktitle>
+<ee>https://doi.org/10.1109/35021BIGCOMP.2015.7072841</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/35021BIGCOMP.2015.7072841</ee>
+<crossref>conf/bigcomp/2015</crossref>
+<url>db/conf/bigcomp/bigcomp2015.html#LinCZCK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/AdhikariZCLFC15" mdate="2019-08-31">
+<author pid="175/5549">Aditi Adhikari</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="43/3527">Hong Cao</author>
+<author pid="125/3930">Miao Lin</author>
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>IntelligShop: Enabling Intelligent Shopping in Malls through Location-Based Augmented Reality.</title>
+<pages>1604-1607</pages>
+<year>2015</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2015.103</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.103</ee>
+<crossref>conf/icdm/2015w</crossref>
+<url>db/conf/icdm/icdm2015w.html#AdhikariZCLFC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LinCZCK15" mdate="2019-08-20">
+<author pid="125/3930">Miao Lin</author>
+<author pid="43/3527">Hong Cao</author>
+<author pid="47/1961">Vincent W. Zheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="k/ShonaliKrishnaswamy">Shonali Krishnaswamy</author>
+<title>Mobility Profiling for User Verification with Anonymized Location Data.</title>
+<pages>960-966</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/140</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#LinCZCK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ucc/YaoCC15" mdate="2016-05-11">
+<author pid="123/5999">Fangzhou Yao</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<title>Ushio: Analyzing News Media and Public Trends in Twitter.</title>
+<pages>424-429</pages>
+<year>2015</year>
+<booktitle>UCC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/UCC.2015.76</ee>
+<crossref>conf/ucc/2015</crossref>
+<url>db/conf/ucc/ucc2015.html#YaoCC15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangCS15" mdate="2018-08-13">
+<author pid="58/6299">Jia Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="s/HariSundaram">Hari Sundaram</author>
+<title>Network Cartography: Seeing the Forest and the Trees.</title>
+<year>2015</year>
+<volume>abs/1512.06021</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.06021</ee>
+<url>db/journals/corr/corr1512.html#WangCS15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Chang14" mdate="2020-04-25">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Front Matter.</title>
+<pages>i-x</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/FrontMatterVol8No2.pdf</ee>
+<url>db/journals/pvldb/pvldb8.html#Chang14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ZhangXCGHW14" mdate="2021-01-29">
+<author pid="142/9150">Aston Zhang</author>
+<author pid="08/6809-1">Xing Xie 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/CarlAGunter">Carl A. Gunter</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="06/6268">XiaoFeng Wang 0001</author>
+<title>Privacy Risk in Anonymized Heterogeneous Information Networks.</title>
+<pages>595-606</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.53</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#ZhangXCGHW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/FangCL14" mdate="2019-08-31">
+<author pid="22/981-1">Yuan Fang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="00/2494">Hady Wirawan Lauw</author>
+<title>Graph-based Semi-supervised Learning: Realizing Pointwise Smoothness Probabilistically.</title>
+<pages>406-414</pages>
+<year>2014</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v32/fang14.html</ee>
+<crossref>conf/icml/2014</crossref>
+<url>db/conf/icml/icml2014.html#FangCL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ZhouC14" mdate="2018-11-06">
+<author pid="18/5844">Mianwei Zhou</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Unifying learning to rank and domain adaptation: enabling cross-task document scoring.</title>
+<pages>781-790</pages>
+<year>2014</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2623330.2623739</ee>
+<crossref>conf/kdd/2014</crossref>
+<url>db/conf/kdd/kdd2014.html#ZhouC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/GuptaLC14" mdate="2018-11-06">
+<author pid="g/ManishGupta1">Manish Gupta 0001</author>
+<author pid="96/4282">Rui Li</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Towards a social media analytics platform: event detection and user profiling for twitter.</title>
+<pages>193-194</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2577264</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#GuptaLC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiWC14" mdate="2018-11-06">
+<author pid="96/4282">Rui Li</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>User profiling in an ego network: co-profiling attributes and relationships.</title>
+<pages>819-830</pages>
+<year>2014</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2566486.2568045</ee>
+<crossref>conf/www/2014</crossref>
+<url>db/conf/www/www2014.html#LiWC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ZhuFCY13" mdate="2020-04-25">
+<author pid="96/6668">Fanwei Zhu</author>
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="46/136">Jing Ying</author>
+<title>Incremental and Accuracy-Aware Personalized PageRank through Scheduled Approximation.</title>
+<pages>481-492</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p481-zhu.pdf</ee>
+<ee>https://doi.org/10.14778/2536336.2536348</ee>
+<url>db/journals/pvldb/pvldb6.html#ZhuFCY13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiWC13" mdate="2020-04-25">
+<author pid="96/4282">Rui Li</author>
+<author pid="90/10765">Shengjie Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Towards Social Data Platform: Automatic Topic-focused Monitor for Twitter Stream.</title>
+<pages>1966-1977</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1966-rui.pdf</ee>
+<ee>https://doi.org/10.14778/2556549.2556577</ee>
+<url>db/journals/pvldb/pvldb6.html#LiWC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ZhouC13" mdate="2018-11-06">
+<author pid="18/5844">Mianwei Zhou</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Entity-centric document filtering: boosting feature mapping through meta-features.</title>
+<pages>119-128</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505683</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#ZhouC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangCL13" mdate="2020-12-29">
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0002-8245-8677" pid="00/2494">Hady Wirawan Lauw</author>
+<title>RoundTripRank: Graph-based proximity with importance and specificity?</title>
+<pages>613-624</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544860</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544860</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#FangCL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhouWC13" mdate="2017-05-17">
+<author pid="18/5844">Mianwei Zhou</author>
+<author pid="05/6545">Hongning Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Learning to rank from distant supervision: Exploiting noisy redundancy for relational entity search.</title>
+<pages>829-840</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544878</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544878</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#ZhouWC13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LiC13a" mdate="2018-08-13">
+<author pid="96/4282">Rui Li</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>EgoNet-UIUC: A Dataset For Ego Network Research.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.4157</ee>
+<volume>abs/1309.4157</volume>
+<url>db/journals/corr/corr1309.html#LiC13a</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiWC12" mdate="2020-04-25">
+<author pid="96/4282">Rui Li</author>
+<author pid="90/10765">Shengjie Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Multiple Location Profiling for Users and Relationships from Social Network and Content.</title>
+<pages>1603-1614</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1603_ruili_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350273</ee>
+<url>db/journals/pvldb/pvldb5.html#LiWC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LiLKC12" mdate="2017-05-17">
+<author pid="96/4282">Rui Li</author>
+<author pid="116/5128">Kin Hou Lei</author>
+<author pid="116/5161">Ravi Khadiwala</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>TEDAS: A Twitter-based Event Detection and Analysis System.</title>
+<pages>1273-1276</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.125</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.125</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#LiLKC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/LiWDWC12" mdate="2018-11-06">
+<author pid="96/4282">Rui Li</author>
+<author pid="90/10765">Shengjie Wang</author>
+<author pid="09/43">Hongbo Deng</author>
+<author pid="06/2293">Rui Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Towards social user profiling: unified and discriminative influence model for inferring home locations.</title>
+<pages>1023-1031</pages>
+<year>2012</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2339530.2339692</ee>
+<crossref>conf/kdd/2012</crossref>
+<url>db/conf/kdd/kdd2012.html#LiWDWC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/FangHC12" mdate="2019-08-31">
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="12/4891">Bo-June Paul Hsu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Confidence-aware graph regularization with heterogeneous pairwise features.</title>
+<pages>951-960</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348410</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#FangHC12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0288" mdate="2018-08-13">
+<author pid="96/4282">Rui Li</author>
+<author pid="90/10765">Shengjie Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Multiple Location Profiling for Users and Relationships from Social Network and Content</title>
+<ee type="oa">http://arxiv.org/abs/1208.0288</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0288</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0288</url>
+</article>
+</r>
+<r><inproceedings key="conf/wsdm/FangC11" mdate="2019-08-31">
+<author orcid="0000-0002-4265-5289" pid="22/981-1">Yuan Fang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Searching patterns for relation extraction over the web: rediscovering the pattern-relation duality.</title>
+<pages>825-834</pages>
+<year>2011</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/1935826.1935933</ee>
+<crossref>conf/wsdm/2011</crossref>
+<url>db/conf/wsdm/wsdm2011.html#FangC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jamia/ChangOHW10" mdate="2021-01-14">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0003-0223-0195" pid="92/1570">J. Marc Overhage</author>
+<author pid="90/7309">Siu L. Hui</author>
+<author pid="11/8033">Martin Chieng Were</author>
+<title>Case report: Enhancing laboratory report contents to improve outpatient management of test results.</title>
+<pages>99-103</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>J. Am. Medical Informatics Assoc.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1197/jamia.M3391</ee>
+<ee>https://www.wikidata.org/entity/Q41320192</ee>
+<url>db/journals/jamia/jamia17.html#ChangOHW10</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ChengC10" mdate="2018-11-06">
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Beyond pages: supporting efficient, scalable entity search with dual-inversion index.</title>
+<pages>15-26</pages>
+<year>2010</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1739041.1739047</ee>
+<crossref>conf/edbt/2010</crossref>
+<url>db/conf/edbt/edbt2010.html#ChengC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengC10" mdate="2018-07-06">
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Toward large scale data-aware search: Ranking, indexing, resolution and beyond.</title>
+<pages>297-300</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452729</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452729</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#ChengC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhouCC10" mdate="2018-11-06">
+<author pid="18/5844">Mianwei Zhou</author>
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>DoCQS: a prototype system for supporting data-oriented content query.</title>
+<pages>1211-1214</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807321</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#ZhouCC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/ZhouCC10" mdate="2018-11-06">
+<author pid="18/5844">Mianwei Zhou</author>
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Data-oriented content query system: searching for data into text on the web.</title>
+<pages>121-130</pages>
+<year>2010</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/1718487.1718503</ee>
+<crossref>conf/wsdm/2010</crossref>
+<url>db/conf/wsdm/wsdm2010.html#ZhouCC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/AgarwalKC10" mdate="2018-11-06">
+<author pid="98/837">Ganesh Agarwal</author>
+<author pid="09/3999">Govind Kabra</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Towards rich query interpretation: walking back and forth for mining query templates.</title>
+<pages>1-10</pages>
+<year>2010</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1772690.1772692</ee>
+<crossref>conf/www/2010</crossref>
+<url>db/conf/www/www2010.html#AgarwalKC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/JiangYCC09" mdate="2018-11-06">
+<author pid="32/227">Yunliang Jiang</author>
+<author pid="31/7118">Hui-Ting Yang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="27/3795">Yi-Shin Chen</author>
+<title>AIDE: ad-hoc intents detection engine over query logs.</title>
+<pages>1091-1094</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559990</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#JiangYCC09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Chang09" mdate="2017-07-12">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Deep-Web Search.</title>
+<pages>784-788</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_188</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#Chang09</url>
+</incollection>
+</r>
+<r><article key="journals/tods/SolimanIC08" mdate="2018-11-14">
+<author pid="07/1330">Mohamed A. Soliman</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Probabilistic top-<i>k</i> and ranking-aggregate queries.</title>
+<year>2008</year>
+<volume>33</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1386118.1386119</ee>
+<ee>https://www.wikidata.org/entity/Q56649823</ee>
+<url>db/journals/tods/tods33.html#SolimanIC08</url>
+<pages>13:1-13:54</pages>
+</article>
+</r>
+<r><article key="journals/vldb/MitraWHC08" mdate="2017-05-28">
+<author pid="95/2771">Soumyadeb Mitra</author>
+<author pid="w/MarianneWinslett">Marianne Winslett</author>
+<author pid="24/268">Windsor W. Hsu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Trustworthy keyword search for compliance storage.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>2</number>
+<pages>225-242</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-007-0069-7</ee>
+<url>db/journals/vldb/vldb17.html#MitraWHC08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ChuangC08" mdate="2018-11-06">
+<author pid="20/3806">Shui-Lung Chuang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Integrating web query results: holistic schema matching.</title>
+<pages>33-42</pages>
+<year>2008</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1458082.1458090</ee>
+<crossref>conf/cikm/2008</crossref>
+<url>db/conf/cikm/cikm2008.html#ChuangC08</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/HePZC07" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="32/1423">Mitesh Patel</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Accessing the deep web.</title>
+<pages>94-101</pages>
+<year>2007</year>
+<volume>50</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/1230819.1241670</ee>
+<url>db/journals/cacm/cacm50.html#HePZC07</url>
+</article>
+</r>
+<r><article key="journals/is/YuHC07" mdate="2017-05-20">
+<author pid="80/6889">Hwanjo Yu</author>
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Enabling soft queries for data retrieval.</title>
+<pages>560-574</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.is.2006.02.001</ee>
+<url>db/journals/is/is32.html#YuHC07</url>
+</article>
+</r>
+<r><article key="journals/tkde/HwangC07" mdate="2017-05-20">
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Probe Minimization by Schedule Optimization: Supporting Top-K Queries with Expensive Predicates.</title>
+<pages>646-662</pages>
+<year>2007</year>
+<volume>19</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2007.1007</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2007.1007</ee>
+<url>db/journals/tkde/tkde19.html#HwangC07</url>
+</article>
+</r>
+<r><article key="journals/tods/HwangC07" mdate="2018-11-06">
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Optimizing top-k queries for middleware access: A unified cost-based approach.</title>
+<pages>5</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1206049.1206054</ee>
+<url>db/journals/tods/tods32.html#HwangC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ChengC07" mdate="2020-03-12">
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Entity Search Engine: Towards Agile Best-Effort Information Integration over the Web.</title>
+<pages>108-113</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p12.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#ChengC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SolimanIC07" mdate="2018-11-14">
+<author pid="07/1330">Mohamed A. Soliman</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Top-k Query Processing in Uncertain Databases.</title>
+<pages>896-905</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367935</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367935</ee>
+<ee>https://www.wikidata.org/entity/Q56650673</ee>
+<url>db/conf/icde/icde2007.html#SolimanIC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChuangCZ07" mdate="2017-05-17">
+<author pid="20/3806">Shui-Lung Chuang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="z/ChengXiangZhai">ChengXiang Zhai</author>
+<title>Collaborative Wrapping: A Turbo Framework for Web Data Extraction.</title>
+<pages>1261-1262</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.368988</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.368988</ee>
+<url>db/conf/icde/icde2007.html#ChuangCZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KabraZC07" mdate="2017-07-09">
+<author pid="09/3999">Govind Kabra</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Dewex: An Exploration Facility for Enabling the Deep Web Integration.</title>
+<pages>1511-1512</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369058</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369058</ee>
+<url>db/conf/icde/icde2007.html#KabraZC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/XinHC07" mdate="2018-11-06">
+<author pid="76/3976">Dong Xin</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Progressive and selective merge: computing top-k with ad-hoc ranking functions.</title>
+<pages>103-114</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247494</ee>
+<url>db/conf/sigmod/sigmod2007.html#XinHC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiWLWC07" mdate="2018-11-06">
+<author pid="14/3692">Chengkai Li</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<author pid="55/2304">Lipyeow Lim</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Supporting ranking and clustering as generalized order-by and group-by.</title>
+<pages>127-138</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247496</ee>
+<url>db/conf/sigmod/sigmod2007.html#LiWLWC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SolimanIC07" mdate="2018-11-14">
+<author pid="07/1330">Mohamed A. Soliman</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>URank: formulation and efficient evaluation of top-k queries in uncertain databases.</title>
+<pages>1082-1084</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247613</ee>
+<ee>https://www.wikidata.org/entity/Q56650891</ee>
+<url>db/conf/sigmod/sigmod2007.html#SolimanIC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChengYC07" mdate="2018-11-06">
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="y/XifengYan">Xifeng Yan</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Supporting entity search: a large-scale prototype search engine.</title>
+<pages>1144-1146</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247636</ee>
+<url>db/conf/sigmod/sigmod2007.html#ChengYC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChengYC07" mdate="2020-03-12">
+<author pid="c/TaoCheng">Tao Cheng 0001</author>
+<author pid="y/XifengYan">Xifeng Yan</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>EntityRank: Searching Entities Directly and Holistically.</title>
+<pages>387-398</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p387-cheng.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ChengYC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChuangCZ07" mdate="2020-03-12">
+<author pid="20/3806">Shui-Lung Chuang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="z/ChengXiangZhai">ChengXiang Zhai</author>
+<title>Context-Aware Wrapping: Synchronized Data Extraction.</title>
+<pages>699-710</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p699-chuang.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ChuangCZ07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apweb/2007w" mdate="2019-05-14">
+<editor pid="c/KCCChang">Kevin Chen-Chuan Chang</editor>
+<editor pid="w/WeiWang11">Wei Wang 0011</editor>
+<editor pid="c/LeiChen0002">Lei Chen 0002</editor>
+<editor pid="e/ClarenceAEllis">Clarence A. Ellis</editor>
+<editor pid="35/3725">Ching-Hsien Hsu</editor>
+<editor pid="03/4407">Ah Chung Tsoi</editor>
+<editor pid="w/HaixunWang">Haixun Wang</editor>
+<title>Advances in Web and Network Technologies, and Information Management, APWeb/WAIM 2007 International Workshops: DBMAN 2007, WebETrends 2007, PAIS 2007 and ASWAN 2007, Huang Shan, China, June 16-18, 2007, Proceedings</title>
+<booktitle>APWeb/WAIM Workshops</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4537</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-72908-2</isbn>
+<ee>https://doi.org/10.1007/978-3-540-72909-9</ee>
+<url>db/conf/apweb/apweb2007w.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tods/HeC06" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Automatic complex schema matching across Web query interfaces: A correlation mining approach.</title>
+<pages>346-395</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1132863.1132872</ee>
+<url>db/journals/tods/tods31.html#HeC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/LiCI06" mdate="2018-11-14">
+<author pid="14/3692">Chengkai Li</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>Supporting ad-hoc ranking aggregates.</title>
+<pages>61-72</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142481</ee>
+<ee>https://www.wikidata.org/entity/Q56651535</ee>
+<url>db/conf/sigmod/sigmod2006.html#LiCI06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangHCWLC06" mdate="2018-11-06">
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author pid="14/2029">Yuan-Chi Chang</author>
+<title>Boolean + ranking: querying a database by k-constrained optimization.</title>
+<pages>359-370</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142515</ee>
+<url>db/conf/sigmod/sigmod2006.html#ZhangHCWLC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChangC06" mdate="2018-11-06">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="76/4977">Junghoo Cho</author>
+<title>Accessing the web: from search to integration.</title>
+<pages>804-805</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142601</ee>
+<url>db/conf/sigmod/sigmod2006.html#ChangC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ChangHZ05" mdate="2020-03-12">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<title>Toward Large Scale Integration: Building a MetaQuerier over Databases on the Web.</title>
+<pages>44-55</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P04.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#ChangHZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HwangC05" mdate="2017-05-17">
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Optimizing Access Cost for Top-k Queries over Web Sources: A Unified Cost-based Approach.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#HwangC05</url>
+<pages>188-189</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.102</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.102</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuHC05" mdate="2017-05-17">
+<author pid="80/6889">Hwanjo Yu</author>
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Enabling Ad-hoc Ranking for Data Retrieval.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#YuHC05</url>
+<pages>514-515</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.120</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HeZC05" mdate="2017-07-07">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Towards Building a MetaQuerier: Extracting and Matching Web Query Interfaces.</title>
+<pages>1098-1099</pages>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2005.145</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.145</ee>
+<url>db/conf/icde/icde2005.html#HeZC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/HeC05" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Making holistic schema matching robust: an ensemble approach.</title>
+<pages>429-438</pages>
+<year>2005</year>
+<crossref>conf/kdd/2005</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1081870.1081920</ee>
+<url>db/conf/kdd/kdd2005.html#HeC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiCIS05" mdate="2018-11-14">
+<author pid="14/3692">Chengkai Li</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="78/676">Sumin Song</author>
+<title>RankSQL: Query Algebra and Optimization for Relational Top-k Queries.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#LiCIS05</url>
+<pages>131-142</pages>
+<ee>https://doi.org/10.1145/1066157.1066173</ee>
+<ee>https://www.wikidata.org/entity/Q56653601</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeZC05" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>MetaQuerier: querying structured web sources on-the-fly.</title>
+<pages>927-929</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066291</ee>
+<url>db/conf/sigmod/sigmod2005.html#HeZC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZhangHC05" mdate="2020-03-12">
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Light-weight Domain-based Form Assistant: Querying Web Databases On the Fly.</title>
+<pages>97-108</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p97-zhang.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083607</ee>
+<url>db/conf/vldb/vldb2005.html#ZhangHC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LiSCI05" mdate="2020-03-12">
+<author pid="14/3692">Chengkai Li</author>
+<author pid="07/1330">Mohamed A. Soliman</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>RankSQL: Supporting Ranking Queries in Relational Database Management Systems.</title>
+<pages>1342-1345</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1342-li.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083770</ee>
+<url>db/conf/vldb/vldb2005.html#LiSCI05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiri/KabraLC05" mdate="2017-05-19">
+<author pid="09/3999">Govind Kabra</author>
+<author pid="14/3692">Chengkai Li</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Query Routing: Finding Ways in the Maze of the DeepWeb.</title>
+<pages>64-73</pages>
+<year>2005</year>
+<crossref>conf/wiri/2005</crossref>
+<booktitle>WIRI</booktitle>
+<ee>https://doi.org/10.1109/WIRI.2005.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WIRI.2005.33</ee>
+<url>db/conf/wiri/wiri2005.html#KabraLC05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigkdd/LiuC04" mdate="2020-09-29">
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Editorial: special issue on web content mining.</title>
+<pages>1-4</pages>
+<year>2004</year>
+<volume>6</volume>
+<journal>SIGKDD Explor.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1046456.1046457</ee>
+<url>db/journals/sigkdd/sigkdd6.html#LiuC04</url>
+</article>
+</r>
+<r><article key="journals/sigkdd/ChangHZ04" mdate="2020-09-29">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<title>Mining semantics for large scale integration on the web: evidences, insights, and challenges.</title>
+<pages>67-76</pages>
+<year>2004</year>
+<volume>6</volume>
+<journal>SIGKDD Explor.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1046456.1046465</ee>
+<url>db/journals/sigkdd/sigkdd6.html#ChangHZ04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ChangHLPZ04" mdate="2020-03-06">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="14/3692">Chengkai Li</author>
+<author pid="32/1423">Mitesh Patel</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<title>Structured Databases on the Web: Observations and Implications.</title>
+<pages>61-70</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1031570.1031584</ee>
+<url>db/journals/sigmod/sigmod33.html#ChangHLPZ04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/HeC04" mdate="2020-03-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>A Holistic Paradigm for Large Scale Schema Matching.</title>
+<pages>20-25</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1041410.1041414</ee>
+<url>db/journals/sigmod/sigmod33.html#HeC04</url>
+</article>
+</r>
+<r><article key="journals/tkde/YuHC04" mdate="2017-06-05">
+<author pid="80/6889">Hwanjo Yu</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>PEBL: Web Page Classification without Negative Examples.</title>
+<pages>70-81</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2004.1264823</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.1264823</ee>
+<url>db/journals/tkde/tkde16.html#YuHC04</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/HeTC04" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="73/3197">Tao Tao</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Organizing structured web sources by query schemas: a clustering approach.</title>
+<pages>22-31</pages>
+<year>2004</year>
+<crossref>conf/cikm/2004</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1031171.1031178</ee>
+<url>db/conf/cikm/cikm2004.html#HeTC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmkd/HeCH04" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Mining complex matchings across Web query interfaces.</title>
+<pages>3-10</pages>
+<year>2004</year>
+<crossref>conf/dmkd/2004</crossref>
+<booktitle>DMKD</booktitle>
+<ee>https://doi.org/10.1145/1008694.1008696</ee>
+<url>db/conf/dmkd/dmkd2004.html#HeCH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/HeTC04" mdate="2017-07-07">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="73/3197">Tao Tao</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Clustering Structured Web Sources: A Schema-Based, Model-Differentiation Approach.</title>
+<pages>536-546</pages>
+<ee>https://doi.org/10.1007/978-3-540-30192-9_53</ee>
+<year>2004</year>
+<crossref>conf/edbtw/2004</crossref>
+<booktitle>EDBT Workshops</booktitle>
+<url>db/conf/edbtw/edbtw2004.html#HeTC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/HeCH04" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Discovering complex matchings across web query interfaces: a correlation mining approach.</title>
+<pages>148-157</pages>
+<year>2004</year>
+<crossref>conf/kdd/2004</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1014052.1014071</ee>
+<url>db/conf/kdd/kdd2004.html#HeCH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/WuCCS04" mdate="2018-11-06">
+<author pid="44/3684-5">Yi Wu 0005</author>
+<author pid="c/EdwardYChang">Edward Y. Chang</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<title>Optimal multimodal fusion for multimedia data analysis.</title>
+<pages>572-579</pages>
+<year>2004</year>
+<crossref>conf/mm/2004</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/1027527.1027665</ee>
+<url>db/conf/mm/mm2004.html#WuCCS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangHC04" mdate="2018-11-06">
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Understanding Web Query Interfaces: Best-Effort Parsing with Hidden Syntax.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#ZhangHC04</url>
+<ee>https://doi.org/10.1145/1007568.1007583</ee>
+<pages>107-118</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeZC04" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="19/5112-1">Zhen Zhang 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Knocking the Door to the Deep Web: Integration of Web Query Interfaces.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1007568.1007691</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-110.pdf</ee>
+<url>db/conf/sigmod/sigmod2004.html#HeZC04</url>
+<pages>913-914</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeC03" mdate="2018-11-06">
+<author pid="78/4523-1">Bin He 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Statistical Schema Matching across Web Query Interfaces.</title>
+<pages>217-228</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#HeC03</url>
+<ee>https://doi.org/10.1145/872757.872784</ee>
+</inproceedings>
+</r>
+<r><article key="journals/computer/HanC02" mdate="2020-08-12">
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>Data Mining for Web Intelligence.</title>
+<pages>64-70</pages>
+<year>2002</year>
+<volume>35</volume>
+<journal>Computer</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/MC.2002.1046977</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2002.1046977</ee>
+<url>db/journals/computer/computer35.html#HanC02</url>
+</article>
+</r>
+<r><article key="journals/sigmod/WinslettCDHZZ02" mdate="2020-03-06">
+<author pid="w/MarianneWinslett">Marianne Winslett</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="z/ChengXiangZhai">ChengXiang Zhai</author>
+<author pid="99/2747">Yuanyuan Zhou</author>
+<title>Database Research at the University of Illinois at Urbana-Champaign.</title>
+<pages>97-102</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/601858.601881</ee>
+<url>db/journals/sigmod/sigmod31.html#WinslettCDHZZ02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/YuCH02" mdate="2017-06-05">
+<author pid="80/6889">Hwanjo Yu</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Heterogeneous Learner for Web Page Classification.</title>
+<pages>538-545</pages>
+<year>2002</year>
+<crossref>conf/icdm/2002</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2002.1183999</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2002.1183999</ee>
+<url>db/conf/icdm/icdm2002.html#YuCH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/YuHC02" mdate="2018-11-06">
+<author pid="80/6889">Hwanjo Yu</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>PEBL: positive example based learning for Web page classification using SVM.</title>
+<pages>239-248</pages>
+<year>2002</year>
+<crossref>conf/kdd/2002</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/775047.775083</ee>
+<url>db/conf/kdd/kdd2002.html#YuHC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChangH02" mdate="2018-11-06">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<title>Minimal probing: supporting expensive predicates for top-k queries.</title>
+<pages>346-357</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564731</ee>
+<url>db/conf/sigmod/sigmod2002.html#ChangH02</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/ChangG01" mdate="2017-05-28">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Approximate query mapping: Accounting for translation closeness.</title>
+<pages>155-181</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>VLDB J.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s007780100042</ee>
+<url>db/journals/vldb/vldb10.html#KCG01</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdl/FutrelleCC01" mdate="2018-11-06">
+<author pid="95/3002">Joe Futrelle</author>
+<author pid="34/6887">Su-Shing Chen</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<title>NBDL: a CIS framework for NSDL.</title>
+<pages>124-125</pages>
+<year>2001</year>
+<crossref>conf/jcdl/2001</crossref>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/379437.379467</ee>
+<url>db/conf/jcdl/jcdl2001.html#FutrelleCC01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChangG00" mdate="2020-03-12">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Approximate Query Translation Across Heterogeneous Information Sources.</title>
+<pages>566-577</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P566.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#ChangG00</url>
+</inproceedings>
+</r>
+<r><article key="journals/computer/PaepckeBCCG99" mdate="2020-08-12">
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<author pid="91/2819">Michelle Q. Wang Baldonado</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="85/6653">Steve B. Cousins</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Using Distributed Objects to Build the Stanford Digital Library Infobus.</title>
+<pages>80-87</pages>
+<year>1999</year>
+<volume>32</volume>
+<journal>Computer</journal>
+<number>2</number>
+<url>db/journals/computer/computer32.html#PaepckeBCCG99</url>
+<ee>https://doi.org/10.1109/2.745724</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.745724</ee>
+</article>
+</r>
+<r><article key="journals/tois/ChangGP99" mdate="2018-11-06">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System.</title>
+<pages>1-39</pages>
+<year>1999</year>
+<volume>17</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/297117.297120</ee>
+<url>db/journals/tois/tois17.html#ChangGP99</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ChangG99" mdate="2021-03-12">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/mindyourvocabulchhe.pdf</cdrom>
+<pages>335-346</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#ChangG99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304212</ee>
+<ee>https://doi.org/10.1145/304181.304212</ee>
+<cite>journals/computer/Wiederhold92</cite>
+<cite>conf/icdt/Ullman97</cite>
+<cite>conf/vldb/LevyRO96</cite>
+<cite>conf/aaai/LevyRO96</cite>
+<cite>conf/icde/PapakonstantinouGU96</cite>
+<cite>conf/dood/PapakonstantinouGGU95</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GeneserethKD97</cite>
+<cite>conf/vldb/HaasKWY97</cite>
+<cite>conf/vldb/RothS97</cite>
+<cite>...</cite>
+<cite>conf/icde/Garcia-MolinaLY99</cite>
+<cite>conf/pods/RajaramanSU95</cite>
+<cite>conf/pods/LevyRU96</cite>
+<cite>journals/tkde/ChangGP96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/csur/Heiler95</cite>
+<cite>conf/pdis/PapakonstantinouGH96</cite>
+<cite>conf/dl/ChangG98</cite>
+<cite>journals/tois/ChangGP99</cite>
+<cite>books/aw/AhoHU74</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiVCAHMWBCHIKSS99" mdate="2021-03-12">
+<author pid="60/5978">Wen-Syan Li</author>
+<author pid="73/2874">Quoc Vu</author>
+<author pid="c/EdwardYChang">Edward Y. Chang</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="51/6682">Kyoji Hirata</author>
+<author pid="m/SMukherjea">Sougata Mukherjea</author>
+<author pid="78/671">Yi-Leh Wu</author>
+<author pid="72/4199">Corey Bufi</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="29/2567">Yoshinori Hara</author>
+<author pid="52/4301">Reiko Ito</author>
+<author pid="84/1887">Yutaka Kimura</author>
+<author pid="91/6202">Kazuyuki Shimazu</author>
+<author pid="52/752">Yukiyoshi Saito</author>
+<title>PowerBookmarks: A System for Personalizable Web Information Organization, Sharing, and Management.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/powerbookmarksaweque.pdf</cdrom>
+<pages>565-567</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#LiVCAHMWBCHIKSS99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304578</ee>
+<ee>https://doi.org/10.1145/304181.304578</ee>
+<cite>...</cite>
+<cite>conf/chi/TauscherG97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/Miller95</cite>
+<cite>conf/adl/LiSCH98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/PaepckeCGW98" mdate="2018-11-06">
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="w/TerryWinograd">Terry Winograd</author>
+<title>Interoperability for Digital Libraries Worldwide.</title>
+<pages>33-43</pages>
+<year>1998</year>
+<volume>41</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm41.html#PaepckeCGW98</url>
+<ee>https://doi.org/10.1145/273035.273044</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dl/BaldonadoKPCGW98" mdate="2018-11-06">
+<author pid="91/2819">Michelle Q. Wang Baldonado</author>
+<author pid="55/4562">Seth Katz</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="w/TerryWinograd">Terry Winograd</author>
+<title>An Extensible Constructor Tool for the Rapid, Interactive Design of Query Synthesizers.</title>
+<pages>19-28</pages>
+<cdrom>DL1998/P019.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/dl/98</crossref>
+<booktitle>ACM DL</booktitle>
+<url>db/conf/dl/dl98.html#BaldonadoKPCGW98</url>
+<ee>https://doi.org/10.1145/276675.276678</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dl/ChangG98" mdate="2018-11-06">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Conjunctive Constraint Mapping for Data Translation.</title>
+<pages>49-58</pages>
+<cdrom>DL1998/P049.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/dl/98</crossref>
+<booktitle>ACM DL</booktitle>
+<url>db/conf/dl/dl98.html#ChangG98</url>
+<ee>https://doi.org/10.1145/276675.276681</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fodo/LiWBCAH98" mdate="2004-07-27">
+<author pid="60/5978">Wen-Syan Li</author>
+<author pid="78/671">Yi-Leh Wu</author>
+<author pid="72/4199">Corey Bufi</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="29/2567">Yoshinori Hara</author>
+<title>PowerBookmarks: An Advanced Web Bookmark Database System and its Information Sharing and Management.</title>
+<pages>200-209</pages>
+<year>1998</year>
+<crossref>conf/fodo/1998</crossref>
+<booktitle>FODO</booktitle>
+<url>db/conf/fodo/fodo98.html#LiWBCAH98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medoc/MoscheisenBCGKP98" mdate="2017-05-17">
+<author pid="r/MartinRoscheisen">Martin R&#246;scheisen</author>
+<author pid="91/2819">Michelle Q. Wang Baldonado</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="05/129">Steven P. Ketchpel</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>The Stanford InfoBus and Its Service Layers: Augmenting the Internet with High-Level Information Management Protocols.</title>
+<pages>213-230</pages>
+<ee>https://doi.org/10.1007/BFb0052526</ee>
+<year>1998</year>
+<crossref>conf/medoc/1998</crossref>
+<booktitle>The MeDoc Approach</booktitle>
+<url>db/conf/medoc/medoc98.html#MoscheisenBCGKP98</url>
+</inproceedings>
+</r>
+<r><article key="journals/jodl/BaldonadoCGP97" mdate="2020-09-11">
+<author pid="91/2819">Michelle Q. Wang Baldonado</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>The Stanford Digital Library Metadata Architecture.</title>
+<pages>108-121</pages>
+<year>1997</year>
+<volume>1</volume>
+<journal>Int. J. Digit. Libr.</journal>
+<number>2</number>
+<url>db/journals/jodl/jodl1.html#BaldonadoCGP97</url>
+<ee>https://doi.org/10.1007/s007990050008</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dl/BaldonadoCGP97" mdate="2018-11-06">
+<author pid="91/2819">Michelle Q. Wang Baldonado</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>Metadata for Digital Libraries: Architecture and Design Rationale.</title>
+<pages>47-56</pages>
+<cdrom>DL1997/P047.pdf</cdrom>
+<year>1997</year>
+<crossref>conf/dl/97</crossref>
+<booktitle>ACM DL</booktitle>
+<url>db/conf/dl/dl97.html#BaldonadoCGP97</url>
+<ee>https://doi.org/10.1145/263690.263791</ee>
+<cite>journals/jodl/BaldonadoCGP97</cite>
+<cite>journals/computer/PaepckeCGHKRW96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GravanoGT94</cite>
+<cite>conf/chi/Cousins96</cite>
+<cite>journals/tkde/ChangGP96</cite>
+<cite>conf/chi/BaldonadoW97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GravanoCGP97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dl/ChangG97" mdate="2018-11-06">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Evaluating the Cost of Boolean Query Mapping.</title>
+<pages>103-112</pages>
+<cdrom>DL1997/P103.pdf</cdrom>
+<year>1997</year>
+<crossref>conf/dl/97</crossref>
+<booktitle>ACM DL</booktitle>
+<url>db/conf/dl/dl97.html#ChangG97</url>
+<ee>https://doi.org/10.1145/263690.263802</ee>
+<cite>books/aw/Salton89</cite>
+<cite>books/ph/FrakesB92</cite>
+<cite>journals/tkde/ChangGP96</cite>
+<cite>...</cite>
+<cite>journals/tois/ChangGP99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GravanoGT94</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GravanoCGP97</cite>
+<cite>conf/vldb/GravanoG97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GravanoCGP97" mdate="2018-11-06">
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>STARTS: Stanford Proposal for Internet Meta-Searching (Experience Paper).</title>
+<pages>207-218</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#GravanoCGP97</url>
+<ee>https://doi.org/10.1145/253260.253299</ee>
+<cdrom>SIGMOD97/P207.PDF</cdrom>
+<cite>...</cite>
+<cite>books/aw/Salton89</cite>
+<cite>journals/tkde/ChangGP96</cite>
+<cite>...</cite>
+<cite>conf/sigir/CallanLC95</cite>
+<cite>conf/trec/VoorheesGJ94</cite>
+<cite>conf/sigmod/GravanoGT94</cite>
+<cite>conf/vldb/GravanoG95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/computer/PaepckeCGHKRW96</cite>
+<cite>journals/jodl/BaldonadoCGP97</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/ChangGP96" mdate="2017-05-20">
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>Boolean Query Mapping Across Heterogeneous Information Sources.</title>
+<pages>515-521</pages>
+<year>1996</year>
+<volume>8</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<url>db/journals/tkde/tkde8.html#ChangGP96</url>
+<ee>https://doi.org/10.1109/69.536244</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.536244</ee>
+<cdrom>TKDE8/k0515.pdf</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/ph/FrakesB92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigir/Mitchell73</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Salton89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman88</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<coauthors n="183" nc="3">
+<co c="0"><na f="a/Adhikari:Aditi" pid="175/5549">Aditi Adhikari</na></co>
+<co c="0"><na f="a/Agarwal:Ganesh" pid="98/837">Ganesh Agarwal</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="0"><na f="b/Baldonado:Michelle_Q=_Wang" pid="91/2819">Michelle Q. Wang Baldonado</na></co>
+<co c="0"><na f="b/Barzegaran:Elham" pid="211/2852">Elham Barzegaran</na></co>
+<co c="0"><na f="b/Bendre:Mangesh" pid="166/8365">Mangesh Bendre</na></co>
+<co c="0"><na f="b/Bufi:Corey" pid="72/4199">Corey Bufi</na></co>
+<co c="0" n="2"><na f="c/Cai:Hongyun" pid="247/9265">Hongyun Cai</na><na>HongYun Cai</na></co>
+<co c="0"><na f="c/Cambria:Erik" pid="80/7421">Erik Cambria</na></co>
+<co c="0"><na f="c/Campbell:Roy_H=" pid="c/RoyHCampbell">Roy H. Campbell</na></co>
+<co c="0"><na f="c/Cao:Hong" pid="43/3527">Hong Cao</na></co>
+<co c="0"><na f="c/Cao:Hongtai" pid="276/5053">Hongtai Cao</na></co>
+<co c="0"><na f="c/Cavallari:Sandro" pid="188/6085">Sandro Cavallari</na></co>
+<co c="0"><na f="c/Chang:Edward_Y=" pid="c/EdwardYChang">Edward Y. Chang</na></co>
+<co c="0"><na f="c/Chang_0001:Yi" pid="02/5438">Yi Chang 0001</na></co>
+<co c="0"><na f="c/Chang:Yuan=Chi" pid="14/2029">Yuan-Chi Chang</na></co>
+<co c="0"><na f="c/Chen_0001:Chaochao" pid="26/1492-1">Chaochao Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0002:Lei" pid="c/LeiChen0002">Lei Chen 0002</na></co>
+<co c="0"><na f="c/Chen:Penghe" pid="04/11514">Penghe Chen</na></co>
+<co c="2"><na f="c/Chen:Su=Shing" pid="34/6887">Su-Shing Chen</na></co>
+<co c="0"><na f="c/Chen:Yi=Shin" pid="27/3795">Yi-Shin Chen</na></co>
+<co c="0"><na f="c/Chen:Yueguo" pid="40/3980">Yueguo Chen</na></co>
+<co c="0"><na f="c/Chen:Zhijie" pid="12/1713">Zhijie Chen</na></co>
+<co c="0"><na f="c/Cheng:Reynold" pid="89/2619">Reynold Cheng</na></co>
+<co c="0"><na f="c/Cheng_0001:Tao" pid="c/TaoCheng">Tao Cheng 0001</na></co>
+<co c="0"><na f="c/Cho:Junghoo" pid="76/4977">Junghoo Cho</na></co>
+<co c="0"><na f="c/Chuang:Shui=Lung" pid="20/3806">Shui-Lung Chuang</na></co>
+<co c="0"><na f="c/Cousins:Steve_B=" pid="85/6653">Steve B. Cousins</na></co>
+<co c="0"><na f="d/Deng:Hongbo" pid="09/43">Hongbo Deng</na></co>
+<co c="0"><na f="d/Derr:Tyler" pid="207/7927">Tyler Derr</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Du_0001:Xiaoyong" pid="47/3542-1">Xiaoyong Du 0001</na></co>
+<co c="0"><na f="e/Ellis:Clarence_A=" pid="e/ClarenceAEllis">Clarence A. Ellis</na></co>
+<co c="0"><na f="e/Esmailian:Pouya" pid="154/6695">Pouya Esmailian</na></co>
+<co c="0"><na f="f/Fang:Yixiang" pid="76/1735">Yixiang Fang</na></co>
+<co c="0"><na f="f/Fang_0001:Yuan" pid="22/981-1">Yuan Fang 0001</na></co>
+<co c="2"><na f="f/Futrelle:Joe" pid="95/3002">Joe Futrelle</na></co>
+<co c="0"><na f="g/Gao:Heting" pid="241/5964">Heting Gao</na></co>
+<co c="0"><na f="g/Gao:Shenghua" pid="63/7642">Shenghua Gao</na></co>
+<co c="0"><na f="g/Garcia=Molina:Hector" pid="g/HGarciaMolina">Hector Garcia-Molina</na></co>
+<co c="0"><na f="g/Gravano:Luis" pid="g/LuisGravano">Luis Gravano</na></co>
+<co c="0"><na f="g/Gunter:Carl_A=" pid="g/CarlAGunter">Carl A. Gunter</na></co>
+<co c="0"><na f="g/Gupta_0001:Manish" pid="g/ManishGupta1">Manish Gupta 0001</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Han:Xiaolin" pid="57/10423">Xiaolin Han</na></co>
+<co c="0"><na f="h/Hara:Yoshinori" pid="29/2567">Yoshinori Hara</na></co>
+<co c="0"><na f="h/He_0001:Bin" pid="78/4523-1">Bin He 0001</na></co>
+<co c="0"><na f="h/He:Zhankui" pid="222/1220">Zhankui He</na></co>
+<co c="0"><na f="h/Hirata:Kyoji" pid="51/6682">Kyoji Hirata</na></co>
+<co c="0"><na f="h/Hoang:Tao" pid="159/1950">Tao Hoang</na></co>
+<co c="0"><na f="h/Hsu:Bo=June_Paul" pid="12/4891">Bo-June Paul Hsu</na></co>
+<co c="0"><na f="h/Hsu:Ching=Hsien" pid="35/3725">Ching-Hsien Hsu</na></co>
+<co c="0"><na f="h/Hsu:Windsor_W=" pid="24/268">Windsor W. Hsu</na></co>
+<co c="0"><na f="h/Hu:Jiafeng" pid="120/1593">Jiafeng Hu</na></co>
+<co c="0"><na f="h/Huang_0009:Jie" pid="29/6643-9">Jie Huang 0009</na></co>
+<co c="0"><na f="h/Huang:Zi" pid="70/6862">Zi Huang</na></co>
+<co c="0"><na f="h/Huang:Zijie" pid="246/8147">Zijie Huang</na></co>
+<co c="1"><na f="h/Hui:Siu_L=" pid="90/7309">Siu L. Hui</na></co>
+<co c="0"><na f="h/Hwang:Seung=won" pid="h/SeungwonHwang">Seung-won Hwang</na></co>
+<co c="0" n="2"><na f="h/Hwu:Wen=Mei_W=" pid="03/4630">Wen-Mei W. Hwu</na><na>Wen-Mei Hwu</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Ito:Reiko" pid="52/4301">Reiko Ito</na></co>
+<co c="0"><na f="j/Jalili:Mahdi" pid="21/5241">Mahdi Jalili</na></co>
+<co c="0"><na f="j/Javari:Amin" pid="146/3335">Amin Javari</na></co>
+<co c="0"><na f="j/Jiang:Yunliang" pid="32/227">Yunliang Jiang</na></co>
+<co c="0"><na f="k/Kabra:Govind" pid="09/3999">Govind Kabra</na></co>
+<co c="0"><na f="k/Karahalios:Karrie" pid="64/4500">Karrie Karahalios</na></co>
+<co c="0"><na f="k/Katz:Seth" pid="55/4562">Seth Katz</na></co>
+<co c="0"><na f="k/Ketchpel:Steven_P=" pid="05/129">Steven P. Ketchpel</na></co>
+<co c="0"><na f="k/Khadiwala:Ravi" pid="116/5161">Ravi Khadiwala</na></co>
+<co c="0"><na f="k/Kimura:Yutaka" pid="84/1887">Yutaka Kimura</na></co>
+<co c="0"><na f="k/Krishnaswamy:Shonali" pid="k/ShonaliKrishnaswamy">Shonali Krishnaswamy</na></co>
+<co c="0"><na f="k/Kumar:Suhansanu" pid="139/3283">Suhansanu Kumar</na></co>
+<co c="0"><na f="l/Lam:Brian_Y=_H=" pid="164/9028">Brian Y. H. Lam</na></co>
+<co c="0"><na f="l/Lang:Christian_A=" pid="l/ChristianALang">Christian A. Lang</na></co>
+<co c="0"><na f="l/Lauw:Hady_Wirawan" pid="00/2494">Hady Wirawan Lauw</na></co>
+<co c="0"><na f="l/Lee_0005:John" pid="34/5858-5">John Lee 0005</na></co>
+<co c="0"><na f="l/Lei:Kin_Hou" pid="116/5128">Kin Hou Lei</na></co>
+<co c="0"><na f="l/Lei_0004:Yu" pid="284/8639-4">Yu Lei 0004</na></co>
+<co c="0"><na f="l/Li:Boxuan" pid="217/3887">Boxuan Li</na></co>
+<co c="0"><na f="l/Li:Chengkai" pid="14/3692">Chengkai Li</na></co>
+<co c="0"><na f="l/Li:Jiuyong" pid="20/1583">Jiuyong Li</na></co>
+<co c="0"><na f="l/Li:Qibing" pid="79/9746">Qibing Li</na></co>
+<co c="0"><na f="l/Li:Rui" pid="96/4282">Rui Li</na></co>
+<co c="0"><na f="l/Li:Wen=Syan" pid="60/5978">Wen-Syan Li</na></co>
+<co c="0"><na f="l/Li_0009:Xiaodong" pid="50/3993-9">Xiaodong Li 0009</na></co>
+<co c="0"><na f="l/Li_0001:Xiaoli" pid="l/XiaoliLi">Xiaoli Li 0001</na></co>
+<co c="0"><na f="l/Li_0001:Yuchen" pid="143/0258-1">Yuchen Li 0001</na></co>
+<co c="0"><na f="l/Lim:Lipyeow" pid="55/2304">Lipyeow Lim</na></co>
+<co c="0"><na f="l/Lin:Miao" pid="125/3930">Miao Lin</na></co>
+<co c="0"><na f="l/Lin:Wenqing" pid="121/4164">Wenqing Lin</na></co>
+<co c="0"><na f="l/Lin_0001:Xuemin" pid="l/LinXuemin">Xuemin Lin 0001</na></co>
+<co c="0"><na f="l/Liu_0001:Bing" pid="l/BingLiu1">Bing Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Jixue" pid="l/JixueLiu">Jixue Liu</na></co>
+<co c="0"><na f="l/Liu:Yuyang" pid="75/6589">Yuyang Liu</na></co>
+<co c="0"><na f="l/Liu:Zemin" pid="36/6192">Zemin Liu</na></co>
+<co c="0"><na f="l/Lu:Hanqing" pid="39/6752">Hanqing Lu</na></co>
+<co c="0"><na f="l/Lu:Yu" pid="09/2321">Yu Lu</na></co>
+<co c="0"><na f="l/Luo:Ruibang" pid="55/11133">Ruibang Luo</na></co>
+<co c="0"><na f="m/Ma:Chenhao" pid="251/5251">Chenhao Ma</na></co>
+<co c="0"><na f="m/Ma:Denghao" pid="166/0023">Denghao Ma</na></co>
+<co c="0"><na f="m/Mack:Kelly" pid="213/7327">Kelly Mack</na></co>
+<co c="0"><na f="m/Mitra:Soumyadeb" pid="95/2771">Soumyadeb Mitra</na></co>
+<co c="0"><na f="m/Mukherjea:Sougata" pid="m/SMukherjea">Sougata Mukherjea</na></co>
+<co c="0"><na f="n/Najafi:Matin" pid="276/5051">Matin Najafi</na></co>
+<co c="0"><na f="o/Ou:Min" pid="173/1958">Min Ou</na></co>
+<co c="1"><na f="o/Overhage:J=_Marc" pid="92/1570">J. Marc Overhage</na></co>
+<co c="0"><na f="p/Paepcke:Andreas" pid="p/APaepcke">Andreas Paepcke</na></co>
+<co c="0"><na f="p/Parameswaran:Aditya_G=" pid="40/7459">Aditya G. Parameswaran</na></co>
+<co c="0"><na f="p/Patel:Mitesh" pid="32/1423">Mitesh Patel</na></co>
+<co c="0"><na f="p/Pei:Hongbin" pid="157/2982">Hongbin Pei</na></co>
+<co c="0"><na f="p/Pratt:Nicole" pid="168/7356">Nicole Pratt</na></co>
+<co c="0"><na f="q/Qiu:Hongxiang" pid="209/7361">Hongxiang Qiu</na></co>
+<co c="0"><na f="r/Rahman:Sajjadur" pid="168/0294">Sajjadur Rahman</na></co>
+<co c="0"><na f="r/Raj:Jeetu" pid="234/7834">Jeetu Raj</na></co>
+<co c="0"><na f="r/R=ouml=scheisen:Martin" pid="r/MartinRoscheisen">Martin R&#246;scheisen</na></co>
+<co c="0"><na f="r/Roughead:Elizabeth" pid="184/9853">Elizabeth Roughead</na></co>
+<co c="0"><na f="s/Saito:Yukiyoshi" pid="52/752">Yukiyoshi Saito</na></co>
+<co c="0"><na f="s/Sankar:Aravind" pid="175/5341">Aravind Sankar</na></co>
+<co c="0"><na f="s/Sha_0002:Mo" pid="70/5884-2">Mo Sha 0002</na></co>
+<co c="0"><na f="s/Shan:Caihua" pid="193/1652">Caihua Shan</na></co>
+<co c="0"><na f="s/Shi:Jiaqi" pid="197/7234">Jiaqi Shi</na></co>
+<co c="0"><na f="s/Shimazu:Kazuyuki" pid="91/6202">Kazuyuki Shimazu</na></co>
+<co c="0"><na f="s/Smith:John_R=" pid="s/JohnRSmith">John R. Smith</na></co>
+<co c="0"><na f="s/Soliman:Mohamed_A=" pid="07/1330">Mohamed A. Soliman</na></co>
+<co c="0"><na f="s/Song:Sumin" pid="78/676">Sumin Song</na></co>
+<co c="0"><na f="s/Sun:Bofan" pid="166/8388">Bofan Sun</na></co>
+<co c="0"><na f="s/Sundaram:Hari" pid="s/HariSundaram">Hari Sundaram</na></co>
+<co c="0"><na f="t/Tan:Kian=Lee" pid="t/KianLeeTan">Kian-Lee Tan</na></co>
+<co c="0"><na f="t/Tang:Jiliang" pid="64/10812">Jiliang Tang</na></co>
+<co c="0"><na f="t/Tao:Tao" pid="73/3197">Tao Tao</na></co>
+<co c="0"><na f="t/Tsoi:Ah_Chung" pid="03/4407">Ah Chung Tsoi</na></co>
+<co c="0"><na f="v/Venkataraman:Vipul" pid="188/6180">Vipul Venkataraman</na></co>
+<co c="0"><na f="v/Vu:Quoc" pid="73/2874">Quoc Vu</na></co>
+<co c="0"><na f="w/Wang:Changyu" pid="41/4471">Changyu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Chi" pid="09/404-1">Chi Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Haixun" pid="w/HaixunWang">Haixun Wang</na></co>
+<co c="0"><na f="w/Wang:Hongning" pid="05/6545">Hongning Wang</na></co>
+<co c="0"><na f="w/Wang:Jia" pid="58/6299">Jia Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Min" pid="w/MinWang">Min Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Rui" pid="06/2293">Rui Wang</na></co>
+<co c="0"><na f="w/Wang:Shengjie" pid="90/10765">Shengjie Wang</na></co>
+<co c="0"><na f="w/Wang_0011:Wei" pid="w/WeiWang11">Wei Wang 0011</na></co>
+<co c="0"><na f="w/Wang_0001:XiaoFeng" pid="06/6268">XiaoFeng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Zilong" pid="42/898">Zilong Wang</na></co>
+<co c="0"><na f="w/Wattanawaroon:Tana" pid="213/7854">Tana Wattanawaroon</na></co>
+<co c="0"><na f="w/Wei:Bingzhe" pid="258/4905">Bingzhe Wei</na></co>
+<co c="1"><na f="w/Were:Martin_Chieng" pid="11/8033">Martin Chieng Were</na></co>
+<co c="0"><na f="w/Winograd:Terry" pid="w/TerryWinograd">Terry Winograd</na></co>
+<co c="0"><na f="w/Winslett:Marianne" pid="w/MarianneWinslett">Marianne Winslett</na></co>
+<co c="0"><na f="w/Wu_0008:Min" pid="16/0-8">Min Wu 0008</na></co>
+<co c="0"><na f="w/Wu:Minghui" pid="97/6864">Minghui Wu</na></co>
+<co c="0"><na f="w/Wu_0005:Yi" pid="44/3684-5">Yi Wu 0005</na></co>
+<co c="0"><na f="w/Wu:Yi=Leh" pid="78/671">Yi-Leh Wu</na></co>
+<co c="0"><na f="x/Xie_0001:Xing" pid="08/6809-1">Xing Xie 0001</na></co>
+<co c="0"><na f="x/Xin:Dong" pid="76/3976">Dong Xin</na></co>
+<co c="0"><na f="x/Xiong:Jinjun" pid="81/1130">Jinjun Xiong</na></co>
+<co c="0"><na f="x/Xu:Chuanfei" pid="80/7820">Chuanfei Xu</na></co>
+<co c="0"><na f="y/Yan:Xifeng" pid="y/XifengYan">Xifeng Yan</na></co>
+<co c="0"><na f="y/Yang:Bo" pid="46/999">Bo Yang</na></co>
+<co c="0"><na f="y/Yang_0002:Bo" pid="46/999-2">Bo Yang 0002</na></co>
+<co c="0"><na f="y/Yang:Carl" pid="162/0187">Carl Yang</na></co>
+<co c="0"><na f="y/Yang:Hongxia" pid="69/3036">Hongxia Yang</na></co>
+<co c="0"><na f="y/Yang:Hui=Ting" pid="31/7118">Hui-Ting Yang</na></co>
+<co c="0"><na f="y/Yang:Ping=Jing" pid="176/4132">Ping-Jing Yang</na></co>
+<co c="0"><na f="y/Yao:Fangzhou" pid="123/5999">Fangzhou Yao</na></co>
+<co c="0"><na f="y/Ying:Jing" pid="46/136">Jing Ying</na></co>
+<co c="0"><na f="y/Yu:Hwanjo" pid="80/6889">Hwanjo Yu</na></co>
+<co c="0"><na f="z/Zhai:ChengXiang" pid="z/ChengXiangZhai">ChengXiang Zhai</na></co>
+<co c="0"><na f="z/Zhang:Aston" pid="142/9150">Aston Zhang</na></co>
+<co c="0"><na f="z/Zhang:Chunxu" pid="192/1046">Chunxu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Ding" pid="36/5080">Ding Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinyang" pid="29/2669">Xinyang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Zhen" pid="19/5112-1">Zhen Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Zhenjie" pid="93/4085">Zhenjie Zhang</na></co>
+<co c="0"><na f="z/Zhao:Zhou" pid="75/7785">Zhou Zhao</na></co>
+<co c="0" n="2"><na f="z/Zheng:Vincent_Wenchen" pid="47/1961">Vincent Wenchen Zheng</na><na>Vincent W. Zheng</na></co>
+<co c="0"><na f="z/Zheng:Xiaolin" pid="09/5763">Xiaolin Zheng</na></co>
+<co c="0"><na f="z/Zhou:Mianwei" pid="18/5844">Mianwei Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xinyan" pid="166/8402">Xinyan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yuanyuan" pid="99/2747">Yuanyuan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Fanwei" pid="96/6668">Fanwei Zhu</na></co>
+<co c="0"><na f="z/Zhu:Shichu" pid="242/5186">Shichu Zhu</na></co>
+</coauthors>
+</dblpperson>
+

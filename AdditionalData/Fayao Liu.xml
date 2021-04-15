@@ -1,3 +1,550 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adc1f42729f6a214995d26681ee9bce77c3bab8956349062826ddbaf8fa13ddd
-size 24750
+<?xml version="1.0"?>
+<dblpperson name="Fayao Liu" pid="91/9687" n="34">
+<person key="homepages/91/9687" mdate="2011-06-06">
+<author pid="91/9687">Fayao Liu</author>
+</person>
+<r><article key="journals/pami/LinLMSR20" mdate="2021-04-09">
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author orcid="0000-0001-6649-7660" pid="91/9687">Fayao Liu</author>
+<author pid="135/4914">Anton Milan</author>
+<author orcid="0000-0002-8648-8718" pid="56/1673">Chunhua Shen</author>
+<author orcid="0000-0001-7790-6423" pid="r/IanDReid1">Ian D. Reid 0001</author>
+<title>RefineNet: Multi-Path Refinement Networks for Dense Prediction.</title>
+<pages>1228-1242</pages>
+<year>2020</year>
+<volume>42</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPAMI.2019.2893630</ee>
+<ee>https://www.wikidata.org/entity/Q91158927</ee>
+<url>db/journals/pami/pami42.html#LinLMSR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiuZLL20" mdate="2020-08-11">
+<author pid="261/9166">Weide Liu</author>
+<author pid="91/195">Chi Zhang</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<title>CRNet: Cross-Reference Networks for Few-Shot Segmentation.</title>
+<pages>4164-4172</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00422</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#LiuZLL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/YangLLL20" mdate="2020-11-12">
+<author pid="10/2453">Xiaofeng Yang</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="146/6418">Fengmao Lv</author>
+<author pid="91/9687">Fayao Liu</author>
+<title>TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering.</title>
+<pages>414-430</pages>
+<year>2020</year>
+<booktitle>ECCV (21)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58589-1_25</ee>
+<crossref>conf/eccv/2020-21</crossref>
+<url>db/conf/eccv/eccv2020-21.html#YangLLL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-10658" mdate="2020-04-01">
+<author pid="261/9166">Weide Liu</author>
+<author pid="91/195">Chi Zhang</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<title>CRNet: Cross-Reference Networks for Few-Shot Segmentation.</title>
+<year>2020</year>
+<volume>abs/2003.10658</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.10658</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-10658</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-09660" mdate="2020-09-23">
+<author pid="182/7628">Ruibing Jin</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="67/4562">Changyun Wen</author>
+<author pid="88/4927">Jianliang Wang</author>
+<author pid="91/9687">Fayao Liu</author>
+<title>Feature Flow: In-network Feature Flow Estimation for Video Object Detection.</title>
+<year>2020</year>
+<volume>abs/2009.09660</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.09660</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-09660</url>
+</article>
+</r>
+<r><article key="journals/ivc/HeLYL19" mdate="2020-02-20">
+<author pid="187/1578">Feixiang He</author>
+<author orcid="0000-0001-6649-7660" pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0003-2734-915X" pid="72/2221">Rui Yao</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<title>Local fusion networks with chained residual pooling for video action recognition.</title>
+<pages>34-41</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2018.12.002</ee>
+<url>db/journals/ivc/ivc81.html#HeLYL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhangLLYS19" mdate="2020-03-27">
+<author pid="91/195">Chi Zhang</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="72/2221">Rui Yao</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and Attentive Few-Shot Learning.</title>
+<pages>5217-5226</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00536</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#ZhangLLYS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiuLYLLG19" mdate="2020-03-27">
+<author pid="38/11010">Zichuan Liu</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="69/4104">Sheng Yang</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="22/4018">Wang Ling Goh</author>
+<title>Towards Robust Curve Text Detection With Conditional Spatial Expansion.</title>
+<pages>7269-7278</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00744</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#LiuLYLLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ZhangLLGWY19" mdate="2020-03-05">
+<author pid="91/195">Chi Zhang</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="259/5196">Jiushuang Guo</author>
+<author pid="42/8374">Qingyao Wu</author>
+<author pid="72/2221">Rui Yao</author>
+<title>Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation.</title>
+<pages>9586-9594</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00968</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#ZhangLLGWY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/LuoLLLTY19" mdate="2020-10-25">
+<author pid="175/7532">Haonan Luo</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="38/11010">Zichuan Liu</author>
+<author pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0001-6708-2205" pid="13/6728">Zhenmin Tang</author>
+<author pid="173/6775">Yazhou Yao</author>
+<title>SegEQA: Video Segmentation Based Visual Attention for Embodied Question Answering.</title>
+<pages>9666-9675</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00976</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#LuoLLLTY19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-02351" mdate="2019-03-31">
+<author pid="91/195">Chi Zhang</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="72/2221">Rui Yao</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning.</title>
+<year>2019</year>
+<volume>abs/1903.02351</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.02351</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-02351</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-08836" mdate="2019-04-01">
+<author pid="38/11010">Zichuan Liu</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="69/4104">Sheng Yang</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="22/4018">Wang Ling Goh</author>
+<title>Towards Robust Curve Text Detection with Conditional Spatial Expansion.</title>
+<year>2019</year>
+<volume>abs/1903.08836</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.08836</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-08836</url>
+</article>
+</r>
+<r><article key="journals/tnn/LiuLQS18" mdate="2020-03-09">
+<author orcid="0000-0001-6649-7660" pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="161/9907">Ruizhi Qiao</author>
+<author orcid="0000-0002-8648-8718" pid="56/1673">Chunhua Shen</author>
+<title>Structured Learning of Tree Potentials in CRF for Image Segmentation.</title>
+<pages>2631-2637</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TNNLS.2017.2690453</ee>
+<ee>https://www.wikidata.org/entity/Q38830584</ee>
+<url>db/journals/tnn/tnn29.html#LiuLQS18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-00304" mdate="2018-10-30">
+<author pid="38/11010">Zichuan Liu</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="22/4018">Wang Ling Goh</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="06/3071">Xiaokang Yang</author>
+<title>Correlation Propagation Networks for Scene Text Detection.</title>
+<year>2018</year>
+<volume>abs/1810.00304</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.00304</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-00304</url>
+</article>
+</r>
+<r><article key="journals/ijcv/LinLSWS17" mdate="2020-03-13">
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="w/JianxinWu">Jianxin Wu</author>
+<author pid="s/HTShen">Heng Tao Shen</author>
+<title>Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures.</title>
+<pages>287-308</pages>
+<year>2017</year>
+<volume>123</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11263-016-0984-4</ee>
+<url>db/journals/ijcv/ijcv123.html#LinLSWS17</url>
+</article>
+</r>
+<r><article key="journals/tip/LiuLS17" mdate="2020-05-10">
+<author orcid="0000-0001-6649-7660" pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>Discriminative Training of Deep Fully Connected Continuous CRFs With Task-Specific Loss.</title>
+<pages>2127-2136</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TIP.2017.2675166</ee>
+<ee>https://www.wikidata.org/entity/Q38380078</ee>
+<url>db/journals/tip/tip26.html#LiuLS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuLQS17" mdate="2018-08-13">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="161/9907">Ruizhi Qiao</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>Structured Learning of Tree Potentials in CRF for Image Segmentation.</title>
+<year>2017</year>
+<volume>abs/1703.08764</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.08764</ee>
+<url>db/journals/corr/corr1703.html#LiuLQS17</url>
+</article>
+</r>
+<r><article key="journals/ivc/LiuSRH16" mdate="2021-04-09">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author orcid="0000-0001-7790-6423" pid="r/IanDReid1">Ian Reid 0001</author>
+<author orcid="0000-0003-3027-8364" pid="v/AntonvandenHengel">Anton van den Hengel</author>
+<title>Online unsupervised feature learning for visual tracking.</title>
+<pages>84-94</pages>
+<year>2016</year>
+<volume>51</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2016.04.008</ee>
+<url>db/journals/ivc/ivc51.html#LiuSRH16</url>
+</article>
+</r>
+<r><article key="journals/pami/LiuSL016" mdate="2020-09-05">
+<author pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0002-8648-8718" pid="56/1673">Chunhua Shen</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author orcid="0000-0001-7790-6423" pid="r/IanDReid1">Ian Reid 0001</author>
+<title>Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields.</title>
+<pages>2024-2039</pages>
+<year>2016</year>
+<volume>38</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2015.2505283</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2015.2505283</ee>
+<ee>https://www.wikidata.org/entity/Q50544781</ee>
+<url>db/journals/pami/pami38.html#LiuSL016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuLS16" mdate="2018-08-13">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>Discriminative Training of Deep Fully-connected Continuous CRF with Task-specific Loss.</title>
+<year>2016</year>
+<volume>abs/1601.07649</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.07649</ee>
+<url>db/journals/corr/corr1601.html#LiuLS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LinLSWS16" mdate="2018-08-13">
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="w/JianxinWu">Jianxin Wu</author>
+<author pid="s/HTShen">Heng Tao Shen</author>
+<title>Structured Learning of Binary Codes with Column Generation.</title>
+<year>2016</year>
+<volume>abs/1602.06654</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.06654</ee>
+<url>db/journals/corr/corr1602.html#LinLSWS16</url>
+</article>
+</r>
+<r><article key="journals/pr/LiuLS15" mdate="2020-02-24">
+<author pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>CRF learning with CNN features for image segmentation.</title>
+<pages>2983-2992</pages>
+<year>2015</year>
+<volume>48</volume>
+<journal>Pattern Recognit.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.patcog.2015.04.019</ee>
+<url>db/journals/pr/pr48.html#LiuLS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/MilfordLSSPUSLL15" mdate="2021-04-13">
+<author orcid="0000-0002-5162-1793" pid="01/4027">Michael Milford</author>
+<author pid="139/3828">Stephanie M. Lowry</author>
+<author orcid="0000-0001-5286-3789" pid="51/4711">Niko S&#252;nderhauf</author>
+<author orcid="0000-0001-6783-3064" pid="157/8355">Sareh Shirazi</author>
+<author pid="151/9453">Edward Pepperell</author>
+<author pid="49/6508">Ben Upcroft</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="43/7748">Cesar Cadena 0001</author>
+<author orcid="0000-0001-7790-6423" pid="r/IanDReid1">Ian D. Reid 0001</author>
+<title>Sequence searching with deep-learnt depth for condition- and viewpoint-invariant route-based place recognition.</title>
+<pages>18-25</pages>
+<year>2015</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2015.7301395</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2015.7301395</ee>
+<crossref>conf/cvpr/2015w</crossref>
+<url>db/conf/cvpr/cvprw2015.html#MilfordLSSPUSLL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiuSL15" mdate="2018-11-02">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author orcid="0000-0002-0329-7458" pid="126/4778">Guosheng Lin</author>
+<title>Deep convolutional neural fields for depth estimation from a single image.</title>
+<pages>5162-5170</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7299152</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7299152</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#LiuSL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuSLR15" mdate="2020-04-24">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="r/IanDReid1">Ian Reid 0001</author>
+<title>Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields.</title>
+<year>2015</year>
+<volume>abs/1502.07411</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.07411</ee>
+<url>db/journals/corr/corr1502.html#LiuSLR15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuLS15" mdate="2018-08-13">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="126/4778">Guosheng Lin</author>
+<author pid="56/1673">Chunhua Shen</author>
+<title>CRF Learning with CNN Features for Image Segmentation.</title>
+<year>2015</year>
+<volume>abs/1503.08263</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.08263</ee>
+<url>db/journals/corr/corr1503.html#LiuLS15</url>
+</article>
+</r>
+<r><article key="journals/titb/LiuZSY14" mdate="2020-03-13">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="45/933">Luping Zhou</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="16/4535">Jianping Yin</author>
+<title>Multiple Kernel Learning in the Primal for Multimodal Alzheimer's Disease Classification.</title>
+<pages>984-990</pages>
+<year>2014</year>
+<volume>18</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JBHI.2013.2285378</ee>
+<ee>https://www.wikidata.org/entity/Q45958440</ee>
+<url>db/journals/titb/titb18.html#LiuZSY14</url>
+</article>
+</r>
+<r><article key="journals/tnn/ShenKLWH14" mdate="2021-04-09">
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="89/5420">Junae Kim</author>
+<author pid="91/9687">Fayao Liu</author>
+<author orcid="0000-0002-0961-0441" pid="w/LeiWang1">Lei Wang 0001</author>
+<author orcid="0000-0003-3027-8364" pid="v/AntonvandenHengel">Anton van den Hengel</author>
+<title>Efficient Dual Approach to Distance Metric Learning.</title>
+<pages>394-406</pages>
+<year>2014</year>
+<volume>25</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNNLS.2013.2275170</ee>
+<ee>https://www.wikidata.org/entity/Q43585450</ee>
+<url>db/journals/tnn/tnn25.html#ShenKLWH14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShenL14" mdate="2018-08-13">
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="91/9687">Fayao Liu</author>
+<title>From Kernel Machines to Ensemble Learning.</title>
+<year>2014</year>
+<volume>abs/1401.0767</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.0767</ee>
+<url>db/journals/corr/corr1401.html#ShenL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuSL14" mdate="2018-08-13">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="126/4778">Guosheng Lin</author>
+<title>Deep Convolutional Neural Fields for Depth Estimation from a Single Image.</title>
+<year>2014</year>
+<volume>abs/1411.6387</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.6387</ee>
+<url>db/journals/corr/corr1411.html#LiuSL14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-3219" mdate="2019-10-24">
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="89/5420">Junae Kim</author>
+<author pid="91/9687">Fayao Liu</author>
+<author pid="w/LeiWang1">Lei Wang 0001</author>
+<author pid="v/AntonvandenHengel">Anton van den Hengel</author>
+<title>An Efficient Dual Approach to Distance Metric Learning</title>
+<ee type="oa">http://arxiv.org/abs/1302.3219</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.3219</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-3219</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuZSY13" mdate="2018-08-13">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="45/933">Luping Zhou</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="16/4535">Jianping Yin</author>
+<title>Multiple Kernel Learning in the Primal for Multi-modal Alzheimer's Disease Classification.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.0890</ee>
+<volume>abs/1310.0890</volume>
+<url>db/journals/corr/corr1310.html#LiuZSY13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuSRH13" mdate="2020-04-24">
+<author pid="91/9687">Fayao Liu</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="r/IanDReid1">Ian Reid 0001</author>
+<author pid="v/AntonvandenHengel">Anton van den Hengel</author>
+<title>Online Unsupervised Feature Learning for Visual Tracking.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.1690</ee>
+<volume>abs/1310.1690</volume>
+<url>db/journals/corr/corr1310.html#LiuSRH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaim/ZhaoYZXLL11" mdate="2017-05-24">
+<author pid="93/9687">Zhiheng Zhao</author>
+<author pid="16/4535">Jianping Yin</author>
+<author pid="59/42">Yubin Zhan</author>
+<author pid="33/4054">Wei Xiong</author>
+<author pid="93/2334">Yong Li</author>
+<author pid="91/9687">Fayao Liu</author>
+<title>PSAEC: An Improved Algorithm for Short Read Error Correction Using Partial Suffix Arrays.</title>
+<pages>220-232</pages>
+<year>2011</year>
+<booktitle>FAW-AAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21204-8_25</ee>
+<crossref>conf/aaim/2011</crossref>
+<url>db/conf/aaim/aaim2011.html#ZhaoYZXLL11</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="1">
+<co c="0"><na f="g/Goh:Wang_Ling" pid="22/4018">Wang Ling Goh</na></co>
+<co c="0"><na f="g/Guo:Jiushuang" pid="259/5196">Jiushuang Guo</na></co>
+<co c="0"><na f="h/He:Feixiang" pid="187/1578">Feixiang He</na></co>
+<co c="0"><na f="h/Hengel:Anton_van_den" pid="v/AntonvandenHengel">Anton van den Hengel</na></co>
+<co c="0"><na f="j/Jin:Ruibing" pid="182/7628">Ruibing Jin</na></co>
+<co c="0"><na f="k/Kim:Junae" pid="89/5420">Junae Kim</na></co>
+<co c="0" n="2"><na f="l/Lerma:Cesar_Dario_Cadena" pid="43/7748">Cesar Dario Cadena Lerma</na><na>Cesar Cadena 0001</na></co>
+<co c="0"><na f="l/Li:Yong" pid="93/2334">Yong Li</na></co>
+<co c="0"><na f="l/Lin:Guosheng" pid="126/4778">Guosheng Lin</na></co>
+<co c="0"><na f="l/Lin:Weisi" pid="14/3737">Weisi Lin</na></co>
+<co c="0"><na f="l/Liu:Weide" pid="261/9166">Weide Liu</na></co>
+<co c="0"><na f="l/Liu:Zichuan" pid="38/11010">Zichuan Liu</na></co>
+<co c="0"><na f="l/Lowry:Stephanie_M=" pid="139/3828">Stephanie M. Lowry</na></co>
+<co c="0"><na f="l/Luo:Haonan" pid="175/7532">Haonan Luo</na></co>
+<co c="0"><na f="l/Lv:Fengmao" pid="146/6418">Fengmao Lv</na></co>
+<co c="0"><na f="m/Milan:Anton" pid="135/4914">Anton Milan</na></co>
+<co c="0"><na f="m/Milford:Michael" pid="01/4027">Michael Milford</na></co>
+<co c="0"><na f="p/Pepperell:Edward" pid="151/9453">Edward Pepperell</na></co>
+<co c="0"><na f="q/Qiao:Ruizhi" pid="161/9907">Ruizhi Qiao</na></co>
+<co c="0" n="2"><na f="r/Reid_0001:Ian_D=" pid="r/IanDReid1">Ian D. Reid 0001</na><na>Ian Reid 0001</na></co>
+<co c="0"><na f="s/Shen:Chunhua" pid="56/1673">Chunhua Shen</na></co>
+<co c="0"><na f="s/Shen:Heng_Tao" pid="s/HTShen">Heng Tao Shen</na></co>
+<co c="0"><na f="s/Shirazi:Sareh" pid="157/8355">Sareh Shirazi</na></co>
+<co c="0"><na f="s/S=uuml=nderhauf:Niko" pid="51/4711">Niko S&#252;nderhauf</na></co>
+<co c="0"><na f="t/Tang:Zhenmin" pid="13/6728">Zhenmin Tang</na></co>
+<co c="0"><na f="u/Upcroft:Ben" pid="49/6508">Ben Upcroft</na></co>
+<co c="0"><na f="w/Wang:Jianliang" pid="88/4927">Jianliang Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Lei" pid="w/LeiWang1">Lei Wang 0001</na></co>
+<co c="0"><na f="w/Wen:Changyun" pid="67/4562">Changyun Wen</na></co>
+<co c="0"><na f="w/Wu:Jianxin" pid="w/JianxinWu">Jianxin Wu</na></co>
+<co c="0"><na f="w/Wu:Qingyao" pid="42/8374">Qingyao Wu</na></co>
+<co c="0"><na f="x/Xiong:Wei" pid="33/4054">Wei Xiong</na></co>
+<co c="0"><na f="y/Yang:Sheng" pid="69/4104">Sheng Yang</na></co>
+<co c="0"><na f="y/Yang:Xiaofeng" pid="10/2453">Xiaofeng Yang</na></co>
+<co c="0"><na f="y/Yang:Xiaokang" pid="06/3071">Xiaokang Yang</na></co>
+<co c="0"><na f="y/Yao:Rui" pid="72/2221">Rui Yao</na></co>
+<co c="0"><na f="y/Yao:Yazhou" pid="173/6775">Yazhou Yao</na></co>
+<co c="0"><na f="y/Yin:Jianping" pid="16/4535">Jianping Yin</na></co>
+<co c="0"><na f="z/Zhan:Yubin" pid="59/42">Yubin Zhan</na></co>
+<co c="0"><na f="z/Zhang:Chi" pid="91/195">Chi Zhang</na></co>
+<co c="0"><na f="z/Zhao:Zhiheng" pid="93/9687">Zhiheng Zhao</na></co>
+<co c="0"><na f="z/Zhou:Luping" pid="45/933">Luping Zhou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,982 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2359816f6b389919c9bcdae2badd37bb953aafc5618c47bb34fae64ab0d48ae9
-size 43347
+<?xml version="1.0"?>
+<dblpperson name="Guillaume Pallez" pid="72/9357" n="64">
+<person key="homepages/72/9357" mdate="2020-07-28">
+<author pid="72/9357">Guillaume Pallez</author>
+<author pid="72/9357">Guillaume Pallez Aupy</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<note type="affiliation">Inria, Labri, France</note>
+<note type="affiliation">University of Bordeaux, Talence, France</note>
+<url>http://people.bordeaux.inria.fr/gaupy/#About</url>
+<url>https://orcid.org/0000-0001-8862-3277</url>
+</person>
+<r><article key="journals/tpds/GainaruGHP21" mdate="2021-01-26">
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="59/4382">Brice Goglin</author>
+<author pid="248/5108">Valentin Honor&#233;</author>
+<author orcid="0000-0001-8862-3277" pid="72/9357">Guillaume Pallez</author>
+<title>Profiles of Upcoming HPC Applications and Their Impact on Reservation Strategies.</title>
+<pages>1178-1190</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPDS.2020.3039728</ee>
+<url>db/journals/tpds/tpds32.html#GainaruGHP21</url>
+</article>
+</r>
+<r><article key="journals/toms/HerrmannP20" mdate="2020-07-10">
+<author pid="128/8058">Julien Herrmann</author>
+<author pid="72/9357">Guillaume Pallez</author>
+<title>H-Revolve: A Framework for Adjoint Computation on Synchronous Hierarchical Platforms.</title>
+<pages>12:1-12:25</pages>
+<year>2020</year>
+<volume>46</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3378672</ee>
+<url>db/journals/toms/toms46.html#HerrmannP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/DuMAR20" mdate="2020-08-12">
+<author pid="272/2797">Yishu Du</author>
+<author pid="36/3810">Loris Marchal</author>
+<author pid="72/9357">Guillaume Pallez Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Robustness of the Young/Daly formula for stochastic iterative applications.</title>
+<pages>15:1-15:11</pages>
+<year>2020</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1145/3404397.3404418</ee>
+<crossref>conf/icpp/2020</crossref>
+<url>db/conf/icpp/icpp2020.html#DuMAR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/CarreteroJPSV20" mdate="2020-09-15">
+<author pid="c/JCarretero">Jes&#250;s Carretero 0001</author>
+<author pid="46/5717">Emmanuel Jeannot</author>
+<author pid="72/9357">Guillaume Pallez</author>
+<author pid="73/4490">David E. Singh</author>
+<author pid="88/8875">Nicolas Vidal</author>
+<title>Mapping and scheduling HPC applications for optimizing I/O.</title>
+<pages>33:1-33:12</pages>
+<year>2020</year>
+<booktitle>ICS</booktitle>
+<ee>https://dl.acm.org/doi/10.1145/3392717.3392764</ee>
+<crossref>conf/ics/2020</crossref>
+<url>db/conf/ics/ics2020.html#CarreteroJPSV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/GainaruGHARRS20" mdate="2020-07-22">
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="59/4382">Brice Goglin</author>
+<author pid="248/5108">Valentin Honor&#233;</author>
+<author pid="72/9357">Guillaume Pallez Aupy</author>
+<author pid="96/6134">Padma Raghavan</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="00/2118">Hongyang Sun</author>
+<title>Reservation and Checkpointing Strategies for Stochastic Jobs.</title>
+<pages>853-863</pages>
+<year>2020</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS47924.2020.00092</ee>
+<crossref>conf/ipps/2020</crossref>
+<url>db/conf/ipps/ipdps2020.html#GainaruGHARRS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpca/AupyBGPR19" mdate="2021-04-09">
+<author orcid="0000-0001-8862-3277" pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="59/4382">Brice Goglin</author>
+<author orcid="0000-0002-7681-3521" pid="27/6364">Lo&#239;c Pottier</author>
+<author orcid="0000-0003-2361-055X" pid="r/YvesRobert">Yves Robert</author>
+<title>Co-scheduling HPC workloads on cache-partitioned CMP platforms.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1177/1094342019846956</ee>
+<url>db/journals/ijhpca/ijhpca33.html#AupyBGPR19</url>
+</article>
+</r>
+<r><article key="journals/ijhpca/AupyGHR19" mdate="2020-03-12">
+<author orcid="0000-0001-8862-3277" pid="72/9357">Guillaume Aupy</author>
+<author pid="59/4382">Brice Goglin</author>
+<author orcid="0000-0003-1028-5719" pid="248/5108">Valentin Honor&#233;</author>
+<author pid="74/2662">Bruno Raffin</author>
+<title>Modeling high-throughput applications for in situ analytics.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1177/1094342019847263</ee>
+<url>db/journals/ijhpca/ijhpca33.html#AupyGHR19</url>
+</article>
+</r>
+<r><article key="journals/ijhpca/GainaruSAHLR19" mdate="2020-03-12">
+<author orcid="0000-0002-1375-9468" pid="57/8195">Ana Gainaru</author>
+<author pid="00/2118">Hongyang Sun</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="69/10047">Yuankai Huo</author>
+<author pid="74/1206">Bennett A. Landman</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>On-the-fly scheduling versus reservation-based scheduling for unpredictable workflows.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1177/1094342019841681</ee>
+<url>db/journals/ijhpca/ijhpca33.html#GainaruSAHLR19</url>
+</article>
+</r>
+<r><article key="journals/tompecs/PhanPIR19" mdate="2020-09-18">
+<author pid="177/8564">Tien-Dat Phan</author>
+<author pid="72/9357">Guillaume Pallez</author>
+<author pid="00/981">Shadi Ibrahim</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>A New Framework for Evaluating Straggler Detection Mechanisms in MapReduce.</title>
+<pages>14:1-14:23</pages>
+<year>2019</year>
+<volume>4</volume>
+<journal>ACM Trans. Model. Perform. Evaluation Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3328740</ee>
+<url>db/journals/tompecs/tompecs4.html#PhanPIR19</url>
+</article>
+</r>
+<r><article key="journals/topc/AupyGF19" mdate="2020-04-25">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="186/3099">Valentin Le F&#232;vre</author>
+<title>I/O Scheduling Strategy for Periodic Applications.</title>
+<pages>7:1-7:26</pages>
+<year>2019</year>
+<volume>6</volume>
+<journal>ACM Trans. Parallel Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3338510</ee>
+<url>db/journals/topc/topc6.html#AupyGF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AbaKP19" mdate="2019-08-19">
+<author pid="202/6672">Massinissa Ait Aba</author>
+<author pid="m/AlixMunierKordon">Alix Munier Kordon</author>
+<author pid="72/9357">Guillaume Pallez</author>
+<title>Scheduling on Two Unbounded Resources with Communication Costs.</title>
+<pages>117-128</pages>
+<year>2019</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-29400-7_9</ee>
+<crossref>conf/europar/2019</crossref>
+<url>db/conf/europar/europar2019.html#AbaKP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/GainaruSAR19" mdate="2019-08-29">
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="72/9357">Guillaume Pallez</author>
+<author pid="00/2118">Hongyang Sun</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>Speculative Scheduling for Stochastic HPC Applications.</title>
+<pages>32:1-32:10</pages>
+<year>2019</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1145/3337821.3337890</ee>
+<crossref>conf/icpp/2019</crossref>
+<url>db/conf/icpp/icpp2019.html#GainaruSAR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AupyGHRRS19" mdate="2019-09-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="248/5108">Valentin Honor&#233;</author>
+<author pid="96/6134">Padma Raghavan</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="00/2118">Hongyang Sun</author>
+<title>Reservation Strategies for Stochastic Jobs.</title>
+<pages>166-175</pages>
+<year>2019</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2019.00027</ee>
+<crossref>conf/ipps/2019</crossref>
+<url>db/conf/ipps/ipdps2019.html#AupyGHRRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AupyBE19" mdate="2019-09-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="89/2078">Olivier Beaumont</author>
+<author pid="e/LionelEyraudDubois">Lionel Eyraud-Dubois</author>
+<title>Sizing and Partitioning Strategies for Burst-Buffers to Reduce IO Contention.</title>
+<pages>631-640</pages>
+<year>2019</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2019.00072</ee>
+<crossref>conf/ipps/2019</crossref>
+<url>db/conf/ipps/ipdps2019.html#AupyBE19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/GainaruP19" mdate="2020-01-20">
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="72/9357">Guillaume Pallez</author>
+<title>Making Speculative Scheduling Robust to Incomplete Data.</title>
+<pages>62-71</pages>
+<year>2019</year>
+<booktitle>ScalA@SC</booktitle>
+<ee>https://doi.org/10.1109/ScalA49573.2019.00013</ee>
+<crossref>conf/sc/2019scala</crossref>
+<url>db/conf/sc/scala2019.html#GainaruP19</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/AupyT18" mdate="2020-03-02">
+<author orcid="0000-0001-8862-3277" pid="72/9357">Guillaume Aupy</author>
+<author pid="23/2460">Xueyan Tang</author>
+<title>Parallel and distributed algorithms.</title>
+<year>2018</year>
+<volume>30</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.4663</ee>
+<url>db/journals/concurrency/concurrency30.html#AupyT18</url>
+</article>
+</r>
+<r><article key="journals/ijhpca/AupyBDPRRS18" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="209/4389">Sicheng Dai</author>
+<author orcid="0000-0002-7681-3521" pid="27/6364">Lo&#239;c Pottier</author>
+<author pid="96/6134">Padma Raghavan</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="51/7411">Manu Shantharam</author>
+<title>Co-scheduling Amdahl applications on cache-partitioned systems.</title>
+<pages>123-138</pages>
+<year>2018</year>
+<volume>32</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/1094342017710806</ee>
+<url>db/journals/ijhpca/ijhpca32.html#AupyBDPRRS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cluster/AupyBGPR18" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="59/4382">Brice Goglin</author>
+<author pid="27/6364">Loic Pottier</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms.</title>
+<pages>348-358</pages>
+<year>2018</year>
+<booktitle>CLUSTER</booktitle>
+<ee>https://doi.org/10.1109/CLUSTER.2018.00052</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CLUSTER.2018.00052</ee>
+<crossref>conf/cluster/2018</crossref>
+<url>db/conf/cluster/cluster2018.html#AupyBGPR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/SunEGAR18" mdate="2018-08-08">
+<author pid="00/2118">Hongyang Sun</author>
+<author pid="224/0976">Redouane Elghazi</author>
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>Scheduling Parallel Tasks under Multiple Resources: List Scheduling vs. Pack Scheduling.</title>
+<pages>194-203</pages>
+<year>2018</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2018.00029</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2018.00029</ee>
+<crossref>conf/ipps/2018</crossref>
+<url>db/conf/ipps/ipdps2018.html#SunEGAR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AupyBE18" mdate="2018-08-08">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="89/2078">Olivier Beaumont</author>
+<author pid="e/LionelEyraudDubois">Lionel Eyraud-Dubois</author>
+<title>What Size Should Your Buffers to Disks be?</title>
+<pages>660-669</pages>
+<year>2018</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2018.00075</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2018.00075</ee>
+<crossref>conf/ipps/2018</crossref>
+<url>db/conf/ipps/ipdps2018.html#AupyBE18</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/18/AupyR18" mdate="2019-06-12">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Scheduling for Fault-Tolerance: An Introduction.</title>
+<pages>143-170</pages>
+<year>2018</year>
+<booktitle>Topics in Parallel and Distributed Computing</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93109-8_6</ee>
+<crossref>books/sp/PGRSW2018</crossref>
+<url>db/books/collections/PGRSW2018.html#AupyR18</url>
+</incollection>
+</r>
+<r><article key="journals/oms/AupyH17" mdate="2020-09-24">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="128/8058">Julien Herrmann</author>
+<title>Periodicity in optimal hierarchical checkpointing schemes for adjoint computations.</title>
+<pages>594-624</pages>
+<year>2017</year>
+<volume>32</volume>
+<journal>Optim. Methods Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1080/10556788.2016.1230612</ee>
+<ee>https://www.wikidata.org/entity/Q60692369</ee>
+<url>db/journals/oms/oms32.html#AupyH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cluster/AupyRV17" mdate="2018-11-02">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author orcid="0000-0002-0663-6152" pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<title>Assuming Failure Independence: Are We Right to be Wrong?</title>
+<pages>709-716</pages>
+<year>2017</year>
+<booktitle>CLUSTER</booktitle>
+<ee>https://doi.org/10.1109/CLUSTER.2017.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CLUSTER.2017.24</ee>
+<crossref>conf/cluster/2017</crossref>
+<url>db/conf/cluster/cluster2017.html#AupyRV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/PhanIZAA17" mdate="2017-08-18">
+<author pid="177/8564">Tien-Dat Phan</author>
+<author pid="00/981">Shadi Ibrahim</author>
+<author pid="131/6619">Amelie Chi Zhou</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="a/GabrielAntoniu">Gabriel Antoniu</author>
+<title>Energy-Driven Straggler Mitigation in MapReduce.</title>
+<pages>385-398</pages>
+<year>2017</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64203-1_28</ee>
+<crossref>conf/europar/2017</crossref>
+<url>db/conf/europar/europar2017.html#PhanIZAA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfec/ShekharCBAG17" mdate="2021-04-09">
+<author pid="18/6368">Shashank Shekhar</author>
+<author pid="205/5291">Ajay Dev Chhokra</author>
+<author orcid="0000-0003-0184-7759" pid="187/1762">Anirban Bhattacharjee</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0002-7706-7102" pid="83/287">Aniruddha S. Gokhale</author>
+<title>INDICES: Exploiting Edge Resources for Performance-Aware Cloud-Hosted Services.</title>
+<pages>75-80</pages>
+<year>2017</year>
+<booktitle>ICFEC</booktitle>
+<ee>https://doi.org/10.1109/ICFEC.2017.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICFEC.2017.16</ee>
+<crossref>conf/icfec/2017</crossref>
+<url>db/conf/icfec/icfec2017.html#ShekharCBAG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AupyBM17" mdate="2019-02-12">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="202/6678">Clement Brasseur</author>
+<author orcid="0000-0002-5519-9913" pid="36/3810">Loris Marchal</author>
+<title>Dynamic Memory-Aware Task-Tree Scheduling.</title>
+<pages>758-767</pages>
+<year>2017</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2017.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2017.58</ee>
+<crossref>conf/ipps/2017</crossref>
+<url>db/conf/ipps/ipdps2017.html#AupyBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AupyBPRRS17" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author orcid="0000-0002-7681-3521" pid="27/6364">Lo&#239;c Pottier</author>
+<author pid="96/6134">Padma Raghavan</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="51/7411">Manu Shantharam</author>
+<title>Co-Scheduling Algorithms for Cache-Partitioned Systems.</title>
+<pages>874-883</pages>
+<year>2017</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2017.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPSW.2017.60</ee>
+<crossref>conf/ipps/2017w</crossref>
+<url>db/conf/ipps/ipdps2017w.html#AupyBPRRS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/AupyGF17" mdate="2018-01-03">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="186/3099">Valentin Le F&#232;vre</author>
+<title>Periodic I/O Scheduling for Super-Computers.</title>
+<pages>44-66</pages>
+<year>2017</year>
+<booktitle>PMBS@SC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-72971-8_3</ee>
+<crossref>conf/sc/2017pmbs</crossref>
+<url>db/conf/sc/pmbs2017.html#AupyGF17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AupyGF17" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="186/3099">Valentin Le F&#232;vre</author>
+<title>Periodic I/O scheduling for super-computers.</title>
+<year>2017</year>
+<volume>abs/1702.06900</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.06900</ee>
+<url>db/journals/corr/corr1702.html#AupyGF17</url>
+</article>
+</r>
+<r><article key="journals/ijnc/AupyBCR16" mdate="2021-02-16">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="25/6606">Henri Casanova</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Checkpointing Strategies for Scheduling Computational Workflows.</title>
+<pages>2-26</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>Int. J. Netw. Comput.</journal>
+<number>1</number>
+<ee type="oa">http://www.ijnc.org/index.php/ijnc/article/view/115</ee>
+<url>db/journals/ijnc/ijnc6.html#AupyBCR16</url>
+</article>
+</r>
+<r><article key="journals/ppl/AupyB16" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<title>Approximation Algorithms for Energy, Reliability, and Makespan Optimization Problems.</title>
+<year>2016</year>
+<volume>26</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0129626416500018</ee>
+<url>db/journals/ppl/ppl26.html#AupyB16</url>
+<pages>1650001:1-1650001:23</pages>
+</article>
+</r>
+<r><article key="journals/scheduling/AupySBRR16" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="51/7411">Manu Shantharam</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>Co-scheduling algorithms for high-throughput workload execution.</title>
+<pages>627-640</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>J. Sched.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10951-015-0445-x</ee>
+<url>db/journals/scheduling/scheduling19.html#AupySBRR16</url>
+</article>
+</r>
+<r><article key="journals/siamsc/AupyHHR16" mdate="2020-07-30">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="128/8058">Julien Herrmann</author>
+<author orcid="0000-0002-0907-2567" pid="79/3143">Paul D. Hovland</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Optimal Multistage Algorithm for Adjoint Computation.</title>
+<year>2016</year>
+<volume>38</volume>
+<journal>SIAM J. Sci. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/15M1019222</ee>
+<url>db/journals/siamsc/siamsc38.html#AupyHHR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/AupyPR16" mdate="2017-05-19">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="182/2117">JeongHyung Park</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>Locality-Aware Laplacian Mesh Smoothing.</title>
+<pages>588-597</pages>
+<year>2016</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2016.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2016.74</ee>
+<crossref>conf/icpp/2016</crossref>
+<url>db/conf/icpp/icpp2016.html#AupyPR16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AupyPR16" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="182/2117">JeongHyung Park</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>Locality-Aware Laplacian Mesh Smoothing.</title>
+<year>2016</year>
+<volume>abs/1606.00803</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.00803</ee>
+<url>db/journals/corr/corr1606.html#AupyPR16</url>
+</article>
+</r>
+<r><article key="journals/suscom/AupyBJR15" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="149/8347">Matthieu Journault</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Power-aware replica placement in tree networks with multiple servers per client.</title>
+<pages>41-53</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>Sustain. Comput. Informatics Syst.</journal>
+<ee>https://doi.org/10.1016/j.suscom.2014.08.013</ee>
+<url>db/journals/suscom/suscom5.html#AupyBJR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/AupyBCR15" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="25/6606">Henri Casanova</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Scheduling Computational Workflows on Failure-Prone Platforms.</title>
+<pages>473-482</pages>
+<year>2015</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2015.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPSW.2015.33</ee>
+<crossref>conf/ipps/2015w</crossref>
+<url>db/conf/ipps/ipdps2015w.html#AupyBCR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/GainaruABCRS15" mdate="2021-04-09">
+<author pid="57/8195">Ana Gainaru</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="c/FranckCappello">Franck Cappello</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="40/3047">Marc Snir</author>
+<title>Scheduling the I/O of HPC Applications Under Congestion.</title>
+<pages>1013-1022</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2015.116</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2015.116</ee>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#GainaruABCRS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/KabirBABRR15" mdate="2021-04-09">
+<author pid="88/10029">Humayun Kabir</author>
+<author pid="28/9637">Joshua Dennis Booth</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>STS-k: a multilevel sparse triangular solution scheme for NUMA multicores.</title>
+<pages>55:1-55:11</pages>
+<year>2015</year>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/2807591.2807667</ee>
+<crossref>conf/sc/2015</crossref>
+<url>db/conf/sc/sc2015.html#KabirBABRR15</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/sp/AupyBRR15" mdate="2017-07-12">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="99/9082">Paul Renaud-Goud</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Energy-Aware Algorithms for Task Graph Scheduling, Replica Placement and Checkpoint Strategies.</title>
+<pages>37-80</pages>
+<year>2015</year>
+<crossref>reference/sp/2015dc</crossref>
+<booktitle>Handbook on Data Centers</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2092-1_2</ee>
+<url>db/reference/sp/dc2015.html#AupyBRR15</url>
+</incollection>
+</r>
+<r><phdthesis key="phd/hal/Aupy14" mdate="2020-07-21">
+<author pid="72/9357">Guillaume Aupy</author>
+<title>Resilient and energy-efficient scheduling algorithms at scale. (Algorithmes d'ordonnancement fiables et efficaces &#233;nerg&#233;tiquement &#224; l'&#233;chelle).</title>
+<year>2014</year>
+<school>&#201;cole normale sup&#233;rieure de Lyon, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01075111</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jpdc/AupyRVZ14" mdate="2020-02-22">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author orcid="0000-0002-0663-6152" pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>Checkpointing algorithms and fault prediction.</title>
+<pages>2048-2064</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.jpdc.2013.10.010</ee>
+<url>db/journals/jpdc/jpdc74.html#AupyRVZ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AupyBJR14" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="149/8347">Matthieu Journault</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Power-Aware Replica Placement in Tree Networks with Multiple Servers per Client.</title>
+<pages>608-619</pages>
+<year>2014</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09873-9_51</ee>
+<crossref>conf/europar/2014</crossref>
+<url>db/conf/europar/europar2014.html#AupyBJR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/AupyBDR13" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="35/7215">Fanny Dufoss&#233;</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Reclaiming the energy of a schedule: models and algorithms.</title>
+<pages>1505-1523</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.2889</ee>
+<url>db/journals/concurrency/concurrency25.html#AupyBDR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AupyFRKLD13" mdate="2017-08-21">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="18/9881">Mathieu Faverge</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="83/5249">Jakub Kurzak</author>
+<author pid="90/4175">Piotr Luszczek</author>
+<author pid="d/JackDongarra">Jack J. Dongarra</author>
+<title>Implementing a Systolic Algorithm for QR Factorization on Multicore Clusters with PaRSEC.</title>
+<pages>657-667</pages>
+<year>2013</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-54420-0_64</ee>
+<crossref>conf/europar/2013w</crossref>
+<url>db/conf/europar/europar2013w.html#AupyFRKLD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/green/AupyBMRR13" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author orcid="0000-0001-6403-5446" pid="m/RamiGMelhem">Rami G. Melhem</author>
+<author pid="99/9082">Paul Renaud-Goud</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Energy-aware checkpointing of divisible tasks with soft or hard deadlines.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>IGCC</booktitle>
+<ee>https://doi.org/10.1109/IGCC.2013.6604467</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IGCC.2013.6604467</ee>
+<crossref>conf/green/2013</crossref>
+<url>db/conf/green/green2013.html#AupyBMRR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/AupyRVZ13" mdate="2018-11-02">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author orcid="0000-0002-0663-6152" pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>Checkpointing Strategies with Prediction Windows.</title>
+<pages>1-10</pages>
+<year>2013</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2013.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2013.9</ee>
+<crossref>conf/prdc/2013</crossref>
+<url>db/conf/prdc/prdc2013.html#AupyRVZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/AupyBHRVZ13" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="78/3532">Thomas H&#233;rault</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author orcid="0000-0002-0663-6152" pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>On the Combination of Silent Error Detection and Checkpointing.</title>
+<pages>11-20</pages>
+<year>2013</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2013.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2013.10</ee>
+<crossref>conf/prdc/2013</crossref>
+<url>db/conf/prdc/prdc2013.html#AupyBHRVZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/AupyBHRD13" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="78/3532">Thomas H&#233;rault</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="d/JackDongarra">Jack J. Dongarra</author>
+<title>Optimal Checkpointing Period: Time vs. Energy.</title>
+<pages>203-214</pages>
+<year>2013</year>
+<booktitle>PMBS@SC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10214-6_10</ee>
+<crossref>conf/sc/2013pmbs</crossref>
+<url>db/conf/sc/pmbs2013.html#AupyBHRD13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-3720" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="m/RamiGMelhem">Rami G. Melhem</author>
+<author pid="99/9082">Paul Renaud-Goud</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Energy-aware checkpointing of divisible tasks with soft or hard deadlines</title>
+<ee type="oa">http://arxiv.org/abs/1302.3720</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.3720</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-3720</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-3752" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>Checkpointing algorithms and fault prediction</title>
+<ee type="oa">http://arxiv.org/abs/1302.3752</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.3752</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-3752</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-4558" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>Checkpointing strategies with prediction windows</title>
+<ee type="oa">http://arxiv.org/abs/1302.4558</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.4558</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-4558</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-7793" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="51/7411">Manu Shantharam</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="96/6134">Padma Raghavan</author>
+<title>Co-Scheduling Algorithms for High-Throughput Workload Execution</title>
+<ee type="oa">http://arxiv.org/abs/1304.7793</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.7793</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-7793</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AupyBHRD13" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="78/3532">Thomas H&#233;rault</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="d/JackDongarra">Jack J. Dongarra</author>
+<title>Optimal Checkpointing Period: Time vs. Energy.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.8456</ee>
+<volume>abs/1310.8456</volume>
+<url>db/journals/corr/corr1310.html#AupyBHRD13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AupyBHRVZ13" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="78/3532">Thomas H&#233;rault</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>On the Combination of Silent Error Detection and Checkpointing.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.8486</ee>
+<volume>abs/1310.8486</volume>
+<url>db/journals/corr/corr1310.html#AupyBHRVZ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/hipc/AupyBR12" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Energy-aware scheduling under reliability and makespan constraints.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HiPC.2012.6507482</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HiPC.2012.6507482</ee>
+<crossref>conf/hipc/2012</crossref>
+<url>db/conf/hipc/hipc2012.html#AupyBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/Aupy12" mdate="2017-05-24">
+<author pid="72/9357">Guillaume Aupy</author>
+<title>Energy-aware Scheduling: Models and Complexity Results.</title>
+<pages>2478-2481</pages>
+<year>2012</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2012.307</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPSW.2012.307</ee>
+<crossref>conf/ipps/2012w</crossref>
+<url>db/conf/ipps/ipdps2012w.html#Aupy12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-0939" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="35/7215">Fanny Dufoss&#233;</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Reclaiming the energy of a schedule: models and algorithms</title>
+<ee type="oa">http://arxiv.org/abs/1204.0939</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.0939</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-0939</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-6936" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<author pid="14/3872">Fr&#233;d&#233;ric Vivien</author>
+<author pid="117/3811">Dounia Zaidouni</author>
+<title>Impact of fault prediction on checkpointing strategies</title>
+<ee type="oa">http://arxiv.org/abs/1207.6936</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.6936</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-6936</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-4673" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<title>Approximation algorithms for energy, reliability and makespan optimization problems</title>
+<ee type="oa">http://arxiv.org/abs/1210.4673</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.4673</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-4673</url>
+</article>
+</r>
+<r><article key="journals/tcs/AupyB11" mdate="2021-02-17">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="04/2119">Olivier Bournez</author>
+<title>On the number of binary-minded individuals required to compute sqrt(1/2).</title>
+<pages>2262-2267</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>22</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2011.01.003</ee>
+<url>db/journals/tcs/tcs412.html#AupyB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/spaa/AupyBDR11" mdate="2021-04-09">
+<author pid="72/9357">Guillaume Aupy</author>
+<author orcid="0000-0003-2910-3540" pid="38/4452">Anne Benoit</author>
+<author pid="35/7215">Fanny Dufoss&#233;</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Brief announcement: reclaiming the energy of a schedule, models and algorithms.</title>
+<pages>135-136</pages>
+<year>2011</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1989493.1989512</ee>
+<crossref>conf/spaa/2011</crossref>
+<url>db/conf/spaa/spaa2011.html#AupyBDR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapas/AtkinsACP11" mdate="2017-05-22">
+<author pid="78/9357">Leon Atkins</author>
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="81/9357">Daniel Cole</author>
+<author pid="p/KirkPruhs">Kirk Pruhs</author>
+<title>Speed Scaling to Manage Temperature.</title>
+<pages>9-20</pages>
+<year>2011</year>
+<booktitle>TAPAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19754-3_4</ee>
+<crossref>conf/tapas/2011</crossref>
+<url>db/conf/tapas/tapas2011.html#AtkinsACP11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-5528" mdate="2018-08-13">
+<author pid="72/9357">Guillaume Aupy</author>
+<author pid="38/4452">Anne Benoit</author>
+<author pid="r/YvesRobert">Yves Robert</author>
+<title>Energy-aware scheduling under reliability and makespan constraints</title>
+<ee type="oa">http://arxiv.org/abs/1111.5528</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.5528</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-5528</url>
+</article>
+</r>
+<coauthors n="58" nc="2">
+<co c="1"><na f="a/Aba:Massinissa_Ait" pid="202/6672">Massinissa Ait Aba</na></co>
+<co c="0"><na f="a/Antoniu:Gabriel" pid="a/GabrielAntoniu">Gabriel Antoniu</na></co>
+<co c="0"><na f="a/Atkins:Leon" pid="78/9357">Leon Atkins</na></co>
+<co c="0"><na f="b/Beaumont:Olivier" pid="89/2078">Olivier Beaumont</na></co>
+<co c="0"><na f="b/Benoit:Anne" pid="38/4452">Anne Benoit</na></co>
+<co c="0"><na f="b/Bhattacharjee:Anirban" pid="187/1762">Anirban Bhattacharjee</na></co>
+<co c="0"><na f="b/Booth:Joshua_Dennis" pid="28/9637">Joshua Dennis Booth</na></co>
+<co c="-1"><na f="b/Bournez:Olivier" pid="04/2119">Olivier Bournez</na></co>
+<co c="0"><na f="b/Brasseur:Clement" pid="202/6678">Clement Brasseur</na></co>
+<co c="0"><na f="c/Cappello:Franck" pid="c/FranckCappello">Franck Cappello</na></co>
+<co c="0"><na f="c/Carretero_0001:Jes=uacute=s" pid="c/JCarretero">Jes&#250;s Carretero 0001</na></co>
+<co c="0"><na f="c/Casanova:Henri" pid="25/6606">Henri Casanova</na></co>
+<co c="0"><na f="c/Chhokra:Ajay_Dev" pid="205/5291">Ajay Dev Chhokra</na></co>
+<co c="0"><na f="c/Cole:Daniel" pid="81/9357">Daniel Cole</na></co>
+<co c="0"><na f="d/Dai:Sicheng" pid="209/4389">Sicheng Dai</na></co>
+<co c="0"><na f="d/Dongarra:Jack_J=" pid="d/JackDongarra">Jack J. Dongarra</na></co>
+<co c="0"><na f="d/Du:Yishu" pid="272/2797">Yishu Du</na></co>
+<co c="0"><na f="d/Dufoss=eacute=:Fanny" pid="35/7215">Fanny Dufoss&#233;</na></co>
+<co c="0"><na f="e/Elghazi:Redouane" pid="224/0976">Redouane Elghazi</na></co>
+<co c="0"><na f="e/Eyraud=Dubois:Lionel" pid="e/LionelEyraudDubois">Lionel Eyraud-Dubois</na></co>
+<co c="0"><na f="f/Faverge:Mathieu" pid="18/9881">Mathieu Faverge</na></co>
+<co c="0"><na f="f/F=egrave=vre:Valentin_Le" pid="186/3099">Valentin Le F&#232;vre</na></co>
+<co c="0"><na f="g/Gainaru:Ana" pid="57/8195">Ana Gainaru</na></co>
+<co c="0"><na f="g/Goglin:Brice" pid="59/4382">Brice Goglin</na></co>
+<co c="0"><na f="g/Gokhale:Aniruddha_S=" pid="83/287">Aniruddha S. Gokhale</na></co>
+<co c="0"><na f="h/H=eacute=rault:Thomas" pid="78/3532">Thomas H&#233;rault</na></co>
+<co c="0"><na f="h/Herrmann:Julien" pid="128/8058">Julien Herrmann</na></co>
+<co c="0"><na f="h/Honor=eacute=:Valentin" pid="248/5108">Valentin Honor&#233;</na></co>
+<co c="0"><na f="h/Hovland:Paul_D=" pid="79/3143">Paul D. Hovland</na></co>
+<co c="0"><na f="h/Huo:Yuankai" pid="69/10047">Yuankai Huo</na></co>
+<co c="0"><na f="i/Ibrahim:Shadi" pid="00/981">Shadi Ibrahim</na></co>
+<co c="0"><na f="j/Jeannot:Emmanuel" pid="46/5717">Emmanuel Jeannot</na></co>
+<co c="0"><na f="j/Journault:Matthieu" pid="149/8347">Matthieu Journault</na></co>
+<co c="0"><na f="k/Kabir:Humayun" pid="88/10029">Humayun Kabir</na></co>
+<co c="1"><na f="k/Kordon:Alix_Munier" pid="m/AlixMunierKordon">Alix Munier Kordon</na></co>
+<co c="0"><na f="k/Kurzak:Jakub" pid="83/5249">Jakub Kurzak</na></co>
+<co c="0"><na f="l/Landman:Bennett_A=" pid="74/1206">Bennett A. Landman</na></co>
+<co c="0"><na f="l/Luszczek:Piotr" pid="90/4175">Piotr Luszczek</na></co>
+<co c="0"><na f="m/Marchal:Loris" pid="36/3810">Loris Marchal</na></co>
+<co c="0"><na f="m/Melhem:Rami_G=" pid="m/RamiGMelhem">Rami G. Melhem</na></co>
+<co c="0"><na f="p/Park:JeongHyung" pid="182/2117">JeongHyung Park</na></co>
+<co c="0"><na f="p/Phan:Tien=Dat" pid="177/8564">Tien-Dat Phan</na></co>
+<co c="0" n="2"><na f="p/Pottier:Lo=iuml=c" pid="27/6364">Lo&#239;c Pottier</na><na>Loic Pottier</na></co>
+<co c="0"><na f="p/Pruhs:Kirk" pid="p/KirkPruhs">Kirk Pruhs</na></co>
+<co c="0"><na f="r/Raffin:Bruno" pid="74/2662">Bruno Raffin</na></co>
+<co c="0"><na f="r/Raghavan:Padma" pid="96/6134">Padma Raghavan</na></co>
+<co c="0"><na f="r/Renaud=Goud:Paul" pid="99/9082">Paul Renaud-Goud</na></co>
+<co c="0"><na f="r/Robert:Yves" pid="r/YvesRobert">Yves Robert</na></co>
+<co c="0"><na f="s/Shantharam:Manu" pid="51/7411">Manu Shantharam</na></co>
+<co c="0"><na f="s/Shekhar:Shashank" pid="18/6368">Shashank Shekhar</na></co>
+<co c="0"><na f="s/Singh:David_E=" pid="73/4490">David E. Singh</na></co>
+<co c="0"><na f="s/Snir:Marc" pid="40/3047">Marc Snir</na></co>
+<co c="0"><na f="s/Sun:Hongyang" pid="00/2118">Hongyang Sun</na></co>
+<co c="-1"><na f="t/Tang:Xueyan" pid="23/2460">Xueyan Tang</na></co>
+<co c="0"><na f="v/Vidal:Nicolas" pid="88/8875">Nicolas Vidal</na></co>
+<co c="0"><na f="v/Vivien:Fr=eacute=d=eacute=ric" pid="14/3872">Fr&#233;d&#233;ric Vivien</na></co>
+<co c="0"><na f="z/Zaidouni:Dounia" pid="117/3811">Dounia Zaidouni</na></co>
+<co c="0"><na f="z/Zhou:Amelie_Chi" pid="131/6619">Amelie Chi Zhou</na></co>
+</coauthors>
+</dblpperson>
+

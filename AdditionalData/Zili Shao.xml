@@ -1,3 +1,4083 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:528c4b29631b5e702078bcf7b9b8ec6f72d8f6edce9864ff7be444f2f965a073
-size 182511
+<?xml version="1.0"?>
+<dblpperson name="Zili Shao" pid="08/6845" n="245">
+<person key="homepages/08/6845" mdate="2019-07-30">
+<author pid="08/6845">Zili Shao</author>
+<note type="affiliation">Chinese University of Hong Kong, Department of Computer Science and Engineering, Hong Kong</note>
+<note type="affiliation" label="2005 - 2018">Hong Kong Polytechnic University, Department of Computing, Hong Kong</note>
+<note type="affiliation" label="PhD 2005">University of Texas at Dallas, Department of Computer Science, TX, USA</note>
+<url>http://www.cse.cuhk.edu.hk/~shao/</url>
+<url>https://scholar.google.com/citations?user=HlxIVWYAAAAJ</url>
+<url>https://orcid.org/0000-0002-2173-2847</url>
+<url>https://www.wikidata.org/entity/Q60662644</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=7202244400</url>
+</person>
+<r><article key="journals/pvldb/WangXS21" mdate="2021-03-23">
+<author pid="19/4423">Zhiqi Wang</author>
+<author pid="43/3655">Jin Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Heracles: An Efficient Storage Model And Data Flushing For Performance Monitoring Timeseries.</title>
+<pages>1080-1092</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1080-wang.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#WangXS21</url>
+</article>
+</r>
+<r><article key="journals/tc/MaSWWCGS21" mdate="2021-01-26">
+<author orcid="0000-0002-0497-123X" pid="148/8695">Chenlin Ma</author>
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author orcid="0000-0003-0499-0999" pid="38/9911">Jihe Wang</author>
+<author orcid="0000-0002-5773-3817" pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author pid="04/606">Yong Guan</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Tiler: An Autonomous Region-Based Scheme for SMR Storage.</title>
+<pages>291-304</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TC.2020.2988004</ee>
+<url>db/journals/tc/tc70.html#MaSWWCGS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/ShangWWS21" mdate="2021-02-09">
+<author pid="284/8037">Siqi Shang</author>
+<author pid="246/2473">Qihong Wu</author>
+<author pid="35/8397">Tianyu Wang</author>
+<author pid="08/6845">Zili Shao</author>
+<title>LiteIndex: Memory-Efficient Schema-Agnostic Indexing for JSON documents in SQLite.</title>
+<pages>435-440</pages>
+<year>2021</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3394885.3431518</ee>
+<crossref>conf/aspdac/2021</crossref>
+<url>db/conf/aspdac/aspdac2021.html#ShangWWS21</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeejas/KhanSLWG20" mdate="2020-08-17">
+<author pid="231/3634">Ameer Hamza Khan</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="17/6932">Qixin Wang</author>
+<author pid="45/5411">Nan Guan</author>
+<title>Which is the best PID variant for pneumatic soft robots an experimental study.</title>
+<pages>451-460</pages>
+<year>2020</year>
+<volume>7</volume>
+<journal>IEEE CAA J. Autom. Sinica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/jas.2020.1003045</ee>
+<url>db/journals/ieeejas/ieeejas7.html#KhanSLWG20</url>
+</article>
+</r>
+<r><article key="journals/iotj/WangJWSZCS20" mdate="2020-06-16">
+<author orcid="0000-0001-8823-5872" pid="75/5723">Qian Wang</author>
+<author orcid="0000-0002-7769-4771" pid="99/6654">Zhiping Jia</author>
+<author pid="35/8397">Tianyu Wang</author>
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author orcid="0000-0002-1189-7787" pid="73/11467">Mengying Zhao</author>
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A Highly Parallelized PIM-Based Accelerator for Transaction-Based Blockchain in IoT Environment.</title>
+<pages>4072-4083</pages>
+<year>2020</year>
+<volume>7</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JIOT.2019.2963245</ee>
+<url>db/journals/iotj/iotj7.html#WangJWSZCS20</url>
+</article>
+</r>
+<r><article key="journals/tcad/ZhangSJS20" mdate="2020-09-24">
+<author orcid="0000-0002-8782-2730" pid="03/5274">Zhiyong Zhang</author>
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author orcid="0000-0002-7769-4771" pid="99/6654">Zhiping Jia</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>UniBuffer: Optimizing Journaling Overhead With Unified DRAM and NVM Hybrid Buffer Cache.</title>
+<pages>1792-1805</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCAD.2019.2925366</ee>
+<url>db/journals/tcad/inprogress/ht/db/journals/tcad/tcad39.html#ZhangSJS20</url>
+</article>
+</r>
+<r><article key="journals/tcad/ShenHCMJS20" mdate="2020-12-01">
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author pid="75/2307">Lei Han</author>
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-0497-123X" pid="148/8695">Chenlin Ma</author>
+<author orcid="0000-0002-7769-4771" pid="99/6654">Zhiping Jia</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>An Efficient Directory Entry Lookup Cache With Prefix-Awareness for Mobile Devices.</title>
+<pages>4575-4586</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2020.2978833</ee>
+<url>db/journals/tcad/tcad39.html#ShenHCMJS20</url>
+</article>
+</r>
+<r><article key="journals/todaes/MaWSCWS20" mdate="2020-11-05">
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="03/6588">Zhu Wang</author>
+<author pid="08/6845">Zili Shao</author>
+<title>MNFTL: An Efficient Flash Translation Layer for MLC NAND Flash Memory.</title>
+<pages>50:1-50:19</pages>
+<year>2020</year>
+<volume>25</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3398037</ee>
+<url>db/journals/todaes/todaes25.html#MaWSCWS20</url>
+</article>
+</r>
+<r><article key="journals/tos/JiaSC20" mdate="2020-07-30">
+<author pid="116/8410">Yichen Jia</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="21/3047-5">Feng Chen 0005</author>
+<title>SlimCache: An Efficient Data Compression Scheme for Flash-based Key-value Caching.</title>
+<pages>14:1-14:34</pages>
+<year>2020</year>
+<volume>16</volume>
+<journal>ACM Trans. Storage</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3383124</ee>
+<url>db/journals/tos/tos16.html#JiaSC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/MaWSS20" mdate="2021-02-15">
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>KFR: Optimal Cache Management with K-Framed Reclamation for Drive-Managed SMR Disks.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218636</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#MaWSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/ZhangJPDSZS20" mdate="2020-10-14">
+<author pid="139/5876">Yuhao Zhang</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="270/4073">Yungang Pan</author>
+<author pid="257/1447">Hongchao Du</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="73/11467">Mengying Zhao</author>
+<author pid="08/6845">Zili Shao</author>
+<title>PattPIM: A Practical ReRAM-Based DNN Accelerator by Reusing Weight Pattern Repetitions.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218638</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#ZhangJPDSZS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/ZhangLCSYTSS20" mdate="2020-10-14">
+<author pid="206/2669">Runyu Zhang</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="159/6715">Xianzhang Chen</author>
+<author pid="276/1686">Xiongxiong She</author>
+<author pid="206/2738">Chaoshu Yang</author>
+<author pid="67/8380">Yujuan Tan</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>LOFFS: A Low-Overhead File System for Large Flash Memory on Embedded Devices.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218635</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#ZhangLCSYTSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/WangZMSS20" mdate="2021-01-18">
+<author pid="35/8397">Tianyu Wang</author>
+<author pid="75/905">Wenbin Zhu</author>
+<author pid="59/4969">Qun Ma</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>ABACUS: Address-partitioned Bloom filter on Address Checking for UniquenesS in IoT Blockchain.</title>
+<pages>10:1-10:7</pages>
+<year>2020</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1145/3400302.3415673</ee>
+<ee>https://ieeexplore.ieee.org/document/9256658</ee>
+<crossref>conf/iccad/2020</crossref>
+<url>db/conf/iccad/iccad2020.html#WangZMSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icess/WangWSJS20" mdate="2021-02-08">
+<author pid="35/8397">Tianyu Wang</author>
+<author pid="75/5723">Qian Wang</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Understanding Intrinsic Characteristics and System Implications of DAG-based Blockchain.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ICESS</booktitle>
+<ee>https://doi.org/10.1109/ICESS49830.2020.9301563</ee>
+<crossref>conf/icess/2020</crossref>
+<url>db/conf/icess/icess2020.html#WangWSJS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/WangBS19" mdate="2020-02-22">
+<author pid="03/6588">Zhu Wang</author>
+<author orcid="0000-0002-2194-4006" pid="94/2593">Jalil Boukhobza</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Preserving SSD lifetime in deep learning applications with delta snapshots.</title>
+<pages>63-76</pages>
+<year>2019</year>
+<volume>133</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2019.06.011</ee>
+<url>db/journals/jpdc/jpdc133.html#WangBS19</url>
+</article>
+</r>
+<r><article key="journals/jsa/MaSHCS19" mdate="2020-02-24">
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="75/2307">Lei Han</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>FC: Built-in flash cache with fast cleaning for SMR storage systems.</title>
+<pages>214-220</pages>
+<year>2019</year>
+<volume>98</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.07.011</ee>
+<url>db/journals/jsa/jsa98.html#MaSHCS19</url>
+</article>
+</r>
+<r><article key="journals/tcad/ShenSSG19" mdate="2020-09-24">
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author pid="125/7621">Yuanjing Shi</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>An Efficient LSM-Tree-Based SQLite-Like Database Engine for Mobile Devices.</title>
+<pages>1635-1647</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2855179</ee>
+<url>db/journals/tcad/tcad38.html#ShenSSG19</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChenZWSLSG19" mdate="2020-09-24">
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author pid="91/195">Chi Zhang</author>
+<author orcid="0000-0002-5773-3817" pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author orcid="0000-0002-3040-2065" pid="91/620">Duo Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>DCR: Deterministic Crash Recovery for NAND Flash Storage Systems.</title>
+<pages>2201-2214</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2878179</ee>
+<url>db/journals/tcad/tcad38.html#ChenZWSLSG19</url>
+</article>
+</r>
+<r><article key="journals/tcad/MaSWS19" mdate="2020-09-24">
+<author orcid="0000-0002-0497-123X" pid="148/8695">Chenlin Ma</author>
+<author orcid="0000-0001-9526-6634" pid="150/0554">Zhaoyan Shen</author>
+<author orcid="0000-0002-5773-3817" pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Alleviating Hot Data Write Back Effect for Shingled Magnetic Recording Storage Systems.</title>
+<pages>2243-2254</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2878190</ee>
+<url>db/journals/tcad/tcad38.html#MaSWS19</url>
+</article>
+</r>
+<r><article key="journals/tcps/BhuiyanKLS19" mdate="2020-09-11">
+<author pid="88/7649">Md. Zakirul Alam Bhuiyan</author>
+<author pid="57/264">Sy-Yen Kuo</author>
+<author pid="94/6348">Damian M. Lyons</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Dependability in Cyber-Physical Systems and Applications.</title>
+<pages>1:1-1:4</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>ACM Trans. Cyber Phys. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3271432</ee>
+<url>db/journals/tcps/tcps3.html#BhuiyanKLS19</url>
+</article>
+</r>
+<r><article key="journals/tecs/MaSHS19" mdate="2020-09-08">
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="75/2307">Lei Han</author>
+<author pid="08/6845">Zili Shao</author>
+<title>RMW-F: A Design of RMW-Free Cache Using Built-in NAND-Flash for SMR Storage.</title>
+<pages>65:1-65:18</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>5s</number>
+<ee>https://doi.org/10.1145/3358210</ee>
+<url>db/journals/tecs/tecs18.html#MaSHS19</url>
+</article>
+</r>
+<r><article key="journals/todaes/MuhammadRLSWL19" mdate="2019-12-27">
+<author pid="206/2867">Shaheer Muhammad</author>
+<author pid="33/9804">Muhammad Usman Rafique</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<author pid="l/XueLiu">Xue Liu 0001</author>
+<title>Reconfigurable Battery Systems: A Survey on Hardware Architecture and Research Challenges.</title>
+<pages>19:1-19:27</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3301301</ee>
+<url>db/journals/todaes/todaes24.html#MuhammadRLSWL19</url>
+</article>
+</r>
+<r><article key="journals/tpds/ZhongLWLLRLLSL19" mdate="2020-10-02">
+<author orcid="0000-0001-5278-0406" pid="149/3972">Kan Zhong</author>
+<author orcid="0000-0002-3040-2065" pid="91/620">Duo Liu</author>
+<author pid="43/721">Yunsong Wu</author>
+<author orcid="0000-0003-1966-0714" pid="141/0607">Linbo Long</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="193/1369">Jinting Ren</author>
+<author pid="224/5679">Renping Liu</author>
+<author orcid="0000-0002-2778-455X" pid="62/1052-2">Liang Liang 0002</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="75/4601">Tao Li</author>
+<title>Towards Fast and Lightweight Checkpointing for Mobile Virtualization Using NVRAM.</title>
+<pages>1421-1433</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPDS.2018.2886906</ee>
+<url>db/journals/tpds/tpds30.html#ZhongLWLLRLLSL19</url>
+</article>
+</r>
+<r><article key="journals/tsmc/LiSG19" mdate="2020-05-20">
+<author orcid="0000-0001-8316-5289" pid="57/2281-2">Shuai Li 0002</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>A Dynamic Neural Network Approach for Efficient Control of Manipulators.</title>
+<pages>932-941</pages>
+<year>2019</year>
+<volume>49</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSMC.2017.2690460</ee>
+<ee>https://www.wikidata.org/entity/Q58861044</ee>
+<url>db/journals/tsmc/tsmc49.html#LiSG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/WangSHS19" mdate="2019-01-20">
+<author pid="35/5625">Fang Wang</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="75/2307">Lei Han</author>
+<author pid="08/6845">Zili Shao</author>
+<title>ReRAM-based processing-in-memory architecture for blockchain platforms.</title>
+<pages>615-620</pages>
+<year>2019</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3287624.3287656</ee>
+<crossref>conf/aspdac/2019</crossref>
+<url>db/conf/aspdac/aspdac2019.html#WangSHS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/WuWZMSL19" mdate="2021-02-04">
+<author pid="241/1185">Shangyu Wu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="131/6619">Amelie Chi Zhou</author>
+<author pid="51/5793">Rui Mao 0001</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="75/4601">Tao Li</author>
+<title>Towards Cross-Platform Inference on Edge Devices with Emerging Neuromorphic Architecture.</title>
+<pages>806-811</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8715021</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#WuWZMSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/HanXDSS19" mdate="2020-06-16">
+<author pid="75/2307">Lei Han</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="241/0975">Xuwei Dong</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>DS-Cache: A Refined Directory Entry Lookup Cache with Prefix-Awareness for Mobile Devices.</title>
+<pages>1052-1057</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714968</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#HanXDSS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/WangWSJZS19" mdate="2020-02-19">
+<author pid="75/5723">Qian Wang</author>
+<author pid="35/8397">Tianyu Wang</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="73/11467">Mengying Zhao</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Re-Tangle: A ReRAM-based Processing-in-Memory Architecture for Transaction-based Blockchain.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD45719.2019.8942056</ee>
+<crossref>conf/iccad/2019</crossref>
+<url>db/conf/iccad/iccad2019.html#WangWSJZS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/ShenCYS19" mdate="2020-07-13">
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="21/3047-5">Feng Chen 0005</author>
+<author pid="25/646">Gala Yadgar</author>
+<author pid="08/6845">Zili Shao</author>
+<title>One Size Never Fits All: A Flexible Storage Interface for SSDs.</title>
+<pages>293-303</pages>
+<year>2019</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2019.00037</ee>
+<crossref>conf/icdcs/2019</crossref>
+<url>db/conf/icdcs/icdcs2019.html#ShenCYS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icess/MaSHS19" mdate="2019-08-07">
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="75/2307">Lei Han</author>
+<author pid="08/6845">Zili Shao</author>
+<title>FC: Built-in Flash-cache with fast cleaning for SMR Storage.</title>
+<pages>1-7</pages>
+<year>2019</year>
+<booktitle>ICESS</booktitle>
+<ee>https://doi.org/10.1109/ICESS.2019.8782438</ee>
+<crossref>conf/icess/2019</crossref>
+<url>db/conf/icess/icess2019.html#MaSHS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/ChenSLFL19" mdate="2020-03-24">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="48/195-2">Zhiyong Feng 0002</author>
+<author pid="75/4601">Tao Li</author>
+<title>Towards Efficient NVDIMM-based Heterogeneous Storage Hierarchy Management for Big Data Workloads.</title>
+<pages>849-860</pages>
+<year>2019</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/3352460.3358266</ee>
+<crossref>conf/micro/2019</crossref>
+<url>db/conf/micro/micro2019.html#ChenSLFL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nvmsa/HanASH19" mdate="2019-10-18">
+<author pid="75/2307">Lei Han</author>
+<author pid="94/10663">Hussam Amrouch</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Rebirth-FTL: Lifetime optimization via Approximate Storage for NAND Flash.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA.2019.8863527</ee>
+<crossref>conf/nvmsa/2019</crossref>
+<url>db/conf/nvmsa/nvmsa2019.html#HanASH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nvmsa/HanTXMS19" mdate="2019-10-18">
+<author pid="75/2307">Lei Han</author>
+<author pid="251/1370">Shangzhen Tan</author>
+<author pid="43/5134">Bin Xiao</author>
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Optimizing Cauchy Reed-Solomon Coding via ReRAM Crossbars in SSD-based RAID Systems.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA.2019.8863519</ee>
+<crossref>conf/nvmsa/2019</crossref>
+<url>db/conf/nvmsa/nvmsa2019.html#HanTXMS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/ChangSLKZ18" mdate="2020-03-13">
+<author pid="84/5634">Naehyuck Chang</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="09/1365">Xin Li</author>
+<author pid="151/7702">Orkun Karabasoglu</author>
+<author pid="73/2915">Wende Zhang</author>
+<title>Guest Editors' Introduction: Special Issue on Energy and Power Management for Electric Vehicles.</title>
+<pages>5-7</pages>
+<year>2018</year>
+<volume>35</volume>
+<journal>IEEE Des. Test</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDAT.2018.2863702</ee>
+<url>db/journals/dt/dt35.html#ChangSLKZ18</url>
+</article>
+</r>
+<r><article key="journals/dt/ChangFSXCB18" mdate="2021-03-25">
+<author pid="84/5634">Naehyuck Chang</author>
+<author orcid="0000-0002-5390-0497" pid="06/1521">Mohammad Abdullah Al Faruque</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="80/1641">Yiran Chen</author>
+<author pid="87/9256">Donkyu Baek</author>
+<title>Survey of Low-Power Electric Vehicles: A Design Automation Perspective.</title>
+<pages>44-70</pages>
+<year>2018</year>
+<volume>35</volume>
+<journal>IEEE Des. Test</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDAT.2018.2873475</ee>
+<url>db/journals/dt/dt35.html#ChangFSXCB18</url>
+</article>
+</r>
+<r><article key="journals/jsa/KangZSCW18" mdate="2020-02-24">
+<author orcid="0000-0001-7204-0798" pid="54/11351">Yimei Kang</author>
+<author orcid="0000-0002-8872-004X" pid="35/8549">Xingyu Zhang</author>
+<author pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<title>A reliability enhanced video storage architecture in hybrid SLC/MLC NAND flash memory.</title>
+<pages>33-42</pages>
+<year>2018</year>
+<volume>88</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2018.05.006</ee>
+<url>db/journals/jsa/jsa88.html#KangZSCW18</url>
+</article>
+</r>
+<r><article key="journals/tcad/HanTZASY18" mdate="2020-09-24">
+<author orcid="0000-0002-9241-2525" pid="35/1282">Jian-Jun Han</author>
+<author pid="98/7443">Xin Tao</author>
+<author pid="64/4129">Dakai Zhu 0001</author>
+<author pid="95/5362">Hakan Aydin</author>
+<author pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-7986-4244" pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<title>Multicore Mixed-Criticality Systems: Partitioned Scheduling and Utilization Bound.</title>
+<pages>21-34</pages>
+<year>2018</year>
+<volume>37</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCAD.2017.2697955</ee>
+<ee>https://www.wikidata.org/entity/Q57920590</ee>
+<url>db/journals/tcad/tcad37.html#HanTZASY18</url>
+</article>
+</r>
+<r><article key="journals/tie/WangCMS18" mdate="2021-02-04">
+<author orcid="0000-0002-5773-3817" pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0003-0699-1610" pid="222/3787">Ruibiao Chen</author>
+<author pid="51/5793">Rui Mao 0001</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Optimally Removing Synchronization Overhead for CNNs in Three-Dimensional Neuromorphic Architecture.</title>
+<pages>8973-8981</pages>
+<year>2018</year>
+<volume>65</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIE.2018.2813959</ee>
+<url>db/journals/tie/tie65.html#WangCMS18</url>
+</article>
+</r>
+<r><article key="journals/todaes/BoukhobzaRCS18" mdate="2019-09-25">
+<author orcid="0000-0002-2194-4006" pid="94/2593">Jalil Boukhobza</author>
+<author pid="56/4743">St&#233;phane Rubini</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Emerging NVM: A Survey on Architectural Integration and Research Challenges.</title>
+<pages>14:1-14:32</pages>
+<year>2018</year>
+<volume>23</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3131848</ee>
+<url>db/journals/todaes/todaes23.html#BoukhobzaRCS18</url>
+</article>
+</r>
+<r><article key="journals/tos/HanSLSHL18" mdate="2020-07-30">
+<author pid="75/2307">Lei Han</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="39/560">H. Howie Huang</author>
+<author pid="75/4601">Tao Li</author>
+<title>A Novel ReRAM-Based Processing-in-Memory Architecture for Graph Traversal.</title>
+<pages>9:1-9:26</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>ACM Trans. Storage</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3177916</ee>
+<url>db/journals/tos/tos14.html#HanSLSHL18</url>
+</article>
+</r>
+<r><article key="journals/tos/ShenCJS18" mdate="2020-07-30">
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="21/3047-5">Feng Chen 0005</author>
+<author pid="116/8410">Yichen Jia</author>
+<author pid="08/6845">Zili Shao</author>
+<title>DIDACache: An Integration of Device and Application for Flash-based Key-value Caching.</title>
+<pages>26:1-26:32</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>ACM Trans. Storage</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3203410</ee>
+<url>db/journals/tos/tos14.html#ShenCJS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/ShiSS18" mdate="2018-04-09">
+<author pid="125/7621">Yuanjing Shi</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<title>SQLiteKV: An efficient LSM-tree-based SQLite-like database engine for mobile devices.</title>
+<pages>28-33</pages>
+<year>2018</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2018.8297278</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3201614</ee>
+<crossref>conf/aspdac/2018</crossref>
+<url>db/conf/aspdac/aspdac2018.html#ShiSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/QiuCXX0S18" mdate="2020-08-05">
+<author pid="132/8163">Keni Qiu</author>
+<author pid="205/8888">Weiwen Chen</author>
+<author pid="78/10373-2">Yuanchao Xu 0002</author>
+<author pid="160/1534">Lixue Xia</author>
+<author pid="w/YuWang2">Yu Wang 0002</author>
+<author pid="08/6845">Zili Shao</author>
+<title>A peripheral circuit reuse structure integrated with a retimed data flow for low power RRAM crossbar-based CNN.</title>
+<pages>1057-1062</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342168</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#QiuCXX0S18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/KangZSC018" mdate="2018-09-18">
+<author pid="54/11351">Yimei Kang</author>
+<author pid="35/8549">Xingyu Zhang</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<title>A Reliable Video Storage Architecture in Hybrid SLC/MLC Nand Flash.</title>
+<pages>1095-1099</pages>
+<year>2018</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2018.8462147</ee>
+<crossref>conf/icassp/2018</crossref>
+<url>db/conf/icassp/icassp2018.html#KangZSC018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/HanSSL18" mdate="2018-11-21">
+<author pid="75/2307">Lei Han</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="75/4601">Tao Li</author>
+<title>Optimizing RAID/SSD controllers with lifetime extension for flash-based SSD array.</title>
+<pages>44-54</pages>
+<year>2018</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/3211332.3211338</ee>
+<crossref>conf/lctrts/2018</crossref>
+<url>db/conf/lctrts/lctes2018.html#HanSSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/JiaSC18" mdate="2020-07-13">
+<author pid="116/8410">Yichen Jia</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="21/3047-5">Feng Chen 0005</author>
+<title>SlimCache: Exploiting Data Compression Opportunities in Flash-Based Key-Value Caching.</title>
+<pages>209-222</pages>
+<year>2018</year>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOTS.2018.00029</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOTS.2018.00029</ee>
+<crossref>conf/mascots/2018</crossref>
+<url>db/conf/mascots/mascots2018.html#JiaSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nvmsa/WangMSMS18" mdate="2018-12-01">
+<author pid="38/9911">Jihe Wang</author>
+<author pid="148/8695">Chenlin Ma</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="206/2867">Shaheer Muhammad</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Tiler: An Autonomous Region-Based Scheme with Fast Cleaning for SMR Storage.</title>
+<pages>13-18</pages>
+<year>2018</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA.2018.00010</ee>
+<crossref>conf/nvmsa/2018</crossref>
+<url>db/conf/nvmsa/nvmsa2018.html#WangMSMS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/ZhuLLZLQSS17" mdate="2020-02-19">
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="62/1052-2">Liang Liang 0002</author>
+<author pid="149/3972">Kan Zhong</author>
+<author pid="141/0607">Linbo Long</author>
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Revisiting swapping in mobile systems with SwapBench.</title>
+<pages>265-275</pages>
+<year>2017</year>
+<volume>74</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.05.026</ee>
+<url>db/journals/fgcs/fgcs74.html#ZhuLLZLQSS17</url>
+</article>
+</r>
+<r><article key="journals/jsa/WangWLSX17" mdate="2020-10-26">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-0380-3506" pid="x/JinglingXue">Jingling Xue</author>
+<title>Fine grained, direct access file system support for storage class memory.</title>
+<pages>80-92</pages>
+<year>2017</year>
+<volume>72</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2016.07.003</ee>
+<url>db/journals/jsa/jsa72.html#WangWLSX17</url>
+</article>
+</r>
+<r><article key="journals/jsa/LiuLLSG17" mdate="2020-02-24">
+<author pid="91/620">Duo Liu</author>
+<author pid="149/4001">Xianlu Luo</author>
+<author pid="37/4190">Yang Li</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>An energy-efficient encryption mechanism for NVM-based main memory in mobile systems.</title>
+<pages>47-57</pages>
+<year>2017</year>
+<volume>76</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2016.11.002</ee>
+<url>db/journals/jsa/jsa76.html#LiuLLSG17</url>
+</article>
+</r>
+<r><article key="journals/mam/WangDMGS17" mdate="2020-02-22">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/8818">Lisha Dong</author>
+<author pid="84/2082">Zhong Ming 0001</author>
+<author pid="04/606">Yong Guan</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Virtual duplication and mapping prefetching for emerging storage primitives in NAND flash memory storage systems.</title>
+<pages>54-65</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2017.02.008</ee>
+<url>db/journals/mam/mam50.html#WangDMGS17</url>
+</article>
+</r>
+<r><article key="journals/mam/LiuYLSG17" mdate="2020-02-22">
+<author pid="91/620">Duo Liu</author>
+<author pid="90/3572">Lei Yao</author>
+<author pid="141/0607">Linbo Long</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>A workload-aware flash translation layer enhancing performance and lifespan of TLC/SLC dual-mode flash memory in embedded systems.</title>
+<pages>343-354</pages>
+<year>2017</year>
+<volume>52</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2016.12.009</ee>
+<url>db/journals/mam/mam52.html#LiuYLSG17</url>
+</article>
+</r>
+<r><article key="journals/tc/ChenWLSJ17" mdate="2018-08-13">
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="08/237">Song Jiang</author>
+<title>Heating Dispersal for Self-Healing NAND Flash Memory.</title>
+<pages>361-367</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TC.2016.2595572</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2016.2595572</ee>
+<url>db/journals/tc/tc66.html#ChenWLSJ17</url>
+</article>
+</r>
+<r><article key="journals/tc/GuanWMCWS17" mdate="2017-09-16">
+<author pid="04/606">Yong Guan</author>
+<author pid="48/2396">Guohui Wang</author>
+<author pid="148/8695">Chenlin Ma</author>
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="08/6845">Zili Shao</author>
+<title>A Block-Level Log-Block Management Scheme for MLC NAND Flash Memory Storage Systems.</title>
+<pages>1464-1477</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TC.2017.2679180</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2017.2679180</ee>
+<url>db/journals/tc/tc66.html#GuanWMCWS17</url>
+</article>
+</r>
+<r><article key="journals/tc/LiuZZLLS17" mdate="2017-10-18">
+<author pid="91/620">Duo Liu</author>
+<author pid="149/3972">Kan Zhong</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="37/4190">Yang Li</author>
+<author pid="207/0330">Lingbo Long</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Non-Volatile Memory Based Page Swapping for Building High-Performance Mobile Devices.</title>
+<pages>1918-1931</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TC.2017.2711620</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2017.2711620</ee>
+<url>db/journals/tc/tc66.html#LiuZZLLS17</url>
+</article>
+</r>
+<r><article key="journals/tcad/ChenWHLSG17" mdate="2020-09-24">
+<author orcid="0000-0002-0233-5838" pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<author orcid="0000-0002-3040-2065" pid="91/620">Duo Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>vFlash: Virtualized Flash for Optimizing the I/O Performance in Mobile Devices.</title>
+<pages>1203-1214</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCAD.2016.2618881</ee>
+<url>db/journals/tcad/tcad36.html#ChenWHLSG17</url>
+</article>
+</r>
+<r><article key="journals/tecs/ZengYLSZ17" mdate="2020-09-08">
+<author pid="44/3331">Jing Zeng</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<author pid="78/3592">Man Lin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="64/4129">Dakai Zhu 0001</author>
+<title>System-Level Design Optimization for Security-Critical Cyber-Physical-Social Systems.</title>
+<pages>39:1-39:21</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2925991</ee>
+<url>db/journals/tecs/tecs16.html#ZengYLSZ17</url>
+</article>
+</r>
+<r><article key="journals/tecs/LiuLTYS17" mdate="2020-09-08">
+<author pid="28/3062">Anfeng Liu</author>
+<author pid="82/1364-7">Xiao Liu 0007</author>
+<author pid="143/0468">Zhipeng Tang</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Preserving Smart Sink-Location Privacy with Delay Guaranteed Routing Scheme for WSNs.</title>
+<pages>68:1-68:25</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2990500</ee>
+<url>db/journals/tecs/tecs16.html#LiuLTYS17</url>
+</article>
+</r>
+<r><article key="journals/tecs/ShenHLWS17" mdate="2020-09-08">
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="140/4276">Zhijian He</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A Multi-Quadcopter Cooperative Cyber-Physical System for Timely Air Pollution Localization.</title>
+<pages>70:1-70:23</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3005716</ee>
+<ee>https://www.wikidata.org/entity/Q59202982</ee>
+<url>db/journals/tecs/tecs16.html#ShenHLWS17</url>
+</article>
+</r>
+<r><article key="journals/tii/MuhammadRLSWG17" mdate="2020-05-21">
+<author pid="206/2867">Shaheer Muhammad</author>
+<author pid="33/9804">Muhammad Usman Rafique</author>
+<author orcid="0000-0001-8316-5289" pid="57/2281-2">Shuai Li 0002</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="17/6932">Qixin Wang</author>
+<author pid="45/5411">Nan Guan</author>
+<title>A Robust Algorithm for State-of-Charge Estimation With Gain Optimization.</title>
+<pages>2983-2994</pages>
+<year>2017</year>
+<volume>13</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TII.2017.2699219</ee>
+<ee>https://www.wikidata.org/entity/Q58861006</ee>
+<url>db/journals/tii/tii13.html#MuhammadRLSWG17</url>
+</article>
+</r>
+<r><article key="journals/tpds/LiuZWWSSX17" mdate="2020-10-26">
+<author pid="91/620">Duo Liu</author>
+<author pid="149/3972">Kan Zhong</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0003-0380-3506" pid="x/JinglingXue">Jingling Xue</author>
+<title>Durable Address Translation in PCM-Based Flash Storage Systems.</title>
+<pages>475-490</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TPDS.2016.2586059</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2016.2586059</ee>
+<url>db/journals/tpds/tpds28.html#LiuZWWSSX17</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/GuoWSC17" mdate="2020-03-11">
+<author orcid="0000-0002-5256-9499" pid="77/2751-2">Jie Guo 0002</author>
+<author pid="28/4366">Danghui Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="80/1641">Yiran Chen</author>
+<title>Data-Pattern-Aware Error Prevention Technique to Improve System Reliability.</title>
+<pages>1433-1443</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TVLSI.2016.2642055</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVLSI.2016.2642055</ee>
+<url>db/journals/tvlsi/tvlsi25.html#GuoWSC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/fast/ShenCJS17" mdate="2021-02-02">
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="21/3047-5">Feng Chen 0005</author>
+<author pid="116/8410">Yichen Jia</author>
+<author pid="08/6845">Zili Shao</author>
+<title>DIDACache: A Deep Integration of Device and Application for Flash Based Key-Value Caching.</title>
+<pages>391-405</pages>
+<year>2017</year>
+<booktitle>FAST</booktitle>
+<ee type="oa">https://www.usenix.org/conference/fast17/technical-sessions/presentation/shen</ee>
+<crossref>conf/fast/2017</crossref>
+<url>db/conf/fast/fast2017.html#ShenCJS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nvmsa/HanSSHL17" mdate="2017-10-24">
+<author pid="75/2307">Lei Han</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="39/560">H. Howie Huang</author>
+<author pid="75/4601">Tao Li</author>
+<title>A novel ReRAM-based processing-in-memory architecture for graph computing.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA.2017.8064464</ee>
+<crossref>conf/nvmsa/2017</crossref>
+<url>db/conf/nvmsa/nvmsa2017.html#HanSSHL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nvmsa/LiJPZSX17" mdate="2019-11-05">
+<author pid="73/2252">Lin Li</author>
+<author pid="21/3839-16">Wei Jiang 0016</author>
+<author pid="74/9957">Rui Pan</author>
+<author pid="10/6219">Jinyu Zhan</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="207/4010">Xiankui Xiong</author>
+<title>On-line memorry defragmentation for NVM-based persistent heaps.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA.2017.8064471</ee>
+<crossref>conf/nvmsa/2017</crossref>
+<url>db/conf/nvmsa/nvmsa2017.html#LiJPZSX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/MuhammadGLWS17" mdate="2017-12-15">
+<author pid="206/2867">Shaheer Muhammad</author>
+<author pid="45/5411">Nan Guan</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="17/6932">Qixin Wang</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Efficient and balanced charging of reconfigurable battery with variable power supply.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2017.8046316</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2017.8046316</ee>
+<crossref>conf/rtcsa/2017</crossref>
+<url>db/conf/rtcsa/rtcsa2017.html#MuhammadGLWS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi-dat/Shao17" mdate="2017-06-20">
+<author pid="08/6845">Zili Shao</author>
+<title>Utilizing NVDIMM to alleviate the I/O performance gap for big data workloads.</title>
+<pages>1</pages>
+<year>2017</year>
+<booktitle>VLSI-DAT</booktitle>
+<ee>https://doi.org/10.1109/VLSI-DAT.2017.7939705</ee>
+<crossref>conf/vlsi-dat/2017</crossref>
+<url>db/conf/vlsi-dat/vlsi-dat2017.html#Shao17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/lctrts/2017" mdate="2018-11-06">
+<editor pid="24/1972">Vijay Nagarajan</editor>
+<editor pid="08/6845">Zili Shao</editor>
+<title>Proceedings of the 18th ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES 2017, Barcelona, Spain, June 21-22, 2017</title>
+<booktitle>LCTES</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-5030-3</isbn>
+<ee>https://doi.org/10.1145/3078633</ee>
+<url>db/conf/lctrts/lctes2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/computing/WangGWS16" mdate="2020-08-06">
+<author pid="48/2396">Guohui Wang</author>
+<author pid="04/606">Yong Guan</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Energy-aware assignment and scheduling for hybrid main memory in embedded systems.</title>
+<pages>279-301</pages>
+<year>2016</year>
+<volume>98</volume>
+<journal>Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00607-015-0464-7</ee>
+<url>db/journals/computing/computing98.html#WangGWS16</url>
+</article>
+</r>
+<r><article key="journals/fgcs/WeiSHCGTS16" mdate="2020-02-19">
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="63/9966">Zhenzhou Shao</author>
+<author pid="22/3870">Zhen Huang</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="04/606">Yong Guan</author>
+<author orcid="0000-0003-0339-8811" pid="63/3567">Jindong Tan</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>RT-ROS: A real-time ROS architecture on multi-core processors.</title>
+<pages>171-178</pages>
+<year>2016</year>
+<volume>56</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2015.05.008</ee>
+<url>db/journals/fgcs/fgcs56.html#WeiSHCGTS16</url>
+</article>
+</r>
+<r><article key="journals/jirs/KhanLWS16" mdate="2020-04-07">
+<author orcid="0000-0002-9195-3477" pid="88/6739">Muhammad Umer Khan</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="17/6932">Qixin Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Formation Control and Tracking for Co-operative Robots with Non-holonomic Constraints - Categories (2), (3).</title>
+<pages>163-174</pages>
+<year>2016</year>
+<volume>82</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10846-015-0287-y</ee>
+<url>db/journals/jirs/jirs82.html#KhanLWS16</url>
+</article>
+</r>
+<r><article key="journals/jsa/ShaoC16" mdate="2021-01-07">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="49/2395">Yuan-Hao Chang 0001</author>
+<title>Non-Volatile memory (NVM) technologies.</title>
+<pages>1</pages>
+<year>2016</year>
+<volume>71</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2016.11.007</ee>
+<url>db/journals/jsa/jsa71.html#ShaoC16</url>
+</article>
+</r>
+<r><article key="journals/spe/ChenSMSG16" mdate="2020-04-09">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="148/8695">Chenlin Ma</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>NVMRA: utilizing NVM to improve the random write operations for NAND-flash-based mobile devices.</title>
+<pages>1263-1284</pages>
+<year>2016</year>
+<volume>46</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/spe.2378</ee>
+<url>db/journals/spe/spe46.html#ChenSMSG16</url>
+</article>
+</r>
+<r><article key="journals/taas/KhanLWS16" mdate="2020-03-24">
+<author orcid="0000-0002-9195-3477" pid="88/6739">Muhammad Umer Khan</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="17/6932">Qixin Wang</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Distributed Multirobot Formation and Tracking Control in Cluttered Environments.</title>
+<pages>12:1-12:22</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>ACM Trans. Auton. Adapt. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2910584</ee>
+<url>db/journals/taas/taas11.html#KhanLWS16</url>
+</article>
+</r>
+<r><article key="journals/tcad/HuangLQWS16" mdate="2020-09-24">
+<author pid="44/1356-2">Min Huang 0002</author>
+<author pid="28/2621">Zhaoqing Liu</author>
+<author pid="64/10696">Liyan Qiao</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>An Endurance-Aware Metadata Allocation Strategy for MLC NAND Flash Memory Storage Systems.</title>
+<pages>691-694</pages>
+<year>2016</year>
+<volume>35</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2474394</ee>
+<url>db/journals/tcad/tcad35.html#HuangLQWS16</url>
+</article>
+</r>
+<r><article key="journals/tcad/KhanLWS16" mdate="2020-09-24">
+<author orcid="0000-0002-9195-3477" pid="88/6739">Muhammad Umer Khan</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>CPS Oriented Control Design for Networked Surveillance Robots With Multiple Physical Constraints.</title>
+<pages>778-791</pages>
+<year>2016</year>
+<volume>35</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCAD.2016.2524653</ee>
+<ee>https://www.wikidata.org/entity/Q59202989</ee>
+<url>db/journals/tcad/tcad35.html#KhanLWS16</url>
+</article>
+</r>
+<r><article key="journals/tcad/LongLLZZSS16" mdate="2020-09-24">
+<author pid="141/0607">Linbo Long</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="62/1052-2">Liang Liang 0002</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="149/3972">Kan Zhong</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Morphable Resistive Memory Optimization for Mobile Virtualization.</title>
+<pages>891-904</pages>
+<year>2016</year>
+<volume>35</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2495264</ee>
+<url>db/journals/tcad/tcad35.html#LongLLZZSS16</url>
+</article>
+</r>
+<r><article key="journals/tecs/ChenWHLSG16" mdate="2020-09-08">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="37/3401">Jingtong Hu</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>Image-Content-Aware I/O Optimization for Mobile Virtualization.</title>
+<pages>12:1-12:24</pages>
+<year>2016</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>1</number>
+<ee>http://dl.acm.org/citation.cfm?id=2950059</ee>
+<url>db/journals/tecs/tecs16.html#ChenWHLSG16</url>
+</article>
+</r>
+<r><article key="journals/tmscs/WangQCSWLY16" mdate="2020-09-02">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<title>A Real-Time Flash Translation Layer for NAND Flash Memory Storage Systems.</title>
+<pages>17-29</pages>
+<year>2016</year>
+<volume>2</volume>
+<journal>IEEE Trans. Multi Scale Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TMSCS.2016.2516015</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMSCS.2016.2516015</ee>
+<ee>https://www.wikidata.org/entity/Q59202984</ee>
+<url>db/journals/tmscs/tmscs2.html#WangQCSWLY16</url>
+</article>
+</r>
+<r><article key="journals/todaes/WangQCSY16" mdate="2018-11-06">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<title>An Adaptive Demand-Based Caching Mechanism for NAND Flash Memory Storage Systems.</title>
+<pages>18:1-18:22</pages>
+<year>2016</year>
+<volume>22</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2947658</ee>
+<url>db/journals/todaes/todaes22.html#WangQCSY16</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/WuS16" mdate="2020-03-12">
+<author pid="72/6531">Kaijie Wu 0001</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Guest Editorial: Real-Time and Embedded Systems.</title>
+<pages>1-2</pages>
+<year>2016</year>
+<volume>84</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s11265-016-1132-7</ee>
+<url>db/journals/vlsisp/vlsisp84.html#WuS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsys/WuNZWRHSJ16" mdate="2020-04-23">
+<author pid="145/0651">Xingbo Wu</author>
+<author pid="133/6961">Fan Ni</author>
+<author pid="89/5992-2">Li Zhang 0002</author>
+<author pid="54/6926">Yandong Wang</author>
+<author pid="118/5479">Yufei Ren</author>
+<author pid="70/6076">Michel Hack</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="08/237">Song Jiang</author>
+<title>NVMcached: An NVM-based Key-Value Cache.</title>
+<pages>18:1-18:7</pages>
+<year>2016</year>
+<booktitle>APSys</booktitle>
+<ee>https://doi.org/10.1145/2967360.2967374</ee>
+<crossref>conf/apsys/2016</crossref>
+<url>db/conf/apsys/apsys2016.html#WuNZWRHSJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/ChenSYL16" mdate="2017-09-16">
+<author pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="03/711">Chia-Lin Yang</author>
+<author pid="75/4601">Tao Li</author>
+<title>MCSSim: A memory channel storage simulator.</title>
+<pages>153-158</pages>
+<year>2016</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2016.7428004</ee>
+<crossref>conf/aspdac/2016</crossref>
+<url>db/conf/aspdac/aspdac2016.html#ChenSYL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/SteinhorstSCKLL16" mdate="2019-06-02">
+<author orcid="0000-0002-4096-2584" pid="96/4490">Sebastian Steinhorst</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-0503-6235" pid="c/SamarjitChakraborty">Samarjit Chakraborty</author>
+<author pid="123/8157">Matthias Kauer</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="74/5364">Martin Lukasiewycz</author>
+<author pid="144/4482">Swaminathan Narayanaswamy</author>
+<author pid="33/9804">Muhammad Usman Rafique</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<title>Distributed reconfigurable Battery System Management Architectures.</title>
+<pages>429-434</pages>
+<year>2016</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2016.7428049</ee>
+<ee>https://www.wikidata.org/entity/Q59202992</ee>
+<crossref>conf/aspdac/2016</crossref>
+<url>db/conf/aspdac/aspdac2016.html#SteinhorstSCKLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ZhongLLLLS16" mdate="2017-12-13">
+<author pid="149/3972">Kan Zhong</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="62/1052-2">Liang Liang 0002</author>
+<author pid="141/0607">Linbo Long</author>
+<author pid="42/5120">Yi Lin</author>
+<author pid="08/6845">Zili Shao</author>
+<title>FLIC: Fast, lightweight checkpointing for mobile virtualization using NVRAM.</title>
+<pages>1562-1567</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7459562/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#ZhongLLLLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotstorage/ShenCJS16" mdate="2021-02-02">
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="21/3047-5">Feng Chen 0005</author>
+<author pid="116/8410">Yichen Jia</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Optimizing Flash-based Key-value Cache Systems.</title>
+<year>2016</year>
+<booktitle>HotStorage</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotstorage16/workshop-program/presentation/shen</ee>
+<crossref>conf/hotstorage/2016</crossref>
+<url>db/conf/hotstorage/hotstorage2016.html#ShenCJS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/ChenSL16" mdate="2018-03-10">
+<author pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="75/4601">Tao Li</author>
+<title>Bridging the I/O performance gap for big data workloads: A new NVDIMM-based approach.</title>
+<pages>9:1-9:12</pages>
+<year>2016</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2016.7783712</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICRO.2016.7783712</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3195649</ee>
+<crossref>conf/micro/2016</crossref>
+<url>db/conf/micro/micro2016.html#ChenSL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/JiangMZWS15" mdate="2020-10-26">
+<author pid="21/3839-16">Wei Jiang 0016</author>
+<author pid="08/6794-1">Yue Ma 0001</author>
+<author pid="98/480">Xia Zhang</author>
+<author orcid="0000-0002-4160-8552" pid="141/0617">Xupeng Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Adaptive security management of real-time storage applications over NAND based storage systems.</title>
+<pages>139-153</pages>
+<year>2015</year>
+<volume>52</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2015.02.009</ee>
+<url>db/journals/jnca/jnca52.html#JiangMZWS15</url>
+</article>
+</r>
+<r><article key="journals/tc/ChenQWLSG15" mdate="2017-09-16">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>On-Demand Block-Level Address Mapping in Large-Scale NAND Flash Storage Systems.</title>
+<pages>1729-1741</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TC.2014.2329680</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2014.2329680</ee>
+<url>db/journals/tc/tc64.html#ChenQWLSG15</url>
+</article>
+</r>
+<r><article key="journals/tcad/WangGYS15" mdate="2020-09-24">
+<author pid="03/6588">Zhu Wang</author>
+<author pid="93/1025">Zonghua Gu</author>
+<author pid="66/4094">Min Yao</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Endurance-Aware Allocation of Data Variables on NVM-Based Scratchpad Memory in Real-Time Embedded Systems.</title>
+<pages>1600-1612</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2422846</ee>
+<url>db/journals/tcad/tcad34.html#WangGYS15</url>
+</article>
+</r>
+<r><article key="journals/tecs/JiaLWWS15" mdate="2020-09-08">
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="37/4190">Yang Li</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Temperature-Aware Data Allocation for Embedded Systems with Cache and Scratchpad Memory.</title>
+<pages>30:1-30:24</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2629650</ee>
+<url>db/journals/tecs/tecs14.html#JiaLWWS15</url>
+</article>
+</r>
+<r><article key="journals/tecs/WangLWS15" mdate="2020-09-08">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Towards Write-Activity-Aware Page Table Management for Non-volatile Main Memories.</title>
+<pages>34:1-34:23</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2697394</ee>
+<url>db/journals/tecs/tecs14.html#WangLWS15</url>
+</article>
+</r>
+<r><article key="journals/todaes/ZhangLWZ0S15" mdate="2018-11-06">
+<author pid="52/323">Qi Zhang</author>
+<author pid="76/5446">Xuandong Li</author>
+<author pid="63/829">Linzhang Wang</author>
+<author pid="13/2913-1">Tian Zhang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Lazy-RTGC: A Real-Time Lazy Garbage Collection Mechanism with Jointly Optimizing Average and Worst Performance for NAND Flash Memory Storage Systems.</title>
+<pages>43:1-43:32</pages>
+<year>2015</year>
+<volume>20</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2746236</ee>
+<url>db/journals/todaes/todaes20.html#ZhangLWZ0S15</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/WangGS15" mdate="2020-03-11">
+<author pid="03/6588">Zhu Wang</author>
+<author pid="93/1025">Zonghua Gu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>WCET-Aware Energy-Efficient Data Allocation on Scratchpad Memory for Real-Time Embedded Systems.</title>
+<pages>2700-2704</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVLSI.2014.2379635</ee>
+<url>db/journals/tvlsi/tvlsi23.html#WangGS15</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/KangH0S15" mdate="2020-03-12">
+<author pid="54/11351">Yimei Kang</author>
+<author pid="00/6381">Bin Hu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A Scale Self-Adaptive Tracking Method Based on Moment Invariants.</title>
+<pages>197-212</pages>
+<year>2015</year>
+<volume>81</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11265-014-0935-7</ee>
+<url>db/journals/vlsisp/vlsisp81.html#KangH0S15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/LongLZZSS15" mdate="2017-09-16">
+<author pid="141/0607">Linbo Long</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="149/3972">Kan Zhong</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Balloonfish: Utilizing morphable resistive memory in mobile virtualization.</title>
+<pages>322-327</pages>
+<year>2015</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2015.7059025</ee>
+<crossref>conf/aspdac/2015</crossref>
+<url>db/conf/aspdac/aspdac2015.html#LongLZZSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/HuangWLQS15" mdate="2018-06-04">
+<author pid="44/1356-2">Min Huang 0002</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="28/2621">Zhaoqing Liu</author>
+<author pid="64/10696">Liyan Qiao</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A Garbage Collection Aware Stripping method for Solid-State Drives.</title>
+<pages>334-339</pages>
+<year>2015</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2015.7059027</ee>
+<crossref>conf/aspdac/2015</crossref>
+<url>db/conf/aspdac/aspdac2015.html#HuangWLQS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/ChenWHLSG15" mdate="2017-09-16">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>Unified non-volatile memory and NAND flash memory architecture in smartphones.</title>
+<pages>340-345</pages>
+<year>2015</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2015.7059028</ee>
+<crossref>conf/aspdac/2015</crossref>
+<url>db/conf/aspdac/aspdac2015.html#ChenWHLSG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emsoft/PanXYSH15" mdate="2017-11-06">
+<author pid="77/3991">Chen Pan</author>
+<author pid="151/6207">Mimi Xie</author>
+<author pid="06/4401">Chengmo Yang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<title>Nonvolatile main memory aware garbage collection in high-level language virtual machine.</title>
+<pages>197-206</pages>
+<year>2015</year>
+<booktitle>EMSOFT</booktitle>
+<ee>https://doi.org/10.1109/EMSOFT.2015.7318275</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2830887</ee>
+<crossref>conf/emsoft/2015</crossref>
+<url>db/conf/emsoft/emsoft2015.html#PanXYSH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/HuangWQLS15" mdate="2018-06-09">
+<author pid="44/1356-2">Min Huang 0002</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="64/10696">Liyan Qiao</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>SmartBackup: An Efficient and Reliable Backup Strategy for Solid State Drives with Backup Capacitors.</title>
+<pages>746-751</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.180</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#HuangWQLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/ZhangLLYZS15" mdate="2017-12-13">
+<author pid="21/802-11">Dan Zhang 0011</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="62/1052-2">Liang Liang 0002</author>
+<author pid="90/3572">Lei Yao</author>
+<author pid="149/3972">Kan Zhong</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>NV-CFS: NVRAM-Assisted Scheduling Optimization for Virtualized Mobile Systems.</title>
+<pages>802-805</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.37</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#ZhangLLYZS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/YaoLZLS15" mdate="2017-09-16">
+<author pid="90/3572">Lei Yao</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="149/3972">Kan Zhong</author>
+<author pid="141/0607">Linbo Long</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>TLC-FTL: Workload-Aware Flash Translation Layer for TLC/SLC Dual-Mode Flash Memory in Embedded Systems.</title>
+<pages>831-834</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.263</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#YaoLZLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/ChenWHLSG15" mdate="2017-09-16">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>Virtual Machine Image Content Aware I/O Optimization for Mobile Virtualization.</title>
+<pages>1031-1036</pages>
+<year>2015</year>
+<booktitle>HPCC/CSS/ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-CSS-ICESS.2015.90</ee>
+<crossref>conf/hpcc/2015</crossref>
+<url>db/conf/hpcc/hpcc2015.html#ChenWHLSG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccps/HeLSKSW15" mdate="2019-10-19">
+<author pid="140/4276">Zhijian He</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author orcid="0000-0002-9195-3477" pid="88/6739">Muhammad Umer Khan</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<title>A quadcopter swarm for active monitoring of smog propagation.</title>
+<pages>255</pages>
+<year>2015</year>
+<booktitle>ICCPS</booktitle>
+<ee>https://doi.org/10.1145/2735960.2735988</ee>
+<ee>https://www.wikidata.org/entity/Q59203002</ee>
+<crossref>conf/iccps/2015</crossref>
+<url>db/conf/iccps/iccps2015.html#HeLSKSW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/WangWSLX15" mdate="2020-10-25">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0003-0380-3506" pid="x/JinglingXue">Jingling Xue</author>
+<title>File system-independent block device support for storage class memory.</title>
+<pages>468-473</pages>
+<year>2015</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<ee>https://doi.org/10.1109/INFCOMW.2015.7179429</ee>
+<crossref>conf/infocom/2015w</crossref>
+<url>db/conf/infocom/infocom2015w.html#WangWSLX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msn/HeCSHLSW15" mdate="2019-06-02">
+<author pid="140/4276">Zhijian He</author>
+<author pid="68/6802">Yanming Chen</author>
+<author pid="150/0554">Zhaoyan Shen</author>
+<author pid="177/1397">Enyan Huang</author>
+<author pid="57/2281-2">Shuai Li 0002</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-1466-441X" pid="17/6932">Qixin Wang</author>
+<title>Ard-mu-Copter: A Simple Open Source Quadcopter Platform.</title>
+<pages>158-164</pages>
+<year>2015</year>
+<booktitle>MSN</booktitle>
+<ee>https://doi.org/10.1109/MSN.2015.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSN.2015.9</ee>
+<ee>https://www.wikidata.org/entity/Q59202988</ee>
+<crossref>conf/msn/2015</crossref>
+<url>db/conf/msn/msn2015.html#HeCSHLSW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtas/ZhangLWZ0S15" mdate="2017-12-14">
+<author pid="52/323">Qi Zhang</author>
+<author pid="76/5446">Xuandong Li</author>
+<author pid="63/829">Linzhang Wang</author>
+<author pid="13/2913-1">Tian Zhang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Optimizing deterministic garbage collection in NAND flash storage systems.</title>
+<pages>14-23</pages>
+<year>2015</year>
+<booktitle>RTAS</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2015.7108392</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTAS.2015.7108392</ee>
+<crossref>conf/rtas/2015</crossref>
+<url>db/conf/rtas/rtas2015.html#ZhangLWZ0S15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/systor/WuSJ15" mdate="2018-11-06">
+<author pid="145/0651">Xingbo Wu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="08/237">Song Jiang</author>
+<title><i>Selfie</i>: co-locating metadata and data to enable fast virtual block devices.</title>
+<pages>2:1-2:11</pages>
+<year>2015</year>
+<booktitle>SYSTOR</booktitle>
+<ee>https://doi.org/10.1145/2757667.2757676</ee>
+<crossref>conf/systor/2015</crossref>
+<url>db/conf/systor/systor2015.html#WuSJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/WuXSJ15" mdate="2021-02-01">
+<author pid="145/0651">Xingbo Wu</author>
+<author pid="11/9511">Yuehai Xu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="08/237">Song Jiang</author>
+<title>LSM-trie: An LSM-tree-based Ultra-Large Key-Value Store for Small Data Items.</title>
+<pages>71-82</pages>
+<year>2015</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc15/technical-session/presentation/wu</ee>
+<crossref>conf/usenix/2015</crossref>
+<url>db/conf/usenix/usenix2015.html#WuXSJ15</url>
+</inproceedings>
+</r>
+<r><article key="journals/esl/WangGS14" mdate="2020-09-10">
+<author pid="03/6588">Zhu Wang</author>
+<author pid="93/1025">Zonghua Gu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Optimizated Allocation of Data Variables to PCM/DRAM-based Hybrid Main Memory for Real-Time Embedded Systems.</title>
+<pages>61-64</pages>
+<year>2014</year>
+<volume>6</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LES.2014.2325878</ee>
+<url>db/journals/esl/esl6.html#WangGS14</url>
+</article>
+</r>
+<r><article key="journals/jsa/WangQWSDD14" mdate="2020-02-24">
+<author pid="27/3515">Junhui Wang</author>
+<author pid="02/6629">Yue Qian</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="41/5655">Wenhua Dou</author>
+<author pid="26/1722">Qiang Dou</author>
+<title>Analysis of worst-case backlog bounds for Networks-on-Chip.</title>
+<pages>494-508</pages>
+<year>2014</year>
+<volume>60</volume>
+<journal>J. Syst. Archit.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.sysarc.2014.03.001</ee>
+<url>db/journals/jsa/jsa60.html#WangQWSDD14</url>
+</article>
+</r>
+<r><article key="journals/spe/0003JCWLS14" mdate="2020-04-09">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Loop scheduling with memory access reduction subject to register constraints for DSP applications.</title>
+<pages>999-1026</pages>
+<year>2014</year>
+<volume>44</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/spe.2186</ee>
+<url>db/journals/spe/spe44.html#0003JCWLS14</url>
+</article>
+</r>
+<r><article key="journals/tcad/LiuW0SZS14" mdate="2020-09-24">
+<author orcid="0000-0002-3040-2065" pid="91/620">Duo Liu</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Application-Specific Wear Leveling for Extending Lifetime of Phase Change Memory in Embedded Systems.</title>
+<pages>1450-1462</pages>
+<year>2014</year>
+<volume>33</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2014.2341922</ee>
+<url>db/journals/tcad/tcad33.html#LiuW0SZS14</url>
+</article>
+</r>
+<r><article key="journals/tcad/WangHSCBD14" mdate="2020-09-24">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="44/1356-2">Min Huang 0002</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0001-8024-0597" pid="96/5079">Henry C. B. Chan</author>
+<author pid="67/2324">Luis Angel D. Bathen</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>A Reliability-Aware Address Mapping Strategy for NAND Flash Memory Storage Systems.</title>
+<pages>1623-1631</pages>
+<year>2014</year>
+<volume>33</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2014.2347929</ee>
+<url>db/journals/tcad/tcad33.html#WangHSCBD14</url>
+</article>
+</r>
+<r><article key="journals/tpds/WangSCLG14" mdate="2020-10-02">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0001-8024-0597" pid="96/5079">Henry C. B. Chan</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="04/606">Yong Guan</author>
+<title>Memory-Aware Task Scheduling with Communication Overhead Minimization for Streaming Applications on Bus-Based Multiprocessor System-on-Chips.</title>
+<pages>1797-1807</pages>
+<year>2014</year>
+<volume>25</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPDS.2013.172</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2013.172</ee>
+<url>db/journals/tpds/tpds25.html#WangSCLG14</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/WangSCBD14" mdate="2020-09-05">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0001-8024-0597" pid="96/5079">Henry C. B. Chan</author>
+<author pid="67/2324">Luis Angel D. Bathen</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>A Reliability Enhanced Address Mapping Strategy for Three-Dimensional (3-D) NAND Flash Memory.</title>
+<pages>2402-2410</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVLSI.2013.2288687</ee>
+<url>db/journals/tvlsi/tvlsi22.html#WangSCBD14</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/0003PSGG14" mdate="2020-03-12">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="39/5564">Linfeng Pan</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>Loop Transforming for Reducing Data Alignment on Multi-Core SIMD Processors.</title>
+<pages>137-150</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11265-013-0754-2</ee>
+<url>db/journals/vlsisp/vlsisp74.html#0003PSGG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/GuoCWSC14" mdate="2017-09-16">
+<author pid="77/2751-2">Jie Guo 0002</author>
+<author pid="12/1713">Zhijie Chen</author>
+<author pid="28/4366">Danghui Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="80/1641">Yiran Chen</author>
+<title>DPA: A data pattern aware error prevention technique for NAND flash lifetime extension.</title>
+<pages>592-597</pages>
+<year>2014</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2014.6742955</ee>
+<crossref>conf/aspdac/2014</crossref>
+<url>db/conf/aspdac/aspdac2014.html#GuoCWSC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/ZhangWWCLS14" mdate="2018-11-06">
+<author pid="91/195">Chi Zhang</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="119/3383">Renhai Chen</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Deterministic Crash Recovery for NAND Flash Based Storage Systems.</title>
+<pages>148:1-148:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593124</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#ZhangWWCLS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emsoft/ZhongWZLLLSS14" mdate="2020-03-27">
+<author pid="149/3972">Kan Zhong</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="19/8561">Xiao Zhu</author>
+<author pid="141/0607">Linbo Long</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0001-9348-4662" pid="24/914">Weichen Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Building high-performance smartphones via non-volatile memory: The swap approach.</title>
+<pages>30:1-30:10</pages>
+<year>2014</year>
+<booktitle>EMSOFT</booktitle>
+<ee>https://doi.org/10.1145/2656045.2656049</ee>
+<crossref>conf/emsoft/2014</crossref>
+<url>db/conf/emsoft/emsoft2014.html#ZhongWZLLLSS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nvmsa/ChenWHLSG14" mdate="2017-11-06">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>Virtual-machine metadata optimization for I/O traffic reduction in mobile virtualization.</title>
+<pages>1-2</pages>
+<year>2014</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA.2014.6927204</ee>
+<crossref>conf/nvmsa/2014</crossref>
+<url>db/conf/nvmsa/nvmsa2014.html#ChenWHLSG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/ZhangLWZWS13" mdate="2020-10-02">
+<author pid="52/323">Qi Zhang</author>
+<author pid="76/5446">Xuandong Li</author>
+<author pid="63/829">Linzhang Wang</author>
+<author pid="13/2913-1">Tian Zhang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Data-assemblage: a translation-page-aware data block allocation strategy for flash-based solid state drives.</title>
+<pages>565-586</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s10617-014-9154-5</ee>
+<url>db/journals/dafes/dafes17.html#ZhangLWZWS13</url>
+</article>
+</r>
+<r><article key="journals/jsa/Shao13" mdate="2020-02-24">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Preface for the Special Issue of GreenCOM 2011.</title>
+<pages>223</pages>
+<year>2013</year>
+<volume>59</volume>
+<journal>J. Syst. Archit.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.sysarc.2013.05.001</ee>
+<url>db/journals/jsa/jsa59.html#Shao13</url>
+</article>
+</r>
+<r><article key="journals/tc/WangLQS13" mdate="2017-09-16">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Optimally Removing Intercore Communication Overhead for Streaming Applications on MPSoCs.</title>
+<pages>336-350</pages>
+<year>2013</year>
+<volume>62</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TC.2011.236</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2011.236</ee>
+<url>db/journals/tc/tc62.html#WangLQS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/LiuWWSZS13" mdate="2018-08-10">
+<author pid="91/620">Duo Liu</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Curling-PCM: Application-specific wear leveling for phase change memory based embedded systems.</title>
+<pages>279-284</pages>
+<year>2013</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2013.6509609</ee>
+<crossref>conf/aspdac/2013</crossref>
+<url>db/conf/aspdac/aspdac2013.html#LiuWWSZS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/ZhangLWZWS13" mdate="2017-12-14">
+<author pid="52/323">Qi Zhang</author>
+<author pid="76/5446">Xuandong Li</author>
+<author pid="63/829">Linzhang Wang</author>
+<author pid="13/2913-1">Tian Zhang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Optimizing translation information management in NAND flash memory storage systems.</title>
+<pages>326-331</pages>
+<year>2013</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2013.6509616</ee>
+<crossref>conf/aspdac/2013</crossref>
+<url>db/conf/aspdac/aspdac2013.html#ZhangLWZWS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/Chen0S13" mdate="2017-09-16">
+<author pid="119/3383">Renhai Chen</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>DHeating: Dispersed heating repair for self-healing NAND flash memory.</title>
+<pages>7:1-7:10</pages>
+<year>2013</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1109/CODES-ISSS.2013.6658994</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2555699</ee>
+<crossref>conf/codes/2013</crossref>
+<url>db/conf/codes/codes2013.html#Chen0S13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/WangLWS13" mdate="2018-11-28">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>FTL<sup>2</sup>: a hybrid <i>f</i>lash <i>t</i>ranslation <i>l</i>ayer with logging for write reduction in flash memory.</title>
+<pages>91-100</pages>
+<year>2013</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/2499369.2465563</ee>
+<crossref>conf/lctrts/2013</crossref>
+<url>db/conf/lctrts/lctes2013.html#WangLWS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/GuanWWCS13" mdate="2018-11-28">
+<author pid="04/606">Yong Guan</author>
+<author pid="48/2396">Guohui Wang</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title><i>BLog</i>: block-level <i>log</i>-block management for NAND flash memorystorage systems.</title>
+<pages>111-120</pages>
+<year>2013</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/2499369.2465560</ee>
+<crossref>conf/lctrts/2013</crossref>
+<url>db/conf/lctrts/lctes2013.html#GuanWWCS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/WangCSL13" mdate="2017-09-16">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="119/3383">Renhai Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="75/4601">Tao Li</author>
+<title>SolarTune: Real-time scheduling with load tuning for solar energy powered multicore systems.</title>
+<pages>101-110</pages>
+<year>2013</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2013.6732208</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2013.6732208</ee>
+<crossref>conf/rtcsa/2013</crossref>
+<url>db/conf/rtcsa/rtcsa2013.html#WangCSL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/JiangMZWS13" mdate="2019-11-06">
+<author pid="21/3839-16">Wei Jiang 0016</author>
+<author pid="08/6794-1">Yue Ma 0001</author>
+<author pid="98/480">Xia Zhang</author>
+<author pid="141/0617">Xupeng Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Online optimization of security-sensitive real-time storage applications for NAND flash memory storage systems.</title>
+<pages>121-130</pages>
+<year>2013</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2013.6732210</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2013.6732210</ee>
+<crossref>conf/rtcsa/2013</crossref>
+<url>db/conf/rtcsa/rtcsa2013.html#JiangMZWS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/LiJJWS13" mdate="2017-09-16">
+<author pid="37/4190">Yang Li</author>
+<author pid="97/3791">Lei Ju</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Thermal-Aware On-Chip Memory Architecture Exploration.</title>
+<pages>1386-1393</pages>
+<year>2013</year>
+<booktitle>TrustCom/ISPA/IUCC</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2013.167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TrustCom.2013.167</ee>
+<crossref>conf/trustcom/2013</crossref>
+<url>db/conf/trustcom/trustcom2013.html#LiJJWS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/WeiWWSC12" mdate="2017-09-16">
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="13/1898">Bin Wang</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-1709-2637" pid="71/6513">Keith C. C. Chan</author>
+<title>Staying-alive path planning with energy optimization for mobile robots.</title>
+<pages>3559-3571</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.eswa.2011.09.046</ee>
+<url>db/journals/eswa/eswa39.html#WeiWWSC12</url>
+</article>
+</r>
+<r><article key="journals/fgcs/ZhaoWSCS12" mdate="2020-04-14">
+<author pid="88/8117">Baokang Zhao</author>
+<author pid="23/2060">Dan Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author orcid="0000-0001-9273-616X" pid="15/2098">Jinshu Su</author>
+<title>Privacy aware publishing of successive location information in sensor networks.</title>
+<pages>913-922</pages>
+<year>2012</year>
+<volume>28</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.future.2011.09.001</ee>
+<ee>https://www.wikidata.org/entity/Q60248688</ee>
+<url>db/journals/fgcs/fgcs28.html#ZhaoWSCS12</url>
+</article>
+</r>
+<r><article key="journals/tpds/LiuWSGX12" mdate="2020-10-26">
+<author pid="91/620">Duo Liu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="99/6797">Minyi Guo</author>
+<author orcid="0000-0003-0380-3506" pid="x/JinglingXue">Jingling Xue</author>
+<title>Optimally Maximizing Iteration-Level Loop Parallelism.</title>
+<pages>564-572</pages>
+<year>2012</year>
+<volume>23</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2011.171</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2011.171</ee>
+<url>db/journals/tpds/tpds23.html#LiuWSGX12</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/LiuWQSG12" mdate="2020-03-11">
+<author pid="91/620">Duo Liu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>A Space Reuse Strategy for Flash Translation Layers in SLC NAND Flash Memory Storage Systems.</title>
+<pages>1094-1107</pages>
+<year>2012</year>
+<volume>20</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TVLSI.2011.2142015</ee>
+<url>db/journals/tvlsi/tvlsi20.html#LiuWQSG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/WangLSY12" mdate="2018-08-10">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="06/4401">Chengmo Yang</author>
+<title>Write-activity-aware page table management for PCM-based embedded systems.</title>
+<pages>317-322</pages>
+<year>2012</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2012.6164966</ee>
+<crossref>conf/aspdac/2012</crossref>
+<url>db/conf/aspdac/aspdac2012.html#WangLSY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/WangBDS12" mdate="2020-09-05">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="67/2324">Luis Angel D. Bathen</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Meta-Cure: a reliability enhancement strategy for metadata in NAND flash memory storage systems.</title>
+<pages>214-219</pages>
+<year>2012</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2228360.2228401</ee>
+<crossref>conf/dac/2012</crossref>
+<url>db/conf/dac/dac2012.html#WangBDS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/WangBSD12" mdate="2020-09-05">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="67/2324">Luis Angel D. Bathen</author>
+<author pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>3D-FlashMap: A physical-location-aware block mapping strategy for 3D NAND flash memory.</title>
+<pages>1307-1312</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176694</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176694</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2493030</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#WangBSD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LiuWWQS12" mdate="2018-08-10">
+<author pid="91/620">Duo Liu</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="08/6845">Zili Shao</author>
+<title>A block-level flash memory management scheme for reducing write activities in PCM-based embedded systems.</title>
+<pages>1447-1450</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176593</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176593</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2493062</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#LiuWWQS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ShaoCD12" mdate="2020-09-05">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="84/5634">Naehyuck Chang</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>PTL: PCM Translation Layer.</title>
+<pages>380-385</pages>
+<year>2012</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2012.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2012.75</ee>
+<crossref>conf/isvlsi/2012</crossref>
+<url>db/conf/isvlsi/isvlsi2012.html#ShaoCD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ShaoLCL12" mdate="2017-09-16">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="15/2486">Yongpan Liu</author>
+<author pid="80/1641">Yiran Chen</author>
+<author pid="75/4601">Tao Li</author>
+<title>Utilizing PCM for Energy Optimization in Embedded Systems.</title>
+<pages>398-403</pages>
+<year>2012</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2012.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2012.81</ee>
+<crossref>conf/isvlsi/2012</crossref>
+<url>db/conf/isvlsi/isvlsi2012.html#ShaoLCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtas/QinWLS12" mdate="2017-09-16">
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Real-Time Flash Translation Layer for NAND Flash Memory Storage Systems.</title>
+<pages>35-44</pages>
+<year>2012</year>
+<booktitle>IEEE Real-Time and Embedded Technology and Applications Symposium</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2012.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTAS.2012.27</ee>
+<crossref>conf/rtas/2012</crossref>
+<url>db/conf/rtas/rtas2012.html#QinWLS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcst/GuoSS11" mdate="2017-09-16">
+<author pid="99/6797">Minyi Guo</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Preface.</title>
+<pages>373-374</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11390-011-1140-9</ee>
+<url>db/journals/jcst/jcst26.html#GuoSS11</url>
+</article>
+</r>
+<r><article key="journals/jsa/ShaoK11" mdate="2020-02-24">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="98/1826">Fahim Kawsar</author>
+<title>Special issue: Design and optimization for embedded and real-time computing systems and applications.</title>
+<pages>571-572</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>J. Syst. Archit.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.sysarc.2011.05.001</ee>
+<url>db/journals/jsa/jsa57.html#ShaoK11</url>
+</article>
+</r>
+<r><article key="journals/spe/YangYSG11" mdate="2020-04-09">
+<author pid="32/5167">Yanqin Yang</author>
+<author pid="45/3141">Haijin Yan</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>Compiler-assisted dynamic scratch-pad memory management with space overlapping for embedded systems.</title>
+<pages>737-752</pages>
+<year>2011</year>
+<volume>41</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/spe.1020</ee>
+<url>db/journals/spe/spe41.html#YangYSG11</url>
+</article>
+</r>
+<r><article key="journals/tc/LiuLWWS11" mdate="2018-02-21">
+<author pid="60/6348">Miao Liu</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>On Improving Real-Time Interrupt Latencies of Hybrid Operating Systems with Two-Level Hardware Interrupts.</title>
+<pages>978-991</pages>
+<year>2011</year>
+<volume>60</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TC.2010.119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2010.119</ee>
+<url>db/journals/tc/tc60.html#LiuLWWS11</url>
+</article>
+</r>
+<r><article key="journals/todaes/WangLLQSS11" mdate="2018-11-06">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="93/4010">Hui Liu</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Overhead-aware energy optimization for real-time streaming applications on multiprocessor System-on-Chip.</title>
+<pages>14:1-14:32</pages>
+<year>2011</year>
+<volume>16</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1929943.1929946</ee>
+<url>db/journals/todaes/todaes16.html#WangLLQSS11</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/WangSX11" mdate="2020-10-27">
+<author pid="48/3314">M. Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-0380-3506" pid="x/JinglingXue">Jingling Xue</author>
+<title>On Reducing Hidden Redundant Memory Accesses for DSP Applications.</title>
+<pages>997-1010</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TVLSI.2010.2043963</ee>
+<url>db/journals/tvlsi/tvlsi19.html#WangSX11</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/QinWLSG11" mdate="2018-11-06">
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>MNFTL: an efficient flash translation layer for MLC NAND flash memory storage systems.</title>
+<pages>17-22</pages>
+<year>2011</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2024724.2024730</ee>
+<crossref>conf/dac/2011</crossref>
+<url>db/conf/dac/dac2011.html#QinWLSG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/WangLQS11" mdate="2017-05-23">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="08/6845">Zili Shao</author>
+<title>An endurance-enhanced Flash Translation Layer via reuse for NAND flash memory storage systems.</title>
+<pages>14-19</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2011.5763009</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2011.5763009</ee>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#WangLQS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icppw/YangXGS11" mdate="2017-09-16">
+<author pid="32/5167">Yanqin Yang</author>
+<author pid="96/8862">Wenchao Xu</author>
+<author pid="99/6797">Minyi Guo</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>An Efficient Approach of Power Reducing for Scratch-Pad Memory Based Embedded Systems.</title>
+<pages>229-237</pages>
+<year>2011</year>
+<booktitle>ICPP Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICPPW.2011.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPPW.2011.11</ee>
+<crossref>conf/icppw/2011</crossref>
+<url>db/conf/icppw/icppw2011.html#YangXGS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtas/QinWLS11" mdate="2017-09-16">
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A Two-Level Caching Mechanism for Demand-Based Page-Level Address Mapping in NAND Flash Memory Storage Systems.</title>
+<pages>157-166</pages>
+<year>2011</year>
+<booktitle>IEEE Real-Time and Embedded Technology and Applications Symposium</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2011.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTAS.2011.23</ee>
+<crossref>conf/rtas/2011</crossref>
+<url>db/conf/rtas/rtas2011.html#QinWLS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/LiuWWQS11" mdate="2018-08-10">
+<author pid="91/620">Duo Liu</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>PCM-FTL: A Write-Activity-Aware NAND Flash Memory Management Scheme for PCM-Based Embedded Systems.</title>
+<pages>357-366</pages>
+<year>2011</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2011.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTSS.2011.40</ee>
+<crossref>conf/rtss/2011</crossref>
+<url>db/conf/rtss/rtss2011.html#LiuWWQS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/YangWYSG10" mdate="2020-03-02">
+<author pid="32/5167">Yanqin Yang</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="45/3141">Haijin Yan</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>Dynamic scratch-pad memory management with data pipelining for embedded systems.</title>
+<pages>1874-1892</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.1602</ee>
+<url>db/journals/concurrency/concurrency22.html#YangWYSG10</url>
+</article>
+</r>
+<r><article key="journals/ieicet/ZhaoWSCCS10" mdate="2020-04-14">
+<author pid="88/8117">Baokang Zhao</author>
+<author pid="23/2060">Dan Wang</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="71/6513">Keith C. C. Chan</author>
+<author pid="15/2098">Jinshu Su</author>
+<title>An Optimal Algorithm towards Successive Location Privacy in Sensor Networks with Dynamic Programming.</title>
+<pages>531-533</pages>
+<year>2010</year>
+<volume>93-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1587/transinf.E93.D.531</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e93-d_3_531</ee>
+<ee>https://www.wikidata.org/entity/Q60249088</ee>
+<url>db/journals/ieicet/ieicet93d.html#ZhaoWSCCS10</url>
+</article>
+</r>
+<r><article key="journals/jss/WangWLQS10" mdate="2020-02-24">
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Compiler-assisted leakage-aware loop scheduling for embedded VLIW DSP processors.</title>
+<pages>772-785</pages>
+<year>2010</year>
+<volume>83</volume>
+<journal>J. Syst. Softw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.jss.2009.11.727</ee>
+<url>db/journals/jss/jss83.html#WangWLQS10</url>
+</article>
+</r>
+<r><article key="journals/tecs/XueHSS10" mdate="2020-09-08">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Iterational retiming with partitioning: Loop scheduling with complete memory latency hiding.</title>
+<year>2010</year>
+<volume>9</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1698772.1698780</ee>
+<url>db/journals/tecs/tecs9.html#XueHSS10</url>
+<pages>22:1-22:26</pages>
+</article>
+</r>
+<r><article key="journals/tvlsi/QiuYSS10" mdate="2020-03-11">
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="y/LaurenceTianruoYang">Laurence Tianruo Yang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Dynamic and Leakage Energy Minimization With Soft Real-Time Loop Scheduling and Voltage Assignment.</title>
+<pages>501-504</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TVLSI.2008.2010941</ee>
+<url>db/journals/tvlsi/tvlsi18.html#QiuYSS10</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/SunWSLWW10" mdate="2020-03-12">
+<author pid="09/1171">Kai Sun</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/4010">Hui Liu</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="27/2337">Tianmiao Wang</author>
+<title>Design and Synthesis of a Multiprocessor System-on-Chip Architecture for Real-Time Biomedical Signal Processing in Gamma Cameras.</title>
+<pages>71-83</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11265-008-0278-3</ee>
+<url>db/journals/vlsisp/vlsisp59.html#SunWSLWW10</url>
+</article>
+</r>
+<r><inproceedings key="conf/codes/QinWLS10" mdate="2018-11-06">
+<author pid="49/7790">Zhiwei Qin</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Demand-based block-level address mapping in large-scale NAND flash storage systems.</title>
+<pages>173-182</pages>
+<year>2010</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1878961.1878991</ee>
+<crossref>conf/codes/2010</crossref>
+<url>db/conf/codes/codes2010.html#QinWLS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LiuSSLCW10" mdate="2017-09-16">
+<author pid="65/2992">Xiyang Liu</author>
+<author pid="72/8759">Ailong Song</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="55/5576">Chunxiang Li</author>
+<author pid="47/6529">Ke Chen</author>
+<author pid="35/7092">Wei Wang</author>
+<title>Cluster based architecture synthesis minimizing the resources under time constraint.</title>
+<pages>1558-1561</pages>
+<year>2010</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2010.5495522</ee>
+<crossref>conf/icassp/2010</crossref>
+<url>db/conf/icassp/icassp2010.html#LiuSSLCW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/WangLWQSG10" mdate="2018-11-06">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="04/606">Yong Guan</author>
+<title>RNFTL: a reuse-aware NAND flash translation layer for flash memory.</title>
+<pages>163-172</pages>
+<year>2010</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/1755888.1755912</ee>
+<crossref>conf/lctrts/2010</crossref>
+<url>db/conf/lctrts/lctes2010.html#WangLWQSG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtas/WangLWQS10" mdate="2018-02-21">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Optimal Task Scheduling by Removing Inter-Core Communication Overhead for Streaming Applications on MPSoC.</title>
+<pages>195-204</pages>
+<year>2010</year>
+<booktitle>IEEE Real-Time and Embedded Technology and Applications Symposium</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2010.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTAS.2010.19</ee>
+<crossref>conf/rtas/2010</crossref>
+<url>db/conf/rtas/rtas2010.html#WangLWQS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/WangLQS10" mdate="2017-09-16">
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="49/7790">Zhiwei Qin</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Memory-Aware Optimal Scheduling with Communication Overhead Minimization for Streaming Applications on Chip Multiprocessors.</title>
+<pages>350-359</pages>
+<year>2010</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2010.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTSS.2010.16</ee>
+<crossref>conf/rtss/2010</crossref>
+<url>db/conf/rtss/rtss2010.html#WangLQS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/GuoPYWS09" mdate="2020-10-02">
+<author pid="99/6797">Minyi Guo</author>
+<author pid="39/5564">Linfeng Pan</author>
+<author pid="32/5167">Yanqin Yang</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>An effective state-based predictive approach for leakage energy management on embedded systems.</title>
+<pages>311-332</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10617-009-9047-1</ee>
+<url>db/journals/dafes/dafes13.html#GuoPYWS09</url>
+</article>
+</r>
+<r><article key="journals/iasc/ParkYSH09" mdate="2021-02-26">
+<author pid="p/JongHyukPark">Jong Hyuk Park</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="72/5369">Houcine Hassan</author>
+<title>Special Section On Embedded System And Software For IPC Guest Editorial - Guest Editorial.</title>
+<pages>465-466</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>Intell. Autom. Soft Comput.</journal>
+<number>3</number>
+<ee type="archive">https://doi.org/10.1080/10798587.2009.10643042</ee>
+<url>db/journals/iasc/iasc15.html#ParkYSH09</url>
+</article>
+</r>
+<r><article key="journals/jec/ZhangS09" mdate="2020-08-07">
+<author pid="z/YoutaoZhang">Youtao Zhang</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Special issue of selected papers from EUC 2005.</title>
+<pages>1-2</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>J. Embed. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/JEC-2009-0073</ee>
+<url>db/journals/jec/jec3.html#ZhangS09</url>
+</article>
+</r>
+<r><article key="journals/jec/XueSLQS09" mdate="2020-08-07">
+<author pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Optimizing parallelism for nested loops with iterational and instructional retiming.</title>
+<pages>29-37</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>J. Embed. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/JEC-2009-0076</ee>
+<url>db/journals/jec/jec3.html#XueSLQS09</url>
+</article>
+</r>
+<r><article key="journals/jec/QiuXSLS09" mdate="2020-08-07">
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Energy minimization for heterogeneous wireless sensor networks.</title>
+<pages>109-117</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>J. Embed. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/JEC-2009-0084</ee>
+<url>db/journals/jec/jec3.html#QiuXSLS09</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/LiuSWDXJ09" mdate="2020-03-12">
+<author pid="93/4010-6">Hui Liu 0006</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="29/6599">Junzhao Du</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="99/6654">Zhiping Jia</author>
+<title>Combining Coarse-Grained Software Pipelining with DVS for Scheduling Real-Time Periodic Dependent Tasks on Multi-Core Embedded Systems.</title>
+<pages>249-262</pages>
+<year>2009</year>
+<volume>57</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11265-008-0315-2</ee>
+<url>db/journals/vlsisp/vlsisp57.html#LiuSWDXJ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cases/LiuSWGX09" mdate="2020-10-25">
+<author pid="91/620">Duo Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="99/6797">Minyi Guo</author>
+<author orcid="0000-0003-0380-3506" pid="x/JinglingXue">Jingling Xue</author>
+<title>Optimal loop parallelization for maximizing iteration-level parallelism.</title>
+<pages>67-76</pages>
+<year>2009</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1629395.1629407</ee>
+<crossref>conf/cases/2009</crossref>
+<url>db/conf/cases/cases2009.html#LiuSWGX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/YangWSG09" mdate="2018-02-21">
+<author pid="32/5167">Yanqin Yang</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>Dynamic Scratch-Pad Memory Management with Data Pipelining for Embedded Systems.</title>
+<pages>358-365</pages>
+<year>2009</year>
+<booktitle>CSE (2)</booktitle>
+<ee>https://doi.org/10.1109/CSE.2009.295</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2009.295</ee>
+<crossref>conf/cse/2009</crossref>
+<url>db/conf/cse/cse2009-2.html#YangWSG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/XueXYSS09" mdate="2017-05-26">
+<author pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="63/4542">Guoliang Xing</author>
+<author pid="25/4992">Zhaohui Yuan</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Joint Sleep Scheduling and Mode Assignment in Wireless Cyber-Physical Systems.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>ICDCS Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDCSW.2009.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDCSW.2009.13</ee>
+<crossref>conf/icdcsw/2009</crossref>
+<url>db/conf/icdcsw/icdcsw2009.html#XueXYSS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/WangWLS09" mdate="2019-02-13">
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Improving the Reliability of Embedded Systems with Cache and SPM.</title>
+<pages>825-830</pages>
+<year>2009</year>
+<booktitle>MASS</booktitle>
+<ee>https://doi.org/10.1109/MOBHOC.2009.5336913</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MOBHOC.2009.5336913</ee>
+<crossref>conf/mass/2009</crossref>
+<url>db/conf/mass/mass2009.html#WangWLS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sips/WangLWS09" mdate="2018-02-21">
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="91/620">Duo Liu</author>
+<author pid="67/6649-3">Yi Wang 0003</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Loop scheduling with memory access reduction under register constraints for DSP applications.</title>
+<pages>139-144</pages>
+<year>2009</year>
+<booktitle>SiPS</booktitle>
+<ee>https://doi.org/10.1109/SIPS.2009.5336239</ee>
+<crossref>conf/sips/2009</crossref>
+<url>db/conf/sips/sips2009.html#WangLWS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/XueJSWS08" mdate="2020-05-22">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Optimized Address Assignment With Array and Loop Transformations for Minimizing Schedule Length.</title>
+<pages>379-389</pages>
+<year>2008</year>
+<volume>55-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCSI.2007.913721</ee>
+<url>db/journals/tcas/tcasI55.html#XueJSWS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/amcc/WangWWC0S08" mdate="2020-09-05">
+<author pid="27/2337">Tianmiao Wang</author>
+<author pid="13/1898">Bin Wang</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="94/3336">Yunan Cao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>Staying-alive and energy-efficient path planning for mobile robots.</title>
+<pages>868-873</pages>
+<year>2008</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2008.4586602</ee>
+<crossref>conf/amcc/2008</crossref>
+<url>db/conf/amcc/acc2008.html#WangWWC0S08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amcc/WangCCWWS08" mdate="2020-09-05">
+<author pid="27/2337">Tianmiao Wang</author>
+<author pid="94/3336">Yunan Cao</author>
+<author pid="10/225">Youdong Chen</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="13/1898">Bin Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A new feedrate adaptation control NURBS interpolation based on de boor algorithm in CNC systems.</title>
+<pages>4075-4080</pages>
+<year>2008</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2008.4587131</ee>
+<crossref>conf/amcc/2008</crossref>
+<url>db/conf/amcc/acc2008.html#WangCCWWS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/SunWWWSL08" mdate="2018-02-21">
+<author pid="09/1171">Kai Sun</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="27/2337">Tianmiao Wang</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="93/4010">Hui Liu</author>
+<title>MPSOC Architectural Design and Synthesis for Real-Time Biomedical Signal Processing in Gamma Cameras.</title>
+<pages>279-284</pages>
+<year>2008</year>
+<booktitle>BIODEVICES (2)</booktitle>
+<crossref>conf/biostec/2008bd2</crossref>
+<url>db/conf/biostec/biodevices2008-2.html#SunWWWSL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/XueSSQ08" mdate="2018-11-06">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<title>Effective Loop Partitioning and Scheduling under Memory and Register Dual Constraints.</title>
+<pages>1202-1207</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2008.4484842</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2008.4484842</ee>
+<ee>https://doi.org/10.1145/1403375.1403667</ee>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#XueSSQ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecrts/LiuSWC08" mdate="2018-02-21">
+<author pid="93/4010">Hui Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="33/3675">Ping Chen</author>
+<title>Overhead-Aware System-Level Joint Energy and Performance Optimization for Streaming Applications on Multiprocessor Systems-on-Chip.</title>
+<pages>92-101</pages>
+<year>2008</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2008.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ECRTS.2008.18</ee>
+<crossref>conf/ecrts/2008</crossref>
+<url>db/conf/ecrts/ecrts2008.html#LiuSWC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/PanGYWS08" mdate="2018-02-21">
+<author pid="39/5564">Linfeng Pan</author>
+<author pid="99/6797">Minyi Guo</author>
+<author pid="32/5167">Yanqin Yang</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<title>A State-Based Predictive Approach for Leakage Reduction of Functional Units.</title>
+<pages>52-58</pages>
+<year>2008</year>
+<booktitle>EUC (1)</booktitle>
+<ee>https://doi.org/10.1109/EUC.2008.175</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EUC.2008.175</ee>
+<crossref>conf/euc/2008-1</crossref>
+<url>db/conf/euc/euc2008-1.html#PanGYWS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/ZhaoWSCCSY08" mdate="2020-04-14">
+<author pid="88/8117">Baokang Zhao</author>
+<author pid="23/2060">Dan Wang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author orcid="0000-0003-1709-2637" pid="71/6513">Keith C. C. Chan</author>
+<author orcid="0000-0001-9273-616X" pid="15/2098">Jinshu Su</author>
+<author pid="32/5167">Yanqin Yang</author>
+<title>Towards Successive Privacy Protection in Sensor Networks.</title>
+<pages>167-172</pages>
+<year>2008</year>
+<booktitle>EUC (2)</booktitle>
+<ee>https://doi.org/10.1109/EUC.2008.150</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EUC.2008.150</ee>
+<ee>https://www.wikidata.org/entity/Q60249859</ee>
+<crossref>conf/euc/2008-2</crossref>
+<url>db/conf/euc/euc2008-2.html#ZhaoWSCCSY08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/XueLSHJJS08" mdate="2021-03-29">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="85/7672-1">Tiantian Liu 0001</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-4029-4034" pid="37/3401">Jingtong Hu</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author pid="57/1667-1">Weijia Jia 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Address assignment sensitive variable partitioning and scheduling for DSPS with multiple memory banks.</title>
+<pages>1453-1456</pages>
+<year>2008</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2008.4517894</ee>
+<crossref>conf/icassp/2008</crossref>
+<url>db/conf/icassp/icassp2008.html#XueLSHJJS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/CaoSWXCWW08" mdate="2018-02-21">
+<author pid="94/3336">Yunan Cao</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="10/225">Youdong Chen</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="27/2337">Tianmiao Wang</author>
+<title>A Formal Specification and Verification Framework for Designing and Verifying Reliable and Dependable Software for Computerized Numerical Control (CNC) Systems.</title>
+<pages>269-276</pages>
+<year>2008</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2008.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDCS.2008.21</ee>
+<crossref>conf/icdcs/2008</crossref>
+<url>db/conf/icdcs/icdcs2008.html#CaoSWXCWW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icycs/YangSPG08" mdate="2017-09-16">
+<author pid="32/5167">Yanqin Yang</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="39/5564">Linfeng Pan</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>ISOS: Space Overlapping Based on Iteration Access Patterns for Dynamic Scratch-pad Memory Management in Embedded Systems.</title>
+<pages>1360-1366</pages>
+<year>2008</year>
+<booktitle>ICYCS</booktitle>
+<ee>https://doi.org/10.1109/ICYCS.2008.538</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICYCS.2008.538</ee>
+<crossref>conf/icycs/2008</crossref>
+<url>db/conf/icycs/icycs2008.html#YangSPG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-3/WangSLX08" mdate="2018-06-26">
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/4010">Hui Liu</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<title>Minimizing Leakage Energy with Modulo Scheduling for VLIW DSP Processors.</title>
+<pages>111-120</pages>
+<year>2008</year>
+<booktitle>DIPES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-09661-2_11</ee>
+<crossref>conf/ifip10-3/2008dipes</crossref>
+<url>db/conf/ifip10-3/dipes2008.html#WangSLX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-3/ZhaoWSCCS08" mdate="2020-04-14">
+<author pid="88/8117">Baokang Zhao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author orcid="0000-0003-1709-2637" pid="71/6513">Keith C. C. Chan</author>
+<author pid="15/2098">Jinshu Su</author>
+<title>Topology-Aware Energy Efficient Task Assignment for Collaborative In-Network Processing in Distributed Sensor Systems.</title>
+<pages>201-211</pages>
+<year>2008</year>
+<booktitle>DIPES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-09661-2_20</ee>
+<ee>https://www.wikidata.org/entity/Q60249852</ee>
+<crossref>conf/ifip10-3/2008dipes</crossref>
+<url>db/conf/ifip10-3/dipes2008.html#ZhaoWSCCS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/XueYXSS08" mdate="2017-09-16">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author pid="25/4992">Zhaohui Yuan</author>
+<author pid="63/4542">Guoliang Xing</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Energy Efficient Operating Mode Assignment for Real-Time Tasks in Wireless Embedded Systems.</title>
+<pages>237-246</pages>
+<year>2008</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2008.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2008.29</ee>
+<crossref>conf/rtcsa/2008</crossref>
+<url>db/conf/rtcsa/rtcsa2008.html#XueYXSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/ZhaoWSCCS08" mdate="2020-04-14">
+<author pid="88/8117">Baokang Zhao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author orcid="0000-0003-1709-2637" pid="71/6513">Keith C. C. Chan</author>
+<author orcid="0000-0001-9273-616X" pid="15/2098">Jinshu Su</author>
+<title>Topology Aware Task Allocation and Scheduling for Real-Time Data Fusion Applications in Networked Embedded Sensor Systems.</title>
+<pages>293-302</pages>
+<year>2008</year>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2008.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2008.30</ee>
+<ee>https://www.wikidata.org/entity/Q60249847</ee>
+<crossref>conf/rtcsa/2008</crossref>
+<url>db/conf/rtcsa/rtcsa2008.html#ZhaoWSCCS08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icess/2008" mdate="2020-11-12">
+<editor pid="b/ShuvraSBhattacharyya">Shuvra S. Bhattacharyya</editor>
+<editor pid="88/20-1">Xingshe Zhou 0001</editor>
+<editor pid="65/4760">Bing Guo</editor>
+<editor pid="08/6845">Zili Shao</editor>
+<editor pid="22/562">Xiangke Liao</editor>
+<title>International Conference on Embedded Software and Systems, ICESS '08, Chengdu, Sichuan, China, July 29-31, 2008.</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2008</year>
+<booktitle>ICESS</booktitle>
+<isbn>978-0-7695-3287-5</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/4595521/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/icess/2008/3287/00/index.html</ee>
+<url>db/conf/icess/icess2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/comcom/XiaoCSZS07" mdate="2020-04-14">
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Analysis and algorithms design for the partition of large-scale adaptive mobile wireless networks.</title>
+<pages>1899-1912</pages>
+<year>2007</year>
+<volume>30</volume>
+<journal>Comput. Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.comcom.2007.02.016</ee>
+<ee>https://www.wikidata.org/entity/Q60249942</ee>
+<url>db/journals/comcom/comcom30.html#XiaoCSZS07</url>
+</article>
+</r>
+<r><article key="journals/jcn/XiaoCSS07" mdate="2020-06-15">
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>An efficient algorithm for dynamic shortest path tree update in network routing.</title>
+<pages>499-510</pages>
+<year>2007</year>
+<volume>9</volume>
+<journal>J. Commun. Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JCN.2007.6182886</ee>
+<url>db/journals/jcn/jcn9.html#XiaoCSS07</url>
+</article>
+</r>
+<r><article key="journals/tcas/ShaoWCXQYS07" mdate="2020-05-27">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="21/5521">Ying Chen</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Real-Time Dynamic Voltage Loop Scheduling for Multi-Core Embedded Systems.</title>
+<pages>445-449</pages>
+<year>2007</year>
+<volume>54-II</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCSII.2007.892215</ee>
+<url>db/journals/tcas/tcasII54.html#ShaoWCXQYS07</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/QiuJXSS07" mdate="2020-05-20">
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="99/6654">Zhiping Jia</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Voltage Assignment with Guaranteed Probability Satisfying Timing Constraint for Real-time Multiproceesor DSP.</title>
+<pages>55-73</pages>
+<year>2007</year>
+<volume>46</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11265-006-0002-0</ee>
+<url>db/journals/vlsisp/vlsisp46.html#QiuJXSS07</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/XueSS07" mdate="2020-05-20">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Maximize Parallelism Minimize Overhead for Nested Loops via Loop Striping.</title>
+<pages>153-167</pages>
+<year>2007</year>
+<volume>47</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11265-006-0034-5</ee>
+<url>db/journals/vlsisp/vlsisp47.html#XueSS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/QiuXSS07" mdate="2018-11-28">
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Energy minimization with soft real-time and DVS for uniprocessor and multiprocessor embedded systems.</title>
+<pages>1641-1646</pages>
+<year>2007</year>
+<crossref>conf/date/2007</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1266726</ee>
+<url>db/conf/date/date2007.html#QiuXSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/HuaWSLX07" mdate="2018-06-26">
+<author pid="09/1626">Guochen Hua</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="93/4010">Hui Liu</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<title>Real-Time Loop Scheduling with Energy Optimization Via DVS and ABB for Multi-core Embedded System.</title>
+<pages>1-12</pages>
+<year>2007</year>
+<crossref>conf/euc/2007</crossref>
+<booktitle>EUC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-77092-3_1</ee>
+<url>db/conf/euc/euc2007.html#HuaWSLX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/XueSLZS07" mdate="2018-06-26">
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Parallel Network Intrusion Detection on Reconfigurable Platforms.</title>
+<pages>75-86</pages>
+<year>2007</year>
+<crossref>conf/euc/2007</crossref>
+<booktitle>EUC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-77092-3_8</ee>
+<url>db/conf/euc/euc2007.html#XueSLZS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/ZengZSYS07" mdate="2018-06-26">
+<author pid="51/1056">YingZhi Zeng</author>
+<author pid="88/8117">Baokang Zhao</author>
+<author pid="15/2098">Jinshu Su</author>
+<author pid="52/6208">Xia Yan</author>
+<author pid="08/6845">Zili Shao</author>
+<title>A Loop-Based Key Management Scheme for Wireless Sensor Networks.</title>
+<pages>103-114</pages>
+<year>2007</year>
+<crossref>conf/euc/2007w</crossref>
+<booktitle>EUC Workshops</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-77090-9_10</ee>
+<url>db/conf/euc/eucw2007.html#ZengZSYS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/WangSWWSL07" mdate="2018-06-26">
+<author pid="27/2337">Tianmiao Wang</author>
+<author pid="09/1171">Kai Sun</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="93/4010">Hui Liu</author>
+<title>Interconnection Synthesis of MPSoC Architecture for Gamma Cameras.</title>
+<pages>209-218</pages>
+<year>2007</year>
+<crossref>conf/euc/2007</crossref>
+<booktitle>EUC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-77092-3_19</ee>
+<url>db/conf/euc/euc2007.html#WangSWWSL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/WangSXS07" mdate="2018-02-21">
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Real-Time Loop Scheduling with Leakage Energy Minimization for Embedded VLIW DSP Processors.</title>
+<pages>12-19</pages>
+<year>2007</year>
+<crossref>conf/rtcsa/2007</crossref>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2007.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2007.60</ee>
+<url>db/conf/rtcsa/rtcsa2007.html#WangSXS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/LiuSWWW07" mdate="2018-02-21">
+<author pid="60/6348">Miao Liu</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="93/6765-5">Meng Wang 0005</author>
+<author pid="75/4595">Hongxing Wei</author>
+<author pid="27/2337">Tianmiao Wang</author>
+<title>Implementing Hybrid Operating Systems with Two-Level Hardware Interrupts.</title>
+<pages>244-253</pages>
+<year>2007</year>
+<booktitle>RTSS</booktitle>
+<crossref>conf/rtss/2007</crossref>
+<url>db/conf/rtss/rtss2007.html#LiuSWWW07</url>
+<ee>https://doi.org/10.1109/RTSS.2007.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTSS.2007.10</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/euc/2007" mdate="2019-05-14">
+<editor pid="07/3181">Tei-Wei Kuo</editor>
+<editor pid="27/2376">Edwin Hsing-Mean Sha</editor>
+<editor pid="99/6797">Minyi Guo</editor>
+<editor pid="y/LaurenceTianruoYang">Laurence Tianruo Yang</editor>
+<editor pid="08/6845">Zili Shao</editor>
+<title>Embedded and Ubiquitous Computing, International Conference, EUC 2007, Taipei, Taiwan, December 17-20, 2007, Proceedings</title>
+<booktitle>EUC</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4808</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-77091-6</isbn>
+<ee>https://doi.org/10.1007/978-3-540-77092-3</ee>
+<url>db/conf/euc/euc2007.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijcse/ShaoZLXSX06" mdate="2020-07-30">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="07/3433">Meilin Liu</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<title>Algorithms and analysis of scheduling for loops with minimum switching.</title>
+<pages>88-97</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>Int. J. Comput. Sci. Eng.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJCSE.2006.009939</ee>
+<url>db/journals/ijcse/ijcse2.html#ShaoZLXSX06</url>
+</article>
+</r>
+<r><article key="journals/jpdc/ShaoCCXS06" mdate="2020-04-14">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author orcid="0000-0003-1709-2637" pid="71/6513">Keith C. C. Chan</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Hardware/software optimization for array &#38; pointer boundary checking against buffer overflow attacks.</title>
+<pages>1129-1136</pages>
+<year>2006</year>
+<volume>66</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.jpdc.2006.04.010</ee>
+<ee>https://www.wikidata.org/entity/Q60250260</ee>
+<url>db/journals/jpdc/jpdc66.html#ShaoCCXS06</url>
+</article>
+</r>
+<r><article key="journals/mam/ZhugeXSLQS06" mdate="2020-05-18">
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6188-2372" pid="07/3433">Meilin Liu</author>
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Design optimization and space minimization considering timing and code size via retiming and unfolding.</title>
+<pages>173-183</pages>
+<year>2006</year>
+<volume>30</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.micpro.2005.11.002</ee>
+<url>db/journals/mam/mam30.html#ZhugeXSLQS06</url>
+</article>
+</r>
+<r><article key="journals/tc/ShaoXZQXS06" mdate="2017-09-16">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Security Protection and Checking for Embedded System Integration against Buffer Overflow Attacks via Hardware/Software.</title>
+<pages>443-453</pages>
+<year>2006</year>
+<volume>55</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TC.2006.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2006.59</ee>
+<url>db/journals/tc/tc55.html#ShaoXZQXS06</url>
+</article>
+</r>
+<r><article key="journals/tcas/XueSZXLS06" mdate="2020-05-27">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Jason Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author orcid="0000-0002-6188-2372" pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Optimizing Address Assignment and Scheduling for DSPs With Multiple Functional Units.</title>
+<pages>976-980</pages>
+<year>2006</year>
+<volume>53-II</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TCSII.2006.880026</ee>
+<url>db/journals/tcas/tcasII53.html#XueSZXLS06</url>
+</article>
+</r>
+<r><article key="journals/todaes/ShaoXXZS06" mdate="2018-11-06">
+<author pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Loop scheduling with timing and switching-activity minimization for VLIW DSP.</title>
+<pages>165-185</pages>
+<year>2006</year>
+<volume>11</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1124713.1124724</ee>
+<url>db/journals/todaes/todaes11.html#ShaoXXZS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/QiuXZSLS06" mdate="2017-09-16">
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6188-2372" pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Voltage Assignment and Loop Scheduling for Energy Minimization while Satisfying Timing Constraint with Guaranteed Probability.</title>
+<pages>178-181</pages>
+<year>2006</year>
+<crossref>conf/asap/2006</crossref>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2006.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2006.69</ee>
+<url>db/conf/asap/asap2006.html#QiuXZSLS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/QiuXSZLS06" mdate="2017-05-26">
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Efficent Algorithm of Energy Minimization for Heterogeneous Wireless Sensor Network.</title>
+<pages>25-34</pages>
+<year>2006</year>
+<crossref>conf/euc/2006</crossref>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1007/11802167_5</ee>
+<url>db/conf/euc/euc2006.html#QiuXSZLS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/XiaoYSL06" mdate="2017-10-27">
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="85/3615">Jiadi Yu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="l/MingluLi">Minglu Li 0001</author>
+<title>Distributed Proximity-Aware Peer Clustering in BitTorrent-Like Peer-to-Peer Networks.</title>
+<pages>375-384</pages>
+<year>2006</year>
+<crossref>conf/euc/2006</crossref>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1007/11802167_39</ee>
+<url>db/conf/euc/euc2006.html#XiaoYSL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/XueSLQS06" mdate="2017-05-26">
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Loop Striping: Maximize Parallelism for Nested Loops.</title>
+<pages>405-414</pages>
+<year>2006</year>
+<crossref>conf/euc/2006</crossref>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1007/11802167_42</ee>
+<url>db/conf/euc/euc2006.html#XueSLQS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/XueSLQS06" mdate="2017-09-16">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6188-2372" pid="07/3433">Meilin Liu</author>
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Loop Scheduling with Complete Memory Latency Hiding on Multi-core Architecture.</title>
+<pages>375-382</pages>
+<year>2006</year>
+<crossref>conf/icpads/2006</crossref>
+<booktitle>ICPADS (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2006.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2006.58</ee>
+<url>db/conf/icpads/icpads2006-1.html#XueSLQS06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/euc/2006w" mdate="2019-05-14">
+<editor pid="13/6395-2">Xiaobo Zhou 0002</editor>
+<editor pid="31/4030">Oleg Sokolsky</editor>
+<editor pid="y/LuYan">Lu Yan</editor>
+<editor pid="95/283">Eun-Sun Jung</editor>
+<editor pid="08/6845">Zili Shao</editor>
+<editor pid="m/YiMu">Yi Mu 0001</editor>
+<editor pid="15/2377">Dong Chun Lee</editor>
+<editor pid="29/986">Daeyoung Kim</editor>
+<editor pid="82/2855">Young-Sik Jeong</editor>
+<editor pid="x/ChengZhongXu">Cheng-Zhong Xu 0001</editor>
+<title>Emerging Directions in Embedded and Ubiquitous Computing, EUC 2006 Workshops: NCUS, SecUbiq, USN, TRUST, ESO, and MSA, Seoul, Korea, August 1-4, 2006, Proceedings</title>
+<booktitle>EUC Workshops</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4097</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>3-540-36850-7</isbn>
+<ee>https://doi.org/10.1007/11807964</ee>
+<url>db/conf/euc/eucw2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tpds/ShaoZXS05" mdate="2020-10-02">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Efficient Assignment and Scheduling for Heterogeneous DSP Systems.</title>
+<pages>516-525</pages>
+<year>2005</year>
+<volume>16</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPDS.2005.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2005.71</ee>
+<url>db/journals/tpds/tpds16.html#ShaoZXS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ISCApdcs/LiuSXCS05" mdate="2006-09-06">
+<author pid="07/3433">Meilin Liu</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="26/579">Kevin F. Chen</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Multi-level Loop Fusion with Minimal Code Size.</title>
+<pages>348-</pages>
+<year>2005</year>
+<crossref>conf/ISCApdcs/2005</crossref>
+<booktitle>ISCA PDCS</booktitle>
+<url>db/conf/ISCApdcs/ISCApdcs2005.html#LiuSXCS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/ShaoZXXS05" mdate="2018-11-06">
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>High-level synthesis for DSP applications using heterogeneous functional units.</title>
+<pages>302-304</pages>
+<year>2005</year>
+<crossref>conf/aspdac/2005</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/1120725.1120854</ee>
+<ee>https://doi.org/10.1109/ASPDAC.2005.1466178</ee>
+<url>db/conf/aspdac/aspdac2005.html#ShaoZXXS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/XueSLS05" mdate="2018-11-06">
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Iterational retiming: maximize iteration-level parallelism for nested loops.</title>
+<pages>309-314</pages>
+<year>2005</year>
+<crossref>conf/codes/2005</crossref>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1084834.1084910</ee>
+<url>db/conf/codes/codes2005.html#XueSLS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/LiuZSXQS05" mdate="2017-05-26">
+<author pid="07/3433">Meilin Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Loop Distribution and Fusion with Timing and Code Size Optimization for Embedded DSPs.</title>
+<pages>121-130</pages>
+<year>2005</year>
+<crossref>conf/euc/2005</crossref>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1007/11596356_15</ee>
+<url>db/conf/euc/euc2005.html#LiuZSXQS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/XueSLQS05" mdate="2017-09-16">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6188-2372" pid="07/3433">Meilin Liu</author>
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Optimizing Nested Loops with Iterational and Instructional Retiming.</title>
+<pages>164-173</pages>
+<year>2005</year>
+<crossref>conf/euc/2005</crossref>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1007/11596356_19</ee>
+<url>db/conf/euc/euc2005.html#XueSLQS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/XueSCS05" mdate="2020-06-22">
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="21/5521">Ying Chen</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Optimizing DSP scheduling via address assignment with array and loop transformation.</title>
+<pages>85-88</pages>
+<year>2005</year>
+<booktitle>ICASSP (5)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2005.1416246</ee>
+<crossref>conf/icassp/2005</crossref>
+<url>db/conf/icassp/icassp2005.html#XueSCS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/ChenSZXXS05" mdate="2020-06-15">
+<author pid="21/5521">Ying Chen</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Minimizing Energy via Loop Scheduling and DVS for Multi-Core Embedded Systems.</title>
+<pages>2-6</pages>
+<year>2005</year>
+<crossref>conf/icpads/2005</crossref>
+<booktitle>ICPADS (2)</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2005.196</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2005.196</ee>
+<url>db/conf/icpads/icpads2005-2.html#ChenSZXXS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/LiuZSXQS05" mdate="2017-09-16">
+<author orcid="0000-0002-6188-2372" pid="07/3433">Meilin Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0002-6431-9868" pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Maximum Loop Distribution and Fusion for Two-level Loops Considering Code Size.</title>
+<pages>126-131</pages>
+<year>2005</year>
+<booktitle>ISPAN</booktitle>
+<ee>https://doi.org/10.1109/ISPAN.2005.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISPAN.2005.58</ee>
+<crossref>conf/ispan/2005</crossref>
+<url>db/conf/ispan/ispan2005.html#LiuZSXQS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itcc/ShaoXZSX05" mdate="2017-07-23">
+<author pid="08/6845">Zili Shao</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<title>Efficient Array &#38; Pointer Bound Checking Against Buffer Overflow Attacks via Hardware/Software.</title>
+<pages>780-785</pages>
+<year>2005</year>
+<crossref>conf/itcc/2005-1</crossref>
+<booktitle>ITCC (1)</booktitle>
+<ee>https://doi.org/10.1109/ITCC.2005.140</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ITCC.2005.140</ee>
+<url>db/conf/itcc/itcc2005-1.html#ShaoXZSX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdcs/QiuLCZSS05" mdate="2006-09-26">
+<author pid="q/MeikangQiu">Mei Kang Qiu</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Optimal Assignment with Guaranteed Confidence Probability for Trees on Heterogeneous DSP Systems.</title>
+<pages>295-300</pages>
+<year>2005</year>
+<crossref>conf/pdcs/2005</crossref>
+<booktitle>IASTED PDCS</booktitle>
+<url>db/conf/pdcs/pdcs2005.html#QiuLCZSS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpcn/ShaoZZS04" mdate="2020-07-09">
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="z/YoutaoZhang">Youtao Zhang</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Algorithms and analysis of scheduling for low-power high-performance DSP on VLIW processors.</title>
+<pages>4-16</pages>
+<year>2004</year>
+<volume>1</volume>
+<journal>Int. J. High Perform. Comput. Netw.</journal>
+<number>1/2/3</number>
+<ee>https://doi.org/10.1504/IJHPCN.2004.007561</ee>
+<url>db/journals/ijhpcn/ijhpcn1.html#ShaoZZS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/ISCApdcs/LiuZSCS04" mdate="2006-09-08">
+<author pid="07/3433">Meilin Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="26/579">Kevin F. Chen</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Loop Fusion via Retiming for DSP Applications.</title>
+<pages>403-408</pages>
+<year>2004</year>
+<crossref>conf/ISCApdcs/2004</crossref>
+<booktitle>ISCA PDCS</booktitle>
+<url>db/conf/ISCApdcs/ISCApdcs2004.html#LiuZSCS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/ShaoZLXS04" mdate="2017-07-24">
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Switching-Activity Minimization on Instruction-Level Loop Scheduling for VLIWDSP Applications.</title>
+<pages>224-234</pages>
+<year>2004</year>
+<crossref>conf/asap/2004</crossref>
+<booktitle>ASAP</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2004.10023</ee>
+<url>db/conf/asap/asap2004.html#ShaoZLXS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/LiuZSS04" mdate="2018-11-06">
+<author pid="07/3433">Meilin Liu</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>General loop fusion technique for nested loops considering timing and code size.</title>
+<pages>190-201</pages>
+<year>2004</year>
+<crossref>conf/cases/2004</crossref>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1023833.1023860</ee>
+<url>db/conf/cases/cases2004.html#LiuZSS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/ShaoZLSX04" mdate="2017-07-23">
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<title>Loop Scheduling for Real-Time DSPs with Minimum Switching Activities on Multiple-Functional-Unit Architectures.</title>
+<pages>53-63</pages>
+<ee>https://doi.org/10.1007/978-3-540-30121-9_6</ee>
+<year>2004</year>
+<crossref>conf/euc/2004</crossref>
+<booktitle>EUC</booktitle>
+<url>db/conf/euc/euc2004.html#ShaoZLSX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/XueSSX04" mdate="2017-07-23">
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<title>Optimizing Address Assignment for Scheduling Embedded DSPs.</title>
+<pages>64-73</pages>
+<ee>https://doi.org/10.1007/978-3-540-30121-9_7</ee>
+<year>2004</year>
+<crossref>conf/euc/2004</crossref>
+<booktitle>EUC</booktitle>
+<url>db/conf/euc/euc2004.html#XueSSX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/XiaoCZSS04" mdate="2020-04-14">
+<author pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Dynamic shortest path tree update for multiple link state decrements.</title>
+<pages>1163-1167</pages>
+<year>2004</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2004.1378139</ee>
+<crossref>conf/globecom/2004</crossref>
+<url>db/conf/globecom/globecom2004.html#XiaoCZSS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/ZhugeSS04" mdate="2017-05-19">
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Timing Optimization of Nested Loops Considering Code Size for DSP Applications.</title>
+<pages>475-482</pages>
+<year>2004</year>
+<crossref>conf/icpp/2004</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2004.1327957</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2004.1327957</ee>
+<url>db/conf/icpp/icpp2004.html#ZhugeSS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/ShaoZHXLS04" mdate="2018-06-25">
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="65/425-1">Yi He 0001</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="07/3433">Meilin Liu</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Assignment and Scheduling of Real-time DSP Applications for Heterogeneous Functional Units.</title>
+<year>2004</year>
+<crossref>conf/ipps/2004</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2004.1302986</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2004.1302986</ee>
+<url>db/conf/ipps/ipdps2004-c.html#ShaoZHXLS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/XiaoCZSS04" mdate="2020-04-14">
+<author pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Dynamic Update of Shortest Path Tree in OSPF.</title>
+<pages>18-23</pages>
+<year>2004</year>
+<crossref>conf/ispan/2004</crossref>
+<booktitle>ISPAN</booktitle>
+<ee>https://doi.org/10.1109/ISPAN.2004.1300451</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISPAN.2004.1300451</ee>
+<url>db/conf/ispan/ispan2004.html#XiaoCZSS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itcc/ShaoXZSX04" mdate="2017-07-24">
+<author pid="08/6845">Zili Shao</author>
+<author pid="x/ChunJasonXue">Chun Xue</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author pid="43/5134-1">Bin Xiao 0001</author>
+<title>Security Protection and Checking in Embedded System Integration Against Buffer Overflow Attacks.</title>
+<pages>409-413</pages>
+<year>2004</year>
+<crossref>conf/itcc/2004-1</crossref>
+<booktitle>ITCC (1)</booktitle>
+<ee>https://doi.org/10.1109/ITCC.2004.1286489</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ITCC.2004.1286489</ee>
+<url>db/conf/itcc/itcc2004-1.html#ShaoXZSX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ISCApdcs/XiaoZSS03" mdate="2017-07-24">
+<author pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Design and Analysis of Improved Shortest Path Tree Update for Network Routing.</title>
+<pages>82-87</pages>
+<year>2003</year>
+<crossref>conf/ISCApdcs/2003</crossref>
+<booktitle>ISCA PDCS</booktitle>
+<url>db/conf/ISCApdcs/ISCApdcs2003.html#XiaoZSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsac/ShaoZHS03" mdate="2018-06-25">
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="65/425-1">Yi He 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Defending Embedded Systems Against Buffer Overflow via Hardware/Software.</title>
+<pages>352-361</pages>
+<year>2003</year>
+<crossref>conf/acsac/2003</crossref>
+<booktitle>ACSAC</booktitle>
+<ee>https://doi.org/10.1109/CSAC.2003.1254340</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSAC.2003.1254340</ee>
+<url>db/conf/acsac/acsac2003.html#ShaoZHS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/ZhugeSXS03" mdate="2020-06-15">
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author orcid="0000-0003-4223-8220" pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Design space minimization with timing and code size optimization for embedded DSP.</title>
+<pages>144-149</pages>
+<year>2003</year>
+<crossref>conf/codes/2003</crossref>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/944645.944685</ee>
+<url>db/conf/codes/codes2003.html#ZhugeSXS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ShaoZSC03" mdate="2017-05-26">
+<author pid="08/6845">Zili Shao</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author pid="c/CChantrapornchai">Chantana Chantrapornchai</author>
+<title>Loop scheduling for minimizing schedule length and switching activities.</title>
+<pages>109-112</pages>
+<year>2003</year>
+<crossref>conf/iscas/2003</crossref>
+<booktitle>ISCAS (5)</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2003.1206201</ee>
+<url>db/conf/iscas/iscas2003-5.html#ShaoZSC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/ZhugeSS02" mdate="2017-09-16">
+<author pid="73/1987">Qingfeng Zhuge</author>
+<author orcid="0000-0002-2173-2847" pid="08/6845">Zili Shao</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<title>Optimal Code Size Reduction for Software-Pipelined Loops on DSP Applications.</title>
+<pages>613-620</pages>
+<year>2002</year>
+<crossref>conf/icpp/2002</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2002.1040919</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2002.1040919</ee>
+<url>db/conf/icpp/icpp2002.html#ZhugeSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isss/XiaoSCSZ02" mdate="2018-11-06">
+<author pid="43/5134-1">Bin Xiao 0001</author>
+<author pid="08/6845">Zili Shao</author>
+<author pid="c/CChantrapornchai">Chantana Chantrapornchai</author>
+<author pid="27/2376">Edwin Hsing-Mean Sha</author>
+<author pid="73/1987">Qingfeng Zhuge</author>
+<title>Optimal Code Size Reduction for Software-Pipelined and Unfolded Loops.</title>
+<pages>144-149</pages>
+<year>2002</year>
+<crossref>conf/isss/2002</crossref>
+<booktitle>ISSS</booktitle>
+<ee>https://doi.org/10.1109/ISSS.2002.1227167</ee>
+<ee>https://doi.org/10.1145/581199.581232</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSS.2002.1227167</ee>
+<url>db/conf/isss/isss2002.html#XiaoSCSZ02</url>
+</inproceedings>
+</r>
+<coauthors n="225" nc="1">
+<co c="0"><na f="a/Amrouch:Hussam" pid="94/10663">Hussam Amrouch</na></co>
+<co c="0"><na f="a/Aydin:Hakan" pid="95/5362">Hakan Aydin</na></co>
+<co c="0"><na f="b/Baek:Donkyu" pid="87/9256">Donkyu Baek</na></co>
+<co c="0"><na f="b/Bathen:Luis_Angel_D=" pid="67/2324">Luis Angel D. Bathen</na></co>
+<co c="0"><na f="b/Bhattacharyya:Shuvra_S=" pid="b/ShuvraSBhattacharyya">Shuvra S. Bhattacharyya</na></co>
+<co c="0"><na f="b/Bhuiyan:Md=_Zakirul_Alam" pid="88/7649">Md. Zakirul Alam Bhuiyan</na></co>
+<co c="0"><na f="b/Boukhobza:Jalil" pid="94/2593">Jalil Boukhobza</na></co>
+<co c="0"><na f="c/Cao_0001:Jiannong" pid="c/JiannongCao">Jiannong Cao 0001</na></co>
+<co c="0"><na f="c/Cao:Yunan" pid="94/3336">Yunan Cao</na></co>
+<co c="0"><na f="c/Chakraborty:Samarjit" pid="c/SamarjitChakraborty">Samarjit Chakraborty</na></co>
+<co c="0"><na f="c/Chan:Henry_C=_B=" pid="96/5079">Henry C. B. Chan</na></co>
+<co c="0"><na f="c/Chan:Keith_C=_C=" pid="71/6513">Keith C. C. Chan</na></co>
+<co c="0"><na f="c/Chang:Naehyuck" pid="84/5634">Naehyuck Chang</na></co>
+<co c="0"><na f="c/Chang_0001:Yuan=Hao" pid="49/2395">Yuan-Hao Chang 0001</na></co>
+<co c="0"><na f="c/Chen_0005:Feng" pid="21/3047-5">Feng Chen 0005</na></co>
+<co c="0"><na f="c/Chen:Ke" pid="47/6529">Ke Chen</na></co>
+<co c="0"><na f="c/Chen:Kevin_F=" pid="26/579">Kevin F. Chen</na></co>
+<co c="0"><na f="c/Chen:Ping" pid="33/3675">Ping Chen</na></co>
+<co c="0"><na f="c/Chen:Renhai" pid="119/3383">Renhai Chen</na></co>
+<co c="0"><na f="c/Chen:Ruibiao" pid="222/3787">Ruibiao Chen</na></co>
+<co c="0"><na f="c/Chen:Weiwen" pid="205/8888">Weiwen Chen</na></co>
+<co c="0"><na f="c/Chen:Xianzhang" pid="159/6715">Xianzhang Chen</na></co>
+<co c="0"><na f="c/Chen:Yanming" pid="68/6802">Yanming Chen</na></co>
+<co c="0"><na f="c/Chen:Ying" pid="21/5521">Ying Chen</na></co>
+<co c="0"><na f="c/Chen:Yiran" pid="80/1641">Yiran Chen</na></co>
+<co c="0"><na f="c/Chen:Youdong" pid="10/225">Youdong Chen</na></co>
+<co c="0"><na f="c/Chen:Zhijie" pid="12/1713">Zhijie Chen</na></co>
+<co c="0"><na f="d/Dong:Lisha" pid="91/8818">Lisha Dong</na></co>
+<co c="0"><na f="d/Dong:Xuwei" pid="241/0975">Xuwei Dong</na></co>
+<co c="0"><na f="d/Dou:Qiang" pid="26/1722">Qiang Dou</na></co>
+<co c="0"><na f="d/Dou:Wenhua" pid="41/5655">Wenhua Dou</na></co>
+<co c="0"><na f="d/Du:Hongchao" pid="257/1447">Hongchao Du</na></co>
+<co c="0"><na f="d/Du:Junzhao" pid="29/6599">Junzhao Du</na></co>
+<co c="0"><na f="d/Dutt:Nikil_D=" pid="d/NikilDDutt">Nikil D. Dutt</na></co>
+<co c="0"><na f="f/Faruque:Mohammad_Abdullah_Al" pid="06/1521">Mohammad Abdullah Al Faruque</na></co>
+<co c="0"><na f="f/Feng_0002:Zhiyong" pid="48/195-2">Zhiyong Feng 0002</na></co>
+<co c="0"><na f="g/Gu:Zonghua" pid="93/1025">Zonghua Gu</na></co>
+<co c="0"><na f="g/Guan:Nan" pid="45/5411">Nan Guan</na></co>
+<co c="0"><na f="g/Guan:Yong" pid="04/606">Yong Guan</na></co>
+<co c="0"><na f="g/Guo:Bing" pid="65/4760">Bing Guo</na></co>
+<co c="0"><na f="g/Guo_0002:Jie" pid="77/2751-2">Jie Guo 0002</na></co>
+<co c="0"><na f="g/Guo:Minyi" pid="99/6797">Minyi Guo</na></co>
+<co c="0"><na f="h/Hack:Michel" pid="70/6076">Michel Hack</na></co>
+<co c="0"><na f="h/Han:Jian=Jun" pid="35/1282">Jian-Jun Han</na></co>
+<co c="0"><na f="h/Han:Lei" pid="75/2307">Lei Han</na></co>
+<co c="0"><na f="h/Hassan:Houcine" pid="72/5369">Houcine Hassan</na></co>
+<co c="0"><na f="h/He_0001:Yi" pid="65/425-1">Yi He 0001</na></co>
+<co c="0"><na f="h/He:Zhijian" pid="140/4276">Zhijian He</na></co>
+<co c="0"><na f="h/Henkel:J=ouml=rg" pid="h/JorgHenkel">J&#246;rg Henkel</na></co>
+<co c="0"><na f="h/Hu:Bin" pid="00/6381">Bin Hu</na></co>
+<co c="0"><na f="h/Hu:Jingtong" pid="37/3401">Jingtong Hu</na></co>
+<co c="0"><na f="h/Hua:Guochen" pid="09/1626">Guochen Hua</na></co>
+<co c="0"><na f="h/Huang:Enyan" pid="177/1397">Enyan Huang</na></co>
+<co c="0"><na f="h/Huang:H=_Howie" pid="39/560">H. Howie Huang</na></co>
+<co c="0"><na f="h/Huang_0002:Min" pid="44/1356-2">Min Huang 0002</na></co>
+<co c="0"><na f="h/Huang:Zhen" pid="22/3870">Zhen Huang</na></co>
+<co c="0"><na f="j/Jeong:Young=Sik" pid="82/2855">Young-Sik Jeong</na></co>
+<co c="0"><na f="j/Jia_0001:Weijia" pid="57/1667-1">Weijia Jia 0001</na></co>
+<co c="0"><na f="j/Jia:Yichen" pid="116/8410">Yichen Jia</na></co>
+<co c="0"><na f="j/Jia:Zhiping" pid="99/6654">Zhiping Jia</na></co>
+<co c="0"><na f="j/Jiang:Song" pid="08/237">Song Jiang</na></co>
+<co c="0"><na f="j/Jiang_0016:Wei" pid="21/3839-16">Wei Jiang 0016</na></co>
+<co c="0"><na f="j/Ju:Lei" pid="97/3791">Lei Ju</na></co>
+<co c="0"><na f="j/Jung:Eun=Sun" pid="95/283">Eun-Sun Jung</na></co>
+<co c="0"><na f="k/Kang:Yimei" pid="54/11351">Yimei Kang</na></co>
+<co c="0"><na f="k/Karabasoglu:Orkun" pid="151/7702">Orkun Karabasoglu</na></co>
+<co c="0"><na f="k/Kauer:Matthias" pid="123/8157">Matthias Kauer</na></co>
+<co c="0"><na f="k/Kawsar:Fahim" pid="98/1826">Fahim Kawsar</na></co>
+<co c="0"><na f="k/Khan:Ameer_Hamza" pid="231/3634">Ameer Hamza Khan</na></co>
+<co c="0"><na f="k/Khan:Muhammad_Umer" pid="88/6739">Muhammad Umer Khan</na></co>
+<co c="0"><na f="k/Kim:Daeyoung" pid="29/986">Daeyoung Kim</na></co>
+<co c="0"><na f="k/Kuo:Sy=Yen" pid="57/264">Sy-Yen Kuo</na></co>
+<co c="0"><na f="k/Kuo:Tei=Wei" pid="07/3181">Tei-Wei Kuo</na></co>
+<co c="0"><na f="l/Lee:Dong_Chun" pid="15/2377">Dong Chun Lee</na></co>
+<co c="0"><na f="l/Li:Chunxiang" pid="55/5576">Chunxiang Li</na></co>
+<co c="0"><na f="l/Li:Lin" pid="73/2252">Lin Li</na></co>
+<co c="0"><na f="l/Li_0001:Minglu" pid="l/MingluLi">Minglu Li 0001</na></co>
+<co c="0"><na f="l/Li_0002:Shuai" pid="57/2281-2">Shuai Li 0002</na></co>
+<co c="0"><na f="l/Li:Tao" pid="75/4601">Tao Li</na></co>
+<co c="0"><na f="l/Li:Xin" pid="09/1365">Xin Li</na></co>
+<co c="0"><na f="l/Li:Xuandong" pid="76/5446">Xuandong Li</na></co>
+<co c="0"><na f="l/Li:Yang" pid="37/4190">Yang Li</na></co>
+<co c="0"><na f="l/Liang_0002:Liang" pid="62/1052-2">Liang Liang 0002</na></co>
+<co c="0"><na f="l/Liao:Xiangke" pid="22/562">Xiangke Liao</na></co>
+<co c="0"><na f="l/Lin:Man" pid="78/3592">Man Lin</na></co>
+<co c="0"><na f="l/Lin:Yi" pid="42/5120">Yi Lin</na></co>
+<co c="0"><na f="l/Liu:Anfeng" pid="28/3062">Anfeng Liu</na></co>
+<co c="0"><na f="l/Liu:Duo" pid="91/620">Duo Liu</na></co>
+<co c="0"><na f="l/Liu:Hui" pid="93/4010">Hui Liu</na></co>
+<co c="0"><na f="l/Liu_0006:Hui" pid="93/4010-6">Hui Liu 0006</na></co>
+<co c="0"><na f="l/Liu:Meilin" pid="07/3433">Meilin Liu</na></co>
+<co c="0"><na f="l/Liu:Miao" pid="60/6348">Miao Liu</na></co>
+<co c="0"><na f="l/Liu:Renping" pid="224/5679">Renping Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Tiantian" pid="85/7672-1">Tiantian Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Weichen" pid="24/914">Weichen Liu</na></co>
+<co c="0"><na f="l/Liu_0007:Xiao" pid="82/1364-7">Xiao Liu 0007</na></co>
+<co c="0"><na f="l/Liu:Xiyang" pid="65/2992">Xiyang Liu</na></co>
+<co c="0" n="2"><na f="l/Liu:Xue_=Steve=" pid="l/XueLiu">Xue (Steve) Liu</na><na>Xue Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Yongpan" pid="15/2486">Yongpan Liu</na></co>
+<co c="0"><na f="l/Liu:Zhaoqing" pid="28/2621">Zhaoqing Liu</na></co>
+<co c="0"><na f="l/Long:Linbo" pid="141/0607">Linbo Long</na></co>
+<co c="0"><na f="l/Long:Lingbo" pid="207/0330">Lingbo Long</na></co>
+<co c="0"><na f="l/Lukasiewycz:Martin" pid="74/5364">Martin Lukasiewycz</na></co>
+<co c="0"><na f="l/Luo:Xianlu" pid="149/4001">Xianlu Luo</na></co>
+<co c="0"><na f="l/Lyons:Damian_M=" pid="94/6348">Damian M. Lyons</na></co>
+<co c="0"><na f="m/Ma:Chenlin" pid="148/8695">Chenlin Ma</na></co>
+<co c="0"><na f="m/Ma:Qun" pid="59/4969">Qun Ma</na></co>
+<co c="0"><na f="m/Ma_0001:Yue" pid="08/6794-1">Yue Ma 0001</na></co>
+<co c="0"><na f="m/Mao_0001:Rui" pid="51/5793">Rui Mao 0001</na></co>
+<co c="0"><na f="m/Ming_0001:Zhong" pid="84/2082">Zhong Ming 0001</na></co>
+<co c="0"><na f="m/Mu_0001:Yi" pid="m/YiMu">Yi Mu 0001</na></co>
+<co c="0"><na f="m/Muhammad:Shaheer" pid="206/2867">Shaheer Muhammad</na></co>
+<co c="-1"><na f="n/Nagarajan:Vijay" pid="24/1972">Vijay Nagarajan</na></co>
+<co c="0"><na f="n/Narayanaswamy:Swaminathan" pid="144/4482">Swaminathan Narayanaswamy</na></co>
+<co c="0"><na f="n/Ni:Fan" pid="133/6961">Fan Ni</na></co>
+<co c="0"><na f="p/Pan:Chen" pid="77/3991">Chen Pan</na></co>
+<co c="0"><na f="p/Pan:Linfeng" pid="39/5564">Linfeng Pan</na></co>
+<co c="0"><na f="p/Pan:Rui" pid="74/9957">Rui Pan</na></co>
+<co c="0"><na f="p/Pan:Yungang" pid="270/4073">Yungang Pan</na></co>
+<co c="0"><na f="p/Park:Jong_Hyuk" pid="p/JongHyukPark">Jong Hyuk Park</na></co>
+<co c="0" n="2"><na f="p/Phongpensri:Chantana" pid="c/CChantrapornchai">Chantana Phongpensri</na><na>Chantana Chantrapornchai</na></co>
+<co c="0"><na f="q/Qian:Yue" pid="02/6629">Yue Qian</na></co>
+<co c="0"><na f="q/Qiao:Liyan" pid="64/10696">Liyan Qiao</na></co>
+<co c="0"><na f="q/Qin:Zhiwei" pid="49/7790">Zhiwei Qin</na></co>
+<co c="0"><na f="q/Qiu:Keni" pid="132/8163">Keni Qiu</na></co>
+<co c="0" n="2"><na f="q/Qiu:Meikang" pid="q/MeikangQiu">Meikang Qiu</na><na>Mei Kang Qiu</na></co>
+<co c="0"><na f="r/Rafique:Muhammad_Usman" pid="33/9804">Muhammad Usman Rafique</na></co>
+<co c="0"><na f="r/Ren:Jinting" pid="193/1369">Jinting Ren</na></co>
+<co c="0"><na f="r/Ren:Yufei" pid="118/5479">Yufei Ren</na></co>
+<co c="0"><na f="r/Rubini:St=eacute=phane" pid="56/4743">St&#233;phane Rubini</na></co>
+<co c="0" n="2"><na f="s/Sha:Edwin_H==M=" pid="27/2376">Edwin H.-M. Sha</na><na>Edwin Hsing-Mean Sha</na></co>
+<co c="0"><na f="s/Shang:Siqi" pid="284/8037">Siqi Shang</na></co>
+<co c="0"><na f="s/Shao:Zhenzhou" pid="63/9966">Zhenzhou Shao</na></co>
+<co c="0"><na f="s/She:Xiongxiong" pid="276/1686">Xiongxiong She</na></co>
+<co c="0"><na f="s/Shen:Zhaoyan" pid="150/0554">Zhaoyan Shen</na></co>
+<co c="0"><na f="s/Shi:Yuanjing" pid="125/7621">Yuanjing Shi</na></co>
+<co c="0"><na f="s/Sokolsky:Oleg" pid="31/4030">Oleg Sokolsky</na></co>
+<co c="0"><na f="s/Song:Ailong" pid="72/8759">Ailong Song</na></co>
+<co c="0"><na f="s/Steinhorst:Sebastian" pid="96/4490">Sebastian Steinhorst</na></co>
+<co c="0"><na f="s/Su:Jinshu" pid="15/2098">Jinshu Su</na></co>
+<co c="0"><na f="s/Sun:Kai" pid="09/1171">Kai Sun</na></co>
+<co c="0"><na f="t/Tan:Jindong" pid="63/3567">Jindong Tan</na></co>
+<co c="0"><na f="t/Tan:Shangzhen" pid="251/1370">Shangzhen Tan</na></co>
+<co c="0"><na f="t/Tan:Yujuan" pid="67/8380">Yujuan Tan</na></co>
+<co c="0"><na f="t/Tang:Zhipeng" pid="143/0468">Zhipeng Tang</na></co>
+<co c="0"><na f="t/Tao:Xin" pid="98/7443">Xin Tao</na></co>
+<co c="0"><na f="w/Wang:Bin" pid="13/1898">Bin Wang</na></co>
+<co c="0"><na f="w/Wang:Dan" pid="23/2060">Dan Wang</na></co>
+<co c="0"><na f="w/Wang:Danghui" pid="28/4366">Danghui Wang</na></co>
+<co c="0"><na f="w/Wang:Fang" pid="35/5625">Fang Wang</na></co>
+<co c="0"><na f="w/Wang:Guohui" pid="48/2396">Guohui Wang</na></co>
+<co c="0"><na f="w/Wang:Jihe" pid="38/9911">Jihe Wang</na></co>
+<co c="0"><na f="w/Wang:Junhui" pid="27/3515">Junhui Wang</na></co>
+<co c="0"><na f="w/Wang:Linzhang" pid="63/829">Linzhang Wang</na></co>
+<co c="0"><na f="w/Wang:M=" pid="48/3314">M. Wang</na></co>
+<co c="0"><na f="w/Wang_0005:Meng" pid="93/6765-5">Meng Wang 0005</na></co>
+<co c="0"><na f="w/Wang:Qian" pid="75/5723">Qian Wang</na></co>
+<co c="0"><na f="w/Wang:Qixin" pid="17/6932">Qixin Wang</na></co>
+<co c="0"><na f="w/Wang:Tianmiao" pid="27/2337">Tianmiao Wang</na></co>
+<co c="0"><na f="w/Wang:Tianyu" pid="35/8397">Tianyu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Wei" pid="35/7092">Wei Wang</na></co>
+<co c="0"><na f="w/Wang:Xupeng" pid="141/0617">Xupeng Wang</na></co>
+<co c="0"><na f="w/Wang:Yandong" pid="54/6926">Yandong Wang</na></co>
+<co c="0"><na f="w/Wang_0003:Yi" pid="67/6649-3">Yi Wang 0003</na></co>
+<co c="0"><na f="w/Wang_0002:Yu" pid="w/YuWang2">Yu Wang 0002</na></co>
+<co c="0"><na f="w/Wang:Zhiqi" pid="19/4423">Zhiqi Wang</na></co>
+<co c="0"><na f="w/Wang:Zhu" pid="03/6588">Zhu Wang</na></co>
+<co c="0"><na f="w/Wei:Hongxing" pid="75/4595">Hongxing Wei</na></co>
+<co c="0"><na f="w/Wu_0001:Kaijie" pid="72/6531">Kaijie Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Qihong" pid="246/2473">Qihong Wu</na></co>
+<co c="0"><na f="w/Wu:Shangyu" pid="241/1185">Shangyu Wu</na></co>
+<co c="0"><na f="w/Wu:Xingbo" pid="145/0651">Xingbo Wu</na></co>
+<co c="0"><na f="w/Wu:Yunsong" pid="43/721">Yunsong Wu</na></co>
+<co c="0"><na f="x/Xia:Lixue" pid="160/1534">Lixue Xia</na></co>
+<co c="0"><na f="x/Xiao:Bin" pid="43/5134">Bin Xiao</na></co>
+<co c="0"><na f="x/Xiao_0001:Bin" pid="43/5134-1">Bin Xiao 0001</na></co>
+<co c="0"><na f="x/Xie:Mimi" pid="151/6207">Mimi Xie</na></co>
+<co c="0"><na f="x/Xing:Guoliang" pid="63/4542">Guoliang Xing</na></co>
+<co c="0"><na f="x/Xiong:Xiankui" pid="207/4010">Xiankui Xiong</na></co>
+<co c="0"><na f="x/Xu_0001:Cheng=Zhong" pid="x/ChengZhongXu">Cheng-Zhong Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Wenchao" pid="96/8862">Wenchao Xu</na></co>
+<co c="0"><na f="x/Xu_0002:Yuanchao" pid="78/10373-2">Yuanchao Xu 0002</na></co>
+<co c="0"><na f="x/Xu:Yuehai" pid="11/9511">Yuehai Xu</na></co>
+<co c="0" n="2"><na f="x/Xue:Chun_Jason" pid="x/ChunJasonXue">Chun Jason Xue</na><na>Chun Xue</na></co>
+<co c="0"><na f="x/Xue:Jin" pid="43/3655">Jin Xue</na></co>
+<co c="0"><na f="x/Xue:Jingling" pid="x/JinglingXue">Jingling Xue</na></co>
+<co c="0"><na f="y/Yadgar:Gala" pid="25/646">Gala Yadgar</na></co>
+<co c="0"><na f="y/Yan:Haijin" pid="45/3141">Haijin Yan</na></co>
+<co c="0"><na f="y/Yan:Lu" pid="y/LuYan">Lu Yan</na></co>
+<co c="0"><na f="y/Yan:Xia" pid="52/6208">Xia Yan</na></co>
+<co c="0"><na f="y/Yang:Chaoshu" pid="206/2738">Chaoshu Yang</na></co>
+<co c="0"><na f="y/Yang:Chengmo" pid="06/4401">Chengmo Yang</na></co>
+<co c="0"><na f="y/Yang:Chia=Lin" pid="03/711">Chia-Lin Yang</na></co>
+<co c="0" n="2"><na f="y/Yang:Laurence_T=" pid="y/LaurenceTianruoYang">Laurence T. Yang</na><na>Laurence Tianruo Yang</na></co>
+<co c="0"><na f="y/Yang:Yanqin" pid="32/5167">Yanqin Yang</na></co>
+<co c="0"><na f="y/Yao:Lei" pid="90/3572">Lei Yao</na></co>
+<co c="0"><na f="y/Yao:Min" pid="66/4094">Min Yao</na></co>
+<co c="0"><na f="y/Yu:Jiadi" pid="85/3615">Jiadi Yu</na></co>
+<co c="0"><na f="y/Yuan:Zhaohui" pid="25/4992">Zhaohui Yuan</na></co>
+<co c="0"><na f="z/Zeng:Jing" pid="44/3331">Jing Zeng</na></co>
+<co c="0"><na f="z/Zeng:YingZhi" pid="51/1056">YingZhi Zeng</na></co>
+<co c="0"><na f="z/Zhan:Jinyu" pid="10/6219">Jinyu Zhan</na></co>
+<co c="0"><na f="z/Zhang:Chi" pid="91/195">Chi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0011:Dan" pid="21/802-11">Dan Zhang 0011</na></co>
+<co c="0"><na f="z/Zhang_0002:Li" pid="89/5992-2">Li Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Qi" pid="52/323">Qi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Runyu" pid="206/2669">Runyu Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Tian" pid="13/2913-1">Tian Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Wende" pid="73/2915">Wende Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xia" pid="98/480">Xia Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xingyu" pid="35/8549">Xingyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Youtao" pid="z/YoutaoZhang">Youtao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yuhao" pid="139/5876">Yuhao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhiyong" pid="03/5274">Zhiyong Zhang</na></co>
+<co c="0"><na f="z/Zhao:Baokang" pid="88/8117">Baokang Zhao</na></co>
+<co c="0"><na f="z/Zhao:Mengying" pid="73/11467">Mengying Zhao</na></co>
+<co c="0"><na f="z/Zhong:Kan" pid="149/3972">Kan Zhong</na></co>
+<co c="0"><na f="z/Zhou:Amelie_Chi" pid="131/6619">Amelie Chi Zhou</na></co>
+<co c="0"><na f="z/Zhou_0002:Xiaobo" pid="13/6395-2">Xiaobo Zhou 0002</na></co>
+<co c="0"><na f="z/Zhou_0001:Xingshe" pid="88/20-1">Xingshe Zhou 0001</na></co>
+<co c="0"><na f="z/Zhu_0001:Dakai" pid="64/4129">Dakai Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu:Wenbin" pid="75/905">Wenbin Zhu</na></co>
+<co c="0"><na f="z/Zhu:Xiao" pid="19/8561">Xiao Zhu</na></co>
+<co c="0"><na f="z/Zhuge:Qingfeng" pid="73/1987">Qingfeng Zhuge</na></co>
+</coauthors>
+</dblpperson>
+

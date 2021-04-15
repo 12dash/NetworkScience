@@ -1,3 +1,2588 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab93048c9308f950ce1993401ba0a2ddd48d2528852e63c475c54b3f9a586a07
-size 118898
+<?xml version="1.0"?>
+<dblpperson name="Mourad Ouzzani" pid="o/MouradOuzzani" n="146">
+<person key="homepages/o/MouradOuzzani" mdate="2020-05-12">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<note type="affiliation">Qatar Computing Research Institute, HBKU, Qatar</note>
+<note type="affiliation">Purdue University, West Lafayette, USA</note>
+<url>http://qcri.org.qa/page?a=117&#38;pid=30</url>
+<url>https://scholar.google.com/citations?user=FzNzuBsAAAAJ</url>
+<url>https://orcid.org/0000-0002-4035-3025</url>
+<url>https://www.wikidata.org/entity/Q88906390</url>
+</person>
+<r><article key="journals/fdata/TangYMMOA20" mdate="2020-10-23">
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>LocationSpark: In-memory Distributed Spatial Query Processing and Optimization.</title>
+<pages>30</pages>
+<year>2020</year>
+<volume>3</volume>
+<journal>Frontiers Big Data</journal>
+<ee type="oa">https://doi.org/10.3389/fdata.2020.00030</ee>
+<url>db/journals/fdata/fdata3.html#TangYMMOA20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/QahtanTOCS20" mdate="2021-03-23">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="25/7045-12">Yang Cao 0012</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Pattern Functional Dependencies for Data Cleaning.</title>
+<pages>684-697</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p684-qahtan.pdf</ee>
+<ee>https://doi.org/10.14778/3377369.3377377</ee>
+<url>db/journals/pvldb/pvldb13.html#QahtanTOCS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RezigBTO0MMS20" mdate="2021-03-23">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="273/7114">Ashrita Brahmaroutu</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Debugging Large-Scale Data Science Pipelines using Dagger.</title>
+<pages>2993-2996</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2993-rezig.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415527</ee>
+<url>db/journals/pvldb/pvldb13.html#RezigBTO0MMS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/RezigCSSMTOS20" mdate="2020-06-08">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="151/8293">Giovanni Simonini</author>
+<author pid="257/5610">Maxime Schoemans</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Dagger: A Data (not code) Debugger.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p35-rezig-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#RezigCSSMTOS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Thirumuruganathan20" mdate="2021-01-29">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<title>Data Curation with Deep Learning.</title>
+<pages>277-286</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.25</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#Thirumuruganathan20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MuslehO0D20" mdate="2020-06-05">
+<author pid="147/1231">Mashaal Musleh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<title>CoClean: Collaborative Data Cleaning.</title>
+<pages>2757-2760</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384698</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#MuslehO0D20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-02469" mdate="2020-12-09">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="37/8497">Fangyi Li</author>
+<author pid="227/8305">Jianhong Tu</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Relational Pretrained Transformers towards Democratizing Data Preparation [Vision].</title>
+<year>2020</year>
+<volume>abs/2012.02469</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.02469</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-02469</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RezigCSSTMOTE19" mdate="2020-06-08">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="151/8293">Giovanni Simonini</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Data Civilizer 2.0: A Holistic Framework for Data Preparation and Analytics.</title>
+<pages>1954-1957</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1954-rezig.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352108</ee>
+<url>db/journals/pvldb/pvldb12.html#RezigCSSTMOTE19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/DengTAEI0MOS019" mdate="2021-04-12">
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Unsupervised String Transformation Learning for Entity Consolidation.</title>
+<pages>196-207</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00026</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#DengTAEI0MOS019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EbaidTAEO19" mdate="2019-06-12">
+<author pid="131/4161">Amr Ebaid</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>EXPLAINER: Entity Resolution Explanations.</title>
+<pages>2000-2003</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00224</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#EbaidTAEO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangYAMO19" mdate="2019-06-11">
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Efficient Parallel Skyline Query Processing for High-Dimensional Data.</title>
+<pages>2113-2114</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00251</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#TangYAMO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RezigOEAS19" mdate="2019-09-25">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Towards an End-to-End Human-Centric Data Cleaning Framework.</title>
+<pages>1:1-1:7</pages>
+<year>2019</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3328519.3329133</ee>
+<crossref>conf/sigmod/2019hilda</crossref>
+<url>db/conf/sigmod/hilda2019.html#RezigOEAS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Thirumuruganathan19" mdate="2019-09-25">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Explaining Entity Resolution Predictions: Where are we and What needs to be done?</title>
+<pages>10:1-10:6</pages>
+<year>2019</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3328519.3329130</ee>
+<crossref>conf/sigmod/2019hilda</crossref>
+<url>db/conf/sigmod/hilda2019.html#Thirumuruganathan19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MahdaviAFMOS019" mdate="2019-06-22">
+<author pid="125/6921">Mohammad Mahdavi</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Raha: A Configuration-Free Error Detection System.</title>
+<pages>865-882</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3324956</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#MahdaviAFMOS019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Qahtan0OCS19" mdate="2019-10-19">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0001-7984-3219" pid="25/7045-12">Yang Cao 0012</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>ANMAT: Automatic Knowledge Discovery and Error Detection through Pattern Functional Dependencies.</title>
+<pages>1977-1980</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320209</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#Qahtan0OCS19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mc/19/Ouzzani0F14" mdate="2019-01-13">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<title>Data civilizer: end-to-end support for data discovery, integration, and cleaning.</title>
+<pages>291-300</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226621</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#Ouzzani0F14</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-06574" mdate="2021-04-12">
+<author pid="01/3254">Ji Sun</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Technical Report: Optimizing Human Involvement for Entity Matching and Consolidation.</title>
+<year>2019</year>
+<volume>abs/1906.06574</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.06574</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-06574</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-03736" mdate="2019-07-23">
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>LocationSpark: In-memory Distributed Spatial Query Processing and Optimization.</title>
+<year>2019</year>
+<volume>abs/1907.03736</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.03736</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-03736</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11876" mdate="2019-12-03">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<title>Dataset-On-Demand: Automatic View Search and Presentation for Data Discovery.</title>
+<year>2019</year>
+<volume>abs/1911.11876</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11876</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11876</url>
+</article>
+</r>
+<r><article key="journals/dpd/MershadMOTGA18" mdate="2020-05-18">
+<author pid="161/7909">Khaleel Mershad</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author orcid="0000-0002-1718-0242" pid="99/1651">Michael Gribskov</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>AUDIT: approving and tracking updates with dependencies in collaborative databases.</title>
+<pages>81-119</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10619-017-7208-y</ee>
+<url>db/journals/dpd/dpd36.html#MershadMOTGA18</url>
+</article>
+</r>
+<r><article key="journals/dpd/MershadMOTGAP18" mdate="2020-05-18">
+<author pid="161/7909">Khaleel Mershad</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author orcid="0000-0002-1718-0242" pid="99/1651">Michael Gribskov</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0003-3729-683X" pid="216/2348">Deo Prakash</author>
+<title>COACT: a query interface language for collaborative databases.</title>
+<pages>121-151</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10619-017-7213-1</ee>
+<url>db/journals/dpd/dpd36.html#MershadMOTGAP18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AgrawalCCEIKKLM18" mdate="2020-04-25">
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<author pid="220/3419">Bertty Contreras-Rojas</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="181/5745">Yasser Idris</author>
+<author pid="65/1457">Zoi Kaoudi</author>
+<author pid="128/0936-1">Sebastian Kruse 0001</author>
+<author pid="144/2807">Ji Lucas</author>
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="224/6752">Anis Troudi</author>
+<title>RHEEM: Enabling Cross-Platform Data Processing - May The Big Data Be With You! -.</title>
+<pages>1414-1427</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1414-agrawal.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236195</ee>
+<url>db/journals/pvldb/pvldb11.html#AgrawalCCEIKKLM18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/EbraheemTJOT18" mdate="2020-04-25">
+<author pid="207/7803">Muhammad Ebraheem</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Distributed Representations of Tuples for Entity Resolution.</title>
+<pages>1454-1467</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1454-ebraheem.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236198</ee>
+<url>db/journals/pvldb/pvldb11.html#EbraheemTJOT18</url>
+</article>
+</r>
+<r><article key="journals/tkde/TangYAMO18" mdate="2018-11-02">
+<author orcid="0000-0002-8893-4574" pid="01/7213">MingJie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0003-2849-0569" pid="99/5275">Qutaibah M. Malluhi</author>
+<author orcid="0000-0002-4035-3025" pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Efficient Parallel Skyline Query Processing for High-Dimensional Data.</title>
+<pages>1838-1851</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2809598</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2018.2809598</ee>
+<url>db/journals/tkde/tkde30.html#TangYAMO18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/FernandezMQEIMO18" mdate="2018-11-20">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Seeping Semantics: Linking Datasets Using Word Embeddings for Data Discovery.</title>
+<pages>989-1000</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00093</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00093</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#FernandezMQEIMO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MansourDFQTAEIM18" mdate="2021-04-12">
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Building Data Civilizer Pipelines with an Advanced Workflow Engine.</title>
+<pages>1593-1596</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00184</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00184</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#MansourDFQTAEIM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/QahtanEO018" mdate="2018-11-20">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>FAHES: Detecting Disguised Missing Values.</title>
+<pages>1609-1612</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00188</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00188</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#QahtanEO018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/QahtanEFO018" mdate="2018-11-21">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>FAHES: A Robust Disguised Missing Values Detector.</title>
+<pages>2100-2109</pages>
+<year>2018</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3219819.3220109</ee>
+<crossref>conf/kdd/2018</crossref>
+<url>db/conf/kdd/kdd2018.html#QahtanEFO018</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MedjahedOE18" mdate="2019-02-14">
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Generalization of ACID Properties.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_736</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/g2.html#MedjahedOE18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/OuzzaniME18" mdate="2019-02-14">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Correctness Criteria Beyond Serializability.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_722</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/c2.html#OuzzaniME18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01384" mdate="2018-08-13">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Data Curation with Deep Learning [Vision]: Towards Self Driving Data Curation.</title>
+<year>2018</year>
+<volume>abs/1803.01384</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01384</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01384</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-11084" mdate="2018-10-05">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="155/1903">Shameem Ahamed Puthiya Parambath</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<title>Reuse and Adaptation for Entity Resolution through Transfer Learning.</title>
+<year>2018</year>
+<volume>abs/1809.11084</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.11084</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-11084</url>
+</article>
+</r>
+<r><article key="journals/cacm/BouguettayaSHSD17" mdate="2020-10-26">
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0002-3326-4147" pid="s/QuanZSheng">Quan Z. Sheng</author>
+<author orcid="0000-0002-7033-5688" pid="14/2764">Hai Dong</author>
+<author pid="58/6957-1">Qi Yu 0001</author>
+<author pid="61/7719">Azadeh Ghari Neiat</author>
+<author orcid="0000-0001-7513-3789" pid="167/0255">Sajib Mistry</author>
+<author pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="c/FabioCasati">Fabio Casati</author>
+<author pid="61/5010">Xumin Liu</author>
+<author pid="62/2365">Hongbing Wang</author>
+<author orcid="0000-0001-7880-2140" pid="82/2760">Dimitrios Georgakopoulos</author>
+<author pid="01/5394-1">Liang Chen 0001</author>
+<author orcid="0000-0002-3289-6599" pid="22/3939">Surya Nepal</author>
+<author orcid="0000-0003-3123-7687" pid="71/1236">Zaki Malik</author>
+<author pid="63/3982">Abdelkarim Erradi</author>
+<author orcid="0000-0002-5344-1884" pid="59/2227-2">Yan Wang 0002</author>
+<author pid="b/MBrianBlake">M. Brian Blake</author>
+<author orcid="0000-0001-6872-8821" pid="d/SDustdar">Schahram Dustdar</author>
+<author pid="l/FrankLeymann">Frank Leymann</author>
+<author pid="p/MPPapazoglou">Michael P. Papazoglou</author>
+<title>A service computing manifesto: the next 10 years.</title>
+<pages>64-72</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2983528</ee>
+<ee>https://www.wikidata.org/entity/Q57426709</ee>
+<url>db/journals/cacm/cacm60.html#BouguettayaSHSD17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KhayyatLSOPQTK17" mdate="2021-04-09">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="139/0886">William Lucia</author>
+<author pid="49/379">Meghna Singh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Errata for &#34;Lightning Fast and Space Efficient Inequality Joins&#34; (PVLDB 8(13): 2074-2085).</title>
+<pages>985</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p985-quianeruiz-errata.pdf</ee>
+<ee>https://doi.org/10.14778/3099622.3099629</ee>
+<url>db/journals/pvldb/pvldb10.html#KhayyatLSOPQTK17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbdelazizMOAK17" mdate="2020-04-25">
+<author pid="153/1958">Ibrahim Abdelaziz</author>
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="97/3036">Panos Kalnis</author>
+<title>Lusail: A System for Querying Linked Data at Scale.</title>
+<pages>485-498</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p485-abdelaziz.pdf</ee>
+<ee>https://doi.org/10.1145/3186728.3164144</ee>
+<url>db/journals/pvldb/pvldb11.html#AbdelazizMOAK17</url>
+</article>
+</r>
+<r><article key="journals/vldb/KhayyatLSOPQ0K17" mdate="2020-10-26">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="139/0886">William Lucia</author>
+<author orcid="0000-0002-5772-5219" pid="49/379">Meghna Singh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Fast and scalable inequality joins.</title>
+<pages>125-150</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-016-0441-6</ee>
+<url>db/journals/vldb/vldb26.html#KhayyatLSOPQ0K17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/DengFAWSEIMO017" mdate="2021-04-12">
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="131/6529-1">Sibo Wang 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>The Data Civilizer System.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p44-deng-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#DengFAWSEIMO017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AbdelazizMOAK17" mdate="2018-11-02">
+<author orcid="0000-0003-1449-5115" pid="153/1958">Ibrahim Abdelaziz</author>
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Query Optimizations over Decentralized RDF Graphs.</title>
+<pages>139-142</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.59</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#AbdelazizMOAK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuTAMAO17" mdate="2018-05-29">
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="22/10807">Mostafa M. Abbas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>In-Memory Distributed Matrix Computation Processing and Optimization.</title>
+<pages>1047-1058</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.150</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.150</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#YuTAMAO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Thirumuruganathan17" mdate="2018-11-06">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author orcid="0000-0002-8046-0570" pid="b/LaureBertiEquille">Laure Berti-&#201;quille</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>UGuide: User-Guided Discovery of FD-Detectable Errors.</title>
+<pages>1385-1397</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064024</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#Thirumuruganathan17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MansourAOAK17" mdate="2018-11-06">
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author orcid="0000-0003-1449-5115" pid="153/1958">Ibrahim Abdelaziz</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>A Demonstration of Lusail: Querying Linked Data at Scale.</title>
+<pages>1603-1606</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058731</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#MansourAOAK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FernandezDMQTAE17" mdate="2021-04-12">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="m/EssamMansour">Essam Mansour</author>
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>A Demo of the Data Civilizer System.</title>
+<pages>1639-1642</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058740</ee>
+<ee>https://www.wikidata.org/entity/Q56606048</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#FernandezDMQTAE17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-10436" mdate="2021-04-12">
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Entity Consolidation: The Golden Record Problem.</title>
+<year>2017</year>
+<volume>abs/1709.10436</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.10436</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-10436</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-00597" mdate="2018-08-13">
+<author pid="207/7803">Muhammad Ebraheem</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>DeepER - Deep Entity Resolution.</title>
+<year>2017</year>
+<volume>abs/1710.00597</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.00597</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-00597</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-08971" mdate="2018-08-13">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Human-Centric Data Cleaning [Vision].</title>
+<year>2017</year>
+<volume>abs/1712.08971</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.08971</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-08971</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-09437" mdate="2018-08-13">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<title>Pattern-Driven Data Cleaning.</title>
+<year>2017</year>
+<volume>abs/1712.09437</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.09437</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-09437</url>
+</article>
+</r>
+<r><article key="journals/is/MarriMOTA16" mdate="2017-05-20">
+<author pid="152/1395">Wadha J. Al Marri</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The similarity-aware relational database set operators.</title>
+<pages>79-93</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2015.10.008</ee>
+<url>db/journals/is/is59.html#MarriMOTA16</url>
+</article>
+</r>
+<r><article key="journals/ml/KhabsaEIHO16" mdate="2020-03-02">
+<author pid="87/11087">Madian Khabsa</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="163/3922">Hossam Hammady</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Learning to identify relevant studies for systematic reviews using random forest and external information.</title>
+<pages>465-482</pages>
+<year>2016</year>
+<volume>102</volume>
+<journal>Mach. Learn.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10994-015-5535-7</ee>
+<ee>https://www.wikidata.org/entity/Q56606132</ee>
+<url>db/journals/ml/ml102.html#KhabsaEIHO16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbedjanCDFIOPST16" mdate="2021-04-12">
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="131/4767">Xu Chu</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Detecting Data Errors: Where are we and what needs to be done?</title>
+<pages>993-1004</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p993-abedjan.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994518</ee>
+<ee>https://www.wikidata.org/entity/Q56608346</ee>
+<url>db/journals/pvldb/pvldb9.html#AbedjanCDFIOPST16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangYMOA16" mdate="2020-04-25">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>LocationSpark: A Distributed In-Memory Data Management System for Big Spatial Data.</title>
+<pages>1565-1568</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1565-tang.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007310</ee>
+<url>db/journals/pvldb/pvldb9.html#TangYMOA16</url>
+</article>
+</r>
+<r><article key="journals/tkde/TangTAAMOS16" mdate="2017-05-20">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Similarity Group-by Operators for Multi-Dimensional Relational Data.</title>
+<pages>510-523</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2480400</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2480400</ee>
+<url>db/journals/tkde/tkde28.html#TangTAAMOS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AgrawalCEKOPQ0Z16" mdate="2021-01-29">
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="65/1457">Zoi Kaoudi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author>
+<title>Road to Freedom in Big Data Analytics.</title>
+<pages>479-484</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.45</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#AgrawalCEKOPQ0Z16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AbedjanMIOPS16" mdate="2018-11-14">
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="160/4533">John Morcos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>DataXFormer: A robust transformation discovery system.</title>
+<pages>1134-1145</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498319</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498319</ee>
+<ee>https://www.wikidata.org/entity/Q56611354</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#AbedjanMIOPS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RezigDOEA16" mdate="2017-05-17">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>ORLF: A flexible framework for online record linkage and fusion.</title>
+<pages>1378-1381</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498349</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498349</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#RezigDOEA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangTAAMOS16" mdate="2017-05-17">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Similarity Group-By operators for multi-dimensional relational data.</title>
+<pages>1448-1449</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498368</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498368</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#TangTAAMOS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalBBCEHIKK16" mdate="2018-11-06">
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="85/9378">Mouhamadou Lamine Ba</author>
+<author orcid="0000-0002-8046-0570" pid="b/LaureBertiEquille">Laure Berti-&#201;quille</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="163/3922">Hossam Hammady</author>
+<author pid="181/5745">Yasser Idris</author>
+<author pid="65/1457">Zoi Kaoudi</author>
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="128/0936-1">Sebastian Kruse 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author>
+<title>Rheem: Enabling Multi-Platform Task Execution.</title>
+<pages>2069-2072</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899414</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#AgrawalBBCEHIKK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/TottiMOZ16" mdate="2018-11-06">
+<author pid="119/6773">Luam C. Totti</author>
+<author pid="19/3308">Prasenjit Mitra</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author>
+<title>A Query-oriented Approach for Relevance in Citation Networks.</title>
+<pages>401-406</pages>
+<year>2016</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2872518.2890518</ee>
+<crossref>conf/www/2016c</crossref>
+<url>db/conf/www/www2016c.html#TottiMOZ16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SahaOHE16" mdate="2018-08-13">
+<author pid="116/9365">Tanay Kumar Saha</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="163/3922">Hossam M. Hammady</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>A large scale study of SVM based methods for abstract screening in systematic reviews.</title>
+<year>2016</year>
+<volume>abs/1610.00192</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.00192</ee>
+<url>db/journals/corr/corr1610.html#SahaOHE16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChuOMIP0Y15" mdate="2020-04-25">
+<author pid="131/4767">Xu Chu</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="160/4533">John Morcos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="66/7724">Yin Ye</author>
+<title>KATARA: Reliable Data Cleaning with Knowledge Bases and Crowdsourcing.</title>
+<pages>1952-1955</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1952-chu.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824109</ee>
+<ee>https://www.wikidata.org/entity/Q56612580</ee>
+<url>db/journals/pvldb/pvldb8.html#ChuOMIP0Y15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlyAMAHEO15" mdate="2020-04-25">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>A Demonstration of AQWA: Adaptive Query-Workload-Aware Partitioning of Big Spatial Data.</title>
+<pages>1968-1971</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1968-Aly.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824113</ee>
+<url>db/journals/pvldb/pvldb8.html#AlyAMAHEO15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlyMHAOEQ15" mdate="2020-04-25">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir Qadah</author>
+<title>AQWA: Adaptive Query-Workload-Aware Partitioning of Big Spatial Data.</title>
+<pages>2062-2073</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2062-Aly.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831361</ee>
+<url>db/journals/pvldb/pvldb8.html#AlyMHAOEQ15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KhayyatLSOPQ0K15" mdate="2020-10-26">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="139/0886">William Lucia</author>
+<author orcid="0000-0002-5772-5219" pid="49/379">Meghna Singh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Lightning Fast and Space Efficient Inequality Joins.</title>
+<pages>2074-2085</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2074-khayyat.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831362</ee>
+<url>db/journals/pvldb/pvldb8.html#KhayyatLSOPQ0K15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbedjanAOPS15" mdate="2020-04-25">
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="64/10038">Cuneyt Gurcan Akcora</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Temporal Rules Discovery for Web Data Cleaning.</title>
+<pages>336-347</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p336-abedjan.pdf</ee>
+<ee>https://doi.org/10.14778/2856318.2856328</ee>
+<url>db/journals/pvldb/pvldb9.html#AbedjanAOPS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/AbedjanMGISPO15" mdate="2020-03-12">
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="160/4533">John Morcos</author>
+<author pid="10/5842">Michael N. Gubanov</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Dataxformer: Leveraging the Web for Semantic Transformations.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper31.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#AbedjanMGISPO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/TangYAMO15" mdate="2021-01-29">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Efficient Processing of Hamming-Distance-Based Similarity-Search Queries Over MapReduce.</title>
+<pages>361-372</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.32</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#TangYAMO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AlyAO15" mdate="2021-01-29">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Cost Estimation of Spatial k-Nearest-Neighbor Operators.</title>
+<pages>457-468</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.40</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#AlyAO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/AlyAO15" mdate="2018-11-06">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Spatial queries with k-nearest-neighbor and relational predicates.</title>
+<pages>28:1-28:10</pages>
+<year>2015</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2820783.2820815</ee>
+<crossref>conf/gis/2015</crossref>
+<url>db/conf/gis/gis2015.html#AlyAO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic2e/MershadMOTA15" mdate="2017-05-25">
+<author pid="161/7909">Khaleel Mershad</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Approving Updates in Collaborative Databases.</title>
+<pages>42-47</pages>
+<year>2015</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E.2015.31</ee>
+<crossref>conf/ic2e/2015</crossref>
+<url>db/conf/ic2e/ic2e2015.html#MershadMOTA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RezigDOE15" mdate="2017-05-17">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Query-time record linkage and fusion over Web databases.</title>
+<pages>42-53</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113271</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113271</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#RezigDOE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MorcosAIOPS15" mdate="2018-11-14">
+<author pid="160/4533">John Morcos</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="i/IhabFIlyas">Ihab Francis Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>DataXFormer: An Interactive Data Transformation Tool.</title>
+<pages>883-888</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735366</ee>
+<ee>https://www.wikidata.org/entity/Q56613166</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#MorcosAIOPS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KhayyatIJMOPQ0Y15" mdate="2018-11-14">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2085">Si Yin</author>
+<title>BigDansing: A System for Big Data Cleansing.</title>
+<pages>1215-1230</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2747646</ee>
+<ee>https://www.wikidata.org/entity/Q56614312</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#KhayyatIJMOPQ0Y15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChuMIOP0Y15" mdate="2018-11-14">
+<author pid="131/4767">Xu Chu</author>
+<author pid="160/4533">John Morcos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="66/7724">Yin Ye</author>
+<title>KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing.</title>
+<pages>1247-1261</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749431</ee>
+<ee>https://www.wikidata.org/entity/Q56616731</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ChuMIOP0Y15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwp/RoumaniMPOH14" mdate="2020-09-06">
+<author pid="09/2040">Ali M. Roumani</author>
+<author pid="144/7903">Nathan McNeill</author>
+<author pid="84/6989">Lalit Patil</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="161/7698">Edwin Daniel Hirleman</author>
+<title>GlobalHUB: A Model for Sustainable Online Communities.</title>
+<pages>1-13</pages>
+<year>2014</year>
+<volume>6</volume>
+<journal>Int. J. Web Portals</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/ijwp.2014040101</ee>
+<url>db/journals/ijwp/ijwp6.html#RoumaniMPOH14</url>
+</article>
+</r>
+<r><article key="journals/tkde/EltabakhAEO14" mdate="2017-06-08">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>HandsOn DB: Managing Data Dependencies Involving Human Actions.</title>
+<pages>2193-2206</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2013.117</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.117</ee>
+<url>db/journals/tkde/tkde26.html#EltabakhAEO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AlyAOM14" mdate="2021-01-29">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0962-9406" pid="m/HosamMMahmoud">Hosam M. Mahmoud</author>
+<title>JISC: Adaptive Stream Processing Using Just-In-Time State Completion.</title>
+<pages>73-84</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.08</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#AlyAOM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChalamallaIOP14" mdate="2018-11-14">
+<author pid="42/931">Anup Chalamalla</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<title>Descriptive and prescriptive data cleaning.</title>
+<pages>445-456</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610520</ee>
+<ee>https://www.wikidata.org/entity/Q56627735</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ChalamallaIOP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ElmagarmidIOQ0Y14" mdate="2018-11-14">
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2085">Si Yin</author>
+<title>NADEEF/ER: generic and interactive entity resolution.</title>
+<pages>1071-1074</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594511</ee>
+<ee>https://www.wikidata.org/entity/Q56627961</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ElmagarmidIOQ0Y14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/MarriMOTA14" mdate="2017-05-25">
+<author pid="152/1395">Wadha J. Al Marri</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The Similarity-Aware Relational Intersect Database Operator.</title>
+<pages>164-175</pages>
+<year>2014</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11988-5_15</ee>
+<crossref>conf/sisap/2014</crossref>
+<url>db/conf/sisap/sisap2014.html#MarriMOTA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/SaltODBR14" mdate="2018-11-06">
+<author pid="07/1294">David E. Salt</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="23/6241">Peter Baker</author>
+<author pid="144/2776">Srivathsava Rangarajan</author>
+<title>iHUB: an information and collaborative management platform for life sciences.</title>
+<pages>139-142</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2577033</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#SaltODBR14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TangTAMO14" mdate="2018-08-13">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>On Order-independent Semantics of the Similarity Group-By Relational Database Operator.</title>
+<year>2014</year>
+<volume>abs/1412.4303</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.4303</ee>
+<url>db/journals/corr/corr1412.html#TangTAMO14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TangTAAMOS14" mdate="2018-08-13">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Similarity Group-by Operators for Multi-dimensional Relational Data.</title>
+<year>2014</year>
+<volume>abs/1412.4842</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.4842</ee>
+<url>db/journals/corr/corr1412.html#TangTAAMOS14</url>
+</article>
+</r>
+<r><article key="journals/is/OuzzaniPR13" mdate="2018-11-30">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-2665-1114" pid="r/ERahm">Erhard Rahm</author>
+<title>Introduction to the special issue on data quality.</title>
+<pages>885-886</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>Inf. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.is.2013.03.001</ee>
+<url>db/journals/is/is38.html#OuzzaniPR13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/EbaidEIOQ0Y13" mdate="2020-04-25">
+<author pid="131/4161">Amr Ebaid</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2085">Si Yin</author>
+<title>NADEEF: A Generalized Data Cleaning System.</title>
+<pages>1218-1221</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1218-tang.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536280</ee>
+<ee>https://www.wikidata.org/entity/Q56628170</ee>
+<url>db/journals/pvldb/pvldb6.html#EbaidEIOQ0Y13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigir/CenDSO13" mdate="2018-11-06">
+<author pid="47/7890">Lei Cen</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="14/1217">Luo Si</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Author disambiguation by hierarchical agglomerative clustering with adaptive stopping criterion.</title>
+<pages>741-744</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2484028.2484157</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#CenDSO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DallachiesaEEEIOT13" mdate="2020-06-15">
+<author pid="117/4997">Michele Dallachiesa</author>
+<author pid="131/4161">Amr Ebaid</author>
+<author orcid="0000-0002-6584-1455" pid="66/9726">Ahmed Eldawy</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>NADEEF: a commodity data cleaning system.</title>
+<pages>541-552</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465327</ee>
+<ee>https://www.wikidata.org/entity/Q56634249</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#DallachiesaEEEIOT13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AlyAO12" mdate="2020-04-25">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Spatial Queries with Two kNN Predicates.</title>
+<pages>1100-1111</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1100_ahmedmaly_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350231</ee>
+<url>db/journals/pvldb/pvldb5.html#AlyAO12</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BeskalesDEINOPQT12" mdate="2020-03-06">
+<author pid="98/6141">George Beskales</author>
+<author pid="07/1181">Gautam Das 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author orcid="0000-0002-4483-1389" pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>The data analytics group at the qatar computing research institute.</title>
+<pages>33-38</pages>
+<year>2012</year>
+<volume>41</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2430456.2430466</ee>
+<ee>https://www.wikidata.org/entity/Q56636093</ee>
+<url>db/journals/sigmod/sigmod41.html#BeskalesDEINOPQT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/DragutOMMBS12" mdate="2018-11-14">
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="121/4268">Nabeel Mohamed</author>
+<author pid="23/6241">Peter Baker</author>
+<author pid="07/1294">David E. Salt</author>
+<title>Lonomics Atlas: a tool to explore interconnected ionomic, genomic and environmental data.</title>
+<pages>2680-2682</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398724</ee>
+<ee>https://www.wikidata.org/entity/Q57186388</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#DragutOMMBS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AlySGNAOG12" mdate="2017-05-17">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="116/5199">Asmaa Sallam</author>
+<author pid="116/5339">Bala M. Gnanasekaran</author>
+<author pid="49/8159">Long-Van Nguyen-Dinh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<title>M3: Stream Processing on Main-Memory MapReduce.</title>
+<pages>1253-1256</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.120</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#AlySGNAOG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwit/Ouzzani12" mdate="2019-05-28">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Data Quality Not Your Typical Database Problem.</title>
+<pages>3</pages>
+<year>2012</year>
+<booktitle>ICWIT</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-867/Keynote2.pdf</ee>
+<crossref>conf/icwit/2012</crossref>
+<url>db/conf/icwit/icwit2012.html#Ouzzani12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0074" mdate="2018-08-13">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Spatial Queries with Two kNN Predicates</title>
+<ee type="oa">http://arxiv.org/abs/1208.0074</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0074</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0074</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YakoutENOI11" mdate="2020-04-25">
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="n/JenniferNeville">Jennifer Neville</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>Guided data repair.</title>
+<pages>279-289</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee>https://doi.org/10.14778/1952376.1952378</ee>
+<ee>https://www.wikidata.org/entity/Q56639368</ee>
+<url>db/journals/pvldb/pvldb4.html#YakoutENOI11</url>
+</article>
+</r>
+<r><article key="journals/tweb/PaciMOB11" mdate="2020-05-11">
+<author orcid="0000-0003-3122-0236" pid="18/3134">Federica Paci</author>
+<author orcid="0000-0002-9730-8882" pid="42/2448">Massimo Mecella</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<title>ACConv - An Access Control Model for Conversational Web Services.</title>
+<pages>13:1-13:33</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>ACM Trans. Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1993053.1993055</ee>
+<url>db/journals/tweb/tweb5.html#PaciMOB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ElmeleegyLROE11" mdate="2018-11-06">
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="89/2271">Jaewoo Lee</author>
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>U-MAP: a system for usage-based schema matching and mapping.</title>
+<pages>1287-1290</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989478</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#ElmeleegyLROE11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-3103" mdate="2018-08-13">
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="n/JenniferNeville">Jennifer Neville</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>Guided Data Repair</title>
+<ee type="oa">http://arxiv.org/abs/1103.3103</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.3103</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-3103</url>
+</article>
+</r>
+<r><article key="journals/ijsc/MalikRMOS10" mdate="2020-07-03">
+<author orcid="0000-0003-3123-7687" pid="71/1236">Zaki Malik</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="31/3461">A. Krishna Sinha</author>
+<title>Semantic Integration in Geosciences.</title>
+<pages>301-330</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Int. J. Semantic Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S1793351X10001036</ee>
+<url>db/journals/ijsc/ijsc4.html#MalikRMOS10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YakoutEEOQ10" mdate="2020-04-25">
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="29/8437">Alan Qi</author>
+<title>Behavior Based Record Linkage.</title>
+<pages>439-448</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R39.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920899</ee>
+<url>db/journals/pvldb/pvldb3.html#YakoutEEOQ10</url>
+</article>
+</r>
+<r><article key="journals/soca/YuRBMO10" mdate="2020-08-06">
+<author pid="58/6957-1">Qi Yu 0001</author>
+<author pid="87/6386">Manjeet Rege</author>
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>A two-phase framework for quality-aware Web service selection.</title>
+<pages>63-79</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Serv. Oriented Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11761-010-0055-6</ee>
+<url>db/journals/soca/soca4.html#YuRBMO10</url>
+</article>
+</r>
+<r><article key="journals/tvcg/MaciejewskiRHAYOCGE10" mdate="2018-11-14">
+<author pid="81/5349">Ross Maciejewski</author>
+<author pid="87/2082">Stephen Rudolph</author>
+<author pid="67/1817">Ryan Hafen</author>
+<author pid="40/7993">Ahmad M. Abusalah</author>
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="74/5532">William S. Cleveland</author>
+<author pid="39/6644">Shaun J. Grannis</author>
+<author orcid="0000-0001-6177-1296" pid="65/2401">David S. Ebert</author>
+<title>A Visual Analytics Approach to Understanding Spatiotemporal Hotspots.</title>
+<pages>205-220</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVCG.2009.100</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVCG.2009.100</ee>
+<ee>https://www.wikidata.org/entity/Q44075401</ee>
+<url>db/journals/tvcg/tvcg16.html#MaciejewskiRHAYOCGE10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/TalukderOEEY10" mdate="2017-05-17">
+<author pid="83/2264">Nilothpal Talukder</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="48/725">Mohamed Yakout</author>
+<title>Privometer: Privacy protection in social networks.</title>
+<pages>266-269</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452715</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452715</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#TalukderOEEY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EltabakhAESO10" mdate="2017-05-17">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Supporting real-world activities in database management systems.</title>
+<pages>808-811</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447842</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447842</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#EltabakhAESO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ElmeleegyOEA10" mdate="2018-11-06">
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="40/7993">Ahmad M. Abusalah</author>
+<title>Preserving privacy and fairness in peer-to-peer data integration.</title>
+<pages>759-770</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807249</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#ElmeleegyOEA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YakoutENO10" mdate="2018-11-06">
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="n/JenniferNeville">Jennifer Neville</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>GDR: a system for guided data repair.</title>
+<pages>1223-1226</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807325</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#YakoutENO10</url>
+</inproceedings>
+</r>
+<r><incollection key="series/aikp/OuzzaniBE10" mdate="2019-10-19">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>WS-Query - A Framework to Efficiently Query Semantic Web Service.</title>
+<pages>47-86</pages>
+<year>2010</year>
+<booktitle>Emergent Web Intelligence</booktitle>
+<ee>https://doi.org/10.1007/978-1-84996-074-8_3</ee>
+<crossref>series/aikp/CBAH2011</crossref>
+<url>db/series/aikp/CBAH2010.html#OuzzaniBE10</url>
+</incollection>
+</r>
+<r><article key="journals/midm/HafenACMEAYOG09" mdate="2020-09-06">
+<author pid="67/1817">Ryan P. Hafen</author>
+<author pid="99/11353">David E. Anderson</author>
+<author pid="74/5532">William S. Cleveland</author>
+<author pid="81/5349">Ross Maciejewski</author>
+<author orcid="0000-0001-6177-1296" pid="65/2401">David S. Ebert</author>
+<author pid="40/7993">Ahmad M. Abusalah</author>
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="39/6644">Shaun J. Grannis</author>
+<title>Syndromic surveillance: STL for modeling, visualizing, and monitoring disease counts.</title>
+<pages>21</pages>
+<year>2009</year>
+<volume>9</volume>
+<journal>BMC Medical Informatics Decis. Mak.</journal>
+<ee type="oa">https://doi.org/10.1186/1472-6947-9-21</ee>
+<ee>https://www.wikidata.org/entity/Q33433225</ee>
+<url>db/journals/midm/midm9.html#HafenACMEAYOG09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/EltabakhAEOS09" mdate="2018-11-06">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Supporting annotations on relations.</title>
+<pages>379-390</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516405</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#EltabakhAEOS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/ArefEO09" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Location-aware privacy and more: a systems approach using context-aware database management systems.</title>
+<pages>42-52</pages>
+<year>2009</year>
+<booktitle>SPRINGL</booktitle>
+<ee>https://doi.org/10.1145/1667502.1667513</ee>
+<crossref>conf/gis/2009springl</crossref>
+<url>db/conf/gis/springl2009.html#ArefEO09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/dataware/ZhangOOO09" mdate="2017-07-12">
+<author pid="91/4353">Xiang Zhang</author>
+<author pid="56/2045">Seza Or&#231;un</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="17/3418">Cheolhwan Oh</author>
+<title>Mass Informatics in Differential Proteomics.</title>
+<pages>1176-1181</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Data Warehousing and Mining</booktitle>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=10971</ee>
+<crossref>reference/dataware/2009</crossref>
+<url>db/reference/dataware/dataware2009.html#ZhangOOO09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/OuzzaniME09" mdate="2017-07-12">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Correctness Criteria Beyond Serializability.</title>
+<pages>501-506</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_722</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/c.html#OuzzaniME09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MedjahedOE09" mdate="2017-07-12">
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Generalization of ACID Properties.</title>
+<pages>1221-1222</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_736</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/g.html#MedjahedOE09</url>
+</incollection>
+</r>
+<r><article key="journals/cse/ElmagarmidSO08" mdate="2020-03-12">
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="27/2579">Arjmand Samuel</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Community-Cyberinfrastructure-Enabled Discovery in Science and Engineering.</title>
+<pages>46-53</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MCSE.2008.111</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCSE.2008.111</ee>
+<url>db/journals/cse/cse10.html#ElmagarmidSO08</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEscc/PaciOM08" mdate="2019-09-25">
+<author orcid="0000-0003-3122-0236" pid="18/3134">Federica Paci</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0002-9730-8882" pid="42/2448">Massimo Mecella</author>
+<title>Verification of Access Control Requirements in Web Services Choreography.</title>
+<pages>5-12</pages>
+<year>2008</year>
+<booktitle>IEEE SCC (1)</booktitle>
+<ee>https://doi.org/10.1109/SCC.2008.116</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2008.116</ee>
+<crossref>conf/IEEEscc/2008</crossref>
+<url>db/conf/IEEEscc/scc2008.html#PaciOM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ElmeleegyOE08" mdate="2017-05-17">
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Usage-Based Schema Matching.</title>
+<pages>20-29</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497410</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497410</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#ElmeleegyOE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EltabakhOAELASB08" mdate="2019-09-13">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="s/YasinNSilva">Yasin Laura-Silva</author>
+<author pid="71/303">Muhammad Umer Arshad</author>
+<author pid="07/1294">David E. Salt</author>
+<author orcid="0000-0001-6680-1722" pid="49/543">Ivan Baxter</author>
+<title>Managing Biological Data using BDBMS.</title>
+<pages>1600-1603</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497631</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497631</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#EltabakhOAELASB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeevast/MaciejewskiRHAYOCGWE08" mdate="2018-11-14">
+<author pid="81/5349">Ross Maciejewski</author>
+<author pid="87/2082">Stephen Rudolph</author>
+<author pid="67/1817">Ryan Hafen</author>
+<author pid="40/7993">Ahmad M. Abusalah</author>
+<author pid="48/725">Mohamed Yakout</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="74/5532">William S. Cleveland</author>
+<author pid="39/6644">Shaun J. Grannis</author>
+<author pid="72/6774">Michael Wade</author>
+<author orcid="0000-0001-6177-1296" pid="65/2401">David S. Ebert</author>
+<title>Understanding syndromic hotspots - a visual analytics approach.</title>
+<pages>35-42</pages>
+<year>2008</year>
+<booktitle>IEEE VAST</booktitle>
+<ee>https://doi.org/10.1109/VAST.2008.4677354</ee>
+<ee>https://www.wikidata.org/entity/Q56904015</ee>
+<crossref>conf/ieeevast/2008</crossref>
+<url>db/conf/ieeevast/ieeevast2008.html#MaciejewskiRHAYOCGWE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiquitous/ArefO08" mdate="2018-11-27">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Data management challenges for computational transportation.</title>
+<year>2008</year>
+<booktitle>MobiQuitous</booktitle>
+<ee>https://doi.org/10.4108/ICST.MOBIQUITOUS2008.4014</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1594983</ee>
+<crossref>conf/mobiquitous/2008</crossref>
+<url>db/conf/mobiquitous/mobiquitous2008.html#ArefO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ArefEO07" mdate="2020-03-12">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>bdbms - A Database Management System for Biological Data.</title>
+<pages>196-206</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p22.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#ArefEO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeevast/MaciejewskiTJZNECOGG07" mdate="2018-11-14">
+<author pid="81/5349">Ross Maciejewski</author>
+<author pid="74/9529">Benjamin Tyner</author>
+<author pid="83/5687">Yun Jang</author>
+<author pid="37/170">Cheng Zheng</author>
+<author pid="94/81">Rimma V. Nehme</author>
+<author orcid="0000-0001-6177-1296" pid="65/2401">David S. Ebert</author>
+<author pid="74/5532">William S. Cleveland</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="39/6644">Shaun J. Grannis</author>
+<author pid="78/9529">Lawrence T. Glickman</author>
+<title>LAHVA: Linked Animal-Human Health Visual Analytics.</title>
+<pages>27-34</pages>
+<year>2007</year>
+<booktitle>IEEE VAST</booktitle>
+<ee>https://doi.org/10.1109/VAST.2007.4388993</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VAST.2007.4388993</ee>
+<ee>https://www.wikidata.org/entity/Q56904061</ee>
+<crossref>conf/ieeevast/2007</crossref>
+<url>db/conf/ieeevast/ieeevast2007.html#MaciejewskiTJZNECOGG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/EltabakhOA07" mdate="2017-05-21">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Duplicate Elimination in Space-partitioning Tree Indexes.</title>
+<pages>18</pages>
+<year>2007</year>
+<crossref>conf/ssdbm/2007</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDBM.2007.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDBM.2007.10</ee>
+<url>db/conf/ssdbm/ssdbm2007.html#EltabakhOA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobide/ElmonguiOA06" mdate="2018-11-06">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Challenges in spatiotemporal stream query optimization.</title>
+<pages>27-34</pages>
+<year>2006</year>
+<crossref>conf/mobide/2006</crossref>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1140104.1140111</ee>
+<url>db/conf/mobide/mobide2006.html#ElmonguiOA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vdmb/EltabakhAOA06" mdate="2017-05-22">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<title>Discovering Consensus Patterns in Biological Databases.</title>
+<pages>170-184</pages>
+<year>2006</year>
+<crossref>conf/vdmb/2006</crossref>
+<booktitle>VDMB</booktitle>
+<ee>https://doi.org/10.1007/11960669_15</ee>
+<url>db/conf/vdmb/vdmb2006.html#EltabakhAOA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MecellaOPB06" mdate="2019-09-25">
+<author orcid="0000-0002-9730-8882" pid="42/2448">Massimo Mecella</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-3122-0236" pid="18/3134">Federica Paci</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<title>Access control enforcement for conversation-based web services.</title>
+<pages>257-266</pages>
+<year>2006</year>
+<crossref>conf/www/2006</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1135777.1135818</ee>
+<url>db/conf/www/www2006.html#MecellaOPB06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0612127" mdate="2018-08-13">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>bdbms - A Database Management System for Biological Data</title>
+<ee type="oa">http://arxiv.org/abs/cs/0612127</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0612127</volume>
+<url>db/journals/corr/corr0612.html#abs-cs-0612127</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/ZhangAAOE05" mdate="2020-03-02">
+<author pid="91/4353">Xiang Zhang</author>
+<author pid="72/2766">John M. Asara</author>
+<author pid="54/2538">Jiri Adamec</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Data pre-processing in liquid chromatography-mass spectrometry-based proteomics.</title>
+<pages>4054-4059</pages>
+<year>2005</year>
+<volume>21</volume>
+<journal>Bioinform.</journal>
+<number>21</number>
+<ee>https://doi.org/10.1093/bioinformatics/bti660</ee>
+<ee>https://www.wikidata.org/entity/Q31003899</ee>
+<url>db/journals/bioinformatics/bioinformatics21.html#ZhangAAOE05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/OuzzaniABCCHEGHPVZ05" mdate="2020-03-06">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="c/CClifton">Christopher W. Clifton</author>
+<author orcid="0000-0002-0570-2904" pid="51/534">Wing-Kai Hon</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<author pid="91/4353">Xiang Zhang</author>
+<title>The Indiana Center for Database Systems at Purdue University.</title>
+<pages>53-58</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1083784.1083795</ee>
+<url>db/journals/sigmod/sigmod34.html#OuzzaniABCCHEGHPVZ05</url>
+</article>
+</r>
+<r><article key="journals/dpd/OuzzaniB04" mdate="2020-05-18">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<title>Query Processing and Optimization on the Web.</title>
+<pages>187-218</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1023/B:DAPD.0000018574.71588.06</ee>
+<url>db/journals/dpd/dpd15.html#OuzzaniB04</url>
+</article>
+</r>
+<r><article key="journals/internet/OuzzaniB04" mdate="2020-03-13">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<title>Efficient Access to Web Services.</title>
+<pages>34-44</pages>
+<year>2004</year>
+<volume>8</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MIC.2004.1273484</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2004.1273484</ee>
+<url>db/journals/internet/internet8.html#OuzzaniB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgo/BouguettayaEOM04" mdate="2015-11-20">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<title>Database Middleware for Distributed Ontologies in State and Federal Family &#38; Social Services.</title>
+<year>2004</year>
+<crossref>conf/dgo/2004</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1124211</ee>
+<url>db/conf/dgo/dgo2004.html#BouguettayaEOM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/BouguettayaMROLY04" mdate="2019-04-10">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="61/5010">Xumin Liu</author>
+<author pid="58/6957-1">Qi Yu 0001</author>
+<title>WebDG - A Platform for E-Government Web Services.</title>
+<pages>553-565</pages>
+<ee>https://doi.org/10.1007/978-3-540-30466-1_51</ee>
+<year>2004</year>
+<crossref>conf/er/2004w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<url>db/conf/er/erw2004.html#BouguettayaMROLY04</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crc/MedjahedRBO04" mdate="2017-07-12">
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Internet Computing Support for Digital Government.</title>
+<year>2004</year>
+<booktitle>The Practical Handbook of Internet Computing</booktitle>
+<ee>https://doi.org/10.1201/9780203507223.ch2</ee>
+<crossref>reference/crc/2004ic</crossref>
+<url>db/reference/crc/ic2004.html#MedjahedRBO04</url>
+</incollection>
+</r>
+<r><article key="journals/internet/MedjahedRBO03" mdate="2020-03-13">
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Infrastructure for E-Government Web Services.</title>
+<pages>58-65</pages>
+<year>2003</year>
+<volume>7</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MIC.2003.1167340</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2003.1167340</ee>
+<url>db/journals/internet/internet7.html#MedjahedRBO03</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgo/MedjahedBO03" mdate="2015-11-20">
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Semantic Web Enabled E-Government Services.</title>
+<year>2003</year>
+<crossref>conf/dgo/2003</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1123287</ee>
+<url>db/conf/dgo/dgo2003.html#MedjahedBO03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgo/OuzzaniBM03" mdate="2015-11-20">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<title>Optimized Querying of E-Government Services.</title>
+<year>2003</year>
+<crossref>conf/dgo/2003</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1123271</ee>
+<url>db/conf/dgo/dgo2003.html#OuzzaniBM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/OuzzaniB03" mdate="2003-10-17">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/458">Athman Bouguettaya</author>
+<title>A Query Paradigm for Web Services.</title>
+<pages>152-155</pages>
+<year>2003</year>
+<crossref>conf/icws/2003</crossref>
+<booktitle>ICWS</booktitle>
+<url>db/conf/icws/icws2003.html#OuzzaniB03</url>
+</inproceedings>
+</r>
+<r><incollection key="books/idea/taniar2003/BouguettayaMOM03" mdate="2019-08-06">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="87/4709">Yao Meng</author>
+<title>Ubiquitous Access to Web Databases.</title>
+<pages>246-265</pages>
+<year>2003</year>
+<crossref>books/idea/Taniar03</crossref>
+<booktitle>Web-Powered Databases</booktitle>
+<url>db/books/collections/taniar2003.html#BouguettayaMOM03</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/dgo/BouguettayaMROW02" mdate="2015-11-20">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="48/5459">Zhaoyang Wen</author>
+<title>Privacy Preserving Composition of Government Web Services.</title>
+<year>2002</year>
+<crossref>conf/dgo/2002</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1123164</ee>
+<url>db/conf/dgo/dgo2002.html#BouguettayaMROW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/widm/RezguiOBM02" mdate="2018-11-06">
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<title>Preserving privacy in web services.</title>
+<pages>56-62</pages>
+<year>2002</year>
+<crossref>conf/widm/2002</crossref>
+<booktitle>WIDM</booktitle>
+<ee>https://doi.org/10.1145/584931.584944</ee>
+<url>db/conf/widm/widm2002.html#RezguiOBM02</url>
+</inproceedings>
+</r>
+<r><incollection key="series/ads/BouguettayaOME02" mdate="2017-05-16">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Supporting Data and Services Access in Digital Government Environments.</title>
+<pages>37-52</pages>
+<year>2002</year>
+<booktitle>Advances in Digital Government</booktitle>
+<ee>https://doi.org/10.1007/0-306-47374-7_2</ee>
+<crossref>series/ads/2002-26</crossref>
+<url>db/series/ads/ads26.html#BouguettayaOME02</url>
+</incollection>
+</r>
+<r><article key="journals/computer/BouguettayaOMC01" mdate="2020-08-12">
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="65/6474">Jerry Cameron</author>
+<title>Managing Government Databases.</title>
+<pages>56-64</pages>
+<year>2001</year>
+<volume>34</volume>
+<journal>Computer</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/2.901168</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.901168</ee>
+<url>db/journals/computer/computer34.html#BouguettayaOMC01</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/BouguettayaEMO01" mdate="2020-03-12">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Ontology-based Support for Digital Government.</title>
+<pages>633-636</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P633.pdf</ee>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#BouguettayaEMO01</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/OuzzaniBB00" mdate="2020-05-18">
+<ee>https://doi.org/10.1023/A:1008721330392</ee>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<title>Ontological Approach for Information Discovery in Internet Databases.</title>
+<pages>367-392</pages>
+<year>2000</year>
+<volume>8</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<url>db/journals/dpd/dpd8.html#OuzzaniBB00</url>
+<cdrom>DPD/8/P367.pdf</cdrom>
+</article>
+</r>
+<r><article key="journals/tkde/BouguettayaBHOB00" mdate="2019-10-19">
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<author pid="18/5003">Lily Hendra</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="61/1289">James Beard</author>
+<title>Supporting Dynamic Interactions among Web-Based Information Sources.</title>
+<pages>779-801</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/69.877508</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.877508</ee>
+<url>db/journals/tkde/tkde12.html#BouguettayaBHOB00</url>
+</article>
+</r>
+<r><article key="journals/internet/BouguettayaBOH99" mdate="2020-03-13">
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="18/5003">Lily Hendra</author>
+<title>Webfind: An Architecture and System for Querying Web Databases.</title>
+<pages>30-41</pages>
+<year>1999</year>
+<volume>3</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet3.html#BouguettayaBOH99</url>
+<ee>https://doi.org/10.1109/4236.780958</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.780958</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BouguettayaBOH99" mdate="2017-05-17">
+<author pid="01/458">Athman Bouguettaya</author>
+<author pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="18/5003">Lily Hendra</author>
+<title>Using Java and CORBA for Implementing Internet Databases.</title>
+<pages>218-227</pages>
+<cdrom>DiSC2_1/out/papers/icde/00710218.pdf</cdrom>
+<year>1999</year>
+<booktitle>ICDE</booktitle>
+<crossref>conf/icde/99</crossref>
+<ee>https://doi.org/10.1109/ICDE.1999.754927</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.1999.754927</ee>
+<url>db/conf/icde/icde99.html#BouguettayaBOH99</url>
+<cite>conf/vldb/AtzeniMM97</cite>
+<cite>conf/sigmod/BohrerBBCFHKKMNRRSUUW97</cite>
+<cite>...</cite>
+<cite>journals/is/BouguettayaPK95</cite>
+<cite>...</cite>
+<cite>books/ph/BukhresE96</cite>
+<cite>journals/internet/GudivadaRGK97</cite>
+<cite>...</cite>
+<cite>conf/vldb/KonopnickiS95</cite>
+<cite>conf/vldb/LevyRO96</cite>
+<cite>conf/pdis/MendelzonMM96</cite>
+<cite>conf/edbt/MihailaRT98</cite>
+<cite>conf/vldb/MillinerBP95</cite>
+<cite>...</cite>
+<cite>journals/debu/OzcanNKED97</cite>
+<cite>conf/icde/PapakonstantinouGW95</cite>
+<cite>conf/icdcs/TomasicRV96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BouguettayaBH99" mdate="2021-04-09">
+<author orcid="0000-0003-1254-8092" pid="01/458">Athman Bouguettaya</author>
+<author pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<author pid="18/5003">Lily Hendra</author>
+<author pid="61/1289">James Beard</author>
+<author pid="07/4241">Kevin Smith</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>World Wide Database - Integrating the Web, CORBA, and Databases.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/worldwidedatabaatbol.pdf</cdrom>
+<pages>594-596</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#BouguettayaBH99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304589</ee>
+<ee>https://doi.org/10.1145/304181.304589</ee>
+<cite>...</cite>
+<cite>journals/sigmod/BernsteinBCDFGGHHJLMNPSU98</cite>
+<cite>conf/vldb/MillinerBP95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/OuzzaniAB94" mdate="2017-03-29">
+<crossref>conf/vldb/94</crossref>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="58/4961">M. A. Atroun</author>
+<author pid="83/3181">N. L. Belkhodja</author>
+<title>A Top-Down Approach for Two Level Serializability.</title>
+<pages>226-237</pages>
+<year>1994</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb94.html#OuzzaniAB94</url>
+<ee>http://www.vldb.org/conf/1994/P226.PDF</ee>
+<cite label="AGMS87">journals/debu/AlonsoGS87</cite>
+<cite label="BGH87">books/aw/BernsteinHG87</cite>
+<cite label="BGMS92">journals/vldb/BreitbartGS92</cite>
+<cite label="BS88">conf/sigmod/BreitbartS88</cite>
+<cite label="DE89">conf/vldb/DuE89</cite>
+<cite label="DEK91">conf/icde/DuEK91</cite>
+<cite label="ED90">conf/icde/ElmagarmidD90</cite>
+<cite label="GM91">...</cite>
+<cite label="GRS91">conf/icde/GeorgakopoulosRS91</cite>
+<cite label="MRBKS92">conf/sigmod/MehrotraRBKS92</cite>
+<cite label="MRKS91">conf/pdis/MehrotraRKS91</cite>
+<cite label="Pu88">conf/icde/Pu88</cite>
+<cite label="SL90">journals/csur/ShethL90</cite>
+<cite label="Sug87">conf/icde/Sugihara87</cite>
+<cite label="VW92">conf/icde/VeijalainenW92</cite>
+</inproceedings>
+</r>
+<coauthors n="180" nc="2">
+<co c="0"><na f="a/Abbas:Mostafa_M=" pid="22/10807">Mostafa M. Abbas</na></co>
+<co c="0"><na f="a/Abdelaziz:Ibrahim" pid="153/1958">Ibrahim Abdelaziz</na></co>
+<co c="0"><na f="a/Abdelhamid:Ahmed_S=" pid="166/8392">Ahmed S. Abdelhamid</na></co>
+<co c="0"><na f="a/Abedjan:Ziawasch" pid="38/8707">Ziawasch Abedjan</na></co>
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Abusalah:Ahmad_M=" pid="40/7993">Ahmad M. Abusalah</na></co>
+<co c="0"><na f="a/Adamec:Jiri" pid="54/2538">Jiri Adamec</na></co>
+<co c="0" n="2"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na><na>Divy Agrawal</na></co>
+<co c="0"><na f="a/Akcora:Cuneyt_Gurcan" pid="64/10038">Cuneyt Gurcan Akcora</na></co>
+<co c="0"><na f="a/Ali:Mohamed_H=" pid="a/MHAli">Mohamed H. Ali</na></co>
+<co c="0"><na f="a/Aly:Ahmed_M=" pid="39/8165">Ahmed M. Aly</na></co>
+<co c="0"><na f="a/Anderson:David_E=" pid="99/11353">David E. Anderson</na></co>
+<co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
+<co c="0"><na f="a/Arshad:Muhammad_Umer" pid="71/303">Muhammad Umer Arshad</na></co>
+<co c="0"><na f="a/Asara:John_M=" pid="72/2766">John M. Asara</na></co>
+<co c="0"><na f="a/Atallah:Mikhail_J=" pid="a/MikhailJAtallah">Mikhail J. Atallah</na></co>
+<co c="0"><na f="a/Atroun:M=_A=" pid="58/4961">M. A. Atroun</na></co>
+<co c="0"><na f="b/Ba:Mouhamadou_Lamine" pid="85/9378">Mouhamadou Lamine Ba</na></co>
+<co c="0"><na f="b/Baker:Peter" pid="23/6241">Peter Baker</na></co>
+<co c="0"><na f="b/Baxter:Ivan" pid="49/543">Ivan Baxter</na></co>
+<co c="0"><na f="b/Beard:James" pid="61/1289">James Beard</na></co>
+<co c="0"><na f="b/Belkhodja:N=_L=" pid="83/3181">N. L. Belkhodja</na></co>
+<co c="0"><na f="b/Benatallah:Boualem" pid="b/BoualemBenatallah">Boualem Benatallah</na></co>
+<co c="0"><na f="b/Berti==Eacute=quille:Laure" pid="b/LaureBertiEquille">Laure Berti-&#201;quille</na></co>
+<co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
+<co c="0"><na f="b/Beskales:George" pid="98/6141">George Beskales</na></co>
+<co c="0"><na f="b/Blake:M=_Brian" pid="b/MBrianBlake">M. Brian Blake</na></co>
+<co c="0"><na f="b/Bouguettaya:Athman" pid="01/458">Athman Bouguettaya</na></co>
+<co c="0"><na f="b/Brahmaroutu:Ashrita" pid="273/7114">Ashrita Brahmaroutu</na></co>
+<co c="0"><na f="c/Cameron:Jerry" pid="65/6474">Jerry Cameron</na></co>
+<co c="0"><na f="c/Cao_0004:Lei" pid="17/6060-4">Lei Cao 0004</na></co>
+<co c="0"><na f="c/Cao_0012:Yang" pid="25/7045-12">Yang Cao 0012</na></co>
+<co c="0"><na f="c/Casati:Fabio" pid="c/FabioCasati">Fabio Casati</na></co>
+<co c="0"><na f="c/Catlin:Ann_Christine" pid="10/6075">Ann Christine Catlin</na></co>
+<co c="0"><na f="c/Cen:Lei" pid="47/7890">Lei Cen</na></co>
+<co c="0"><na f="c/Chalamalla:Anup" pid="42/931">Anup Chalamalla</na></co>
+<co c="0"><na f="c/Chawla:Sanjay" pid="22/5463">Sanjay Chawla</na></co>
+<co c="0"><na f="c/Chen_0001:Liang" pid="01/5394-1">Liang Chen 0001</na></co>
+<co c="0"><na f="c/Chu:Xu" pid="131/4767">Xu Chu</na></co>
+<co c="0"><na f="c/Cleveland:William_S=" pid="74/5532">William S. Cleveland</na></co>
+<co c="0" n="2"><na f="c/Clifton:Chris" pid="c/CClifton">Chris Clifton</na><na>Christopher W. Clifton</na></co>
+<co c="0" n="2"><na f="c/Contreras:Bertty" pid="220/3419">Bertty Contreras</na><na>Bertty Contreras-Rojas</na></co>
+<co c="0"><na f="d/Dallachiesa:Michele" pid="117/4997">Michele Dallachiesa</na></co>
+<co c="0"><na f="d/Das_0001:Gautam" pid="07/1181">Gautam Das 0001</na></co>
+<co c="0"><na f="d/Deng_0001:Dong" pid="71/8700-1">Dong Deng 0001</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Dong:Hai" pid="14/2764">Hai Dong</na></co>
+<co c="0"><na f="d/Dragut:Eduard_C=" pid="66/6919">Eduard C. Dragut</na></co>
+<co c="0"><na f="d/Du_0001:Xiaoyong" pid="47/3542-1">Xiaoyong Du 0001</na></co>
+<co c="0"><na f="d/Dustdar:Schahram" pid="d/SDustdar">Schahram Dustdar</na></co>
+<co c="0"><na f="e/Ebaid:Amr" pid="131/4161">Amr Ebaid</na></co>
+<co c="0"><na f="e/Ebert:David_S=" pid="65/2401">David S. Ebert</na></co>
+<co c="0"><na f="e/Ebraheem:Muhammad" pid="207/7803">Muhammad Ebraheem</na></co>
+<co c="0"><na f="e/Eldawy:Ahmed" pid="66/9726">Ahmed Eldawy</na></co>
+<co c="0"><na f="e/Elmagarmid:Ahmed_K=" pid="e/AKElmagarmid">Ahmed K. Elmagarmid</na></co>
+<co c="0"><na f="e/Elmeleegy:Hazem" pid="12/2856">Hazem Elmeleegy</na></co>
+<co c="0"><na f="e/Elmongui:Hicham_G=" pid="15/5649">Hicham G. Elmongui</na></co>
+<co c="0"><na f="e/Eltabakh:Mohamed_Y=" pid="49/6395">Mohamed Y. Eltabakh</na></co>
+<co c="0"><na f="e/Erradi:Abdelkarim" pid="63/3982">Abdelkarim Erradi</na></co>
+<co c="0"><na f="f/Fan:Ju" pid="78/4413">Ju Fan</na></co>
+<co c="0"><na f="f/Fernandez:Raul_Castro" pid="131/4202">Raul Castro Fernandez</na></co>
+<co c="0"><na f="g/Georgakopoulos:Dimitrios" pid="82/2760">Dimitrios Georgakopoulos</na></co>
+<co c="0"><na f="g/Ghafoor:Arif" pid="81/1710">Arif Ghafoor</na></co>
+<co c="0"><na f="g/Glickman:Lawrence_T=" pid="78/9529">Lawrence T. Glickman</na></co>
+<co c="0"><na f="g/Gnanasekaran:Bala_M=" pid="116/5339">Bala M. Gnanasekaran</na></co>
+<co c="0"><na f="g/Grannis:Shaun_J=" pid="39/6644">Shaun J. Grannis</na></co>
+<co c="0"><na f="g/Gribskov:Michael" pid="99/1651">Michael Gribskov</na></co>
+<co c="0"><na f="g/Gubanov:Michael_N=" pid="10/5842">Michael N. Gubanov</na></co>
+<co c="0" n="2"><na f="h/Hafen:Ryan" pid="67/1817">Ryan Hafen</na><na>Ryan P. Hafen</na></co>
+<co c="0"><na f="h/Hambrusch:Susanne_E=" pid="h/SusanneSHambrusch">Susanne E. Hambrusch</na></co>
+<co c="0" n="2"><na f="h/Hammady:Hossam_M=" pid="163/3922">Hossam M. Hammady</na><na>Hossam Hammady</na></co>
+<co c="0"><na f="h/Hassan:Mohamed_S=" pid="166/8411">Mohamed S. Hassan</na></co>
+<co c="0"><na f="h/Hendra:Lily" pid="18/5003">Lily Hendra</na></co>
+<co c="1"><na f="h/Hirleman:Edwin_Daniel" pid="161/7698">Edwin Daniel Hirleman</na></co>
+<co c="0"><na f="h/Hon:Wing=Kai" pid="51/534">Wing-Kai Hon</na></co>
+<co c="0"><na f="h/Huhns:Michael_N=" pid="h/MichaelNHuhns">Michael N. Huhns</na></co>
+<co c="0"><na f="i/Idris:Yasser" pid="181/5745">Yasser Idris</na></co>
+<co c="0" n="2"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na><na>Ihab Francis Ilyas</na></co>
+<co c="0"><na f="j/Jang:Yun" pid="83/5687">Yun Jang</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na></co>
+<co c="0"><na f="k/Kalnis:Panos" pid="97/3036">Panos Kalnis</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
+<co c="0"><na f="k/Khabsa:Madian" pid="87/11087">Madian Khabsa</na></co>
+<co c="0"><na f="k/Khayyat:Zuhair" pid="128/5698">Zuhair Khayyat</na></co>
+<co c="0"><na f="k/Kruse_0001:Sebastian" pid="128/0936-1">Sebastian Kruse 0001</na></co>
+<co c="0"><na f="l/Lee:Jaewoo" pid="89/2271">Jaewoo Lee</na></co>
+<co c="0"><na f="l/Leymann:Frank" pid="l/FrankLeymann">Frank Leymann</na></co>
+<co c="0"><na f="l/Li:Fangyi" pid="37/8497">Fangyi Li</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0"><na f="l/Liu:Xumin" pid="61/5010">Xumin Liu</na></co>
+<co c="0"><na f="l/Lucas:Ji" pid="144/2807">Ji Lucas</na></co>
+<co c="0"><na f="l/Lucia:William" pid="139/0886">William Lucia</na></co>
+<co c="0"><na f="m/Maciejewski:Ross" pid="81/5349">Ross Maciejewski</na></co>
+<co c="0" n="2"><na f="m/Madden:Samuel" pid="m/SamuelMadden">Samuel Madden</na><na>Sam Madden</na></co>
+<co c="0"><na f="m/Madkour:Amgad" pid="86/2989">Amgad Madkour</na></co>
+<co c="0"><na f="m/Mahdavi:Mohammad" pid="125/6921">Mohammad Mahdavi</na></co>
+<co c="0"><na f="m/Mahmood:Ahmed_R=" pid="73/10806">Ahmed R. Mahmood</na></co>
+<co c="0"><na f="m/Mahmoud:Hosam_M=" pid="m/HosamMMahmoud">Hosam M. Mahmoud</na></co>
+<co c="0"><na f="m/Malik:Zaki" pid="71/1236">Zaki Malik</na></co>
+<co c="0"><na f="m/Malluhi:Qutaibah_M=" pid="99/5275">Qutaibah M. Malluhi</na></co>
+<co c="0"><na f="m/Mansour:Essam" pid="m/EssamMansour">Essam Mansour</na></co>
+<co c="0"><na f="m/Marri:Wadha_J=_Al" pid="152/1395">Wadha J. Al Marri</na></co>
+<co c="0"><na f="m/Mattson:Timothy_G=" pid="56/794">Timothy G. Mattson</na></co>
+<co c="1"><na f="m/McNeill:Nathan" pid="144/7903">Nathan McNeill</na></co>
+<co c="0"><na f="m/Mecella:Massimo" pid="42/2448">Massimo Mecella</na></co>
+<co c="0"><na f="m/Medjahed:Brahim" pid="m/BMedjahed">Brahim Medjahed</na></co>
+<co c="0"><na f="m/Meng:Yao" pid="87/4709">Yao Meng</na></co>
+<co c="0"><na f="m/Mershad:Khaleel" pid="161/7909">Khaleel Mershad</na></co>
+<co c="0"><na f="m/Mistry:Sajib" pid="167/0255">Sajib Mistry</na></co>
+<co c="0"><na f="m/Mitra:Prasenjit" pid="19/3308">Prasenjit Mitra</na></co>
+<co c="0"><na f="m/Mohamed:Nabeel" pid="121/4268">Nabeel Mohamed</na></co>
+<co c="0"><na f="m/Morcos:John" pid="160/4533">John Morcos</na></co>
+<co c="0"><na f="m/Musleh:Mashaal" pid="147/1231">Mashaal Musleh</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Nehme:Rimma_V=" pid="94/81">Rimma V. Nehme</na></co>
+<co c="0"><na f="n/Neiat:Azadeh_Ghari" pid="61/7719">Azadeh Ghari Neiat</na></co>
+<co c="0"><na f="n/Nepal:Surya" pid="22/3939">Surya Nepal</na></co>
+<co c="0"><na f="n/Neville:Jennifer" pid="n/JenniferNeville">Jennifer Neville</na></co>
+<co c="0"><na f="n/Nguyen=Dinh:Long=Van" pid="49/8159">Long-Van Nguyen-Dinh</na></co>
+<co c="0"><na f="o/Oh:Cheolhwan" pid="17/3418">Cheolhwan Oh</na></co>
+<co c="0"><na f="o/Or=ccedil=un:Seza" pid="56/2045">Seza Or&#231;un</na></co>
+<co c="0"><na f="p/Paci:Federica" pid="18/3134">Federica Paci</na></co>
+<co c="0" n="2"><na f="p/Papazoglou:Mike_P=" pid="p/MPPapazoglou">Mike P. Papazoglou</na><na>Michael P. Papazoglou</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="0" n="2"><na f="p/Parambath:Shameem_Puthiya" pid="155/1903">Shameem Puthiya Parambath</na><na>Shameem Ahamed Puthiya Parambath</na></co>
+<co c="1"><na f="p/Patil:Lalit" pid="84/6989">Lalit Patil</na></co>
+<co c="0"><na f="p/Prabhakar:Sunil" pid="p/SunilPrabhakar">Sunil Prabhakar</na></co>
+<co c="0"><na f="p/Prakash:Deo" pid="216/2348">Deo Prakash</na></co>
+<co c="0"><na f="q/Qadah:Thamir" pid="166/8355">Thamir Qadah</na></co>
+<co c="0"><na f="q/Qahtan:Abdulhakim_Ali" pid="121/4198">Abdulhakim Ali Qahtan</na></co>
+<co c="0"><na f="q/Qi:Alan" pid="29/8437">Alan Qi</na></co>
+<co c="0"><na f="q/Quian=eacute==Ruiz:Jorge=Arnulfo" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</na></co>
+<co c="0"><na f="r/Rahm:Erhard" pid="r/ERahm">Erhard Rahm</na></co>
+<co c="0"><na f="r/Rangarajan:Srivathsava" pid="144/2776">Srivathsava Rangarajan</na></co>
+<co c="0"><na f="r/Rege:Manjeet" pid="87/6386">Manjeet Rege</na></co>
+<co c="0"><na f="r/Rezgui:Abdelmounaam" pid="47/4717">Abdelmounaam Rezgui</na></co>
+<co c="0"><na f="r/Rezig:El_Kindi" pid="96/8919">El Kindi Rezig</na></co>
+<co c="1"><na f="r/Roumani:Ali_M=" pid="09/2040">Ali M. Roumani</na></co>
+<co c="0"><na f="r/Rudolph:Stephen" pid="87/2082">Stephen Rudolph</na></co>
+<co c="0"><na f="s/Saha:Tanay_Kumar" pid="116/9365">Tanay Kumar Saha</na></co>
+<co c="0"><na f="s/Sallam:Asmaa" pid="116/5199">Asmaa Sallam</na></co>
+<co c="0"><na f="s/Salt:David_E=" pid="07/1294">David E. Salt</na></co>
+<co c="0"><na f="s/Samuel:Arjmand" pid="27/2579">Arjmand Samuel</na></co>
+<co c="0"><na f="s/Schoemans:Maxime" pid="257/5610">Maxime Schoemans</na></co>
+<co c="0"><na f="s/Sheng:Quan_Z=" pid="s/QuanZSheng">Quan Z. Sheng</na></co>
+<co c="0"><na f="s/Si:Luo" pid="14/1217">Luo Si</na></co>
+<co c="0" n="2"><na f="s/Silva:Yasin_N=" pid="s/YasinNSilva">Yasin N. Silva</na><na>Yasin Laura-Silva</na></co>
+<co c="0"><na f="s/Simonini:Giovanni" pid="151/8293">Giovanni Simonini</na></co>
+<co c="0"><na f="s/Singh:Meghna" pid="49/379">Meghna Singh</na></co>
+<co c="0"><na f="s/Singh:Munindar_P=" pid="s/MunindarPSingh">Munindar P. Singh</na></co>
+<co c="0"><na f="s/Sinha:A=_Krishna" pid="31/3461">A. Krishna Sinha</na></co>
+<co c="0"><na f="s/Smith:Kevin" pid="07/4241">Kevin Smith</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Sun:Ji" pid="01/3254">Ji Sun</na></co>
+<co c="0"><na f="t/Tahboub:Ruby_Y=" pid="18/8896">Ruby Y. Tahboub</na></co>
+<co c="0"><na f="t/Talukder:Nilothpal" pid="83/2264">Nilothpal Talukder</na></co>
+<co c="0" n="2"><na f="t/Tang:MingJie" pid="01/7213">MingJie Tang</na><na>Mingjie Tang</na></co>
+<co c="0"><na f="t/Tang_0001:Nan" pid="27/104-1">Nan Tang 0001</na></co>
+<co c="0"><na f="t/Tao:Wenbo" pid="147/1253">Wenbo Tao</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Thirumuruganathan:Saravanan" pid="57/10514">Saravanan Thirumuruganathan</na></co>
+<co c="0"><na f="t/Totti:Luam_C=" pid="119/6773">Luam C. Totti</na></co>
+<co c="0"><na f="t/Troudi:Anis" pid="224/6752">Anis Troudi</na></co>
+<co c="0"><na f="t/Tu:Jianhong" pid="227/8305">Jianhong Tu</na></co>
+<co c="0"><na f="t/Tyner:Benjamin" pid="74/9529">Benjamin Tyner</na></co>
+<co c="0"><na f="v/Vitter:Jeffrey_Scott" pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</na></co>
+<co c="0"><na f="w/Wade:Michael" pid="72/6774">Michael Wade</na></co>
+<co c="0"><na f="w/Wang:Hongbing" pid="62/2365">Hongbing Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Sibo" pid="131/6529-1">Sibo Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0002:Yan" pid="59/2227-2">Yan Wang 0002</na></co>
+<co c="0"><na f="w/Wen:Zhaoyang" pid="48/5459">Zhaoyang Wen</na></co>
+<co c="0"><na f="y/Yakout:Mohamed" pid="48/725">Mohamed Yakout</na></co>
+<co c="0"><na f="y/Ye:Yin" pid="66/7724">Yin Ye</na></co>
+<co c="0"><na f="y/Yin:Si" pid="32/2085">Si Yin</na></co>
+<co c="0"><na f="y/Yu_0001:Qi" pid="58/6957-1">Qi Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Yongyang" pid="22/11514">Yongyang Yu</na></co>
+<co c="0"><na f="z/Zaki:Mohammed_J=" pid="z/MohammedJaveedZaki">Mohammed J. Zaki</na></co>
+<co c="0"><na f="z/Zhang:Xiang" pid="91/4353">Xiang Zhang</na></co>
+<co c="0"><na f="z/Zheng:Cheng" pid="37/170">Cheng Zheng</na></co>
+</coauthors>
+</dblpperson>
+

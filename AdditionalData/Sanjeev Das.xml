@@ -1,3 +1,217 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e9580404b973ae8de6745ee918dd165abceb614f52828b0f2e725f735be754c
-size 10070
+<?xml version="1.0"?>
+<dblpperson name="Sanjeev Das" pid="50/1928" n="12">
+<person key="homepages/50/1928" mdate="2009-06-09">
+<author pid="50/1928">Sanjeev Das</author>
+</person>
+<r><article key="journals/tecs/HeDZL20" mdate="2020-09-08">
+<author orcid="0000-0002-6546-6907" pid="202/9476">Wenjian He</author>
+<author pid="50/1928">Sanjeev Das</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>BBB-CFI: Lightweight CFI Approach Against Code-Reuse Attacks Using Basic Block Information.</title>
+<pages>7:1-7:22</pages>
+<year>2020</year>
+<volume>19</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371151</ee>
+<url>db/journals/tecs/tecs19.html#HeDZL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsac/DasJWAPM20" mdate="2020-12-15">
+<author pid="50/1928">Sanjeev Das</author>
+<author pid="280/8423">Kedrian James</author>
+<author pid="55/3764">Jan Werner</author>
+<author pid="26/216">Manos Antonakakis</author>
+<author pid="09/1231">Michalis Polychronakis</author>
+<author pid="50/6700">Fabian Monrose</author>
+<title>A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs.</title>
+<pages>345-359</pages>
+<year>2020</year>
+<booktitle>ACSAC</booktitle>
+<ee>https://doi.org/10.1145/3427228.3427269</ee>
+<crossref>conf/acsac/2020</crossref>
+<url>db/conf/acsac/acsac2020.html#DasJWAPM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/HeZSD20" mdate="2020-09-05">
+<author orcid="0000-0002-6546-6907" pid="202/9476">Wenjian He</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="24/9978">Sharad Sinha</author>
+<author pid="50/1928">Sanjeev Das</author>
+<title>iGPU Leak: An Information Leakage Vulnerability on Intel Integrated GPU.</title>
+<pages>56-61</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045745</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#HeZSD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/DasWAPM19" mdate="2019-09-24">
+<author pid="50/1928">Sanjeev Das</author>
+<author pid="55/3764">Jan Werner</author>
+<author pid="26/216">Manos Antonakakis</author>
+<author pid="09/1231">Michalis Polychronakis</author>
+<author pid="50/6700">Fabian Monrose</author>
+<title>SoK: The Challenges, Pitfalls, and Perils of Using Hardware Performance Counters for Security.</title>
+<pages>20-38</pages>
+<year>2019</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2019.00021</ee>
+<crossref>conf/sp/2019</crossref>
+<url>db/conf/sp/sp2019.html#DasWAPM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/DasCCLZ18" mdate="2020-02-27">
+<author orcid="0000-0002-2157-0155" pid="50/1928">Sanjeev Das</author>
+<author pid="61/9197">Bihuan Chen 0001</author>
+<author pid="45/8423">Mahinthan Chandramohan</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<title>ROPSentry: Runtime defense against ROP attacks using hardware performance counters.</title>
+<pages>374-388</pages>
+<year>2018</year>
+<volume>73</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2017.11.011</ee>
+<url>db/journals/compsec/compsec73.html#DasCCLZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccd/HeZDL18" mdate="2019-09-25">
+<author orcid="0000-0002-6546-6907" pid="202/9476">Wenjian He</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="50/1928">Sanjeev Das</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>SGXlinger: A New Side-Channel Attack Vector Based on Interrupt Latency Against Enclave Execution.</title>
+<pages>108-114</pages>
+<year>2018</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2018.00025</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2018.00025</ee>
+<crossref>conf/iccd/2018</crossref>
+<url>db/conf/iccd/iccd2018.html#HeZDL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/HeDZL17" mdate="2020-02-27">
+<author orcid="0000-0002-6546-6907" pid="202/9476">Wenjian He</author>
+<author orcid="0000-0002-2157-0155" pid="50/1928">Sanjeev Das</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>No-Jump-into-Basic-Block: Enforce Basic Block CFI on the Fly for Real-world Binaries.</title>
+<pages>23:1-23:6</pages>
+<year>2017</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3061639.3062291</ee>
+<crossref>conf/dac/2017</crossref>
+<url>db/conf/dac/dac2017.html#HeDZL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tifs/DasLZC16" mdate="2020-08-06">
+<author orcid="0000-0002-2157-0155" pid="50/1928">Sanjeev Das</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="45/8423">Mahinthan Chandramohan</author>
+<title>Semantics-Based Online Malware Detection: Towards Efficient Real-Time Protection Against Malware.</title>
+<pages>289-302</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TIFS.2015.2491300</ee>
+<url>db/journals/tifs/tifs11.html#DasLZC16</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/DasZL16" mdate="2020-03-11">
+<author orcid="0000-0001-9748-3827" pid="50/1928">Sanjeev Das</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>A Fine-Grained Control Flow Integrity Approach Against Runtime Memory Attacks for Embedded Systems.</title>
+<pages>3193-3207</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVLSI.2016.2548561</ee>
+<url>db/journals/tvlsi/tvlsi24.html#DasZL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/DasXLZ16" mdate="2018-11-30">
+<author orcid="0000-0002-2157-0155" pid="50/1928">Sanjeev Das</author>
+<author pid="67/7741">Hao Xiao</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<title>Online malware defense using attack behavior model.</title>
+<pages>1322-1325</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2016.7527492</ee>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#DasXLZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/DasZL14" mdate="2019-07-16">
+<author orcid="0000-0002-2157-0155" pid="50/1928">Sanjeev Das</author>
+<author orcid="0000-0002-7622-6714" pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Reconfigurable Dynamic Trusted Platform Module for Control Flow Checking.</title>
+<pages>166-171</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.84</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.84</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#DasZL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/WaerdtVDMYZBIAKRA05" mdate="2017-05-21">
+<author pid="44/2557">Jan-Willem van de Waerdt</author>
+<author pid="v/SVassiliadis">Stamatis Vassiliadis</author>
+<author pid="50/1928">Sanjeev Das</author>
+<author pid="41/4988">Sebastian Mirolo</author>
+<author pid="35/942">Chris Yen</author>
+<author pid="04/4538">Bill Zhong</author>
+<author pid="10/1052">Carlos Basto</author>
+<author pid="82/3531">Jean-Paul van Itegem</author>
+<author pid="61/39">Dinesh Amirtharaj</author>
+<author pid="96/3500">Kulbhushan Kalra</author>
+<author pid="96/4035">Pedro Rodriguez</author>
+<author pid="00/4733">Hans Van Antwerpen</author>
+<title>The TM3270 Media-Processor.</title>
+<pages>331-342</pages>
+<year>2005</year>
+<crossref>conf/micro/2005</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2005.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICRO.2005.35</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1100560</ee>
+<url>db/conf/micro/micro2005.html#WaerdtVDMYZBIAKRA05</url>
+</inproceedings>
+</r>
+<coauthors n="23" nc="3">
+<co c="0"><na f="a/Amirtharaj:Dinesh" pid="61/39">Dinesh Amirtharaj</na></co>
+<co c="2"><na f="a/Antonakakis:Manos" pid="26/216">Manos Antonakakis</na></co>
+<co c="0"><na f="a/Antwerpen:Hans_Van" pid="00/4733">Hans Van Antwerpen</na></co>
+<co c="0"><na f="b/Basto:Carlos" pid="10/1052">Carlos Basto</na></co>
+<co c="1"><na f="c/Chandramohan:Mahinthan" pid="45/8423">Mahinthan Chandramohan</na></co>
+<co c="1"><na f="c/Chen_0001:Bihuan" pid="61/9197">Bihuan Chen 0001</na></co>
+<co c="1"><na f="h/He:Wenjian" pid="202/9476">Wenjian He</na></co>
+<co c="0"><na f="i/Itegem:Jean=Paul_van" pid="82/3531">Jean-Paul van Itegem</na></co>
+<co c="2"><na f="j/James:Kedrian" pid="280/8423">Kedrian James</na></co>
+<co c="0"><na f="k/Kalra:Kulbhushan" pid="96/3500">Kulbhushan Kalra</na></co>
+<co c="1"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="m/Mirolo:Sebastian" pid="41/4988">Sebastian Mirolo</na></co>
+<co c="2"><na f="m/Monrose:Fabian" pid="50/6700">Fabian Monrose</na></co>
+<co c="2"><na f="p/Polychronakis:Michalis" pid="09/1231">Michalis Polychronakis</na></co>
+<co c="0"><na f="r/Rodriguez:Pedro" pid="96/4035">Pedro Rodriguez</na></co>
+<co c="1"><na f="s/Sinha:Sharad" pid="24/9978">Sharad Sinha</na></co>
+<co c="0"><na f="v/Vassiliadis:Stamatis" pid="v/SVassiliadis">Stamatis Vassiliadis</na></co>
+<co c="0"><na f="w/Waerdt:Jan=Willem_van_de" pid="44/2557">Jan-Willem van de Waerdt</na></co>
+<co c="2"><na f="w/Werner:Jan" pid="55/3764">Jan Werner</na></co>
+<co c="1"><na f="x/Xiao:Hao" pid="67/7741">Hao Xiao</na></co>
+<co c="0"><na f="y/Yen:Chris" pid="35/942">Chris Yen</na></co>
+<co c="1"><na f="z/Zhang_0012:Wei" pid="10/4661-12">Wei Zhang 0012</na></co>
+<co c="0"><na f="z/Zhong:Bill" pid="04/4538">Bill Zhong</na></co>
+</coauthors>
+</dblpperson>
+

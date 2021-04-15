@@ -1,3 +1,585 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03bbda4a03293680fc54d8e03a7da505abb668c15be9571f8ff35836ded37ae1
-size 26756
+<?xml version="1.0"?>
+<dblpperson name="Minghui Liao" pid="190/7335" n="30">
+<person key="homepages/190/7335" mdate="2016-12-01">
+<author pid="190/7335">Minghui Liao</author>
+</person>
+<r><article key="journals/pami/LiaoLHYWB21" mdate="2021-01-26">
+<author orcid="0000-0002-2583-4314" pid="190/7335">Minghui Liao</author>
+<author orcid="0000-0003-3153-8519" pid="168/4701">Pengyuan Lyu</author>
+<author pid="245/0147">Minghang He</author>
+<author orcid="0000-0001-6564-4796" pid="82/11201">Cong Yao</author>
+<author pid="149/0005">Wenhao Wu</author>
+<author orcid="0000-0002-3449-5940" pid="59/2741">Xiang Bai</author>
+<title>Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.</title>
+<pages>532-548</pages>
+<year>2021</year>
+<volume>43</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TPAMI.2019.2937086</ee>
+<url>db/journals/pami/pami43.html#LiaoLHYWB21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-01070" mdate="2021-04-12">
+<author pid="245/0147">Minghang He</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="127/9460">Zhibo Yang</author>
+<author pid="289/5687">Humen Zhong</author>
+<author pid="52/6788">Jun Tang</author>
+<author pid="31/1966">Wenqing Cheng</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="231/1852">Yongpan Wang</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>MOST: A Multi-Oriented Scene Text Detector with Localization Refinement.</title>
+<year>2021</year>
+<volume>abs/2104.01070</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.01070</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-01070</url>
+</article>
+</r>
+<r><article key="journals/chinaf/LiaoSLHYB20" mdate="2020-03-02">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="177/5418">Boyu Song</author>
+<author pid="223/4441">Shangbang Long</author>
+<author pid="245/0147">Minghang He</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>SynthText3D: synthesizing scene text images from 3D virtual worlds.</title>
+<pages>120105</pages>
+<year>2020</year>
+<volume>63</volume>
+<journal>Sci. China Inf. Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11432-019-2737-0</ee>
+<url>db/journals/chinaf/chinaf63.html#LiaoSLHYB20</url>
+</article>
+</r>
+<r><article key="journals/tip/XieLWLL20" mdate="2020-08-06">
+<author orcid="0000-0002-8888-4677" pid="271/5229">Hongfu Xie</author>
+<author pid="271/5591">Jiecun Liang</author>
+<author pid="78/6727">Zhen Wang</author>
+<author orcid="0000-0002-2583-4314" pid="190/7335">Minghui Liao</author>
+<author orcid="0000-0003-1441-0409" pid="188/9514">Xide Li</author>
+<title>Scanning Imaging Restoration of Moving or Dynamically Deforming Objects.</title>
+<pages>7290-7305</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2020.3000663</ee>
+<url>db/journals/tip/tip29.html#XieLWLL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiaoWYCB20" mdate="2021-02-02">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="227/2593">Zhaoyi Wan</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="181/2839">Kai Chen</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Real-Time Scene Text Detection with Differentiable Binarization.</title>
+<pages>11474-11481</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://aaai.org/ojs/index.php/AAAI/article/view/6812</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#LiaoWYCB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LiaoPHHB20" mdate="2020-12-01">
+<author orcid="0000-0002-2583-4314" pid="190/7335">Minghui Liao</author>
+<author orcid="0000-0002-9922-7074" pid="99/8792">Guan Pang</author>
+<author orcid="0000-0003-3488-3641" pid="14/4834-20">Jing Huang 0020</author>
+<author orcid="0000-0003-2275-1406" pid="62/6">Tal Hassner</author>
+<author orcid="0000-0002-3449-5940" pid="59/2741">Xiang Bai</author>
+<title>Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting.</title>
+<pages>706-722</pages>
+<year>2020</year>
+<booktitle>ECCV (11)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58621-8_41</ee>
+<crossref>conf/eccv/2020-11</crossref>
+<url>db/conf/eccv/eccv2020-11.html#LiaoPHHB20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-09482" mdate="2020-07-28">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="99/8792">Guan Pang</author>
+<author pid="14/4834-20">Jing Huang 0020</author>
+<author pid="62/6">Tal Hassner</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting.</title>
+<year>2020</year>
+<volume>abs/2007.09482</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.09482</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-09482</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-05030" mdate="2021-01-02">
+<author pid="138/8580">Wenqing Zhang</author>
+<author pid="57/7487">Yang Qiu</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="60/2536">Rui Zhang</author>
+<author pid="155/5599">Xiaolin Wei</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Scene Text Detection with Scribble Lines.</title>
+<year>2020</year>
+<volume>abs/2012.05030</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.05030</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-05030</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiaoZWXLLYB19" mdate="2021-02-02">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="07/314">Jian Zhang</author>
+<author pid="227/2593">Zhaoyi Wan</author>
+<author pid="227/2919">Fengming Xie</author>
+<author pid="184/6428">Jiajun Liang</author>
+<author pid="168/4701">Pengyuan Lyu</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Scene Text Recognition from Two-Dimensional Perspective.</title>
+<pages>8714-8721</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33018714</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiaoZWXLLYB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/YangGLHBBYB19" mdate="2020-03-05">
+<author pid="86/7485">Mingkun Yang</author>
+<author pid="246/4821">Yushuo Guan</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="69/1798">Xin He</author>
+<author pid="87/2334">Kaigui Bian</author>
+<author pid="151/6422">Song Bai</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Symmetry-Constrained Rectification Network for Scene Text Recognition.</title>
+<pages>9146-9155</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00924</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#YangGLHBBYB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ZhangYBSKLJZJSL19" mdate="2020-10-25">
+<author pid="60/2536">Rui Zhang</author>
+<author pid="86/7485">Mingkun Yang</author>
+<author pid="59/2741">Xiang Bai</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="03/6509">Dimosthenis Karatzas</author>
+<author pid="42/2718">Shijian Lu</author>
+<author orcid="0000-0001-6767-7057" pid="j/CVJawahar">C. V. Jawahar</author>
+<author pid="97/7693">Yongsheng Zhou</author>
+<author pid="216/4086">Qianyi Jiang</author>
+<author pid="82/5132">Qi Song</author>
+<author pid="84/3795">Nan Li</author>
+<author pid="82/1512">Kai Zhou</author>
+<author pid="181/2817">Lei Wang</author>
+<author pid="40/3934">Dong Wang</author>
+<author pid="190/7335">Minghui Liao</author>
+<title>ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard.</title>
+<pages>1577-1581</pages>
+<year>2019</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2019.00253</ee>
+<crossref>conf/icdar/2019</crossref>
+<url>db/conf/icdar/icdar2019.html#ZhangYBSKLJZJSL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-06007" mdate="2019-07-17">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="177/5418">Boyu Song</author>
+<author pid="245/0147">Minghang He</author>
+<author pid="223/4441">Shangbang Long</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds.</title>
+<year>2019</year>
+<volume>abs/1907.06007</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.06007</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-06007</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01957" mdate="2019-08-09">
+<author pid="86/7485">Mingkun Yang</author>
+<author pid="246/4821">Yushuo Guan</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="69/1798">Xin He</author>
+<author pid="87/2334">Kaigui Bian</author>
+<author pid="151/6422">Song Bai</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Symmetry-constrained Rectification Network for Scene Text Recognition.</title>
+<year>2019</year>
+<volume>abs/1908.01957</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01957</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01957</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-08207" mdate="2019-08-26">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="168/4701">Pengyuan Lyu</author>
+<author pid="245/0147">Minghang He</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="149/0005">Wenhao Wu</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.</title>
+<year>2019</year>
+<volume>abs/1908.08207</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.08207</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-08207</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-08947" mdate="2019-12-03">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="227/2593">Zhaoyi Wan</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="181/2839">Kai Chen</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Real-time Scene Text Detection with Differentiable Binarization.</title>
+<year>2019</year>
+<volume>abs/1911.08947</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.08947</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-08947</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-09641" mdate="2020-01-03">
+<author pid="81/7010">Xi Liu</author>
+<author pid="60/2536">Rui Zhang</author>
+<author pid="97/7693">Yongsheng Zhou</author>
+<author pid="216/4086">Qianyi Jiang</author>
+<author pid="82/5132">Qi Song</author>
+<author pid="84/3795">Nan Li</author>
+<author pid="82/1512">Kai Zhou</author>
+<author pid="181/2817">Lei Wang</author>
+<author pid="40/3934">Dong Wang</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="86/7485">Mingkun Yang</author>
+<author pid="59/2741">Xiang Bai</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="03/6509">Dimosthenis Karatzas</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="j/CVJawahar">C. V. Jawahar</author>
+<title>ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard.</title>
+<year>2019</year>
+<volume>abs/1912.09641</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.09641</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-09641</url>
+</article>
+</r>
+<r><article key="journals/tip/LiaoSB18" mdate="2020-05-10">
+<author orcid="0000-0002-2583-4314" pid="190/7335">Minghui Liao</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author orcid="0000-0002-3449-5940" pid="59/2741">Xiang Bai</author>
+<title>TextBoxes++: A Single-Shot Oriented Scene Text Detector.</title>
+<pages>3676-3690</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TIP.2018.2825107</ee>
+<ee>https://www.wikidata.org/entity/Q57707607</ee>
+<url>db/journals/tip/tip27.html#LiaoSB18</url>
+</article>
+</r>
+<r><article key="journals/tits/ZhuLYL18" mdate="2020-03-24">
+<author orcid="0000-0002-4664-4659" pid="40/5552">Yingying Zhu</author>
+<author orcid="0000-0002-2583-4314" pid="190/7335">Minghui Liao</author>
+<author orcid="0000-0002-6078-6100" pid="86/7485">Mingkun Yang</author>
+<author orcid="0000-0002-4582-7488" pid="42/4110-1">Wenyu Liu 0001</author>
+<title>Cascaded Segmentation-Detection Networks for Text-Based Traffic Sign Detection.</title>
+<pages>209-219</pages>
+<year>2018</year>
+<volume>19</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TITS.2017.2768827</ee>
+<url>db/journals/tits/tits19.html#ZhuLYL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiaoZSXB18" mdate="2019-02-06">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="70/5023">Zhen Zhu</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="97/594">Gui-Song Xia</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Rotation-Sensitive Regression for Oriented Scene Text Detection.</title>
+<pages>5909-5918</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00619</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00619</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#LiaoZSXB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/das/ZhuLSB18" mdate="2018-07-03">
+<author pid="70/5023">Zhen Zhu</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Feature Fusion for Scene Text Detection.</title>
+<pages>193-198</pages>
+<year>2018</year>
+<booktitle>DAS</booktitle>
+<ee>https://doi.org/10.1109/DAS.2018.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DAS.2018.60</ee>
+<crossref>conf/das/2018</crossref>
+<url>db/conf/das/das2018.html#ZhuLSB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LyuLYWB18" mdate="2018-11-14">
+<author orcid="0000-0003-3153-8519" pid="168/4701">Pengyuan Lyu</author>
+<author orcid="0000-0002-2583-4314" pid="190/7335">Minghui Liao</author>
+<author orcid="0000-0001-6564-4796" pid="82/11201">Cong Yao</author>
+<author pid="149/0005">Wenhao Wu</author>
+<author orcid="0000-0002-3449-5940" pid="59/2741">Xiang Bai</author>
+<title>Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.</title>
+<pages>71-88</pages>
+<year>2018</year>
+<booktitle>ECCV (14)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01264-9_5</ee>
+<ee>https://www.wikidata.org/entity/Q57707615</ee>
+<crossref>conf/eccv/2018-14</crossref>
+<url>db/conf/eccv/eccv2018-14.html#LyuLYWB18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-02765" mdate="2018-08-13">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>TextBoxes++: A Single-Shot Oriented Scene Text Detector.</title>
+<year>2018</year>
+<volume>abs/1801.02765</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.02765</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-02765</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-05265" mdate="2018-08-13">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="70/5023">Zhen Zhu</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="97/594">Gui-Song Xia</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Rotation-Sensitive Regression for Oriented Scene Text Detection.</title>
+<year>2018</year>
+<volume>abs/1803.05265</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.05265</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-05265</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-02242" mdate="2018-08-13">
+<author pid="168/4701">Pengyuan Lyu</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="149/0005">Wenhao Wu</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.</title>
+<year>2018</year>
+<volume>abs/1807.02242</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.02242</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-02242</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-06508" mdate="2018-10-05">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="07/314">Jian Zhang</author>
+<author pid="227/2593">Zhaoyi Wan</author>
+<author pid="227/2919">Fengming Xie</author>
+<author pid="184/6428">Jiajun Liang</author>
+<author pid="168/4701">Pengyuan Lyu</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>Scene Text Recognition from Two-Dimensional Perspective.</title>
+<year>2018</year>
+<volume>abs/1809.06508</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.06508</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-06508</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiaoSBWL17" mdate="2021-02-10">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="59/2741">Xiang Bai</author>
+<author pid="95/3056">Xinggang Wang</author>
+<author pid="42/4110-1">Wenyu Liu 0001</author>
+<title>TextBoxes: A Fast Text Detector with a Single Deep Neural Network.</title>
+<pages>4161-4167</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14202</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiaoSBWL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ShiYLYXCBLB17" mdate="2019-12-27">
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="86/7485">Mingkun Yang</author>
+<author pid="125/0711">Pei Xu</author>
+<author pid="205/2612">Linyan Cui</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<author orcid="0000-0002-6766-2506" pid="42/2718">Shijian Lu</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17).</title>
+<pages>1429-1434</pages>
+<year>2017</year>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2017.233</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDAR.2017.233</ee>
+<crossref>conf/icdar/2017</crossref>
+<url>db/conf/icdar/icdar2017.html#ShiYLYXCBLB17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-09585" mdate="2018-08-13">
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="82/11201">Cong Yao</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="86/7485">Mingkun Yang</author>
+<author pid="125/0711">Pei Xu</author>
+<author pid="205/2612">Linyan Cui</author>
+<author pid="b/SJBelongie">Serge J. Belongie</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="59/2741">Xiang Bai</author>
+<title>ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17).</title>
+<year>2017</year>
+<volume>abs/1708.09585</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.09585</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-09585</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dor/SavvaYSACCDSBBF16" mdate="2020-11-11">
+<author pid="21/9924">Manolis Savva</author>
+<author pid="117/6314">Fisher Yu</author>
+<author pid="09/4945-1">Hao Su 0001</author>
+<author pid="48/2961">Masaki Aono</author>
+<author pid="23/4197">Baoquan Chen</author>
+<author pid="c/DCohenOr">Daniel Cohen-Or</author>
+<author pid="39/232">Weihong Deng</author>
+<author pid="26/5371">Hang Su</author>
+<author pid="151/6422">Song Bai</author>
+<author pid="59/2741">Xiang Bai</author>
+<author pid="134/7200">Noa Fish</author>
+<author pid="169/7261">Jiajie Han</author>
+<author pid="36/3187">Evangelos Kalogerakis</author>
+<author pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</author>
+<author pid="50/8293">Yangyan Li</author>
+<author pid="190/7335">Minghui Liao</author>
+<author pid="92/6598">Subhransu Maji</author>
+<author pid="65/7527">Atsushi Tatsuma</author>
+<author pid="17/1701">Yida Wang</author>
+<author pid="169/7234">Nanhai Zhang</author>
+<author pid="136/9853">Zhichao Zhou</author>
+<title>Large-Scale 3D Shape Retrieval from ShapeNet Core55.</title>
+<year>2016</year>
+<booktitle>3DOR@Eurographics</booktitle>
+<ee>https://doi.org/10.2312/3dor.20161092</ee>
+<crossref>conf/3dor/2016</crossref>
+<url>db/conf/3dor/3dor2016.html#SavvaYSACCDSBBF16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LiaoSBWL16" mdate="2020-01-08">
+<author pid="190/7335">Minghui Liao</author>
+<author pid="151/6413">Baoguang Shi</author>
+<author pid="59/2741">Xiang Bai</author>
+<author pid="95/3056">Xinggang Wang</author>
+<author pid="42/4110-1">Wenyu Liu 0001</author>
+<title>TextBoxes: A Fast Text Detector with a Single Deep Neural Network.</title>
+<year>2016</year>
+<volume>abs/1611.06779</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.06779</ee>
+<url>db/journals/corr/corr1611.html#LiaoSBWL16</url>
+</article>
+</r>
+<coauthors n="71" nc="1">
+<co c="0"><na f="a/Aono:Masaki" pid="48/2961">Masaki Aono</na></co>
+<co c="0"><na f="b/Bai:Song" pid="151/6422">Song Bai</na></co>
+<co c="0"><na f="b/Bai:Xiang" pid="59/2741">Xiang Bai</na></co>
+<co c="0"><na f="b/Belongie:Serge_J=" pid="b/SJBelongie">Serge J. Belongie</na></co>
+<co c="0"><na f="b/Bian:Kaigui" pid="87/2334">Kaigui Bian</na></co>
+<co c="0"><na f="c/Chen:Baoquan" pid="23/4197">Baoquan Chen</na></co>
+<co c="0"><na f="c/Chen:Kai" pid="181/2839">Kai Chen</na></co>
+<co c="0"><na f="c/Cheng:Wenqing" pid="31/1966">Wenqing Cheng</na></co>
+<co c="0"><na f="c/Cohen=Or:Daniel" pid="c/DCohenOr">Daniel Cohen-Or</na></co>
+<co c="0"><na f="c/Cui:Linyan" pid="205/2612">Linyan Cui</na></co>
+<co c="0"><na f="d/Deng:Weihong" pid="39/232">Weihong Deng</na></co>
+<co c="0"><na f="f/Fish:Noa" pid="134/7200">Noa Fish</na></co>
+<co c="0"><na f="g/Guan:Yushuo" pid="246/4821">Yushuo Guan</na></co>
+<co c="0"><na f="h/Han:Jiajie" pid="169/7261">Jiajie Han</na></co>
+<co c="0"><na f="h/Hassner:Tal" pid="62/6">Tal Hassner</na></co>
+<co c="0"><na f="h/He:Minghang" pid="245/0147">Minghang He</na></co>
+<co c="0"><na f="h/He:Xin" pid="69/1798">Xin He</na></co>
+<co c="0"><na f="h/Huang_0020:Jing" pid="14/4834-20">Jing Huang 0020</na></co>
+<co c="0"><na f="j/Jawahar:C=_V=" pid="j/CVJawahar">C. V. Jawahar</na></co>
+<co c="0"><na f="j/Jiang:Qianyi" pid="216/4086">Qianyi Jiang</na></co>
+<co c="0"><na f="k/Kalogerakis:Evangelos" pid="36/3187">Evangelos Kalogerakis</na></co>
+<co c="0"><na f="k/Karatzas:Dimosthenis" pid="03/6509">Dimosthenis Karatzas</na></co>
+<co c="0"><na f="l/Learned=Miller:Erik_G=" pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</na></co>
+<co c="0"><na f="l/Li:Nan" pid="84/3795">Nan Li</na></co>
+<co c="0"><na f="l/Li:Xide" pid="188/9514">Xide Li</na></co>
+<co c="0"><na f="l/Li:Yangyan" pid="50/8293">Yangyan Li</na></co>
+<co c="0"><na f="l/Liang:Jiajun" pid="184/6428">Jiajun Liang</na></co>
+<co c="0"><na f="l/Liang:Jiecun" pid="271/5591">Jiecun Liang</na></co>
+<co c="0"><na f="l/Liu_0001:Wenyu" pid="42/4110-1">Wenyu Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Xi" pid="81/7010">Xi Liu</na></co>
+<co c="0"><na f="l/Long:Shangbang" pid="223/4441">Shangbang Long</na></co>
+<co c="0"><na f="l/Lu:Shijian" pid="42/2718">Shijian Lu</na></co>
+<co c="0" n="2"><na f="l/Lv:Pengyuan" pid="168/4701">Pengyuan Lv</na><na>Pengyuan Lyu</na></co>
+<co c="0"><na f="m/Maji:Subhransu" pid="92/6598">Subhransu Maji</na></co>
+<co c="0"><na f="p/Pang:Guan" pid="99/8792">Guan Pang</na></co>
+<co c="0"><na f="q/Qiu:Yang" pid="57/7487">Yang Qiu</na></co>
+<co c="0"><na f="s/Savva:Manolis" pid="21/9924">Manolis Savva</na></co>
+<co c="0"><na f="s/Shi:Baoguang" pid="151/6413">Baoguang Shi</na></co>
+<co c="0"><na f="s/Song:Boyu" pid="177/5418">Boyu Song</na></co>
+<co c="0"><na f="s/Song:Qi" pid="82/5132">Qi Song</na></co>
+<co c="0"><na f="s/Su:Hang" pid="26/5371">Hang Su</na></co>
+<co c="0"><na f="s/Su_0001:Hao" pid="09/4945-1">Hao Su 0001</na></co>
+<co c="0"><na f="t/Tang:Jun" pid="52/6788">Jun Tang</na></co>
+<co c="0"><na f="t/Tatsuma:Atsushi" pid="65/7527">Atsushi Tatsuma</na></co>
+<co c="0"><na f="w/Wan:Zhaoyi" pid="227/2593">Zhaoyi Wan</na></co>
+<co c="0"><na f="w/Wang:Dong" pid="40/3934">Dong Wang</na></co>
+<co c="0"><na f="w/Wang:Lei" pid="181/2817">Lei Wang</na></co>
+<co c="0"><na f="w/Wang:Xinggang" pid="95/3056">Xinggang Wang</na></co>
+<co c="0"><na f="w/Wang:Yida" pid="17/1701">Yida Wang</na></co>
+<co c="0"><na f="w/Wang:Yongpan" pid="231/1852">Yongpan Wang</na></co>
+<co c="0"><na f="w/Wang:Zhen" pid="78/6727">Zhen Wang</na></co>
+<co c="0"><na f="w/Wei:Xiaolin" pid="155/5599">Xiaolin Wei</na></co>
+<co c="0"><na f="w/Wu:Wenhao" pid="149/0005">Wenhao Wu</na></co>
+<co c="0"><na f="x/Xia:Gui=Song" pid="97/594">Gui-Song Xia</na></co>
+<co c="0"><na f="x/Xie:Fengming" pid="227/2919">Fengming Xie</na></co>
+<co c="0"><na f="x/Xie:Hongfu" pid="271/5229">Hongfu Xie</na></co>
+<co c="0"><na f="x/Xu:Pei" pid="125/0711">Pei Xu</na></co>
+<co c="0"><na f="y/Yang:Mingkun" pid="86/7485">Mingkun Yang</na></co>
+<co c="0"><na f="y/Yang:Zhibo" pid="127/9460">Zhibo Yang</na></co>
+<co c="0"><na f="y/Yao:Cong" pid="82/11201">Cong Yao</na></co>
+<co c="0"><na f="y/Yu:Fisher" pid="117/6314">Fisher Yu</na></co>
+<co c="0"><na f="z/Zhang:Jian" pid="07/314">Jian Zhang</na></co>
+<co c="0"><na f="z/Zhang:Nanhai" pid="169/7234">Nanhai Zhang</na></co>
+<co c="0"><na f="z/Zhang:Rui" pid="60/2536">Rui Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenqing" pid="138/8580">Wenqing Zhang</na></co>
+<co c="0"><na f="z/Zhong:Humen" pid="289/5687">Humen Zhong</na></co>
+<co c="0"><na f="z/Zhou:Kai" pid="82/1512">Kai Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yongsheng" pid="97/7693">Yongsheng Zhou</na></co>
+<co c="0"><na f="z/Zhou:Zhichao" pid="136/9853">Zhichao Zhou</na></co>
+<co c="0"><na f="z/Zhu:Yingying" pid="40/5552">Yingying Zhu</na></co>
+<co c="0"><na f="z/Zhu:Zhen" pid="70/5023">Zhen Zhu</na></co>
+</coauthors>
+</dblpperson>
+

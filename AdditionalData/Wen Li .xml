@@ -1,3 +1,974 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:175832e9c3d579ea69897a9a55aea5c965a66701f137e9d3cbe81a5b849745ec
-size 43892
+<?xml version="1.0"?>
+<dblpperson name="Wen Li 0001" pid="06/721-1" n="57">
+<person key="homepages/06/721-1" mdate="2021-01-18">
+<author pid="06/721-1">Wen Li 0001</author>
+<note type="affiliation">University of Electronic Science and Technology of China, Chengdu, China</note>
+<note label="former" type="affiliation">ETH Z&#252;rich, Computer Vision Laboratory, Switzerland</note>
+<note type="affiliation" label="PhD 2015">Nanyang Technological University, School of Computer Engineering, Singapore</note>
+<url>https://wenli-vision.github.io</url>
+<url>https://orcid.org/0000-0002-5559-8594</url>
+<url>https://www.wikidata.org/entity/Q88128789</url>
+</person>
+<homonyms n="3">
+<h f="l/Li:Wen"><person publtype="disambiguation" key="homepages/06/721" mdate="2018-04-02">
+<author pid="06/721">Wen Li</author>
+</person>
+</h>
+<h f="l/Li_0002:Wen"><person key="homepages/06/721-2" mdate="2018-04-02">
+<author pid="06/721-2">Wen Li 0002</author>
+<note type="affiliation">Taiyuan University of Technology, School of Mathematics, China</note>
+<url>https://orcid.org/0000-0002-7607-9320</url>
+</person>
+</h>
+<h f="l/Li_0003:Wen"><person key="homepages/06/721-3" mdate="2018-04-02">
+<author pid="06/721-3">Wen Li 0003</author>
+<note type="affiliation">Hunan University, Business School, Changsha, China</note>
+<url>https://orcid.org/0000-0002-6263-1372</url>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/eccv/TianWHLDY0F20" mdate="2021-02-03">
+<author pid="39/5423">Yuan Tian</author>
+<author pid="35/1647-13">Qin Wang 0013</author>
+<author pid="47/7711">Zhiwu Huang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="12/1916">Minghao Yang</author>
+<author pid="w/JunWang12">Jun Wang 0012</author>
+<author pid="130/8190">Olga Fink</author>
+<title>Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search.</title>
+<pages>175-192</pages>
+<year>2020</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58571-6_11</ee>
+<crossref>conf/eccv/2020-7</crossref>
+<url>db/conf/eccv/eccv2020-7.html#TianWHLDY0F20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SunKLCKG20" mdate="2021-01-18">
+<author pid="207/7679">Guolei Sun</author>
+<author pid="32/6735">Salman Khan</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="129/2046">Hisham Cholakkal</author>
+<author pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Fixing Localization Errors to Improve Image Classification.</title>
+<pages>271-287</pages>
+<year>2020</year>
+<booktitle>ECCV (25)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58595-2_17</ee>
+<crossref>conf/eccv/2020-25</crossref>
+<url>db/conf/eccv/eccv2020-25.html#SunKLCKG20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-00707" mdate="2021-01-18">
+<author pid="260/0959">Jinhong Deng</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="54/7057">Lixin Duan</author>
+<title>Unbiased Mean Teacher for Cross Domain Object Detection.</title>
+<year>2020</year>
+<volume>abs/2003.00707</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.00707</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-00707</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-15618" mdate="2021-01-18">
+<author pid="75/1938">Rui Gong</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Analogical Image Translation for Fog Generation.</title>
+<year>2020</year>
+<volume>abs/2006.15618</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.15618</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-15618</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-16242" mdate="2021-01-18">
+<author pid="32/6740">Yawei Li</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="151/8848">Martin Danelljan</author>
+<author pid="55/957-8">Kai Zhang 0008</author>
+<author pid="126/1028">Shuhang Gu</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author pid="24/8616">Radu Timofte</author>
+<title>The Heterogeneity Hypothesis: Finding Layer-Wise Dissimilated Network Architecture.</title>
+<year>2020</year>
+<volume>abs/2006.16242</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.16242</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-16242</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-09180" mdate="2021-02-03">
+<author pid="39/5423">Yuan Tian</author>
+<author pid="35/1647-13">Qin Wang 0013</author>
+<author pid="47/7711">Zhiwu Huang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="12/1916">Minghao Yang</author>
+<author pid="w/JunWang12">Jun Wang 0012</author>
+<author pid="130/8190">Olga Fink</author>
+<title>Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search.</title>
+<year>2020</year>
+<volume>abs/2007.09180</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.09180</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-09180</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-08278" mdate="2021-01-18">
+<author pid="75/1938">Rui Gong</author>
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="151/8836">Danda Pani Paudel</author>
+<author pid="32/6740">Yawei Li</author>
+<author pid="149/7655">Ajad Chhatkuli</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation.</title>
+<year>2020</year>
+<volume>abs/2012.08278</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.08278</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-08278</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-08385" mdate="2021-01-18">
+<author pid="75/1938">Rui Gong</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>mDALU: Multi-Source Domain Adaptation and Label Unification with Partial Datasets.</title>
+<year>2020</year>
+<volume>abs/2012.08385</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.08385</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-08385</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChenLCG19" mdate="2021-01-18">
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="184/3448">Xiaoran Chen</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Learning Semantic Segmentation From Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach.</title>
+<pages>1841-1850</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Learning_Semantic_Segmentation_From_Synthetic_Data_A_Geometrically_Guided_Input-Output_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00194</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#ChenLCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/GongLCG19" mdate="2020-01-20">
+<author pid="75/1938">Rui Gong</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>DLOW: Domain Flow for Adaptation and Generalization.</title>
+<pages>2477-2486</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Gong_DLOW_Domain_Flow_for_Adaptation_and_Generalization_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00258</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#GongLCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/WuHALTPG19" mdate="2021-01-18">
+<author pid="05/7556">Jiqing Wu</author>
+<author pid="47/7711">Zhiwu Huang</author>
+<author pid="195/3691">Dinesh Acharya</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="202/3796">Janine Thoma</author>
+<author pid="151/8836">Danda Pani Paudel</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Sliced Wasserstein Generative Models.</title>
+<pages>3713-3722</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Sliced_Wasserstein_Generative_Models_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00383</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#WuHALTPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/WangLG19" mdate="2021-02-03">
+<author pid="35/1647-13">Qin Wang 0013</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Semi-Supervised Learning by Augmented Distribution Alignment.</title>
+<pages>1466-1475</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00155</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#WangLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/GuLGT19a" mdate="2021-04-09">
+<author pid="126/1028">Shuhang Gu</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<title>Fast Image Restoration With Multi-Bin Trainable Linear Units.</title>
+<pages>4189-4198</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00429</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#GuLGT19a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08171" mdate="2021-02-03">
+<author pid="35/1647-13">Qin Wang 0013</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Semi-Supervised Learning by Augmented Distribution Alignment.</title>
+<year>2019</year>
+<volume>abs/1905.08171</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08171</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08171</url>
+</article>
+</r>
+<r><article key="journals/pami/LiXXDG18" mdate="2018-11-14">
+<author orcid="0000-0002-5559-8594" pid="06/721-1">Wen Li 0001</author>
+<author pid="83/2535-2">Zheng Xu 0002</author>
+<author orcid="0000-0003-1165-0183" pid="09/3493-1">Dong Xu 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Domain Generalization and Adaptation Using Low Rank Exemplar SVMs.</title>
+<pages>1114-1127</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2704624</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2704624</ee>
+<ee>https://www.wikidata.org/entity/Q38769280</ee>
+<url>db/journals/pami/pami40.html#LiXXDG18</url>
+</article>
+</r>
+<r><article key="journals/pami/LiCXG18" mdate="2019-05-27">
+<author orcid="0000-0002-5559-8594" pid="06/721-1">Wen Li 0001</author>
+<author pid="13/3479-21">Lin Chen 0021</author>
+<author orcid="0000-0003-2775-9730" pid="09/3493-1">Dong Xu 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Visual Recognition in RGB Images and Videos by Learning from RGB-D Data.</title>
+<pages>2030-2036</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2734890</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2734890</ee>
+<ee>https://www.wikidata.org/entity/Q38636913</ee>
+<url>db/journals/pami/pami40.html#LiCXG18</url>
+</article>
+</r>
+<r><article key="journals/tnn/NiuLXC18" mdate="2020-06-10">
+<author orcid="0000-0003-1970-8634" pid="02/3166-2">Li Niu 0002</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>An Exemplar-Based Multi-View Domain Generalization Framework for Visual Recognition.</title>
+<pages>259-272</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNNLS.2016.2615469</ee>
+<ee>https://www.wikidata.org/entity/Q39196165</ee>
+<url>db/journals/tnn/tnn29.html#NiuLXC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/WangL0G18" mdate="2021-03-15">
+<author pid="68/6610-2">Limin Wang 0002</author>
+<author pid="64/6025-44">Wei Li 0044</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Appearance-and-Relation Networks for Video Classification.</title>
+<pages>1430-1439</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Appearance-and-Relation_Networks_for_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00155</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00155</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#WangL0G18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Chen0SDG18" mdate="2019-02-06">
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="188/5858">Christos Sakaridis</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Domain Adaptive Faster R-CNN for Object Detection in the Wild.</title>
+<pages>3339-3348</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00352</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00352</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#Chen0SDG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhangO0018" mdate="2020-09-05">
+<author pid="151/8859">Weichen Zhang</author>
+<author orcid="0000-0002-9163-2761" pid="17/7992">Wanli Ouyang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Collaborative and Adversarial Network for Unsupervised Domain Adaptation.</title>
+<pages>3801-3809</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Collaborative_and_Adversarial_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00400</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00400</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#ZhangO0018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Chen0G18" mdate="2019-02-06">
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes.</title>
+<pages>7892-7901</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00823</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00823</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#Chen0G18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/WangOLX18" mdate="2020-05-15">
+<author orcid="0000-0001-5805-0244" pid="175/1467">Dongang Wang</author>
+<author orcid="0000-0002-9163-2761" pid="17/7992">Wanli Ouyang</author>
+<author orcid="0000-0002-5559-8594" pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Dividing and Aggregating Network for Multi-view Action Recognition.</title>
+<pages>457-473</pages>
+<year>2018</year>
+<booktitle>ECCV (9)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01240-3_28</ee>
+<crossref>conf/eccv/2018-9</crossref>
+<url>db/conf/eccv/eccv2018-9.html#WangOLX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Yan0WMTW18" mdate="2019-08-20">
+<author pid="154/0064">Yuguang Yan</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="200/9625">Hanrui Wu</author>
+<author pid="73/6274">Huaqing Min</author>
+<author pid="49/2007">Mingkui Tan</author>
+<author pid="42/8374">Qingyao Wu</author>
+<title>Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation.</title>
+<pages>2969-2975</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/412</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#Yan0WMTW18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-03243" mdate="2018-08-13">
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="188/5858">Christos Sakaridis</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Domain Adaptive Faster R-CNN for Object Detection in the Wild.</title>
+<year>2018</year>
+<volume>abs/1803.03243</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.03243</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-03243</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-02201" mdate="2018-08-13">
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="150/4235">Till Kroeger</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Ensemble Manifold Segmentation for Model Distillation and Semi-supervised Learning.</title>
+<year>2018</year>
+<volume>abs/1804.02201</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.02201</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-02201</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-05040" mdate="2021-01-18">
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="184/3448">Xiaoran Chen</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach.</title>
+<year>2018</year>
+<volume>abs/1812.05040</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.05040</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-05040</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-05418" mdate="2019-01-01">
+<author pid="75/1938">Rui Gong</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>DLOW: Domain Flow for Adaptation and Generalization.</title>
+<year>2018</year>
+<volume>abs/1812.05418</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.05418</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-05418</url>
+</article>
+</r>
+<r><article key="journals/tnn/NiuLXC17" mdate="2020-06-10">
+<author pid="02/3166-2">Li Niu 0002</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author orcid="0000-0003-2775-9730" pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>Visual Recognition by Learning From Web Data via Weakly Supervised Domain Generalization.</title>
+<pages>1985-1999</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TNNLS.2016.2557349</ee>
+<ee>https://www.wikidata.org/entity/Q31105038</ee>
+<url>db/journals/tnn/tnn28.html#NiuLXC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccvw/WangLDG17" mdate="2018-04-19">
+<author pid="00/555">Yifei Wang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Deep Domain Adaptation by Geodesic Distance Minimization.</title>
+<pages>2651-2657</pages>
+<year>2017</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2017.315</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCVW.2017.315</ee>
+<crossref>conf/iccvw/2017</crossref>
+<url>db/conf/iccvw/iccvw2017.html#WangLDG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/YanLNTWMW17" mdate="2019-08-20">
+<author pid="154/0064">Yuguang Yan</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="n/MichaelKNg">Michael K. P. Ng</author>
+<author pid="49/2007">Mingkui Tan</author>
+<author pid="200/9625">Hanrui Wu</author>
+<author pid="73/6274">Huaqing Min</author>
+<author pid="42/8374">Qingyao Wu</author>
+<title>Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation.</title>
+<pages>3252-3258</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/454</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#YanLNTWMW17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LiWLABGSG17" mdate="2021-03-15">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="68/6610-2">Limin Wang 0002</author>
+<author pid="64/6025-44">Wei Li 0044</author>
+<author pid="143/7107">Eirikur Agustsson</author>
+<author pid="81/397">Jesse Berent</author>
+<author pid="36/7024-1">Abhinav Gupta 0001</author>
+<author pid="57/3775">Rahul Sukthankar</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>WebVision Challenge: Visual Learning and Understanding With Web Data.</title>
+<year>2017</year>
+<volume>abs/1705.05640</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.05640</ee>
+<url>db/journals/corr/corr1705.html#LiWLABGSG17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WuHLG17" mdate="2018-08-13">
+<author pid="05/7556">Jiqing Wu</author>
+<author pid="47/7711">Zhiwu Huang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Generative Autotransporters.</title>
+<year>2017</year>
+<volume>abs/1706.02631</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.02631</ee>
+<url>db/journals/corr/corr1706.html#WuHLG17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WangLDG17" mdate="2018-08-13">
+<author pid="00/555">Yifei Wang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Deep Domain Adaptation by Geodesic Distance Minimization.</title>
+<year>2017</year>
+<volume>abs/1707.09842</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.09842</ee>
+<url>db/journals/corr/corr1707.html#WangLDG17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-02862" mdate="2021-03-15">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="68/6610-2">Limin Wang 0002</author>
+<author pid="64/6025-44">Wei Li 0044</author>
+<author pid="143/7107">Eirikur Agustsson</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>WebVision Database: Visual Learning and Understanding from Web Data.</title>
+<year>2017</year>
+<volume>abs/1708.02862</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.02862</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-02862</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-09125" mdate="2021-03-15">
+<author pid="68/6610-2">Limin Wang 0002</author>
+<author pid="64/6025-44">Wei Li 0044</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Appearance-and-Relation Networks for Video Classification.</title>
+<year>2017</year>
+<volume>abs/1711.09125</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.09125</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-09125</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-11556" mdate="2018-08-13">
+<author pid="92/2973">Yuhua Chen</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes.</title>
+<year>2017</year>
+<volume>abs/1711.11556</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.11556</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-11556</url>
+</article>
+</r>
+<r><article key="journals/ijcv/NiuLX16" mdate="2020-03-13">
+<author pid="02/3166-2">Li Niu 0002</author>
+<author orcid="0000-0002-5559-8594" pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Exploiting Privileged Information from Web Data for Action and Event Recognition.</title>
+<pages>130-150</pages>
+<year>2016</year>
+<volume>118</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11263-015-0862-5</ee>
+<url>db/journals/ijcv/ijcv118.html#NiuLX16</url>
+</article>
+</r>
+<r><article key="journals/pami/XuLXT16" mdate="2019-09-25">
+<author pid="15/10654">Xinxing Xu</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor W. Tsang</author>
+<title>Co-Labeling for Multi-View Weakly Labeled Learning.</title>
+<pages>1113-1125</pages>
+<year>2016</year>
+<volume>38</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPAMI.2015.2476813</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2015.2476813</ee>
+<ee>https://www.wikidata.org/entity/Q40558002</ee>
+<url>db/journals/pami/pami38.html#XuLXT16</url>
+</article>
+</r>
+<r><article key="journals/tmm/YanNLGYX16" mdate="2020-12-29">
+<author orcid="0000-0001-9108-6767" pid="13/3953-6">Yan Yan 0006</author>
+<author orcid="0000-0002-0871-6519" pid="80/5755">Feiping Nie 0001</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="82/9201">Chenqiang Gao</author>
+<author orcid="0000-0002-0512-880X" pid="33/4854-1">Yi Yang 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Image Classification by Cross-Media Active Learning With Privileged Information.</title>
+<pages>2494-2502</pages>
+<year>2016</year>
+<volume>18</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TMM.2016.2602938</ee>
+<url>db/journals/tmm/tmm18.html#YanNLGYX16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiDTXG16" mdate="2018-04-02">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="98/8616">Dengxin Dai</author>
+<author pid="49/2007">Mingkui Tan</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Fast Algorithms for Linear and Kernel SVM+.</title>
+<pages>2258-2266</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.248</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2016.248</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#LiDTXG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tnn/XuLX15" mdate="2020-03-09">
+<author pid="15/10654">Xinxing Xu</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Distance Metric Learning Using Privileged Information for Face Verification and Person Re-Identification.</title>
+<pages>3150-3162</pages>
+<year>2015</year>
+<volume>26</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TNNLS.2015.2405574</ee>
+<ee>https://www.wikidata.org/entity/Q41203142</ee>
+<url>db/journals/tnn/tnn26.html#XuLX15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/NiuLX15" mdate="2018-04-02">
+<author pid="02/3166-2">Li Niu 0002</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Visual recognition by learning from web data: A weakly supervised domain generalization approach.</title>
+<pages>2774-2783</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7298894</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7298894</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#NiuLX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/XiaoLXT15" mdate="2018-04-02">
+<author pid="135/4891">Shijie Xiao</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author pid="46/3391">Dacheng Tao</author>
+<title>FaLRR: A fast low rank representation solver.</title>
+<pages>4612-4620</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7299092</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7299092</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#XiaoLXT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/NiuLX15" mdate="2019-02-11">
+<author pid="02/3166-2">Li Niu 0002</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Multi-view Domain Generalization for Visual Recognition.</title>
+<pages>4193-4201</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.477</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.477</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#NiuLX15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/LiDXT14" mdate="2018-11-14">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="54/7057">Lixin Duan</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor W. Tsang</author>
+<title>Learning With Augmented Features for Supervised and Semi-Supervised Heterogeneous Domain Adaptation.</title>
+<pages>1134-1148</pages>
+<year>2014</year>
+<volume>36</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPAMI.2013.167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.167</ee>
+<ee>https://www.wikidata.org/entity/Q40558299</ee>
+<url>db/journals/pami/pami36.html#LiDXT14</url>
+</article>
+</r>
+<r><article key="journals/tcyb/CuiLXSCL14" mdate="2020-05-22">
+<author pid="59/8491">Zhen Cui</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author orcid="0000-0002-0019-4197" pid="l/XuelongLi">Xuelong Li</author>
+<title>Flowing on Riemannian Manifold: Domain Adaptation by Shifting Covariance.</title>
+<pages>2264-2273</pages>
+<year>2014</year>
+<volume>44</volume>
+<journal>IEEE Trans. Cybern.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCYB.2014.2305701</ee>
+<ee>https://www.wikidata.org/entity/Q62794641</ee>
+<url>db/journals/tcyb/tcyb44.html#CuiLXSCL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ChenLX14" mdate="2019-05-27">
+<author pid="13/3479-21">Lin Chen 0021</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Recognizing RGB Images by Learning from RGB-D Data.</title>
+<pages>1418-1425</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.184</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2014.184</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#ChenLX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LiNX14" mdate="2018-04-02">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="02/3166-2">Li Niu 0002</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Exploiting Privileged Information from Web Data for Image Categorization.</title>
+<pages>437-452</pages>
+<year>2014</year>
+<booktitle>ECCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10602-1_29</ee>
+<crossref>conf/eccv/2014-5</crossref>
+<url>db/conf/eccv/eccv2014-5.html#LiNX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/XuLNX14" mdate="2018-04-02">
+<author pid="83/2535-2">Zheng Xu 0002</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="02/3166-2">Li Niu 0002</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Exploiting Low-Rank Structure from Latent Domains for Domain Generalization.</title>
+<pages>628-643</pages>
+<year>2014</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10578-9_41</ee>
+<crossref>conf/eccv/2014-3</crossref>
+<url>db/conf/eccv/eccv2014-3.html#XuLNX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/DuanXLCWW014" mdate="2020-08-21">
+<author pid="54/7057">Lixin Duan</author>
+<author orcid="0000-0002-1779-931X" pid="59/9180">Yanwu Xu 0001</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="13/3479-21">Lin Chen 0021</author>
+<author pid="20/5565">Damon Wing Kee Wong</author>
+<author pid="69/6707">Tien Yin Wong</author>
+<author pid="23/108-1">Jiang Liu 0001</author>
+<title>Incorporating Privileged Genetic Information for Fundus Image Based Glaucoma Detection.</title>
+<pages>204-211</pages>
+<year>2014</year>
+<booktitle>MICCAI (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-10470-6_26</ee>
+<ee>https://www.wikidata.org/entity/Q62497540</ee>
+<crossref>conf/miccai/2014-2</crossref>
+<url>db/conf/miccai/miccai2014-2.html#DuanXLCWW014</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/KanXSLC13" mdate="2020-05-10">
+<author pid="21/9606">Meina Kan</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Learning Prototype Hyperplanes for Face Verification in the Wild.</title>
+<pages>3310-3316</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TIP.2013.2256918</ee>
+<ee>https://www.wikidata.org/entity/Q43804396</ee>
+<url>db/journals/tip/tip22.html#KanXSLC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/CuiLXSC13" mdate="2018-04-02">
+<author pid="59/8491">Zhen Cui</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild.</title>
+<pages>3554-3561</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.456</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.456</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#CuiLXSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/LiuXHLXL13" mdate="2021-04-09">
+<author pid="96/5459">Huiying Liu</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author pid="68/4388">Qingming Huang</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author orcid="0000-0001-9581-8849" pid="09/0-1">Min Xu 0001</author>
+<author pid="55/4755">Stephen Lin</author>
+<title>Semantically-Based Human Scanpath Estimation with HMMs.</title>
+<pages>3232-3239</pages>
+<year>2013</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2013.401</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2013.401</ee>
+<crossref>conf/iccv/2013</crossref>
+<url>db/conf/iccv/iccv2013.html#LiuXHLXL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiDTX12" mdate="2018-11-24">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="54/7057">Lixin Duan</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor Wai-Hung Tsang</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Batch mode Adaptive Multiple Instance Learning for computer vision tasks.</title>
+<pages>2368-2375</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247949</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247949</ee>
+<ee>https://www.wikidata.org/entity/Q58827868</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#LiDTX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/LiDTX12" mdate="2018-11-24">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="54/7057">Lixin Duan</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor Wai-Hung Tsang</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Co-labeling: A New Multi-view Learning Approach for Ambiguous Problems.</title>
+<pages>419-428</pages>
+<year>2012</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2012.78</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2012.78</ee>
+<ee>https://www.wikidata.org/entity/Q58827871</ee>
+<crossref>conf/icdm/2012</crossref>
+<url>db/conf/icdm/icdm2012.html#LiDTX12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/DuanLTX11" mdate="2020-05-10">
+<author pid="54/7057">Lixin Duan</author>
+<author pid="06/721-1">Wen Li 0001</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor Wai-Hung Tsang</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<title>Improving Web Image Search by Bag-Based Reranking.</title>
+<pages>3280-3290</pages>
+<year>2011</year>
+<volume>20</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIP.2011.2159227</ee>
+<ee>https://www.wikidata.org/entity/Q38489763</ee>
+<url>db/journals/tip/tip20.html#DuanLTX11</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/LiDXT11" mdate="2018-11-24">
+<author pid="06/721-1">Wen Li 0001</author>
+<author pid="54/7057">Lixin Duan</author>
+<author pid="09/3493-1">Dong Xu 0001</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor Wai-Hung Tsang</author>
+<title>Text-based image retrieval using progressive multi-instance learning.</title>
+<pages>2049-2055</pages>
+<year>2011</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2011.6126478</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2011.6126478</ee>
+<ee>https://www.wikidata.org/entity/Q58827903</ee>
+<crossref>conf/iccv/2011</crossref>
+<url>db/conf/iccv/iccv2011.html#LiDXT11</url>
+</inproceedings>
+</r>
+<coauthors n="71" nc="1">
+<co c="0"><na f="a/Acharya:Dinesh" pid="195/3691">Dinesh Acharya</na></co>
+<co c="0"><na f="a/Agustsson:Eirikur" pid="143/7107">Eirikur Agustsson</na></co>
+<co c="0"><na f="b/Berent:Jesse" pid="81/397">Jesse Berent</na></co>
+<co c="0"><na f="c/Cai_0001:Jianfei" pid="83/6096">Jianfei Cai 0001</na></co>
+<co c="0"><na f="c/Chen_0021:Lin" pid="13/3479-21">Lin Chen 0021</na></co>
+<co c="0"><na f="c/Chen:Xiaoran" pid="184/3448">Xiaoran Chen</na></co>
+<co c="0"><na f="c/Chen:Xilin" pid="c/XilinChen">Xilin Chen</na></co>
+<co c="0"><na f="c/Chen:Yuhua" pid="92/2973">Yuhua Chen</na></co>
+<co c="0"><na f="c/Chhatkuli:Ajad" pid="149/7655">Ajad Chhatkuli</na></co>
+<co c="0"><na f="c/Cholakkal:Hisham" pid="129/2046">Hisham Cholakkal</na></co>
+<co c="0"><na f="c/Cui:Zhen" pid="59/8491">Zhen Cui</na></co>
+<co c="0"><na f="d/Dai:Dengxin" pid="98/8616">Dengxin Dai</na></co>
+<co c="0"><na f="d/Danelljan:Martin" pid="151/8848">Martin Danelljan</na></co>
+<co c="0"><na f="d/Deng:Jinhong" pid="260/0959">Jinhong Deng</na></co>
+<co c="0"><na f="d/Duan:Lixin" pid="54/7057">Lixin Duan</na></co>
+<co c="0"><na f="f/Fink:Olga" pid="130/8190">Olga Fink</na></co>
+<co c="0"><na f="g/Gao:Chenqiang" pid="82/9201">Chenqiang Gao</na></co>
+<co c="0"><na f="g/Gong:Rui" pid="75/1938">Rui Gong</na></co>
+<co c="0"><na f="g/Gool:Luc_Van" pid="61/5017">Luc Van Gool</na></co>
+<co c="0"><na f="g/Gu:Shuhang" pid="126/1028">Shuhang Gu</na></co>
+<co c="0"><na f="g/Gupta_0001:Abhinav" pid="36/7024-1">Abhinav Gupta 0001</na></co>
+<co c="0"><na f="h/Huang:Qingming" pid="68/4388">Qingming Huang</na></co>
+<co c="0"><na f="h/Huang:Zhiwu" pid="47/7711">Zhiwu Huang</na></co>
+<co c="0"><na f="k/Kan:Meina" pid="21/9606">Meina Kan</na></co>
+<co c="0"><na f="k/Khan:Fahad_Shahbaz" pid="05/8618">Fahad Shahbaz Khan</na></co>
+<co c="0"><na f="k/Khan:Salman" pid="32/6735">Salman Khan</na></co>
+<co c="0"><na f="k/Kroeger:Till" pid="150/4235">Till Kroeger</na></co>
+<co c="0"><na f="l/Li_0044:Wei" pid="64/6025-44">Wei Li 0044</na></co>
+<co c="0"><na f="l/Li:Xuelong" pid="l/XuelongLi">Xuelong Li</na></co>
+<co c="0"><na f="l/Li:Yawei" pid="32/6740">Yawei Li</na></co>
+<co c="0"><na f="l/Lin:Stephen" pid="55/4755">Stephen Lin</na></co>
+<co c="0"><na f="l/Liu:Huiying" pid="96/5459">Huiying Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Jiang" pid="23/108-1">Jiang Liu 0001</na></co>
+<co c="0"><na f="m/Min:Huaqing" pid="73/6274">Huaqing Min</na></co>
+<co c="0" n="2"><na f="n/Ng:Michael_Kwok=Po" pid="n/MichaelKNg">Michael Kwok-Po Ng</na><na>Michael K. P. Ng</na></co>
+<co c="0"><na f="n/Nie_0001:Feiping" pid="80/5755">Feiping Nie 0001</na></co>
+<co c="0"><na f="n/Niu_0002:Li" pid="02/3166-2">Li Niu 0002</na></co>
+<co c="0"><na f="o/Ouyang:Wanli" pid="17/7992">Wanli Ouyang</na></co>
+<co c="0"><na f="p/Paudel:Danda_Pani" pid="151/8836">Danda Pani Paudel</na></co>
+<co c="0"><na f="s/Sakaridis:Christos" pid="188/5858">Christos Sakaridis</na></co>
+<co c="0"><na f="s/Shan:Shiguang" pid="s/ShiguangShan">Shiguang Shan</na></co>
+<co c="0"><na f="s/Sukthankar:Rahul" pid="57/3775">Rahul Sukthankar</na></co>
+<co c="0"><na f="s/Sun:Guolei" pid="207/7679">Guolei Sun</na></co>
+<co c="0"><na f="t/Tan:Mingkui" pid="49/2007">Mingkui Tan</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0"><na f="t/Thoma:Janine" pid="202/3796">Janine Thoma</na></co>
+<co c="0"><na f="t/Tian:Yuan" pid="39/5423">Yuan Tian</na></co>
+<co c="0"><na f="t/Timofte:Radu" pid="24/8616">Radu Timofte</na></co>
+<co c="0" n="2"><na f="t/Tsang:Ivor_W=" pid="35/5873">Ivor W. Tsang</na><na>Ivor Wai-Hung Tsang</na></co>
+<co c="0"><na f="w/Wang:Dongang" pid="175/1467">Dongang Wang</na></co>
+<co c="0"><na f="w/Wang_0012:Jun" pid="w/JunWang12">Jun Wang 0012</na></co>
+<co c="0"><na f="w/Wang_0002:Limin" pid="68/6610-2">Limin Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0013:Qin" pid="35/1647-13">Qin Wang 0013</na></co>
+<co c="0"><na f="w/Wang:Yifei" pid="00/555">Yifei Wang</na></co>
+<co c="0"><na f="w/Wong:Damon_Wing_Kee" pid="20/5565">Damon Wing Kee Wong</na></co>
+<co c="0"><na f="w/Wong:Tien_Yin" pid="69/6707">Tien Yin Wong</na></co>
+<co c="0"><na f="w/Wu:Hanrui" pid="200/9625">Hanrui Wu</na></co>
+<co c="0"><na f="w/Wu:Jiqing" pid="05/7556">Jiqing Wu</na></co>
+<co c="0"><na f="w/Wu:Qingyao" pid="42/8374">Qingyao Wu</na></co>
+<co c="0"><na f="x/Xiao:Shijie" pid="135/4891">Shijie Xiao</na></co>
+<co c="0"><na f="x/Xu_0001:Dong" pid="09/3493-1">Dong Xu 0001</na></co>
+<co c="0"><na f="x/Xu_0001:Min" pid="09/0-1">Min Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Xinxing" pid="15/10654">Xinxing Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Yanwu" pid="59/9180">Yanwu Xu 0001</na></co>
+<co c="0"><na f="x/Xu_0002:Zheng" pid="83/2535-2">Zheng Xu 0002</na></co>
+<co c="0"><na f="y/Yan_0006:Yan" pid="13/3953-6">Yan Yan 0006</na></co>
+<co c="0"><na f="y/Yan:Yuguang" pid="154/0064">Yuguang Yan</na></co>
+<co c="0"><na f="y/Yang:Minghao" pid="12/1916">Minghao Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Yi" pid="33/4854-1">Yi Yang 0001</na></co>
+<co c="0"><na f="z/Zhang_0008:Kai" pid="55/957-8">Kai Zhang 0008</na></co>
+<co c="0"><na f="z/Zhang:Weichen" pid="151/8859">Weichen Zhang</na></co>
+</coauthors>
+</dblpperson>
+

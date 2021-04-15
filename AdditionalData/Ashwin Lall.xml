@@ -1,3 +1,557 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:829c921aa90b9e6ef6e0e6d0f355dc1d8d91c7622a88979df5a51232b2cc9503
-size 24343
+<?xml version="1.0"?>
+<dblpperson name="Ashwin Lall" pid="84/4407" n="35">
+<person key="homepages/84/4407" mdate="2009-06-10">
+<author pid="84/4407">Ashwin Lall</author>
+</person>
+<r><article key="journals/vldb/XieWL20" mdate="2020-02-06">
+<author orcid="0000-0003-2356-782X" pid="36/844">Min Xie</author>
+<author orcid="0000-0001-7045-6503" pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query.</title>
+<pages>147-175</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-019-00570-z</ee>
+<url>db/journals/vldb/vldb29.html#XieWL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssdbm/FarrowLZL20" mdate="2020-08-01">
+<author pid="271/3817">Emily Farrow</author>
+<author pid="74/8487">Junbo Li</author>
+<author pid="190/3182">Farhan Zaki</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Accessible Streaming Algorithms for the Chi-Square Test.</title>
+<pages>2:1-2:12</pages>
+<year>2020</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3400903.3400905</ee>
+<crossref>conf/ssdbm/2020</crossref>
+<url>db/conf/ssdbm/ssdbm2020.html#FarrowLZL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/XieWL19" mdate="2019-06-22">
+<author pid="36/844">Min Xie</author>
+<author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Strongly Truthful Interactive Regret Minimization.</title>
+<pages>281-298</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3300068</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#XieWL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/XieW0LL18" mdate="2018-11-21">
+<author pid="36/844">Min Xie</author>
+<author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="58/10813">Cheng Long</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Efficient k-Regret Query Algorithm with Restriction-free Bound for any Dimensionality.</title>
+<pages>959-974</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196903</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#XieW0LL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MayDDL17" mdate="2021-01-23">
+<author orcid="0000-0002-1655-6527" pid="148/8937">Chandler May</author>
+<author pid="58/3217">Kevin Duh</author>
+<author pid="06/4775">Benjamin Van Durme</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Streaming Word Embeddings with the Space-Saving Algorithm.</title>
+<year>2017</year>
+<volume>abs/1704.07463</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.07463</ee>
+<url>db/journals/corr/corr1704.html#MayDDL17</url>
+</article>
+</r>
+<r><article key="journals/isci/JinLXZZ16" mdate="2017-05-27">
+<author pid="41/2511">Cheqing Jin</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<author pid="18/58">Zhigang Zhang</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Distributed error estimation of functional dependency.</title>
+<pages>156-176</pages>
+<year>2016</year>
+<volume>345</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2016.01.051</ee>
+<url>db/journals/isci/isci345.html#JinLXZZ16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FaulknerBL15" mdate="2020-04-25">
+<author pid="168/0303">Taylor Kessler Faulkner</author>
+<author pid="168/0291">Will Brackenbury</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>k-Regret Queries with Nonlinear Utilities.</title>
+<pages>2098-2109</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2098-kesslerfaulkner.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831364</ee>
+<url>db/journals/pvldb/pvldb8.html#FaulknerBL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/Lall15" mdate="2021-03-31">
+<author pid="84/4407">Ashwin Lall</author>
+<title>Data streaming algorithms for the Kolmogorov-Smirnov test.</title>
+<pages>95-104</pages>
+<year>2015</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2015.7363746</ee>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#Lall15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/ChalermsookSLN15" mdate="2018-11-06">
+<author pid="50/1947">Parinya Chalermsook</author>
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="61/2421">Danupon Nanongkai</author>
+<title>Social Network Monetization via Sponsored Viral Marketing.</title>
+<pages>259-270</pages>
+<year>2015</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/2745844.2745853</ee>
+<crossref>conf/sigmetrics/2015</crossref>
+<url>db/conf/sigmetrics/sigmetrics2015.html#ChalermsookSLN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/OsborneLD14" mdate="2020-01-28">
+<author pid="90/2594">Miles Osborne</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="06/4775">Benjamin Van Durme</author>
+<title>Exponential Reservoir Sampling for Streaming Language Models.</title>
+<pages>687-692</pages>
+<year>2014</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p14-2112</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P14-2112/</ee>
+<crossref>conf/acl/2014-2</crossref>
+<url>db/conf/acl/acl2014-2.html#OsborneLD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/YuGLWXY14" mdate="2018-11-06">
+<author pid="155/5780">Zhenglin Yu</author>
+<author pid="76/5778">Zihui Ge</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="58/6299-1">Jia Wang 0001</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<author pid="60/6705">He Yan</author>
+<title>Crossroads: A Practical Data Sketching Solution for Mining Intersection of Streams.</title>
+<pages>223-234</pages>
+<year>2014</year>
+<booktitle>Internet Measurement Conference</booktitle>
+<ee>https://doi.org/10.1145/2663716.2663733</ee>
+<crossref>conf/imc/2014</crossref>
+<url>db/conf/imc/imc2014.html#YuGLWXY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/HuangYLRXL14" mdate="2020-09-02">
+<author pid="57/7478">Jiwei Huang</author>
+<author pid="90/4655-1">Sen Yang 0001</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="77/4461">Justin K. Romberg</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<author pid="53/2571">Chuang Lin</author>
+<title>Error estimating codes for insertion and deletion channels.</title>
+<pages>381-393</pages>
+<year>2014</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/2591971.2591976</ee>
+<crossref>conf/sigmetrics/2014</crossref>
+<url>db/conf/sigmetrics/sigmetrics2014.html#HuangYLRXL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/HuaLLX12" mdate="2017-05-16">
+<author pid="28/5824">Nan Hua</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="l/BaochunLi">Baochun Li</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>A simpler and better design of error estimating coding.</title>
+<pages>235-243</pages>
+<year>2012</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2012.6195624</ee>
+<crossref>conf/infocom/2012</crossref>
+<url>db/conf/infocom/infocom2012.html#HuaLLX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/SarmaLNT12" mdate="2018-11-06">
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="68/3831">Amitabh Trehan</author>
+<title>Brief announcement: maintaining large dense subgraphs on dynamic networks.</title>
+<pages>229-230</pages>
+<year>2012</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/2332432.2332474</ee>
+<crossref>conf/podc/2012</crossref>
+<url>db/conf/podc/podc2012.html#SarmaLNT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/HuaLLX12" mdate="2018-11-06">
+<author pid="28/5824">Nan Hua</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="l/BaochunLi">Baochun Li</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Towards optimal error-estimating codes through the lens of Fisher information analysis.</title>
+<pages>125-136</pages>
+<year>2012</year>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/2254756.2254773</ee>
+<crossref>conf/sigmetrics/2012</crossref>
+<url>db/conf/sigmetrics/sigmetrics2012.html#HuaLLX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NanongkaiLSM12" mdate="2018-11-06">
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="04/3674">Kazuhisa Makino</author>
+<title>Interactive regret minimization.</title>
+<pages>109-120</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213850</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#NanongkaiLSM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/SarmaLNT12" mdate="2017-05-19">
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="68/3831">Amitabh Trehan</author>
+<title>Dense Subgraphs on Dynamic Networks.</title>
+<pages>151-165</pages>
+<year>2012</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33651-5_11</ee>
+<crossref>conf/wdag/2012</crossref>
+<url>db/conf/wdag/disc2012.html#SarmaLNT12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-1454" mdate="2018-08-13">
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="68/3831">Amitabh Trehan</author>
+<title>Dense Subgraphs on Dynamic Networks</title>
+<ee type="oa">http://arxiv.org/abs/1208.1454</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.1454</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-1454</url>
+</article>
+</r>
+<r><article key="journals/jnsm/HuangLCX11" mdate="2020-09-24">
+<author pid="15/8356">Guanyao Huang</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author orcid="0000-0002-2772-387X" pid="47/4465">Chen-Nee Chuah</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Uncovering Global Icebergs in Distributed Streams: Results and Implications.</title>
+<pages>84-110</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10922-010-9186-5</ee>
+<url>db/journals/jnsm/jnsm19.html#HuangLCX11</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/DurmeL11" mdate="2019-09-13">
+<author pid="06/4775">Benjamin Van Durme</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Efficient Online Locality Sensitive Hashing via Reservoir Counting.</title>
+<pages>18-23</pages>
+<year>2011</year>
+<booktitle>ACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P11-2004/</ee>
+<crossref>conf/acl/2011s</crossref>
+<url>db/conf/acl/acl2011s.html#DurmeL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SarmaLNLX11" mdate="2017-05-17">
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="l/RichardJLipton">Richard J. Lipton</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Representative skylines using threshold-based preference distributions.</title>
+<pages>387-398</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767873</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767873</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#SarmaLNLX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/npc/ZhaoHLLWX11" mdate="2018-06-26">
+<author pid="72/2154">Haiquan (Chuck) Zhao</author>
+<author pid="28/5824">Nan Hua</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="62/5860">Ping Li</author>
+<author pid="58/6299-1">Jia Wang 0001</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Towards a Universal Sketch for Origin-Destination Network Measurements.</title>
+<pages>201-213</pages>
+<year>2011</year>
+<booktitle>NPC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-24403-2_17</ee>
+<crossref>conf/npc/2011</crossref>
+<url>db/conf/npc/npc2011.html#ZhaoHLLWX11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/NanongkaiSLLX10" mdate="2020-04-25">
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="l/RichardJLipton">Richard J. Lipton</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Regret-Minimizing Representative Databases.</title>
+<pages>1114-1124</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R99.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920980</ee>
+<url>db/journals/pvldb/pvldb3.html#NanongkaiSLLX10</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/DurmeL10" mdate="2019-09-13">
+<author pid="06/4775">Benjamin Van Durme</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Online Generation of Locality Sensitive Hash Signatures.</title>
+<pages>231-235</pages>
+<year>2010</year>
+<booktitle>ACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P10-2043/</ee>
+<crossref>conf/acl/2010s</crossref>
+<url>db/conf/acl/acl2010s.html#DurmeL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhaoLOX10" mdate="2020-10-25">
+<author pid="72/2154">Haiquan (Chuck) Zhao</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author orcid="0000-0002-5690-7854" pid="o/MitsunoriOgihara">Mitsunori Ogihara</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Global iceberg detection over distributed data streams.</title>
+<pages>557-568</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447825</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447825</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ZhaoLOX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wh/HuaLRXaEKS10" mdate="2018-11-06">
+<author pid="28/5824">Nan Hua</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="77/4461">Justin K. Romberg</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<author pid="11/9168">Mustafa al'Absi</author>
+<author pid="70/4039">Emre Ertin</author>
+<author pid="07/2616-1">Santosh Kumar 0001</author>
+<author pid="15/9169">Shikhar Suri</author>
+<title>Just-in-time sampling and pre-filtering for wearable physiological sensors: going from days to weeks of operation on a single charge.</title>
+<pages>54-63</pages>
+<year>2010</year>
+<booktitle>Wireless Health</booktitle>
+<ee>https://doi.org/10.1145/1921081.1921089</ee>
+<crossref>conf/wh/2010</crossref>
+<url>db/conf/wh/wh2010.html#HuaLRXaEKS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SarmaLNX09" mdate="2020-04-25">
+<author pid="46/4888">Atish Das Sarma</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="61/2421">Danupon Nanongkai</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Randomized Multi-pass Streaming Skyline Algorithms.</title>
+<pages>85-96</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-385.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687638</ee>
+<url>db/journals/pvldb/pvldb2.html#SarmaLNX09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/DurmeL09" mdate="2019-08-20">
+<author pid="06/4775">Benjamin Van Durme</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Probabilistic Counting with Randomized Storage.</title>
+<pages>1574-1579</pages>
+<year>2009</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/09/Papers/263.pdf</ee>
+<crossref>conf/ijcai/2009</crossref>
+<url>db/conf/ijcai/ijcai2009.html#DurmeL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LallOX09" mdate="2020-10-25">
+<author pid="84/4407">Ashwin Lall</author>
+<author orcid="0000-0002-5690-7854" pid="o/MitsunoriOgihara">Mitsunori Ogihara</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>An Efficient Algorithm for Measuring Medium- to Large-Sized Flows in Network Traffic.</title>
+<pages>2711-2715</pages>
+<year>2009</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2009.5062217</ee>
+<crossref>conf/infocom/2009</crossref>
+<url>db/conf/infocom/infocom2009.html#LallOX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwqos/HuangLCX09" mdate="2019-09-16">
+<author pid="15/8356">Guanyao Huang</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author orcid="0000-0002-2772-387X" pid="47/4465">Chen-Nee Chuah</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>Uncovering global icebergs in distributed monitors.</title>
+<pages>1-9</pages>
+<year>2009</year>
+<booktitle>IWQoS</booktitle>
+<ee>https://doi.org/10.1109/IWQoS.2009.5201394</ee>
+<crossref>conf/iwqos/2009</crossref>
+<url>db/conf/iwqos/iwqos2009.html#HuangLCX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DurmeL09" mdate="2021-01-21">
+<author pid="06/4775">Benjamin Van Durme</author>
+<author pid="84/4407">Ashwin Lall</author>
+<title>Streaming Pointwise Mutual Information.</title>
+<pages>1892-1900</pages>
+<year>2009</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2009/hash/185c29dc24325934ee377cfda20e414c-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3730-streaming-pointwise-mutual-information</ee>
+<crossref>conf/nips/2009</crossref>
+<url>db/conf/nips/nips2009.html#DurmeL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEscc/LallSB08" mdate="2017-05-24">
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="19/4244">Anca Sailer</author>
+<author pid="52/6450">Mark Brodie</author>
+<title>A Graphical Approach to Providing Infrastructure Recommendations for IT.</title>
+<pages>161-168</pages>
+<year>2008</year>
+<booktitle>IEEE SCC (2)</booktitle>
+<ee>https://doi.org/10.1109/SCC.2008.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2008.23</ee>
+<crossref>conf/IEEEscc/2008</crossref>
+<url>db/conf/IEEEscc/scc2008.html#LallSB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/LallSB08" mdate="2017-05-19">
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="19/4244">Anca Sailer</author>
+<author pid="52/6450">Mark Brodie</author>
+<title>SPIRIT: Service for providing infrastructure recommendations for IT.</title>
+<pages>875-878</pages>
+<year>2008</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2008.4575236</ee>
+<crossref>conf/noms/2008</crossref>
+<url>db/conf/noms/noms2008.html#LallSB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/ZhaoLOSWX07" mdate="2020-10-25">
+<author pid="72/2154">Haiquan (Chuck) Zhao</author>
+<author pid="84/4407">Ashwin Lall</author>
+<author orcid="0000-0002-5690-7854" pid="o/MitsunoriOgihara">Mitsunori Ogihara</author>
+<author pid="44/2433">Oliver Spatscheck</author>
+<author pid="58/6299-1">Jia Wang 0001</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<title>A data streaming algorithm for estimating entropies of od flows.</title>
+<pages>279-290</pages>
+<year>2007</year>
+<booktitle>Internet Measurement Conference</booktitle>
+<ee>https://doi.org/10.1145/1298306.1298345</ee>
+<crossref>conf/imc/2007</crossref>
+<url>db/conf/imc/imc2007.html#ZhaoLOSWX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/LallSOXZ06" mdate="2018-11-14">
+<author pid="84/4407">Ashwin Lall</author>
+<author pid="45/4044">Vyas Sekar</author>
+<author pid="o/MitsunoriOgihara">Mitsunori Ogihara</author>
+<author pid="81/6545">Jun (Jim) Xu</author>
+<author pid="z/HuiZhang1">Hui Zhang 0001</author>
+<title>Data streaming algorithms for estimating entropy of network traffic.</title>
+<pages>145-156</pages>
+<year>2006</year>
+<crossref>conf/sigmetrics/2006</crossref>
+<booktitle>SIGMETRICS/Performance</booktitle>
+<ee>https://doi.org/10.1145/1140277.1140295</ee>
+<ee>https://www.wikidata.org/entity/Q57482560</ee>
+<url>db/conf/sigmetrics/sigmetrics2006.html#LallSOXZ06</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="5">
+<co c="0"><na f="a/al=Absi:Mustafa" pid="11/9168">Mustafa al'Absi</na></co>
+<co c="3"><na f="b/Brackenbury:Will" pid="168/0291">Will Brackenbury</na></co>
+<co c="4"><na f="b/Brodie:Mark" pid="52/6450">Mark Brodie</na></co>
+<co c="0"><na f="c/Chalermsook:Parinya" pid="50/1947">Parinya Chalermsook</na></co>
+<co c="0"><na f="c/Chuah:Chen=Nee" pid="47/4465">Chen-Nee Chuah</na></co>
+<co c="1"><na f="d/Duh:Kevin" pid="58/3217">Kevin Duh</na></co>
+<co c="1"><na f="d/Durme:Benjamin_Van" pid="06/4775">Benjamin Van Durme</na></co>
+<co c="0"><na f="e/Ertin:Emre" pid="70/4039">Emre Ertin</na></co>
+<co c="2"><na f="f/Farrow:Emily" pid="271/3817">Emily Farrow</na></co>
+<co c="3"><na f="f/Faulkner:Taylor_Kessler" pid="168/0303">Taylor Kessler Faulkner</na></co>
+<co c="0"><na f="g/Ge:Zihui" pid="76/5778">Zihui Ge</na></co>
+<co c="0"><na f="h/Hua:Nan" pid="28/5824">Nan Hua</na></co>
+<co c="0"><na f="h/Huang:Guanyao" pid="15/8356">Guanyao Huang</na></co>
+<co c="0"><na f="h/Huang:Jiwei" pid="57/7478">Jiwei Huang</na></co>
+<co c="0"><na f="j/Jin:Cheqing" pid="41/2511">Cheqing Jin</na></co>
+<co c="0"><na f="k/Kumar_0001:Santosh" pid="07/2616-1">Santosh Kumar 0001</na></co>
+<co c="0"><na f="l/Li:Baochun" pid="l/BaochunLi">Baochun Li</na></co>
+<co c="0"><na f="l/Li_0015:Jian" pid="33/5448-15">Jian Li 0015</na></co>
+<co c="2"><na f="l/Li:Junbo" pid="74/8487">Junbo Li</na></co>
+<co c="0"><na f="l/Li:Ping" pid="62/5860">Ping Li</na></co>
+<co c="0"><na f="l/Lin:Chuang" pid="53/2571">Chuang Lin</na></co>
+<co c="0"><na f="l/Lipton:Richard_J=" pid="l/RichardJLipton">Richard J. Lipton</na></co>
+<co c="0"><na f="l/Long:Cheng" pid="58/10813">Cheng Long</na></co>
+<co c="0"><na f="m/Makino:Kazuhisa" pid="04/3674">Kazuhisa Makino</na></co>
+<co c="1"><na f="m/May:Chandler" pid="148/8937">Chandler May</na></co>
+<co c="0"><na f="n/Nanongkai:Danupon" pid="61/2421">Danupon Nanongkai</na></co>
+<co c="0"><na f="o/Ogihara:Mitsunori" pid="o/MitsunoriOgihara">Mitsunori Ogihara</na></co>
+<co c="1"><na f="o/Osborne:Miles" pid="90/2594">Miles Osborne</na></co>
+<co c="0"><na f="r/Romberg:Justin_K=" pid="77/4461">Justin K. Romberg</na></co>
+<co c="4"><na f="s/Sailer:Anca" pid="19/4244">Anca Sailer</na></co>
+<co c="0"><na f="s/Sarma:Atish_Das" pid="46/4888">Atish Das Sarma</na></co>
+<co c="0"><na f="s/Sekar:Vyas" pid="45/4044">Vyas Sekar</na></co>
+<co c="0"><na f="s/Spatscheck:Oliver" pid="44/2433">Oliver Spatscheck</na></co>
+<co c="0"><na f="s/Suri:Shikhar" pid="15/9169">Shikhar Suri</na></co>
+<co c="0"><na f="t/Trehan:Amitabh" pid="68/3831">Amitabh Trehan</na></co>
+<co c="0"><na f="w/Wang_0001:Jia" pid="58/6299-1">Jia Wang 0001</na></co>
+<co c="0"><na f="w/Wong:Raymond_Chi=Wing" pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</na></co>
+<co c="0"><na f="x/Xie:Min" pid="36/844">Min Xie</na></co>
+<co c="0"><na f="x/Xu:Jun_=Jim=" pid="81/6545">Jun (Jim) Xu</na></co>
+<co c="0"><na f="y/Yan:He" pid="60/6705">He Yan</na></co>
+<co c="0"><na f="y/Yang_0001:Sen" pid="90/4655-1">Sen Yang 0001</na></co>
+<co c="0"><na f="y/Yu:Zhenglin" pid="155/5780">Zhenglin Yu</na></co>
+<co c="2"><na f="z/Zaki:Farhan" pid="190/3182">Farhan Zaki</na></co>
+<co c="0"><na f="z/Zhang_0001:Hui" pid="z/HuiZhang1">Hui Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Zhigang" pid="18/58">Zhigang Zhang</na></co>
+<co c="0"><na f="z/Zhao:Haiquan_=Chuck=" pid="72/2154">Haiquan (Chuck) Zhao</na></co>
+<co c="0"><na f="z/Zhou:Aoying" pid="z/AoyingZhou">Aoying Zhou</na></co>
+</coauthors>
+</dblpperson>
+

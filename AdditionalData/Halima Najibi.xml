@@ -1,3 +1,92 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c922569c2e6a94f5158fa2e501a1b9aca4e2d0dbc4a44d1c7ddfcb984e774e3
-size 4362
+<?xml version="1.0"?>
+<dblpperson name="Halima Najibi" pid="136/5831" n="5">
+<person key="homepages/136/5831" mdate="2013-11-04">
+<author pid="136/5831">Halima Najibi</author>
+</person>
+<r><inproceedings key="conf/glvlsi/NajibiLZAA20" mdate="2021-03-10">
+<author pid="136/5831">Halima Najibi</author>
+<author pid="233/9845">Alexandre Levisse</author>
+<author pid="07/9991">Marina Zapater</author>
+<author pid="74/5309">Mohamed M. Sabry Aly</author>
+<author pid="a/DavidAtienza">David Atienza</author>
+<title>Towards Deeply Scaled 3D MPSoCs with Integrated Flow Cell Array Technology.</title>
+<pages>513-518</pages>
+<year>2020</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3386263.3406923</ee>
+<crossref>conf/glvlsi/2020</crossref>
+<url>db/conf/glvlsi/glvlsi2020.html#NajibiLZAA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/NajibiHLZVA20" mdate="2020-08-12">
+<author pid="136/5831">Halima Najibi</author>
+<author pid="272/2586">Jorge Hunter</author>
+<author pid="233/9845">Alexandre Levisse</author>
+<author pid="07/9991">Marina Zapater</author>
+<author pid="119/0685">Miroslav Vasic</author>
+<author pid="a/DavidAtienza">David Atienza</author>
+<title>Enabling Optimal Power Generation of Flow Cell Arrays in 3D MPSoCs with On-Chip Switched Capacitor Converters.</title>
+<pages>18-23</pages>
+<year>2020</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI49217.2020.00014</ee>
+<crossref>conf/isvlsi/2020</crossref>
+<url>db/conf/isvlsi/isvlsi2020.html#NajibiHLZVA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/NajibiLZ19" mdate="2019-09-09">
+<author pid="136/5831">Halima Najibi</author>
+<author pid="233/9845">Alexandre Levisse</author>
+<author pid="07/9991">Marina Zapater</author>
+<title>A Design Framework for Thermal-Aware Power Delivery Network in 3D MPSoCs with Integrated Flow Cell Arrays.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/ISLPED.2019.8824895</ee>
+<crossref>conf/islped/2019</crossref>
+<url>db/conf/islped/islped2019.html#NajibiLZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/AkinGNSL13" mdate="2019-10-31">
+<author pid="90/7357">Abdulkadir Akin</author>
+<author pid="137/9405">Luis Manuel Gaemperle</author>
+<author pid="136/5831">Halima Najibi</author>
+<author pid="05/1338">Alexandre Schmid</author>
+<author pid="l/YusufLeblebici">Yusuf Leblebici</author>
+<title>Enhanced Compressed Look-up-Table Based Real-Time Rectification Hardware.</title>
+<pages>227-248</pages>
+<year>2013</year>
+<booktitle>VLSI-SoC (Selected Papers)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-23799-2_11</ee>
+<crossref>conf/vlsi/2013socs</crossref>
+<url>db/conf/vlsi/vlsisoc2013s.html#AkinGNSL13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YousefbeikiNP13" mdate="2018-08-13">
+<author pid="131/6486">Mohsen Yousefbeiki</author>
+<author pid="136/5831">Halima Najibi</author>
+<author pid="80/11068">Julien Perruisseau-Carrier</author>
+<title>User Effects in Beam-Space MIMO.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.8057</ee>
+<volume>abs/1310.8057</volume>
+<url>db/journals/corr/corr1310.html#YousefbeikiNP13</url>
+</article>
+</r>
+<coauthors n="12" nc="2">
+<co c="0"><na f="a/Akin:Abdulkadir" pid="90/7357">Abdulkadir Akin</na></co>
+<co c="0"><na f="a/Atienza:David" pid="a/DavidAtienza">David Atienza</na></co>
+<co c="0"><na f="g/Gaemperle:Luis_Manuel" pid="137/9405">Luis Manuel Gaemperle</na></co>
+<co c="0"><na f="h/Hunter:Jorge" pid="272/2586">Jorge Hunter</na></co>
+<co c="0"><na f="l/Leblebici:Yusuf" pid="l/YusufLeblebici">Yusuf Leblebici</na></co>
+<co c="0"><na f="l/Levisse:Alexandre" pid="233/9845">Alexandre Levisse</na></co>
+<co c="1"><na f="p/Perruisseau=Carrier:Julien" pid="80/11068">Julien Perruisseau-Carrier</na></co>
+<co c="0" n="2"><na f="s/Sabry:Mohamed_M=" pid="74/5309">Mohamed M. Sabry</na><na>Mohamed M. Sabry Aly</na></co>
+<co c="0"><na f="s/Schmid:Alexandre" pid="05/1338">Alexandre Schmid</na></co>
+<co c="0"><na f="v/Vasic:Miroslav" pid="119/0685">Miroslav Vasic</na></co>
+<co c="1"><na f="y/Yousefbeiki:Mohsen" pid="131/6486">Mohsen Yousefbeiki</na></co>
+<co c="0"><na f="z/Zapater:Marina" pid="07/9991">Marina Zapater</na></co>
+</coauthors>
+</dblpperson>
+

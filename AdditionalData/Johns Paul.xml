@@ -1,3 +1,931 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b64d7ccbccf946e82568f9e5d110b2b9422ba09b5af70c4afd8f2818af8cd4e5
-size 42242
+<?xml version="1.0"?>
+<dblpperson name="Paul Johns" pid="52/6414" n="53">
+<person key="homepages/52/6414" mdate="2020-01-17">
+<author pid="52/6414">Paul Johns</author>
+<author pid="52/6414">Johns Paul</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2103-14915" mdate="2021-04-07">
+<author pid="224/0965">Shengliang Lu</author>
+<author pid="131/9481">Shixuan Sun</author>
+<author pid="52/6414">Johns Paul</author>
+<author pid="143/0258-1">Yuchen Li 0001</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<title>Cache-Efficient Fork-Processing Patterns on Large Graphs.</title>
+<year>2021</year>
+<volume>abs/2103.14915</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.14915</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-14915</url>
+</article>
+</r>
+<r><article key="journals/dpd/PaulHLL20" mdate="2021-01-09">
+<author orcid="0000-0002-3473-2264" pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="224/0965">Shengliang Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Revisiting hash join on graphics processors: a decade later.</title>
+<pages>771-793</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10619-019-07280-z</ee>
+<url>db/journals/dpd/dpd38.html#PaulHLL20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PaulHLL20" mdate="2021-03-23">
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="224/0965">Shengliang Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Improving Execution Efficiency of Just-in-time Compilation based Query Processing on GPUs.</title>
+<pages>202-214</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p202-paul.pdf</ee>
+<ee>https://doi.org/10.14778/3425879.3425890</ee>
+<url>db/journals/pvldb/pvldb14.html#PaulHLL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACMdis/MariakakisCNBBL20" mdate="2020-09-25">
+<author pid="116/0750">Alex Mariakakis</author>
+<author pid="268/5861">Sifang Chen</author>
+<author pid="199/2862">Bichlien H. Nguyen</author>
+<author pid="268/5266">Kirsten Bray</author>
+<author pid="268/5282">Molly Blank</author>
+<author pid="98/2892">Jonathan Lester</author>
+<author pid="268/5991">Lauren Ryan</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="13/2353">Gonzalo A. Ramos</author>
+<author pid="07/5774">Asta Roseway</author>
+<title>EcoPatches: Maker-Friendly Chemical-Based UV Sensing.</title>
+<pages>1983-1994</pages>
+<year>2020</year>
+<booktitle>Conference on Designing Interactive Systems</booktitle>
+<ee>https://doi.org/10.1145/3357236.3395424</ee>
+<crossref>conf/ACMdis/2020</crossref>
+<url>db/conf/ACMdis/ACMdis2020.html#MariakakisCNBBL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/MallariIJTRK20" mdate="2020-05-12">
+<author pid="258/0773">Keri Mallari</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="207/8262">Sarah Tan</author>
+<author pid="258/0340">Divya Ramesh</author>
+<author pid="36/3834">Ece Kamar</author>
+<title>Do I Look Like a Criminal? Examining how Race Presentation Impacts Human Judgement of Recidivism.</title>
+<pages>1-13</pages>
+<year>2020</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3313831.3376257</ee>
+<crossref>conf/chi/2020</crossref>
+<url>db/conf/chi/chi2020.html#MallariIJTRK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/PaulAFHLTC20" mdate="2020-11-19">
+<author pid="52/6414">Johns Paul</author>
+<author pid="278/9267">Jie Liang Ang</author>
+<author pid="255/0154">Tianyuan Fu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="224/0965">Shengliang Lu</author>
+<author pid="255/0062">Sien Yi Tan</author>
+<author pid="12/3274">Feng Cheng</author>
+<title>Poet: an Interactive Spatial Query Processing System in Grab.</title>
+<pages>477-486</pages>
+<year>2020</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3397536.3422230</ee>
+<crossref>conf/gis/2020</crossref>
+<url>db/conf/gis/gis2020.html#PaulAFHLTC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-05667" mdate="2020-11-12">
+<author pid="135/4657">Shuhao Zhang 0001</author>
+<author pid="48/1294-7">Feng Zhang 0007</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Hardware-Conscious Stream Processing: A Survey.</title>
+<year>2020</year>
+<volume>abs/2001.05667</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.05667</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-05667</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-01111" mdate="2020-02-10">
+<author pid="258/0773">Keri Mallari</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="207/8262">Sarah Tan</author>
+<author pid="258/0340">Divya Ramesh</author>
+<author pid="36/3834">Ece Kamar</author>
+<title>Do I Look Like a Criminal? Examining how Race Presentation Impacts Human Judgement of Recidivism.</title>
+<year>2020</year>
+<volume>abs/2002.01111</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.01111</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-01111</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-15292" mdate="2020-09-25">
+<author pid="116/0750">Alex Mariakakis</author>
+<author pid="268/5861">Sifang Chen</author>
+<author pid="199/2862">Bichlien Nguyen</author>
+<author pid="268/5266">Kirsten Bray</author>
+<author pid="268/5282">Molly Blank</author>
+<author pid="98/2892">Jonathan Lester</author>
+<author pid="268/5991">Lauren Ryan</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="13/2353">Gonzalo A. Ramos</author>
+<author pid="07/5774">Asta Roseway</author>
+<title>Project Calico: Wearable Chemical Sensors for Environmental Monitoring.</title>
+<year>2020</year>
+<volume>abs/2006.15292</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.15292</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-15292</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/ShiTTCMVJR19" mdate="2020-08-25">
+<author pid="29/563">Lei Shi</author>
+<author pid="186/0360">Brianna J. Tomlinson</author>
+<author pid="75/3390">John C. Tang</author>
+<author pid="c/EdwardCutrell">Edward Cutrell</author>
+<author pid="63/9606">Daniel J. McDuff</author>
+<author pid="v/GinaVenolia">Gina Venolia</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="64/8164">Kael Rowan</author>
+<title>Accessible Video Calling: Enabling Nonvisual Perception of Visual Conversation Cues.</title>
+<pages>131:1-131:22</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3359233</ee>
+<url>db/journals/pacmhci/pacmhci3.html#ShiTTCMVJR19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ZhangZWHJ19" mdate="2020-11-12">
+<author orcid="0000-0002-9927-6925" pid="135/4657">Shuhao Zhang 0001</author>
+<author pid="48/1294-7">Feng Zhang 0007</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Hardware-Conscious Stream Processing: A Survey.</title>
+<pages>18-29</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385662</ee>
+<url>db/journals/sigmod/sigmod48.html#ZhangZWHJ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigmm/AngFPZHWT19" mdate="2020-11-12">
+<author pid="255/0075">Jieliang Ang</author>
+<author pid="255/0154">Tianyuan Fu</author>
+<author pid="52/6414">Johns Paul</author>
+<author orcid="0000-0002-9927-6925" pid="135/4657">Shuhao Zhang 0001</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="255/0081">Teddy Sison David Wenceslao</author>
+<author pid="255/0062">Sien Yi Tan</author>
+<title>TraV: An Interactive Exploration System for Massive Trajectory Data.</title>
+<pages>309-313</pages>
+<year>2019</year>
+<booktitle>BigMM</booktitle>
+<ee>https://doi.org/10.1109/BigMM.2019.000-4</ee>
+<crossref>conf/bigmm/2019</crossref>
+<url>db/conf/bigmm/bigmm2019.html#AngFPZHWT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PaulHLL19" mdate="2019-07-05">
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="224/0965">Shengliang Lu</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Revisiting Hash Join on Graphics Processors: A Decade Later.</title>
+<pages>294-299</pages>
+<year>2019</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2019.00008</ee>
+<crossref>conf/icde/2019w</crossref>
+<url>db/conf/icde/icde2019w.html#PaulHLL19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/PaulHL19" mdate="2019-02-14">
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>GPU-Based Hardware Platforms.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_172-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#PaulHL19</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/PaulHL19a" mdate="2019-02-14">
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Search and Query Accelerators.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_166-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#PaulHL19a</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/icpads/PaulHL18" mdate="2019-02-26">
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="30/6609">Chiew Tong Lau</author>
+<title>Query Processing on OpenCL-Based FPGAs: Challenges and Opportunities.</title>
+<pages>937-945</pages>
+<year>2018</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/PADSW.2018.8644616</ee>
+<crossref>conf/icpads/2018</crossref>
+<url>db/conf/icpads/icpads2018.html#PaulHL18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/WangPHZ17" mdate="2020-03-11">
+<author orcid="0000-0001-8550-9241" pid="41/9144">Ze-ke Wang</author>
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<title>Multikernel Data Partitioning With Channel on OpenCL-Based FPGAs.</title>
+<pages>1906-1918</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TVLSI.2017.2653818</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVLSI.2017.2653818</ee>
+<url>db/journals/tvlsi/tvlsi25.html#WangPHZ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/acii/SanoJC17" mdate="2018-02-19">
+<author pid="129/5095">Akane Sano</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>Designing opportune stress intervention delivery timing using multi-modal data.</title>
+<pages>346-353</pages>
+<year>2017</year>
+<booktitle>ACII</booktitle>
+<ee>https://doi.org/10.1109/ACII.2017.8273623</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACII.2017.8273623</ee>
+<crossref>conf/acii/2017</crossref>
+<url>db/conf/acii/acii2017.html#SanoJC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/SteinerJRQGL17" mdate="2018-11-06">
+<author pid="161/3179">Helene Steiner</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="63/7183">Chris Quirk</author>
+<author pid="01/7983">Sidhant Gupta</author>
+<author pid="98/2892">Jonathan Lester</author>
+<title>Project Florence: A Plant to Human Experience.</title>
+<pages>1415-1420</pages>
+<year>2017</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3027063.3052550</ee>
+<crossref>conf/chi/2017a</crossref>
+<url>db/conf/chi/chi2017a.html#SteinerJRQGL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/interactions/KaoJRCPPCVVHSGL16" mdate="2020-08-12">
+<author pid="38/10484">Hsin-Liu Cindy Kao</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="179/5347">Lahiru Lakmal Priyadarshana</author>
+<author pid="179/5354">Victoria Porter</author>
+<author pid="18/10672">Juan Pablo Carrascal</author>
+<author pid="179/5275">Aaron Visser</author>
+<author pid="09/588">Roel Vertegaal</author>
+<author pid="179/5230">Sarah Homewood</author>
+<author pid="61/7573-1">Gillian Smith 0001</author>
+<author pid="95/10551">April Grow</author>
+<author pid="146/8008">Chenxi Liu</author>
+<author pid="179/5017">Lea Albaugh</author>
+<author pid="84/6721">Jennifer Mankoff</author>
+<author pid="21/304">Jim McCann</author>
+<title>Demo hour.</title>
+<pages>10-13</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Interactions</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2931083</ee>
+<url>db/journals/interactions/interactions23.html#KaoJRCPPCVVHSGL16</url>
+</article>
+</r>
+<r><article key="journals/interactions/KaoJRC16" mdate="2018-11-06">
+<author pid="38/10484">Hsin-Liu Cindy Kao</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>Tattio.</title>
+<pages>14-15</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Interactions</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/2971602</ee>
+<url>db/journals/interactions/interactions23.html#KaoJRC16</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/MarkICJSL16" mdate="2018-11-06">
+<author pid="17/1744">Gloria Mark</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="129/5095">Akane Sano</author>
+<author pid="167/1847">Yuliya Lutchyn</author>
+<title>Email Duration, Batching and Self-interruption: Patterns of Email Use on Productivity and Stress.</title>
+<pages>1717-1728</pages>
+<year>2016</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2858036.2858262</ee>
+<crossref>conf/chi/2016</crossref>
+<url>db/conf/chi/chi2016.html#MarkICJSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/MarkICJS16" mdate="2018-11-06">
+<author pid="17/1744">Gloria Mark</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="129/5095">Akane Sano</author>
+<title>Neurotics Can't Focus: An <i>in situ</i> Study of Online Multitasking in the Workplace.</title>
+<pages>1739-1744</pages>
+<year>2016</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2858036.2858202</ee>
+<crossref>conf/chi/2016</crossref>
+<url>db/conf/chi/chi2016.html#MarkICJS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/KaoJRC16" mdate="2018-11-06">
+<author pid="38/10484">Hsin-Liu Cindy Kao</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>Tattio: Fabrication of Aesthetic and Functional Temporary Tattoos.</title>
+<pages>3699-3702</pages>
+<year>2016</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/2851581.2890269</ee>
+<crossref>conf/chi/2016a</crossref>
+<url>db/conf/chi/chi2016a.html#KaoJRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ehealth/MarkCIJ16" mdate="2018-11-06">
+<author pid="17/1744">Gloria Mark</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Workplace Indicators of Mood: Behavioral and Cognitive Correlates of Mood Among Information Workers.</title>
+<pages>29-36</pages>
+<year>2016</year>
+<booktitle>Digital Health</booktitle>
+<ee>https://doi.org/10.1145/2896338.2896360</ee>
+<crossref>conf/ehealth/2016</crossref>
+<url>db/conf/ehealth/dh2016.html#MarkCIJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ehealth/RahmanCGJ16" mdate="2018-11-06">
+<author pid="18/10649">Tauhidur Rahman</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="g/RGiladBachrach">Ran Gilad-Bachrach</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Predicting &#34;About-to-Eat&#34; Moments for Just-in-Time Eating Intervention.</title>
+<pages>141-150</pages>
+<year>2016</year>
+<booktitle>Digital Health</booktitle>
+<ee>https://doi.org/10.1145/2896338.2896359</ee>
+<crossref>conf/ehealth/2016</crossref>
+<url>db/conf/ehealth/dh2016.html#RahmanCGJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/WangCPHZ16" mdate="2018-11-06">
+<author pid="41/9144">Ze-ke Wang</author>
+<author pid="79/10926">Hui Yan Cheah</author>
+<author pid="52/6414">Johns Paul</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<title>Accelerating Database Query Processing on OpenCL-based FPGAs (Abstract Only).</title>
+<pages>274</pages>
+<year>2016</year>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/2847263.2847295</ee>
+<crossref>conf/fpga/2016</crossref>
+<url>db/conf/fpga/fpga2016.html#WangCPHZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/WangPCHZ16" mdate="2018-03-02">
+<author pid="41/9144">Ze-ke Wang</author>
+<author pid="52/6414">Johns Paul</author>
+<author pid="79/10926">Hui Yan Cheah</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<title>Relational query processing on OpenCL-based FPGAs.</title>
+<pages>1-10</pages>
+<year>2016</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2016.7577329</ee>
+<crossref>conf/fpl/2016</crossref>
+<url>db/conf/fpl/fpl2016.html#WangPCHZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/AbdullahCMJ16" mdate="2018-11-06">
+<author pid="73/10660">Saeed Abdullah</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="17/1744">Gloria Mark</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Shining (blue) light on creative ability.</title>
+<pages>793-804</pages>
+<year>2016</year>
+<booktitle>UbiComp</booktitle>
+<ee>https://doi.org/10.1145/2971648.2971751</ee>
+<crossref>conf/huc/2016</crossref>
+<url>db/conf/huc/ubicomp2016.html#AbdullahCMJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PaulHH16" mdate="2018-11-06">
+<author pid="52/6414">Johns Paul</author>
+<author pid="132/8994">Jiong He</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<title>GPL: A GPU-based Pipelined Query Processing Engine.</title>
+<pages>1935-1950</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915224</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#PaulHH16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmhci/RosewayLJMC15" mdate="2020-05-11">
+<author pid="07/5774">Asta Roseway</author>
+<author pid="167/1847">Yuliya Lutchyn</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="m/ElizabethDMynatt">Elizabeth D. Mynatt</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>BioCrystal: An Ambient Tool for Emotion and Communication.</title>
+<pages>20-41</pages>
+<year>2015</year>
+<volume>7</volume>
+<journal>Int. J. Mob. Hum. Comput. Interact.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4018/ijmhci.2015070102</ee>
+<url>db/journals/ijmhci/ijmhci7.html#RosewayLJMC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acii/LutchynJCIMS15" mdate="2017-05-21">
+<author pid="167/1847">Yuliya Lutchyn</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="17/1744">Gloria Mark</author>
+<author pid="129/5095">Akane Sano</author>
+<title>Stress is in the eye of the beholder.</title>
+<pages>119-124</pages>
+<year>2015</year>
+<booktitle>ACII</booktitle>
+<ee>https://doi.org/10.1109/ACII.2015.7344560</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACII.2015.7344560</ee>
+<crossref>conf/acii/2015</crossref>
+<url>db/conf/acii/acii2015.html#LutchynJCIMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acii/LutchynJRC15" mdate="2017-05-21">
+<author pid="167/1847">Yuliya Lutchyn</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>MoodTracker: Monitoring collective emotions in the workplace.</title>
+<pages>295-301</pages>
+<year>2015</year>
+<booktitle>ACII</booktitle>
+<ee>https://doi.org/10.1109/ACII.2015.7344586</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACII.2015.7344586</ee>
+<crossref>conf/acii/2015</crossref>
+<url>db/conf/acii/acii2015.html#LutchynJRC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acii/SanoJC15" mdate="2017-05-21">
+<author pid="129/5095">Akane Sano</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>HealthAware: An advice system for stress, sleep, diet and exercise.</title>
+<pages>546-552</pages>
+<year>2015</year>
+<booktitle>ACII</booktitle>
+<ee>https://doi.org/10.1109/ACII.2015.7344623</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACII.2015.7344623</ee>
+<crossref>conf/acii/2015</crossref>
+<url>db/conf/acii/acii2015.html#SanoJC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscw/MarkICJ15" mdate="2018-11-06">
+<author pid="17/1744">Gloria Mark</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Focused, Aroused, but so Distractible: Temporal Perspectives on Multitasking and Communications.</title>
+<pages>903-916</pages>
+<year>2015</year>
+<booktitle>CSCW</booktitle>
+<ee>https://doi.org/10.1145/2675133.2675221</ee>
+<crossref>conf/cscw/2015</crossref>
+<url>db/conf/cscw/cscw2015.html#MarkICJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/MarkICJ14" mdate="2018-11-06">
+<author pid="17/1744">Gloria Mark</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Bored mondays and focused afternoons: the rhythm of attention and online activity in the workplace.</title>
+<pages>3025-3034</pages>
+<year>2014</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2556288.2557204</ee>
+<crossref>conf/chi/2014</crossref>
+<url>db/conf/chi/chi2014.html#MarkICJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscw/MarkICJ14" mdate="2018-11-06">
+<author pid="17/1744">Gloria Mark</author>
+<author pid="28/6452">Shamsi T. Iqbal</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Capturing the mood: facebook and face-to-face encounters in the workplace.</title>
+<pages>1082-1094</pages>
+<year>2014</year>
+<booktitle>CSCW</booktitle>
+<ee>https://doi.org/10.1145/2531602.2531673</ee>
+<crossref>conf/cscw/2014</crossref>
+<url>db/conf/cscw/cscw2014.html#MarkICJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ph/PinaRRJHC14" mdate="2017-05-26">
+<author pid="44/7402">Laura Pina</author>
+<author pid="64/8164">Kael Rowan</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="h/GillianRHayes">Gillian R. Hayes</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<title>In situ cues for ADHD parenting strategies using mobile technology.</title>
+<pages>17-24</pages>
+<year>2014</year>
+<booktitle>PervasiveHealth</booktitle>
+<ee>https://doi.org/10.4108/icst.pervasivehealth.2014.254958</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2686897</ee>
+<crossref>conf/ph/2014</crossref>
+<url>db/conf/ph/ph2014.html#PinaRRJHC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/puc/GiannakosCIDJ13" mdate="2020-07-09">
+<author orcid="0000-0002-8016-6208" pid="49/8926">Michail N. Giannakos</author>
+<author orcid="0000-0002-5999-9387" pid="80/3436">Konstantinos Chorianopoulos</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="99/2510">Honglu Du</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Understanding children's behavior in an asynchronous video-mediated communication environment.</title>
+<pages>1621-1629</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>Pers. Ubiquitous Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s00779-012-0525-2</ee>
+<ee>https://www.wikidata.org/entity/Q59336225</ee>
+<url>db/journals/puc/puc17.html#GiannakosCIDJ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/acii/CarrollCRKJRS13" mdate="2021-04-09">
+<author pid="74/5310">Erin A. Carroll</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="93/161">Ashish Kapoor</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="64/8164">Kael Rowan</author>
+<author orcid="0000-0002-9061-7957" pid="s/MonicaMCSchraefel">Monica M. C. Schraefel</author>
+<title>Food and Mood: Just-in-Time Support for Emotional Eating.</title>
+<pages>252-257</pages>
+<year>2013</year>
+<booktitle>ACII</booktitle>
+<ee>https://doi.org/10.1109/ACII.2013.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACII.2013.48</ee>
+<crossref>conf/acii/2013</crossref>
+<url>db/conf/acii/acii2013.html#CarrollCRKJRS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscw/BrushSZSJR13" mdate="2018-11-06">
+<author pid="b/AJBBrush">A. J. Bernheim Brush</author>
+<author pid="05/2451">T. Scott Saponas</author>
+<author pid="07/5138">Ryder Ziola</author>
+<author pid="47/3228">Greg Smith</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<title>Peek: context sharing on request with notifications.</title>
+<pages>291-292</pages>
+<year>2013</year>
+<booktitle>CSCW Companion</booktitle>
+<ee>https://doi.org/10.1145/2441955.2442024</ee>
+<crossref>conf/cscw/2013c</crossref>
+<url>db/conf/cscw/cscw2013c.html#BrushSZSJR13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvcg/WalnyLJRC12" mdate="2018-11-14">
+<author pid="63/5518">Jagoda Walny</author>
+<author pid="52/5103">Bongshin Lee</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="h/NathalieHenry">Nathalie Henry Riche</author>
+<author pid="c/MSheelaghTCarpendale">Sheelagh Carpendale</author>
+<title>Understanding Pen and Touch Interaction for Data Exploration on Interactive Whiteboards.</title>
+<pages>2779-2788</pages>
+<year>2012</year>
+<volume>18</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TVCG.2012.275</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVCG.2012.275</ee>
+<ee>https://www.wikidata.org/entity/Q30992786</ee>
+<url>db/journals/tvcg/tvcg18.html#WalnyLJRC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/avi/BrushJ12" mdate="2018-11-06">
+<author pid="b/AJBBrush">A. J. Bernheim Brush</author>
+<author pid="52/6414">Paul Johns</author>
+<title>SpeechToast: augmenting notifications with speech input focus.</title>
+<pages>270-273</pages>
+<year>2012</year>
+<booktitle>AVI</booktitle>
+<ee>https://doi.org/10.1145/2254556.2254607</ee>
+<crossref>conf/avi/2012</crossref>
+<url>db/conf/avi/avi2012.html#BrushJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/InkpenDRHJ12" mdate="2018-11-06">
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="99/2510">Honglu Du</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="56/2251">Aaron Hoff</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Video kids: augmenting close friendships with asynchronous video conversations in videopal.</title>
+<pages>2387-2396</pages>
+<year>2012</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2207676.2208400</ee>
+<crossref>conf/chi/2012</crossref>
+<url>db/conf/chi/chi2012.html#InkpenDRHJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscw/BarksdaleICHJRV12" mdate="2018-11-06">
+<author pid="68/7691">Jeremy T. Barksdale</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="56/2251">Aaron Hoff</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="v/GinaVenolia">Gina Venolia</author>
+<title>Video threads: asynchronous video sharing for temporally distributed teams.</title>
+<pages>1101-1104</pages>
+<year>2012</year>
+<booktitle>CSCW</booktitle>
+<ee>https://doi.org/10.1145/2145204.2145367</ee>
+<crossref>conf/cscw/2012c</crossref>
+<url>db/conf/cscw/cscw2012c.html#BarksdaleICHJRV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/BrushJIM11" mdate="2018-11-06">
+<author pid="b/AJBBrush">A. J. Bernheim Brush</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="m/BrianMeyers">Brian Meyers</author>
+<title>Speech@home: an exploratory study.</title>
+<pages>617-632</pages>
+<year>2011</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/1979742.1979657</ee>
+<crossref>conf/chi/2011a</crossref>
+<url>db/conf/chi/chi2011a.html#BrushJIM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecscw/DuQCCJHRMTG11" mdate="2019-09-17">
+<author pid="99/2510">Honglu Du</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="80/3436">Konstantinos Chorianopoulos</author>
+<author pid="c/MaryCzerwinski">Mary Czerwinski</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="56/2251">Aaron Hoff</author>
+<author pid="07/5774">Asta Roseway</author>
+<author pid="00/10495">Sarah Morlidge</author>
+<author pid="75/3390">John C. Tang</author>
+<author pid="g/TomGross">Tom Gross</author>
+<title>VideoPal: Exploring Asynchronous Video-Messaging to Enable Cross-Cultural Friendships.</title>
+<pages>273-292</pages>
+<year>2011</year>
+<booktitle>ECSCW</booktitle>
+<ee>https://doi.org/10.1007/978-0-85729-913-0_15</ee>
+<ee type="archive">http://www.ecscw.org/2011/18-%20Du%20et%20Al%20273-292.pdf</ee>
+<crossref>conf/ecscw/2011</crossref>
+<url>db/conf/ecscw/ecscw2011.html#DuQCCJHRMTG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interact/GiannakosCJID11" mdate="2019-06-02">
+<author orcid="0000-0002-8016-6208" pid="49/8926">Michail N. Giannakos</author>
+<author orcid="0000-0002-5999-9387" pid="80/3436">Konstantinos Chorianopoulos</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="i/KoriInkpen">Kori Inkpen</author>
+<author pid="99/2510">Honglu Du</author>
+<title>Children's Interactions in an Asynchronous Video Mediated Communication Environment.</title>
+<pages>199-206</pages>
+<year>2011</year>
+<booktitle>INTERACT (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-23774-4_18</ee>
+<ee>https://www.wikidata.org/entity/Q59336265</ee>
+<crossref>conf/interact/2011-1</crossref>
+<url>db/conf/interact/interact2011-1.html#GiannakosCJID11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/LutherCSHJ09" mdate="2018-11-06">
+<author orcid="0000-0003-1809-6269" pid="33/6201">Kurt Luther</author>
+<author pid="61/6236">Scott Counts</author>
+<author pid="57/2742">Kristin Brooke Stecher</author>
+<author pid="56/2251">Aaron Hoff</author>
+<author pid="52/6414">Paul Johns</author>
+<title>Pathfinder: an online collaboration environment for citizen scientists.</title>
+<pages>239-248</pages>
+<year>2009</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/1518701.1518741</ee>
+<crossref>conf/chi/2009</crossref>
+<url>db/conf/chi/chi2009.html#LutherCSHJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/ChettyBMJ09" mdate="2018-11-06">
+<author pid="c/MarshiniChetty">Marshini Chetty</author>
+<author pid="b/AJBBrush">A. J. Bernheim Brush</author>
+<author pid="m/BrianMeyers">Brian Meyers</author>
+<author pid="52/6414">Paul Johns</author>
+<title>It's not easy being green: understanding home computer power management.</title>
+<pages>1033-1042</pages>
+<year>2009</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/1518701.1518860</ee>
+<crossref>conf/chi/2009</crossref>
+<url>db/conf/chi/chi2009.html#ChettyBMJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interact/KaneKMJJS09" mdate="2018-06-26">
+<author pid="63/6371">Shaun K. Kane</author>
+<author pid="10/4398">Amy K. Karlson</author>
+<author pid="m/BrianMeyers">Brian Meyers</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="21/4484">Andy Jacobs</author>
+<author pid="47/3228">Greg Smith</author>
+<title>Exploring Cross-Device Web Use on PCs and Mobile Devices.</title>
+<pages>722-735</pages>
+<year>2009</year>
+<booktitle>INTERACT (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03655-2_79</ee>
+<crossref>conf/interact/2009-1</crossref>
+<url>db/conf/interact/interact2009-1.html#KaneKMJJS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pervasive/KarlsonMJJK09" mdate="2017-05-21">
+<author pid="10/4398">Amy K. Karlson</author>
+<author pid="m/BrianMeyers">Brian Meyers</author>
+<author pid="21/4484">Andy Jacobs</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="63/6371">Shaun K. Kane</author>
+<title>Working Overtime: Patterns of Smartphone and PC Usage in the Day of an Information Worker.</title>
+<pages>398-405</pages>
+<year>2009</year>
+<booktitle>Pervasive</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-01516-8_27</ee>
+<crossref>conf/pervasive/2009</crossref>
+<url>db/conf/pervasive/pervasive2009.html#KarlsonMJJK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaiss/GuJLS06" mdate="2012-02-18">
+<author pid="26/4691">Lei Gu</author>
+<author pid="52/6414">Paul Johns</author>
+<author pid="39/298">Thomas M. Lento</author>
+<author pid="s/MarcASmith">Marc A. Smith</author>
+<title>How Do Blog Gardens Grow? Language Community Correlates with Network Diffusion and Adoption of Blogging Systems.</title>
+<pages>47-54</pages>
+<year>2006</year>
+<booktitle>AAAI Spring Symposium: Computational Approaches to Analyzing Weblogs</booktitle>
+<ee>http://www.aaai.org/Library/Symposia/Spring/2006/ss06-03-011.php</ee>
+<crossref>conf/aaaiss/2006-3</crossref>
+<url>db/conf/aaaiss/aaaiss2006-3.html#GuJLS06</url>
+</inproceedings>
+</r>
+<coauthors n="95" nc="2">
+<co c="0"><na f="a/Abdullah:Saeed" pid="73/10660">Saeed Abdullah</na></co>
+<co c="0"><na f="a/Albaugh:Lea" pid="179/5017">Lea Albaugh</na></co>
+<co c="1"><na f="a/Ang:Jie_Liang" pid="278/9267">Jie Liang Ang</na></co>
+<co c="1"><na f="a/Ang:Jieliang" pid="255/0075">Jieliang Ang</na></co>
+<co c="0"><na f="b/Barksdale:Jeremy_T=" pid="68/7691">Jeremy T. Barksdale</na></co>
+<co c="0"><na f="b/Blank:Molly" pid="268/5282">Molly Blank</na></co>
+<co c="0"><na f="b/Bray:Kirsten" pid="268/5266">Kirsten Bray</na></co>
+<co c="0"><na f="b/Brush:A=_J=_Bernheim" pid="b/AJBBrush">A. J. Bernheim Brush</na></co>
+<co c="0"><na f="c/Carpendale:Sheelagh" pid="c/MSheelaghTCarpendale">Sheelagh Carpendale</na></co>
+<co c="0"><na f="c/Carrascal:Juan_Pablo" pid="18/10672">Juan Pablo Carrascal</na></co>
+<co c="0"><na f="c/Carroll:Erin_A=" pid="74/5310">Erin A. Carroll</na></co>
+<co c="1"><na f="c/Cheah:Hui_Yan" pid="79/10926">Hui Yan Cheah</na></co>
+<co c="0"><na f="c/Chen:Sifang" pid="268/5861">Sifang Chen</na></co>
+<co c="1"><na f="c/Cheng:Feng" pid="12/3274">Feng Cheng</na></co>
+<co c="0"><na f="c/Chetty:Marshini" pid="c/MarshiniChetty">Marshini Chetty</na></co>
+<co c="0"><na f="c/Chorianopoulos:Konstantinos" pid="80/3436">Konstantinos Chorianopoulos</na></co>
+<co c="0"><na f="c/Counts:Scott" pid="61/6236">Scott Counts</na></co>
+<co c="0"><na f="c/Cutrell:Edward" pid="c/EdwardCutrell">Edward Cutrell</na></co>
+<co c="0"><na f="c/Czerwinski:Mary" pid="c/MaryCzerwinski">Mary Czerwinski</na></co>
+<co c="0"><na f="d/Du:Honglu" pid="99/2510">Honglu Du</na></co>
+<co c="1"><na f="f/Fu:Tianyuan" pid="255/0154">Tianyuan Fu</na></co>
+<co c="0"><na f="g/Giannakos:Michail_N=" pid="49/8926">Michail N. Giannakos</na></co>
+<co c="0"><na f="g/Gilad=Bachrach:Ran" pid="g/RGiladBachrach">Ran Gilad-Bachrach</na></co>
+<co c="0"><na f="g/Gross:Tom" pid="g/TomGross">Tom Gross</na></co>
+<co c="0"><na f="g/Grow:April" pid="95/10551">April Grow</na></co>
+<co c="0"><na f="g/Gu:Lei" pid="26/4691">Lei Gu</na></co>
+<co c="0"><na f="g/Gupta:Sidhant" pid="01/7983">Sidhant Gupta</na></co>
+<co c="0"><na f="h/Hayes:Gillian_R=" pid="h/GillianRHayes">Gillian R. Hayes</na></co>
+<co c="1"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="1"><na f="h/He:Jiong" pid="132/8994">Jiong He</na></co>
+<co c="0"><na f="h/Hoff:Aaron" pid="56/2251">Aaron Hoff</na></co>
+<co c="0"><na f="h/Homewood:Sarah" pid="179/5230">Sarah Homewood</na></co>
+<co c="0"><na f="i/Inkpen:Kori" pid="i/KoriInkpen">Kori Inkpen</na></co>
+<co c="0"><na f="i/Iqbal:Shamsi_T=" pid="28/6452">Shamsi T. Iqbal</na></co>
+<co c="0"><na f="j/Jacobs:Andy" pid="21/4484">Andy Jacobs</na></co>
+<co c="0"><na f="k/Kamar:Ece" pid="36/3834">Ece Kamar</na></co>
+<co c="0"><na f="k/Kane:Shaun_K=" pid="63/6371">Shaun K. Kane</na></co>
+<co c="0"><na f="k/Kao:Hsin=Liu_Cindy" pid="38/10484">Hsin-Liu Cindy Kao</na></co>
+<co c="0"><na f="k/Kapoor:Ashish" pid="93/161">Ashish Kapoor</na></co>
+<co c="0"><na f="k/Karlson:Amy_K=" pid="10/4398">Amy K. Karlson</na></co>
+<co c="1"><na f="l/Lau:Chiew_Tong" pid="30/6609">Chiew Tong Lau</na></co>
+<co c="0"><na f="l/Lee:Bongshin" pid="52/5103">Bongshin Lee</na></co>
+<co c="0"><na f="l/Lento:Thomas_M=" pid="39/298">Thomas M. Lento</na></co>
+<co c="0"><na f="l/Lester:Jonathan" pid="98/2892">Jonathan Lester</na></co>
+<co c="1"><na f="l/Li_0001:Yuchen" pid="143/0258-1">Yuchen Li 0001</na></co>
+<co c="0"><na f="l/Liu:Chenxi" pid="146/8008">Chenxi Liu</na></co>
+<co c="1"><na f="l/Lu:Shengliang" pid="224/0965">Shengliang Lu</na></co>
+<co c="0"><na f="l/Lutchyn:Yuliya" pid="167/1847">Yuliya Lutchyn</na></co>
+<co c="0"><na f="l/Luther:Kurt" pid="33/6201">Kurt Luther</na></co>
+<co c="0"><na f="m/Mallari:Keri" pid="258/0773">Keri Mallari</na></co>
+<co c="0"><na f="m/Mankoff:Jennifer" pid="84/6721">Jennifer Mankoff</na></co>
+<co c="0" n="2"><na f="m/Mariakakis:Alexander" pid="116/0750">Alexander Mariakakis</na><na>Alex Mariakakis</na></co>
+<co c="0"><na f="m/Mark:Gloria" pid="17/1744">Gloria Mark</na></co>
+<co c="0" n="2"><na f="m/McCann:James" pid="21/304">James McCann</na><na>Jim McCann</na></co>
+<co c="0"><na f="m/McDuff:Daniel_J=" pid="63/9606">Daniel J. McDuff</na></co>
+<co c="0"><na f="m/Meyers:Brian" pid="m/BrianMeyers">Brian Meyers</na></co>
+<co c="0"><na f="m/Morlidge:Sarah" pid="00/10495">Sarah Morlidge</na></co>
+<co c="0"><na f="m/Mynatt:Elizabeth_D=" pid="m/ElizabethDMynatt">Elizabeth D. Mynatt</na></co>
+<co c="0" n="2"><na f="n/Nguyen:Bichlien" pid="199/2862">Bichlien Nguyen</na><na>Bichlien H. Nguyen</na></co>
+<co c="0"><na f="p/Pina:Laura" pid="44/7402">Laura Pina</na></co>
+<co c="0"><na f="p/Porter:Victoria" pid="179/5354">Victoria Porter</na></co>
+<co c="0"><na f="p/Priyadarshana:Lahiru_Lakmal" pid="179/5347">Lahiru Lakmal Priyadarshana</na></co>
+<co c="0"><na f="q/Quirk:Chris" pid="63/7183">Chris Quirk</na></co>
+<co c="0"><na f="r/Rahman:Tauhidur" pid="18/10649">Tauhidur Rahman</na></co>
+<co c="0"><na f="r/Ramesh:Divya" pid="258/0340">Divya Ramesh</na></co>
+<co c="0"><na f="r/Ramos:Gonzalo_A=" pid="13/2353">Gonzalo A. Ramos</na></co>
+<co c="0"><na f="r/Riche:Nathalie_Henry" pid="h/NathalieHenry">Nathalie Henry Riche</na></co>
+<co c="0"><na f="r/Roseway:Asta" pid="07/5774">Asta Roseway</na></co>
+<co c="0"><na f="r/Rowan:Kael" pid="64/8164">Kael Rowan</na></co>
+<co c="0"><na f="r/Ryan:Lauren" pid="268/5991">Lauren Ryan</na></co>
+<co c="0"><na f="s/Sano:Akane" pid="129/5095">Akane Sano</na></co>
+<co c="0"><na f="s/Saponas:T=_Scott" pid="05/2451">T. Scott Saponas</na></co>
+<co c="0" n="2"><na f="s/schraefel:m=_c=" pid="s/MonicaMCSchraefel">m. c. schraefel</na><na>Monica M. C. Schraefel</na></co>
+<co c="0"><na f="s/Shi:Lei" pid="29/563">Lei Shi</na></co>
+<co c="0"><na f="s/Smith_0001:Gillian" pid="61/7573-1">Gillian Smith 0001</na></co>
+<co c="0"><na f="s/Smith:Greg" pid="47/3228">Greg Smith</na></co>
+<co c="0"><na f="s/Smith:Marc_A=" pid="s/MarcASmith">Marc A. Smith</na></co>
+<co c="0"><na f="s/Stecher:Kristin_Brooke" pid="57/2742">Kristin Brooke Stecher</na></co>
+<co c="0"><na f="s/Steiner:Helene" pid="161/3179">Helene Steiner</na></co>
+<co c="1"><na f="s/Sun:Shixuan" pid="131/9481">Shixuan Sun</na></co>
+<co c="0"><na f="t/Tan:Sarah" pid="207/8262">Sarah Tan</na></co>
+<co c="1"><na f="t/Tan:Sien_Yi" pid="255/0062">Sien Yi Tan</na></co>
+<co c="0"><na f="t/Tang:John_C=" pid="75/3390">John C. Tang</na></co>
+<co c="0"><na f="t/Tomlinson:Brianna_J=" pid="186/0360">Brianna J. Tomlinson</na></co>
+<co c="0"><na f="v/Venolia:Gina" pid="v/GinaVenolia">Gina Venolia</na></co>
+<co c="0"><na f="v/Vertegaal:Roel" pid="09/588">Roel Vertegaal</na></co>
+<co c="0"><na f="v/Visser:Aaron" pid="179/5275">Aaron Visser</na></co>
+<co c="0"><na f="w/Walny:Jagoda" pid="63/5518">Jagoda Walny</na></co>
+<co c="1"><na f="w/Wang:Ze=ke" pid="41/9144">Ze-ke Wang</na></co>
+<co c="1"><na f="w/Wenceslao:Teddy_Sison_David" pid="255/0081">Teddy Sison David Wenceslao</na></co>
+<co c="1"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="1"><na f="z/Zhang_0007:Feng" pid="48/1294-7">Feng Zhang 0007</na></co>
+<co c="1"><na f="z/Zhang_0001:Shuhao" pid="135/4657">Shuhao Zhang 0001</na></co>
+<co c="1"><na f="z/Zhang_0012:Wei" pid="10/4661-12">Wei Zhang 0012</na></co>
+<co c="0"><na f="z/Ziola:Ryder" pid="07/5138">Ryder Ziola</na></co>
+</coauthors>
+</dblpperson>
+

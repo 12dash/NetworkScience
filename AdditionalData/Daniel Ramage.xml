@@ -1,3 +1,738 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec96af6bd33b5773938314a467e71c6c4dcb46ec8808926fd504b11cc52697b0
-size 36056
+<?xml version="1.0"?>
+<dblpperson name="Daniel Ramage" pid="47/5036" n="37">
+<person key="homepages/47/5036" mdate="2009-06-10">
+<author pid="47/5036">Daniel Ramage</author>
+</person>
+<r><inproceedings key="conf/iclr/AugensteinMRRKC20" mdate="2020-05-07">
+<author pid="64/9965">Sean Augenstein</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="242/9298">Swaroop Ramaswamy</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="58/9763">Mingqing Chen</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Generative Models for Effective ML on Private, Decentralized Datasets.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=SJgaRA4FPH</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#AugensteinMRRKC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/AcharyaBKRS20" mdate="2020-12-15">
+<author pid="74/5865">Jayadev Acharya</author>
+<author pid="280/1646">Kallista Bonawitz</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="194/8609">Ziteng Sun</author>
+<title>Context Aware Local Differential Privacy.</title>
+<pages>52-62</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/acharya20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#AcharyaBKRS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-01291" mdate="2020-06-15">
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author orcid="0000-0002-6805-0798" pid="77/8035">Daniel A. McFarland</author>
+<title>Mapping Three Decades of Intellectual Change in Academia.</title>
+<year>2020</year>
+<volume>abs/2004.01291</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.01291</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-01291</url>
+</article>
+</r>
+<r><inproceedings key="conf/mlsys/BonawitzEGHIIKK19" mdate="2020-06-18">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="g/WolfgangGrieskamp">Wolfgang Grieskamp</author>
+<author pid="236/4655">Dzmitry Huba</author>
+<author pid="236/4397">Alex Ingerman</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="80/1223">Stefano Mazzocchi</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="47/10671">Timon Van Overveldt</author>
+<author pid="86/2622">David Petrou</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="236/4617">Jason Roselander</author>
+<title>Towards Federated Learning at Scale: System Design.</title>
+<year>2019</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/book/271.pdf</ee>
+<crossref>conf/mlsys/2019</crossref>
+<url>db/conf/mlsys/mlsys2019.html#BonawitzEGHIIKK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-01046" mdate="2019-05-21">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="g/WolfgangGrieskamp">Wolfgang Grieskamp</author>
+<author pid="236/4655">Dzmitry Huba</author>
+<author pid="236/4397">Alex Ingerman</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="80/1223">Stefano Mazzocchi</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/10671">Timon Van Overveldt</author>
+<author pid="86/2622">David Petrou</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="236/4617">Jason Roselander</author>
+<title>Towards Federated Learning at Scale: System Design.</title>
+<year>2019</year>
+<volume>abs/1902.01046</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.01046</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-01046</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-10252" mdate="2019-10-25">
+<author pid="03/9859">Kangkang Wang</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="18/686">Fran&#231;oise Beaufays</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Federated Evaluation of On-device Personalization.</title>
+<year>2019</year>
+<volume>abs/1910.10252</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.10252</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-10252</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-00038" mdate="2019-11-11">
+<author pid="74/5865">Jayadev Acharya</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="194/8609">Ziteng Sun</author>
+<title>Context-Aware Local Differential Privacy.</title>
+<year>2019</year>
+<volume>abs/1911.00038</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.00038</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-00038</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-06679" mdate="2019-12-02">
+<author pid="64/9965">Sean Augenstein</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="242/9298">Swaroop Ramaswamy</author>
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="58/9763">Mingqing Chen</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Generative Models for Effective ML on Private, Decentralized Datasets.</title>
+<year>2019</year>
+<volume>abs/1911.06679</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.06679</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-06679</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/McMahanRT018" mdate="2019-07-25">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>Learning Differentially Private Recurrent Language Models.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BJ0hF1Z0b</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#McMahanRT018</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-03604" mdate="2018-11-23">
+<author pid="230/3939">Andrew Hard</author>
+<author pid="166/1701">Kanishka Rao</author>
+<author pid="230/3901">Rajiv Mathews</author>
+<author pid="18/686">Fran&#231;oise Beaufays</author>
+<author pid="64/9965">Sean Augenstein</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Federated Learning for Mobile Keyboard Prediction.</title>
+<year>2018</year>
+<volume>abs/1811.03604</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.03604</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-03604</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-02903" mdate="2019-01-01">
+<author pid="232/1663">Timothy Yang</author>
+<author pid="31/1971">Galen Andrew</author>
+<author pid="51/4346">Hubert Eichner</author>
+<author pid="45/8692">Haicheng Sun</author>
+<author pid="64/6025">Wei Li</author>
+<author pid="00/1560">Nicholas Kong</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="18/686">Fran&#231;oise Beaufays</author>
+<title>Applied Federated Learning: Improving Google Keyboard Query Suggestions.</title>
+<year>2018</year>
+<volume>abs/1812.02903</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.02903</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-02903</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/McMahanMRHA17" mdate="2019-04-03">
+<author pid="64/898">Brendan McMahan</author>
+<author pid="176/5430">Eider Moore</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="202/1252">Seth Hampson</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Communication-Efficient Learning of Deep Networks from Decentralized Data.</title>
+<pages>1273-1282</pages>
+<year>2017</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v54/mcmahan17a.html</ee>
+<crossref>conf/aistats/2017</crossref>
+<url>db/conf/aistats/aistats2017.html#McMahanMRHA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/BonawitzIKMMPRS17" mdate="2020-11-10">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="190/7832">Ben Kreuter</author>
+<author pid="138/8983">Antonio Marcedone</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="04/773">Sarvar Patel</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="63/10309">Aaron Segal</author>
+<author pid="125/0309">Karn Seth</author>
+<title>Practical Secure Aggregation for Privacy-Preserving Machine Learning.</title>
+<pages>1175-1191</pages>
+<year>2017</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3133956.3133982</ee>
+<crossref>conf/ccs/2017</crossref>
+<url>db/conf/ccs/ccs2017.html#BonawitzIKMMPRS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-06963" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="06/3696">Kunal Talwar</author>
+<author pid="89/5992-1">Li Zhang 0001</author>
+<title>Learning Differentially Private Language Models Without Losing Accuracy.</title>
+<year>2017</year>
+<volume>abs/1710.06963</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.06963</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-06963</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BonawitzIKMMPRS17" mdate="2020-05-11">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="190/7832">Ben Kreuter</author>
+<author pid="138/8983">Antonio Marcedone</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="04/773">Sarvar Patel</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="63/10309">Aaron Segal</author>
+<author pid="125/0309">Karn Seth</author>
+<title>Practical Secure Aggregation for Privacy Preserving Machine Learning.</title>
+<pages>281</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/281</ee>
+<url>db/journals/iacr/iacr2017.html#BonawitzIKMMPRS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/KairouzBR16" mdate="2019-05-29">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Discrete Distribution Estimation under Local Privacy.</title>
+<pages>2436-2444</pages>
+<year>2016</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v48/kairouz16.html</ee>
+<crossref>conf/icml/2016</crossref>
+<url>db/conf/icml/icml2016.html#KairouzBR16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/McMahanMRA16" mdate="2018-08-13">
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="176/5430">Eider Moore</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="71/6378">Blaise Ag&#252;era y Arcas</author>
+<title>Federated Learning of Deep Networks using Model Averaging.</title>
+<year>2016</year>
+<volume>abs/1602.05629</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.05629</ee>
+<url>db/journals/corr/corr1602.html#McMahanMRA16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KairouzBR16" mdate="2018-08-13">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Discrete Distribution Estimation under Local Privacy.</title>
+<year>2016</year>
+<volume>abs/1602.07387</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.07387</ee>
+<url>db/journals/corr/corr1602.html#KairouzBR16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KonecnyMRR16" mdate="2018-08-13">
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="62/8001">Peter Richt&#225;rik</author>
+<title>Federated Optimization: Distributed Machine Learning for On-Device Intelligence.</title>
+<year>2016</year>
+<volume>abs/1610.02527</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.02527</ee>
+<url>db/journals/corr/corr1610.html#KonecnyMRR16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BonawitzIKMMPRS16" mdate="2018-08-13">
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="89/4816">Vladimir Ivanov</author>
+<author pid="190/7832">Ben Kreuter</author>
+<author pid="138/8983">Antonio Marcedone</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="04/773">Sarvar Patel</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="63/10309">Aaron Segal</author>
+<author pid="125/0309">Karn Seth</author>
+<title>Practical Secure Aggregation for Federated Learning on User-Held Data.</title>
+<year>2016</year>
+<volume>abs/1611.04482</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.04482</ee>
+<url>db/journals/corr/corr1611.html#BonawitzIKMMPRS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KonecnyMR15" mdate="2018-08-13">
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="64/898">Brendan McMahan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Federated Optimization: Distributed Optimization Beyond the Datacenter.</title>
+<year>2015</year>
+<volume>abs/1511.03575</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.03575</ee>
+<url>db/journals/corr/corr1511.html#KonecnyMR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/ChuangRMH12" mdate="2020-03-27">
+<author pid="03/9138">Jason Chuang</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author orcid="0000-0001-6155-649X" pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="27/4508">Jeffrey Heer</author>
+<title>Interpretation and trust: designing model-driven visualizations for text analysis.</title>
+<pages>443-452</pages>
+<year>2012</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2207676.2207738</ee>
+<crossref>conf/chi/2012</crossref>
+<url>db/conf/chi/chi2012.html#ChuangRMH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/RamageMD11" mdate="2020-03-27">
+<author pid="47/5036">Daniel Ramage</author>
+<author orcid="0000-0001-6155-649X" pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="d/SusanTDumais">Susan T. Dumais</author>
+<title>Partially labeled topic models for interpretable text mining.</title>
+<pages>457-465</pages>
+<year>2011</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2020408.2020481</ee>
+<crossref>conf/kdd/2011</crossref>
+<url>db/conf/kdd/kdd2011.html#RamageMD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latech/JohriRMJ11" mdate="2019-08-19">
+<author pid="75/9281">Nikhil Johri</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="77/8035">Daniel A. McFarland</author>
+<author pid="31/985">Daniel Jurafsky</author>
+<title>A Study of Academic Collaborations in Computational Linguistics using a Latent Mixture of Authors Model.</title>
+<pages>124-132</pages>
+<year>2011</year>
+<booktitle>LaTeCH@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W11-1516/</ee>
+<crossref>conf/latech/2011</crossref>
+<url>db/conf/latech/latech2011.html#JohriRMJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/TeevanRM11" mdate="2018-11-06">
+<author pid="38/129">Jaime Teevan</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="m/MeredithRingelMorris">Meredith Ringel Morris</author>
+<title>#TwitterSearch: a comparison of microblog search and web search.</title>
+<pages>35-44</pages>
+<year>2011</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/1935826.1935842</ee>
+<crossref>conf/wsdm/2011</crossref>
+<url>db/conf/wsdm/wsdm2011.html#TeevanRM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/RamageDL10" mdate="2021-02-05">
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="d/SusanTDumais">Susan T. Dumais</author>
+<author pid="10/2450">Daniel J. Liebling</author>
+<title>Characterizing Microblogs with Topic Models.</title>
+<year>2010</year>
+<booktitle>ICWSM</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/view/1528</ee>
+<crossref>conf/icwsm/2010</crossref>
+<url>db/conf/icwsm/icwsm2010.html#RamageDL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/RamageHNM09" mdate="2019-09-13">
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="133/2070">David Hall 0006</author>
+<author pid="59/4797">Ramesh Nallapati</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora.</title>
+<pages>248-256</pages>
+<year>2009</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D09-1026/</ee>
+<crossref>conf/emnlp/2009</crossref>
+<url>db/conf/emnlp/emnlp2009.html#RamageHNM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/textgraphs/RamageRM09" mdate="2019-09-12">
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="26/6934">Anna N. Rafferty</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Random Walks for Text Semantic Similarity.</title>
+<pages>23-31</pages>
+<year>2009</year>
+<booktitle>Graph-based Methods for Natural Language Processing</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W09-3204/</ee>
+<crossref>conf/textgraphs/2009</crossref>
+<url>db/conf/textgraphs/textgraphs2009.html#RamageRM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/textgraphs/YehRMAS09" mdate="2019-09-12">
+<author pid="70/1842">Eric Yeh</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="a/EnekoAgirre">Eneko Agirre</author>
+<author pid="03/6734">Aitor Soroa</author>
+<title>WikiWalk: Random walks on Wikipedia for Semantic Relatedness.</title>
+<pages>41-49</pages>
+<year>2009</year>
+<booktitle>Graph-based Methods for Natural Language Processing</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W09-3206/</ee>
+<crossref>conf/textgraphs/2009</crossref>
+<url>db/conf/textgraphs/textgraphs2009.html#YehRMAS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/RamageHMG09" mdate="2020-03-27">
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="12/6438">Paul Heymann</author>
+<author orcid="0000-0001-6155-649X" pid="m/ChristopherDManning">Christopher D. Manning</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Clustering the tagged web.</title>
+<pages>54-63</pages>
+<year>2009</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/1498759.1498809</ee>
+<crossref>conf/wsdm/2009</crossref>
+<url>db/conf/wsdm/wsdm2009.html#RamageHMG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/HeymannRG08" mdate="2018-11-06">
+<author pid="12/6438">Paul Heymann</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Social tag prediction.</title>
+<pages>531-538</pages>
+<year>2008</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1390334.1390425</ee>
+<crossref>conf/sigir/2008</crossref>
+<url>db/conf/sigir/sigir2008.html#HeymannRG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaiss/MarneffeGMCRKM07" mdate="2012-02-18">
+<author pid="36/6578">Marie-Catherine de Marneffe</author>
+<author pid="74/198">Trond Grenager</author>
+<author pid="36/2275">Bill MacCartney</author>
+<author pid="16/6461">Daniel M. Cer</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Robust Graph Alignment Methods for Textual Inference and Machine Reading.</title>
+<pages>36-42</pages>
+<year>2007</year>
+<booktitle>AAAI Spring Symposium: Machine Reading</booktitle>
+<ee>http://www.aaai.org/Library/Symposia/Spring/2007/ss07-06-007.php</ee>
+<crossref>conf/aaaiss/2007-6</crossref>
+<url>db/conf/aaaiss/aaaiss2007-6.html#MarneffeGMCRKM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ChambersCGHKMMR07" mdate="2019-09-11">
+<author pid="60/557">Nathanael Chambers</author>
+<author pid="16/6461">Daniel M. Cer</author>
+<author pid="74/198">Trond Grenager</author>
+<author pid="133/2070">David Hall 0006</author>
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="36/2275">Bill MacCartney</author>
+<author pid="36/6578">Marie-Catherine de Marneffe</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="70/1842">Eric Yeh</author>
+<author pid="m/ChristopherDManning">Christopher D. Manning</author>
+<title>Learning Alignments and Leveraging Natural Logic.</title>
+<pages>165-170</pages>
+<year>2007</year>
+<booktitle>ACL-PASCAL@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W07-1427/</ee>
+<crossref>conf/acl/2007pascal</crossref>
+<url>db/conf/acl/2007pascal.html#ChambersCGHKMMR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/HughesR07" mdate="2019-09-13">
+<author pid="36/8052">Thad Hughes</author>
+<author pid="47/5036">Daniel Ramage</author>
+<title>Lexical Semantic Relatedness with Random Graph Walks.</title>
+<pages>581-589</pages>
+<year>2007</year>
+<booktitle>EMNLP-CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D07-1061/</ee>
+<crossref>conf/emnlp/2007</crossref>
+<url>db/conf/emnlp/emnlp2007.html#HughesR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/expcs/RamageO07" mdate="2018-11-06">
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="29/5231">Adam J. Oliner</author>
+<title>RA: ResearchAssistant for the computational sciences.</title>
+<pages>19</pages>
+<year>2007</year>
+<booktitle>Experimental Computer Science</booktitle>
+<ee>https://doi.org/10.1145/1281700.1281719</ee>
+<crossref>conf/expcs/2007</crossref>
+<url>db/conf/expcs/expcs2007.html#RamageO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/BoydLRD02" mdate="2021-03-26">
+<author pid="77/4795">danah boyd</author>
+<author pid="56/5252">Hyun-Yeul Lee</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="d/JudithSDonath">Judith S. Donath</author>
+<title>Developing Legible Visualizations for Online Social Spaces.</title>
+<pages>115</pages>
+<year>2002</year>
+<crossref>conf/hicss/2002</crossref>
+<booktitle>HICSS</booktitle>
+<ee>https://doi.org/10.1109/HICSS.2002.994062</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HICSS.2002.994062</ee>
+<url>db/conf/hicss/hicss2002-4.html#BoydLRD02</url>
+</inproceedings>
+</r>
+<coauthors n="121" nc="1">
+<co c="0"><na f="a/Acharya:Jayadev" pid="74/5865">Jayadev Acharya</na></co>
+<co c="0"><na f="a/Agirre:Eneko" pid="a/EnekoAgirre">Eneko Agirre</na></co>
+<co c="0"><na f="a/Andrew:Galen" pid="31/1971">Galen Andrew</na></co>
+<co c="0"><na f="a/Arcas:Blaise_Ag=uuml=era_y" pid="71/6378">Blaise Ag&#252;era y Arcas</na></co>
+<co c="0"><na f="a/Augenstein:Sean" pid="64/9965">Sean Augenstein</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Beaufays:Fran=ccedil=oise" pid="18/686">Fran&#231;oise Beaufays</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bonawitz:Kallista" pid="280/1646">Kallista Bonawitz</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="b/boyd:danah" pid="77/4795">danah boyd</na></co>
+<co c="0"><na f="c/Cer:Daniel_M=" pid="16/6461">Daniel M. Cer</na></co>
+<co c="0"><na f="c/Chambers:Nathanael" pid="60/557">Nathanael Chambers</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0"><na f="c/Chen:Mingqing" pid="58/9763">Mingqing Chen</na></co>
+<co c="0"><na f="c/Chuang:Jason" pid="03/9138">Jason Chuang</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="d/Donath:Judith_S=" pid="d/JudithSDonath">Judith S. Donath</na></co>
+<co c="0"><na f="d/Dumais:Susan_T=" pid="d/SusanTDumais">Susan T. Dumais</na></co>
+<co c="0"><na f="e/Eichner:Hubert" pid="51/4346">Hubert Eichner</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0"><na f="g/Garcia=Molina:Hector" pid="g/HGarciaMolina">Hector Garcia-Molina</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Grenager:Trond" pid="74/198">Trond Grenager</na></co>
+<co c="0"><na f="g/Grieskamp:Wolfgang" pid="g/WolfgangGrieskamp">Wolfgang Grieskamp</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="h/Hall_0006:David" pid="133/2070">David Hall 0006</na></co>
+<co c="0"><na f="h/Hampson:Seth" pid="202/1252">Seth Hampson</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/Hard:Andrew" pid="230/3939">Andrew Hard</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Heer:Jeffrey" pid="27/4508">Jeffrey Heer</na></co>
+<co c="0"><na f="h/Heymann:Paul" pid="12/6438">Paul Heymann</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huba:Dzmitry" pid="236/4655">Dzmitry Huba</na></co>
+<co c="0"><na f="h/Hughes:Thad" pid="36/8052">Thad Hughes</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="i/Ingerman:Alex" pid="236/4397">Alex Ingerman</na></co>
+<co c="0"><na f="i/Ivanov:Vladimir" pid="89/4816">Vladimir Ivanov</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="0"><na f="j/Johri:Nikhil" pid="75/9281">Nikhil Johri</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="j/Jurafsky:Daniel" pid="31/985">Daniel Jurafsky</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Kiddon:Chlo=eacute=" pid="08/10907">Chlo&#233; Kiddon</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Kong:Nicholas" pid="00/1560">Nicholas Kong</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0"><na f="k/Kreuter:Ben" pid="190/7832">Ben Kreuter</na></co>
+<co c="0"><na f="l/Lee:Hyun=Yeul" pid="56/5252">Hyun-Yeul Lee</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Li:Wei" pid="64/6025">Wei Li</na></co>
+<co c="0"><na f="l/Liebling:Daniel_J=" pid="10/2450">Daniel J. Liebling</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="m/MacCartney:Bill" pid="36/2275">Bill MacCartney</na></co>
+<co c="0"><na f="m/Manning:Christopher_D=" pid="m/ChristopherDManning">Christopher D. Manning</na></co>
+<co c="0"><na f="m/Marcedone:Antonio" pid="138/8983">Antonio Marcedone</na></co>
+<co c="0"><na f="m/Marneffe:Marie=Catherine_de" pid="36/6578">Marie-Catherine de Marneffe</na></co>
+<co c="0"><na f="m/Mathews:Rajiv" pid="230/3901">Rajiv Mathews</na></co>
+<co c="0"><na f="m/Mazzocchi:Stefano" pid="80/1223">Stefano Mazzocchi</na></co>
+<co c="0"><na f="m/McFarland:Daniel_A=" pid="77/8035">Daniel A. McFarland</na></co>
+<co c="0" n="2"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na><na>Brendan McMahan</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="m/Moore:Eider" pid="176/5430">Eider Moore</na></co>
+<co c="0"><na f="m/Morris:Meredith_Ringel" pid="m/MeredithRingelMorris">Meredith Ringel Morris</na></co>
+<co c="0"><na f="n/Nallapati:Ramesh" pid="59/4797">Ramesh Nallapati</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="-1"><na f="o/Oliner:Adam_J=" pid="29/5231">Adam J. Oliner</na></co>
+<co c="0"><na f="o/Overveldt:Timon_Van" pid="47/10671">Timon Van Overveldt</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Patel:Sarvar" pid="04/773">Sarvar Patel</na></co>
+<co c="0"><na f="p/Petrou:David" pid="86/2622">David Petrou</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="r/Rafferty:Anna_N=" pid="26/6934">Anna N. Rafferty</na></co>
+<co c="0"><na f="r/Ramaswamy:Swaroop" pid="242/9298">Swaroop Ramaswamy</na></co>
+<co c="0"><na f="r/Rao:Kanishka" pid="166/1701">Kanishka Rao</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/Richt=aacute=rik:Peter" pid="62/8001">Peter Richt&#225;rik</na></co>
+<co c="0"><na f="r/Roselander:Jason" pid="236/4617">Jason Roselander</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="s/Segal:Aaron" pid="63/10309">Aaron Segal</na></co>
+<co c="0"><na f="s/Seth:Karn" pid="125/0309">Karn Seth</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Soroa:Aitor" pid="03/6734">Aitor Soroa</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/Sun:Haicheng" pid="45/8692">Haicheng Sun</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="t/Talwar:Kunal" pid="06/3696">Kunal Talwar</na></co>
+<co c="0"><na f="t/Teevan:Jaime" pid="38/129">Jaime Teevan</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wang:Kangkang" pid="03/9859">Kangkang Wang</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Timothy" pid="232/1663">Timothy Yang</na></co>
+<co c="0"><na f="y/Yeh:Eric" pid="70/1842">Eric Yeh</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="z/Zhang_0001:Li" pid="89/5992-1">Li Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+</coauthors>
+</dblpperson>
+

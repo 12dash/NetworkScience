@@ -1,3 +1,105 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cfe2206ff86f9b1ed5a43cd964a68f8f12b4143d24dc0ef6050889fc05391a26
-size 4740
+<?xml version="1.0"?>
+<dblpperson name="Youngjoo Seo" pid="122/2952" n="6">
+<person key="homepages/122/2952" mdate="2012-12-01">
+<author pid="122/2952">Youngjoo Seo</author>
+</person>
+<r><inproceedings key="conf/iconip/SeoMKT19" mdate="2019-12-13">
+<author pid="122/2952">Youngjoo Seo</author>
+<author pid="194/9923">Manuel Morante Moreno</author>
+<author pid="18/2946">Yannis Kopsinis</author>
+<author pid="06/3006">Sergios Theodoridis</author>
+<title>Unsupervised Pre-training of the Brain Connectivity Dynamic Using Residual D-Net.</title>
+<pages>608-620</pages>
+<year>2019</year>
+<booktitle>ICONIP (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-36718-3_51</ee>
+<crossref>conf/iconip/2019-3</crossref>
+<url>db/conf/iconip/iconip2019-3.html#SeoMKT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/SeoDVB18" mdate="2018-12-03">
+<author pid="122/2952">Youngjoo Seo</author>
+<author pid="182/2568">Micha&#235;l Defferrard</author>
+<author pid="16/355">Pierre Vandergheynst</author>
+<author pid="95/378">Xavier Bresson</author>
+<title>Structured Sequence Modeling with Graph Convolutional Recurrent Networks.</title>
+<pages>362-373</pages>
+<year>2018</year>
+<booktitle>ICONIP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-04167-0_33</ee>
+<crossref>conf/iconip/2018-1</crossref>
+<url>db/conf/iconip/iconip2018-1.html#SeoDVB18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-07672" mdate="2018-08-13">
+<author pid="122/2952">Youngjoo Seo</author>
+<author pid="194/9923">Manuel Morante Moreno</author>
+<author pid="18/2946">Yannis Kopsinis</author>
+<author pid="06/3006">Sergios Theodoridis</author>
+<title>Unsupervised learning of the brain connectivity dynamic using residual D-net.</title>
+<year>2018</year>
+<volume>abs/1804.07672</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.07672</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-07672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SeoDVB16" mdate="2018-08-13">
+<author pid="122/2952">Youngjoo Seo</author>
+<author orcid="0000-0002-6028-9024" pid="182/2568">Micha&#235;l Defferrard</author>
+<author pid="16/355">Pierre Vandergheynst</author>
+<author pid="95/378">Xavier Bresson</author>
+<title>Structured Sequence Modeling with Graph Convolutional Recurrent Networks.</title>
+<year>2016</year>
+<volume>abs/1612.07659</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.07659</ee>
+<url>db/journals/corr/corr1612.html#SeoDVB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SeoKJKY14" mdate="2017-05-19">
+<author pid="122/2952">Youngjoo Seo</author>
+<author pid="38/1733">Jongmin Kim</author>
+<author pid="148/9734">Hoyong Jang</author>
+<author pid="46/3725">Tae-Ho Kim</author>
+<author pid="31/7819">Chang D. Yoo</author>
+<title>Joint learning of foreground region labeling and depth ordering.</title>
+<pages>5100-5104</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6854574</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#SeoKJKY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/KimSPYY12" mdate="2017-05-21">
+<author pid="38/1733">Jongmin Kim</author>
+<author pid="122/2952">Youngjoo Seo</author>
+<author pid="81/4939">Sanghyuk Park</author>
+<author pid="67/8053">Sungrack Yun</author>
+<author pid="31/7819">Chang D. Yoo</author>
+<title>Joint Kernel Learning for Supervised Image Segmentation.</title>
+<pages>607-621</pages>
+<year>2012</year>
+<crossref>conf/accv/2012-1</crossref>
+<booktitle>ACCV (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37331-2_46</ee>
+<url>db/conf/accv/accv2012-1.html#KimSPYY12</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="3">
+<co c="1"><na f="b/Bresson:Xavier" pid="95/378">Xavier Bresson</na></co>
+<co c="1"><na f="d/Defferrard:Micha=euml=l" pid="182/2568">Micha&#235;l Defferrard</na></co>
+<co c="0"><na f="j/Jang:Hoyong" pid="148/9734">Hoyong Jang</na></co>
+<co c="0"><na f="k/Kim:Jongmin" pid="38/1733">Jongmin Kim</na></co>
+<co c="0"><na f="k/Kim:Tae=Ho" pid="46/3725">Tae-Ho Kim</na></co>
+<co c="2"><na f="k/Kopsinis:Yannis" pid="18/2946">Yannis Kopsinis</na></co>
+<co c="2"><na f="m/Moreno:Manuel_Morante" pid="194/9923">Manuel Morante Moreno</na></co>
+<co c="0"><na f="p/Park:Sanghyuk" pid="81/4939">Sanghyuk Park</na></co>
+<co c="2"><na f="t/Theodoridis:Sergios" pid="06/3006">Sergios Theodoridis</na></co>
+<co c="1"><na f="v/Vandergheynst:Pierre" pid="16/355">Pierre Vandergheynst</na></co>
+<co c="0" n="2"><na f="y/Yoo:Chang_Dong" pid="31/7819">Chang Dong Yoo</na><na>Chang D. Yoo</na></co>
+<co c="0"><na f="y/Yun:Sungrack" pid="67/8053">Sungrack Yun</na></co>
+</coauthors>
+</dblpperson>
+

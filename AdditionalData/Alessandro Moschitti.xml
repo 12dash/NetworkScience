@@ -1,3 +1,3933 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6848fe5af55d8a9a4cd580ca606e178ab401a773f5b94aaf734991f7e83e844b
-size 179133
+<?xml version="1.0"?>
+<dblpperson name="Alessandro Moschitti" pid="54/2140" n="271">
+<person key="homepages/54/2140" mdate="2009-06-09">
+<author pid="54/2140">Alessandro Moschitti</author>
+</person>
+<r><inproceedings key="conf/ecir/LauriolaM21" mdate="2021-04-07">
+<author orcid="0000-0001-7236-061X" pid="207/4748">Ivano Lauriola</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Answer Sentence Selection Using Local and Global Context in Transformer Models.</title>
+<pages>298-312</pages>
+<year>2021</year>
+<booktitle>ECIR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-72113-8_20</ee>
+<crossref>conf/ecir/2021-1</crossref>
+<url>db/conf/ecir/ecir2021-1.html#LauriolaM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/VuM21" mdate="2021-04-07">
+<author orcid="0000-0003-1056-6975" pid="22/5260">Thuy Vu</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Machine Translation Customization via Automatic Training Data Selection from the Web.</title>
+<pages>666-679</pages>
+<year>2021</year>
+<booktitle>ECIR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-72113-8_44</ee>
+<crossref>conf/ecir/2021-1</crossref>
+<url>db/conf/ecir/ecir2021-1.html#VuM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-12093" mdate="2021-01-31">
+<author pid="228/5627">Rujun Han</author>
+<author pid="160/1741">Luca Soldaini</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Modeling Context in Answer Sentence Selection Systems on a Latency Budget.</title>
+<year>2021</year>
+<volume>abs/2101.12093</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.12093</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-12093</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-10243" mdate="2021-02-24">
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Machine Translation Customization via Automatic Training Data Selection from the Web.</title>
+<year>2021</year>
+<volume>abs/2102.10243</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10243</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10243</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-10246" mdate="2021-02-24">
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>CDA: a Cost Efficient Content-based Multilingual Web Document Aligner.</title>
+<year>2021</year>
+<volume>abs/2102.10246</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10246</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10246</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-10250" mdate="2021-02-24">
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Multilingual Answer Sentence Reranking via Automatically Translated Data.</title>
+<year>2021</year>
+<volume>abs/2102.10250</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10250</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10250</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GargVM20" mdate="2021-02-02">
+<author pid="82/8467">Siddhant Garg</author>
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection.</title>
+<pages>7780-7788</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://aaai.org/ojs/index.php/AAAI/article/view/6282</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#GargVM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/SoldainiM20" mdate="2021-01-08">
+<author pid="160/1741">Luca Soldaini</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>The Cascade Transformer: an Application for Efficient Answer Sentence Selection.</title>
+<pages>5697-5708</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.504</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.acl-main.504/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#SoldainiM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/LielloBMGFR20" mdate="2020-12-16">
+<author pid="271/0992">Luca Di Liello</author>
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="06/3335">Cristina Giannone</author>
+<author pid="209/2681">Andrea Favalli</author>
+<author pid="209/2673">Raniero Romagnoli</author>
+<title>Cross-Language Transformer Adaptation for Frequently Asked Questions.</title>
+<year>2020</year>
+<booktitle>CLiC-it</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2769/paper_85.pdf</ee>
+<crossref>conf/clic-it/2020</crossref>
+<url>db/conf/clic-it/clic-it2020.html#LielloBMGFR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/UvaRM20" mdate="2020-12-16">
+<author pid="86/2671">Antonio E. Uva</author>
+<author pid="11/3226">Pierluigi Roberti</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Dialog-based Help Desk through Automated Question Answering and Intent Detection.</title>
+<year>2020</year>
+<booktitle>CLiC-it</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2769/paper_84.pdf</ee>
+<crossref>conf/clic-it/2020</crossref>
+<url>db/conf/clic-it/clic-it2020.html#UvaRM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/BonadimanM20" mdate="2021-01-08">
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Study on Efficiency, Accuracy and Document Structure for Answer Sentence Selection.</title>
+<pages>5211-5222</pages>
+<year>2020</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.coling-main.457</ee>
+<ee type="oa">https://www.aclweb.org/anthology/2020.coling-main.457/</ee>
+<crossref>conf/coling/2020</crossref>
+<url>db/conf/coling/coling2020.html#BonadimanM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MatsubaraVM20" mdate="2020-09-05">
+<author orcid="0000-0002-5620-0760" pid="194/5593">Yoshitomo Matsubara</author>
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Reranking for Efficient Transformer-based Answer Selection.</title>
+<pages>1577-1580</pages>
+<year>2020</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3397271.3401266</ee>
+<crossref>conf/sigir/2020</crossref>
+<url>db/conf/sigir/sigir2020.html#MatsubaraVM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-02349" mdate="2020-03-10">
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Study on Efficiency, Accuracy and Document Structure for Answer Sentence Selection.</title>
+<year>2020</year>
+<volume>abs/2003.02349</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.02349</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-02349</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-00705" mdate="2020-05-08">
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>AVA: an Automatic eValuation Approach to Question Answering Systems.</title>
+<year>2020</year>
+<volume>abs/2005.00705</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.00705</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-00705</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-02534" mdate="2020-05-09">
+<author pid="160/1741">Luca Soldaini</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>The Cascade Transformer: an Application for Efficient Answer Sentence Selection.</title>
+<year>2020</year>
+<volume>abs/2005.02534</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.02534</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-02534</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-01285" mdate="2020-06-08">
+<author pid="207/4748">Ivano Lauriola</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Context-based Transformer Models for Answer Sentence Selection.</title>
+<year>2020</year>
+<volume>abs/2006.01285</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.01285</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-01285</url>
+</article>
+</r>
+<r><article key="journals/ipm/RomeoMBBEDMGM19" mdate="2020-02-21">
+<author pid="135/3229">Salvatore Romeo</author>
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="136/8705">Yonatan Belinkov</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author orcid="0000-0002-8702-5133" pid="204/1263">Mohamed Eldesouki</author>
+<author pid="13/5913">Kareem Darwish</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Language processing and learning models for community question answering in Arabic.</title>
+<pages>274-290</pages>
+<year>2019</year>
+<volume>56</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.ipm.2017.07.003</ee>
+<url>db/journals/ipm/ipm56.html#RomeoMBBEDMGM19</url>
+</article>
+</r>
+<r><article key="journals/nle/NakovMMM19" mdate="2020-03-25">
+<author orcid="0000-0002-3600-1510" pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<title>Arabic community question answering.</title>
+<pages>5-41</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>Nat. Lang. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S1351324918000426</ee>
+<url>db/journals/nle/nle25.html#NakovMMM19</url>
+</article>
+</r>
+<r><article key="journals/tois/TymoshenkoM19" mdate="2019-05-09">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Shallow and Deep Syntactic/Semantic Structures for Passage Reranking in Question-Answering Systems.</title>
+<pages>8:1-8:38</pages>
+<year>2019</year>
+<volume>37</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3233772</ee>
+<url>db/journals/tois/tois37.html#TymoshenkoM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/MartinoSAM19" mdate="2021-02-02">
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="s/ASperduti">Alessandro Sperduti</author>
+<author pid="66/1574">Fabio Aiolli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Efficient Online Learning for Mapping Kernels on Linguistic Structures.</title>
+<pages>3421-3428</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33013421</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#MartinoSAM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ChenM19" mdate="2021-02-02">
+<author pid="203/9440">Lingzhen Chen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Transfer Learning for Sequence Labeling Using Source Model and Target Data.</title>
+<pages>6260-6267</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33016260</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/HaponchykM19" mdate="2020-01-28">
+<author pid="203/9515">Iryna Haponchyk</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Study of Latent Structured Prediction Approaches to Passage Reranking.</title>
+<pages>1847-1857</pages>
+<year>2019</year>
+<booktitle>NAACL-HLT (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n19-1183</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N19-1183/</ee>
+<crossref>conf/naacl/2019-1</crossref>
+<url>db/conf/naacl/naacl2019-1.html#HaponchykM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-05309" mdate="2019-05-21">
+<author pid="203/9440">Lingzhen Chen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Transfer Learning for Sequence Labeling Using Source Model and Target Data.</title>
+<year>2019</year>
+<volume>abs/1902.05309</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.05309</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-05309</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-04118" mdate="2019-12-01">
+<author pid="82/8467">Siddhant Garg</author>
+<author pid="22/5260">Thuy Vu</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection.</title>
+<year>2019</year>
+<volume>abs/1911.04118</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.04118</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-04118</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-08755" mdate="2019-12-03">
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="99/11030">Simone Filice</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Global Thread-Level Inference for Comment Classification in Community Question Answering.</title>
+<year>2019</year>
+<volume>abs/1911.08755</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.08755</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-08755</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11403" mdate="2019-12-03">
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="56/1909">Walid Magdy</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="186/7139">Bilal Randeree</author>
+<title>SemEval-2015 Task 3: Answer Selection in Community Question Answering.</title>
+<year>2019</year>
+<volume>abs/1911.11403</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11403</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11403</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-00730" mdate="2020-01-02">
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="174/0013">Doris Hoogeveen</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<author pid="65/4863">Timothy Baldwin</author>
+<author pid="07/6465">Karin Verspoor</author>
+<title>SemEval-2017 Task 3: Community Question Answering.</title>
+<year>2019</year>
+<volume>abs/1912.00730</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.00730</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-00730</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01972" mdate="2020-01-02">
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="56/1909">Walid Magdy</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<author pid="186/7418">Abed Alhakim Freihat</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="186/7139">Bilal Randeree</author>
+<title>SemEval-2016 Task 3: Community Question Answering.</title>
+<year>2019</year>
+<volume>abs/1912.01972</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01972</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01972</url>
+</article>
+</r>
+<r><article key="journals/ia/FiliceM18" mdate="2019-02-06">
+<author pid="99/11030">Simone Filice</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning pairwise patterns in Community Question Answering.</title>
+<pages>49-65</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>Intelligenza Artificiale</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/IA-170034</ee>
+<url>db/journals/ia/ia12.html#FiliceM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/RomeoMBM18" mdate="2019-09-16">
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Flexible, Efficient and Accurate Framework for Community Question Answering Pipelines.</title>
+<pages>134-139</pages>
+<year>2018</year>
+<booktitle>ACL (4)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-4023/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-4023</ee>
+<crossref>conf/acl/2018-4</crossref>
+<url>db/conf/acl/acl2018-4.html#RomeoMBM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/UvaBM18" mdate="2019-09-16">
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Injecting Relational Structural Representation in Neural Networks for Question Similarity.</title>
+<pages>285-291</pages>
+<year>2018</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P18-2046/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-2046</ee>
+<crossref>conf/acl/2018-2</crossref>
+<url>db/conf/acl/acl2018-2.html#UvaBM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/CatalinZNBM18" mdate="2019-05-28">
+<author pid="229/9083">Andrei Catalin</author>
+<author pid="229/9072">Giacomo Zara</author>
+<author pid="191/4052">Yaroslav Nechaev</author>
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Exploiting Deep Neural Networks for Tweet-based Emoji Prediction.</title>
+<pages>116-128</pages>
+<year>2018</year>
+<booktitle>NL4AI@AI*IA</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2244/paper_11.pdf</ee>
+<crossref>conf/aiia/2018nl4ai</crossref>
+<url>db/conf/aiia/nl4ai2018.html#CatalinZNBM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/ChenMCFR18" mdate="2019-05-28">
+<author pid="203/9440">Lingzhen Chen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="126/2079">Giuseppe Castellucci</author>
+<author pid="209/2681">Andrea Favalli</author>
+<author pid="209/2673">Raniero Romagnoli</author>
+<title>Transfer Learning for Industrial Applications of Named Entity Recognition.</title>
+<pages>129-140</pages>
+<year>2018</year>
+<booktitle>NL4AI@AI*IA</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2244/paper_12.pdf</ee>
+<crossref>conf/aiia/2018nl4ai</crossref>
+<url>db/conf/aiia/nl4ai2018.html#ChenMCFR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/ChenM18" mdate="2019-09-13">
+<author pid="203/9440">Lingzhen Chen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Progressively Recognize New Named Entities with Sequence to Sequence Models.</title>
+<pages>2181-2191</pages>
+<year>2018</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C18-1185/</ee>
+<crossref>conf/coling/2018</crossref>
+<url>db/conf/coling/coling2018.html#ChenM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ShahLMRN18" mdate="2020-01-28">
+<author pid="227/2738">Darsh J. Shah</author>
+<author pid="91/8024-1">Tao Lei 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Adversarial Domain Adaptation for Duplicate Question Detection.</title>
+<pages>1056-1063</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1131</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1131/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#ShahLMRN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NicosiaM18" mdate="2020-01-28">
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Linking in Convolutional Neural Networks for Answer Sentence Selection.</title>
+<pages>1070-1076</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1133</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1133/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#NicosiaM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/TymoshenkoM18" mdate="2020-01-28">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Cross-Pair Text Representations for Answer Sentence Selection.</title>
+<pages>2162-2173</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1240</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1240/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#TymoshenkoM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/Haponchyk0YUM18" mdate="2020-01-28">
+<author pid="203/9515">Iryna Haponchyk</author>
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="66/7064">Seunghak Yu</author>
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Supervised Clustering of Questions into Intents for Dialog System Applications.</title>
+<pages>2310-2321</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1254</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D18-1254/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#Haponchyk0YUM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/BalyMGMMN18" mdate="2020-01-28">
+<author pid="187/7326">Ramy Baly</author>
+<author pid="77/7405">Mitra Mohtarami</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Integrating Stance Detection and Fact Checking in a Unified Corpus.</title>
+<pages>21-27</pages>
+<year>2018</year>
+<booktitle>NAACL-HLT (2)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n18-2004</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N18-2004/</ee>
+<crossref>conf/naacl/2018-2</crossref>
+<url>db/conf/naacl/naacl2018-2.html#BalyMGMMN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/MohtaramiBGNMM18" mdate="2020-01-28">
+<author pid="77/7405">Mitra Mohtarami</author>
+<author pid="187/7326">Ramy Baly</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Automatic Stance Detection Using End-to-End Memory Networks.</title>
+<pages>767-776</pages>
+<year>2018</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n18-1070</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N18-1070/</ee>
+<crossref>conf/naacl/2018-1</crossref>
+<url>db/conf/naacl/naacl2018-1.html#MohtaramiBGNMM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-07581" mdate="2018-08-13">
+<author pid="77/7405">Mitra Mohtarami</author>
+<author pid="187/7326">Ramy Baly</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Automatic Stance Detection Using End-to-End Memory Networks.</title>
+<year>2018</year>
+<volume>abs/1804.07581</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.07581</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-07581</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-08012" mdate="2018-08-13">
+<author pid="187/7326">Ramy Baly</author>
+<author pid="77/7405">Mitra Mohtarami</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Integrating Stance Detection and Fact Checking in a Unified Corpus.</title>
+<year>2018</year>
+<volume>abs/1804.08012</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.08012</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-08012</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-08009" mdate="2019-09-18">
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Injecting Relational Structural Representation in Neural Networks for Question Similarity.</title>
+<year>2018</year>
+<volume>abs/1806.08009</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.08009</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-08009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02255" mdate="2019-07-22">
+<author pid="227/2738">Darsh J. Shah</author>
+<author pid="91/8024-1">Tao Lei 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Adversarial Domain Adaptation for Duplicate Question Detection.</title>
+<year>2018</year>
+<volume>abs/1809.02255</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02255</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02255</url>
+</article>
+</r>
+<r><article key="journals/jmlr/FiliceCMMCB17" mdate="2019-07-10">
+<author pid="99/11030">Simone Filice</author>
+<author pid="126/2079">Giuseppe Castellucci</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="38/2048">Danilo Croce</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>KELP: a Kernel-based Learning Platform.</title>
+<pages>191:1-191:5</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v18/16-087.html</ee>
+<url>db/journals/jmlr/jmlr18.html#FiliceCMMCB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/TymoshenkoMNS17" mdate="2019-08-20">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="86/8354">Aliaksei Severyn</author>
+<title>RelTextRank: An Open Source Framework for Building Relational Syntactic-Semantic Text Pair Representations.</title>
+<pages>79-84</pages>
+<year>2017</year>
+<booktitle>ACL (System Demonstrations)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-4014</ee>
+<crossref>conf/acl/2017-d</crossref>
+<url>db/conf/acl/acl2017-d.html#TymoshenkoMNS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/AbadNM17" mdate="2019-08-20">
+<author pid="84/8153">Azad Abad</author>
+<author pid="167/0748">Moin Nabi</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Self-Crowdsourcing Training for Relation Extraction.</title>
+<pages>518-523</pages>
+<year>2017</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-2082</ee>
+<crossref>conf/acl/2017-2</crossref>
+<url>db/conf/acl/acl2017-2.html#AbadNM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/HaponchykM17" mdate="2019-08-20">
+<author pid="203/9515">Iryna Haponchyk</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Don't understand a measure? Learn it: Structured Prediction for Coreference Resolution optimizing its measures.</title>
+<pages>1018-1028</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1094</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#HaponchykM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/NicosiaM17" mdate="2018-11-06">
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Accurate Sentence Matching with Hybrid Siamese Networks.</title>
+<pages>2235-2238</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3133156</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#NicosiaM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/BarlacchiLM17" mdate="2019-05-28">
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="99/6489">Bruno Lepri</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Predicting Land Use of Italian Cities using Structural Semantic Models.</title>
+<year>2017</year>
+<booktitle>CLiC-it</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2006/paper078.pdf</ee>
+<crossref>conf/clic-it/2017</crossref>
+<url>db/conf/clic-it/clic-it2017.html#BarlacchiLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/BonadimanCFRM17" mdate="2019-05-28">
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="126/2079">Giuseppe Castellucci</author>
+<author pid="209/2681">Andrea Favalli</author>
+<author pid="209/2673">Raniero Romagnoli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Neural Sentiment Analysis for a Real-World Application.</title>
+<year>2017</year>
+<booktitle>CLiC-it</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2006/paper080.pdf</ee>
+<crossref>conf/clic-it/2017</crossref>
+<url>db/conf/clic-it/clic-it2017.html#BonadimanCFRM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/UvaSCIM17" mdate="2019-05-28">
+<author pid="86/2671">Antonio E. Uva</author>
+<author pid="80/11030">Valerio Storch</author>
+<author pid="209/2873">Casimiro Carrino</author>
+<author pid="10/5315">Ugo Di Iorio</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Commercial Applications through Community Question Answering Technology.</title>
+<year>2017</year>
+<booktitle>CLiC-it</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2006/paper067.pdf</ee>
+<crossref>conf/clic-it/2017</crossref>
+<url>db/conf/clic-it/clic-it2017.html#UvaSCIM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/UryupinaM17" mdate="2019-08-20">
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Collaborative Partitioning for Coreference Resolution.</title>
+<pages>47-57</pages>
+<year>2017</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/K17-1007</ee>
+<crossref>conf/conll/2017</crossref>
+<url>db/conf/conll/conll2017.html#UryupinaM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/NicosiaM17" mdate="2019-08-20">
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning Contextual Embeddings for Structural Semantic Similarity using Categorical Information.</title>
+<pages>260-270</pages>
+<year>2017</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/K17-1027</ee>
+<crossref>conf/conll/2017</crossref>
+<url>db/conf/conll/conll2017.html#NicosiaM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/MoschittiH17" mdate="2020-01-29">
+<author pid="203/9515">Iryna Haponchyk</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Practical Perspective on Latent Structured Prediction for Coreference Resolution.</title>
+<pages>143-149</pages>
+<year>2017</year>
+<booktitle>EACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/e17-2023</ee>
+<ee type="oa">https://www.aclweb.org/anthology/E17-2023/</ee>
+<crossref>conf/eacl/2017-2</crossref>
+<url>db/conf/eacl/eacl2017-2.html#MoschittiH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/MoschittiBU17" mdate="2020-01-29">
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Effective shared representations with Multitask Learning for Community Question Answering.</title>
+<pages>726-732</pages>
+<year>2017</year>
+<booktitle>EACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/e17-2115</ee>
+<ee type="oa">https://www.aclweb.org/anthology/E17-2115/</ee>
+<crossref>conf/eacl/2017-2</crossref>
+<url>db/conf/eacl/eacl2017-2.html#MoschittiBU17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/RomeoMBM17" mdate="2019-10-19">
+<author pid="135/3229">Salvatore Romeo</author>
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Multiple-Instance Learning Approach to Sentence Selection for Question Ranking.</title>
+<pages>437-449</pages>
+<year>2017</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56608-5_34</ee>
+<crossref>conf/ecir/2017</crossref>
+<url>db/conf/ecir/ecir2017.html#RomeoMBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/TymoshenkoBM17" mdate="2020-01-28">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Ranking Kernels for Structures and Embeddings: A Hybrid Preference and Classification Model.</title>
+<pages>897-902</pages>
+<year>2017</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d17-1093</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D17-1093/</ee>
+<crossref>conf/emnlp/2017</crossref>
+<url>db/conf/emnlp/emnlp2017.html#TymoshenkoBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BarlacchiRLM17" mdate="2018-01-02">
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="33/10944">Alberto Rossi</author>
+<author pid="99/6489">Bruno Lepri</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Structural Semantic Models for Automatic Analysis of Urban Areas.</title>
+<pages>279-291</pages>
+<year>2017</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71273-4_23</ee>
+<crossref>conf/pkdd/2017-3</crossref>
+<url>db/conf/pkdd/pkdd2017-3.html#BarlacchiRLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ranlp/BoyanovNMMK17" mdate="2019-09-18">
+<author pid="184/2044">Martin Boyanov</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="88/2617">Ivan Koychev</author>
+<title>Building Chatbots from Forum Data: Model Selection Using Question Answering Metrics.</title>
+<pages>121-129</pages>
+<year>2017</year>
+<booktitle>RANLP</booktitle>
+<ee type="oa">https://doi.org/10.26615/978-954-452-049-6_018</ee>
+<crossref>conf/ranlp/2017</crossref>
+<url>db/conf/ranlp/ranlp2017.html#BoyanovNMMK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/NakovHMMMBV17" mdate="2019-08-20">
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="174/0013">Doris Hoogeveen</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<author pid="65/4863">Timothy Baldwin</author>
+<author pid="07/6465">Karin Verspoor</author>
+<title>SemEval-2017 Task 3: Community Question Answering.</title>
+<pages>27-48</pages>
+<year>2017</year>
+<booktitle>SemEval@ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/S17-2003</ee>
+<crossref>conf/semeval/2017</crossref>
+<url>db/conf/semeval/semeval2017.html#NakovHMMMBV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/FiliceMM17" mdate="2019-08-20">
+<author pid="99/11030">Simone Filice</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>KeLP at SemEval-2017 Task 3: Learning Pairwise Patterns in Community Question Answering.</title>
+<pages>326-333</pages>
+<year>2017</year>
+<booktitle>SemEval@ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/S17-2053</ee>
+<crossref>conf/semeval/2017</crossref>
+<url>db/conf/semeval/semeval2017.html#FiliceMM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/AbadNM17" mdate="2018-11-06">
+<author pid="84/8153">Azad Abad</author>
+<author pid="167/0748">Moin Nabi</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Autonomous Crowdsourcing through Human-Machine Collaborative Learning.</title>
+<pages>873-876</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3080666</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#AbadNM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MartinoRBJMMN17" mdate="2019-12-27">
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0002-3600-1510" pid="19/1947">Preslav Nakov</author>
+<title>Cross-Language Question Re-Ranking.</title>
+<pages>1145-1148</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3080743</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#MartinoRBJMMN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Barron-CedenoMF17" mdate="2019-10-19">
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="99/11030">Simone Filice</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>On the Use of an Intermediate Class in Boolean Crowdsourced Relevance Annotations for Learning to Rank Comments.</title>
+<pages>1209-1212</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3080763</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#Barron-CedenoMF17</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/17/MoschittiTAWNVFMPWZ17" mdate="2019-07-29">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="93/6035">Panos Alexopoulos</author>
+<author pid="177/5649">Andrew D. Walker</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="34/2861">Guido Vetere</author>
+<author pid="35/3554">Alessandro Faraotti</author>
+<author pid="95/672">Marco Monti</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<author orcid="0000-0002-0213-5668" pid="99/6255">Honghan Wu</author>
+<author pid="96/11">Yuting Zhao</author>
+<title>Question Answering and Knowledge Graphs.</title>
+<pages>181-212</pages>
+<year>2017</year>
+<booktitle>Exploiting Linked Data and Knowledge Graphs in Large Organisations</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45654-6_7</ee>
+<ee>https://www.wikidata.org/entity/Q64453993</ee>
+<crossref>books/sp/PVGW2017</crossref>
+<url>db/books/collections/PVGW2017.html#MoschittiTAWNVFMPWZ17</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/BonadimanUM17" mdate="2018-08-13">
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="86/2671">Antonio E. Uva</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Multitask Learning with Deep Neural Networks for Community Question Answering.</title>
+<year>2017</year>
+<volume>abs/1702.03706</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.03706</ee>
+<url>db/journals/corr/corr1702.html#BonadimanUM17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-00689" mdate="2018-08-13">
+<author pid="184/2044">Martin Boyanov</author>
+<author pid="88/2617">Ivan Koychev</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<title>Building Chatbots from Forum Data: Model Selection Using Question Answering Metrics.</title>
+<year>2017</year>
+<volume>abs/1710.00689</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.00689</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-00689</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-01487" mdate="2018-08-13">
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Cross-Language Question Re-Ranking.</title>
+<year>2017</year>
+<volume>abs/1710.01487</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.01487</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-01487</url>
+</article>
+</r>
+<r><article key="journals/ipm/SeverynMUPF16" mdate="2020-10-26">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="29/8156">Olga Uryupina</author>
+<author orcid="0000-0002-4394-1965" pid="46/521">Barbara Plank</author>
+<author pid="24/5028">Katja Filippova</author>
+<title>Multi-lingual opinion mining on YouTube.</title>
+<pages>46-60</pages>
+<year>2016</year>
+<volume>52</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.ipm.2015.03.002</ee>
+<url>db/journals/ipm/ipm52.html#SeverynMUPF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/UryupinaPBVTUM16" mdate="2019-08-20">
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="46/521">Barbara Plank</author>
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="22/4437">Francisco J. Valverde-Albacete</author>
+<author pid="27/5801">Manos Tsagkias</author>
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>LiMoSINe Pipeline: Multilingual UIMA-based NLP Platform.</title>
+<pages>157-162</pages>
+<year>2016</year>
+<booktitle>ACL (System Demonstrations)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P16-4027</ee>
+<crossref>conf/acl/2016-d</crossref>
+<url>db/conf/acl/acl2016-d.html#UryupinaPBVTUM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/MartinoBR0M16" mdate="2019-10-19">
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Re-Rank Questions in Community Question Answering Using Advanced Features.</title>
+<pages>1997-2000</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983893</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#MartinoBR0M16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/TymoshenkoBM16" mdate="2018-11-06">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Rank Non-Factoid Answers: Comment Selection in Web Forums.</title>
+<pages>2049-2052</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983906</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#TymoshenkoBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/0002M16" mdate="2019-05-28">
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Tree Kernels-based Discriminative Reranker for Italian Constituency Parsers.</title>
+<year>2016</year>
+<booktitle>CLiC-it/EVALITA</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1749/paper54.pdf</ee>
+<crossref>conf/clic-it/2016</crossref>
+<url>db/conf/clic-it/clic-it2016.html#0002M16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clic-it/BarlacchiARM16" mdate="2019-05-28">
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="84/8153">Azad Abad</author>
+<author pid="191/4028">Emanuele Rossinelli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Appetitoso: A Search Engine for Restaurant Retrieval based on Dishes.</title>
+<year>2016</year>
+<booktitle>CLiC-it/EVALITA</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1749/paper7.pdf</ee>
+<crossref>conf/clic-it/2016</crossref>
+<url>db/conf/clic-it/clic-it2016.html#BarlacchiARM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/HoqueJMBMMNRC16" mdate="2019-09-11">
+<author pid="71/4476">Enamul Hoque</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="30/3994">Giuseppe Carenini</author>
+<title>An Interactive System for Exploring Community Question Answering Forums.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>COLING (Demos)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C16-2001/</ee>
+<crossref>conf/coling/2016d</crossref>
+<url>db/conf/coling/coling2016d.html#HoqueJMBMMNRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/RomeoMBMBHZMG16" mdate="2019-09-11">
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="136/8705">Yonatan Belinkov</author>
+<author pid="160/9923">Wei-Ning Hsu</author>
+<author pid="50/671-33">Yu Zhang 0033</author>
+<author pid="77/7405">Mitra Mohtarami</author>
+<author pid="37/6580">James R. Glass</author>
+<title>Neural Attention for Learning to Rank Questions in Community Question Answering.</title>
+<pages>1734-1745</pages>
+<year>2016</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C16-1163/</ee>
+<crossref>conf/coling/2016</crossref>
+<url>db/conf/coling/coling2016.html#RomeoMBMBHZMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/Barron-CedenoMR16" mdate="2019-09-11">
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Selecting Sentences versus Selecting Tree Constituents for Automatic Question Ranking.</title>
+<pages>2515-2525</pages>
+<year>2016</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C16-1237/</ee>
+<crossref>conf/coling/2016</crossref>
+<url>db/conf/coling/coling2016.html#Barron-CedenoMR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iir/NicosiaM16" mdate="2019-05-28">
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Crossword Puzzle Resolution in Italian using Distributional Models for Clue Similarity.</title>
+<year>2016</year>
+<booktitle>IIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1653/paper_17.pdf</ee>
+<crossref>conf/iir/2016</crossref>
+<url>db/conf/iir/iir2016.html#NicosiaM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/FiliceM16" mdate="2020-01-28">
+<author pid="99/11030">Simone Filice</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Recognize Ancillary Information for Automatic Paraphrase Identification.</title>
+<pages>1109-1114</pages>
+<year>2016</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n16-1129</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N16-1129/</ee>
+<crossref>conf/naacl/2016</crossref>
+<url>db/conf/naacl/naacl2016.html#FiliceM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/TymoshenkoBM16" mdate="2020-01-28">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="185/5551">Daniele Bonadiman</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Convolutional Neural Networks vs. Convolution Kernels: Feature Engineering for Answer Sentence Reranking.</title>
+<pages>1268-1278</pages>
+<year>2016</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n16-1152</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N16-1152/</ee>
+<crossref>conf/naacl/2016</crossref>
+<url>db/conf/naacl/naacl2016.html#TymoshenkoBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/LeiJBJTMM16" mdate="2020-01-28">
+<author pid="91/8024-1">Tao Lei 0001</author>
+<author pid="173/5018">Hrishikesh Joshi</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<author pid="j/TommiJaakkola">Tommi S. Jaakkola</author>
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<title>Semi-supervised Question Retrieval with Gated Convolutions.</title>
+<pages>1279-1289</pages>
+<year>2016</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/n16-1153</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N16-1153/</ee>
+<crossref>conf/naacl/2016</crossref>
+<url>db/conf/naacl/naacl2016.html#LeiJBJTMM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/NakovMMMMFGR16" mdate="2020-01-28">
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="56/1909">Walid Magdy</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<author pid="186/7418">Abed Alhakim Freihat</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="186/7139">Bilal Randeree</author>
+<title>SemEval-2016 Task 3: Community Question Answering.</title>
+<pages>525-545</pages>
+<year>2016</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s16-1083</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S16-1083/</ee>
+<crossref>conf/semeval/2016</crossref>
+<url>db/conf/semeval/semeval2016.html#NakovMMMMFGR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/Barron-CedenoMJ16" mdate="2020-01-28">
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="36/10071">Fahad Al-Obaidli</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<title>ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora.</title>
+<pages>896-903</pages>
+<year>2016</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s16-1138</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S16-1138/</ee>
+<crossref>conf/semeval/2016</crossref>
+<url>db/conf/semeval/semeval2016.html#Barron-CedenoMJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/FiliceCMB16" mdate="2020-01-28">
+<author pid="99/11030">Simone Filice</author>
+<author pid="38/2048">Danilo Croce</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>KeLP at SemEval-2016 Task 3: Learning Semantic Relations between Questions and Answers.</title>
+<pages>1116-1123</pages>
+<year>2016</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s16-1172</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S16-1172/</ee>
+<crossref>conf/semeval/2016</crossref>
+<url>db/conf/semeval/semeval2016.html#FiliceCMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MoschittiMNACS16" mdate="2018-11-14">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author orcid="0000-0002-3600-1510" pid="19/1947">Preslav Nakov</author>
+<author pid="26/1185">Eugene Agichtein</author>
+<author pid="96/3666">Charles L. A. Clarke</author>
+<author pid="15/6513">Idan Szpektor</author>
+<title>SIGIR 2016 Workshop WebQA II: Web Question Answering Beyond Factoids.</title>
+<pages>1251-1252</pages>
+<year>2016</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2911451.2917767</ee>
+<ee>https://www.wikidata.org/entity/Q57729197</ee>
+<crossref>conf/sigir/2016</crossref>
+<url>db/conf/sigir/sigir2016.html#MoschittiMNACS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/starsem/AbadM16" mdate="2020-01-28">
+<author pid="84/8153">Azad Abad</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Taking the best from the Crowd: Learning Question Passage Classification from Noisy Data.</title>
+<year>2016</year>
+<booktitle>*SEM@ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s16-2018</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S16-2018/</ee>
+<crossref>conf/starsem/2016</crossref>
+<url>db/conf/starsem/starsem2016.html#AbadM16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SeverynM16" mdate="2018-08-13">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Modeling Relational Information in Question-Answer Pairs with Convolutional Neural Networks.</title>
+<year>2016</year>
+<volume>abs/1604.01178</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.01178</ee>
+<url>db/journals/corr/corr1604.html#SeverynM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MartinoBRMJAT016" mdate="2018-08-13">
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="135/3229">Salvatore Romeo</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="36/10071">Fahad Al-Obaidli</author>
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="181/2308-1">Antonio Uva 0001</author>
+<title>Addressing Community Question Answering in English and Arabic.</title>
+<year>2016</year>
+<volume>abs/1610.05522</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.05522</ee>
+<url>db/journals/corr/corr1610.html#MartinoBRMJAT016</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/MoschittiNB15" mdate="2020-01-28">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="127/1249">Gianni Barlacchi</author>
+<title>SACRY: Syntax-based Automatic Crossword puzzle Resolution sYstem.</title>
+<pages>79-84</pages>
+<year>2015</year>
+<booktitle>ACL (System Demonstrations)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p15-4014</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P15-4014/</ee>
+<crossref>conf/acl/2015-d</crossref>
+<url>db/conf/acl/acl2015-d.html#MoschittiNB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/SeverynNBM15" mdate="2020-01-28">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Distributional Neural Networks for Automatic Resolution of Crossword Puzzles.</title>
+<pages>199-204</pages>
+<year>2015</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p15-2033</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P15-2033/</ee>
+<crossref>conf/acl/2015-2</crossref>
+<url>db/conf/acl/acl2015-2.html#SeverynNBM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/Barron-CedenoFM15" mdate="2020-01-28">
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="99/11030">Simone Filice</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Thread-Level Information for Comment Classification in Community Question Answering.</title>
+<pages>687-693</pages>
+<year>2015</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p15-2113</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P15-2113/</ee>
+<crossref>conf/acl/2015-2</crossref>
+<url>db/conf/acl/acl2015-2.html#Barron-CedenoFM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/FiliceMM15" mdate="2020-01-28">
+<author pid="99/11030">Simone Filice</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Structural Representations for Learning Relations between Pairs of Texts.</title>
+<pages>1003-1013</pages>
+<year>2015</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p15-1097</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P15-1097/</ee>
+<crossref>conf/acl/2015-1</crossref>
+<url>db/conf/acl/acl2015-1.html#FiliceMM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/TymoshenkoM15" mdate="2018-11-06">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Assessing the Impact of Syntactic and Semantic Structures for Answer Passages Reranking.</title>
+<pages>1451-1460</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2806416.2806490</ee>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#TymoshenkoM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/NicosiaBM15" mdate="2017-05-21">
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Rank Aggregated Answers for Crossword Puzzles.</title>
+<pages>556-561</pages>
+<year>2015</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-16354-3_61</ee>
+<crossref>conf/ecir/2015</crossref>
+<url>db/conf/ecir/ecir2015.html#NicosiaBM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/JotyBMFMMN15" mdate="2020-01-28">
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="99/11030">Simone Filice</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>Global Thread-level Inference for Comment Classification in Community Question Answering.</title>
+<pages>573-578</pages>
+<year>2015</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d15-1068</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D15-1068/</ee>
+<crossref>conf/emnlp/2015</crossref>
+<url>db/conf/emnlp/emnlp2015.html#JotyBMFMMN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iir/AbadM15" mdate="2019-05-28">
+<author pid="84/8153">Azad Abad</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Distant Supervision for Relation Extraction Using Tree Kernels.</title>
+<year>2015</year>
+<booktitle>IIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1404/paper_28.pdf</ee>
+<crossref>conf/iir/2015</crossref>
+<url>db/conf/iir/iir2015.html#AbadM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iir/UvaM15" mdate="2019-05-28">
+<author pid="86/2671">Antonio E. Uva</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Automatic Feature Engineering for Italian Question Answering Systems.</title>
+<year>2015</year>
+<booktitle>IIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1404/paper_27.pdf</ee>
+<crossref>conf/iir/2015</crossref>
+<url>db/conf/iir/iir2015.html#UvaM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/LeiZVMB15" mdate="2020-01-28">
+<author pid="91/8024-1">Tao Lei 0001</author>
+<author pid="48/2168-1">Yuan Zhang 0001</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez i Villodre</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<title>High-Order Low-Rank Tensors for Semantic Role Labeling.</title>
+<pages>1150-1160</pages>
+<year>2015</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/n15-1121</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N15-1121/</ee>
+<crossref>conf/naacl/2015</crossref>
+<url>db/conf/naacl/naacl2015.html#LeiZVMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/SeverynM15" mdate="2020-01-28">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>On the Automatic Learning of Sentiment Lexicons.</title>
+<pages>1397-1402</pages>
+<year>2015</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/n15-1159</ee>
+<ee type="oa">https://www.aclweb.org/anthology/N15-1159/</ee>
+<crossref>conf/naacl/2015</crossref>
+<url>db/conf/naacl/naacl2015.html#SeverynM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/NicosiaFBSMGNMM15" mdate="2020-01-28">
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="99/11030">Simone Filice</author>
+<author pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</author>
+<author pid="28/3364-1">Iman Saleh 0001</author>
+<author pid="146/4030">Hamdy Mubarak</author>
+<author pid="28/2073-1">Wei Gao 0001</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="25/3236">Giovanni Da San Martino</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="13/5913">Kareem Darwish</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="56/1909">Walid Magdy</author>
+<title>QCRI: Answer Selection for Community Question Answering - Experiments for Arabic and English.</title>
+<pages>203-209</pages>
+<year>2015</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s15-2036</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S15-2036/</ee>
+<crossref>conf/semeval/2015</crossref>
+<url>db/conf/semeval/semeval2015.html#NicosiaFBSMGNMM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/NakovMMMGR15" mdate="2020-01-28">
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="56/1909">Walid Magdy</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="186/7139">Bilal Randeree</author>
+<title>SemEval-2015 Task 3: Answer Selection in Community Question Answering.</title>
+<pages>269-281</pages>
+<year>2015</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s15-2047</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S15-2047/</ee>
+<crossref>conf/semeval/2015</crossref>
+<url>db/conf/semeval/semeval2015.html#NakovMMMGR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/SeverynM15" mdate="2020-01-28">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>UNITN: Training Deep Convolutional Neural Network for Twitter Sentiment Classification.</title>
+<pages>464-469</pages>
+<year>2015</year>
+<booktitle>SemEval@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s15-2079</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S15-2079/</ee>
+<crossref>conf/semeval/2015</crossref>
+<url>db/conf/semeval/semeval2015.html#SeverynM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SeverynM15" mdate="2018-11-26">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks.</title>
+<pages>373-382</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767738</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#SeverynM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SeverynM15a" mdate="2018-11-06">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Twitter Sentiment Analysis with Deep Convolutional Neural Networks.</title>
+<pages>959-962</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767830</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#SeverynM15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/starsem/UryupinaM15" mdate="2020-01-28">
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A State-of-the-Art Mention-Pair Model for Coreference Resolution.</title>
+<pages>289-298</pages>
+<year>2015</year>
+<booktitle>*SEM@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/s15-1034</ee>
+<ee type="oa">https://www.aclweb.org/anthology/S15-1034/</ee>
+<crossref>conf/starsem/2015</crossref>
+<url>db/conf/starsem/starsem2015.html#UryupinaM15</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/CroceBM15" mdate="2017-07-17">
+<author orcid="0000-0001-9111-1950" pid="38/2048">Danilo Croce</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Tree Kernels for Statistical Natural Language Learning.</title>
+<pages>93-113</pages>
+<year>2015</year>
+<booktitle>Italian Natural Language Processing within the PARLI Project</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14206-7_5</ee>
+<crossref>series/sci/2015-589</crossref>
+<url>db/series/sci/sci589.html#CroceBM15</url>
+</incollection>
+</r>
+<r><proceedings key="conf/conll/2015" mdate="2019-09-16">
+<editor pid="69/8699">Afra Alishahi</editor>
+<editor pid="54/2140">Alessandro Moschitti</editor>
+<title>Proceedings of the 19th Conference on Computational Natural Language Learning, CoNLL 2015, Beijing, China, July 30-31, 2015</title>
+<booktitle>CoNLL</booktitle>
+<year>2015</year>
+<publisher>ACL</publisher>
+<isbn>978-1-941643-77-8</isbn>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/K15-1/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/K15-1000/</ee>
+<url>db/conf/conll/conll2015.html</url>
+</proceedings>
+</r>
+<r><proceedings key="series/sci/2015-589" mdate="2017-07-17">
+<editor orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</editor>
+<editor pid="27/3697">Cristina Bosco</editor>
+<editor orcid="0000-0003-0282-7661" pid="72/2316">Rodolfo Delmonte</editor>
+<editor orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</editor>
+<editor pid="88/4150">Maria Simi</editor>
+<title>Harmonization and Development of Resources and Tools for Italian Natural Language Processing within the PARLI Project</title>
+<booktitle>Italian Natural Language Processing within the PARLI Project</booktitle>
+<year>2015</year>
+<publisher>Springer</publisher>
+<series href="db/series/sci/index.html">Studies in Computational Intelligence</series>
+<volume>589</volume>
+<ee>https://doi.org/10.1007/978-3-319-14206-7</ee>
+<isbn>978-3-319-14205-0</isbn>
+<url>db/series/sci/sci589.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LeiJBJTMV15" mdate="2019-07-19">
+<author pid="91/8024-1">Tao Lei 0001</author>
+<author pid="173/5018">Hrishikesh Joshi</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<author pid="j/TommiJaakkola">Tommi S. Jaakkola</author>
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez i Villodre</author>
+<title>Denoising Bodies to Titles: Retrieving Similar Questions with Recurrent Convolutional Models.</title>
+<year>2015</year>
+<volume>abs/1512.05726</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.05726</ee>
+<url>db/journals/corr/corr1512.html#LeiJBJTMV15</url>
+</article>
+</r>
+<r><article key="journals/ijmir/DupplawMJBCFMDBGLHM14" mdate="2020-04-01">
+<author pid="45/3337">David Paul Dupplaw</author>
+<author pid="33/2610">Michael Matthews</author>
+<author pid="56/3767">Richard Johansson</author>
+<author pid="90/3132">Giulia Boato</author>
+<author pid="34/8357">Andrea Costanzo</author>
+<author pid="124/8415">Marco Fontani</author>
+<author pid="82/5803">Enrico Minack</author>
+<author pid="84/2154">Elena Demidova</author>
+<author pid="30/3795">Roi Blanco</author>
+<author pid="146/8612">Thomas Griffiths</author>
+<author pid="l/PHLewis">Paul H. Lewis</author>
+<author orcid="0000-0003-2921-4283" pid="13/905">Jonathon S. Hare</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Information extraction from multimedia web documents: an open-source platform and testbed.</title>
+<pages>97-111</pages>
+<year>2014</year>
+<volume>3</volume>
+<journal>Int. J. Multim. Inf. Retr.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13735-014-0051-2</ee>
+<url>db/journals/ijmir/ijmir3.html#DupplawMJBCFMDBGLHM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/SeverynMUPF14" mdate="2020-01-28">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="46/521">Barbara Plank</author>
+<author pid="24/5028">Katja Filippova</author>
+<title>Opinion Mining on YouTube.</title>
+<pages>1252-1261</pages>
+<year>2014</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/p14-1118</ee>
+<ee type="oa">https://www.aclweb.org/anthology/P14-1118/</ee>
+<crossref>conf/acl/2014-1</crossref>
+<url>db/conf/acl/acl2014-1.html#SeverynMUPF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/SalehCGJVMN14" mdate="2019-09-11">
+<author pid="28/3364-1">Iman Saleh 0001</author>
+<author pid="87/6703">Scott Cyphers</author>
+<author pid="37/6580">James R. Glass</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez i Villodre</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<title>A Study of using Syntactic and Semantic Structures for Concept Segmentation and Labeling.</title>
+<pages>193-202</pages>
+<year>2014</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C14-1020/</ee>
+<crossref>conf/coling/2014</crossref>
+<url>db/conf/coling/coling2014.html#SalehCGJVMN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/BarlacchiNM14" mdate="2020-01-28">
+<author pid="127/1249">Gianni Barlacchi</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning to Rank Answer Candidates for Automatic Resolution of Crossword Puzzles.</title>
+<pages>39-48</pages>
+<year>2014</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/w14-1605</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W14-1605/</ee>
+<crossref>conf/conll/2014</crossref>
+<url>db/conf/conll/conll2014.html#BarlacchiNM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/TymoshenkoMS14" mdate="2020-01-28">
+<author pid="94/8176">Kateryna Tymoshenko</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="86/8354">Aliaksei Severyn</author>
+<title>Encoding Semantic Resources in Syntactic Structures for Passage Reranking.</title>
+<pages>664-672</pages>
+<year>2014</year>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/e14-1070</ee>
+<ee type="oa">https://www.aclweb.org/anthology/E14-1070/</ee>
+<crossref>conf/eacl/2014</crossref>
+<url>db/conf/eacl/eacl2014.html#TymoshenkoMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/GuzmanJMMNN14" mdate="2020-01-28">
+<author pid="92/1459">Francisco Guzm&#225;n</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<title>Learning to Differentiate Better from Worse Translations.</title>
+<pages>214-220</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1027</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1027/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#GuzmanJMMNN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/SalehMNMJ14" mdate="2020-01-28">
+<author pid="28/3364-1">Iman Saleh 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<title>Semantic Kernels for Semantic Parsing.</title>
+<pages>436-442</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1050</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1050/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#SalehMNMJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/JotyM14" mdate="2020-01-28">
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Discriminative Reranking of Discourse Parses Using Tree Kernels.</title>
+<pages>2049-2060</pages>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/d14-1219</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1219/</ee>
+<crossref>conf/emnlp/2014</crossref>
+<url>db/conf/emnlp/emnlp2014.html#JotyM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/UryupinaPSRM14" mdate="2019-08-19">
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="46/521">Barbara Plank</author>
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="146/4247">Agata Rotondi</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>SenTube: A Corpus for Sentiment Analysis on YouTube Social Media.</title>
+<pages>4244-4249</pages>
+<year>2014</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2014/summaries/180.html</ee>
+<crossref>conf/lrec/2014</crossref>
+<url>db/conf/lrec/lrec2014.html#UryupinaPSRM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Moschitti14" mdate="2019-05-28">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Matching using Kernel Methods.</title>
+<pages>5-6</pages>
+<year>2014</year>
+<booktitle>SMIR@SIGIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1204/papers/invited_paper_3.pdf</ee>
+<crossref>conf/sigir/2014smir</crossref>
+<url>db/conf/sigir/smir2014.html#Moschitti14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SeverynMTBR14" mdate="2018-11-06">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/5801">Manos Tsagkias</author>
+<author pid="94/9901">Richard Berendsen</author>
+<author pid="r/MdRijke">Maarten de Rijke</author>
+<title>A syntax-aware re-ranker for microblog retrieval.</title>
+<pages>1067-1070</pages>
+<year>2014</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2600428.2609511</ee>
+<crossref>conf/sigir/2014</crossref>
+<url>db/conf/sigir/sigir2014.html#SeverynMTBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/GonzaloLM014" mdate="2018-11-06">
+<author pid="52/3559">Julio Gonzalo</author>
+<author pid="83/5560-1">Hang Li 0001</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="90/514-1">Jun Xu 0001</author>
+<title>SIGIR 2014 workshop on semantic matching in information retrieval.</title>
+<pages>1296</pages>
+<year>2014</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2600428.2600738</ee>
+<crossref>conf/sigir/2014</crossref>
+<url>db/conf/sigir/sigir2014.html#GonzaloLM014</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/emnlp/2014" mdate="2019-09-13">
+<editor pid="54/2140">Alessandro Moschitti</editor>
+<editor pid="16/6344">Bo Pang</editor>
+<editor pid="d/WalterDaelemans">Walter Daelemans</editor>
+<title>Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting of SIGDAT, a Special Interest Group of the ACL</title>
+<isbn>978-1-937284-96-1</isbn>
+<year>2014</year>
+<booktitle>EMNLP</booktitle>
+<publisher>ACL</publisher>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/D14-1/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/D14-1000/</ee>
+<url>db/conf/emnlp/emnlp2014.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/sigir/2014smir" mdate="2020-02-12">
+<editor pid="52/3559">Julio Gonzalo</editor>
+<editor pid="83/5560-1">Hang Li 0001</editor>
+<editor pid="54/2140">Alessandro Moschitti</editor>
+<editor pid="90/514-1">Jun Xu 0001</editor>
+<title>Proceedings of Workshop on Semantic Matching in Information Retrieval co-located with the 37th international ACM SIGIR conference on research and development in information retrieval, SMIR@SIGIR 2014, Queensland, Australia, July 11, 2014.</title>
+<booktitle>SMIR@SIGIR</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1204</volume>
+<year>2014</year>
+<ee type="oa">http://ceur-ws.org/Vol-1204</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1204-0</ee>
+<url>db/conf/sigir/smir2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/coling/JohanssonM13" mdate="2020-05-11">
+<author pid="56/3767">Richard Johansson</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Relational Features in Fine-Grained Opinion Analysis.</title>
+<pages>473-509</pages>
+<year>2013</year>
+<volume>39</volume>
+<journal>Comput. Linguistics</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1162/COLI_a_00141</ee>
+<url>db/journals/coling/coling39.html#JohanssonM13</url>
+</article>
+</r>
+<r><article key="journals/ia/SemeraroBBGGLLMMNPPPS13" mdate="2017-07-18">
+<author pid="41/446">Giovanni Semeraro</author>
+<author orcid="0000-0002-0545-1105" pid="98/5082">Pierpaolo Basile</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="28/3141">Marco de Gemmis</author>
+<author pid="45/1110">Chiara Ghidini</author>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="78/5518">Pasquale Lops</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0001-6089-928X" pid="81/7422">Cataldo Musto</author>
+<author pid="64/7424">Fedelucio Narducci</author>
+<author pid="89/7770">Arianna Pipitone</author>
+<author pid="37/3879">Roberto Pirrone</author>
+<author pid="54/3228">Piero Poccianti</author>
+<author pid="s/LucianoSerafini">Luciano Serafini</author>
+<title>Semantic technologies for industry: From knowledge modeling and integration to intelligent applications.</title>
+<pages>125-137</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Intelligenza Artificiale</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/IA-130054</ee>
+<url>db/journals/ia/ia7.html#SemeraroBBGGLLMMNPPPS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/SeverynNM13" mdate="2019-08-19">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning Semantic Textual Similarity with Structural Representations.</title>
+<pages>714-718</pages>
+<year>2013</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P13-2125/</ee>
+<crossref>conf/acl/2013-2</crossref>
+<url>db/conf/acl/acl2013-2.html#SeverynNM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/PlankM13" mdate="2019-08-19">
+<author pid="46/521">Barbara Plank</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction.</title>
+<pages>1498-1507</pages>
+<year>2013</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P13-1147/</ee>
+<crossref>conf/acl/2013-1</crossref>
+<url>db/conf/acl/acl2013-1.html#PlankM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/SeverynNM13" mdate="2018-11-06">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Building structures from classifiers for passage reranking.</title>
+<pages>969-978</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505688</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#SeverynNM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/SeverynNM13" mdate="2019-09-11">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Learning Adaptable Patterns for Passage Reranking.</title>
+<pages>75-83</pages>
+<year>2013</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W13-3509/</ee>
+<crossref>conf/conll/2013</crossref>
+<url>db/conf/conll/conll2013.html#SeverynNM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/PradhanMXNBUZZ13" mdate="2019-09-11">
+<author pid="p/SameerPradhan">Sameer Pradhan</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="01/2933">Nianwen Xue</author>
+<author pid="97/3037">Hwee Tou Ng</author>
+<author pid="24/9282">Anders Bj&#246;rkelund</author>
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="09/5661">Yuchen Zhang</author>
+<author pid="16/4623">Zhi Zhong</author>
+<title>Towards Robust Linguistic Analysis using OntoNotes.</title>
+<pages>143-152</pages>
+<year>2013</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W13-3516/</ee>
+<crossref>conf/conll/2013</crossref>
+<url>db/conf/conll/conll2013.html#PradhanMXNBUZZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/JuMJ13" mdate="2017-06-02">
+<author pid="34/1080">Qi Ju</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="56/3767">Richard Johansson</author>
+<title>Learning to Rank from Structures in Hierarchical Text Classification.</title>
+<pages>183-194</pages>
+<year>2013</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36973-5_16</ee>
+<crossref>conf/ecir/2013</crossref>
+<url>db/conf/ecir/ecir2013.html#JuMJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/JuM13" mdate="2017-06-02">
+<author pid="34/1080">Qi Ju</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Incremental Reranking for Hierarchical Text Classification.</title>
+<pages>726-729</pages>
+<year>2013</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36973-5_70</ee>
+<crossref>conf/ecir/2013</crossref>
+<url>db/conf/ecir/ecir2013.html#JuM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/SeverynM13" mdate="2019-09-11">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Automatic Feature Engineering for Answer Selection and Extraction.</title>
+<pages>458-467</pages>
+<year>2013</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D13-1044/</ee>
+<crossref>conf/emnlp/2013</crossref>
+<url>db/conf/emnlp/emnlp2013.html#SeverynM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SeverynM13" mdate="2019-08-20">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Fast Linearization of Tree Kernels over Large-Scale Data.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6593</ee>
+<ee type="oa">http://ijcai.org/Abstract/13/319</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#SeverynM13</url>
+<pages>2162-2168</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/UryupinaM13" mdate="2019-09-11">
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Multilingual Mention Detection for Coreference Resolution.</title>
+<pages>100-108</pages>
+<year>2013</year>
+<booktitle>IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I13-1012/</ee>
+<crossref>conf/ijcnlp/2013</crossref>
+<url>db/conf/ijcnlp/ijcnlp2013.html#UryupinaM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/MoschittiPW13" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="05/6562">Siddharth Patwardhan</author>
+<author pid="w/CAWelty">Chris Welty</author>
+<title>Long-Distance Time-Event Relation Extraction.</title>
+<pages>1330-1338</pages>
+<year>2013</year>
+<booktitle>IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I13-1189/</ee>
+<crossref>conf/ijcnlp/2013</crossref>
+<url>db/conf/ijcnlp/ijcnlp2013.html#MoschittiPW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Moschitti13" mdate="2018-11-06">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Kernel-based learning to rank with syntactic and semantic structures.</title>
+<pages>1128</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2484028.2484196</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#Moschitti13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/starsem/SeverynNM13" mdate="2019-09-11">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author pid="136/8001">Massimo Nicosia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>iKernels-Core: Tree Kernel Learning for Textual Similarity.</title>
+<pages>53-58</pages>
+<year>2013</year>
+<booktitle>*SEM@NAACL-HLT</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/S13-1006/</ee>
+<crossref>conf/starsem/2013</crossref>
+<url>db/conf/starsem/starsem2013.html#SeverynNM13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ecai/2012eternals" mdate="2020-10-25">
+<editor orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</editor>
+<editor orcid="0000-0002-4394-1965" pid="46/521">Barbara Plank</editor>
+<title>Trustworthy Eternal Systems via Evolving Software, Data and Knowledge - Second International Workshop, EternalS 2012, Montpellier, France, August 28, 2012, Revised Selected Papers</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>379</volume>
+<ee>https://doi.org/10.1007/978-3-642-45260-4</ee>
+<isbn>978-3-642-45259-8</isbn>
+<booktitle>EternalS@ECAI</booktitle>
+<url>db/conf/ecai/eternals2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/datamine/SeverynM12" mdate="2017-06-05">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Fast support vector machines for convolution tree kernels.</title>
+<pages>325-357</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10618-012-0276-8</ee>
+<url>db/journals/datamine/datamine25.html#SeverynM12</url>
+</article>
+</r>
+<r><article key="journals/ia/NguyenM12" mdate="2017-05-18">
+<author pid="10/4162">Truc-Vien T. Nguyen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Structural reranking models for named entity recognition.</title>
+<pages>177-190</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Intelligenza Artificiale</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/IA-120038</ee>
+<url>db/journals/ia/ia6.html#NguyenM12</url>
+</article>
+</r>
+<r><article key="journals/nle/MarquezM12" mdate="2020-03-25">
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Special issue on statistical learning of natural language structured input and output.</title>
+<pages>147-153</pages>
+<year>2012</year>
+<volume>18</volume>
+<journal>Nat. Lang. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S135132491200006X</ee>
+<url>db/journals/nle/nle18.html#MarquezM12</url>
+</article>
+</r>
+<r><article key="journals/taslp/DinarelliMR12" mdate="2020-05-17">
+<author pid="96/2631">Marco Dinarelli</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Discriminative Reranking for Spoken Language Understanding.</title>
+<pages>526-539</pages>
+<year>2012</year>
+<volume>20</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TASL.2011.2162322</ee>
+<url>db/journals/taslp/taslp20.html#DinarelliMR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/Moschitti12" mdate="2019-09-13">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>State-of-the-Art Kernels for Natural Language Processing.</title>
+<pages>2</pages>
+<year>2012</year>
+<booktitle>ACL (Tutorial Abstracts)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P12-4002/</ee>
+<crossref>conf/acl/2012t</crossref>
+<url>db/conf/acl/acl2012t.html#Moschitti12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/CroceMBP12" mdate="2019-09-13">
+<author pid="38/2048">Danilo Croce</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="p/MarthaStonePalmer">Martha Palmer</author>
+<title>Verb Classification using Distributional Similarity in Syntactic and Semantic Structures.</title>
+<pages>263-272</pages>
+<year>2012</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P12-1028/</ee>
+<crossref>conf/acl/2012-1</crossref>
+<url>db/conf/acl/acl2012-1.html#CroceMBP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MoschittiJJ12" mdate="2019-09-13">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="34/1080">Qi Ju</author>
+<author pid="56/3767">Richard Johansson</author>
+<title>Modeling Topic Dependencies in Hierarchical Text Categorization.</title>
+<pages>759-767</pages>
+<year>2012</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P12-1080/</ee>
+<crossref>conf/acl/2012-1</crossref>
+<url>db/conf/acl/acl2012-1.html#MoschittiJJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbmi/Dang-NguyenBMN12" mdate="2017-06-15">
+<author orcid="0000-0002-2761-2213" pid="16/10574">Duc-Tien Dang-Nguyen</author>
+<author pid="90/3132">Giulia Boato</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="80/1602">Francesco G. B. De Natale</author>
+<title>Supervised models for multimodal image retrieval based on visual, semantic and geographic information.</title>
+<pages>1-5</pages>
+<year>2012</year>
+<booktitle>CBMI</booktitle>
+<ee>https://doi.org/10.1109/CBMI.2012.6269806</ee>
+<crossref>conf/cbmi/2012</crossref>
+<url>db/conf/cbmi/cbmi2012.html#Dang-NguyenBMN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/PatwardhanBAMC12" mdate="2018-11-06">
+<author pid="05/6562">Siddharth Patwardhan</author>
+<author pid="06/2813">Branimir Boguraev</author>
+<author pid="44/2608">Apoorv Agarwal</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="69/4492">Jennifer Chu-Carroll</author>
+<title>Labeling by landscaping: classifying tokens in context by pruning and decorating trees.</title>
+<pages>1133-1142</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398412</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#PatwardhanBAMC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/GiordaniM12" mdate="2019-09-11">
+<author pid="55/5843">Alessandra Giordani</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Translating Questions to SQL Queries with Generative Parsers Discriminatively Reranked.</title>
+<pages>401-410</pages>
+<year>2012</year>
+<booktitle>COLING (Posters)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C12-2040/</ee>
+<crossref>conf/coling/2012p</crossref>
+<url>db/conf/coling/coling2012p.html#GiordaniM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/PradhanMXUZ12" mdate="2019-09-11">
+<author pid="p/SameerPradhan">Sameer Pradhan</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="01/2933">Nianwen Xue</author>
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="09/5661">Yuchen Zhang</author>
+<title>CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes.</title>
+<pages>1-40</pages>
+<year>2012</year>
+<booktitle>EMNLP-CoNLL Shared Task</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W12-4501/</ee>
+<crossref>conf/conll/2012st</crossref>
+<url>db/conf/conll/conll2012st.html#PradhanMXUZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/UryupinaMP12" mdate="2019-09-11">
+<author pid="29/8156">Olga Uryupina</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="60/6334">Massimo Poesio</author>
+<title>BART goes multilingual: The UniTN / Essex submission to the CoNLL-2012 Shared Task.</title>
+<pages>122-128</pages>
+<year>2012</year>
+<booktitle>EMNLP-CoNLL Shared Task</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W12-4515/</ee>
+<crossref>conf/conll/2012st</crossref>
+<url>db/conf/conll/conll2012st.html#UryupinaMP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BennaceurISHISJM12" mdate="2017-09-16">
+<author orcid="0000-0002-6124-9622" pid="48/2068">Amel Bennaceur</author>
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<author pid="88/2334">Daniel Sykes</author>
+<author pid="12/8669">Falk Howar</author>
+<author orcid="0000-0002-7704-5173" pid="54/1436">Malte Isberner</author>
+<author pid="s/BernhardSteffen">Bernhard Steffen</author>
+<author pid="56/3767">Richard Johansson</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Machine Learning for Emergent Middleware.</title>
+<pages>16-29</pages>
+<year>2012</year>
+<booktitle>EternalS@ECAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45260-4_2</ee>
+<crossref>conf/ecai/2012eternals</crossref>
+<url>db/conf/ecai/eternals2012.html#BennaceurISHISJM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GiordaniM12" mdate="2017-06-02">
+<author pid="55/5843">Alessandra Giordani</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Automatic Generation and Reranking of SQL-Derived Answers to NL Questions.</title>
+<pages>59-76</pages>
+<year>2012</year>
+<booktitle>EternalS@ECAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45260-4_5</ee>
+<crossref>conf/ecai/2012eternals</crossref>
+<url>db/conf/ecai/eternals2012.html#GiordaniM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GanderFKTBM12" mdate="2017-06-02">
+<author pid="125/4254">Matthias Gander</author>
+<author pid="49/2990">Michael Felderer</author>
+<author pid="37/1402">Basel Katt</author>
+<author pid="143/1789">Adrian Tolbaru</author>
+<author pid="b/RuthBreu">Ruth Breu</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Anomaly Detection in the Cloud: Detecting Security Incidents via Machine Learning.</title>
+<pages>103-116</pages>
+<year>2012</year>
+<booktitle>EternalS@ECAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45260-4_8</ee>
+<crossref>conf/ecai/2012eternals</crossref>
+<url>db/conf/ecai/eternals2012.html#GanderFKTBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CorazzaMMMPSS12" mdate="2020-10-25">
+<author orcid="0000-0002-9156-5079" pid="02/2002">Anna Corazza</author>
+<author orcid="0000-0002-1019-9004" pid="29/2259">Sergio Di Martino</author>
+<author orcid="0000-0003-4824-893X" pid="08/9103">Valerio Maggio</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0002-2765-5395" pid="00/6186">Andrea Passerini</author>
+<author orcid="0000-0003-0024-7508" pid="45/4173">Giuseppe Scanniello</author>
+<author orcid="0000-0001-7669-9055" pid="s/FabrizioSilvestri">Fabrizio Silvestri</author>
+<title>Using Machine Learning and Information Retrieval Techniques to Improve Software Maintainability.</title>
+<pages>117-134</pages>
+<year>2012</year>
+<booktitle>EternalS@ECAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45260-4_9</ee>
+<crossref>conf/ecai/2012eternals</crossref>
+<url>db/conf/ecai/eternals2012.html#CorazzaMMMPSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iir/JuRMV12" mdate="2019-05-28">
+<author pid="34/1080">Qi Ju</author>
+<author pid="34/11443">Chiara Ravagni</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="00/11444">Giampiero Vaschetto</author>
+<title>Hierarchical Text Classification for Supporting Educational Programs.</title>
+<pages>18-25</pages>
+<year>2012</year>
+<booktitle>IIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-835/paper3.pdf</ee>
+<crossref>conf/iir/2012</crossref>
+<url>db/conf/iir/iir2012.html#JuRMV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/GiordaniM12" mdate="2017-06-05">
+<author pid="55/5843">Alessandra Giordani</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Generating SQL Queries Using Natural Language Syntactic Dependencies and Metadata.</title>
+<pages>164-170</pages>
+<year>2012</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31178-9_16</ee>
+<crossref>conf/nldb/2012</crossref>
+<url>db/conf/nldb/nldb2012.html#GiordaniM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SeverynM12" mdate="2018-11-06">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Structural relationships for large-scale learning of answer re-ranking.</title>
+<pages>741-750</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348383</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#SeverynM12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/conll/2012st" mdate="2019-09-18">
+<editor pid="p/SameerPradhan">Sameer Pradhan</editor>
+<editor pid="54/2140">Alessandro Moschitti</editor>
+<editor pid="01/2933">Nianwen Xue</editor>
+<title>Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning - Proceedings of the Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes, EMNLP-CoNLL 2012, July 13, 2012, Jeju Island, Korea</title>
+<isbn>978-1-937284-45-9</isbn>
+<year>2012</year>
+<booktitle>EMNLP-CoNLL Shared Task</booktitle>
+<publisher>ACL</publisher>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/W12-45/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W12-4500/</ee>
+<url>db/conf/conll/conll2012st.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/fet/2011eternals" mdate="2017-05-17">
+<editor pid="54/2140">Alessandro Moschitti</editor>
+<editor pid="82/5205">Riccardo Scandariato</editor>
+<title>Eternal Systems - First International Workshop, EternalS@FET 2011, Budapest, Hungary, May 3, 2011, Revised Selected Papers</title>
+<volume>255</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<ee>https://doi.org/10.1007/978-3-642-28033-7</ee>
+<isbn>978-3-642-28032-0</isbn>
+<booktitle>EternalS@FET</booktitle>
+<url>db/conf/fet/eternals2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/coling/Moschitti11" mdate="2020-05-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Role Labeling Martha Palmer, <sup>*</sup> Daniel Gildea, <sup>&#8225;</sup> and Nianwen Xue<sup>&#182;</sup> (<sup>*</sup>University of Colorado, Boulder; <sup>&#8225;</sup>University of Rochester; <sup>&#182;</sup>Brandeis University) Morgan &#38; Claypool (Synthesis Lectures on Human Language Technologies, edited by Graeme Hirst, volume 6), 2010, ix+91 pp; paperbound, ISBN 978-1-59829-831-4, $30.00 or by subscription.</title>
+<pages>619-622</pages>
+<year>2011</year>
+<volume>37</volume>
+<journal>Comput. Linguistics</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1162/COLI_r_00065</ee>
+<url>db/journals/coling/coling37.html#Moschitti11</url>
+</article>
+</r>
+<r><article key="journals/fuin/ZanzottoDM11" mdate="2020-09-18">
+<author orcid="0000-0002-7301-3596" pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="21/8178">Lorenzo Dell'Arciprete</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Efficient Graph Kernels for Textual Entailment Recognition.</title>
+<pages>199-222</pages>
+<year>2011</year>
+<volume>107</volume>
+<journal>Fundam. Informaticae</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.3233/FI-2011-400</ee>
+<url>db/journals/fuin/fuin107.html#ZanzottoDM11</url>
+</article>
+</r>
+<r><article key="journals/ijdar/GiannoneBNM11" mdate="2020-08-13">
+<author pid="06/3335">Cristina Giannone</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="18/6165">Paolo Naggar</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Supervised semantic relation mining from linguistically noisy text documents.</title>
+<pages>213-228</pages>
+<year>2011</year>
+<volume>14</volume>
+<journal>Int. J. Document Anal. Recognit.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10032-010-0138-0</ee>
+<url>db/journals/ijdar/ijdar14.html#GiannoneBNM11</url>
+</article>
+</r>
+<r><article key="journals/ipm/MoschittiQ11" mdate="2020-02-21">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="90/2764">Silvia Quarteroni</author>
+<title>Linguistic kernels for answer re-ranking in question answering systems.</title>
+<pages>825-842</pages>
+<year>2011</year>
+<volume>47</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.ipm.2010.06.002</ee>
+<url>db/journals/ipm/ipm47.html#MoschittiQ11</url>
+</article>
+</r>
+<r><article key="journals/taslp/HahnDRLLMMNR11" mdate="2020-05-17">
+<author pid="88/8162">Stefan Hahn</author>
+<author pid="96/2631">Marco Dinarelli</author>
+<author pid="86/5150">Christian Raymond</author>
+<author pid="70/7518">Fabrice Lef&#232;vre</author>
+<author pid="18/8162">Patrick Lehnen</author>
+<author pid="86/129">Renato de Mori</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="n/HermannNey">Hermann Ney</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Comparing Stochastic Approaches to Spoken Language Understanding in Multiple Languages.</title>
+<pages>1569-1583</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TASL.2010.2093520</ee>
+<url>db/journals/taslp/taslp19.html#HahnDRLLMMNR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/JohanssonM11" mdate="2019-09-13">
+<author pid="56/3767">Richard Johansson</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Extracting Opinion Expressions and Their Polarities - Exploration of Pipelines and Joint Models.</title>
+<pages>101-106</pages>
+<year>2011</year>
+<booktitle>ACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P11-2018/</ee>
+<crossref>conf/acl/2011s</crossref>
+<url>db/conf/acl/acl2011s.html#JohanssonM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/NguyenM11" mdate="2019-09-13">
+<author pid="10/4162">Truc-Vien T. Nguyen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>End-to-End Relation Extraction Using Distant Supervision from External Semantic Repositories.</title>
+<pages>277-282</pages>
+<year>2011</year>
+<booktitle>ACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P11-2048/</ee>
+<crossref>conf/acl/2011s</crossref>
+<url>db/conf/acl/acl2011s.html#NguyenM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bionlp/ChowdhuryLM11" mdate="2019-09-11">
+<author pid="204/9652">Faisal Md. Chowdhury</author>
+<author pid="88/6222">Alberto Lavelli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Study on Dependency Tree Kernels for Automatic Extraction of Protein-Protein Interaction.</title>
+<pages>124-133</pages>
+<year>2011</year>
+<booktitle>BioNLP@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W11-0216/</ee>
+<crossref>conf/bionlp/2011</crossref>
+<url>db/conf/bionlp/bionlp2011.html#ChowdhuryLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/CroceMB11" mdate="2018-11-06">
+<author orcid="0000-0001-9111-1950" pid="38/2048">Danilo Croce</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<title>Semantic convolution kernels over dependency trees: smoothed partial tree kernel.</title>
+<pages>2013-2016</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063878</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#CroceMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/MoschittiCPFR11" mdate="2019-09-13">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="69/4492">Jennifer Chu-Carroll</author>
+<author pid="05/6562">Siddharth Patwardhan</author>
+<author pid="79/4382">James Fan</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Using Syntactic and Semantic Structural Kernels for Classifying Definition Questions in Jeopardy!</title>
+<pages>712-724</pages>
+<year>2011</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D11-1066/</ee>
+<crossref>conf/emnlp/2011</crossref>
+<url>db/conf/emnlp/emnlp2011.html#MoschittiCPFR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/CroceMB11" mdate="2019-09-13">
+<author pid="38/2048">Danilo Croce</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Structured Lexical Similarity via Convolution Kernels on Dependency Trees.</title>
+<pages>1034-1046</pages>
+<year>2011</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D11-1096/</ee>
+<crossref>conf/emnlp/2011</crossref>
+<url>db/conf/emnlp/emnlp2011.html#CroceMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/evalita/BasiliCLMV12" mdate="2020-10-25">
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="18/4135">Diego De Cao</author>
+<author orcid="0000-0001-5790-4308" pid="02/2701">Alessandro Lenci</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0001-5849-0979" pid="45/1484">Giulia Venturi</author>
+<title>EvalIta 2011: The <i>Frame Labeling</i> <i>over Italian Texts</i> Task.</title>
+<pages>195-204</pages>
+<year>2011</year>
+<booktitle>EVALITA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35828-9_21</ee>
+<crossref>conf/evalita/2011</crossref>
+<url>db/conf/evalita/evalita2011.html#BasiliCLMV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fet/SeverynM11" mdate="2017-06-02">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Large-Scale Learning with Structural Kernels for Class-Imbalanced Datasets.</title>
+<pages>34-41</pages>
+<year>2011</year>
+<booktitle>EternalS@FET</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28033-7_4</ee>
+<crossref>conf/fet/2011eternals</crossref>
+<url>db/conf/fet/eternals2011.html#SeverynM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fet/BennaceurJMSSSI11" mdate="2017-09-16">
+<author orcid="0000-0002-6124-9622" pid="48/2068">Amel Bennaceur</author>
+<author pid="56/3767">Richard Johansson</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="87/6586">Romina Spalazzese</author>
+<author pid="88/2334">Daniel Sykes</author>
+<author pid="01/6167">Rachid Saadi</author>
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<title>Inferring Affordances Using Learning Techniques.</title>
+<pages>79-87</pages>
+<year>2011</year>
+<booktitle>EternalS@FET</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28033-7_7</ee>
+<crossref>conf/fet/2011eternals</crossref>
+<url>db/conf/fet/eternals2011.html#BennaceurJMSSSI11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmco/BennaceurIJMSS11" mdate="2017-09-16">
+<author orcid="0000-0002-6124-9622" pid="48/2068">Amel Bennaceur</author>
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<author pid="56/3767">Richard Johansson</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="87/6586">Romina Spalazzese</author>
+<author pid="88/2334">Daniel Sykes</author>
+<title>Automatic Service Categorisation through Machine Learning in Emergent Middleware.</title>
+<pages>133-149</pages>
+<year>2011</year>
+<booktitle>FMCO</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35887-6_7</ee>
+<crossref>conf/fmco/2011</crossref>
+<url>db/conf/fmco/fmco2011.html#BennaceurIJMSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnlp/NguyenM11" mdate="2019-09-11">
+<author pid="10/4162">Truc-Vien T. Nguyen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Joint Distant and Direct Supervision for Relation Extraction.</title>
+<pages>732-740</pages>
+<year>2011</year>
+<booktitle>IJCNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/I11-1082/</ee>
+<crossref>conf/ijcnlp/2011</crossref>
+<url>db/conf/ijcnlp/ijcnlp2011.html#NguyenM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/BennaceurIJMSS11" mdate="2017-06-04">
+<author pid="48/2068">Amel Bennaceur</author>
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<author pid="56/3767">Richard Johansson</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="88/2334">Daniel Sykes</author>
+<author pid="87/6586">Romina Spalazzese</author>
+<title>Machine Learning for Automatic Classification of Web Service Interface Descriptions.</title>
+<pages>220-231</pages>
+<year>2011</year>
+<booktitle>ISoLA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34781-8_17</ee>
+<crossref>conf/isola/2011w</crossref>
+<url>db/conf/isola/isola2011w.html#BennaceurIJMSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SeverynM11" mdate="2018-06-26">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Fast Support Vector Machines for Structural Kernels.</title>
+<pages>175-190</pages>
+<year>2011</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-23808-6_12</ee>
+<crossref>conf/pkdd/2011-3</crossref>
+<url>db/conf/pkdd/pkdd2011-3.html#SeverynM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfm/Moschitti11" mdate="2017-06-05">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Kernel-Based Machines for Abstract and Easy Modeling of Automatic Learning.</title>
+<pages>458-503</pages>
+<year>2011</year>
+<booktitle>SFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21455-4_14</ee>
+<crossref>conf/sfm/2011</crossref>
+<url>db/conf/sfm/sfm2011.html#Moschitti11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/Moschitti10" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Kernel Engineering for Fast and Easy Design of Natural Language Applications.</title>
+<pages>1-91</pages>
+<year>2010</year>
+<booktitle>COLING (Tutorials)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C10-5001/</ee>
+<crossref>conf/coling/2010t</crossref>
+<url>db/conf/coling/coling2010t.html#Moschitti10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/JohanssonM10" mdate="2019-09-12">
+<author pid="56/3767">Richard Johansson</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Reranking Models in Fine-grained Opinion Analysis.</title>
+<pages>519-527</pages>
+<year>2010</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C10-1059/</ee>
+<crossref>conf/coling/2010</crossref>
+<url>db/conf/coling/coling2010.html#JohanssonM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/NguyenMR10" mdate="2019-09-11">
+<author pid="10/4162">Truc-Vien T. Nguyen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Kernel-based Reranking for Named-Entity Extraction.</title>
+<pages>901-909</pages>
+<year>2010</year>
+<booktitle>COLING (Posters)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C10-2104/</ee>
+<crossref>conf/coling/2010p</crossref>
+<url>db/conf/coling/coling2010p.html#NguyenMR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/JohanssonM10" mdate="2019-09-11">
+<author pid="56/3767">Richard Johansson</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Syntactic and Semantic Structure for Opinion Expression Detection.</title>
+<pages>67-76</pages>
+<year>2010</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W10-2910/</ee>
+<crossref>conf/conll/2010</crossref>
+<url>db/conf/conll/conll2010.html#JohanssonM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/PighinM10" mdate="2019-09-11">
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>On Reverse Feature Engineering of Syntactic Tree Kernels.</title>
+<pages>223-233</pages>
+<year>2010</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W10-2926/</ee>
+<crossref>conf/conll/2010</crossref>
+<url>db/conf/conll/conll2010.html#PighinM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/Moschitti10" mdate="2017-06-04">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Introduction to the EternalS Track: Trustworthy Eternal Systems via Evolving Software, Data and Knowledge.</title>
+<pages>1-2</pages>
+<year>2010</year>
+<booktitle>ISoLA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16561-0_1</ee>
+<crossref>conf/isola/2010-2</crossref>
+<url>db/conf/isola/isola2010-2.html#Moschitti10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/Moschitti10a" mdate="2017-06-04">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>LivingKnowledge: Kernel Methods for Relational Learning and Semantic Modeling.</title>
+<pages>15-19</pages>
+<year>2010</year>
+<booktitle>ISoLA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16561-0_5</ee>
+<crossref>conf/isola/2010-2</crossref>
+<url>db/conf/isola/isola2010-2.html#Moschitti10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/CoppolaM10" mdate="2019-08-19">
+<author pid="78/6554">Bonaventura Coppola</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A General Purpose FrameNet-based Shallow Semantic Parser.</title>
+<year>2010</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2010/summaries/893.html</ee>
+<crossref>conf/lrec/2010</crossref>
+<url>db/conf/lrec/lrec2010.html#CoppolaM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/GiordaniM10" mdate="2019-08-19">
+<author pid="55/5843">Alessandra Giordani</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Corpora for Automatically Learning to Map Natural Language Questions into SQL Queries.</title>
+<year>2010</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2010/summaries/724.html</ee>
+<crossref>conf/lrec/2010</crossref>
+<url>db/conf/lrec/lrec2010.html#GiordaniM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/JohanssonM10" mdate="2019-08-19">
+<author pid="56/3767">Richard Johansson</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Flexible Representation of Heterogeneous Annotation Data.</title>
+<year>2010</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2010/summaries/80.html</ee>
+<crossref>conf/lrec/2010</crossref>
+<url>db/conf/lrec/lrec2010.html#JohanssonM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/QuarteroniM10" mdate="2019-08-19">
+<author pid="90/2764">Silvia Quarteroni</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Comprehensive Resource to Evaluate Complex Open Domain Question Answering.</title>
+<year>2010</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2010/summaries/188.html</ee>
+<crossref>conf/lrec/2010</crossref>
+<url>db/conf/lrec/lrec2010.html#QuarteroniM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/MehdadMZ10" mdate="2019-09-13">
+<author pid="28/7560">Yashar Mehdad</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<title>Syntactic/Semantic Structures for Textual Entailment Recognition.</title>
+<pages>1020-1028</pages>
+<year>2010</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/N10-1146/</ee>
+<crossref>conf/naacl/2010</crossref>
+<url>db/conf/naacl/naacl2010.html#MehdadMZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SeverynM10" mdate="2018-06-26">
+<author pid="86/8354">Aliaksei Severyn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Large-Scale Support Vector Learning with Structural Kernels.</title>
+<pages>229-244</pages>
+<year>2010</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15939-8_15</ee>
+<crossref>conf/pkdd/2010-3</crossref>
+<url>db/conf/pkdd/pkdd2010-3.html#SeverynM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slt/DinarelliMR10" mdate="2017-06-05">
+<author pid="96/2631">Marco Dinarelli</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Hypotheses selection for re-ranking semantic annotations.</title>
+<pages>407-411</pages>
+<year>2010</year>
+<booktitle>SLT</booktitle>
+<ee>https://doi.org/10.1109/SLT.2010.5700887</ee>
+<crossref>conf/slt/2010</crossref>
+<url>db/conf/slt/slt2010.html#DinarelliMR10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/textgraphs/2010" mdate="2019-09-18">
+<editor pid="94/6186">Carmen Banea</editor>
+<editor pid="54/2140">Alessandro Moschitti</editor>
+<editor pid="43/5992">Swapna Somasundaran</editor>
+<editor pid="32/797">Fabio Massimo Zanzotto</editor>
+<title>Proceedings of TextGraphs@ACL 2010 Workshop on Graph-based Methods for Natural Language Processing, Uppsala, Sweden, July 16, 2010</title>
+<booktitle>TextGraphs@ACL</booktitle>
+<publisher>Association for Computational Linguistics</publisher>
+<year>2010</year>
+<isbn>978-1-932432-77-0</isbn>
+<ee type="oa">https://www.aclweb.org/anthology/volumes/W10-23/</ee>
+<ee type="oa">https://www.aclweb.org/anthology/W10-2300/</ee>
+<url>db/conf/textgraphs/textgraphs2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/nle/ZanzottoPM09" mdate="2020-03-25">
+<author orcid="0000-0002-7301-3596" pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="92/4292">Marco Pennacchiotti</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>A machine learning approach to textual entailment recognition.</title>
+<pages>551-582</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>Nat. Lang. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1017/S1351324909990143</ee>
+<url>db/journals/nle/nle15.html#ZanzottoPM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiia/BasiliGVMN09" mdate="2017-07-17">
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="06/3335">Cristina Giannone</author>
+<author pid="50/7564">Chiara Del Vescovo</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="18/6165">Paolo Naggar</author>
+<title>Kernel-Based Learning for Domain-Specific Relation Extraction.</title>
+<pages>161-171</pages>
+<year>2009</year>
+<booktitle>AI*IA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-10291-2_17</ee>
+<crossref>conf/aiia/2009</crossref>
+<url>db/conf/aiia/aiia2009.html#BasiliGVMN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/and/GiannoneBVNM09" mdate="2018-11-06">
+<author pid="06/3335">Cristina Giannone</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="50/7564">Chiara Del Vescovo</author>
+<author pid="18/6165">Paolo Naggar</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Kernel-based relation extraction from investigative data.</title>
+<pages>93-100</pages>
+<year>2009</year>
+<booktitle>AND</booktitle>
+<ee>https://doi.org/10.1145/1568296.1568312</ee>
+<crossref>conf/and/2009</crossref>
+<url>db/conf/and/and2009.html#GiannoneBVNM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/BasiliCCCM09" mdate="2017-07-17">
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="18/4135">Diego De Cao</author>
+<author orcid="0000-0001-9111-1950" pid="38/2048">Danilo Croce</author>
+<author pid="78/6554">Bonaventura Coppola</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Cross-Language Frame Semantics Transfer in Bilingual Corpora.</title>
+<pages>332-345</pages>
+<year>2009</year>
+<booktitle>CICLing</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00382-0_27</ee>
+<crossref>conf/cicling/2009</crossref>
+<url>db/conf/cicling/cicling2009.html#BasiliCCCM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/PighinM09" mdate="2019-09-11">
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Efficient Linearization of Tree Kernel Functions.</title>
+<pages>30-38</pages>
+<year>2009</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W09-1106/</ee>
+<crossref>conf/conll/2009</crossref>
+<url>db/conf/conll/conll2009.html#PighinM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/DinarelliMR09" mdate="2019-09-13">
+<author pid="96/2631">Marco Dinarelli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Re-Ranking Models for Spoken Language Understanding.</title>
+<pages>202-210</pages>
+<year>2009</year>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/E09-1024/</ee>
+<crossref>conf/eacl/2009</crossref>
+<url>db/conf/eacl/eacl2009.html#DinarelliMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/Moschitti09" mdate="2019-09-13">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Syntactic and Semantic Kernels for Short Text Pair Categorization.</title>
+<pages>576-584</pages>
+<year>2009</year>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/E09-1066/</ee>
+<crossref>conf/eacl/2009</crossref>
+<url>db/conf/eacl/eacl2009.html#Moschitti09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/PighinM09" mdate="2019-09-13">
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Reverse Engineering of Tree Kernel Feature Spaces.</title>
+<pages>111-120</pages>
+<year>2009</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D09-1012/</ee>
+<crossref>conf/emnlp/2009</crossref>
+<url>db/conf/emnlp/emnlp2009.html#PighinM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/DinarelliMR09" mdate="2019-09-13">
+<author pid="96/2631">Marco Dinarelli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Re-Ranking Models Based-on Small Training Data for Spoken Language Understanding.</title>
+<pages>1076-1085</pages>
+<year>2009</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D09-1112/</ee>
+<crossref>conf/emnlp/2009</crossref>
+<url>db/conf/emnlp/emnlp2009.html#DinarelliMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/NguyenMR09" mdate="2019-09-13">
+<author pid="10/4162">Truc-Vien T. Nguyen</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Convolution Kernels on Constituent, Dependency and Sequential Structures for Relation Extraction.</title>
+<pages>1378-1387</pages>
+<year>2009</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/D09-1143/</ee>
+<crossref>conf/emnlp/2009</crossref>
+<url>db/conf/emnlp/emnlp2009.html#NguyenMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/DinarelliMR09" mdate="2011-03-03">
+<author pid="96/2631">Marco Dinarelli</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Concept segmentation and labeling for conversational speech.</title>
+<pages>2747-2750</pages>
+<year>2009</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee>http://www.isca-speech.org/archive/interspeech_2009/i09_2747.html</ee>
+<crossref>conf/interspeech/2009</crossref>
+<url>db/conf/interspeech/interspeech2009.html#DinarelliMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/CoppolaMR09" mdate="2019-09-13">
+<author pid="78/6554">Bonaventura Coppola</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Shallow Semantic Parsing for Spoken Language Understanding.</title>
+<pages>85-88</pages>
+<year>2009</year>
+<booktitle>HLT-NAACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/N09-2022/</ee>
+<crossref>conf/naacl/2009s</crossref>
+<url>db/conf/naacl/naacl2009s.html#CoppolaMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/GiordaniM09" mdate="2017-06-05">
+<author pid="55/5843">Alessandra Giordani</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Mapping between Natural Language Questions and SQL Queries via Syntactic Pairing.</title>
+<pages>207-221</pages>
+<year>2009</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12550-8_17</ee>
+<crossref>conf/nldb/2009</crossref>
+<url>db/conf/nldb/nldb2009.html#GiordaniM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/GiordaniM09" mdate="2018-06-26">
+<author pid="55/5843">Alessandra Giordani</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Syntactic Structural Kernels for Natural Language Interfaces to Databases.</title>
+<pages>391-406</pages>
+<year>2009</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04180-8_43</ee>
+<crossref>conf/pkdd/2009-1</crossref>
+<url>db/conf/pkdd/pkdd2009-1.html#GiordaniM09</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/tac/MehdadMZ09" mdate="2019-08-20">
+<author pid="28/7560">Yashar Mehdad</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<title>SemKer: Syntactic/Semantic Kernels for Recognizing Textual Entailment.</title>
+<year>2009</year>
+<booktitle>TAC</booktitle>
+<ee type="oa">https://tac.nist.gov/publications/2009/participant.papers/PeMoZa.proceedings.pdf</ee>
+<crossref>conf/tac/2009</crossref>
+<url>db/conf/tac/tac2009.html#MehdadMZ09</url>
+</inproceedings>
+</r>
+<r><article key="journals/coling/MoschittiPB08" mdate="2020-05-11">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="73/6839">Daniele Pighin</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<title>Tree Kernels for Semantic Role Labeling.</title>
+<pages>193-224</pages>
+<year>2008</year>
+<volume>34</volume>
+<journal>Comput. Linguistics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1162/coli.2008.34.2.193</ee>
+<url>db/journals/coling/coling34.html#MoschittiPB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/VersleyPPEJSYM08" mdate="2019-09-13">
+<author pid="70/8150">Yannick Versley</author>
+<author pid="04/2532">Simone Paolo Ponzetto</author>
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="58/8159">Vladimir Eidelman</author>
+<author pid="54/8160">Alan Jern</author>
+<author pid="02/1964-6">Jason Smith 0006</author>
+<author pid="10/2453">Xiaofeng Yang</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>BART: A Modular Toolkit for Coreference Resolution.</title>
+<pages>9-12</pages>
+<year>2008</year>
+<booktitle>ACL (Demo Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P08-4003/</ee>
+<crossref>conf/acl/2008d</crossref>
+<url>db/conf/acl/acl2008d.html#VersleyPPEJSYM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MoschittiQ08" mdate="2019-09-13">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="90/2764">Silvia Quarteroni</author>
+<title>Kernels on Linguistic Structures for Answer Extraction.</title>
+<pages>113-116</pages>
+<year>2008</year>
+<booktitle>ACL (Short Papers)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P08-2029/</ee>
+<crossref>conf/acl/2008s</crossref>
+<url>db/conf/acl/acl2008s.html#MoschittiQ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/DiabMP08" mdate="2019-09-13">
+<author pid="15/4305">Mona T. Diab</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="73/6839">Daniele Pighin</author>
+<title>Semantic Role Labeling Systems for Arabic using Kernel Methods.</title>
+<pages>798-806</pages>
+<year>2008</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P08-1091/</ee>
+<crossref>conf/acl/2008</crossref>
+<url>db/conf/acl/acl2008.html#DiabMP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/Moschitti08" mdate="2018-11-06">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Kernel methods, syntax and semantics for relational text categorization.</title>
+<pages>253-262</pages>
+<year>2008</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1458082.1458118</ee>
+<crossref>conf/cikm/2008</crossref>
+<url>db/conf/cikm/cikm2008.html#Moschitti08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/VersleyMPY08" mdate="2019-09-12">
+<author pid="70/8150">Yannick Versley</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="10/2453">Xiaofeng Yang</author>
+<title>Coreference Systems Based on Kernels Methods.</title>
+<pages>961-968</pages>
+<year>2008</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/C08-1121/</ee>
+<crossref>conf/coling/2008</crossref>
+<url>db/conf/coling/coling2008.html#VersleyMPY08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CoppolaMP08" mdate="2017-06-04">
+<author pid="78/6554">Bonaventura Coppola</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="73/6839">Daniele Pighin</author>
+<title>Generalized Framework for Syntax-Based Relation Mining.</title>
+<pages>153-162</pages>
+<year>2008</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2008.153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2008.153</ee>
+<crossref>conf/icdm/2008</crossref>
+<url>db/conf/icdm/icdm2008.html#CoppolaMP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/VersleyPPEJSYM08" mdate="2019-08-19">
+<author pid="70/8150">Yannick Versley</author>
+<author pid="04/2532">Simone Paolo Ponzetto</author>
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="58/8159">Vladimir Eidelman</author>
+<author pid="54/8160">Alan Jern</author>
+<author pid="02/1964-6">Jason Smith 0006</author>
+<author pid="10/2453">Xiaofeng Yang</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>BART: A modular toolkit for coreference resolution.</title>
+<year>2008</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2008/summaries/241.html</ee>
+<crossref>conf/lrec/2008</crossref>
+<url>db/conf/lrec/lrec2008.html#VersleyPPEJSYM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slt/DinarelliMR08" mdate="2017-06-05">
+<author pid="96/2631">Marco Dinarelli</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Joint generative and discriminative models for spoken language understanding.</title>
+<pages>61-64</pages>
+<year>2008</year>
+<booktitle>SLT</booktitle>
+<ee>https://doi.org/10.1109/SLT.2008.4777840</ee>
+<crossref>conf/slt/2008</crossref>
+<url>db/conf/slt/slt2008.html#DinarelliMR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slt/BisazzaDQTMR08" mdate="2020-03-27">
+<author orcid="0000-0003-1270-3048" pid="32/10934">Arianna Bisazza</author>
+<author pid="96/2631">Marco Dinarelli</author>
+<author pid="90/2764">Silvia Quarteroni</author>
+<author orcid="0000-0001-8010-6689" pid="20/1398">Sara Tonelli</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Semantic annotations for conversational speech: From speech transcriptions to predicate argument structures.</title>
+<pages>65-68</pages>
+<year>2008</year>
+<booktitle>SLT</booktitle>
+<ee>https://doi.org/10.1109/SLT.2008.4777841</ee>
+<crossref>conf/slt/2008</crossref>
+<url>db/conf/slt/slt2008.html#BisazzaDQTMR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slt/CoppolaMTR08" mdate="2020-03-27">
+<author pid="78/6554">Bonaventura Coppola</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0001-8010-6689" pid="20/1398">Sara Tonelli</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<title>Automatic framenet-based annotation of conversational speech.</title>
+<pages>73-76</pages>
+<year>2008</year>
+<booktitle>SLT</booktitle>
+<ee>https://doi.org/10.1109/SLT.2008.4777843</ee>
+<crossref>conf/slt/2008</crossref>
+<url>db/conf/slt/slt2008.html#CoppolaMTR08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/tac/ZanzottoPM08" mdate="2019-08-20">
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="92/4292">Marco Pennacchiotti</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>PeMoZa Submission to TAC 2008.</title>
+<year>2008</year>
+<booktitle>TAC</booktitle>
+<ee type="oa">https://tac.nist.gov/publications/2008/participant.papers/PeMoZa.proceedings.pdf</ee>
+<crossref>conf/tac/2008</crossref>
+<url>db/conf/tac/tac2008.html#ZanzottoPM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MoschittiQBM07" mdate="2019-09-13">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="90/2764">Silvia Quarteroni</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="86/3685">Suresh Manandhar</author>
+<title>Exploiting Syntactic and Shallow Semantic Kernels for Question Answer Classification.</title>
+<year>2007</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P07-1098/</ee>
+<crossref>conf/acl/2007</crossref>
+<url>db/conf/acl/acl2007.html#MoschittiQBM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ZanzottoPM07" mdate="2019-09-11">
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="92/4292">Marco Pennacchiotti</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Shallow Semantic in Fast Textual Entailment Rule Learners.</title>
+<pages>72-77</pages>
+<year>2007</year>
+<booktitle>ACL-PASCAL@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W07-1412/</ee>
+<crossref>conf/acl/2007pascal</crossref>
+<url>db/conf/acl/2007pascal.html#ZanzottoPM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/CiliaM07" mdate="2017-05-23">
+<author pid="17/3645">Elisa Cilia</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Advanced Tree-Based Kernels for Protein Classification.</title>
+<pages>218-229</pages>
+<year>2007</year>
+<crossref>conf/aiia/2007</crossref>
+<booktitle>AI*IA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74782-6_20</ee>
+<url>db/conf/aiia/aiia2007.html#CiliaM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/PighinM07" mdate="2017-05-23">
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Tree Kernel-Based Shallow Semantic Parser for Thematic Role Extraction.</title>
+<pages>350-361</pages>
+<year>2007</year>
+<crossref>conf/aiia/2007</crossref>
+<booktitle>AI*IA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74782-6_31</ee>
+<url>db/conf/aiia/aiia2007.html#PighinM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asru/MoschittiRR07" mdate="2017-05-26">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="27/1313">Giuseppe Riccardi</author>
+<author pid="86/5150">Christian Raymond</author>
+<title>Spoken language understanding with kernels for syntactic/semantic structures.</title>
+<pages>183-188</pages>
+<year>2007</year>
+<booktitle>ASRU</booktitle>
+<ee>https://doi.org/10.1109/ASRU.2007.4430106</ee>
+<crossref>conf/asru/2007</crossref>
+<url>db/conf/asru/asru2007.html#MoschittiRR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidm/AiolliMSM07" mdate="2019-10-19">
+<author pid="66/1574">Fabio Aiolli</author>
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="s/ASperduti">Alessandro Sperduti</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Efficient Kernel-based Learning for Trees.</title>
+<pages>308-315</pages>
+<year>2007</year>
+<crossref>conf/cidm/2007</crossref>
+<booktitle>CIDM</booktitle>
+<ee>https://doi.org/10.1109/CIDM.2007.368889</ee>
+<url>db/conf/cidm/cidm2007.html#AiolliMSM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/BloehdornM07" mdate="2018-11-06">
+<author pid="50/3748">Stephan Bloehdorn</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Structure and semantics for expressive text kernels.</title>
+<pages>861-864</pages>
+<year>2007</year>
+<crossref>conf/cikm/2007</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1321440.1321561</ee>
+<url>db/conf/cikm/cikm2007.html#BloehdornM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/QuarteroniMMB07" mdate="2017-07-18">
+<author pid="90/2764">Silvia Quarteroni</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="86/3685">Suresh Manandhar</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Advanced Structural Representations for Question Classification and Answer Re-ranking.</title>
+<pages>234-245</pages>
+<year>2007</year>
+<crossref>conf/ecir/2007</crossref>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71496-5_23</ee>
+<url>db/conf/ecir/ecir2007.html#QuarteroniMMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/BloehdornM07" mdate="2017-05-21">
+<author pid="50/3748">Stephan Bloehdorn</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Combined Syntactic and Semantic Kernels for Text Classification.</title>
+<pages>307-318</pages>
+<year>2007</year>
+<crossref>conf/ecir/2007</crossref>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71496-5_29</ee>
+<url>db/conf/ecir/ecir2007.html#BloehdornM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/MoschittiZ07" mdate="2018-11-06">
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author orcid="0000-0002-7301-3596" pid="32/797">Fabio Massimo Zanzotto</author>
+<title>Fast and effective kernels for relational learning from texts.</title>
+<pages>649-656</pages>
+<year>2007</year>
+<crossref>conf/icml/2007</crossref>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1273496.1273578</ee>
+<url>db/conf/icml/icml2007.html#MoschittiZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/AnnesiBGMP07" mdate="2017-07-18">
+<author pid="32/6050">Paolo Annesi</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="22/6704">Raffaele Gitto</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="94/4053">Riccardo Petitti</author>
+<title>Audio Feature Engineering for Automatic Music Genre Classification.</title>
+<year>2007</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2007</crossref>
+<url>db/conf/riao/riao2007.html#AnnesiBGMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/DiabMP07" mdate="2019-09-11">
+<author pid="15/4305">Mona T. Diab</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="73/6839">Daniele Pighin</author>
+<title>CUNIT: A Semantic Role Labeling System for Modern Standard Arabic.</title>
+<pages>133-136</pages>
+<year>2007</year>
+<booktitle>SemEval@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/S07-1026/</ee>
+<crossref>conf/semeval/2007</crossref>
+<url>db/conf/semeval/semeval2007.html#DiabMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/PighinMB07" mdate="2019-09-11">
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>RTV: Tree Kernels for Thematic Role Classification.</title>
+<pages>288-291</pages>
+<year>2007</year>
+<booktitle>SemEval@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/S07-1062/</ee>
+<crossref>conf/semeval/2007</crossref>
+<url>db/conf/semeval/semeval2007.html#PighinMB07</url>
+</inproceedings>
+</r>
+<r><article key="journals/aai/BasiliMP06" mdate="2020-08-25">
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<title>Extensive Evaluation of Efficient NLP-Driven Text Classification.</title>
+<pages>457-491</pages>
+<year>2006</year>
+<volume>20</volume>
+<journal>Appl. Artif. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1080/08839510600753725</ee>
+<url>db/journals/aai/aai20.html#BasiliMP06</url>
+</article>
+</r>
+<r><article key="journals/informaticaSI/BasiliCM06" mdate="2021-02-16">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="94/995">Marco Cammisa</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Semantic Kernel to Classify Texts with Very Few Training Examples.</title>
+<pages>163-172</pages>
+<year>2006</year>
+<volume>30</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>2</number>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/84</ee>
+<url>db/journals/informaticaSI/informaticaSI30.html#BasiliCM06</url>
+</article>
+</r>
+<r><article key="journals/jdim/BasiliCDM06" mdate="2020-04-25">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="94/995">Marco Cammisa</author>
+<author pid="41/569">Emanuele Donati</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic indexing and hyperlinking of multimedia news: the RitroveRAI System.</title>
+<pages>63-72</pages>
+<year>2006</year>
+<volume>4</volume>
+<journal>J. Digit. Inf. Manag.</journal>
+<number>1</number>
+<ee>http://www.dirf.org/jdim/abstractv4i1.htm#11</ee>
+<url>db/journals/jdim/jdim4.html#BasiliCDM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/GiugleaM06" mdate="2020-05-18">
+<author pid="47/6769">Ana-Maria Giuglea</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Role Labeling via FrameNet, VerbNet and PropBank.</title>
+<year>2006</year>
+<crossref>conf/acl/2006</crossref>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P06-1117/</ee>
+<ee>https://doi.org/10.3115/1220175.1220292</ee>
+<url>db/conf/acl/acl2006.html#GiugleaM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ZanzottoM06" mdate="2020-05-18">
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Automatic Learning of Textual Entailments with Cross-Pair Similarities.</title>
+<year>2006</year>
+<crossref>conf/acl/2006</crossref>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P06-1051/</ee>
+<ee>https://doi.org/10.3115/1220175.1220226</ee>
+<url>db/conf/acl/acl2006.html#ZanzottoM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/ZanzottoM06" mdate="2017-05-24">
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Experimenting a &#34;General Purpose&#34; Textual Entailment Learner in AVE.</title>
+<pages>510-517</pages>
+<year>2006</year>
+<crossref>conf/clef/2006</crossref>
+<booktitle>CLEF</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74999-8_61</ee>
+<url>db/conf/clef/clef2006.html#ZanzottoM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/ZanzottoM06a" mdate="2019-05-28">
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Experimenting a &#34;General Purpose&#34; Textual Entailment Learner in AVE.</title>
+<year>2006</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1172/CLEF2006wn-QACLEF-ZanzottoEt2006.pdf</ee>
+<crossref>conf/clef/2006w</crossref>
+<url>db/conf/clef/clef2006w.html#ZanzottoM06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/MoschittiPB06" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Semantic Role Labeling via Tree Kernel Joint Inference.</title>
+<pages>61-68</pages>
+<year>2006</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W06-2909/</ee>
+<crossref>conf/conll/2006</crossref>
+<url>db/conf/conll/conll2006.html#MoschittiPB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/GiugleaM06" mdate="2019-09-18">
+<author pid="47/6769">Ana-Maria Giuglea</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Towards Free-text Semantic Parsing: A Unified Framework Based on FrameNet, VerbNet and PropBank.</title>
+<year>2006</year>
+<booktitle>Learning Structured Information@EACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W06-2611/</ee>
+<crossref>conf/eacl/2006lsi</crossref>
+<url>db/conf/eacl/lsi2006.html#GiugleaM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/Moschitti06" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Making Tree Kernels Practical for Natural Language Learning.</title>
+<year>2006</year>
+<crossref>conf/eacl/2006</crossref>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/E06-1015/</ee>
+<url>db/conf/eacl/eacl2006.html#Moschitti06</url>
+<pages>113-120</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/MoschittiPB06" mdate="2019-09-18">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Tree Kernel Engineering in Semantic Role Labeling Systems.</title>
+<year>2006</year>
+<booktitle>Learning Structured Information@EACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W06-2607/</ee>
+<crossref>conf/eacl/2006lsi</crossref>
+<url>db/conf/eacl/lsi2006.html#MoschittiPB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GiugleaM06" mdate="2006-10-25">
+<author pid="47/6769">Ana-Maria Giuglea</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Shallow Semantic Parsing Based on FrameNet, VerbNet and PropBank.</title>
+<pages>563-567</pages>
+<year>2006</year>
+<crossref>conf/ecai/2006</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2006.html#GiugleaM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MoschittiCPB06" mdate="2017-07-18">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="78/6554">Bonaventura Coppola</author>
+<author pid="73/6839">Daniele Pighin</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Semantic Tree Kernels to Classify Predicate Argument Structures.</title>
+<pages>568-</pages>
+<year>2006</year>
+<crossref>conf/ecai/2006</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2006.html#MoschittiCPB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/Moschitti06" mdate="2018-06-26">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Efficient Convolution Kernels for Dependency and Constituent Syntactic Trees.</title>
+<pages>318-329</pages>
+<year>2006</year>
+<crossref>conf/ecml/2006</crossref>
+<booktitle>ECML</booktitle>
+<ee type="oa">https://doi.org/10.1007/11871842_32</ee>
+<url>db/conf/ecml/ecml2006.html#Moschitti06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/AiolliMSM06" mdate="2019-10-19">
+<author pid="66/1574">Fabio Aiolli</author>
+<author orcid="0000-0002-2609-483X" pid="25/3236">Giovanni Da San Martino</author>
+<author pid="s/ASperduti">Alessandro Sperduti</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Fast On-line Kernel Learning for Trees.</title>
+<pages>787-791</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2006.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2006.69</ee>
+<url>db/conf/icdm/icdm2006.html#AiolliMSM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/BloehdornBCM06" mdate="2017-07-17">
+<author pid="50/3748">Stephan Bloehdorn</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="94/995">Marco Cammisa</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>Semantic Kernels for Text Classification Based on Topological Measures of Feature Similarity.</title>
+<pages>808-812</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2006.141</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2006.141</ee>
+<url>db/conf/icdm/icdm2006.html#BloehdornBCM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/Moschitti006" mdate="2019-08-19">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>A Tree Kernel approach to Question and Answer Classification in Question Answering Systems.</title>
+<pages>1510-1513</pages>
+<year>2006</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2006/summaries/708.html</ee>
+<crossref>conf/lrec/2006</crossref>
+<url>db/conf/lrec/lrec2006.html#Moschitti006</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lwa/BloehdornBCM06" mdate="2017-07-18">
+<author pid="50/3748">Stephan Bloehdorn</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="94/995">Marco Cammisa</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Designing Semantic Kernels as Implicit Superconcept Expansions.</title>
+<pages>255-261</pages>
+<year>2006</year>
+<crossref>conf/lwa/2006</crossref>
+<booktitle>LWA</booktitle>
+<ee>http://web1.bib.uni-hildesheim.de/edocs/2007/522108369/meta/</ee>
+<url>db/conf/lwa/lwa2006.html#BloehdornBCM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/Moschitti06" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Syntactic Kernels for Natural Language Learning: the Semantic Role Labeling Case.</title>
+<year>2006</year>
+<crossref>conf/naacl/2006</crossref>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/N06-2025/</ee>
+<url>db/conf/naacl/naacl2006.html#Moschitti06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/BasiliCM05" mdate="2017-07-17">
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author pid="94/995">Marco Cammisa</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<title>A Semantic Kernel to Exploit Linguistic Knowledge.</title>
+<pages>290-302</pages>
+<year>2005</year>
+<crossref>conf/aiia/2005</crossref>
+<booktitle>AI*IA</booktitle>
+<ee>https://doi.org/10.1007/11558590_30</ee>
+<url>db/conf/aiia/aiia2005.html#BasiliCM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/BasiliCM05" mdate="2019-09-11">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="94/995">Marco Cammisa</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Effective use of WordNet Semantics via Kernel-Based Learning.</title>
+<pages>1-8</pages>
+<year>2005</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W05-0601/</ee>
+<crossref>conf/conll/2005</crossref>
+<url>db/conf/conll/conll2005.html#BasiliCM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/MoschittiGCB05" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="47/6769">Ana-Maria Giuglea</author>
+<author pid="78/6554">Bonaventura Coppola</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Hierarchical Semantic Role Labeling.</title>
+<pages>201-204</pages>
+<year>2005</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W05-0630/</ee>
+<crossref>conf/conll/2005</crossref>
+<url>db/conf/conll/conll2005.html#MoschittiGCB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/Moschitti04" mdate="2020-05-18">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Study on Convolution Kernels for Shallow Statistic Parsing.</title>
+<pages>335-342</pages>
+<year>2004</year>
+<crossref>conf/acl/2004</crossref>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P04-1043/</ee>
+<ee>https://doi.org/10.3115/1218955.1218998</ee>
+<url>db/conf/acl/acl2004.html#Moschitti04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/MoschittiB04" mdate="2019-09-11">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="31/5154">Cosmin Adrian Bejan</author>
+<title>A Semantic Kernel for Predicate Argument Classification.</title>
+<pages>17-24</pages>
+<year>2004</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W04-2403/</ee>
+<crossref>conf/conll/2004</crossref>
+<url>db/conf/conll/conll2004.html#MoschittiB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/MoschittiB04" mdate="2017-07-18">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<title>Complex Linguistic Features for Text Classification: A Comprehensive Study.</title>
+<pages>181-196</pages>
+<ee>https://doi.org/10.1007/978-3-540-24752-4_14</ee>
+<year>2004</year>
+<crossref>conf/ecir/2004</crossref>
+<booktitle>ECIR</booktitle>
+<url>db/conf/ecir/ecir2004.html#MoschittiB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/BejanMMNH04" mdate="2019-09-11">
+<author pid="31/5154">Cosmin Adrian Bejan</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="01/5328">Paul Morarescu</author>
+<author pid="09/1075">Gabriel Nicolae</author>
+<author pid="51/3845">Sanda M. Harabagiu</author>
+<title>Semantic parsing based on FrameNet.</title>
+<year>2004</year>
+<booktitle>SENSEVAL@ACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W04-0819/</ee>
+<crossref>conf/semeval/2004</crossref>
+<url>db/conf/semeval/semeval2004.html#BejanMMNH04</url>
+</inproceedings>
+</r>
+<r><article key="journals/expert/BasiliMPZ03" mdate="2020-03-06">
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author orcid="0000-0003-2216-8034" pid="54/2140">Alessandro Moschitti</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<author orcid="0000-0002-7301-3596" pid="32/797">Fabio Massimo Zanzotto</author>
+<title>Personalizing Web Publishing via Information Extraction.</title>
+<pages>62-70</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MIS.2003.1179195</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2003.1179195</ee>
+<url>db/journals/expert/expert18.html#BasiliMPZ03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/Moschitti03" mdate="2017-05-21">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Study on Optimal Parameter Tuning for Rocchio Text Classifier.</title>
+<pages>420-435</pages>
+<year>2003</year>
+<crossref>conf/ecir/2003</crossref>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/3-540-36618-0_30</ee>
+<url>db/conf/ecir/ecir2003.html#Moschitti03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/MoschittiMH03" mdate="2021-02-03">
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="01/5328">Paul Morarescu</author>
+<author pid="51/3845">Sanda M. Harabagiu</author>
+<title>Open Domain Information Extraction via Automatic Semantic Labeling.</title>
+<pages>397-401</pages>
+<year>2003</year>
+<crossref>conf/flairs/2003</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2003.html#MoschittiMH03</url>
+<ee type="oa">http://www.aaai.org/Library/FLAIRS/2003/flairs03-077.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/Moschitti03" mdate="2017-05-26">
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Answer Filtering via Text Categorization in Question Answering Systems.</title>
+<pages>241-248</pages>
+<year>2003</year>
+<crossref>conf/ictai/2003</crossref>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/TAI.2003.1250197</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TAI.2003.1250197</ee>
+<url>db/conf/ictai/ictai2003.html#Moschitti03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijait/BasiliM02" mdate="2020-05-12">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>Intelligent NLP-Driven Text Classification.</title>
+<pages>389-423</pages>
+<year>2002</year>
+<volume>11</volume>
+<journal>Int. J. Artif. Intell. Tools</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0218213002000952</ee>
+<url>db/journals/ijait/ijait11.html#BasiliM02</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/BasiliMP02" mdate="2017-07-17">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<title>Empirical investigation of fast text classification over linguistic features.</title>
+<pages>485-489</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#BasiliMP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiia/BasiliMP01" mdate="2017-07-17">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<title>A Hybrid Approach to Optimize Feature Selection Process in Text Classification.</title>
+<pages>320-326</pages>
+<year>2001</year>
+<crossref>conf/aiia/2001</crossref>
+<booktitle>AI*IA</booktitle>
+<ee>https://doi.org/10.1007/3-540-45411-X_33</ee>
+<url>db/conf/aiia/aiia2001.html#BasiliMP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/BasiliM01" mdate="2017-07-18">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<title>A Robust Model for Intelligent Text Classification.</title>
+<pages>265-272</pages>
+<year>2001</year>
+<crossref>conf/ictai/2001</crossref>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2001.974473</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICTAI.2001.974473</ee>
+<url>db/conf/ictai/ictai2001.html#BasiliM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BasiliMP01" mdate="2017-07-17">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<title>NLP-driven IR: Evaluating Performances over a Text Classification task.</title>
+<pages>1286-1294</pages>
+<year>2001</year>
+<crossref>conf/ijcai/2001</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai2001.html#BasiliMP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/BasiliMP00" mdate="2017-07-17">
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="54/2140">Alessandro Moschitti</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<title>Language sensitive text classification.</title>
+<pages>331-343</pages>
+<year>2000</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2000</crossref>
+<url>db/conf/riao/riao2000.html#BasiliMP00</url>
+</inproceedings>
+</r>
+<coauthors n="214" nc="5">
+<co c="0"><na f="a/Abad:Azad" pid="84/8153">Azad Abad</na></co>
+<co c="0"><na f="a/Agarwal:Apoorv" pid="44/2608">Apoorv Agarwal</na></co>
+<co c="0"><na f="a/Agichtein:Eugene" pid="26/1185">Eugene Agichtein</na></co>
+<co c="0"><na f="a/Aiolli:Fabio" pid="66/1574">Fabio Aiolli</na></co>
+<co c="0"><na f="a/Al=Obaidli:Fahad" pid="36/10071">Fahad Al-Obaidli</na></co>
+<co c="0"><na f="a/Alexopoulos:Panos" pid="93/6035">Panos Alexopoulos</na></co>
+<co c="-1"><na f="a/Alishahi:Afra" pid="69/8699">Afra Alishahi</na></co>
+<co c="0"><na f="a/Annesi:Paolo" pid="32/6050">Paolo Annesi</na></co>
+<co c="0"><na f="b/Baldwin:Timothy" pid="65/4863">Timothy Baldwin</na></co>
+<co c="0"><na f="b/Baly:Ramy" pid="187/7326">Ramy Baly</na></co>
+<co c="0"><na f="b/Banea:Carmen" pid="94/6186">Carmen Banea</na></co>
+<co c="0"><na f="b/Barlacchi:Gianni" pid="127/1249">Gianni Barlacchi</na></co>
+<co c="0"><na f="b/Barr=oacute=n=Cede=ntilde=o:Alberto" pid="40/3383">Alberto Barr&#243;n-Cede&#241;o</na></co>
+<co c="0"><na f="b/Barzilay:Regina" pid="b/ReginaBarzilay">Regina Barzilay</na></co>
+<co c="0"><na f="b/Basile:Pierpaolo" pid="98/5082">Pierpaolo Basile</na></co>
+<co c="0"><na f="b/Basili_0001:Roberto" pid="79/2000">Roberto Basili 0001</na></co>
+<co c="2"><na f="b/Bejan:Cosmin_Adrian" pid="31/5154">Cosmin Adrian Bejan</na></co>
+<co c="0"><na f="b/Belinkov:Yonatan" pid="136/8705">Yonatan Belinkov</na></co>
+<co c="0"><na f="b/Bennaceur:Amel" pid="48/2068">Amel Bennaceur</na></co>
+<co c="0"><na f="b/Berendsen:Richard" pid="94/9901">Richard Berendsen</na></co>
+<co c="0"><na f="b/Bisazza:Arianna" pid="32/10934">Arianna Bisazza</na></co>
+<co c="0"><na f="b/Bj=ouml=rkelund:Anders" pid="24/9282">Anders Bj&#246;rkelund</na></co>
+<co c="0"><na f="b/Blanco:Roi" pid="30/3795">Roi Blanco</na></co>
+<co c="0"><na f="b/Bloehdorn:Stephan" pid="50/3748">Stephan Bloehdorn</na></co>
+<co c="0"><na f="b/Boato:Giulia" pid="90/3132">Giulia Boato</na></co>
+<co c="0"><na f="b/Boguraev:Branimir" pid="06/2813">Branimir Boguraev</na></co>
+<co c="0"><na f="b/Bonadiman:Daniele" pid="185/5551">Daniele Bonadiman</na></co>
+<co c="0"><na f="b/Bosco:Cristina" pid="27/3697">Cristina Bosco</na></co>
+<co c="0"><na f="b/Boyanov:Martin" pid="184/2044">Martin Boyanov</na></co>
+<co c="1"><na f="b/Breu:Ruth" pid="b/RuthBreu">Ruth Breu</na></co>
+<co c="0"><na f="c/Cammisa:Marco" pid="94/995">Marco Cammisa</na></co>
+<co c="0"><na f="c/Cao:Diego_De" pid="18/4135">Diego De Cao</na></co>
+<co c="0"><na f="c/Carenini:Giuseppe" pid="30/3994">Giuseppe Carenini</na></co>
+<co c="0"><na f="c/Carrino:Casimiro" pid="209/2873">Casimiro Carrino</na></co>
+<co c="0"><na f="c/Castellucci:Giuseppe" pid="126/2079">Giuseppe Castellucci</na></co>
+<co c="0"><na f="c/Catalin:Andrei" pid="229/9083">Andrei Catalin</na></co>
+<co c="0"><na f="c/Chen:Lingzhen" pid="203/9440">Lingzhen Chen</na></co>
+<co c="0"><na f="c/Chowdhury:Faisal_Md=" pid="204/9652">Faisal Md. Chowdhury</na></co>
+<co c="0"><na f="c/Chu=Carroll:Jennifer" pid="69/4492">Jennifer Chu-Carroll</na></co>
+<co c="0"><na f="c/Cilia:Elisa" pid="17/3645">Elisa Cilia</na></co>
+<co c="0"><na f="c/Clarke:Charles_L=_A=" pid="96/3666">Charles L. A. Clarke</na></co>
+<co c="0"><na f="c/Coppola:Bonaventura" pid="78/6554">Bonaventura Coppola</na></co>
+<co c="0"><na f="c/Corazza:Anna" pid="02/2002">Anna Corazza</na></co>
+<co c="0"><na f="c/Costanzo:Andrea" pid="34/8357">Andrea Costanzo</na></co>
+<co c="0"><na f="c/Croce:Danilo" pid="38/2048">Danilo Croce</na></co>
+<co c="0" n="2"><na f="c/Cyphers:D=_Scott" pid="87/6703">D. Scott Cyphers</na><na>Scott Cyphers</na></co>
+<co c="0"><na f="d/Daelemans:Walter" pid="d/WalterDaelemans">Walter Daelemans</na></co>
+<co c="0"><na f="d/Dang=Nguyen:Duc=Tien" pid="16/10574">Duc-Tien Dang-Nguyen</na></co>
+<co c="0"><na f="d/Darwish:Kareem" pid="13/5913">Kareem Darwish</na></co>
+<co c="0" n="2"><na f="d/Degemmis:Marco" pid="28/3141">Marco Degemmis</na><na>Marco de Gemmis</na></co>
+<co c="0"><na f="d/Dell=Arciprete:Lorenzo" pid="21/8178">Lorenzo Dell'Arciprete</na></co>
+<co c="0"><na f="d/Delmonte:Rodolfo" pid="72/2316">Rodolfo Delmonte</na></co>
+<co c="0"><na f="d/Demidova:Elena" pid="84/2154">Elena Demidova</na></co>
+<co c="0"><na f="d/Diab:Mona_T=" pid="15/4305">Mona T. Diab</na></co>
+<co c="0"><na f="d/Dinarelli:Marco" pid="96/2631">Marco Dinarelli</na></co>
+<co c="0"><na f="d/Donati:Emanuele" pid="41/569">Emanuele Donati</na></co>
+<co c="0" n="2"><na f="d/Dupplaw:David" pid="45/3337">David Dupplaw</na><na>David Paul Dupplaw</na></co>
+<co c="0"><na f="e/Eidelman:Vladimir" pid="58/8159">Vladimir Eidelman</na></co>
+<co c="0"><na f="e/Eldesouki:Mohamed" pid="204/1263">Mohamed Eldesouki</na></co>
+<co c="0"><na f="f/Fan:James" pid="79/4382">James Fan</na></co>
+<co c="0"><na f="f/Faraotti:Alessandro" pid="35/3554">Alessandro Faraotti</na></co>
+<co c="0"><na f="f/Favalli:Andrea" pid="209/2681">Andrea Favalli</na></co>
+<co c="1"><na f="f/Felderer:Michael" pid="49/2990">Michael Felderer</na></co>
+<co c="0"><na f="f/Filice:Simone" pid="99/11030">Simone Filice</na></co>
+<co c="0"><na f="f/Filippova:Katja" pid="24/5028">Katja Filippova</na></co>
+<co c="0"><na f="f/Fontani:Marco" pid="124/8415">Marco Fontani</na></co>
+<co c="0"><na f="f/Freihat:Abed_Alhakim" pid="186/7418">Abed Alhakim Freihat</na></co>
+<co c="1"><na f="g/Gander:Matthias" pid="125/4254">Matthias Gander</na></co>
+<co c="0"><na f="g/Gao_0001:Wei" pid="28/2073-1">Wei Gao 0001</na></co>
+<co c="3"><na f="g/Garg:Siddhant" pid="82/8467">Siddhant Garg</na></co>
+<co c="0"><na f="g/Ghidini:Chiara" pid="45/1110">Chiara Ghidini</na></co>
+<co c="0"><na f="g/Giannone:Cristina" pid="06/3335">Cristina Giannone</na></co>
+<co c="-1"><na f="g/Giordani:Alessandra" pid="55/5843">Alessandra Giordani</na></co>
+<co c="0"><na f="g/Gitto:Raffaele" pid="22/6704">Raffaele Gitto</na></co>
+<co c="0"><na f="g/Giuglea:Ana=Maria" pid="47/6769">Ana-Maria Giuglea</na></co>
+<co c="0" n="2"><na f="g/Glass:Jim" pid="37/6580">Jim Glass</na><na>James R. Glass</na></co>
+<co c="0"><na f="g/Gonzalo:Julio" pid="52/3559">Julio Gonzalo</na></co>
+<co c="0"><na f="g/Griffiths:Thomas" pid="146/8612">Thomas Griffiths</na></co>
+<co c="0"><na f="g/Guzm=aacute=n:Francisco" pid="92/1459">Francisco Guzm&#225;n</na></co>
+<co c="0"><na f="h/Hahn:Stefan" pid="88/8162">Stefan Hahn</na></co>
+<co c="4"><na f="h/Han:Rujun" pid="228/5627">Rujun Han</na></co>
+<co c="0"><na f="h/Haponchyk:Iryna" pid="203/9515">Iryna Haponchyk</na></co>
+<co c="2"><na f="h/Harabagiu:Sanda_M=" pid="51/3845">Sanda M. Harabagiu</na></co>
+<co c="0"><na f="h/Hare:Jonathon_S=" pid="13/905">Jonathon S. Hare</na></co>
+<co c="0"><na f="h/Hoogeveen:Doris" pid="174/0013">Doris Hoogeveen</na></co>
+<co c="0"><na f="h/Hoque:Enamul" pid="71/4476">Enamul Hoque</na></co>
+<co c="0"><na f="h/Howar:Falk" pid="12/8669">Falk Howar</na></co>
+<co c="0"><na f="h/Hsu:Wei=Ning" pid="160/9923">Wei-Ning Hsu</na></co>
+<co c="0"><na f="i/Iorio:Ugo_Di" pid="10/5315">Ugo Di Iorio</na></co>
+<co c="0"><na f="i/Isberner:Malte" pid="54/1436">Malte Isberner</na></co>
+<co c="0"><na f="i/Issarny:Val=eacute=rie" pid="i/ValerieIssarny">Val&#233;rie Issarny</na></co>
+<co c="0"><na f="j/Jaakkola:Tommi_S=" pid="j/TommiJaakkola">Tommi S. Jaakkola</na></co>
+<co c="0"><na f="j/Jern:Alan" pid="54/8160">Alan Jern</na></co>
+<co c="0"><na f="j/Johansson:Richard" pid="56/3767">Richard Johansson</na></co>
+<co c="0"><na f="j/Joshi:Hrishikesh" pid="173/5018">Hrishikesh Joshi</na></co>
+<co c="0"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na></co>
+<co c="0"><na f="j/Ju:Qi" pid="34/1080">Qi Ju</na></co>
+<co c="1"><na f="k/Katt:Basel" pid="37/1402">Basel Katt</na></co>
+<co c="0"><na f="k/Koychev:Ivan" pid="88/2617">Ivan Koychev</na></co>
+<co c="0"><na f="l/Lauriola:Ivano" pid="207/4748">Ivano Lauriola</na></co>
+<co c="0"><na f="l/Lavelli:Alberto" pid="88/6222">Alberto Lavelli</na></co>
+<co c="0"><na f="l/Lef=egrave=vre:Fabrice" pid="70/7518">Fabrice Lef&#232;vre</na></co>
+<co c="0"><na f="l/Lehnen:Patrick" pid="18/8162">Patrick Lehnen</na></co>
+<co c="0"><na f="l/Lei_0001:Tao" pid="91/8024-1">Tao Lei 0001</na></co>
+<co c="0"><na f="l/Lenci:Alessandro" pid="02/2701">Alessandro Lenci</na></co>
+<co c="0"><na f="l/Lenzerini:Maurizio" pid="l/MLenzerini">Maurizio Lenzerini</na></co>
+<co c="0"><na f="l/Lepri:Bruno" pid="99/6489">Bruno Lepri</na></co>
+<co c="0"><na f="l/Lewis:Paul_H=" pid="l/PHLewis">Paul H. Lewis</na></co>
+<co c="0"><na f="l/Li_0001:Hang" pid="83/5560-1">Hang Li 0001</na></co>
+<co c="0"><na f="l/Liello:Luca_Di" pid="271/0992">Luca Di Liello</na></co>
+<co c="0"><na f="l/Lops:Pasquale" pid="78/5518">Pasquale Lops</na></co>
+<co c="0"><na f="m/Magdy:Walid" pid="56/1909">Walid Magdy</na></co>
+<co c="0"><na f="m/Maggio:Valerio" pid="08/9103">Valerio Maggio</na></co>
+<co c="0"><na f="m/Manandhar:Suresh" pid="86/3685">Suresh Manandhar</na></co>
+<co c="0" n="2"><na f="m/M=agrave=rquez:Llu=iacute=s" pid="62/3">Llu&#237;s M&#224;rquez</na><na>Llu&#237;s M&#224;rquez i Villodre</na></co>
+<co c="0"><na f="m/Martino:Giovanni_Da_San" pid="25/3236">Giovanni Da San Martino</na></co>
+<co c="0"><na f="m/Martino:Sergio_Di" pid="29/2259">Sergio Di Martino</na></co>
+<co c="3"><na f="m/Matsubara:Yoshitomo" pid="194/5593">Yoshitomo Matsubara</na></co>
+<co c="0"><na f="m/Matthews:Michael" pid="33/2610">Michael Matthews</na></co>
+<co c="0"><na f="m/Mehdad:Yashar" pid="28/7560">Yashar Mehdad</na></co>
+<co c="0"><na f="m/Minack:Enrico" pid="82/5803">Enrico Minack</na></co>
+<co c="0"><na f="m/Mohtarami:Mitra" pid="77/7405">Mitra Mohtarami</na></co>
+<co c="0"><na f="m/Monti:Marco" pid="95/672">Marco Monti</na></co>
+<co c="2"><na f="m/Morarescu:Paul" pid="01/5328">Paul Morarescu</na></co>
+<co c="0" n="2"><na f="m/Mori:Renato_De" pid="86/129">Renato De Mori</na><na>Renato de Mori</na></co>
+<co c="0"><na f="m/Mubarak:Hamdy" pid="146/4030">Hamdy Mubarak</na></co>
+<co c="0"><na f="m/Musto:Cataldo" pid="81/7422">Cataldo Musto</na></co>
+<co c="0"><na f="n/Nabi:Moin" pid="167/0748">Moin Nabi</na></co>
+<co c="0"><na f="n/Naggar:Paolo" pid="18/6165">Paolo Naggar</na></co>
+<co c="0"><na f="n/Nakov:Preslav" pid="19/1947">Preslav Nakov</na></co>
+<co c="0"><na f="n/Narducci:Fedelucio" pid="64/7424">Fedelucio Narducci</na></co>
+<co c="0"><na f="n/Natale:Francesco_G=_B=_De" pid="80/1602">Francesco G. B. De Natale</na></co>
+<co c="0"><na f="n/Nechaev:Yaroslav" pid="191/4052">Yaroslav Nechaev</na></co>
+<co c="0"><na f="n/Ney:Hermann" pid="n/HermannNey">Hermann Ney</na></co>
+<co c="0"><na f="n/Ng:Hwee_Tou" pid="97/3037">Hwee Tou Ng</na></co>
+<co c="0"><na f="n/Nguyen:Truc=Vien_T=" pid="10/4162">Truc-Vien T. Nguyen</na></co>
+<co c="2"><na f="n/Nicolae:Gabriel" pid="09/1075">Gabriel Nicolae</na></co>
+<co c="0"><na f="n/Nicosia:Massimo" pid="136/8001">Massimo Nicosia</na></co>
+<co c="0"><na f="p/Palmer:Martha" pid="p/MarthaStonePalmer">Martha Palmer</na></co>
+<co c="0"><na f="p/Pan:Jeff_Z=" pid="59/6490">Jeff Z. Pan</na></co>
+<co c="0"><na f="p/Pang:Bo" pid="16/6344">Bo Pang</na></co>
+<co c="0"><na f="p/Passerini:Andrea" pid="00/6186">Andrea Passerini</na></co>
+<co c="0"><na f="p/Patwardhan:Siddharth" pid="05/6562">Siddharth Patwardhan</na></co>
+<co c="0"><na f="p/Pazienza:Maria_Teresa" pid="98/2076">Maria Teresa Pazienza</na></co>
+<co c="0"><na f="p/Pennacchiotti:Marco" pid="92/4292">Marco Pennacchiotti</na></co>
+<co c="0"><na f="p/Petitti:Riccardo" pid="94/4053">Riccardo Petitti</na></co>
+<co c="0"><na f="p/Pighin:Daniele" pid="73/6839">Daniele Pighin</na></co>
+<co c="0"><na f="p/Pipitone:Arianna" pid="89/7770">Arianna Pipitone</na></co>
+<co c="0"><na f="p/Pirrone:Roberto" pid="37/3879">Roberto Pirrone</na></co>
+<co c="0"><na f="p/Plank:Barbara" pid="46/521">Barbara Plank</na></co>
+<co c="0"><na f="p/Poccianti:Piero" pid="54/3228">Piero Poccianti</na></co>
+<co c="0"><na f="p/Poesio:Massimo" pid="60/6334">Massimo Poesio</na></co>
+<co c="0"><na f="p/Ponzetto:Simone_Paolo" pid="04/2532">Simone Paolo Ponzetto</na></co>
+<co c="0"><na f="p/Pradhan:Sameer" pid="p/SameerPradhan">Sameer Pradhan</na></co>
+<co c="0"><na f="q/Quarteroni:Silvia" pid="90/2764">Silvia Quarteroni</na></co>
+<co c="0"><na f="r/Randeree:Bilal" pid="186/7139">Bilal Randeree</na></co>
+<co c="0"><na f="r/Ravagni:Chiara" pid="34/11443">Chiara Ravagni</na></co>
+<co c="0"><na f="r/Raymond:Christian" pid="86/5150">Christian Raymond</na></co>
+<co c="0"><na f="r/Riccardi:Giuseppe" pid="27/1313">Giuseppe Riccardi</na></co>
+<co c="0"><na f="r/Rijke:Maarten_de" pid="r/MdRijke">Maarten de Rijke</na></co>
+<co c="0"><na f="r/Roberti:Pierluigi" pid="11/3226">Pierluigi Roberti</na></co>
+<co c="0"><na f="r/Romagnoli:Raniero" pid="209/2673">Raniero Romagnoli</na></co>
+<co c="0"><na f="r/Romeo:Salvatore" pid="135/3229">Salvatore Romeo</na></co>
+<co c="0"><na f="r/Rossi:Alberto" pid="33/10944">Alberto Rossi</na></co>
+<co c="0"><na f="r/Rossinelli:Emanuele" pid="191/4028">Emanuele Rossinelli</na></co>
+<co c="0"><na f="r/Rotondi:Agata" pid="146/4247">Agata Rotondi</na></co>
+<co c="0"><na f="s/Saadi:Rachid" pid="01/6167">Rachid Saadi</na></co>
+<co c="0"><na f="s/Saleh_0001:Iman" pid="28/3364-1">Iman Saleh 0001</na></co>
+<co c="1"><na f="s/Scandariato:Riccardo" pid="82/5205">Riccardo Scandariato</na></co>
+<co c="0"><na f="s/Scanniello:Giuseppe" pid="45/4173">Giuseppe Scanniello</na></co>
+<co c="0"><na f="s/Semeraro:Giovanni" pid="41/446">Giovanni Semeraro</na></co>
+<co c="0"><na f="s/Serafini:Luciano" pid="s/LucianoSerafini">Luciano Serafini</na></co>
+<co c="0"><na f="s/Severyn:Aliaksei" pid="86/8354">Aliaksei Severyn</na></co>
+<co c="0"><na f="s/Shah:Darsh_J=" pid="227/2738">Darsh J. Shah</na></co>
+<co c="0"><na f="s/Silvestri:Fabrizio" pid="s/FabrizioSilvestri">Fabrizio Silvestri</na></co>
+<co c="0"><na f="s/Simi:Maria" pid="88/4150">Maria Simi</na></co>
+<co c="0"><na f="s/Smith_0006:Jason" pid="02/1964-6">Jason Smith 0006</na></co>
+<co c="4"><na f="s/Soldaini:Luca" pid="160/1741">Luca Soldaini</na></co>
+<co c="0"><na f="s/Somasundaran:Swapna" pid="43/5992">Swapna Somasundaran</na></co>
+<co c="0"><na f="s/Spalazzese:Romina" pid="87/6586">Romina Spalazzese</na></co>
+<co c="0"><na f="s/Sperduti:Alessandro" pid="s/ASperduti">Alessandro Sperduti</na></co>
+<co c="0"><na f="s/Steffen:Bernhard" pid="s/BernhardSteffen">Bernhard Steffen</na></co>
+<co c="0"><na f="s/Storch:Valerio" pid="80/11030">Valerio Storch</na></co>
+<co c="0"><na f="s/Sykes:Daniel" pid="88/2334">Daniel Sykes</na></co>
+<co c="0"><na f="s/Szpektor:Idan" pid="15/6513">Idan Szpektor</na></co>
+<co c="1"><na f="t/Tolbaru:Adrian" pid="143/1789">Adrian Tolbaru</na></co>
+<co c="0"><na f="t/Tonelli:Sara" pid="20/1398">Sara Tonelli</na></co>
+<co c="0"><na f="t/Tsagkias:Manos" pid="27/5801">Manos Tsagkias</na></co>
+<co c="0"><na f="t/Tymoshenko:Kateryna" pid="94/8176">Kateryna Tymoshenko</na></co>
+<co c="0"><na f="u/Uryupina:Olga" pid="29/8156">Olga Uryupina</na></co>
+<co c="0"><na f="u/Uva_0001:Antonio" pid="181/2308-1">Antonio Uva 0001</na></co>
+<co c="0"><na f="u/Uva:Antonio_E=" pid="86/2671">Antonio E. Uva</na></co>
+<co c="0"><na f="v/Valverde=Albacete:Francisco_J=" pid="22/4437">Francisco J. Valverde-Albacete</na></co>
+<co c="0"><na f="v/Vaschetto:Giampiero" pid="00/11444">Giampiero Vaschetto</na></co>
+<co c="0"><na f="v/Venturi:Giulia" pid="45/1484">Giulia Venturi</na></co>
+<co c="0"><na f="v/Versley:Yannick" pid="70/8150">Yannick Versley</na></co>
+<co c="0" n="2"><na f="v/Verspoor:Karin_M=" pid="07/6465">Karin M. Verspoor</na><na>Karin Verspoor</na></co>
+<co c="0"><na f="v/Vescovo:Chiara_Del" pid="50/7564">Chiara Del Vescovo</na></co>
+<co c="0"><na f="v/Vetere:Guido" pid="34/2861">Guido Vetere</na></co>
+<co c="3"><na f="v/Vu:Thuy" pid="22/5260">Thuy Vu</na></co>
+<co c="0"><na f="w/Walker:Andrew_D=" pid="177/5649">Andrew D. Walker</na></co>
+<co c="0" n="2"><na f="w/Welty:Christopher_A=" pid="w/CAWelty">Christopher A. Welty</na><na>Chris Welty</na></co>
+<co c="0"><na f="w/Wu:Honghan" pid="99/6255">Honghan Wu</na></co>
+<co c="0"><na f="x/Xu_0001:Jun" pid="90/514-1">Jun Xu 0001</na></co>
+<co c="0"><na f="x/Xue:Nianwen" pid="01/2933">Nianwen Xue</na></co>
+<co c="0"><na f="y/Yang:Xiaofeng" pid="10/2453">Xiaofeng Yang</na></co>
+<co c="0"><na f="y/Yu:Seunghak" pid="66/7064">Seunghak Yu</na></co>
+<co c="0"><na f="z/Zanzotto:Fabio_Massimo" pid="32/797">Fabio Massimo Zanzotto</na></co>
+<co c="0"><na f="z/Zara:Giacomo" pid="229/9072">Giacomo Zara</na></co>
+<co c="0"><na f="z/Zhang_0033:Yu" pid="50/671-33">Yu Zhang 0033</na></co>
+<co c="0"><na f="z/Zhang_0001:Yuan" pid="48/2168-1">Yuan Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Yuchen" pid="09/5661">Yuchen Zhang</na></co>
+<co c="0"><na f="z/Zhao:Yuting" pid="96/11">Yuting Zhao</na></co>
+<co c="0"><na f="z/Zhong:Zhi" pid="16/4623">Zhi Zhong</na></co>
+</coauthors>
+</dblpperson>
+

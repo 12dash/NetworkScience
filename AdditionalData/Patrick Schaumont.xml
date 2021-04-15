@@ -1,3 +1,3664 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16dabf75a6e1d6fa311c20b9ce6a062cb371e6946cf12526e2b2b5e15243ff3d
-size 167406
+<?xml version="1.0"?>
+<dblpperson name="Patrick Schaumont" pid="39/1269" n="234">
+<person key="homepages/39/1269" mdate="2019-09-18">
+<author pid="39/1269">Patrick Schaumont</author>
+<url>http://www.faculty.ece.vt.edu/schaum//</url>
+<url>https://scholar.google.com/citations?user=cgHpJEwAAAAJ</url>
+<url>https://orcid.org/0000-0002-4586-5476</url>
+<note type="affiliation">Virginia Tech, Blacksburg, Department of Electrical and Computer Engineering</note>
+</person>
+<r><article key="journals/esl/KiaeiS21" mdate="2021-03-23">
+<author orcid="0000-0001-8450-1037" pid="244/9095">Pantea Kiaei</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Synthesis of Parallel Synchronous Software.</title>
+<pages>17-20</pages>
+<year>2021</year>
+<volume>13</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/LES.2020.2992051</ee>
+<url>db/journals/esl/esl13.html#KiaeiS21</url>
+</article>
+</r>
+<r><article key="journals/jhss/KrishnanSS20" mdate="2020-12-01">
+<author orcid="0000-0001-9233-7310" pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="212/9496">Charles Suslowicz</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Secure and Stateful Power Transitions in Embedded Systems.</title>
+<pages>263-276</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s41635-020-00099-6</ee>
+<url>db/journals/jhss/jhss4.html#KrishnanSS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/Chang0RS20" mdate="2020-11-10">
+<author pid="95/137">Chip-Hong Chang</author>
+<author pid="66/3585-1">Stefan Katzenbeisser 0001</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>ASHES 2020: 4th Workshop on Attacks and Solutions in Hardware Security.</title>
+<pages>2145-2146</pages>
+<year>2020</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3372297.3416249</ee>
+<crossref>conf/ccs/2020</crossref>
+<url>db/conf/ccs/ccs2020.html#Chang0RS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cosade/YaoTMKS20" mdate="2021-02-05">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="55/2065">Michael Tunstall</author>
+<author pid="40/2773">Elke De Mulder</author>
+<author pid="265/8695">Anton Kochepasov</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Augmenting Leakage Detection Using Bootstrapping.</title>
+<pages>104-119</pages>
+<year>2020</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-68773-1_6</ee>
+<crossref>conf/cosade/2020</crossref>
+<url>db/conf/cosade/cosade2020.html#YaoTMKS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cosade/KiaeiMDHS20" mdate="2021-02-05">
+<author pid="244/9095">Pantea Kiaei</author>
+<author pid="214/7961">Darius Mercadier</author>
+<author pid="50/3978">Pierre-&#201;variste Dagand</author>
+<author pid="12/296">Karine Heydemann</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Custom Instruction Support for Modular Defense Against Side-Channel and Fault Attacks.</title>
+<pages>221-253</pages>
+<year>2020</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-68773-1_11</ee>
+<crossref>conf/cosade/2020</crossref>
+<url>db/conf/cosade/cosade2020.html#KiaeiMDHS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KnechtelK0HCMDF20" mdate="2020-06-25">
+<author pid="94/9547">Johann Knechtel</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="68/10491">Annelie Heuser</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="89/4589">Soumyajit Dey</author>
+<author pid="67/5667">Yunsi Fei</author>
+<author pid="125/0193">Yaacov Belenky</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.</title>
+<pages>508-513</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116483</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#KnechtelK0HCMDF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/CanettiDMRS20" mdate="2020-06-25">
+<author pid="c/RanCanetti">Ran Canetti</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="139/6506">Hoda Maleki</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Using Universal Composition to Design and Analyze Secure Complex Hardware Systems.</title>
+<pages>520-525</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116295</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#CanettiDMRS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/YaoKES20" mdate="2021-01-15">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="173/4933">Tarun Kathuria</author>
+<author pid="11/8780">Baris Ege</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Architecture Correlation Analysis (ACA): Identifying the Source of Side-channel Leakage at Gate-level.</title>
+<pages>188-196</pages>
+<year>2020</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HOST45689.2020.9300271</ee>
+<crossref>conf/host/2020</crossref>
+<url>db/conf/host/host2020.html#YaoKES20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpec/SinghCS20" mdate="2021-01-14">
+<author pid="281/9515">Richa Singh</author>
+<author pid="225/9173">Thomas Conroy</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Variable Precision Multiplication for Software-Based Neural Networks.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>HPEC</booktitle>
+<ee>https://doi.org/10.1109/HPEC43674.2020.9286170</ee>
+<crossref>conf/hpec/2020</crossref>
+<url>db/conf/hpec/hpec2020.html#SinghCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/VakhterSSG20" mdate="2020-09-21">
+<author pid="274/5119">Vladimir Vakhter</author>
+<author pid="207/9648">Betul Soysal</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="232/8253">Ulkuhan Guler</author>
+<title>Minimum On-the-node Data Security for the Next-generation Miniaturized Wireless Biomedical Devices.</title>
+<pages>1068-1071</pages>
+<year>2020</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS48704.2020.9184564</ee>
+<crossref>conf/mwscas/2020</crossref>
+<url>db/conf/mwscas/mwscas2020.html#VakhterSSG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/YaoSWBSS20" mdate="2020-09-21">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="274/4884">Jasper Van Woudenberg</author>
+<author pid="18/2138">Cees-Bart Breunesse</author>
+<author pid="200/4816">Edgar Mateos Santillan</author>
+<author pid="274/3891">Steve Stecyk</author>
+<title>Verification of Power-based Side-channel Leakage through Simulation.</title>
+<pages>1112-1115</pages>
+<year>2020</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS48704.2020.9184705</ee>
+<crossref>conf/mwscas/2020</crossref>
+<url>db/conf/mwscas/mwscas2020.html#YaoSWBSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/YaoSWBSS20a" mdate="2020-09-21">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="274/4884">Jasper Van Woudenberg</author>
+<author pid="18/2138">Cees-Bart Breunesse</author>
+<author pid="200/4816">Edgar Mateos Santillan</author>
+<author pid="274/3891">Steve Stecyk</author>
+<title>Verification of Power-based Side-channel Leakage through Simulation.</title>
+<pages>1112-1115</pages>
+<year>2020</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS48704.2020.9184495</ee>
+<crossref>conf/mwscas/2020</crossref>
+<url>db/conf/mwscas/mwscas2020.html#YaoSWBSS20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/KrishnanYS20" mdate="2020-10-16">
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="10/3200">Yaling Yang</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Risk and Architecture Factors in Digital Exposure Notification.</title>
+<pages>308-319</pages>
+<year>2020</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60939-9_21</ee>
+<crossref>conf/samos/2020</crossref>
+<url>db/conf/samos/samos2020.html#KrishnanYS20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ccs/2020ashes" mdate="2021-02-02">
+<editor pid="95/137">Chip-Hong Chang</editor>
+<editor pid="50/7968">Ulrich R&#252;hrmair</editor>
+<editor pid="66/3585-1">Stefan Katzenbeisser 0001</editor>
+<editor pid="39/1269">Patrick Schaumont</editor>
+<title>Proceedings of the 4th ACM Workshop on Attacks and Solutions in Hardware Security Workshop, ASHES@CCS 2020, Virtual Event, USA, November 13, 2020</title>
+<publisher>ACM</publisher>
+<booktitle>ASHES@CCS</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-8090-4</isbn>
+<ee>https://doi.org/10.1145/3411504</ee>
+<url>db/conf/ccs/ashes2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-09672" mdate="2020-03-31">
+<author pid="94/9547">Johann Knechtel</author>
+<author pid="00/8569">Elif Bilge Kavun</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="68/10491">Annelie Heuser</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="85/3079">Debdeep Mukhopadhyay</author>
+<author pid="89/4589">Soumyajit Dey</author>
+<author pid="67/5667">Yunsi Fei</author>
+<author pid="125/0193">Yaacov Belenky</author>
+<author pid="119/4177">Itamar Levi</author>
+<author pid="50/6307">Tim G&#252;neysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="94/4552">Ilia Polian</author>
+<title>Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.</title>
+<year>2020</year>
+<volume>abs/2001.09672</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.09672</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-09672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-10513" mdate="2020-04-01">
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="167/3164">Marc Witteman</author>
+<title>Fault Attacks on Secure Embedded Software: Threats, Design and Evaluation.</title>
+<year>2020</year>
+<volume>abs/2003.10513</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.10513</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-10513</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-02562" mdate="2020-05-09">
+<author pid="244/9095">Pantea Kiaei</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Synthesis of Parallel Synchronous Software.</title>
+<year>2020</year>
+<volume>abs/2005.02562</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.02562</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-02562</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14067" mdate="2020-12-01">
+<author pid="244/9095">Pantea Kiaei</author>
+<author pid="18/2138">Cees-Bart Breunesse</author>
+<author pid="141/3556">Mohsen Ahmadi</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="274/4884">Jasper Van Woudenberg</author>
+<title>Rewrite to Reinforce: Rewriting the Binary to Apply Countermeasures against Fault Injection.</title>
+<year>2020</year>
+<volume>abs/2011.14067</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14067</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14067</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-09375" mdate="2021-01-03">
+<author pid="29/1059">Xiang Cheng</author>
+<author pid="162/4998">Hanchao Yang</author>
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>KHOVID: Interoperable Privacy Preserving Digital Contact Tracing.</title>
+<year>2020</year>
+<volume>abs/2012.09375</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.09375</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-09375</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KiaeiS20" mdate="2021-01-21">
+<author pid="244/9095">Pantea Kiaei</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Domain-Oriented Masked Instruction Set Architecture for RISC-V.</title>
+<pages>465</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/465</ee>
+<url>db/journals/iacr/iacr2020.html#KiaeiS20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KiaeiMDHS20" mdate="2021-01-21">
+<author pid="244/9095">Pantea Kiaei</author>
+<author pid="214/7961">Darius Mercadier</author>
+<author pid="50/3978">Pierre-&#201;variste Dagand</author>
+<author pid="12/296">Karine Heydemann</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Custom Instruction Support for Modular Defense against Side-channel and Fault Attacks.</title>
+<pages>466</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/466</ee>
+<url>db/journals/iacr/iacr2020.html#KiaeiMDHS20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/YaoTMKS20" mdate="2020-05-27">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="55/2065">Michael Tunstall</author>
+<author pid="40/2773">Elke De Mulder</author>
+<author pid="265/8695">Anton Kochepasov</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Augmenting Leakage Detection using Bootstrapping.</title>
+<pages>508</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/508</ee>
+<url>db/journals/iacr/iacr2020.html#YaoTMKS20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KrishnanYS20" mdate="2020-05-27">
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="10/3200">Yaling Yang</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Risk and Architecture factors in Digital Exposure Notification.</title>
+<pages>582</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/582</ee>
+<url>db/journals/iacr/iacr2020.html#KrishnanYS20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/YaoKES20" mdate="2020-10-30">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="173/4933">Tarun Kathuria</author>
+<author pid="11/8780">Baris Ege</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Architecture Correlation Analysis (ACA): Identifying the Source of Side-channel Leakage at Gate-level.</title>
+<pages>1192</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1192</ee>
+<url>db/journals/iacr/iacr2020.html#YaoKES20</url>
+</article>
+</r>
+<r><article key="journals/tdsc/YuceDGBNS19" mdate="2020-04-09">
+<author orcid="0000-0002-7734-8465" pid="131/5132">Bilgiday Yuce</author>
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="221/2842">Marjan Ghodrati</author>
+<author orcid="0000-0002-3485-2661" pid="242/3469">Abhishek Bendre</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Secure Exception Mode for Fault-Attack-Resistant Processing.</title>
+<pages>388-401</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TDSC.2018.2823767</ee>
+<url>db/journals/tdsc/tdsc16.html#YuceDGBNS19</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/AliotoAABBCCCCC19" mdate="2021-04-09">
+<author pid="48/4750">Massimo Alioto</author>
+<author pid="85/1962">Magdy S. Abadir</author>
+<author pid="32/362">Tughrul Arslan</author>
+<author pid="24/8747">Chirn Chye Boon</author>
+<author pid="69/9547">Andreas Burg</author>
+<author orcid="0000-0002-8897-6176" pid="95/137">Chip-Hong Chang</author>
+<author pid="89/6934">Meng-Fan Chang</author>
+<author pid="c/YaoWenChang">Yao-Wen Chang</author>
+<author pid="92/2960">Poki Chen</author>
+<author pid="52/4718">Pasquale Corsonello</author>
+<author orcid="0000-0002-2484-1686" pid="228/3712">Paolo Crovetti</author>
+<author pid="34/5004">Shiro Dosho</author>
+<author orcid="0000-0002-9872-1740" pid="d/RolfDrechsler">Rolf Drechsler</author>
+<author pid="29/2561">Ibrahim Abe M. Elfadel</author>
+<author pid="59/10181-1">Ruonan Han 0001</author>
+<author pid="81/317">Masanori Hashimoto</author>
+<author pid="61/2657">Chun-Huat Heng</author>
+<author pid="17/5234">Deukhyoun Heo</author>
+<author orcid="0000-0001-7348-5625" pid="63/4181">Tsung-Yi Ho</author>
+<author pid="63/3012">Houman Homayoun</author>
+<author pid="01/4852">Yuh-Shyan Hwang</author>
+<author pid="23/3290">Ajay Joshi</author>
+<author pid="42/5976">Rajiv V. Joshi</author>
+<author pid="06/4638">Tanay Karnik</author>
+<author pid="63/5400">Chulwoo Kim</author>
+<author pid="125/7918">Tony Tae-Hyoung Kim</author>
+<author pid="18/1691">Jaydeep Kulkarni</author>
+<author pid="70/355">Volkan Kursun</author>
+<author pid="60/7551">Yoonmyung Lee</author>
+<author pid="30/5330-1">Hai Helen Li</author>
+<author pid="70/576">Huawei Li</author>
+<author pid="m/PrabhatMishra">Prabhat Mishra 0001</author>
+<author orcid="0000-0002-6063-473X" pid="54/3227">Baker Mohammad</author>
+<author pid="85/5526">Mehran Mozaffari Kermani</author>
+<author pid="95/2029">Makoto Nagata</author>
+<author pid="52/5799">Koji Nii</author>
+<author pid="17/7010">Partha Pratim Pande</author>
+<author pid="p/BipulChandraPaul">Bipul C. Paul</author>
+<author pid="43/3714">Vasilis F. Pavlidis</author>
+<author pid="44/4622">Jos&#233; Pineda de Gyvez</author>
+<author pid="37/3387">Ioannis Savidis</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="54/224">Fabio Sebastiano</author>
+<author pid="37/258">Anirban Sengupta</author>
+<author pid="64/3916">Mingoo Seok</author>
+<author pid="s/MirceaRStan">Mircea R. Stan</author>
+<author pid="t/MohammadTehranipoor">Mark Mohammad Tehranipoor</author>
+<author orcid="0000-0001-8573-2910" pid="03/5894">Aida Todri-Sanial</author>
+<author pid="92/3233">Marian Verhelst</author>
+<author pid="94/5904">Valerio Vignoli</author>
+<author pid="38/3836">Xiaoqing Wen</author>
+<author pid="20/4396-1">Jiang Xu 0001</author>
+<author pid="10/4661-12">Wei Zhang 0012</author>
+<author pid="17/5332">Zhengya Zhang</author>
+<author pid="99/3847-17">Jun Zhou 0017</author>
+<author pid="99/2370">Mark Zwolinski</author>
+<author pid="192/3907">Stacey Weber</author>
+<title>Editorial TVLSI Positioning - Continuing and Accelerating an Upward Trajectory.</title>
+<pages>253-280</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVLSI.2018.2886389</ee>
+<url>db/journals/tvlsi/tvlsi27.html#AliotoAABBCCCCC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/ChangHRRS19" mdate="2020-11-10">
+<author orcid="0000-0002-8897-6176" pid="95/137">Chip-Hong Chang</author>
+<author pid="67/7583">Daniel E. Holcomb</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author pid="50/7968">Ulrich R&#252;hrmair</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>ASHES 2019: 3rd Workshop on Attacks and Solutions in Hardware Security.</title>
+<pages>2709-2710</pages>
+<year>2019</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3319535.3353557</ee>
+<crossref>conf/ccs/2019</crossref>
+<url>db/conf/ccs/ccs2019.html#ChangHRRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KrishnanSDS19" mdate="2020-06-15">
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="212/9496">Charles Suslowicz</author>
+<author pid="160/3879">Daniel Dinu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Secure Intermittent Computing Protocol: Protecting State Across Power Loss.</title>
+<pages>734-739</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714997</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#KrishnanSDS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/DinuKS19" mdate="2020-06-15">
+<author pid="160/3879">Daniel Dinu</author>
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>SIA: Secure Intermittent Architecture for Off-the-Shelf Resource-Constrained Microcontrollers.</title>
+<pages>208-217</pages>
+<year>2019</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2019.8740834</ee>
+<crossref>conf/host/2019</crossref>
+<url>db/conf/host/host2019.html#DinuKS19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ccs/2019ashes" mdate="2020-11-10">
+<editor pid="95/137">Chip-Hong Chang</editor>
+<editor pid="50/7968">Ulrich R&#252;hrmair</editor>
+<editor pid="67/7583">Daniel E. Holcomb</editor>
+<editor orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</editor>
+<title>Proceedings of the 3rd ACM Workshop on Attacks and Solutions in Hardware Security Workshop, ASHES@CCS 2019, London, UK, November 15, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>ASHES@CCS</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6839-1</isbn>
+<ee>https://doi.org/10.1145/3338508</ee>
+<url>db/conf/ccs/ashes2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/AroraPRS19" mdate="2020-06-15">
+<author pid="93/1659">Divya Arora</author>
+<author pid="94/4552">Ilia Polian</author>
+<author pid="31/1489-1">Francesco Regazzoni 0001</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Secure Composition for Hardware Systems (Dagstuhl Seminar 19301).</title>
+<pages>94-116</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>Dagstuhl Reports</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.9.7.94</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports9.html#AroraPRS19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KiaeiMDHS19" mdate="2021-01-21">
+<author pid="244/9095">Pantea Kiaei</author>
+<author pid="214/7961">Darius Mercadier</author>
+<author pid="50/3978">Pierre-&#201;variste Dagand</author>
+<author pid="12/296">Karine Heydemann</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>SKIVA: Flexible and Modular Side-channel and Fault Countermeasures.</title>
+<pages>756</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/756</ee>
+<url>db/journals/iacr/iacr2019.html#KiaeiMDHS19</url>
+</article>
+</r>
+<r><article key="journals/computer/SchaumontM18" mdate="2020-08-12">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="68/2893">Paolo Montuschi</author>
+<title>The Rise of Hardware Security in Computer Architectures.</title>
+<pages>4-5</pages>
+<year>2018</year>
+<volume>51</volume>
+<journal>Computer</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/MC.2018.3191252</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2018.3191252</ee>
+<url>db/journals/computer/computer51.html#SchaumontM18</url>
+</article>
+</r>
+<r><article key="journals/dt/MulderES18" mdate="2020-03-13">
+<author pid="40/2773">Elke De Mulder</author>
+<author orcid="0000-0003-1116-6973" pid="72/817">Thomas Eisenbarth 0001</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Identifying and Eliminating Side-Channel Leaks in Programmable Systems.</title>
+<pages>74-89</pages>
+<year>2018</year>
+<volume>35</volume>
+<journal>IEEE Des. Test</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MDAT.2017.2766166</ee>
+<url>db/journals/dt/dt35.html#MulderES18</url>
+</article>
+</r>
+<r><article key="journals/jhss/YuceSW18" mdate="2020-08-25">
+<author orcid="0000-0002-7734-8465" pid="131/5132">Bilgiday Yuce</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="167/3164">Marc Witteman</author>
+<title>Fault Attacks on Secure Embedded Software: Threats, Design, and Evaluation.</title>
+<pages>111-130</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>J. Hardw. Syst. Secur.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s41635-018-0038-1</ee>
+<url>db/journals/jhss/jhss2.html#YuceSW18</url>
+</article>
+</r>
+<r><article key="journals/tc/SchaumontLPB18" mdate="2020-12-29">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="87/4706">Ruby B. Lee</author>
+<author pid="52/5603">Ronald Perez</author>
+<author orcid="0000-0002-5122-1589" pid="b/GuidoBertoni">Guido Bertoni</author>
+<title>Special Section on Secure Computer Architectures.</title>
+<pages>305-306</pages>
+<year>2018</year>
+<volume>67</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TC.2017.2788658</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2017.2788658</ee>
+<url>db/journals/tc/tc67.html#SchaumontLPB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/YaoS18" mdate="2020-06-15">
+<author pid="25/4120">Yuan Yao</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Low-cost Function Call Protection Mechanism Against Instruction Skip Fault Attacks.</title>
+<pages>55-64</pages>
+<year>2018</year>
+<booktitle>ASHES@CCS</booktitle>
+<ee>https://doi.org/10.1145/3266444.3266453</ee>
+<crossref>conf/ccs/2018ashes</crossref>
+<url>db/conf/ccs/ashes2018.html#YaoS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/GhodratiYGDNS18" mdate="2020-06-15">
+<author pid="221/2842">Marjan Ghodrati</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="221/2873">Surabhi Gujar</author>
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Inducing local timing fault through EM injection.</title>
+<pages>142:1-142:6</pages>
+<year>2018</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3195970.3196064</ee>
+<ee>https://doi.org/10.1109/DAC.2018.8465836</ee>
+<crossref>conf/dac/2018</crossref>
+<url>db/conf/dac/dac2018.html#GhodratiYGDNS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/green/SuslowiczKDS18" mdate="2020-06-15">
+<author pid="212/9496">Charles Suslowicz</author>
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="160/3879">Daniel Dinu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Secure Application Continuity in Intermittent Systems.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IGSC</booktitle>
+<ee>https://doi.org/10.1109/IGCC.2018.8752145</ee>
+<crossref>conf/green/2018</crossref>
+<url>db/conf/green/green2018.html#SuslowiczKDS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/YaoYPYS18" mdate="2020-06-15">
+<author pid="25/4120">Yuan Yao</author>
+<author pid="91/7667">Mo Yang</author>
+<author pid="184/9844">Conor Patrick</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Fault-assisted side-channel analysis of masked implementations.</title>
+<pages>57-64</pages>
+<year>2018</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2018.8383891</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2018.8383891</ee>
+<crossref>conf/host/2018</crossref>
+<url>db/conf/host/host2018.html#YaoYPYS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/WuGS018" mdate="2020-06-15">
+<author pid="19/5921">Meng Wu</author>
+<author pid="162/3606">Shengjian Guo</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<title>Eliminating timing side-channel leaks using program repair.</title>
+<pages>15-26</pages>
+<year>2018</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/3213846.3213851</ee>
+<crossref>conf/issta/2018</crossref>
+<url>db/conf/issta/issta2018.html#WuGS018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/KrishnanS18" mdate="2018-12-07">
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Exploiting Security Vulnerabilities in Intermittent Computing.</title>
+<pages>104-124</pages>
+<year>2018</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-05072-6_7</ee>
+<crossref>conf/space/2018</crossref>
+<url>db/conf/space/space2018.html#KrishnanS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-02444" mdate="2018-08-13">
+<author pid="19/5921">Meng Wu</author>
+<author pid="162/3606">Shengjian Guo</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<title>Eliminating Timing Side-Channel Leaks using Program Repair.</title>
+<year>2018</year>
+<volume>abs/1806.02444</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.02444</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-02444</url>
+</article>
+</r>
+<r><article key="journals/siglog/WangS17" mdate="2021-01-21">
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Security by compilation: an automated approach to comprehensive side-channel resistance.</title>
+<pages>76-89</pages>
+<year>2017</year>
+<volume>4</volume>
+<journal>ACM SIGLOG News</journal>
+<number>2</number>
+<ee>https://dl.acm.org/citation.cfm?id=3090071</ee>
+<url>db/journals/siglog/siglog4.html#WangS17</url>
+</article>
+</r>
+<r><article key="journals/tc/RawatS17" mdate="2020-06-15">
+<author pid="184/9828">Hemendra K. Rawat</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Vector Instruction Set Extensions for Efficient Computation of Keccak.</title>
+<pages>1778-1789</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TC.2017.2700795</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2017.2700795</ee>
+<url>db/journals/tc/tc66.html#RawatS17</url>
+</article>
+</r>
+<r><article key="journals/tecs/YuceGDSPNS17" mdate="2020-09-08">
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="191/7240">Harika Santapuri</author>
+<author pid="184/9844">Conor Patrick</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Analyzing the Fault Injection Sensitivity of Secure Embedded Software.</title>
+<pages>95:1-95:25</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3063311</ee>
+<url>db/journals/tecs/tecs16.html#YuceGDSPNS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/asianhost/DeshpandeYNS17" mdate="2020-06-15">
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Employing dual-complementary flip-flops to detect EMFI attacks.</title>
+<pages>109-114</pages>
+<year>2017</year>
+<booktitle>AsianHOST</booktitle>
+<ee>https://doi.org/10.1109/AsianHOST.2017.8354004</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AsianHOST.2017.8354004</ee>
+<crossref>conf/asianhost/2017</crossref>
+<url>db/conf/asianhost/asianhost2017.html#DeshpandeYNS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/SuslowiczKS17" mdate="2020-06-15">
+<author pid="212/9496">Charles Suslowicz</author>
+<author pid="212/9543">Archanaa S. Krishnan</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Optimizing Cryptography in Energy Harvesting Applications.</title>
+<pages>17-26</pages>
+<year>2017</year>
+<booktitle>ASHES@CCS</booktitle>
+<ee>https://doi.org/10.1145/3139324.3139329</ee>
+<crossref>conf/ccs/2017ashes</crossref>
+<url>db/conf/ccs/ashes2017.html#SuslowiczKS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/Schaumont17" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Security in the Internet of Things: A challenge of scale.</title>
+<pages>674-679</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927075</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130543</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#Schaumont17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/TahaRS17" mdate="2020-06-15">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author pid="22/2829">Arash Reyhani-Masoleh</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Stateless leakage resiliency from NLFSRs.</title>
+<pages>56-61</pages>
+<year>2017</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2017.7951798</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2017.7951798</ee>
+<crossref>conf/host/2017</crossref>
+<url>db/conf/host/host2017.html#TahaRS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/AysuWSO17" mdate="2020-06-15">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="44/6292-14">Ye Wang 0014</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="38/3999">Michael Orshansky</author>
+<title>A new maskless debiasing method for lightweight physical unclonable functions.</title>
+<pages>134-139</pages>
+<year>2017</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2017.7951812</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2017.7951812</ee>
+<crossref>conf/host/2017</crossref>
+<url>db/conf/host/host2017.html#AysuWSO17</url>
+</inproceedings>
+</r>
+<r><article key="journals/esl/GhalatyYS16" mdate="2020-09-10">
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Analyzing the Efficiency of Biased-Fault Based Attacks.</title>
+<pages>33-36</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LES.2016.2524652</ee>
+<url>db/journals/esl/esl8.html#GhalatyYS16</url>
+</article>
+</r>
+<r><article key="journals/iet-ifs/AysuGMS16" mdate="2020-08-27">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="145/1616">Ege Gulcan</author>
+<author pid="16/7525">Daisuke Moriyama</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Compact and low-power ASIP design for lightweight PUF-based authentication protocols.</title>
+<pages>232-241</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>IET Inf. Secur.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1049/iet-ifs.2015.0401</ee>
+<url>db/journals/iet-ifs/iet-ifs10.html#AysuGMS16</url>
+</article>
+</r>
+<r><article key="journals/suscom/SchaumontYPM16" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="137/6361">Krishna Chaitanya Pabbuleti</author>
+<author pid="137/6384">Deepak Hanamant Mane</author>
+<title>Secure authentication with energy-harvesting: A multi-dimensional balancing act.</title>
+<pages>83-95</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>Sustain. Comput. Informatics Syst.</journal>
+<ee>https://doi.org/10.1016/j.suscom.2015.10.002</ee>
+<url>db/journals/suscom/suscom12.html#SchaumontYPM16</url>
+</article>
+</r>
+<r><article key="journals/tc/AysuS16" mdate="2020-06-15">
+<author pid="39/9049">Aydin Aysu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Precomputation Methods for Hash-Based Signatures on Energy-Harvesting Platforms.</title>
+<pages>2925-2931</pages>
+<year>2016</year>
+<volume>65</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TC.2015.2500570</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2015.2500570</ee>
+<url>db/journals/tc/tc65.html#AysuS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/AysuGMPWS16" mdate="2021-01-21">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="179/3001">Shravya Gaddam</author>
+<author pid="179/2887">Harsha Mandadi</author>
+<author pid="179/2995">Carol Pinto</author>
+<author pid="179/3024">Luke Wegryn</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A design method for remote integrity checking of complex PCBs.</title>
+<pages>1517-1522</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7459554/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#AysuGMPWS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdtc/YuceGSDPS16" mdate="2020-06-15">
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="191/7240">Harika Santapuri</author>
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="184/9844">Conor Patrick</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Software Fault Resistance is Futile: Effective Single-Glitch Attacks.</title>
+<pages>47-58</pages>
+<year>2016</year>
+<booktitle>FDTC</booktitle>
+<ee>https://doi.org/10.1109/FDTC.2016.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FDTC.2016.21</ee>
+<crossref>conf/fdtc/2016</crossref>
+<url>db/conf/fdtc/fdtc2016.html#YuceGSDPS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/RawatS16" mdate="2020-06-15">
+<author pid="184/9828">Hemendra K. Rawat</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>SIMD Instruction Set Extensions for Keccak with Applications to SHA-3, Keyak and Ketje.</title>
+<pages>4:1-4:8</pages>
+<year>2016</year>
+<booktitle>HASP@ISCA</booktitle>
+<ee>https://doi.org/10.1145/2948618.2948622</ee>
+<crossref>conf/isca/2016hasp</crossref>
+<url>db/conf/isca/hasp2016.html#RawatS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/YuceGDPNS16" mdate="2020-06-15">
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="184/9844">Conor Patrick</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>FAME: Fault-attack Aware Microprocessor Extensions for Hardware Fault Detection and Software Fault Response.</title>
+<pages>8:1-8:8</pages>
+<year>2016</year>
+<booktitle>HASP@ISCA</booktitle>
+<ee>https://doi.org/10.1145/2948618.2948626</ee>
+<crossref>conf/isca/2016hasp</crossref>
+<url>db/conf/isca/hasp2016.html#YuceGDPNS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/DeshpandeYGGSN16" mdate="2020-06-15">
+<author pid="184/9851">Chinmay Deshpande</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="00/10492">Dinesh Ganta</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<title>A Configurable and Lightweight Timing Monitor for Fault Attack Detection.</title>
+<pages>461-466</pages>
+<year>2016</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2016.123</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2016.123</ee>
+<crossref>conf/isvlsi/2016</crossref>
+<url>db/conf/isvlsi/isvlsi2016.html#DeshpandeYGGSN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/TahaRS16" mdate="2017-10-20">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author pid="22/2829">Arash Reyhani-Masoleh</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Keymill: Side-Channel Resilient Key Generator, A New Concept for SCA-Security by Design - A New Concept for SCA-Security by Design.</title>
+<pages>217-230</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-69453-5_12</ee>
+<crossref>conf/sacrypt/2016</crossref>
+<url>db/conf/sacrypt/sacrypt2016.html#TahaRS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/PatrickYGS16" mdate="2017-10-20">
+<author pid="184/9844">Conor Patrick</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Lightweight Fault Attack Resistance in Software Using Intra-instruction Redundancy.</title>
+<pages>231-244</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-69453-5_13</ee>
+<crossref>conf/sacrypt/2016</crossref>
+<url>db/conf/sacrypt/sacrypt2016.html#PatrickYGS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ChongGDMPSSZ16" mdate="2021-01-25">
+<author pid="13/2794">Stephen Chong</author>
+<author pid="91/7024">Joshua D. Guttman</author>
+<author pid="d/AnupamDatta">Anupam Datta</author>
+<author pid="m/AndrewCMyers">Andrew C. Myers</author>
+<author pid="p/BenjaminCPierce">Benjamin C. Pierce</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="23/3778">Tim Sherwood</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>Report on the NSF Workshop on Formal Methods for Security.</title>
+<year>2016</year>
+<volume>abs/1608.00678</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.00678</ee>
+<url>db/journals/corr/corr1608.html#ChongGDMPSSZ16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BatinaBSS16" mdate="2020-06-15">
+<author pid="67/1939">Lejla Batina</author>
+<author pid="75/4629">Swarup Bhunia</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="98/117">Jean-Pierre Seifert</author>
+<title>Foundations of Secure Scaling (Dagstuhl Seminar 16342).</title>
+<pages>65-90</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>Dagstuhl Reports</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.6.8.65</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports6.html#BatinaBSS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/TahaRS16" mdate="2021-01-21">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author pid="22/2829">Arash Reyhani-Masoleh</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Keymill: Side-Channel Resilient Key Generator.</title>
+<pages>710</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/710</ee>
+<url>db/journals/iacr/iacr2016.html#TahaRS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PatrickYGS16" mdate="2021-01-21">
+<author pid="184/9844">Conor Patrick</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Lightweight Fault Attack Resistance in Software Using Intra-Instruction Redundancy.</title>
+<pages>850</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/850</ee>
+<url>db/journals/iacr/iacr2016.html#PatrickYGS16</url>
+</article>
+</r>
+<r><article key="journals/mam/AysuS15" mdate="2020-06-15">
+<author pid="39/9049">Aydin Aysu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Hardware/software co-design of physical unclonable function based authentications on FPGAs.</title>
+<pages>589-597</pages>
+<year>2015</year>
+<volume>39</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.micpro.2015.04.001</ee>
+<url>db/journals/mam/mam39.html#AysuS15</url>
+</article>
+</r>
+<r><article key="journals/tcad/EldibWTS15" mdate="2020-09-24">
+<author pid="138/2493">Hassan Eldib</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Quantitative Masking Strength: Quantifying the Power Side-Channel Resistance of Software Code.</title>
+<pages>1558-1568</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2015.2424951</ee>
+<url>db/journals/tcad/tcad34.html#EldibWTS15</url>
+</article>
+</r>
+<r><article key="journals/tecs/SchaumontOG15" mdate="2020-09-08">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="m/MaireMcLoone">M&#225;ire O'Neill</author>
+<author orcid="0000-0002-3293-4989" pid="50/6307">Tim G&#252;neysu</author>
+<title>Introduction for Embedded Platforms for Cryptography in the Coming Decade.</title>
+<pages>40:1-40:3</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2745710</ee>
+<url>db/journals/tecs/tecs14.html#SchaumontOG15</url>
+</article>
+</r>
+<r><article key="journals/tecs/AysuYS15" mdate="2020-09-08">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>The Future of Real-Time Security: Latency-Optimized Lattice-Based Digital Signatures.</title>
+<pages>43:1-43:18</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2724714</ee>
+<url>db/journals/tecs/tecs14.html#AysuYS15</url>
+</article>
+</r>
+<r><article key="journals/tifs/TahaS15" mdate="2020-08-06">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Key Updating for Leakage Resiliency With Application to AES Modes of Operation.</title>
+<pages>519-528</pages>
+<year>2015</year>
+<volume>10</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TIFS.2014.2383359</ee>
+<url>db/journals/tifs/tifs10.html#TahaS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/AysuGMSY15" mdate="2019-10-31">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="145/1616">Ege Gulcan</author>
+<author pid="16/7525">Daisuke Moriyama</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="y/MotiYung">Moti Yung</author>
+<title>End-To-End Design of a PUF-Based Privacy Preserving Authentication Protocol.</title>
+<pages>556-576</pages>
+<year>2015</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-48324-4_28</ee>
+<crossref>conf/ches/2015</crossref>
+<url>db/conf/ches/ches2015.html#AysuGMSY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cosade/GhalatyYS15" mdate="2017-05-21">
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Differential Fault Intensity Analysis on PRESENT and LED Block Ciphers.</title>
+<pages>174-188</pages>
+<year>2015</year>
+<booktitle>COSADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21476-4_12</ee>
+<crossref>conf/cosade/2015</crossref>
+<url>db/conf/cosade/cosade2015.html#GhalatyYS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdtc/YuceGS15" mdate="2020-06-15">
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Improving Fault Attacks on Embedded Software Using RISC Pipeline Characterization.</title>
+<pages>97-108</pages>
+<year>2015</year>
+<booktitle>FDTC</booktitle>
+<ee>https://doi.org/10.1109/FDTC.2015.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FDTC.2015.16</ee>
+<crossref>conf/fdtc/2015</crossref>
+<url>db/conf/fdtc/fdtc2015.html#YuceGS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/YuceGS15" mdate="2020-06-15">
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>TVVF: Estimating the vulnerability of hardware cryptosystems against timing violation attacks.</title>
+<pages>72-77</pages>
+<year>2015</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2015.7140240</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2015.7140240</ee>
+<crossref>conf/host/2015</crossref>
+<url>db/conf/host/host2015.html#YuceGS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/GulcanAS15" mdate="2017-05-19">
+<author pid="145/1616">Ege Gulcan</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>BitCryptor: Bit-Serialized Flexible Crypto Engine for Lightweight Applications.</title>
+<pages>329-346</pages>
+<year>2015</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26617-6_18</ee>
+<crossref>conf/indocrypt/2015</crossref>
+<url>db/conf/indocrypt/indocrypt2015.html#GulcanAS15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/rfidsec/2015" mdate="2020-06-15">
+<editor pid="91/4831">Stefan Mangard</editor>
+<editor orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</editor>
+<title>Radio Frequency Identification. Security and Privacy Issues - 11th International Workshop, RFIDsec 2015, New York, NY, USA, June 23-24, 2015, Revised Selected Papers</title>
+<booktitle>RFIDSec</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9440</volume>
+<isbn>978-3-319-24836-3</isbn>
+<ee>https://doi.org/10.1007/978-3-319-24837-0</ee>
+<url>db/conf/rfidsec/rfidsec2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AysuS15" mdate="2021-01-21">
+<author pid="39/9049">Aydin Aysu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Precomputation Methods for Faster and Greener Post-Quantum Cryptography on Emerging Embedded Platforms.</title>
+<pages>288</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/288</ee>
+<url>db/journals/iacr/iacr2015.html#AysuS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GhalatyYS15" mdate="2021-01-21">
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Analyzing the Efficiency of Biased-Fault Based Attacks.</title>
+<pages>663</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/663</ee>
+<url>db/journals/iacr/iacr2015.html#GhalatyYS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GulcanAS15" mdate="2021-01-21">
+<author pid="145/1616">Ege Gulcan</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>BitCryptor: Bit-Serialized Compact Crypto Engine on Reconfigurable Hardware.</title>
+<pages>744</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/744</ee>
+<url>db/journals/iacr/iacr2015.html#GulcanAS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AysuGMSY15" mdate="2021-01-21">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="145/1616">Ege Gulcan</author>
+<author pid="16/7525">Daisuke Moriyama</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="y/MotiYung">Moti Yung</author>
+<title>End-to-end Design of a PUF-based Privacy Preserving Authentication Protocol.</title>
+<pages>937</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/937</ee>
+<url>db/journals/iacr/iacr2015.html#AysuGMSY15</url>
+</article>
+</r>
+<r><article key="journals/esl/AysuGS14" mdate="2020-09-10">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="145/1616">Ege Gulcan</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>SIMON Says: Break Area Records of Block Ciphers on FPGAs.</title>
+<pages>37-40</pages>
+<year>2014</year>
+<volume>6</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LES.2014.2314961</ee>
+<url>db/journals/esl/esl6.html#AysuGS14</url>
+</article>
+</r>
+<r><article key="journals/tosem/EldibWS14" mdate="2020-06-15">
+<author pid="138/2493">Hassan Eldib</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Formal Verification of Software Countermeasures against Side-Channel Attacks.</title>
+<pages>11:1-11:24</pages>
+<year>2014</year>
+<volume>24</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2685616</ee>
+<url>db/journals/tosem/tosem24.html#EldibWS14</url>
+</article>
+</r>
+<r><article key="journals/tvlsi/MaitiS14" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>The Impact of Aging on a Physical Unclonable Function.</title>
+<pages>1854-1864</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TVLSI.2013.2279875</ee>
+<url>db/journals/tvlsi/tvlsi22.html#MaitiS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/EldibWTS14" mdate="2020-06-15">
+<author pid="138/2493">Hassan Eldib</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>QMS: Evaluating the Side-Channel Resistance of Masked Software from Source Code.</title>
+<pages>209:1-209:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593193</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#EldibWTS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/GhalatyAS14" mdate="2020-06-15">
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Analyzing and eliminating the causes of fault sensitivity analysis.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.217</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2616857</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#GhalatyAS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewme/KannavaraSMSB14" mdate="2020-06-15">
+<author pid="99/11465">Raghudeep Kannavara</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0001-6899-0651" pid="56/1494">Michail Maniatakos</author>
+<author pid="26/3536">Michael A. Smith</author>
+<author pid="175/6476">Scott Buck</author>
+<title>Innovative engineering outreach using Intel<sup>&#174;</sup> security and embedded tools.</title>
+<pages>127-132</pages>
+<year>2014</year>
+<booktitle>EWME</booktitle>
+<ee>https://doi.org/10.1109/EWME.2014.6877411</ee>
+<crossref>conf/ewme/2014</crossref>
+<url>db/conf/ewme/ewme2014.html#KannavaraSMSB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdtc/GhalatyYTS14" mdate="2020-06-15">
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="131/5132">Bilgiday Yuce</author>
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Differential Fault Intensity Analysis.</title>
+<pages>49-58</pages>
+<year>2014</year>
+<booktitle>FDTC</booktitle>
+<ee>https://doi.org/10.1109/FDTC.2014.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FDTC.2014.15</ee>
+<crossref>conf/fdtc/2014</crossref>
+<url>db/conf/fdtc/fdtc2014.html#GhalatyYTS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/ZhangIZSY14" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="41/9465">Srikrishna Iyer</author>
+<author pid="49/4294">Xiangwei Zheng</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>Hardware-software co-design for heterogeneous multiprocessor sensor nodes.</title>
+<pages>20-25</pages>
+<year>2014</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7036778</ee>
+<crossref>conf/globecom/2014</crossref>
+<url>db/conf/globecom/globecom2014.html#ZhangIZSY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/TahaS14" mdate="2020-06-15">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Side-channel countermeasure for SHA-3 at almost-zero area overhead.</title>
+<pages>93-96</pages>
+<year>2014</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2014.6855576</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2014.6855576</ee>
+<crossref>conf/host/2014</crossref>
+<url>db/conf/host/host2014.html#TahaS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lightsec/GulcanAS14" mdate="2017-05-23">
+<author pid="145/1616">Ege Gulcan</author>
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>A Flexible and Compact Hardware Architecture for the SIMON Block Cipher.</title>
+<pages>34-50</pages>
+<year>2014</year>
+<booktitle>LightSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-16363-5_3</ee>
+<crossref>conf/lightsec/2014</crossref>
+<url>db/conf/lightsec/lightsec2014.html#GulcanAS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rfidsec/PabbuletiMS14" mdate="2017-05-24">
+<author pid="137/6361">Krishna Chaitanya Pabbuleti</author>
+<author pid="137/6384">Deepak Hanamant Mane</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Energy Budget Analysis for Signature Protocols on a Self-powered Wireless Sensor Node.</title>
+<pages>123-136</pages>
+<year>2014</year>
+<booktitle>RFIDSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13066-8_8</ee>
+<crossref>conf/rfidsec/2014</crossref>
+<url>db/conf/rfidsec/rfidsec2014.html#PabbuletiMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/EldibWS14" mdate="2018-06-26">
+<author pid="138/2493">Hassan Eldib</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>SMT-Based Verification of Software Countermeasures against Side-Channel Attacks.</title>
+<pages>62-77</pages>
+<year>2014</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54862-8_5</ee>
+<crossref>conf/tacas/2014</crossref>
+<url>db/conf/tacas/tacas2014.html#EldibWS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/ZhangPSY14" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="154/3606">Zhenhe Pan</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>Application design and performance evaluation for multiprocessor sensor nodes.</title>
+<pages>3272-3277</pages>
+<year>2014</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2014.6953072</ee>
+<crossref>conf/wcnc/2014</crossref>
+<url>db/conf/wcnc/wcnc2014.html#ZhangPSY14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/space/2014" mdate="2020-06-15">
+<editor pid="05/1579">Rajat Subhra Chakraborty</editor>
+<editor pid="97/3759">Vashek Matyas</editor>
+<editor orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</editor>
+<title>Security, Privacy, and Applied Cryptography Engineering - 4th International Conference, SPACE 2014, Pune, India, October 18-22, 2014. Proceedings</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8804</volume>
+<ee>https://doi.org/10.1007/978-3-319-12060-7</ee>
+<isbn>978-3-319-12059-1</isbn>
+<booktitle>SPACE</booktitle>
+<url>db/conf/space/space2014.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AysuGS14" mdate="2021-01-21">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="145/1616">Ege Gulcan</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>SIMON Says, Break the Area Records for Symmetric Key Block Ciphers on FPGAs.</title>
+<pages>237</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/237</ee>
+<url>db/journals/iacr/iacr2014.html#AysuGS14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/shonan-reports/SakiyamaSV14" mdate="2021-03-04">
+<author pid="04/4429">Kazuo Sakiyama</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>Design Methods for Secure Hardware (NII Shonan Meeting 2014-11).</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>NII Shonan Meet. Rep.</journal>
+<ee type="oa">https://shonan.nii.ac.jp/seminars/028/</ee>
+<url>db/journals/shonan-reports/shonan-reports2014.html#SakiyamaSV14</url>
+</article>
+</r>
+<r><article key="journals/jce/ProuffS13" mdate="2020-07-09">
+<author pid="62/4866">Emmanuel Prouff</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Introduction to the CHES 2012 special issue.</title>
+<pages>1</pages>
+<year>2013</year>
+<volume>3</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13389-013-0055-5</ee>
+<url>db/journals/jce/jce3.html#ProuffS13</url>
+</article>
+</r>
+<r><article key="journals/mam/SrivastavGHGHNS13" mdate="2020-06-15">
+<author pid="97/5456">Meeta Srivastav</author>
+<author pid="46/5508">Xu Guo</author>
+<author pid="84/9413">Sinan Huang</author>
+<author pid="00/10492">Dinesh Ganta</author>
+<author pid="70/4569">Michael B. Henry</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Design and benchmarking of an ASIC with five SHA-3 finalist candidates.</title>
+<pages>246-257</pages>
+<year>2013</year>
+<volume>37</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.micpro.2012.09.001</ee>
+<url>db/journals/mam/mam37.html#SrivastavGHGHNS13</url>
+</article>
+</r>
+<r><article key="journals/tc/ChenSS13" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="61/9049">Ambuj Sinha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Using Virtual Secure Circuit to Protect Embedded Software from Side-Channel Attacks.</title>
+<pages>124-136</pages>
+<year>2013</year>
+<volume>62</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TC.2011.225</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2011.225</ee>
+<url>db/journals/tc/tc62.html#ChenSS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cases/AysuGFYS13" mdate="2020-06-15">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="73/10032">Nahid Farhady Ghalaty</author>
+<author pid="141/9237">Zane R. Franklin</author>
+<author pid="163/8491">Moein Pahlavan Yali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Digital fingerprints for low-cost platforms using MEMS sensors.</title>
+<pages>2:1-2:6</pages>
+<year>2013</year>
+<booktitle>WESS</booktitle>
+<ee>https://doi.org/10.1145/2527317.2527319</ee>
+<crossref>conf/cases/2013wess</crossref>
+<url>db/conf/cases/wess2013.html#AysuGFYS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/SrivastavZGNS13" mdate="2020-06-15">
+<author pid="97/5456">Meeta Srivastav</author>
+<author pid="130/4208">Yongbo Zuo</author>
+<author pid="46/5508">Xu Guo</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Study of ASIC technology impact factors on performance evaluation of SHA-3 candidates.</title>
+<pages>345-346</pages>
+<year>2013</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/2483028.2483135</ee>
+<crossref>conf/glvlsi/2013</crossref>
+<url>db/conf/glvlsi/glvlsi2013.html#SrivastavZGNS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/AysuPS13" mdate="2020-06-15">
+<author pid="39/9049">Aydin Aysu</author>
+<author pid="63/2048">Cameron Patterson</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Low-cost and area-efficient FPGA implementations of lattice-based cryptography.</title>
+<pages>81-86</pages>
+<year>2013</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2013.6581570</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2013.6581570</ee>
+<crossref>conf/host/2013</crossref>
+<url>db/conf/host/host2013.html#AysuPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/TahaS13" mdate="2020-06-15">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Side-Channel Analysis of MAC-Keccak.</title>
+<pages>125-130</pages>
+<year>2013</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2013.6581577</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2013.6581577</ee>
+<crossref>conf/host/2013</crossref>
+<url>db/conf/host/host2013.html#TahaS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpec/PabbuletiMDAS13" mdate="2020-06-15">
+<author pid="137/6361">Krishna Chaitanya Pabbuleti</author>
+<author pid="137/6384">Deepak Hanamant Mane</author>
+<author pid="137/6364">Avinash Desai</author>
+<author pid="137/6379">Curt Albert</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>SIMD acceleration of modular arithmetic on contemporary embedded platforms.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>HPEC</booktitle>
+<ee>https://doi.org/10.1109/HPEC.2013.6670327</ee>
+<crossref>conf/hpec/2013</crossref>
+<url>db/conf/hpec/hpec2013.html#PabbuletiMDAS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwsec/TahaS13" mdate="2017-05-24">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Differential Power Analysis of MAC-Keccak at Any Key-Length.</title>
+<pages>68-82</pages>
+<year>2013</year>
+<booktitle>IWSEC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41383-4_5</ee>
+<crossref>conf/iwsec/2013</crossref>
+<url>db/conf/iwsec/iwsec2013.html#TahaS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/SchaumontV13" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>The exponential impact of creativity in computer engineering education.</title>
+<pages>17-20</pages>
+<year>2013</year>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2013.6566694</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSE.2013.6566694</ee>
+<crossref>conf/mse/2013</crossref>
+<url>db/conf/mse/mse2013.html#SchaumontV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/AysuS13" mdate="2020-06-15">
+<author pid="39/9049">Aydin Aysu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>PASC: Physically authenticated stable-clocked soc platform on low-cost FPGAs.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2013.6732317</ee>
+<crossref>conf/reconfig/2013</crossref>
+<url>db/conf/reconfig/reconfig2013.html#AysuS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rfidsec/ManeS13" mdate="2017-05-24">
+<author pid="137/6384">Deepak Hanamant Mane</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Energy-Architecture Tuning for ECC-Based RFID Tags.</title>
+<pages>147-160</pages>
+<year>2013</year>
+<booktitle>RFIDSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41332-2_10</ee>
+<crossref>conf/rfidsec/2013</crossref>
+<url>db/conf/rfidsec/rfidsec2013.html#ManeS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/SchaumontA13" mdate="2017-05-17">
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="39/9049">Aydin Aysu</author>
+<title>Three Design Dimensions of Secure Embedded Systems.</title>
+<pages>1-20</pages>
+<year>2013</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41224-0_1</ee>
+<crossref>conf/space/2013</crossref>
+<url>db/conf/space/space2013.html#SchaumontA13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/JudgeMS12" mdate="2020-06-15">
+<author orcid="0000-0002-6596-1000" pid="47/10774">Lyndon Judge</author>
+<author pid="03/10775">Suvarna Mane</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Hardware-Accelerated ECDLP with High-Performance Modular Multiplication.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>Int. J. Reconfigurable Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2012/439021</ee>
+<ee>https://www.wikidata.org/entity/Q58689304</ee>
+<url>db/journals/ijrc/ijrc2012.html#JudgeMS12</url>
+<pages>439021:1-439021:14</pages>
+</article>
+</r>
+<r><article key="journals/tifs/MaitiKS12" mdate="2020-08-06">
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="59/681">Inyoung Kim</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Robust Physical Unclonable Function With Enhanced Challenge-Response Set.</title>
+<pages>333-345</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TIFS.2011.2165540</ee>
+<url>db/journals/tifs/tifs7.html#MaitiKS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/GuoSHGHNS12" mdate="2020-06-15">
+<author pid="46/5508">Xu Guo</author>
+<author pid="97/5456">Meeta Srivastav</author>
+<author pid="84/9413">Sinan Huang</author>
+<author pid="00/10492">Dinesh Ganta</author>
+<author pid="70/4569">Michael B. Henry</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>ASIC implementations of five SHA-3 finalists.</title>
+<pages>1006-1011</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176643</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176643</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2492959</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#GuoSHGHNS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/ManeTS12" mdate="2020-06-15">
+<author pid="03/10775">Suvarna Mane</author>
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Efficient and side-channel-secure block cipher implementation with custom instructions on FPGA.</title>
+<pages>20-25</pages>
+<year>2012</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2012.6339236</ee>
+<crossref>conf/fpl/2012</crossref>
+<url>db/conf/fpl/fpl2012.html#ManeTS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/MaitiS12" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A novel microprocessor-intrinsic Physical Unclonable Function.</title>
+<pages>380-387</pages>
+<year>2012</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2012.6339208</ee>
+<crossref>conf/fpl/2012</crossref>
+<url>db/conf/fpl/fpl2012.html#MaitiS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/TahaS12" mdate="2020-06-15">
+<author pid="33/3884">Mostafa M. I. Taha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A novel profiled side-channel attack in presence of high Algorithmic Noise.</title>
+<pages>433-438</pages>
+<year>2012</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2012.6378675</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2012.6378675</ee>
+<crossref>conf/iccd/2012</crossref>
+<url>db/conf/iccd/iccd2012.html#TahaS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secon/ZhangISY12" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="41/9465">Srikrishna Iyer</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>Simulating power/energy consumption of sensor nodes with flexible hardware in wireless networks.</title>
+<pages>112-120</pages>
+<year>2012</year>
+<booktitle>SECON</booktitle>
+<ee>https://doi.org/10.1109/SECON.2012.6275767</ee>
+<crossref>conf/secon/2012</crossref>
+<url>db/conf/secon/secon2012.html#ZhangISY12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ches/2012" mdate="2020-06-15">
+<editor pid="62/4866">Emmanuel Prouff</editor>
+<editor orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</editor>
+<title>Cryptographic Hardware and Embedded Systems - CHES 2012 - 14th International Workshop, Leuven, Belgium, September 9-12, 2012. Proceedings</title>
+<volume>7428</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-33027-8</ee>
+<isbn>978-3-642-33026-1</isbn>
+<booktitle>CHES</booktitle>
+<url>db/conf/ches/ches2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/joc/MaitiS11" mdate="2020-09-18">
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Improved Ring Oscillator PUF: An FPGA-friendly Secure Primitive.</title>
+<pages>375-397</pages>
+<year>2011</year>
+<volume>24</volume>
+<journal>J. Cryptol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00145-010-9088-4</ee>
+<url>db/journals/joc/joc24.html#MaitiS11</url>
+</article>
+</r>
+<r><article key="journals/tc/ChenS11a" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Parallel Implementation of Montgomery Multiplication on Multicore Systems: Algorithm, Analysis, and Prototype.</title>
+<pages>1692-1703</pages>
+<year>2011</year>
+<volume>60</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TC.2010.256</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2010.256</ee>
+<url>db/journals/tc/tc60.html#ChenS11a</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/ChenGSS11" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="46/5508">Xu Guo</author>
+<author pid="61/9049">Ambuj Sinha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Data-oriented performance analysis of SHA-3 candidates on FPGA accelerated computers.</title>
+<pages>1650-1655</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2011.5763262</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2011.5763262</ee>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#ChenGSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/GuoSHGHNS11" mdate="2020-06-15">
+<author pid="46/5508">Xu Guo</author>
+<author pid="97/5456">Meeta Srivastav</author>
+<author pid="84/9413">Sinan Huang</author>
+<author pid="00/10492">Dinesh Ganta</author>
+<author pid="70/4569">Michael B. Henry</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Pre-silicon Characterization of NIST SHA-3 Final Round Candidates.</title>
+<pages>535-542</pages>
+<year>2011</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2011.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2011.74</ee>
+<crossref>conf/dsd/2011</crossref>
+<url>db/conf/dsd/dsd2011.html#GuoSHGHNS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/MaitiMS11" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="30/10313">Logan McDougall</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>The Impact of Aging on an FPGA-Based Physical Unclonable Function.</title>
+<pages>151-156</pages>
+<year>2011</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2011.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FPL.2011.35</ee>
+<crossref>conf/fpl/2011</crossref>
+<url>db/conf/fpl/fpl2011.html#MaitiMS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msn/ZhangISY11" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="41/9465">Srikrishna Iyer</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>A Simulator for Flexible Sensor Nodes in Wireless Networks.</title>
+<pages>373-375</pages>
+<year>2011</year>
+<booktitle>MSN</booktitle>
+<ee>https://doi.org/10.1109/MSN.2011.93</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSN.2011.93</ee>
+<crossref>conf/msn/2011</crossref>
+<url>db/conf/msn/msn2011.html#ZhangISY11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/ManeJS11" mdate="2020-06-15">
+<author pid="03/10775">Suvarna Mane</author>
+<author pid="47/10774">Lyndon Judge</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>An Integrated Prime-Field ECDLP Hardware Accelerator with High-Performance Modular Arithmetic Units.</title>
+<pages>198-203</pages>
+<year>2011</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2011.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ReConFig.2011.12</ee>
+<crossref>conf/reconfig/2011</crossref>
+<url>db/conf/reconfig/reconfig2011.html#ManeJS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sasp/MorozovTS11" mdate="2020-06-15">
+<author pid="246/4669">Sergey Morozov</author>
+<author pid="124/3155">Christian Tergino</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>System integration of Elliptic Curve Cryptography on an OMAP platform.</title>
+<pages>52-57</pages>
+<year>2011</year>
+<booktitle>SASP</booktitle>
+<ee>https://doi.org/10.1109/SASP.2011.5941077</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASP.2011.5941077</ee>
+<crossref>conf/sasp/2011</crossref>
+<url>db/conf/sasp/sasp2011.html#MorozovTS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secon/ZhangTHISY11" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="88/3775">Yi Tang</author>
+<author pid="33/9465">Sachin Hirve</author>
+<author pid="41/9465">Srikrishna Iyer</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>A software-hardware emulator for sensor networks.</title>
+<pages>440-448</pages>
+<year>2011</year>
+<booktitle>SECON</booktitle>
+<ee>https://doi.org/10.1109/SAHCN.2011.5984928</ee>
+<crossref>conf/secon/2011</crossref>
+<url>db/conf/secon/secon2011.html#ZhangTHISY11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/ZhangISY11" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="41/9465">Srikrishna Iyer</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>SUNSHINE extension: a hardware-software emulator for flexible sensor nodes in wireless networks.</title>
+<pages>363-364</pages>
+<year>2011</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/2070942.2070991</ee>
+<crossref>conf/sensys/2011</crossref>
+<url>db/conf/sensys/sensys2011.html#ZhangISY11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/MaitiGS11" mdate="2021-01-21">
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="66/10733">Vikash Gunreddy</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Systematic Method to Evaluate and Compare the Performance of Physical Unclonable Functions.</title>
+<pages>657</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/657</ee>
+<url>db/journals/iacr/iacr2011.html#MaitiGS11</url>
+</article>
+</r>
+<r><book key="books/daglib/0025131" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Practical Introduction to Hardware/Software Codesign.</title>
+<pages>I-XVIII, 1-396</pages>
+<publisher>Springer</publisher>
+<year>2010</year>
+<isbn>978-1-4419-5999-7</isbn>
+<ee>https://doi.org/10.1007/978-1-4419-6000-9</ee>
+</book>
+</r>
+<r><article key="journals/sigmobile/ZhangTHISY10" mdate="2020-06-15">
+<author pid="81/4634">Jingyao Zhang</author>
+<author pid="88/3775">Yi Tang</author>
+<author pid="33/9465">Sachin Hirve</author>
+<author pid="41/9465">Srikrishna Iyer</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="10/3200">Yaling Yang</author>
+<title>SUNSHINE: a multi-domain sensor network simulator.</title>
+<pages>40-42</pages>
+<year>2010</year>
+<volume>14</volume>
+<journal>ACM SIGMOBILE Mob. Comput. Commun. Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1942268.1942283</ee>
+<url>db/journals/sigmobile/sigmobile14.html#ZhangTHISY10</url>
+</article>
+</r>
+<r><article key="journals/tcad/BloemS10" mdate="2020-09-24">
+<author pid="80/1300">Roderick Bloem</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Guest Editorial.</title>
+<pages>1457-1458</pages>
+<year>2010</year>
+<volume>29</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCAD.2010.2060170</ee>
+<url>db/journals/tcad/tcad29.html#BloemS10</url>
+</article>
+</r>
+<r><article key="journals/tii/GoraMS10" mdate="2020-06-15">
+<author pid="26/8820">Michael A. Gora</author>
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Flexible Design Flow for Software IP Binding in FPGA.</title>
+<pages>719-728</pages>
+<year>2010</year>
+<volume>6</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TII.2010.2068303</ee>
+<url>db/journals/tii/tii6.html#GoraMS10</url>
+</article>
+</r>
+<r><article key="journals/trets/GuoS10" mdate="2020-06-15">
+<author pid="46/5508">Xu Guo</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Optimized System-on-Chip Integration of a Programmable ECC Coprocessor.</title>
+<pages>6:1-6:21</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1857927.1857933</ee>
+<url>db/journals/trets/trets4.html#GuoS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/MorozovMS10" mdate="2017-05-26">
+<author pid="246/4669">Sergey Morozov</author>
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>An Analysis of Delay Based PUF Implementations on FPGA.</title>
+<pages>382-387</pages>
+<year>2010</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12133-3_37</ee>
+<crossref>conf/arc/2010</crossref>
+<url>db/conf/arc/arc2010.html#MorozovMS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/SinhaCS10" mdate="2020-12-28">
+<author pid="61/9049">Ambuj Sinha</author>
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A comprehensive analysis of performance and side-channel-leakage of AES SBOX implementations in embedded software.</title>
+<pages>5</pages>
+<year>2010</year>
+<booktitle>WESS</booktitle>
+<ee>https://doi.org/10.1145/1873548.1873553</ee>
+<crossref>conf/cases/2010wess</crossref>
+<url>db/conf/cases/wess2010.html#SinhaCS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/ChenSS10" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="61/9049">Ambuj Sinha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Implementing virtual secure circuit using a custom-instruction approach.</title>
+<pages>57-66</pages>
+<year>2010</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1878921.1878933</ee>
+<crossref>conf/cases/2010</crossref>
+<url>db/conf/cases/cases2010.html#ChenSS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ChenS10" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>pSHS: A scalable parallel software implementation of Montgomery multiplication for multicore systems.</title>
+<pages>843-848</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5456935</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1871132</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#ChenS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/FanGMSPV10" mdate="2020-06-15">
+<author pid="36/2152">Junfeng Fan</author>
+<author pid="46/5508">Xu Guo</author>
+<author pid="40/2773">Elke De Mulder</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0003-2005-9651" pid="p/BartPreneel">Bart Preneel</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>State-of-the-art of Secure ECC Implementations: A Survey on Known Side-channel Attacks and Countermeasures.</title>
+<pages>76-87</pages>
+<year>2010</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2010.5513110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2010.5513110</ee>
+<crossref>conf/host/2010</crossref>
+<url>db/conf/host/host2010.html#FanGMSPV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/MaitiCMS10" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="55/9413">Jeff Casarona</author>
+<author pid="78/9413">Luke McHale</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Large Scale Characterization of RO-PUF.</title>
+<pages>94-99</pages>
+<year>2010</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2010.5513108</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2010.5513108</ee>
+<crossref>conf/host/2010</crossref>
+<url>db/conf/host/host2010.html#MaitiCMS10</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/10/SchaumontSY10" mdate="2017-09-21">
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="72/5397">Eric Simpson</author>
+<author pid="71/3079">Pengyuan Yu</author>
+<title>Demonstrating end point security in embedded systems.</title>
+<pages>197-214</pages>
+<year>2010</year>
+<booktitle>Secure Integrated Circuits and Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-71829-3_11</ee>
+<crossref>books/sp/V2010</crossref>
+<url>db/books/collections/V2010.html#SchaumontSY10</url>
+</incollection>
+</r>
+<r><incollection key="series/isc/KimMNSVZ10" mdate="2017-05-16">
+<author pid="59/681">Inyoung Kim</author>
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="86/7837">Vignesh Vivekraja</author>
+<author pid="134/0467">Huaiye Zhang</author>
+<title>From Statistics to Circuits: Foundations for Future Physical Unclonable Functions.</title>
+<pages>55-78</pages>
+<year>2010</year>
+<booktitle>Towards Hardware-Intrinsic Security</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14452-3_3</ee>
+<crossref>series/isc/364214451</crossref>
+<url>db/series/isc/isc364214451.html#KimMNSVZ10</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChenS10" mdate="2021-01-21">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Virtual Secure Circuit: Porting Dual-Rail Pre-charge Technique into Software on Multicore.</title>
+<pages>272</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/272</ee>
+<url>db/journals/iacr/iacr2010.html#ChenS10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GuoHNS10" mdate="2021-01-21">
+<author pid="46/5508">Xu Guo</author>
+<author pid="84/9413">Sinan Huang</author>
+<author pid="56/838">Leyla Nazhandali</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>On The Impact of Target Technology in SHA-3 Hardware Benchmark Rankings.</title>
+<pages>536</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/536</ee>
+<url>db/journals/iacr/iacr2010.html#GuoHNS10</url>
+</article>
+</r>
+<r><article key="journals/trets/SchaumontJT09" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="j/AKJones">Alex K. Jones</author>
+<author pid="98/1488">Steve Trimberger</author>
+<title>Guest Editors' Introduction to Security in Reconfigurable Systems Design.</title>
+<year>2009</year>
+<volume>2</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1502781.1502782</ee>
+<url>db/journals/trets/trets2.html#SchaumontJT09</url>
+<pages>1:1-1:6</pages>
+</article>
+</r>
+<r><inproceedings key="conf/arc/GuoS09" mdate="2017-05-26">
+<author pid="46/5508">Xu Guo</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Optimizing the Control Hierarchy of an ECC Coprocessor Design on an FPGA Based SoC Platform.</title>
+<pages>169-180</pages>
+<year>2009</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00641-8_18</ee>
+<crossref>conf/arc/2009</crossref>
+<url>db/conf/arc/arc2009.html#GuoS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/GuoFSV09" mdate="2018-11-02">
+<author pid="46/5508">Xu Guo</author>
+<author pid="36/2152">Junfeng Fan</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Programmable and Parallel ECC Coprocessor Architecture: Tradeoffs between Area, Speed and Security.</title>
+<pages>289-303</pages>
+<year>2009</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04138-9_21</ee>
+<crossref>conf/ches/2009</crossref>
+<url>db/conf/ches/ches2009.html#GuoFSV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/GuoS09" mdate="2020-06-15">
+<author pid="46/5508">Xu Guo</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Optimizing the HW/SW boundary of an ECC SoC design using control hierarchy and distributed storage.</title>
+<pages>454-459</pages>
+<year>2009</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2009.5090708</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1874733</ee>
+<crossref>conf/date/2009</crossref>
+<url>db/conf/date/date2009.html#GuoS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/MaitiS09" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Impact and compensation of correlated process variation on ring oscillator based puf.</title>
+<pages>285</pages>
+<year>2009</year>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/1508128.1508201</ee>
+<crossref>conf/fpga/2009</crossref>
+<url>db/conf/fpga/fpga2009.html#MaitiS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/MaitiS09" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Improving the quality of a Physical Unclonable Function using configurable Ring Oscillators.</title>
+<pages>703-707</pages>
+<year>2009</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2009.5272361</ee>
+<crossref>conf/fpl/2009</crossref>
+<url>db/conf/fpl/fpl2009.html#MaitiS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/MaitiNRS09" mdate="2020-06-15">
+<author pid="26/1513">Abhranil Maiti</author>
+<author pid="16/1448">Raghunandan Nagesh</author>
+<author pid="29/6510">Anand Reddy</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Physical unclonable function and true random number generator: a compact and scalable implementation.</title>
+<pages>425-428</pages>
+<year>2009</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1531542.1531639</ee>
+<crossref>conf/glvlsi/2009</crossref>
+<url>db/conf/glvlsi/glvlsi2009.html#MaitiNRS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/ChenS09" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Extended Abstract: Early Feedback on Side-Channel Risks with Accelerated Toggle-Counting.</title>
+<pages>90-95</pages>
+<year>2009</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2009.5224961</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2009.5224961</ee>
+<crossref>conf/host/2009</crossref>
+<url>db/conf/host/host2009.html#ChenS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ChenNRS09" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="16/1448">Raghunandan Nagesh</author>
+<author pid="29/6510">Anand Reddy</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Increasing the Sensitivity of On-Chip Digital Thermal Sensors with Pre-Filtering.</title>
+<pages>304-309</pages>
+<year>2009</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2009.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2009.31</ee>
+<crossref>conf/isvlsi/2009</crossref>
+<url>db/conf/isvlsi/isvlsi2009.html#ChenNRS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sersc-isa/ChenHS09" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="87/1410">Syed Haider</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Side-Channel Leakage in Masked Circuits Caused by Higher-Order Circuit Effects.</title>
+<pages>327-336</pages>
+<year>2009</year>
+<booktitle>ISA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02617-1_34</ee>
+<crossref>conf/sersc-isa/2009</crossref>
+<url>db/conf/sersc-isa/isa2009.html#ChenHS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sies/GoraMS09" mdate="2020-06-15">
+<author pid="26/8820">Michael A. Gora</author>
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A flexible design flow for software IP binding in commodity FPGA.</title>
+<pages>211-218</pages>
+<year>2009</year>
+<booktitle>SIES</booktitle>
+<ee>https://doi.org/10.1109/SIES.2009.5196217</ee>
+<crossref>conf/sies/2009</crossref>
+<url>db/conf/sies/sies2009.html#GoraMS09</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/Schaumont09" mdate="2021-01-21">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Engineering On-Chip Thermal Effects.</title>
+<year>2009</year>
+<booktitle>Foundations for Forgery-Resilient Cryptographic Hardware</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2010/2403/</ee>
+<crossref>conf/dagstuhl/2009P9282</crossref>
+<url>db/conf/dagstuhl/P9282.html#Schaumont09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/MorozovMS09" mdate="2021-01-21">
+<author pid="246/4669">Sergey Morozov</author>
+<author pid="26/1513">Abhranil Maiti</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Comparative Analysis of Delay Based PUF Implementations on FPGA.</title>
+<pages>629</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/629</ee>
+<url>db/journals/iacr/iacr2009.html#MorozovMS09</url>
+</article>
+</r>
+<r><article key="journals/te/Schaumont08" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Senior-Level Course in Hardware-Software Codesign.</title>
+<pages>306-311</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>IEEE Trans. Educ.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TE.2007.910434</ee>
+<url>db/journals/te/te51.html#Schaumont08</url>
+</article>
+</r>
+<r><inproceedings key="conf/host/ChenS08" mdate="2020-12-28">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Slicing Up a Perfect Hardware Masking Scheme.</title>
+<pages>21-25</pages>
+<year>2008</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2008.4559041</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2008.4559041</ee>
+<crossref>conf/host/2008</crossref>
+<url>db/conf/host/host2008.html#ChenS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/SchaumontH08" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="96/6305">David D. Hwang</author>
+<title>Turning liabilities into assets: Exploiting deep submicron CMOS technology to design secure embedded circuits.</title>
+<pages>3178-3181</pages>
+<year>2008</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2008.4542133</ee>
+<crossref>conf/iscas/2008</crossref>
+<url>db/conf/iscas/iscas2008.html#SchaumontH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memocode/SchaumontAH08" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="a/KrsteAsanovic">Krste Asanovic</author>
+<author pid="33/3960">James C. Hoe</author>
+<title>MEMOCODE 2008 Co-Design Contest.</title>
+<pages>151-154</pages>
+<year>2008</year>
+<booktitle>MEMOCODE</booktitle>
+<ee>https://doi.org/10.1109/MEMCOD.2008.4547703</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MEMCOD.2008.4547703</ee>
+<crossref>conf/memocode/2008</crossref>
+<url>db/conf/memocode/memocode2008.html#SchaumontAH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/GuoCS08" mdate="2020-12-28">
+<author pid="46/5508">Xu Guo</author>
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Energy and Performance Evaluation of an FPGA-Based SoC Platform with AES and PRESENT Coprocessors.</title>
+<pages>106-115</pages>
+<year>2008</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70550-5_12</ee>
+<crossref>conf/samos/2008</crossref>
+<url>db/conf/samos/samos2008.html#GuoCS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/GoraSS08" mdate="2017-05-25">
+<author pid="26/8820">Michael A. Gora</author>
+<author pid="72/5397">Eric Simpson</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Intellectual Property Protection for Embedded Sensor Nodes.</title>
+<pages>289-298</pages>
+<year>2008</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70550-5_32</ee>
+<crossref>conf/samos/2008</crossref>
+<url>db/conf/samos/samos2008.html#GoraSS08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChenMS08" mdate="2021-01-21">
+<author pid="08/6318-2">Zhimin Chen 0002</author>
+<author pid="246/4669">Sergey Morozov</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Hardware Interface for Hashing Algorithms.</title>
+<pages>529</pages>
+<year>2008</year>
+<volume>2008</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2008/529</ee>
+<url>db/journals/iacr/iacr2008.html#ChenMS08</url>
+</article>
+</r>
+<r><article key="journals/dt/SchaumontR07" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="74/3747">Anand Raghunathan</author>
+<title>Guest Editors' Introduction: Security and Trust in Embedded-Systems Design.</title>
+<pages>518-520</pages>
+<year>2007</year>
+<volume>24</volume>
+<journal>IEEE Des. Test Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDT.2007.188</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDT.2007.188</ee>
+<url>db/journals/dt/dt24.html#SchaumontR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/SchaumontT07" mdate="2017-05-21">
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="78/1551">Kris Tiri</author>
+<title>Masking and Dual-Rail Logic Don't Add Up.</title>
+<pages>95-106</pages>
+<year>2007</year>
+<crossref>conf/ches/2007</crossref>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74735-2_7</ee>
+<url>db/conf/ches/ches2007.html#SchaumontT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/YuS07" mdate="2020-06-15">
+<author pid="71/3079">Pengyuan Yu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Secure FPGA circuits using controlled placement and routing.</title>
+<pages>45-50</pages>
+<year>2007</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1289816.1289831</ee>
+<crossref>conf/codes/2007</crossref>
+<url>db/conf/codes/codes2007.html#YuS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VerbauwhedeS07" mdate="2020-06-15">
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Design methods for security and trust.</title>
+<pages>672-677</pages>
+<year>2007</year>
+<crossref>conf/date/2007</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2007.364671</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2007.364671</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1266508</ee>
+<url>db/conf/date/date2007.html#VerbauwhedeS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memocode/SimpsonYSAS07" mdate="2020-06-15">
+<author pid="72/5397">Eric Simpson</author>
+<author pid="71/3079">Pengyuan Yu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="79/1270">Sumit Ahuja</author>
+<author pid="s/SKShukla">Sandeep K. Shukla</author>
+<title>VT Matrix Multiply Design for MEMOCODE '07.</title>
+<pages>95-96</pages>
+<year>2007</year>
+<crossref>conf/memocode/2007</crossref>
+<booktitle>MEMOCODE</booktitle>
+<ee>https://doi.org/10.1109/MEMCOD.2007.371240</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MEMCOD.2007.371240</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1340627</ee>
+<url>db/conf/memocode/memocode2007.html#SimpsonYSAS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/Schaumont07" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>A Senior-Level Course in Hardware-Software Codesign.</title>
+<pages>7-8</pages>
+<year>2007</year>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2007.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSE.2007.13</ee>
+<crossref>conf/mse/2007</crossref>
+<url>db/conf/mse/mse2007.html#Schaumont07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0710-4646" mdate="2018-08-13">
+<author pid="08/3380">Oreste Villa</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<author pid="m/MatteoMonchiero">Matteo Monchiero</author>
+<author pid="87/565">Gianluca Palermo</author>
+<title>Fast Dynamic Memory Integration in Co-Simulation Frameworks for Multiprocessor System on-Chip</title>
+<ee type="oa">http://arxiv.org/abs/0710.4646</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0710.4646</volume>
+<url>db/journals/corr/corr0710.html#abs-0710-4646</url>
+</article>
+</r>
+<r><article key="journals/dt/SchaumontV06" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>A Component-Based Design Environment for ESL Design.</title>
+<pages>338-347</pages>
+<year>2006</year>
+<volume>23</volume>
+<journal>IEEE Des. Test Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MDT.2006.110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDT.2006.110</ee>
+<url>db/journals/dt/dt23.html#SchaumontV06</url>
+</article>
+</r>
+<r><article key="journals/ieeesp/HwangSTV06" mdate="2020-06-15">
+<author pid="96/6305">David Hwang 0001</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="78/1551">Kris Tiri</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Securing Embedded Systems.</title>
+<pages>40-49</pages>
+<year>2006</year>
+<volume>4</volume>
+<journal>IEEE Secur. Priv.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MSP.2006.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSP.2006.51</ee>
+<url>db/journals/ieeesp/ieeesp4.html#HwangSTV06</url>
+</article>
+</r>
+<r><article key="journals/tc/SchaumontHYV06" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="96/6305">David D. Hwang</author>
+<author pid="52/1380">Shenglin Yang</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Multilevel Design Validation in a Secure Embedded System.</title>
+<pages>1380-1390</pages>
+<year>2006</year>
+<volume>55</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TC.2006.184</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2006.184</ee>
+<url>db/journals/tc/tc55.html#SchaumontHYV06</url>
+</article>
+</r>
+<r><article key="journals/todaes/SchaumontCV06" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="66/4101">Doris Ching</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>An interactive codesign environment for domain-specific coprocessors.</title>
+<pages>70-87</pages>
+<year>2006</year>
+<volume>11</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1124713.1124719</ee>
+<url>db/journals/todaes/todaes11.html#SchaumontCV06</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/LaiSQV06" mdate="2020-06-15">
+<author pid="l/BoChengLai">Bo-Cheng Charles Lai</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="79/4816">Wei Qin</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Cross Layer Design to Multi-thread a Data-Pipelining Application on a Multi-processor on Chip.</title>
+<pages>15-18</pages>
+<year>2006</year>
+<crossref>conf/asap/2006</crossref>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2006.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2006.24</ee>
+<url>db/conf/asap/asap2006.html#LaiSQV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/SimpsonS06" mdate="2017-05-21">
+<author pid="72/5397">Eric Simpson</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Offline Hardware/Software Authentication for Reconfigurable Platforms.</title>
+<pages>311-323</pages>
+<year>2006</year>
+<crossref>conf/ches/2006</crossref>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/11894063_25</ee>
+<url>db/conf/ches/ches2006.html#SimpsonS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SchaumontSV06" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="s/SKShukla">Sandeep K. Shukla</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Design with race-free hardware semantics.</title>
+<pages>571-576</pages>
+<year>2006</year>
+<crossref>conf/date/2006p</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2006.243956</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2006.243956</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1131641</ee>
+<url>db/conf/date/date2006p.html#SchaumontSV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ersa/ChanSV06" mdate="2006-12-11">
+<author pid="21/3811">Herwin Chan</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>Process Isolation for Reconfigurable Hardware.</title>
+<pages>164-170</pages>
+<year>2006</year>
+<crossref>conf/ersa/2006</crossref>
+<booktitle>ERSA</booktitle>
+<url>db/conf/ersa/ersa2006.html#ChanSV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/YuS06" mdate="2020-06-15">
+<author pid="71/3079">Pengyuan Yu</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Executing Hardware as Parallel Software for Picoblaze Networks.</title>
+<pages>1-6</pages>
+<year>2006</year>
+<crossref>conf/fpl/2006</crossref>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2006.311237</ee>
+<url>db/conf/fpl/fpl2006.html#YuS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itng/TiriSV06" mdate="2020-06-15">
+<author pid="78/1551">Kris Tiri</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Side-Channel Leakage Tolerant Architectures.</title>
+<pages>204-209</pages>
+<year>2006</year>
+<crossref>conf/itng/2006</crossref>
+<booktitle>ITNG</booktitle>
+<ee>https://doi.org/10.1109/ITNG.2006.121</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ITNG.2006.121</ee>
+<url>db/conf/itng/itng2006.html#TiriSV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/TiriS06" mdate="2018-06-26">
+<author pid="78/1551">Kris Tiri</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<title>Changing the Odds Against Masked Logic.</title>
+<pages>134-146</pages>
+<year>2006</year>
+<crossref>conf/sacrypt/2006</crossref>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74462-7_10</ee>
+<url>db/conf/sacrypt/sacrypt2006.html#TiriS06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijes/ChingSV05" mdate="2020-09-11">
+<author pid="66/4101">Doris Ching</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Integrated modelling and generation of a reconfigurable network-on-chip.</title>
+<pages>218-227</pages>
+<year>2005</year>
+<volume>1</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>3/4</number>
+<ee>https://doi.org/10.1504/IJES.2005.009951</ee>
+<url>db/journals/ijes/ijes1.html#ChingSV05</url>
+</article>
+</r>
+<r><article key="journals/tcad/SchaumontHV05" mdate="2020-09-24">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="96/6305">David Hwang 0001</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Platform-based design for an embedded-fingerprint-authentication device.</title>
+<pages>1929-1936</pages>
+<year>2005</year>
+<volume>24</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCAD.2005.853709</ee>
+<url>db/journals/tcad/tcad24.html#SchaumontHV05</url>
+</article>
+</r>
+<r><article key="journals/tecs/VerbauwhedeS05" mdate="2020-09-08">
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Skiing the embedded systems mountain.</title>
+<pages>529-548</pages>
+<year>2005</year>
+<volume>4</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1086519.1086523</ee>
+<url>db/journals/tecs/tecs4.html#VerbauwhedeS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/TiriHHLYSV05" mdate="2017-05-21">
+<author pid="78/1551">Kris Tiri</author>
+<author pid="96/6305">David D. Hwang</author>
+<author pid="30/3119">Alireza Hodjat</author>
+<author pid="l/BoChengLai">Bo-Cheng Lai</author>
+<author pid="52/1380">Shenglin Yang</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>Prototype IC with WDDL and Differential Routing - DPA Resistance Assessment.</title>
+<pages>354-365</pages>
+<year>2005</year>
+<crossref>conf/ches/2005</crossref>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/11545262_26</ee>
+<url>db/conf/ches/ches2005.html#TiriHHLYSV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/YangSV05" mdate="2020-06-15">
+<author pid="52/1380">Shenglin Yang</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Microcoded coprocessor for embedded secure biometric authentication systems.</title>
+<pages>130-135</pages>
+<year>2005</year>
+<crossref>conf/codes/2005</crossref>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1084834.1084871</ee>
+<url>db/conf/codes/codes2005.html#YangSV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SchaumontLQV05" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="l/BoChengLai">Bo-Cheng Charles Lai</author>
+<author pid="79/4816">Wei Qin</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>Cooperative multithreading on 3mbedded multiprocessor architectures enables energy-scalable design.</title>
+<pages>27-30</pages>
+<year>2005</year>
+<crossref>conf/dac/2005</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1065579.1065591</ee>
+<url>db/conf/dac/dac2005.html#SchaumontLQV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/TiriHHLYSV05" mdate="2020-06-15">
+<author pid="78/1551">Kris Tiri</author>
+<author pid="96/6305">David D. Hwang</author>
+<author pid="30/3119">Alireza Hodjat</author>
+<author pid="l/BoChengLai">Bo-Cheng Lai</author>
+<author pid="52/1380">Shenglin Yang</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>A side-channel leakage free coprocessor IC in 0.18&#181;m CMOS for embedded AES-based cryptographic and biometric processing.</title>
+<pages>222-227</pages>
+<year>2005</year>
+<crossref>conf/dac/2005</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1065579.1065639</ee>
+<url>db/conf/dac/dac2005.html#TiriHHLYSV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VillaSVMP05" mdate="2020-06-15">
+<author pid="08/3380">Oreste Villa</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author pid="m/MatteoMonchiero">Matteo Monchiero</author>
+<author pid="87/565">Gianluca Palermo</author>
+<title>Fast Dynamic Memory Integration in Co-Simulation Frameworks for Multiprocessor System on-Chip.</title>
+<pages>804-805</pages>
+<year>2005</year>
+<crossref>conf/date/2005</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2005.153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2005.153</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1049219</ee>
+<url>db/conf/date/date2005.html#VillaSVMP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hldvt/HwangYVS05" mdate="2020-06-15">
+<author pid="96/6305">David D. Hwang</author>
+<author pid="52/1380">Shenglin Yang</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Multilevel design validation in a secure embedded system.</title>
+<pages>203-210</pages>
+<year>2005</year>
+<booktitle>HLDVT</booktitle>
+<ee>https://doi.org/10.1109/HLDVT.2005.1568838</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HLDVT.2005.1568838</ee>
+<crossref>conf/hldvt/2005</crossref>
+<url>db/conf/hldvt/hldvt2005.html#HwangYVS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/LaiSQV05" mdate="2020-06-15">
+<author pid="l/BoChengLai">Bo-Cheng Charles Lai</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="79/4816">Wei Qin</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Energy and Performance Analysis of Mapping Parallel Multithreaded Tasks for An On-Chip Multi-Processor System.</title>
+<pages>102-104</pages>
+<year>2005</year>
+<crossref>conf/iccd/2005</crossref>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2005.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCD.2005.47</ee>
+<url>db/conf/iccd/iccd2005.html#LaiSQV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memocode/SchaumontSV05" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="s/SKShukla">Sandeep K. Shukla</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Extended abstract: a race-free hardware modeling language.</title>
+<pages>255-256</pages>
+<year>2005</year>
+<crossref>conf/memocode/2005</crossref>
+<booktitle>MEMOCODE</booktitle>
+<ee>https://doi.org/10.1109/MEMCOD.2005.1487930</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MEMCOD.2005.1487930</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1322172</ee>
+<url>db/conf/memocode/memocode2005.html#SchaumontSV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/MatsuokaSTV04" mdate="2020-06-15">
+<author pid="16/3371">Yusuke Matsuoka</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="78/1551">Kris Tiri</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>Java cryptography on KVM and its performance and security optimization using HW/SW co-design techniques.</title>
+<pages>303-311</pages>
+<year>2004</year>
+<crossref>conf/cases/2004</crossref>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/1023833.1023874</ee>
+<url>db/conf/cases/cases2004.html#MatsuokaSTV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cf/VerbauwhedeS04" mdate="2020-06-15">
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>The happy marriage of architecture and application in next-generation reconfigurable systems.</title>
+<pages>363-376</pages>
+<year>2004</year>
+<crossref>conf/cf/2004</crossref>
+<booktitle>Conf. Computing Frontiers</booktitle>
+<ee>https://doi.org/10.1145/977091.977145</ee>
+<url>db/conf/cf/cf2004.html#VerbauwhedeS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SchaumontV04" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Interactive Cosimulation with Partial Evaluation.</title>
+<pages>642-647</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2004.1268917</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2004.1268917</ee>
+<ee>http://dl.acm.org/citation.cfm?id=969086</ee>
+<url>db/conf/date/date2004-1.html#SchaumontV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VerbauwhedeSPK04" mdate="2020-06-15">
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="29/5753">Christian Piguet</author>
+<author pid="07/2320">Bart Kienhuis</author>
+<title>Architectures and Design Techniques for Energy Efficient Embedded DSP and Multimedia Processing.</title>
+<pages>988-995</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2004.1269022</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2004.1269022</ee>
+<ee>http://dl.acm.org/citation.cfm?id=969219</ee>
+<url>db/conf/date/date2004-2.html#VerbauwhedeSPK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/ChingSV04" mdate="2020-06-15">
+<author pid="66/4101">Doris Ching</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Integrated Modeling and Generation of a Reconfigurable Network-on-Chip.</title>
+<year>2004</year>
+<crossref>conf/ipps/2004</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2004.1303115</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2004.1303115</ee>
+<url>db/conf/ipps/ipdps2004-w3.html#ChingSV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/SchaumontSHV04" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="04/4429">Kazuo Sakiyama</author>
+<author pid="30/3119">Alireza Hodjat</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Embedded Software Integration for Coarse-Grain Reconfigurable Systems.</title>
+<year>2004</year>
+<crossref>conf/ipps/2004</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2004.1303110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2004.1303110</ee>
+<url>db/conf/ipps/ipdps2004-w3.html#SchaumontSHV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itcc/HodjatSV04" mdate="2020-06-15">
+<author pid="30/3119">Alireza Hodjat</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Architectural Design Features of a Programmable High Throughput AES Coprocessor.</title>
+<pages>498-502</pages>
+<year>2004</year>
+<crossref>conf/itcc/2004-2</crossref>
+<booktitle>ITCC (2)</booktitle>
+<ee>https://doi.org/10.1109/ITCC.2004.1286703</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ITCC.2004.1286703</ee>
+<url>db/conf/itcc/itcc2004-2.html#HodjatSV04</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/04/VerbauwhedeSPK04" mdate="2019-09-16">
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="29/5753">Christian Piguet</author>
+<author pid="07/2320">Bart Kienhuis</author>
+<title>Architectures and Design Techniques for Energy Efficient Embedded DSP and Multimedia Processing.</title>
+<pages>141-155</pages>
+<year>2004</year>
+<booktitle>Ultra Low-Power Electronics and Design</booktitle>
+<ee>https://doi.org/10.1007/1-4020-8076-X_8</ee>
+<crossref>books/sp/04/M2004</crossref>
+<url>db/books/collections/M2004.html#VerbauwhedeSPK04</url>
+</incollection>
+</r>
+<r><article key="journals/computer/SchaumontV03" mdate="2020-08-12">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Domain-Specific Codesign for Embedded Security.</title>
+<pages>68-74</pages>
+<year>2003</year>
+<volume>36</volume>
+<journal>Computer</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MC.2003.1193231</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2003.1193231</ee>
+<url>db/journals/computer/computer36.html#SchaumontV03</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/SakiyamaSV03" mdate="2020-06-15">
+<author pid="04/4429">Kazuo Sakiyama</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Finding the best system design flow for a high-speed JPEG encoder.</title>
+<pages>577-578</pages>
+<year>2003</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/1119772.1119899</ee>
+<crossref>conf/aspdac/2003</crossref>
+<url>db/conf/aspdac/aspdac2003.html#SakiyamaSV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/HwangLSSFYHV03" mdate="2020-06-15">
+<author pid="96/6305">David D. Hwang</author>
+<author pid="l/BoChengLai">Bo-Cheng Lai</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="04/4429">Kazuo Sakiyama</author>
+<author pid="10/2921">Yi Fan</author>
+<author pid="52/1380">Shenglin Yang</author>
+<author pid="30/3119">Alireza Hodjat</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>Design flow for HW / SW acceleration transparency in the thumbpod secure embedded system.</title>
+<pages>60-65</pages>
+<year>2003</year>
+<crossref>conf/dac/2003</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/775832.775850</ee>
+<url>db/conf/dac/dac2003.html#HwangLSSFYHV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hldvt/SchaumontSFHYHLV03" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="04/4429">Kazuo Sakiyama</author>
+<author pid="10/2921">Yi Fan</author>
+<author pid="96/6305">David D. Hwang</author>
+<author pid="52/1380">Shenglin Yang</author>
+<author pid="30/3119">Alireza Hodjat</author>
+<author pid="l/BoChengLai">Bo-Cheng Lai</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Testing ThumbPod: Softcore bugs are hard to find.</title>
+<pages>77-82</pages>
+<year>2003</year>
+<booktitle>HLDVT</booktitle>
+<ee>https://doi.org/10.1109/HLDVT.2003.1252478</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HLDVT.2003.1252478</ee>
+<crossref>conf/hldvt/2003</crossref>
+<url>db/conf/hldvt/hldvt2003.html#SchaumontSFHYHLV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/SakiyamaSHV03" mdate="2020-06-15">
+<author pid="04/4429">Kazuo Sakiyama</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="96/6305">David Hwang 0001</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Teaching Trade-offs in System-level Design Methodologies.</title>
+<pages>62-53</pages>
+<year>2003</year>
+<crossref>conf/mse/2003</crossref>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2003.1205256</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSE.2003.1205256</ee>
+<url>db/conf/mse/mse2003.html#SakiyamaSHV03</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/SchaumontV02" mdate="2020-10-02">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Domain Specific Tools and Methods for Application in Security Processor Design.</title>
+<pages>365-383</pages>
+<year>2002</year>
+<volume>7</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/A:1020363323869</ee>
+<url>db/journals/dafes/dafes7.html#SchaumontV02</url>
+</article>
+</r>
+<r><article key="journals/tjs/HaVSELM02" mdate="2020-06-15">
+<author pid="29/3884">Yajun Ha</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="55/5766">Rudy Lauwereins</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>Building a Virtual Framework for Networked Reconfigurable Hardware and Software Objects.</title>
+<pages>131-144</pages>
+<year>2002</year>
+<volume>21</volume>
+<journal>J. Supercomput.</journal>
+<number>2</number>
+<url>db/journals/tjs/tjs21.html#HaVSELM02</url>
+<ee>https://doi.org/10.1023/A:1013675319876</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cardis/HwangLSV02" mdate="2020-05-12">
+<author pid="96/6305">David Hwang 0001</author>
+<author pid="l/BoChengLai">Bo-Cheng Lai</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<title>A Security Protocol for Biometric Smart Cards.</title>
+<year>2002</year>
+<crossref>conf/cardis/2002</crossref>
+<booktitle>CARDIS</booktitle>
+<url>db/conf/cardis/cardis2002.html#HwangLSV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SchaumontKV02" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="19/5887">Henry Kuo</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<title>Unlocking the design secrets of a 2.29 Gb/s Rijndael processor.</title>
+<pages>634-639</pages>
+<year>2002</year>
+<crossref>conf/dac/2002</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/513918.514079</ee>
+<url>db/conf/dac/dac2002.html#SchaumontKV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/PaskoVS02" mdate="2020-06-15">
+<author pid="30/6412">Robert Pasko</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Techniques to Evolve a C++ Based System Design Language.</title>
+<pages>302-309</pages>
+<year>2002</year>
+<crossref>conf/date/2002</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2002.998289</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998289</ee>
+<ee>http://dl.acm.org/citation.cfm?id=874393</ee>
+<url>db/conf/date/date2002.html#PaskoVS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/DesmetACDHMMPSV02" mdate="2017-05-25">
+<author pid="04/4255">Dirk Desmet</author>
+<author pid="73/1036">Prabhat Avasare</author>
+<author pid="56/4414">Paul Coene</author>
+<author pid="51/1127">Stijn Decneut</author>
+<author pid="15/6137">Filip Hendrickx</author>
+<author pid="76/2681">Th&#233;odore Marescaux</author>
+<author pid="63/3555">Jean-Yves Mignolet</author>
+<author pid="30/6412">Robert Pasko</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="93/763">Diederik Verkest</author>
+<title>Design of Cam-E-leon, a Run-Time Reconfigurable Web Camera.</title>
+<pages>274-290</pages>
+<year>2002</year>
+<crossref>conf/samos/2002</crossref>
+<booktitle>Embedded Processor Design Challenges</booktitle>
+<ee>https://doi.org/10.1007/3-540-45874-3_16</ee>
+<url>db/conf/samos/samos2002.html#DesmetACDHMMPSV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/HaVSVELM01" mdate="2020-06-15">
+<author pid="29/3884">Yajun Ha</author>
+<author pid="32/3091">Geert Vanmeerbeeck</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="55/5766">Rudy Lauwereins</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>Virtual Java/FPGA interface for networked reconfiguration.</title>
+<pages>558-563</pages>
+<year>2001</year>
+<crossref>conf/aspdac/2001</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/370155.370532</ee>
+<url>db/conf/aspdac/aspdac2001.html#HaVSVELM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/VanmeerbeeckSVEB01" mdate="2020-06-15">
+<author pid="32/3091">Geert Vanmeerbeeck</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>Hardware/software partitioning of embedded system in OCAPI-xl.</title>
+<pages>30-35</pages>
+<year>2001</year>
+<crossref>conf/codes/2001</crossref>
+<booktitle>CODES</booktitle>
+<ee>https://doi.org/10.1145/371636.371665</ee>
+<url>db/conf/codes/codes2001.html#VanmeerbeeckSVEB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/GuptaRVBCGKS01" mdate="2020-06-15">
+<author pid="g/RajeshKGupta">Rajesh K. Gupta 0001</author>
+<author pid="17/2521">Shishpal Rawat</author>
+<author pid="92/16">Ingrid Verbauwhede</author>
+<author pid="60/1236">G&#233;rard Berry</author>
+<author pid="15/3784">Ramesh Chandra</author>
+<author pid="g/DanielDGajski">Daniel Gajski</author>
+<author pid="22/2950">Kris Konigsfeld</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<title>Panel: The Next HDL: If C++ is the Answer, What was the Question?</title>
+<pages>71-72</pages>
+<year>2001</year>
+<crossref>conf/dac/2001</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/378239.378330</ee>
+<url>db/conf/dac/dac2001.html#GuptaRVBCGKS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SchaumontVKS01" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author orcid="0000-0002-0879-076X" pid="92/16">Ingrid Verbauwhede</author>
+<author pid="k/KurtKeutzer">Kurt Keutzer</author>
+<author pid="s/MajidSarrafzadeh">Majid Sarrafzadeh</author>
+<title>A Quick Safari Through the Reconfiguration Jungle.</title>
+<pages>172-177</pages>
+<year>2001</year>
+<crossref>conf/dac/2001</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/378239.378404</ee>
+<url>db/conf/dac/dac2001.html#SchaumontVKS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/HaSVELM01" mdate="2020-06-15">
+<author pid="29/3884">Yajun Ha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="55/5766">Rudy Lauwereins</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>A SW/HW Interface API for Java/FPGA Co-Designed Applets.</title>
+<pages>269-270</pages>
+<year>2001</year>
+<booktitle>FCCM</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FCCM.2001.6</ee>
+<ee>http://ieeexplore.ieee.org/document/1420930/</ee>
+<crossref>conf/fccm/2001</crossref>
+<url>db/conf/fccm/fccm2001.html#HaSVELM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HaMSVLM01" mdate="2017-05-21">
+<author pid="29/3884">Yajun Ha</author>
+<author pid="78/3930">Bingfeng Mei</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="55/5766">Rudy Lauwereins</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>Development of a Design Framework for Platform-Independent Networked Reconfiguration of Software and Hardware.</title>
+<pages>264-274</pages>
+<year>2001</year>
+<crossref>conf/fpl/2001</crossref>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1007/3-540-44687-7_28</ee>
+<url>db/conf/fpl/fpl2001.html#HaMSVLM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isss/DoucetGOSS01" mdate="2020-06-15">
+<author pid="65/3943">Frederic Doucet</author>
+<author pid="g/RajeshKGupta">Rajesh K. Gupta 0001</author>
+<author pid="74/4310">Masato Otsuka</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="s/SKShukla">Sandeep K. Shukla</author>
+<title>Interoperability as a design issue in C++ based modeling environments.</title>
+<pages>87-92</pages>
+<year>2001</year>
+<crossref>conf/isss/2001</crossref>
+<booktitle>ISSS</booktitle>
+<url>db/conf/isss/isss2001.html#DoucetGOSS01</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSS.2001.957918</ee>
+<ee>https://doi.org/10.1145/500001.500020</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LennardSJHH00" mdate="2020-06-15">
+<author pid="54/322">Christopher K. Lennard</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="61/514">Gjalt G. de Jong</author>
+<author pid="58/3534">Anssi Haverinen</author>
+<author pid="25/365">Pete Hardee</author>
+<title>Standards for System-Level Design: Practical Reality or Solution in Search of a Question?</title>
+<pages>576-583</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2000.840843</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.2000.840843</ee>
+<ee>https://doi.org/10.1145/343647.343859</ee>
+<url>db/conf/date/date2000.html#LennardSJHH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hldvt/PaskoCSV00" mdate="2020-06-15">
+<author pid="30/6412">Robert Pasko</author>
+<author pid="87/2992">Radim Cmar</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<title>Functional verification of an embedded network component by co-simulation with a real network.</title>
+<pages>64-67</pages>
+<year>2000</year>
+<booktitle>HLDVT</booktitle>
+<ee>https://doi.org/10.1109/HLDVT.2000.889561</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HLDVT.2000.889561</ee>
+<crossref>conf/hldvt/2000</crossref>
+<url>db/conf/hldvt/hldvt2000.html#PaskoCSV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/HaVSEM00" mdate="2003-12-05">
+<author pid="29/3884">Yajun Ha</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="39/1269">Patrick Schaumont</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>Building a Virtual Framework for Networked Reconfigurable Hardware and Software Objects.</title>
+<year>2000</year>
+<crossref>conf/pdpta/2000</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta2000.html#HaVSEM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/HaSEVPRM00" mdate="2020-06-15">
+<author pid="29/3884">Yajun Ha</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="44/5688">Freddy Potargent</author>
+<author pid="78/4253">Luc Rijnders</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>A Hardware Virtual Machine for the Networked Reconfiguration.</title>
+<pages>194-199</pages>
+<year>2000</year>
+<crossref>conf/rsp/2000</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<ee>https://doi.org/10.1109/IWRSP.2000.855224</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWRSP.2000.855224</ee>
+<url>db/conf/rsp/rsp2000.html#HaSEVPRM00</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/PaskoSDVD99" mdate="2020-09-24">
+<author pid="30/6412">Robert Pasko</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="26/5466">Veerle Derudder</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="14/4023">Daniela Durackova</author>
+<title>A new algorithm for elimination of common subexpressions.</title>
+<pages>58-68</pages>
+<year>1999</year>
+<volume>18</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/43.739059</ee>
+<url>db/journals/tcad/tcad18.html#PaskoSDVD99</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/SchaumontCVE99" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="87/2992">Radim Cmar</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<title>A 10 Mbit/s Upstream Cable Modem with Automatic equalization.</title>
+<pages>337-340</pages>
+<year>1999</year>
+<crossref>conf/dac/1999</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/309847.309950</ee>
+<url>db/conf/dac/dac99.html#SchaumontCVE99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SchaumontCVEB99" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="87/2992">Radim Cmar</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>Hardware Reuse at the Behavioral Level.</title>
+<pages>784-789</pages>
+<year>1999</year>
+<crossref>conf/dac/1999</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/309847.310058</ee>
+<url>db/conf/dac/dac99.html#SchaumontCVEB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/CmarRSVB99" mdate="2020-06-15">
+<author pid="87/2992">Radim Cmar</author>
+<author pid="78/4253">Luc Rijnders</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>A Methodology and Design Environment for DSP ASIC Fixed-Point Refinement.</title>
+<pages>271-</pages>
+<year>1999</year>
+<crossref>conf/date/1999</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.1999.761133</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DATE.1999.761133</ee>
+<ee>https://doi.org/10.1145/307418.307503</ee>
+<url>db/conf/date/date1999.html#CmarRSVB99</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/SchaumontVEB98" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>Low Power Digital Frequency Conversion Architectures.</title>
+<pages>187-197</pages>
+<year>1998</year>
+<volume>18</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1023/A:1008092014351</ee>
+<url>db/journals/vlsisp/vlsisp18.html#SchaumontVEB98</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/SchaumontVREB98" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="78/4253">Luc Rijnders</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>A Programming Environment for the Design of Complex High Speed ASICs.</title>
+<pages>315-320</pages>
+<year>1998</year>
+<crossref>conf/dac/1998</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/277044.277135</ee>
+<url>db/conf/dac/dac98.html#SchaumontVREB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/SchaumontVWVEB98" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="32/3091">Geert Vanmeerbeeck</author>
+<author pid="63/5498">E. Watzeels</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>A Technique for Combined Virtual Prototyping and Hardware Design.</title>
+<pages>156-161</pages>
+<year>1998</year>
+<crossref>conf/rsp/1998</crossref>
+<booktitle>International Workshop on Rapid System Prototyping</booktitle>
+<ee>https://doi.org/10.1109/IWRSP.1998.676685</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWRSP.1998.676685</ee>
+<url>db/conf/rsp/rsp1998.html#SchaumontVWVEB98</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/SchaumontVBM97" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="26/3244">Bart Vanthournout</author>
+<author pid="32/880">Ivo Bolsens</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>Synthesis of pipelined DSP accelerators with dynamic scheduling.</title>
+<pages>59-68</pages>
+<year>1997</year>
+<volume>5</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/92.555987</ee>
+<url>db/journals/tvlsi/tvlsi5.html#SchaumontVBM97</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/SchaumontVREB97" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="23/2415">Serge Vernalde</author>
+<author pid="78/4253">Luc Rijnders</author>
+<author pid="87/510">Marc Engels</author>
+<author pid="32/880">Ivo Bolsens</author>
+<title>Synthesis of multi-rate and variable rate circuits for high speed telecommunications applications.</title>
+<pages>542-546</pages>
+<year>1997</year>
+<booktitle>ED&#38;TC</booktitle>
+<ee>https://doi.org/10.1109/EDTC.1997.582414</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EDTC.1997.582414</ee>
+<crossref>conf/date/1997</crossref>
+<url>db/conf/date/edtc1997.html#SchaumontVREB97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isss/PaskoSDD97" mdate="2020-06-15">
+<author pid="30/6412">Robert Pasko</author>
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="26/5466">Veerle Derudder</author>
+<author pid="14/4023">Daniela Durackova</author>
+<title>Optimization Method for Broadband Modem FIR Filter Design using Common Subexpression Elimination.</title>
+<pages>100-106</pages>
+<year>1997</year>
+<crossref>conf/isss/1997</crossref>
+<booktitle>ISSS</booktitle>
+<ee>https://doi.org/10.1109/ISSS.1997.621681</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSS.1997.621681</ee>
+<ee>http://dl.acm.org/citation.cfm?id=261920</ee>
+<url>db/conf/isss/isss1997.html#PaskoSDD97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isss/SchaumontVBM95" mdate="2020-06-15">
+<author orcid="0000-0002-4586-5476" pid="39/1269">Patrick Schaumont</author>
+<author pid="26/3244">Bart Vanthournout</author>
+<author pid="32/880">Ivo Bolsens</author>
+<author pid="04/2377">Hugo De Man</author>
+<title>Synthesis of pipelined DSP accelerators with dynamic scheduling.</title>
+<pages>72-77</pages>
+<year>1995</year>
+<crossref>conf/isss/1995</crossref>
+<booktitle>ISSS</booktitle>
+<ee>https://doi.org/10.1145/224486.224503</ee>
+<ee>https://doi.org/10.1109/ISSS.1995.520615</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSS.1995.520615</ee>
+<url>db/conf/isss/isss1995.html#SchaumontVBM95</url>
+</inproceedings>
+</r>
+<coauthors n="258" nc="4">
+<co c="0"><na f="a/Abadir:Magdy_S=" pid="85/1962">Magdy S. Abadir</na></co>
+<co c="0"><na f="a/Ahmadi:Mohsen" pid="141/3556">Mohsen Ahmadi</na></co>
+<co c="0"><na f="a/Ahuja:Sumit" pid="79/1270">Sumit Ahuja</na></co>
+<co c="0"><na f="a/Albert:Curt" pid="137/6379">Curt Albert</na></co>
+<co c="0"><na f="a/Alioto:Massimo" pid="48/4750">Massimo Alioto</na></co>
+<co c="0"><na f="a/Arora:Divya" pid="93/1659">Divya Arora</na></co>
+<co c="0"><na f="a/Arslan:Tughrul" pid="32/362">Tughrul Arslan</na></co>
+<co c="0"><na f="a/Asanovic:Krste" pid="a/KrsteAsanovic">Krste Asanovic</na></co>
+<co c="0"><na f="a/Avasare:Prabhat" pid="73/1036">Prabhat Avasare</na></co>
+<co c="0"><na f="a/Aysu:Aydin" pid="39/9049">Aydin Aysu</na></co>
+<co c="0"><na f="b/Batina:Lejla" pid="67/1939">Lejla Batina</na></co>
+<co c="0"><na f="b/Belenky:Yaacov" pid="125/0193">Yaacov Belenky</na></co>
+<co c="0"><na f="b/Bendre:Abhishek" pid="242/3469">Abhishek Bendre</na></co>
+<co c="0"><na f="b/Berry:G=eacute=rard" pid="60/1236">G&#233;rard Berry</na></co>
+<co c="0"><na f="b/Bertoni:Guido" pid="b/GuidoBertoni">Guido Bertoni</na></co>
+<co c="0"><na f="b/Bhunia:Swarup" pid="75/4629">Swarup Bhunia</na></co>
+<co c="0"><na f="b/Bloem:Roderick" pid="80/1300">Roderick Bloem</na></co>
+<co c="0"><na f="b/Bolsens:Ivo" pid="32/880">Ivo Bolsens</na></co>
+<co c="0"><na f="b/Boon:Chirn_Chye" pid="24/8747">Chirn Chye Boon</na></co>
+<co c="0"><na f="b/Breunesse:Cees=Bart" pid="18/2138">Cees-Bart Breunesse</na></co>
+<co c="0"><na f="b/Buck:Scott" pid="175/6476">Scott Buck</na></co>
+<co c="0" n="2"><na f="b/Burg:Andreas_Peter" pid="69/9547">Andreas Peter Burg</na><na>Andreas Burg</na></co>
+<co c="0"><na f="c/Canetti:Ran" pid="c/RanCanetti">Ran Canetti</na></co>
+<co c="0"><na f="c/Casarona:Jeff" pid="55/9413">Jeff Casarona</na></co>
+<co c="0"><na f="c/Chakraborty:Rajat_Subhra" pid="05/1579">Rajat Subhra Chakraborty</na></co>
+<co c="0"><na f="c/Chan:Herwin" pid="21/3811">Herwin Chan</na></co>
+<co c="0"><na f="c/Chandra:Ramesh" pid="15/3784">Ramesh Chandra</na></co>
+<co c="0"><na f="c/Chang:Chip=Hong" pid="95/137">Chip-Hong Chang</na></co>
+<co c="0"><na f="c/Chang:Meng=Fan" pid="89/6934">Meng-Fan Chang</na></co>
+<co c="0"><na f="c/Chang:Yao=Wen" pid="c/YaoWenChang">Yao-Wen Chang</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chen:Poki" pid="92/2960">Poki Chen</na></co>
+<co c="0"><na f="c/Chen_0002:Zhimin" pid="08/6318-2">Zhimin Chen 0002</na></co>
+<co c="1"><na f="c/Cheng:Xiang" pid="29/1059">Xiang Cheng</na></co>
+<co c="0"><na f="c/Ching:Doris" pid="66/4101">Doris Ching</na></co>
+<co c="0"><na f="c/Chong:Stephen" pid="13/2794">Stephen Chong</na></co>
+<co c="0"><na f="c/Cmar:Radim" pid="87/2992">Radim Cmar</na></co>
+<co c="0"><na f="c/Coene:Paul" pid="56/4414">Paul Coene</na></co>
+<co c="3"><na f="c/Conroy:Thomas" pid="225/9173">Thomas Conroy</na></co>
+<co c="0"><na f="c/Corsonello:Pasquale" pid="52/4718">Pasquale Corsonello</na></co>
+<co c="0"><na f="c/Crovetti:Paolo" pid="228/3712">Paolo Crovetti</na></co>
+<co c="0"><na f="d/Dagand:Pierre==Eacute=variste" pid="50/3978">Pierre-&#201;variste Dagand</na></co>
+<co c="0"><na f="d/Datta:Anupam" pid="d/AnupamDatta">Anupam Datta</na></co>
+<co c="0"><na f="d/Decneut:Stijn" pid="51/1127">Stijn Decneut</na></co>
+<co c="0"><na f="d/Derudder:Veerle" pid="26/5466">Veerle Derudder</na></co>
+<co c="0"><na f="d/Desai:Avinash" pid="137/6364">Avinash Desai</na></co>
+<co c="0"><na f="d/Deshpande:Chinmay" pid="184/9851">Chinmay Deshpande</na></co>
+<co c="0"><na f="d/Desmet:Dirk" pid="04/4255">Dirk Desmet</na></co>
+<co c="0"><na f="d/Dey:Soumyajit" pid="89/4589">Soumyajit Dey</na></co>
+<co c="0"><na f="d/Dijk:Marten_van" pid="32/1399">Marten van Dijk</na></co>
+<co c="1"><na f="d/Dinu:Daniel" pid="160/3879">Daniel Dinu</na></co>
+<co c="0"><na f="d/Dosho:Shiro" pid="34/5004">Shiro Dosho</na></co>
+<co c="0"><na f="d/Doucet:Frederic" pid="65/3943">Frederic Doucet</na></co>
+<co c="0"><na f="d/Drechsler:Rolf" pid="d/RolfDrechsler">Rolf Drechsler</na></co>
+<co c="0"><na f="d/Durackova:Daniela" pid="14/4023">Daniela Durackova</na></co>
+<co c="0"><na f="e/Ege:Baris" pid="11/8780">Baris Ege</na></co>
+<co c="0"><na f="e/Eisenbarth_0001:Thomas" pid="72/817">Thomas Eisenbarth 0001</na></co>
+<co c="0"><na f="e/Eldib:Hassan" pid="138/2493">Hassan Eldib</na></co>
+<co c="0" n="2"><na f="e/Elfadel:Ibrahim_M=" pid="29/2561">Ibrahim M. Elfadel</na><na>Ibrahim Abe M. Elfadel</na></co>
+<co c="0"><na f="e/Engels:Marc" pid="87/510">Marc Engels</na></co>
+<co c="0"><na f="f/Fan:Junfeng" pid="36/2152">Junfeng Fan</na></co>
+<co c="0"><na f="f/Fan:Yi" pid="10/2921">Yi Fan</na></co>
+<co c="0"><na f="f/Fei:Yunsi" pid="67/5667">Yunsi Fei</na></co>
+<co c="0"><na f="f/Franklin:Zane_R=" pid="141/9237">Zane R. Franklin</na></co>
+<co c="0"><na f="g/Gaddam:Shravya" pid="179/3001">Shravya Gaddam</na></co>
+<co c="0"><na f="g/Gajski:Daniel" pid="g/DanielDGajski">Daniel Gajski</na></co>
+<co c="0"><na f="g/Ganta:Dinesh" pid="00/10492">Dinesh Ganta</na></co>
+<co c="0"><na f="g/Ghalaty:Nahid_Farhady" pid="73/10032">Nahid Farhady Ghalaty</na></co>
+<co c="0"><na f="g/Ghodrati:Marjan" pid="221/2842">Marjan Ghodrati</na></co>
+<co c="0"><na f="g/Gora:Michael_A=" pid="26/8820">Michael A. Gora</na></co>
+<co c="0"><na f="g/Gujar:Surabhi" pid="221/2873">Surabhi Gujar</na></co>
+<co c="0"><na f="g/Gulcan:Ege" pid="145/1616">Ege Gulcan</na></co>
+<co c="2"><na f="g/Guler:Ulkuhan" pid="232/8253">Ulkuhan Guler</na></co>
+<co c="0"><na f="g/G=uuml=neysu:Tim" pid="50/6307">Tim G&#252;neysu</na></co>
+<co c="0"><na f="g/Gunreddy:Vikash" pid="66/10733">Vikash Gunreddy</na></co>
+<co c="0"><na f="g/Guo:Shengjian" pid="162/3606">Shengjian Guo</na></co>
+<co c="0"><na f="g/Guo:Xu" pid="46/5508">Xu Guo</na></co>
+<co c="0"><na f="g/Gupta_0001:Rajesh_K=" pid="g/RajeshKGupta">Rajesh K. Gupta 0001</na></co>
+<co c="0"><na f="g/Guttman:Joshua_D=" pid="91/7024">Joshua D. Guttman</na></co>
+<co c="0"><na f="g/Gyvez:Jos=eacute=_Pineda_de" pid="44/4622">Jos&#233; Pineda de Gyvez</na></co>
+<co c="0"><na f="h/Ha:Yajun" pid="29/3884">Yajun Ha</na></co>
+<co c="0"><na f="h/Haider:Syed" pid="87/1410">Syed Haider</na></co>
+<co c="0"><na f="h/Han_0001:Ruonan" pid="59/10181-1">Ruonan Han 0001</na></co>
+<co c="0"><na f="h/Hardee:Pete" pid="25/365">Pete Hardee</na></co>
+<co c="0"><na f="h/Hashimoto:Masanori" pid="81/317">Masanori Hashimoto</na></co>
+<co c="0"><na f="h/Haverinen:Anssi" pid="58/3534">Anssi Haverinen</na></co>
+<co c="0"><na f="h/Hendrickx:Filip" pid="15/6137">Filip Hendrickx</na></co>
+<co c="0"><na f="h/Heng:Chun=Huat" pid="61/2657">Chun-Huat Heng</na></co>
+<co c="0"><na f="h/Henry:Michael_B=" pid="70/4569">Michael B. Henry</na></co>
+<co c="0" n="2"><na f="h/Heo:Deuk_Hyoun" pid="17/5234">Deuk Hyoun Heo</na><na>Deukhyoun Heo</na></co>
+<co c="0"><na f="h/Heuser:Annelie" pid="68/10491">Annelie Heuser</na></co>
+<co c="0"><na f="h/Heydemann:Karine" pid="12/296">Karine Heydemann</na></co>
+<co c="1"><na f="h/Hirve:Sachin" pid="33/9465">Sachin Hirve</na></co>
+<co c="0"><na f="h/Ho:Tsung=Yi" pid="63/4181">Tsung-Yi Ho</na></co>
+<co c="0"><na f="h/Hodjat:Alireza" pid="30/3119">Alireza Hodjat</na></co>
+<co c="0"><na f="h/Hoe:James_C=" pid="33/3960">James C. Hoe</na></co>
+<co c="0"><na f="h/Holcomb:Daniel_E=" pid="67/7583">Daniel E. Holcomb</na></co>
+<co c="0"><na f="h/Homayoun:Houman" pid="63/3012">Houman Homayoun</na></co>
+<co c="0"><na f="h/Huang:Sinan" pid="84/9413">Sinan Huang</na></co>
+<co c="0" n="2"><na f="h/Hwang_0001:David" pid="96/6305">David Hwang 0001</na><na>David D. Hwang</na></co>
+<co c="0"><na f="h/Hwang:Yuh=Shyan" pid="01/4852">Yuh-Shyan Hwang</na></co>
+<co c="1"><na f="i/Iyer:Srikrishna" pid="41/9465">Srikrishna Iyer</na></co>
+<co c="0"><na f="j/Jones:Alex_K=" pid="j/AKJones">Alex K. Jones</na></co>
+<co c="0"><na f="j/Jong:Gjalt_G=_de" pid="61/514">Gjalt G. de Jong</na></co>
+<co c="0"><na f="j/Joshi:Ajay" pid="23/3290">Ajay Joshi</na></co>
+<co c="0"><na f="j/Joshi:Rajiv_V=" pid="42/5976">Rajiv V. Joshi</na></co>
+<co c="0"><na f="j/Judge:Lyndon" pid="47/10774">Lyndon Judge</na></co>
+<co c="0"><na f="k/Kannavara:Raghudeep" pid="99/11465">Raghudeep Kannavara</na></co>
+<co c="0"><na f="k/Karnik:Tanay" pid="06/4638">Tanay Karnik</na></co>
+<co c="0"><na f="k/Kathuria:Tarun" pid="173/4933">Tarun Kathuria</na></co>
+<co c="0"><na f="k/Katzenbeisser_0001:Stefan" pid="66/3585-1">Stefan Katzenbeisser 0001</na></co>
+<co c="0"><na f="k/Kavun:Elif_Bilge" pid="00/8569">Elif Bilge Kavun</na></co>
+<co c="0"><na f="k/Kermani:Mehran_Mozaffari" pid="85/5526">Mehran Mozaffari Kermani</na></co>
+<co c="0"><na f="k/Keutzer:Kurt" pid="k/KurtKeutzer">Kurt Keutzer</na></co>
+<co c="0"><na f="k/Kiaei:Pantea" pid="244/9095">Pantea Kiaei</na></co>
+<co c="0"><na f="k/Kienhuis:Bart" pid="07/2320">Bart Kienhuis</na></co>
+<co c="0"><na f="k/Kim:Chulwoo" pid="63/5400">Chulwoo Kim</na></co>
+<co c="0"><na f="k/Kim:Inyoung" pid="59/681">Inyoung Kim</na></co>
+<co c="0"><na f="k/Kim:Tony_Tae=Hyoung" pid="125/7918">Tony Tae-Hyoung Kim</na></co>
+<co c="0"><na f="k/Knechtel:Johann" pid="94/9547">Johann Knechtel</na></co>
+<co c="0"><na f="k/Kochepasov:Anton" pid="265/8695">Anton Kochepasov</na></co>
+<co c="0"><na f="k/Konigsfeld:Kris" pid="22/2950">Kris Konigsfeld</na></co>
+<co c="1"><na f="k/Krishnan:Archanaa_S=" pid="212/9543">Archanaa S. Krishnan</na></co>
+<co c="0" n="2"><na f="k/Kulkarni:Jaydeep_P=" pid="18/1691">Jaydeep P. Kulkarni</na><na>Jaydeep Kulkarni</na></co>
+<co c="0"><na f="k/Kuo:Henry" pid="19/5887">Henry Kuo</na></co>
+<co c="0"><na f="k/Kursun:Volkan" pid="70/355">Volkan Kursun</na></co>
+<co c="0" n="2"><na f="l/Lai:Bo=Cheng" pid="l/BoChengLai">Bo-Cheng Lai</na><na>Bo-Cheng Charles Lai</na></co>
+<co c="0"><na f="l/Lauwereins:Rudy" pid="55/5766">Rudy Lauwereins</na></co>
+<co c="0"><na f="l/Lee:Ruby_B=" pid="87/4706">Ruby B. Lee</na></co>
+<co c="0"><na f="l/Lee:Yoonmyung" pid="60/7551">Yoonmyung Lee</na></co>
+<co c="0"><na f="l/Lennard:Christopher_K=" pid="54/322">Christopher K. Lennard</na></co>
+<co c="0"><na f="l/Levi:Itamar" pid="119/4177">Itamar Levi</na></co>
+<co c="0"><na f="l/Li:Hai_Helen" pid="30/5330-1">Hai Helen Li</na></co>
+<co c="0"><na f="l/Li:Huawei" pid="70/576">Huawei Li</na></co>
+<co c="0"><na f="m/Maiti:Abhranil" pid="26/1513">Abhranil Maiti</na></co>
+<co c="0"><na f="m/Maleki:Hoda" pid="139/6506">Hoda Maleki</na></co>
+<co c="0"><na f="m/Man:Hugo_De" pid="04/2377">Hugo De Man</na></co>
+<co c="0"><na f="m/Mandadi:Harsha" pid="179/2887">Harsha Mandadi</na></co>
+<co c="0"><na f="m/Mane:Deepak_Hanamant" pid="137/6384">Deepak Hanamant Mane</na></co>
+<co c="0"><na f="m/Mane:Suvarna" pid="03/10775">Suvarna Mane</na></co>
+<co c="0"><na f="m/Mangard:Stefan" pid="91/4831">Stefan Mangard</na></co>
+<co c="0"><na f="m/Maniatakos:Michail" pid="56/1494">Michail Maniatakos</na></co>
+<co c="0"><na f="m/Marescaux:Th=eacute=odore" pid="76/2681">Th&#233;odore Marescaux</na></co>
+<co c="0"><na f="m/Matsuoka:Yusuke" pid="16/3371">Yusuke Matsuoka</na></co>
+<co c="0"><na f="m/Matyas:Vashek" pid="97/3759">Vashek Matyas</na></co>
+<co c="0"><na f="m/McDougall:Logan" pid="30/10313">Logan McDougall</na></co>
+<co c="0"><na f="m/McHale:Luke" pid="78/9413">Luke McHale</na></co>
+<co c="0"><na f="m/Mei:Bingfeng" pid="78/3930">Bingfeng Mei</na></co>
+<co c="0"><na f="m/Mercadier:Darius" pid="214/7961">Darius Mercadier</na></co>
+<co c="0"><na f="m/Mignolet:Jean=Yves" pid="63/3555">Jean-Yves Mignolet</na></co>
+<co c="0"><na f="m/Mishra_0001:Prabhat" pid="m/PrabhatMishra">Prabhat Mishra 0001</na></co>
+<co c="0"><na f="m/Mohammad:Baker" pid="54/3227">Baker Mohammad</na></co>
+<co c="0"><na f="m/Monchiero:Matteo" pid="m/MatteoMonchiero">Matteo Monchiero</na></co>
+<co c="0"><na f="m/Montuschi:Paolo" pid="68/2893">Paolo Montuschi</na></co>
+<co c="0"><na f="m/Moriyama:Daisuke" pid="16/7525">Daisuke Moriyama</na></co>
+<co c="0" n="2"><na f="m/Morozov:S=_P=" pid="246/4669">S. P. Morozov</na><na>Sergey Morozov</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Debdeep" pid="85/3079">Debdeep Mukhopadhyay</na></co>
+<co c="0"><na f="m/Mulder:Elke_De" pid="40/2773">Elke De Mulder</na></co>
+<co c="0"><na f="m/Myers:Andrew_C=" pid="m/AndrewCMyers">Andrew C. Myers</na></co>
+<co c="0"><na f="n/Nagata:Makoto" pid="95/2029">Makoto Nagata</na></co>
+<co c="0"><na f="n/Nagesh:Raghunandan" pid="16/1448">Raghunandan Nagesh</na></co>
+<co c="0"><na f="n/Nazhandali:Leyla" pid="56/838">Leyla Nazhandali</na></co>
+<co c="0"><na f="n/Nii:Koji" pid="52/5799">Koji Nii</na></co>
+<co c="0"><na f="o/O=Neill:M=aacute=ire" pid="m/MaireMcLoone">M&#225;ire O'Neill</na></co>
+<co c="0"><na f="o/Orshansky:Michael" pid="38/3999">Michael Orshansky</na></co>
+<co c="0"><na f="o/Otsuka:Masato" pid="74/4310">Masato Otsuka</na></co>
+<co c="0"><na f="p/Pabbuleti:Krishna_Chaitanya" pid="137/6361">Krishna Chaitanya Pabbuleti</na></co>
+<co c="0"><na f="p/Palermo:Gianluca" pid="87/565">Gianluca Palermo</na></co>
+<co c="1"><na f="p/Pan:Zhenhe" pid="154/3606">Zhenhe Pan</na></co>
+<co c="0"><na f="p/Pande:Partha_Pratim" pid="17/7010">Partha Pratim Pande</na></co>
+<co c="0"><na f="p/Pasko:Robert" pid="30/6412">Robert Pasko</na></co>
+<co c="0"><na f="p/Patrick:Conor" pid="184/9844">Conor Patrick</na></co>
+<co c="0"><na f="p/Patterson:Cameron" pid="63/2048">Cameron Patterson</na></co>
+<co c="0" n="2"><na f="p/Paul:Bipul_Chandra" pid="p/BipulChandraPaul">Bipul Chandra Paul</na><na>Bipul C. Paul</na></co>
+<co c="0"><na f="p/Pavlidis:Vasilis_F=" pid="43/3714">Vasilis F. Pavlidis</na></co>
+<co c="0"><na f="p/Perez:Ronald" pid="52/5603">Ronald Perez</na></co>
+<co c="0"><na f="p/Pierce:Benjamin_C=" pid="p/BenjaminCPierce">Benjamin C. Pierce</na></co>
+<co c="0"><na f="p/Piguet:Christian" pid="29/5753">Christian Piguet</na></co>
+<co c="0"><na f="p/Pinto:Carol" pid="179/2995">Carol Pinto</na></co>
+<co c="0"><na f="p/Polian:Ilia" pid="94/4552">Ilia Polian</na></co>
+<co c="0"><na f="p/Potargent:Freddy" pid="44/5688">Freddy Potargent</na></co>
+<co c="0"><na f="p/Preneel:Bart" pid="p/BartPreneel">Bart Preneel</na></co>
+<co c="0"><na f="p/Prouff:Emmanuel" pid="62/4866">Emmanuel Prouff</na></co>
+<co c="0"><na f="q/Qin:Wei" pid="79/4816">Wei Qin</na></co>
+<co c="0"><na f="r/Raghunathan:Anand" pid="74/3747">Anand Raghunathan</na></co>
+<co c="-1"><na f="r/Rawat:Hemendra_K=" pid="184/9828">Hemendra K. Rawat</na></co>
+<co c="0"><na f="r/Rawat:Shishpal" pid="17/2521">Shishpal Rawat</na></co>
+<co c="0"><na f="r/Reddy:Anand" pid="29/6510">Anand Reddy</na></co>
+<co c="0"><na f="r/Regazzoni_0001:Francesco" pid="31/1489-1">Francesco Regazzoni 0001</na></co>
+<co c="0"><na f="r/Reyhani=Masoleh:Arash" pid="22/2829">Arash Reyhani-Masoleh</na></co>
+<co c="0"><na f="r/Rijnders:Luc" pid="78/4253">Luc Rijnders</na></co>
+<co c="0"><na f="r/R=uuml=hrmair:Ulrich" pid="50/7968">Ulrich R&#252;hrmair</na></co>
+<co c="0"><na f="s/Sakiyama:Kazuo" pid="04/4429">Kazuo Sakiyama</na></co>
+<co c="0"><na f="s/Santapuri:Harika" pid="191/7240">Harika Santapuri</na></co>
+<co c="0"><na f="s/Santillan:Edgar_Mateos" pid="200/4816">Edgar Mateos Santillan</na></co>
+<co c="0"><na f="s/Sarrafzadeh:Majid" pid="s/MajidSarrafzadeh">Majid Sarrafzadeh</na></co>
+<co c="0"><na f="s/Savidis:Ioannis" pid="37/3387">Ioannis Savidis</na></co>
+<co c="0"><na f="s/Sebastiano:Fabio" pid="54/224">Fabio Sebastiano</na></co>
+<co c="0"><na f="s/Seifert:Jean=Pierre" pid="98/117">Jean-Pierre Seifert</na></co>
+<co c="0"><na f="s/Sengupta:Anirban" pid="37/258">Anirban Sengupta</na></co>
+<co c="0"><na f="s/Seok:Mingoo" pid="64/3916">Mingoo Seok</na></co>
+<co c="0" n="2"><na f="s/Sherwood:Timothy" pid="23/3778">Timothy Sherwood</na><na>Tim Sherwood</na></co>
+<co c="0"><na f="s/Shukla:Sandeep_K=" pid="s/SKShukla">Sandeep K. Shukla</na></co>
+<co c="0"><na f="s/Simpson:Eric" pid="72/5397">Eric Simpson</na></co>
+<co c="3"><na f="s/Singh:Richa" pid="281/9515">Richa Singh</na></co>
+<co c="0"><na f="s/Sinha:Ambuj" pid="61/9049">Ambuj Sinha</na></co>
+<co c="0"><na f="s/Smith:Michael_A=" pid="26/3536">Michael A. Smith</na></co>
+<co c="2"><na f="s/Soysal:Betul" pid="207/9648">Betul Soysal</na></co>
+<co c="0"><na f="s/Srivastav:Meeta" pid="97/5456">Meeta Srivastav</na></co>
+<co c="0"><na f="s/Stan:Mircea_R=" pid="s/MirceaRStan">Mircea R. Stan</na></co>
+<co c="0"><na f="s/Stecyk:Steve" pid="274/3891">Steve Stecyk</na></co>
+<co c="1"><na f="s/Suslowicz:Charles" pid="212/9496">Charles Suslowicz</na></co>
+<co c="0"><na f="t/Taha:Mostafa_M=_I=" pid="33/3884">Mostafa M. I. Taha</na></co>
+<co c="1"><na f="t/Tang:Yi" pid="88/3775">Yi Tang</na></co>
+<co c="0"><na f="t/Tehranipoor:Mark_Mohammad" pid="t/MohammadTehranipoor">Mark Mohammad Tehranipoor</na></co>
+<co c="0"><na f="t/Tergino:Christian" pid="124/3155">Christian Tergino</na></co>
+<co c="0"><na f="t/Tiri:Kris" pid="78/1551">Kris Tiri</na></co>
+<co c="0" n="2"><na f="t/Todri:Aida" pid="03/5894">Aida Todri</na><na>Aida Todri-Sanial</na></co>
+<co c="0" n="2"><na f="t/Trimberger:Steven" pid="98/1488">Steven Trimberger</na><na>Steve Trimberger</na></co>
+<co c="0"><na f="t/Tunstall:Michael" pid="55/2065">Michael Tunstall</na></co>
+<co c="2"><na f="v/Vakhter:Vladimir" pid="274/5119">Vladimir Vakhter</na></co>
+<co c="0"><na f="v/Vanmeerbeeck:Geert" pid="32/3091">Geert Vanmeerbeeck</na></co>
+<co c="0"><na f="v/Vanthournout:Bart" pid="26/3244">Bart Vanthournout</na></co>
+<co c="0"><na f="v/Verbauwhede:Ingrid" pid="92/16">Ingrid Verbauwhede</na></co>
+<co c="0"><na f="v/Verhelst:Marian" pid="92/3233">Marian Verhelst</na></co>
+<co c="0"><na f="v/Verkest:Diederik" pid="93/763">Diederik Verkest</na></co>
+<co c="0"><na f="v/Vernalde:Serge" pid="23/2415">Serge Vernalde</na></co>
+<co c="0"><na f="v/Vignoli:Valerio" pid="94/5904">Valerio Vignoli</na></co>
+<co c="0"><na f="v/Villa:Oreste" pid="08/3380">Oreste Villa</na></co>
+<co c="0"><na f="v/Vivekraja:Vignesh" pid="86/7837">Vignesh Vivekraja</na></co>
+<co c="0"><na f="w/Wang_0001:Chao" pid="w/ChaoWang">Chao Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0014:Ye" pid="44/6292-14">Ye Wang 0014</na></co>
+<co c="0"><na f="w/Watzeels:E=" pid="63/5498">E. Watzeels</na></co>
+<co c="0"><na f="w/Weber:Stacey" pid="192/3907">Stacey Weber</na></co>
+<co c="0"><na f="w/Wegryn:Luke" pid="179/3024">Luke Wegryn</na></co>
+<co c="0"><na f="w/Wen:Xiaoqing" pid="38/3836">Xiaoqing Wen</na></co>
+<co c="0"><na f="w/Witteman:Marc" pid="167/3164">Marc Witteman</na></co>
+<co c="0"><na f="w/Woudenberg:Jasper_Van" pid="274/4884">Jasper Van Woudenberg</na></co>
+<co c="0"><na f="w/Wu:Meng" pid="19/5921">Meng Wu</na></co>
+<co c="0"><na f="x/Xu_0001:Jiang" pid="20/4396-1">Jiang Xu 0001</na></co>
+<co c="0"><na f="y/Yali:Moein_Pahlavan" pid="163/8491">Moein Pahlavan Yali</na></co>
+<co c="1"><na f="y/Yang:Hanchao" pid="162/4998">Hanchao Yang</na></co>
+<co c="0"><na f="y/Yang:Mo" pid="91/7667">Mo Yang</na></co>
+<co c="0"><na f="y/Yang:Shenglin" pid="52/1380">Shenglin Yang</na></co>
+<co c="1"><na f="y/Yang:Yaling" pid="10/3200">Yaling Yang</na></co>
+<co c="0"><na f="y/Yao:Yuan" pid="25/4120">Yuan Yao</na></co>
+<co c="0"><na f="y/Yu:Pengyuan" pid="71/3079">Pengyuan Yu</na></co>
+<co c="0"><na f="y/Yuce:Bilgiday" pid="131/5132">Bilgiday Yuce</na></co>
+<co c="0"><na f="y/Yung:Moti" pid="y/MotiYung">Moti Yung</na></co>
+<co c="0"><na f="z/Zeldovich:Nickolai" pid="99/5780">Nickolai Zeldovich</na></co>
+<co c="0"><na f="z/Zhang:Huaiye" pid="134/0467">Huaiye Zhang</na></co>
+<co c="1"><na f="z/Zhang:Jingyao" pid="81/4634">Jingyao Zhang</na></co>
+<co c="0"><na f="z/Zhang_0012:Wei" pid="10/4661-12">Wei Zhang 0012</na></co>
+<co c="0"><na f="z/Zhang:Zhengya" pid="17/5332">Zhengya Zhang</na></co>
+<co c="1"><na f="z/Zheng:Xiangwei" pid="49/4294">Xiangwei Zheng</na></co>
+<co c="0"><na f="z/Zhou_0017:Jun" pid="99/3847-17">Jun Zhou 0017</na></co>
+<co c="0"><na f="z/Zuo:Yongbo" pid="130/4208">Yongbo Zuo</na></co>
+<co c="0"><na f="z/Zwolinski:Mark" pid="99/2370">Mark Zwolinski</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,3432 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a27090fe71f80acd8285db2749193e183e814bc35ae75da54b58d8b4d079339
-size 154012
+<?xml version="1.0"?>
+<dblpperson name="Richard M. Fujimoto" pid="f/RichardMFujimoto" n="224">
+<person key="homepages/f/RichardMFujimoto" mdate="2016-02-03">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<note type="affiliation">Georgia Institute of Technology, Atlanta, USA</note>
+<url>http://www.cc.gatech.edu/fac/Richard.Fujimoto/homepage.html</url>
+</person>
+<r><article key="journals/jos/Fujimoto20" mdate="2020-12-04">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Power consumption in modelling and simulation.</title>
+<pages>157-168</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>J. Simulation</journal>
+<number>3</number>
+<ee>https://doi.org/10.1080/17477778.2019.1675482</ee>
+<url>db/journals/jos/jos14.html#Fujimoto20</url>
+</article>
+</r>
+<r><article key="journals/simulation/KimMF19" mdate="2020-06-08">
+<author orcid="0000-0003-2976-3047" pid="00/8110-1">Young Jin Kim 0001</author>
+<author pid="09/1051">Dimitri Mavris</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Time- and space-parallel simulation of air traffic networks.</title>
+<year>2019</year>
+<volume>95</volume>
+<journal>Simul.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1177/0037549719831358</ee>
+<url>db/journals/simulation/simulation95.html#KimMF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/pads/BiswasF18" mdate="2018-11-21">
+<author pid="163/8631">Aradhya Biswas</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Zero Energy Synchronization of Distributed Simulations.</title>
+<pages>85-96</pages>
+<year>2018</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/3200921.3200938</ee>
+<crossref>conf/pads/2018</crossref>
+<url>db/conf/pads/pads2018.html#BiswasF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PecherCLF18" mdate="2018-11-21">
+<author pid="148/6302">Philip Pecher</author>
+<author pid="52/4901">John Crittenden</author>
+<author pid="175/4646">Zhongming Lu</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Granular Cloning: Intra-Object Parallelism in Ensemble Studies.</title>
+<pages>165-176</pages>
+<year>2018</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/3200921.3200927</ee>
+<crossref>conf/pads/2018</crossref>
+<url>db/conf/pads/pads2018.html#PecherCLF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/springsim/RobinsonCLF18" mdate="2018-05-22">
+<author pid="194/7729">Caleb Robinson</author>
+<author pid="52/4901">John Crittenden</author>
+<author pid="175/4646">Zhongming Lu</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Toward a common object model for integrated transportation and land use models.</title>
+<pages>5:1-5:12</pages>
+<year>2018</year>
+<booktitle>SpringSim (ANSS)</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3213037</ee>
+<crossref>conf/springsim/2018anss</crossref>
+<url>db/conf/springsim/anss2018.html#RobinsonCLF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/springsim/NealF18" mdate="2018-05-22">
+<author pid="146/9426">Sabra A. Neal</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Power consumption of future event list implementations in discrete event simulations.</title>
+<pages>9:1-9:11</pages>
+<year>2018</year>
+<booktitle>SpringSim (ANSS)</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3213041</ee>
+<crossref>conf/springsim/2018anss</crossref>
+<url>db/conf/springsim/anss2018.html#NealF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/BiswasFH18" mdate="2019-03-28">
+<author pid="163/8631">Aradhya Biswas</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>Energy Efficient Middleware for Dynamic Data Driven Application Systems.</title>
+<pages>628-639</pages>
+<year>2018</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2018.8632433</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3320601</ee>
+<crossref>conf/wsc/2018</crossref>
+<url>db/conf/wsc/wsc2018.html#BiswasFH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FujimotoBBCJLS18" mdate="2020-06-10">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="b/JosephBarjis">Joseph Barjis</author>
+<author pid="01/4960">Erik Blasch</author>
+<author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
+<author pid="66/360">Dong Jin</author>
+<author pid="92/8746">Seunghan Lee</author>
+<author pid="82/5854">Young-Jun Son</author>
+<title>Dynamic Data Driven Application Systems: Research Challenges and Opportunities.</title>
+<pages>664-678</pages>
+<year>2018</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2018.8632379</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3320605</ee>
+<crossref>conf/wsc/2018</crossref>
+<url>db/conf/wsc/wsc2018.html#FujimotoBBCJLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/SarojRGHF18" mdate="2020-10-25">
+<author pid="235/4193">Abhilasha Saroj</author>
+<author pid="235/4403">Somdut Roy</author>
+<author orcid="0000-0001-6949-5126" pid="15/6848">Angshuman Guin</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Smart City Real-Time Data-Driven Transportation simulation.</title>
+<pages>857-868</pages>
+<year>2018</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2018.8632198</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3320627</ee>
+<crossref>conf/wsc/2018</crossref>
+<url>db/conf/wsc/wsc2018.html#SarojRGHF18</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/sp/HunterBCGFGLLNPR18" mdate="2018-11-29">
+<author pid="49/1042">Michael Hunter</author>
+<author pid="163/8631">Aradhya Biswas</author>
+<author pid="149/8217">Bhargava R. Chilukuri</author>
+<author pid="15/6848">Angshuman Guin</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="98/7877">Jorge A. Laval</author>
+<author pid="230/7127">Haobing Liu</author>
+<author pid="146/9426">Sabra Neal</author>
+<author pid="148/6302">Philip Pecher</author>
+<author pid="119/5693">Michael O. Rodgers</author>
+<title>Energy-Aware Dynamic Data-Driven Distributed Traffic Simulation for Energy and Emissions Reduction.</title>
+<pages>467-487</pages>
+<year>2018</year>
+<booktitle>Handbook of Dynamic Data Driven Applications Systems</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-95504-9_20</ee>
+<crossref>reference/sp/2018dddas</crossref>
+<url>db/reference/sp/dddas2018.html#HunterBCGFGLLNPR18</url>
+</incollection>
+</r>
+<r><article key="journals/jos/BiswasF17" mdate="2017-09-26">
+<author pid="163/8631">Aradhya Biswas</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Energy consumption of synchronization algorithms in distributed simulations.</title>
+<pages>242-252</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>J. Simulation</journal>
+<number>3</number>
+<ee>https://doi.org/10.1057/s41273-016-0036-7</ee>
+<url>db/journals/jos/jos11.html#BiswasF17</url>
+</article>
+</r>
+<r><article key="journals/jos/LeeAF17" mdate="2017-10-25">
+<author pid="199/6941">Judy S. Lee</author>
+<author pid="41/4916">Sigr&#250;n Andrad&#243;ttir</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Simulation cloning with induced negative correlation.</title>
+<pages>391-406</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>J. Simulation</journal>
+<number>4</number>
+<ee>https://doi.org/10.1057/s41273-016-0028-7</ee>
+<url>db/journals/jos/jos11.html#LeeAF17</url>
+</article>
+</r>
+<r><article key="journals/mta/SuhHGGHF17" mdate="2020-10-26">
+<author orcid="0000-0003-0803-024X" pid="99/1274">Wonho Suh</author>
+<author pid="77/1763">Dwayne Henclewood</author>
+<author orcid="0000-0001-6949-5126" pid="15/6848">Angshuman Guin</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Dynamic data driven transportation systems.</title>
+<pages>25253-25269</pages>
+<year>2017</year>
+<volume>76</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>23</number>
+<ee>https://doi.org/10.1007/s11042-016-4318-x</ee>
+<url>db/journals/mta/mta76.html#SuhHGGHF17</url>
+</article>
+</r>
+<r><article key="journals/simulation/HenclewoodSRFH17" mdate="2020-06-08">
+<author pid="77/1763">Dwayne Henclewood</author>
+<author pid="99/1274">Wonho Suh</author>
+<author pid="119/5693">Michael O. Rodgers</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="49/1042">Michael P. Hunter</author>
+<title>A calibration procedure for increasing the accuracy of microscopic traffic simulation models.</title>
+<pages>35-47</pages>
+<year>2017</year>
+<volume>93</volume>
+<journal>Simul.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/0037549716673723</ee>
+<url>db/journals/simulation/simulation93.html#HenclewoodSRFH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/pads/FujimotoHBJN17" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="163/8631">Aradhya Biswas</author>
+<author pid="186/3481">Mark Jackson</author>
+<author pid="146/9426">Sabra Neal</author>
+<title>Power Efficient Distributed Simulation.</title>
+<pages>77-88</pages>
+<year>2017</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/3064911.3069397</ee>
+<crossref>conf/pads/2017</crossref>
+<url>db/conf/pads/pads2017.html#FujimotoHBJN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FujimotoBBCJMNU17" mdate="2018-08-15">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="b/RBagrodia">Rajive L. Bagrodia</author>
+<author pid="b/REBryant">Randal E. Bryant</author>
+<author pid="c/KManiChandy">K. Mani Chandy</author>
+<author pid="21/5579">David R. Jefferson</author>
+<author pid="m/JayadevMisra">Jayadev Misra</author>
+<author pid="n/DavidMNicol">David M. Nicol</author>
+<author pid="u/BrianUnger">Brian W. Unger</author>
+<title>Parallel discrete event simulation: The making of a field.</title>
+<pages>262-291</pages>
+<year>2017</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2017.8247793</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3242198</ee>
+<crossref>conf/wsc/2017</crossref>
+<url>db/conf/wsc/wsc2017.html#FujimotoBBCJMNU17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FujimotoCFJLMT17" mdate="2018-08-15">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="f/AloisFerscha">Alois Ferscha</author>
+<author pid="58/5163">David Jefferson</author>
+<author pid="41/163">Margaret L. Loper</author>
+<author pid="52/991">Madhav Marathe</author>
+<author pid="48/6848">Simon J. E. Taylor</author>
+<title>Computational challenges in modeling &#38; simulation of complex systems.</title>
+<pages>431-445</pages>
+<year>2017</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2017.8247805</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3242211</ee>
+<crossref>conf/wsc/2017</crossref>
+<url>db/conf/wsc/wsc2017.html#FujimotoCFJLMT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto17" mdate="2018-08-15">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Power consumption in parallel and distributed simulations.</title>
+<pages>720-734</pages>
+<year>2017</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2017.8247827</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3242235</ee>
+<crossref>conf/wsc/2017</crossref>
+<url>db/conf/wsc/wsc2017.html#Fujimoto17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/NealF17" mdate="2018-08-15">
+<author pid="146/9426">Sabra Neal</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Energy consumption of HLA data distribution management approaches.</title>
+<pages>810-820</pages>
+<year>2017</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2017.8247834</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3242243</ee>
+<crossref>conf/wsc/2017</crossref>
+<url>db/conf/wsc/wsc2017.html#NealF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/BalciFGNZ17" mdate="2018-08-15">
+<author pid="23/385">Osman Balci</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="84/2698">David Goldsman</author>
+<author pid="92/2054">Richard E. Nance</author>
+<author pid="z/BernardPZeigler">Bernard P. Zeigler</author>
+<title>The state of innovation in modeling and simulation: The last 50 years.</title>
+<pages>821-836</pages>
+<year>2017</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2017.8247835</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3242244</ee>
+<crossref>conf/wsc/2017</crossref>
+<url>db/conf/wsc/wsc2017.html#BalciFGNZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/KimMF17" mdate="2019-07-23">
+<author pid="00/8110-1">Young Jin Kim 0001</author>
+<author pid="09/1051">Dimitri Mavris</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Time-parallel simulation of air traffic networks.</title>
+<pages>1013-1024</pages>
+<year>2017</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2017.8247851</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3242260</ee>
+<crossref>conf/wsc/2017</crossref>
+<url>db/conf/wsc/wsc2017.html#KimMF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tomacs/Fujimoto16" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Research Challenges in Parallel and Distributed Simulation.</title>
+<pages>22:1-22:29</pages>
+<year>2016</year>
+<volume>26</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2866577</ee>
+<url>db/journals/tomacs/tomacs26.html#Fujimoto16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsrt/NguyenF16" mdate="2018-04-18">
+<author pid="191/9487">Vy Thuy Nguyen</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Link Partitioning in Parallel Simulation of Scale-Free Networks.</title>
+<pages>77-84</pages>
+<year>2016</year>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT.2016.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DS-RT.2016.17</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3200879</ee>
+<crossref>conf/dsrt/2016</crossref>
+<url>db/conf/dsrt/dsrt2016.html#NguyenF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PecherHF16" mdate="2018-11-06">
+<author pid="148/6302">Philip Pecher</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Data-Driven Vehicle Trajectory Prediction.</title>
+<pages>13-22</pages>
+<year>2016</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/2901378.2901407</ee>
+<crossref>conf/pads/2016</crossref>
+<url>db/conf/pads/pads2016.html#PecherHF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/BiswasF16" mdate="2018-11-06">
+<author pid="163/8631">Aradhya Biswas</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Profiling Energy Consumption in Distributed Simulations.</title>
+<pages>201-209</pages>
+<year>2016</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/2901378.2901395</ee>
+<crossref>conf/pads/2016</crossref>
+<url>db/conf/pads/pads2016.html#BiswasF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/NealFH16" mdate="2017-05-17">
+<author pid="146/9426">Sabra Neal</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>Energy consumption of Data Driven traffic simulations.</title>
+<pages>1119-1130</pages>
+<year>2016</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2016.7822170</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3042242</ee>
+<crossref>conf/wsc/2016</crossref>
+<url>db/conf/wsc/wsc2016.html#NealFH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FujimotoCDHJSX16" mdate="2020-10-25">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="48/8423">Nurcin Celik</author>
+<author orcid="0000-0003-4361-4515" pid="164/1734">Haluk Damgacioglu</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="66/360">Dong Jin</author>
+<author pid="82/5854">Young-Jun Son</author>
+<author pid="37/5126">Jie Xu</author>
+<title>Dynamic data driven application systems for smart cities and urban infrastructures.</title>
+<pages>1143-1157</pages>
+<year>2016</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2016.7822172</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3042245</ee>
+<crossref>conf/wsc/2016</crossref>
+<url>db/conf/wsc/wsc2016.html#FujimotoCDHJSX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/JainRDF16" mdate="2019-10-19">
+<author pid="175/4498">Ajitesh Jain</author>
+<author pid="17/1389">David Robinson</author>
+<author orcid="0000-0002-6784-473X" pid="30/5718">Bistra Dilkina</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>An approach to integrate inter-dependent simulations using HLA with applications to sustainable urban development.</title>
+<pages>1218-1229</pages>
+<year>2016</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2016.7822178</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3042254</ee>
+<crossref>conf/wsc/2016</crossref>
+<url>db/conf/wsc/wsc2016.html#JainRDF16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pads/2016" mdate="2018-11-06">
+<editor pid="f/RichardMFujimoto">Richard Fujimoto</editor>
+<editor pid="u/BrianUnger">Brian W. Unger</editor>
+<editor pid="60/5771">Christopher D. Carothers</editor>
+<title>Proceedings of the 2016 annual ACM Conference on SIGSIM Principles of Advanced Discrete Simulation, SIGSIM-PADS 2016, Banff, Alberta, Canada, May 15-18, 2016</title>
+<booktitle>SIGSIM-PADS</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-3742-7</isbn>
+<ee>https://doi.org/10.1145/2901378</ee>
+<url>db/conf/pads/pads2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/simulation/WallRFH15" mdate="2020-06-08">
+<author pid="119/5699">Thomas A. Wall</author>
+<author pid="119/5693">Michael O. Rodgers</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="49/1042">Michael P. Hunter</author>
+<title>A federated simulation method for multi-modal transportation systems: combining a discrete event-based logistics simulator and a discrete time-step-based traffic microsimulator.</title>
+<pages>148-163</pages>
+<year>2015</year>
+<volume>91</volume>
+<journal>Simul.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/0037549714564079</ee>
+<url>db/journals/simulation/simulation91.html#WallRFH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsrt/FujimotoB15" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="163/8631">Aradhya Biswas</author>
+<title>An Empirical Study of Energy Consumption in Distributed Simulations.</title>
+<pages>163-170</pages>
+<year>2015</year>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT.2015.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DS-RT.2015.32</ee>
+<crossref>conf/dsrt/2015</crossref>
+<url>db/conf/dsrt/dsrt2015.html#FujimotoB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/PecherHF15" mdate="2017-05-21">
+<author pid="148/6302">Philip Pecher</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Efficient Execution of Replicated Transportation Simulations with Uncertain Vehicle Trajectories.</title>
+<pages>2638-2647</pages>
+<year>2015</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2015.05.371</ee>
+<crossref>conf/iccS/2015</crossref>
+<url>db/conf/iccS/iccS2015.html#PecherHF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/FujimotoB15" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="163/8631">Aradhya Biswas</author>
+<title>On Energy Consumption in Distributed Simulations.</title>
+<pages>99-100</pages>
+<year>2015</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/2769458.2773791</ee>
+<crossref>conf/pads/2015</crossref>
+<url>db/conf/pads/pads2015.html#FujimotoB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simultech/Fujimoto15" mdate="2015-08-07">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel Discrete Event Simulation - Past, Present and Future.</title>
+<pages>IS-9</pages>
+<year>2015</year>
+<booktitle>SIMULTECH</booktitle>
+<crossref>conf/simultech/2015</crossref>
+<url>db/conf/simultech/simultech2015.html#Fujimoto15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto15" mdate="2019-06-02">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel and distributed simulation.</title>
+<pages>45-59</pages>
+<year>2015</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2015.7408152</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2888624</ee>
+<ee>https://www.wikidata.org/entity/Q63321790</ee>
+<crossref>conf/wsc/2015</crossref>
+<url>db/conf/wsc/wsc2015.html#Fujimoto15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/TolkBCFMNZ15" mdate="2018-11-02">
+<author orcid="0000-0002-4201-8757" pid="t/ATolk">Andreas Tolk</author>
+<author pid="23/385">Osman Balci</author>
+<author pid="43/9979">C. Donald Combs</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="23/2714">Charles M. Macal</author>
+<author pid="54/5684">Barry L. Nelson</author>
+<author pid="175/4438">Phil Zimmerman</author>
+<title>Do we need a national research agenda for modeling and simulation?</title>
+<pages>2571-2585</pages>
+<year>2015</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2015.7408366</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2888915</ee>
+<crossref>conf/wsc/2015</crossref>
+<url>db/conf/wsc/wsc2015.html#TolkBCFMNZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/JainFKLCL15" mdate="2017-05-17">
+<author pid="175/4498">Ajitesh Jain</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="175/4559">Jongchan Kim</author>
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="52/4901">John Crittenden</author>
+<author pid="175/4646">Zhongming Lu</author>
+<title>Towards automating the development of federated distributed simulations for modeling sustainable urban infrastructures.</title>
+<pages>2668-2679</pages>
+<year>2015</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2015.7408374</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2888926</ee>
+<crossref>conf/wsc/2015</crossref>
+<url>db/conf/wsc/wsc2015.html#JainFKLCL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/simpra/SuhHF14" mdate="2020-02-24">
+<author pid="99/1274">Wonho Suh</author>
+<author pid="49/1042">Michael P. Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Ad hoc distributed simulation for transportation system monitoring and near-term prediction.</title>
+<pages>1-14</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee>https://doi.org/10.1016/j.simpat.2013.11.002</ee>
+<url>db/journals/simpra/simpra41.html#SuhHF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/FujimotoGHPKKMNP14" mdate="2020-10-25">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author orcid="0000-0001-6949-5126" pid="15/6848">Angshuman Guin</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="78/5322">Haesun Park</author>
+<author pid="148/6300">Gaurav Kanitkar</author>
+<author pid="98/5996">Ramakrishnan Kannan</author>
+<author pid="148/6270">Michael Milholen</author>
+<author pid="146/9426">Sabra Neal</author>
+<author pid="148/6302">Philip Pecher</author>
+<title>A Dynamic Data Driven Application System for Vehicle Tracking.</title>
+<pages>1203-1215</pages>
+<year>2014</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2014.05.108</ee>
+<crossref>conf/iccS/2014</crossref>
+<url>db/conf/iccS/iccS2014.html#FujimotoGHPKKMNP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/NealKF14" mdate="2018-11-06">
+<author pid="146/9426">Sabra Neal</author>
+<author pid="151/4599">Gaurav Kantikar</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Power consumption of data distribution management for on-line simulations.</title>
+<pages>197-204</pages>
+<year>2014</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/2601381.2601409</ee>
+<crossref>conf/pads/2014</crossref>
+<url>db/conf/pads/pads2014.html#NealKF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto14" mdate="2017-05-17">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Parallel and distributed simulation.</title>
+<pages>5</pages>
+<year>2014</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2014.7019873</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2693854</ee>
+<crossref>conf/wsc/2014</crossref>
+<url>db/conf/wsc/wsc2014.html#Fujimoto14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/YilmazTFD14" mdate="2017-06-05">
+<author pid="68/2901">Levent Yilmaz</author>
+<author orcid="0000-0001-8252-0189" pid="48/6848">Simon J. E. Taylor</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="65/5213">Frederica Darema</author>
+<title>Panel: the future of research in modeling &#38; simulation.</title>
+<pages>2797-2811</pages>
+<year>2014</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2014.7020122</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2694204</ee>
+<crossref>conf/wsc/2014</crossref>
+<url>db/conf/wsc/wsc2014.html#YilmazTFD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/PecherHF14" mdate="2017-05-17">
+<author pid="148/6302">Philip Pecher</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Past and future trees: structures for predicting vehicle trajectories in real-time.</title>
+<pages>2884-2895</pages>
+<year>2014</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2014.7020129</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2694214</ee>
+<crossref>conf/wsc/2014</crossref>
+<url>db/conf/wsc/wsc2014.html#PecherHF14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pads/2014" mdate="2014-09-26">
+<editor pid="h/JohnAHamilton">John A. Hamilton Jr.</editor>
+<editor pid="20/6862">George F. Riley</editor>
+<editor pid="f/RichardMFujimoto">Richard M. Fujimoto</editor>
+<title>SIGSIM Principles of Advanced Discrete Simulation, SIGSIM-PADS '14, Denver, CO, USA, May 18-21, 2014</title>
+<publisher>ACM</publisher>
+<booktitle>SIGSIM-PADS</booktitle>
+<year>2014</year>
+<isbn>978-1-4503-2794-7</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2601381</ee>
+<url>db/conf/pads/pads2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/simulation/SuhHGGGHF13" mdate="2020-10-26">
+<author pid="99/1274">Wonho Suh</author>
+<author pid="77/1763">Dwayne Henclewood</author>
+<author orcid="0000-0003-0397-2609" pid="126/4163">Aaron Greenwood</author>
+<author orcid="0000-0001-6949-5126" pid="15/6848">Angshuman Guin</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael P. Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Modeling pedestrian crossing activities in an urban environment using microscopic traffic simulation.</title>
+<pages>213-224</pages>
+<year>2013</year>
+<volume>89</volume>
+<journal>Simul.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/0037549712469843</ee>
+<url>db/journals/simulation/simulation89.html#SuhHGGGHF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/pads/PientaF13" mdate="2018-11-06">
+<author pid="151/4603">Robert S. Pienta</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>On the parallel simulation of scale-free networks.</title>
+<pages>179-188</pages>
+<year>2013</year>
+<booktitle>SIGSIM-PADS</booktitle>
+<ee>https://doi.org/10.1145/2486092.2486115</ee>
+<crossref>conf/pads/2013</crossref>
+<url>db/conf/pads/pads2013.html#PientaF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HuangFAH13" mdate="2017-05-17">
+<author pid="37/8662">Ya-Lin Huang</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="32/5122">Christos Alexopoulos</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>On the transient response of open queueing networks using ad hoc distributed simulations.</title>
+<pages>2947-2958</pages>
+<year>2013</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2013.6721663</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2676347</ee>
+<crossref>conf/wsc/2013</crossref>
+<url>db/conf/wsc/wsc2013.html#HuangFAH13</url>
+</inproceedings>
+</r>
+<r><article key="journals/simulation/HuangAHF12" mdate="2020-06-08">
+<author pid="37/8662">Ya-Lin Huang</author>
+<author pid="32/5122">Christos Alexopoulos</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Ad hoc distributed simulation methodology for open queueing networks.</title>
+<pages>784-800</pages>
+<year>2012</year>
+<volume>88</volume>
+<journal>Simul.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1177/0037549711408486</ee>
+<url>db/journals/simulation/simulation88.html#HuangAHF12</url>
+</article>
+</r>
+<r><article key="journals/tpds/ParkF12" mdate="2020-10-02">
+<author pid="34/1451">Alfred J. Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Efficient Master/Worker Parallel Discrete Event Simulation on Metacomputing Systems.</title>
+<pages>873-880</pages>
+<year>2012</year>
+<volume>23</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPDS.2011.207</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2011.207</ee>
+<url>db/journals/tpds/tpds23.html#ParkF12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cc/HouVQJFV12" mdate="2018-06-26">
+<author pid="11/1470">Cong Hou</author>
+<author pid="84/2534">George Vulov</author>
+<author pid="13/2176">Daniel J. Quinlan</author>
+<author pid="21/5579">David R. Jefferson</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author orcid="0000-0003-2178-138X" pid="v/RVuduc">Richard W. Vuduc</author>
+<title>A New Method for Program Inversion.</title>
+<pages>81-100</pages>
+<year>2012</year>
+<booktitle>CC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28652-0_5</ee>
+<crossref>conf/cc/2012</crossref>
+<url>db/conf/cc/cc2012.html#HouVQJFV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rc/HouQJFV12" mdate="2019-09-25">
+<author pid="11/1470">Cong Hou</author>
+<author pid="13/2176">Daniel J. Quinlan</author>
+<author pid="21/5579">David R. Jefferson</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author orcid="0000-0003-2178-138X" pid="v/RVuduc">Richard W. Vuduc</author>
+<title>Synthesizing Loops for Program Inversion.</title>
+<pages>72-84</pages>
+<year>2012</year>
+<booktitle>RC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36315-3_6</ee>
+<crossref>conf/rc/2012</crossref>
+<url>db/conf/rc/rc2012.html#HouQJFV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HenclewoodSRHF12" mdate="2017-05-17">
+<author pid="77/1763">Dwayne Henclewood</author>
+<author pid="99/1274">Wonho Suh</author>
+<author pid="119/5693">Michael O. Rodgers</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>A case for real-time calibration of data-driven microscopic traffic simulation tools.</title>
+<pages>148:1-148:12</pages>
+<year>2012</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2012.6465294</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2429958</ee>
+<crossref>conf/wsc/2012</crossref>
+<url>db/conf/wsc/wsc2012.html#HenclewoodSRHF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/TaylorFPFUW12" mdate="2017-06-05">
+<author orcid="0000-0001-8252-0189" pid="48/6848">Simon J. E. Taylor</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="18/3600">Ernest H. Page</author>
+<author pid="22/2230">Paul A. Fishwick</author>
+<author pid="u/AdelindeUhrmacher">Adelinde M. Uhrmacher</author>
+<author orcid="0000-0003-3366-9184" pid="w/GAWainer">Gabriel A. Wainer</author>
+<title>Panel on grand challenges for modeling and simulation.</title>
+<pages>232:1-232:15</pages>
+<year>2012</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2012.6465310</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2430072</ee>
+<crossref>conf/wsc/2012</crossref>
+<url>db/conf/wsc/wsc2012.html#TaylorFPFUW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/HuangAFH11" mdate="2017-05-26">
+<author pid="37/8662">Ya-Lin Huang</author>
+<author pid="32/5122">Christos Alexopoulos</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>On the Accuracy of Ad Hoc Distributed Simulations for Open Queueing Network.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2011.5936754</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2011.5936754</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2060645</ee>
+<crossref>conf/pads/2011</crossref>
+<url>db/conf/pads/pads2011.html#HuangAFH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto11" mdate="2017-05-17">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>On innovation, and building and sustaining a successful career in research.</title>
+<pages>1-11</pages>
+<year>2011</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2011.6147015</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2431520</ee>
+<crossref>conf/wsc/2011</crossref>
+<url>db/conf/wsc/wsc2011.html#Fujimoto11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HuangFSHA11" mdate="2017-05-17">
+<author pid="37/8662">Ya-Lin Huang</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="99/1274">Wonho Suh</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="32/5122">Christos Alexopoulos</author>
+<title>Statistical issues in ad hoc distributed simulations.</title>
+<pages>612-624</pages>
+<year>2011</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2011.6147790</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2431590</ee>
+<crossref>conf/wsc/2011</crossref>
+<url>db/conf/wsc/wsc2011.html#HuangFSHA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/LiFHS11" mdate="2018-07-27">
+<author pid="22/1805-10">Ying Li 0010</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="99/1274">Wonho Suh</author>
+<title>An interest management scheme for mobile peer-to-peer systems.</title>
+<pages>2752-2764</pages>
+<year>2011</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2011.6147980</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2431846</ee>
+<crossref>conf/wsc/2011</crossref>
+<url>db/conf/wsc/wsc2011.html#LiFHS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/VulovHVFQJ11" mdate="2017-06-05">
+<author pid="84/2534">George Vulov</author>
+<author pid="11/1470">Cong Hou</author>
+<author orcid="0000-0003-2178-138X" pid="v/RVuduc">Richard W. Vuduc</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="13/2176">Daniel J. Quinlan</author>
+<author pid="21/5579">David R. Jefferson</author>
+<title>The Backstroke framework for source level reverse computation applied to parallel discrete event simulation.</title>
+<pages>2965-2979</pages>
+<year>2011</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2011.6147998</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2431870</ee>
+<crossref>conf/wsc/2011</crossref>
+<url>db/conf/wsc/wsc2011.html#VulovHVFQJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/HuangAHF10" mdate="2017-05-26">
+<author pid="37/8662">Ya-Lin Huang</author>
+<author pid="32/5122">Christos Alexopoulos</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Ad Hoc Distributed Simulation of Queueing Networks.</title>
+<pages>57-64</pages>
+<year>2010</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2010.5471650</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2010.5471650</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2015810</ee>
+<crossref>conf/pads/2010</crossref>
+<url>db/conf/pads/pads2010.html#HuangAHF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HenclewoodGGHF10" mdate="2020-10-25">
+<author pid="77/1763">Dwayne Henclewood</author>
+<author orcid="0000-0001-6949-5126" pid="15/6848">Angshuman Guin</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Real-time data driven arterial simulation for performance measures estimation.</title>
+<pages>2057-2069</pages>
+<year>2010</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2010.5678868</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2433762</ee>
+<crossref>conf/wsc/2010</crossref>
+<url>db/conf/wsc/wsc2010.html#HenclewoodGGHF10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pads/2010" mdate="2019-10-16">
+<editor pid="20/6862">George F. Riley</editor>
+<editor pid="f/RichardMFujimoto">Richard M. Fujimoto</editor>
+<editor pid="31/2342">Rob Simmonds</editor>
+<editor pid="q/FrancescoQuaglia">Francesco Quaglia</editor>
+<title>24th ACM/IEEE/SCS Workshop on Principles of Advanced and Distributed Simulation, PADS 2010, Atlanta, Georgia, USA, May 17-19, 2010</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2010</year>
+<isbn>978-1-4244-7291-8</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/5471198/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/pads/2010/7292/00/index.html</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2015554</ee>
+<booktitle>PADS</booktitle>
+<url>db/conf/pads/pads2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijspm/ParkF09" mdate="2020-04-16">
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Parallel discrete event simulation on desktop grid computing infrastructures.</title>
+<pages>157-171</pages>
+<year>2009</year>
+<volume>5</volume>
+<journal>Int. J. Simul. Process. Model.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJSPM.2009.028628</ee>
+<url>db/journals/ijspm/ijspm5.html#ParkF09</url>
+</article>
+</r>
+<r><article key="journals/simulation/HunterKSFSP09" mdate="2020-06-08">
+<author pid="49/1042">Michael Hunter</author>
+<author pid="15/2237">Hoe Kyoung Kim</author>
+<author pid="99/1274">Wonho Suh</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="11/2115">Jason Sirichoke</author>
+<author pid="31/1468">Mahesh Palekar</author>
+<title>Ad Hoc Distributed Dynamic Data-Driven Simulations of Surface Transportation Systems.</title>
+<pages>243-255</pages>
+<year>2009</year>
+<volume>85</volume>
+<journal>Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1177/0037549708101941</ee>
+<url>db/journals/simulation/simulation85.html#HunterKSFSP09</url>
+</article>
+</r>
+<r><article key="journals/simulation/GuF09" mdate="2020-06-08">
+<author pid="61/2029-4">Yan Gu 0004</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Performance Evaluation of the ROSENET Network Emulation System.</title>
+<pages>319-333</pages>
+<year>2009</year>
+<volume>85</volume>
+<journal>Simul.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1177/0037549709103072</ee>
+<url>db/journals/simulation/simulation85.html#GuF09</url>
+</article>
+</r>
+<r><article key="journals/tvt/WuFRH09" mdate="2020-06-25">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="20/6862">George F. Riley</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>Spatial Propagation of Information in Vehicular Networks.</title>
+<pages>420-431</pages>
+<year>2009</year>
+<volume>58</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVT.2008.923689</ee>
+<url>db/journals/tvt/tvt58.html#WuFRH09</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/MalikPF09" mdate="2017-05-17">
+<author pid="99/10293">Asad Malik</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Optimistic Synchronization of Parallel Simulations in Cloud Computing Environments.</title>
+<pages>49-56</pages>
+<year>2009</year>
+<booktitle>IEEE CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2009.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CLOUD.2009.79</ee>
+<crossref>conf/IEEEcloud/2009</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2009.html#MalikPF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/ParkF09" mdate="2017-05-26">
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Efficient Master/Worker Parallel Discrete Event Simulation.</title>
+<pages>145-152</pages>
+<year>2009</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2009.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2009.9</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1577985</ee>
+<crossref>conf/pads/2009</crossref>
+<url>db/conf/pads/pads2009.html#ParkF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/KimHF09" mdate="2017-05-17">
+<author pid="15/2237">Hoe Kyoung Kim</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>A Simulation-based Investigation of a Dynamic Advanced Traveler Information System.</title>
+<pages>1124-1135</pages>
+<year>2009</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2009.5429311</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1995613</ee>
+<crossref>conf/wsc/2009</crossref>
+<url>db/conf/wsc/wsc2009.html#KimHF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/BakerHHJPSTTWYGHF09" mdate="2017-05-17">
+<author pid="82/6903">Brandon Baker</author>
+<author pid="92/8421">Edward Hagler</author>
+<author pid="13/2354">Toyan Harvey</author>
+<author pid="68/8422">Kendra Jones</author>
+<author pid="31/1407">Michael Pieper</author>
+<author pid="51/8422">Benjamin Stensland</author>
+<author pid="56/8423">Prashant Thiruvengadachari</author>
+<author pid="47/6047">Eric Thompson</author>
+<author pid="60/8422">Jewel Watts</author>
+<author pid="69/6775">Javier Young</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>An Online Transportation System Simulation Testbed.</title>
+<pages>1201-1212</pages>
+<year>2009</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2009.5429632</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1995623</ee>
+<crossref>conf/wsc/2009</crossref>
+<url>db/conf/wsc/wsc2009.html#BakerHHJPSTTWYGHF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/PalagummiFH09" mdate="2017-05-17">
+<author pid="49/8423">Vishwanath Palagummi</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>Techniques for Rapid Initialization in In-vehicle Traffic Simulators.</title>
+<pages>2446-2456</pages>
+<year>2009</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2009.5429699</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1995790</ee>
+<crossref>conf/wsc/2009</crossref>
+<url>db/conf/wsc/wsc2009.html#PalagummiFH09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/JeschkeEPFU08" mdate="2020-04-25">
+<author pid="50/289">Matthias Jeschke</author>
+<author pid="30/5042">Roland Ewald</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="u/AdelindeUhrmacher">Adelinde M. Uhrmacher</author>
+<title>A parallel and distributed discrete event approach for spatial cell-biological simulations.</title>
+<pages>22-31</pages>
+<year>2008</year>
+<volume>35</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1364644.1364652</ee>
+<url>db/journals/sigmetrics/sigmetrics35.html#JeschkeEPFU08</url>
+</article>
+</r>
+<r><article key="journals/tpds/SantoroF08" mdate="2020-10-02">
+<author pid="84/4684">Andrea Santoro</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Offloading Data Distribution Management to Network Processors in HLA-Based Distributed Simulations.</title>
+<pages>289-298</pages>
+<year>2008</year>
+<volume>19</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2007.70715</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2007.70715</ee>
+<url>db/journals/tpds/tpds19.html#SantoroF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsrt/ParkF08" mdate="2017-05-26">
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Optimistic Parallel Simulation over Public Resource-Computing Infrastructures and Desktop Grids.</title>
+<pages>149-156</pages>
+<year>2008</year>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT.2008.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DS-RT.2008.34</ee>
+<crossref>conf/dsrt/2008</crossref>
+<url>db/conf/dsrt/dsrt2008.html#ParkF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/GuF08" mdate="2017-05-26">
+<author pid="61/2029-4">Yan Gu 0004</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Adaptive Model Update Algorithms for Remote Network Emulation.</title>
+<pages>15-22</pages>
+<year>2008</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2008.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2008.26</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1382282</ee>
+<crossref>conf/pads/2008</crossref>
+<url>db/conf/pads/pads2008.html#GuF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/JeschkePEFU08" mdate="2017-05-26">
+<author pid="50/289">Matthias Jeschke</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="30/5042">Roland Ewald</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="u/AdelindeUhrmacher">Adelinde M. Uhrmacher</author>
+<title>Parallel and Distributed Spatial Simulation of Chemical Reactions.</title>
+<pages>51-59</pages>
+<year>2008</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2008.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2008.20</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1382286</ee>
+<crossref>conf/pads/2008</crossref>
+<url>db/conf/pads/pads2008.html#JeschkePEFU08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/StrassburgerSF08" mdate="2017-06-01">
+<author pid="42/1614">Steffen Stra&#223;burger</author>
+<author pid="s/ThSchulze">Thomas Schulze 0001</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Future trends in distributed simulation and distributed virtual environments: Results of a peer study.</title>
+<pages>777-785</pages>
+<year>2008</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2008.4736140</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1516887</ee>
+<crossref>conf/wsc/2008</crossref>
+<url>db/conf/wsc/wsc2008.html#StrassburgerSF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HenclewoodHF08" mdate="2017-05-17">
+<author pid="77/1763">Dwayne Henclewood</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Proposed methodology for a data-driven simulation for estimating performance measures along signalized arterials in real-time.</title>
+<pages>2761-2768</pages>
+<year>2008</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2008.4736395</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1517229</ee>
+<crossref>conf/wsc/2008</crossref>
+<url>db/conf/wsc/wsc2008.html#HenclewoodHF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/GuF07" mdate="2017-05-26">
+<author pid="61/2029-4">Yan Gu 0004</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Performance Evaluation of the ROSENET Network Emulation System.</title>
+<pages>276-283</pages>
+<year>2007</year>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT.2007.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DS-RT.2007.16</ee>
+<crossref>conf/dsrt/2007</crossref>
+<url>db/conf/dsrt/dsrt2007.html#GuF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grid/ParkF07" mdate="2017-05-26">
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>A scalable framework for parallel discrete event simulations on desktop grids.</title>
+<pages>185-192</pages>
+<year>2007</year>
+<crossref>conf/grid/2007</crossref>
+<booktitle>GRID</booktitle>
+<ee>https://doi.org/10.1109/GRID.2007.4354132</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/GRID.2007.4354132</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1513466</ee>
+<url>db/conf/grid/grid2007.html#ParkF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/FujimotoGHSKSSS07" mdate="2018-06-26">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<author pid="15/2237">Hoe Kyoung Kim</author>
+<author pid="38/4759">Balasubramanian Seshasayee</author>
+<author pid="11/2115">Jason Sirichoke</author>
+<author pid="99/1274">Wonho Suh</author>
+<title>Ad Hoc Distributed Simulation of Surface Transportation Systems.</title>
+<pages>1050-1057</pages>
+<year>2007</year>
+<crossref>conf/iccS/2007-1</crossref>
+<booktitle>International Conference on Computational Science (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-72584-8_138</ee>
+<url>db/conf/iccS/iccS2007-1.html#FujimotoGHSKSSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/FujimotoHSPKS07" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="11/2115">Jason Sirichoke</author>
+<author pid="31/1468">Mahesh Palekar</author>
+<author pid="15/2237">Hoe Kyoung Kim</author>
+<author pid="99/1274">Wonho Suh</author>
+<title>Ad Hoc Distributed Simulations.</title>
+<pages>15-24</pages>
+<year>2007</year>
+<crossref>conf/pads/2007</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2007.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2007.10</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1249007</ee>
+<url>db/conf/pads/pads2007.html#FujimotoHSPKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/NaborskyyF07" mdate="2017-05-26">
+<author pid="07/299">Andriy Naborskyy</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Using Reversible Computation Techniques in a Parallel Optimistic Simulation of a Multi-Processor Computing System.</title>
+<pages>179-188</pages>
+<year>2007</year>
+<crossref>conf/pads/2007</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2007.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2007.31</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1249023</ee>
+<url>db/conf/pads/pads2007.html#NaborskyyF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scsc/HuangJFZ07" mdate="2018-11-28">
+<author pid="16/934">Jen-Chih Huang</author>
+<author pid="46/6754">Xiangmin Jiao</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="z/HongyuanZha">Hongyuan Zha</author>
+<title>DAG-guided parallel asynchronous variational integrators with super-elements.</title>
+<pages>691-697</pages>
+<year>2007</year>
+<booktitle>SCSC</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1358017</ee>
+<crossref>conf/scsc/2007</crossref>
+<url>db/conf/scsc/scsc2007.html#HuangJFZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/GuF07" mdate="2017-05-17">
+<author pid="61/2029-4">Yan Gu 0004</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Applying parallel and distributed simulation to remote network emulation.</title>
+<pages>1328-1336</pages>
+<year>2007</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2007.4419740</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1351777</ee>
+<crossref>conf/wsc/2007</crossref>
+<url>db/conf/wsc/wsc2007.html#GuF07</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2006Fujimoto" mdate="2017-06-09">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="20/6862">George F. Riley</author>
+<title>Network Simulation</title>
+<booktitle>Network Simulation</booktitle>
+<ee>https://doi.org/10.2200/S00046ED1V01Y200609CNT001</ee>
+<year>2006</year>
+<series href="db/series/synthesis/cnt.html">Synthesis Lectures on Communication Networks</series>
+<publisher>Morgan &#38; Claypool Publishers</publisher>
+</book>
+</r>
+<r><article key="journals/simulation/TangPFKDO06" mdate="2020-06-08">
+<author pid="99/1603">Yarong Tang</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="35/5375">Homa Karimabadi</author>
+<author pid="57/3052">Jonathan Driscoll</author>
+<author pid="86/3388">Yuri A. Omelchenko</author>
+<title>Optimistic Simulations of Physical Systems Using Reverse Computation.</title>
+<pages>61-73</pages>
+<year>2006</year>
+<volume>82</volume>
+<journal>Simul.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/0037549706065481</ee>
+<url>db/journals/simulation/simulation82.html#TangPFKDO06</url>
+</article>
+</r>
+<r><article key="journals/simulation/KaratzaF06" mdate="2020-06-08">
+<author pid="30/1663">Helen D. Karatza</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Guest Editorial: Recent Advances in Network Modeling and Simulation.</title>
+<pages>91-92</pages>
+<year>2006</year>
+<volume>82</volume>
+<journal>Simul.</journal>
+<number>2</number>
+<url>db/journals/simulation/simulation82.html#KaratzaF06</url>
+<ee>https://doi.org/10.1177/0037549706066701</ee>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/PerumallaFK06" mdate="2018-06-26">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="35/5375">Homa Karimabadi</author>
+<title>Scalable Simulation of Electromagnetic Hybrid Codes.</title>
+<pages>41-49</pages>
+<year>2006</year>
+<crossref>conf/iccS/2006-2</crossref>
+<booktitle>International Conference on Computational Science (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/11758525_6</ee>
+<url>db/conf/iccS/iccS2006-2.html#PerumallaFK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/FujimotoGHKLLPSS06" mdate="2018-06-26">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="15/2237">Hoe Kyoung Kim</author>
+<author pid="50/3030">Jaesup Lee</author>
+<author pid="96/3667">John D. Leonard</author>
+<author pid="31/1468">Mahesh Palekar</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<author pid="38/4759">Balasubramanian Seshasayee</author>
+<title>Dynamic Data Driven Application Simulation of Surface Transportation Systems.</title>
+<pages>425-432</pages>
+<year>2006</year>
+<crossref>conf/iccS/2006-3</crossref>
+<booktitle>International Conference on Computational Science (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/11758532_57</ee>
+<url>db/conf/iccS/iccS2006-3.html#FujimotoGHKLLPSS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/ParkF06" mdate="2017-05-26">
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Aurora: An Approach to High Throughput Parallel Simulation.</title>
+<pages>3-10</pages>
+<year>2006</year>
+<crossref>conf/pads/2006</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2006.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2006.11</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1136852</ee>
+<url>db/conf/pads/pads2006.html#ParkF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/HuangCTHZLFA06" mdate="2021-04-09">
+<author pid="61/3119">Shell-Ying Huang</author>
+<author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
+<author pid="t/StephenJohnTurner">Stephen John Turner</author>
+<author pid="26/4850">Wen-Jing Hsu</author>
+<author pid="22/2383">Suiping Zhou</author>
+<author orcid="0000-0002-5371-0896" pid="l/MalcolmYokeHeanLow">Malcolm Yoke-Hean Low</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="03/5723">Rassul Ayani</author>
+<title>A Generic Symbiotic Simulation Framework.</title>
+<pages>131</pages>
+<year>2006</year>
+<crossref>conf/pads/2006</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2006.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2006.8</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1136867</ee>
+<url>db/conf/pads/pads2006.html#HuangCTHZLFA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/PetitAF06" mdate="2017-05-24">
+<author pid="120/7982">Barath Petit</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Protocols for roadside-to-roadside data relaying over vehicular networks.</title>
+<pages>294-299</pages>
+<year>2006</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2006.1683480</ee>
+<crossref>conf/wcnc/2006</crossref>
+<url>db/conf/wcnc/wcnc2006.html#PetitAF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HunterFSK06" mdate="2017-05-17">
+<author pid="49/1042">Michael Hunter</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="99/1274">Wonho Suh</author>
+<author pid="15/2237">Hoe Kyoung Kim</author>
+<title>An investigation of real-time dynamic data driven transportation simulation.</title>
+<pages>1414-1421</pages>
+<year>2006</year>
+<crossref>conf/wsc/2006</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2006.323242</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2006.323242</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1218369</ee>
+<url>db/conf/wsc/wsc2006.html#HunterFSK06</url>
+</inproceedings>
+</r>
+<r><article key="journals/simulation/RileyJFA05" mdate="2020-06-08">
+<author pid="20/6862">George F. Riley</author>
+<author pid="65/1959">Talal M. Jaafar</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<title>Using Ghosts for Global Topology Knowledge in Space-Parallel Distributed Network Simulations.</title>
+<pages>267-277</pages>
+<year>2005</year>
+<volume>81</volume>
+<journal>Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1177/0037549705055256</ee>
+<url>db/journals/simulation/simulation81.html#RileyJFA05</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgo/WuPFLKGH05" mdate="2017-09-12">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="31/1468">Mahesh Palekar</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="50/3030">Jaesup Lee</author>
+<author pid="13/911">Joonho Ko</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>Vehicular networks in urban transportation systems.</title>
+<pages>9-10</pages>
+<year>2005</year>
+<crossref>conf/dgo/2005</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1065231</ee>
+<url>db/conf/dgo/dgo2005.html#WuPFLKGH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/Fujimoto05" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Distributed Simulation of Vehicular Networks.</title>
+<pages>3</pages>
+<year>2005</year>
+<crossref>conf/dsrt/2005</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DISTRA.2005.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DISTRA.2005.19</ee>
+<url>db/conf/dsrt/dsrt2005.html#Fujimoto05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/TaylorFFPRT05" mdate="2019-06-25">
+<author pid="48/6848">Simon J. E. Taylor</author>
+<author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="07/1554">J. Mark Pullen</author>
+<author pid="55/231-1">David J. Roberts 0001</author>
+<author pid="51/7514-1">Georgios Theodoropoulos 0001</author>
+<title>Revisiting Distributed Simulation and the Grid: A Panel.</title>
+<pages>161</pages>
+<year>2005</year>
+<crossref>conf/dsrt/2005</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DISTRA.2005.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DISTRA.2005.37</ee>
+<url>db/conf/dsrt/dsrt2005.html#TaylorFFPRT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/WuPFGHLK05" mdate="2018-11-06">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="31/1468">Mahesh Palekar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="50/3030">Jaesup Lee</author>
+<author orcid="0000-0002-0426-3356" pid="13/911">Joonho Ko</author>
+<title>An empirical study of short range communications for vehicles.</title>
+<pages>83-84</pages>
+<year>2005</year>
+<crossref>conf/mobicom/2005vanet</crossref>
+<booktitle>Vehicular Ad Hoc Networks</booktitle>
+<ee>https://doi.org/10.1145/1080754.1080769</ee>
+<url>db/conf/mobicom/vanet2005.html#WuPFGHLK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/WuFHG05" mdate="2018-11-06">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="62/1246">Randall Guensler</author>
+<title>An architecture study of infrastructure-based vehicular networks.</title>
+<pages>36-39</pages>
+<year>2005</year>
+<crossref>conf/mswim/2005</crossref>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/1089444.1089452</ee>
+<url>db/conf/mswim/mswim2005.html#WuFHG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/LobbCFP05" mdate="2017-05-26">
+<author pid="87/5544">Collin J. Lobb</author>
+<author pid="117/3691">Zenas C. Chao</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="20/6151">Steve M. Potter</author>
+<title>Parallel Event-Driven Neural Network Simulations Using the Hodgkin-Huxley Neuron Model.</title>
+<pages>16-25</pages>
+<year>2005</year>
+<crossref>conf/pads/2005</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2005.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2005.18</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1070157</ee>
+<url>db/conf/pads/pads2005.html#LobbCFP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/TangPFKDO05" mdate="2017-06-15">
+<author pid="99/1603">Yarong Tang</author>
+<author pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="35/5375">Homa Karimabadi</author>
+<author pid="57/3052">Jonathan Driscoll</author>
+<author orcid="0000-0002-6362-3112" pid="86/3388">Yuri A. Omelchenko</author>
+<title>Optimistic Parallel Discrete Event Simulations of Physical Systems Using Reverse Computation.</title>
+<pages>26-35</pages>
+<year>2005</year>
+<crossref>conf/pads/2005</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2005.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2005.16</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1070158</ee>
+<url>db/conf/pads/pads2005.html#TangPFKDO05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/PerumallaFTPKOD05" mdate="2017-06-15">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="42/5348">Prashant J. Thakare</author>
+<author pid="08/6824">Santosh Pande</author>
+<author pid="35/5375">Homa Karimabadi</author>
+<author orcid="0000-0002-6362-3112" pid="86/3388">Yuri A. Omelchenko</author>
+<author pid="57/3052">Jonathan Driscoll</author>
+<title>Performance prediction of large-scale parallel discrete event models of physical systems.</title>
+<pages>356-364</pages>
+<year>2005</year>
+<crossref>conf/wsc/2005</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2005.1574270</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1162772</ee>
+<url>db/conf/wsc/wsc2005.html#PerumallaFTPKOD05</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/McLeanFF04" mdate="2020-05-21">
+<author pid="33/4097">Thom McLean</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="12/2372">J. Brad Fitzgibbons</author>
+<title>Middleware for real-time distributed simulations.</title>
+<pages>1483-1501</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>Concurr. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.874</ee>
+<url>db/journals/concurrency/concurrency16.html#McLeanFF04</url>
+</article>
+</r>
+<r><article key="journals/pe/HeARF04" mdate="2020-02-22">
+<author pid="51/6972">Qi He</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="20/6862">George F. Riley</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Exploiting the predictability of TCP steady-state to speed up network simulation.</title>
+<pages>163-187</pages>
+<year>2004</year>
+<volume>58</volume>
+<journal>Perform. Evaluation</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.peva.2004.07.013</ee>
+<url>db/journals/pe/pe58.html#HeARF04</url>
+</article>
+</r>
+<r><article key="journals/tomacs/RileyAFPPX04" mdate="2018-11-06">
+<author pid="20/6862">George F. Riley</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="34/1451">Alfred Park</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="72/2830">Donghua Xu</author>
+<title>A federated approach to distributed network simulation.</title>
+<pages>116-148</pages>
+<year>2004</year>
+<volume>14</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/985793.985795</ee>
+<url>db/journals/tomacs/tomacs14.html#RileyAFPPX04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgo/FitzgibbonsFGHPW04" mdate="2017-09-12">
+<author pid="12/2372">J. Brad Fitzgibbons</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="72/4250-1">Hao Wu 0001</author>
+<title>Distributed Simulation Test Bed for Intelligent Transportation Systems Design and Analysis.</title>
+<year>2004</year>
+<crossref>conf/dgo/2004</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1124223</ee>
+<url>db/conf/dgo/dgo2004.html#FitzgibbonsFGHPW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgo/FitzgibbonsFGHPW04a" mdate="2017-09-12">
+<author pid="12/2372">J. Brad Fitzgibbons</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="72/4250-1">Hao Wu 0001</author>
+<title>Simulation-Based Operations Planning for Regional Transportation Systems.</title>
+<year>2004</year>
+<crossref>conf/dgo/2004</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1124307</ee>
+<url>db/conf/dgo/dgo2004.html#FitzgibbonsFGHPW04a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/SantoroF04" mdate="2017-05-26">
+<author pid="84/4684">Andrea Santoro</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Off-Loading Data Distribution Management to Network Processors in HLA-Based Distributed Simulations.</title>
+<pages>12-19</pages>
+<year>2004</year>
+<crossref>conf/dsrt/2004</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT.2004.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DS-RT.2004.32</ee>
+<url>db/conf/dsrt/dsrt2004.html#SantoroF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LoperF04" mdate="2017-05-19">
+<author pid="41/163">Margaret L. Loper</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>A Case Study in Exploiting Temporal Uncertainty in Parallel Simulations.</title>
+<pages>161-168</pages>
+<year>2004</year>
+<crossref>conf/icpp/2004</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2004.1327916</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2004.1327916</ee>
+<url>db/conf/icpp/icpp2004.html#LoperF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/FitzgibbonsFFKS04" mdate="2017-05-19">
+<author pid="12/2372">J. Brad Fitzgibbons</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="72/539">Daniel Fellig</author>
+<author pid="51/5126">Stephen D. Kleban</author>
+<author pid="37/3532">Andrew J. Scholand</author>
+<title>IDSim: An Extensible Framework for Interoperable Distributed Simulation.</title>
+<pages>532-539</pages>
+<year>2004</year>
+<crossref>conf/icws/2004</crossref>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2004.1314779</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2004.1314779</ee>
+<url>db/conf/icws/icws2004.html#FitzgibbonsFFKS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/GuF04" mdate="2017-05-26">
+<author pid="61/2029-4">Yan Gu 0004</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>A Flexible Architecture for Remote Server-Based Emulation.</title>
+<pages>447-454</pages>
+<year>2004</year>
+<crossref>conf/mascots/2004</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2004.1348300</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2004.1348300</ee>
+<url>db/conf/mascots/mascots2004.html#GuF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/WuFGH04" mdate="2018-11-06">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="49/1042">Michael Hunter</author>
+<title>MDDV: a mobility-centric data dissemination algorithm for vehicular networks.</title>
+<pages>47-56</pages>
+<year>2004</year>
+<crossref>conf/mobicom/2004vanet</crossref>
+<booktitle>Vehicular Ad Hoc Networks</booktitle>
+<ee>https://doi.org/10.1145/1023875.1023884</ee>
+<url>db/conf/mobicom/vanet2004.html#WuFGH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/ParkFP04" mdate="2017-06-05">
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<title>Conservative Synchronization of Large-Scale Network Simulations.</title>
+<pages>153-161</pages>
+<year>2004</year>
+<crossref>conf/pads/2004</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2004.1301296</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2004.1301296</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1013355</ee>
+<url>db/conf/pads/pads2004.html#ParkFP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/RileyJFA04" mdate="2017-05-26">
+<author pid="20/6862">George F. Riley</author>
+<author pid="65/1959">Talal M. Jaafar</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<title>Space-Parallel Network Simulations Using Ghosts.</title>
+<pages>170-177</pages>
+<year>2004</year>
+<crossref>conf/pads/2004</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2004.1301298</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2004.1301298</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1013357</ee>
+<url>db/conf/pads/pads2004.html#RileyJFA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/para/KarimabadiDDOPFO04" mdate="2017-06-05">
+<author pid="35/5375">Homa Karimabadi</author>
+<author pid="57/3052">Jonathan Driscoll</author>
+<author pid="25/6473">Jagrut Dave</author>
+<author orcid="0000-0002-6362-3112" pid="86/3388">Yuri A. Omelchenko</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="18/3672">Nick Omidi</author>
+<title>Parallel Discrete Event Simulations of Grid-Based Models: Asynchronous Electromagnetic Hybrid Code.</title>
+<pages>573-582</pages>
+<year>2004</year>
+<crossref>conf/para/2004</crossref>
+<booktitle>PARA</booktitle>
+<ee>https://doi.org/10.1007/11558958_68</ee>
+<url>db/conf/para/para2004.html#KarimabadiDDOPFO04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/LoperF04" mdate="2020-03-12">
+<author pid="41/163">Margaret L. Loper</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Exploiting Temporal Uncertainty in Process-Oriented Distributed Simulations.</title>
+<pages>395-401</pages>
+<year>2004</year>
+<crossref>conf/wsc/2004</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee type="oa">http://www.informs-sim.org/wsc04papers/047.pdf</ee>
+<url>db/conf/wsc/wsc2004.html#LoperF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgo/FujimotoGL03" mdate="2015-11-20">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="62/1246">Randall Guensler</author>
+<author pid="96/3667">John D. Leonard</author>
+<title>Simulation-based Operations Planning for Regional Transportation Systems.</title>
+<year>2003</year>
+<crossref>conf/dgo/2003</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1123289</ee>
+<url>db/conf/dgo/dgo2003.html#FujimotoGL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/HeARRF03" mdate="2017-05-26">
+<author pid="51/6972">Qi He</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="20/6862">George F. Riley</author>
+<author pid="82/5278">Himanshu Raj</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Mapping Peer Behavior to Packet-level Details: A Framework for Packet-level Simulation of Peer-to-Peer Systems.</title>
+<pages>71-78</pages>
+<year>2003</year>
+<crossref>conf/mascots/2003</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2003.1240644</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2003.1240644</ee>
+<url>db/conf/mascots/mascots2003.html#HeARRF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/FujimotoPPWAR03" mdate="2017-09-12">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="20/6862">George F. Riley</author>
+<title>Large-Scale Network Simulation: How Big? How Fast?</title>
+<pages>116-</pages>
+<year>2003</year>
+<crossref>conf/mascots/2003</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2003.1240649</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2003.1240649</ee>
+<url>db/conf/mascots/mascots2003.html#FujimotoPPWAR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/XuRAF03" mdate="2017-05-26">
+<author pid="72/2830">Donghua Xu</author>
+<author pid="20/6862">George F. Riley</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Enabling Large-Scale Multicast Simulation by Reducing Memory Requirements.</title>
+<pages>69-76</pages>
+<year>2003</year>
+<crossref>conf/pads/2003</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2003.1207422</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2003.1207422</ee>
+<ee>http://dl.acm.org/citation.cfm?id=825870</ee>
+<url>db/conf/pads/pads2003.html#XuRAF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/McLeanF03" mdate="2017-05-26">
+<author pid="33/4097">Thom McLean</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Predictable Time Management for Real-Time Distributed Simulation.</title>
+<pages>89-96</pages>
+<year>2003</year>
+<crossref>conf/pads/2003</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2003.1207424</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2003.1207424</ee>
+<ee>http://dl.acm.org/citation.cfm?id=825873</ee>
+<url>db/conf/pads/pads2003.html#McLeanF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PerumallaPFR03" mdate="2017-06-05">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="34/1451">Alfred Park</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="20/6862">George F. Riley</author>
+<title>Scalable RTI-Based Parallel Simulation of Networks.</title>
+<pages>97-104</pages>
+<year>2003</year>
+<crossref>conf/pads/2003</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2003.1207425</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2003.1207425</ee>
+<ee>http://dl.acm.org/citation.cfm?id=825874</ee>
+<url>db/conf/pads/pads2003.html#PerumallaPFR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/WuFA03" mdate="2017-09-12">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<title>Time-Parallel Trace-Driven Simulation of CSMA/CD.</title>
+<pages>105-114</pages>
+<year>2003</year>
+<crossref>conf/pads/2003</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2003.1207426</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2003.1207426</ee>
+<ee>http://dl.acm.org/citation.cfm?id=825872</ee>
+<url>db/conf/pads/pads2003.html#WuFA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/ShiPF03" mdate="2017-06-05">
+<author pid="73/5220">Weidong Shi</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Power-aware State Dissemination in Mobile Distributed Virtual Environments.</title>
+<pages>181</pages>
+<year>2003</year>
+<crossref>conf/pads/2003</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2003.1207434</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2003.1207434</ee>
+<ee>http://dl.acm.org/citation.cfm?id=825864</ee>
+<url>db/conf/pads/pads2003.html#ShiPF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto03" mdate="2019-02-21">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Parallel simulation: distributed simulation systems.</title>
+<pages>124-134</pages>
+<year>2003</year>
+<crossref>conf/wsc/2003</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2003.1261415</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2003.1261415</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1030836</ee>
+<url>db/conf/wsc/wsc2003.html#Fujimoto03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/HybinetteF02" mdate="2020-02-22">
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Latency Hiding with Optimistic Computations.</title>
+<pages>427-445</pages>
+<year>2002</year>
+<volume>62</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1006/jpdc.2001.1801</ee>
+<url>db/journals/jpdc/jpdc62.html#HybinetteF02</url>
+</article>
+</r>
+<r><inproceedings key="conf/anss/Fujimoto02" mdate="2014-11-14">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Cloning Parallel Simulation Programs.</title>
+<pages>7-</pages>
+<year>2002</year>
+<crossref>conf/anss/2002</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SS.2002.10000</ee>
+<url>db/conf/anss/anss2002.html#Fujimoto02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/HybinetteF02" mdate="2017-05-21">
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Scalability of Parallel Simulation Cloning.</title>
+<pages>275-282</pages>
+<year>2002</year>
+<crossref>conf/anss/2002</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<ee>https://doi.org/10.1109/SIMSYM.2002.1000164</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIMSYM.2002.1000164</ee>
+<url>db/conf/anss/anss2002.html#HybinetteF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/HeARF02" mdate="2017-05-26">
+<author pid="51/6972">Qi He</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="20/6862">George F. Riley</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Exploiting the Predictability of TCP's Steady-State Behavior to Speed Up Network Simulation.</title>
+<pages>101-108</pages>
+<year>2002</year>
+<crossref>conf/mascots/2002</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2002.1167066</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2002.1167066</ee>
+<url>db/conf/mascots/mascots2002.html#HeARF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/RileyJF02" mdate="2017-05-26">
+<author pid="20/6862">George F. Riley</author>
+<author pid="65/1959">Talal M. Jaafar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Integrated Fluid and Packet Network Simulations.</title>
+<pages>511-518</pages>
+<year>2002</year>
+<crossref>conf/mascots/2002</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2002.1167114</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2002.1167114</ee>
+<url>db/conf/mascots/mascots2002.html#RileyJF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PerumallaFMR02" mdate="2017-06-05">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="33/4097">Thom McLean</author>
+<author pid="20/6862">George F. Riley</author>
+<title>Experiences applying parallel and interoperable network simulation techniques in on-line simulations of military networks.</title>
+<pages>97-104</pages>
+<year>2002</year>
+<crossref>conf/pads/2002</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2002.1004205</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2002.1004205</ee>
+<ee>http://dl.acm.org/citation.cfm?id=564078</ee>
+<url>db/conf/pads/pads2002.html#PerumallaFMR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/FerenciFAPR02" mdate="2017-06-05">
+<author pid="06/675">Steve L. Ferenci</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="20/6862">George F. Riley</author>
+<title>Updateable simulation of communication networks.</title>
+<pages>107-114</pages>
+<year>2002</year>
+<crossref>conf/pads/2002</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2002.1004206</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2002.1004206</ee>
+<ee>http://dl.acm.org/citation.cfm?id=564080</ee>
+<url>db/conf/pads/pads2002.html#FerenciFAPR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/BruzzoneTFGSP02" mdate="2017-06-15">
+<author pid="98/5612">Agostino G. Bruzzone</author>
+<author orcid="0000-0001-8252-0189" pid="48/6848">Simon J. E. Taylor</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="20/4420">Boon-Ping Gan</author>
+<author pid="42/1614">Steffen Stra&#223;burger</author>
+<author pid="p/RayJPaul">Ray J. Paul</author>
+<title>Panel discussion on distributed simulation and industry: potentials and pitfalls: distributed simulation and industry: potentials and pitfalls.</title>
+<pages>688-694</pages>
+<year>2002</year>
+<crossref>conf/wsc/2002</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2002.1172948</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2002.1172948</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1030549</ee>
+<url>db/conf/wsc/wsc2002.html#BruzzoneTFGSP02</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/PerumallaF01" mdate="2020-02-19">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Interactive parallel simulations with the Jane framework.</title>
+<pages>525-537</pages>
+<year>2001</year>
+<volume>17</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/S0167-739X(99)00086-2</ee>
+<url>db/journals/fgcs/fgcs17.html#PerumallaF01</url>
+</article>
+</r>
+<r><article key="journals/tomacs/HybinetteF01" mdate="2018-11-06">
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Cloning parallel simulations.</title>
+<pages>378-407</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/508366.508370</ee>
+<url>db/journals/tomacs/tomacs11.html#HybinetteF01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsrt/McLeanFF01" mdate="2017-05-26">
+<author pid="33/4097">Thom McLean</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="12/2372">J. Brad Fitzgibbons</author>
+<title>Next Generation Real-Time RTI Software.</title>
+<pages>4-11</pages>
+<year>2001</year>
+<crossref>conf/dsrt/2001</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DISTRA.2001.946436</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DISTRA.2001.946436</ee>
+<url>db/conf/dsrt/dsrt2001.html#McLeanFF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/RileyAFXP01" mdate="2018-11-30">
+<author pid="20/6862">George F. Riley</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="72/2830">Donghua Xu</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<title>Distributed Network Simulations Using the Dynamic Simulation Backplane.</title>
+<pages>181-188</pages>
+<year>2001</year>
+<crossref>conf/icdcs/2001</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDSC.2001.918947</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDSC.2001.918947</ee>
+<url>db/conf/icdcs/icdcs2001.html#RileyAFXP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/XuRAF01" mdate="2017-05-26">
+<author pid="72/2830">Donghua Xu</author>
+<author pid="20/6862">George F. Riley</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Split Protocol Stack Network Simulations Using the Dynamic Simulation Backplan.</title>
+<pages>158-</pages>
+<year>2001</year>
+<crossref>conf/mascots/2001</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2001.948865</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2001.948865</ee>
+<url>db/conf/mascots/mascots2001.html#XuRAF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/Fujimoto01" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>On-Line Simulation Techniques for Real-Time Management of Systems.</title>
+<pages>357-</pages>
+<year>2001</year>
+<crossref>conf/mascots/2001</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2001.948887</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2001.948887</ee>
+<url>db/conf/mascots/mascots2001.html#Fujimoto01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PerumallaF01" mdate="2018-11-30">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Virtual time synchronization over unreliable network transport.</title>
+<pages>129-136</pages>
+<year>2001</year>
+<crossref>conf/pads/2001</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.2001.924629</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2001.924629</ee>
+<ee>http://dl.acm.org/citation.cfm?id=375713</ee>
+<url>db/conf/pads/pads2001.html#PerumallaF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto01" mdate="2017-05-17">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel simulation: parallel and distributed simulation systems.</title>
+<pages>147-157</pages>
+<year>2001</year>
+<crossref>conf/wsc/2001</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2001.977259</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2001.977259</ee>
+<ee>http://dl.acm.org/citation.cfm?id=564145</ee>
+<url>db/conf/wsc/wsc2001.html#Fujimoto01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/WuFR01" mdate="2017-09-12">
+<author pid="72/4250-1">Hao Wu 0001</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="20/6862">George F. Riley</author>
+<title>Experiences parallelizing a commercial network simulator.</title>
+<pages>1353-1360</pages>
+<year>2001</year>
+<crossref>conf/wsc/2001</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2001.977456</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2001.977456</ee>
+<ee>http://dl.acm.org/citation.cfm?id=564321</ee>
+<url>db/conf/wsc/wsc2001.html#WuFR01</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0015434" mdate="2019-07-22">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel and distributed simulation systems.</title>
+<pages>I-XVII, 1-300</pages>
+<publisher>Wiley</publisher>
+<year>2000</year>
+<series>Wiley series on parallel and distributed computing</series>
+<isbn>978-0-471-18383-9</isbn>
+</book>
+</r>
+<r><article key="journals/tpds/CarothersF00" mdate="2020-10-02">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Efficient Execution of Time Warp Programs on Heterogeneous, NOW Platforms.</title>
+<pages>299-317</pages>
+<year>2000</year>
+<volume>11</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/71.841745</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/71.841745</ee>
+<url>db/journals/tpds/tpds11.html#CarothersF00</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsrt/FujimotoMPT00" mdate="2017-06-02">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="33/4097">Thom McLean</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="85/1949">Ivan Tacic</author>
+<title>Design of High Performance RTI Software.</title>
+<pages>89-96</pages>
+<year>2000</year>
+<crossref>conf/dsrt/2000</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DISRTA.2000.874067</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DISRTA.2000.874067</ee>
+<url>db/conf/dsrt/dsrt2000.html#FujimotoMPT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/RileyAF00" mdate="2017-05-26">
+<author pid="20/6862">George F. Riley</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Stateless Routing in Network Simulations.</title>
+<pages>524-531</pages>
+<year>2000</year>
+<crossref>conf/mascots/2000</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2000.876580</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.2000.876580</ee>
+<url>db/conf/mascots/mascots2000.html#RileyAF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/McLeanF00" mdate="2017-05-26">
+<author pid="33/4097">Thom McLean</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Repeatability in real-time distributed simulation executions.</title>
+<pages>23-32</pages>
+<year>2000</year>
+<crossref>conf/pads/2000</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2000.847141</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2000.847141</ee>
+<ee>http://dl.acm.org/citation.cfm?id=336151</ee>
+<url>db/conf/pads/pads2000.html#McLeanF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/FerenciPF00" mdate="2018-11-30">
+<author pid="06/675">Steve L. Ferenci</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>An approach for federating parallel simulators.</title>
+<pages>63-70</pages>
+<year>2000</year>
+<crossref>conf/pads/2000</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2000.847145</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2000.847145</ee>
+<ee>http://dl.acm.org/citation.cfm?id=336158</ee>
+<url>db/conf/pads/pads2000.html#FerenciPF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/RileyFA00" mdate="2017-05-26">
+<author pid="20/6862">George F. Riley</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<title>Network aware time management and event distribution.</title>
+<pages>119-126</pages>
+<year>2000</year>
+<crossref>conf/pads/2000</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2000.847153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2000.847153</ee>
+<ee>http://dl.acm.org/citation.cfm?id=336174</ee>
+<url>db/conf/pads/pads2000.html#RileyFA00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/LoperF00" mdate="2017-05-26">
+<author pid="41/163">Margaret L. Loper</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Pre-sampling as an approach for exploiting temporal uncertainty.</title>
+<pages>157-164</pages>
+<year>2000</year>
+<crossref>conf/pads/2000</crossref>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.2000.847159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.2000.847159</ee>
+<ee>http://dl.acm.org/citation.cfm?id=336183</ee>
+<url>db/conf/pads/pads2000.html#LoperF00</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/GhoshFS99" mdate="2020-05-21">
+<author pid="68/5514">Kaushik Ghosh</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<title>Composing high-performance schedulers: a case study from real-time simulation.</title>
+<pages>221-245</pages>
+<year>1999</year>
+<volume>11</volume>
+<journal>Concurr. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/concurrency/concurrency11.html#GhoshFS99</url>
+<ee>https://doi.org/10.1002/(SICI)1096-9128(19990425)11:5&#60;221::AID-CPE378&#62;3.0.CO;2-D</ee>
+</article>
+</r>
+<r><article key="journals/fgcs/CarothersTFSS99" mdate="2020-02-19">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="30/990">Brad Topol</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="s/JohnTStasko">John T. Stasko</author>
+<author pid="s/VaidySSunderam">Vaidy S. Sunderam</author>
+<title>Visualizing parallel simulations that execute in network computing environments.</title>
+<pages>513-529</pages>
+<year>1999</year>
+<volume>15</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/S0167-739X(98)00057-0</ee>
+<url>db/journals/fgcs/fgcs15.html#CarothersTFSS99</url>
+</article>
+</r>
+<r><article key="journals/tomacs/CarothersPF99" mdate="2019-06-02">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Efficient optimistic parallel simulations using reverse computation.</title>
+<pages>224-253</pages>
+<year>1999</year>
+<volume>9</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/347823.347828</ee>
+<ee>https://www.wikidata.org/entity/Q60305011</ee>
+<url>db/journals/tomacs/tomacs9.html#CarothersPF99</url>
+</article>
+</r>
+<r><inproceedings key="conf/mascots/RileyFA99" mdate="2017-05-26">
+<author pid="20/6862">George F. Riley</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="a/MHAmmar">Mostafa H. Ammar</author>
+<title>A Generic Framework for Parallelization of Network Simulations.</title>
+<pages>128-135</pages>
+<year>1999</year>
+<crossref>conf/mascots/1999</crossref>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.1999.805048</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.1999.805048</ee>
+<url>db/conf/mascots/mascots1999.html#RileyFA99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/Fujimoto99" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Exploiting Temporal Uncertainty in Parallel and Distributed Simulations.</title>
+<pages>46-53</pages>
+<year>1999</year>
+<crossref>conf/pads/1999</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1999.766160</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1999.766160</ee>
+<ee>http://dl.acm.org/citation.cfm?id=301457</ee>
+<url>db/conf/pads/pads1999.html#Fujimoto99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/CarothersPF99" mdate="2018-11-30">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Efficient Optimistic Parallel Simulations Using Reverse Computation.</title>
+<pages>126-135</pages>
+<year>1999</year>
+<crossref>conf/pads/1999</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1999.766169</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1999.766169</ee>
+<ee>http://dl.acm.org/citation.cfm?id=301467</ee>
+<url>db/conf/pads/pads1999.html#CarothersPF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto99" mdate="2021-03-09">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel and distributed simulation.</title>
+<pages>122-131</pages>
+<year>1999</year>
+<crossref>conf/wsc/1999-1</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1999.823061</ee>
+<ee>https://doi.org/10.1145/324138.324176</ee>
+<url>db/conf/wsc/wsc1999-1.html#Fujimoto99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/PageNBFFLS99" mdate="2021-03-09">
+<author pid="18/3600">Ernest H. Page</author>
+<author pid="n/DavidMNicol">David M. Nicol</author>
+<author pid="23/385">Osman Balci</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="22/2230">Paul A. Fishwick</author>
+<author pid="86/984">Pierre L'Ecuyer</author>
+<author pid="61/4208">Roger Smith</author>
+<title>Strategic directions in simulation research (panel).</title>
+<pages>1509-1520</pages>
+<year>1999</year>
+<crossref>conf/wsc/1999-2</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.1999.816887</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1999.816887</ee>
+<ee>https://doi.org/10.1145/324898.325314</ee>
+<url>db/conf/wsc/wsc1999-2.html#PageNBFFLS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CarothersPF99" mdate="2021-04-09">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>The effect of state-saving in optimistic simulation on a cache-coherent non-uniform memory access architecture.</title>
+<pages>1624-1633</pages>
+<year>1999</year>
+<crossref>conf/wsc/1999-2</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1999.816902</ee>
+<ee>https://doi.org/10.1145/324898.325340</ee>
+<url>db/conf/wsc/wsc1999-2.html#CarothersPF99</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pads/1999" mdate="2019-10-16">
+<editor pid="f/RichardMFujimoto">Richard M. Fujimoto</editor>
+<editor pid="t/StephenJohnTurner">Stephen John Turner</editor>
+<title>Proceedings of the Thirteenth Workshop on Parallel and Distributed Simulation, PADS '99, Atlanta, GA, USA, May 1-4, 1999</title>
+<publisher>IEEE Computer Society</publisher>
+<year>1999</year>
+<isbn>0-7695-0155-9</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6213/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/pads/1999/0155/00/index.html</ee>
+<ee>http://dl.acm.org/citation.cfm?id=301429</ee>
+<booktitle>PADS</booktitle>
+<url>db/conf/pads/pads1999.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cluster/RosuSF98" mdate="2020-09-29">
+<author pid="r/MarcelCatalinRosu">Marcel-Catalin Rosu</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Supporting parallel applications on clusters of workstations: The Virtual Communication Machine-based architecture.</title>
+<pages>51-67</pages>
+<year>1998</year>
+<volume>1</volume>
+<journal>Clust. Comput.</journal>
+<number>1</number>
+<url>db/journals/cluster/cluster1.html#RosuSF98</url>
+<ee>https://doi.org/10.1023/A:1019064911399</ee>
+</article>
+</r>
+<r><article key="journals/cm/BhattFOP98" mdate="2021-04-09">
+<author pid="53/4171">Sandeep Nautam Bhatt</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="36/3137">Andy Ogielski</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<title>Parallel simulation techniques for large-scale networks.</title>
+<pages>42-47</pages>
+<year>1998</year>
+<volume>36</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/35.707816</ee>
+<url>db/journals/cm/cm36.html#BhattFOP98</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/PerumallaFO98" mdate="2020-12-29">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="36/3137">Andrew T. Ogielski</author>
+<title>TED - A Language for Modeling Telecommunication Networks.</title>
+<pages>4-11</pages>
+<year>1998</year>
+<volume>25</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>4</number>
+<url>db/journals/sigmetrics/sigmetrics25.html#PerumallaFO98</url>
+<ee>https://doi.org/10.1145/274084.274085</ee>
+</article>
+</r>
+<r><article key="journals/simulation/Fujimoto98" mdate="2020-06-08">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Time Management in The High Level Architecture.</title>
+<pages>388-400</pages>
+<year>1998</year>
+<volume>71</volume>
+<journal>Simul.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1177/003754979807100604</ee>
+<url>db/journals/simulation/simulation71.html#Fujimoto98</url>
+</article>
+</r>
+<r><inproceedings key="conf/esm/Fujimoto98" mdate="2002-11-21">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Exploting Temporal Uncertainty in Distributed Simulations.</title>
+<pages>221</pages>
+<year>1998</year>
+<crossref>conf/esm/1998</crossref>
+<booktitle>ESM</booktitle>
+<url>db/conf/esm/esm1998.html#Fujimoto98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/HybinetteF98" mdate="2017-05-26">
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Dynamic Virtual Logical Processes.</title>
+<pages>100-107</pages>
+<year>1998</year>
+<crossref>conf/pads/1998</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1998.685275</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1998.685275</ee>
+<ee>http://dl.acm.org/citation.cfm?id=278021</ee>
+<url>db/conf/pads/pads1998.html#HybinetteF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/TacicF98" mdate="2017-05-26">
+<author pid="85/1949">Ivan Tacic</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Synchronized Data Distribution Management in Distributed Simulations.</title>
+<pages>108-115</pages>
+<year>1998</year>
+<crossref>conf/pads/1998</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1998.685276</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1998.685276</ee>
+<ee>http://dl.acm.org/citation.cfm?id=278022</ee>
+<url>db/conf/pads/pads1998.html#TacicF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/PerumallaF98" mdate="2018-11-30">
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Efficient Large-Scale Process-Oriented Parallel Simulations.</title>
+<pages>459-466</pages>
+<year>1998</year>
+<crossref>conf/wsc/1998</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1998.745022</ee>
+<ee>http://dl.acm.org/citation.cfm?id=293264</ee>
+<url>db/conf/wsc/wsc1998.html#PerumallaF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/DahmannFW98" mdate="2017-05-17">
+<author pid="07/6966">Judith S. Dahmann</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="63/6342">Richard M. Weatherly</author>
+<title>The DoD High Level Architecture: an update.</title>
+<pages>797-804</pages>
+<year>1998</year>
+<crossref>conf/wsc/1998</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.1998.745066</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1998.745066</ee>
+<ee>http://dl.acm.org/citation.cfm?id=293308</ee>
+<url>db/conf/wsc/wsc1998.html#DahmannFW98</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/AkyildizJFN97" mdate="2020-05-14">
+<author pid="a/IAAkyildiz">Ian F. Akyildiz</author>
+<author pid="58/4172">Inwhee Joe</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="90/1785">Ioanis Nikolaidis</author>
+<title>Parallel simulation of end-to-end ATM models.</title>
+<pages>617-630</pages>
+<year>1997</year>
+<volume>29</volume>
+<journal>Comput. Networks ISDN Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0169-7552(97)00111-6</ee>
+<url>db/journals/cn/cn29.html#AkyildizJFN97</url>
+</article>
+</r>
+<r><article key="journals/tomacs/DasF97" mdate="2018-11-06">
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Adaptive Memory Management and Optimism Control in Time Warp.</title>
+<pages>239-271</pages>
+<year>1997</year>
+<volume>7</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>2</number>
+<url>db/journals/tomacs/tomacs7.html#DasF97</url>
+<ee>https://doi.org/10.1145/249204.249207</ee>
+</article>
+</r>
+<r><article key="journals/tomacs/FujimotoH97" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<title>Computing Global Virtual Time in Shared-Memory Multiprocessors.</title>
+<pages>425-446</pages>
+<year>1997</year>
+<volume>7</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>4</number>
+<url>db/journals/tomacs/tomacs7.html#FujimotoH97</url>
+<ee>https://doi.org/10.1145/268403.268404</ee>
+</article>
+</r>
+<r><article key="journals/tpds/DasF97" mdate="2020-10-02">
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>An Empirical Evaluation of Performance-Memory Trade-Offs in Time Warp.</title>
+<pages>210-224</pages>
+<ee>https://doi.org/10.1109/71.577269</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/71.577269</ee>
+<year>1997</year>
+<volume>8</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>2</number>
+<url>db/journals/tpds/tpds8.html#DasF97</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpdc/RosuSF97" mdate="2017-05-24">
+<author pid="r/MarcelCatalinRosu">Marcel-Catalin Rosu</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Supporting Parallel Applications on Clusters of Workstations: The Intelligent Network Interface Approach.</title>
+<pages>159-168</pages>
+<year>1997</year>
+<crossref>conf/hpdc/1997</crossref>
+<booktitle>HPDC</booktitle>
+<ee>https://doi.org/10.1109/HPDC.1997.622372</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HPDC.1997.622372</ee>
+<url>db/conf/hpdc/hpdc1997.html#RosuSF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PanesarF97" mdate="2017-05-26">
+<author pid="08/865">Kiran S. Panesar</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Adaptive Flow Control in Time Warp.</title>
+<pages>108-115</pages>
+<year>1997</year>
+<crossref>conf/pads/1997</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1997.594593</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1997.594593</ee>
+<ee>http://dl.acm.org/citation.cfm?id=268908</ee>
+<url>db/conf/pads/pads1997.html#PanesarF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CarothersTFSS97" mdate="2018-11-06">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="30/990">Brad Topol</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="s/JohnTStasko">John T. Stasko</author>
+<author pid="s/VaidySSunderam">Vaidy S. Sunderam</author>
+<title>Visualizing Parallel Simulations in Network Computing Environments: A Case Study.</title>
+<pages>110-117</pages>
+<year>1997</year>
+<crossref>conf/wsc/1997</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1997.640386</ee>
+<ee>https://doi.org/10.1145/268437.268459</ee>
+<url>db/conf/wsc/wsc1997.html#CarothersTFSS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/DahmannFW97" mdate="2018-11-06">
+<author pid="07/6966">Judith S. Dahmann</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="63/6342">Richard M. Weatherly</author>
+<title>The Department of Defense High Level Architecture.</title>
+<pages>142-149</pages>
+<year>1997</year>
+<crossref>conf/wsc/1997</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1997.640390</ee>
+<ee>https://doi.org/10.1145/268437.268465</ee>
+<url>db/conf/wsc/wsc1997.html#DahmannFW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CarothersFWW97" mdate="2018-11-06">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="63/6342">Richard M. Weatherly</author>
+<author pid="58/2203">Annette L. Wilson</author>
+<title>Design and Implementation of HLA Time Management in the RTI Version F.0.</title>
+<pages>373-380</pages>
+<year>1997</year>
+<crossref>conf/wsc/1997</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1997.640423</ee>
+<ee>https://doi.org/10.1145/268437.268511</ee>
+<url>db/conf/wsc/wsc1997.html#CarothersFWW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HybinetteF97" mdate="2018-11-06">
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Cloning: A Novel Method for Interactive Parallel Simulation.</title>
+<pages>444-451</pages>
+<year>1997</year>
+<crossref>conf/wsc/1997</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1997.640903</ee>
+<ee>https://doi.org/10.1145/268437.268523</ee>
+<url>db/conf/wsc/wsc1997.html#HybinetteF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/NikolaidisCPF97" mdate="2018-11-06">
+<author pid="90/1785">Ioanis Nikolaidis</author>
+<author pid="69/6780">C. Anthony Cooper</author>
+<author orcid="0000-0002-7458-0832" pid="15/4026">Kalyan S. Perumalla</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Time-Parallel Generation of Self-Similar ATM Traffic.</title>
+<pages>1071-1078</pages>
+<year>1997</year>
+<crossref>conf/wsc/1997</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1997.640993</ee>
+<ee>https://doi.org/10.1145/268437.268742</ee>
+<url>db/conf/wsc/wsc1997.html#NikolaidisCPF97</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcs/FujimotoH96" mdate="2020-04-16">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="55/4857">William C. Hare</author>
+<title>Accuracy of Multiprocessor Tracing Techniques.</title>
+<pages>3-</pages>
+<year>1996</year>
+<volume>6</volume>
+<journal>Int. J. Comput. Simul.</journal>
+<number>1</number>
+<url>db/journals/ijcs/ijcs6.html#FujimotoH96</url>
+</article>
+</r>
+<r><inproceedings key="conf/pads/CarothersF96" mdate="2017-05-26">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Background Execution of Time Warp Programs.</title>
+<pages>12-19</pages>
+<year>1996</year>
+<crossref>conf/pads/1996</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1996.761558</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1996.761558</ee>
+<ee>http://dl.acm.org/citation.cfm?id=238802</ee>
+<url>db/conf/pads/pads1996.html#CarothersF96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/FujimotoW96" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="63/6342">Richard M. Weatherly</author>
+<title>Time Management in the DoD High Level Architecture.</title>
+<pages>60-67</pages>
+<year>1996</year>
+<crossref>conf/pads/1996</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<ee>https://doi.org/10.1109/PADS.1996.761563</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1996.761563</ee>
+<ee>http://dl.acm.org/citation.cfm?id=238817</ee>
+<url>db/conf/pads/pads1996.html#FujimotoW96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/HaoWFZ96" mdate="2018-11-06">
+<author pid="01/4221">Fang Hao</author>
+<author pid="12/6726">Karen Wilson</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="z/EllenWZegura">Ellen W. Zegura</author>
+<title>Logical Process Size in Parallel Simulations.</title>
+<pages>645-652</pages>
+<year>1996</year>
+<crossref>conf/wsc/1996</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1996.873346</ee>
+<ee>https://doi.org/10.1145/256562.256778</ee>
+<url>db/conf/wsc/wsc1996.html#HaoWFZ96</url>
+</inproceedings>
+</r>
+<r><article key="journals/deds/FujimotoNC95" mdate="2020-06-08">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="90/1785">Ioanis Nikolaidis</author>
+<author pid="69/6780">C. Anthony Cooper</author>
+<title>Parallel simulation of statistical multiplexers.</title>
+<pages>115-140</pages>
+<year>1995</year>
+<volume>5</volume>
+<journal>Discret. Event Dyn. Syst.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/BF01439037</ee>
+<url>db/journals/deds/deds5.html#FujimotoNC95</url>
+</article>
+</r>
+<r><inproceedings key="conf/pads/CarothersFL95" mdate="2017-05-26">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="l/YiBingLin">Yi-Bing Lin</author>
+<title>A case study in simulating PCS networks using time warp.</title>
+<pages>87-94</pages>
+<year>1995</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.1995.404313</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1995.404313</ee>
+<ee>http://dl.acm.org/citation.cfm?id=214309</ee>
+<crossref>conf/pads/1995</crossref>
+<url>db/conf/pads/pads1995.html#CarothersFL95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/FujimotoP95" mdate="2017-05-26">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="08/865">Kiran S. Panesar</author>
+<title>Buffer management in shared-memory time warp systems.</title>
+<pages>149-156</pages>
+<year>1995</year>
+<booktitle>PADS</booktitle>
+<ee>https://doi.org/10.1109/PADS.1995.404306</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PADS.1995.404306</ee>
+<ee>http://dl.acm.org/citation.cfm?id=214330</ee>
+<crossref>conf/pads/1995</crossref>
+<url>db/conf/pads/pads1995.html#FujimotoP95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/ShahRF95" mdate="2018-11-06">
+<author pid="68/3396">Gautam Shah</author>
+<author pid="r/URamachandran">Umakishore Ramachandran</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Timepatch: A Novel Technique for the Parallel Simulation of Multiprocessor Caches.</title>
+<pages>315-316</pages>
+<year>1995</year>
+<crossref>conf/sigmetrics/1995</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics95.html#ShahRF95</url>
+<ee>https://doi.org/10.1145/223587.223628</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto95" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel and Distributed Simulation.</title>
+<pages>118-125</pages>
+<year>1995</year>
+<crossref>conf/wsc/1995</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.1995.478713</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1995.478713</ee>
+<ee>https://doi.org/10.1145/224401.224452</ee>
+<url>db/conf/wsc/wsc1995.html#Fujimoto95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CarothersLF95" mdate="2018-11-06">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="l/YiBingLin">Yi-Bing Lin</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Simulating Population Dependent PCS Network Models Using Time Warp.</title>
+<pages>555-562</pages>
+<year>1995</year>
+<crossref>conf/wsc/1995</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.1995.478792</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1995.478792</ee>
+<ee>https://doi.org/10.1145/224401.224684</ee>
+<url>db/conf/wsc/wsc1995.html#CarothersLF95</url>
+</inproceedings>
+</r>
+<r><article key="journals/anor/NicolF94" mdate="2020-08-13">
+<author pid="n/DavidMNicol">David M. Nicol</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel simulation today.</title>
+<pages>249-285</pages>
+<year>1994</year>
+<volume>53</volume>
+<journal>Ann. Oper. Res.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF02136831</ee>
+<url>db/journals/anor/anor53.html#NicolF94</url>
+</article>
+</r>
+<r><inproceedings key="conf/mascots/CarothersFLE94" mdate="2019-02-13">
+<author pid="60/5771">Christopher D. Carothers</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="l/YiBingLin">Yi-Bing Lin</author>
+<author pid="51/3259">Paul England</author>
+<title>Distributed Simulation of Large-Scale PCS Networks.</title>
+<pages>2-6</pages>
+<year>1994</year>
+<crossref>conf/mascots/1994</crossref>
+<booktitle>MASCOTS</booktitle>
+<url>db/conf/mascots/mascots1994.html#CarothersFLE94</url>
+<ee>https://doi.org/10.1109/MASCOT.1994.284456</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MASCOT.1994.284456</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/DasF94" mdate="2018-11-06">
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>An Adaptive Memory Management Protocol for Time Warp Simulation.</title>
+<pages>201-210</pages>
+<year>1994</year>
+<crossref>conf/sigmetrics/1994</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics94.html#DasF94</url>
+<ee>https://doi.org/10.1145/183018.183041</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/NikolaidisFC94" mdate="2018-11-06">
+<author pid="90/1785">Ioanis Nikolaidis</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="69/6780">C. Anthony Cooper</author>
+<title>Time-Parallel Simulation of Cascaded Statistical Multiplexers.</title>
+<pages>231-240</pages>
+<year>1994</year>
+<crossref>conf/sigmetrics/1994</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics94.html#NikolaidisFC94</url>
+<ee>https://doi.org/10.1145/183018.183044</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/DasFPAH94" mdate="2017-05-17">
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="08/865">Kiran S. Panesar</author>
+<author pid="88/2641">Don Allison</author>
+<author pid="h/MariaHybinette">Maria Hybinette</author>
+<title>GTW: a time warp system for shared memory multiprocessors.</title>
+<pages>1332-1339</pages>
+<year>1994</year>
+<crossref>conf/wsc/1994</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.1994.717527</ee>
+<ee>http://dl.acm.org/citation.cfm?id=194885</ee>
+<url>db/conf/wsc/wsc1994.html#DasFPAH94</url>
+</inproceedings>
+</r>
+<r><article key="journals/informs/Fujimoto93" mdate="2020-03-15">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Feature Article - Parallel Discrete Event Simulation: Will the Field Survive?</title>
+<pages>213-230</pages>
+<year>1993</year>
+<volume>5</volume>
+<journal>INFORMS J. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1287/ijoc.5.3.213</ee>
+<url>db/journals/informs/informs5.html#Fujimoto93</url>
+</article>
+</r>
+<r><article key="journals/informs/Fujimoto93a" mdate="2020-03-15">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Rejoinder - Future Directions in Parallel Simulation Research.</title>
+<pages>245-248</pages>
+<year>1993</year>
+<volume>5</volume>
+<journal>INFORMS J. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1287/ijoc.5.3.245</ee>
+<url>db/journals/informs/informs5.html#Fujimoto93a</url>
+</article>
+</r>
+<r><article key="journals/jpdc/AkyildizCDFS93" mdate="2020-02-22">
+<author pid="a/IAAkyildiz">Ian F. Akyildiz</author>
+<author pid="01/5394">Liang Chen</author>
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="94/5290">Richard F. Serfozo</author>
+<title>The Effect of Memory Capacity on Time Warp Performance.</title>
+<pages>411-422</pages>
+<year>1993</year>
+<volume>18</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>4</number>
+<url>db/journals/jpdc/jpdc18.html#AkyildizCDFS93</url>
+<ee>https://doi.org/10.1006/jpdc.1993.1074</ee>
+</article>
+</r>
+<r><article key="journals/jpdc/MadisettiHF93" mdate="2020-02-22">
+<author pid="34/3639">Vijay K. Madisetti</author>
+<author pid="57/5722">David A. Hardaker</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>The MIMDIX Environment for Parallel Simulation.</title>
+<pages>473-483</pages>
+<year>1993</year>
+<volume>18</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>4</number>
+<url>db/journals/jpdc/jpdc18.html#MadisettiHF93</url>
+<ee>https://doi.org/10.1006/jpdc.1993.1078</ee>
+</article>
+</r>
+<r><article key="journals/tocs/GopalakrishnanF93" mdate="2018-11-06">
+<author pid="g/GGopalakrishnan">Ganesh Gopalakrishnan</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Design and Verification of the Rollback Chip Using HOP: A Case Study of Formal Methods Applied to Hardware design.</title>
+<pages>109-145</pages>
+<year>1993</year>
+<volume>11</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/tocs/tocs11.html#GopalakrishnanF93</url>
+<ee>https://doi.org/10.1145/151244.151245</ee>
+</article>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto93" mdate="2019-02-21">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Parallel and distributed discrete event simulation: algorithms and applications.</title>
+<pages>106-114</pages>
+<year>1993</year>
+<crossref>conf/wsc/1993</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1145/256563.256596</ee>
+<ee>https://doi.org/10.1109/WSC.1993.718035</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1993.718035</ee>
+<url>db/conf/wsc/wsc1993.html#Fujimoto93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/TsaiF93" mdate="2019-02-21">
+<author pid="96/4655">Jya-Jang Tsai</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Automatic parallelization of discrete event simulation programs.</title>
+<pages>697-705</pages>
+<year>1993</year>
+<crossref>conf/wsc/1993</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1145/256563.256818</ee>
+<ee>https://doi.org/10.1109/WSC.1993.718309</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1993.718309</ee>
+<url>db/conf/wsc/wsc1993.html#TsaiF93</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/FujimotoTG92" mdate="2017-05-20">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="96/4655">Jya-Jang Tsai</author>
+<author pid="g/GGopalakrishnan">Ganesh Gopalakrishnan</author>
+<title>Design and Evaluation of the Rollback Chip: Special Purpose Hardware for Time Warp.</title>
+<pages>68-82</pages>
+<year>1992</year>
+<volume>41</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>1</number>
+<url>db/journals/tc/tc41.html#FujimotoTG92</url>
+<ee>https://doi.org/10.1109/12.123382</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/12.123382</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sigmetrics/AkyildizCDFS92" mdate="2018-11-06">
+<author pid="a/IAAkyildiz">Ian F. Akyildiz</author>
+<author pid="01/5394">Liang Chen</author>
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="94/5290">Richard F. Serfozo</author>
+<title>Performance Analysis of &#34;Time Warp&#34; with Limited Memory.</title>
+<pages>213-224</pages>
+<year>1992</year>
+<crossref>conf/sigmetrics/1992</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics92.html#AkyildizCDFS92</url>
+<ee>https://doi.org/10.1145/133057.133109</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FujimotoN92" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="n/DavidMNicol">David M. Nicol</author>
+<title>State of the art in parallel simulation.</title>
+<pages>246-254</pages>
+<year>1992</year>
+<crossref>conf/wsc/1992</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1145/167293.167344</ee>
+<url>db/conf/wsc/wsc1992.html#FujimotoN92</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigarch/Fujimoto91" mdate="2020-07-30">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>The virtual machine.</title>
+<pages>35-44</pages>
+<year>1991</year>
+<volume>19</volume>
+<journal>SIGARCH Comput. Archit. News</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/121956.121960</ee>
+<url>db/journals/sigarch/sigarch19.html#Fujimoto91</url>
+</article>
+</r>
+<r><article key="journals/tomacs/LomowDF91" mdate="2018-11-06">
+<author pid="36/1537">Greg Lomow</author>
+<author pid="90/4174">Samir Ranjan Das</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Mechanisms for User-Invoked Retraction of Events in Time Warp.</title>
+<pages>219-243</pages>
+<year>1991</year>
+<volume>1</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/140765.214308</ee>
+<url>db/journals/tomacs/tomacs1.html#LomowDF91</url>
+</article>
+</r>
+<r><article key="journals/tse/GuptaAF91" mdate="2017-05-17">
+<author pid="89/912">Anurag Gupta</author>
+<author pid="a/IAAkyildiz">Ian F. Akyildiz</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Performance Analysis of Time Warp With Multiple Homogeneous Processors.</title>
+<pages>1013-1027</pages>
+<ee>https://doi.org/10.1109/32.99190</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.99190</ee>
+<year>1991</year>
+<volume>17</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<url>db/journals/tse/tse17.html#GuptaAF91</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/GhoshF91" mdate="2014-07-28">
+<author pid="68/5514">Kaushik Ghosh</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel Discrete Event Simulation Using Space-Time Memory.</title>
+<pages>201-208</pages>
+<year>1991</year>
+<crossref>conf/icpp/1991-3</crossref>
+<booktitle>ICPP (3)</booktitle>
+<url>db/conf/icpp/icpp1991-3.html#GhoshF91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/GuptaAF91" mdate="2019-08-04">
+<author pid="89/912">Anurag Gupta</author>
+<author pid="a/IAAkyildiz">Ian F. Akyildiz</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Performance Analysis of Time Warp with Homogeneous Processors and Exponential Task Times.</title>
+<pages>101-110</pages>
+<year>1991</year>
+<crossref>conf/sigmetrics/1991</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics91.html#GuptaAF91</url>
+<ee>https://doi.org/10.1145/107971.107983</ee>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/Fujimoto90" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Parallel Discrete Event Simulation.</title>
+<pages>30-53</pages>
+<year>1990</year>
+<volume>33</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm33.html#Fujimoto90</url>
+<ee>https://doi.org/10.1145/84537.84545</ee>
+</article>
+</r>
+<r><article key="journals/integration/RajopadhyeF90" mdate="2020-02-20">
+<author pid="r/SanjayVRajopadhye">Sanjay V. Rajopadhye</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Automating the design of systolic arrays.</title>
+<pages>225-242</pages>
+<year>1990</year>
+<volume>9</volume>
+<journal>Integr.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0167-9260(90)90017-U</ee>
+<url>db/journals/integration/integration9.html#RajopadhyeF90</url>
+</article>
+</r>
+<r><article key="journals/pc/RajopadhyeF90" mdate="2020-02-22">
+<author pid="r/SanjayVRajopadhye">Sanjay V. Rajopadhye</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Synthesizing systolic arrays from recurrence equations.</title>
+<pages>163-189</pages>
+<year>1990</year>
+<volume>14</volume>
+<journal>Parallel Comput.</journal>
+<number>2</number>
+<url>db/journals/pc/pc14.html#RajopadhyeF90</url>
+<ee>https://doi.org/10.1016/0167-8191(90)90105-I</ee>
+</article>
+</r>
+<r><article key="journals/integration/GopalakrishnanFAM89" mdate="2020-02-20">
+<author pid="g/GGopalakrishnan">Ganesh Gopalakrishnan</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="a/VenkateshAkella">Venkatesh Akella</author>
+<author pid="30/3950">Narayana Mani</author>
+<title>HOP: A process model for synchronous hardware; semantics and experiments in process composition.</title>
+<pages>209-247</pages>
+<year>1989</year>
+<volume>8</volume>
+<journal>Integr.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0167-9260(89)90018-7</ee>
+<ee>https://www.wikidata.org/entity/Q56966883</ee>
+<url>db/journals/integration/integration8.html#GopalakrishnanFAM89</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/Fujimoto89" mdate="2014-07-28">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Time Warp on a Shared Memory Multiprocessor.</title>
+<pages>242-249</pages>
+<year>1989</year>
+<crossref>conf/icpp/1989-3</crossref>
+<booktitle>ICPP (3)</booktitle>
+<url>db/conf/icpp/icpp1989-3.html#Fujimoto89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/Fujimoto89" mdate="2018-11-21">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>The Virtual Time Machine.</title>
+<pages>199-208</pages>
+<year>1989</year>
+<crossref>conf/spaa/1989</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/72935.72957</ee>
+<url>db/conf/spaa/spaa89.html#Fujimoto89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Fujimoto89" mdate="2019-02-21">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Parallel discrete event simulation.</title>
+<pages>19-28</pages>
+<year>1989</year>
+<crossref>conf/wsc/1989</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1145/76738.76741</ee>
+<ee>https://doi.org/10.1109/WSC.1989.718657</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.1989.718657</ee>
+<url>db/conf/wsc/wsc1989.html#Fujimoto89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/FengF88" mdate="2014-07-28">
+<author pid="32/5010">Hwa-chung Feng</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>A Shared Memory Algorithm And Performance Evaluation Of the Generalized Alternative Construct In CSP.</title>
+<pages>176-179</pages>
+<year>1988</year>
+<crossref>conf/icpp/1988-2</crossref>
+<booktitle>ICPP (2)</booktitle>
+<url>db/conf/icpp/icpp1988-2.html#FengF88</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/FujimotoTG88" mdate="2019-02-12">
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<author pid="96/4655">Jya-Jang Tsai</author>
+<author pid="g/GGopalakrishnan">Ganesh Gopalakrishnan</author>
+<title>Design and Performance of Special Purpose Hardware for Time Warp.</title>
+<pages>401-408</pages>
+<year>1988</year>
+<crossref>conf/isca/1988</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca88.html#FujimotoTG88</url>
+<ee>https://doi.org/10.1109/ISCA.1988.5251</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.1988.5251</ee>
+<ee>http://dl.acm.org/citation.cfm?id=52445</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/FujimotoF87" mdate="2020-04-01">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="32/5010">Hwa-chung Feng</author>
+<title>A shared memory algorithm and proof for the generalized alternative construct in CSP.</title>
+<pages>215-241</pages>
+<year>1987</year>
+<volume>16</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/BF01407934</ee>
+<url>db/journals/ijpp/ijpp16.html#FujimotoF87</url>
+</article>
+</r>
+<r><inproceedings key="conf/parle/RajopadhyeF87" mdate="2017-05-19">
+<author pid="r/SanjayVRajopadhye">Sanjay V. Rajopadhye</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>Systolic Array Synthesis by Static Analysis of Program Dependencies.</title>
+<pages>295-310</pages>
+<year>1987</year>
+<crossref>conf/parle/1987-1</crossref>
+<booktitle>PARLE (1)</booktitle>
+<url>db/conf/parle/parle87-1.html#RajopadhyeF87</url>
+<ee>https://doi.org/10.1007/3-540-17943-7_135</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/SwopeF87" mdate="2018-11-06">
+<author pid="163/3268">Steven M. Swope</author>
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<title>Optimal performance of distributed simulation programs.</title>
+<pages>612-617</pages>
+<year>1987</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1145/318371.318672</ee>
+<crossref>conf/wsc/1987</crossref>
+<url>db/conf/wsc/wsc1987.html#SwopeF87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FujimotoC87" mdate="2018-11-06">
+<author pid="f/RichardMFujimoto">Richard M. Fujimoto</author>
+<author pid="163/3436">William B. Campbell</author>
+<title>Direct execution models of processor behavior and performance.</title>
+<pages>751-758</pages>
+<year>1987</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1145/318371.318694</ee>
+<crossref>conf/wsc/1987</crossref>
+<url>db/conf/wsc/wsc1987.html#FujimotoC87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/RajopadhyePF86" mdate="2017-05-19">
+<author pid="r/SanjayVRajopadhye">Sanjay V. Rajopadhye</author>
+<author pid="i/SPurushothamanIyer">S. Purushothaman</author>
+<author pid="f/RichardMFujimoto">Richard Fujimoto</author>
+<title>On Synthesizing Systolic Arrays from Recurrence Equations with Linear Dependencies.</title>
+<pages>488-503</pages>
+<year>1986</year>
+<crossref>conf/fsttcs/1986</crossref>
+<booktitle>FSTTCS</booktitle>
+<url>db/conf/fsttcs/fsttcs86.html#RajopadhyePF86</url>
+<ee>https://doi.org/10.1007/3-540-17179-7_30</ee>
+</inproceedings>
+</r>
+<coauthors n="199" nc="4">
+<co c="0"><na f="a/Akella:Venkatesh" pid="a/VenkateshAkella">Venkatesh Akella</na></co>
+<co c="0"><na f="a/Akyildiz:Ian_F=" pid="a/IAAkyildiz">Ian F. Akyildiz</na></co>
+<co c="0"><na f="a/Alexopoulos:Christos" pid="32/5122">Christos Alexopoulos</na></co>
+<co c="0"><na f="a/Allison:Don" pid="88/2641">Don Allison</na></co>
+<co c="0"><na f="a/Ammar:Mostafa_H=" pid="a/MHAmmar">Mostafa H. Ammar</na></co>
+<co c="0"><na f="a/Andrad=oacute=ttir:Sigr=uacute=n" pid="41/4916">Sigr&#250;n Andrad&#243;ttir</na></co>
+<co c="0"><na f="a/Ayani:Rassul" pid="03/5723">Rassul Ayani</na></co>
+<co c="0"><na f="b/Bagrodia:Rajive_L=" pid="b/RBagrodia">Rajive L. Bagrodia</na></co>
+<co c="0"><na f="b/Baker:Brandon" pid="82/6903">Brandon Baker</na></co>
+<co c="0"><na f="b/Balci:Osman" pid="23/385">Osman Balci</na></co>
+<co c="0"><na f="b/Barjis:Joseph" pid="b/JosephBarjis">Joseph Barjis</na></co>
+<co c="0" n="2"><na f="b/Bhatt:Sandeep_N=" pid="53/4171">Sandeep N. Bhatt</na><na>Sandeep Nautam Bhatt</na></co>
+<co c="0"><na f="b/Biswas:Aradhya" pid="163/8631">Aradhya Biswas</na></co>
+<co c="0"><na f="b/Blasch:Erik" pid="01/4960">Erik Blasch</na></co>
+<co c="0"><na f="b/Bruzzone:Agostino_G=" pid="98/5612">Agostino G. Bruzzone</na></co>
+<co c="0"><na f="b/Bryant:Randal_E=" pid="b/REBryant">Randal E. Bryant</na></co>
+<co c="0"><na f="c/Cai_0001:Wentong" pid="83/3179">Wentong Cai 0001</na></co>
+<co c="-1"><na f="c/Campbell:William_B=" pid="163/3436">William B. Campbell</na></co>
+<co c="0"><na f="c/Carothers:Christopher_D=" pid="60/5771">Christopher D. Carothers</na></co>
+<co c="0"><na f="c/Celik:Nurcin" pid="48/8423">Nurcin Celik</na></co>
+<co c="0"><na f="c/Chandy:K=_Mani" pid="c/KManiChandy">K. Mani Chandy</na></co>
+<co c="1"><na f="c/Chao:Zenas_C=" pid="117/3691">Zenas C. Chao</na></co>
+<co c="0"><na f="c/Chen:Liang" pid="01/5394">Liang Chen</na></co>
+<co c="0"><na f="c/Chilukuri:Bhargava_R=" pid="149/8217">Bhargava R. Chilukuri</na></co>
+<co c="0"><na f="c/Combs:C=_Donald" pid="43/9979">C. Donald Combs</na></co>
+<co c="0"><na f="c/Cooper:C=_Anthony" pid="69/6780">C. Anthony Cooper</na></co>
+<co c="0"><na f="c/Crittenden:John" pid="52/4901">John Crittenden</na></co>
+<co c="0"><na f="d/Dahmann:Judith_S=" pid="07/6966">Judith S. Dahmann</na></co>
+<co c="0"><na f="d/Damgacioglu:Haluk" pid="164/1734">Haluk Damgacioglu</na></co>
+<co c="0"><na f="d/Darema:Frederica" pid="65/5213">Frederica Darema</na></co>
+<co c="0"><na f="d/Das:Samir_Ranjan" pid="90/4174">Samir Ranjan Das</na></co>
+<co c="0"><na f="d/Dave:Jagrut" pid="25/6473">Jagrut Dave</na></co>
+<co c="0"><na f="d/Dilkina:Bistra" pid="30/5718">Bistra Dilkina</na></co>
+<co c="0"><na f="d/Driscoll:Jonathan" pid="57/3052">Jonathan Driscoll</na></co>
+<co c="0"><na f="e/England:Paul" pid="51/3259">Paul England</na></co>
+<co c="0"><na f="e/Ewald:Roland" pid="30/5042">Roland Ewald</na></co>
+<co c="0"><na f="f/Fellig:Daniel" pid="72/539">Daniel Fellig</na></co>
+<co c="-1"><na f="f/Feng:Hwa=chung" pid="32/5010">Hwa-chung Feng</na></co>
+<co c="0"><na f="f/Ferenci:Steve_L=" pid="06/675">Steve L. Ferenci</na></co>
+<co c="0"><na f="f/Ferscha:Alois" pid="f/AloisFerscha">Alois Ferscha</na></co>
+<co c="0"><na f="f/Fishwick:Paul_A=" pid="22/2230">Paul A. Fishwick</na></co>
+<co c="0"><na f="f/Fitzgibbons:J=_Brad" pid="12/2372">J. Brad Fitzgibbons</na></co>
+<co c="0"><na f="f/Fox:Geoffrey_C=" pid="f/GeoffreyFox">Geoffrey C. Fox</na></co>
+<co c="0"><na f="g/Gan:Boon=Ping" pid="20/4420">Boon-Ping Gan</na></co>
+<co c="0"><na f="g/Ghosh:Kaushik" pid="68/5514">Kaushik Ghosh</na></co>
+<co c="0"><na f="g/Goldsman:David" pid="84/2698">David Goldsman</na></co>
+<co c="0"><na f="g/Gopalakrishnan:Ganesh" pid="g/GGopalakrishnan">Ganesh Gopalakrishnan</na></co>
+<co c="0"><na f="g/Greenwood:Aaron" pid="126/4163">Aaron Greenwood</na></co>
+<co c="-1"><na f="g/Gu_0004:Yan" pid="61/2029-4">Yan Gu 0004</na></co>
+<co c="0"><na f="g/Guensler:Randall" pid="62/1246">Randall Guensler</na></co>
+<co c="0"><na f="g/Guin:Angshuman" pid="15/6848">Angshuman Guin</na></co>
+<co c="0"><na f="g/Gupta:Anurag" pid="89/912">Anurag Gupta</na></co>
+<co c="0"><na f="h/Hagler:Edward" pid="92/8421">Edward Hagler</na></co>
+<co c="0"><na f="h/Hamilton_Jr=:John_A=" pid="h/JohnAHamilton">John A. Hamilton Jr.</na></co>
+<co c="0"><na f="h/Hao:Fang" pid="01/4221">Fang Hao</na></co>
+<co c="3"><na f="h/Hardaker:David_A=" pid="57/5722">David A. Hardaker</na></co>
+<co c="-1"><na f="h/Hare:William_C=" pid="55/4857">William C. Hare</na></co>
+<co c="0"><na f="h/Harvey:Toyan" pid="13/2354">Toyan Harvey</na></co>
+<co c="0"><na f="h/He:Qi" pid="51/6972">Qi He</na></co>
+<co c="0"><na f="h/Henclewood:Dwayne" pid="77/1763">Dwayne Henclewood</na></co>
+<co c="0"><na f="h/Hou:Cong" pid="11/1470">Cong Hou</na></co>
+<co c="0"><na f="h/Hsu:Wen=Jing" pid="26/4850">Wen-Jing Hsu</na></co>
+<co c="0"><na f="h/Huang:Jen=Chih" pid="16/934">Jen-Chih Huang</na></co>
+<co c="0"><na f="h/Huang:Shell=Ying" pid="61/3119">Shell-Ying Huang</na></co>
+<co c="0"><na f="h/Huang:Ya=Lin" pid="37/8662">Ya-Lin Huang</na></co>
+<co c="0" n="2"><na f="h/Hunter:Michael" pid="49/1042">Michael Hunter</na><na>Michael P. Hunter</na></co>
+<co c="0"><na f="h/Hybinette:Maria" pid="h/MariaHybinette">Maria Hybinette</na></co>
+<co c="2" n="2"><na f="i/Iyer:S=_Purushothaman" pid="i/SPurushothamanIyer">S. Purushothaman Iyer</na><na>S. Purushothaman</na></co>
+<co c="0"><na f="j/Jaafar:Talal_M=" pid="65/1959">Talal M. Jaafar</na></co>
+<co c="0"><na f="j/Jackson:Mark" pid="186/3481">Mark Jackson</na></co>
+<co c="0"><na f="j/Jain:Ajitesh" pid="175/4498">Ajitesh Jain</na></co>
+<co c="0"><na f="j/Jefferson:David" pid="58/5163">David Jefferson</na></co>
+<co c="0"><na f="j/Jefferson:David_R=" pid="21/5579">David R. Jefferson</na></co>
+<co c="0"><na f="j/Jeschke:Matthias" pid="50/289">Matthias Jeschke</na></co>
+<co c="0"><na f="j/Jiao:Xiangmin" pid="46/6754">Xiangmin Jiao</na></co>
+<co c="0"><na f="j/Jin:Dong" pid="66/360">Dong Jin</na></co>
+<co c="0"><na f="j/Joe:Inwhee" pid="58/4172">Inwhee Joe</na></co>
+<co c="0"><na f="j/Jones:Kendra" pid="68/8422">Kendra Jones</na></co>
+<co c="0"><na f="k/Kanitkar:Gaurav" pid="148/6300">Gaurav Kanitkar</na></co>
+<co c="0"><na f="k/Kannan:Ramakrishnan" pid="98/5996">Ramakrishnan Kannan</na></co>
+<co c="0"><na f="k/Kantikar:Gaurav" pid="151/4599">Gaurav Kantikar</na></co>
+<co c="0"><na f="k/Karatza:Helen_D=" pid="30/1663">Helen D. Karatza</na></co>
+<co c="0"><na f="k/Karimabadi:Homa" pid="35/5375">Homa Karimabadi</na></co>
+<co c="0"><na f="k/Kim:Hoe_Kyoung" pid="15/2237">Hoe Kyoung Kim</na></co>
+<co c="0"><na f="k/Kim:Jongchan" pid="175/4559">Jongchan Kim</na></co>
+<co c="0"><na f="k/Kim_0001:Young_Jin" pid="00/8110-1">Young Jin Kim 0001</na></co>
+<co c="0"><na f="k/Kleban:Stephen_D=" pid="51/5126">Stephen D. Kleban</na></co>
+<co c="0"><na f="k/Ko:Joonho" pid="13/911">Joonho Ko</na></co>
+<co c="0"><na f="l/Laval:Jorge_A=" pid="98/7877">Jorge A. Laval</na></co>
+<co c="0"><na f="l/L=Ecuyer:Pierre" pid="86/984">Pierre L'Ecuyer</na></co>
+<co c="0"><na f="l/Lee:Jaesup" pid="50/3030">Jaesup Lee</na></co>
+<co c="0"><na f="l/Lee:Judy_S=" pid="199/6941">Judy S. Lee</na></co>
+<co c="0"><na f="l/Lee:Seunghan" pid="92/8746">Seunghan Lee</na></co>
+<co c="0"><na f="l/Leonard:John_D=" pid="96/3667">John D. Leonard</na></co>
+<co c="0"><na f="l/Li_0010:Ying" pid="22/1805-10">Ying Li 0010</na></co>
+<co c="0"><na f="l/Lin:Yi=Bing" pid="l/YiBingLin">Yi-Bing Lin</na></co>
+<co c="0"><na f="l/Liu:Haobing" pid="230/7127">Haobing Liu</na></co>
+<co c="0"><na f="l/Liu:Mengmeng" pid="89/1149">Mengmeng Liu</na></co>
+<co c="1"><na f="l/Lobb:Collin_J=" pid="87/5544">Collin J. Lobb</na></co>
+<co c="0"><na f="l/Lomow:Greg" pid="36/1537">Greg Lomow</na></co>
+<co c="0"><na f="l/Loper:Margaret_L=" pid="41/163">Margaret L. Loper</na></co>
+<co c="0"><na f="l/Low:Malcolm_Yoke=Hean" pid="l/MalcolmYokeHeanLow">Malcolm Yoke-Hean Low</na></co>
+<co c="0"><na f="l/Lu:Zhongming" pid="175/4646">Zhongming Lu</na></co>
+<co c="0"><na f="m/Macal:Charles_M=" pid="23/2714">Charles M. Macal</na></co>
+<co c="3"><na f="m/Madisetti:Vijay_K=" pid="34/3639">Vijay K. Madisetti</na></co>
+<co c="0"><na f="m/Malik:Asad" pid="99/10293">Asad Malik</na></co>
+<co c="0"><na f="m/Mani:Narayana" pid="30/3950">Narayana Mani</na></co>
+<co c="0" n="2"><na f="m/Marathe:Madhav_V=" pid="52/991">Madhav V. Marathe</na><na>Madhav Marathe</na></co>
+<co c="0" n="2"><na f="m/Mavris:Dimitri_N=" pid="09/1051">Dimitri N. Mavris</na><na>Dimitri Mavris</na></co>
+<co c="0"><na f="m/McLean:Thom" pid="33/4097">Thom McLean</na></co>
+<co c="0"><na f="m/Milholen:Michael" pid="148/6270">Michael Milholen</na></co>
+<co c="0"><na f="m/Misra:Jayadev" pid="m/JayadevMisra">Jayadev Misra</na></co>
+<co c="-1"><na f="n/Naborskyy:Andriy" pid="07/299">Andriy Naborskyy</na></co>
+<co c="0"><na f="n/Nance:Richard_E=" pid="92/2054">Richard E. Nance</na></co>
+<co c="0" n="2"><na f="n/Neal:Sabra" pid="146/9426">Sabra Neal</na><na>Sabra A. Neal</na></co>
+<co c="0"><na f="n/Nelson:Barry_L=" pid="54/5684">Barry L. Nelson</na></co>
+<co c="-1"><na f="n/Nguyen:Vy_Thuy" pid="191/9487">Vy Thuy Nguyen</na></co>
+<co c="0"><na f="n/Nicol:David_M=" pid="n/DavidMNicol">David M. Nicol</na></co>
+<co c="0"><na f="n/Nikolaidis:Ioanis" pid="90/1785">Ioanis Nikolaidis</na></co>
+<co c="0" n="2"><na f="o/Ogielski:Andrew_T=" pid="36/3137">Andrew T. Ogielski</na><na>Andy Ogielski</na></co>
+<co c="0"><na f="o/Omelchenko:Yuri_A=" pid="86/3388">Yuri A. Omelchenko</na></co>
+<co c="0"><na f="o/Omidi:Nick" pid="18/3672">Nick Omidi</na></co>
+<co c="0"><na f="p/Page:Ernest_H=" pid="18/3600">Ernest H. Page</na></co>
+<co c="0"><na f="p/Palagummi:Vishwanath" pid="49/8423">Vishwanath Palagummi</na></co>
+<co c="0"><na f="p/Palekar:Mahesh" pid="31/1468">Mahesh Palekar</na></co>
+<co c="0"><na f="p/Pande:Santosh" pid="08/6824">Santosh Pande</na></co>
+<co c="0"><na f="p/Panesar:Kiran_S=" pid="08/865">Kiran S. Panesar</na></co>
+<co c="0" n="2"><na f="p/Park:Alfred" pid="34/1451">Alfred Park</na><na>Alfred J. Park</na></co>
+<co c="0"><na f="p/Park:Haesun" pid="78/5322">Haesun Park</na></co>
+<co c="0"><na f="p/Paul:Ray_J=" pid="p/RayJPaul">Ray J. Paul</na></co>
+<co c="0"><na f="p/Pecher:Philip" pid="148/6302">Philip Pecher</na></co>
+<co c="0"><na f="p/Perumalla:Kalyan_S=" pid="15/4026">Kalyan S. Perumalla</na></co>
+<co c="0"><na f="p/Petit:Barath" pid="120/7982">Barath Petit</na></co>
+<co c="-1"><na f="p/Pienta:Robert_S=" pid="151/4603">Robert S. Pienta</na></co>
+<co c="0"><na f="p/Pieper:Michael" pid="31/1407">Michael Pieper</na></co>
+<co c="1"><na f="p/Potter:Steve_M=" pid="20/6151">Steve M. Potter</na></co>
+<co c="0"><na f="p/Pullen:J=_Mark" pid="07/1554">J. Mark Pullen</na></co>
+<co c="0"><na f="q/Quaglia:Francesco" pid="q/FrancescoQuaglia">Francesco Quaglia</na></co>
+<co c="0"><na f="q/Quinlan:Daniel_J=" pid="13/2176">Daniel J. Quinlan</na></co>
+<co c="0"><na f="r/Raj:Himanshu" pid="82/5278">Himanshu Raj</na></co>
+<co c="2"><na f="r/Rajopadhye:Sanjay_V=" pid="r/SanjayVRajopadhye">Sanjay V. Rajopadhye</na></co>
+<co c="0"><na f="r/Ramachandran:Umakishore" pid="r/URamachandran">Umakishore Ramachandran</na></co>
+<co c="0"><na f="r/Riley:George_F=" pid="20/6862">George F. Riley</na></co>
+<co c="0"><na f="r/Roberts_0001:David_J=" pid="55/231-1">David J. Roberts 0001</na></co>
+<co c="0"><na f="r/Robinson:Caleb" pid="194/7729">Caleb Robinson</na></co>
+<co c="0"><na f="r/Robinson:David" pid="17/1389">David Robinson</na></co>
+<co c="0"><na f="r/Rodgers:Michael_O=" pid="119/5693">Michael O. Rodgers</na></co>
+<co c="0"><na f="r/Rosu:Marcel=Catalin" pid="r/MarcelCatalinRosu">Marcel-Catalin Rosu</na></co>
+<co c="0"><na f="r/Roy:Somdut" pid="235/4403">Somdut Roy</na></co>
+<co c="0"><na f="s/Santoro:Andrea" pid="84/4684">Andrea Santoro</na></co>
+<co c="0"><na f="s/Saroj:Abhilasha" pid="235/4193">Abhilasha Saroj</na></co>
+<co c="0"><na f="s/Scholand:Andrew_J=" pid="37/3532">Andrew J. Scholand</na></co>
+<co c="0"><na f="s/Schulze_0001:Thomas" pid="s/ThSchulze">Thomas Schulze 0001</na></co>
+<co c="0"><na f="s/Schwan:Karsten" pid="s/KarstenSchwan">Karsten Schwan</na></co>
+<co c="0"><na f="s/Serfozo:Richard_F=" pid="94/5290">Richard F. Serfozo</na></co>
+<co c="0"><na f="s/Seshasayee:Balasubramanian" pid="38/4759">Balasubramanian Seshasayee</na></co>
+<co c="0"><na f="s/Shah:Gautam" pid="68/3396">Gautam Shah</na></co>
+<co c="0"><na f="s/Shi:Weidong" pid="73/5220">Weidong Shi</na></co>
+<co c="0"><na f="s/Simmonds:Rob" pid="31/2342">Rob Simmonds</na></co>
+<co c="0"><na f="s/Sirichoke:Jason" pid="11/2115">Jason Sirichoke</na></co>
+<co c="0"><na f="s/Smith:Roger" pid="61/4208">Roger Smith</na></co>
+<co c="0"><na f="s/Son:Young=Jun" pid="82/5854">Young-Jun Son</na></co>
+<co c="0"><na f="s/Stasko:John_T=" pid="s/JohnTStasko">John T. Stasko</na></co>
+<co c="0"><na f="s/Stensland:Benjamin" pid="51/8422">Benjamin Stensland</na></co>
+<co c="0"><na f="s/Stra=szlig=burger:Steffen" pid="42/1614">Steffen Stra&#223;burger</na></co>
+<co c="0"><na f="s/Suh:Wonho" pid="99/1274">Wonho Suh</na></co>
+<co c="0"><na f="s/Sunderam:Vaidy_S=" pid="s/VaidySSunderam">Vaidy S. Sunderam</na></co>
+<co c="-1"><na f="s/Swope:Steven_M=" pid="163/3268">Steven M. Swope</na></co>
+<co c="0"><na f="t/Tacic:Ivan" pid="85/1949">Ivan Tacic</na></co>
+<co c="0"><na f="t/Tang:Yarong" pid="99/1603">Yarong Tang</na></co>
+<co c="0"><na f="t/Taylor:Simon_J=_E=" pid="48/6848">Simon J. E. Taylor</na></co>
+<co c="0"><na f="t/Thakare:Prashant_J=" pid="42/5348">Prashant J. Thakare</na></co>
+<co c="0"><na f="t/Theodoropoulos_0001:Georgios" pid="51/7514-1">Georgios Theodoropoulos 0001</na></co>
+<co c="0"><na f="t/Thiruvengadachari:Prashant" pid="56/8423">Prashant Thiruvengadachari</na></co>
+<co c="0"><na f="t/Thompson:Eric" pid="47/6047">Eric Thompson</na></co>
+<co c="0"><na f="t/Tolk:Andreas" pid="t/ATolk">Andreas Tolk</na></co>
+<co c="0"><na f="t/Topol:Brad" pid="30/990">Brad Topol</na></co>
+<co c="0"><na f="t/Tsai:Jya=Jang" pid="96/4655">Jya-Jang Tsai</na></co>
+<co c="0"><na f="t/Turner:Stephen_John" pid="t/StephenJohnTurner">Stephen John Turner</na></co>
+<co c="0"><na f="u/Uhrmacher:Adelinde_M=" pid="u/AdelindeUhrmacher">Adelinde M. Uhrmacher</na></co>
+<co c="0"><na f="u/Unger:Brian_W=" pid="u/BrianUnger">Brian W. Unger</na></co>
+<co c="0"><na f="v/Vuduc:Richard_W=" pid="v/RVuduc">Richard W. Vuduc</na></co>
+<co c="0"><na f="v/Vulov:George" pid="84/2534">George Vulov</na></co>
+<co c="0"><na f="w/Wainer:Gabriel_A=" pid="w/GAWainer">Gabriel A. Wainer</na></co>
+<co c="0"><na f="w/Wall:Thomas_A=" pid="119/5699">Thomas A. Wall</na></co>
+<co c="0"><na f="w/Watts:Jewel" pid="60/8422">Jewel Watts</na></co>
+<co c="0"><na f="w/Weatherly:Richard_M=" pid="63/6342">Richard M. Weatherly</na></co>
+<co c="0"><na f="w/Wilson:Annette_L=" pid="58/2203">Annette L. Wilson</na></co>
+<co c="0"><na f="w/Wilson:Karen" pid="12/6726">Karen Wilson</na></co>
+<co c="0"><na f="w/Wu_0001:Hao" pid="72/4250-1">Hao Wu 0001</na></co>
+<co c="0"><na f="x/Xu:Donghua" pid="72/2830">Donghua Xu</na></co>
+<co c="0"><na f="x/Xu:Jie" pid="37/5126">Jie Xu</na></co>
+<co c="0"><na f="y/Yilmaz:Levent" pid="68/2901">Levent Yilmaz</na></co>
+<co c="0"><na f="y/Young:Javier" pid="69/6775">Javier Young</na></co>
+<co c="0"><na f="z/Zegura:Ellen_W=" pid="z/EllenWZegura">Ellen W. Zegura</na></co>
+<co c="0"><na f="z/Zeigler:Bernard_P=" pid="z/BernardPZeigler">Bernard P. Zeigler</na></co>
+<co c="0"><na f="z/Zha:Hongyuan" pid="z/HongyuanZha">Hongyuan Zha</na></co>
+<co c="0"><na f="z/Zhou:Suiping" pid="22/2383">Suiping Zhou</na></co>
+<co c="0"><na f="z/Zimmerman:Phil" pid="175/4438">Phil Zimmerman</na></co>
+</coauthors>
+</dblpperson>
+

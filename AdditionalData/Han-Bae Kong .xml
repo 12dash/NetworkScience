@@ -1,3 +1,840 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a40072e1fa0f7f888208b6857ee38358f465ee027cbb4d3f1c2dc35b9b3b755
-size 36595
+<?xml version="1.0"?>
+<dblpperson name="Justin Kong 0001" pid="124/1912-1" n="52">
+<person key="homepages/124/1912-1" mdate="2019-09-02">
+<author pid="124/1912-1">Justin Kong 0001</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<note type="affiliation">Army Research Laboratory, Adelphi, MD, USA</note>
+<note label="former" type="affiliation">Texas A&#38;M University, Department of Electrical and Computer Engineering, College Station, TX, USA</note>
+<note label="former" type="affiliation">Nanyang Technological University, School of Computer Science and Engineering, Singapore</note>
+<note label="former" type="affiliation">Korea University, School of Electrical Engineering, Seoul</note>
+<url>https://orcid.org/0000-0003-2856-7060</url>
+</person>
+<homonyms n="2">
+<h f="k/Kong:Justin"><name>Justin Kong</name>
+</h>
+<h f="k/Kong_0002:Justin"><person key="homepages/124/1912-2" mdate="2019-11-29">
+<author pid="124/1912-2">Justin Kong 0002</author>
+<note type="affiliation">Chiba University, Department of Mathematics and Informatics, Japan</note>
+<url>https://orcid.org/0000-0003-4202-4695</url>
+</person>
+</h>
+</homonyms>
+<homonyms n="1">
+<h f="k/Kong:Hanbae"><name>Hanbae Kong</name>
+</h>
+</homonyms>
+<homonyms n="1">
+<h f="k/Kong:Han=Bae"><name>Han-Bae Kong</name>
+</h>
+</homonyms>
+<r><book key="books/sp/WuIKSW20" mdate="2020-09-08">
+<author pid="263/6807">Zi-Yang Wu</author>
+<author pid="08/10810-1">Muhammad Ismail 0001</author>
+<author pid="124/1912-1">Justin Kong 0001</author>
+<author pid="22/4717">Erchin Serpedin</author>
+<author pid="30/5627">Jiao Wang</author>
+<title>Efficient Integration of 5G and Beyond Heterogeneous Networks</title>
+<publisher>Springer</publisher>
+<year>2020</year>
+<pages>1-124</pages>
+<isbn>978-981-15-6937-1</isbn>
+<ee>https://doi.org/10.1007/978-981-15-6938-8</ee>
+</book>
+</r>
+<r><article key="journals/access/KongDS20" mdate="2020-08-14">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Justin Kong 0001</author>
+<author orcid="0000-0002-7532-5278" pid="33/8959">Fikadu T. Dagefu</author>
+<author orcid="0000-0002-9564-3812" pid="26/3347">Brian M. Sadler</author>
+<title>Coverage Analysis of Distributed Beamforming With Random Phase Offsets Using Ginibre Point Process.</title>
+<pages>134351-134362</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3010162</ee>
+<url>db/journals/access/access8.html#KongDS20</url>
+</article>
+</r>
+<r><article key="journals/tcom/WuIKSW20" mdate="2020-11-14">
+<author orcid="0000-0002-5334-3686" pid="263/6807">Zi-Yang Wu</author>
+<author orcid="0000-0002-8051-9747" pid="08/10810-1">Muhammad Ismail 0001</author>
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Justin Kong 0001</author>
+<author orcid="0000-0001-9069-770X" pid="22/4717">Erchin Serpedin</author>
+<author orcid="0000-0002-4751-2375" pid="30/5627">Jiao Wang</author>
+<title>Channel Characterization and Realization of Mobile Optical Wireless Communications.</title>
+<pages>6426-6439</pages>
+<year>2020</year>
+<volume>68</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TCOMM.2020.3009256</ee>
+<url>db/journals/tcom/tcom68.html#WuIKSW20</url>
+</article>
+</r>
+<r><article key="journals/tvt/KongDS20" mdate="2020-11-14">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Justin Kong 0001</author>
+<author orcid="0000-0002-7532-5278" pid="33/8959">Fikadu T. Dagefu</author>
+<author orcid="0000-0002-9564-3812" pid="26/3347">Brian M. Sadler</author>
+<title>Distributed Beamforming in the Presence of Adversaries.</title>
+<pages>9682-9696</pages>
+<year>2020</year>
+<volume>69</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TVT.2020.3001532</ee>
+<url>db/journals/tvt/tvt69.html#KongDS20</url>
+</article>
+</r>
+<r><article key="journals/wcl/KongWISQ20" mdate="2020-05-04">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Justin Kong 0001</author>
+<author orcid="0000-0002-5334-3686" pid="263/6807">Zi-Yang Wu</author>
+<author orcid="0000-0002-8051-9747" pid="08/10810-1">Muhammad Ismail 0001</author>
+<author orcid="0000-0001-9069-770X" pid="22/4717">Erchin Serpedin</author>
+<author pid="11/6615">Khalid A. Qaraqe</author>
+<title>Q-Learning Based Two-Timescale Power Allocation for Multi-Homing Hybrid RF/VLC Networks.</title>
+<pages>443-447</pages>
+<year>2020</year>
+<volume>9</volume>
+<journal>IEEE Wirel. Commun. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/LWC.2019.2958121</ee>
+<url>db/journals/wcl/wcl9.html#KongWISQ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/vtc/0001DS20" mdate="2020-07-15">
+<author pid="124/1912-1">Justin Kong 0001</author>
+<author pid="33/8959">Fikadu T. Dagefu</author>
+<author pid="26/3347">Brian M. Sadler</author>
+<title>Simultaneous Beamforming and Nullforming for Covert Wireless Communications.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTC2020-Spring48590.2020.9128790</ee>
+<crossref>conf/vtc/2020s</crossref>
+<url>db/conf/vtc/vtc2020s.html#0001DS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/0001DS20" mdate="2020-07-02">
+<author pid="124/1912-1">Justin Kong 0001</author>
+<author pid="33/8959">Fikadu T. Dagefu</author>
+<author pid="26/3347">Brian M. Sadler</author>
+<title>Performance Analysis of Distributed Beamforming With Random Phase Offsets.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC45663.2020.9120634</ee>
+<crossref>conf/wcnc/2020</crossref>
+<url>db/conf/wcnc/wcnc2020.html#0001DS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejwcn/KongESQ19" mdate="2020-08-27">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="71/7908">Sabit Ekin</author>
+<author pid="22/4717">Erchin Serpedin</author>
+<author pid="11/6615">Khalid A. Qaraqe</author>
+<title>Uplink achievable rate in underlay random access OFDM-based cognitive radio networks.</title>
+<pages>22</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>EURASIP J. Wirel. Commun. Netw.</journal>
+<ee type="oa">https://doi.org/10.1186/s13638-019-1339-y</ee>
+<url>db/journals/ejwcn/ejwcn2019.html#KongESQ19</url>
+</article>
+</r>
+<r><article key="journals/twc/KongISQ19" mdate="2020-09-06">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Justin Kong 0001</author>
+<author orcid="0000-0002-8051-9747" pid="08/10810-1">Muhammad Ismail 0001</author>
+<author orcid="0000-0001-9069-770X" pid="22/4717">Erchin Serpedin</author>
+<author orcid="0000-0002-0766-9212" pid="11/6615">Khalid A. Qaraqe</author>
+<title>Energy Efficient Optimization of Base Station Intensities for Hybrid RF/VLC Networks.</title>
+<pages>4171-4183</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TWC.2019.2922611</ee>
+<url>db/journals/twc/twc18.html#KongISQ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/KongISQ19" mdate="2019-12-23">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="08/10810-1">Muhammad Ismail 0001</author>
+<author pid="22/4717">Erchin Serpedin</author>
+<author pid="11/6615">Khalid A. Qaraqe</author>
+<title>Energy Efficient Optimization of Base Station Density for VLC Networks.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2019.8762064</ee>
+<crossref>conf/icc/2019</crossref>
+<url>db/conf/icc/icc2019.html#KongISQ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/KongDS19" mdate="2019-11-18">
+<author pid="124/1912-1">Justin Kong 0001</author>
+<author pid="33/8959">Fikadu T. Dagefu</author>
+<author pid="26/3347">Brian M. Sadler</author>
+<title>Distributed Adaptive Beamforming and Nullforming for Covert Wireless Communications.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>VTC-Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2019.8891401</ee>
+<crossref>conf/vtc/2019f</crossref>
+<url>db/conf/vtc/vtc2019f.html#KongDS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/twc/KongWNC18" mdate="2020-09-06">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Han-Bae Kong 0001</author>
+<author orcid="0000-0002-1599-5480" pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0002-4837-3370" pid="96/3060-3">Yu Cheng 0003</author>
+<title>Physical Layer Security in Wireless Networks With Ginibre Point Processes.</title>
+<pages>5132-5147</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TWC.2018.2838592</ee>
+<url>db/journals/twc/twc17.html#KongWNC18</url>
+</article>
+</r>
+<r><article key="journals/twc/KongFWNP18" mdate="2020-09-06">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Han-Bae Kong 0001</author>
+<author orcid="0000-0003-2037-2816" pid="143/7142">Ian Flint</author>
+<author orcid="0000-0002-1599-5480" pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<title>Fog Radio Access Networks: Ginibre Point Process Modeling and Analysis.</title>
+<pages>5564-5580</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TWC.2018.2846734</ee>
+<url>db/journals/twc/twc17.html#KongFWNP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/KongFWNP18" mdate="2019-09-25">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="143/7142">Ian Flint</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<title>Wireless Caching Helper Networks: Ginibre Point Process Modeling and Analysis.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2018.8422493</ee>
+<crossref>conf/icc/2018</crossref>
+<url>db/conf/icc/icc2018.html#KongFWNP18</url>
+</inproceedings>
+</r>
+<r><article key="journals/icl/KangKSLL17" mdate="2020-08-20">
+<author orcid="0000-0002-1405-0151" pid="197/1349">Seowoo Kang</author>
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Hanbae Kong 0001</author>
+<author orcid="0000-0002-5325-3699" pid="29/7909">Chang-Ick Song</author>
+<author orcid="0000-0003-0753-8324" pid="01/1272">Hoon Lee</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Transmit Probability Designs for Wireless Peer Discovery With Energy Harvesting.</title>
+<pages>644-647</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LCOMM.2016.2625782</ee>
+<url>db/journals/icl/icl21.html#KangKSLL17</url>
+</article>
+</r>
+<r><article key="journals/icl/KongKL17" mdate="2020-08-20">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Hanbae Kong 0001</author>
+<author orcid="0000-0002-1405-0151" pid="197/1349">Seowoo Kang</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Wireless Peer Discovery in Heterogeneous Half-/Full-Duplex Networks.</title>
+<pages>881-884</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/LCOMM.2016.2645198</ee>
+<url>db/journals/icl/icl21.html#KongKL17</url>
+</article>
+</r>
+<r><article key="journals/tvt/KongWN17" mdate="2020-06-25">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author orcid="0000-0002-1599-5480" pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Performance Analysis of Multihop Relaying Systems in an &#945;-Ginibre Field of Interferers.</title>
+<pages>7573-7577</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVT.2017.2661314</ee>
+<url>db/journals/tvt/tvt66.html#KongWN17</url>
+</article>
+</r>
+<r><article key="journals/twc/KongSOL17" mdate="2020-09-06">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="170/6467">Hun Min Shin</author>
+<author orcid="0000-0001-6630-5729" pid="194/7053">Taeseok Oh</author>
+<author orcid="0000-0003-3701-4433" pid="20/6158">Inkyu Lee</author>
+<title>Joint MMSE Transceiver Designs for MIMO AF Relaying Systems With Direct Link.</title>
+<pages>3547-3560</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TWC.2017.2684122</ee>
+<url>db/journals/twc/twc16.html#KongSOL17</url>
+</article>
+</r>
+<r><article key="journals/twc/KongWNC17" mdate="2020-09-06">
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="96/3060">Yu Cheng</author>
+<title>Modeling and Analysis of Wireless Sensor Networks With/Without Energy Harvesting Using Ginibre Point Processes.</title>
+<pages>3700-3713</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TWC.2017.2686848</ee>
+<url>db/journals/twc/twc16.html#KongWNC17</url>
+</article>
+</r>
+<r><article key="journals/twc/FlintKPWN17" mdate="2020-09-06">
+<author pid="143/7142">Ian Flint</author>
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Han-Bae Kong 0001</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Wireless Energy Harvesting Sensor Networks: Boolean-Poisson Modeling and Analysis.</title>
+<pages>7108-7122</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TWC.2017.2739723</ee>
+<url>db/journals/twc/twc16.html#FlintKPWN17</url>
+</article>
+</r>
+<r><article key="journals/twc/FlintKPWN17a" mdate="2020-09-06">
+<author pid="143/7142">Ian Flint</author>
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Han-Bae Kong 0001</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Analysis of Heterogeneous Wireless Networks Using Poisson Hard-Core Hole Process.</title>
+<pages>7152-7167</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TWC.2017.2740387</ee>
+<url>db/journals/twc/twc16.html#FlintKPWN17a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/KongFWNP17" mdate="2019-09-25">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="143/7142">Ian Flint</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<title>Modeling and analysis of wireless networks using poisson hard-core process.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2017.7997052</ee>
+<crossref>conf/icc/2017</crossref>
+<url>db/conf/icc/icc2017.html#KongFWNP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/KongWN17" mdate="2019-09-25">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Performance analysis of wireless sensor networks with ginibre point process modeling.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2017.7996585</ee>
+<crossref>conf/icc/2017</crossref>
+<url>db/conf/icc/icc2017.html#KongWN17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsac/KongFWNP16" mdate="2020-04-02">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="143/7142">Ian Flint</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<title>Exact Performance Analysis of Ambient RF Energy Harvesting Wireless Sensor Networks With Ginibre Point Process.</title>
+<pages>3769-3784</pages>
+<year>2016</year>
+<volume>34</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/JSAC.2016.2621360</ee>
+<url>db/journals/jsac/jsac34.html#KongFWNP16</url>
+</article>
+</r>
+<r><article key="journals/tvt/LeeLKL16" mdate="2020-06-25">
+<author pid="01/1272">Hoon Lee</author>
+<author orcid="0000-0001-9579-6600" pid="98/214">Kyoung-Jae Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Sum-Rate Maximization for Multiuser MIMO Wireless Powered Communication Networks.</title>
+<pages>9420-9424</pages>
+<year>2016</year>
+<volume>65</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TVT.2016.2515607</ee>
+<url>db/journals/tvt/tvt65.html#LeeLKL16</url>
+</article>
+</r>
+<r><article key="journals/twc/KimLAKL16" mdate="2020-09-06">
+<author orcid="0000-0001-9829-3566" pid="162/0161">Hanjin Kim</author>
+<author pid="01/1272">Hoon Lee</author>
+<author pid="137/0052">Minki Ahn</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Joint Subcarrier and Power Allocation Methods in Full Duplex Wireless Powered Communication Networks for OFDM Systems.</title>
+<pages>4745-4753</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TWC.2016.2545649</ee>
+<url>db/journals/twc/twc15.html#KimLAKL16</url>
+</article>
+</r>
+<r><article key="journals/twc/AhnKSL16" mdate="2020-09-06">
+<author pid="137/0052">Minki Ahn</author>
+<author orcid="0000-0003-2856-7060" pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="170/6467">Hun Min Shin</author>
+<author orcid="0000-0003-3701-4433" pid="20/6158">Inkyu Lee</author>
+<title>A Low Complexity User Selection Algorithm for Full-Duplex MU-MISO Systems.</title>
+<pages>7899-7907</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TWC.2016.2609902</ee>
+<url>db/journals/twc/twc15.html#AhnKSL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/KongFNP16" mdate="2019-09-25">
+<author pid="124/1912-1">Han-Bae Kong 0001</author>
+<author pid="143/7142">Ian Flint</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0003-4148-8543" pid="83/9836">Nicolas Privault</author>
+<title>On the performance of wireless energy harvesting networks in a Boolean-Poisson model.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2016.7511012</ee>
+<crossref>conf/icc/2016</crossref>
+<url>db/conf/icc/icc2016.html#KongFNP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/AhnKSLL16" mdate="2019-09-02">
+<author pid="137/0052">Minki Ahn</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="170/6467">Hun Min Shin</author>
+<author pid="01/1272">Hoon Lee</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>An Efficient User Selection Technique for Full-Duplex MU-MISO Systems.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2016.7880897</ee>
+<crossref>conf/vtc/2016f</crossref>
+<url>db/conf/vtc/vtc2016f.html#AhnKSLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/LeeLLKL16" mdate="2019-09-02">
+<author pid="01/1272">Hoon Lee</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author orcid="0000-0001-9579-6600" pid="98/214">Kyoung-Jae Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Transmit Beamforming Optimization for Wireless Information and Power Transfer in MISO Interference Channels with Signal Cooperation.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2016.7881589</ee>
+<crossref>conf/vtc/2016f</crossref>
+<url>db/conf/vtc/vtc2016f.html#LeeLLKL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvt/KongSAL15" mdate="2020-06-25">
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="29/7909">Chang-Ick Song</author>
+<author pid="137/0052">Minki Ahn</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Diversity of Coded Beamforming in MIMO-OFDM AF Relaying Systems With Direct Link.</title>
+<pages>3817-3822</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVT.2014.2359668</ee>
+<url>db/journals/tvt/tvt64.html#KongSAL15</url>
+</article>
+</r>
+<r><article key="journals/twc/KongSPL15" mdate="2020-09-06">
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="29/7909">Chang-Ick Song</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Shaping-Power-Constrained Transceiver Designs for MIMO AF Relaying Systems With Direct Link.</title>
+<pages>294-304</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TWC.2014.2342223</ee>
+<url>db/journals/twc/twc14.html#KongSPL15</url>
+</article>
+</r>
+<r><article key="journals/twc/AhnKKSL15" mdate="2020-09-06">
+<author pid="137/0052">Minki Ahn</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="17/4306">Taehoon Kim</author>
+<author pid="29/7909">Chang-Ick Song</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Precoding Techniques for MIMO AF Relaying Systems With Decision Feedback Receiver.</title>
+<pages>446-455</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TWC.2014.2350482</ee>
+<url>db/journals/twc/twc14.html#AhnKKSL15</url>
+</article>
+</r>
+<r><article key="journals/twc/LeeLLKL15" mdate="2020-09-06">
+<author pid="01/1272">Hoon Lee</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author orcid="0000-0001-9579-6600" pid="98/214">Kyoung-Jae Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Optimal Beamforming Designs for Wireless Information and Power Transfer in MISO Interference Channels.</title>
+<pages>4810-4821</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TWC.2015.2427168</ee>
+<url>db/journals/twc/twc14.html#LeeLLKL15</url>
+</article>
+</r>
+<r><article key="journals/twc/ShinLKL15" mdate="2020-09-06">
+<author pid="170/6467">Hun Min Shin</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Sum-Rate Maximization Schemes for K-User MISO Interference Channels With a Cognitive Relay.</title>
+<pages>6448-6458</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TWC.2015.2454496</ee>
+<url>db/journals/twc/twc14.html#ShinLKL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/KimLAKL15" mdate="2019-09-02">
+<author pid="162/0161">Hanjin Kim</author>
+<author pid="01/1272">Hoon Lee</author>
+<author pid="137/0052">Minki Ahn</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Joint Subcarrier and Power Allocation Method in Wireless Powered Communication Networks for OFDM Systems.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7417818</ee>
+<crossref>conf/globecom/2015</crossref>
+<url>db/conf/globecom/globecom2015.html#KimLAKL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LeeLLKL15" mdate="2019-09-02">
+<author pid="01/1272">Hoon Lee</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author orcid="0000-0001-9579-6600" pid="98/214">Kyoung-Jae Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Transmit Beamforming Techniques for Wireless Information and Power Transfer in MISO Interference Channels.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7417196</ee>
+<crossref>conf/globecom/2015</crossref>
+<url>db/conf/globecom/globecom2015.html#LeeLLKL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/ShinLKL15" mdate="2019-09-02">
+<author pid="170/6467">Hun Min Shin</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>PSINR-Based Precoding for K-User MISO Interference Channels with a Cognitive Relay.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7417821</ee>
+<crossref>conf/globecom/2015</crossref>
+<url>db/conf/globecom/globecom2015.html#ShinLKL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/LeeLKKL15" mdate="2019-09-02">
+<author pid="56/1838">Wookbong Lee</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="162/0161">Hanjin Kim</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Downlink Vertical Beamforming Designs for Multi-User MISO Systems.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTCSpring.2015.7145790</ee>
+<crossref>conf/vtc/2015s</crossref>
+<url>db/conf/vtc/vtc2015s.html#LeeLKKL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcom/LeeLKLL14" mdate="2020-09-01">
+<author pid="56/1838">Wookbong Lee</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="03/4701">Sunho Lee</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Downlink Vertical Beamforming Designs for Active Antenna Systems.</title>
+<pages>1897-1907</pages>
+<year>2014</year>
+<volume>62</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCOMM.2014.2320727</ee>
+<url>db/journals/tcom/tcom62.html#LeeLKLL14</url>
+</article>
+</r>
+<r><article key="journals/tcom/KongSPL14" mdate="2020-09-01">
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="29/7909">Chang-Ick Song</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>A New Beamforming Design for MIMO AF Relaying Systems With Direct Link.</title>
+<pages>2286-2295</pages>
+<year>2014</year>
+<volume>62</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCOMM.2014.2326881</ee>
+<url>db/journals/tcom/tcom62.html#KongSPL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/KongSPL14" mdate="2019-09-02">
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="29/7909">Chang-Ick Song</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Peak power constrained closed-form transceiver designs for MIMO AF relaying systems with direct link.</title>
+<pages>4318-4323</pages>
+<year>2014</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7037486</ee>
+<crossref>conf/globecom/2014</crossref>
+<url>db/conf/globecom/globecom2014.html#KongSPL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvt/LeePKKL13" mdate="2020-06-25">
+<author pid="56/1838">Wookbong Lee</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="31/6860">Jin Sam Kwak</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>A New Beamforming Design for Multicast Systems.</title>
+<pages>4093-4097</pages>
+<year>2013</year>
+<volume>62</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVT.2012.2236583</ee>
+<url>db/journals/tvt/tvt62.html#LeePKKL13</url>
+</article>
+</r>
+<r><article key="journals/twc/LeeKMKL13" mdate="2020-09-06">
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="74/3423">Jin-Sung Kim</author>
+<author pid="03/1530">Sung Hyun Moon</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Zero-Forcing Beamforming in Multiuser MISO Downlink Systems Under Per-Antenna Power Constraint and Equal-Rate Metric.</title>
+<pages>228-236</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TWC.2012.120312.120332</ee>
+<url>db/journals/twc/twc12.html#LeeKMKL13</url>
+</article>
+</r>
+<r><article key="journals/twc/LeeMKL13" mdate="2020-09-06">
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="03/1530">Sung Hyun Moon</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Optimal Beamforming Schemes and its Capacity Behavior for Downlink Distributed Antenna Systems.</title>
+<pages>2578-2587</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1109/TWC.2013.041613.111987</ee>
+<url>db/journals/twc/twc12.html#LeeMKL13</url>
+</article>
+</r>
+<r><article key="journals/twc/LeeKPL13" mdate="2020-09-06">
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Beamforming Designs Based on an Asymptotic Approach in MISO Interference Channels.</title>
+<pages>6430-6438</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TW.2013.103013.130698</ee>
+<url>db/journals/twc/twc12.html#LeeKPL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/LeeKPL13" mdate="2019-09-02">
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>A new beamforming design based on random matrix theory for weighted sum-rate maximization in interference channels.</title>
+<pages>3614-3619</pages>
+<year>2013</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2013.6831634</ee>
+<crossref>conf/globecom/2013</crossref>
+<url>db/conf/globecom/globecom2013.html#LeeKPL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LeeLKL13" mdate="2019-09-02">
+<author pid="56/1838">Wookbong Lee</author>
+<author pid="42/6672">Sang-Rim Lee</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>3D beamforming designs for Single User MISO systems.</title>
+<pages>3914-3919</pages>
+<year>2013</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2013.6831684</ee>
+<crossref>conf/globecom/2013</crossref>
+<url>db/conf/globecom/globecom2013.html#LeeLKL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/KongSPL13" mdate="2019-09-02">
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="29/7909">Chang-Ick Song</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Adaptive beamforming designs for MIMO AF relaying systems with direct link.</title>
+<pages>5296-5300</pages>
+<year>2013</year>
+<crossref>conf/icc/2013</crossref>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2013.6655428</ee>
+<url>db/conf/icc/icc2013.html#KongSPL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/icl/ParkPKL12" mdate="2020-08-20">
+<author pid="39/8604">Haewook Park</author>
+<author pid="29/6075">Seokhwan Park</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Weighted Sum MSE Minimization under Per-BS Power Constraint for Network MIMO Systems.</title>
+<pages>360-363</pages>
+<year>2012</year>
+<volume>16</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LCOMM.2012.010512.112300</ee>
+<url>db/journals/icl/icl16.html#ParkPKL12</url>
+</article>
+</r>
+<r><article key="journals/twc/ParkPKL12" mdate="2020-09-06">
+<author pid="29/6075">Seokhwan Park</author>
+<author pid="39/8604">Haewook Park</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>New Beamforming Techniques Based on Virtual SINR Maximization for Coordinated Multi-Cell Transmission.</title>
+<pages>1034-1044</pages>
+<year>2012</year>
+<volume>11</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TWC.2012.011012.110156</ee>
+<url>db/journals/twc/twc11.html#ParkPKL12</url>
+</article>
+</r>
+<r><article key="journals/twc/YuKKPL12" mdate="2020-09-06">
+<author pid="11/10836">Seungpyo Yu</author>
+<author pid="124/1912-1">Hanbae Kong 0001</author>
+<author pid="41/2529">Young-Tae Kim</author>
+<author pid="29/6075">Seokhwan Park</author>
+<author pid="20/6158">Inkyu Lee</author>
+<title>Novel Feedback Bit Allocation Methods for Multi-Cell Joint Processing Systems.</title>
+<pages>3030-3036</pages>
+<year>2012</year>
+<volume>11</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TWC.2012.062012.111169</ee>
+<url>db/journals/twc/twc11.html#YuKKPL12</url>
+</article>
+</r>
+<coauthors n="34" nc="4">
+<co c="0"><na f="a/Ahn:Minki" pid="137/0052">Minki Ahn</na></co>
+<co c="1"><na f="c/Cheng:Yu" pid="96/3060">Yu Cheng</na></co>
+<co c="1"><na f="c/Cheng_0003:Yu" pid="96/3060-3">Yu Cheng 0003</na></co>
+<co c="3"><na f="d/Dagefu:Fikadu_T=" pid="33/8959">Fikadu T. Dagefu</na></co>
+<co c="2"><na f="e/Ekin:Sabit" pid="71/7908">Sabit Ekin</na></co>
+<co c="1"><na f="f/Flint:Ian" pid="143/7142">Ian Flint</na></co>
+<co c="2"><na f="i/Ismail_0001:Muhammad" pid="08/10810-1">Muhammad Ismail 0001</na></co>
+<co c="0"><na f="k/Kang:Seowoo" pid="197/1349">Seowoo Kang</na></co>
+<co c="0"><na f="k/Kim:Hanjin" pid="162/0161">Hanjin Kim</na></co>
+<co c="0" n="2"><na f="k/Kim:Jinsung" pid="74/3423">Jinsung Kim</na><na>Jin-Sung Kim</na></co>
+<co c="0" n="2"><na f="k/Kim:Tae=Hoon" pid="17/4306">Tae-Hoon Kim</na><na>Taehoon Kim</na></co>
+<co c="0"><na f="k/Kim:Young=Tae" pid="41/2529">Young-Tae Kim</na></co>
+<co c="0"><na f="k/Kwak:Jin_Sam" pid="31/6860">Jin Sam Kwak</na></co>
+<co c="0"><na f="l/Lee:Hoon" pid="01/1272">Hoon Lee</na></co>
+<co c="0"><na f="l/Lee:Inkyu" pid="20/6158">Inkyu Lee</na></co>
+<co c="0"><na f="l/Lee:Kyoung=Jae" pid="98/214">Kyoung-Jae Lee</na></co>
+<co c="0"><na f="l/Lee:Sang=Rim" pid="42/6672">Sang-Rim Lee</na></co>
+<co c="0"><na f="l/Lee:Sunho" pid="03/4701">Sunho Lee</na></co>
+<co c="0"><na f="l/Lee:Wookbong" pid="56/1838">Wookbong Lee</na></co>
+<co c="0"><na f="m/Moon:Sung_Hyun" pid="03/1530">Sung Hyun Moon</na></co>
+<co c="1"><na f="n/Niyato:Dusit" pid="76/440">Dusit Niyato</na></co>
+<co c="0"><na f="o/Oh:Taeseok" pid="194/7053">Taeseok Oh</na></co>
+<co c="0"><na f="p/Park:Haewook" pid="39/8604">Haewook Park</na></co>
+<co c="0"><na f="p/Park:Seokhwan" pid="29/6075">Seokhwan Park</na></co>
+<co c="1"><na f="p/Privault:Nicolas" pid="83/9836">Nicolas Privault</na></co>
+<co c="2"><na f="q/Qaraqe:Khalid_A=" pid="11/6615">Khalid A. Qaraqe</na></co>
+<co c="3"><na f="s/Sadler:Brian_M=" pid="26/3347">Brian M. Sadler</na></co>
+<co c="2"><na f="s/Serpedin:Erchin" pid="22/4717">Erchin Serpedin</na></co>
+<co c="0"><na f="s/Shin:Hun_Min" pid="170/6467">Hun Min Shin</na></co>
+<co c="0"><na f="s/Song:Chang=Ick" pid="29/7909">Chang-Ick Song</na></co>
+<co c="2"><na f="w/Wang:Jiao" pid="30/5627">Jiao Wang</na></co>
+<co c="1"><na f="w/Wang_0001:Ping" pid="37/1304-1">Ping Wang 0001</na></co>
+<co c="2"><na f="w/Wu:Zi=Yang" pid="263/6807">Zi-Yang Wu</na></co>
+<co c="0"><na f="y/Yu:Seungpyo" pid="11/10836">Seungpyo Yu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,3973 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e725a4d2582c37daa0a4db405c7ec2b6395d84bd93a0a288a7150ea1af8dbda
-size 176175
+<?xml version="1.0"?>
+<dblpperson name="Kyoung Mu Lee" pid="17/4029" n="245">
+<person key="homepages/17/4029" mdate="2009-06-10">
+<author pid="17/4029">Kyoung Mu Lee</author>
+</person>
+<r><article key="journals/cviu/KimSLLLL20" mdate="2020-03-16">
+<author pid="193/6489">Euyoung Kim</author>
+<author pid="175/2005">Seung Yeon Shin</author>
+<author pid="38/4038">Soochahn Lee</author>
+<author pid="84/5495">Kyong Joon Lee</author>
+<author pid="48/133">Kyoung Ho Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Triplanar convolution with shared 2D kernels for 3D classification and shape retrieval.</title>
+<pages>102901</pages>
+<year>2020</year>
+<volume>193</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2019.102901</ee>
+<url>db/journals/cviu/cviu193.html#KimSLLLL20</url>
+</article>
+</r>
+<r><article key="journals/spl/SongL20" mdate="2020-10-06">
+<author pid="160/0103">Gwangmo Song</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Bi-Directional Seed Attention Network for Interactive Image Segmentation.</title>
+<pages>1540-1544</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<ee>https://doi.org/10.1109/LSP.2020.3019970</ee>
+<url>db/journals/spl/spl27.html#SongL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ChoiKHXL20" mdate="2021-02-02">
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="73/4880">Bohyung Han</author>
+<author pid="04/5856">Ning Xu</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Channel Attention Is All You Need for Video Frame Interpolation.</title>
+<pages>10663-10671</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://aaai.org/ojs/index.php/AAAI/article/view/6693</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#ChoiKHXL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/ChoiKL20" mdate="2021-03-02">
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Visual Tracking by TridentAlign and Context Embedding.</title>
+<pages>504-520</pages>
+<year>2020</year>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69532-3_31</ee>
+<crossref>conf/accv/2020-2</crossref>
+<url>db/conf/accv/accv2020-2.html#ChoiKL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/BaikKSILS20" mdate="2021-02-03">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="171/7061">Hyo Jin Kim</author>
+<author pid="181/4558">Tianwei Shen</author>
+<author pid="151/9307">Eddy Ilg</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="124/0715">Christopher Sweeney</author>
+<title>Domain Adaptation of Learned Featuresfor Visual Localization.</title>
+<year>2020</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://www.bmvc2020-conference.com/assets/papers/0316.pdf</ee>
+<crossref>conf/bmvc/2020</crossref>
+<url>db/conf/bmvc/bmvc2020.html#BaikKSILS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NahSTLTXCTBSXCS20" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="263/4294">Yu Tseng</author>
+<author pid="218/5353">Yu-Syuan Xu</author>
+<author pid="246/5219">Cheng-Ming Chiang</author>
+<author pid="12/3621">Yi-Min Tsai</author>
+<author pid="199/1933">Stephan Brehm</author>
+<author pid="253/5743">Sebastian Scherer</author>
+<author pid="264/5685">Dejia Xu</author>
+<author pid="264/5561">Yihao Chu</author>
+<author pid="264/5650">Qingyan Sun</author>
+<author pid="270/8453">Jiaqin Jiang</author>
+<author pid="261/9477">Lunhao Duan</author>
+<author pid="40/4105">Jian Yao</author>
+<author pid="191/2655">Kuldeep Purohit</author>
+<author pid="254/1457">Maitreya Suin</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="00/3870">Yuichi Ito</author>
+<author pid="264/5454">Hrishikesh P. S</author>
+<author pid="264/5624">Densen Puthussery</author>
+<author pid="271/7272">Akhil K. A</author>
+<author pid="75/3033">C. V. Jiji</author>
+<author pid="197/6673">Guisik Kim</author>
+<author pid="271/7002">Deepa P. L</author>
+<author pid="54/6827">Zhiwei Xiong</author>
+<author pid="29/6643">Jie Huang</author>
+<author pid="98/1737-2">Dong Liu 0002</author>
+<author pid="81/1821">Sangmin Kim</author>
+<author pid="264/5429">Hyungjoon Nam</author>
+<author pid="71/230">Jisu Kim</author>
+<author pid="24/6358">Jechang Jeong</author>
+<author pid="229/1267">Shihua Huang</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="205/3982">Haichao Yu</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="78/4396">Ya Zhou</author>
+<author pid="09/1365">Xin Li</author>
+<author pid="91/3699">Sen Liu</author>
+<author pid="54/6561">Zhibo Chen 0001</author>
+<author pid="260/3198">Saikat Dutta</author>
+<author pid="217/1530">Sourya Dipta Das</author>
+<author pid="271/7624">Shivam Garg</author>
+<author pid="271/7432">Daniel Sprague</author>
+<author pid="264/9735">Bhrij Patel</author>
+<author pid="271/7123">Thomas Huck</author>
+<title>NTIRE 2020 Challenge on Image and Video Deblurring.</title>
+<pages>1662-1675</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00216</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#NahSTLTXCTBSXCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/BaikHL20" mdate="2020-08-11">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Learning to Forget for Meta-Learning.</title>
+<pages>2376-2384</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00245</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#BaikHL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChoiCB0L20" mdate="2020-12-29">
+<author pid="227/6654">Myungsub Choi</author>
+<author orcid="0000-0002-0932-6213" pid="195/5859">Janghoon Choi</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Scene-Adaptive Video Frame Interpolation via Meta-Learning.</title>
+<pages>9441-9450</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00946</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#ChoiCB0L20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SonLNTLLXLSQDPS20" mdate="2021-04-09">
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="275/3156">Jaerin Lee</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="200/6534">Yihao Liu</author>
+<author pid="263/5192">Liangbin Xie</author>
+<author pid="163/8053">Siyao Li</author>
+<author pid="16/9879">Wenxiu Sun</author>
+<author pid="q/YuQiao1">Yu Qiao 0001</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="197/6289">Woonsung Park</author>
+<author pid="282/2041">Wonyong Seo</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="57/7458">Wenhao Zhang</author>
+<author pid="63/1474">Pablo Navarrete Michelini</author>
+<author pid="260/3239">Kazutoshi Akita</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<title>AIM 2020 Challenge on Video Temporal Super-Resolution.</title>
+<pages>23-40</pages>
+<year>2020</year>
+<booktitle>ECCV Workshops (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66823-5_2</ee>
+<crossref>conf/eccv/2020-w4</crossref>
+<url>db/conf/eccv/eccv2020-w4.html#SonLNTLLXLSQDPS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/MoonSL20" mdate="2020-11-03">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/5270">Takaaki Shiratori</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>DeepHandMesh: A Weakly-Supervised Deep Encoder-Decoder Framework for High-Fidelity Hand Mesh Modeling.</title>
+<pages>440-455</pages>
+<year>2020</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58536-5_26</ee>
+<crossref>conf/eccv/2020-2</crossref>
+<url>db/conf/eccv/eccv2020-2.html#MoonSL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/MoonYWSL20" mdate="2020-11-12">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="23/7442">Shoou-I Yu</author>
+<author pid="47/4561">He Wen</author>
+<author pid="17/5270">Takaaki Shiratori</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image.</title>
+<pages>548-564</pages>
+<year>2020</year>
+<booktitle>ECCV (20)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58565-5_33</ee>
+<crossref>conf/eccv/2020-20</crossref>
+<url>db/conf/eccv/eccv2020-20.html#MoonYWSL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/MoonL20" mdate="2020-11-10">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image.</title>
+<pages>752-768</pages>
+<year>2020</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58571-6_44</ee>
+<crossref>conf/eccv/2020-7</crossref>
+<url>db/conf/eccv/eccv2020-7.html#MoonL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChoiML20" mdate="2020-11-10">
+<author pid="229/3689">Hongsuk Choi</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose.</title>
+<pages>769-787</pages>
+<year>2020</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58571-6_45</ee>
+<crossref>conf/eccv/2020-7</crossref>
+<url>db/conf/eccv/eccv2020-7.html#ChoiML20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SongKCL20" mdate="2020-07-23">
+<author pid="160/0103">Gwangmo Song</author>
+<author pid="254/3977">Yumee Kim</author>
+<author pid="80/11127">Kukjin Chun</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multi Image Depth from Defocus Network with Boundary Cue for Dual Aperture Camera.</title>
+<pages>2293-2297</pages>
+<year>2020</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP40776.2020.9054346</ee>
+<crossref>conf/icassp/2020</crossref>
+<url>db/conf/icassp/icassp2020.html#SongKCL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BaikCCKL20" mdate="2021-01-19">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Meta-Learning with Adaptive Hyperparameters.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/ee89223a2b625b5152132ed77abbcc79-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#BaikCCKL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-00779" mdate="2020-04-08">
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Scene-Adaptive Video Frame Interpolation via Meta-Learning.</title>
+<year>2020</year>
+<volume>abs/2004.00779</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.00779</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-00779</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-01233" mdate="2020-05-08">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="24/8616">Radu Timofte</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results.</title>
+<year>2020</year>
+<volume>abs/2005.01233</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.01233</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-01233</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-01244" mdate="2020-05-08">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="24/8616">Radu Timofte</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>NTIRE 2020 Challenge on Image and Video Deblurring.</title>
+<year>2020</year>
+<volume>abs/2005.01244</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.01244</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-01244</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-06317" mdate="2020-07-21">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="226/4398">Heeseung Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="93/4742">Minsu Cho</author>
+<title>IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos.</title>
+<year>2020</year>
+<volume>abs/2007.06317</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.06317</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-06317</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-06887" mdate="2020-07-21">
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Visual Tracking by TridentAlign and Context Embedding.</title>
+<year>2020</year>
+<volume>abs/2007.06887</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.06887</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-06887</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-03713" mdate="2020-08-14">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image.</title>
+<year>2020</year>
+<volume>abs/2008.03713</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.03713</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-03713</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-08213" mdate="2020-08-21">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/5270">Takaaki Shiratori</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>DeepHandMesh: A Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling.</title>
+<year>2020</year>
+<volume>abs/2008.08213</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.08213</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-08213</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-09047" mdate="2020-08-21">
+<author pid="229/3689">Hongsuk Choi</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose.</title>
+<year>2020</year>
+<volume>abs/2008.09047</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.09047</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-09047</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-09309" mdate="2020-08-28">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="23/7442">Shoou-I Yu</author>
+<author pid="47/4561">He Wen</author>
+<author pid="17/5270">Takaaki Shiratori</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image.</title>
+<year>2020</year>
+<volume>abs/2008.09309</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.09309</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-09309</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-09310" mdate="2020-08-28">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="171/7061">Hyo Jin Kim</author>
+<author pid="181/4558">Tianwei Shen</author>
+<author pid="151/9307">Eddy Ilg</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="124/0715">Chris Sweeney</author>
+<title>Domain Adaptation of Learned Features for Visual Localization.</title>
+<year>2020</year>
+<volume>abs/2008.09310</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.09310</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-09310</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-12987" mdate="2020-09-30">
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="275/3156">Jaerin Lee</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="24/8616">Radu Timofte</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>AIM 2020 Challenge on Video Temporal Super-Resolution.</title>
+<year>2020</year>
+<volume>abs/2009.12987</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.12987</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-12987</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-00209" mdate="2020-11-06">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Meta-Learning with Adaptive Hyperparameters.</title>
+<year>2020</year>
+<volume>abs/2011.00209</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.00209</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-00209</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-04482" mdate="2020-11-12">
+<author pid="256/5167">Suyoung Lee</author>
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>DynaVSR: Dynamic Adaptive Blind Video Super-Resolution.</title>
+<year>2020</year>
+<volume>abs/2011.04482</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.04482</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-04482</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-08627" mdate="2020-12-01">
+<author pid="229/3689">Hongsuk Choi</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video.</title>
+<year>2020</year>
+<volume>abs/2011.08627</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.08627</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-08627</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-11232" mdate="2020-11-26">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>NeuralAnnot: Neural Annotator for in-the-wild Expressive 3D Human Pose and Mesh Training Sets.</title>
+<year>2020</year>
+<volume>abs/2011.11232</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.11232</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-11232</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-11534" mdate="2020-11-26">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Pose2Pose: 3D Positional Pose-Guided 3D Rotational Pose Prediction for Expressive 3D Human Pose and Mesh Estimation.</title>
+<year>2020</year>
+<volume>abs/2011.11534</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.11534</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-11534</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-11225" mdate="2021-01-04">
+<author pid="97/9880">Heewon Kim</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Searching for Controllable Image Restoration Networks.</title>
+<year>2020</year>
+<volume>abs/2012.11225</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.11225</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-11225</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-11230" mdate="2021-01-04">
+<author pid="281/7988">Cheeun Hong</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="281/8729">Junghun Oh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>DAQ: Distribution-Aware Quantization for Deep Image Super-Resolution Networks.</title>
+<year>2020</year>
+<volume>abs/2012.11230</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.11230</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-11230</url>
+</article>
+</r>
+<r><article key="journals/mia/ShinLYL19" mdate="2020-05-30">
+<author orcid="0000-0002-5959-5761" pid="175/2005">Seung Yeon Shin</author>
+<author orcid="0000-0002-2975-2519" pid="38/4038">Soochahn Lee</author>
+<author orcid="0000-0001-9893-8897" pid="67/1367">Il Dong Yun</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep vessel segmentation by learning graphical connectivity.</title>
+<year>2019</year>
+<volume>58</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2019.101556</ee>
+<ee>https://www.wikidata.org/entity/Q90180098</ee>
+<url>db/journals/mia/mia58.html#ShinLYL19</url>
+</article>
+</r>
+<r><article key="journals/tmi/ShinLYKL19" mdate="2020-06-18">
+<author orcid="0000-0002-5959-5761" pid="175/2005">Seung Yeon Shin</author>
+<author orcid="0000-0002-2975-2519" pid="38/4038">Soochahn Lee</author>
+<author orcid="0000-0001-9893-8897" pid="67/1367">Il Dong Yun</author>
+<author orcid="0000-0003-0899-3580" pid="119/6198">Sun Mi Kim</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>Joint Weakly and Semi-Supervised Deep Learning for Localization and Classification of Masses in Breast Ultrasound Images.</title>
+<pages>762-774</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Medical Imaging</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMI.2018.2872031</ee>
+<ee>https://www.wikidata.org/entity/Q57070341</ee>
+<url>db/journals/tmi/tmi38.html#ShinLYKL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/MoonCL19" mdate="2020-01-20">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>PoseFix: Model-Agnostic General Human Pose Refinement Network.</title>
+<pages>7773-7781</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Moon_PoseFix_Model-Agnostic_General_Human_Pose_Refinement_Network_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00796</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#MoonCL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MoonCL19a" mdate="2019-12-18">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multi-scale Aggregation R-CNN for 2D Multi-person Pose Estimation.</title>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/Augmented_Human_Humancentric_Understanding_and_2D3D_Synthesis/Moon_Multi-scale_Aggregation_R-CNN_for_2D_Multi-person_Pose_Estimation_CVPRW_2019_paper.html</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#MoonCL19a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NahTBHMSL19" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="205/3991">Xintao Wang</author>
+<author pid="228/2769">Kelvin C. K. Chan</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="230/2044">Hyeonjun Sim</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="55/11454">Dongwon Park</author>
+<author pid="77/2107">Jisoo Kim</author>
+<author pid="85/2542">Se Young Chun</author>
+<author pid="142/1614">Muhammad Haris</author>
+<author pid="17/1926">Greg Shakhnarovich</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<author pid="140/7811">Syed Waqas Zamir</author>
+<author pid="230/3630">Aditya Arora</author>
+<author pid="32/6735">Salman Khan</author>
+<author orcid="0000-0002-4263-3143" pid="05/8618">Fahad Shahbaz Khan</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="263/1603">Rahul Kumar Gupta</author>
+<author pid="216/4089">Vishal M. Chudasama</author>
+<author pid="263/1688">Heena Patel</author>
+<author pid="60/10346">Kishor P. Upla</author>
+<author pid="17/7704">Hongfei Fan</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="08/2771">Yumei Zhang</author>
+<author pid="40/1491">Xiang Li</author>
+<author pid="98/5684">Wenjie Zhang</author>
+<author pid="263/1072">Qingwen He</author>
+<author orcid="0000-0002-6709-1627" pid="191/2655">Kuldeep Purohit</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="96/9913">Jeonghun Kim</author>
+<author pid="39/8776">Mohammad Tofighi</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="73/1467">Vishal Monga</author>
+<title>NTIRE 2019 Challenge on Video Deblurring: Methods and Results.</title>
+<pages>1974-1984</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00249</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#NahTBHMSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NahTGBHMSL19" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="126/1028">Shuhang Gu</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="205/3991">Xintao Wang</author>
+<author pid="228/2769">Kelvin C. K. Chan</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="26/5200">Ding Liu</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="82/1364">Xiao Liu</author>
+<author pid="66/190">Chao Li</author>
+<author pid="167/0539">Dongliang He</author>
+<author pid="200/7992">Yukang Ding</author>
+<author pid="159/2939">Shilei Wen</author>
+<author pid="p/FatihMuratPorikli">Fatih Porikli</author>
+<author pid="124/2803">Ratheesh Kalarot</author>
+<author pid="142/1614">Muhammad Haris</author>
+<author pid="17/1926">Greg Shakhnarovich</author>
+<author pid="46/5881">Norimichi Ukita</author>
+<author pid="98/1202">Peng Yi</author>
+<author pid="84/6394">Zhongyuan Wang</author>
+<author pid="124/2034">Kui Jiang</author>
+<author orcid="0000-0002-5694-505X" pid="119/0230">Junjun Jiang</author>
+<author pid="96/9989">Jiayi Ma 0001</author>
+<author pid="135/8614-1">Hang Dong 0001</author>
+<author pid="04/4189">Xinyi Zhang</author>
+<author pid="88/6765">Zhe Hu</author>
+<author pid="120/3921">Kwan-Young Kim</author>
+<author pid="254/2961">Dong Un Kang</author>
+<author pid="85/2542">Se Young Chun</author>
+<author orcid="0000-0002-6709-1627" pid="191/2655">Kuldeep Purohit</author>
+<author pid="73/3473">A. N. Rajagopalan 0001</author>
+<author pid="176/4020">Yapeng Tian</author>
+<author pid="166/2763">Yulun Zhang</author>
+<author pid="00/5815-1">Yun Fu 0001</author>
+<author pid="117/4770">Chenliang Xu</author>
+<author pid="00/5029">A. Murat Tekalp</author>
+<author pid="254/8203">M. Akin Yilmaz</author>
+<author pid="263/1391">Cansu Korkmaz</author>
+<author pid="16/7689">Manoj Sharma</author>
+<author pid="239/4041">Megh Makwana</author>
+<author pid="263/1766">Anuj Badhwar</author>
+<author pid="239/4362">Ajay Pratap Singh</author>
+<author pid="230/2092">Avinash Upadhyay</author>
+<author pid="218/8868">Rudrabha Mukhopadhyay</author>
+<author pid="218/5708">Ankit Shukla</author>
+<author pid="263/1760">Dheeraj Khanna</author>
+<author pid="18/6045">A. S. Mandal</author>
+<author pid="31/2344">Santanu Chaudhury</author>
+<author pid="243/9317">Si Miao</author>
+<author pid="27/3343-1">Yongxin Zhu 0001</author>
+<author pid="183/4316">Xiao Huo</author>
+<title>NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results.</title>
+<pages>1985-1995</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00250</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#NahTGBHMSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NahBHMSTL19" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study.</title>
+<pages>1996-2005</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00251</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#NahBHMSTL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SuhHKL19" mdate="2020-01-20">
+<author pid="119/1522">Yumin Suh</author>
+<author pid="73/4880">Bohyung Han</author>
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Stochastic Class-Based Hard Example Mining for Deep Metric Learning.</title>
+<pages>7251-7259</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Suh_Stochastic_Class-Based_Hard_Example_Mining_for_Deep_Metric_Learning_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00742</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#SuhHKL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NahSL19" mdate="2020-01-20">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring.</title>
+<pages>8102-8111</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00829</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#NahSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ChoiKL19" mdate="2020-12-29">
+<author orcid="0000-0002-0932-6213" pid="195/5859">Janghoon Choi</author>
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep Meta Learning for Real-Time Target-Aware Visual Tracking.</title>
+<pages>911-920</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00100</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#ChoiKL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ParkHHL19" mdate="2020-03-05">
+<author pid="82/2651">Dongmin Park</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="73/4880">Bohyung Han</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Continual Learning by Asymmetric Loss Approximation With Single-Side Overestimation.</title>
+<pages>3334-3343</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00343</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#ParkHHL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/MoonCL19" mdate="2020-03-05">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Camera Distance-Aware Top-Down Approach for 3D Multi-Person Pose Estimation From a Single RGB Image.</title>
+<pages>10132-10141</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.01023</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#MoonCL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/NahKHXPYKJSBZSC19" mdate="2021-04-09">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="73/4880">Bohyung Han</author>
+<author pid="04/5856">Ning Xu</author>
+<author pid="240/3623">Bumjun Park</author>
+<author pid="250/5604">Songhyun Yu</author>
+<author pid="81/1821">Sangmin Kim</author>
+<author pid="24/6358">Jechang Jeong</author>
+<author pid="250/8374">Wang Shen</author>
+<author pid="192/8571">Wenbo Bao</author>
+<author pid="19/3230">Guangtao Zhai</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="181/2847">Li Chen</author>
+<author pid="64/2916">Zhiyong Gao</author>
+<author pid="60/10245">Guannan Chen</author>
+<author pid="45/2957">Yunhua Lu</author>
+<author pid="90/5794">Ran Duan</author>
+<author pid="36/5558">Tong Liu</author>
+<author pid="16/4136">Lijie Zhang</author>
+<author pid="197/6289">Woon-Sung Park</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="244/2503">George Pisha</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="260/2798">Eyal Naor</author>
+<author pid="260/3105">Lior Aloni</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="202/2430">Li Si-Yao</author>
+<author pid="260/3236">Ze Pan</author>
+<author pid="172/1282">Xiangyu Xu</author>
+<author pid="16/9879">Wenxiu Sun</author>
+<author pid="227/6654">Myungsub Choi</author>
+<title>AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results.</title>
+<pages>3388-3398</pages>
+<year>2019</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2019.00421</ee>
+<crossref>conf/iccvw/2019</crossref>
+<url>db/conf/iccvw/iccvw2019.html#NahKHXPYKJSBZSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/BaikKL19" mdate="2019-12-11">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Learning to Remember Past to Predict Future for Visual Tracking.</title>
+<pages>3068-3072</pages>
+<year>2019</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2019.8803359</ee>
+<crossref>conf/icip/2019</crossref>
+<url>db/conf/icip/icip2019.html#BaikKL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-03912" mdate="2019-05-27">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multi-scale Aggregation R-CNN for 2D Multi-person Pose Estimation.</title>
+<year>2019</year>
+<volume>abs/1905.03912</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.03912</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-03912</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-05895" mdate="2019-06-24">
+<author pid="243/2775">Sungyong Baik</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Learning to Forget for Meta-Learning.</title>
+<year>2019</year>
+<volume>abs/1906.05895</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.05895</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-05895</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-11346" mdate="2019-08-01">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image.</title>
+<year>2019</year>
+<volume>abs/1907.11346</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.11346</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-11346</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-02984" mdate="2019-08-09">
+<author pid="82/2651">Dongmin Park</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="73/4880">Bohyung Han</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation.</title>
+<year>2019</year>
+<volume>abs/1908.02984</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.02984</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-02984</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12029" mdate="2019-10-31">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>AbsPoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose.</title>
+<year>2019</year>
+<volume>abs/1910.12029</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12029</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12029</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-07478" mdate="2019-12-02">
+<author pid="97/9880">Heewon Kim</author>
+<author pid="243/2738">Seokil Hong</author>
+<author pid="73/4880">Bohyung Han</author>
+<author pid="117/4823">Heesoo Myeong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Fine-Grained Neural Architecture Search.</title>
+<year>2019</year>
+<volume>abs/1911.07478</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.07478</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-07478</url>
+</article>
+</r>
+<r><article key="journals/cviu/ChangL18" mdate="2020-02-21">
+<author pid="93/2243">Ju Yong Chang</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>2D-3D pose consistency-based conditional random fields for 3D human pose estimation.</title>
+<pages>52-61</pages>
+<year>2018</year>
+<volume>169</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2018.02.004</ee>
+<url>db/journals/cviu/cviu169.html#ChangL18</url>
+</article>
+</r>
+<r><article key="journals/cviu/ChoiKL18" mdate="2020-02-21">
+<author orcid="0000-0002-0932-6213" pid="195/5859">Janghoon Choi</author>
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>Real-time visual tracking by deep reinforced decision making.</title>
+<pages>10-19</pages>
+<year>2018</year>
+<volume>171</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2018.05.009</ee>
+<url>db/journals/cviu/cviu171.html#ChoiKL18</url>
+</article>
+</r>
+<r><article key="journals/pami/KimNL18" mdate="2018-11-14">
+<author orcid="0000-0002-7995-3984" pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author orcid="0000-0003-3971-9402" pid="177/3248">Seungjun Nah</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>Dynamic Video Deblurring Using a Locally Adaptive Blur Model.</title>
+<pages>2374-2387</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2761348</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2761348</ee>
+<ee>https://www.wikidata.org/entity/Q47651946</ee>
+<url>db/journals/pami/pami40.html#KimNL18</url>
+</article>
+</r>
+<r><article key="journals/pami/ParkL18" mdate="2018-11-14">
+<author orcid="0000-0003-4774-7841" pid="72/5728">In Kyu Park</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>Robust Light Field Depth Estimation Using Occlusion-Noise Aware Data Costs.</title>
+<pages>2484-2497</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2746858</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2746858</ee>
+<ee>https://www.wikidata.org/entity/Q47703073</ee>
+<url>db/journals/pami/pami40.html#ParkL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/YavartanooKL18" mdate="2019-05-31">
+<author orcid="0000-0002-0109-1202" pid="230/3515">Mohsen Yavartanoo</author>
+<author orcid="0000-0003-0528-6557" pid="193/6489">Euyoung Kim</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>SPNet: Deep 3D Object Classification and Retrieval Using Stereographic Projection.</title>
+<pages>691-706</pages>
+<year>2018</year>
+<booktitle>ACCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20873-8_44</ee>
+<crossref>conf/accv/2018-5</crossref>
+<url>db/conf/accv/accv2018-5.html#YavartanooKL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SongML18" mdate="2019-02-06">
+<author pid="160/0103">Gwangmo Song</author>
+<author pid="117/4823">Heesoo Myeong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>SeedNet: Automatic Seed Generation With Deep Reinforcement Learning for Robust Interactive Segmentation.</title>
+<pages>1760-1768</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Song_SeedNet_Automatic_Seed_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00189</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00189</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#SongML18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/YuanGSMCLMKHGYC18" mdate="2020-02-17">
+<author pid="142/0092">Shanxin Yuan</author>
+<author pid="165/1794">Guillermo Garcia-Hernando</author>
+<author pid="s/BStenger">Bj&#246;rn Stenger</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="165/8169">Pavlo Molchanov</author>
+<author pid="48/6214">Jan Kautz</author>
+<author pid="29/4135">Sina Honari</author>
+<author pid="182/2301">Liuhao Ge</author>
+<author pid="42/3332">Junsong Yuan</author>
+<author pid="30/4937-1">Xinghao Chen 0001</author>
+<author pid="37/6836">Guijin Wang</author>
+<author pid="29/3081-32">Fan Yang 0032</author>
+<author pid="211/6915">Kai Akiyama</author>
+<author pid="56/1428">Yang Wu</author>
+<author pid="182/1834">Qingfu Wan</author>
+<author pid="160/2780">Meysam Madadi</author>
+<author pid="77/5527">Sergio Escalera</author>
+<author pid="135/5248">Shile Li</author>
+<author pid="96/5115">Dongheui Lee</author>
+<author pid="12/7591">Iason Oikonomidis</author>
+<author orcid="0000-0001-8230-3192" pid="81/3715">Antonis A. Argyros</author>
+<author pid="28/787">Tae-Kyun Kim</author>
+<title>Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals.</title>
+<pages>2636-2645</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00279</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00279</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#YuanGSMCLMKHGYC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MoonCL18" mdate="2019-02-06">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation From a Single Depth Map.</title>
+<pages>5079-5088</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Moon_V2V-PoseNet_Voxel-to-Voxel_Prediction_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00533</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00533</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#MoonCL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SonNL18" mdate="2018-10-08">
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Clustering Convolutional Kernels to Compress Deep Neural Networks.</title>
+<pages>225-240</pages>
+<year>2018</year>
+<booktitle>ECCV (8)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01237-3_14</ee>
+<crossref>conf/eccv/2018-8</crossref>
+<url>db/conf/eccv/eccv2018-8.html#SonNL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LeePPL18" mdate="2018-10-08">
+<author pid="69/6381">Dongwoo Lee</author>
+<author pid="98/9446">Haesol Park</author>
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Joint Blind Motion Deblurring and Depth Estimation of Light Field.</title>
+<pages>300-316</pages>
+<year>2018</year>
+<booktitle>ECCV (16)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01270-0_18</ee>
+<crossref>conf/eccv/2018-16</crossref>
+<url>db/conf/eccv/eccv2018-16.html#LeePPL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SuhWTML18" mdate="2021-03-25">
+<author pid="119/1522">Yumin Suh</author>
+<author orcid="0000-0002-4888-4445" pid="49/3441">Jingdong Wang 0001</author>
+<author pid="22/845">Siyu Tang</author>
+<author pid="12/5444-1">Tao Mei 0001</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Part-Aligned Bilinear Representations for Person Re-identification.</title>
+<pages>418-437</pages>
+<year>2018</year>
+<booktitle>ECCV (14)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01264-9_25</ee>
+<crossref>conf/eccv/2018-14</crossref>
+<url>db/conf/eccv/eccv2018-14.html#SuhWTML18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/KimCLL18" mdate="2018-10-11">
+<author pid="97/9880">Heewon Kim</author>
+<author pid="227/6654">Myungsub Choi</author>
+<author pid="203/8428">Bee Lim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Task-Aware Image Downscaling.</title>
+<pages>419-434</pages>
+<year>2018</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01225-0_25</ee>
+<crossref>conf/eccv/2018-4</crossref>
+<url>db/conf/eccv/eccv2018-4.html#KimCLL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SongL18" mdate="2018-09-11">
+<author pid="160/0103">Gwangmo Song</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Depth Estimation Network for Dual Defocused Images with Different Depth-of-Field.</title>
+<pages>1563-1567</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451201</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#SongL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/Lee18" mdate="2018-11-29">
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Session details: Keynote 4.</title>
+<year>2018</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3286939</ee>
+<crossref>conf/mm/2018</crossref>
+<url>db/conf/mm/mm2018.html#Lee18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mm/2018" mdate="2019-11-18">
+<editor pid="b/SusanneBoll">Susanne Boll</editor>
+<editor pid="17/4029">Kyoung Mu Lee</editor>
+<editor pid="25/5545">Jiebo Luo</editor>
+<editor pid="97/6308-1">Wenwu Zhu 0001</editor>
+<editor pid="77/5360">Hyeran Byun</editor>
+<editor pid="29/4638">Chang Wen Chen</editor>
+<editor pid="l/RainerLienhart">Rainer Lienhart</editor>
+<editor pid="12/5444-1">Tao Mei 0001</editor>
+<title>2018 ACM Multimedia Conference on Multimedia Conference, MM 2018, Seoul, Republic of Korea, October 22-26, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>ACM Multimedia</booktitle>
+<year>2018</year>
+<isbn>978-1-4503-5665-7</isbn>
+<ee>https://doi.org/10.1145/3240508</ee>
+<url>db/conf/mm/mm2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-07094" mdate="2021-03-25">
+<author pid="119/1522">Yumin Suh</author>
+<author pid="49/3441">Jingdong Wang 0001</author>
+<author pid="22/845">Siyu Tang</author>
+<author pid="12/5444-1">Tao Mei 0001</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Part-Aligned Bilinear Representations for Person Re-identification.</title>
+<year>2018</year>
+<volume>abs/1804.07094</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.07094</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-07094</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-02279" mdate="2018-08-13">
+<author pid="175/2005">Seung Yeon Shin</author>
+<author pid="38/4038">Soochahn Lee</author>
+<author pid="67/1367">Il Dong Yun</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep Vessel Segmentation By Learning Graphical Connectivity.</title>
+<year>2018</year>
+<volume>abs/1806.02279</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.02279</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-02279</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-01571" mdate="2018-11-22">
+<author pid="230/3515">Mohsen Yavartanoo</author>
+<author pid="193/6489">Euyoung Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>SPNet: Deep 3D Object Classification and Retrieval using Stereographic Projection.</title>
+<year>2018</year>
+<volume>abs/1811.01571</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.01571</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-01571</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-03595" mdate="2019-01-01">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>PoseFix: Model-agnostic General Human Pose Refinement Network.</title>
+<year>2018</year>
+<volume>abs/1812.03595</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.03595</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-03595</url>
+</article>
+</r>
+<r><article key="journals/jei/HeoLL17" mdate="2017-12-04">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Depth maps and high-dynamic range image generation from alternating exposure multiview images.</title>
+<pages>43006</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>J. Electronic Imaging</journal>
+<number>4</number>
+<ee>https://doi.org/10.1117/1.JEI.26.4.043006</ee>
+<url>db/journals/jei/jei26.html#HeoLL17</url>
+</article>
+</r>
+<r><article key="journals/pami/KwonL17" mdate="2018-11-14">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Adaptive Visual Tracking with Minimum Uncertainty Gap Estimation.</title>
+<pages>18-31</pages>
+<year>2017</year>
+<volume>39</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TPAMI.2016.2537330</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2016.2537330</ee>
+<ee>https://www.wikidata.org/entity/Q48624863</ee>
+<url>db/journals/pami/pami39.html#KwonL17</url>
+</article>
+</r>
+<r><article key="journals/spl/ParkL17" mdate="2017-11-24">
+<author pid="98/9446">Haesol Park</author>
+<author orcid="0000-0001-7210-1036" pid="17/4029">Kyoung Mu Lee</author>
+<title>Look Wider to Match Image Patches With Convolutional Neural Networks.</title>
+<pages>1788-1792</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/LSP.2016.2637355</ee>
+<url>db/journals/spl/spl24.html#ParkL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsipa/LimL17" mdate="2018-02-14">
+<author pid="203/8428">Bee Lim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep recurrent resnet for video super-resolution.</title>
+<pages>1452-1455</pages>
+<year>2017</year>
+<booktitle>APSIPA</booktitle>
+<ee>https://doi.org/10.1109/APSIPA.2017.8282261</ee>
+<crossref>conf/apsipa/2017</crossref>
+<url>db/conf/apsipa/apsipa2017.html#LimL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NahKL17" mdate="2018-09-15">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring.</title>
+<pages>257-265</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2017.35</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#NahKL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/TimofteAG0ZLSKN17" mdate="2021-04-09">
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author pid="143/7107">Eirikur Agustsson</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author pid="79/3711">Ming-Hsuan Yang 0001</author>
+<author pid="64/5666-6">Lei Zhang 0006</author>
+<author pid="203/8428">Bee Lim</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="205/3991">Xintao Wang</author>
+<author pid="176/4020">Yapeng Tian</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="166/2763">Yulun Zhang</author>
+<author pid="205/3888">Shixiang Wu</author>
+<author pid="16/1278">Chao Dong</author>
+<author pid="84/7019">Liang Lin</author>
+<author pid="q/YuQiao1">Yu Qiao 0001</author>
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="190/7538">Woong Bae</author>
+<author orcid="0000-0001-5252-9668" pid="141/8878">Jae Jun Yoo</author>
+<author pid="173/4627">Yoseob Han</author>
+<author pid="15/5613">Jong Chul Ye</author>
+<author pid="169/7657">Jae-Seok Choi</author>
+<author pid="84/4965">Munchurl Kim</author>
+<author pid="120/4095">Yuchen Fan</author>
+<author pid="185/1060">Jiahui Yu</author>
+<author pid="82/1911-2">Wei Han 0002</author>
+<author orcid="0000-0002-0931-1345" pid="26/5200">Ding Liu</author>
+<author pid="205/3982">Haichao Yu</author>
+<author pid="119/4026">Zhangyang Wang</author>
+<author pid="176/5516">Honghui Shi</author>
+<author pid="23/8015">Xinchao Wang</author>
+<author pid="h/ThomasSHuang">Thomas S. Huang</author>
+<author pid="134/3031">Yunjin Chen</author>
+<author pid="55/957-8">Kai Zhang 0008</author>
+<author pid="93/2671">Wangmeng Zuo</author>
+<author pid="63/749">Zhimin Tang</author>
+<author pid="58/817">Linkai Luo</author>
+<author pid="55/2211">Shaohui Li</author>
+<author pid="43/8387">Min Fu</author>
+<author pid="17/6060">Lei Cao</author>
+<author pid="201/7460">Wen Heng</author>
+<author pid="158/5803">Giang Bui</author>
+<author pid="182/7439">Truc Le</author>
+<author pid="35/1832">Ye Duan</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author pid="149/7989">Ruxin Wang</author>
+<author pid="33/3328">Xu Lin</author>
+<author pid="41/813">Jianxin Pang</author>
+<author pid="205/3875">Jinchang Xu</author>
+<author pid="57/2056">Yu Zhao</author>
+<author pid="172/1282">Xiangyu Xu</author>
+<author pid="06/10816">Jin-shan Pan</author>
+<author pid="69/4250">Deqing Sun</author>
+<author pid="47/3138">Yujin Zhang</author>
+<author pid="146/4830">Xibin Song</author>
+<author pid="65/7804">Yuchao Dai</author>
+<author pid="94/6767">Xueying Qin</author>
+<author pid="175/3790">Xuan-Phung Huynh</author>
+<author pid="198/9637">Tiantong Guo</author>
+<author pid="117/0303">Hojjat Seyed Mousavi</author>
+<author pid="159/2041">Tiep Huu Vu</author>
+<author pid="73/1467">Vishal Monga</author>
+<author pid="141/6253">Crist&#243;v&#227;o Cruz</author>
+<author pid="e/KOEgiazarian">Karen O. Egiazarian</author>
+<author pid="51/956">Vladimir Katkovnik</author>
+<author pid="135/3263">Rakesh Mehta</author>
+<author pid="190/7826">Arnav Kumar Jain</author>
+<author pid="190/7006">Abhinav Agarwalla</author>
+<author pid="205/3931">Ch V. Sai Praveen</author>
+<author pid="205/3902">Ruofan Zhou</author>
+<author pid="195/5685">Hongdiao Wen</author>
+<author pid="205/3914">Che Zhu</author>
+<author pid="185/1067">Zhiqiang Xia</author>
+<author pid="185/0907">Zhengtao Wang</author>
+<author pid="67/398">Qi Guo</author>
+<title>NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results.</title>
+<pages>1110-1121</pages>
+<year>2017</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2017.149</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2017.149</ee>
+<crossref>conf/cvpr/2017w</crossref>
+<url>db/conf/cvpr/cvprw2017.html#TimofteAG0ZLSKN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LimSKNL17" mdate="2017-09-07">
+<author pid="203/8428">Bee Lim</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Enhanced Deep Residual Networks for Single Image Super-Resolution.</title>
+<pages>1132-1140</pages>
+<year>2017</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2017.151</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2017.151</ee>
+<crossref>conf/cvpr/2017w</crossref>
+<url>db/conf/cvpr/cvprw2017.html#LimSKNL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/KimLSH17" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="41/4748-1">Michael Hirsch 0001</author>
+<title>Online Video Deblurring via Dynamic Temporal Blending Network.</title>
+<pages>4058-4067</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2017.435</ee>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#KimLSH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ParkL17" mdate="2018-01-11">
+<author pid="98/9446">Haesol Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Joint Estimation of Camera Pose, Depth, Deblurring, and Super-Resolution from a Blurred Image Sequence.</title>
+<pages>4623-4631</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2017.494</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2017.494</ee>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#ParkL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KangKL17" mdate="2018-02-23">
+<author pid="145/7998">Jihong Kang</author>
+<author pid="22/8105">Sungjei Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multi-modal/multi-scale convolutional neural network based in-loop filter design for next generation video codec.</title>
+<pages>26-30</pages>
+<year>2017</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2017.8296236</ee>
+<crossref>conf/icip/2017</crossref>
+<url>db/conf/icip/icip2017.html#KangKL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ChoiKL17" mdate="2018-08-13">
+<author pid="195/5859">Janghoon Choi</author>
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Visual Tracking by Reinforced Decision Making.</title>
+<year>2017</year>
+<volume>abs/1702.06291</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.06291</ee>
+<url>db/journals/corr/corr1702.html#ChoiKL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KimLSH17" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="41/4748-1">Michael Hirsch 0001</author>
+<title>Online Video Deblurring via Dynamic Temporal Blending Network.</title>
+<year>2017</year>
+<volume>abs/1704.03285</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.03285</ee>
+<url>db/journals/corr/corr1704.html#KimLSH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChangL17a" mdate="2018-08-13">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>2D-3D Pose Consistency-based Conditional Random Fields for 3D Human Pose Estimation.</title>
+<year>2017</year>
+<volume>abs/1704.03986</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.03986</ee>
+<url>db/journals/corr/corr1704.html#ChangL17a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MoonCSL17" mdate="2018-08-13">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="119/1522">Yumin Suh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Holistic Planimetric prediction to Local Volumetric prediction for 3D Human Pose Estimation.</title>
+<year>2017</year>
+<volume>abs/1706.04758</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.04758</ee>
+<url>db/journals/corr/corr1706.html#MoonCSL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LimSKNL17" mdate="2018-08-13">
+<author pid="203/8428">Bee Lim</author>
+<author pid="68/6424">Sanghyun Son</author>
+<author pid="97/9880">Heewon Kim</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Enhanced Deep Residual Networks for Single Image Super-Resolution.</title>
+<year>2017</year>
+<volume>abs/1707.02921</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.02921</ee>
+<url>db/journals/corr/corr1707.html#LimSKNL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-05745" mdate="2018-08-13">
+<author pid="98/9446">Haesol Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Joint Estimation of Camera Pose, Depth, Deblurring, and Super-Resolution from a Blurred Image Sequence.</title>
+<year>2017</year>
+<volume>abs/1709.05745</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.05745</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-05745</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06248" mdate="2018-08-13">
+<author pid="98/9446">Haesol Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Look Wider to Match Image Patches with Convolutional Neural Networks.</title>
+<year>2017</year>
+<volume>abs/1709.06248</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06248</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06248</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-03778" mdate="2018-08-13">
+<author pid="175/2005">Seung Yeon Shin</author>
+<author pid="38/4038">Soochahn Lee</author>
+<author pid="67/1367">Il Dong Yun</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Joint Weakly and Semi-Supervised Deep Learning for Localization and Classification of Masses in Breast Ultrasound Images.</title>
+<year>2017</year>
+<volume>abs/1710.03778</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.03778</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-03778</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-07399" mdate="2018-08-13">
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map.</title>
+<year>2017</year>
+<volume>abs/1711.07399</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.07399</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-07399</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-10918" mdate="2018-08-13">
+<author pid="69/6381">Dongwoo Lee</author>
+<author pid="98/9446">Haesol Park</author>
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Joint Blind Motion Deblurring and Depth Estimation of Light Field.</title>
+<year>2017</year>
+<volume>abs/1711.10918</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.10918</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-10918</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-03917" mdate="2020-02-17">
+<author pid="142/0092">Shanxin Yuan</author>
+<author pid="165/1794">Guillermo Garcia-Hernando</author>
+<author pid="s/BStenger">Bj&#246;rn Stenger</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="165/8169">Pavlo Molchanov</author>
+<author pid="48/6214">Jan Kautz</author>
+<author pid="29/4135">Sina Honari</author>
+<author pid="182/2301">Liuhao Ge</author>
+<author pid="42/3332">Junsong Yuan</author>
+<author pid="30/4937-1">Xinghao Chen 0001</author>
+<author pid="37/6836">Guijin Wang</author>
+<author pid="29/3081-32">Fan Yang 0032</author>
+<author pid="211/6915">Kai Akiyama</author>
+<author pid="56/1428">Yang Wu</author>
+<author pid="182/1834">Qingfu Wan</author>
+<author pid="160/2780">Meysam Madadi</author>
+<author pid="77/5527">Sergio Escalera</author>
+<author pid="135/5248">Shile Li</author>
+<author pid="96/5115">Dongheui Lee</author>
+<author pid="12/7591">Iason Oikonomidis</author>
+<author pid="81/3715">Antonis A. Argyros</author>
+<author pid="28/787">Tae-Kyun Kim</author>
+<title>3D Hand Pose Estimation: From Current Achievements to Future Goals.</title>
+<year>2017</year>
+<volume>abs/1712.03917</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.03917</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-03917</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-09153" mdate="2021-01-23">
+<author orcid="0000-0002-0932-6213" pid="195/5859">Janghoon Choi</author>
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space.</title>
+<year>2017</year>
+<volume>abs/1712.09153</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.09153</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-09153</url>
+</article>
+</r>
+<r><article key="journals/cviu/MeiZLYLB16" mdate="2020-02-21">
+<author pid="29/4521">Xue Mei</author>
+<author pid="15/7643">Tianzhu Zhang</author>
+<author pid="64/6896">Huchuan Lu</author>
+<author pid="79/3711">Ming-Hsuan Yang 0001</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="69/3793">Horst Bischof</author>
+<title>Special Issue on Visual Tracking.</title>
+<pages>1-2</pages>
+<year>2016</year>
+<volume>153</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2016.11.001</ee>
+<url>db/journals/cviu/cviu153.html#MeiZLYLB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsipa/KimL16a" mdate="2017-05-21">
+<author pid="193/6489">Euyoung Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Scale-change aware locally adaptive optical flow.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>APSIPA</booktitle>
+<ee>https://doi.org/10.1109/APSIPA.2016.7820725</ee>
+<crossref>conf/apsipa/2016</crossref>
+<url>db/conf/apsipa/apsipa2016.html#KimL16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsipa/SuhL16" mdate="2017-05-21">
+<author pid="119/1522">Yumin Suh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Appearance dependent inter-part relationship for human pose estimation.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>APSIPA</booktitle>
+<ee>https://doi.org/10.1109/APSIPA.2016.7820757</ee>
+<crossref>conf/apsipa/2016</crossref>
+<url>db/conf/apsipa/apsipa2016.html#SuhL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimLL16" mdate="2017-05-25">
+<author pid="24/1630">Jiwon Kim</author>
+<author pid="172/1322">Jung Kwon Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deeply-Recursive Convolutional Network for Image Super-Resolution.</title>
+<pages>1637-1645</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2016.181</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#KimLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimLL16a" mdate="2017-05-25">
+<author pid="24/1630">Jiwon Kim</author>
+<author pid="172/1322">Jung Kwon Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Accurate Image Super-Resolution Using Very Deep Convolutional Networks.</title>
+<pages>1646-1654</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.182</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2016.182</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#KimLL16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/JungSML16" mdate="2017-05-19">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="119/1522">Yumin Suh</author>
+<author pid="185/6852">Gyeongsik Moon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A Sequential Approach to 3D Human Pose Estimation: Separation of Localization and Identification of Body Joints.</title>
+<pages>747-761</pages>
+<year>2016</year>
+<booktitle>ECCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46454-1_45</ee>
+<crossref>conf/eccv/2016-5</crossref>
+<url>db/conf/eccv/eccv2016-5.html#JungSML16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/ShinLNYL16" mdate="2017-05-23">
+<author pid="175/2005">Seung Yeon Shin</author>
+<author pid="38/4038">Soochahn Lee</author>
+<author pid="187/5841">Kyoung Jin Noh</author>
+<author pid="67/1367">Il Dong Yun</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Extraction of Coronary Vessels in Fluoroscopic X-Ray Sequences Using Vessel Correspondence Optimization.</title>
+<pages>308-316</pages>
+<year>2016</year>
+<booktitle>MICCAI (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46726-9_36</ee>
+<crossref>conf/miccai/2016-3</crossref>
+<url>db/conf/miccai/miccai2016-3.html#ShinLNYL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KimNL16" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Dynamic Scene Deblurring using a Locally Adaptive Linear Blur Model.</title>
+<year>2016</year>
+<volume>abs/1603.04265</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.04265</ee>
+<url>db/journals/corr/corr1603.html#KimNL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AhnKKL16" mdate="2018-09-15">
+<author pid="142/2789">Byeongjoo Ahn</author>
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Occlusion-Aware Video Deblurring with a New Layered Blur Model.</title>
+<year>2016</year>
+<volume>abs/1611.09572</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.09572</ee>
+<url>db/journals/corr/corr1611.html#AhnKKL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NahKL16" mdate="2018-09-15">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring.</title>
+<year>2016</year>
+<volume>abs/1612.02177</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.02177</ee>
+<url>db/journals/corr/corr1612.html#NahKL16</url>
+</article>
+</r>
+<r><article key="journals/cviu/ChangL15" mdate="2020-02-21">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Large margin learning of hierarchical semantic similarity for image classification.</title>
+<pages>3-11</pages>
+<year>2015</year>
+<volume>132</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2014.11.006</ee>
+<url>db/journals/cviu/cviu132.html#ChangL15</url>
+</article>
+</r>
+<r><article key="journals/pami/KwonL15" mdate="2018-11-14">
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A Unified Framework for Event Summarization and Rare Event Detection from Multiple Views.</title>
+<pages>1737-1750</pages>
+<year>2015</year>
+<volume>37</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TPAMI.2014.2385695</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2014.2385695</ee>
+<ee>https://www.wikidata.org/entity/Q50562551</ee>
+<url>db/journals/pami/pami37.html#KwonL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsipa/NahL15" mdate="2017-05-21">
+<author pid="177/3248">Seungjun Nah</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Random forest with data ensemble for saliency detection.</title>
+<pages>604-607</pages>
+<year>2015</year>
+<booktitle>APSIPA</booktitle>
+<ee>https://doi.org/10.1109/APSIPA.2015.7415340</ee>
+<crossref>conf/apsipa/2015</crossref>
+<url>db/conf/apsipa/apsipa2015.html#NahL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimL15" mdate="2017-05-25">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>MRF optimization by graph approximation.</title>
+<pages>1063-1071</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7298709</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7298709</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#KimL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SuhAL15" mdate="2017-05-25">
+<author pid="119/1522">Yumin Suh</author>
+<author pid="150/5954">Kamil Adamczewski</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Subgraph matching using compactness prior for robust feature correspondence.</title>
+<pages>5070-5078</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7299142</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7299142</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#SuhAL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimL15a" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Generalized video deblurring for dynamic scenes.</title>
+<pages>5426-5434</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7299181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7299181</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#KimL15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/AdamczewskiSL15" mdate="2017-05-24">
+<author pid="150/5954">Kamil Adamczewski</author>
+<author pid="119/1522">Yumin Suh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Discrete Tabu Search for Graph Matching.</title>
+<pages>109-117</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.21</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#AdamczewskiSL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KimL15" mdate="2018-08-13">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>MRF Optimization by Graph Approximation.</title>
+<year>2015</year>
+<volume>abs/1505.03365</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.03365</ee>
+<url>db/journals/corr/corr1505.html#KimL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KimL15a" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Generalized Video Deblurring for Dynamic Scenes.</title>
+<year>2015</year>
+<volume>abs/1507.02438</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02438</ee>
+<url>db/journals/corr/corr1507.html#KimL15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KimLL15a" mdate="2018-08-13">
+<author pid="24/1630">Jiwon Kim</author>
+<author pid="172/1322">Jung Kwon Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Deeply-Recursive Convolutional Network for Image Super-Resolution.</title>
+<year>2015</year>
+<volume>abs/1511.04491</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.04491</ee>
+<url>db/journals/corr/corr1511.html#KimLL15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KimLL15b" mdate="2018-08-13">
+<author pid="24/1630">Jiwon Kim</author>
+<author pid="172/1322">Jung Kwon Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Accurate Image Super-Resolution Using Very Deep Convolutional Networks.</title>
+<year>2015</year>
+<volume>abs/1511.04587</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.04587</ee>
+<url>db/journals/corr/corr1511.html#KimLL15b</url>
+</article>
+</r>
+<r><article key="journals/cviu/JungPPLL14" mdate="2020-02-21">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="98/9446">Haesol Park</author>
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Stereo reconstruction using high-order likelihoods.</title>
+<pages>223-236</pages>
+<year>2014</year>
+<volume>125</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2014.04.009</ee>
+<url>db/journals/cviu/cviu125.html#JungPPLL14</url>
+</article>
+</r>
+<r><article key="journals/pami/KwonLPL14" mdate="2020-10-17">
+<author pid="04/1504">Junghyun Kwon</author>
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="p/FrankChongwooPark">Frank C. Park 0001</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A Geometric Particle Filter for Template-Based Visual Tracking.</title>
+<pages>625-643</pages>
+<year>2014</year>
+<volume>36</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPAMI.2013.170</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.170</ee>
+<ee>https://www.wikidata.org/entity/Q40558598</ee>
+<url>db/journals/pami/pami36.html#KwonLPL14</url>
+</article>
+</r>
+<r><article key="journals/pami/KwonL14" mdate="2018-11-14">
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Tracking by Sampling and IntegratingMultiple Trackers.</title>
+<pages>1428-1441</pages>
+<year>2014</year>
+<volume>36</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPAMI.2013.213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.213</ee>
+<ee>https://www.wikidata.org/entity/Q50614872</ee>
+<url>db/journals/pami/pami36.html#KwonL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsipa/SongML14" mdate="2017-05-21">
+<author pid="160/0103">Gwangmo Song</author>
+<author pid="117/4823">Heesoo Myeong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Interactive segmentation with seed expansion.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>APSIPA</booktitle>
+<ee>https://doi.org/10.1109/APSIPA.2014.7041693</ee>
+<crossref>conf/apsipa/2014</crossref>
+<url>db/conf/apsipa/apsipa2014.html#SongML14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimL14" mdate="2017-05-25">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Scanline Sampler without Detailed Balance: An Efficient MCMC for MRF Optimization.</title>
+<pages>1354-1361</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.176</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2014.176</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#KimL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimL14a" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Segmentation-Free Dynamic Scene Deblurring.</title>
+<pages>2766-2773</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.348</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2014.348</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#KimL14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonL14" mdate="2017-06-15">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Interval Tracker: Tracking by Interval Analysis.</title>
+<pages>3494-3501</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.447</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2014.447</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#KwonL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/MyeongLL14" mdate="2017-05-19">
+<author pid="117/4823">Heesoo Myeong</author>
+<author pid="55/4755">Stephen Lin</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Alpha Matting of Motion-Blurred Objects in Bracket Sequence Images.</title>
+<pages>125-139</pages>
+<year>2014</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10578-9_9</ee>
+<crossref>conf/eccv/2014-3</crossref>
+<url>db/conf/eccv/eccv2014-3.html#MyeongLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/KwonRLG14" mdate="2019-07-22">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="150/3983">Junha Roh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="61/5017">Luc Van Gool</author>
+<title>Robust Visual Tracking with Double Bounding Box Model.</title>
+<pages>377-392</pages>
+<year>2014</year>
+<booktitle>ECCV (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10590-1_25</ee>
+<crossref>conf/eccv/2014-1</crossref>
+<url>db/conf/eccv/eccv2014-1.html#KwonRLG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/JungLL13" mdate="2020-02-21">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Window annealing for pixel-labeling problems.</title>
+<pages>289-303</pages>
+<year>2013</year>
+<volume>117</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.cviu.2012.12.005</ee>
+<url>db/journals/cviu/cviu117.html#JungLL13</url>
+</article>
+</r>
+<r><article key="journals/cviu/ShinCL13" mdate="2020-02-21">
+<author pid="67/2052">Young Min Shin</author>
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multi-object reconstruction from dynamic scenes: An object-centered approach.</title>
+<pages>1575-1588</pages>
+<year>2013</year>
+<volume>117</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.cviu.2013.06.008</ee>
+<url>db/journals/cviu/cviu117.html#ShinCL13</url>
+</article>
+</r>
+<r><article key="journals/ivc/BaikKLL13" mdate="2020-02-20">
+<author pid="131/5547">Young Ki Baik</author>
+<author pid="04/1504">Junghyun Kwon</author>
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Geometric particle swarm optimization for robust visual ego-motion estimation via particle filtering.</title>
+<pages>565-579</pages>
+<year>2013</year>
+<volume>31</volume>
+<journal>Image Vis. Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.imavis.2013.04.004</ee>
+<url>db/journals/ivc/ivc31.html#BaikKLL13</url>
+</article>
+</r>
+<r><article key="journals/pami/KwonL13" mdate="2018-11-14">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Wang-Landau Monte Carlo-Based Tracking Methods for Abrupt Motions.</title>
+<pages>1011-1024</pages>
+<year>2013</year>
+<volume>35</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPAMI.2012.161</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2012.161</ee>
+<ee>https://www.wikidata.org/entity/Q46411471</ee>
+<url>db/journals/pami/pami35.html#KwonL13</url>
+</article>
+</r>
+<r><article key="journals/pami/HeoLL13" mdate="2018-11-14">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Joint Depth Map and Color Consistency Estimation for Stereo Images with Different Illuminations and Cameras.</title>
+<pages>1094-1106</pages>
+<year>2013</year>
+<volume>35</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPAMI.2012.167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2012.167</ee>
+<ee>https://www.wikidata.org/entity/Q45279533</ee>
+<url>db/journals/pami/pami35.html#HeoLL13</url>
+</article>
+</r>
+<r><article key="journals/pami/KimLL13" mdate="2018-11-14">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Learning Full Pairwise Affinities for Spectral Segmentation.</title>
+<pages>1690-1703</pages>
+<year>2013</year>
+<volume>35</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPAMI.2012.237</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2012.237</ee>
+<ee>https://www.wikidata.org/entity/Q50744041</ee>
+<url>db/journals/pami/pami35.html#KimLL13</url>
+</article>
+</r>
+<r><article key="journals/pami/KwonL13a" mdate="2018-11-14">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Highly Nonrigid Object Tracking via Patch-Based Dynamic Appearance Modeling.</title>
+<pages>2427-2441</pages>
+<year>2013</year>
+<volume>35</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2013.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.32</ee>
+<ee>https://www.wikidata.org/entity/Q44529728</ee>
+<url>db/journals/pami/pami35.html#KwonL13a</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsipa/RohPKL13" mdate="2017-06-15">
+<author pid="150/3983">Junha Roh</author>
+<author pid="58/9176">Dong Woo Park</author>
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Visual tracking using the joint inference of target state and segment-based appearance models.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>APSIPA</booktitle>
+<ee>https://doi.org/10.1109/APSIPA.2013.6694177</ee>
+<crossref>conf/apsipa/2013</crossref>
+<url>db/conf/apsipa/apsipa2013.html#RohPKL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LeeL13" mdate="2017-05-25">
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Dense 3D Reconstruction from Severely Blurred Images Using a Single Moving Camera.</title>
+<pages>273-280</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.42</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#LeeL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LeeL13a" mdate="2017-05-25">
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Simultaneous Super-Resolution of Depth and Images Using a Single Camera.</title>
+<pages>281-288</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.43</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#LeeL13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonL13" mdate="2017-06-15">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Minimum Uncertainty Gap for Robust Visual Tracking.</title>
+<pages>2355-2362</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.305</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.305</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#KwonL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MyeongL13" mdate="2017-05-25">
+<author pid="117/4823">Heesoo Myeong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Tensor-Based High-Order Semantic Relation Transfer for Semantic Scene Segmentation.</title>
+<pages>3073-3080</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.395</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.395</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#MyeongL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/KimAL13" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="142/2789">Byeongjoo Ahn</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Dynamic Scene Deblurring.</title>
+<pages>3160-3167</pages>
+<year>2013</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2013.392</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2013.392</ee>
+<crossref>conf/iccv/2013</crossref>
+<url>db/conf/iccv/iccv2013.html#KimAL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/KimLL13" mdate="2018-09-15">
+<author pid="43/11343-6">Tae Hyun Kim 0006</author>
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Optical Flow via Locally Adaptive Fusion of Complementary Data Costs.</title>
+<pages>3344-3351</pages>
+<year>2013</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2013.415</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2013.415</ee>
+<crossref>conf/iccv/2013</crossref>
+<url>db/conf/iccv/iccv2013.html#KimLL13</url>
+</inproceedings>
+</r>
+<r><incollection key="series/acvpr/ChoSL13" mdate="2017-09-13">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="67/2052">Young Min Shin</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Co-recognition of Images and Videos: Unsupervised Matching of Identical Object Patterns and Its Applications.</title>
+<pages>113-141</pages>
+<year>2013</year>
+<booktitle>Advanced Topics in Computer Vision</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-5520-1_5</ee>
+<crossref>series/acvpr/978-1-4471-5520-1</crossref>
+<url>db/series/acvpr/vision2013.html#ChoSL13</url>
+</incollection>
+</r>
+<r><proceedings key="conf/accv/2012-1" mdate="2019-05-14">
+<editor pid="17/4029">Kyoung Mu Lee</editor>
+<editor pid="11/3619">Yasuyuki Matsushita</editor>
+<editor pid="r/JMRehg">James M. Rehg</editor>
+<editor pid="35/6476">Zhanyi Hu</editor>
+<title>Computer Vision - ACCV 2012 - 11th Asian Conference on Computer Vision, Daejeon, Korea, November 5-9, 2012, Revised Selected Papers, Part I</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>7724</volume>
+<ee>https://doi.org/10.1007/978-3-642-37331-2</ee>
+<isbn>978-3-642-37330-5</isbn>
+<booktitle>ACCV (1)</booktitle>
+<url>db/conf/accv/accv2012-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/accv/2012-2" mdate="2019-05-14">
+<editor pid="17/4029">Kyoung Mu Lee</editor>
+<editor pid="11/3619">Yasuyuki Matsushita</editor>
+<editor pid="r/JMRehg">James M. Rehg</editor>
+<editor pid="35/6476">Zhanyi Hu</editor>
+<title>Computer Vision - ACCV 2012, 11th Asian Conference on Computer Vision, Daejeon, Korea, November 5-9, 2012, Revised Selected Papers, Part II</title>
+<publisher>Springer</publisher>
+<year>2013</year>
+<isbn>978-3-642-37443-2</isbn>
+<isbn>978-3-642-37444-9</isbn>
+<ee>https://doi.org/10.1007/978-3-642-37444-9</ee>
+<booktitle>ACCV (2)</booktitle>
+<volume>7725</volume>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<url>db/conf/accv/accv2012-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/accv/2012-3" mdate="2019-05-14">
+<editor pid="17/4029">Kyoung Mu Lee</editor>
+<editor pid="11/3619">Yasuyuki Matsushita</editor>
+<editor pid="r/JMRehg">James M. Rehg</editor>
+<editor pid="35/6476">Zhanyi Hu</editor>
+<title>Computer Vision - ACCV 2012 - 11th Asian Conference on Computer Vision, Daejeon, Korea, November 5-9, 2012, Revised Selected Papers, Part III</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>7726</volume>
+<ee>https://doi.org/10.1007/978-3-642-37431-9</ee>
+<isbn>978-3-642-37430-2</isbn>
+<booktitle>ACCV (3)</booktitle>
+<url>db/conf/accv/accv2012-3.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/accv/2012-4" mdate="2019-05-14">
+<editor pid="17/4029">Kyoung Mu Lee</editor>
+<editor pid="11/3619">Yasuyuki Matsushita</editor>
+<editor pid="r/JMRehg">James M. Rehg</editor>
+<editor pid="35/6476">Zhanyi Hu</editor>
+<title>Computer Vision - ACCV 2012, 11th Asian Conference on Computer Vision, Daejeon, Korea, November 5-9, 2012, Revised Selected Papers, Part IV</title>
+<publisher>Springer</publisher>
+<year>2013</year>
+<isbn>978-3-642-37446-3</isbn>
+<isbn>978-3-642-37447-0</isbn>
+<ee>https://doi.org/10.1007/978-3-642-37447-0</ee>
+<booktitle>ACCV (4)</booktitle>
+<volume>7727</volume>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<url>db/conf/accv/accv2012-4.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/apsipa/ParkLL12" mdate="2017-04-30">
+<author pid="98/9446">Haesol Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Combining multi-view stereo and super resolution in a unified framework.</title>
+<pages>1-4</pages>
+<year>2012</year>
+<booktitle>APSIPA</booktitle>
+<ee>http://ieeexplore.ieee.org/document/6411967/</ee>
+<crossref>conf/apsipa/2012</crossref>
+<url>db/conf/apsipa/apsipa2012.html#ParkLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChoL12" mdate="2017-05-25">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Progressive graph matching: Making a move of graphs via probabilistic voting.</title>
+<pages>398-405</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247701</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247701</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#ChoL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChoL12a" mdate="2017-05-25">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Mode-seeking on graphs via random walks.</title>
+<pages>606-613</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247727</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247727</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#ChoL12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonL12" mdate="2017-06-15">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A unified framework for event summarization and rare event detection.</title>
+<pages>1266-1273</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247810</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247810</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#KwonL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ParkKL12" mdate="2017-06-15">
+<author pid="58/9176">Dong Woo Park</author>
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Robust visual tracking using autoregressive hidden Markov Model.</title>
+<pages>1964-1971</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247898</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247898</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#ParkKL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MyeongCL12" mdate="2017-05-25">
+<author pid="117/4823">Heesoo Myeong</author>
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Learning object relationships via graph-based context model.</title>
+<pages>2727-2734</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247995</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247995</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#MyeongCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SuhCL12" mdate="2017-05-19">
+<author pid="119/1522">Yumin Suh</author>
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Graph Matching via Sequential Monte Carlo.</title>
+<pages>624-637</pages>
+<year>2012</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33712-3_45</ee>
+<crossref>conf/eccv/2012-3</crossref>
+<url>db/conf/eccv/eccv2012-3.html#SuhCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ParkKL12" mdate="2017-05-19">
+<author pid="119/1530">Sangdon Park</author>
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Abnormal Object Detection by Canonical Scene-Based Contextual Model.</title>
+<pages>651-664</pages>
+<year>2012</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33712-3_47</ee>
+<crossref>conf/eccv/2012-3</crossref>
+<url>db/conf/eccv/eccv2012-3.html#ParkKL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/ChangPPLL11" mdate="2020-02-21">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="98/9446">Haesol Park</author>
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>GPU-friendly multi-view stereo reconstruction using surfel representation and graph cuts.</title>
+<pages>620-634</pages>
+<year>2011</year>
+<volume>115</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.cviu.2010.11.017</ee>
+<url>db/journals/cviu/cviu115.html#ChangPPLL11</url>
+</article>
+</r>
+<r><article key="journals/cviu/KimL11" mdate="2020-02-21">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A hybrid approach for MRF optimization problems: Combination of stochastic sampling and deterministic algorithms.</title>
+<pages>1623-1637</pages>
+<year>2011</year>
+<volume>115</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.cviu.2011.05.015</ee>
+<url>db/journals/cviu/cviu115.html#KimL11</url>
+</article>
+</r>
+<r><article key="journals/pami/HeoLL11" mdate="2018-11-14">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Robust Stereo Matching Using Adaptive Normalized Cross-Correlation.</title>
+<pages>807-822</pages>
+<year>2011</year>
+<volume>33</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPAMI.2010.136</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2010.136</ee>
+<ee>https://www.wikidata.org/entity/Q51676234</ee>
+<url>db/journals/pami/pami33.html#HeoLL11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LeeCL11" mdate="2017-05-25">
+<author pid="30/1958">Jungmin Lee</author>
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Hyper-graph matching via reweighted random walks.</title>
+<pages>1633-1640</pages>
+<year>2011</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2011.5995387</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2011.5995387</ee>
+<crossref>conf/cvpr/2011</crossref>
+<url>db/conf/cvpr/cvpr2011.html#LeeCL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/KwonL11" mdate="2017-06-15">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Tracking by Sampling Trackers.</title>
+<pages>1195-1202</pages>
+<year>2011</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2011.6126369</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2011.6126369</ee>
+<crossref>conf/iccv/2011</crossref>
+<url>db/conf/iccv/iccv2011.html#KwonL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/LeeKL11" mdate="2017-05-24">
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="04/1504">Junghyun Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Simultaneous localization, mapping and deblurring.</title>
+<pages>1203-1210</pages>
+<year>2011</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2011.6126370</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2011.6126370</ee>
+<crossref>conf/iccv/2011</crossref>
+<url>db/conf/iccv/iccv2011.html#LeeKL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/JungLL11" mdate="2017-05-24">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Stereo reconstruction using high order likelihood.</title>
+<pages>1211-1218</pages>
+<year>2011</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2011.6126371</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2011.6126371</ee>
+<crossref>conf/iccv/2011</crossref>
+<url>db/conf/iccv/iccv2011.html#JungLL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcsv/JinCPLPKJ10" mdate="2020-08-25">
+<author pid="97/6346">Seunghun Jin</author>
+<author pid="29/1842">Jung Uk Cho</author>
+<author pid="50/5371">Xuan Dai Pham</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="10/6399">Sung-Kee Park</author>
+<author pid="82/6813">Munsang Kim</author>
+<author pid="71/339">Jae Wook Jeon</author>
+<title>FPGA Design and Implementation of a Real-Time Stereo Vision System.</title>
+<pages>15-26</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCSVT.2009.2026831</ee>
+<url>db/journals/tcsv/tcsv20.html#JinCPLPKJ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/HeoLLMC10" mdate="2017-05-21">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="48/3292">Youngsu Moon</author>
+<author pid="74/9236">Joonhyuk Cha</author>
+<title>Ghost-Free High Dynamic Range Imaging.</title>
+<pages>486-500</pages>
+<year>2010</year>
+<booktitle>ACCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19282-1_39</ee>
+<crossref>conf/accv/2010-4</crossref>
+<url>db/conf/accv/accv2010-4.html#HeoLLMC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonL10" mdate="2017-06-15">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Visual tracking decomposition.</title>
+<pages>1269-1276</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5539821</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5539821</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#KwonL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonL10a" mdate="2017-05-25">
+<author pid="04/1504">Junghyun Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Monocular SLAM with locally planar landmarks via geometric rao-blackwellized particle filtering on Lie groups.</title>
+<pages>1522-1529</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5539789</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5539789</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#KwonL10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChoSL10" mdate="2017-05-25">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="67/2052">Young Min Shin</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Unsupervised detection and segmentation of identical objects.</title>
+<pages>1617-1624</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5539777</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5539777</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#ChoSL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimLL10" mdate="2017-05-25">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Learning full pairwise affinities for spectral segmentation.</title>
+<pages>2101-2108</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5539888</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5539888</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#KimLL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChoL10" mdate="2017-05-25">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Authority-shift clustering: Hierarchical clustering by authority seeking on graphs.</title>
+<pages>3193-3200</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5540081</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5540081</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#ChoL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimLL10a" mdate="2017-05-25">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Nonparametric higher-order learning for interactive segmentation.</title>
+<pages>3201-3208</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5540078</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5540078</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#KimLL10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChoLL10" mdate="2017-05-19">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="30/1958">Jungmin Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Reweighted Random Walks for Graph Matching.</title>
+<pages>492-505</pages>
+<year>2010</year>
+<booktitle>ECCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15555-0_36</ee>
+<crossref>conf/eccv/2010-5</crossref>
+<url>db/conf/eccv/eccv2010-5.html#ChoLL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ShinCL10" mdate="2017-05-24">
+<author pid="67/2052">Young Min Shin</author>
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Co-recognition of Actions in Video Pairs.</title>
+<pages>456-459</pages>
+<year>2010</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2010.120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2010.120</ee>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#ShinCL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/KimLL10" mdate="2017-05-24">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A Unified Probabilistic Approach to Feature Matching and Object Segmentation.</title>
+<pages>464-467</pages>
+<year>2010</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2010.1147</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2010.1147</ee>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#KimLL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/KimL10" mdate="2017-05-24">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Continuous Markov Random Field Optimization Using Fusion Move Driven Markov Chain Monte Carlo Technique.</title>
+<pages>1364-1367</pages>
+<year>2010</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2010.337</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2010.337</ee>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#KimL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/LeeCL10" mdate="2017-05-24">
+<author pid="30/1958">Jungmin Lee</author>
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A Graph Matching Algorithm Using Data-Driven Markov Chain Monte Carlo Sampling.</title>
+<pages>2816-2819</pages>
+<year>2010</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2010.690</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2010.690</ee>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#LeeCL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcv/KimPL09" mdate="2020-03-13">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="28/3766">Joonyoung Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Stereo Matching Using Population-Based MCMC.</title>
+<pages>195-209</pages>
+<year>2009</year>
+<volume>83</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11263-008-0189-6</ee>
+<url>db/journals/ijcv/ijcv83.html#KimPL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/KimLL09" mdate="2017-05-21">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A Probabilistic Model for Correspondence Problems Using Random Walks with Restart.</title>
+<pages>416-425</pages>
+<year>2009</year>
+<booktitle>ACCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12297-2_40</ee>
+<crossref>conf/accv/2009-3</crossref>
+<url>db/conf/accv/accv2009-3.html#KimLL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/ChoL09" mdate="2021-02-03">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Bilateral Symmetry Detection via Symmetry-Growing.</title>
+<year>2009</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.23.4</ee>
+<crossref>conf/bmvc/2009</crossref>
+<url>db/conf/bmvc/bmvc2009.html#ChoL09</url>
+<pages>1-11</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/KimLL09" mdate="2021-02-03">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Incorporating Higher-Order Cues in Image Colorization.</title>
+<year>2009</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.23.97</ee>
+<crossref>conf/bmvc/2009</crossref>
+<url>db/conf/bmvc/bmvc2009.html#KimLL09</url>
+<pages>1-11</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HeoLL09" mdate="2020-02-14">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Mutual information-based stereo matching combined with SIFT descriptor in log-chromaticity color space.</title>
+<pages>445-452</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206507</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206507</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206507</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#HeoLL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonLP09" mdate="2020-02-14">
+<author pid="04/1504">Junghyun Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="p/FrankChongwooPark">Frank Chongwoo Park</author>
+<title>Visual tracking via geometric particle filtering on the affine group with optimal importance functions.</title>
+<pages>991-998</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206501</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206501</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206501</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#KwonLP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KwonL09" mdate="2020-02-14">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Tracking of a non-rigid object via patch-based dynamic appearance modeling and adaptive Basin Hopping Monte Carlo sampling.</title>
+<pages>1208-1215</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206502</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206502</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206502</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#KwonL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KimL09" mdate="2020-02-14">
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Markov Chain Monte Carlo combined with deterministic methods for Markov random field optimization.</title>
+<pages>1406-1413</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206504</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206504</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206504</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#KimL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/KoryakovskiyHL09" mdate="2018-11-06">
+<author pid="98/7183">Ivan Koryakovskiy</author>
+<author pid="51/6658">Nguyen Xuan Hoai</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>A genetic algorithm with local map for path planning in dynamic environments.</title>
+<pages>1859-1860</pages>
+<year>2009</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1569901.1570203</ee>
+<crossref>conf/gecco/2009g</crossref>
+<url>db/conf/gecco/gecco2009.html#KoryakovskiyHL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/ChoLL09" mdate="2019-02-11">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="30/1958">Jungmin Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Feature correspondence and deformable object matching via agglomerative correspondence clustering.</title>
+<pages>1280-1287</pages>
+<year>2009</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2009.5459322</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2009.5459322</ee>
+<crossref>conf/iccv/2009</crossref>
+<url>db/conf/iccv/iccv2009.html#ChoLL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/HeoLL09" mdate="2019-02-11">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Simultaneous color consistency and depth map estimation for radiometrically varying stereo images.</title>
+<pages>1771-1778</pages>
+<year>2009</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2009.5459396</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2009.5459396</ee>
+<crossref>conf/iccv/2009</crossref>
+<url>db/conf/iccv/iccv2009.html#HeoLL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/KwonL09" mdate="2019-02-21">
+<author pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Simultaneous video synchronization and rare event detection via Cross-Entropy Monte Carlo optimization.</title>
+<pages>1322-1329</pages>
+<year>2009</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2009.5457458</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCVW.2009.5457458</ee>
+<crossref>conf/iccvw/2009</crossref>
+<url>db/conf/iccvw/iccvw2009.html#KwonL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KimLL09" mdate="2017-05-25">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Edge-preserving colorization using data-driven Random Walks with Restart.</title>
+<pages>1661-1664</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2009.5413394</ee>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#KimLL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LeeL09" mdate="2017-05-22">
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multi-robot SLAM using ceiling vision.</title>
+<pages>912-917</pages>
+<year>2009</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2009.5354435</ee>
+<crossref>conf/iros/2009</crossref>
+<url>db/conf/iros/iros2009.html#LeeL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LeeL09a" mdate="2017-05-22">
+<author pid="22/7747">Hee Seok Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Multiswarm Particle Filter for vision based SLAM.</title>
+<pages>924-929</pages>
+<year>2009</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2009.5354144</ee>
+<crossref>conf/iros/2009</crossref>
+<url>db/conf/iros/iros2009.html#LeeL09a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/ParkL08" mdate="2020-03-12">
+<author pid="58/9176">Dong Woo Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>DOOMRED: A New Optimization Technique for Boosted Cascade Detectors on Enforced Training Set.</title>
+<year>2008</year>
+<volume>2008</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<ee type="oa">https://doi.org/10.1155/2008/183804</ee>
+<ee>https://www.wikidata.org/entity/Q59216210</ee>
+<url>db/journals/ejasp/ejasp2008.html#ParkL08</url>
+</article>
+</r>
+<r><article key="journals/ejivp/ParkLL08" mdate="2020-10-01">
+<author pid="19/5897">Bo Gun Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Color-Based Image Retrieval Using Perceptually Modified Hausdorff Distance.</title>
+<year>2008</year>
+<volume>2008</volume>
+<journal>EURASIP J. Image Video Process.</journal>
+<ee type="oa">https://doi.org/10.1155/2008/263071</ee>
+<ee>https://www.wikidata.org/entity/Q59212957</ee>
+<url>db/journals/ejivp/ejivp2008.html#ParkLL08</url>
+</article>
+</r>
+<r><article key="journals/ieicet/KoL08" mdate="2020-04-11">
+<author pid="53/1687">San Ko</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Structural Object Recognition Using Entropy Correspondence Measure of Line Features.</title>
+<pages>78-85</pages>
+<year>2008</year>
+<volume>91-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1093/ietisy/e91-d.1.78</ee>
+<url>db/journals/ieicet/ieicet91d.html#KoL08</url>
+</article>
+</r>
+<r><article key="journals/ivc/OhLL08" mdate="2020-02-20">
+<author pid="72/24">Hyun Jun Oh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Occlusion invariant face recognition using selective local non-negative matrix factorization basis images.</title>
+<pages>1515-1523</pages>
+<year>2008</year>
+<volume>26</volume>
+<journal>Image Vis. Comput.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.imavis.2008.04.016</ee>
+<url>db/journals/ivc/ivc26.html#OhLL08</url>
+</article>
+</r>
+<r><article key="journals/pr/ChangLL08a" mdate="2020-02-24">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Shape from shading using graph cuts.</title>
+<pages>3749-3757</pages>
+<year>2008</year>
+<volume>41</volume>
+<journal>Pattern Recognit.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.patcog.2008.05.020</ee>
+<url>db/journals/pr/pr41.html#ChangLL08a</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/HeoLL08" mdate="2017-05-25">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Illumination and camera invariant stereo matching.</title>
+<year>2008</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2008.4587697</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2008.4587697</ee>
+<crossref>conf/cvpr/2008</crossref>
+<url>db/conf/cvpr/cvpr2008.html#HeoLL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChoSL08" mdate="2017-05-19">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="67/2052">Young Min Shin</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Co-recognition of Image Pairs by Data-Driven Monte Carlo Image Exploration.</title>
+<pages>144-157</pages>
+<year>2008</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88693-8_11</ee>
+<crossref>conf/eccv/2008-4</crossref>
+<url>db/conf/eccv/eccv2008-4.html#ChoSL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/KimLL08" mdate="2017-05-19">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Generative Image Segmentation Using Random Walks with Restart.</title>
+<pages>264-275</pages>
+<year>2008</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88690-7_20</ee>
+<crossref>conf/eccv/2008-3</crossref>
+<url>db/conf/eccv/eccv2008-3.html#KimLL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/JungLL08a" mdate="2017-05-19">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Toward Global Minimum through Combined Local Minima.</title>
+<pages>298-311</pages>
+<year>2008</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88693-8_22</ee>
+<crossref>conf/eccv/2008-4</crossref>
+<url>db/conf/eccv/eccv2008-4.html#JungLL08a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/JungLL08" mdate="2017-05-19">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Window Annealing over Square Lattice Markov Random Field.</title>
+<pages>307-320</pages>
+<year>2008</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88688-4_23</ee>
+<crossref>conf/eccv/2008-2</crossref>
+<url>db/conf/eccv/eccv2008-2.html#JungLL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/KwonL08" mdate="2017-06-15">
+<author orcid="0000-0001-9526-7549" pid="04/425">Junseok Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Tracking of Abrupt Motion Using Wang-Landau Monte Carlo Estimation.</title>
+<pages>387-400</pages>
+<year>2008</year>
+<booktitle>ECCV (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88682-2_30</ee>
+<crossref>conf/eccv/2008-1</crossref>
+<url>db/conf/eccv/eccv2008-1.html#KwonL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KukCL08" mdate="2018-11-02">
+<author pid="76/226">Jung Gap Kuk</author>
+<author orcid="0000-0001-5297-4649" pid="70/424">Nam Ik Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>MAP-MRF approach for binarization of degraded document image.</title>
+<pages>2612-2615</pages>
+<year>2008</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2008.4712329</ee>
+<crossref>conf/icip/2008</crossref>
+<url>db/conf/icip/icip2008.html#KukCL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iih-msp/KimJLL08" mdate="2017-05-23">
+<author pid="17/4306">Tae Hoon Kim</author>
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Segment-based Foreground Object Disparity Estimation Using Zcam and Multiple-View Stereo.</title>
+<pages>1251-1254</pages>
+<year>2008</year>
+<booktitle>IIH-MSP</booktitle>
+<ee>https://doi.org/10.1109/IIH-MSP.2008.343</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IIH-MSP.2008.343</ee>
+<crossref>conf/iih-msp/2008</crossref>
+<url>db/conf/iih-msp/iih-msp2008.html#KimJLL08</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/ChangLL07" mdate="2020-02-24">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Stereo matching using iterative reliable disparity map expansion in the color-spatial-disparity space.</title>
+<pages>3705-3713</pages>
+<year>2007</year>
+<volume>40</volume>
+<journal>Pattern Recognit.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.patcog.2007.04.004</ee>
+<url>db/journals/pr/pr40.html#ChangLL07</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/ParkKL07" mdate="2017-05-21">
+<author pid="28/3766">Joonyoung Park</author>
+<author pid="27/2222">Wonsik Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Stereo Matching Using Population-Based MCMC.</title>
+<pages>560-569</pages>
+<year>2007</year>
+<crossref>conf/accv/2007-2</crossref>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-76390-1_55</ee>
+<url>db/conf/accv/accv2007-2.html#ParkKL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChangLL07" mdate="2017-05-25">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Multiview normal field integration using level set methods.</title>
+<year>2007</year>
+<crossref>conf/cvpr/2007</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2007.383357</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2007.383357</ee>
+<url>db/conf/cvpr/cvpr2007.html#ChangLL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChoL07" mdate="2017-05-25">
+<author pid="93/4742">Minsu Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Partially Occluded Object-Specific Segmentation in View-Based Recognition.</title>
+<year>2007</year>
+<crossref>conf/cvpr/2007</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2007.383268</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2007.383268</ee>
+<url>db/conf/cvpr/cvpr2007.html#ChoL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HeoLL07" mdate="2017-05-25">
+<author pid="18/35">Yong Seok Heo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Simultaneous Depth Reconstruction and Restoration of Noisy Stereo Images using Non-local Pixel Distribution.</title>
+<year>2007</year>
+<crossref>conf/cvpr/2007</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2007.382999</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2007.382999</ee>
+<url>db/conf/cvpr/cvpr2007.html#HeoLL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/ChangLL06" mdate="2017-05-21">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Stereo Matching Using Iterated Graph Cuts and Mean Shift Filtering.</title>
+<pages>31-40</pages>
+<year>2006</year>
+<crossref>conf/accv/2006-1</crossref>
+<booktitle>ACCV (1)</booktitle>
+<ee>https://doi.org/10.1007/11612032_4</ee>
+<url>db/conf/accv/accv2006-1.html#ChangLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/OhLLY06" mdate="2017-05-21">
+<author pid="72/24">Hyun Jun Oh</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="97/439">Chung-Hyuk Yim</author>
+<title>Occlusion Invariant Face Recognition Using Selective LNMF Basis Images.</title>
+<pages>120-129</pages>
+<year>2006</year>
+<crossref>conf/accv/2006-1</crossref>
+<booktitle>ACCV (1)</booktitle>
+<ee>https://doi.org/10.1007/11612032_13</ee>
+<url>db/conf/accv/accv2006-1.html#OhLLY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acivs/JungLL06" mdate="2017-05-23">
+<author pid="18/87">Ho Yub Jung</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Stereo Matching Using Scanline Disparity Discontinuity Optimization.</title>
+<pages>588-597</pages>
+<year>2006</year>
+<crossref>conf/acivs/2006</crossref>
+<booktitle>ACIVS</booktitle>
+<ee>https://doi.org/10.1007/11864349_54</ee>
+<url>db/conf/acivs/acivs2006.html#JungLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acivs/ChangLL06" mdate="2017-05-23">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A New Stereo Matching Model Using Visibility Constraint Based on Disparity Consistency.</title>
+<pages>598-609</pages>
+<year>2006</year>
+<crossref>conf/acivs/2006</crossref>
+<booktitle>ACIVS</booktitle>
+<ee>https://doi.org/10.1007/11864349_55</ee>
+<url>db/conf/acivs/acivs2006.html#ChangLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acivs/ParkLL06" mdate="2017-05-23">
+<author pid="19/5897">Bo Gun Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A Novel Stochastic Attributed Relational Graph Matching Based on Relation Vector Space Analysis.</title>
+<pages>978-989</pages>
+<year>2006</year>
+<crossref>conf/acivs/2006</crossref>
+<booktitle>ACIVS</booktitle>
+<ee>https://doi.org/10.1007/11864349_89</ee>
+<url>db/conf/acivs/acivs2006.html#ParkLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acivs/ParkLL06a" mdate="2017-05-23">
+<author pid="19/5897">Bo Gun Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A New Similarity Measure for Random Signatures: Perceptually Modified Hausdorff Distance.</title>
+<pages>990-1001</pages>
+<year>2006</year>
+<crossref>conf/acivs/2006</crossref>
+<booktitle>ACIVS</booktitle>
+<ee>https://doi.org/10.1007/11864349_90</ee>
+<url>db/conf/acivs/acivs2006.html#ParkLL06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LeeYYKLL06" mdate="2017-05-19">
+<author pid="38/4038">Soochahn Lee</author>
+<author pid="09/4443">Sehyuk Yoon</author>
+<author pid="67/1367">Il Dong Yun</author>
+<author pid="12/3021">Duck Hoon Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A New 3-D Model Retrieval System Based on <i>Aspect-Transition Descriptor</i>.</title>
+<pages>543-554</pages>
+<year>2006</year>
+<crossref>conf/eccv/2006-4</crossref>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/11744085_42</ee>
+<url>db/conf/eccv/eccv2006-4.html#LeeYYKLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/JeongL06" mdate="2017-05-22">
+<author pid="55/3646">Woo Yeon Jeong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Visual SLAM with Line and Corner Features.</title>
+<pages>2570-2575</pages>
+<year>2006</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2006.281708</ee>
+<crossref>conf/iros/2006</crossref>
+<url>db/conf/iros/iros2006.html#JeongL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/KimLLY06" mdate="2019-01-31">
+<author pid="15/10555">Tae Young Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="97/439">Chung-Hyuk Yim</author>
+<title>Occlusion Invariant Face Recognition Using Two-Dimensional PCA.</title>
+<pages>305-315</pages>
+<year>2006</year>
+<booktitle>VISIGRAPP (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75274-5_21</ee>
+<crossref>conf/visapp/2006-s</crossref>
+<url>db/conf/visapp/visigrapp2006.html#KimLLY06</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/ParkLL05" mdate="2018-11-14">
+<author pid="19/5897">Bo Gun Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Face Recognition Using Face-ARG Matching.</title>
+<pages>1982-1988</pages>
+<year>2005</year>
+<volume>27</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TPAMI.2005.243</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2005.243</ee>
+<ee>https://www.wikidata.org/entity/Q39739500</ee>
+<url>db/journals/pami/pami27.html#ParkLL05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/KimLCL05" mdate="2017-05-25">
+<author pid="73/6023">Jae-Chul Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="24/5585">Byoung-Tae Choi</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A Dense Stereo Matching Using Two-Pass Dynamic Programming with Generalized Ground Control Points.</title>
+<pages>1075-1082</pages>
+<year>2005</year>
+<crossref>conf/cvpr/2005</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2005.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2005.22</ee>
+<url>db/conf/cvpr/cvpr2005-2.html#KimLCL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/YooLYL05" mdate="2017-07-15">
+<author orcid="0000-0001-6126-3734" pid="134/9691">Yongseok Yoo</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="67/1367">Il Dong Yun</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Asymmetric multi-phase deformable model for colon segmentation.</title>
+<pages>1242-1245</pages>
+<year>2005</year>
+<crossref>conf/icip/2005</crossref>
+<booktitle>ICIP (2)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2005.1530287</ee>
+<url>db/conf/icip/icip2005-2.html#YooLYL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmi/ShimYLL05" mdate="2020-05-30">
+<author pid="30/6194">Hackjoon Shim</author>
+<author pid="67/1367">Il Dong Yun</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Partition-Based Extraction of Cerebral Arteries from CT Angiography with Emphasis on Adaptive Tracking.</title>
+<pages>357-368</pages>
+<year>2005</year>
+<crossref>conf/ipmi/2005</crossref>
+<booktitle>IPMI</booktitle>
+<ee>https://doi.org/10.1007/11505730_30</ee>
+<ee>https://www.wikidata.org/entity/Q48245897</ee>
+<url>db/conf/ipmi/ipmi2005.html#ShimYLL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/JeongL05" mdate="2017-05-22">
+<author pid="55/3646">Woo Yeon Jeong</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>CV-SLAM: a new ceiling vision-based SLAM technique.</title>
+<pages>3195-3200</pages>
+<year>2005</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2005.1545443</ee>
+<crossref>conf/iros/2005</crossref>
+<url>db/conf/iros/iros2005.html#JeongL05</url>
+</inproceedings>
+</r>
+<r><article key="journals/jvcir/KwonKLL04" mdate="2020-02-22">
+<author pid="37/982">Musik Kwon</author>
+<author pid="02/4380">Chang-Su Kim</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Progressive encoding of binary voxel models using pyramidal decomposition.</title>
+<pages>44-64</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.jvcir.2003.04.001</ee>
+<url>db/journals/jvcir/jvcir15.html#KwonKLL04</url>
+</article>
+</r>
+<r><article key="journals/pr/ParkLL04" mdate="2020-02-24">
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Perceptual grouping of line features in 3-D space: a model-based framework.</title>
+<pages>145-159</pages>
+<year>2004</year>
+<volume>37</volume>
+<journal>Pattern Recognit.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0031-3203(03)00225-5</ee>
+<url>db/journals/pr/pr37.html#ParkLL04</url>
+</article>
+</r>
+<r><article key="journals/cviu/ParkLLL03" mdate="2020-02-21">
+<author pid="19/5897">Bo Gun Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="92/2038">Jin Hak Lee</author>
+<title>Recognition of partially occluded objects using probabilistic ARG (attributed relational graph)-based matching.</title>
+<pages>217-241</pages>
+<year>2003</year>
+<volume>90</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/S1077-3142(03)00049-3</ee>
+<url>db/journals/cviu/cviu90.html#ParkLLL03</url>
+</article>
+</r>
+<r><article key="journals/ejasp/JeonLL03" mdate="2020-03-12">
+<author pid="75/4468">Byeong Hwan Jeon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Face Detection Using a First-Order RCE Classifier.</title>
+<pages>878-889</pages>
+<year>2003</year>
+<volume>2003</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.1155/S1110865703304123</ee>
+<url>db/journals/ejasp/ejasp2003.html#JeonLL03</url>
+</article>
+</r>
+<r><article key="journals/jvcir/SongLLY03" mdate="2020-02-22">
+<author pid="13/6880">Bong Seop Song</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="67/1367">Il Dong Yun</author>
+<title>3D target recognition based on projective invariant relationships.</title>
+<pages>1-21</pages>
+<year>2003</year>
+<volume>14</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S1047-3203(02)00013-5</ee>
+<url>db/journals/jvcir/jvcir14.html#SongLLY03</url>
+</article>
+</r>
+<r><article key="journals/tsmc/ParkLL03" mdate="2020-05-18">
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Models and algorithms for efficient multiresolution topology estimation of measured 3-D range data.</title>
+<pages>706-711</pages>
+<year>2003</year>
+<volume>33</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Part B</journal>
+<number>4</number>
+<url>db/journals/tsmc/tsmcb33.html#ParkLL03</url>
+<ee>https://doi.org/10.1109/TSMCB.2003.814301</ee>
+<ee>https://www.wikidata.org/entity/Q31144965</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icip/ChangLL03" mdate="2017-05-25">
+<author pid="93/2243">Ju Yong Chang</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Shape from shading using graph cuts.</title>
+<pages>421-424</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2003-1.html#ChangLL03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1246988</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KwonLL03" mdate="2017-05-25">
+<author pid="37/982">Musik Kwon</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A statistical error analysis for voxel coloring.</title>
+<pages>425-428</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2003-1.html#KwonLL03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1246989</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/ParkLL02" mdate="2020-03-12">
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Efficient Measurement of Shape Dissimilarity between 3D Models Using Z-Buffer and Surface Roving Method.</title>
+<pages>1127-1134</pages>
+<year>2002</year>
+<volume>2002</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1155/S1110865702206022</ee>
+<url>db/journals/ejasp/ejasp2002.html#ParkLL02</url>
+</article>
+</r>
+<r><article key="journals/spic/SongL02" mdate="2020-02-24">
+<author pid="72/6847">Hwangjun Song</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Adaptive rate control algorithms for low bit rate video under networks supporting bandwidth renegotiation.</title>
+<pages>759-779</pages>
+<year>2002</year>
+<volume>17</volume>
+<journal>Signal Process. Image Commun.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0923-5965(02)00007-3</ee>
+<url>db/journals/spic/spic17.html#SongL02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/JeonLL02" mdate="2017-05-25">
+<author pid="75/4468">Byeong Hwan Jeon</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Face detection using the 1st-order RCE classifier.</title>
+<pages>125-128</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (2)</booktitle>
+<url>db/conf/icip/icip2002-2.html#JeonLL02</url>
+<ee>https://doi.org/10.1109/ICIP.2002.1039903</ee>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/SongLL01" mdate="2020-02-21">
+<author pid="13/6880">Bong Seop Song</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Model-Based Object Recognition Using Geometric Invariants of Points and Lines.</title>
+<pages>361-383</pages>
+<year>2001</year>
+<volume>84</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1006/cviu.2001.0954</ee>
+<url>db/journals/cviu/cviu84.html#SongLL01</url>
+</article>
+</r>
+<r><article key="journals/pr/KuLL01" mdate="2020-02-24">
+<author pid="50/4143">Ja Seong Ku</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Multi-image matching for a general motion stereo camera model.</title>
+<pages>1701-1712</pages>
+<year>2001</year>
+<volume>34</volume>
+<journal>Pattern Recognit.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0031-3203(00)00110-2</ee>
+<url>db/journals/pr/pr34.html#KuLL01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/ChoLL01" mdate="2017-05-25">
+<author pid="50/3213">Hye Ri Cho</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A new robust 3D motion estimation under perspective projection.</title>
+<pages>660-663</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2001.958205</ee>
+<url>db/conf/icip/icip2001-3.html#ChoLL01</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/ParkLL00" mdate="2020-02-21">
+<author pid="08/4762">Sang Ho Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A Line Feature Matching Technique Based on an Eigenvector Approach.</title>
+<pages>263-283</pages>
+<year>2000</year>
+<volume>77</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1006/cviu.2000.0808</ee>
+<url>db/journals/cviu/cviu77.html#ParkLL00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmcs/JeonLL00" mdate="2019-02-12">
+<author pid="75/4468">Byeong Hwan Jeon</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Rotation Invariant Face Detection using a Model-Based Clustering Algorithm.</title>
+<pages>1149-</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (II)</booktitle>
+<url>db/conf/icmcs/icme2000.html#JeonLL00</url>
+<ee>https://doi.org/10.1109/ICME.2000.871564</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ParkLL00" mdate="2017-05-24">
+<author pid="72/5728">In Kyu Park</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Recognition and Reconstruction of 3-D Objects Using Model-Based Perceptual Grouping.</title>
+<pages>1720-1724</pages>
+<year>2000</year>
+<crossref>conf/icpr/2000</crossref>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2000.905488</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2000.905488</ee>
+<url>db/conf/icpr/icpr2000-1.html#ParkLL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ParkLL99" mdate="2017-05-25">
+<author pid="72/5728">In Kyu Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Perceptual Grouping of 3-D Features in Aerial Image Using Decision Tree Classifier.</title>
+<pages>31-35</pages>
+<year>1999</year>
+<crossref>conf/icip/1999</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip1999-1.html#ParkLL99</url>
+<ee>https://doi.org/10.1109/ICIP.1999.821559</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jvcir/YangLL98" mdate="2020-02-22">
+<author pid="89/2857">Hee Soo Yang</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Recognition of 2D Object Contours Using Starting-Point-Independent Wavelet Coefficient Matching.</title>
+<pages>171-181</pages>
+<year>1998</year>
+<volume>9</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1006/jvci.1998.0384</ee>
+<url>db/journals/jvcir/jvcir9.html#YangLL98</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LeeK98" mdate="2017-05-25">
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="k/CCJayKuo">C.-C. Jay Kuo</author>
+<title>Direct Shape from Texture Using a Parametric Surface Model and an Adaptive Filtering Technique.</title>
+<pages>402-407</pages>
+<year>1998</year>
+<crossref>conf/cvpr/1998</crossref>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.1998.698637</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.1998.698637</ee>
+<url>db/conf/cvpr/cvpr1998.html#LeeK98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/ParkLL98" mdate="2017-04-29">
+<author pid="08/4762">Sang Ho Park</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>A quantitative matching technique based on eigenvector approach.</title>
+<pages>1-4</pages>
+<year>1998</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7089665/</ee>
+<crossref>conf/eusipco/1998</crossref>
+<url>db/conf/eusipco/eusipco1998.html#ParkLL98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KuLL98" mdate="2017-05-25">
+<author pid="50/4143">Ja Seong Ku</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<title>Multi-Image Matching for a General Motion Stereo Camera Model.</title>
+<pages>608-612</pages>
+<year>1998</year>
+<crossref>conf/icip/1998</crossref>
+<booktitle>ICIP (2)</booktitle>
+<url>db/conf/icip/icip1998-2.html#KuLL98</url>
+<ee>https://doi.org/10.1109/ICIP.1998.723543</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIP.1998.723543</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mva/KeeLL98" mdate="2020-03-12">
+<author pid="61/4179">Seok-Cheol Kee</author>
+<author pid="l/SangUkLee">Sang Uk Lee</author>
+<author pid="17/4029">Kyoung Mu Lee</author>
+<title>Illumination Invariant Face Recognition Using Photometric Stereo.</title>
+<pages>581-584</pages>
+<year>1998</year>
+<booktitle>MVA</booktitle>
+<ee type="oa">http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1998/papers/1998581.pdf</ee>
+<crossref>conf/mva/1998</crossref>
+<url>db/conf/mva/mva1998.html#KeeLL98</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/LeeK97" mdate="2020-02-21">
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="k/CCJayKuo">C.-C. Jay Kuo</author>
+<title>Shape from Shading with a Generalized Reflectance Map Model.</title>
+<pages>143-160</pages>
+<year>1997</year>
+<volume>67</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1006/cviu.1997.0522</ee>
+<url>db/journals/cviu/cviu67.html#LeeK97</url>
+</article>
+</r>
+<r><article key="journals/jvcir/LeeK96" mdate="2020-02-22">
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="k/CCJayKuo">C.-C. Jay Kuo</author>
+<title>Shape from Photometric Ratio and Stereo.</title>
+<pages>155-162</pages>
+<year>1996</year>
+<volume>7</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1006/jvci.1996.0015</ee>
+<url>db/journals/jvcir/jvcir7.html#LeeK96</url>
+</article>
+</r>
+<r><article key="journals/pami/LeeK93" mdate="2017-05-17">
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="k/CCJayKuo">C.-C. Jay Kuo</author>
+<title>Shape from Shading with a Linear Triangular Element Surface Model.</title>
+<pages>815-822</pages>
+<year>1993</year>
+<volume>15</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/34.236247</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/34.236247</ee>
+<url>db/journals/pami/pami15.html#LeeK93</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LeeK92" mdate="2017-05-25">
+<author pid="17/4029">Kyoung Mu Lee</author>
+<author pid="k/CCJayKuo">C.-C. Jay Kuo</author>
+<title>Shape reconstruction from photometric stereo.</title>
+<pages>479-484</pages>
+<year>1992</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.1992.223147</ee>
+<crossref>conf/cvpr/1992</crossref>
+<url>db/conf/cvpr/cvpr1992.html#LeeK92</url>
+</inproceedings>
+</r>
+<coauthors n="342" nc="4">
+<co c="0"><na f="a/A:Akhil_K=" pid="271/7272">Akhil K. A</na></co>
+<co c="0"><na f="a/Adamczewski:Kamil" pid="150/5954">Kamil Adamczewski</na></co>
+<co c="0"><na f="a/Agarwalla:Abhinav" pid="190/7006">Abhinav Agarwalla</na></co>
+<co c="0"><na f="a/Agustsson:Eirikur" pid="143/7107">Eirikur Agustsson</na></co>
+<co c="0"><na f="a/Ahn:Byeongjoo" pid="142/2789">Byeongjoo Ahn</na></co>
+<co c="0"><na f="a/Akita:Kazutoshi" pid="260/3239">Kazutoshi Akita</na></co>
+<co c="0"><na f="a/Akiyama:Kai" pid="211/6915">Kai Akiyama</na></co>
+<co c="0"><na f="a/Aloni:Lior" pid="260/3105">Lior Aloni</na></co>
+<co c="0"><na f="a/Argyros:Antonis_A=" pid="81/3715">Antonis A. Argyros</na></co>
+<co c="0"><na f="a/Arora:Aditya" pid="230/3630">Aditya Arora</na></co>
+<co c="0"><na f="b/Badhwar:Anuj" pid="263/1766">Anuj Badhwar</na></co>
+<co c="0"><na f="b/Bae:Woong" pid="190/7538">Woong Bae</na></co>
+<co c="0"><na f="b/Baik:Sungyong" pid="243/2775">Sungyong Baik</na></co>
+<co c="0"><na f="b/Baik:Young_Ki" pid="131/5547">Young Ki Baik</na></co>
+<co c="0"><na f="b/Bao:Wenbo" pid="192/8571">Wenbo Bao</na></co>
+<co c="0"><na f="b/Bischof:Horst" pid="69/3793">Horst Bischof</na></co>
+<co c="0"><na f="b/Boll:Susanne" pid="b/SusanneBoll">Susanne Boll</na></co>
+<co c="0"><na f="b/Brehm:Stephan" pid="199/1933">Stephan Brehm</na></co>
+<co c="0"><na f="b/Bui:Giang" pid="158/5803">Giang Bui</na></co>
+<co c="0"><na f="b/Byun:Hyeran" pid="77/5360">Hyeran Byun</na></co>
+<co c="0"><na f="c/Cao:Lei" pid="17/6060">Lei Cao</na></co>
+<co c="0"><na f="c/Cha:Joonhyuk" pid="74/9236">Joonhyuk Cha</na></co>
+<co c="0"><na f="c/Chan:Kelvin_C=_K=" pid="228/2769">Kelvin C. K. Chan</na></co>
+<co c="0"><na f="c/Chang:Ju_Yong" pid="93/2243">Ju Yong Chang</na></co>
+<co c="0"><na f="c/Chaudhury:Santanu" pid="31/2344">Santanu Chaudhury</na></co>
+<co c="0"><na f="c/Chen:Chang_Wen" pid="29/4638">Chang Wen Chen</na></co>
+<co c="0"><na f="c/Chen:Guannan" pid="60/10245">Guannan Chen</na></co>
+<co c="0"><na f="c/Chen:Li" pid="181/2847">Li Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Xinghao" pid="30/4937-1">Xinghao Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Yunjin" pid="134/3031">Yunjin Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Zhibo" pid="54/6561">Zhibo Chen 0001</na></co>
+<co c="0"><na f="c/Chiang:Cheng=Ming" pid="246/5219">Cheng-Ming Chiang</na></co>
+<co c="0"><na f="c/Cho:Hye_Ri" pid="50/3213">Hye Ri Cho</na></co>
+<co c="0"><na f="c/Cho:Jung_Uk" pid="29/1842">Jung Uk Cho</na></co>
+<co c="0"><na f="c/Cho:Minsu" pid="93/4742">Minsu Cho</na></co>
+<co c="0"><na f="c/Cho:Nam_Ik" pid="70/424">Nam Ik Cho</na></co>
+<co c="0"><na f="c/Choi:Byoung=Tae" pid="24/5585">Byoung-Tae Choi</na></co>
+<co c="0"><na f="c/Choi:Hongsuk" pid="229/3689">Hongsuk Choi</na></co>
+<co c="0"><na f="c/Choi:Jae=Seok" pid="169/7657">Jae-Seok Choi</na></co>
+<co c="0"><na f="c/Choi:Janghoon" pid="195/5859">Janghoon Choi</na></co>
+<co c="0"><na f="c/Choi:Myungsub" pid="227/6654">Myungsub Choi</na></co>
+<co c="0"><na f="c/Chu:Yihao" pid="264/5561">Yihao Chu</na></co>
+<co c="0"><na f="c/Chudasama:Vishal_M=" pid="216/4089">Vishal M. Chudasama</na></co>
+<co c="0"><na f="c/Chun:Kukjin" pid="80/11127">Kukjin Chun</na></co>
+<co c="0"><na f="c/Chun:Se_Young" pid="85/2542">Se Young Chun</na></co>
+<co c="0"><na f="c/Cruz:Crist=oacute=v=atilde=o" pid="141/6253">Crist&#243;v&#227;o Cruz</na></co>
+<co c="0"><na f="d/Dai:Yuchao" pid="65/7804">Yuchao Dai</na></co>
+<co c="0"><na f="d/Das:Sourya_Dipta" pid="217/1530">Sourya Dipta Das</na></co>
+<co c="0"><na f="d/Ding:Yukang" pid="200/7992">Yukang Ding</na></co>
+<co c="0"><na f="d/Dong:Chao" pid="16/1278">Chao Dong</na></co>
+<co c="0"><na f="d/Dong_0001:Hang" pid="135/8614-1">Hang Dong 0001</na></co>
+<co c="0"><na f="d/Duan:Lunhao" pid="261/9477">Lunhao Duan</na></co>
+<co c="0"><na f="d/Duan:Ran" pid="90/5794">Ran Duan</na></co>
+<co c="0"><na f="d/Duan:Ye" pid="35/1832">Ye Duan</na></co>
+<co c="0"><na f="d/Dutta:Saikat" pid="260/3198">Saikat Dutta</na></co>
+<co c="0"><na f="e/Egiazarian:Karen_O=" pid="e/KOEgiazarian">Karen O. Egiazarian</na></co>
+<co c="0"><na f="e/Escalera:Sergio" pid="77/5527">Sergio Escalera</na></co>
+<co c="0"><na f="f/Fan:Hongfei" pid="17/7704">Hongfei Fan</na></co>
+<co c="0"><na f="f/Fan:Yuchen" pid="120/4095">Yuchen Fan</na></co>
+<co c="0"><na f="f/Fu:Min" pid="43/8387">Min Fu</na></co>
+<co c="0"><na f="f/Fu_0001:Yun" pid="00/5815-1">Yun Fu 0001</na></co>
+<co c="0"><na f="g/Gao:Zhiyong" pid="64/2916">Zhiyong Gao</na></co>
+<co c="0"><na f="g/Garcia=Hernando:Guillermo" pid="165/1794">Guillermo Garcia-Hernando</na></co>
+<co c="0"><na f="g/Garg:Shivam" pid="271/7624">Shivam Garg</na></co>
+<co c="0"><na f="g/Ge:Liuhao" pid="182/2301">Liuhao Ge</na></co>
+<co c="0"><na f="g/Gool:Luc_Van" pid="61/5017">Luc Van Gool</na></co>
+<co c="0"><na f="g/Gu:Shuhang" pid="126/1028">Shuhang Gu</na></co>
+<co c="0"><na f="g/Guo:Qi" pid="67/398">Qi Guo</na></co>
+<co c="0"><na f="g/Guo:Tiantong" pid="198/9637">Tiantong Guo</na></co>
+<co c="0"><na f="g/Gupta:Rahul_Kumar" pid="263/1603">Rahul Kumar Gupta</na></co>
+<co c="0"><na f="h/Han:Bohyung" pid="73/4880">Bohyung Han</na></co>
+<co c="0"><na f="h/Han_0002:Wei" pid="82/1911-2">Wei Han 0002</na></co>
+<co c="0"><na f="h/Han:Yoseob" pid="173/4627">Yoseob Han</na></co>
+<co c="0"><na f="h/Haris:Muhammad" pid="142/1614">Muhammad Haris</na></co>
+<co c="0"><na f="h/He:Dongliang" pid="167/0539">Dongliang He</na></co>
+<co c="0"><na f="h/He:Qingwen" pid="263/1072">Qingwen He</na></co>
+<co c="0"><na f="h/Heng:Wen" pid="201/7460">Wen Heng</na></co>
+<co c="0"><na f="h/Heo:Yong_Seok" pid="18/35">Yong Seok Heo</na></co>
+<co c="0"><na f="h/Hirsch_0001:Michael" pid="41/4748-1">Michael Hirsch 0001</na></co>
+<co c="1"><na f="h/Hoai:Nguyen_Xuan" pid="51/6658">Nguyen Xuan Hoai</na></co>
+<co c="0"><na f="h/Honari:Sina" pid="29/4135">Sina Honari</na></co>
+<co c="0"><na f="h/Hong:Cheeun" pid="281/7988">Cheeun Hong</na></co>
+<co c="0"><na f="h/Hong:Seokil" pid="243/2738">Seokil Hong</na></co>
+<co c="0"><na f="h/Hu:Zhanyi" pid="35/6476">Zhanyi Hu</na></co>
+<co c="0"><na f="h/Hu:Zhe" pid="88/6765">Zhe Hu</na></co>
+<co c="0"><na f="h/Huang:Jie" pid="29/6643">Jie Huang</na></co>
+<co c="0"><na f="h/Huang:Shihua" pid="229/1267">Shihua Huang</na></co>
+<co c="0"><na f="h/Huang:Thomas_S=" pid="h/ThomasSHuang">Thomas S. Huang</na></co>
+<co c="0"><na f="h/Huck:Thomas" pid="271/7123">Thomas Huck</na></co>
+<co c="0"><na f="h/Huo:Xiao" pid="183/4316">Xiao Huo</na></co>
+<co c="0"><na f="h/Huynh:Xuan=Phung" pid="175/3790">Xuan-Phung Huynh</na></co>
+<co c="0"><na f="i/Ilg:Eddy" pid="151/9307">Eddy Ilg</na></co>
+<co c="0"><na f="i/Ito:Yuichi" pid="00/3870">Yuichi Ito</na></co>
+<co c="0"><na f="j/Jain:Arnav_Kumar" pid="190/7826">Arnav Kumar Jain</na></co>
+<co c="0"><na f="j/Jeon:Byeong_Hwan" pid="75/4468">Byeong Hwan Jeon</na></co>
+<co c="0"><na f="j/Jeon:Jae_Wook" pid="71/339">Jae Wook Jeon</na></co>
+<co c="0"><na f="j/Jeong:Jechang" pid="24/6358">Jechang Jeong</na></co>
+<co c="-1"><na f="j/Jeong:Woo_Yeon" pid="55/3646">Woo Yeon Jeong</na></co>
+<co c="0"><na f="j/Jiang:Jiaqin" pid="270/8453">Jiaqin Jiang</na></co>
+<co c="0"><na f="j/Jiang:Junjun" pid="119/0230">Junjun Jiang</na></co>
+<co c="0"><na f="j/Jiang:Kui" pid="124/2034">Kui Jiang</na></co>
+<co c="0" n="2"><na f="j/Jiji:C=_Victor" pid="75/3033">C. Victor Jiji</na><na>C. V. Jiji</na></co>
+<co c="0"><na f="j/Jin:Seunghun" pid="97/6346">Seunghun Jin</na></co>
+<co c="0"><na f="j/Jung:Ho_Yub" pid="18/87">Ho Yub Jung</na></co>
+<co c="0"><na f="k/Kalarot:Ratheesh" pid="124/2803">Ratheesh Kalarot</na></co>
+<co c="0"><na f="k/Kang:Dong_Un" pid="254/2961">Dong Un Kang</na></co>
+<co c="2"><na f="k/Kang:Jihong" pid="145/7998">Jihong Kang</na></co>
+<co c="0"><na f="k/Katkovnik:Vladimir" pid="51/956">Vladimir Katkovnik</na></co>
+<co c="0"><na f="k/Kautz:Jan" pid="48/6214">Jan Kautz</na></co>
+<co c="0"><na f="k/Kee:Seok=Cheol" pid="61/4179">Seok-Cheol Kee</na></co>
+<co c="0"><na f="k/Khan:Fahad_Shahbaz" pid="05/8618">Fahad Shahbaz Khan</na></co>
+<co c="0"><na f="k/Khan:Salman" pid="32/6735">Salman Khan</na></co>
+<co c="0"><na f="k/Khanna:Dheeraj" pid="263/1760">Dheeraj Khanna</na></co>
+<co c="0"><na f="k/Kim:Chang=Su" pid="02/4380">Chang-Su Kim</na></co>
+<co c="0"><na f="k/Kim:Duck_Hoon" pid="12/3021">Duck Hoon Kim</na></co>
+<co c="0"><na f="k/Kim:Euyoung" pid="193/6489">Euyoung Kim</na></co>
+<co c="0"><na f="k/Kim:Guisik" pid="197/6673">Guisik Kim</na></co>
+<co c="0"><na f="k/Kim:Heewon" pid="97/9880">Heewon Kim</na></co>
+<co c="0"><na f="k/Kim:Hyo_Jin" pid="171/7061">Hyo Jin Kim</na></co>
+<co c="0"><na f="k/Kim:Jae=Chul" pid="73/6023">Jae-Chul Kim</na></co>
+<co c="0"><na f="k/Kim:Jeonghun" pid="96/9913">Jeonghun Kim</na></co>
+<co c="0"><na f="k/Kim:Jisoo" pid="77/2107">Jisoo Kim</na></co>
+<co c="0"><na f="k/Kim:Jisu" pid="71/230">Jisu Kim</na></co>
+<co c="3"><na f="k/Kim:Jiwon" pid="24/1630">Jiwon Kim</na></co>
+<co c="0"><na f="k/Kim:Kwan=Young" pid="120/3921">Kwan-Young Kim</na></co>
+<co c="0"><na f="k/Kim:Munchurl" pid="84/4965">Munchurl Kim</na></co>
+<co c="0"><na f="k/Kim:Munsang" pid="82/6813">Munsang Kim</na></co>
+<co c="0"><na f="k/Kim:Sangmin" pid="81/1821">Sangmin Kim</na></co>
+<co c="0"><na f="k/Kim:Sun_Mi" pid="119/6198">Sun Mi Kim</na></co>
+<co c="2"><na f="k/Kim:Sungjei" pid="22/8105">Sungjei Kim</na></co>
+<co c="0"><na f="k/Kim_0006:Tae_Hyun" pid="43/11343-6">Tae Hyun Kim 0006</na></co>
+<co c="0"><na f="k/Kim:Tae_Young" pid="15/10555">Tae Young Kim</na></co>
+<co c="0" n="2"><na f="k/Kim:Tae=Hoon" pid="17/4306">Tae-Hoon Kim</na><na>Tae Hoon Kim</na></co>
+<co c="0"><na f="k/Kim:Tae=Kyun" pid="28/787">Tae-Kyun Kim</na></co>
+<co c="0"><na f="k/Kim:Wonsik" pid="27/2222">Wonsik Kim</na></co>
+<co c="0"><na f="k/Kim:Yumee" pid="254/3977">Yumee Kim</na></co>
+<co c="-1"><na f="k/Ko:San" pid="53/1687">San Ko</na></co>
+<co c="0"><na f="k/Korkmaz:Cansu" pid="263/1391">Cansu Korkmaz</na></co>
+<co c="1"><na f="k/Koryakovskiy:Ivan" pid="98/7183">Ivan Koryakovskiy</na></co>
+<co c="0"><na f="k/Ku:Ja_Seong" pid="50/4143">Ja Seong Ku</na></co>
+<co c="0"><na f="k/Kuk:Jung_Gap" pid="76/226">Jung Gap Kuk</na></co>
+<co c="0"><na f="k/Kuo:C==C=_Jay" pid="k/CCJayKuo">C.-C. Jay Kuo</na></co>
+<co c="0"><na f="k/Kwon:Heeseung" pid="226/4398">Heeseung Kwon</na></co>
+<co c="0"><na f="k/Kwon:Junghyun" pid="04/1504">Junghyun Kwon</na></co>
+<co c="0"><na f="k/Kwon:Junseok" pid="04/425">Junseok Kwon</na></co>
+<co c="0"><na f="k/Kwon:Musik" pid="37/982">Musik Kwon</na></co>
+<co c="0"><na f="l/L:Deepa_P=" pid="271/7002">Deepa P. L</na></co>
+<co c="0"><na f="l/Le:Truc" pid="182/7439">Truc Le</na></co>
+<co c="0"><na f="l/Lee:Dongheui" pid="96/5115">Dongheui Lee</na></co>
+<co c="0"><na f="l/Lee:Dongwoo" pid="69/6381">Dongwoo Lee</na></co>
+<co c="0"><na f="l/Lee:Hee_Seok" pid="22/7747">Hee Seok Lee</na></co>
+<co c="0"><na f="l/Lee:Jaerin" pid="275/3156">Jaerin Lee</na></co>
+<co c="0"><na f="l/Lee:Jin_Hak" pid="92/2038">Jin Hak Lee</na></co>
+<co c="3"><na f="l/Lee:Jung_Kwon" pid="172/1322">Jung Kwon Lee</na></co>
+<co c="0"><na f="l/Lee:Jungmin" pid="30/1958">Jungmin Lee</na></co>
+<co c="0"><na f="l/Lee:Kyong_Joon" pid="84/5495">Kyong Joon Lee</na></co>
+<co c="0"><na f="l/Lee:Kyoung_Ho" pid="48/133">Kyoung Ho Lee</na></co>
+<co c="0"><na f="l/Lee:Sang_Uk" pid="l/SangUkLee">Sang Uk Lee</na></co>
+<co c="0"><na f="l/Lee:Soochahn" pid="38/4038">Soochahn Lee</na></co>
+<co c="0"><na f="l/Lee:Suyoung" pid="256/5167">Suyoung Lee</na></co>
+<co c="0"><na f="l/Li:Chao" pid="66/190">Chao Li</na></co>
+<co c="0"><na f="l/Li:Guo" pid="35/1964">Guo Li</na></co>
+<co c="0"><na f="l/Li:Shaohui" pid="55/2211">Shaohui Li</na></co>
+<co c="0"><na f="l/Li:Shile" pid="135/5248">Shile Li</na></co>
+<co c="0"><na f="l/Li:Siyao" pid="163/8053">Siyao Li</na></co>
+<co c="0"><na f="l/Li:Xiang" pid="40/1491">Xiang Li</na></co>
+<co c="0"><na f="l/Li:Xin" pid="09/1365">Xin Li</na></co>
+<co c="0"><na f="l/Lienhart:Rainer" pid="l/RainerLienhart">Rainer Lienhart</na></co>
+<co c="0"><na f="l/Lim:Bee" pid="203/8428">Bee Lim</na></co>
+<co c="0"><na f="l/Lin:Liang" pid="84/7019">Liang Lin</na></co>
+<co c="0"><na f="l/Lin:Stephen" pid="55/4755">Stephen Lin</na></co>
+<co c="0"><na f="l/Lin:Xu" pid="33/3328">Xu Lin</na></co>
+<co c="0"><na f="l/Liu:Ding" pid="26/5200">Ding Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Dong" pid="98/1737-2">Dong Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Sen" pid="91/3699">Sen Liu</na></co>
+<co c="0"><na f="l/Liu:Tong" pid="36/5558">Tong Liu</na></co>
+<co c="0"><na f="l/Liu:Xiao" pid="82/1364">Xiao Liu</na></co>
+<co c="0"><na f="l/Liu:Yihao" pid="200/6534">Yihao Liu</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Lu:Huchuan" pid="64/6896">Huchuan Lu</na></co>
+<co c="0"><na f="l/Lu:Yunhua" pid="45/2957">Yunhua Lu</na></co>
+<co c="0"><na f="l/Luo:Jiebo" pid="25/5545">Jiebo Luo</na></co>
+<co c="0"><na f="l/Luo:Linkai" pid="58/817">Linkai Luo</na></co>
+<co c="0"><na f="m/Ma_0001:Jiayi" pid="96/9989">Jiayi Ma 0001</na></co>
+<co c="0"><na f="m/Madadi:Meysam" pid="160/2780">Meysam Madadi</na></co>
+<co c="0"><na f="m/Makwana:Megh" pid="239/4041">Megh Makwana</na></co>
+<co c="0"><na f="m/Mandal:A=_S=" pid="18/6045">A. S. Mandal</na></co>
+<co c="0"><na f="m/Matsushita:Yasuyuki" pid="11/3619">Yasuyuki Matsushita</na></co>
+<co c="0"><na f="m/Mehta:Rakesh" pid="135/3263">Rakesh Mehta</na></co>
+<co c="0"><na f="m/Mei_0001:Tao" pid="12/5444-1">Tao Mei 0001</na></co>
+<co c="0"><na f="m/Mei:Xue" pid="29/4521">Xue Mei</na></co>
+<co c="0"><na f="m/Miao:Si" pid="243/9317">Si Miao</na></co>
+<co c="0"><na f="m/Michelini:Pablo_Navarrete" pid="63/1474">Pablo Navarrete Michelini</na></co>
+<co c="0"><na f="m/Molchanov:Pavlo" pid="165/8169">Pavlo Molchanov</na></co>
+<co c="0"><na f="m/Monga:Vishal" pid="73/1467">Vishal Monga</na></co>
+<co c="0"><na f="m/Moon:Gyeongsik" pid="185/6852">Gyeongsik Moon</na></co>
+<co c="0"><na f="m/Moon:Youngsu" pid="48/3292">Youngsu Moon</na></co>
+<co c="0"><na f="m/Mousavi:Hojjat_Seyed" pid="117/0303">Hojjat Seyed Mousavi</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Rudrabha" pid="218/8868">Rudrabha Mukhopadhyay</na></co>
+<co c="0"><na f="m/Myeong:Heesoo" pid="117/4823">Heesoo Myeong</na></co>
+<co c="0"><na f="n/Nah:Seungjun" pid="177/3248">Seungjun Nah</na></co>
+<co c="0"><na f="n/Nam:Hyungjoon" pid="264/5429">Hyungjoon Nam</na></co>
+<co c="0"><na f="n/Naor:Eyal" pid="260/2798">Eyal Naor</na></co>
+<co c="0"><na f="n/Noh:Kyoung_Jin" pid="187/5841">Kyoung Jin Noh</na></co>
+<co c="0"><na f="o/Oh:Hyun_Jun" pid="72/24">Hyun Jun Oh</na></co>
+<co c="0"><na f="o/Oh:Junghun" pid="281/8729">Junghun Oh</na></co>
+<co c="0" n="2"><na f="o/Oikonomidis:Iasonas" pid="12/7591">Iasonas Oikonomidis</na><na>Iason Oikonomidis</na></co>
+<co c="0" n="2"><na f="p/Pan:Jinshan" pid="06/10816">Jinshan Pan</na><na>Jin-shan Pan</na></co>
+<co c="0"><na f="p/Pan:Ze" pid="260/3236">Ze Pan</na></co>
+<co c="0"><na f="p/Pang:Jianxin" pid="41/813">Jianxin Pang</na></co>
+<co c="0"><na f="p/Park:Bo_Gun" pid="19/5897">Bo Gun Park</na></co>
+<co c="0"><na f="p/Park:Bumjun" pid="240/3623">Bumjun Park</na></co>
+<co c="0"><na f="p/Park:Dong_Woo" pid="58/9176">Dong Woo Park</na></co>
+<co c="0"><na f="p/Park:Dongmin" pid="82/2651">Dongmin Park</na></co>
+<co c="0"><na f="p/Park:Dongwon" pid="55/11454">Dongwon Park</na></co>
+<co c="0" n="2"><na f="p/Park:Frank_Chongwoo" pid="p/FrankChongwooPark">Frank Chongwoo Park</na><na>Frank C. Park 0001</na></co>
+<co c="0"><na f="p/Park:Haesol" pid="98/9446">Haesol Park</na></co>
+<co c="0"><na f="p/Park:In_Kyu" pid="72/5728">In Kyu Park</na></co>
+<co c="0"><na f="p/Park:Joonyoung" pid="28/3766">Joonyoung Park</na></co>
+<co c="0"><na f="p/Park:Sang_Ho" pid="08/4762">Sang Ho Park</na></co>
+<co c="0"><na f="p/Park:Sangdon" pid="119/1530">Sangdon Park</na></co>
+<co c="0"><na f="p/Park:Sung=Kee" pid="10/6399">Sung-Kee Park</na></co>
+<co c="0" n="2"><na f="p/Park:Woon=Sung" pid="197/6289">Woon-Sung Park</na><na>Woonsung Park</na></co>
+<co c="0"><na f="p/Patel:Bhrij" pid="264/9735">Bhrij Patel</na></co>
+<co c="0"><na f="p/Patel:Heena" pid="263/1688">Heena Patel</na></co>
+<co c="0"><na f="p/Pham:Xuan_Dai" pid="50/5371">Xuan Dai Pham</na></co>
+<co c="0"><na f="p/Pisha:George" pid="244/2503">George Pisha</na></co>
+<co c="0"><na f="p/Porikli:Fatih" pid="p/FatihMuratPorikli">Fatih Porikli</na></co>
+<co c="0"><na f="p/Praveen:Ch_V=_Sai" pid="205/3931">Ch V. Sai Praveen</na></co>
+<co c="0"><na f="p/Purohit:Kuldeep" pid="191/2655">Kuldeep Purohit</na></co>
+<co c="0"><na f="p/Puthussery:Densen" pid="264/5624">Densen Puthussery</na></co>
+<co c="0"><na f="q/Qiao_0001:Yu" pid="q/YuQiao1">Yu Qiao 0001</na></co>
+<co c="0"><na f="q/Qin:Xueying" pid="94/6767">Xueying Qin</na></co>
+<co c="0"><na f="r/Rajagopalan_0001:A=_N=" pid="73/3473">A. N. Rajagopalan 0001</na></co>
+<co c="0"><na f="r/Rehg:James_M=" pid="r/JMRehg">James M. Rehg</na></co>
+<co c="0"><na f="r/Roh:Junha" pid="150/3983">Junha Roh</na></co>
+<co c="0"><na f="s/S:Hrishikesh_P=" pid="264/5454">Hrishikesh P. S</na></co>
+<co c="0"><na f="s/Scherer:Sebastian" pid="253/5743">Sebastian Scherer</na></co>
+<co c="0"><na f="s/Sch=ouml=lkopf:Bernhard" pid="97/119">Bernhard Sch&#246;lkopf</na></co>
+<co c="0"><na f="s/Seo:Wonyong" pid="282/2041">Wonyong Seo</na></co>
+<co c="0" n="2"><na f="s/Shakhnarovich:Gregory" pid="17/1926">Gregory Shakhnarovich</na><na>Greg Shakhnarovich</na></co>
+<co c="0"><na f="s/Shao_0001:Ling" pid="75/1281">Ling Shao 0001</na></co>
+<co c="0"><na f="s/Sharma:Manoj" pid="16/7689">Manoj Sharma</na></co>
+<co c="0"><na f="s/Shen:Tianwei" pid="181/4558">Tianwei Shen</na></co>
+<co c="0"><na f="s/Shen:Wang" pid="250/8374">Wang Shen</na></co>
+<co c="0" n="2"><na f="s/Shi:Humphrey" pid="176/5516">Humphrey Shi</na><na>Honghui Shi</na></co>
+<co c="0"><na f="s/Shim:Hackjoon" pid="30/6194">Hackjoon Shim</na></co>
+<co c="0"><na f="s/Shin:Seung_Yeon" pid="175/2005">Seung Yeon Shin</na></co>
+<co c="0"><na f="s/Shin:Young_Min" pid="67/2052">Young Min Shin</na></co>
+<co c="0"><na f="s/Shiratori:Takaaki" pid="17/5270">Takaaki Shiratori</na></co>
+<co c="0"><na f="s/Shukla:Ankit" pid="218/5708">Ankit Shukla</na></co>
+<co c="0"><na f="s/Si=Yao:Li" pid="202/2430">Li Si-Yao</na></co>
+<co c="0"><na f="s/Sim:Hyeonjun" pid="230/2044">Hyeonjun Sim</na></co>
+<co c="0"><na f="s/Singh:Ajay_Pratap" pid="239/4362">Ajay Pratap Singh</na></co>
+<co c="0"><na f="s/Son:Sanghyun" pid="68/6424">Sanghyun Son</na></co>
+<co c="0"><na f="s/Song:Bong_Seop" pid="13/6880">Bong Seop Song</na></co>
+<co c="0"><na f="s/Song:Gwangmo" pid="160/0103">Gwangmo Song</na></co>
+<co c="0"><na f="s/Song:Hwangjun" pid="72/6847">Hwangjun Song</na></co>
+<co c="0"><na f="s/Song:Xibin" pid="146/4830">Xibin Song</na></co>
+<co c="0"><na f="s/Sprague:Daniel" pid="271/7432">Daniel Sprague</na></co>
+<co c="0"><na f="s/Stenger:Bj=ouml=rn" pid="s/BStenger">Bj&#246;rn Stenger</na></co>
+<co c="0"><na f="s/Suh:Yumin" pid="119/1522">Yumin Suh</na></co>
+<co c="0"><na f="s/Suin:Maitreya" pid="254/1457">Maitreya Suin</na></co>
+<co c="0"><na f="s/Sun:Deqing" pid="69/4250">Deqing Sun</na></co>
+<co c="0"><na f="s/Sun:Qingyan" pid="264/5650">Qingyan Sun</na></co>
+<co c="0"><na f="s/Sun:Wenxiu" pid="16/9879">Wenxiu Sun</na></co>
+<co c="0" n="2"><na f="s/Sweeney:Chris" pid="124/0715">Chris Sweeney</na><na>Christopher Sweeney</na></co>
+<co c="0"><na f="t/Tang:Siyu" pid="22/845">Siyu Tang</na></co>
+<co c="0"><na f="t/Tang:Zhimin" pid="63/749">Zhimin Tang</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0"><na f="t/Tekalp:A=_Murat" pid="00/5029">A. Murat Tekalp</na></co>
+<co c="0"><na f="t/Tian:Yapeng" pid="176/4020">Yapeng Tian</na></co>
+<co c="0"><na f="t/Timofte:Radu" pid="24/8616">Radu Timofte</na></co>
+<co c="0"><na f="t/Tofighi:Mohammad" pid="39/8776">Mohammad Tofighi</na></co>
+<co c="0"><na f="t/Tsai:Yi=Min" pid="12/3621">Yi-Min Tsai</na></co>
+<co c="0"><na f="t/Tseng:Yu" pid="263/4294">Yu Tseng</na></co>
+<co c="0"><na f="u/Ukita:Norimichi" pid="46/5881">Norimichi Ukita</na></co>
+<co c="0"><na f="u/Upadhyay:Avinash" pid="230/2092">Avinash Upadhyay</na></co>
+<co c="0"><na f="u/Upla:Kishor_P=" pid="60/10346">Kishor P. Upla</na></co>
+<co c="0"><na f="v/Vu:Tiep_Huu" pid="159/2041">Tiep Huu Vu</na></co>
+<co c="0"><na f="w/Wan:Qingfu" pid="182/1834">Qingfu Wan</na></co>
+<co c="0"><na f="w/Wang:Guijin" pid="37/6836">Guijin Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jingdong" pid="49/3441">Jingdong Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Ruxin" pid="149/7989">Ruxin Wang</na></co>
+<co c="0"><na f="w/Wang:Xinchao" pid="23/8015">Xinchao Wang</na></co>
+<co c="0"><na f="w/Wang:Xintao" pid="205/3991">Xintao Wang</na></co>
+<co c="0"><na f="w/Wang:Zhangyang" pid="119/4026">Zhangyang Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengtao" pid="185/0907">Zhengtao Wang</na></co>
+<co c="0"><na f="w/Wang:Zhongyuan" pid="84/6394">Zhongyuan Wang</na></co>
+<co c="0"><na f="w/Wen:He" pid="47/4561">He Wen</na></co>
+<co c="0"><na f="w/Wen:Hongdiao" pid="195/5685">Hongdiao Wen</na></co>
+<co c="0"><na f="w/Wen:Shilei" pid="159/2939">Shilei Wen</na></co>
+<co c="0"><na f="w/Wu:Shixiang" pid="205/3888">Shixiang Wu</na></co>
+<co c="0"><na f="w/Wu:Yang" pid="56/1428">Yang Wu</na></co>
+<co c="0"><na f="x/Xia:Zhiqiang" pid="185/1067">Zhiqiang Xia</na></co>
+<co c="0"><na f="x/Xie:Liangbin" pid="263/5192">Liangbin Xie</na></co>
+<co c="0"><na f="x/Xiong:Zhiwei" pid="54/6827">Zhiwei Xiong</na></co>
+<co c="0"><na f="x/Xu:Chenliang" pid="117/4770">Chenliang Xu</na></co>
+<co c="0"><na f="x/Xu:Dejia" pid="264/5685">Dejia Xu</na></co>
+<co c="0"><na f="x/Xu:Jinchang" pid="205/3875">Jinchang Xu</na></co>
+<co c="0"><na f="x/Xu:Ning" pid="04/5856">Ning Xu</na></co>
+<co c="0"><na f="x/Xu:Xiangyu" pid="172/1282">Xiangyu Xu</na></co>
+<co c="0"><na f="x/Xu:Yu=Syuan" pid="218/5353">Yu-Syuan Xu</na></co>
+<co c="0"><na f="y/Yang_0032:Fan" pid="29/3081-32">Fan Yang 0032</na></co>
+<co c="0"><na f="y/Yang:Hee_Soo" pid="89/2857">Hee Soo Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Ming=Hsuan" pid="79/3711">Ming-Hsuan Yang 0001</na></co>
+<co c="0"><na f="y/Yao:Jian" pid="40/4105">Jian Yao</na></co>
+<co c="0"><na f="y/Yavartanoo:Mohsen" pid="230/3515">Mohsen Yavartanoo</na></co>
+<co c="0"><na f="y/Ye:Jong_Chul" pid="15/5613">Jong Chul Ye</na></co>
+<co c="0"><na f="y/Yi:Peng" pid="98/1202">Peng Yi</na></co>
+<co c="0"><na f="y/Yilmaz:M=_Akin" pid="254/8203">M. Akin Yilmaz</na></co>
+<co c="0"><na f="y/Yim:Chung=Hyuk" pid="97/439">Chung-Hyuk Yim</na></co>
+<co c="0"><na f="y/Yoo:Jae_Jun" pid="141/8878">Jae Jun Yoo</na></co>
+<co c="0"><na f="y/Yoo:Yongseok" pid="134/9691">Yongseok Yoo</na></co>
+<co c="0"><na f="y/Yoon:Sehyuk" pid="09/4443">Sehyuk Yoon</na></co>
+<co c="0"><na f="y/Yu:Haichao" pid="205/3982">Haichao Yu</na></co>
+<co c="0"><na f="y/Yu:Jiahui" pid="185/1060">Jiahui Yu</na></co>
+<co c="0"><na f="y/Yu:Ke" pid="23/2089">Ke Yu</na></co>
+<co c="0"><na f="y/Yu:Shoou=I" pid="23/7442">Shoou-I Yu</na></co>
+<co c="0"><na f="y/Yu:Songhyun" pid="250/5604">Songhyun Yu</na></co>
+<co c="0"><na f="y/Yuan:Junsong" pid="42/3332">Junsong Yuan</na></co>
+<co c="0"><na f="y/Yuan:Shanxin" pid="142/0092">Shanxin Yuan</na></co>
+<co c="0"><na f="y/Yun:Il_Dong" pid="67/1367">Il Dong Yun</na></co>
+<co c="0"><na f="z/Zamir:Syed_Waqas" pid="140/7811">Syed Waqas Zamir</na></co>
+<co c="0"><na f="z/Zhai:Guangtao" pid="19/3230">Guangtao Zhai</na></co>
+<co c="0"><na f="z/Zhang_0008:Kai" pid="55/957-8">Kai Zhang 0008</na></co>
+<co c="0"><na f="z/Zhang_0006:Lei" pid="64/5666-6">Lei Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang:Lijie" pid="16/4136">Lijie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Tianzhu" pid="15/7643">Tianzhu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenhao" pid="57/7458">Wenhao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenjie" pid="98/5684">Wenjie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinyi" pid="04/4189">Xinyi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yujin" pid="47/3138">Yujin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yulun" pid="166/2763">Yulun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yumei" pid="08/2771">Yumei Zhang</na></co>
+<co c="0"><na f="z/Zhao:Yu" pid="57/2056">Yu Zhao</na></co>
+<co c="0"><na f="z/Zhou:Ruofan" pid="205/3902">Ruofan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Ya" pid="78/4396">Ya Zhou</na></co>
+<co c="0"><na f="z/Zhu:Che" pid="205/3914">Che Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Wenwu" pid="97/6308-1">Wenwu Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu_0001:Yongxin" pid="27/3343-1">Yongxin Zhu 0001</na></co>
+<co c="0"><na f="z/Zuo:Wangmeng" pid="93/2671">Wangmeng Zuo</na></co>
+</coauthors>
+</dblpperson>
+

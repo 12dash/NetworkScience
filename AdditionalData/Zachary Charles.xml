@@ -1,3 +1,548 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12f419386bde2ba11dd474d568d590357b1c679df5fe9e75f4a39f07c3b2c2a6
-size 26428
+<?xml version="1.0"?>
+<dblpperson name="Zachary Charles" pid="213/3622" n="31">
+<person key="homepages/213/3622" mdate="2020-05-19">
+<author pid="213/3622">Zachary Charles</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<url>https://zachcharles.com/</url>
+</person>
+<r><inproceedings key="conf/aistats/CharlesK21" mdate="2021-04-14">
+<author pid="213/3622">Zachary Charles</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<title>Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning.</title>
+<pages>2575-2583</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/charles21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#CharlesK21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-05032" mdate="2021-03-15">
+<author pid="213/3622">Zachary Charles</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<title>Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning.</title>
+<year>2021</year>
+<volume>abs/2103.05032</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.05032</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-05032</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-00295" mdate="2020-03-10">
+<author pid="50/10452">Sashank J. Reddi</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="40/10701">Manzil Zaheer</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="249/8135">Keith Rush</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="66/6804">Sanjiv Kumar</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<title>Adaptive Federated Optimization.</title>
+<year>2020</year>
+<volume>abs/2003.00295</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.00295</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-00295</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-00878" mdate="2020-07-06">
+<author pid="213/3622">Zachary Charles</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<title>On the Outsized Importance of Learning Rates in Local Update Methods.</title>
+<year>2020</year>
+<volume>abs/2007.00878</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.00878</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-00878</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/CharlesRP19" mdate="2019-06-07">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="230/3942">Harrison Rosenberg</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>A Geometric Perspective on the Transferability of Adversarial Directions.</title>
+<pages>1960-1968</pages>
+<year>2019</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v89/charles19a.html</ee>
+<crossref>conf/aistats/2019</crossref>
+<url>db/conf/aistats/aistats2019.html#CharlesRP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/RajputFCLP19" mdate="2019-06-11">
+<author pid="241/5361">Shashank Rajput</author>
+<author pid="189/7590">Zhili Feng</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="02/10264">Po-Ling Loh</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Does Data Augmentation Lead to Positive Margin?</title>
+<pages>5321-5330</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rajput19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RajputFCLP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RajputWCP19" mdate="2021-01-21">
+<author pid="241/5361">Shashank Rajput</author>
+<author pid="15/832">Hongyi Wang</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>DETOX: A Redundancy-based Framework for Faster and More Robust Gradient Aggregation.</title>
+<pages>10320-10330</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/415185ea244ea2b2bedeb0449b926802-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9220-detox-a-redundancy-based-framework-for-faster-and-more-robust-gradient-aggregation</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#RajputWCP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-09671" mdate="2019-02-02">
+<author pid="15/832">Hongyi Wang</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>ErasureHead: Distributed Gradient Descent without Delays Using Approximate Gradient Coding.</title>
+<year>2019</year>
+<volume>abs/1901.09671</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.09671</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-09671</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-03177" mdate="2019-05-27">
+<author pid="241/5361">Shashank Rajput</author>
+<author pid="189/7590">Zhili Feng</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="02/10264">Po-Ling Loh</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Does Data Augmentation Lead to Positive Margin?</title>
+<year>2019</year>
+<volume>abs/1905.03177</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.03177</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-03177</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-09209" mdate="2021-02-22">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="241/5361">Shashank Rajput</author>
+<author pid="w/StephenJWright">Stephen J. Wright</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Convergence and Margin of Adversarial Training on Separable Data.</title>
+<year>2019</year>
+<volume>abs/1905.09209</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.09209</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-09209</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-12205" mdate="2019-08-01">
+<author pid="241/5361">Shashank Rajput</author>
+<author pid="15/832">Hongyi Wang</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>DETOX: A Redundancy-based Framework for Faster and More Robust Gradient Aggregation.</title>
+<year>2019</year>
+<volume>abs/1907.12205</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.12205</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-12205</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-08222" mdate="2021-01-23">
+<author orcid="0000-0002-4275-3452" pid="222/3229">Scott Sievert</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<title>Improving the convergence of SGD through adaptive batch sizes.</title>
+<year>2019</year>
+<volume>abs/1910.08222</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.08222</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-08222</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><article key="journals/jgo/CharlesB18" mdate="2020-09-11">
+<author orcid="0000-0001-8997-874X" pid="213/3622">Zachary Charles</author>
+<author pid="00/5341">Nigel Boston</author>
+<title>Exploiting algebraic structure in global optimization and the Belgian chocolate problem.</title>
+<pages>241-254</pages>
+<year>2018</year>
+<volume>72</volume>
+<journal>J. Glob. Optim.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10898-018-0659-5</ee>
+<url>db/journals/jgo/jgo72.html#CharlesB18</url>
+</article>
+</r>
+<r><article key="journals/moc/Charles18" mdate="2018-05-08">
+<author pid="213/3622">Zachary Charles</author>
+<title>Generating random factored ideals in number fields.</title>
+<pages>2047-2056</pages>
+<year>2018</year>
+<volume>87</volume>
+<journal>Math. Comput.</journal>
+<number>312</number>
+<ee>https://doi.org/10.1090/mcom/3283</ee>
+<url>db/journals/moc/moc87.html#Charles18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsw/Charles0W18" mdate="2019-06-17">
+<author pid="213/3622">Zachary Charles</author>
+<author pid="118/7450-2">Amin Jalali 0002</author>
+<author pid="w/RebeccaWillett">Rebecca Willett</author>
+<title>Sparse Subspace Clustering with Missing and Corrupted Data.</title>
+<pages>180-184</pages>
+<year>2018</year>
+<booktitle>DSW</booktitle>
+<ee>https://doi.org/10.1109/DSW.2018.8439907</ee>
+<crossref>conf/dsw/2018</crossref>
+<url>db/conf/dsw/dsw2018.html#Charles0W18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/CharlesP18" mdate="2019-04-03">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Stability and Generalization of Learning Algorithms that Converge to Global Optima.</title>
+<pages>744-753</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/charles18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#CharlesP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ChenWCP18" mdate="2019-04-03">
+<author pid="131/6638">Lingjiao Chen</author>
+<author pid="15/832">Hongyi Wang</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>DRACO: Byzantine-resilient Distributed Training via Redundant Gradients.</title>
+<pages>902-911</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/chen18l.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ChenWCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZachariahCBL18" mdate="2018-10-24">
+<author pid="213/3609">Alisha Zachariah</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="00/5341">Nigel Boston</author>
+<author pid="45/2691">Bernard C. Lesieutre</author>
+<title>Distributions of the Number of Solutions to the Network Power Flow Equations.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2018.8351675</ee>
+<crossref>conf/iscas/2018</crossref>
+<url>db/conf/iscas/iscas2018.html#ZachariahCBL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/CharlesP18" mdate="2018-08-21">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Gradient Coding Using the Stochastic Block Model.</title>
+<pages>1998-2002</pages>
+<year>2018</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2018.8437887</ee>
+<crossref>conf/isit/2018</crossref>
+<url>db/conf/isit/isit2018.html#CharlesP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/WangSLCPW18" mdate="2021-02-22">
+<author pid="15/832">Hongyi Wang</author>
+<author pid="222/3229">Scott Sievert</author>
+<author pid="217/7022">Shengchao Liu</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<author pid="w/StephenJWright">Stephen J. Wright</author>
+<title>ATOMO: Communication-efficient Learning via Atomic Sparsification.</title>
+<pages>9872-9883</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/33b3214d792caf311e1f00fd22b392c5-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8191-atomo-communication-efficient-learning-via-atomic-sparsification</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#WangSLCPW18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-09877" mdate="2018-08-13">
+<author pid="131/6638">Lingjiao Chen</author>
+<author pid="15/832">Hongyi Wang</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>DRACO: Robust Distributed Training via Redundant Gradients.</title>
+<year>2018</year>
+<volume>abs/1803.09877</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.09877</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-09877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-10378" mdate="2018-08-13">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Gradient Coding via the Stochastic Block Model.</title>
+<year>2018</year>
+<volume>abs/1805.10378</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.10378</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-10378</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-04090" mdate="2021-02-22">
+<author pid="15/832">Hongyi Wang</author>
+<author pid="222/3229">Scott Sievert</author>
+<author pid="217/7022">Shengchao Liu</author>
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<author pid="w/StephenJWright">Stephen J. Wright</author>
+<title>ATOMO: Communication-efficient Learning via Atomic Sparsification.</title>
+<year>2018</year>
+<volume>abs/1806.04090</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.04090</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-04090</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-03531" mdate="2018-11-23">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="230/3942">Harrison Rosenberg</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>A Geometric Perspective on the Transferability of Adversarial Directions.</title>
+<year>2018</year>
+<volume>abs/1811.03531</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.03531</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-03531</url>
+</article>
+</r>
+<r><inproceedings key="conf/allerton/ZachariahC17" mdate="2018-01-25">
+<author pid="213/3609">Alisha Zachariah</author>
+<author pid="213/3622">Zachary Charles</author>
+<title>Efficiently finding all power flow solutions to tree networks.</title>
+<pages>1107-1114</pages>
+<year>2017</year>
+<booktitle>Allerton</booktitle>
+<ee>https://doi.org/10.1109/ALLERTON.2017.8262861</ee>
+<crossref>conf/allerton/2017</crossref>
+<url>db/conf/allerton/allerton2017.html#ZachariahC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-08402" mdate="2018-08-13">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<title>Stability and Generalization of Learning Algorithms that Converge to Global Optima.</title>
+<year>2017</year>
+<volume>abs/1710.08402</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.08402</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-08402</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-06771" mdate="2018-08-13">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<author pid="159/2008">Jordan S. Ellenberg</author>
+<title>Approximate Gradient Coding via Sparse Random Graphs.</title>
+<year>2017</year>
+<volume>abs/1711.06771</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.06771</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-06771</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Charles16" mdate="2018-08-13">
+<author pid="213/3622">Zachary B. Charles</author>
+<title>Generating Random Factored Ideals in Number Fields.</title>
+<year>2016</year>
+<volume>abs/1612.06260</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.06260</ee>
+<url>db/journals/corr/corr1612.html#Charles16</url>
+</article>
+</r>
+<r><article key="journals/dm/CharlesFJK13" mdate="2021-02-12">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="68/7092">Miriam Farber</author>
+<author pid="07/3230">Charles R. Johnson</author>
+<author pid="128/8565">Lee Kennedy-Shaffer</author>
+<title>Nonpositive eigenvalues of the adjacency matrix and lower bounds for Laplacian eigenvalues.</title>
+<pages>1441-1451</pages>
+<year>2013</year>
+<volume>313</volume>
+<journal>Discret. Math.</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.1016/j.disc.2013.03.010</ee>
+<url>db/journals/dm/dm313.html#CharlesFJK13</url>
+</article>
+</r>
+<r><article key="journals/siammax/CharlesFJK13" mdate="2020-05-26">
+<author pid="213/3622">Zachary B. Charles</author>
+<author pid="68/7092">Miriam Farber</author>
+<author pid="07/3230">Charles R. Johnson</author>
+<author pid="128/8565">Lee Kennedy-Shaffer</author>
+<title>Nonpositive Eigenvalues of Hollow, Symmetric, Nonnegative Matrices.</title>
+<pages>1384-1400</pages>
+<year>2013</year>
+<volume>34</volume>
+<journal>SIAM J. Matrix Anal. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/130904624</ee>
+<url>db/journals/siammax/siammax34.html#CharlesFJK13</url>
+</article>
+</r>
+<coauthors n="80" nc="3">
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="1"><na f="b/Boston:Nigel" pid="00/5341">Nigel Boston</na></co>
+<co c="0"><na f="c/Chen:Lingjiao" pid="131/6638">Lingjiao Chen</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="e/Ellenberg:Jordan_S=" pid="159/2008">Jordan S. Ellenberg</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="2"><na f="f/Farber:Miriam" pid="68/7092">Miriam Farber</na></co>
+<co c="0"><na f="f/Feng:Zhili" pid="189/7590">Zhili Feng</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Jalali_0002:Amin" pid="118/7450-2">Amin Jalali 0002</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="2"><na f="j/Johnson:Charles_R=" pid="07/3230">Charles R. Johnson</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="2"><na f="k/Kennedy=Shaffer:Lee" pid="128/8565">Lee Kennedy-Shaffer</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0"><na f="k/Kumar:Sanjiv" pid="66/6804">Sanjiv Kumar</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="1"><na f="l/Lesieutre:Bernard_C=" pid="45/2691">Bernard C. Lesieutre</na></co>
+<co c="0"><na f="l/Liu:Shengchao" pid="217/7022">Shengchao Liu</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="l/Loh:Po=Ling" pid="02/10264">Po-Ling Loh</na></co>
+<co c="0"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Papailiopoulos:Dimitris_S=" pid="77/344">Dimitris S. Papailiopoulos</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="r/Rajput:Shashank" pid="241/5361">Shashank Rajput</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/Reddi:Sashank_J=" pid="50/10452">Sashank J. Reddi</na></co>
+<co c="0"><na f="r/Rosenberg:Harrison" pid="230/3942">Harrison Rosenberg</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="r/Rush:Keith" pid="249/8135">Keith Rush</na></co>
+<co c="0"><na f="s/Sievert:Scott" pid="222/3229">Scott Sievert</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="w/Wang:Hongyi" pid="15/832">Hongyi Wang</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Willett:Rebecca" pid="w/RebeccaWillett">Rebecca Willett</na></co>
+<co c="0"><na f="w/Wright:Stephen_J=" pid="w/StephenJWright">Stephen J. Wright</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="1"><na f="z/Zachariah:Alisha" pid="213/3609">Alisha Zachariah</na></co>
+<co c="0"><na f="z/Zaheer:Manzil" pid="40/10701">Manzil Zaheer</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+</coauthors>
+</dblpperson>
+

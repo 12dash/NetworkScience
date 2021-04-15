@@ -1,3 +1,4034 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d202f9291c9631814d2acc559501437dd9b36a1f13f6b7e4bae19f00a2c761c1
-size 185453
+<?xml version="1.0"?>
+<dblpperson name="Phillip B. Gibbons" pid="g/PhillipBGibbons" n="231">
+<person key="homepages/g/PhillipBGibbons" mdate="2020-09-18">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<note type="affiliation">Carnegie Mellon University, Pittsburgh, PA, USA</note>
+<note type="affiliation" label="former">Intel Labs, Pittsburgh, PA, USA</note>
+<note type="award" label="2019">ACM Paris Kanellakis Theory and Practice Award</note>
+<url>http://www.cs.cmu.edu/~gibbons/</url>
+<url>https://scholar.google.com/citations?user=YgOaryUAAAAJ</url>
+<url>https://en.wikipedia.org/wiki/Phillip_Gibbons</url>
+<url>https://www.wikidata.org/entity/Q29349110</url>
+<url>https://id.loc.gov/authorities/names/no98087846</url>
+<url>https://awards.acm.org/award_winners/gibbons_2965317</url>
+</person>
+<r><inproceedings key="conf/apocs/BlellochDGGMS21" mdate="2021-03-17">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="147/3439">Laxman Dhulipala</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="82/9876">Julian Shun</author>
+<title>The Read-Only Semi-External Model.</title>
+<pages>70-84</pages>
+<year>2021</year>
+<booktitle>APOCS</booktitle>
+<ee>https://doi.org/10.1137/1.9781611976489.6</ee>
+<crossref>conf/apocs/2021</crossref>
+<url>db/conf/apocs/apocs2021.html#BlellochDGGMS21</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/DhulipalaMKGBGS20" mdate="2021-03-23">
+<author pid="147/3439">Laxman Dhulipala</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="66/10178">Hongbo Kang</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Sage: Parallel Semi-Asymmetric Graph Algorithms for NVRAMs.</title>
+<pages>1598-1613</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1598-dhulipala.pdf</ee>
+<ee>https://doi.org/10.14778/3397230.3397251</ee>
+<url>db/journals/pvldb/pvldb13.html#DhulipalaMKGBGS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/apocs/BeckmannGHM20" mdate="2020-03-03">
+<author pid="42/7272">Nathan Beckmann</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="39/1043">Bernhard Haeupler</author>
+<author pid="173/0272">Charles McGuffey</author>
+<title>Writeback-Aware Caching.</title>
+<pages>1-15</pages>
+<year>2020</year>
+<booktitle>APOCS</booktitle>
+<ee>https://doi.org/10.1137/1.9781611976021.1</ee>
+<crossref>conf/apocs/2020</crossref>
+<url>db/conf/apocs/apocs2020.html#BeckmannGHM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/HsiehPMG20" mdate="2020-12-15">
+<author pid="173/8396">Kevin Hsieh</author>
+<author pid="14/877">Amar Phanishayee</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>The Non-IID Data Quagmire of Decentralized Machine Learning.</title>
+<pages>4387-4398</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/hsieh20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#HsiehPMG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/ChenGM20" mdate="2020-03-23">
+<author pid="86/9841">Daming D. Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>TardisTM: incremental repair for transactional memory.</title>
+<pages>3:1-3:10</pages>
+<year>2020</year>
+<booktitle>PMAM@PPoPP</booktitle>
+<ee>https://doi.org/10.1145/3380536.3380538</ee>
+<crossref>conf/ppopp/2020pmam</crossref>
+<url>db/conf/ppopp/pmam2020.html#ChenGM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-06508" mdate="2020-03-17">
+<author pid="231/7680">Ashraf Tahmasbi</author>
+<author pid="231/7664">Ellango Jothimurugesan</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>DriftSurf: A Risk-competitive Learning Algorithm under Concept Drift.</title>
+<year>2020</year>
+<volume>abs/2003.06508</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.06508</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-06508</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/WeiGGX19" mdate="2019-03-28">
+<author pid="124/4315">Jinliang Wei</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>Automating Dependence-Aware Parallelization of Machine Learning Training on Distributed Shared Memory.</title>
+<pages>42:1-42:17</pages>
+<year>2019</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3302424.3303954</ee>
+<crossref>conf/eurosys/2019</crossref>
+<url>db/conf/eurosys/eurosys2019.html#WeiGGX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/NarayananHPSDGG19" mdate="2019-10-21">
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="185/9204">Aaron Harlap</author>
+<author pid="14/877">Amar Phanishayee</author>
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="48/3493">Nikhil R. Devanur</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>PipeDream: generalized pipeline parallelism for DNN training.</title>
+<pages>1-15</pages>
+<year>2019</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3341301.3359646</ee>
+<crossref>conf/sosp/2019</crossref>
+<url>db/conf/sosp/sosp2019.html#NarayananHPSDGG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BeckmannGHM19" mdate="2019-06-19">
+<author pid="42/7272">Nathan Beckmann</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="39/1043">Bernhard Haeupler</author>
+<author pid="173/0272">Charles McGuffey</author>
+<title>Writeback-Aware Caching (Brief Announcement).</title>
+<pages>345-347</pages>
+<year>2019</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/3323165.3323169</ee>
+<crossref>conf/spaa/2019</crossref>
+<url>db/conf/spaa/spaa2019.html#BeckmannGHM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-03257" mdate="2021-01-26">
+<author pid="180/5513">Alexander Ratner</author>
+<author pid="36/3251">Dan Alistarh</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="53/8277">Sarah Bird</author>
+<author pid="145/1806">Nicholas Carlini</author>
+<author pid="14/4826">Bryan Catanzaro</author>
+<author pid="34/6550">Eric Chung</author>
+<author pid="d/WJDally">Bill Dally</author>
+<author pid="d/JeffreyDean">Jeff Dean</author>
+<author pid="d/InderjitSDhillon">Inderjit S. Dhillon</author>
+<author pid="19/5000">Alexandros G. Dimakis</author>
+<author pid="47/4438">Pradeep Dubey</author>
+<author pid="e/CharlesElkan">Charles Elkan</author>
+<author pid="61/2980">Grigori Fursin</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="80/806-3">Song Han 0003</author>
+<author pid="77/1117">Kim M. Hazelwood</author>
+<author pid="72/8513">Furong Huang</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="85/10260">Kevin G. Jamieson</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="36/4111">Rania Khalaf</author>
+<author pid="213/8147">Jason Knight</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="30/4308-1">Arun Kumar 0001</author>
+<author pid="53/9879">Anastasios Kyrillidis</author>
+<author orcid="0000-0001-5139-938X" pid="181/2820-73">Jing Li 0073</author>
+<author pid="m/SamuelMadden">Samuel Madden</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="m/ErikMeijer">Erik Meijer 0001</author>
+<author pid="83/8757">Ioannis Mitliagkas</author>
+<author pid="99/10669">Rajat Monga</author>
+<author pid="82/1824">Derek Gordon Murray</author>
+<author pid="77/344">Dimitris S. Papailiopoulos</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="51/11411">Theodoros Rekatsinas</author>
+<author pid="97/4479">Afshin Rostamizadeh</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="154/6336">Christopher De Sa</author>
+<author pid="66/8332">Hanie Sedghi</author>
+<author pid="58/968">Siddhartha Sen 0001</author>
+<author pid="120/0921">Virginia Smith</author>
+<author pid="s/AlexanderJSmola">Alex Smola</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="136/5765">Evan R. Sparks</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="49/3209">Vivienne Sze</author>
+<author pid="153/2166">Madeleine Udell</author>
+<author pid="85/5045">Joaquin Vanschoren</author>
+<author pid="65/8569">Shivaram Venkataraman</author>
+<author pid="239/4205">Rashmi Vinayak</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="65/10453">Andrew Gordon Wilson</author>
+<author pid="36/3855">Eric P. Xing</author>
+<author pid="36/2133">Matei Zaharia</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="56/5528">Ameet Talwalkar</author>
+<title>SysML: The New Frontier of Machine Learning Systems.</title>
+<year>2019</year>
+<volume>abs/1904.03257</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.03257</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-03257</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00189" mdate="2019-10-04">
+<author pid="173/8396">Kevin Hsieh</author>
+<author pid="14/877">Amar Phanishayee</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>The Non-IID Data Quagmire of Decentralized Machine Learning.</title>
+<year>2019</year>
+<volume>abs/1910.00189</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00189</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00189</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12310" mdate="2019-10-31">
+<author pid="147/3439">Laxman Dhulipala</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="66/10178">Hongbo Kang</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Semi-Asymmetric Parallel Graph Algorithms for NVRAMs.</title>
+<year>2019</year>
+<volume>abs/1910.12310</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12310</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12310</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/Ben-DavidBFG0MS18" mdate="2018-08-08">
+<author pid="165/0765">Naama Ben-David</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Implicit Decomposition for Write-Efficient Connectivity Algorithms.</title>
+<pages>711-722</pages>
+<year>2018</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2018.00081</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2018.00081</ee>
+<crossref>conf/ipps/2018</crossref>
+<url>db/conf/ipps/ipdps2018.html#Ben-DavidBFG0MS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/VijaykumarJMHPE18" mdate="2019-10-19">
+<author pid="163/0027">Nandita Vijaykumar</author>
+<author pid="147/4879">Abhilasha Jain</author>
+<author pid="153/3536">Diptesh Majumdar</author>
+<author orcid="0000-0003-4154-4525" pid="173/8396">Kevin Hsieh</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="85/6918">Eiman Ebrahimi</author>
+<author pid="202/2465">Nastaran Hajinazar</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>A Case for Richer Cross-Layer Abstractions: Bridging the Semantic Gap with Expressive Memory.</title>
+<pages>207-220</pages>
+<year>2018</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2018.00027</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2018.00027</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3276560</ee>
+<crossref>conf/isca/2018</crossref>
+<url>db/conf/isca/isca2018.html#VijaykumarJMHPE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/VijaykumarEHGM18" mdate="2019-10-19">
+<author pid="163/0027">Nandita Vijaykumar</author>
+<author pid="85/6918">Eiman Ebrahimi</author>
+<author orcid="0000-0003-4154-4525" pid="173/8396">Kevin Hsieh</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>The Locality Descriptor: A Holistic Cross-Layer Abstraction to Express Data Locality In GPUs.</title>
+<pages>829-842</pages>
+<year>2018</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2018.00074</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2018.00074</ee>
+<crossref>conf/isca/2018</crossref>
+<url>db/conf/isca/isca2018.html#VijaykumarEHGM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/JothimurugesanT18" mdate="2021-01-21">
+<author pid="231/7664">Ellango Jothimurugesan</author>
+<author pid="231/7680">Ashraf Tahmasbi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<title>Variance-Reduced Stochastic Gradient Descent on Streaming Data.</title>
+<pages>9928-9937</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/cebd648f9146a6345d604ab093b02c73-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8196-variance-reduced-stochastic-gradient-descent-on-streaming-data</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#JothimurugesanT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/HsiehABVBPGM18" mdate="2021-02-02">
+<author orcid="0000-0003-4154-4525" pid="173/8396">Kevin Hsieh</author>
+<author pid="08/5351">Ganesh Ananthanarayanan</author>
+<author pid="b/PeterBodik">Peter Bod&#237;k</author>
+<author pid="65/8569">Shivaram Venkataraman</author>
+<author pid="b/ParamvirBahl">Paramvir Bahl</author>
+<author pid="p/MPhilipose">Matthai Philipose</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Focus: Querying Large Video Datasets with Low Latency and Low Cost.</title>
+<pages>269-286</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/hsieh</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291188</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#HsiehABVBPGM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochG0MS18" mdate="2018-11-21">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="82/9876">Julian Shun</author>
+<title>The Parallel Persistent Memory Model.</title>
+<pages>247-258</pages>
+<year>2018</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/3210377.3210381</ee>
+<crossref>conf/spaa/2018</crossref>
+<url>db/conf/spaa/spaa2018.html#BlellochG0MS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/HarlapCTGG18" mdate="2021-02-01">
+<author pid="185/9204">Aaron Harlap</author>
+<author pid="59/11411">Andrew Chung</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Tributary: spot-dancing for elastic services with latency SLOs.</title>
+<pages>1-14</pages>
+<year>2018</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc18/presentation/harlap</ee>
+<crossref>conf/usenix/2018</crossref>
+<url>db/conf/usenix/usenix2018.html#HarlapCTGG18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gibbons18" mdate="2019-02-14">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Data Storage and Indexing in Sensor Networks.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_112</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#Gibbons18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gibbons18a" mdate="2019-02-14">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>FM Synopsis.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_164</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/f2.html#Gibbons18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gibbons18b" mdate="2019-02-14">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Synopsis Structure.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_383</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#Gibbons18b</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-03493" mdate="2018-08-13">
+<author pid="173/8396">Kevin Hsieh</author>
+<author pid="08/5351">Ganesh Ananthanarayanan</author>
+<author pid="b/PeterBodik">Peter Bod&#237;k</author>
+<author pid="b/ParamvirBahl">Paramvir Bahl</author>
+<author pid="p/MPhilipose">Matthai Philipose</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Focus: Querying Large Video Datasets with Low Latency and Low Cost.</title>
+<year>2018</year>
+<volume>abs/1801.03493</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.03493</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-03493</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02573" mdate="2018-08-13">
+<author pid="163/0027">Nandita Vijaykumar</author>
+<author pid="173/8396">Kevin Hsieh</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="01/9032">Samira Manabi Khan</author>
+<author pid="59/7652">Ashish Shrestha</author>
+<author pid="94/7357">Saugata Ghose</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Zorua: Enhancing Programming Ease, Portability, and Performance in GPUs by Decoupling Programming Models from Resource Management.</title>
+<year>2018</year>
+<volume>abs/1802.02573</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02573</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02573</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-07445" mdate="2018-08-13">
+<author pid="96/10608">Henggang Cui</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>MLtuner: System Support for Automatic Machine Learning Tuning.</title>
+<year>2018</year>
+<volume>abs/1803.07445</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.07445</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-07445</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-02498" mdate="2018-08-13">
+<author pid="163/0027">Nandita Vijaykumar</author>
+<author pid="173/8396">Kevin Hsieh</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="01/9032">Samira Manabi Khan</author>
+<author pid="59/7652">Ashish Shrestha</author>
+<author pid="94/7357">Saugata Ghose</author>
+<author pid="64/11467">Adwait Jog</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Decoupling GPU Programming Models from Resource Management for Enhanced Programming Ease, Portability, and Performance.</title>
+<year>2018</year>
+<volume>abs/1805.02498</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.02498</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-02498</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-03502" mdate="2018-08-13">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="70/4287">Yoongu Kim</author>
+<author pid="56/9226">Chris Fallin</author>
+<author pid="00/10253">Donghyuk Lee</author>
+<author pid="117/0573">Rachata Ausavarungnirun</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="47/11029">Yixin Luo</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>RowClone: Accelerating Data Movement and Initialization Using DRAM.</title>
+<year>2018</year>
+<volume>abs/1805.03502</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.03502</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-03502</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-05580" mdate="2018-08-13">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="82/9876">Julian Shun</author>
+<title>The Parallel Persistent Memory Model.</title>
+<year>2018</year>
+<volume>abs/1805.05580</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.05580</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-05580</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-03377" mdate="2018-08-13">
+<author pid="185/9204">Aaron Harlap</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="14/877">Amar Phanishayee</author>
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="48/3493">Nikhil R. Devanur</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>PipeDream: Fast and Efficient Pipeline Parallel DNN Training.</title>
+<year>2018</year>
+<volume>abs/1806.03377</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.03377</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-03377</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/HarlapTCGG17" mdate="2018-11-06">
+<author pid="185/9204">Aaron Harlap</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="59/11411">Andrew Chung</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Proteus: agile ML elasticity through tiered reliability in dynamic resource markets.</title>
+<pages>589-604</pages>
+<year>2017</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3064176.3064182</ee>
+<crossref>conf/eurosys/2017</crossref>
+<url>db/conf/eurosys/eurosys2017.html#HarlapTCGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/giots/SatyanarayananG17" mdate="2017-12-07">
+<author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/LilyBMummert">Lily B. Mummert</author>
+<author pid="36/6668">Padmanabhan Pillai</author>
+<author pid="10/3654">Pieter Simoens</author>
+<author pid="57/3775">Rahul Sukthankar</author>
+<title>Cloudlet-based just-in-time indexing of IoT video.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>GIoTS</booktitle>
+<ee>https://doi.org/10.1109/GIOTS.2017.8016212</ee>
+<crossref>conf/giots/2017</crossref>
+<url>db/conf/giots/giots2017.html#SatyanarayananG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/BlellochGS17" mdate="2018-02-19">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<title>Provably Efficient Scheduling of Dynamically Allocating Programs on Parallel Cache Hierarchies.</title>
+<pages>124-133</pages>
+<year>2017</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HiPC.2017.00023</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HiPC.2017.00023</ee>
+<crossref>conf/hipc/2017</crossref>
+<url>db/conf/hipc/hipc2017.html#BlellochGS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/SeshadriLMHBKKM17" mdate="2020-07-25">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="00/10253">Donghyuk Lee</author>
+<author pid="173/9809">Thomas Mullins</author>
+<author pid="147/4013">Hasan Hassan</author>
+<author pid="142/2069">Amirali Boroumand</author>
+<author pid="148/9733">Jeremie S. Kim</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Ambit: in-memory accelerator for bulk bitwise operations using commodity DRAM technology.</title>
+<pages>273-287</pages>
+<year>2017</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/3123939.3124544</ee>
+<ee>http://ieeexplore.ieee.org/document/8686556</ee>
+<crossref>conf/micro/2017</crossref>
+<url>db/conf/micro/micro2017.html#SeshadriLMHBKKM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/HsiehHVKGGM17" mdate="2021-02-02">
+<author orcid="0000-0003-4154-4525" pid="173/8396">Kevin Hsieh</author>
+<author pid="185/9204">Aaron Harlap</author>
+<author pid="163/0027">Nandita Vijaykumar</author>
+<author pid="197/7164">Dimitris Konomis</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds.</title>
+<pages>629-647</pages>
+<year>2017</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/hsieh</ee>
+<crossref>conf/nsdi/2017</crossref>
+<url>db/conf/nsdi/nsdi2017.html#HsiehHVKGGM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-02637" mdate="2018-08-13">
+<author pid="165/0765">Naama Ben-David</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Implicit Decomposition for Write-Efficient Connectivity Algorithms.</title>
+<year>2017</year>
+<volume>abs/1710.02637</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.02637</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-02637</url>
+</article>
+</r>
+<r><article key="journals/topc/SimhadriBFGK16" mdate="2020-04-25">
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="42/8263">Aapo Kyrola</author>
+<title>Experimental Analysis of Space-Bounded Schedulers.</title>
+<pages>8:1-8:27</pages>
+<year>2016</year>
+<volume>3</volume>
+<journal>ACM Trans. Parallel Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2938389</ee>
+<url>db/journals/topc/topc3.html#SimhadriBFGK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/HarlapCDWGGGX16" mdate="2018-11-06">
+<author pid="185/9204">Aaron Harlap</author>
+<author pid="96/10608">Henggang Cui</author>
+<author pid="76/2897-3">Wei Dai 0003</author>
+<author pid="124/4315">Jinliang Wei</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>Addressing the straggler problem for iterative convergent parallel ML.</title>
+<pages>98-111</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987554</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#HarlapCDWGGGX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/BlellochFG0S16" mdate="2020-12-29">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0002-4392-4022" pid="61/2029-1">Yan Gu 0001</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Efficient Algorithms with Asymmetric Read and Write Costs.</title>
+<pages>14:1-14:18</pages>
+<year>2016</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2016.14</ee>
+<crossref>conf/esa/2016</crossref>
+<url>db/conf/esa/esa2016.html#BlellochFG0S16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/CuiZGGX16" mdate="2018-12-12">
+<author pid="96/10608">Henggang Cui</author>
+<author pid="55/2270-25">Hao Zhang 0025</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>GeePS: scalable deep learning on distributed GPUs with a GPU-specialized parameter server.</title>
+<pages>4:1-4:16</pages>
+<year>2016</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/2901318.2901323</ee>
+<crossref>conf/eurosys/2016</crossref>
+<url>db/conf/eurosys/eurosys2016.html#CuiZGGX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/VijaykumarHPKSG16" mdate="2019-10-19">
+<author pid="163/0027">Nandita Vijaykumar</author>
+<author orcid="0000-0003-4154-4525" pid="173/8396">Kevin Hsieh</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="01/9032">Samira Manabi Khan</author>
+<author pid="59/7652">Ashish Shrestha</author>
+<author pid="94/7357">Saugata Ghose</author>
+<author pid="64/11467">Adwait Jog</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Zorua: A holistic approach to resource virtualization in GPUs.</title>
+<pages>15:1-15:14</pages>
+<year>2016</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2016.7783718</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICRO.2016.7783718</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3195656</ee>
+<crossref>conf/micro/2016</crossref>
+<url>db/conf/micro/micro2016.html#VijaykumarHPKSG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/Gibbons16" mdate="2018-11-06">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>How Emerging Memory Technologies Will Have You Rethinking Algorithm Design.</title>
+<pages>303</pages>
+<year>2016</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/2933057.2933124</ee>
+<crossref>conf/podc/2016</crossref>
+<url>db/conf/podc/podc2016.html#Gibbons16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/Ben-DavidBFG0MS16" mdate="2020-12-29">
+<author pid="165/0765">Naama Ben-David</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0002-4392-4022" pid="61/2029-1">Yan Gu 0001</author>
+<author pid="173/0272">Charles McGuffey</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Parallel Algorithms for Asymmetric Read-Write Costs.</title>
+<pages>145-156</pages>
+<year>2016</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2935764.2935767</ee>
+<crossref>conf/spaa/2016</crossref>
+<url>db/conf/spaa/spaa2016.html#Ben-DavidBFG0MS16</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/16/Gibbons16" mdate="2017-05-16">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Distinct-Values Estimation over Data Streams.</title>
+<pages>121-147</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_6</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#Gibbons16</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/BlellochFG0S16" mdate="2018-08-13">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Sorting with Asymmetric Read and Write Costs.</title>
+<year>2016</year>
+<volume>abs/1603.03505</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.03505</ee>
+<url>db/journals/corr/corr1603.html#BlellochFG0S16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SeshadriLMHBKKM16" mdate="2020-07-25">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="00/10253">Donghyuk Lee</author>
+<author pid="173/9809">Thomas Mullins</author>
+<author pid="147/4013">Hasan Hassan</author>
+<author pid="142/2069">Amirali Boroumand</author>
+<author pid="148/9733">Jeremie S. Kim</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Buddy-RAM: Improving the Performance and Efficiency of Bulk Bitwise Operations Using DRAM.</title>
+<year>2016</year>
+<volume>abs/1611.09988</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.09988</ee>
+<url>db/journals/corr/corr1611.html#SeshadriLMHBKKM16</url>
+</article>
+</r>
+<r><article key="journals/cal/SeshadriHBLKMGM15" mdate="2020-03-15">
+<author pid="117/0561">Vivek Seshadri</author>
+<author orcid="0000-0003-4154-4525" pid="173/8396">Kevin Hsieh</author>
+<author pid="142/2069">Amirali Boroumand</author>
+<author pid="00/10253">Donghyuk Lee</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Fast Bulk Bitwise AND and OR in DRAM.</title>
+<pages>127-131</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LCA.2015.2434872</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LCA.2015.2434872</ee>
+<url>db/journals/cal/cal14.html#SeshadriHBLKMGM15</url>
+</article>
+</r>
+<r><article key="journals/tods/AthanassoulisCA15" mdate="2018-11-06">
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>Online Updates on Data Warehouses via Judicious Use of Solid-State Storage.</title>
+<pages>6:1-6:42</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2699484</ee>
+<url>db/journals/tods/tods40.html#AthanassoulisCA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/GoodsteinGKM15" mdate="2017-05-22">
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Tracking and Reducing Uncertainty in Dataflow Analysis-Based Dynamic Parallel Monitoring.</title>
+<pages>266-279</pages>
+<year>2015</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.2015.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PACT.2015.20</ee>
+<crossref>conf/IEEEpact/2015</crossref>
+<url>db/conf/IEEEpact/pact2015.html#GoodsteinGKM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/LiSMHLHG15" mdate="2021-03-31">
+<author pid="76/6876">Chung-Yi Li</author>
+<author pid="123/5121">Wei-Lun Su</author>
+<author pid="173/9060">Todd G. McKenzie</author>
+<author pid="164/1831">Fu-Chun Hsu</author>
+<author orcid="0000-0001-9970-1250" pid="60/7120">Shou-De Lin</author>
+<author pid="55/866">Jane Yung-jen Hsu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Recommending missing sensor values.</title>
+<pages>381-390</pages>
+<year>2015</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2015.7363779</ee>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#LiSMHLHG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/HsuKYLG15" mdate="2021-03-31">
+<author pid="82/11150">Chin-Chi Hsu</author>
+<author pid="130/0306">Perng-Hwa Kung</author>
+<author pid="43/2669">Mi-Yen Yeh</author>
+<author orcid="0000-0001-9970-1250" pid="60/7120">Shou-De Lin</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Bandwidth-efficient distributed k-nearest-neighbor search with dynamic time warping.</title>
+<pages>551-560</pages>
+<year>2015</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2015.7363799</ee>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#HsuKYLG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/WeiDQHCGGGX15" mdate="2018-11-06">
+<author pid="124/4315">Jinliang Wei</author>
+<author pid="76/2897-3">Wei Dai 0003</author>
+<author pid="141/2530">Aurick Qiao</author>
+<author pid="13/7590">Qirong Ho</author>
+<author pid="96/10608">Henggang Cui</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>Managed communication and consistency for fast data-parallel iterative analytics.</title>
+<pages>381-394</pages>
+<year>2015</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2806777.2806778</ee>
+<crossref>conf/cloud/2015</crossref>
+<url>db/conf/cloud/socc2015.html#WeiDQHCGGGX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsaa/0002LYGE15" mdate="2019-02-15">
+<author pid="98/627-2">Han Xiao 0002</author>
+<author orcid="0000-0001-9970-1250" pid="60/7120">Shou-De Lin</author>
+<author pid="43/2669">Mi-Yen Yeh</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="e/ClaudiaEckert">Claudia Eckert 0001</author>
+<title>Learning better while sending less: Communication-efficient online semi-supervised learning in client-server settings.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA.2015.7344833</ee>
+<crossref>conf/dsaa/2015</crossref>
+<url>db/conf/dsaa/dsaa2015.html#0002LYGE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/PekhimenkoHCMGK15" mdate="2017-05-19">
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="160/0664">Tyler Huberty</author>
+<author pid="83/462">Rui Cai</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Exploiting compressed block size as an indicator of future reuse.</title>
+<pages>51-63</pages>
+<year>2015</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2015.7056021</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HPCA.2015.7056021</ee>
+<crossref>conf/hpca/2015</crossref>
+<url>db/conf/hpca/hpca2015.html#PekhimenkoHCMGK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/Gibbons15" mdate="2017-05-24">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Big data: Scale down, scale up, scale out.</title>
+<pages>3</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2015.123</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2015.123</ee>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#Gibbons15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/SeshadriPRMGKMC15" mdate="2018-11-06">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="99/2941">Trishul M. Chilimbi</author>
+<title>Page overlays: an enhanced virtual memory framework to enable fine-grained memory management.</title>
+<pages>79-91</pages>
+<year>2015</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/2749469.2750379</ee>
+<crossref>conf/isca/2015</crossref>
+<url>db/conf/isca/isca2015.html#SeshadriPRMGKMC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/Gibbons15" mdate="2017-05-26">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Living on the Edge with Only Clouds to Fall Back on.</title>
+<pages>3</pages>
+<year>2015</year>
+<booktitle>MDM (1)</booktitle>
+<ee>https://doi.org/10.1109/MDM.2015.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDM.2015.57</ee>
+<crossref>conf/mdm/2015-1</crossref>
+<url>db/conf/mdm/mdm2015-1.html#Gibbons15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/SeshadriMBMGKM15" mdate="2018-11-06">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="173/9809">Thomas Mullins</author>
+<author pid="142/2069">Amirali Boroumand</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Gather-scatter DRAM: in-DRAM address translation to improve the spatial locality of non-unit strided accesses.</title>
+<pages>267-280</pages>
+<year>2015</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/2830772.2830820</ee>
+<ee>http://ieeexplore.ieee.org/document/7856604/</ee>
+<crossref>conf/micro/2015</crossref>
+<url>db/conf/micro/micro2015.html#SeshadriMBMGKM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/ShunGBFG15" mdate="2021-02-02">
+<author pid="82/9876">Julian Shun</author>
+<author orcid="0000-0002-4392-4022" pid="61/2029-1">Yan Gu 0001</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Sequential Random Permutation, List Contraction and Tree Contraction are Highly Parallel.</title>
+<pages>431-448</pages>
+<year>2015</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973730.30</ee>
+<crossref>conf/soda/2015</crossref>
+<url>db/conf/soda/soda2015.html#ShunGBFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochFGGS15" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0002-4392-4022" pid="61/2029-1">Yan Gu 0001</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Sorting with Asymmetric Read and Write Costs.</title>
+<pages>1-12</pages>
+<year>2015</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2755573.2755604</ee>
+<crossref>conf/spaa/2015</crossref>
+<url>db/conf/spaa/spaa2015.html#BlellochFGGS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BlellochFG0S15" mdate="2018-08-13">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="61/2029-1">Yan Gu 0001</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Efficient Algorithms under Asymmetric Read and Write Costs.</title>
+<year>2015</year>
+<volume>abs/1511.01038</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.01038</ee>
+<url>db/journals/corr/corr1511.html#BlellochFG0S15</url>
+</article>
+</r>
+<r><article key="journals/jacm/ChenYZG14" mdate="2018-11-06">
+<author pid="38/8396">Binbin Chen</author>
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="90/8397">Yuda Zhao</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>The Cost of Fault Tolerance in Multi-Party Communication Complexity.</title>
+<pages>19:1-19:64</pages>
+<year>2014</year>
+<volume>61</volume>
+<journal>J. ACM</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2597633</ee>
+<url>db/journals/jacm/jacm61.html#ChenYZG14</url>
+</article>
+</r>
+<r><article key="journals/taco/SeshadriYXMGKM14" mdate="2021-02-17">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="130/8995">Samihan Yedkar</author>
+<author pid="26/11030">Hongyi Xin</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Mitigating Prefetcher-Caused Pollution Using Informed Caching Policies for Prefetched Blocks.</title>
+<pages>51:1-51:22</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/2677956</ee>
+<url>db/journals/taco/taco11.html#SeshadriYXMGKM14</url>
+</article>
+</r>
+<r><article key="journals/topc/Gibbons14" mdate="2020-04-25">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>ACM transactions on parallel computing: An introduction.</title>
+<pages>1:1-1:2</pages>
+<year>2014</year>
+<volume>1</volume>
+<journal>ACM Trans. Parallel Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2661651</ee>
+<url>db/journals/topc/topc1.html#Gibbons14</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/RuwaseKGM14" mdate="2018-11-06">
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Guardrail: a high fidelity approach to protecting hardware devices from buggy drivers.</title>
+<pages>655-670</pages>
+<year>2014</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/2541940.2541970</ee>
+<crossref>conf/asplos/2014</crossref>
+<url>db/conf/asplos/asplos2014.html#RuwaseKGM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/CuiTWXDHHGGGX14" mdate="2018-11-06">
+<author pid="96/10608">Henggang Cui</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="124/4315">Jinliang Wei</author>
+<author pid="68/2865">Lianghong Xu</author>
+<author pid="76/2897-3">Wei Dai 0003</author>
+<author pid="137/0121">Jesse Haber-Kucharsky</author>
+<author pid="13/7590">Qirong Ho</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0002-6656-7080" pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>Exploiting iterative-ness for parallel ML computations.</title>
+<pages>5:1-5:14</pages>
+<year>2014</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2670979.2670984</ee>
+<crossref>conf/cloud/2014</crossref>
+<url>db/conf/cloud/socc2014.html#CuiTWXDHHGGGX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/SeshadriBMGKM14" mdate="2017-05-23">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="59/313-2">Abhishek Bhowmick 0002</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>The Dirty-Block Index.</title>
+<pages>157-168</pages>
+<year>2014</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2014.6853204</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2014.6853204</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2665697</ee>
+<crossref>conf/isca/2014</crossref>
+<url>db/conf/isca/isca2014.html#SeshadriBMGKM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/SimhadriBFGK14" mdate="2018-11-06">
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="42/8263">Aapo Kyrola</author>
+<title>Experimental analysis of space-bounded schedulers.</title>
+<pages>30-41</pages>
+<year>2014</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2612669.2612678</ee>
+<crossref>conf/spaa/2014</crossref>
+<url>db/conf/spaa/spaa2014.html#SimhadriBFGK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/CuiCHKLKWDGGGX14" mdate="2021-02-01">
+<author pid="96/10608">Henggang Cui</author>
+<author pid="34/1302">James Cipar</author>
+<author pid="13/7590">Qirong Ho</author>
+<author pid="72/3322">Jin Kyu Kim</author>
+<author pid="22/4961">Seunghak Lee</author>
+<author pid="42/7480">Abhimanu Kumar</author>
+<author pid="124/4315">Jinliang Wei</author>
+<author pid="76/2897-3">Wei Dai 0003</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>Exploiting Bounded Staleness to Speed Up Big Data Analytics.</title>
+<pages>37-48</pages>
+<year>2014</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc14/technical-sessions/presentation/cui</ee>
+<crossref>conf/usenix/2014</crossref>
+<url>db/conf/usenix/usenix2014.html#CuiCHKLKWDGGGX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/DingGKS14" mdate="2021-02-01">
+<author pid="36/679">Xiaoning Ding</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="74/8875">Jianchen Shan</author>
+<title>Gleaner: Mitigating the Blocked-Waiter Wakeup Problem for Virtualized Multicore Applications.</title>
+<pages>73-84</pages>
+<year>2014</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc14/technical-sessions/presentation/ding</ee>
+<crossref>conf/usenix/2014</crossref>
+<url>db/conf/usenix/usenix2014.html#DingGKS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vcip/OuLWCLYLGSC14" mdate="2017-06-05">
+<author pid="127/0434">Shun-Hsing Ou</author>
+<author pid="140/9589">Yu-Chen Lu</author>
+<author pid="118/5975">Jui-Pin Wang</author>
+<author orcid="0000-0002-0634-6294" pid="99/4773">Shao-Yi Chien</author>
+<author orcid="0000-0001-9970-1250" pid="60/7120">Shou-De Lin</author>
+<author pid="159/3890">Mi-Yen Yeti</author>
+<author pid="53/5898">Chia-Han Lee</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="83/11061">V. Srinivasa Somayazulu</author>
+<author pid="44/4065">Yen-Kuang Chen</author>
+<title>Communication-efficient multi-view keyframe extraction in distributed video sensors.</title>
+<pages>13-16</pages>
+<year>2014</year>
+<booktitle>VCIP</booktitle>
+<ee>https://doi.org/10.1109/VCIP.2014.7051492</ee>
+<crossref>conf/vcip/2014</crossref>
+<url>db/conf/vcip/vcip2014.html#OuLWCLYLGSC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotcloud/DingGK13" mdate="2021-02-09">
+<author pid="36/679">Xiaoning Ding</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<title>A Hidden Cost of Virtualization When Scaling Multicore Applications.</title>
+<year>2013</year>
+<booktitle>HotCloud</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotcloud13/workshop-program/presentations/ding</ee>
+<crossref>conf/hotcloud/2013</crossref>
+<url>db/conf/hotcloud/hotcloud2013.html#DingGK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/WangLYLG13" mdate="2017-06-04">
+<author pid="118/5975">Jui-Pin Wang</author>
+<author pid="140/9589">Yu-Chen Lu</author>
+<author pid="43/2669">Mi-Yen Yeh</author>
+<author orcid="0000-0001-9970-1250" pid="60/7120">Shou-De Lin</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Communication-Efficient Distributed Multiple Reference Pattern Matching for M2M Systems.</title>
+<pages>787-796</pages>
+<year>2013</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2013.161</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2013.161</ee>
+<crossref>conf/icdm/2013</crossref>
+<url>db/conf/icdm/icdm2013.html#WangLYLG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/PekhimenkoSKXMGKM13" mdate="2018-11-06">
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="70/4287">Yoongu Kim</author>
+<author pid="26/11030">Hongyi Xin</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Linearly compressed pages: a low-complexity, low-latency main memory compression framework.</title>
+<pages>172-184</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/2540708.2540724</ee>
+<ee>http://ieeexplore.ieee.org/document/7847624/</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#PekhimenkoSKXMGKM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/SeshadriKFLAPLMGKM13" mdate="2018-11-06">
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="70/4287">Yoongu Kim</author>
+<author pid="56/9226">Chris Fallin</author>
+<author pid="00/10253">Donghyuk Lee</author>
+<author pid="117/0573">Rachata Ausavarungnirun</author>
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="47/11029">Yixin Luo</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>RowClone: fast and energy-efficient in-DRAM bulk data copy and initialization.</title>
+<pages>185-197</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/2540708.2540725</ee>
+<ee>http://ieeexplore.ieee.org/document/7847625/</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SeshadriKFLAPLMGKM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HoCCLKGGGX13" mdate="2021-01-21">
+<author pid="13/7590">Qirong Ho</author>
+<author pid="34/1302">James Cipar</author>
+<author pid="96/10608">Henggang Cui</author>
+<author pid="22/4961">Seunghak Lee</author>
+<author pid="72/3322">Jin Kyu Kim</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/GarthAGibson">Garth A. Gibson</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="36/3855">Eric P. Xing</author>
+<title>More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server.</title>
+<pages>1223-1231</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/b7bb35b9c6ca2aee2df08cf09d7016c2-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4894-more-effective-distributed-ml-via-a-stale-synchronous-parallel-parameter-server</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#HoCCLKGGGX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BlellochFGS13" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<title>Program-centric cost models for locality.</title>
+<pages>6:1-6:2</pages>
+<year>2013</year>
+<booktitle>MSPC@PLDI</booktitle>
+<ee>https://doi.org/10.1145/2492408.2492417</ee>
+<crossref>conf/pldi/2013mspc</crossref>
+<url>db/conf/pldi/mspc2013.html#BlellochFGS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/ShunBFG13" mdate="2018-11-06">
+<author pid="82/9876">Julian Shun</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Reducing contention through priority updates.</title>
+<pages>299-300</pages>
+<year>2013</year>
+<booktitle>PPOPP</booktitle>
+<ee>https://doi.org/10.1145/2442516.2442554</ee>
+<crossref>conf/ppopp/2013</crossref>
+<url>db/conf/ppopp/ppopp2013.html#ShunBFG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/ShunBFG13" mdate="2018-11-06">
+<author pid="82/9876">Julian Shun</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Reducing contention through priority updates.</title>
+<pages>152-163</pages>
+<year>2013</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2486159.2486189</ee>
+<crossref>conf/spaa/2013</crossref>
+<url>db/conf/spaa/spaa2013.html#ShunBFG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/GoodsteinCGKM12" mdate="2018-11-06">
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Chrysalis analysis: incorporating synchronization arcs in dataflow-analysis-based parallel monitoring.</title>
+<pages>201-212</pages>
+<year>2012</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1145/2370816.2370847</ee>
+<ee>http://ieeexplore.ieee.org/document/7842933/</ee>
+<crossref>conf/IEEEpact/2012</crossref>
+<url>db/conf/IEEEpact/pact2012.html#GoodsteinCGKM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/PekhimenkoSMGKM12" mdate="2018-11-06">
+<author pid="118/8979">Gennady Pekhimenko</author>
+<author pid="117/0561">Vivek Seshadri</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Base-delta-immediate compression: practical data compression for on-chip caches.</title>
+<pages>377-388</pages>
+<year>2012</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1145/2370816.2370870</ee>
+<ee>http://ieeexplore.ieee.org/document/7842950/</ee>
+<crossref>conf/IEEEpact/2012</crossref>
+<url>db/conf/IEEEpact/pact2012.html#PekhimenkoSMGKM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/YuGS12" mdate="2020-11-10">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="78/7397">Chenwei Shi</author>
+<title>DCast: sustaining collaboration in overlay multicast despite rational collusion.</title>
+<pages>567-580</pages>
+<year>2012</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2382196.2382256</ee>
+<crossref>conf/ccs/2012</crossref>
+<url>db/conf/ccs/ccs2012.html#YuGS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/DingWGZ12" mdate="2018-11-06">
+<author pid="36/679">Xiaoning Ding</author>
+<author pid="53/2141">Kaibo Wang</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="37/4356-1">Xiaodong Zhang 0001</author>
+<title>BWS: balanced work stealing for time-sharing multicores.</title>
+<pages>365-378</pages>
+<year>2012</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/2168836.2168873</ee>
+<crossref>conf/eurosys/2012</crossref>
+<url>db/conf/eurosys/eurosys2012.html#DingWGZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/ChenYZG12" mdate="2018-11-06">
+<author pid="38/8396">Binbin Chen</author>
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="90/8397">Yuda Zhao</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>The cost of fault tolerance in multi-party communication complexity.</title>
+<pages>57-66</pages>
+<year>2012</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/2332432.2332442</ee>
+<crossref>conf/podc/2012</crossref>
+<url>db/conf/podc/podc2012.html#ChenYZG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/BlellochFGS12" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="82/9876">Julian Shun</author>
+<title>Internally deterministic parallel algorithms can be fast.</title>
+<pages>181-192</pages>
+<year>2012</year>
+<booktitle>PPOPP</booktitle>
+<ee>https://doi.org/10.1145/2145816.2145840</ee>
+<crossref>conf/ppopp/2012</crossref>
+<url>db/conf/ppopp/ppopp2012.html#BlellochFGS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/ShunBFGKST12" mdate="2018-11-06">
+<author pid="82/9876">Julian Shun</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="42/8263">Aapo Kyrola</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<author pid="64/4316">Kanat Tangwongsan</author>
+<title>Brief announcement: the problem based benchmark suite.</title>
+<pages>68-70</pages>
+<year>2012</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2312005.2312018</ee>
+<crossref>conf/spaa/2012</crossref>
+<url>db/conf/spaa/spaa2012.html#ShunBFGKST12</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/ChenGKM11" mdate="2020-07-14">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Log-based architectures: using multicore to help software behave correctly.</title>
+<pages>84-91</pages>
+<year>2011</year>
+<volume>45</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1945023.1945034</ee>
+<url>db/journals/sigops/sigops45.html#ChenGKM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ChenGN11" mdate="2020-03-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="85/6293">Suman Nath</author>
+<title>Rethinking Database Algorithms for Phase Change Memory.</title>
+<pages>21-31</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper3.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#ChenGN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/YuGS11" mdate="2018-11-06">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="78/7397">Chenwei Shi</author>
+<title>Sustaining collaboration in multicast despite rational collusion.</title>
+<pages>337-338</pages>
+<year>2011</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/1993806.1993872</ee>
+<crossref>conf/podc/2011</crossref>
+<url>db/conf/podc/podc2011.html#YuGS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AthanassoulisCAGS11" mdate="2018-11-06">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>MaSM: efficient online updates in data warehouses.</title>
+<pages>865-876</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989414</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#AthanassoulisCAGS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochFGS11" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="37/2868">Jeremy T. Fineman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<title>Scheduling irregular parallel computations on hierarchical caches.</title>
+<pages>355-366</pages>
+<year>2011</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1989493.1989553</ee>
+<crossref>conf/spaa/2011</crossref>
+<url>db/conf/spaa/spaa2011.html#BlellochFGS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/AthanassoulisACGS10" mdate="2020-03-10">
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>Flash in a DBMS: Where and How?</title>
+<pages>28-34</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A10dec/athanassoulis.pdf</ee>
+<url>db/journals/debu/debu33.html#AthanassoulisACGS10</url>
+</article>
+</r>
+<r><article key="journals/jfp/SpoonhowerBHG08" mdate="2019-02-22">
+<author pid="51/4877">Daniel Spoonhower</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="h/RobertHarper">Robert Harper 0001</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Space profiling for parallel functional programs.</title>
+<pages>417-461</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>J. Funct. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S0956796810000146</ee>
+<url>db/journals/jfp/jfp20.html#SpoonhowerBHG08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ChenAAGJPS10" mdate="2020-03-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>TPC-E vs. TPC-C: characterizing the new TPC-E benchmark via an I/O comparison study.</title>
+<pages>5-10</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1942776.1942778</ee>
+<url>db/journals/sigmod/sigmod39.html#ChenAAGJPS10</url>
+</article>
+</r>
+<r><article key="journals/ton/YuGKX10" mdate="2017-05-27">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="71/1116">Feng Xiao</author>
+<title>SybilLimit: A Near-Optimal Social Network Defense Against Sybil Attacks.</title>
+<pages>885-898</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNET.2009.2034047</ee>
+<url>db/journals/ton/ton18.html#YuGKX10</url>
+</article>
+</r>
+<r><article key="journals/vldb/NathG10" mdate="2017-05-28">
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Online maintenance of very large random samples on flash storage.</title>
+<pages>67-90</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-009-0164-z</ee>
+<url>db/journals/vldb/vldb19.html#NathG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/GoodsteinVCGKM10" mdate="2018-11-06">
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="22/6647">Evangelos Vlachos</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Butterfly analysis: adapting dataflow analysis to dynamic parallel monitoring.</title>
+<pages>257-270</pages>
+<year>2010</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1736020.1736050</ee>
+<crossref>conf/asplos/2010</crossref>
+<url>db/conf/asplos/asplos2010.html#GoodsteinVCGKM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/VlachosGKCFGM10" mdate="2018-11-06">
+<author pid="22/6647">Evangelos Vlachos</author>
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>ParaLog: enabling and accelerating online parallel monitoring of multithreaded applications.</title>
+<pages>271-284</pages>
+<year>2010</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1736020.1736051</ee>
+<crossref>conf/asplos/2010</crossref>
+<url>db/conf/asplos/asplos2010.html#VlachosGKCFGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/RuwaseCGM10" mdate="2018-11-06">
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Decoupled lifeguards: enabling path optimizations for dynamic correctness checking tools.</title>
+<pages>25-35</pages>
+<year>2010</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/1806596.1806600</ee>
+<crossref>conf/pldi/2010</crossref>
+<url>db/conf/pldi/pldi2010.html#RuwaseCGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenGN10" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="85/6293">Suman Nath</author>
+<title>PR-join: a non-blocking join achieving higher early result rate with statistical guarantees.</title>
+<pages>147-158</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807186</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#ChenGN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochGS10" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<title>Low depth cache-oblivious algorithms.</title>
+<pages>189-199</pages>
+<year>2010</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1810479.1810519</ee>
+<crossref>conf/spaa/2010</crossref>
+<url>db/conf/spaa/spaa2010.html#BlellochGS10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mobide/2010" mdate="2020-03-10">
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="z/DemetriosZeinalipourYazti">Demetrios Zeinalipour-Yazti</editor>
+<editor pid="l/HuiLei">Hui Lei 0001</editor>
+<editor pid="85/6293">Suman Nath</editor>
+<title>Ninth ACM International Workshop on Data Engineering for Wireless and Mobile Access, Mobide 2010, June 6, 2010, Indianapolis, Indiana, USA, Proceedings</title>
+<booktitle>MobiDE</booktitle>
+<publisher>ACM</publisher>
+<year>2010</year>
+<url>db/conf/mobide/mobide2010.html</url>
+<isbn>978-1-4503-0151-0</isbn>
+</proceedings>
+</r>
+<r><article key="journals/dc/YuG09" mdate="2020-03-13">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Optimal inter-object correlation when replicating for availability.</title>
+<pages>367-384</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Distributed Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00446-008-0072-2</ee>
+<url>db/journals/dc/dc21.html#YuG09</url>
+</article>
+</r>
+<r><article key="journals/micro/ChenKGRSMRVFR09" mdate="2017-05-20">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="11/5668">Michael P. Ryan</author>
+<author pid="15/5184">Theodoros Strigkos</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="22/6647">Evangelos Vlachos</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Flexible Hardware Acceleration for Instruction-Grain Lifeguards.</title>
+<pages>62-72</pages>
+<year>2009</year>
+<volume>29</volume>
+<journal>IEEE Micro</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MM.2009.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2009.6</ee>
+<url>db/journals/micro/micro29.html#ChenKGRSMRVFR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/sp/YuSKGX09" mdate="2017-05-26">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="78/7397">Chenwei Shi</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="71/1116">Feng Xiao</author>
+<title>DSybil: Optimal Sybil-Resistance for Recommendation Systems.</title>
+<pages>283-298</pages>
+<year>2009</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2009.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SP.2009.26</ee>
+<crossref>conf/sp/2009</crossref>
+<url>db/conf/sp/sp2009.html#YuSKGX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/SpoonhowerBGH09" mdate="2018-11-06">
+<author pid="51/4877">Daniel Spoonhower</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="h/RobertHarper">Robert Harper 0001</author>
+<title>Beyond nested parallelism: tight bounds on work-stealing overheads for parallel futures.</title>
+<pages>91-100</pages>
+<year>2009</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1583991.1584019</ee>
+<crossref>conf/spaa/2009</crossref>
+<url>db/conf/spaa/spaa2009.html#SpoonhowerBGH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochGS09" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<title>Brief announcement: low depth cache-oblivious sorting.</title>
+<pages>121-123</pages>
+<year>2009</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1583991.1584024</ee>
+<crossref>conf/spaa/2009</crossref>
+<url>db/conf/spaa/spaa2009.html#BlellochGS09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gibbons09" mdate="2017-07-12">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Data Storage and Indexing in Sensor Networks.</title>
+<pages>635-638</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_112</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#Gibbons09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gibbons09a" mdate="2017-07-12">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>FM Synopsis.</title>
+<pages>1143-1147</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_164</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/f.html#Gibbons09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gibbons09b" mdate="2017-07-12">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Synopsis Structure.</title>
+<pages>2898-2899</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_383</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#Gibbons09b</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/NathG08" mdate="2020-04-25">
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Online maintenance of very large random samples on flash storage.</title>
+<pages>970-983</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453961.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453961</ee>
+<url>db/journals/pvldb/pvldb1.html#NathG08</url>
+</article>
+</r>
+<r><article key="journals/ton/YuKGF08" mdate="2008-08-05">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="f/AbrahamDFlaxman">Abraham D. Flaxman</author>
+<title>SybilGuard: defending against sybil attacks via social networks.</title>
+<pages>576-589</pages>
+<year>2008</year>
+<volume>16</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<ee>http://doi.acm.org/10.1145/1399562.1399569</ee>
+<url>db/journals/ton/ton16.html#YuKGF08</url>
+</article>
+</r>
+<r><article key="journals/tosn/NathGSA08" mdate="2020-05-12">
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<author pid="88/3234">Zachary R. Anderson</author>
+<title>Synopsis diffusion for robust aggregation in sensor networks.</title>
+<year>2008</year>
+<volume>4</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1340771.1340773</ee>
+<url>db/journals/tosn/tosn4.html#NathGSA08</url>
+<pages>7:1-7:40</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icfp/SpoonhowerBHG08" mdate="2018-11-06">
+<author pid="51/4877">Daniel Spoonhower</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="h/RobertHarper">Robert Harper 0001</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Space profiling for parallel functional programs.</title>
+<pages>253-264</pages>
+<year>2008</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/1411204.1411240</ee>
+<crossref>conf/icfp/2008</crossref>
+<url>db/conf/icfp/icfp2008.html#SpoonhowerBHG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/ChenKSFGMRRRV08" mdate="2017-05-23">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="15/5184">Theodoros Strigkos</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="11/5668">Michael P. Ryan</author>
+<author pid="22/6647">Evangelos Vlachos</author>
+<title>Flexible Hardware Acceleration for Instruction-Grain Program Monitoring.</title>
+<pages>377-388</pages>
+<year>2008</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2008.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2008.20</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1382153</ee>
+<crossref>conf/isca/2008</crossref>
+<url>db/conf/isca/isca2008.html#ChenKSFGMRRRV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/BlellochCGRCK08" mdate="2012-12-07">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="05/3310">Rezaul Alam Chowdhury</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<title>Provably good multicore cache performance for divide-and-conquer algorithms.</title>
+<pages>501-510</pages>
+<year>2008</year>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1347082.1347137</ee>
+<crossref>conf/soda/2008</crossref>
+<url>db/conf/soda/soda2008.html#BlellochCGRCK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/YuGKX08" mdate="2017-05-26">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="71/1116">Feng Xiao</author>
+<title>SybilLimit: A Near-Optimal Social Network Defense against Sybil Attacks.</title>
+<pages>3-17</pages>
+<year>2008</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2008.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SP.2008.13</ee>
+<crossref>conf/sp/2008</crossref>
+<url>db/conf/sp/sp2008.html#YuGKX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochGV08" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="13/7216">Harsha Vardhan Simhadri</author>
+<title>Combinable memory-block transactions.</title>
+<pages>23-34</pages>
+<year>2008</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1378533.1378537</ee>
+<crossref>conf/spaa/2008</crossref>
+<url>db/conf/spaa/spaa2008.html#BlellochGV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/RuwaseGMRCKR08" mdate="2018-11-06">
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="11/5668">Michael P. Ryan</author>
+<title>Parallelizing dynamic information flow tracking.</title>
+<pages>35-45</pages>
+<year>2008</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1378533.1378538</ee>
+<crossref>conf/spaa/2008</crossref>
+<url>db/conf/spaa/spaa2008.html#RuwaseGMRCKR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/pervasive/BalazinskaDFGGHLNST07" mdate="2020-03-31">
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MarkHHansen">Mark H. Hansen</author>
+<author pid="02/59">Michael Liebhold</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="75/3420">Vincent Tao</author>
+<title>Data Management in the Worldwide Sensor Web.</title>
+<pages>30-40</pages>
+<year>2007</year>
+<volume>6</volume>
+<journal>IEEE Pervasive Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MPRV.2007.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MPRV.2007.27</ee>
+<url>db/journals/pervasive/pervasive6.html#BalazinskaDFGGHLNST07</url>
+</article>
+</r>
+<r><article key="journals/tods/ChenAGM07" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Improving hash join performance through prefetching.</title>
+<pages>17</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1272743.1272747</ee>
+<url>db/journals/tods/tods32.html#ChenAGM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/PangGKSY07" mdate="2017-05-21">
+<author pid="17/2705">Jeffrey Pang</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<author pid="69/1249">Haifeng Yu</author>
+<title>Defragmenting DHT-based Distributed File Systems.</title>
+<pages>14</pages>
+<year>2007</year>
+<crossref>conf/icdcs/2007</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2007.97</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDCS.2007.97</ee>
+<url>db/conf/icdcs/icdcs2007.html#PangGKSY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ManjhiGAGMMOTY07" mdate="2017-05-17">
+<author pid="69/2448">Amit Manjhi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="77/5906">Charles Garrod</author>
+<author pid="m/BruceMMaggs">Bruce M. Maggs</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="t/AnthonyTomasic">Anthony Tomasic</author>
+<author pid="69/1249">Haifeng Yu</author>
+<title>Invalidation Clues for Database Scalability Services.</title>
+<pages>316-325</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367877</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367877</ee>
+<url>db/conf/icde/icde2007.html#ManjhiGAGMMOTY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipsn/NathG07" mdate="2018-11-06">
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Communicating via fireflies: geographic routing on duty-cycled sensors.</title>
+<pages>440-449</pages>
+<year>2007</year>
+<crossref>conf/ipsn/2007</crossref>
+<booktitle>IPSN</booktitle>
+<ee>https://doi.org/10.1145/1236360.1236416</ee>
+<ee>https://doi.org/10.1109/IPSN.2007.4379704</ee>
+<url>db/conf/ipsn/ipsn2007.html#NathG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/YuG07" mdate="2018-11-06">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Optimal inter-object correlation when replicating for availability.</title>
+<pages>254-263</pages>
+<year>2007</year>
+<crossref>conf/podc/2007</crossref>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/1281100.1281137</ee>
+<url>db/conf/podc/podc2007.html#YuG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/YuGK07" mdate="2018-11-06">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<title>Toward an optimal social network defense against Sybil attacks.</title>
+<pages>376-377</pages>
+<year>2007</year>
+<crossref>conf/podc/2007</crossref>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/1281100.1281181</ee>
+<url>db/conf/podc/podc2007.html#YuGK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/ChenGKLABFFHMW07" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="49/5998">Vasileios Liaskovitis</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="25/1812">Limor Fix</author>
+<author pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="40/4137">Chris Wilkerson</author>
+<title>Scheduling threads for constructive cache sharing on CMPs.</title>
+<pages>105-115</pages>
+<year>2007</year>
+<crossref>conf/spaa/2007</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1248377.1248396</ee>
+<url>db/conf/spaa/spaa2007.html#ChenGKLABFFHMW07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/spaa/2007" mdate="2018-11-21">
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="s/ChristianScheideler">Christian Scheideler</editor>
+<title>SPAA 2007: Proceedings of the 19th Annual ACM Symposium on Parallelism in Algorithms and Architectures, San Diego, California, USA, June 9-11, 2007</title>
+<booktitle>SPAA</booktitle>
+<publisher>ACM</publisher>
+<year>2007</year>
+<isbn>978-1-59593-667-7</isbn>
+<ee>https://doi.org/10.1145/1248377</ee>
+<url>db/conf/spaa/spaa2007.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/asplos/ChenFGKMTAFGLS06" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="04/3074">Radu Teodorescu</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="25/1812">Limor Fix</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="11/1186-2">Bin Lin 0002</author>
+<author pid="52/1925">Steven W. Schlosser</author>
+<title>Log-based architectures for general-purpose monitoring of deployed code.</title>
+<pages>63-65</pages>
+<year>2006</year>
+<crossref>conf/asplos/2006asid</crossref>
+<booktitle>ASID</booktitle>
+<ee>https://doi.org/10.1145/1181309.1181319</ee>
+<url>db/conf/asplos/asid2006.html#ChenFGKMTAFGLS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/NathYGS06" mdate="2021-02-02">
+<author pid="85/6293">Suman Nath</author>
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>Subtleties in Tolerating Correlated Failures in Wide-area Storage Systems.</title>
+<year>2006</year>
+<crossref>conf/nsdi/2006</crossref>
+<booktitle>NSDI</booktitle>
+<ee type="oa">http://www.usenix.org/events/nsdi06/tech/nath.html</ee>
+<url>db/conf/nsdi/nsdi2006.html#NathYGS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/YuGN06" mdate="2021-02-02">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="85/6293">Suman Nath</author>
+<title>Availability of Multi-Object Operations (Awarded Best Paper).</title>
+<year>2006</year>
+<crossref>conf/nsdi/2006</crossref>
+<booktitle>NSDI</booktitle>
+<ee type="oa">http://www.usenix.org/events/nsdi06/tech/yu.html</ee>
+<url>db/conf/nsdi/nsdi2006.html#YuGN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/YuKGF06" mdate="2018-11-06">
+<author pid="69/1249">Haifeng Yu</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="f/AbrahamDFlaxman">Abraham Flaxman</author>
+<title>SybilGuard: defending against sybil attacks via social networks.</title>
+<pages>267-278</pages>
+<year>2006</year>
+<crossref>conf/sigcomm/2006</crossref>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/1159913.1159945</ee>
+<url>db/conf/sigcomm/sigcomm2006.html#YuKGF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/LiaskovitisCGABFFHKMW06" mdate="2018-11-06">
+<author pid="49/5998">Vasileios Liaskovitis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="25/1812">Limor Fix</author>
+<author pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="40/4137">Chris Wilkerson</author>
+<title>Parallel depth first vs. work stealing schedulers on CMP architectures.</title>
+<pages>330</pages>
+<year>2006</year>
+<crossref>conf/spaa/2006</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1148109.1148167</ee>
+<url>db/conf/spaa/spaa2006.html#LiaskovitisCGABFFHKMW06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dcoss/2006" mdate="2019-05-14">
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</editor>
+<editor pid="a/JamesAspnes">James Aspnes</editor>
+<editor pid="r/RameshRRao">Ramesh R. Rao</editor>
+<title>Distributed Computing in Sensor Systems, Second IEEE International Conference, DCOSS 2006, San Francisco, CA, USA, June 18-20, 2006, Proceedings</title>
+<volume>4026</volume>
+<year>2006</year>
+<isbn>3-540-35227-9</isbn>
+<booktitle>DCOSS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11776178</ee>
+<url>db/conf/dcoss/dcoss2006.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ipsn/2006" mdate="2019-10-16">
+<editor pid="s/JohnAStankovic">John A. Stankovic</editor>
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="21/3476">Stephen B. Wicker</editor>
+<editor pid="46/4069">Joseph A. Paradiso</editor>
+<title>Proceedings of the Fifth International Conference on Information Processing in Sensor Networks, IPSN 2006, Nashville, Tennessee, USA, April 19-21, 2006</title>
+<booktitle>IPSN</booktitle>
+<publisher>ACM</publisher>
+<year>2006</year>
+<isbn>1-59593-334-4</isbn>
+<ee>https://doi.org/10.1145/1127777</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/11036/proceeding</ee>
+<url>db/conf/ipsn/ipsn2006.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/spaa/2006" mdate="2018-11-21">
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="v/UziVishkin">Uzi Vishkin</editor>
+<title>SPAA 2006: Proceedings of the 18th Annual ACM Symposium on Parallelism in Algorithms and Architectures, Cambridge, Massachusetts, USA, July 30 - August 2, 2006</title>
+<booktitle>SPAA</booktitle>
+<publisher>ACM</publisher>
+<year>2006</year>
+<isbn>1-59593-452-9</isbn>
+<ee>https://doi.org/10.1145/1148109</ee>
+<url>db/conf/spaa/spaa2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ipl/WongWGF05" mdate="2019-06-02">
+<author pid="62/2684">Angeline Wong</author>
+<author pid="84/5333">Leejay Wu</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>Fast estimation of fractal dimension and correlation integral on stream data.</title>
+<pages>91-97</pages>
+<year>2005</year>
+<volume>93</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.ipl.2004.09.018</ee>
+<ee>https://www.wikidata.org/entity/Q59551868</ee>
+<url>db/journals/ipl/ipl93.html#WongWGF05</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcoss/Gibbons05" mdate="2017-05-25">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Five Challenges in Wide-Area Sensor Systems.</title>
+<pages>2</pages>
+<year>2005</year>
+<crossref>conf/dcoss/2005</crossref>
+<booktitle>DCOSS</booktitle>
+<ee>https://doi.org/10.1007/11502593_2</ee>
+<url>db/conf/dcoss/dcoss2005.html#Gibbons05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcoss/ChenGN05" mdate="2017-05-25">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="85/6293">Suman Nath</author>
+<title>Database-Centric Programming for Wide-Area Sensor Systems.</title>
+<pages>89-108</pages>
+<year>2005</year>
+<crossref>conf/dcoss/2005</crossref>
+<booktitle>DCOSS</booktitle>
+<ee>https://doi.org/10.1007/11502593_10</ee>
+<url>db/conf/dcoss/dcoss2005.html#ChenGN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fast/NathGS05" mdate="2021-02-02">
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>Adaptive Data Placement for Wide-Area Sensing Services.</title>
+<year>2005</year>
+<crossref>conf/fast/2005</crossref>
+<booktitle>FAST</booktitle>
+<ee type="oa">http://www.usenix.org/events/fast05/tech/nath.html</ee>
+<url>db/conf/fast/fast2005.html#NathGS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/CampbellGNPSS05" mdate="2018-11-06">
+<author pid="00/3457">Jason Campbell</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="36/6668">Padmanabhan Pillai</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<author pid="57/3775">Rahul Sukthankar</author>
+<title>IrisNet: an internet-scale architecture for multimedia sensors.</title>
+<pages>81-88</pages>
+<year>2005</year>
+<crossref>conf/mm/2005</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/1101149.1101162</ee>
+<url>db/conf/mm/mm2005.html#CampbellGNPSS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ndss/VenkataramanSGB05" mdate="2021-02-01">
+<author pid="03/2602">Shobha Venkataraman</author>
+<author pid="s/DXSong">Dawn Xiaodong Song</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="b/AvrimBlum">Avrim Blum</author>
+<title>New Streaming Algorithms for Fast Detection of Superspreaders.</title>
+<year>2005</year>
+<crossref>conf/ndss/2005</crossref>
+<booktitle>NDSS</booktitle>
+<ee type="oa">https://www.ndss-symposium.org/ndss2005/new-streaming-algorithms-fast-detection-superspreaders/</ee>
+<url>db/conf/ndss/ndss2005.html#VenkataramanSGB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/AksakBCDFGGGGHHKKLMPRRSSY05" mdate="2018-11-06">
+<author pid="51/2826">Burak Aksak</author>
+<author pid="59/1228">Preethi Srinivas Bhat</author>
+<author pid="00/3457">Jason Campbell</author>
+<author pid="55/2585">Michael DeRosa</author>
+<author pid="02/351">Stanislav Funiak</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/SCGoldstein">Seth Copen Goldstein</author>
+<author pid="38/769">Carlos Guestrin</author>
+<author pid="27/4744-3">Ashish Gupta 0003</author>
+<author pid="66/6473">Casey Helfrich</author>
+<author pid="98/4476">James F. Hoburg</author>
+<author pid="82/2190">Brian T. Kirby</author>
+<author pid="k/JamesKuffner">James Kuffner</author>
+<author pid="l/PeterLee1">Peter Lee 0001</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="36/6668">Padmanabhan Pillai</author>
+<author pid="04/4708">Ram Ravichandran</author>
+<author pid="15/2184">Benjamin D. Rister</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<author pid="25/3694">Metin Sitti</author>
+<author pid="69/1249">Haifeng Yu</author>
+<title>Claytronics: highly scalable communications, sensing, and actuation networks.</title>
+<pages>299</pages>
+<year>2005</year>
+<crossref>conf/sensys/2005</crossref>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/1098918.1098964</ee>
+<url>db/conf/sensys/sensys2005.html#AksakBCDFGGGGHHKKLMPRRSSY05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ManjhiNG05" mdate="2018-11-06">
+<author pid="69/2448">Amit Manjhi</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Tributaries and Deltas: Efficient and Robust Aggregation in Sensor Network Streams.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#ManjhiNG05</url>
+<pages>287-298</pages>
+<ee>https://doi.org/10.1145/1066157.1066191</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChenAGM05" mdate="2020-03-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Inspector Joins.</title>
+<pages>817-828</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/thu/p817-chen.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083687</ee>
+<url>db/conf/vldb/vldb2005.html#ChenAGM05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/spaa/2005" mdate="2018-11-21">
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="s/PaulGSpirakis">Paul G. Spirakis</editor>
+<title>SPAA 2005: Proceedings of the 17th Annual ACM Symposium on Parallelism in Algorithms and Architectures, July 18-20, 2005, Las Vegas, Nevada, USA</title>
+<booktitle>SPAA</booktitle>
+<publisher>ACM</publisher>
+<year>2005</year>
+<isbn>1-58113-986-1</isbn>
+<ee>https://doi.org/10.1145/1073970</ee>
+<url>db/conf/spaa/spaa2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/mst/GibbonsT04" mdate="2019-06-02">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0001-5321-924X" pid="40/3710">Srikanta Tirthapura</author>
+<title>Distributed Streams Algorithms for Sliding Windows.</title>
+<pages>457-478</pages>
+<year>2004</year>
+<volume>37</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00224-004-1156-4</ee>
+<ee>https://www.wikidata.org/entity/Q60148609</ee>
+<url>db/journals/mst/mst37.html#GibbonsT04</url>
+</article>
+</r>
+<r><article key="journals/tods/Garo04" mdate="2018-11-06">
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Probabilistic wavelet synopses.</title>
+<pages>43-90</pages>
+<year>2004</year>
+<volume>29</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<ee>https://doi.org/10.1145/974750.974753</ee>
+<url>db/journals/tods/tods29.html#Garo04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChenAGM04" mdate="2017-05-17">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Improving Hash Join Performance through Prefetching.</title>
+<pages>116-127</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1319989</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1319989</ee>
+<url>db/conf/icde/icde2004.html#ChenAGM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/NathGSA04" mdate="2018-11-06">
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<author pid="88/3234">Zachary R. Anderson</author>
+<title>Synopsis diffusion for robust aggregation in sensor networks.</title>
+<pages>250-262</pages>
+<year>2004</year>
+<crossref>conf/sensys/2004</crossref>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/1031495.1031525</ee>
+<url>db/conf/sensys/sensys2004.html#NathGSA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochG04" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Effectively sharing a cache among threads.</title>
+<pages>235-244</pages>
+<year>2004</year>
+<crossref>conf/spaa/2004</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1007912.1007948</ee>
+<url>db/conf/spaa/spaa2004.html#BlellochG04</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/spaa/2004" mdate="2018-11-21">
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<editor pid="a/MicahAdler">Micah Adler</editor>
+<title>SPAA 2004: Proceedings of the Sixteenth Annual ACM Symposium on Parallelism in Algorithms and Architectures, June 27-30, 2004, Barcelona, Spain</title>
+<booktitle>SPAA</booktitle>
+<publisher>ACM</publisher>
+<year>2004</year>
+<isbn>1-58113-840-7</isbn>
+<ee>https://doi.org/10.1145/1007912</ee>
+<url>db/conf/spaa/spaa2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/mst/BlellochCG03" mdate="2017-05-28">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="78/353">Perry Cheng</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Scalable Room Synchronizations.</title>
+<pages>397-430</pages>
+<year>2003</year>
+<volume>36</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00224-003-1081-y</ee>
+<url>db/journals/mst/mst36.html#BlellochCG03</url>
+</article>
+</r>
+<r><article key="journals/pervasive/GibbonsKKNS03" mdate="2020-03-31">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="06/5980">Brad Karp</author>
+<author pid="13/6836">Yan Ke</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>IrisNet: An Architecture for a Worldwide Sensor Web.</title>
+<pages>22-33</pages>
+<year>2003</year>
+<volume>2</volume>
+<journal>IEEE Pervasive Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MPRV.2003.1251166</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MPRV.2003.1251166</ee>
+<url>db/journals/pervasive/pervasive2.html#GibbonsKKNS03</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/NathDGS03" mdate="2020-05-17">
+<author pid="85/6293">Suman Nath</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>MobiCom poster: mining a world of smart sensors.</title>
+<pages>34-36</pages>
+<year>2003</year>
+<volume>7</volume>
+<journal>ACM SIGMOBILE Mob. Comput. Commun. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/881978.881987</ee>
+<url>db/journals/sigmobile/sigmobile7.html#NathDGS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PapadimitriouKGF03" mdate="2020-10-25">
+<author pid="73/6671">Spiros Papadimitriou</author>
+<author orcid="0000-0002-2984-2258" pid="k/HiroyukiKitagawa">Hiroyuki Kitagawa</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>LOCI: Fast Outlier Detection Using the Local Correlation Integral.</title>
+<pages>315-326</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260802</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260802</ee>
+<ee>https://www.wikidata.org/entity/Q59552151</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#PapadimitriouKGF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeshpandeNGS03" mdate="2018-11-06">
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>Cache-and-Query for Wide Area Sensor Databases.</title>
+<pages>503-514</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#DeshpandeNGS03</url>
+<ee>https://doi.org/10.1145/872757.872818</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeshpandeNGS03a" mdate="2018-11-06">
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>IrisNet: Internet-scale Resource-Intensive Sensor Services.</title>
+<pages>667</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#DeshpandeNGS03a</url>
+<ee>https://doi.org/10.1145/872757.872856</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/NathDKGKS03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S37P07.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50124-5</ee>
+<author pid="85/6293">Suman Nath</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="13/6836">Yan Ke</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="06/5980">Brad Karp</author>
+<author pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>IrisNet: An Architecture for Internet-scale Sensing Services.</title>
+<pages>1137-1140</pages>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#NathDKGKS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/AlonGMS02" mdate="2021-02-16">
+<author pid="a/NAlon">Noga Alon</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="21/3238">Mario Szegedy</author>
+<title>Tracking Join and Self-Join Sizes in Limited Storage.</title>
+<pages>719-747</pages>
+<year>2002</year>
+<volume>64</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1006/jcss.2001.1813</ee>
+<url>db/journals/jcss/jcss64.html#AlonGMS02</url>
+</article>
+</r>
+<r><article key="journals/mst/GibbonsBP02" mdate="2017-05-28">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="b/JohnLBruno">John L. Bruno</author>
+<author pid="28/1474">Steven Phillips</author>
+<title>Black-Box Correctness Tests for Basic Parallel Data Structures.</title>
+<pages>391-432</pages>
+<year>2002</year>
+<volume>35</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00224-002-1046-6</ee>
+<url>db/journals/mst/mst35.html#GibbonsBP02</url>
+</article>
+</r>
+<r><article key="journals/tods/GibbonsMP02" mdate="2018-11-06">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<title>Fast incremental maintenance of approximate histograms.</title>
+<pages>261-298</pages>
+<year>2002</year>
+<volume>27</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/581751.581753</ee>
+<url>db/journals/tods/tods27.html#GibbonsMP02</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/PalmerGF02" mdate="2019-06-02">
+<author pid="p/ChristopherRPalmer">Christopher R. Palmer</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>ANF: a fast and scalable tool for data mining in massive graphs.</title>
+<pages>81-90</pages>
+<year>2002</year>
+<crossref>conf/kdd/2002</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/775047.775059</ee>
+<ee>https://www.wikidata.org/entity/Q59552222</ee>
+<url>db/conf/kdd/kdd2002.html#PalmerGF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenGMV02" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="73/4409">Gary Valentin</author>
+<title>Fractal prefetching B&#177;Trees: optimizing both cache and disk performance.</title>
+<pages>157-168</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564710</ee>
+<url>db/conf/sigmod/sigmod2002.html#ChenGMV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GarofalakisG02" mdate="2018-11-06">
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Wavelet synopses with error guarantees.</title>
+<pages>476-487</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564746</ee>
+<url>db/conf/sigmod/sigmod2002.html#GarofalakisG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsT02" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<title>Distributed streams algorithms for sliding windows.</title>
+<pages>63-72</pages>
+<year>2002</year>
+<crossref>conf/spaa/2002</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/564870.564880</ee>
+<url>db/conf/spaa/spaa2002.html#GibbonsT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenGM01" mdate="2021-03-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Improving Index Performance through Prefetching.</title>
+<pages>235-246</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#ChenGM01</url>
+<ee>https://doi.org/10.1145/375663.375688</ee>
+<ee>https://doi.org/10.1145/376284.375688</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochCG01" mdate="2018-11-21">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="78/353">Perry Cheng</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Room synchronizations.</title>
+<pages>122-133</pages>
+<year>2001</year>
+<crossref>conf/spaa/2001</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/378580.378605</ee>
+<url>db/conf/spaa/spaa2001.html#BlellochCG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsT01" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="40/3710">Srikanta Tirthapura</author>
+<title>Estimating simple functions on the union of data streams.</title>
+<pages>281-291</pages>
+<year>2001</year>
+<crossref>conf/spaa/2001</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/378580.378687</ee>
+<url>db/conf/spaa/spaa2001.html#GibbonsT01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GarofalakisG01" mdate="2020-03-12">
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Approximate Query Processing: Taming the TeraBytes.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#GarofalakisG01</url>
+<ee type="oa">http://www.vldb.org/conf/2001/tut4.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Gibbons01" mdate="2020-03-12">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Distinct Sampling for Highly-Accurate Answers to Distinct Values Queries and Event Reports.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#Gibbons01</url>
+<pages>541-550</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P541.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AcharyaGP00" mdate="2021-03-12">
+<ee>https://doi.org/10.1145/342009.335450</ee>
+<ee>https://doi.org/10.1145/335191.335450</ee>
+<author pid="32/3483">Swarup Acharya</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<title>Congressional Samples for Approximate Answering of Group-By Queries.</title>
+<pages>487-498</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#AcharyaGP00</url>
+<cite label="AGP99a">conf/vldb/AcharyaGP99</cite>
+<cite label="AGP99b">...</cite>
+<cite label="AGPR99">conf/sigmod/AcharyaGPR99a</cite>
+<cite label="CD97">journals/sigmod/ChaudhuriD97</cite>
+<cite label="CMN99">conf/sigmod/ChaudhuriMN99</cite>
+<cite label="Coc77">books/wi/Cochran77</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="CS95">journals/debu/ChaudhuriS95</cite>
+<cite label="GM98">conf/sigmod/GibbonsM98</cite>
+<cite label="HH99">conf/sigmod/HaasH99</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="IP99">conf/vldb/IoannidisP99</cite>
+<cite label="Kim96">books/wi/Kimball96</cite>
+<cite label="Olk93">phd/Olken93</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="Sch97">...</cite>
+<cite label="TPC99">...</cite>
+<cite label="VW99">conf/sigmod/VitterW99</cite>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/AdlerGMR99" mdate="2017-05-17">
+<author pid="a/MicahAdler">Micah Adler</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Modeling Parallel Bandwidth: Local versus Global Restrictions.</title>
+<pages>381-404</pages>
+<year>1999</year>
+<volume>24</volume>
+<journal>Algorithmica</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/PL00008269</ee>
+<url>db/journals/algorithmica/algorithmica24.html#AdlerGMR99</url>
+</article>
+</r>
+<r><article key="journals/cacm/GabberGKMM99" mdate="2018-11-06">
+<author pid="25/598">Eran Gabber</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="02/5091">David M. Kristol</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="41/72">Alain J. Mayer</author>
+<title>Consistent, Yet Anonymous, Web Access with LPWA.</title>
+<pages>42-47</pages>
+<year>1999</year>
+<volume>42</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm42.html#GabberGKMM99</url>
+<ee>https://doi.org/10.1145/293411.293447</ee>
+</article>
+</r>
+<r><article key="journals/jacm/BlellochGM99" mdate="2018-11-06">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>Provably Efficient Scheduling for Languages with Fine-Grained Parallelism.</title>
+<pages>281-321</pages>
+<year>1999</year>
+<volume>46</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/301970.301974</ee>
+<url>db/journals/jacm/jacm46.html#BlellochGM99</url>
+</article>
+</r>
+<r><article key="journals/mst/GibbonsMR99" mdate="2017-05-28">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Can a Shared-Memory Model Serve as a Bridging Model for Parallel Computation?</title>
+<pages>327-359</pages>
+<year>1999</year>
+<volume>32</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s002240000121</ee>
+<url>db/journals/mst/mst32.html#GibbonsMR99</url>
+</article>
+</r>
+<r><article key="journals/tissec/GabberGKMM99" mdate="2018-11-06">
+<author pid="25/598">Eran Gabber</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="02/5091">David M. Kristol</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="41/72">Alain J. Mayer</author>
+<title>On secure and pseudonymous client-relationships with multiple servers.</title>
+<pages>390-415</pages>
+<year>1999</year>
+<volume>2</volume>
+<journal>ACM Trans. Inf. Syst. Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/330382.330386</ee>
+<url>db/journals/tissec/tissec2.html#GabberGKMM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/iopads/BarveGHMSV99" mdate="2019-08-08">
+<author pid="57/6248">Rakesh D. Barve</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="h/BruceHillyer">Bruce Hillyer</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="64/2667">Elizabeth A. M. Shriver</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>Round-Like Behavior in Multiple Disks on a Bus.</title>
+<pages>1-9</pages>
+<year>1999</year>
+<crossref>conf/iopads/1999</crossref>
+<booktitle>IOPADS</booktitle>
+<ee>https://doi.org/10.1145/301816.301821</ee>
+<url>db/conf/iopads/iopads1999.html#BarveGHMSV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AlonGMS99" mdate="2018-11-06">
+<author pid="a/NAlon">Noga Alon</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="21/3238">Mario Szegedy</author>
+<title>Tracking Join and Self-Join Sizes in Limited Storage.</title>
+<pages>10-20</pages>
+<year>1999</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods99.html#AlonGMS99</url>
+<crossref>conf/pods/99</crossref>
+<ee>https://doi.org/10.1145/303976.303978</ee>
+<cdrom>DiSC2_1/out/papers/pods/trackingjoinandnophy.pdf</cdrom>
+<cite label="AGP99">...</cite>
+<cite label="AGPR99">conf/sigmod/AcharyaGPR99a</cite>
+<cite label="AMS96">conf/stoc/AlonMS96</cite>
+<cite label="BDF+97">journals/debu/BarbaraDFHHIJJNPRS97</cite>
+<cite label="GGMS96">conf/sigmod/GangulyGMS96</cite>
+<cite label="GM98a">conf/sigmod/GibbonsM98</cite>
+<cite label="GM98b">...</cite>
+<cite label="GMP97a">...</cite>
+<cite label="GMP97b">conf/vldb/GibbonsMP97</cite>
+<cite label="Goo89">...</cite>
+<cite label="HH99">conf/sigmod/HaasH99</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HNSS93">conf/pods/HaasNSS93</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="H&#214;T88">conf/pods/HouOT88</cite>
+<cite label="IP95">conf/sigmod/IoannidisP95</cite>
+<cite label="LN95">journals/jcss/LiptonN95</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="MRL98">conf/sigmod/RajagopalanML98</cite>
+<cite label="MS99">...</cite>
+<cite label="Poo97">phd/Poosala97</cite>
+<cite label="Vit85">journals/toms/Vitter85</cite>
+<cite label="VL93">journals/tkde/VrbskyL93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/BarveSGHMV99" mdate="2018-11-06">
+<author pid="57/6248">Rakesh D. Barve</author>
+<author pid="64/2667">Elizabeth A. M. Shriver</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="h/BruceHillyer">Bruce Hillyer</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>Modeling and Optimizing I/O Throughput of Multiple Disks on a Bus.</title>
+<pages>83-92</pages>
+<year>1999</year>
+<crossref>conf/sigmetrics/1999</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/301453.301482</ee>
+<url>db/conf/sigmetrics/sigmetrics99.html#BarveSGHMV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AcharyaGPR99a" mdate="2021-03-12">
+<author pid="32/3483">Swarup Acharya</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<author pid="85/6371">Sridhar Ramaswamy</author>
+<title>Join Synopses for Approximate Query Answering.</title>
+<pages>275-286</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#AcharyaGPR99a</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304207</ee>
+<ee>https://doi.org/10.1145/304181.304207</ee>
+<cdrom>DiSC2_1/out/papers/sigmod/joinsynopsesforswphv.pdf</cdrom>
+<cite label="AGPR99a">conf/sigmod/AcharyaGPR99</cite>
+<cite label="AGPR99b">...</cite>
+<cite label="AMS96">conf/stoc/AlonMS96</cite>
+<cite label="APR99">conf/sigmod/AcharyaPR99</cite>
+<cite label="BDF+97">journals/debu/BarbaraDFHHIJJNPRS97</cite>
+<cite label="CR94">conf/sigmod/ChenR94</cite>
+<cite label="GGMS96">conf/sigmod/GangulyGMS96</cite>
+<cite label="GM98">conf/sigmod/GibbonsM98</cite>
+<cite label="GM99a">...</cite>
+<cite label="GM99b">...</cite>
+<cite label="GMP97a">...</cite>
+<cite label="GMP97b">conf/vldb/GibbonsMP97</cite>
+<cite label="Haa96">...</cite>
+<cite label="Haa97">conf/ssdbm/Haas97</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HNS94">conf/pods/HaasNS94</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="H&#214;T88">conf/pods/HouOT88</cite>
+<cite label="Koo80">phd/Kooi80</cite>
+<cite label="LN95">journals/jcss/LiptonN95</cite>
+<cite label="LNS09">conf/sigmod/LiptonNS90</cite>
+<cite label="OR92">conf/icde/OlkenR92</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+<cite label="Poo97">phd/Poosala97</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="Sch97">...</cite>
+<cite label="VL93">journals/tkde/VrbskyL93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AcharyaGPR99" mdate="2021-03-12">
+<author pid="32/3483">Swarup Acharya</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<author pid="85/6371">Sridhar Ramaswamy</author>
+<title>The Aqua Approximate Query Answering System.</title>
+<pages>574-576</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#AcharyaGPR99</url>
+<crossref>conf/sigmod/99</crossref>
+<cdrom>DiSC2_1/out/papers/sigmod/theaquaapproximswphv.pdf</cdrom>
+<ee>https://doi.org/10.1145/304182.304581</ee>
+<ee>https://doi.org/10.1145/304181.304581</ee>
+<cite label="AGP99">...</cite>
+<cite label="AGPR99">conf/sigmod/AcharyaGPR99a</cite>
+<cite label="GMP97">conf/vldb/GibbonsMP97</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/GibbonsM99" mdate="2012-12-07">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>Synopsis Data Structures for Massive Data Sets.</title>
+<pages>909-910</pages>
+<year>1999</year>
+<crossref>conf/soda/1999</crossref>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=314500.315083</ee>
+<url>db/conf/soda/soda99.html#GibbonsM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsBP99" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="b/JohnLBruno">John L. Bruno</author>
+<author pid="28/1474">Steven Phillips</author>
+<title>Post-Mortem Black-Box Correctness Tests for Basic Parallel Data Structures.</title>
+<pages>44-53</pages>
+<year>1999</year>
+<crossref>conf/spaa/1999</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/305619.305625</ee>
+<url>db/conf/spaa/spaa99.html#GibbonsBP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AcharyaGP99" mdate="2020-03-12">
+<author pid="32/3483">Swarup Acharya</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<title>Aqua: A Fast Decision Support Systems Using Approximate Query Answers.</title>
+<pages>754-757</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#AcharyaGP99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P76.pdf</ee>
+<cite label="AGP99">...</cite>
+<cite label="AGPR99">conf/sigmod/AcharyaGPR99a</cite>
+<cite label="GM98">conf/sigmod/GibbonsM98</cite>
+<cite label="GMP97">conf/vldb/GibbonsMP97</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="IP99">conf/vldb/IoannidisP99</cite>
+<cite label="PG99">conf/ssdbm/PoosalaG99</cite>
+<cite label="VL93">journals/tkde/VrbskyL93</cite>
+<cite label="VWI98">conf/cikm/VitterWI98</cite>
+</inproceedings>
+</r>
+<r><article key="journals/siamcomp/GibbonsMR98" mdate="2017-05-27">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>The Queue-Read Queue-Write PRAM Model: Accounting for Contention in Parallel Algorithms.</title>
+<pages>733-769</pages>
+<year>1998</year>
+<volume>28</volume>
+<journal>SIAM J. Comput.</journal>
+<number>2</number>
+<url>db/journals/siamcomp/siamcomp28.html#GibbonsMR98</url>
+<ee>https://doi.org/10.1137/S009753979427491</ee>
+</article>
+</r>
+<r><article key="journals/tcs/GibbonsMR98" mdate="2021-02-17">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>The Queue-Read Queue-Write Asynchronous PRAM Model.</title>
+<pages>3-29</pages>
+<year>1998</year>
+<volume>196</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs196.html#GibbonsMR98</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(97)00193-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dimacs/GibbonsM98" mdate="2019-07-12">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>Synopsis data structures for massive data sets.</title>
+<pages>39-70</pages>
+<year>1998</year>
+<booktitle>External Memory Algorithms</booktitle>
+<crossref>conf/dimacs/dimacs50</crossref>
+<url>db/conf/dimacs/dimacs50.html#GibbonsM98</url>
+<ee>https://doi.org/10.1090/dimacs/050/02</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/GharachorlooLLGGH98" mdate="2018-11-06">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.</title>
+<pages>376-387</pages>
+<year>1998</year>
+<crossref>conf/isca/1998reprints</crossref>
+<booktitle>25 Years ISCA: Retrospectives and Reprints</booktitle>
+<ee>https://doi.org/10.1145/285930.285997</ee>
+<url>db/conf/isca/reprints98.html#GharachorlooLLGGH98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/BarveSGHMV98" mdate="2018-11-06">
+<author pid="57/6248">Rakesh D. Barve</author>
+<author pid="64/2667">Elizabeth A. M. Shriver</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="h/BruceHillyer">Bruce Hillyer</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>Modeling and Optimizing I/O Throughput of Multiple Disks on a Bus (Summary).</title>
+<pages>264-265</pages>
+<year>1998</year>
+<crossref>conf/sigmetrics/1998</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<ee>https://doi.org/10.1145/277851.277936</ee>
+<url>db/conf/sigmetrics/sigmetrics98.html#BarveSGHMV98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GibbonsM98" mdate="2021-03-11">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>New Sampling-Based Summary Statistics for Improving Approximate Query Answers.</title>
+<pages>331-342</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#GibbonsM98</url>
+<ee>https://doi.org/10.1145/276304.276334</ee>
+<ee>https://doi.org/10.1145/276305.276334</ee>
+<cdrom>SIGMOD98/P331.PDF</cdrom>
+<cite label="AMS96">...</cite>
+<cite label="Ant92">conf/vldb/Antoshenkov92</cite>
+<cite label="AS94">conf/vldb/AgrawalS94</cite>
+<cite label="AZ96">journals/vldb/AntoshenkovZ96</cite>
+<cite label="BDF+97">journals/debu/BarbaraDFHHIJJNPRS97</cite>
+<cite label="BM96">conf/cikm/BayardoM96</cite>
+<cite label="BMUT97">conf/sigmod/BrinMUT97</cite>
+<cite label="FJS97">conf/vldb/FaloutsosJS97</cite>
+<cite label="Fla85">journals/bit/Flajolet85</cite>
+<cite label="FM83">conf/focs/FlajoletM83</cite>
+<cite label="FM85">journals/jcss/FlajoletM85</cite>
+<cite label="GM95">...</cite>
+<cite label="GM97">...</cite>
+<cite label="GMP97a">...</cite>
+<cite label="GMP97b">conf/vldb/GibbonsMP97</cite>
+<cite label="GPA+98">...</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HK95">...</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="IC93">journals/tods/IoannidisC93</cite>
+<cite label="Ioa93">conf/vldb/Ioannidis93</cite>
+<cite label="IP95">conf/sigmod/IoannidisP95</cite>
+<cite label="Mat92">...</cite>
+<cite label="Mor78">journals/cacm/Morris78a</cite>
+<cite label="MSY96">...</cite>
+<cite label="MVN93">...</cite>
+<cite label="MVY94">...</cite>
+<cite label="OR89">conf/vldb/OlkenR89</cite>
+<cite label="OR92">conf/icde/OlkenR92</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+<cite label="Pre97">...</cite>
+<cite label="Vit85">journals/toms/Vitter85</cite>
+<cite label="VL93">journals/tkde/VrbskyL93</cite>
+<cite label="WVZT90">journals/tods/WhangVT90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uwec/BleichenbacherGGMM98" mdate="2014-05-27">
+<author pid="b/DBleichenbacher">Daniel Bleichenbacher</author>
+<author pid="25/598">Eran Gabber</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="41/72">Alain J. Mayer</author>
+<title>On Secure and Pseudonymous Client-Relationships with Multiple Servers.</title>
+<year>1998</year>
+<booktitle>USENIX Workshop on Electronic Commerce</booktitle>
+<ee>https://www.usenix.org/conference/3rd-usenix-workshop-electronic-commerce/secure-and-pseudonymous-client-relationships</ee>
+<crossref>conf/uwec/1998</crossref>
+<url>db/conf/uwec/uwec1998.html#BleichenbacherGGMM98</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/spaa/1998" mdate="2018-11-21">
+<editor pid="m/GaryLMiller">Gary L. Miller</editor>
+<editor pid="g/PhillipBGibbons">Phillip B. Gibbons</editor>
+<title>Proceedings of the Tenth Annual ACM Symposium on Parallel Algorithms and Architectures, SPAA '98, Puerto Vallarta, Mexico, June 28 - July 2, 1998</title>
+<booktitle>SPAA</booktitle>
+<publisher>ACM</publisher>
+<year>1998</year>
+<isbn>0-89791-989-0</isbn>
+<ee>https://doi.org/10.1145/277651</ee>
+<url>db/conf/spaa/spaa98.html</url>
+</proceedings>
+</r>
+<r><article key="journals/siamcomp/GibbonsK97" mdate="2017-05-27">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="38/1121">Ephraim Korach</author>
+<title>Testing Shared Memories.</title>
+<pages>1208-1244</pages>
+<year>1997</year>
+<volume>26</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<url>db/journals/siamcomp/siamcomp26.html#GibbonsK97</url>
+<ee>https://doi.org/10.1137/S0097539794279614</ee>
+</article>
+</r>
+<r><article key="journals/tpds/BlellochGMZ97" mdate="2020-10-02">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="z/MarcoZagha">Marco Zagha</author>
+<title>Accounting for Memory Bank Contention and Delay in High-Bandwidth Multiprocessors.</title>
+<pages>943-958</pages>
+<ee>https://doi.org/10.1109/71.615440</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/71.615440</ee>
+<ee>https://www.wikidata.org/entity/Q56959417</ee>
+<year>1997</year>
+<volume>8</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>9</number>
+<url>db/journals/tpds/tpds8.html#BlellochGMZ97</url>
+</article>
+</r>
+<r><inproceedings key="conf/fc/GabberGMM97" mdate="2017-05-23">
+<author pid="25/598">Eran Gabber</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="41/72">Alain J. Mayer</author>
+<title>How to Make Personalized Web Browising Simple, Secure, and Anonymous.</title>
+<pages>17-32</pages>
+<year>1997</year>
+<crossref>conf/fc/1997</crossref>
+<booktitle>Financial Cryptography</booktitle>
+<url>db/conf/fc/fc1997.html#GabberGMM97</url>
+<ee>https://doi.org/10.1007/3-540-63594-7_64</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochGNM97" mdate="2018-11-21">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="n/GirijaJNarlikar">Girija J. Narlikar</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>Space-Efficient Scheduling of Parallelism with Synchronization Variables.</title>
+<pages>12-23</pages>
+<year>1997</year>
+<crossref>conf/spaa/1997</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/258492.258494</ee>
+<url>db/conf/spaa/spaa97.html#BlellochGNM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsMR97" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Can Shared-Memory Model Serve as a Bridging Model for Parallel Computation?</title>
+<pages>72-83</pages>
+<year>1997</year>
+<crossref>conf/spaa/1997</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/258492.258500</ee>
+<url>db/conf/spaa/spaa97.html#GibbonsMR97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/AdlerGRM97" mdate="2018-11-21">
+<author pid="a/MicahAdler">Micah Adler</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>Modeling Parallel Bandwidth: Local vs. Global Restrictions.</title>
+<pages>94-105</pages>
+<year>1997</year>
+<crossref>conf/spaa/1997</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/258492.258502</ee>
+<url>db/conf/spaa/spaa97.html#AdlerGRM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GibbonsMP97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<title>Fast Incremental Maintenance of Approximate Histograms.</title>
+<pages>466-475</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#GibbonsMP97</url>
+<ee>http://www.vldb.org/conf/1997/P466.PDF</ee>
+<cite>journals/tods/Christodoulakis84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/IoannidisC91</cite>
+<cite>phd/Kooi80</cite>
+<cite>phd/Poosala97</cite>
+<cite>conf/vldb/PoosalaI96</cite>
+<cite>conf/sigmod/PoosalaIHS96</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>journals/toms/Vitter85</cite>
+<cite>books/aw/Zipf49</cite>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/GibbonsMR96" mdate="2021-02-16">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Efficient Low-Contention Parallel Algorithms.</title>
+<pages>417-442</pages>
+<year>1996</year>
+<volume>53</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<url>db/journals/jcss/jcss53.html#GibbonsMR96</url>
+<ee type="oa">https://doi.org/10.1006/jcss.1996.0079</ee>
+</article>
+</r>
+<r><inproceedings key="conf/europar/GibbonsMR96" mdate="2017-05-22">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>The Queue-Read Queue-Write Asynchronous PRAM Model.</title>
+<pages>279-292</pages>
+<year>1996</year>
+<crossref>conf/europar/1996-2</crossref>
+<booktitle>Euro-Par, Vol. II</booktitle>
+<url>db/conf/europar/europar96-2.html#GibbonsMR96</url>
+<ee>https://doi.org/10.1007/BFb0024714</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/Gibbons96" mdate="2019-02-12">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>What Good are Shared-Memory Models?</title>
+<pages>103-114</pages>
+<year>1996</year>
+<crossref>conf/icpp/1996-w</crossref>
+<booktitle>ICPP Workshop</booktitle>
+<url>db/conf/icpp/icpp96-w.html#Gibbons96</url>
+<ee>https://doi.org/10.1109/ICPPW.1996.538596</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPPW.1996.538596</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/BrunoGP96" mdate="2018-11-06">
+<author pid="b/JohnLBruno">John L. Bruno</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="28/1474">Steven Phillips</author>
+<title>Testing Concurrent Data Structures (Abstract).</title>
+<pages>124</pages>
+<year>1996</year>
+<crossref>conf/podc/1996</crossref>
+<booktitle>PODC</booktitle>
+<url>db/conf/podc/podc96.html#BrunoGP96</url>
+<ee>https://doi.org/10.1145/248052.248074</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/GibbonsMR96" mdate="2018-11-06">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Asynchrony versus Bulk-Synchrony in QRQW PRAM model (Abstract).</title>
+<pages>176</pages>
+<year>1996</year>
+<crossref>conf/podc/1996</crossref>
+<booktitle>PODC</booktitle>
+<url>db/conf/podc/podc96.html#GibbonsMR96</url>
+<ee>https://doi.org/10.1145/248052.248084</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GangulyGMS96" mdate="2018-11-06">
+<author pid="g/SumitGanguly">Sumit Ganguly</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author>
+<title>Bifocal Sampling for Skew-Resistant Join Size Estimation.</title>
+<pages>271-281</pages>
+<year>1996</year>
+<crossref>conf/sigmod/96</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod96.html#GangulyGMS96</url>
+<ee>https://doi.org/10.1145/233269.233340</ee>
+<cdrom>SIGMOD96/P271.PDF</cdrom>
+<cite label="HNS94">conf/pods/HaasNS94</cite>
+<cite label="HNSS93">conf/pods/HaasNSS93</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="H&#214;D91">conf/sigmod/HouOD91</cite>
+<cite label="Hoe63">...</cite>
+<cite label="H&#214;T88">conf/pods/HouOT88</cite>
+<cite label="H&#214;T89">conf/sigmod/HouOT89</cite>
+<cite label="HS92">conf/sigmod/HaasS92</cite>
+<cite label="LN89">conf/vldb/LiptonN89</cite>
+<cite label="LN90">conf/pods/LiptonN90</cite>
+<cite label="LN95">journals/jcss/LiptonN95</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="LNSS93">journals/tcs/LiptonNSS93</cite>
+<cite label="LS92">journals/sigmod/LingS92</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/istcs/BerkmanGM95" mdate="2017-05-21">
+<author pid="41/5581">Omer Berkman</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>On the Power of Randomization for the Common PRAM.</title>
+<pages>229-240</pages>
+<year>1995</year>
+<crossref>conf/istcs/1995</crossref>
+<booktitle>ISTCS</booktitle>
+<url>db/conf/istcs/istcs1995.html#BerkmanGM95</url>
+<ee>https://doi.org/10.1109/ISTCS.1995.377027</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISTCS.1995.377027</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochGM95" mdate="2018-11-21">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<title>Provably Efficient Scheduling for Languages with Fine-Grained Parallelism.</title>
+<pages>1-12</pages>
+<year>1995</year>
+<crossref>conf/spaa/1995</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/215399.215403</ee>
+<url>db/conf/spaa/spaa95.html#BlellochGM95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BlellochGMZ95" mdate="2018-11-21">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="z/MarcoZagha">Marco Zagha</author>
+<title>Accounting for Memory Bank Contention and Delay in High-Bandwidth Multiprocessors.</title>
+<pages>84-94</pages>
+<year>1995</year>
+<crossref>conf/spaa/1995</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/215399.215425</ee>
+<url>db/conf/spaa/spaa95.html#BlellochGMZ95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/GibbonsMR94" mdate="2012-12-07">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>The QRQW PRAM: Accounting for Contention in Parallel Algorithms.</title>
+<pages>638-648</pages>
+<year>1994</year>
+<crossref>conf/soda/1994</crossref>
+<booktitle>SODA</booktitle>
+<url>db/conf/soda/soda94.html#GibbonsMR94</url>
+<ee>http://dl.acm.org/citation.cfm?id=314464.314666</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsK94" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="38/1121">Ephraim Korach</author>
+<title>On Testing Cache-Coherent Shared Memories.</title>
+<pages>177-188</pages>
+<year>1994</year>
+<crossref>conf/spaa/1994</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/181014.181328</ee>
+<url>db/conf/spaa/spaa94.html#GibbonsK94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsMR94" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="m/YossiMatias">Yossi Matias</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Efficient Low-Contention Parallel Algorithms.</title>
+<pages>236-247</pages>
+<year>1994</year>
+<crossref>conf/spaa/1994</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/181014.181382</ee>
+<url>db/conf/spaa/spaa94.html#GibbonsMR94</url>
+</inproceedings>
+</r>
+<r><article key="journals/cvgip/NiblackGC92" mdate="2020-05-14">
+<author pid="07/3953">Wayne Niblack</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="25/3896">David W. Capson</author>
+<title>Generating skeletons and centerlines from the distance transform.</title>
+<pages>420-437</pages>
+<year>1992</year>
+<volume>54</volume>
+<journal>CVGIP Graph. Model. Image Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/1049-9652(92)90026-T</ee>
+<url>db/journals/cvgip/cvgip54.html#NiblackGC92</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/NiblackGC92" mdate="2017-05-25">
+<author pid="07/3953">Wayne Niblack</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="25/3896">David W. Capson</author>
+<title>Generating connected skeletons for exact and approximate reconstruction.</title>
+<pages>826-828</pages>
+<year>1992</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.1992.223248</ee>
+<crossref>conf/cvpr/1992</crossref>
+<url>db/conf/cvpr/cvpr1992.html#NiblackGC92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/GibbonsN92" mdate="2020-01-17">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="07/3953">Wayne Niblack</author>
+<title>A width-independent parallel thinning algorithm.</title>
+<pages>708-711</pages>
+<year>1992</year>
+<booktitle>ICPR (3)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.1992.202085</ee>
+<crossref>conf/icpr/1992-3</crossref>
+<url>db/conf/icpr/icpr1992-3.html#GibbonsN92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsM92" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="79/4421">Michael Merritt</author>
+<title>Specifying Non-Blocking Shared Memories (Extended Abstract).</title>
+<pages>306-315</pages>
+<year>1992</year>
+<crossref>conf/spaa/1992</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/140901.141895</ee>
+<url>db/conf/spaa/spaa92.html#GibbonsM92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spdp/GibbonsK92" mdate="2017-05-23">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="38/1121">Ephraim Korach</author>
+<title>The Complexity of Sequential Consistency.</title>
+<pages>317-325</pages>
+<year>1992</year>
+<crossref>conf/spdp/1992</crossref>
+<booktitle>SPDP</booktitle>
+<url>db/conf/spdp/spdp92.html#GibbonsK92</url>
+<ee>https://doi.org/10.1109/SPDP.1992.242728</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SPDP.1992.242728</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jal/GibbonsKRST91" mdate="2017-05-28">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="k/RichardMKarp">Richard M. Karp</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="14/2562">Danny Soroker</author>
+<author pid="t/RobertEndreTarjan">Robert Endre Tarjan</author>
+<title>Transitive Compaction in Parallel via Branchings.</title>
+<pages>110-125</pages>
+<year>1991</year>
+<volume>12</volume>
+<journal>J. Algorithms</journal>
+<number>1</number>
+<url>db/journals/jal/jal12.html#GibbonsKRST91</url>
+<ee>https://doi.org/10.1016/0196-6774(91)90026-U</ee>
+</article>
+</r>
+<r><inproceedings key="conf/spaa/GibbonsMG91" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="79/4421">Michael Merritt</author>
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<title>Proving Sequential Consistency of High-Performance Shared Memories (Extended Abstract).</title>
+<pages>292-303</pages>
+<year>1991</year>
+<crossref>conf/spaa/1991</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/113379.113406</ee>
+<url>db/conf/spaa/spaa91.html#GibbonsMG91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/GharachorlooG91" mdate="2018-11-21">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Detecting Violations of Sequential Consistency.</title>
+<pages>316-326</pages>
+<year>1991</year>
+<crossref>conf/spaa/1991</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/113379.113408</ee>
+<url>db/conf/spaa/spaa91.html#GharachorlooG91</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/GibbonsKMS90" mdate="2021-02-11">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="k/RichardMKarp">Richard M. Karp</author>
+<author pid="m/GaryLMiller">Gary L. Miller</author>
+<author pid="14/2562">Danny Soroker</author>
+<title>Subtree isomorphism is in random NC.</title>
+<pages>35-62</pages>
+<year>1990</year>
+<volume>29</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/0166-218X(90)90081-M</ee>
+<url>db/journals/dam/dam29.html#GibbonsKMS90</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/BirkGSS90" mdate="2002-10-30">
+<author pid="45/6067">Yitzhak Birk</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="44/1628">Jorge L. C. Sanz</author>
+<author pid="14/2562">Danny Soroker</author>
+<title>A Simple Mechanism for Efficient Barrier Synchronization in MIMD Machines.</title>
+<pages>195-198</pages>
+<year>1990</year>
+<crossref>conf/icpp/1990-2</crossref>
+<booktitle>ICPP (2)</booktitle>
+<url>db/conf/icpp/icpp90-2.html#BirkGSS90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/Gibbons90" mdate="2002-10-30">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Cache Support for the Asynchronous PRAM.</title>
+<pages>322-325</pages>
+<year>1990</year>
+<crossref>conf/icpp/1990-1</crossref>
+<booktitle>ICPP (1)</booktitle>
+<url>db/conf/icpp/icpp90-1.html#Gibbons90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/NiblackCG90" mdate="2019-12-19">
+<author pid="07/3953">Wayne Niblack</author>
+<author pid="25/3896">David W. Capson</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Generating skeletons and centerlines from the medial axis transform.</title>
+<pages>881-885</pages>
+<year>1990</year>
+<booktitle>ICPR (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.1990.118234</ee>
+<crossref>conf/icpr/1990-1</crossref>
+<url>db/conf/icpr/icpr1990-1.html#NiblackCG90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/GharachorlooLLGGH90" mdate="2019-02-12">
+<author pid="79/3674">Kourosh Gharachorloo</author>
+<author pid="31/5891">Daniel Lenoski</author>
+<author pid="65/336">James Laudon</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<author pid="h/JohnLHennessy">John L. Hennessy</author>
+<title>Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.</title>
+<pages>15-26</pages>
+<year>1990</year>
+<crossref>conf/isca/1990</crossref>
+<booktitle>ISCA</booktitle>
+<url>db/conf/isca/isca90.html#GharachorlooLLGGH90</url>
+<ee>https://doi.org/10.1145/325164.325102</ee>
+<ee>https://doi.org/10.1109/ISCA.1990.134503</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.1990.134503</ee>
+</inproceedings>
+</r>
+<r><phdthesis key="books/daglib/0018392" mdate="2019-06-18">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>The asynchronous PRAM - a semi-synchronous model for shared memory MIMD machines.</title>
+<pages>I-VI, 1-143</pages>
+<school>University of California at Berkeley, CA, USA</school>
+<year>1989</year>
+<series>TR ICSI - International Computer Science Institute / Berkeley</series>
+<volume>89-062</volume>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/spaa/Gibbons89" mdate="2018-11-21">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>A More practical PRAM Model.</title>
+<pages>158-168</pages>
+<year>1989</year>
+<crossref>conf/spaa/1989</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/72935.72953</ee>
+<url>db/conf/spaa/spaa89.html#Gibbons89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/awoc/GibbonsKMS88" mdate="2017-05-19">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="k/RichardMKarp">Richard M. Karp</author>
+<author pid="m/GaryLMiller">Gary L. Miller</author>
+<author pid="14/2562">Danny Soroker</author>
+<title>Subtree Isomorphism is in Random NC.</title>
+<pages>43-52</pages>
+<year>1988</year>
+<crossref>conf/awoc/1988</crossref>
+<booktitle>AWOC</booktitle>
+<url>db/conf/awoc/awoc88.html#GibbonsKMS88</url>
+<ee>https://doi.org/10.1007/BFb0040372</ee>
+</inproceedings>
+</r>
+<r><article key="journals/tse/Gibbons87" mdate="2017-05-17">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>A Stub Generator for Multilanguage RPC in Heterogeneous Environments.</title>
+<pages>77-87</pages>
+<year>1987</year>
+<volume>13</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>1</number>
+<url>db/journals/tse/tse13.html#Gibbons87</url>
+<ee>https://doi.org/10.1109/TSE.1987.232837</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.1987.232837</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pldi/MuchnickG86" mdate="2018-11-06">
+<author pid="02/6379">Steven S. Muchnick</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<title>Efficient instruction scheduling for a pipelined architecture (with retrospective)</title>
+<pages>167-174</pages>
+<year>1986</year>
+<crossref>conf/pldi/2004best</crossref>
+<booktitle>Best of PLDI</booktitle>
+<ee>https://doi.org/10.1145/989393.989413</ee>
+<url>db/conf/pldi/pldi2004best.html#MuchnickG86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigplan/GibbonsM86" mdate="2018-11-06">
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="02/6379">Steven S. Muchnick</author>
+<title>Efficient instruction scheduling for a pipelined architecture.</title>
+<pages>11-16</pages>
+<year>1986</year>
+<crossref>conf/sigplan/1986</crossref>
+<booktitle>SIGPLAN Symposium on Compiler Construction</booktitle>
+<ee>https://doi.org/10.1145/12276.13312</ee>
+<url>db/conf/sigplan/sigplan1986.html#GibbonsM86</url>
+</inproceedings>
+</r>
+<coauthors n="339" nc="1">
+<co c="0"><na f="a/Abdelzaher:Tarek_F=" pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</na></co>
+<co c="0"><na f="a/Acharya:Swarup" pid="32/3483">Swarup Acharya</na></co>
+<co c="0"><na f="a/Adler:Micah" pid="a/MicahAdler">Micah Adler</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Aksak:Burak" pid="51/2826">Burak Aksak</na></co>
+<co c="0"><na f="a/Alistarh:Dan" pid="36/3251">Dan Alistarh</na></co>
+<co c="0"><na f="a/Alon:Noga" pid="a/NAlon">Noga Alon</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Ananthanarayanan:Ganesh" pid="08/5351">Ganesh Ananthanarayanan</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Anderson:Zachary_R=" pid="88/3234">Zachary R. Anderson</na></co>
+<co c="0"><na f="a/Aspnes:James" pid="a/JamesAspnes">James Aspnes</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="a/Ausavarungnirun:Rachata" pid="117/0573">Rachata Ausavarungnirun</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Bahl:Paramvir" pid="b/ParamvirBahl">Paramvir Bahl</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Barve:Rakesh_D=" pid="57/6248">Rakesh D. Barve</na></co>
+<co c="0"><na f="b/Beckmann:Nathan" pid="42/7272">Nathan Beckmann</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Ben=David:Naama" pid="165/0765">Naama Ben-David</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Berkman:Omer" pid="41/5581">Omer Berkman</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bhat:Preethi_Srinivas" pid="59/1228">Preethi Srinivas Bhat</na></co>
+<co c="0"><na f="b/Bhowmick_0002:Abhishek" pid="59/313-2">Abhishek Bhowmick 0002</na></co>
+<co c="0"><na f="b/Bird:Sarah" pid="53/8277">Sarah Bird</na></co>
+<co c="0"><na f="b/Birk:Yitzhak" pid="45/6067">Yitzhak Birk</na></co>
+<co c="0"><na f="b/Bleichenbacher:Daniel" pid="b/DBleichenbacher">Daniel Bleichenbacher</na></co>
+<co c="0"><na f="b/Blelloch:Guy_E=" pid="b/GEBlelloch">Guy E. Blelloch</na></co>
+<co c="0"><na f="b/Blum:Avrim" pid="b/AvrimBlum">Avrim Blum</na></co>
+<co c="0"><na f="b/Bod=iacute=k:Peter" pid="b/PeterBodik">Peter Bod&#237;k</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="b/Boroumand:Amirali" pid="142/2069">Amirali Boroumand</na></co>
+<co c="0"><na f="b/Bruno:John_L=" pid="b/JohnLBruno">John L. Bruno</na></co>
+<co c="0"><na f="c/Cai:Rui" pid="83/462">Rui Cai</na></co>
+<co c="0"><na f="c/Campbell:Jason" pid="00/3457">Jason Campbell</na></co>
+<co c="0"><na f="c/Capson:David_W=" pid="25/3896">David W. Capson</na></co>
+<co c="0"><na f="c/Carlini:Nicholas" pid="145/1806">Nicholas Carlini</na></co>
+<co c="0"><na f="c/Catanzaro:Bryan" pid="14/4826">Bryan Catanzaro</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0"><na f="c/Chen:Binbin" pid="38/8396">Binbin Chen</na></co>
+<co c="0"><na f="c/Chen:Daming_D=" pid="86/9841">Daming D. Chen</na></co>
+<co c="0"><na f="c/Chen:Shimin" pid="c/ShiminChen">Shimin Chen</na></co>
+<co c="0"><na f="c/Chen:Yen=Kuang" pid="44/4065">Yen-Kuang Chen</na></co>
+<co c="0"><na f="c/Cheng:Perry" pid="78/353">Perry Cheng</na></co>
+<co c="0"><na f="c/Chien:Shao=Yi" pid="99/4773">Shao-Yi Chien</na></co>
+<co c="0"><na f="c/Chilimbi:Trishul_M=" pid="99/2941">Trishul M. Chilimbi</na></co>
+<co c="0"><na f="c/Chowdhury:Rezaul_Alam" pid="05/3310">Rezaul Alam Chowdhury</na></co>
+<co c="0"><na f="c/Chung:Andrew" pid="59/11411">Andrew Chung</na></co>
+<co c="0"><na f="c/Chung:Eric" pid="34/6550">Eric Chung</na></co>
+<co c="0"><na f="c/Cipar:James" pid="34/1302">James Cipar</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Cui:Henggang" pid="96/10608">Henggang Cui</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0"><na f="d/Dai_0003:Wei" pid="76/2897-3">Wei Dai 0003</na></co>
+<co c="0" n="2"><na f="d/Dally:William_J=" pid="d/WJDally">William J. Dally</na><na>Bill Dally</na></co>
+<co c="0" n="2"><na f="d/Dean:Jeffrey" pid="d/JeffreyDean">Jeffrey Dean</na><na>Jeff Dean</na></co>
+<co c="0"><na f="d/DeRosa:Michael" pid="55/2585">Michael DeRosa</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/Devanur:Nikhil_R=" pid="48/3493">Nikhil R. Devanur</na></co>
+<co c="0"><na f="d/Dhillon:Inderjit_S=" pid="d/InderjitSDhillon">Inderjit S. Dhillon</na></co>
+<co c="0"><na f="d/Dhulipala:Laxman" pid="147/3439">Laxman Dhulipala</na></co>
+<co c="0"><na f="d/Dimakis:Alexandros_G=" pid="19/5000">Alexandros G. Dimakis</na></co>
+<co c="0"><na f="d/Ding:Xiaoning" pid="36/679">Xiaoning Ding</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="d/Dubey:Pradeep" pid="47/4438">Pradeep Dubey</na></co>
+<co c="0"><na f="e/Ebrahimi:Eiman" pid="85/6918">Eiman Ebrahimi</na></co>
+<co c="0"><na f="e/Eckert_0001:Claudia" pid="e/ClaudiaEckert">Claudia Eckert 0001</na></co>
+<co c="0"><na f="e/Elkan:Charles" pid="e/CharlesElkan">Charles Elkan</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0"><na f="f/Fallin:Chris" pid="56/9226">Chris Fallin</na></co>
+<co c="0"><na f="f/Faloutsos:Christos" pid="f/CFaloutsos">Christos Faloutsos</na></co>
+<co c="0"><na f="f/Falsafi:Babak" pid="f/BabakFalsafi">Babak Falsafi</na></co>
+<co c="0"><na f="f/Fineman:Jeremy_T=" pid="37/2868">Jeremy T. Fineman</na></co>
+<co c="0"><na f="f/Fix:Limor" pid="25/1812">Limor Fix</na></co>
+<co c="0" n="2"><na f="f/Flaxman:Abraham_D=" pid="f/AbrahamDFlaxman">Abraham D. Flaxman</na><na>Abraham Flaxman</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Funiak:Stanislav" pid="02/351">Stanislav Funiak</na></co>
+<co c="0"><na f="f/Fursin:Grigori" pid="61/2980">Grigori Fursin</na></co>
+<co c="0"><na f="g/Gabber:Eran" pid="25/598">Eran Gabber</na></co>
+<co c="0"><na f="g/Ganger:Gregory_R=" pid="g/GregoryRGanger">Gregory R. Ganger</na></co>
+<co c="0"><na f="g/Ganguly:Sumit" pid="g/SumitGanguly">Sumit Ganguly</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Garrod:Charles" pid="77/5906">Charles Garrod</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Getoor:Lise" pid="g/LiseGetoor">Lise Getoor</na></co>
+<co c="0"><na f="g/Gharachorloo:Kourosh" pid="79/3674">Kourosh Gharachorloo</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Ghose:Saugata" pid="94/7357">Saugata Ghose</na></co>
+<co c="0"><na f="g/Gibson:Garth_A=" pid="g/GarthAGibson">Garth A. Gibson</na></co>
+<co c="0"><na f="g/Goldstein:Seth_Copen" pid="g/SCGoldstein">Seth Copen Goldstein</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0"><na f="g/Goodstein:Michelle_L=" pid="45/7934">Michelle L. Goodstein</na></co>
+<co c="0" n="2"><na f="g/Gottschlich:Justin_Emile" pid="56/2013">Justin Emile Gottschlich</na><na>Justin Gottschlich</na></co>
+<co c="0"><na f="g/Gray_0001:Jim" pid="g/JimGray">Jim Gray 0001</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="g/Gu_0001:Yan" pid="61/2029-1">Yan Gu 0001</na></co>
+<co c="0"><na f="g/Guestrin:Carlos" pid="38/769">Carlos Guestrin</na></co>
+<co c="0"><na f="g/Gupta:Anoop" pid="g/AnoopGupta">Anoop Gupta</na></co>
+<co c="0"><na f="g/Gupta_0003:Ashish" pid="27/4744-3">Ashish Gupta 0003</na></co>
+<co c="0"><na f="h/Haber=Kucharsky:Jesse" pid="137/0121">Jesse Haber-Kucharsky</na></co>
+<co c="0"><na f="h/Haeupler:Bernhard" pid="39/1043">Bernhard Haeupler</na></co>
+<co c="0"><na f="h/Hajinazar:Nastaran" pid="202/2465">Nastaran Hajinazar</na></co>
+<co c="0"><na f="h/Han_0003:Song" pid="80/806-3">Song Han 0003</na></co>
+<co c="0"><na f="h/Hansen:Mark_H=" pid="h/MarkHHansen">Mark H. Hansen</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/Hardavellas:Nikos" pid="h/NikolaosHardavellas">Nikos Hardavellas</na></co>
+<co c="0"><na f="h/Harlap:Aaron" pid="185/9204">Aaron Harlap</na></co>
+<co c="0"><na f="h/Harper_0001:Robert" pid="h/RobertHarper">Robert Harper 0001</na></co>
+<co c="0"><na f="h/Hassan:Hasan" pid="147/4013">Hasan Hassan</na></co>
+<co c="0"><na f="h/Hazelwood:Kim_M=" pid="77/1117">Kim M. Hazelwood</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Helfrich:Casey" pid="66/6473">Casey Helfrich</na></co>
+<co c="0"><na f="h/Hennessy:John_L=" pid="h/JohnLHennessy">John L. Hennessy</na></co>
+<co c="0"><na f="h/Hillyer:Bruce" pid="h/BruceHillyer">Bruce Hillyer</na></co>
+<co c="0"><na f="h/Ho:Qirong" pid="13/7590">Qirong Ho</na></co>
+<co c="0"><na f="h/Hoburg:James_F=" pid="98/4476">James F. Hoburg</na></co>
+<co c="0"><na f="h/Hsieh:Kevin" pid="173/8396">Kevin Hsieh</na></co>
+<co c="0"><na f="h/Hsu:Chin=Chi" pid="82/11150">Chin-Chi Hsu</na></co>
+<co c="0"><na f="h/Hsu:Fu=Chun" pid="164/1831">Fu-Chun Hsu</na></co>
+<co c="0"><na f="h/Hsu:Jane_Yung=jen" pid="55/866">Jane Yung-jen Hsu</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huang:Furong" pid="72/8513">Furong Huang</na></co>
+<co c="0"><na f="h/Huberty:Tyler" pid="160/0664">Tyler Huberty</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Jain:Abhilasha" pid="147/4879">Abhilasha Jain</na></co>
+<co c="0"><na f="j/Jamieson:Kevin_G=" pid="85/10260">Kevin G. Jamieson</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="0"><na f="j/Jog:Adwait" pid="64/11467">Adwait Jog</na></co>
+<co c="0"><na f="j/Johnson_0001:Ryan" pid="98/3414-1">Ryan Johnson 0001</na></co>
+<co c="0"><na f="j/Jordan:Michael_I=" pid="j/MichaelIJordan">Michael I. Jordan</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="j/Jothimurugesan:Ellango" pid="231/7664">Ellango Jothimurugesan</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Kaminsky:Michael" pid="09/4259">Michael Kaminsky</na></co>
+<co c="0"><na f="k/Kang:Hongbo" pid="66/10178">Hongbo Kang</na></co>
+<co c="0"><na f="k/Karp:Brad" pid="06/5980">Brad Karp</na></co>
+<co c="0"><na f="k/Karp:Richard_M=" pid="k/RichardMKarp">Richard M. Karp</na></co>
+<co c="0"><na f="k/Ke:Yan" pid="13/6836">Yan Ke</na></co>
+<co c="0"><na f="k/Khalaf:Rania" pid="36/4111">Rania Khalaf</na></co>
+<co c="0"><na f="k/Khan:Samira_Manabi" pid="01/9032">Samira Manabi Khan</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Kim:Jeremie_S=" pid="148/9733">Jeremie S. Kim</na></co>
+<co c="0"><na f="k/Kim:Jin_Kyu" pid="72/3322">Jin Kyu Kim</na></co>
+<co c="0"><na f="k/Kim:Yoongu" pid="70/4287">Yoongu Kim</na></co>
+<co c="0"><na f="k/Kirby:Brian_T=" pid="82/2190">Brian T. Kirby</na></co>
+<co c="0"><na f="k/Kitagawa:Hiroyuki" pid="k/HiroyukiKitagawa">Hiroyuki Kitagawa</na></co>
+<co c="0"><na f="k/Knight:Jason" pid="213/8147">Jason Knight</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Konomis:Dimitris" pid="197/7164">Dimitris Konomis</na></co>
+<co c="-1"><na f="k/Korach:Ephraim" pid="38/1121">Ephraim Korach</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0" n="2"><na f="k/Kozuch:Michael_A=" pid="59/5000">Michael A. Kozuch</na><na>Michael Kozuch</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Kristol:David_M=" pid="02/5091">David M. Kristol</na></co>
+<co c="0" n="2"><na f="k/Kuffner:James_J=" pid="k/JamesKuffner">James J. Kuffner</na><na>James Kuffner</na></co>
+<co c="0"><na f="k/Kumar:Abhimanu" pid="42/7480">Abhimanu Kumar</na></co>
+<co c="0"><na f="k/Kumar_0001:Arun" pid="30/4308-1">Arun Kumar 0001</na></co>
+<co c="0"><na f="k/Kung:Perng=Hwa" pid="130/0306">Perng-Hwa Kung</na></co>
+<co c="0"><na f="k/Kyrillidis:Anastasios" pid="53/9879">Anastasios Kyrillidis</na></co>
+<co c="0"><na f="k/Kyrola:Aapo" pid="42/8263">Aapo Kyrola</na></co>
+<co c="0"><na f="l/Laudon:James" pid="65/336">James Laudon</na></co>
+<co c="0" n="2"><na f="l/Lee:Chia=han" pid="53/5898">Chia-han Lee</na><na>Chia-Han Lee</na></co>
+<co c="0"><na f="l/Lee:Donghyuk" pid="00/10253">Donghyuk Lee</na></co>
+<co c="0"><na f="l/Lee_0001:Peter" pid="l/PeterLee1">Peter Lee 0001</na></co>
+<co c="0"><na f="l/Lee:Seunghak" pid="22/4961">Seunghak Lee</na></co>
+<co c="0"><na f="l/Lei_0001:Hui" pid="l/HuiLei">Hui Lei 0001</na></co>
+<co c="0"><na f="l/Lenoski:Daniel" pid="31/5891">Daniel Lenoski</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Li:Chung=Yi" pid="76/6876">Chung-Yi Li</na></co>
+<co c="0"><na f="l/Li_0073:Jing" pid="181/2820-73">Jing Li 0073</na></co>
+<co c="0"><na f="l/Liaskovitis:Vasileios" pid="49/5998">Vasileios Liaskovitis</na></co>
+<co c="0"><na f="l/Liebhold:Michael" pid="02/59">Michael Liebhold</na></co>
+<co c="0"><na f="l/Lin_0002:Bin" pid="11/1186-2">Bin Lin 0002</na></co>
+<co c="0"><na f="l/Lin:Shou=De" pid="60/7120">Shou-De Lin</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="l/Lu:Yu=Chen" pid="140/9589">Yu-Chen Lu</na></co>
+<co c="0"><na f="l/Luo:Yixin" pid="47/11029">Yixin Luo</na></co>
+<co c="0"><na f="m/Madden:Samuel" pid="m/SamuelMadden">Samuel Madden</na></co>
+<co c="0"><na f="m/Maggs:Bruce_M=" pid="m/BruceMMaggs">Bruce M. Maggs</na></co>
+<co c="0"><na f="m/Majumdar:Diptesh" pid="153/3536">Diptesh Majumdar</na></co>
+<co c="0"><na f="m/Manjhi:Amit" pid="69/2448">Amit Manjhi</na></co>
+<co c="0"><na f="m/Matias:Yossi" pid="m/YossiMatias">Yossi Matias</na></co>
+<co c="0"><na f="m/Mayer:Alain_J=" pid="41/72">Alain J. Mayer</na></co>
+<co c="0"><na f="m/McGuffey:Charles" pid="173/0272">Charles McGuffey</na></co>
+<co c="0"><na f="m/McKenzie:Todd_G=" pid="173/9060">Todd G. McKenzie</na></co>
+<co c="0"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na></co>
+<co c="0"><na f="m/Meijer_0001:Erik" pid="m/ErikMeijer">Erik Meijer 0001</na></co>
+<co c="0"><na f="m/Merritt:Michael" pid="79/4421">Michael Merritt</na></co>
+<co c="0"><na f="m/Miller:Gary_L=" pid="m/GaryLMiller">Gary L. Miller</na></co>
+<co c="0"><na f="m/Mitliagkas:Ioannis" pid="83/8757">Ioannis Mitliagkas</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0"><na f="m/Monga:Rajat" pid="99/10669">Rajat Monga</na></co>
+<co c="0"><na f="m/Mowry:Todd_C=" pid="65/4120">Todd C. Mowry</na></co>
+<co c="-1"><na f="m/Muchnick:Steven_S=" pid="02/6379">Steven S. Muchnick</na></co>
+<co c="0"><na f="m/Mullins:Thomas" pid="173/9809">Thomas Mullins</na></co>
+<co c="0"><na f="m/Mummert:Lily_B=" pid="m/LilyBMummert">Lily B. Mummert</na></co>
+<co c="0"><na f="m/Murray:Derek_Gordon" pid="82/1824">Derek Gordon Murray</na></co>
+<co c="0"><na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na></co>
+<co c="0"><na f="n/Narayanan:Deepak" pid="177/8846">Deepak Narayanan</na></co>
+<co c="0"><na f="n/Narlikar:Girija_J=" pid="n/GirijaJNarlikar">Girija J. Narlikar</na></co>
+<co c="0"><na f="n/Nath:Suman" pid="85/6293">Suman Nath</na></co>
+<co c="0"><na f="n/Niblack:Wayne" pid="07/3953">Wayne Niblack</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="o/Olston:Christopher" pid="o/ChristopherOlston">Christopher Olston</na></co>
+<co c="0"><na f="o/Ou:Shun=Hsing" pid="127/0434">Shun-Hsing Ou</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Palmer:Christopher_R=" pid="p/ChristopherRPalmer">Christopher R. Palmer</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Pang:Jeffrey" pid="17/2705">Jeffrey Pang</na></co>
+<co c="0"><na f="p/Papadimitriou:Spiros" pid="73/6671">Spiros Papadimitriou</na></co>
+<co c="0"><na f="p/Papailiopoulos:Dimitris_S=" pid="77/344">Dimitris S. Papailiopoulos</na></co>
+<co c="0"><na f="p/Paradiso:Joseph_A=" pid="46/4069">Joseph A. Paradiso</na></co>
+<co c="0"><na f="p/Pekhimenko:Gennady" pid="118/8979">Gennady Pekhimenko</na></co>
+<co c="0"><na f="p/Phanishayee:Amar" pid="14/877">Amar Phanishayee</na></co>
+<co c="0"><na f="p/Philipose:Matthai" pid="p/MPhilipose">Matthai Philipose</na></co>
+<co c="0"><na f="p/Phillips:Steven" pid="28/1474">Steven Phillips</na></co>
+<co c="0"><na f="p/Pillai:Padmanabhan" pid="36/6668">Padmanabhan Pillai</na></co>
+<co c="0"><na f="p/Poosala:Viswanath" pid="p/VPoosala">Viswanath Poosala</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="q/Qiao:Aurick" pid="141/2530">Aurick Qiao</na></co>
+<co c="0"><na f="r/Ramachandran:Vijaya" pid="09/5113">Vijaya Ramachandran</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0"><na f="r/Ramaswamy:Sridhar" pid="85/6371">Sridhar Ramaswamy</na></co>
+<co c="0"><na f="r/Rao:Ramesh_R=" pid="r/RameshRRao">Ramesh R. Rao</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Ratner:Alexander" pid="180/5513">Alexander Ratner</na></co>
+<co c="0"><na f="r/Ravichandran:Ram" pid="04/4708">Ram Ravichandran</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Rekatsinas:Theodoros" pid="51/11411">Theodoros Rekatsinas</na></co>
+<co c="0"><na f="r/Rister:Benjamin_D=" pid="15/2184">Benjamin D. Rister</na></co>
+<co c="0"><na f="r/Rostamizadeh:Afshin" pid="97/4479">Afshin Rostamizadeh</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="r/Ruwase:Olatunji" pid="72/2838">Olatunji Ruwase</na></co>
+<co c="0"><na f="r/Ryan:Michael_P=" pid="11/5668">Michael P. Ryan</na></co>
+<co c="0"><na f="s/Sa:Christopher_De" pid="154/6336">Christopher De Sa</na></co>
+<co c="0"><na f="s/Sanz:Jorge_L=_C=" pid="44/1628">Jorge L. C. Sanz</na></co>
+<co c="0"><na f="s/Satyanarayanan:Mahadev" pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</na></co>
+<co c="0"><na f="s/Scheideler:Christian" pid="s/ChristianScheideler">Christian Scheideler</na></co>
+<co c="0"><na f="s/Schlosser:Steven_W=" pid="52/1925">Steven W. Schlosser</na></co>
+<co c="0"><na f="s/Sedghi:Hanie" pid="66/8332">Hanie Sedghi</na></co>
+<co c="0"><na f="s/Sen_0001:Siddhartha" pid="58/968">Siddhartha Sen 0001</na></co>
+<co c="0"><na f="s/Seshadri:Vivek" pid="117/0561">Vivek Seshadri</na></co>
+<co c="0"><na f="s/Seshan:Srinivasan" pid="s/SrinivasanSeshan">Srinivasan Seshan</na></co>
+<co c="0"><na f="s/Shan:Jianchen" pid="74/8875">Jianchen Shan</na></co>
+<co c="0"><na f="s/Shi:Chenwei" pid="78/7397">Chenwei Shi</na></co>
+<co c="0"><na f="s/Shrestha:Ashish" pid="59/7652">Ashish Shrestha</na></co>
+<co c="0"><na f="s/Shriver:Elizabeth_A=_M=" pid="64/2667">Elizabeth A. M. Shriver</na></co>
+<co c="0"><na f="s/Shun:Julian" pid="82/9876">Julian Shun</na></co>
+<co c="0"><na f="s/Silberschatz:Abraham" pid="s/AbrahamSilberschatz">Abraham Silberschatz</na></co>
+<co c="0"><na f="s/Simhadri:Harsha_Vardhan" pid="13/7216">Harsha Vardhan Simhadri</na></co>
+<co c="0"><na f="s/Simoens:Pieter" pid="10/3654">Pieter Simoens</na></co>
+<co c="0"><na f="s/Sitti:Metin" pid="25/3694">Metin Sitti</na></co>
+<co c="0"><na f="s/Smith:Virginia" pid="120/0921">Virginia Smith</na></co>
+<co c="0" n="2"><na f="s/Smola:Alexander_J=" pid="s/AlexanderJSmola">Alexander J. Smola</na><na>Alex Smola</na></co>
+<co c="0"><na f="s/Somayazulu:V=_Srinivasa" pid="83/11061">V. Srinivasa Somayazulu</na></co>
+<co c="0" n="2"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na><na>Dawn Xiaodong Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Soroker:Danny" pid="14/2562">Danny Soroker</na></co>
+<co c="0"><na f="s/Sparks:Evan_R=" pid="136/5765">Evan R. Sparks</na></co>
+<co c="0"><na f="s/Spirakis:Paul_G=" pid="s/PaulGSpirakis">Paul G. Spirakis</na></co>
+<co c="0"><na f="s/Spoonhower:Daniel" pid="51/4877">Daniel Spoonhower</na></co>
+<co c="0"><na f="s/Stankovic:John_A=" pid="s/JohnAStankovic">John A. Stankovic</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Stoica:Radu" pid="84/2124">Radu Stoica</na></co>
+<co c="0"><na f="s/Strigkos:Theodoros" pid="15/5184">Theodoros Strigkos</na></co>
+<co c="0"><na f="s/Su:Wei=Lun" pid="123/5121">Wei-Lun Su</na></co>
+<co c="0"><na f="s/Sukthankar:Rahul" pid="57/3775">Rahul Sukthankar</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0" n="2"><na f="s/Szalay:Alex" pid="s/AlexanderSSzalay">Alex Szalay</na><na>Alexander S. Szalay</na></co>
+<co c="0"><na f="s/Sze:Vivienne" pid="49/3209">Vivienne Sze</na></co>
+<co c="0"><na f="s/Szegedy:Mario" pid="21/3238">Mario Szegedy</na></co>
+<co c="0"><na f="t/Tahmasbi:Ashraf" pid="231/7680">Ashraf Tahmasbi</na></co>
+<co c="0"><na f="t/Talwalkar:Ameet" pid="56/5528">Ameet Talwalkar</na></co>
+<co c="0"><na f="t/Tangwongsan:Kanat" pid="64/4316">Kanat Tangwongsan</na></co>
+<co c="0"><na f="t/Tao:Vincent" pid="75/3420">Vincent Tao</na></co>
+<co c="0" n="2"><na f="t/Tarjan:Robert_E=" pid="t/RobertEndreTarjan">Robert E. Tarjan</na><na>Robert Endre Tarjan</na></co>
+<co c="0"><na f="t/Teodorescu:Radu" pid="04/3074">Radu Teodorescu</na></co>
+<co c="0"><na f="t/Tirthapura:Srikanta" pid="40/3710">Srikanta Tirthapura</na></co>
+<co c="0"><na f="t/Tomasic:Anthony" pid="t/AnthonyTomasic">Anthony Tomasic</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="t/Tumanov:Alexey" pid="41/6224">Alexey Tumanov</na></co>
+<co c="0"><na f="u/Udell:Madeleine" pid="153/2166">Madeleine Udell</na></co>
+<co c="0"><na f="v/Valentin:Gary" pid="73/4409">Gary Valentin</na></co>
+<co c="0"><na f="v/Vanschoren:Joaquin" pid="85/5045">Joaquin Vanschoren</na></co>
+<co c="0"><na f="v/Venkataraman:Shivaram" pid="65/8569">Shivaram Venkataraman</na></co>
+<co c="0"><na f="v/Venkataraman:Shobha" pid="03/2602">Shobha Venkataraman</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="v/Vijaykumar:Nandita" pid="163/0027">Nandita Vijaykumar</na></co>
+<co c="0"><na f="v/Vinayak:Rashmi" pid="239/4205">Rashmi Vinayak</na></co>
+<co c="0"><na f="v/Vishkin:Uzi" pid="v/UziVishkin">Uzi Vishkin</na></co>
+<co c="0"><na f="v/Vitter:Jeffrey_Scott" pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</na></co>
+<co c="0"><na f="v/Vlachos:Evangelos" pid="22/6647">Evangelos Vlachos</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wang:Jui=Pin" pid="118/5975">Jui-Pin Wang</na></co>
+<co c="0"><na f="w/Wang:Kaibo" pid="53/2141">Kaibo Wang</na></co>
+<co c="0"><na f="w/Wei:Jinliang" pid="124/4315">Jinliang Wei</na></co>
+<co c="0"><na f="w/Weimer:Markus" pid="89/6502">Markus Weimer</na></co>
+<co c="0"><na f="w/Wicker:Stephen_B=" pid="21/3476">Stephen B. Wicker</na></co>
+<co c="0"><na f="w/Wilkerson:Chris" pid="40/4137">Chris Wilkerson</na></co>
+<co c="0"><na f="w/Wilson:Andrew_Gordon" pid="65/10453">Andrew Gordon Wilson</na></co>
+<co c="0"><na f="w/Wong:Angeline" pid="62/2684">Angeline Wong</na></co>
+<co c="0"><na f="w/Wu:Leejay" pid="84/5333">Leejay Wu</na></co>
+<co c="0"><na f="x/Xiao:Feng" pid="71/1116">Feng Xiao</na></co>
+<co c="0"><na f="x/Xiao_0002:Han" pid="98/627-2">Han Xiao 0002</na></co>
+<co c="0"><na f="x/Xin:Hongyi" pid="26/11030">Hongyi Xin</na></co>
+<co c="0"><na f="x/Xing:Eric_P=" pid="36/3855">Eric P. Xing</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Lianghong" pid="68/2865">Lianghong Xu</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yedkar:Samihan" pid="130/8995">Samihan Yedkar</na></co>
+<co c="0"><na f="y/Yeh:Mi=Yen" pid="43/2669">Mi-Yen Yeh</na></co>
+<co c="0"><na f="y/Yeti:Mi=Yen" pid="159/3890">Mi-Yen Yeti</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu:Haifeng" pid="69/1249">Haifeng Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="z/Zagha:Marco" pid="z/MarcoZagha">Marco Zagha</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zeinalipour=Yazti:Demetrios" pid="z/DemetriosZeinalipourYazti">Demetrios Zeinalipour-Yazti</na></co>
+<co c="0"><na f="z/Zhang_0001:Ce" pid="97/919-1">Ce Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0025:Hao" pid="55/2270-25">Hao Zhang 0025</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiaodong" pid="37/4356-1">Xiaodong Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yuda" pid="90/8397">Yuda Zhao</na></co>
+</coauthors>
+</dblpperson>
+

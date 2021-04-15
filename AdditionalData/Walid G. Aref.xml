@@ -1,3 +1,3858 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce7a7850497ed8e6af17a078b7ac44a699d9571b46606a8503f95af80d05f45b
-size 169567
+<?xml version="1.0"?>
+<dblpperson name="Walid G. Aref" pid="a/WGAref" n="241">
+<person key="homepages/a/WGAref" mdate="2020-02-12">
+<author pid="a/WGAref">Walid G. Aref</author>
+<note type="affiliation">Purdue University, West Lafayette, USA</note>
+<url>http://www.cs.purdue.edu/people/faculty/aref/</url>
+<url>https://scholar.google.com/citations?user=vX45evgAAAAJ</url>
+<url>https://dl.acm.org/profile/81100086855</url>
+<url>https://orcid.org/0000-0001-8169-7775</url>
+</person>
+<r><article key="journals/fdata/TangYMMOA20" mdate="2020-10-23">
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>LocationSpark: In-memory Distributed Spatial Query Processing and Optimization.</title>
+<pages>30</pages>
+<year>2020</year>
+<volume>3</volume>
+<journal>Frontiers Big Data</journal>
+<ee type="oa">https://doi.org/10.3389/fdata.2020.00030</ee>
+<url>db/journals/fdata/fdata3.html#TangYMMOA20</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/AlmaslukhMAMEHN20" mdate="2020-05-22">
+<author orcid="0000-0002-2147-5772" pid="229/8688">Abdulaziz Almaslukh</author>
+<author pid="05/8073-1">Amr Magdy 0001</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="18/1967">Sameh Elnikety</author>
+<author pid="50/174">Yuxiong He</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Local trend discovery on real-time microblogs with uncertain locations in tight memory environments.</title>
+<pages>301-337</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>GeoInformatica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10707-019-00380-z</ee>
+<url>db/journals/geoinformatica/geoinformatica24.html#AlmaslukhMAMEHN20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenCCMA20" mdate="2020-08-17">
+<author pid="79/5815">Yue Chen</author>
+<author pid="125/6665">Zhida Chen</author>
+<author pid="33/3180">Gao Cong</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>SSTD: A Distributed System on Streaming Spatio-Textual Data.</title>
+<pages>2284-2296</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2284-chen.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#ChenCCMA20</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/Al-MamunWA20" mdate="2020-11-23">
+<author pid="278/8830">Abdullah Al-Mamun 0003</author>
+<author pid="72/4250">Hao Wu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>A Tutorial on Learned Multi-dimensional Indexes.</title>
+<pages>1-4</pages>
+<year>2020</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3397536.3426358</ee>
+<crossref>conf/gis/2020</crossref>
+<url>db/conf/gis/gis2020.html#Al-MamunWA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/DaghistaniAG20" mdate="2020-11-19">
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<title>TrioStat: Online Workload Estimation in Distributed Spatial Data Streaming Systems.</title>
+<pages>78-86</pages>
+<year>2020</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3397536.3422220</ee>
+<crossref>conf/gis/2020</crossref>
+<url>db/conf/gis/gis2020.html#DaghistaniAG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeevast/WangGTNYDKAE20" mdate="2021-04-09">
+<author pid="35/10190">Guizhen Wang</author>
+<author pid="65/7760">Jingjing Guo</author>
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="193/5381">Jos&#233; Florencio de Queiroz Neto</author>
+<author pid="183/8909">Calvin Yau</author>
+<author pid="137/6627">Anas Daghistani</author>
+<author orcid="0000-0002-6498-1763" pid="139/7516">Morteza Karimzadeh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="65/2401">David S. Ebert</author>
+<title>STULL: Unbiased Online Sampling for Visual Exploration of Large Spatiotemporal Data.</title>
+<pages>72-83</pages>
+<year>2020</year>
+<booktitle>IEEE VAST@IEEE VIS</booktitle>
+<ee>https://doi.org/10.1109/VAST50239.2020.00012</ee>
+<crossref>conf/ieeevast/2020</crossref>
+<url>db/conf/ieeevast/ieeevast2020.html#WangGTNYDKAE20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AbdelhamidA20" mdate="2020-06-08">
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>PartLy: learning data partitioning for distributed data stream processing.</title>
+<pages>6:1-6:4</pages>
+<year>2020</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3401071.3401660</ee>
+<crossref>conf/sigmod/2020aidm</crossref>
+<url>db/conf/sigmod/aidm2020.html#AbdelhamidA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AbdelhamidMDA20" mdate="2020-06-05">
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Prompt: Dynamic Data-Partitioning for Distributed Micro-batch Stream Processing Systems.</title>
+<pages>2455-2469</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389713</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#AbdelhamidMDA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenCA20" mdate="2020-06-05">
+<author pid="125/6665">Zhida Chen</author>
+<author pid="33/3180">Gao Cong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>STAR: A Distributed Stream Warehouse System for Spatial Data.</title>
+<pages>2761-2764</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384699</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ChenCA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/UzunbazA20" mdate="2020-08-01">
+<author pid="01/9690">Serkan Uzunbaz</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Shared Execution Techniques for Business Data Analytics over Big Data Streams.</title>
+<pages>25:1-25:4</pages>
+<year>2020</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3400903.3400932</ee>
+<crossref>conf/ssdbm/2020</crossref>
+<url>db/conf/ssdbm/ssdbm2020.html#UzunbazA20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-11862" mdate="2020-03-03">
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<title>SWARM: Adaptive Load Balancing in Distributed Streaming Systems for Big Spatial Data.</title>
+<year>2020</year>
+<volume>abs/2002.11862</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.11862</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-11862</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-13028" mdate="2020-09-16">
+<author pid="35/10190">Guizhen Wang</author>
+<author pid="65/7760">Jingjing Guo</author>
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="193/5381">Jos&#233; Florencio de Queiroz Neto</author>
+<author pid="183/8909">Calvin Yau</author>
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="139/7516">Morteza Karimzadeh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="65/2401">David S. Ebert</author>
+<title>STULL: Unbiased Online Sampling for Visual Exploration of Large Spatiotemporal Data.</title>
+<year>2020</year>
+<volume>abs/2008.13028</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.13028</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-13028</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-06171" mdate="2021-01-02">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="160/0769">Christian Schulz</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The Future is Big Graphs! A Community View on Graph Processing Systems.</title>
+<year>2020</year>
+<volume>abs/2012.06171</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.06171</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-06171</url>
+</article>
+</r>
+<r><book key="series/synthesis/2019Mahmood" mdate="2019-06-18">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Scalable Processing of Spatial-Keyword Queries</title>
+<booktitle>Scalable Processing of Spatial-Keyword Queries</booktitle>
+<publisher>Morgan &#38; Claypool Publishers</publisher>
+<year>2019</year>
+<series href="db/series/synthesis/dtm.html">Synthesis Lectures on Data Management</series>
+<ee>https://doi.org/10.2200/S00892ED1V01Y201901DTM056</ee>
+</book>
+</r>
+<r><article key="journals/geoinformatica/MahmoodPA19" mdate="2019-04-12">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="238/7697">Sri Punni</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<title>Spatio-temporal access methods: a survey (2010 - 2017).</title>
+<pages>1-36</pages>
+<year>2019</year>
+<volume>23</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10707-018-0329-2</ee>
+<url>db/journals/geoinformatica/geoinformatica23.html#MahmoodPA19</url>
+</article>
+</r>
+<r><article key="journals/tdsc/ArshadFPGA19" mdate="2020-09-05">
+<author orcid="0000-0002-0498-6175" pid="71/303">Muhammad Umer Arshad</author>
+<author pid="135/7413">Muhamad Felemban</author>
+<author orcid="0000-0002-3544-4440" pid="143/9503">Zahid Pervaiz</author>
+<author orcid="0000-0002-3707-8173" pid="81/1710">Arif Ghafoor</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>A Privacy Mechanism for Access Controlled Graph Data.</title>
+<pages>819-832</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TDSC.2017.2714660</ee>
+<url>db/journals/tdsc/tdsc16.html#ArshadFPGA19</url>
+</article>
+</r>
+<r><article key="journals/tsas/Aref19" mdate="2020-08-27">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Introduction to the Special Issue on the Best Papers from the 2017 ACM SIGSPATIAL Conference.</title>
+<pages>1:1-1:2</pages>
+<year>2019</year>
+<volume>5</volume>
+<journal>ACM Trans. Spatial Algorithms Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3325134</ee>
+<url>db/journals/tsas/tsas5.html#Aref19</url>
+</article>
+</r>
+<r><article key="journals/tsas/Aref19a" mdate="2020-08-27">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Editorial: Special Issue on the Best Papers from the 2018 ACM SIGSPATIAL Conference.</title>
+<pages>21:1-21:2</pages>
+<year>2019</year>
+<volume>5</volume>
+<journal>ACM Trans. Spatial Algorithms Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3368439</ee>
+<url>db/journals/tsas/tsas5.html#Aref19a</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/ShinMA19" mdate="2019-11-14">
+<author pid="174/2648">Jaewoo Shin</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>An Investigation of Grid-enabled Tree Indexes for Spatial Query Processing.</title>
+<pages>169-178</pages>
+<year>2019</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3347146.3359384</ee>
+<crossref>conf/gis/2019</crossref>
+<url>db/conf/gis/gis2019.html#ShinMA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EbaidTAEO19" mdate="2019-06-12">
+<author pid="131/4161">Amr Ebaid</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>EXPLAINER: Entity Resolution Explanations.</title>
+<pages>2000-2003</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00224</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#EbaidTAEO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangYAMO19" mdate="2019-06-11">
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Efficient Parallel Skyline Query Processing for High-Dimensional Data.</title>
+<pages>2113-2114</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00251</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#TangYAMO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RezigOEAS19" mdate="2019-09-25">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Towards an End-to-End Human-Centric Data Cleaning Framework.</title>
+<pages>1:1-1:7</pages>
+<year>2019</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3328519.3329133</ee>
+<crossref>conf/sigmod/2019hilda</crossref>
+<url>db/conf/sigmod/hilda2019.html#RezigOEAS19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ssd/2019" mdate="2021-04-09">
+<editor pid="a/WGAref">Walid G. Aref</editor>
+<editor pid="b/MBertolotto">Michela Bertolotto</editor>
+<editor pid="38/4801">Panagiotis Bouros</editor>
+<editor pid="j/ChristianSJensen">Christian S. Jensen</editor>
+<editor pid="120/1508">Ahmed Mahmood</editor>
+<editor pid="n/KjetilNorvag">Kjetil N&#248;rv&#229;g</editor>
+<editor orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</editor>
+<editor pid="95/9990">Mohamed Sarwat</editor>
+<title>Proceedings of the 16th International Symposium on Spatial and Temporal Databases, SSTD 2019, Vienna, Austria, August 19-21, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>SSTD</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6280-1</isbn>
+<ee>https://doi.org/10.1145/3340964</ee>
+<url>db/conf/ssd/sstd2019.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/MahmoodA19" mdate="2019-02-14">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Streaming Big Spatial Data.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_70-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#MahmoodA19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-03736" mdate="2019-07-23">
+<author pid="01/7213">Mingjie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>LocationSpark: In-memory Distributed Spatial Query Processing and Optimization.</title>
+<year>2019</year>
+<volume>abs/1907.03736</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.03736</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-03736</url>
+</article>
+</r>
+<r><article key="journals/dpd/MershadMOTGA18" mdate="2020-05-18">
+<author pid="161/7909">Khaleel Mershad</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author orcid="0000-0002-1718-0242" pid="99/1651">Michael Gribskov</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>AUDIT: approving and tracking updates with dependencies in collaborative databases.</title>
+<pages>81-119</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10619-017-7208-y</ee>
+<url>db/journals/dpd/dpd36.html#MershadMOTGA18</url>
+</article>
+</r>
+<r><article key="journals/dpd/MershadMOTGAP18" mdate="2020-05-18">
+<author pid="161/7909">Khaleel Mershad</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author orcid="0000-0002-1718-0242" pid="99/1651">Michael Gribskov</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0003-3729-683X" pid="216/2348">Deo Prakash</author>
+<title>COACT: a query interface language for collaborative databases.</title>
+<pages>121-151</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10619-017-7213-1</ee>
+<url>db/journals/dpd/dpd36.html#MershadMOTGAP18</url>
+</article>
+</r>
+<r><article key="journals/tkde/TangYAMO18" mdate="2018-11-02">
+<author orcid="0000-0002-8893-4574" pid="01/7213">MingJie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0003-2849-0569" pid="99/5275">Qutaibah M. Malluhi</author>
+<author orcid="0000-0002-4035-3025" pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Efficient Parallel Skyline Query Processing for High-Dimensional Data.</title>
+<pages>1838-1851</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2809598</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2018.2809598</ee>
+<url>db/journals/tkde/tkde30.html#TangYAMO18</url>
+</article>
+</r>
+<r><article key="journals/tsas/MahmoodAKBA18" mdate="2020-10-26">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Disk-Based Indexing of Recent Trajectories.</title>
+<pages>7:1-7:27</pages>
+<year>2018</year>
+<volume>4</volume>
+<journal>ACM Trans. Spatial Algorithms Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3234941</ee>
+<url>db/journals/tsas/tsas4.html#MahmoodAKBA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/PradhanAP18" mdate="2018-08-20">
+<author pid="199/6324">Romila Pradhan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Leveraging Data Relationships to Resolve Conflicts from Disparate Data Sources.</title>
+<pages>99-115</pages>
+<year>2018</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98812-2_7</ee>
+<crossref>conf/dexa/2018-2</crossref>
+<url>db/conf/dexa/dexa2018-2.html#PradhanAP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HassanKJAS18" mdate="2021-01-29">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author pid="206/7386">Hyun Chai Jeong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Extending In-Memory Relational Database Engines with Native Graph Support.</title>
+<pages>25-36</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.04</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#HassanKJAS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/MahmoodDATBPA18" mdate="2020-10-25">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="01/7213">MingJie Tang</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Adaptive processing of spatial-keyword data over a distributed streaming cluster.</title>
+<pages>219-228</pages>
+<year>2018</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3274895.3274932</ee>
+<crossref>conf/gis/2018</crossref>
+<url>db/conf/gis/gis2018.html#MahmoodDATBPA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MahmoodAA18" mdate="2018-11-20">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>FAST: Frequency-Aware Indexing for Spatio-Textual Data Streams.</title>
+<pages>305-316</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00036</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00036</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#MahmoodAA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/MadkourAA18" mdate="2018-10-01">
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>WORQ: Workload-Driven RDF Query Processing.</title>
+<pages>583-599</pages>
+<year>2018</year>
+<booktitle>International Semantic Web Conference (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00671-6_34</ee>
+<crossref>conf/semweb/2018-1</crossref>
+<url>db/conf/semweb/iswc2018-1.html#MadkourAA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MadkourAA18" mdate="2018-11-21">
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<title>SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning.</title>
+<pages>1:1-1:6</pages>
+<year>2018</year>
+<booktitle>SBD@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3208352.3208356</ee>
+<crossref>conf/sigmod/2018sbd</crossref>
+<url>db/conf/sigmod/sbd2018.html#MadkourAA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MadkourAPAB18" mdate="2018-11-21">
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="62/7525">Siarhei Bykau</author>
+<title>TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources.</title>
+<pages>5:1-5:6</pages>
+<year>2018</year>
+<booktitle>SBD@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3208352.3208357</ee>
+<crossref>conf/sigmod/2018sbd</crossref>
+<url>db/conf/sigmod/sbd2018.html#MadkourAPAB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HassanKJAS18" mdate="2018-11-21">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author pid="206/7386">Hyun Chai Jeong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>GRFusion: Graphs as First-Class Citizens in Main-Memory Relational Database Systems.</title>
+<pages>1789-1792</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3193541</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#HassanKJAS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/HassanRA18" mdate="2020-12-29">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author orcid="0000-0002-3527-6192" pid="15/606">Bruno Ribeiro 0001</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>SBG-sketch: a self-balanced sketch for labeled-graph stream summarization.</title>
+<pages>3:1-3:12</pages>
+<year>2018</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3221269.3223030</ee>
+<crossref>conf/ssdbm/2018</crossref>
+<url>db/conf/ssdbm/ssdbm2018.html#HassanRA18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Aref18" mdate="2019-02-14">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Electronic Ink Indexing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_143</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/e2.html#Aref18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Aref18a" mdate="2019-02-14">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Window-Based Query Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_468</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/w2.html#Aref18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MahmoodAB18" mdate="2019-02-14">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="47/10934">Saleh M. Basalamah</author>
+<title>Indexing with Crowds.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80656</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/i2.html#MahmoodAB18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MokbelA18" mdate="2019-02-14">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Indexing Historical Spatiotemporal Data.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_198</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/i2.html#MokbelA18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MokbelA18a" mdate="2019-02-14">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Space-Filling Curves.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_349</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#MokbelA18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MokbelA18b" mdate="2019-02-14">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Space-Filling Curves for Query Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_350</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#MokbelA18b</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-02061" mdate="2019-01-31">
+<author pid="135/7413">Muhamad Felemban</author>
+<author pid="161/8710">Yahya Javed</author>
+<author pid="205/9313">Jason Kobes</author>
+<author pid="166/8355">Thamir Qadah</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Design and Evaluation of A Data Partitioning-Based Intrusion Management Architecture for Database Systems.</title>
+<year>2018</year>
+<volume>abs/1810.02061</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.02061</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-02061</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/YuTAMAO17" mdate="2018-05-29">
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="22/10807">Mostafa M. Abbas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>In-Memory Distributed Matrix Computation Processing and Optimization.</title>
+<pages>1047-1058</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.150</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.150</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#YuTAMAO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MahmoodA17" mdate="2018-11-06">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Query Processing Techniques for Big Spatial-Keyword Data.</title>
+<pages>1777-1782</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3054773</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#MahmoodA17</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/XiongMA17" mdate="2017-07-12">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Continuous Queries in Spatio-Temporal Databases.</title>
+<pages>340-345</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_207</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#XiongMA17</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/XiongMA17a" mdate="2017-07-12">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Spatiotemporal Database.</title>
+<pages>2150-2151</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_1316</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#XiongMA17a</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/MadkourARRB17" mdate="2019-09-17">
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0001-6230-3056" pid="144/5890">Faizan Ur Rehman</author>
+<author pid="129/2393">Mohamed Abdur Rahman</author>
+<author pid="47/10934">Saleh M. Basalamah</author>
+<title>A Survey of Shortest-Path Algorithms.</title>
+<year>2017</year>
+<volume>abs/1705.02044</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.02044</ee>
+<url>db/journals/corr/corr1705.html#MadkourARRB17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-02529" mdate="2018-08-13">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<title>FAST: Frequency-Aware Spatio-Textual Indexing for In-Memory Continuous Filter Query Processing.</title>
+<year>2017</year>
+<volume>abs/1709.02529</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.02529</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-02529</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-02533" mdate="2018-08-13">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="47/10934">Saleh M. Basalamah</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Adaptive Processing of Spatial-Keyword Data Over a Distributed Streaming Cluster.</title>
+<year>2017</year>
+<volume>abs/1709.02533</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.02533</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-02533</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06715" mdate="2018-08-13">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author pid="206/7386">Hyun Chai Jeong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Empowering In-Memory Relational Database Engines with Native Graph Processing.</title>
+<year>2017</year>
+<volume>abs/1709.06715</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06715</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06715</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06723" mdate="2018-12-21">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="15/606">Bruno Ribeiro 0001</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>SBG-Sketch: A Self-Balanced Sketch for Labeled-Graph Stream Summarization.</title>
+<year>2017</year>
+<volume>abs/1709.06723</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06723</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06723</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-08971" mdate="2018-08-13">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Human-Centric Data Cleaning [Vision].</title>
+<year>2017</year>
+<volume>abs/1712.08971</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.08971</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-08971</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-09437" mdate="2018-08-13">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<title>Pattern-Driven Data Cleaning.</title>
+<year>2017</year>
+<volume>abs/1712.09437</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.09437</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-09437</url>
+</article>
+</r>
+<r><article key="journals/cacm/ShekharFA16" mdate="2018-11-06">
+<author pid="s/ShashiShekhar">Shashi Shekhar</author>
+<author pid="f/StevenFeiner">Steven K. Feiner</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Spatial computing.</title>
+<pages>72-81</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2756547</ee>
+<url>db/journals/cacm/cacm59.html#ShekharFA16</url>
+</article>
+</r>
+<r><article key="journals/is/MarriMOTA16" mdate="2017-05-20">
+<author pid="152/1395">Wadha J. Al Marri</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The similarity-aware relational database set operators.</title>
+<pages>79-93</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2015.10.008</ee>
+<url>db/journals/is/is59.html#MarriMOTA16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangYMOA16" mdate="2020-04-25">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>LocationSpark: A Distributed In-Memory Data Management System for Big Spatial Data.</title>
+<pages>1565-1568</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1565-tang.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007310</ee>
+<url>db/journals/pvldb/pvldb9.html#TangYMOA16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MokbelCA16" mdate="2020-04-25">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="77/6228">Chi-Yin Chow</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Location Data Management: A Tale of Two Systems and the &#34;Next Destination&#34;!</title>
+<pages>1622</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1622-mokbel.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007327</ee>
+<url>db/journals/pvldb/pvldb9.html#MokbelCA16</url>
+</article>
+</r>
+<r><article key="journals/tkde/TangTAAMOS16" mdate="2017-05-20">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Similarity Group-by Operators for Multi-Dimensional Relational Data.</title>
+<pages>510-523</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2480400</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2480400</ee>
+<url>db/journals/tkde/tkde28.html#TangTAAMOS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/0001AMEHNA16" mdate="2020-10-25">
+<author orcid="0000-0001-6345-9730" pid="05/8073-1">Amr Magdy 0001</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="18/1967">Sameh Elnikety</author>
+<author pid="50/174">Yuxiong He</author>
+<author pid="85/6293">Suman Nath</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>GeoTrend: spatial trending queries on real-time microblogs.</title>
+<pages>7:1-7:10</pages>
+<year>2016</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2996913.2996986</ee>
+<crossref>conf/gis/2016</crossref>
+<url>db/conf/gis/gis2016.html#0001AMEHNA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/MahmoodAAT16" mdate="2018-11-06">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="01/7213">MingJie Tang</author>
+<title>Atlas: on the expression of spatial-keyword group queries using extended relational constructs.</title>
+<pages>45:1-45:10</pages>
+<year>2016</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2996913.2996987</ee>
+<crossref>conf/gis/2016</crossref>
+<url>db/conf/gis/gis2016.html#MahmoodAAT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RezigDOEA16" mdate="2017-05-17">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>ORLF: A flexible framework for online record linkage and fusion.</title>
+<pages>1378-1381</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498349</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498349</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#RezigDOEA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AbdelhamidTAMQA16" mdate="2020-10-25">
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir Qadah</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<title>Cruncher: Distributed in-memory processing for location-based services.</title>
+<pages>1406-1409</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498356</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498356</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#AbdelhamidTAMQA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangTAAMOS16" mdate="2017-05-17">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Similarity Group-By operators for multi-dimensional relational data.</title>
+<pages>1448-1449</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498368</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498368</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#TangTAAMOS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HassanAA16" mdate="2018-11-06">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<title>Graph Indexing for Shortest-Path Finding over Dynamic Sub-Graphs.</title>
+<pages>1183-1197</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882933</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#HassanAA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/AlyE0A16" mdate="2018-11-06">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="q/YanQi2">Yan Qi 0002</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Kangaroo: Workload-Aware Processing of Range Data and Range Queries in Hadoop.</title>
+<pages>397-406</pages>
+<year>2016</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2835776.2835841</ee>
+<crossref>conf/wsdm/2016</crossref>
+<url>db/conf/wsdm/wsdm2016.html#AlyE0A16</url>
+</inproceedings>
+</r>
+<r><article key="journals/geoinformatica/ShekharFA15" mdate="2017-05-28">
+<author pid="s/ShashiShekhar">Shashi Shekhar</author>
+<author pid="f/StevenFeiner">Steven Feiner</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>From GPS and virtual globes to spatial computing - 2020.</title>
+<pages>799-832</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>GeoInformatica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10707-015-0235-9</ee>
+<url>db/journals/geoinformatica/geoinformatica19.html#ShekharFA15</url>
+</article>
+</r>
+<r><article key="journals/nar/OtsukaMTOINYDNTSNNABCGKRTWM15" mdate="2020-10-26">
+<author pid="157/3944">Yuta Otsuka</author>
+<author pid="141/3544">Ai Muto</author>
+<author orcid="0000-0003-2621-4077" pid="157/4009">Rikiya Takeuchi</author>
+<author pid="157/4108">Chihiro Okada</author>
+<author pid="157/4289">Motokazu Ishikawa</author>
+<author pid="157/4031">Koichiro Nakamura</author>
+<author pid="157/4013">Natsuko Yamamoto</author>
+<author pid="157/4290">Hitomi Dose</author>
+<author pid="157/3945">Kenji Nakahigashi</author>
+<author pid="157/4175">Shigeki Tanishima</author>
+<author pid="98/961">Sivasundaram Suharnan</author>
+<author pid="45/1453">Wataru Nomura</author>
+<author pid="157/4117">Toru Nakayashiki</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="157/3957">Barry R. Bochner</author>
+<author pid="33/370">Tyrrell Conway</author>
+<author orcid="0000-0002-1718-0242" pid="99/1651">Michael Gribskov</author>
+<author pid="13/915">Daisuke Kihara</author>
+<author pid="42/6913">Kenneth E. Rudd</author>
+<author pid="31/5662">Yukako Tohsato</author>
+<author pid="12/4995">Barry L. Wanner</author>
+<author pid="15/3237">Hirotada Mori</author>
+<title>GenoBase: comprehensive resource database of <i>Escherichia coli</i> K-12.</title>
+<pages>606-617</pages>
+<year>2015</year>
+<volume>43</volume>
+<journal>Nucleic Acids Res.</journal>
+<number>Database-Issue</number>
+<ee type="oa">https://doi.org/10.1093/nar/gku1164</ee>
+<ee>https://www.wikidata.org/entity/Q35254112</ee>
+<url>db/journals/nar/nar43.html#OtsukaMTOINYDNTSNNABCGKRTWM15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlyAMAHEO15" mdate="2020-04-25">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>A Demonstration of AQWA: Adaptive Query-Workload-Aware Partitioning of Big Spatial Data.</title>
+<pages>1968-1971</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1968-Aly.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824113</ee>
+<url>db/journals/pvldb/pvldb8.html#AlyAMAHEO15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MahmoodAQRDMAHA15" mdate="2020-10-26">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir Qadah</author>
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="137/6627">Anas Daghistani</author>
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<title>Tornado: A Distributed Spatio-Textual Stream Processing System.</title>
+<pages>2020-2023</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2020-mahmood.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824126</ee>
+<url>db/journals/pvldb/pvldb8.html#MahmoodAQRDMAHA15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlyMHAOEQ15" mdate="2020-04-25">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir Qadah</author>
+<title>AQWA: Adaptive Query-Workload-Aware Partitioning of Big Spatial Data.</title>
+<pages>2062-2073</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2062-Aly.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831361</ee>
+<url>db/journals/pvldb/pvldb8.html#AlyMHAOEQ15</url>
+</article>
+</r>
+<r><article key="journals/tkde/PervaizGA15" mdate="2020-09-05">
+<author orcid="0000-0002-3544-4440" pid="143/9503">Zahid Pervaiz</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Precision-Bounded Access Control Using Sliding-Window Query Views for Privacy-Preserving Data Streams.</title>
+<pages>1992-2004</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2391098</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2391098</ee>
+<url>db/journals/tkde/tkde27.html#PervaizGA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/TangYAMO15" mdate="2021-01-29">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="22/11514">Yongyang Yu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Efficient Processing of Hamming-Distance-Based Similarity-Search Queries Over MapReduce.</title>
+<pages>361-372</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.32</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#TangYAMO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AlyAO15" mdate="2021-01-29">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Cost Estimation of Spatial k-Nearest-Neighbor Operators.</title>
+<pages>457-468</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.40</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#AlyAO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/ArefPSTAA15" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="174/2648">Jaewoo Shin</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="176/1454">Aya Abdelsalam</author>
+<author pid="176/1446">Jalaleldeen W. Aref</author>
+<title>On map-centric programming environments: vision paper.</title>
+<pages>15:1-15:4</pages>
+<year>2015</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2820783.2820886</ee>
+<crossref>conf/gis/2015</crossref>
+<url>db/conf/gis/gis2015.html#ArefPSTAA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/AlyAO15" mdate="2018-11-06">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Spatial queries with k-nearest-neighbor and relational predicates.</title>
+<pages>28:1-28:10</pages>
+<year>2015</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2820783.2820815</ee>
+<crossref>conf/gis/2015</crossref>
+<url>db/conf/gis/gis2015.html#AlyAO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/MadkourAMB15" mdate="2020-10-25">
+<author pid="86/2989">Amgad Madkour</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<title>Geo-tagging non-spatial concepts.</title>
+<pages>31-39</pages>
+<year>2015</year>
+<booktitle>MobiGIS</booktitle>
+<ee>https://doi.org/10.1145/2834126.2834138</ee>
+<crossref>conf/gis/2015mobigis</crossref>
+<url>db/conf/gis/mobigis2015.html#MadkourAMB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/TahboubSAAAP15" mdate="2018-11-06">
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="174/2648">Jaewoo Shin</author>
+<author pid="176/1454">Aya Abdelsalam</author>
+<author pid="176/1446">Jalaleldeen W. Aref</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>LIMO: learning programming using interactive map activities.</title>
+<pages>98:1-98:4</pages>
+<year>2015</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2820783.2820796</ee>
+<crossref>conf/gis/2015</crossref>
+<url>db/conf/gis/gis2015.html#TahboubSAAAP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic2e/MershadMOTA15" mdate="2017-05-25">
+<author pid="161/7909">Khaleel Mershad</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Approving Updates in Collaborative Databases.</title>
+<pages>42-47</pages>
+<year>2015</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E.2015.31</ee>
+<crossref>conf/ic2e/2015</crossref>
+<url>db/conf/ic2e/ic2e2015.html#MershadMOTA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/PervaizAGP14" mdate="2020-09-05">
+<author orcid="0000-0002-3544-4440" pid="143/9503">Zahid Pervaiz</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="53/6950">Nagabhushana Prabhu</author>
+<title>Accuracy-Constrained Privacy-Preserving Access Control Mechanismfor Relational Data.</title>
+<pages>795-807</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2013.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.71</ee>
+<url>db/journals/tkde/tkde26.html#PervaizAGP14</url>
+</article>
+</r>
+<r><article key="journals/tkde/EltabakhAEO14" mdate="2017-06-08">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>HandsOn DB: Managing Data Dependencies Involving Human Actions.</title>
+<pages>2193-2206</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2013.117</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.117</ee>
+<url>db/journals/tkde/tkde26.html#EltabakhAEO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AlyAOM14" mdate="2021-01-29">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0962-9406" pid="m/HosamMMahmoud">Hosam M. Mahmoud</author>
+<title>JISC: Adaptive Stream Processing Using Just-In-Time State Completion.</title>
+<pages>73-84</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.08</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#AlyAOM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/MahmoodAAB14" mdate="2020-10-25">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<title>Indexing recent trajectories of moving objects.</title>
+<pages>393-396</pages>
+<year>2014</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2666310.2666427</ee>
+<crossref>conf/gis/2014</crossref>
+<url>db/conf/gis/gis2014.html#MahmoodAAB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/MarriMOTA14" mdate="2017-05-25">
+<author pid="152/1395">Wadha J. Al Marri</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="01/7213">MingJie Tang</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The Similarity-Aware Relational Intersect Database Operator.</title>
+<pages>164-175</pages>
+<year>2014</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11988-5_15</ee>
+<crossref>conf/sisap/2014</crossref>
+<url>db/conf/sisap/sisap2014.html#MarriMOTA14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TangTAMO14" mdate="2018-08-13">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>On Order-independent Semantics of the Similarity Group-By Relational Database Operator.</title>
+<year>2014</year>
+<volume>abs/1412.4303</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.4303</ee>
+<url>db/journals/corr/corr1412.html#TangTAMO14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TangTAAMOS14" mdate="2018-08-13">
+<author pid="01/7213">MingJie Tang</author>
+<author pid="18/8896">Ruby Y. Tahboub</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Similarity Group-by Operators for Multi-dimensional Relational Data.</title>
+<year>2014</year>
+<volume>abs/1412.4842</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.4842</ee>
+<url>db/journals/corr/corr1412.html#TangTAAMOS14</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/ElmonguiMA13" mdate="2017-05-28">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Continuous aggregate nearest neighbor queries.</title>
+<pages>63-95</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10707-011-0149-0</ee>
+<url>db/journals/geoinformatica/geoinformatica17.html#ElmonguiMA13</url>
+</article>
+</r>
+<r><article key="journals/vldb/SilvaALPA13" mdate="2017-06-09">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="117/6021">Spencer Pearson</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<title>Similarity queries: their conceptual evaluation, transformations, and processing.</title>
+<pages>395-420</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-012-0296-4</ee>
+<url>db/journals/vldb/vldb22.html#SilvaALPA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/MadkourAB13" mdate="2021-03-31">
+<author pid="86/2989">Amgad Madkour</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<title>Knowledge cubes - A proposal for scalable and semantically-guided management of Big Data.</title>
+<pages>1-7</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691800</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BigData.2013.6691800</ee>
+<ee>https://www.wikidata.org/entity/Q57186353</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#MadkourAB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbcrowd/MahmoodADB13" mdate="2019-05-28">
+<author pid="73/10806">Ahmed R. Mahmood</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="47/10934">Saleh M. Basalamah</author>
+<title>The Palm-tree Index: Indexing with the crowd.</title>
+<pages>26-31</pages>
+<year>2013</year>
+<booktitle>DBCrowd</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1025/research4.pdf</ee>
+<crossref>conf/dbcrowd/2013</crossref>
+<url>db/conf/dbcrowd/dbcrowd2013.html#MahmoodADB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AlyAO12" mdate="2020-04-25">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Spatial Queries with Two kNN Predicates.</title>
+<pages>1100-1111</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1100_ahmedmaly_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350231</ee>
+<url>db/journals/pvldb/pvldb5.html#AlyAO12</url>
+</article>
+</r>
+<r><article key="journals/software/AlmutairiSBAG12" mdate="2020-10-26">
+<author pid="66/10933">Abdulrahman Almutairi</author>
+<author pid="00/6313jr">Muhammad I. Sarfraz</author>
+<author orcid="0000-0002-2276-8307" pid="47/10934">Saleh M. Basalamah</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<title>A Distributed Access Control Architecture for Cloud Computing.</title>
+<pages>36-44</pages>
+<year>2012</year>
+<volume>29</volume>
+<journal>IEEE Softw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MS.2011.153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2011.153</ee>
+<url>db/journals/software/software29.html#AlmutairiSBAG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccve/WangSAMGBYDERP12" mdate="2021-02-01">
+<author pid="14/374-1">Fei-Yue Wang 0001</author>
+<author pid="167/2602">Lee Stogner</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="l/JaimeLloret">Jaime Lloret Mauri</author>
+<author pid="g/YacineGhamriDoudane">Yacine Ghamri-Doudane</author>
+<author pid="b/ABestavros">Azer Bestavros</author>
+<author pid="32/4842">Yu Yuan</author>
+<author orcid="0000-0001-8060-3386" pid="19/7352">David George Dorrell</author>
+<author pid="126/1189">Mehrdad Ehsani</author>
+<author pid="220/1033">Gianfranco Rizzo</author>
+<author pid="258/0189">V. Setty Pendakur</author>
+<title>Message from the Program Chairs.</title>
+<pages>xiii-xiv</pages>
+<year>2012</year>
+<booktitle>ICCVE</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCVE.2012.6</ee>
+<crossref>conf/iccve/2012</crossref>
+<url>db/conf/iccve/iccve2012.html#WangSAMGBYDERP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AlySGNAOG12" mdate="2017-05-17">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="116/5199">Asmaa Sallam</author>
+<author pid="116/5339">Bala M. Gnanasekaran</author>
+<author pid="49/8159">Long-Van Nguyen-Dinh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<title>M3: Stream Processing on Main-Memory MapReduce.</title>
+<pages>1253-1256</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.120</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#AlySGNAOG12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0074" mdate="2018-08-13">
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Spatial Queries with Two kNN Predicates</title>
+<ee type="oa">http://arxiv.org/abs/1208.0074</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0074</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0074</url>
+</article>
+</r>
+<r><article key="journals/dpd/MokbelA11" mdate="2020-05-18">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Irregularity in high-dimensional space-filling curves.</title>
+<pages>217-238</pages>
+<year>2011</year>
+<volume>29</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10619-010-7070-7</ee>
+<url>db/journals/dpd/dpd29.html#MokbelA11</url>
+</article>
+</r>
+<r><article key="journals/debu/Nguyen-DinhAM10" mdate="2020-03-10">
+<author pid="49/8159">Long-Van Nguyen-Dinh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Spatio-Temporal Access Methods: Part 2 (2003 - 2010).</title>
+<pages>46-55</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A10june/Aref.pdf</ee>
+<url>db/journals/debu/debu33.html#Nguyen-DinhAM10</url>
+</article>
+</r>
+<r><article key="journals/tods/GhanemELA10" mdate="2018-11-06">
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Supporting views in data stream management systems.</title>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1670243.1670244</ee>
+<url>db/journals/tods/tods35.html#GhanemELA10</url>
+<pages>1:1-1:47</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icde/EltabakhAE10" mdate="2017-05-17">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>A database server for next-generation scientific data management.</title>
+<pages>313-316</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452723</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452723</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#EltabakhAE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EltabakhAESO10" mdate="2017-05-17">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Supporting real-world activities in database management systems.</title>
+<pages>808-811</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447842</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447842</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#EltabakhAESO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SilvaAA10" mdate="2017-05-17">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<title>The similarity join database operator.</title>
+<pages>892-903</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447873</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447873</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#SilvaAA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SilvaAAL10" mdate="2018-11-06">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<title>SimDB: a similarity-aware database system.</title>
+<pages>1243-1246</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807330</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#SilvaAAL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ElmeleegyECAZ09" mdate="2020-04-25">
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="58/170">Emmanuel Cecchet</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>Online Piece-wise Linear Approximation of Numerical Streams with Precision Guarantees.</title>
+<pages>145-156</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-573.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687645</ee>
+<url>db/journals/pvldb/pvldb2.html#ElmeleegyECAZ09</url>
+</article>
+</r>
+<r><article key="journals/tods/ChowMA09" mdate="2019-06-02">
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<title>Casper*: Query processing for location services without compromising privacy.</title>
+<year>2009</year>
+<volume>34</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1620585.1620591</ee>
+<ee>https://www.wikidata.org/entity/Q64038999</ee>
+<url>db/journals/tods/tods34.html#ChowMA09</url>
+<pages>24:1-24:48</pages>
+</article>
+</r>
+<r><article key="journals/vldb/SilvaXA09" mdate="2017-06-09">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<title>The RUM-tree: supporting frequent updates in R-trees using memos.</title>
+<pages>719-738</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-008-0120-3</ee>
+<url>db/journals/vldb/vldb18.html#SilvaXA09</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/SadiqDZYADLX09" mdate="2020-10-25">
+<author orcid="0000-0001-6739-4145" pid="s/SWSadiq">Shazia Wasim Sadiq</author>
+<author pid="97/1199">Ke Deng</author>
+<author orcid="0000-0001-6343-1455" pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="86/2859-1">Xiaochun Yang 0001</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<author pid="53/4481-1">Qing Liu 0001</author>
+<author pid="x/KaiXu3">Kai Xu 0003</author>
+<title>Workshop Organizers' Message.</title>
+<pages>95-96</pages>
+<year>2009</year>
+<booktitle>DASFAA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04205-8_9</ee>
+<crossref>conf/dasfaa/2009w</crossref>
+<url>db/conf/dasfaa/dasfaa2009w.html#SadiqDZYADLX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/EltabakhAEOS09" mdate="2018-11-06">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<title>Supporting annotations on relations.</title>
+<pages>379-390</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516405</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#EltabakhAEOS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SilvaAA09" mdate="2019-09-13">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="71/303">Muhammad Umer Arshad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Exploiting similarity-aware grouping in decision support systems.</title>
+<pages>1144-1147</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516499</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#SilvaAA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/ArefEO09" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Location-aware privacy and more: a systems approach using context-aware database management systems.</title>
+<pages>42-52</pages>
+<year>2009</year>
+<booktitle>SPRINGL</booktitle>
+<ee>https://doi.org/10.1145/1667502.1667513</ee>
+<crossref>conf/gis/2009springl</crossref>
+<url>db/conf/gis/springl2009.html#ArefEO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/BindraTAA09" mdate="2018-11-06">
+<author pid="74/7550">Ashish Bindra</author>
+<author pid="t/AnkurTeredesai">Ankur Teredesai</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Multi-dimensional phenomenon-aware stream query processing.</title>
+<pages>476-479</pages>
+<year>2009</year>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/1653771.1653848</ee>
+<crossref>conf/gis/2009</crossref>
+<url>db/conf/gis/gis2009.html#BindraTAA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SilvaAA09" mdate="2017-05-17">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<title>Similarity Group-By.</title>
+<pages>904-915</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.113</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.113</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#SilvaAA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ElmonguiAM09" mdate="2017-05-17">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Chameleon: Context-Awareness inside DBMSs.</title>
+<pages>1335-1338</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.234</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.234</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#ElmonguiAM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PadmaSAA09" mdate="2019-09-13">
+<author pid="27/3890">Jalaja Padma</author>
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="71/303">Muhammad Umer Arshad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Hippocratic PostgreSQL.</title>
+<pages>1555-1558</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.126</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.126</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#PadmaSAA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/SilvaA09" mdate="2011-03-13">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Similarity-aware Query Processing and Optimization.</title>
+<year>2009</year>
+<booktitle>VLDB PhD Workshop</booktitle>
+<ee>http://www.vldb.org/pvldb/2/vldb09-1068.pdf</ee>
+<crossref>conf/vldb/2009phd</crossref>
+<url>db/conf/vldb/vldb2009phd.html#SilvaA09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/gis/2009" mdate="2010-02-19">
+<editor pid="a/DivyakantAgrawal">Divyakant Agrawal</editor>
+<editor pid="a/WGAref">Walid G. Aref</editor>
+<editor pid="08/4367">Chang-Tien Lu</editor>
+<editor pid="94/5893">Mohamed F. Mokbel</editor>
+<editor pid="s/PeterScheuermann">Peter Scheuermann</editor>
+<editor pid="s/CyrusShahabi">Cyrus Shahabi</editor>
+<editor pid="w/OuriWolfson">Ouri Wolfson</editor>
+<title>17th ACM SIGSPATIAL International Symposium on Advances in Geographic Information Systems, ACM-GIS 2009, November 4-6, 2009, Seattle, Washington, USA, Proceedings</title>
+<isbn>978-1-60558-649-6</isbn>
+<booktitle>GIS</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<url>db/conf/gis/gis2009.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Aref09" mdate="2017-07-12">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Electronic Ink Indexing.</title>
+<pages>972-978</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_143</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/e.html#Aref09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MokbelA09" mdate="2017-07-12">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Indexing Historical Spatio-Temporal Data.</title>
+<pages>1448-1451</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_198</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/i.html#MokbelA09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MokbelA09a" mdate="2017-07-12">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Space-Filling Curves.</title>
+<pages>2674-2675</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_349</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#MokbelA09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MokbelA09b" mdate="2017-07-12">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Space-Filling Curves for Query Processing.</title>
+<pages>2675-2680</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_350</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#MokbelA09b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Aref09a" mdate="2017-07-12">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Window-based Query Processing.</title>
+<pages>3533-3538</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_468</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/w.html#Aref09a</url>
+</incollection>
+</r>
+<r><article key="journals/vldb/HammadAE08" mdate="2017-05-28">
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Query processing of multi-way stream window joins.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>3</number>
+<pages>469-488</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-006-0017-y</ee>
+<url>db/journals/vldb/vldb17.html#HammadAE08</url>
+</article>
+</r>
+<r><article key="journals/vldb/MokbelA08" mdate="2017-05-28">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>SOLE: scalable on-line execution of continuous queries on spatio-temporal data streams.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>5</number>
+<pages>971-995</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-007-0046-1</ee>
+<url>db/journals/vldb/vldb17.html#MokbelA08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/EltabakhHSAV08" mdate="2018-11-06">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author orcid="0000-0002-0570-2904" pid="51/534">Wing-Kai Hon</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>The SBC-tree: an index for run-length compressed sequences.</title>
+<pages>523-534</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353407</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#EltabakhHSAV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EltabakhOAELASB08" mdate="2019-09-13">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="s/YasinNSilva">Yasin Laura-Silva</author>
+<author pid="71/303">Muhammad Umer Arshad</author>
+<author pid="07/1294">David E. Salt</author>
+<author orcid="0000-0001-6680-1722" pid="49/543">Ivan Baxter</author>
+<title>Managing Biological Data using BDBMS.</title>
+<pages>1600-1603</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497631</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497631</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#EltabakhOAELASB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiquitous/ArefO08" mdate="2018-11-27">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Data management challenges for computational transportation.</title>
+<year>2008</year>
+<booktitle>MobiQuitous</booktitle>
+<ee>https://doi.org/10.4108/ICST.MOBIQUITOUS2008.4014</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1594983</ee>
+<crossref>conf/mobiquitous/2008</crossref>
+<url>db/conf/mobiquitous/mobiquitous2008.html#ArefO08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/gis/2008" mdate="2013-04-11">
+<editor pid="a/WGAref">Walid G. Aref</editor>
+<editor pid="94/5893">Mohamed F. Mokbel</editor>
+<editor pid="s/MarkusSchneider1">Markus Schneider 0001</editor>
+<title>16th ACM SIGSPATIAL International Symposium on Advances in Geographic Information Systems, ACM-GIS 2008, November 5-7, 2008, Irvine, California, USA, Proceedings</title>
+<isbn>978-1-60558-323-5</isbn>
+<booktitle>GIS</booktitle>
+<publisher>ACM</publisher>
+<year>2008</year>
+<url>db/conf/gis/gis2008.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/XiongMA08" mdate="2017-07-12">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Continuous Queries in Spatio-temporal Databases.</title>
+<pages>161-165</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_207</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#XiongMA08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/MokbelA08" mdate="2017-07-12">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Space-Filling Curves.</title>
+<pages>1068-1072</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_1233</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#MokbelA08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/XiongMA08a" mdate="2017-07-12">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Spatio-temporal Database.</title>
+<pages>1114-1115</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_1316</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#XiongMA08a</url>
+</incollection>
+</r>
+<r><article key="journals/dke/HambruschLAP07" mdate="2017-05-20">
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="58/2882">Chuan-Ming Liu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Efficient query execution on broadcasted index tree structures.</title>
+<pages>511-529</pages>
+<year>2007</year>
+<volume>60</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.datak.2006.03.011</ee>
+<url>db/journals/dke/dke60.html#HambruschLAP07</url>
+</article>
+</r>
+<r><article key="journals/tkde/GhanemHMAE07" mdate="2019-02-05">
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Incremental Evaluation of Sliding-Window Queries over Data Streams.</title>
+<pages>57-72</pages>
+<year>2007</year>
+<volume>19</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2007.250585</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2007.250585</ee>
+<url>db/journals/tkde/tkde19.html#GhanemHMAE07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ArefEO07" mdate="2020-03-12">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>bdbms - A Database Management System for Biological Data.</title>
+<pages>196-206</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p22.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#ArefEO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/Aref07" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Pipelined spatial join processing for quadtree-based indexes.</title>
+<pages>49</pages>
+<year>2007</year>
+<crossref>conf/gis/2007</crossref>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/1341012.1341073</ee>
+<url>db/conf/gis/gis2007.html#Aref07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Laura-SilvaA07" mdate="2017-05-17">
+<author pid="s/YasinNSilva">Yasin Laura-Silva</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Realizing Privacy-Preserving Features in Hippocratic Databases.</title>
+<pages>198-206</pages>
+<year>2007</year>
+<crossref>conf/icde/2007w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2007.4400992</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDEW.2007.4400992</ee>
+<url>db/conf/icde/icdew2007.html#Laura-SilvaA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MokbelCA07" mdate="2017-06-15">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The New Casper: A Privacy-Aware Location-Based Database Server.</title>
+<pages>1499-1500</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369052</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369052</ee>
+<url>db/conf/icde/icde2007.html#MokbelCA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/AliMA07" mdate="2017-05-26">
+<author pid="a/MHAli">M. H. Ali</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Phenomenon-Aware Stream Query Processing.</title>
+<pages>8-15</pages>
+<year>2007</year>
+<crossref>conf/mdm/2007</crossref>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2007.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDM.2007.11</ee>
+<url>db/conf/mdm/mdm2007.html#AliMA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/XiongECA07" mdate="2017-05-26">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="83/1413">Xiaoyong Chai</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Place: A Distributed Spatio-Temporal Data Stream Management System for Moving Objects.</title>
+<pages>44-51</pages>
+<year>2007</year>
+<crossref>conf/mdm/2007</crossref>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2007.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDM.2007.16</ee>
+<url>db/conf/mdm/mdm2007.html#XiongECA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/MokbelA07" mdate="2017-05-26">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Location-Aware Query Processing and Optimization.</title>
+<pages>229</pages>
+<year>2007</year>
+<crossref>conf/mdm/2007</crossref>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2007.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDM.2007.46</ee>
+<url>db/conf/mdm/mdm2007.html#MokbelA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/EltabakhOA07" mdate="2017-05-21">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Duplicate Elimination in Space-partitioning Tree Indexes.</title>
+<pages>18</pages>
+<year>2007</year>
+<crossref>conf/ssdbm/2007</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDBM.2007.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDBM.2007.10</ee>
+<url>db/conf/ssdbm/ssdbm2007.html#EltabakhOA07</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/GhanemAE06" mdate="2020-03-06">
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Exploiting predicate-window semantics over data streams.</title>
+<pages>3-8</pages>
+<year>2006</year>
+<volume>35</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1121995.1121996</ee>
+<url>db/journals/sigmod/sigmod35.html#GhanemAE06</url>
+</article>
+</r>
+<r><article key="journals/tods/IlyasAEESV06" mdate="2019-05-29">
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>Adaptive rank-aware query optimization in relational databases.</title>
+<pages>1257-1304</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1189769.1189772</ee>
+<url>db/journals/tods/tods31.html#IlyasAEESV06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/XiongA06" mdate="2017-05-17">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>R-trees with Update Memos.</title>
+<pages>22</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.125</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2006.125</ee>
+<url>db/conf/icde/icde2006.html#XiongA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/EltabakhEA06" mdate="2017-05-17">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="12/6759">Ramy Eltarras</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Space-Partitioning Trees in PostgreSQL: Realization and Performance.</title>
+<pages>100</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.146</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2006.146</ee>
+<url>db/conf/icde/icde2006.html#EltabakhEA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ElfekyAE06" mdate="2017-05-26">
+<author pid="97/3423">Mohamed G. Elfeky</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>STAGGER: Periodicity Mining of Data Streams Using Expanding Sliding Windows.</title>
+<pages>188-199</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2006.153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2006.153</ee>
+<url>db/conf/icdm/icdm2006.html#ElfekyAE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/XiongMA06" mdate="2017-05-26">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>LUGrid: Update-tolerant Grid-based Indexing for Moving Objects.</title>
+<pages>13</pages>
+<year>2006</year>
+<crossref>conf/mdm/2006</crossref>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2006.102</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDM.2006.102</ee>
+<url>db/conf/mdm/mdm2006.html#XiongMA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobide/ElmonguiOA06" mdate="2018-11-06">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Challenges in spatiotemporal stream query optimization.</title>
+<pages>27-34</pages>
+<year>2006</year>
+<crossref>conf/mobide/2006</crossref>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1140104.1140111</ee>
+<url>db/conf/mobide/mobide2006.html#ElmonguiOA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/AliAK06" mdate="2017-06-05">
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0001-5546-939X" pid="82/617">Ibrahim Kamel</author>
+<title>Scalability Management in Sensor-Network PhenomenaBases.</title>
+<pages>91-100</pages>
+<year>2006</year>
+<crossref>conf/ssdbm/2006</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDBM.2006.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDBM.2006.46</ee>
+<url>db/conf/ssdbm/ssdbm2006.html#AliAK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vdmb/EltabakhAOA06" mdate="2017-05-22">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<title>Discovering Consensus Patterns in Biological Databases.</title>
+<pages>170-184</pages>
+<year>2006</year>
+<crossref>conf/vdmb/2006</crossref>
+<booktitle>VDMB</booktitle>
+<ee>https://doi.org/10.1007/11960669_15</ee>
+<url>db/conf/vdmb/vdmb2006.html#EltabakhAOA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MokbelCA06" mdate="2020-03-12">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="77/6228">Chi-Yin Chow</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The New Casper: Query Processing for Location Services without Compromising Privacy.</title>
+<pages>763-774</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164193</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p763-mokbel.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#MokbelCA06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0612127" mdate="2018-08-13">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>bdbms - A Database Management System for Biological Data</title>
+<ee type="oa">http://arxiv.org/abs/cs/0612127</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0612127</volume>
+<url>db/journals/corr/corr0612.html#abs-cs-0612127</url>
+</article>
+</r>
+<r><article key="journals/debu/MokbelA05" mdate="2020-08-19">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>PLACE: A Scalable Location-aware Database Server for Spatio-temporal Data Streams.</title>
+<pages>3-10</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A05sept/aref.ps</ee>
+<url>db/journals/debu/debu28.html#MokbelA05</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/MokbelXHA05" mdate="2017-05-28">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Continuous Query Processing of Spatio-Temporal Data Streams in PLACE.</title>
+<pages>343-365</pages>
+<year>2005</year>
+<volume>9</volume>
+<journal>GeoInformatica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10707-005-4576-7</ee>
+<url>db/journals/geoinformatica/geoinformatica9.html#MokbelXHA05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/OuzzaniABCCHEGHPVZ05" mdate="2020-03-06">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="c/CClifton">Christopher W. Clifton</author>
+<author orcid="0000-0002-0570-2904" pid="51/534">Wing-Kai Hon</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<author pid="91/4353">Xiang Zhang</author>
+<title>The Indiana Center for Database Systems at Purdue University.</title>
+<pages>53-58</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1083784.1083795</ee>
+<url>db/journals/sigmod/sigmod34.html#OuzzaniABCCHEGHPVZ05</url>
+</article>
+</r>
+<r><article key="journals/tkde/ElfekyAE05" mdate="2017-05-20">
+<author pid="97/3423">Mohamed G. Elfeky</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Periodicity Detection in Time Series Databases.</title>
+<pages>875-887</pages>
+<year>2005</year>
+<volume>17</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2005.114</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2005.114</ee>
+<url>db/journals/tkde/tkde17.html#ElfekyAE05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/XiongMA05" mdate="2017-05-17">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>SEA-CNN: Scalable Processing of Continuous K-Nearest Neighbor Queries in Spatio-temporal Databases.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#XiongMA05</url>
+<pages>643-654</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.128</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.128</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/IlyasA05" mdate="2018-11-14">
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Rank-Aware Query Processing and Optimization.</title>
+<pages>1144</pages>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2005.119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.119</ee>
+<ee>https://www.wikidata.org/entity/Q56651779</ee>
+<url>db/conf/icde/icde2005.html#IlyasA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ElfekyAE05" mdate="2017-05-26">
+<author pid="97/3423">Mohamed G. Elfeky</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>WARP: Time Warping for Periodicity Detection.</title>
+<pages>138-145</pages>
+<year>2005</year>
+<crossref>conf/icdm/2005</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2005.152</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2005.152</ee>
+<url>db/conf/icdm/icdm2005.html#ElfekyAE05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/MokbelA05" mdate="2018-11-06">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>GPAC: generic and progressive processing of mobile queries over mobile data.</title>
+<pages>155-163</pages>
+<year>2005</year>
+<crossref>conf/mdm/2005</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1145/1071246.1071270</ee>
+<url>db/conf/mdm/mdm2005.html#MokbelA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobide/AliAN05" mdate="2018-11-06">
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</author>
+<title>SPASS: scalable and energy-efficient data acquisition in sensor databases.</title>
+<pages>81-88</pages>
+<year>2005</year>
+<crossref>conf/mobide/2005</crossref>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1065870.1065884</ee>
+<url>db/conf/mobide/mobide2005.html#AliAN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/ElmonguiMA05" mdate="2017-05-24">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Spatio-temporal Histograms.</title>
+<pages>19-36</pages>
+<year>2005</year>
+<crossref>conf/ssd/2005</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/11535331_2</ee>
+<url>db/conf/ssd/sstd2005.html#ElmonguiMA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/HammadAE05" mdate="2012-09-18">
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Optimizing In-Order Execution of Continuous Queries over Streamed Sensor Data.</title>
+<pages>143-146</pages>
+<year>2005</year>
+<crossref>conf/ssdbm/2005</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2005.html#HammadAE05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/AliMAK05" mdate="2012-09-18">
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<title>Detection and Tracking of Discrete Phenomena in Sensor-Network Databases.</title>
+<pages>163-172</pages>
+<year>2005</year>
+<crossref>conf/ssdbm/2005</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2005.html#AliMAK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AliABEHKM05" mdate="2020-03-12">
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="33/897">Raja Bose</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="h/AHelal">Abdelsalam Helal</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>NILE-PDT: A Phenomenon Detection and Tracking Framework for Data Stream Management Systems.</title>
+<pages>1295-1298</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1295-ali.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083755</ee>
+<url>db/conf/vldb/vldb2005.html#AliABEHKM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/computer/GhanemA04" mdate="2020-08-12">
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Databases Deepen the Web.</title>
+<pages>116-117</pages>
+<year>2004</year>
+<volume>37</volume>
+<journal>Computer</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MC.2004.1260731</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2004.1260731</ee>
+<url>db/journals/computer/computer37.html#GhanemA04</url>
+</article>
+</r>
+<r><article key="journals/mms/ArefCEFHIMPTZ04" mdate="2021-04-09">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="43/4397">Mirette S. Marzouk</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="t/YiChengTu">Yi-Cheng Tu</author>
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<title>VDBMS: A testbed facility for research in video database benchmarking.</title>
+<pages>575-585</pages>
+<year>2004</year>
+<volume>9</volume>
+<journal>Multim. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00530-003-0129-9</ee>
+<ee>https://www.wikidata.org/entity/Q56653831</ee>
+<url>db/journals/mms/mms9.html#ArefCEFHIMPTZ04</url>
+</article>
+</r>
+<r><article key="journals/mms/ZhuWFEA04" mdate="2021-04-09">
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<author pid="59/4107">Xindong Wu 0001</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Exploring video content structure for hierarchical summarization.</title>
+<pages>98-115</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>Multim. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00530-004-0142-7</ee>
+<url>db/journals/mms/mms10.html#ZhuWFEA04</url>
+</article>
+</r>
+<r><article key="journals/tkde/ArefEE04" mdate="2017-05-20">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="97/3423">Mohamed G. Elfeky</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Incremental, Online, and Merge Mining of Partial Periodic Patterns in Time-Series Databases.</title>
+<pages>332-342</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2003.1262186</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2003.1262186</ee>
+<url>db/journals/tkde/tkde16.html#ArefEE04</url>
+</article>
+</r>
+<r><article key="journals/tmm/FanEZAW04" mdate="2021-04-09">
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="72/2097">Lide Wu</author>
+<title>ClassView: hierarchical video shot classification, indexing, and accessing.</title>
+<pages>70-86</pages>
+<year>2004</year>
+<volume>6</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TMM.2003.819583</ee>
+<url>db/journals/tmm/tmm6.html#FanEZAW04</url>
+</article>
+</r>
+<r><article key="journals/vldb/IlyasAE04" mdate="2018-11-14">
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Supporting top-k join queries in relational databases.</title>
+<pages>207-221</pages>
+<year>2004</year>
+<volume>13</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-004-0128-2</ee>
+<ee>https://www.wikidata.org/entity/Q56654616</ee>
+<url>db/journals/vldb/vldb13.html#IlyasAE04</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ElfekyAE04" mdate="2017-05-21">
+<author pid="97/3423">Mohamed G. Elfeky</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Using Convolution to Mine Obscure Periodic Patterns in One Pass.</title>
+<pages>605-620</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_35</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#ElfekyAE04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GhanemSMAV04" mdate="2017-05-17">
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>Bulk Operations for Space-Partitioning Trees.</title>
+<pages>29-40</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1319982</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1319982</ee>
+<url>db/conf/icde/icde2004.html#GhanemSMAV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MokbelLA04" mdate="2017-05-17">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="15/5997">Ming Lu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Hash-Merge Join: A Non-blocking Join Algorithm for Producing Fast and Early Join Results.</title>
+<pages>251-262</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320002</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320002</ee>
+<url>db/conf/icde/icde2004.html#MokbelLA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MokbelAEK04" mdate="2021-04-09">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0001-7021-5400" pid="82/4645">Khaled M. Elbassioni</author>
+<author orcid="0000-0001-5546-939X" pid="82/617">Ibrahim Kamel</author>
+<title>Scalable Multimedia Disk Scheduling.</title>
+<pages>498-509</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320022</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320022</ee>
+<url>db/conf/icde/icde2004.html#MokbelAEK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HammadMAACEEEGGIMX04" mdate="2018-11-14">
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="97/3423">Mohamed G. Elfeky</author>
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="95/3034">Robert Gwadera</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="43/4397">Mirette S. Marzouk</author>
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<title>Nile: A Query Processing Engine for Data Streams.</title>
+<pages>851</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320080</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320080</ee>
+<ee>https://www.wikidata.org/entity/Q56655145</ee>
+<url>db/conf/icde/icde2004.html#HammadMAACEEEGGIMX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IlyasSAVE04" mdate="2018-11-14">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Rank-aware Query Optimization.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#IlyasSAVE04</url>
+<pages>203-214</pages>
+<ee>https://doi.org/10.1145/1007568.1007593</ee>
+<ee>https://www.wikidata.org/entity/Q56656657</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MokbelXA04" mdate="2018-11-06">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>SINA: Scalable Incremental Processing of Continuous Queries in Spatio-temporal Databases.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#MokbelXA04</url>
+<pages>623-634</pages>
+<ee>https://doi.org/10.1145/1007568.1007638</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-432.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/XiongMAHP04" mdate="2012-09-20">
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Scalable Spatio-temporal Continuous Query Processing for Location-aware Services.</title>
+<pages>317-326</pages>
+<year>2004</year>
+<crossref>conf/ssdbm/2004</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDBM.2004.61</ee>
+<url>db/conf/ssdbm/ssdbm2004.html#XiongMAHP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stdbm/MokbelXHA04" mdate="2004-09-22">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Continuous Query Processing of Spatio-temporal Data Streams in PLACE.</title>
+<pages>57-64</pages>
+<year>2004</year>
+<crossref>conf/stdbm/2004</crossref>
+<booktitle>STDBM</booktitle>
+<ee>http://db.cs.ualberta.ca/stdbm04/Proceedings/09.pdf</ee>
+<url>db/conf/stdbm/stdbm2004.html#MokbelXHA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MokbelXAHPH04" mdate="2019-06-07">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="x/XiaopengXiong">Xiaopeng Xiong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<title>PLACE: A Query Processor for Handling Real-time Spatio-temporal Data Streams.</title>
+<pages>1377-1380</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP32.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50151-0</ee>
+<url>db/conf/vldb/vldb2004.html#MokbelXAHPH04</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/MokbelGA03" mdate="2020-03-10">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Spatio-Temporal Access Methods.</title>
+<pages>40-49</pages>
+<year>2003</year>
+<ee type="oa">http://sites.computer.org/debull/A03june/arefF.ps</ee>
+<volume>26</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu26.html#MokbelGA03</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/MokbelAK03" mdate="2017-06-06">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0001-5546-939X" pid="82/617">Ibrahim Kamel</author>
+<title>Analysis of Multi-Dimensional Space-Filling Curves.</title>
+<pages>179-209</pages>
+<year>2003</year>
+<volume>7</volume>
+<journal>GeoInformatica</journal>
+<number>3</number>
+<url>db/journals/geoinformatica/geoinformatica7.html#MokbelAK03</url>
+<ee>https://doi.org/10.1023/A:1025196714293</ee>
+</article>
+</r>
+<r><inproceedings key="conf/gis/MokbelAHP03" mdate="2018-11-06">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Towards scalable location-aware services: requirements and research issues.</title>
+<pages>110-117</pages>
+<year>2003</year>
+<crossref>conf/gis/2003</crossref>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/956676.956691</ee>
+<url>db/conf/gis/gis2003.html#MokbelAHP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhuAFCE03" mdate="2021-04-09">
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Medical Video Mining for Efficient Database Indexing, Management and Access.</title>
+<pages>569-580</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260822</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260822</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#ZhuAFCE03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MokbelAG03" mdate="2017-05-17">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="g/AnanthGrama">Ananth Grama</author>
+<title>Spectral LPM: An Optimal Locality-Preserving Mapping using the Spectral (not Fractal) Order.</title>
+<pages>699-701</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260840</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260840</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#MokbelAG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmdb/ArefHCIGEM03" mdate="2018-11-14">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="43/4397">Mirette S. Marzouk</author>
+<title>Video query processing in the VDBMS testbed for video database research.</title>
+<pages>25-32</pages>
+<year>2003</year>
+<crossref>conf/mmdb/2003</crossref>
+<booktitle>MMDB</booktitle>
+<ee>https://doi.org/10.1145/951676.951682</ee>
+<ee>https://www.wikidata.org/entity/Q56660211</ee>
+<url>db/conf/mmdb/mmdb2003.html#ArefHCIGEM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/MokbelA03" mdate="2017-05-24">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>On Querz Processing and Optimality Using Spectral Locality-Preserving Mappings.</title>
+<pages>102-121</pages>
+<ee>https://doi.org/10.1007/978-3-540-45072-6_7</ee>
+<year>2003</year>
+<crossref>conf/ssd/2003</crossref>
+<booktitle>SSTD</booktitle>
+<url>db/conf/ssd/sstd2003.html#MokbelA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/HammadAE03" mdate="2017-05-21">
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Stream Window Join: Tracking Moving Objects in Sensor-Network Databases.</title>
+<pages>75-84</pages>
+<year>2003</year>
+<crossref>conf/ssdbm/2003</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.2003.1214967</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDM.2003.1214967</ee>
+<url>db/conf/ssdbm/ssdbm2003.html#HammadAE03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HammadFAE03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S10P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50034-3</ee>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Scheduling for shared window joins over data streams.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#HammadFAE03</url>
+<pages>297-308</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/IlyasAE03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S23P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50072-0</ee>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Supporting Top-k Join Queries in Relational Databases.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#IlyasAE03</url>
+<pages>754-765</pages>
+</inproceedings>
+</r>
+<r><article key="journals/mms/KokkorasJVEHA02" mdate="2020-09-06">
+<author pid="15/6209">Fotis Kokkoras</author>
+<author pid="13/762">Haitao Jiang</author>
+<author orcid="0000-0003-3477-8825" pid="v/IoannisPVlahavas">Ioannis P. Vlahavas</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="55/5634">Elias N. Houstis</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Smart VideoText: a video data model based on conceptual graphs.</title>
+<pages>328-338</pages>
+<year>2002</year>
+<volume>8</volume>
+<journal>Multim. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s005300200054</ee>
+<ee>https://www.wikidata.org/entity/Q62864909</ee>
+<url>db/journals/mms/mms8.html#KokkorasJVEHA02</url>
+</article>
+</r>
+<r><article key="journals/tc/PrabhakarXKAH02" mdate="2017-05-20">
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="55/6753">Yuni Xia</author>
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<title>Query Indexing and Velocity Constrained Indexing: Scalable Techniques for Continuous Queries on Moving Objects.</title>
+<pages>1124-1140</pages>
+<year>2002</year>
+<volume>51</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TC.2002.1039840</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2002.1039840</ee>
+<url>db/journals/tc/tc51.html#PrabhakarXKAH02</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/KalashnikovPHA02" mdate="2017-05-26">
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Efficient Evaluation of Continuous Range Queries on Moving Objects.</title>
+<pages>731-740</pages>
+<year>2002</year>
+<crossref>conf/dexa/2002</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/3-540-46146-9_72</ee>
+<url>db/conf/dexa/dexa2002.html#KalashnikovPHA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmkd/ZhuFAE02" mdate="2017-02-08">
+<author pid="26/4253">Xingquan Zhu</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>ClassMiner: Mining Medical Video Content Structure and Events Towards Efficient Access and Scalable Skimming.</title>
+<year>2002</year>
+<crossref>conf/dmkd/2002</crossref>
+<booktitle>DMKD</booktitle>
+<ee>http://www.bell-labs.com/user/minos/DMKD02/Papers/zhu.pdf</ee>
+<url>db/conf/dmkd/dmkd2002.html#ZhuFAE02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BerberidisAAVE02" mdate="2003-11-25">
+<author pid="13/132">Christos Berberidis</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="v/IoannisPVlahavas">Ioannis P. Vlahavas</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Multiple and Partial Periodicity Mining in Time Series Databases.</title>
+<pages>370-374</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#BerberidisAAVE02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/MokbelAK02" mdate="2018-11-06">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<title>Performance of multi-dimensional space-filling curves.</title>
+<pages>149-154</pages>
+<year>2002</year>
+<crossref>conf/gis/2002</crossref>
+<booktitle>ACM-GIS</booktitle>
+<ee>https://doi.org/10.1145/585147.585179</ee>
+<url>db/conf/gis/gis2002.html#MokbelAK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ArefCEFGHIMPRTTTVZ02" mdate="2021-04-09">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="47/2825">J. Guo</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="43/4397">Mirette S. Marzouk</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<author pid="95/715">S. Teoh</author>
+<author pid="t/EvimariaTerzi">Evimaria Terzi</author>
+<author pid="t/YiChengTu">Yi-Cheng Tu</author>
+<author pid="v/AthenaVakali">Athena Vakali</author>
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<title>A Distributed Database Server for Continuous Media.</title>
+<pages>490-491</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994764</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994764</ee>
+<ee>https://www.wikidata.org/entity/Q56664108</ee>
+<url>db/conf/icde/icde2002.html#ArefCEFGHIMPRTTTVZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/HammadAE02" mdate="2017-05-25">
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Search-based buffer management policies for streaming in continuous media servers.</title>
+<pages>253-256</pages>
+<year>2002</year>
+<booktitle>ICME (1)</booktitle>
+<ee>https://doi.org/10.1109/ICME.2002.1035766</ee>
+<crossref>conf/icmcs/2002-1</crossref>
+<url>db/conf/icmcs/icme2002-1.html#HammadAE02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/ArefEKM02" mdate="2017-05-21">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="80/5776">Khaled El-Bassyouni</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Scalable QoS-Aware Disk-Scheduling.</title>
+<pages>256-265</pages>
+<year>2002</year>
+<crossref>conf/ideas/2002</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1109/IDEAS.2002.1029678</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IDEAS.2002.1029678</ee>
+<url>db/conf/ideas/ideas2002.html#ArefEKM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mis/ArefCFEHIMZ02" mdate="2016-11-05">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="10/6075">Ann Christine Catlin</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="43/4397">Mirette S. Marzouk</author>
+<author pid="26/4253">Xingquan Zhu</author>
+<title>A Video Database Management System for Advancing Video Database Research.</title>
+<pages>8-17</pages>
+<year>2002</year>
+<crossref>conf/mis/2002</crossref>
+<booktitle>Multimedia Information Systems</booktitle>
+<url>db/conf/mis/mis2002.html#ArefCFEHIMZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BerberidisVAAE02" mdate="2017-05-22">
+<author pid="13/132">Christos Berberidis</author>
+<author pid="v/IoannisPVlahavas">Ioannis P. Vlahavas</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>On the Discovery of Weak Periodicities in Large Time Series.</title>
+<pages>51-61</pages>
+<year>2002</year>
+<crossref>conf/pkdd/2002</crossref>
+<booktitle>PKDD</booktitle>
+<ee>https://doi.org/10.1007/3-540-45681-3_5</ee>
+<url>db/conf/pkdd/pkdd2002.html#BerberidisVAAE02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/ZhuFEA02" mdate="2021-04-09">
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Hierarchical video summarization for medical data.</title>
+<pages>395-406</pages>
+<year>2002</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.451110</ee>
+<crossref>conf/spieSR/2002</crossref>
+<url>db/conf/spieSR/spieSR2002.html#ZhuFEA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/IlyasAE02" mdate="2020-03-12">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Joining Ranked Inputs in Practice.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#IlyasAE02</url>
+<ee type="oa">http://www.vldb.org/conf/2002/S29P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50094-9</ee>
+<pages>950-961</pages>
+</inproceedings>
+</r>
+<r><incollection key="series/ads/JoshiGAS02" mdate="2017-05-16">
+<author pid="j/JamesJoshi">James B. D. Joshi</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/EugeneHSpafford">Eugene H. Spafford</author>
+<title>Security and Privacy Challenges of a Digital Government.</title>
+<pages>121-136</pages>
+<year>2002</year>
+<booktitle>Advances in Digital Government</booktitle>
+<ee>https://doi.org/10.1007/0-306-47374-7_7</ee>
+<crossref>series/ads/2002-26</crossref>
+<url>db/series/ads/ads26.html#JoshiGAS02</url>
+</incollection>
+</r>
+<r><article key="journals/cacm/JoshiAGS01" mdate="2018-11-06">
+<author pid="j/JamesJoshi">James Joshi</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author orcid="0000-0002-5555-8330" pid="s/EugeneHSpafford">Eugene H. Spafford</author>
+<title>Security models for web-based applications.</title>
+<pages>38-44</pages>
+<year>2001</year>
+<volume>44</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/359205.359224</ee>
+<url>db/journals/cacm/cacm44.html#JoshiAGS01</url>
+</article>
+</r>
+<r><article key="journals/computer/JoshiGAS01" mdate="2020-08-12">
+<author pid="j/JamesJoshi">James Joshi</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0002-5555-8330" pid="s/EugeneHSpafford">Eugene H. Spafford</author>
+<title>Digital Government Security Infrastructure Design Challenges.</title>
+<pages>66-72</pages>
+<year>2001</year>
+<volume>34</volume>
+<journal>Computer</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/2.901169</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.901169</ee>
+<url>db/journals/computer/computer34.html#JoshiGAS01</url>
+</article>
+</r>
+<r><article key="journals/csse/FahmiALSGLH01" mdate="2005-07-21">
+<author pid="14/2220">Husni Fahmi</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="20/4035">Mudassir Latif</author>
+<author pid="11/2433">Basit Shafiq</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="09/3367">Peiya Liu</author>
+<author pid="75/2194">Liang H. Hsu</author>
+<title>Distributed web-based framework for real-time multimedia object communication.</title>
+<pages>79-88</pages>
+<year>2001</year>
+<volume>16</volume>
+<journal>Comput. Syst. Sci. Eng.</journal>
+<number>2</number>
+<url>db/journals/csse/csse16.html#FahmiALSGLH01</url>
+</article>
+</r>
+<r><article key="journals/dpd/AboulnagaA01" mdate="2020-05-18">
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Window Query Processing in Linear Quadtrees.</title>
+<pages>111-126</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>2</number>
+<url>db/journals/dpd/dpd10.html#AboulnagaA01</url>
+<ee>https://doi.org/10.1023/A:1019256828670</ee>
+</article>
+</r>
+<r><article key="journals/jei/FanAEHMZ01" mdate="2021-04-09">
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="h/MohandSaidHacid">Mohand-Said Hacid</author>
+<author pid="43/4397">Mirette S. Marzouk</author>
+<author orcid="0000-0003-4129-9611" pid="26/4253">Xingquan Zhu</author>
+<title>MultiView: Multilevel video content representation and retrieval.</title>
+<pages>895-908</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>J. Electronic Imaging</journal>
+<number>4</number>
+<ee>https://doi.org/10.1117/1.1406944</ee>
+<url>db/journals/jei/jei10.html#FanAEHMZ01</url>
+</article>
+</r>
+<r><article key="journals/jiis/ArefI01" mdate="2018-11-14">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>SP-GiST: An Extensible Database Index for Supporting Space Partitioning Trees.</title>
+<pages>215-240</pages>
+<year>2001</year>
+<volume>17</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>2-3</number>
+<url>db/journals/jiis/jiis17.html#ArefI01</url>
+<ee>https://doi.org/10.1023/A:1012809914301</ee>
+<ee>https://www.wikidata.org/entity/Q56668379</ee>
+</article>
+</r>
+<r><article key="journals/prl/FanAHE01" mdate="2020-02-22">
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="h/MohandSaidHacid">Mohand-Said Hacid</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>An improved automatic isotropic color edge detection technique.</title>
+<pages>1419-1429</pages>
+<year>2001</year>
+<volume>22</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1016/S0167-8655(01)00082-4</ee>
+<url>db/journals/prl/prl22.html#FanAHE01</url>
+</article>
+</r>
+<r><article key="journals/tip/FanYEA01" mdate="2020-05-10">
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="47/5905">David K. Y. Yau</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Automatic image segmentation by integrating color-edge extraction and seeded region growing.</title>
+<pages>1454-1466</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/83.951532</ee>
+<ee>https://www.wikidata.org/entity/Q38392367</ee>
+<url>db/journals/tip/tip10.html#FanYEA01</url>
+</article>
+</r>
+<r><article key="journals/tkde/ArefKG01" mdate="2017-06-08">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0001-5546-939X" pid="82/617">Ibrahim Kamel</author>
+<author pid="g/SGhandeharizadeh">Shahram Ghandeharizadeh</author>
+<title>Disk Scheduling in Video Editing Systems.</title>
+<pages>933-950</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/69.971188</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.971188</ee>
+<url>db/journals/tkde/tkde13.html#ArefKG01</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MokbelA01" mdate="2018-11-06">
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Irregularity in Multi-Dimensional Space-Filling Curves with Applications in Multimedia Databases.</title>
+<pages>512-519</pages>
+<year>2001</year>
+<crossref>conf/cikm/2001</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm2001.html#MokbelA01</url>
+<ee>https://doi.org/10.1145/502585.502671</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/HambruschLAP01" mdate="2017-05-24">
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="58/2882">Chuan-Ming Liu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Query Processing in Broadcasted Spatial Index Trees.</title>
+<pages>502-521</pages>
+<year>2001</year>
+<crossref>conf/ssd/2001</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/3-540-47724-1_26</ee>
+<url>db/conf/ssd/sstd2001.html#HambruschLAP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/ArefI01" mdate="2018-11-14">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>An Extensible Index for Spatial Databases.</title>
+<pages>49-58</pages>
+<year>2001</year>
+<crossref>conf/ssdbm/2001</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2001.html#ArefI01</url>
+<ee>https://doi.org/10.1109/SSDM.2001.938537</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDM.2001.938537</ee>
+<ee>https://www.wikidata.org/entity/Q56669003</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/gis/2001" mdate="2002-12-09">
+<editor pid="a/WGAref">Walid G. Aref</editor>
+<title>ACM-GIS 2001, Proceedings of the Ninth ACM International Symposium on Advances in Geographic Information Systems, Atlanta, GA, USA, November 9-10, 2001</title>
+<publisher>ACM</publisher>
+<year>2001</year>
+<isbn>1-58113-443-6</isbn>
+<url>db/conf/gis/gis2001.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jei/FanYAR00" mdate="2018-11-14">
+<author pid="69/2360">Jianping Fan 0001</author>
+<author pid="47/5905">David K. Y. Yau</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="47/4717">Abdelmounaam Rezgui</author>
+<title>Adaptive motion-compensated video coding scheme towards content-based bit rate allocation.</title>
+<pages>521-533</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>J. Electronic Imaging</journal>
+<number>4</number>
+<ee>https://doi.org/10.1117/1.1287534</ee>
+<ee>https://www.wikidata.org/entity/Q56953672</ee>
+<url>db/journals/jei/jei9.html#FanYAR00</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/BertinoHAE00" mdate="2018-11-06">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="13/6227">Moustafa A. Hammad</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>An Access Control Model for Video Database Systems.</title>
+<pages>336-343</pages>
+<year>2000</year>
+<crossref>conf/cikm/2000</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/354756.354838</ee>
+<url>db/conf/cikm/cikm2000.html#BertinoHAE00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/ArefK00" mdate="2017-05-24">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<title>On Multi-dimensional Sorting Orders.</title>
+<pages>774-783</pages>
+<ee>https://doi.org/10.1007/3-540-44469-6_72</ee>
+<year>2000</year>
+<crossref>conf/dexa/2000</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa2000.html#ArefK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/FahmiALGLH00" mdate="2017-05-23">
+<author pid="14/2220">Husni Fahmi</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="20/4035">Mudassir Latif</author>
+<author pid="81/1710">Arif Ghafoor</author>
+<author pid="09/3367">Peiya Liu</author>
+<author pid="75/2194">Liang H. Hsu</author>
+<title>Distributed Framework for Real-Time Multimedia Object Communication.</title>
+<pages>252-259</pages>
+<year>2000</year>
+<crossref>conf/isorc/2000</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2000.839537</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2000.839537</ee>
+<url>db/conf/isorc/isorc2000.html#FahmiALGLH00</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/ArefB99" mdate="2017-05-20">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<title>Supporting Electronic Ink Databases.</title>
+<pages>303-326</pages>
+<year>1999</year>
+<volume>24</volume>
+<journal>Inf. Syst.</journal>
+<number>4</number>
+<url>db/journals/is/is24.html#ArefB99</url>
+<ee>https://doi.org/10.1016/S0306-4379(99)00020-4</ee>
+</article>
+</r>
+<r><inproceedings key="conf/gis/BadawyA99" mdate="2018-11-06">
+<author pid="b/WaelMBadawy">Wael M. Badawy</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>On Local Heuristics to Speed Up Polygon-Polygon Intersection Tests.</title>
+<pages>97-102</pages>
+<cdrom>GIS1999/P097.pdf</cdrom>
+<year>1999</year>
+<crossref>conf/gis/99</crossref>
+<booktitle>ACM-GIS</booktitle>
+<ee>https://doi.org/10.1145/320134.320160</ee>
+<url>db/conf/gis/gis99.html#BadawyA99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mis/AkinlarAKM99" mdate="2004-10-11">
+<author pid="58/304">Cuneyt Akinlar</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<author pid="72/5978">Sarit Mukherjee</author>
+<title>Autonomous Disks: The Building Block for a Scalable Distributed File System.</title>
+<pages>41-47</pages>
+<year>1999</year>
+<crossref>conf/mis/1999</crossref>
+<booktitle>Multimedia Information Systems</booktitle>
+<url>db/conf/mis/mis1999.html#AkinlarAKM99</url>
+</inproceedings>
+</r>
+<r><article key="journals/geoinformatica/ArefS97" mdate="2017-05-28">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Efficient Window Block Retrieval in Quadtree-Based Spatial Databases.</title>
+<pages>59-91</pages>
+<year>1997</year>
+<volume>1</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<url>db/journals/geoinformatica/geoinformatica1.html#ArefS97</url>
+<ee>https://doi.org/10.1023/A:1009760201355</ee>
+</article>
+</r>
+<r><inproceedings key="conf/gis/ArefS96" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Cascaded Spatial Join Algorithms with Spatially Sorted Output.</title>
+<pages>17-24</pages>
+<cdrom>GIS1996/P017.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/gis/96</crossref>
+<booktitle>ACM-GIS</booktitle>
+<ee>https://doi.org/10.1145/258319.258327</ee>
+<url>db/conf/gis/gis96.html#ArefS96</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/subrahmanianJ96/ArefBL96" mdate="2019-08-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<author pid="l/DanielPLopresti">Daniel P. Lopresti</author>
+<title>Ink as a First-Class Datatype in Multimedia Databases.</title>
+<pages>113-163</pages>
+<year>1996</year>
+<crossref>books/sp/SubrahmanianJ96</crossref>
+<booktitle>Multimedia Database System: Issues and Research Direction</booktitle>
+<url>db/books/collections/SubrahmanianJ96.html#ArefBL96</url>
+</incollection>
+</r>
+<r><article key="journals/cgf/ArefS95" mdate="2017-05-26">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>An Algorithm for Perspective Viewing of Objects Represented by Octrees.</title>
+<pages>59-66</pages>
+<year>1995</year>
+<volume>14</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<url>db/journals/cgf/cgf14.html#ArefS95</url>
+<ee>https://doi.org/10.1111/1467-8659.1410059</ee>
+</article>
+</r>
+<r><article key="journals/csur/ArefKL95" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<author pid="l/DanielPLopresti">Daniel P. Lopresti</author>
+<title>On Handling Electronic Ink.</title>
+<pages>564-567</pages>
+<year>1995</year>
+<volume>27</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<url>db/journals/csur/csur27.html#ArefKL95</url>
+<ee>https://doi.org/10.1145/234782.234791</ee>
+</article>
+</r>
+<r><inproceedings key="conf/gis/ArefS95" mdate="2012-09-17">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>A Window Retrieval Algorithm for Spatial Databases Using Quadtrees.</title>
+<pages>69-</pages>
+<year>1995</year>
+<crossref>conf/gis/95</crossref>
+<booktitle>ACM-GIS</booktitle>
+<url>db/conf/gis/gis95.html#ArefS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ArefBJM95" mdate="2017-05-17">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<author pid="75/5862">Stephen Johnson</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<title>Efficient Processing of Proximity Queries for Large Databases.</title>
+<pages>147-154</pages>
+<cdrom>ICDE95/P147.pdf</cdrom>
+<year>1995</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde95.html#ArefBJM95</url>
+<crossref>conf/icde/95</crossref>
+<ee>https://doi.org/10.1109/ICDE.1995.380398</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.1995.380398</ee>
+<cite>...</cite>
+<cite>journals/csur/BentleyF79</cite>
+<cite>journals/tse/Chang90a</cite>
+<cite>journals/is/DavisR80</cite>
+<cite>journals/siamcomp/DobkinL76</cite>
+<cite>...</cite>
+<cite>conf/pods/FaloutsosR89</cite>
+<cite>conf/sigmod/HoelS92</cite>
+<cite>conf/icde/Jagadish90</cite>
+<cite>journals/ipl/ManberB91</cite>
+<cite>books/sp/PreparataS85</cite>
+<cite>journals/siamcomp/Rivest76</cite>
+<cite>books/bc/TanselCGJSS93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArefBV95" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<author pid="58/4933">Padmavathi Vallabhaneni</author>
+<title>The Handwritten Trie: Indexing Electronic Ink.</title>
+<pages>151-162</pages>
+<year>1995</year>
+<crossref>conf/sigmod/95</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod95.html#ArefBV95</url>
+<ee>https://doi.org/10.1145/223784.223811</ee>
+<cdrom>SIGMOD95/P151.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><incollection key="books/acm/kim95/SametA95" mdate="2019-08-06">
+<author pid="s/HananSamet">Hanan Samet</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>Spatial Data Models and Query Processing.</title>
+<pages>338-360</pages>
+<year>1995</year>
+<crossref>books/acm/Kim95</crossref>
+<booktitle>Modern Database Systems</booktitle>
+<url>db/books/collections/kim95.html#SametA95</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cikm/ArefS94" mdate="2018-11-06">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Hashing by Proximity to Process Duplicates in Spatial Databases.</title>
+<pages>347-354</pages>
+<cdrom>CIKM1994/P347.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/cikm/94</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm94.html#ArefS94</url>
+<ee>https://doi.org/10.1145/191246.191307</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/ArefS94" mdate="2019-08-07">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>A Cost Model for Query Optimization Using R-Trees.</title>
+<year>1994</year>
+<booktitle>ACM-GIS</booktitle>
+<crossref>conf/gis/1994</crossref>
+<url>db/conf/gis/gis94.html#ArefS94</url>
+</inproceedings>
+</r>
+<r><article key="journals/acta/ArefS93" mdate="2020-06-21">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Decomposing a Window into Maximal Quadtree Blocks.</title>
+<pages>425-439</pages>
+<year>1993</year>
+<volume>30</volume>
+<journal>Acta Informatica</journal>
+<number>5</number>
+<url>db/journals/acta/acta30.html#ArefS93</url>
+<ee>https://doi.org/10.1007/BF01210594</ee>
+</article>
+</r>
+<r><inproceedings key="conf/fmldo/ArefS93" mdate="2014-02-11">
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Estimating Selectivity Factors of Spatial Operations.</title>
+<pages>31-43</pages>
+<year>1993</year>
+<crossref>conf/fmldo/1993</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo93.html#ArefS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/ArefS91" mdate="2017-05-20">
+<ee>https://doi.org/10.1007/3-540-54414-3_44</ee>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Extending a DBMS with Spatial Operations.</title>
+<pages>299-318</pages>
+<cdrom>SSD/1991/P299.pdf</cdrom>
+<year>1991</year>
+<crossref>conf/ssd/91</crossref>
+<booktitle>SSD</booktitle>
+<url>db/conf/ssd/ssd91.html#ArefS91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ArefS91" mdate="2017-03-29">
+<crossref>conf/vldb/91</crossref>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Optimization for Spatial Query Processing.</title>
+<pages>81-90</pages>
+<year>1991</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb91.html#ArefS91</url>
+<ee>http://www.vldb.org/conf/1991/P081.PDF</ee>
+<cite label="Aref, Samet 1990">...</cite>
+<cite label="Aref, Samet 1991">conf/ssd/ArefS91</cite>
+<cite label="Becker, G&#252;ting 1989">journals/tods/BeckerG92</cite>
+<cite label="Dayal 1984">...</cite>
+<cite label="Elmasri, Navathe 1989">books/bc/ElmasriN89</cite>
+<cite label="Graefe, DeWitt 1987">conf/sigmod/GraefeD87</cite>
+<cite label="G&#252;ting 1989">conf/vldb/Guting89</cite>
+<cite label="Haas et al.1989">conf/sigmod/HaasFLP89</cite>
+<cite label="Jarke, Koch 1984">journals/csur/JarkeK84</cite>
+<cite label="Ooi 1990">...</cite>
+<cite label="Orenstein 1986">conf/sigmod/Orenstein86</cite>
+<cite label="Sacks Davis et al.1987">...</cite>
+<cite label="Schek, Scholl 1989">conf/nf2/SchekS87</cite>
+<cite label="Schek, Waterfeld 1986">...</cite>
+<cite label="Wolf 1989">conf/ssd/Wolf89</cite>
+<cite label="Wong, Youssefi 1976">journals/tods/WongY76</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/ArefS90" mdate="2018-11-06">
+<crossref>conf/pods/90</crossref>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="s/HananSamet">Hanan Samet</author>
+<title>Efficient Processing of Window Queries in The Pyramid Data Structure.</title>
+<pages>265-272</pages>
+<year>1990</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods90.html#ArefS90</url>
+<ee>https://doi.org/10.1145/298514.298579</ee>
+<cdrom>journals/anthology/cd1-3:PODS90/P265.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS90/P265.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Samet90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<coauthors n="241" nc="1">
+<co c="0"><na f="a/Abbas:Mostafa_M=" pid="22/10807">Mostafa M. Abbas</na></co>
+<co c="0"><na f="a/Abdelhamid:Ahmed_S=" pid="166/8392">Ahmed S. Abdelhamid</na></co>
+<co c="0"><na f="a/Abdelsalam:Aya" pid="176/1454">Aya Abdelsalam</na></co>
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="0"><na f="a/Akinlar:Cuneyt" pid="58/304">Cuneyt Akinlar</na></co>
+<co c="0"><na f="a/Al=Mamun_0003:Abdullah" pid="278/8830">Abdullah Al-Mamun 0003</na></co>
+<co c="0" n="2"><na f="a/Ali:Mohamed_H=" pid="a/MHAli">Mohamed H. Ali</na><na>M. H. Ali</na></co>
+<co c="0"><na f="a/Almaslukh:Abdulaziz" pid="229/8688">Abdulaziz Almaslukh</na></co>
+<co c="0"><na f="a/Almutairi:Abdulrahman" pid="66/10933">Abdulrahman Almutairi</na></co>
+<co c="0"><na f="a/Aly:Ahmed_M=" pid="39/8165">Ahmed M. Aly</na></co>
+<co c="0"><na f="a/Ammar:Khaled" pid="29/9884">Khaled Ammar</na></co>
+<co c="0"><na f="a/Angles:Renzo" pid="36/2474">Renzo Angles</na></co>
+<co c="0"><na f="a/Aref:Jalaleldeen_W=" pid="176/1446">Jalaleldeen W. Aref</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0"><na f="a/Arshad:Muhammad_Umer" pid="71/303">Muhammad Umer Arshad</na></co>
+<co c="0"><na f="a/Atallah:Mikhail_J=" pid="a/MikhailJAtallah">Mikhail J. Atallah</na></co>
+<co c="-1"><na f="b/Badawy:Wael_M=" pid="b/WaelMBadawy">Wael M. Badawy</na></co>
+<co c="0"><na f="b/Barbar=aacute=:Daniel" pid="b/DBarbara">Daniel Barbar&#225;</na></co>
+<co c="0"><na f="b/Basalamah:Saleh_M=" pid="47/10934">Saleh M. Basalamah</na></co>
+<co c="0"><na f="b/Baxter:Ivan" pid="49/543">Ivan Baxter</na></co>
+<co c="0"><na f="b/Berberidis:Christos" pid="13/132">Christos Berberidis</na></co>
+<co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
+<co c="0"><na f="b/Bertolotto:Michela" pid="b/MBertolotto">Michela Bertolotto</na></co>
+<co c="0"><na f="b/Besta:Maciej" pid="136/7953">Maciej Besta</na></co>
+<co c="0"><na f="b/Bestavros:Azer" pid="b/ABestavros">Azer Bestavros</na></co>
+<co c="0"><na f="b/Bindra:Ashish" pid="74/7550">Ashish Bindra</na></co>
+<co c="0"><na f="b/Bochner:Barry_R=" pid="157/3957">Barry R. Bochner</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Bose:Raja" pid="33/897">Raja Bose</na></co>
+<co c="0"><na f="b/Bouros:Panagiotis" pid="38/4801">Panagiotis Bouros</na></co>
+<co c="0"><na f="b/Bykau:Siarhei" pid="62/7525">Siarhei Bykau</na></co>
+<co c="0"><na f="c/Catlin:Ann_Christine" pid="10/6075">Ann Christine Catlin</na></co>
+<co c="0"><na f="c/Cecchet:Emmanuel" pid="58/170">Emmanuel Cecchet</na></co>
+<co c="0"><na f="c/Chai:Xiaoyong" pid="83/1413">Xiaoyong Chai</na></co>
+<co c="0"><na f="c/Chen:Yue" pid="79/5815">Yue Chen</na></co>
+<co c="0"><na f="c/Chen:Zhida" pid="125/6665">Zhida Chen</na></co>
+<co c="0"><na f="c/Chow:Chi=Yin" pid="77/6228">Chi-Yin Chow</na></co>
+<co c="0" n="2"><na f="c/Clifton:Chris" pid="c/CClifton">Chris Clifton</na><na>Christopher W. Clifton</na></co>
+<co c="0"><na f="c/Cong:Gao" pid="33/3180">Gao Cong</na></co>
+<co c="0"><na f="c/Conway:Tyrrell" pid="33/370">Tyrrell Conway</na></co>
+<co c="0"><na f="d/Daghistani:Anas" pid="137/6627">Anas Daghistani</na></co>
+<co c="0"><na f="d/Daudjee:Khuzaima" pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</na></co>
+<co c="0"><na f="d/Delis:Alex" pid="d/AlexDelis">Alex Delis</na></co>
+<co c="0"><na f="d/Deng:Ke" pid="97/1199">Ke Deng</na></co>
+<co c="0" n="2"><na f="d/Dorrell:David_G=" pid="19/7352">David G. Dorrell</na><na>David George Dorrell</na></co>
+<co c="0"><na f="d/Dose:Hitomi" pid="157/4290">Hitomi Dose</na></co>
+<co c="0"><na f="d/Dragut:Eduard_C=" pid="66/6919">Eduard C. Dragut</na></co>
+<co c="0"><na f="d/Dumbrava:Stefania" pid="143/2670">Stefania Dumbrava</na></co>
+<co c="0"><na f="e/Ebaid:Amr" pid="131/4161">Amr Ebaid</na></co>
+<co c="0"><na f="e/Ebert:David_S=" pid="65/2401">David S. Ebert</na></co>
+<co c="0"><na f="e/Ehsani:Mehrdad" pid="126/1189">Mehrdad Ehsani</na></co>
+<co c="0"><na f="e/El=Bassyouni:Khaled" pid="80/5776">Khaled El-Bassyouni</na></co>
+<co c="0"><na f="e/Elbassioni:Khaled_M=" pid="82/4645">Khaled M. Elbassioni</na></co>
+<co c="0"><na f="e/Elfeky:Mohamed_G=" pid="97/3423">Mohamed G. Elfeky</na></co>
+<co c="0"><na f="e/Elmagarmid:Ahmed_K=" pid="e/AKElmagarmid">Ahmed K. Elmagarmid</na></co>
+<co c="0"><na f="e/Elmeleegy:Hazem" pid="12/2856">Hazem Elmeleegy</na></co>
+<co c="0"><na f="e/Elmongui:Hicham_G=" pid="15/5649">Hicham G. Elmongui</na></co>
+<co c="0"><na f="e/Elnikety:Sameh" pid="18/1967">Sameh Elnikety</na></co>
+<co c="0"><na f="e/Eltabakh:Mohamed_Y=" pid="49/6395">Mohamed Y. Eltabakh</na></co>
+<co c="0"><na f="e/Eltarras:Ramy" pid="12/6759">Ramy Eltarras</na></co>
+<co c="0"><na f="f/Fahmi:Husni" pid="14/2220">Husni Fahmi</na></co>
+<co c="0"><na f="f/Fan_0001:Jianping" pid="69/2360">Jianping Fan 0001</na></co>
+<co c="0" n="2"><na f="f/Feiner:Steven_K=" pid="f/StevenFeiner">Steven K. Feiner</na><na>Steven Feiner</na></co>
+<co c="0"><na f="f/Felemban:Muhamad" pid="135/7413">Muhamad Felemban</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="g/Ghafoor:Arif" pid="81/1710">Arif Ghafoor</na></co>
+<co c="0"><na f="g/Ghamri=Doudane:Yacine" pid="g/YacineGhamriDoudane">Yacine Ghamri-Doudane</na></co>
+<co c="0"><na f="g/Ghandeharizadeh:Shahram" pid="g/SGhandeharizadeh">Shahram Ghandeharizadeh</na></co>
+<co c="0"><na f="g/Ghanem:Thanaa_M=" pid="09/3546">Thanaa M. Ghanem</na></co>
+<co c="0"><na f="g/Gnanasekaran:Bala_M=" pid="116/5339">Bala M. Gnanasekaran</na></co>
+<co c="0"><na f="g/Grama:Ananth" pid="g/AnanthGrama">Ananth Grama</na></co>
+<co c="0"><na f="g/Gribskov:Michael" pid="99/1651">Michael Gribskov</na></co>
+<co c="0"><na f="g/Guo:J=" pid="47/2825">J. Guo</na></co>
+<co c="0"><na f="g/Guo:Jingjing" pid="65/7760">Jingjing Guo</na></co>
+<co c="0"><na f="g/Gwadera:Robert" pid="95/3034">Robert Gwadera</na></co>
+<co c="0"><na f="h/Hacid:Mohand=Said" pid="h/MohandSaidHacid">Mohand-Said Hacid</na></co>
+<co c="0"><na f="h/Hambrusch:Susanne_E=" pid="h/SusanneSHambrusch">Susanne E. Hambrusch</na></co>
+<co c="0"><na f="h/Hammad:Moustafa_A=" pid="13/6227">Moustafa A. Hammad</na></co>
+<co c="0"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0"><na f="h/Haslhofer:Bernhard" pid="85/3208">Bernhard Haslhofer</na></co>
+<co c="0"><na f="h/Hassan:Mohamed_S=" pid="166/8411">Mohamed S. Hassan</na></co>
+<co c="0"><na f="h/He:Yuxiong" pid="50/174">Yuxiong He</na></co>
+<co c="0"><na f="h/Hegeman:Tim" pid="139/4230">Tim Hegeman</na></co>
+<co c="0"><na f="h/Helal:Abdelsalam" pid="h/AHelal">Abdelsalam Helal</na></co>
+<co c="0"><na f="h/Hidders:Jan" pid="h/JanHidders">Jan Hidders</na></co>
+<co c="0"><na f="h/Hon:Wing=Kai" pid="51/534">Wing-Kai Hon</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="0"><na f="h/Houstis:Elias_N=" pid="55/5634">Elias N. Houstis</na></co>
+<co c="0"><na f="h/Hsu:Liang_H=" pid="75/2194">Liang H. Hsu</na></co>
+<co c="0"><na f="i/Iamnitchi:Adriana" pid="33/5916">Adriana Iamnitchi</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Iosup:Alexandru" pid="85/2489">Alexandru Iosup</na></co>
+<co c="0"><na f="i/Ishikawa:Motokazu" pid="157/4289">Motokazu Ishikawa</na></co>
+<co c="0"><na f="j/Javed:Yahya" pid="161/8710">Yahya Javed</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="j/Jeong:Hyun_Chai" pid="206/7386">Hyun Chai Jeong</na></co>
+<co c="0"><na f="j/Jiang:Haitao" pid="13/762">Haitao Jiang</na></co>
+<co c="0"><na f="j/Johnson:Stephen" pid="75/5862">Stephen Johnson</na></co>
+<co c="0" n="2"><na f="j/Joshi:James_B=_D=" pid="j/JamesJoshi">James B. D. Joshi</na><na>James Joshi</na></co>
+<co c="0"><na f="k/Kalashnikov:Dmitri_V=" pid="k/DVKalashnikov">Dmitri V. Kalashnikov</na></co>
+<co c="0"><na f="k/Kalavri:Vasiliki" pid="132/6943">Vasiliki Kalavri</na></co>
+<co c="0"><na f="k/Kamel:Ibrahim" pid="82/617">Ibrahim Kamel</na></co>
+<co c="0"><na f="k/Kapp:Hugo" pid="281/6816">Hugo Kapp</na></co>
+<co c="0"><na f="k/Karimzadeh:Morteza" pid="139/7516">Morteza Karimzadeh</na></co>
+<co c="0"><na f="k/Kihara:Daisuke" pid="13/915">Daisuke Kihara</na></co>
+<co c="0"><na f="k/Kobes:Jason" pid="205/9313">Jason Kobes</na></co>
+<co c="0"><na f="k/Kokkoras:Fotis" pid="15/6209">Fotis Kokkoras</na></co>
+<co c="0"><na f="k/Kuznetsova:Tatiana" pid="206/6271">Tatiana Kuznetsova</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Latif:Mudassir" pid="20/4035">Mudassir Latif</na></co>
+<co c="0"><na f="l/Liu:Chuan=Ming" pid="58/2882">Chuan-Ming Liu</na></co>
+<co c="0"><na f="l/Liu:Peiya" pid="09/3367">Peiya Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Qing" pid="53/4481-1">Qing Liu 0001</na></co>
+<co c="0"><na f="l/Lopresti:Daniel_P=" pid="l/DanielPLopresti">Daniel P. Lopresti</na></co>
+<co c="0"><na f="l/Lu:Chang=Tien" pid="08/4367">Chang-Tien Lu</na></co>
+<co c="0"><na f="l/Lu:Ming" pid="15/5997">Ming Lu</na></co>
+<co c="0"><na f="m/Madkour:Amgad" pid="86/2989">Amgad Madkour</na></co>
+<co c="0"><na f="m/Magdy_0001:Amr" pid="05/8073-1">Amr Magdy 0001</na></co>
+<co c="0"><na f="m/Mahmood:Ahmed" pid="120/1508">Ahmed Mahmood</na></co>
+<co c="0"><na f="m/Mahmood:Ahmed_R=" pid="73/10806">Ahmed R. Mahmood</na></co>
+<co c="0"><na f="m/Mahmoud:Hosam_M=" pid="m/HosamMMahmoud">Hosam M. Mahmoud</na></co>
+<co c="0"><na f="m/Malluhi:Qutaibah_M=" pid="99/5275">Qutaibah M. Malluhi</na></co>
+<co c="0"><na f="m/Marri:Wadha_J=_Al" pid="152/1395">Wadha J. Al Marri</na></co>
+<co c="0"><na f="m/Martens:Wim" pid="95/3517">Wim Martens</na></co>
+<co c="0"><na f="m/Marzouk:Mirette_S=" pid="43/4397">Mirette S. Marzouk</na></co>
+<co c="0"><na f="m/Mauri:Jaime_Lloret" pid="l/JaimeLloret">Jaime Lloret Mauri</na></co>
+<co c="0"><na f="m/Mehrotra:Sharad" pid="m/SharadMehrotra">Sharad Mehrotra</na></co>
+<co c="0"><na f="m/Mershad:Khaleel" pid="161/7909">Khaleel Mershad</na></co>
+<co c="0"><na f="m/Mokbel:Mohamed_F=" pid="94/5893">Mohamed F. Mokbel</na></co>
+<co c="0"><na f="m/Mori:Hirotada" pid="15/3237">Hirotada Mori</na></co>
+<co c="0"><na f="m/Mukherjee:Sarit" pid="72/5978">Sarit Mukherjee</na></co>
+<co c="0"><na f="m/Muto:Ai" pid="141/3544">Ai Muto</na></co>
+<co c="0"><na f="n/Nakahigashi:Kenji" pid="157/3945">Kenji Nakahigashi</na></co>
+<co c="0"><na f="n/Nakamura:Koichiro" pid="157/4031">Koichiro Nakamura</na></co>
+<co c="0"><na f="n/Nakayashiki:Toru" pid="157/4117">Toru Nakayashiki</na></co>
+<co c="0"><na f="n/Nath:Suman" pid="85/6293">Suman Nath</na></co>
+<co c="0" n="2"><na f="n/Neto:Jose_Florencio_de_Queiroz" pid="193/5381">Jose Florencio de Queiroz Neto</na><na>Jos&#233; Florencio de Queiroz Neto</na></co>
+<co c="0"><na f="n/Nguyen=Dinh:Long=Van" pid="49/8159">Long-Van Nguyen-Dinh</na></co>
+<co c="0"><na f="n/Nita=Rotaru:Cristina" pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</na></co>
+<co c="0"><na f="n/Nomura:Wataru" pid="45/1453">Wataru Nomura</na></co>
+<co c="0"><na f="n/N=oslash=rv=aring=g:Kjetil" pid="n/KjetilNorvag">Kjetil N&#248;rv&#229;g</na></co>
+<co c="0"><na f="o/Okada:Chihiro" pid="157/4108">Chihiro Okada</na></co>
+<co c="0"><na f="o/Otsuka:Yuta" pid="157/3944">Yuta Otsuka</na></co>
+<co c="0"><na f="o/Ouzzani:Mourad" pid="o/MouradOuzzani">Mourad Ouzzani</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Padma:Jalaja" pid="27/3890">Jalaja Padma</na></co>
+<co c="0"><na f="p/Pearson:Spencer" pid="117/6021">Spencer Pearson</na></co>
+<co c="0"><na f="p/Pendakur:V=_Setty" pid="258/0189">V. Setty Pendakur</na></co>
+<co c="0"><na f="p/Pervaiz:Zahid" pid="143/9503">Zahid Pervaiz</na></co>
+<co c="0"><na f="p/Peukert:Eric" pid="91/7933">Eric Peukert</na></co>
+<co c="0"><na f="p/Plantikow:Stefan" pid="93/3568">Stefan Plantikow</na></co>
+<co c="0"><na f="p/Prabhakar:Sunil" pid="p/SunilPrabhakar">Sunil Prabhakar</na></co>
+<co c="0"><na f="p/Prabhu:Nagabhushana" pid="53/6950">Nagabhushana Prabhu</na></co>
+<co c="0"><na f="p/Pradhan:Romila" pid="199/6324">Romila Pradhan</na></co>
+<co c="0"><na f="p/Prakash:Deo" pid="216/2348">Deo Prakash</na></co>
+<co c="0"><na f="p/Punni:Sri" pid="238/7697">Sri Punni</na></co>
+<co c="0"><na f="q/Qadah:Thamir" pid="166/8355">Thamir Qadah</na></co>
+<co c="0"><na f="q/Qi_0002:Yan" pid="q/YanQi2">Yan Qi 0002</na></co>
+<co c="0"><na f="r/Ragab_0001:Mohamed" pid="205/4727">Mohamed Ragab 0001</na></co>
+<co c="0"><na f="r/Rahman:Mohamed_Abdur" pid="129/2393">Mohamed Abdur Rahman</na></co>
+<co c="0"><na f="r/Rehman:Faizan_Ur" pid="144/5890">Faizan Ur Rehman</na></co>
+<co c="0"><na f="r/Rezgui:Abdelmounaam" pid="47/4717">Abdelmounaam Rezgui</na></co>
+<co c="0"><na f="r/Rezig:El_Kindi" pid="96/8919">El Kindi Rezig</na></co>
+<co c="0"><na f="r/Ribeiro_0001:Bruno" pid="15/606">Bruno Ribeiro 0001</na></co>
+<co c="0"><na f="r/Ripeanu:Matei" pid="93/24">Matei Ripeanu</na></co>
+<co c="0"><na f="r/Rizzo:Gianfranco" pid="220/1033">Gianfranco Rizzo</na></co>
+<co c="0"><na f="r/Rudd:Kenneth_E=" pid="42/6913">Kenneth E. Rudd</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="0"><na f="s/Sadiq:Shazia_Wasim" pid="s/SWSadiq">Shazia Wasim Sadiq</na></co>
+<co c="0"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Sakr:Sherif" pid="s/SherifSakr">Sherif Sakr</na></co>
+<co c="0"><na f="s/Salihoglu:Semih" pid="55/6560">Semih Salihoglu</na></co>
+<co c="0"><na f="s/Sallam:Asmaa" pid="116/5199">Asmaa Sallam</na></co>
+<co c="0"><na f="s/Salt:David_E=" pid="07/1294">David E. Salt</na></co>
+<co c="0"><na f="s/Samet:Hanan" pid="s/HananSamet">Hanan Samet</na></co>
+<co c="0"><na f="s/Sarfraz:Muhammad_I=" pid="00/6313jr">Muhammad I. Sarfraz</na></co>
+<co c="0"><na f="s/Sarwat:Mohamed" pid="95/9990">Mohamed Sarwat</na></co>
+<co c="0"><na f="s/Scheuermann:Peter" pid="s/PeterScheuermann">Peter Scheuermann</na></co>
+<co c="0"><na f="s/Schneider_0001:Markus" pid="s/MarkusSchneider1">Markus Schneider 0001</na></co>
+<co c="0"><na f="s/Schulz:Christian" pid="160/0769">Christian Schulz</na></co>
+<co c="0"><na f="s/Selmer:Petra" pid="50/7441">Petra Selmer</na></co>
+<co c="0"><na f="s/Sequeda:Juan_F=" pid="93/3423">Juan F. Sequeda</na></co>
+<co c="0"><na f="s/Shafiq:Basit" pid="11/2433">Basit Shafiq</na></co>
+<co c="0"><na f="s/Shah:Rahul" pid="75/3500">Rahul Shah</na></co>
+<co c="0"><na f="s/Shahabi:Cyrus" pid="s/CyrusShahabi">Cyrus Shahabi</na></co>
+<co c="0"><na f="s/Shekhar:Shashi" pid="s/ShashiShekhar">Shashi Shekhar</na></co>
+<co c="0"><na f="s/Shin:Jaewoo" pid="174/2648">Jaewoo Shin</na></co>
+<co c="0"><na f="s/Shinavier:Joshua" pid="27/3988">Joshua Shinavier</na></co>
+<co c="0" n="2"><na f="s/Silva:Yasin_N=" pid="s/YasinNSilva">Yasin N. Silva</na><na>Yasin Laura-Silva</na></co>
+<co c="0"><na f="s/Spafford:Eugene_H=" pid="s/EugeneHSpafford">Eugene H. Spafford</na></co>
+<co c="0"><na f="s/Stogner:Lee" pid="167/2602">Lee Stogner</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Suharnan:Sivasundaram" pid="98/961">Sivasundaram Suharnan</na></co>
+<co c="0"><na f="s/Sz=aacute=rnyas:G=aacute=bor" pid="151/1414">G&#225;bor Sz&#225;rnyas</na></co>
+<co c="0"><na f="t/Tahboub:Ruby_Y=" pid="18/8896">Ruby Y. Tahboub</na></co>
+<co c="0"><na f="t/Takeuchi:Rikiya" pid="157/4009">Rikiya Takeuchi</na></co>
+<co c="0" n="2"><na f="t/Tang:MingJie" pid="01/7213">MingJie Tang</na><na>Mingjie Tang</na></co>
+<co c="0"><na f="t/Tanishima:Shigeki" pid="157/4175">Shigeki Tanishima</na></co>
+<co c="0"><na f="t/Teoh:S=" pid="95/715">S. Teoh</na></co>
+<co c="0"><na f="t/Teredesai:Ankur" pid="t/AnkurTeredesai">Ankur Teredesai</na></co>
+<co c="0"><na f="t/Terzi:Evimaria" pid="t/EvimariaTerzi">Evimaria Terzi</na></co>
+<co c="0"><na f="t/Thirumuruganathan:Saravanan" pid="57/10514">Saravanan Thirumuruganathan</na></co>
+<co c="0"><na f="t/Tohsato:Yukako" pid="31/5662">Yukako Tohsato</na></co>
+<co c="0"><na f="t/Tommasini_0001:Riccardo" pid="169/8184">Riccardo Tommasini 0001</na></co>
+<co c="0"><na f="t/Tu:Yi=Cheng" pid="t/YiChengTu">Yi-Cheng Tu</na></co>
+<co c="0"><na f="t/Tumeo:Antonino" pid="53/3654">Antonino Tumeo</na></co>
+<co c="0"><na f="u/Uta:Alexandru" pid="154/4519">Alexandru Uta</na></co>
+<co c="-1"><na f="u/Uzunbaz:Serkan" pid="01/9690">Serkan Uzunbaz</na></co>
+<co c="0"><na f="v/Vakali:Athena" pid="v/AthenaVakali">Athena Vakali</na></co>
+<co c="0"><na f="v/Vallabhaneni:Padmavathi" pid="58/4933">Padmavathi Vallabhaneni</na></co>
+<co c="0"><na f="v/Valle:Emanuele_Della" pid="91/4526">Emanuele Della Valle</na></co>
+<co c="0"><na f="v/Varbanescu:Ana_Lucia" pid="62/3310">Ana Lucia Varbanescu</na></co>
+<co c="0"><na f="v/Vitter:Jeffrey_Scott" pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</na></co>
+<co c="0"><na f="v/Vlahavas:Ioannis_P=" pid="v/IoannisPVlahavas">Ioannis P. Vlahavas</na></co>
+<co c="0"><na f="v/Voigt:Hannes" pid="19/1082">Hannes Voigt</na></co>
+<co c="0"><na f="w/Wang_0001:Fei=Yue" pid="14/374-1">Fei-Yue Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Guizhen" pid="35/10190">Guizhen Wang</na></co>
+<co c="0"><na f="w/Wanner:Barry_L=" pid="12/4995">Barry L. Wanner</na></co>
+<co c="0"><na f="w/Wolfson:Ouri" pid="w/OuriWolfson">Ouri Wolfson</na></co>
+<co c="0"><na f="w/Wu:Hao" pid="72/4250">Hao Wu</na></co>
+<co c="0"><na f="w/Wu:Hsiang=Yun" pid="11/7258">Hsiang-Yun Wu</na></co>
+<co c="0"><na f="w/Wu:Lide" pid="72/2097">Lide Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Xindong" pid="59/4107">Xindong Wu 0001</na></co>
+<co c="0"><na f="x/Xia:Yuni" pid="55/6753">Yuni Xia</na></co>
+<co c="0"><na f="x/Xiong:Xiaopeng" pid="x/XiaopengXiong">Xiaopeng Xiong</na></co>
+<co c="0"><na f="x/Xu_0003:Kai" pid="x/KaiXu3">Kai Xu 0003</na></co>
+<co c="0"><na f="y/Yakovets:Nikolay" pid="92/9686">Nikolay Yakovets</na></co>
+<co c="0"><na f="y/Yamamoto:Natsuko" pid="157/4013">Natsuko Yamamoto</na></co>
+<co c="0"><na f="y/Yan_0001:Da" pid="81/9436-1">Da Yan 0001</na></co>
+<co c="0"><na f="y/Yang_0001:Xiaochun" pid="86/2859-1">Xiaochun Yang 0001</na></co>
+<co c="0"><na f="y/Yau:Calvin" pid="183/8909">Calvin Yau</na></co>
+<co c="0"><na f="y/Yau:David_K=_Y=" pid="47/5905">David K. Y. Yau</na></co>
+<co c="0"><na f="y/Yoneki:Eiko" pid="12/6940">Eiko Yoneki</na></co>
+<co c="0"><na f="y/Yu:Yongyang" pid="22/11514">Yongyang Yu</na></co>
+<co c="0"><na f="y/Yuan:Yu" pid="32/4842">Yu Yuan</na></co>
+<co c="0"><na f="z/Zhang:Xiang" pid="91/4353">Xiang Zhang</na></co>
+<co c="0"><na f="z/Zhou_0001:Xiaofang" pid="z/XiaofangZhou">Xiaofang Zhou 0001</na></co>
+<co c="0"><na f="z/Zhu:Xingquan" pid="26/4253">Xingquan Zhu</na></co>
+<co c="0"><na f="z/Zwaenepoel:Willy" pid="z/WZwaenepoel">Willy Zwaenepoel</na></co>
+</coauthors>
+</dblpperson>
+

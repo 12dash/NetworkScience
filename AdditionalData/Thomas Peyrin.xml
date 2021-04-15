@@ -1,3 +1,2238 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c62414277012cbe8329126a4e3619554679c0c24b1593fc480c3c70fe6eb6a8
-size 100626
+<?xml version="1.0"?>
+<dblpperson name="Thomas Peyrin" pid="p/ThomasPeyrin" n="151">
+<person key="homepages/p/ThomasPeyrin" mdate="2018-10-02">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<url>http://tpeyrin.no-ip.org/</url>
+<url>https://orcid.org/0000-0002-2690-9197</url>
+</person>
+<r><article key="journals/tches/AdomnicaiP21" mdate="2021-01-29">
+<author pid="210/2679">Alexandre Adomnicai</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Fixslicing AES-like Ciphers New bitsliced AES speed records on ARM-Cortex M and RISC-V.</title>
+<pages>402-425</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.46586/tches.v2021.i1.402-425</ee>
+<url>db/journals/tches/tches2021.html#AdomnicaiP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BenamiraGPT21" mdate="2021-04-07">
+<author pid="256/6147">Adrien Benamira</author>
+<author pid="176/2901">David G&#233;rault</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="247/1480">Quan Quan Tan</author>
+<title>A Deeper Look at Machine Learning-Based Cryptanalysis.</title>
+<pages>287</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/287</ee>
+<url>db/journals/iacr/iacr2021.html#BenamiraGPT21</url>
+</article>
+</r>
+<r><article key="journals/tches/TanP20" mdate="2020-02-06">
+<author pid="247/1480">Quan Quan Tan</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Heuristics for Short Linear Programs.</title>
+<pages>203-230</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2020.i1.203-230</ee>
+<url>db/journals/tches/tches2020.html#TanP20</url>
+</article>
+</r>
+<r><article key="journals/tches/AdomnicaiNP20" mdate="2020-07-02">
+<author pid="210/2679">Alexandre Adomnicai</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Fixslicing: A New GIFT Representation Fast Constant-Time Implementations of GIFT and GIFT-COFB on ARM Cortex-M.</title>
+<pages>402-427</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Cryptogr. Hardw. Embed. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tches.v2020.i3.402-427</ee>
+<url>db/journals/tches/tches2020.html#AdomnicaiNP20</url>
+</article>
+</r>
+<r><article key="journals/tosc/IwataKMP20" mdate="2020-06-05">
+<author pid="26/1564">Tetsu Iwata</author>
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="72/3032">Kazuhiko Minematsu</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms.</title>
+<pages>43-120</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2020.i1.43-120</ee>
+<url>db/journals/tosc/tosc2020.html#IwataKMP20</url>
+</article>
+</r>
+<r><article key="journals/tosc/GoudarziJKPRSS20" mdate="2020-10-26">
+<author pid="177/2271">Dahmun Goudarzi</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="72/4913">Stefan K&#246;lbl</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="33/2627">Matthieu Rivain</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<title>Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation.</title>
+<pages>31-59</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>S1</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2020.iS1.31-59</ee>
+<url>db/journals/tosc/tosc2020.html#GoudarziJKPRSS20</url>
+</article>
+</r>
+<r><article key="journals/tosc/BeierleJKLMPSSS20" mdate="2020-12-29">
+<author pid="160/3831">Christof Beierle</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="72/4913">Stefan K&#246;lbl</author>
+<author pid="90/4585">Gregor Leander</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<title>SKINNY-AEAD and SKINNY-Hash.</title>
+<pages>88-131</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>S1</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2020.iS1.88-131</ee>
+<url>db/journals/tosc/tosc2020.html#BeierleJKLMPSSS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/crypto/Peyrin020" mdate="2020-08-12">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="163/0679-1">Haoyang Wang 0001</author>
+<title>The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers.</title>
+<pages>249-278</pages>
+<year>2020</year>
+<booktitle>CRYPTO (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-56877-1_9</ee>
+<crossref>conf/crypto/2020-3</crossref>
+<url>db/conf/crypto/crypto2020-3.html#Peyrin020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscml/SunGBP20" mdate="2020-10-05">
+<author pid="08/6547-1">Ling Sun 0001</author>
+<author pid="176/2901">David G&#233;rault</author>
+<author pid="256/6147">Adrien Benamira</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>NeuroGIFT: Using a Machine Learning Based Sat Solver for Cryptanalysis.</title>
+<pages>62-84</pages>
+<year>2020</year>
+<booktitle>CSCML</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49785-9_5</ee>
+<crossref>conf/cscml/2020</crossref>
+<url>db/conf/cscml/cscml2020.html#SunGBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/LeurentP20" mdate="2021-01-29">
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>SHA-1 is a Shambles: First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust.</title>
+<pages>1839-1856</pages>
+<year>2020</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity20/presentation/leurent</ee>
+<crossref>conf/uss/2020</crossref>
+<url>db/conf/uss/uss2020.html#LeurentP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/LeurentP20" mdate="2020-05-11">
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>SHA-1 is a Shambles - First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust.</title>
+<pages>14</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/014</ee>
+<url>db/journals/iacr/iacr2020.html#LeurentP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AdomnicaiNP20" mdate="2020-05-11">
+<author pid="210/2679">Alexandre Adomnicai</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Fixslicing: A New GIFT Representation.</title>
+<pages>412</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/412</ee>
+<url>db/journals/iacr/iacr2020.html#AdomnicaiNP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BanikCIMNPSST20" mdate="2020-06-30">
+<author pid="20/3093">Subhadeep Banik</author>
+<author pid="42/10551">Avik Chakraborti</author>
+<author pid="26/1564">Tetsu Iwata</author>
+<author pid="72/3032">Kazuhiko Minematsu</author>
+<author pid="06/2136">Mridul Nandi</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="153/9912">Siang Meng Sim</author>
+<author pid="44/10381">Yosuke Todo</author>
+<title>GIFT-COFB.</title>
+<pages>738</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/738</ee>
+<url>db/journals/iacr/iacr2020.html#BanikCIMNPSST20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PeyrinW20" mdate="2020-09-02">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="163/0679-1">Haoyang Wang 0001</author>
+<title>The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers.</title>
+<pages>986</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/986</ee>
+<url>db/journals/iacr/iacr2020.html#PeyrinW20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AdomnicaiP20" mdate="2020-09-30">
+<author pid="210/2679">Alexandre Adomnicai</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Fixslicing AES-like Ciphers: New bitsliced AES speed records on ARM-Cortex M and RISC-V.</title>
+<pages>1123</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1123</ee>
+<url>db/journals/iacr/iacr2020.html#AdomnicaiP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KhairallahPC20" mdate="2020-12-02">
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<title>Preliminary Hardware Benchmarking of a Group of Round 2 NIST Lightweight AEAD Candidates.</title>
+<pages>1459</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1459</ee>
+<url>db/journals/iacr/iacr2020.html#KhairallahPC20</url>
+</article>
+</r>
+<r><article key="journals/tosc/WangP19" mdate="2020-03-27">
+<author pid="163/0679-1">Haoyang Wang 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Boomerang Switch in Multiple Rounds. Application to AES Variants and Deoxys.</title>
+<pages>142-169</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2019.i1.142-169</ee>
+<url>db/journals/tosc/tosc2019.html#WangP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/KhairallahHNBBP19" mdate="2020-03-27">
+<author orcid="0000-0002-2144-4829" pid="127/2364">Mustafa Khairallah</author>
+<author orcid="0000-0002-4512-6921" pid="156/5240">Xiaolu Hou</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="05/10163">Jakub Breier</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>SoK: On DFA Vulnerabilities of Substitution-Permutation Networks.</title>
+<pages>403-414</pages>
+<year>2019</year>
+<booktitle>AsiaCCS</booktitle>
+<ee>https://doi.org/10.1145/3321705.3329810</ee>
+<crossref>conf/ccs/2019asia</crossref>
+<url>db/conf/ccs/asiaccs2019.html#KhairallahHNBBP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/LeurentP19" mdate="2020-03-27">
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>From Collisions to Chosen-Prefix Collisions Application to Full SHA-1.</title>
+<pages>527-555</pages>
+<year>2019</year>
+<booktitle>EUROCRYPT (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17659-4_18</ee>
+<crossref>conf/eurocrypt/2019-3</crossref>
+<url>db/conf/eurocrypt/eurocrypt2019-3.html#LeurentP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/KhairallahHNBBP19" mdate="2020-05-11">
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="156/5240">Xiaolu Hou</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="05/10163">Jakub Breier</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>SoK : On DFA Vulnerabilities of Substitution-Permutation Networks.</title>
+<pages>387</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/387</ee>
+<url>db/journals/iacr/iacr2019.html#KhairallahHNBBP19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/LeurentP19" mdate="2020-05-11">
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1.</title>
+<pages>459</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/459</ee>
+<url>db/journals/iacr/iacr2019.html#LeurentP19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/TanP19" mdate="2020-05-11">
+<author pid="247/1480">Quan Quan Tan</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Heuristics for Short Linear Programs.</title>
+<pages>847</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/847</ee>
+<url>db/journals/iacr/iacr2019.html#TanP19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/IwataKMP19" mdate="2020-05-11">
+<author pid="26/1564">Tetsu Iwata</author>
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="72/3032">Kazuhiko Minematsu</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms.</title>
+<pages>992</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/992</ee>
+<url>db/journals/iacr/iacr2019.html#IwataKMP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurocrypt/CidHPSS18" mdate="2020-03-27">
+<author pid="19/2372">Carlos Cid</author>
+<author pid="34/808-15">Tao Huang 0015</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="32/381-1">Ling Song 0001</author>
+<title>Boomerang Connectivity Table: A New Cryptanalysis Tool.</title>
+<pages>683-714</pages>
+<year>2018</year>
+<booktitle>EUROCRYPT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78375-8_22</ee>
+<crossref>conf/eurocrypt/2018-2</crossref>
+<url>db/conf/eurocrypt/eurocrypt2018-2.html#CidHPSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/BaksiBBKP18" mdate="2020-03-27">
+<author pid="160/3845">Anubhab Baksi</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author orcid="0000-0002-7844-5267" pid="05/10163">Jakub Breier</author>
+<author orcid="0000-0002-2144-4829" pid="127/2364">Mustafa Khairallah</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Protecting block ciphers against differential fault attacks without re-keying.</title>
+<pages>191-194</pages>
+<year>2018</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2018.8383913</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2018.8383913</ee>
+<crossref>conf/host/2018</crossref>
+<url>db/conf/host/host2018.html#BaksiBBKP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/KhairallahNCP18" mdate="2020-03-27">
+<author orcid="0000-0002-2144-4829" pid="127/2364">Mustafa Khairallah</author>
+<author pid="134/7426">Zakaria Najm</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey.</title>
+<pages>167-172</pages>
+<year>2018</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1145/3229631.3239366</ee>
+<crossref>conf/samos/2018</crossref>
+<url>db/conf/samos/samos2018.html#KhairallahNCP18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/asiacrypt/2018-1" mdate="2019-05-14">
+<editor pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<editor pid="77/5607">Steven D. Galbraith</editor>
+<title>Advances in Cryptology - ASIACRYPT 2018 - 24th International Conference on the Theory and Application of Cryptology and Information Security, Brisbane, QLD, Australia, December 2-6, 2018, Proceedings, Part I</title>
+<booktitle>ASIACRYPT (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11272</volume>
+<isbn>978-3-030-03325-5</isbn>
+<isbn>978-3-030-03326-2</isbn>
+<ee>https://doi.org/10.1007/978-3-030-03326-2</ee>
+<url>db/conf/asiacrypt/asiacrypt2018-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/asiacrypt/2018-2" mdate="2019-05-14">
+<editor pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<editor pid="77/5607">Steven D. Galbraith</editor>
+<title>Advances in Cryptology - ASIACRYPT 2018 - 24th International Conference on the Theory and Application of Cryptology and Information Security, Brisbane, QLD, Australia, December 2-6, 2018, Proceedings, Part II</title>
+<booktitle>ASIACRYPT (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11273</volume>
+<isbn>978-3-030-03328-6</isbn>
+<isbn>978-3-030-03329-3</isbn>
+<ee>https://doi.org/10.1007/978-3-030-03329-3</ee>
+<url>db/conf/asiacrypt/asiacrypt2018-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/asiacrypt/2018-3" mdate="2019-05-14">
+<editor pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<editor pid="77/5607">Steven D. Galbraith</editor>
+<title>Advances in Cryptology - ASIACRYPT 2018 - 24th International Conference on the Theory and Application of Cryptology and Information Security, Brisbane, QLD, Australia, December 2-6, 2018, Proceedings, Part III</title>
+<booktitle>ASIACRYPT (3)</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11274</volume>
+<isbn>978-3-030-03331-6</isbn>
+<isbn>978-3-030-03332-3</isbn>
+<ee>https://doi.org/10.1007/978-3-030-03332-3</ee>
+<url>db/conf/asiacrypt/asiacrypt2018-3.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BaksiBBKP18" mdate="2020-05-11">
+<author pid="160/3845">Anubhab Baksi</author>
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="05/10163">Jakub Breier</author>
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Protecting Block Ciphers against Differential Fault Attacks without Re-keying (Extended Version).</title>
+<pages>85</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2018/085</ee>
+<url>db/journals/iacr/iacr2018.html#BaksiBBKP18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CidHPSS18" mdate="2020-05-11">
+<author pid="19/2372">Carlos Cid</author>
+<author pid="34/808-15">Tao Huang 0015</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="32/381-1">Ling Song 0001</author>
+<title>Boomerang Connectivity Table: A New Cryptanalysis Tool.</title>
+<pages>161</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2018/161</ee>
+<url>db/journals/iacr/iacr2018.html#CidHPSS18</url>
+</article>
+</r>
+<r><article key="journals/tosc/KhooLPS17" mdate="2020-10-26">
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="56/4464">Eugene Lee</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<title>Human-readable Proof of the Related-Key Security of AES-128.</title>
+<pages>59-83</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2017.i2.59-83</ee>
+<url>db/journals/tosc/tosc2017.html#KhooLPS17</url>
+</article>
+</r>
+<r><article key="journals/tosc/CidHPSS17" mdate="2020-02-04">
+<author pid="19/2372">Carlos Cid</author>
+<author pid="34/808-15">Tao Huang 0015</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="32/381-1">Ling Song 0001</author>
+<title>A Security Analysis of Deoxys and its Internal Tweakable Block Ciphers.</title>
+<pages>73-107</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2017.i3.73-107</ee>
+<url>db/journals/tosc/tosc2017.html#CidHPSS17</url>
+</article>
+</r>
+<r><article key="journals/tosc/BhasinJP17" mdate="2020-02-04">
+<author pid="94/7837">Shivam Bhasin</author>
+<author pid="163/8627">Dirmanto Jap</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Practical Evaluation of FSE 2016 Customized Encoding Countermeasure.</title>
+<pages>108-129</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2017.i3.108-129</ee>
+<url>db/journals/tosc/tosc2017.html#BhasinJP17</url>
+</article>
+</r>
+<r><article key="journals/tosc/JeanPST17" mdate="2020-10-26">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<author pid="212/0424">Jade Tourteaux</author>
+<title>Optimizing Implementations of Lightweight Building Blocks.</title>
+<pages>130-168</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.13154/tosc.v2017.i4.130-168</ee>
+<url>db/journals/tosc/tosc2017.html#JeanPST17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/BanikPPSST17" mdate="2020-10-25">
+<author orcid="0000-0001-6310-0154" pid="20/3093">Subhadeep Banik</author>
+<author pid="29/5200">Sumit Kumar Pandey</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<author orcid="0000-0002-6839-4777" pid="44/10381">Yosuke Todo</author>
+<title>GIFT: A Small Present - Towards Reaching the Limit of Lightweight Encryption.</title>
+<pages>321-345</pages>
+<year>2017</year>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66787-4_16</ee>
+<crossref>conf/ches/2017</crossref>
+<url>db/conf/ches/ches2017.html#BanikPPSST17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/JeanMPS17" mdate="2020-03-27">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<title>Bit-Sliding: A Generic Technique for Bit-Serial Implementations of SPN-based Primitives - Applications to AES, PRESENT and SKINNY.</title>
+<pages>687-707</pages>
+<year>2017</year>
+<booktitle>CHES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66787-4_33</ee>
+<crossref>conf/ches/2017</crossref>
+<url>db/conf/ches/ches2017.html#JeanMPS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/IwataMPS17" mdate="2020-03-27">
+<author pid="26/1564">Tetsu Iwata</author>
+<author pid="72/3032">Kazuhiko Minematsu</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="25/3463">Yannick Seurin</author>
+<title>ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication.</title>
+<pages>34-65</pages>
+<year>2017</year>
+<booktitle>CRYPTO (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63697-9_2</ee>
+<crossref>conf/crypto/2017-3</crossref>
+<url>db/conf/crypto/crypto2017-3.html#IwataMPS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/KhairallahCP17" mdate="2017-12-15">
+<author orcid="0000-0002-2144-4829" pid="127/2364">Mustafa Khairallah</author>
+<author orcid="0000-0002-8818-6983" pid="99/4535">Anupam Chattopadhyay</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Looting the LUTs: FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption.</title>
+<pages>282-301</pages>
+<year>2017</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71667-1_15</ee>
+<crossref>conf/indocrypt/2017</crossref>
+<url>db/conf/indocrypt/indocrypt2017.html#KhairallahCP17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/asiacrypt/2017-1" mdate="2019-05-14">
+<editor pid="t/TsuyoshiTakagi">Tsuyoshi Takagi</editor>
+<editor pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<title>Advances in Cryptology - ASIACRYPT 2017 - 23rd International Conference on the Theory and Applications of Cryptology and Information Security, Hong Kong, China, December 3-7, 2017, Proceedings, Part I</title>
+<booktitle>ASIACRYPT (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10624</volume>
+<isbn>978-3-319-70693-1</isbn>
+<isbn>978-3-319-70694-8</isbn>
+<ee>https://doi.org/10.1007/978-3-319-70694-8</ee>
+<ee>https://www.wikidata.org/entity/Q58764878</ee>
+<url>db/conf/asiacrypt/asiacrypt2017-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/asiacrypt/2017-2" mdate="2019-05-14">
+<editor pid="t/TsuyoshiTakagi">Tsuyoshi Takagi</editor>
+<editor pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<title>Advances in Cryptology - ASIACRYPT 2017 - 23rd International Conference on the Theory and Applications of Cryptology and Information Security, Hong Kong, China, December 3-7, 2017, Proceedings, Part II</title>
+<booktitle>ASIACRYPT (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10625</volume>
+<isbn>978-3-319-70696-2</isbn>
+<isbn>978-3-319-70697-9</isbn>
+<ee>https://doi.org/10.1007/978-3-319-70697-9</ee>
+<url>db/conf/asiacrypt/asiacrypt2017-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/asiacrypt/2017-3" mdate="2019-05-14">
+<editor pid="t/TsuyoshiTakagi">Tsuyoshi Takagi</editor>
+<editor pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<title>Advances in Cryptology - ASIACRYPT 2017 - 23rd International Conference on the Theory and Applications of Cryptology and Information Security, Hong Kong, China, December 3-7, 2017, Proceedings, Part III</title>
+<booktitle>ASIACRYPT (3)</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10626</volume>
+<isbn>978-3-319-70699-3</isbn>
+<isbn>978-3-319-70700-6</isbn>
+<ee>https://doi.org/10.1007/978-3-319-70700-6</ee>
+<url>db/conf/asiacrypt/asiacrypt2017-3.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/JeanPS17" mdate="2020-05-11">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="153/9912">Siang Meng Sim</author>
+<title>Optimizing Implementations of Lightweight Building Blocks.</title>
+<pages>101</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/101</ee>
+<url>db/journals/iacr/iacr2017.html#JeanPS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/IwataMPS17" mdate="2020-05-11">
+<author pid="26/1564">Tetsu Iwata</author>
+<author pid="72/3032">Kazuhiko Minematsu</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="25/3463">Yannick Seurin</author>
+<title>ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication.</title>
+<pages>535</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/535</ee>
+<url>db/journals/iacr/iacr2017.html#IwataMPS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JeanMPS17" mdate="2020-05-11">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="144/2489">Pascal Sasdrich</author>
+<title>Bit-Sliding: A Generic Technique for Bit-Serial Implementations of SPN-based Primitives - Applications to AES, PRESENT and SKINNY.</title>
+<pages>600</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/600</ee>
+<url>db/journals/iacr/iacr2017.html#JeanMPS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BanikPPSTS17" mdate="2020-05-11">
+<author pid="20/3093">Subhadeep Banik</author>
+<author pid="29/5200">Sumit Kumar Pandey</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="153/9912">Siang Meng Sim</author>
+<author pid="44/10381">Yosuke Todo</author>
+<author pid="46/2899">Yu Sasaki</author>
+<title>GIFT: A Small Present.</title>
+<pages>622</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/622</ee>
+<url>db/journals/iacr/iacr2017.html#BanikPPSTS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CidHPSS17" mdate="2020-05-11">
+<author pid="19/2372">Carlos Cid</author>
+<author pid="34/808-15">Tao Huang 0015</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="32/381-1">Ling Song 0001</author>
+<title>Cryptanalysis of Deoxys and its Internal Tweakable Block Ciphers.</title>
+<pages>693</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/693</ee>
+<url>db/journals/iacr/iacr2017.html#CidHPSS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KhairallahCP17" mdate="2020-05-11">
+<author pid="127/2364">Mustafa Khairallah</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Looting the LUTs : FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption.</title>
+<pages>1019</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2017/1019</ee>
+<url>db/journals/iacr/iacr2017.html#KhairallahCP17</url>
+</article>
+</r>
+<r><article key="journals/joc/LandelleP16" mdate="2020-09-18">
+<author pid="129/8954">Franck Landelle</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of Full RIPEMD-128.</title>
+<pages>927-951</pages>
+<year>2016</year>
+<volume>29</volume>
+<journal>J. Cryptol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00145-015-9213-5</ee>
+<url>db/journals/joc/joc29.html#LandelleP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/crypto/PeyrinS16" mdate="2020-03-27">
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="25/3463">Yannick Seurin</author>
+<title>Counter-in-Tweak: Authenticated Encryption Modes for Tweakable Block Ciphers.</title>
+<pages>33-63</pages>
+<year>2016</year>
+<booktitle>CRYPTO (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-53018-4_2</ee>
+<crossref>conf/crypto/2016-1</crossref>
+<url>db/conf/crypto/crypto2016-1.html#PeyrinS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/BeierleJKL0PSSS16" mdate="2020-10-25">
+<author orcid="0000-0002-5558-0722" pid="160/3831">Christof Beierle</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="72/4913">Stefan K&#246;lbl</author>
+<author orcid="0000-0002-2579-8587" pid="90/4585">Gregor Leander</author>
+<author orcid="0000-0002-4032-7433" pid="38/3348">Amir Moradi 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author orcid="0000-0002-5443-626X" pid="144/2489">Pascal Sasdrich</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<title>The SKINNY Family of Block Ciphers and Its Low-Latency Variant MANTIS.</title>
+<pages>123-153</pages>
+<year>2016</year>
+<booktitle>CRYPTO (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-53008-5_5</ee>
+<crossref>conf/crypto/2016-2</crossref>
+<url>db/conf/crypto/crypto2016-2.html#BeierleJKL0PSSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/StevensKP16" mdate="2021-02-02">
+<author orcid="0000-0002-7091-2924" pid="15/4413">Marc Stevens 0001</author>
+<author pid="133/6334">Pierre Karpman</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Freestart Collision for Full SHA-1.</title>
+<pages>459-483</pages>
+<year>2016</year>
+<booktitle>EUROCRYPT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-49890-3_18</ee>
+<crossref>conf/eurocrypt/2016-1</crossref>
+<url>db/conf/eurocrypt/eurocrypt2016-1.html#StevensKP16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fse/2016" mdate="2020-03-27">
+<editor orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</editor>
+<title>Fast Software Encryption - 23rd International Conference, FSE 2016, Bochum, Germany, March 20-23, 2016, Revised Selected Papers</title>
+<booktitle>FSE</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9783</volume>
+<isbn>978-3-662-52992-8</isbn>
+<ee>https://doi.org/10.1007/978-3-662-52993-5</ee>
+<url>db/conf/fse/fse2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/KhooLPS16" mdate="2020-05-11">
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="56/4464">Eugene Lee</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="153/9912">Siang Meng Sim</author>
+<title>Human-readable Proof of the Related-Key Security of AES-128.</title>
+<pages>25</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/025</ee>
+<url>db/journals/iacr/iacr2016.html#KhooLPS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Peyrin16" mdate="2020-05-11">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Collision Attack on GRINDAHL.</title>
+<pages>295</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/295</ee>
+<url>db/journals/iacr/iacr2016.html#Peyrin16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BeierleJKL0PSSS16" mdate="2020-05-11">
+<author pid="160/3831">Christof Beierle</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="72/4913">Stefan K&#246;lbl</author>
+<author pid="90/4585">Gregor Leander</author>
+<author pid="38/3348">Amir Moradi 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="144/2489">Pascal Sasdrich</author>
+<author pid="153/9912">Siang Meng Sim</author>
+<title>The SKINNY Family of Block Ciphers and its Low-Latency Variant MANTIS.</title>
+<pages>660</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/660</ee>
+<url>db/journals/iacr/iacr2016.html#BeierleJKL0PSSS16</url>
+</article>
+</r>
+<r><article key="journals/joc/Peyrin15" mdate="2020-09-18">
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Collision Attack on Grindahl.</title>
+<pages>879-898</pages>
+<year>2015</year>
+<volume>28</volume>
+<journal>J. Cryptol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00145-014-9186-9</ee>
+<url>db/journals/joc/joc28.html#Peyrin15</url>
+</article>
+</r>
+<r><inproceedings key="conf/crypto/BlondeauPW15" mdate="2020-03-27">
+<author pid="61/9451">C&#233;line Blondeau</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Known-Key Distinguisher on Full PRESENT.</title>
+<pages>455-474</pages>
+<year>2015</year>
+<booktitle>CRYPTO (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-47989-6_22</ee>
+<crossref>conf/crypto/2015-1</crossref>
+<url>db/conf/crypto/crypto2015-1.html#BlondeauPW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/KarpmanPS15" mdate="2021-02-02">
+<author pid="133/6334">Pierre Karpman</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0002-7091-2924" pid="15/4413">Marc Stevens 0001</author>
+<title>Practical Free-Start Collision Attacks on 76-step SHA-1.</title>
+<pages>623-642</pages>
+<year>2015</year>
+<booktitle>CRYPTO (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-47989-6_30</ee>
+<crossref>conf/crypto/2015-1</crossref>
+<url>db/conf/crypto/crypto2015-1.html#KarpmanPS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/PeyrinSWZ15" mdate="2020-10-25">
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<author pid="91/1701">Guoyan Zhang</author>
+<title>Cryptanalysis of JAMBU.</title>
+<pages>264-281</pages>
+<year>2015</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-48116-5_13</ee>
+<crossref>conf/fse/2015</crossref>
+<url>db/conf/fse/fse2015.html#PeyrinSWZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/SimKOP15" mdate="2020-10-25">
+<author orcid="0000-0001-6593-4355" pid="153/9912">Siang Meng Sim</author>
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="o/FrederiqueEOggier">Fr&#233;d&#233;rique E. Oggier</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Lightweight MDS Involution Matrices.</title>
+<pages>471-493</pages>
+<year>2015</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-48116-5_23</ee>
+<crossref>conf/fse/2015</crossref>
+<url>db/conf/fse/fse2015.html#SimKOP15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SimKOP15" mdate="2020-05-11">
+<author pid="153/9912">Siang Meng Sim</author>
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="o/FrederiqueEOggier">Fr&#233;d&#233;rique E. Oggier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Lightweight MDS Involution Matrices.</title>
+<pages>258</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/258</ee>
+<url>db/journals/iacr/iacr2015.html#SimKOP15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JeanNP15" mdate="2020-05-11">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Cryptanalysis of AES-like Permutations.</title>
+<pages>279</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/279</ee>
+<url>db/journals/iacr/iacr2015.html#JeanNP15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JeanNPWW15" mdate="2020-05-11">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="18/2551">Ivica Nikolic</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<author pid="85/3231">Shuang Wu</author>
+<title>Security Analysis of PRINCE.</title>
+<pages>372</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/372</ee>
+<url>db/journals/iacr/iacr2015.html#JeanNPWW15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KarpmanPS15" mdate="2021-02-02">
+<author pid="133/6334">Pierre Karpman</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="15/4413">Marc Stevens 0001</author>
+<title>Practical Free-Start Collision Attacks on 76-step SHA-1.</title>
+<pages>530</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/530</ee>
+<url>db/journals/iacr/iacr2015.html#KarpmanPS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BlondeauPW15" mdate="2020-05-11">
+<author pid="61/9451">C&#233;line Blondeau</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Known-key Distinguisher on Full PRESENT.</title>
+<pages>575</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/575</ee>
+<url>db/journals/iacr/iacr2015.html#BlondeauPW15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/StevensKP15" mdate="2021-02-02">
+<author pid="15/4413">Marc Stevens 0001</author>
+<author pid="133/6334">Pierre Karpman</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Freestart collision on full SHA-1.</title>
+<pages>967</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/967</ee>
+<url>db/journals/iacr/iacr2015.html#StevensKP15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PeyrinS15" mdate="2020-05-11">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="25/3463">Yannick Seurin</author>
+<title>Counter-in-Tweak: Authenticated Encryption Modes for Tweakable Block Ciphers.</title>
+<pages>1049</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/1049</ee>
+<url>db/journals/iacr/iacr2015.html#PeyrinS15</url>
+</article>
+</r>
+<r><article key="journals/joc/JeanNP14" mdate="2020-09-18">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Cryptanalysis of AES-like Permutations.</title>
+<pages>772-798</pages>
+<year>2014</year>
+<volume>27</volume>
+<journal>J. Cryptol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00145-013-9156-7</ee>
+<url>db/journals/joc/joc27.html#JeanNP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/JeanNP14" mdate="2018-12-23">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="18/2551">Ivica Nikolic</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Tweaks and Keys for Block Ciphers: The TWEAKEY Framework.</title>
+<pages>274-288</pages>
+<year>2014</year>
+<booktitle>ASIACRYPT (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-45608-8_15</ee>
+<crossref>conf/asiacrypt/2014</crossref>
+<url>db/conf/asiacrypt/asiacrypt2014.html#JeanNP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/KhooPPY14" mdate="2018-12-23">
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel York Poschmann</author>
+<author pid="39/7077">Huihui Yap</author>
+<title>FOAM: Searching for Hardware-Optimal SPN Structures and Components with a Fair Comparison.</title>
+<pages>433-450</pages>
+<year>2014</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44709-3_24</ee>
+<crossref>conf/ches/2014</crossref>
+<url>db/conf/ches/ches2014.html#KhooPPY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/0001PSW14" mdate="2020-03-27">
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Updates on Generic Attacks against HMAC and NMAC.</title>
+<pages>131-148</pages>
+<year>2014</year>
+<booktitle>CRYPTO (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44371-2_8</ee>
+<crossref>conf/crypto/2014-1</crossref>
+<url>db/conf/crypto/crypto2014-1.html#0001PSW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/PeyrinW14" mdate="2020-03-27">
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Generic Universal Forgery Attack on Iterative Hash-Based MACs.</title>
+<pages>147-164</pages>
+<year>2014</year>
+<booktitle>EUROCRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-55220-5_9</ee>
+<crossref>conf/eurocrypt/2014</crossref>
+<url>db/conf/eurocrypt/eurocrypt2014.html#PeyrinW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/AnandakumarPP14" mdate="2020-03-27">
+<author pid="121/2349">N. Nalla Anandakumar</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<title>A Very Compact FPGA Implementation of LED and PHOTON.</title>
+<pages>304-321</pages>
+<year>2014</year>
+<booktitle>INDOCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13039-2_18</ee>
+<crossref>conf/indocrypt/2014</crossref>
+<url>db/conf/indocrypt/indocrypt2014.html#AnandakumarPP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/0001JLPW14" mdate="2020-03-27">
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author orcid="0000-0001-5903-9055" pid="30/1133">Ga&#235;tan Leurent</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>The Usage of Counter Revisited: Second-Preimage Attack on New Russian Standardized Hash Function.</title>
+<pages>195-211</pages>
+<year>2014</year>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-13051-4_12</ee>
+<crossref>conf/sacrypt/2014</crossref>
+<url>db/conf/sacrypt/sacrypt2014.html#0001JLPW14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/0001JP014" mdate="2020-05-11">
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Breaking POET Authentication with a Single Query.</title>
+<pages>197</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/197</ee>
+<url>db/journals/iacr/iacr2014.html#0001JP014</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PeyrinW14" mdate="2020-05-11">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Generic Universal Forgery Attack on Iterative Hash-based MACs.</title>
+<pages>403</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/403</ee>
+<url>db/journals/iacr/iacr2014.html#PeyrinW14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/LeurentPW14" mdate="2020-05-11">
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>New Generic Attacks Against Hash-based MACs.</title>
+<pages>406</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/406</ee>
+<url>db/journals/iacr/iacr2014.html#LeurentPW14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KhooPPY14" mdate="2020-05-11">
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<author pid="39/7077">Huihui Yap</author>
+<title>FOAM: Searching for Hardware-Optimal SPN Structures and Components with a Fair Comparison.</title>
+<pages>530</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/530</ee>
+<url>db/journals/iacr/iacr2014.html#KhooPPY14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/0001JLPW14a" mdate="2020-05-11">
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>The Usage of Counter Revisited: Second-Preimage Attack on New Russian Standardized Hash Function.</title>
+<pages>675</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/675</ee>
+<url>db/journals/iacr/iacr2014.html#0001JLPW14a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AnandakumarPP14" mdate="2020-05-11">
+<author pid="121/2349">N. Nalla Anandakumar</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<title>A Very Compact FPGA Implementation of LED and PHOTON.</title>
+<pages>738</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/738</ee>
+<url>db/journals/iacr/iacr2014.html#AnandakumarPP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JeanNP14" mdate="2020-05-11">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="18/2551">Ivica Nikolic</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Tweaks and Keys for Block Ciphers: the TWEAKEY Framework.</title>
+<pages>831</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/831</ee>
+<url>db/journals/iacr/iacr2014.html#JeanNP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PeyrinSWZ14" mdate="2020-05-11">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="153/9912">Siang Meng Sim</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<author pid="91/1701">Guoyan Zhang</author>
+<title>Cryptanalysis of JAMBU.</title>
+<pages>931</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/931</ee>
+<url>db/journals/iacr/iacr2014.html#PeyrinSWZ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/LeurentPW13" mdate="2020-03-27">
+<author orcid="0000-0001-5903-9055" pid="30/1133">Ga&#235;tan Leurent</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>New Generic Attacks against Hash-Based MACs.</title>
+<pages>1-20</pages>
+<year>2013</year>
+<booktitle>ASIACRYPT (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-42045-0_1</ee>
+<crossref>conf/asiacrypt/2013-2</crossref>
+<url>db/conf/asiacrypt/asiacrypt2013-2.html#LeurentPW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/MendelPSWW13" mdate="2020-03-27">
+<author pid="43/1829">Florian Mendel</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="88/451">Martin Schl&#228;ffer</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<author pid="85/3231">Shuang Wu</author>
+<title>Improved Cryptanalysis of Reduced RIPEMD-160.</title>
+<pages>484-503</pages>
+<year>2013</year>
+<booktitle>ASIACRYPT (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-42045-0_25</ee>
+<crossref>conf/asiacrypt/2013-2</crossref>
+<url>db/conf/asiacrypt/asiacrypt2013-2.html#MendelPSWW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/IwamotoPS13" mdate="2020-03-27">
+<author pid="20/5191">Mitsugu Iwamoto</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<title>Limited-Birthday Distinguishers for Hash Functions - Collisions beyond the Birthday Bound Can Be Meaningful.</title>
+<pages>504-523</pages>
+<year>2013</year>
+<booktitle>ASIACRYPT (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-42045-0_26</ee>
+<crossref>conf/asiacrypt/2013-2</crossref>
+<url>db/conf/asiacrypt/asiacrypt2013-2.html#IwamotoPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/FouqueJP13" mdate="2020-03-27">
+<author orcid="0000-0003-4997-2276" pid="76/6163">Pierre-Alain Fouque</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Structural Evaluation of AES and Chosen-Key Distinguisher of 9-Round AES-128.</title>
+<pages>183-203</pages>
+<year>2013</year>
+<booktitle>CRYPTO (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40041-4_11</ee>
+<crossref>conf/crypto/2013-1</crossref>
+<url>db/conf/crypto/crypto2013-1.html#FouqueJP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SagstetterLSWBHJPPC13" mdate="2017-06-15">
+<author pid="123/8015">Florian Sagstetter</author>
+<author pid="74/5364">Martin Lukasiewycz</author>
+<author orcid="0000-0002-4096-2584" pid="96/4490">Sebastian Steinhorst</author>
+<author pid="54/4202">Marko Wolf</author>
+<author pid="125/3559">Alexandre Bouard</author>
+<author pid="38/7508">William R. Harris</author>
+<author pid="j/SomeshJha">Somesh Jha</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<author pid="c/SamarjitChakraborty">Samarjit Chakraborty</author>
+<title>Security challenges in automotive hardware/software architecture design.</title>
+<pages>458-463</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.102</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485398</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#SagstetterLSWBHJPPC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/LandelleP13" mdate="2020-03-27">
+<author pid="129/8954">Franck Landelle</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of Full RIPEMD-128.</title>
+<pages>228-244</pages>
+<year>2013</year>
+<booktitle>EUROCRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38348-9_14</ee>
+<crossref>conf/eurocrypt/2013</crossref>
+<url>db/conf/eurocrypt/eurocrypt2013.html#LandelleP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/JeanNPWW13" mdate="2020-03-27">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="18/2551">Ivica Nikolic</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<author pid="85/3231">Shuang Wu</author>
+<title>Security Analysis of PRINCE.</title>
+<pages>92-111</pages>
+<year>2013</year>
+<booktitle>FSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-43933-3_6</ee>
+<crossref>conf/fse/2013</crossref>
+<url>db/conf/fse/fse2013.html#JeanNPWW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/Benadjila0LP13" mdate="2020-03-27">
+<author pid="04/5762">Ryad Benadjila</author>
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author pid="52/2113">Victor Lomn&#233;</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Implementing Lightweight Block Ciphers on x86 Architectures.</title>
+<pages>324-351</pages>
+<year>2013</year>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43414-7_17</ee>
+<crossref>conf/sacrypt/2013</crossref>
+<url>db/conf/sacrypt/sacrypt2013.html#Benadjila0LP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/JeanNP13" mdate="2020-03-27">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Multiple Limited-Birthday Distinguishers and Applications.</title>
+<pages>533-550</pages>
+<year>2013</year>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43414-7_27</ee>
+<crossref>conf/sacrypt/2013</crossref>
+<url>db/conf/sacrypt/sacrypt2013.html#JeanNP13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/FouqueJP13" mdate="2020-05-11">
+<author pid="76/6163">Pierre-Alain Fouque</author>
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128.</title>
+<pages>366</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/366</ee>
+<url>db/journals/iacr/iacr2013.html#FouqueJP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Benadjila0LP13" mdate="2020-05-11">
+<author pid="04/5762">Ryad Benadjila</author>
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="52/2113">Victor Lomn&#233;</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Implementing Lightweight Block Ciphers on x86 Architectures.</title>
+<pages>445</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/445</ee>
+<url>db/journals/iacr/iacr2013.html#Benadjila0LP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JeanNP13" mdate="2020-05-11">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Multiple Limited-Birthday Distinguishers and Applications.</title>
+<pages>521</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/521</ee>
+<url>db/journals/iacr/iacr2013.html#JeanNP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/MendelPSWW13" mdate="2020-05-11">
+<author pid="43/1829">Florian Mendel</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="88/451">Martin Schl&#228;ffer</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<author pid="85/3231">Shuang Wu</author>
+<title>Improved Cryptanalysis of Reduced RIPEMD-160.</title>
+<pages>600</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/600</ee>
+<url>db/journals/iacr/iacr2013.html#MendelPSWW13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/LandelleP13" mdate="2020-05-11">
+<author pid="129/8954">Franck Landelle</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of Full RIPEMD-128.</title>
+<pages>607</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/607</ee>
+<url>db/journals/iacr/iacr2013.html#LandelleP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/IwamotoPS13" mdate="2020-05-11">
+<author pid="20/5191">Mitsugu Iwamoto</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<title>Limited-birthday Distinguishers for Hash Functions - Collisions Beyond the Birthday Bound can be Meaningful.</title>
+<pages>611</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/611</ee>
+<url>db/journals/iacr/iacr2013.html#IwamotoPS13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/0001NPW13" mdate="2020-05-11">
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="18/2551">Ivica Nikolic</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Cryptanalysis of Zorro.</title>
+<pages>713</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/713</ee>
+<url>db/journals/iacr/iacr2013.html#0001NPW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/ChoyYKGPPT12" mdate="2020-03-27">
+<author pid="23/5697">Jiali Choy</author>
+<author pid="39/7077">Huihui Yap</author>
+<author pid="99/3774">Khoongming Khoo</author>
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<author pid="80/2849">Chik How Tan</author>
+<title>SPN-Hash: Improving the Provable Resistance against Differential Collision Attacks.</title>
+<pages>270-286</pages>
+<year>2012</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31410-0_17</ee>
+<crossref>conf/africacrypt/2012</crossref>
+<url>db/conf/africacrypt/africacrypt2012.html#ChoyYKGPPT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/PeyrinSW12" mdate="2020-03-27">
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Generic Related-Key Attacks for HMAC.</title>
+<pages>580-597</pages>
+<year>2012</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34961-4_35</ee>
+<crossref>conf/asiacrypt/2012</crossref>
+<url>db/conf/asiacrypt/asiacrypt2012.html#PeyrinSW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/JeanNP12" mdate="2020-03-27">
+<author pid="62/9795">J&#233;r&#233;my Jean</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Rebound Attack on the Finalist Gr&#248;stl.</title>
+<pages>110-126</pages>
+<year>2012</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34047-5_7</ee>
+<crossref>conf/fse/2012</crossref>
+<url>db/conf/fse/fse2012.html#JeanNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/Naya-PlasenciaP12" mdate="2020-03-27">
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Practical Cryptanalysis of ARMADILLO2.</title>
+<pages>146-162</pages>
+<year>2012</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34047-5_9</ee>
+<crossref>conf/fse/2012</crossref>
+<url>db/conf/fse/fse2012.html#Naya-PlasenciaP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/0001PSLPW12" mdate="2020-09-05">
+<author pid="99/4916-1">Lei Wei 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="45/10085">Przemyslaw Sokolowski</author>
+<author orcid="0000-0002-1978-3557" pid="83/3827">San Ling</author>
+<author orcid="0000-0002-1917-6466" pid="p/JosefPieprzyk">Josef Pieprzyk</author>
+<author pid="52/4513">Huaxiong Wang</author>
+<title>On the (In)Security of IDEA in Various Hashing Modes.</title>
+<pages>163-179</pages>
+<year>2012</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34047-5_10</ee>
+<ee>https://www.wikidata.org/entity/Q59484979</ee>
+<crossref>conf/fse/2012</crossref>
+<url>db/conf/fse/fse2012.html#0001PSLPW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/Duc0P012" mdate="2020-03-27">
+<author pid="82/10310">Alexandre Duc</author>
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="99/4916-1">Lei Wei 0001</author>
+<title>Unaligned Rebound Attack: Application to Keccak.</title>
+<pages>402-421</pages>
+<year>2012</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34047-5_23</ee>
+<crossref>conf/fse/2012</crossref>
+<url>db/conf/fse/fse2012.html#Duc0P012</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChoyYKGPPT12" mdate="2020-05-11">
+<author pid="23/5697">Jiali Choy</author>
+<author pid="39/7077">Huihui Yap</author>
+<author pid="99/3774">Khoongming Khoo</author>
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<author pid="80/2849">Chik How Tan</author>
+<title>SPN-Hash: Improving the Provable Resistance Against Differential Collision Attacks.</title>
+<pages>234</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/234</ee>
+<url>db/journals/iacr/iacr2012.html#ChoyYKGPPT12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WeiPSLPW12" mdate="2020-05-11">
+<author pid="99/4916-1">Lei Wei 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="45/10085">Przemyslaw Sokolowski</author>
+<author pid="83/3827">San Ling</author>
+<author pid="p/JosefPieprzyk">Josef Pieprzyk</author>
+<author pid="52/4513">Huaxiong Wang</author>
+<title>On the (In)Security of IDEA in Various Hashing Modes.</title>
+<pages>264</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/264</ee>
+<url>db/journals/iacr/iacr2012.html#WeiPSLPW12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/0001PPR12" mdate="2020-05-11">
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<author pid="07/120">Matthew J. B. Robshaw</author>
+<title>The LED Block Cipher.</title>
+<pages>600</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/600</ee>
+<url>db/journals/iacr/iacr2012.html#0001PPR12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PeyrinS012" mdate="2020-05-11">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="w/LeiWang31">Lei Wang 0031</author>
+<title>Generic Related-key Attacks for HMAC.</title>
+<pages>684</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/684</ee>
+<url>db/journals/iacr/iacr2012.html#PeyrinS012</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/GuoPPR11" mdate="2020-03-27">
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<author pid="07/120">Matthew J. B. Robshaw</author>
+<title>The LED Block Cipher.</title>
+<pages>326-341</pages>
+<year>2011</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-23951-9_22</ee>
+<crossref>conf/ches/2011</crossref>
+<url>db/conf/ches/ches2011.html#GuoPPR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/GuoPP11" mdate="2018-06-26">
+<author orcid="0000-0001-8847-6748" pid="96/2596-1">Jian Guo 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<title>The PHOTON Family of Lightweight Hash Functions.</title>
+<pages>222-239</pages>
+<year>2011</year>
+<booktitle>CRYPTO</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-22792-9_13</ee>
+<crossref>conf/crypto/2011</crossref>
+<url>db/conf/crypto/crypto2011.html#GuoPP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/MinierNP11" mdate="2020-03-27">
+<author pid="78/2596">Marine Minier</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author orcid="0000-0002-2690-9197" pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Analysis of Reduced-SHAvite-3-256 v2.</title>
+<pages>68-87</pages>
+<year>2011</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21702-9_5</ee>
+<crossref>conf/fse/2011</crossref>
+<url>db/conf/fse/fse2011.html#MinierNP11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/MinierNP11" mdate="2020-05-11">
+<author pid="78/2596">Marine Minier</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Analysis of reduced-SHAvite-3-256 v2.</title>
+<pages>175</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/175</ee>
+<url>db/journals/iacr/iacr2011.html#MinierNP11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DucGPW11" mdate="2020-05-11">
+<author pid="82/10310">Alexandre Duc</author>
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="99/4916-1">Lei Wei 0001</author>
+<title>Unaligned Rebound Attack - Application to Keccak.</title>
+<pages>420</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/420</ee>
+<url>db/journals/iacr/iacr2011.html#DucGPW11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GuoPP11" mdate="2020-05-11">
+<author pid="96/2596-1">Jian Guo 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="28/4147">Axel Poschmann</author>
+<title>The PHOTON Family of Lightweight Hash Functions.</title>
+<pages>609</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2011/609</ee>
+<url>db/journals/iacr/iacr2011.html#GuoPP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/acisp/AumassonKKMOPS10" mdate="2017-05-25">
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="99/4992">Emilia K&#228;sper</author>
+<author pid="k/LarsRKnudsen">Lars R. Knudsen</author>
+<author pid="90/6710">Krystian Matusiewicz</author>
+<author pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="88/451">Martin Schl&#228;ffer</author>
+<title>Distinguishers for the Compression Function and Output Transformation of Hamsi-256.</title>
+<pages>87-103</pages>
+<year>2010</year>
+<booktitle>ACISP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14081-5_6</ee>
+<crossref>conf/acisp/2010</crossref>
+<url>db/conf/acisp/acisp2010.html#AumassonKKMOPS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/africacrypt/GauravaramLMNPRS10" mdate="2019-10-19">
+<author pid="53/6480">Praveen Gauravaram</author>
+<author orcid="0000-0001-5903-9055" pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="43/1829">Florian Mendel</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="39/16">Christian Rechberger</author>
+<author pid="88/451">Martin Schl&#228;ffer</author>
+<title>Cryptanalysis of the 10-Round Hash and Full Compression Function of SHAvite-3-512.</title>
+<pages>419-436</pages>
+<year>2010</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12678-9_25</ee>
+<ee>https://www.wikidata.org/entity/Q27996449</ee>
+<crossref>conf/africacrypt/2010</crossref>
+<url>db/conf/africacrypt/africacrypt2010.html#GauravaramLMNPRS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/BrierP10" mdate="2018-06-26">
+<author pid="09/4921">Eric Brier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>A Forward-Secure Symmetric-Key Derivation Protocol - How to Improve Classical DUKPT.</title>
+<pages>250-267</pages>
+<year>2010</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-17373-8_15</ee>
+<crossref>conf/asiacrypt/2010</crossref>
+<url>db/conf/asiacrypt/asiacrypt2010.html#BrierP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/BenoitP10" mdate="2018-06-26">
+<author pid="87/4852">Olivier Beno&#238;t</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Side-Channel Analysis of Six SHA-3 Candidates.</title>
+<pages>140-157</pages>
+<year>2010</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15031-9_10</ee>
+<crossref>conf/ches/2010</crossref>
+<url>db/conf/ches/ches2010.html#BenoitP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/Peyrin10" mdate="2018-06-26">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Differential Attacks for ECHO and Gr&#248;stl.</title>
+<pages>370-392</pages>
+<year>2010</year>
+<booktitle>CRYPTO</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-14623-7_20</ee>
+<crossref>conf/crypto/2010</crossref>
+<url>db/conf/crypto/crypto2010.html#Peyrin10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/Naya-PlasenciaRALLMP10" mdate="2019-10-19">
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="35/4758">Andrea R&#246;ck</author>
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="16/1653">Yann Laigle-Chapuy</author>
+<author orcid="0000-0001-5903-9055" pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="47/6600">Willi Meier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of ESSENCE.</title>
+<pages>134-152</pages>
+<year>2010</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13858-4_8</ee>
+<crossref>conf/fse/2010</crossref>
+<url>db/conf/fse/fse2010.html#Naya-PlasenciaRALLMP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/GilbertP10" mdate="2018-06-26">
+<author pid="13/870">Henri Gilbert</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Super-Sbox Cryptanalysis: Improved Attacks for AES-Like Permutations.</title>
+<pages>365-383</pages>
+<year>2010</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13858-4_21</ee>
+<crossref>conf/fse/2010</crossref>
+<url>db/conf/fse/fse2010.html#GilbertP10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AumassonKKMOPS10" mdate="2020-05-11">
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="99/4992">Emilia K&#228;sper</author>
+<author pid="k/LarsRKnudsen">Lars R. Knudsen</author>
+<author pid="90/6710">Krystian Matusiewicz</author>
+<author pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="88/451">Martin Schl&#228;ffer</author>
+<title>Distinguishers for the Compression Function and Output Transformation of Hamsi-256.</title>
+<pages>91</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/091</ee>
+<url>db/journals/iacr/iacr2010.html#AumassonKKMOPS10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Peyrin10" mdate="2020-05-11">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Improved Differential Attacks for ECHO and Grostl.</title>
+<pages>223</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/223</ee>
+<url>db/journals/iacr/iacr2010.html#Peyrin10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BenoitP10" mdate="2020-05-11">
+<author pid="87/4852">Olivier Beno&#238;t</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Side-channel Analysis of Six SHA-3 Candidates.</title>
+<pages>447</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2010/447</ee>
+<url>db/journals/iacr/iacr2010.html#BenoitP10</url>
+</article>
+</r>
+<r><article key="journals/ieicet/YajimaINSSPKO09" mdate="2020-06-15">
+<author pid="10/2983">Jun Yajima</author>
+<author pid="89/259">Terutoshi Iwasaki</author>
+<author pid="80/504">Yusuke Naito 0001</author>
+<author pid="46/2899">Yu Sasaki</author>
+<author pid="87/1972">Takeshi Shimoyama</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0003-1822-7476" pid="59/6407">Noboru Kunihiro</author>
+<author pid="73/5993">Kazuo Ohta</author>
+<title>A Strict Evaluation on the Number of Conditions for SHA-1 Collision Search.</title>
+<pages>87-95</pages>
+<year>2009</year>
+<volume>92-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1587/transfun.E92.A.87</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e92-a_1_87&#38;category=A&#38;year=2009&#38;lang=E&#38;abst=</ee>
+<url>db/journals/ieicet/ieicet92a.html#YajimaINSSPKO09</url>
+</article>
+</r>
+<r><inproceedings key="conf/acisp/AumassonBMNP09" mdate="2017-05-25">
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="09/4921">Eric Brier</author>
+<author pid="47/6600">Willi Meier</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Inside the Hypercube.</title>
+<pages>202-213</pages>
+<year>2009</year>
+<booktitle>ACISP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02620-1_14</ee>
+<crossref>conf/acisp/2009</crossref>
+<url>db/conf/acisp/acisp2009.html#AumassonBMNP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acns/BrierP09" mdate="2019-08-20">
+<author pid="09/4921">Eric Brier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of CubeHash.</title>
+<pages>354-368</pages>
+<year>2009</year>
+<booktitle>ACNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-01957-9_22</ee>
+<crossref>conf/acns/2009</crossref>
+<url>db/conf/acns/acns2009.html#BrierP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/BrierKMP09" mdate="2019-09-25">
+<author pid="09/4921">Eric Brier</author>
+<author orcid="0000-0002-2493-8840" pid="23/1283">Shahram Khazaei</author>
+<author pid="47/6600">Willi Meier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Linearization Framework for Collision Attacks: Application to CubeHash and MD6.</title>
+<pages>560-577</pages>
+<year>2009</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-10366-7_33</ee>
+<crossref>conf/asiacrypt/2009</crossref>
+<url>db/conf/asiacrypt/asiacrypt2009.html#BrierKMP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cisc/MouhaSAPTTP09" mdate="2019-10-19">
+<author pid="87/7630">Nicky Mouha</author>
+<author pid="08/4693">Gautham Sekar</author>
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="42/1971">S&#248;ren S. Thomsen</author>
+<author pid="20/3670">Meltem S&#246;nmez Turan</author>
+<author orcid="0000-0003-2005-9651" pid="p/BartPreneel">Bart Preneel</author>
+<title>Cryptanalysis of the ESSENCE Family of Hash Functions.</title>
+<pages>15-34</pages>
+<year>2009</year>
+<booktitle>Inscrypt</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16342-5_2</ee>
+<crossref>conf/cisc/2009</crossref>
+<url>db/conf/cisc/inscrypt2009.html#MouhaSAPTTP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/FuhrP09" mdate="2018-06-26">
+<author pid="89/2637-1">Thomas Fuhr 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of RadioGat&#250;n.</title>
+<pages>122-138</pages>
+<year>2009</year>
+<booktitle>FSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03317-9_8</ee>
+<crossref>conf/fse/2009</crossref>
+<url>db/conf/fse/fse2009.html#FuhrP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/MendelPRS09" mdate="2018-06-26">
+<author pid="43/1829">Florian Mendel</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="39/16">Christian Rechberger</author>
+<author pid="88/451">Martin Schl&#228;ffer</author>
+<title>Improved Cryptanalysis of the Reduced Gr&#248;stl Compression Function, ECHO Permutation and AES Block Cipher.</title>
+<pages>16-35</pages>
+<year>2009</year>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-05445-7_2</ee>
+<crossref>conf/sacrypt/2009</crossref>
+<url>db/conf/sacrypt/sacrypt2009.html#MendelPRS09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/Naya-PlasenciaRALLMP09" mdate="2020-05-11">
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="35/4758">Andrea R&#246;ck</author>
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="16/1653">Yann Laigle-Chapuy</author>
+<author pid="30/1133">Ga&#235;tan Leurent</author>
+<author pid="47/6600">Willi Meier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of ESSENCE.</title>
+<pages>302</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/302</ee>
+<url>db/journals/iacr/iacr2009.html#Naya-PlasenciaRALLMP09</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BrierKMP09" mdate="2020-05-11">
+<author pid="09/4921">Eric Brier</author>
+<author pid="23/1283">Shahram Khazaei</author>
+<author pid="47/6600">Willi Meier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Linearization Framework for Collision Attacks: Application to CubeHash and MD6.</title>
+<pages>382</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/382</ee>
+<url>db/journals/iacr/iacr2009.html#BrierKMP09</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GilbertP09" mdate="2020-05-11">
+<author pid="13/870">Henri Gilbert</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Super-Sbox Cryptanalysis: Improved Attacks for AES-like permutations.</title>
+<pages>531</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2009/531</ee>
+<url>db/journals/iacr/iacr2009.html#GilbertP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/GorskiLP08" mdate="2018-06-26">
+<author pid="29/6496">Michael Gorski</author>
+<author pid="l/SLucks">Stefan Lucks</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Slide Attacks on a Class of Hash Functions.</title>
+<pages>143-160</pages>
+<year>2008</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-89255-7_10</ee>
+<crossref>conf/asiacrypt/2008</crossref>
+<url>db/conf/asiacrypt/asiacrypt2008.html#GorskiLP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/ManuelP08" mdate="2019-06-02">
+<author pid="23/2988">St&#233;phane Manuel</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Collisions on SHA-0 in One Hour.</title>
+<pages>16-35</pages>
+<year>2008</year>
+<booktitle>FSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71039-4_2</ee>
+<ee>https://www.wikidata.org/entity/Q61772461</ee>
+<crossref>conf/fse/2008</crossref>
+<url>db/conf/fse/fse2008.html#ManuelP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/provsec/BressonCCGPP08" mdate="2017-05-21">
+<author pid="68/2531">Emmanuel Bresson</author>
+<author pid="50/3410">Beno&#238;t Chevallier-Mames</author>
+<author pid="75/5410">Christophe Clavier</author>
+<author pid="77/2379">Aline Gouget</author>
+<author pid="32/167">Pascal Paillier</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>How to Use Merkle-Damg&#229;rd - On the Security Relations between Signature Schemes and Their Inner Hash Functions.</title>
+<pages>241-253</pages>
+<year>2008</year>
+<booktitle>ProvSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88733-1_17</ee>
+<crossref>conf/provsec/2008</crossref>
+<url>db/conf/provsec/provsec2008.html#BressonCCGPP08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/GorskiLP08" mdate="2020-05-11">
+<author pid="29/6496">Michael Gorski</author>
+<author pid="l/SLucks">Stefan Lucks</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Slide Attacks on a Class of Hash Functions.</title>
+<pages>263</pages>
+<year>2008</year>
+<volume>2008</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2008/263</ee>
+<url>db/journals/iacr/iacr2008.html#GorskiLP08</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AumassonBMNP08" mdate="2020-05-11">
+<author pid="65/3314">Jean-Philippe Aumasson</author>
+<author pid="09/4921">Eric Brier</author>
+<author pid="47/6600">Willi Meier</author>
+<author pid="24/1241">Mar&#237;a Naya-Plasencia</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Inside the Hypercube.</title>
+<pages>486</pages>
+<year>2008</year>
+<volume>2008</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2008/486</ee>
+<url>db/journals/iacr/iacr2008.html#AumassonBMNP08</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FuhrP08" mdate="2020-05-11">
+<author pid="89/2637-1">Thomas Fuhr 0001</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of RadioGatun.</title>
+<pages>515</pages>
+<year>2008</year>
+<volume>2008</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2008/515</ee>
+<url>db/journals/iacr/iacr2008.html#FuhrP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/acisp/BilletRP07" mdate="2017-05-29">
+<author orcid="0000-0002-3742-7169" pid="b/OlivierBillet">Olivier Billet</author>
+<author pid="07/120">Matthew J. B. Robshaw</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>On Building Hash Functions from Multivariate Quadratic Equations.</title>
+<pages>82-95</pages>
+<year>2007</year>
+<crossref>conf/acisp/2007</crossref>
+<booktitle>ACISP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73458-1_7</ee>
+<url>db/conf/acisp/acisp2007.html#BilletRP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/Peyrin07" mdate="2017-05-19">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of Grindahl.</title>
+<pages>551-567</pages>
+<year>2007</year>
+<crossref>conf/asiacrypt/2007</crossref>
+<booktitle>ASIACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-76900-2_34</ee>
+<url>db/conf/asiacrypt/asiacrypt2007.html#Peyrin07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/JouxP07" mdate="2017-05-26">
+<author pid="j/AntoineJoux">Antoine Joux</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Hash Functions and the (Amplified) Boomerang Attack.</title>
+<pages>244-263</pages>
+<year>2007</year>
+<crossref>conf/crypto/2007</crossref>
+<booktitle>CRYPTO</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74143-5_14</ee>
+<url>db/conf/crypto/crypto2007.html#JouxP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/MatusiewiczPBCP07" mdate="2017-06-02">
+<author pid="90/6710">Krystian Matusiewicz</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author orcid="0000-0002-3742-7169" pid="b/OlivierBillet">Olivier Billet</author>
+<author pid="54/6694">Scott Contini</author>
+<author pid="p/JosefPieprzyk">Josef Pieprzyk</author>
+<title>Cryptanalysis of FORK-256.</title>
+<pages>19-38</pages>
+<year>2007</year>
+<crossref>conf/fse/2007</crossref>
+<booktitle>FSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74619-5_2</ee>
+<url>db/conf/fse/fse2007.html#MatusiewiczPBCP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fse/SeurinP07" mdate="2017-05-23">
+<author pid="25/3463">Yannick Seurin</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Security Analysis of Constructions Combining FIL Random Oracles.</title>
+<pages>119-136</pages>
+<year>2007</year>
+<crossref>conf/fse/2007</crossref>
+<booktitle>FSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74619-5_8</ee>
+<url>db/conf/fse/fse2007.html#SeurinP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/PeyrinGMR06" mdate="2017-05-19">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="13/870">Henri Gilbert</author>
+<author pid="83/4400">Fr&#233;d&#233;ric Muller</author>
+<author pid="07/120">Matthew J. B. Robshaw</author>
+<title>Combining Compression Functions and Block Cipher-Based Hash Functions.</title>
+<pages>315-331</pages>
+<year>2006</year>
+<crossref>conf/asiacrypt/2006</crossref>
+<booktitle>ASIACRYPT</booktitle>
+<ee>https://doi.org/10.1007/11935230_21</ee>
+<url>db/conf/asiacrypt/asiacrypt2006.html#PeyrinGMR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icisc/MullerP06" mdate="2017-05-26">
+<author pid="83/4400">Fr&#233;d&#233;ric Muller</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Cryptanalysis of T-Function-Based Hash Functions.</title>
+<pages>267-285</pages>
+<year>2006</year>
+<crossref>conf/icisc/2006</crossref>
+<booktitle>ICISC</booktitle>
+<ee>https://doi.org/10.1007/11927587_23</ee>
+<url>db/conf/icisc/icisc2006.html#MullerP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/MullerP05" mdate="2017-05-19">
+<author pid="83/4400">Fr&#233;d&#233;ric Muller</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Linear Cryptanalysis of the TSC Family of Stream Ciphers.</title>
+<pages>373-394</pages>
+<year>2005</year>
+<crossref>conf/asiacrypt/2005</crossref>
+<booktitle>ASIACRYPT</booktitle>
+<ee>https://doi.org/10.1007/11593447_20</ee>
+<url>db/conf/asiacrypt/asiacrypt2005.html#MullerP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sec/PeyrinV05" mdate="2006-05-31">
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<author pid="v/SergeVaudenay">Serge Vaudenay</author>
+<title>The Pairing Problem with User Interaction.</title>
+<pages>251-266</pages>
+<year>2005</year>
+<crossref>conf/sec/2005</crossref>
+<booktitle>SEC</booktitle>
+<url>db/conf/sec/sec2005.html#PeyrinV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/AvoineMP04" mdate="2017-05-19">
+<author pid="a/GildasAvoine">Gildas Avoine</author>
+<author pid="m/JeanMonnerat">Jean Monnerat</author>
+<author pid="p/ThomasPeyrin">Thomas Peyrin</author>
+<title>Advances in Alternative Non-adjacent Form Representations.</title>
+<pages>260-274</pages>
+<ee>https://doi.org/10.1007/978-3-540-30556-9_21</ee>
+<year>2004</year>
+<crossref>conf/indocrypt/2004</crossref>
+<booktitle>INDOCRYPT</booktitle>
+<url>db/conf/indocrypt/indocrypt2004.html#AvoineMP04</url>
+</inproceedings>
+</r>
+<coauthors n="120" nc="1">
+<co c="0"><na f="a/Adomnicai:Alexandre" pid="210/2679">Alexandre Adomnicai</na></co>
+<co c="0"><na f="a/Anandakumar:N=_Nalla" pid="121/2349">N. Nalla Anandakumar</na></co>
+<co c="0"><na f="a/Aumasson:Jean=Philippe" pid="65/3314">Jean-Philippe Aumasson</na></co>
+<co c="0"><na f="a/Avoine:Gildas" pid="a/GildasAvoine">Gildas Avoine</na></co>
+<co c="0"><na f="b/Baksi:Anubhab" pid="160/3845">Anubhab Baksi</na></co>
+<co c="0"><na f="b/Banik:Subhadeep" pid="20/3093">Subhadeep Banik</na></co>
+<co c="0"><na f="b/Beierle:Christof" pid="160/3831">Christof Beierle</na></co>
+<co c="0"><na f="b/Benadjila:Ryad" pid="04/5762">Ryad Benadjila</na></co>
+<co c="0"><na f="b/Benamira:Adrien" pid="256/6147">Adrien Benamira</na></co>
+<co c="-1"><na f="b/Beno=icirc=t:Olivier" pid="87/4852">Olivier Beno&#238;t</na></co>
+<co c="0"><na f="b/Bhasin:Shivam" pid="94/7837">Shivam Bhasin</na></co>
+<co c="0"><na f="b/Billet:Olivier" pid="b/OlivierBillet">Olivier Billet</na></co>
+<co c="0"><na f="b/Blondeau:C=eacute=line" pid="61/9451">C&#233;line Blondeau</na></co>
+<co c="0"><na f="b/Bouard:Alexandre" pid="125/3559">Alexandre Bouard</na></co>
+<co c="0"><na f="b/Breier:Jakub" pid="05/10163">Jakub Breier</na></co>
+<co c="0"><na f="b/Bresson:Emmanuel" pid="68/2531">Emmanuel Bresson</na></co>
+<co c="0"><na f="b/Brier:Eric" pid="09/4921">Eric Brier</na></co>
+<co c="0"><na f="c/Chakraborti:Avik" pid="42/10551">Avik Chakraborti</na></co>
+<co c="0"><na f="c/Chakraborty:Samarjit" pid="c/SamarjitChakraborty">Samarjit Chakraborty</na></co>
+<co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
+<co c="0"><na f="c/Chevallier=Mames:Beno=icirc=t" pid="50/3410">Beno&#238;t Chevallier-Mames</na></co>
+<co c="0"><na f="c/Choy:Jiali" pid="23/5697">Jiali Choy</na></co>
+<co c="0"><na f="c/Cid:Carlos" pid="19/2372">Carlos Cid</na></co>
+<co c="0"><na f="c/Clavier:Christophe" pid="75/5410">Christophe Clavier</na></co>
+<co c="0"><na f="c/Contini:Scott" pid="54/6694">Scott Contini</na></co>
+<co c="0"><na f="d/Duc:Alexandre" pid="82/10310">Alexandre Duc</na></co>
+<co c="0"><na f="f/Fouque:Pierre=Alain" pid="76/6163">Pierre-Alain Fouque</na></co>
+<co c="0"><na f="f/Fuhr_0001:Thomas" pid="89/2637-1">Thomas Fuhr 0001</na></co>
+<co c="0"><na f="g/Galbraith:Steven_D=" pid="77/5607">Steven D. Galbraith</na></co>
+<co c="0"><na f="g/Gauravaram:Praveen" pid="53/6480">Praveen Gauravaram</na></co>
+<co c="0"><na f="g/G=eacute=rault:David" pid="176/2901">David G&#233;rault</na></co>
+<co c="0"><na f="g/Gilbert:Henri" pid="13/870">Henri Gilbert</na></co>
+<co c="0"><na f="g/Gorski:Michael" pid="29/6496">Michael Gorski</na></co>
+<co c="0"><na f="g/Goudarzi:Dahmun" pid="177/2271">Dahmun Goudarzi</na></co>
+<co c="0"><na f="g/Gouget:Aline" pid="77/2379">Aline Gouget</na></co>
+<co c="0"><na f="g/Guo_0001:Jian" pid="96/2596-1">Jian Guo 0001</na></co>
+<co c="0"><na f="h/Harris:William_R=" pid="38/7508">William R. Harris</na></co>
+<co c="0"><na f="h/Hou:Xiaolu" pid="156/5240">Xiaolu Hou</na></co>
+<co c="0"><na f="h/Huang_0015:Tao" pid="34/808-15">Tao Huang 0015</na></co>
+<co c="0"><na f="i/Iwamoto:Mitsugu" pid="20/5191">Mitsugu Iwamoto</na></co>
+<co c="0"><na f="i/Iwasaki:Terutoshi" pid="89/259">Terutoshi Iwasaki</na></co>
+<co c="0"><na f="i/Iwata:Tetsu" pid="26/1564">Tetsu Iwata</na></co>
+<co c="0"><na f="j/Jap:Dirmanto" pid="163/8627">Dirmanto Jap</na></co>
+<co c="0"><na f="j/Jean:J=eacute=r=eacute=my" pid="62/9795">J&#233;r&#233;my Jean</na></co>
+<co c="0"><na f="j/Jha:Somesh" pid="j/SomeshJha">Somesh Jha</na></co>
+<co c="0"><na f="j/Joux:Antoine" pid="j/AntoineJoux">Antoine Joux</na></co>
+<co c="0"><na f="k/Karpman:Pierre" pid="133/6334">Pierre Karpman</na></co>
+<co c="0"><na f="k/K=auml=sper:Emilia" pid="99/4992">Emilia K&#228;sper</na></co>
+<co c="0"><na f="k/Khairallah:Mustafa" pid="127/2364">Mustafa Khairallah</na></co>
+<co c="0"><na f="k/Khazaei:Shahram" pid="23/1283">Shahram Khazaei</na></co>
+<co c="0"><na f="k/Khoo:Khoongming" pid="99/3774">Khoongming Khoo</na></co>
+<co c="0"><na f="k/Knudsen:Lars_R=" pid="k/LarsRKnudsen">Lars R. Knudsen</na></co>
+<co c="0"><na f="k/K=ouml=lbl:Stefan" pid="72/4913">Stefan K&#246;lbl</na></co>
+<co c="0"><na f="k/Kunihiro:Noboru" pid="59/6407">Noboru Kunihiro</na></co>
+<co c="0"><na f="l/Laigle=Chapuy:Yann" pid="16/1653">Yann Laigle-Chapuy</na></co>
+<co c="-1"><na f="l/Landelle:Franck" pid="129/8954">Franck Landelle</na></co>
+<co c="0"><na f="l/Leander:Gregor" pid="90/4585">Gregor Leander</na></co>
+<co c="0"><na f="l/Lee:Eugene" pid="56/4464">Eugene Lee</na></co>
+<co c="0"><na f="l/Leurent:Ga=euml=tan" pid="30/1133">Ga&#235;tan Leurent</na></co>
+<co c="0"><na f="l/Ling:San" pid="83/3827">San Ling</na></co>
+<co c="0"><na f="l/Lomn=eacute=:Victor" pid="52/2113">Victor Lomn&#233;</na></co>
+<co c="0"><na f="l/Lucks:Stefan" pid="l/SLucks">Stefan Lucks</na></co>
+<co c="0"><na f="l/Lukasiewycz:Martin" pid="74/5364">Martin Lukasiewycz</na></co>
+<co c="-1"><na f="m/Manuel:St=eacute=phane" pid="23/2988">St&#233;phane Manuel</na></co>
+<co c="0"><na f="m/Matusiewicz:Krystian" pid="90/6710">Krystian Matusiewicz</na></co>
+<co c="0"><na f="m/Meier:Willi" pid="47/6600">Willi Meier</na></co>
+<co c="0"><na f="m/Mendel:Florian" pid="43/1829">Florian Mendel</na></co>
+<co c="0"><na f="m/Minematsu:Kazuhiko" pid="72/3032">Kazuhiko Minematsu</na></co>
+<co c="0"><na f="m/Minier:Marine" pid="78/2596">Marine Minier</na></co>
+<co c="0"><na f="m/Monnerat:Jean" pid="m/JeanMonnerat">Jean Monnerat</na></co>
+<co c="0"><na f="m/Moradi_0001:Amir" pid="38/3348">Amir Moradi 0001</na></co>
+<co c="0"><na f="m/Mouha:Nicky" pid="87/7630">Nicky Mouha</na></co>
+<co c="0"><na f="m/Muller:Fr=eacute=d=eacute=ric" pid="83/4400">Fr&#233;d&#233;ric Muller</na></co>
+<co c="0"><na f="n/Naito_0001:Yusuke" pid="80/504">Yusuke Naito 0001</na></co>
+<co c="0"><na f="n/Najm:Zakaria" pid="134/7426">Zakaria Najm</na></co>
+<co c="0"><na f="n/Nandi:Mridul" pid="06/2136">Mridul Nandi</na></co>
+<co c="0"><na f="n/Naya=Plasencia:Mar=iacute=a" pid="24/1241">Mar&#237;a Naya-Plasencia</na></co>
+<co c="0"><na f="n/Nikolic:Ivica" pid="18/2551">Ivica Nikolic</na></co>
+<co c="0"><na f="=/=Oslash=deg=aring=rd:Rune_Steinsmo" pid="90/7501">Rune Steinsmo &#216;deg&#229;rd</na></co>
+<co c="0"><na f="o/Oggier:Fr=eacute=d=eacute=rique_E=" pid="o/FrederiqueEOggier">Fr&#233;d&#233;rique E. Oggier</na></co>
+<co c="0"><na f="o/Ohta:Kazuo" pid="73/5993">Kazuo Ohta</na></co>
+<co c="0"><na f="p/Paillier:Pascal" pid="32/167">Pascal Paillier</na></co>
+<co c="0"><na f="p/Pandey:Sumit_Kumar" pid="29/5200">Sumit Kumar Pandey</na></co>
+<co c="0"><na f="p/Pieprzyk:Josef" pid="p/JosefPieprzyk">Josef Pieprzyk</na></co>
+<co c="0" n="2"><na f="p/Poschmann:Axel" pid="28/4147">Axel Poschmann</na><na>Axel York Poschmann</na></co>
+<co c="0"><na f="p/Preneel:Bart" pid="p/BartPreneel">Bart Preneel</na></co>
+<co c="0"><na f="r/Rechberger:Christian" pid="39/16">Christian Rechberger</na></co>
+<co c="0"><na f="r/Rivain:Matthieu" pid="33/2627">Matthieu Rivain</na></co>
+<co c="0"><na f="r/Robshaw:Matthew_J=_B=" pid="07/120">Matthew J. B. Robshaw</na></co>
+<co c="0"><na f="r/R=ouml=ck:Andrea" pid="35/4758">Andrea R&#246;ck</na></co>
+<co c="0"><na f="s/Sagstetter:Florian" pid="123/8015">Florian Sagstetter</na></co>
+<co c="0"><na f="s/Sasaki:Yu" pid="46/2899">Yu Sasaki</na></co>
+<co c="0"><na f="s/Sasdrich:Pascal" pid="144/2489">Pascal Sasdrich</na></co>
+<co c="0"><na f="s/Schl=auml=ffer:Martin" pid="88/451">Martin Schl&#228;ffer</na></co>
+<co c="0"><na f="s/Sekar:Gautham" pid="08/4693">Gautham Sekar</na></co>
+<co c="0"><na f="s/Seurin:Yannick" pid="25/3463">Yannick Seurin</na></co>
+<co c="0"><na f="s/Shimoyama:Takeshi" pid="87/1972">Takeshi Shimoyama</na></co>
+<co c="0"><na f="s/Sim:Siang_Meng" pid="153/9912">Siang Meng Sim</na></co>
+<co c="0"><na f="s/Sokolowski:Przemyslaw" pid="45/10085">Przemyslaw Sokolowski</na></co>
+<co c="0"><na f="s/Song_0001:Ling" pid="32/381-1">Ling Song 0001</na></co>
+<co c="0"><na f="s/Steinhorst:Sebastian" pid="96/4490">Sebastian Steinhorst</na></co>
+<co c="0"><na f="s/Stevens_0001:Marc" pid="15/4413">Marc Stevens 0001</na></co>
+<co c="0"><na f="s/Sun_0001:Ling" pid="08/6547-1">Ling Sun 0001</na></co>
+<co c="0"><na f="t/Takagi:Tsuyoshi" pid="t/TsuyoshiTakagi">Tsuyoshi Takagi</na></co>
+<co c="0"><na f="t/Tan:Chik_How" pid="80/2849">Chik How Tan</na></co>
+<co c="0"><na f="t/Tan:Quan_Quan" pid="247/1480">Quan Quan Tan</na></co>
+<co c="0"><na f="t/Thomsen:S=oslash=ren_S=" pid="42/1971">S&#248;ren S. Thomsen</na></co>
+<co c="0"><na f="t/Todo:Yosuke" pid="44/10381">Yosuke Todo</na></co>
+<co c="0"><na f="t/Tourteaux:Jade" pid="212/0424">Jade Tourteaux</na></co>
+<co c="0"><na f="t/Turan:Meltem_S=ouml=nmez" pid="20/3670">Meltem S&#246;nmez Turan</na></co>
+<co c="0"><na f="v/Vaudenay:Serge" pid="v/SergeVaudenay">Serge Vaudenay</na></co>
+<co c="0"><na f="w/Wang_0001:Haoyang" pid="163/0679-1">Haoyang Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Huaxiong" pid="52/4513">Huaxiong Wang</na></co>
+<co c="0"><na f="w/Wang_0031:Lei" pid="w/LeiWang31">Lei Wang 0031</na></co>
+<co c="0"><na f="w/Wei_0001:Lei" pid="99/4916-1">Lei Wei 0001</na></co>
+<co c="0"><na f="w/Wolf:Marko" pid="54/4202">Marko Wolf</na></co>
+<co c="0"><na f="w/Wu:Shuang" pid="85/3231">Shuang Wu</na></co>
+<co c="0"><na f="y/Yajima:Jun" pid="10/2983">Jun Yajima</na></co>
+<co c="0"><na f="y/Yap:Huihui" pid="39/7077">Huihui Yap</na></co>
+<co c="0"><na f="z/Zhang:Guoyan" pid="91/1701">Guoyan Zhang</na></co>
+</coauthors>
+</dblpperson>
+

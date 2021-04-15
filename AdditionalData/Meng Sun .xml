@@ -1,3 +1,642 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d964ccb7a020062a7d3626d5867112dffcf22b50f919f841f41072193b0f80b
-size 27708
+<?xml version="1.0"?>
+<dblpperson name="Meng Sun 0002" pid="81/1237-2" n="41">
+<person key="homepages/81/1237-2" mdate="2018-07-03">
+<author pid="81/1237-2">Meng Sun 0002</author>
+<note type="affiliation">Peking University, School of Mathematical Science, LMAM / Department of Informatics, Beijing, China</note>
+<url>https://orcid.org/0000-0001-6550-7396</url>
+</person>
+<homonyms n="6">
+<h f="s/Sun:Meng"><person publtype="disambiguation" key="homepages/81/1237" mdate="2018-07-03">
+<author pid="81/1237">Meng Sun</author>
+</person>
+</h>
+<h f="s/Sun_0001:Meng"><person key="homepages/81/1237-1" mdate="2019-02-18">
+<author pid="81/1237-1">Meng Sun 0001</author>
+<note type="affiliation">PLA University of Science and Technology, Lab of Intelligent Information Processing, Nanjing, China</note>
+<note label="PhD 2012" type="affiliation">Katholieke Universiteit Leuven, Department of Electrical Engineering, Belgium</note>
+<url>https://orcid.org/0000-0002-7435-3752</url>
+</person>
+</h>
+<h f="s/Sun_0003:Meng"><person key="homepages/81/1237-3" mdate="2021-04-09">
+<author pid="81/1237-3">Meng Sun 0003</author>
+<note type="affiliation">Nanjing University of Aeronautics and Astronautics, College of Electronics and Information Engineering, Key Laboratory of Dynamic Cognitive System of Electromagnetic Spectrum Space, China</note>
+<note label="2017 - 2019" type="affiliation">Shanghai Maritime University, Information Engineering College, China</note>
+<note label="PhD 2016" type="affiliation">Polytech Nantes, France</note>
+<url>https://orcid.org/0000-0002-4565-5399</url>
+<url>https://orcid.org/0000-0003-3596-6705</url>
+</person>
+</h>
+<h f="s/Sun_0004:Meng"><person key="homepages/81/1237-4" mdate="2018-07-03">
+<author pid="81/1237-4">Meng Sun 0004</author>
+<note type="affiliation">Nanyang Technological University, Department of Electrical and Electronic Engineering, Singapore</note>
+<url>https://orcid.org/0000-0003-0518-4147</url>
+</person>
+</h>
+<h f="s/Sun_0005:Meng"><person key="homepages/81/1237-5" mdate="2020-05-08">
+<author pid="81/1237-5">Meng Sun 0005</author>
+<note type="affiliation">Qilu University of Technology (Shandong Academy of Sciences), Shandong Computer Science Center, Jinan, China</note>
+</person>
+</h>
+<h f="s/Sun_0006:Meng"><person key="homepages/81/1237-6" mdate="2020-05-08">
+<author pid="81/1237-6">Meng Sun 0006</author>
+<note type="affiliation">China University of Mining and Technology, Key Laboratory of Land Environment and Disaster Monitoring, Xuzhou, China</note>
+<url>https://orcid.org/0000-0002-9158-3787</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/apin/NawazNHFS21" mdate="2021-04-09">
+<author pid="192/8371">M. Saqib Nawaz</author>
+<author pid="262/0747">M. Zohaib Nawaz</author>
+<author orcid="0000-0003-2562-2669" pid="25/2826">Osman Hasan</author>
+<author pid="76/2649">Philippe Fournier-Viger</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Proof searching and prediction in HOL4 with evolutionary/heuristic and deep learning techniques.</title>
+<pages>1580-1601</pages>
+<year>2021</year>
+<volume>51</volume>
+<journal>Appl. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10489-020-01837-7</ee>
+<url>db/journals/apin/apin51.html#NawazNHFS21</url>
+</article>
+</r>
+<r><article key="journals/scp/LiSS20" mdate="2020-04-09">
+<author orcid="0000-0002-6318-405X" pid="59/871-10">Yi Li 0010</author>
+<author pid="246/7995">Weidi Sun</author>
+<author orcid="0000-0001-6550-7396" pid="81/1237-2">Meng Sun 0002</author>
+<title><i>Mediator</i>: A component-based modeling language for concurrent and distributed systems.</title>
+<pages>102438</pages>
+<year>2020</year>
+<volume>192</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102438</ee>
+<url>db/journals/scp/scp192.html#LiSS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/blocksys/ZhangL020" mdate="2020-11-13">
+<author pid="52/323">Qi Zhang</author>
+<author pid="229/5511">Yuteng Lu</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Modeling and Verification of the Nervos CKB Block Synchronization Protocol in UPPAAL.</title>
+<pages>3-17</pages>
+<year>2020</year>
+<booktitle>BlockSys</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-9213-3_1</ee>
+<crossref>conf/blocksys/2020</crossref>
+<url>db/conf/blocksys/blocksys2020.html#ZhangL020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coordination/ZhangL020" mdate="2020-06-10">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="59/871">Yi Li</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Towards a Formally Verified EVM in Production Environment.</title>
+<pages>341-349</pages>
+<year>2020</year>
+<booktitle>COORDINATION</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-50029-0_21</ee>
+<crossref>conf/coordination/2020</crossref>
+<url>db/conf/coordination/coordination2020.html#ZhangL020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ZhangXMDH0Z020" mdate="2020-12-03">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="97/6476">Xiaoning Du</author>
+<author pid="93/5629">Qiang Hu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="71/6948">Jianjun Zhao</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Towards characterizing adversarial defects of deep learning software from the lens of uncertainty.</title>
+<pages>739-751</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380368</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#ZhangXMDH0Z020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/NawazHNF020" mdate="2020-04-02">
+<author pid="262/0747">M. Zohaib Nawaz</author>
+<author pid="25/2826">Osman Hasan</author>
+<author pid="192/8371">M. Saqib Nawaz</author>
+<author pid="76/2649">Philippe Fournier-Viger</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Proof searching in HOL4 with genetic algorithm.</title>
+<pages>513-520</pages>
+<year>2020</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3341105.3373917</ee>
+<crossref>conf/sac/2020</crossref>
+<url>db/conf/sac/sac2020.html#NawazHNF020</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-11573" mdate="2020-05-23">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="97/6476">Xiaoning Du</author>
+<author pid="93/5629">Qiang Hu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="71/6948">Jianjun Zhao</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty.</title>
+<year>2020</year>
+<volume>abs/2004.11573</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.11573</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-11573</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-04403" mdate="2020-06-12">
+<author pid="246/7995">Weidi Sun</author>
+<author pid="229/5511">Yuteng Lu</author>
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="87/7756">Zhanxing Zhu</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Global Robustness Verification Networks.</title>
+<year>2020</year>
+<volume>abs/2006.04403</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.04403</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-04403</url>
+</article>
+</r>
+<r><article key="journals/scp/ZhangHLS19" mdate="2018-12-26">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="198/4916">Weijiang Hong</author>
+<author orcid="0000-0002-6318-405X" pid="59/871-10">Yi Li 0010</author>
+<author orcid="0000-0001-6550-7396" pid="81/1237-2">Meng Sun 0002</author>
+<title>Reasoning about connectors using Coq and Z3.</title>
+<pages>27-44</pages>
+<year>2019</year>
+<volume>170</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2018.10.002</ee>
+<url>db/journals/scp/scp170.html#ZhangHLS19</url>
+</article>
+</r>
+<r><article key="journals/scp/LiZJS19" mdate="2019-04-26">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="208/7765">Yuanyi Ji</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>A formal framework capturing real-time and stochastic behavior in connectors.</title>
+<pages>19-40</pages>
+<year>2019</year>
+<volume>177</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2019.02.005</ee>
+<url>db/journals/scp/scp177.html#LiZJS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/fsen/Nawaz0F19" mdate="2020-12-29">
+<author orcid="0000-0001-9856-2885" pid="192/8371">M. Saqib Nawaz</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author orcid="0000-0002-7680-9899" pid="76/2649">Philippe Fournier-Viger</author>
+<title>Proof Guidance in PVS with Sequential Pattern Mining.</title>
+<pages>45-60</pages>
+<year>2019</year>
+<booktitle>FSEN</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-31517-7_4</ee>
+<crossref>conf/fsen/2019</crossref>
+<url>db/conf/fsen/fsen2019.html#Nawaz0F19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsen/Nawaz019" mdate="2020-09-05">
+<author orcid="0000-0001-9856-2885" pid="192/8371">M. Saqib Nawaz</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Using PVS for Modeling and Verification of Probabilistic Connectors.</title>
+<pages>61-76</pages>
+<year>2019</year>
+<booktitle>FSEN</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-31517-7_5</ee>
+<crossref>conf/fsen/2019</crossref>
+<url>db/conf/fsen/fsen2019.html#Nawaz019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/Xue00Z0X19" mdate="2019-10-31">
+<author pid="74/2716">Bai Xue</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="127/0713">Xiaofei Xie</author>
+<title>Safe Inputs Approximation for Black-Box Systems.</title>
+<pages>180-189</pages>
+<year>2019</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2019.00027</ee>
+<crossref>conf/iceccs/2019</crossref>
+<url>db/conf/iceccs/iceccs2019.html#Xue00Z0X19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/Liu019" mdate="2020-10-25">
+<author orcid="0000-0001-8222-2157" pid="237/0520">Ai Liu</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>A Coalgebraic Semantics Framework for Quantum Systems.</title>
+<pages>387-402</pages>
+<year>2019</year>
+<booktitle>ICFEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32409-4_24</ee>
+<crossref>conf/icfem/2019</crossref>
+<url>db/conf/icfem/icfem2019.html#Liu019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SunS19" mdate="2021-02-03">
+<author pid="246/7995">Weidi Sun</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>PRISM Code Generation for Verification of Mediator Models (S).</title>
+<pages>271-354</pages>
+<year>2019</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2019-069</ee>
+<crossref>conf/seke/2019</crossref>
+<url>db/conf/seke/seke2019.html#SunS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services2/Zhang019" mdate="2019-06-18">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>SMT-Based Modeling and Verification of Cloud Applications.</title>
+<pages>1-15</pages>
+<year>2019</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-23381-5_1</ee>
+<crossref>conf/services2/2019</crossref>
+<url>db/conf/services2/services2019.html#Zhang019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tase/LiS19" mdate="2019-12-09">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Distributed Mediator.</title>
+<pages>17-24</pages>
+<year>2019</year>
+<booktitle>TASE</booktitle>
+<ee>https://doi.org/10.1109/TASE.2019.00-24</ee>
+<crossref>conf/tase/2019</crossref>
+<url>db/conf/tase/tase2019.html#LiS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tase/ZhangLH019" mdate="2019-12-09">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="198/4916">Weijiang Hong</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Using Recurrent Neural Network to Predict Tactics for Proving Component Connector Properties in Coq.</title>
+<pages>107-112</pages>
+<year>2019</year>
+<booktitle>TASE</booktitle>
+<ee>https://doi.org/10.1109/TASE.2019.00-12</ee>
+<crossref>conf/tase/2019</crossref>
+<url>db/conf/tase/tase2019.html#ZhangLH019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-03028" mdate="2021-01-23">
+<author orcid="0000-0001-9856-2885" pid="192/8371">M. Saqib Nawaz</author>
+<author pid="255/4938">Moin Malik</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="192/8427">Muhammad Ikram Ullah Lali</author>
+<title>A Survey on Theorem Provers in Formal Methods.</title>
+<year>2019</year>
+<volume>abs/1912.03028</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.03028</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-03028</url>
+</article>
+</r>
+<r><article key="journals/ijseke/LuS18" mdate="2020-07-22">
+<author pid="229/5511">Yuteng Lu</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Modeling and Verification of IEEE 802.11i Security Protocol in UPPAAL for Internet of Things.</title>
+<year>2018</year>
+<volume>28</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>11-12</number>
+<ee>https://doi.org/10.1142/S021819401840020X</ee>
+<url>db/journals/ijseke/ijseke28.html#LuS18</url>
+<pages>1619-1636</pages>
+</article>
+</r>
+<r><article key="journals/tse/0044000D18" mdate="2018-09-25">
+<author pid="53/2189-44">Li Li 0044</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="33/6517">Jin Song Dong</author>
+<title>A Formal Specification and Verification Framework for Timed Security Protocols.</title>
+<pages>725-746</pages>
+<year>2018</year>
+<volume>44</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TSE.2017.2712621</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2017.2712621</ee>
+<url>db/journals/tse/tse44.html#0044000D18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bdiot/Nawaz018" mdate="2019-09-25">
+<author orcid="0000-0001-9856-2885" pid="192/8371">M. Saqib Nawaz</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>A Formal Design Model for Genetic Algorithms Operators and its Encoding in PVS.</title>
+<pages>186-190</pages>
+<year>2018</year>
+<booktitle>BDIOT</booktitle>
+<ee>https://doi.org/10.1145/3289430.3289449</ee>
+<crossref>conf/bdiot/2018</crossref>
+<url>db/conf/bdiot/bdiot2018.html#Nawaz018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/LiS18" mdate="2019-04-26">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Generating Arduino C Codes from Mediator.</title>
+<pages>174-188</pages>
+<year>2018</year>
+<booktitle>It's All About Coordination</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-90089-6_12</ee>
+<crossref>conf/birthday/2018arbab</crossref>
+<url>db/conf/birthday/arbab2018.html#LiS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/formats/0002Z18" mdate="2018-08-27">
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="35/9455">Xiyue Zhang</author>
+<title>A Relational Model for Probabilistic Connectors Based on Timed Data Distribution Streams.</title>
+<pages>125-141</pages>
+<year>2018</year>
+<booktitle>FORMATS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00151-3_8</ee>
+<crossref>conf/formats/2018</crossref>
+<url>db/conf/formats/formats2018.html#0002Z18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/LuS18" mdate="2021-02-03">
+<author pid="229/5511">Yuteng Lu</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Modeling and Verification of IEEE 802.11i Security Protocol for Internet of Things.</title>
+<pages>270-269</pages>
+<year>2018</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2018-060</ee>
+<crossref>conf/seke/2018</crossref>
+<url>db/conf/seke/seke2018.html#LuS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/Zhang018" mdate="2021-02-03">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Towards Formal Modeling and Verification of Probabilistic Connectors in Coq (S).</title>
+<pages>385-384</pages>
+<year>2018</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2018-023</ee>
+<crossref>conf/seke/2018</crossref>
+<url>db/conf/seke/seke2018.html#Zhang018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/Nawaz018" mdate="2021-02-03">
+<author orcid="0000-0001-9856-2885" pid="192/8371">M. Saqib Nawaz</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Reo2PVS: Formal Specification and Verification of Component Connectors.</title>
+<pages>391-390</pages>
+<year>2018</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2018-024</ee>
+<crossref>conf/seke/2018</crossref>
+<url>db/conf/seke/seke2018.html#Nawaz018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofl/LiuWLS18" mdate="2020-10-25">
+<author orcid="0000-0001-8222-2157" pid="237/0520">Ai Liu</author>
+<author pid="07/8577">Shun Wang</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>On Semantics for Mediator: A Coalgebraic Perspective.</title>
+<pages>146-165</pages>
+<year>2018</year>
+<booktitle>SOFL+MSVL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-13651-2_9</ee>
+<crossref>conf/sofl/2018</crossref>
+<url>db/conf/sofl/sofl2018.html#LiuWLS18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icfem/2018" mdate="2019-05-14">
+<editor pid="s/JingSun2">Jing Sun 0002</editor>
+<editor pid="81/1237-2">Meng Sun 0002</editor>
+<title>Formal Methods and Software Engineering - 20th International Conference on Formal Engineering Methods, ICFEM 2018, Gold Coast, QLD, Australia, November 12-16, 2018, Proceedings</title>
+<booktitle>ICFEM</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11232</volume>
+<isbn>978-3-030-02449-9</isbn>
+<isbn>978-3-030-02450-5</isbn>
+<ee>https://doi.org/10.1007/978-3-030-02450-5</ee>
+<url>db/conf/icfem/icfem2018.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/facs2/LiS17" mdate="2018-07-03">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Component-Based Modeling in Mediator.</title>
+<pages>1-19</pages>
+<year>2017</year>
+<booktitle>FACS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68034-7_1</ee>
+<crossref>conf/facs2/2017</crossref>
+<url>db/conf/facs2/facs2017.html#LiS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbmf/LiZJS17" mdate="2018-07-03">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="208/7765">Yuanyi Ji</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Capturing Stochastic and Real-Time Behavior in Reo Connectors.</title>
+<pages>287-304</pages>
+<year>2017</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-70848-5_18</ee>
+<crossref>conf/sbmf/2017</crossref>
+<url>db/conf/sbmf/sbmf2017.html#LiZJS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/HongNZLS17" mdate="2018-11-02">
+<author pid="198/4916">Weijiang Hong</author>
+<author orcid="0000-0001-9856-2885" pid="192/8371">M. Saqib Nawaz</author>
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Using Coq for Formal Modeling and Verification of Timed Connectors.</title>
+<pages>558-573</pages>
+<year>2017</year>
+<booktitle>SEFM Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-74781-1_37</ee>
+<crossref>conf/sefm/2017w</crossref>
+<url>db/conf/sefm/sefm2017w.html#HongNZLS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/facs2/ZhangHLS16" mdate="2018-07-03">
+<author pid="35/9455">Xiyue Zhang</author>
+<author pid="198/4916">Weijiang Hong</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Reasoning About Connectors in Coq.</title>
+<pages>172-190</pages>
+<year>2016</year>
+<booktitle>FACS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57666-4_11</ee>
+<crossref>conf/facs2/2016</crossref>
+<url>db/conf/facs2/facs2016.html#ZhangHLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/KongLCSSW16" mdate="2021-02-15">
+<author pid="144/4778">Pingfan Kong</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="02/1438-2">Xiaohong Chen 0002</author>
+<author orcid="0000-0002-3545-1392" pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="18/3178-4">Jingyi Wang 0004</author>
+<title>Towards Concolic Testing for Hybrid Systems.</title>
+<pages>460-478</pages>
+<year>2016</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-48989-6_28</ee>
+<crossref>conf/fm/2016</crossref>
+<url>db/conf/fm/fm2016.html#KongLCSSW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tase/LiSW16" mdate="2018-07-03">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="170/4235">Yiwu Wang</author>
+<title>Active Learning from Blackbox to Timed Connectors.</title>
+<pages>132-135</pages>
+<year>2016</year>
+<booktitle>TASE</booktitle>
+<ee>https://doi.org/10.1109/TASE.2016.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TASE.2016.24</ee>
+<crossref>conf/tase/2016</crossref>
+<url>db/conf/tase/tase2016.html#LiSW16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KongLC0SW16" mdate="2021-02-15">
+<author pid="144/4778">Pingfan Kong</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="02/1438-2">Xiaohong Chen 0002</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="18/3178-4">Jingyi Wang 0004</author>
+<title>Towards Concolic Testing for Hybrid Systems.</title>
+<year>2016</year>
+<volume>abs/1608.08754</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.08754</ee>
+<url>db/journals/corr/corr1608.html#KongLC0SW16</url>
+</article>
+</r>
+<r><article key="journals/scp/LiS15" mdate="2021-02-17">
+<author pid="59/871-10">Yi Li 0010</author>
+<author orcid="0000-0001-6550-7396" pid="81/1237-2">Meng Sun 0002</author>
+<title>Modeling and verification of component connectors in Coq.</title>
+<pages>285-301</pages>
+<year>2015</year>
+<volume>113</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2015.10.016</ee>
+<url>db/journals/scp/scp113.html#LiS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/tase/LiCWS15" mdate="2018-07-09">
+<author pid="170/4202">Shaodong Li</author>
+<author pid="02/1438-2">Xiaohong Chen 0002</author>
+<author pid="170/4235">Yiwu Wang</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>A Framework for Off-Line Conformance Testing of Timed Connectors.</title>
+<pages>15-22</pages>
+<year>2015</year>
+<booktitle>TASE</booktitle>
+<ee>https://doi.org/10.1109/TASE.2015.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TASE.2015.9</ee>
+<crossref>conf/tase/2015</crossref>
+<url>db/conf/tase/tase2015.html#LiCWS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icegov/SunL14" mdate="2018-11-06">
+<author pid="81/1237-2">Meng Sun 0002</author>
+<author pid="59/871-10">Yi Li 0010</author>
+<title>Formal modeling and verification of complex interactions in e-government applications.</title>
+<pages>506-507</pages>
+<year>2014</year>
+<booktitle>ICEGOV</booktitle>
+<ee>https://doi.org/10.1145/2691195.2691296</ee>
+<crossref>conf/icegov/2014</crossref>
+<url>db/conf/icegov/icegov2014.html#SunL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/ChenSS14" mdate="2020-09-05">
+<author orcid="0000-0003-3208-4061" pid="02/1438-2">Xiaohong Chen 0002</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>A Hybrid Model of Connectors in Cyber-Physical Systems.</title>
+<pages>59-74</pages>
+<year>2014</year>
+<booktitle>ICFEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11737-9_5</ee>
+<crossref>conf/icfem/2014</crossref>
+<url>db/conf/icfem/icfem2014.html#ChenSS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/facs2/LiS13" mdate="2018-07-03">
+<author pid="59/871-10">Yi Li 0010</author>
+<author pid="81/1237-2">Meng Sun 0002</author>
+<title>Modeling and Analysis of Component Connectors in Coq.</title>
+<pages>273-290</pages>
+<year>2013</year>
+<booktitle>FACS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-07602-7_17</ee>
+<crossref>conf/facs2/2013</crossref>
+<url>db/conf/facs2/facs2013.html#LiS13</url>
+</inproceedings>
+</r>
+<coauthors n="33" nc="1">
+<co c="0"><na f="c/Chen_0002:Xiaohong" pid="02/1438-2">Xiaohong Chen 0002</na></co>
+<co c="0"><na f="d/Dong:Jin_Song" pid="33/6517">Jin Song Dong</na></co>
+<co c="0"><na f="d/Du:Xiaoning" pid="97/6476">Xiaoning Du</na></co>
+<co c="0"><na f="f/Fournier=Viger:Philippe" pid="76/2649">Philippe Fournier-Viger</na></co>
+<co c="0"><na f="h/Hasan:Osman" pid="25/2826">Osman Hasan</na></co>
+<co c="0"><na f="h/Hong:Weijiang" pid="198/4916">Weijiang Hong</na></co>
+<co c="0"><na f="h/Hu:Qiang" pid="93/5629">Qiang Hu</na></co>
+<co c="0"><na f="j/Ji:Yuanyi" pid="208/7765">Yuanyi Ji</na></co>
+<co c="0"><na f="k/Kong:Pingfan" pid="144/4778">Pingfan Kong</na></co>
+<co c="0"><na f="l/Lali:Muhammad_Ikram_Ullah" pid="192/8427">Muhammad Ikram Ullah Lali</na></co>
+<co c="0"><na f="l/Li_0044:Li" pid="53/2189-44">Li Li 0044</na></co>
+<co c="0"><na f="l/Li:Shaodong" pid="170/4202">Shaodong Li</na></co>
+<co c="0"><na f="l/Li:Yi" pid="59/871">Yi Li</na></co>
+<co c="0"><na f="l/Li_0010:Yi" pid="59/871-10">Yi Li 0010</na></co>
+<co c="0"><na f="l/Liu:Ai" pid="237/0520">Ai Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Lu:Yuteng" pid="229/5511">Yuteng Lu</na></co>
+<co c="0"><na f="m/Ma_0003:Lei" pid="20/6534-3">Lei Ma 0003</na></co>
+<co c="0"><na f="m/Malik:Moin" pid="255/4938">Moin Malik</na></co>
+<co c="0"><na f="n/Nawaz:M=_Saqib" pid="192/8371">M. Saqib Nawaz</na></co>
+<co c="0"><na f="n/Nawaz:M=_Zohaib" pid="262/0747">M. Zohaib Nawaz</na></co>
+<co c="0"><na f="s/Sun_0002:Jing" pid="s/JingSun2">Jing Sun 0002</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="0"><na f="s/Sun:Weidi" pid="246/7995">Weidi Sun</na></co>
+<co c="0"><na f="w/Wang_0004:Jingyi" pid="18/3178-4">Jingyi Wang 0004</na></co>
+<co c="0"><na f="w/Wang:Shun" pid="07/8577">Shun Wang</na></co>
+<co c="0"><na f="w/Wang:Yiwu" pid="170/4235">Yiwu Wang</na></co>
+<co c="0"><na f="x/Xie:Xiaofei" pid="127/0713">Xiaofei Xie</na></co>
+<co c="0"><na f="x/Xue:Bai" pid="74/2716">Bai Xue</na></co>
+<co c="0"><na f="z/Zhang:Qi" pid="52/323">Qi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiyue" pid="35/9455">Xiyue Zhang</na></co>
+<co c="0"><na f="z/Zhao:Jianjun" pid="71/6948">Jianjun Zhao</na></co>
+<co c="0"><na f="z/Zhu:Zhanxing" pid="87/7756">Zhanxing Zhu</na></co>
+</coauthors>
+</dblpperson>
+

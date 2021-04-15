@@ -1,3 +1,2413 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb910e6670328342c574c56391ab467d745015e7925f553013f589e3448389d7
-size 105023
+<?xml version="1.0"?>
+<dblpperson name="Zhendong Su" pid="s/ZhendongSu" n="158">
+<person key="homepages/s/ZhendongSu" mdate="2018-05-26">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<note type="affiliation">University of California, Davis, USA</note>
+<url>http://www.cs.ucdavis.edu/~su/</url>
+<url>https://scholar.google.com/citations?user=RivxoIcAAAAJ</url>
+<url>https://twitter.com/zhendongsu</url>
+</person>
+<r><article key="journals/pacmpl/WintererZS20" mdate="2021-02-17">
+<author pid="183/0955">Dominik Winterer</author>
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>On the unusual effectiveness of type-aware operator mutations for testing SMT solvers.</title>
+<pages>193:1-193:25</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3428261</ee>
+<url>db/journals/pacmpl/pacmpl4.html#WintererZS20</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/GrosserTFPKRSH20" mdate="2021-02-17">
+<author pid="91/9231">Tobias Grosser</author>
+<author pid="92/4039">Theodoros Theodoridis</author>
+<author pid="280/5536">Maximilian Falkenstein</author>
+<author pid="280/4965">Arjun Pitchanathan</author>
+<author pid="00/7400">Michael Kruse</author>
+<author pid="133/8711">Manuel Rigger</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="16/3869">Torsten Hoefler</author>
+<title>Fast linear programming through transprecision computing on small and sparse data.</title>
+<pages>195:1-195:28</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3428263</ee>
+<url>db/journals/pacmpl/pacmpl4.html#GrosserTFPKRSH20</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/RiggerS20" mdate="2021-02-17">
+<author pid="133/8711">Manuel Rigger</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Finding bugs in database systems via query partitioning.</title>
+<pages>211:1-211:30</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3428279</ee>
+<url>db/journals/pacmpl/pacmpl4.html#RiggerS20</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/ZouZXFZS20" mdate="2021-02-17">
+<author pid="167/0212">Daming Zou</author>
+<author pid="202/2475">Muhan Zeng</author>
+<author pid="82/2673">Yingfei Xiong 0001</author>
+<author orcid="0000-0003-2073-0564" pid="139/5447">Zhoulai Fu</author>
+<author pid="z/LuZhang1">Lu Zhang 0023</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting floating-point errors via atomic conditions.</title>
+<pages>60:1-60:27</pages>
+<year>2020</year>
+<volume>4</volume>
+<number>POPL</number>
+<journal>Proc. ACM Program. Lang.</journal>
+<ee type="oa">https://doi.org/10.1145/3371128</ee>
+<url>db/journals/pacmpl/pacmpl4.html#ZouZXFZS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/HeMS20" mdate="2021-01-08">
+<author pid="147/1619">Pinjia He</author>
+<author pid="245/7485">Clara Meister</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Structure-invariant testing for machine translation.</title>
+<pages>961-973</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380339</ee>
+<ee>https://ieeexplore.ieee.org/document/9284002</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#HeMS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YuCFWSSHD20" mdate="2021-02-18">
+<author pid="147/2984">Hengbiao Yu</author>
+<author pid="02/4907">Zhenbang Chen</author>
+<author pid="117/0666">Xianjin Fu</author>
+<author pid="64/856-1">Ji Wang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="64/2438">Chun Huang</author>
+<author pid="92/748">Wei Dong</author>
+<title>Symbolic verification of message passing interface programs.</title>
+<pages>1248-1260</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380419</ee>
+<ee>https://ieeexplore.ieee.org/document/9283955</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#YuCFWSSHD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/ZhuWNCS20" mdate="2020-11-10">
+<author pid="158/8524">Jiayu Zhu</author>
+<author pid="183/4488">Chengcheng Wan</author>
+<author pid="278/0656">Pengbo Nie</author>
+<author pid="21/6510">Yuting Chen</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Guided, Deep Testing of X.509 Certificate Validation via Coverage Transfer Graphs.</title>
+<pages>243-254</pages>
+<year>2020</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME46990.2020.00032</ee>
+<crossref>conf/icsm/2020</crossref>
+<url>db/conf/icsm/icsme2020.html#ZhuWNCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/WangS20" mdate="2021-02-12">
+<author pid="42/1503">Shuai Wang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Metamorphic Object Insertion for Testing Object Detection Systems.</title>
+<pages>1053-1065</pages>
+<year>2020</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3324884.3416584</ee>
+<ee>https://ieeexplore.ieee.org/document/9286114</ee>
+<crossref>conf/kbse/2020</crossref>
+<url>db/conf/kbse/ase2020.html#WangS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/RiggerS20" mdate="2021-02-02">
+<author pid="133/8711">Manuel Rigger</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Testing Database Engines via Pivoted Query Synthesis.</title>
+<pages>667-682</pages>
+<year>2020</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi20/presentation/rigger</ee>
+<crossref>conf/osdi/2020</crossref>
+<url>db/conf/osdi/osdi2020.html#RiggerS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/0022S20" mdate="2020-06-09">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Blended, precise semantic program embeddings.</title>
+<pages>121-134</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385999</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#0022S20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/WintererZS20" mdate="2021-01-07">
+<author pid="183/0955">Dominik Winterer</author>
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Validating SMT solvers via semantic fusion.</title>
+<pages>718-730</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385985</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#WintererZS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/VelezYLSA20" mdate="2020-03-04">
+<author pid="159/2051">Martin Velez</author>
+<author pid="198/7451">Michael Yen</author>
+<author pid="259/4704">Mathew Le</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="36/3317">Mohammad Amin Alipour</author>
+<title>Student Adoption and Perceptions of a Web Integrated Development Environment: An Experience Report.</title>
+<pages>1172-1178</pages>
+<year>2020</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/3328778.3366949</ee>
+<crossref>conf/sigcse/2020</crossref>
+<url>db/conf/sigcse/sigcse2020.html#VelezYLSA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GuptaHMS20" mdate="2020-11-10">
+<author pid="276/3290">Shashij Gupta</author>
+<author pid="147/1619">Pinjia He</author>
+<author pid="245/7485">Clara Meister</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Machine translation testing via pathological invariance.</title>
+<pages>863-875</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409756</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#GuptaHMS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/RiggerS20" mdate="2020-11-10">
+<author pid="133/8711">Manuel Rigger</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting optimization bugs in database engines via non-optimizing reference engine construction.</title>
+<pages>1140-1152</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409710</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#RiggerS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-04174" mdate="2020-01-17">
+<author pid="133/8711">Manuel Rigger</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Testing Database Engines via Pivoted Query Synthesis.</title>
+<year>2020</year>
+<volume>abs/2001.04174</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.04174</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-04174</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-08799" mdate="2021-01-07">
+<author pid="183/0955">Dominik Winterer</author>
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>On the Unusual Effectiveness of Type-aware Mutations for Testing SMT Solvers.</title>
+<year>2020</year>
+<volume>abs/2004.08799</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.08799</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-08799</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10361" mdate="2020-04-28">
+<author pid="147/1619">Pinjia He</author>
+<author pid="245/7485">Clara Meister</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Testing Machine Translation via Referential Transparency.</title>
+<year>2020</year>
+<volume>abs/2004.10361</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10361</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10361</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-08292" mdate="2020-07-22">
+<author pid="133/8711">Manuel Rigger</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting Optimization Bugs in Database Engines via Non-Optimizing Reference Engine Construction.</title>
+<year>2020</year>
+<volume>abs/2007.08292</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.08292</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-08292</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-03585" mdate="2020-08-14">
+<author pid="42/6896">Ting Su</author>
+<author pid="215/5364">Yichen Yan</author>
+<author pid="69/393">Jue Wang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automated Functional Fuzzing of Android Apps.</title>
+<year>2020</year>
+<volume>abs/2008.03585</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.03585</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-03585</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-13452" mdate="2020-12-01">
+<author pid="204/3600">Sahil Verma</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>ShapeFlow: Dynamic Shape Interpreter for TensorFlow.</title>
+<year>2020</year>
+<volume>abs/2011.13452</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.13452</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-13452</url>
+</article>
+</r>
+<r><article key="journals/access/SuRZT19" mdate="2019-07-05">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="19/1151">Kaijun Ren</author>
+<author pid="242/0138">Ruoyun Zhang</author>
+<author orcid="0000-0002-9108-2229" pid="242/0092">Suo-Yi Tan</author>
+<title>Disrupting Terrorist Networks Based on Link Prediction: A Case Study of the 9-11 Hijackers Network.</title>
+<pages>61689-61696</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2915938</ee>
+<url>db/journals/access/access7.html#SuRZT19</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/WangZS19" mdate="2021-02-17">
+<author pid="42/1503">Shuai Wang</author>
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting nondeterministic payment bugs in Ethereum smart contracts.</title>
+<pages>189:1-189:29</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3360615</ee>
+<url>db/journals/pacmpl/pacmpl3.html#WangZS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/GuSMC0YZLS19" mdate="2019-11-19">
+<author pid="127/0906">Tianxiao Gu</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="67/3058">Xiaoxing Ma</author>
+<author pid="16/1889">Chun Cao</author>
+<author pid="97/2966-1">Chang Xu 0001</author>
+<author pid="25/4120-1">Yuan Yao 0001</author>
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="38/5132">Jian Lu 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Practical GUI testing of Android applications via model abstraction and refinement.</title>
+<pages>269-280</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00042</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339542</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#GuSMC0YZLS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YangZSS00X19" mdate="2021-04-09">
+<author orcid="0000-0003-1153-2013" pid="138/0251">Yibiao Yang</author>
+<author pid="06/3406">Yuming Zhou</author>
+<author pid="82/2248">Hao Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="10/964-2">Zhiqiang Zuo 0002</author>
+<author pid="19/360-3">Lei Xu 0003</author>
+<author orcid="0000-0001-7743-1296" pid="46/5742">Baowen Xu</author>
+<title>Hunting for bugs in code coverage tools via randomized differential testing.</title>
+<pages>488-498</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00061</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339569</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#YangZSS00X19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WenLWXCS19" mdate="2021-02-02">
+<author pid="99/1109-1">Ming Wen 0001</author>
+<author pid="125/1824">Yepang Liu 0001</author>
+<author pid="92/9102">Rongxin Wu</author>
+<author pid="22/10184">Xuan Xie</author>
+<author orcid="0000-0002-3508-7172" pid="c/SCCheung">Shing-Chi Cheung</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Exposing library API misuses via mutation analysis.</title>
+<pages>866-877</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00093</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339614</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#WenLWXCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WangWSTCS0WZL19" mdate="2020-07-17">
+<author pid="86/3338">Xie Wang</author>
+<author pid="242/3944">Huaijin Wang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="81/5695">Enyi Tang</author>
+<author pid="24/1518-27">Xin Chen 0027</author>
+<author pid="224/7192">Weijun Shen</author>
+<author pid="86/541-1">Zhenyu Chen 0001</author>
+<author pid="63/829">Linzhang Wang</author>
+<author pid="242/3916">Xianpei Zhang</author>
+<author pid="76/5446">Xuandong Li</author>
+<title>Global optimization of numerical programs via prioritized stochastic algebraic transformations.</title>
+<pages>1131-1141</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00116</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339647</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#WangWSTCS0WZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ChenSS19" mdate="2019-08-29">
+<author pid="21/6510">Yuting Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Deep differential testing of JVM implementations.</title>
+<pages>1257-1268</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00127</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339662</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#ChenSS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/FuS19" mdate="2020-10-25">
+<author orcid="0000-0003-2073-0564" pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Effective floating-point analysis via weak-distance minimization.</title>
+<pages>439-452</pages>
+<year>2019</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3314221.3314632</ee>
+<crossref>conf/pldi/2019</crossref>
+<url>db/conf/pldi/pldi2019.html#FuS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/WenWLTXCS19" mdate="2021-02-02">
+<author pid="99/1109-1">Ming Wen 0001</author>
+<author pid="92/9102">Rongxin Wu</author>
+<author pid="125/1824">Yepang Liu 0001</author>
+<author orcid="0000-0003-1644-2965" pid="180/5774">Yongqiang Tian</author>
+<author pid="22/10184">Xuan Xie</author>
+<author orcid="0000-0002-3508-7172" pid="c/SCCheung">Shing-Chi Cheung</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Exploring and exploiting the correlations between bug-inducing and bug-fixing commits.</title>
+<pages>326-337</pages>
+<year>2019</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3338906.3338962</ee>
+<crossref>conf/sigsoft/2019</crossref>
+<url>db/conf/sigsoft/fse2019.html#WenWLTXCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/ZhangSYZPS19" mdate="2021-01-07">
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="215/5364">Yichen Yan</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Finding and understanding bugs in software model checkers.</title>
+<pages>763-773</pages>
+<year>2019</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3338906.3338932</ee>
+<crossref>conf/sigsoft/2019</crossref>
+<url>db/conf/sigsoft/fse2019.html#ZhangSYZPS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-02136" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Learning Blended, Precise Semantic Program Embeddings.</title>
+<year>2019</year>
+<volume>abs/1907.02136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.02136</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-02136</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-08710" mdate="2019-07-30">
+<author pid="147/1619">Pinjia He</author>
+<author pid="245/7485">Clara Meister</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Structure-Invariant Testing for Machine Translation.</title>
+<year>2019</year>
+<volume>abs/1907.08710</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.08710</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-08710</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-12162" mdate="2020-01-03">
+<author pid="42/1503">Shuai Wang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Metamorphic Testing for Object Detection Systems.</title>
+<year>2019</year>
+<volume>abs/1912.12162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.12162</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-12162</url>
+</article>
+</r>
+<r><article key="journals/iee/LeiSMS18" mdate="2020-05-22">
+<author pid="94/3609">Yan Lei</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="81/8725">Xiaoguang Mao</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>How test suites impact fault localisation starting from the size.</title>
+<pages>190-205</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>IET Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/iet-sen.2017.0026</ee>
+<url>db/journals/iet-sen/iet-sen12.html#LeiSMS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/WangSS18" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="25/7056">Rishabh Singh</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Dynamic Neural Program Embeddings for Program Repair.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BJuWrGW0Z</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#WangSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SunLZGS18" mdate="2018-11-26">
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="198/2381">Yuanbo Li</author>
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="127/0906">Tianxiao Gu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Perses: syntax-guided program reduction.</title>
+<pages>361-371</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180236</ee>
+<ee>http://ieeexplore.ieee.org/document/8453094</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#SunLZGS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FanSCMLXPS18" mdate="2018-11-26">
+<author pid="11/2636">Lingling Fan</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="180/8218">Sen Chen</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="89/2985">Lihua Xu</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Large-scale analysis of framework-specific exceptions in Android apps.</title>
+<pages>408-419</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180222</ee>
+<ee>http://ieeexplore.ieee.org/document/8453100</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#FanSCMLXPS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YuCWS018" mdate="2019-05-28">
+<author pid="147/2984">Hengbiao Yu</author>
+<author pid="02/4907">Zhenbang Chen</author>
+<author pid="64/856-1">Ji Wang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="92/748-6">Wei Dong 0006</author>
+<title>Symbolic verification of regular properties.</title>
+<pages>871-881</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180227</ee>
+<ee>http://ieeexplore.ieee.org/document/8453161</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#YuCWS018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/CaiZZNXS18" mdate="2020-10-12">
+<author pid="97/5358">Cheng Cai</author>
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="10/964-2">Zhiqiang Zuo 0002</author>
+<author pid="53/6791-1">Khanh Nguyen 0001</author>
+<author pid="90/8705">Guoqing Harry Xu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Calling-to-reference context translation via constraint-guided CFL-reachability.</title>
+<pages>196-210</pages>
+<year>2018</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3192366.3192378</ee>
+<crossref>conf/pldi/2018</crossref>
+<url>db/conf/pldi/pldi2018.html#CaiZZNXS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/WangSS18" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="25/7056">Rishabh Singh</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Search, align, and repair: data-driven feedback generation for introductory programming exercises.</title>
+<pages>481-495</pages>
+<year>2018</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3192366.3192384</ee>
+<crossref>conf/pldi/2018</crossref>
+<url>db/conf/pldi/pldi2018.html#WangSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GlonduJS18" mdate="2019-10-19">
+<author pid="10/422">St&#233;phane Glondu</author>
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Ten years of hunting for similar code for fun and profit (keynote).</title>
+<pages>2</pages>
+<year>2018</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3236024.3280856</ee>
+<crossref>conf/sigsoft/2018</crossref>
+<url>db/conf/sigsoft/fse2018.html#GlonduJS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-07009" mdate="2018-10-10">
+<author pid="11/2636">Lingling Fan</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="180/8218">Sen Chen</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="89/2985">Lihua Xu</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Large-Scale Analysis of Framework-Specific Exceptions in Android Apps.</title>
+<year>2018</year>
+<volume>abs/1801.07009</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.07009</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-07009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-06300" mdate="2019-05-28">
+<author pid="147/2984">Hengbiao Yu</author>
+<author pid="02/4907">Zhenbang Chen</author>
+<author pid="117/0666">Xianjin Fu</author>
+<author pid="64/856-1">Ji Wang 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="92/748-6">Wei Dong 0006</author>
+<author pid="64/2438">Chun Huang</author>
+<title>Combining Symbolic Execution and Model Checking to Verify MPI Programs.</title>
+<year>2018</year>
+<volume>abs/1803.06300</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.06300</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-06300</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-10431" mdate="2021-01-07">
+<author pid="42/6896">Ting Su</author>
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="215/5364">Yichen Yan</author>
+<author pid="11/2636">Lingling Fan</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Towards Efficient Data-flow Test Data Generation.</title>
+<year>2018</year>
+<volume>abs/1803.10431</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.10431</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-10431</url>
+</article>
+</r>
+<r><article key="journals/csur/SuWMPHCS17" mdate="2018-11-06">
+<author pid="42/6896">Ting Su</author>
+<author pid="69/6116">Ke Wu</author>
+<author pid="94/4256">Weikai Miao</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="66/3868">Jifeng He</author>
+<author pid="21/6510">Yuting Chen</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>A Survey on Data-Flow Testing.</title>
+<pages>5:1-5:35</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3020266</ee>
+<url>db/journals/csur/csur50.html#SuWMPHCS17</url>
+</article>
+</r>
+<r><article key="journals/jss/QiuLBS17" mdate="2020-02-24">
+<author pid="79/3415">Dong Qiu</author>
+<author orcid="0000-0001-9916-4790" pid="l/BixinLi">Bixin Li</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Understanding the syntactic rule usage in java.</title>
+<pages>160-172</pages>
+<year>2017</year>
+<volume>123</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2016.10.017</ee>
+<url>db/journals/jss/jss123.html#QiuLBS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icfem/JiangYQSZY17" mdate="2018-07-11">
+<author pid="38/6049">Hao Jiang</author>
+<author pid="92/6174">Hongli Yang</author>
+<author pid="q/ShengchaoQin">Shengchao Qin</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="07/314-1">Jian Zhang 0001</author>
+<author pid="89/5901-9">Jun Yan 0009</author>
+<title>Detecting Energy Bugs in Android Apps Using Static Analysis.</title>
+<pages>192-208</pages>
+<year>2017</year>
+<booktitle>ICFEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68690-5_12</ee>
+<crossref>conf/icfem/2017</crossref>
+<url>db/conf/icfem/icfem2017.html#JiangYQSZY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/LiuSSJGS17" mdate="2020-08-25">
+<author pid="35/2899-10">Han Liu 0010</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="21/4633-1">Yu Jiang 0001</author>
+<author pid="76/2502-1">Ming Gu 0001</author>
+<author pid="s/JiaGuangSun-1">Jiaguang Sun 0001</author>
+<title>Stochastic optimization of program obfuscation.</title>
+<pages>221-231</pages>
+<year>2017</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2017.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2017.28</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3097395</ee>
+<crossref>conf/icse/2017</crossref>
+<url>db/conf/icse/icse2017.html#LiuSSJGS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/FuS17" mdate="2018-11-06">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Achieving high coverage for floating-point code via unconstrained programming.</title>
+<pages>306-319</pages>
+<year>2017</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3062341.3062383</ee>
+<crossref>conf/pldi/2017</crossref>
+<url>db/conf/pldi/pldi2017.html#FuS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/ZhangSS17" mdate="2018-11-06">
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Skeletal program enumeration for rigorous compiler testing.</title>
+<pages>347-361</pages>
+<year>2017</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3062341.3062379</ee>
+<crossref>conf/pldi/2017</crossref>
+<url>db/conf/pldi/pldi2017.html#ZhangSS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/ZhangS17" mdate="2016-12-28">
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Context-sensitive data-dependence analysis via linear conjunctive language reachability.</title>
+<pages>344-358</pages>
+<year>2017</year>
+<booktitle>POPL</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3009848</ee>
+<crossref>conf/popl/2017</crossref>
+<url>db/conf/popl/popl2017.html#ZhangS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SuMCWYYPLS17" mdate="2018-11-06">
+<author pid="42/6896">Ting Su</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author pid="21/6510">Yuting Chen</author>
+<author pid="69/6116">Ke Wu</author>
+<author pid="87/3259">Weiming Yang</author>
+<author pid="07/4410">Yao Yao</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Guided, stochastic model-based GUI testing of Android apps.</title>
+<pages>245-256</pages>
+<year>2017</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3106237.3106298</ee>
+<crossref>conf/sigsoft/2017</crossref>
+<url>db/conf/sigsoft/fse2017.html#SuMCWYYPLS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FuS17" mdate="2018-08-13">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Achieving High Coverage for Floating-point Code via Unconstrained Programming (Extended Version).</title>
+<year>2017</year>
+<volume>abs/1704.03394</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.03394</ee>
+<url>db/journals/corr/corr1704.html#FuS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-07148" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="25/7056">Rishabh Singh</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Data-Driven Feedback Generation for Introductory Programming Exercises.</title>
+<year>2017</year>
+<volume>abs/1711.07148</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.07148</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-07148</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-07154" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Interactive, Intelligent Tutoring for Auxiliary Constructions in Geometry Proofs.</title>
+<year>2017</year>
+<volume>abs/1711.07154</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.07154</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-07154</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-07163" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="25/7056">Rishabh Singh</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Dynamic Neural Program Embedding for Program Repair.</title>
+<year>2017</year>
+<volume>abs/1711.07163</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.07163</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-07163</url>
+</article>
+</r>
+<r><article key="journals/cacm/HindleBGS16" mdate="2019-10-19">
+<author pid="76/2009">Abram Hindle</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="64/6605">Mark Gabel</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author orcid="0000-0002-4346-5276" pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<title>On the naturalness of software.</title>
+<pages>122-131</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/2902362</ee>
+<ee>https://www.wikidata.org/entity/Q57726651</ee>
+<url>db/journals/cacm/cacm59.html#HindleBGS16</url>
+</article>
+</r>
+<r><article key="journals/chinaf/SuPMHS16" mdate="2020-03-02">
+<author pid="42/6896">Ting Su</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="94/4256">Weikai Miao</author>
+<author pid="66/3868">Jifeng He</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automated coverage-driven testing: combining symbolic execution and model checking.</title>
+<pages>98101</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Sci. China Inf. Sci.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s11432-016-5589-6</ee>
+<url>db/journals/chinaf/chinaf59.html#SuPMHS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/FuS16" mdate="2017-05-25">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>XSat: A Fast Floating-Point Satisfiability Solver.</title>
+<pages>187-209</pages>
+<year>2016</year>
+<booktitle>CAV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41540-6_11</ee>
+<crossref>conf/cav/2016-2</crossref>
+<url>db/conf/cav/cav2016-2.html#FuS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SunLS16" mdate="2018-11-06">
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="00/2651">Vu Le</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Finding and analyzing compiler warning defects.</title>
+<pages>203-213</pages>
+<year>2016</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/2884781.2884879</ee>
+<ee>http://ieeexplore.ieee.org/document/7886904/</ee>
+<crossref>conf/icse/2016</crossref>
+<url>db/conf/icse/icse2016.html#SunLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangS16" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Dimensionally Guided Synthesis of Mathematical Word Problems.</title>
+<pages>2661-2668</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/378</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#WangS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/SunLZS16" mdate="2019-06-02">
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="00/2651">Vu Le</author>
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Toward understanding compiler bugs in GCC and LLVM.</title>
+<pages>294-305</pages>
+<year>2016</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/2931037.2931074</ee>
+<ee>https://www.wikidata.org/entity/Q61994709</ee>
+<crossref>conf/issta/2016</crossref>
+<url>db/conf/issta/issta2016.html#SunLZS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/GuSMLS16" mdate="2018-11-06">
+<author pid="127/0906">Tianxiao Gu</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author orcid="0000-0001-7970-1384" pid="67/3058">Xiaoxing Ma</author>
+<author pid="38/5132">Jian L&#252; 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automatic runtime recovery via error handler synthesis.</title>
+<pages>684-695</pages>
+<year>2016</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2970276.2970360</ee>
+<ee>http://ieeexplore.ieee.org/document/7582803/</ee>
+<crossref>conf/kbse/2016</crossref>
+<url>db/conf/kbse/ase2016.html#GuSMLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/AfshariS16" mdate="2018-11-06">
+<author pid="131/1698">Mehrdad Afshari</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Building white-box abstractions by program refinement.</title>
+<pages>74-81</pages>
+<year>2016</year>
+<booktitle>Onward!</booktitle>
+<ee>https://doi.org/10.1145/2986012.2986025</ee>
+<crossref>conf/oopsla/2016onward</crossref>
+<url>db/conf/oopsla/onward2016.html#AfshariS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/SunLS16" mdate="2018-11-06">
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="00/2651">Vu Le</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Finding compiler bugs via live code mutation.</title>
+<pages>849-863</pages>
+<year>2016</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2983990.2984038</ee>
+<crossref>conf/oopsla/2016</crossref>
+<url>db/conf/oopsla/oopsla2016.html#SunLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/ChenSSSZ16" mdate="2018-11-06">
+<author pid="21/6510">Yuting Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="71/6948">Jianjun Zhao</author>
+<title>Coverage-directed differential testing of JVM implementations.</title>
+<pages>85-99</pages>
+<year>2016</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/2908080.2908095</ee>
+<crossref>conf/pldi/2016</crossref>
+<url>db/conf/pldi/pldi2016.html#ChenSSSZ16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigsoft/2016" mdate="2018-11-06">
+<editor pid="19/3622-1">Thomas Zimmermann 0001</editor>
+<editor pid="c/JaneClelandHuang">Jane Cleland-Huang</editor>
+<editor pid="s/ZhendongSu">Zhendong Su</editor>
+<title>Proceedings of the 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering, FSE 2016, Seattle, WA, USA, November 13-18, 2016</title>
+<booktitle>SIGSOFT FSE</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4218-6</isbn>
+<ee>https://doi.org/10.1145/2950290</ee>
+<url>db/conf/sigsoft/fse2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AfshariS16" mdate="2018-08-13">
+<author pid="131/1698">Mehrdad Afshari</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Toward Rapid Transformation of Ideas into Software.</title>
+<year>2016</year>
+<volume>abs/1602.01075</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.01075</ee>
+<url>db/journals/corr/corr1602.html#AfshariS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FuS16a" mdate="2018-08-13">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Mathematical Execution: A Unified Approach for Testing Numerical Code.</title>
+<year>2016</year>
+<volume>abs/1610.01133</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.01133</ee>
+<url>db/journals/corr/corr1610.html#FuS16a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangSS16a" mdate="2018-08-13">
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Skeletal Program Enumeration for Rigorous Compiler Testing.</title>
+<year>2016</year>
+<volume>abs/1610.03148</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.03148</ee>
+<url>db/journals/corr/corr1610.html#ZhangSS16a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/ZouWXZSM15" mdate="2020-09-01">
+<author pid="167/0212">Daming Zou</author>
+<author pid="12/6277">Ran Wang</author>
+<author orcid="0000-0001-8991-747X" pid="82/2673">Yingfei Xiong 0001</author>
+<author pid="z/LuZhang1">Lu Zhang 0023</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="14/2036">Hong Mei</author>
+<title>A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies.</title>
+<pages>529-539</pages>
+<year>2015</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2015.70</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2818820</ee>
+<crossref>conf/icse/2015-1</crossref>
+<url>db/conf/icse/icse2015-1.html#ZouWXZSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SuFPHS15" mdate="2017-05-23">
+<author pid="42/6896">Ting Su</author>
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="66/3868">Jifeng He</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Combining Symbolic Execution and Model Checking for Data Flow Testing.</title>
+<pages>654-665</pages>
+<year>2015</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2015.81</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2818834</ee>
+<crossref>conf/icse/2015-1</crossref>
+<url>db/conf/icse/icse2015-1.html#SuFPHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ZhongS15" mdate="2018-11-02">
+<author orcid="0000-0002-4302-9183" pid="06/5514">Hao Zhong</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>An Empirical Study on Real Bug Fixes.</title>
+<pages>913-923</pages>
+<year>2015</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.101</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2015.101</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2818864</ee>
+<crossref>conf/icse/2015-1</crossref>
+<url>db/conf/icse/icse2015-1.html#ZhongS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangS15" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automatic Generation of Raven's Progressive Matrices.</title>
+<pages>903-909</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/132</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#WangS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangS15a" mdate="2019-12-08">
+<author pid="181/2613-22">Ke Wang 0022</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automated Geometry Theorem Proving for Human-Readable Proofs.</title>
+<pages>1193-1199</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/172</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#WangS15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/LeSS15" mdate="2018-11-06">
+<author pid="00/2651">Vu Le</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Randomized stress-testing of link-time optimizers.</title>
+<pages>327-337</pages>
+<year>2015</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/2771783.2771785</ee>
+<crossref>conf/issta/2015</crossref>
+<url>db/conf/issta/issta2015.html#LeSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/LeSS15" mdate="2018-11-06">
+<author pid="00/2651">Vu Le</author>
+<author pid="04/7120">Chengnian Sun</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Finding deep compiler bugs via guided stochastic program mutation.</title>
+<pages>386-399</pages>
+<year>2015</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2814270.2814319</ee>
+<crossref>conf/oopsla/2015</crossref>
+<url>db/conf/oopsla/oopsla2015.html#LeSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/FuBS15" mdate="2018-11-06">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="08/2673">Zhaojun Bai</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automated backward error analysis for numerical code.</title>
+<pages>639-654</pages>
+<year>2015</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2814270.2814317</ee>
+<crossref>conf/oopsla/2015</crossref>
+<url>db/conf/oopsla/oopsla2015.html#FuBS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/ChenS15" mdate="2018-11-06">
+<author pid="21/6510">Yuting Chen</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Guided differential testing of certificate validation in SSL/TLS implementations.</title>
+<pages>793-804</pages>
+<year>2015</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2786805.2786835</ee>
+<crossref>conf/sigsoft/2015</crossref>
+<url>db/conf/sigsoft/fse2015.html#ChenS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/WangXSL15" mdate="2021-02-01">
+<author pid="78/2022-29">Kai Wang 0029</author>
+<author pid="90/8705">Guoqing (Harry) Xu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="30/3456">Yu David Liu</author>
+<title>GraphQ: Graph Query Processing with Abstraction Refinement - Scalable and Programmable Analytics over Very Large Graphs on a Single PC.</title>
+<pages>387-401</pages>
+<year>2015</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc15/technical-session/presentation/wang-kai</ee>
+<crossref>conf/usenix/2015</crossref>
+<url>db/conf/usenix/usenix2015.html#WangXSL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/VelezQZBS15" mdate="2018-08-13">
+<author pid="159/2051">Martin Velez</author>
+<author pid="79/3415">Dong Qiu</author>
+<author pid="20/2165">You Zhou</author>
+<author pid="47/1088">Earl T. Barr</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>A Study of &#34;Wheat&#34; and &#34;Chaff&#34; in Source Code.</title>
+<year>2015</year>
+<volume>abs/1502.01410</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.01410</ee>
+<url>db/journals/corr/corr1502.html#VelezQZBS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ndss/SunXS14" mdate="2021-02-01">
+<author pid="60/7356">Fangqi Sun</author>
+<author pid="54/3420">Liang Xu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting Logic Vulnerabilities in E-commerce Applications.</title>
+<year>2014</year>
+<booktitle>NDSS</booktitle>
+<ee type="oa">https://www.ndss-symposium.org/ndss2014/detecting-logic-vulnerabilities-e-commerce-applications</ee>
+<crossref>conf/ndss/2014</crossref>
+<url>db/conf/ndss/ndss2014.html#SunXS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/GuSBS14" mdate="2018-11-06">
+<author pid="32/3857">Zhongxian Gu</author>
+<author pid="120/2020">Drew Schleck</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Capturing and Exploiting IDE Interactions.</title>
+<pages>83-94</pages>
+<year>2014</year>
+<booktitle>Onward!</booktitle>
+<ee>https://doi.org/10.1145/2661136.2661144</ee>
+<crossref>conf/oopsla/2014onward</crossref>
+<url>db/conf/oopsla/onward2014.html#GuSBS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/ZhangXZYS14" mdate="2018-11-06">
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="89/6248-3">Xiao Xiao 0003</author>
+<author pid="51/7008">Charles Zhang</author>
+<author pid="92/867">Hao Yuan</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Efficient subcubic alias analysis for C.</title>
+<pages>829-845</pages>
+<year>2014</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2660193.2660213</ee>
+<crossref>conf/oopsla/2014</crossref>
+<url>db/conf/oopsla/oopsla2014.html#ZhangXZYS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/LeAS14" mdate="2018-11-06">
+<author pid="00/2651">Vu Le</author>
+<author pid="131/1698">Mehrdad Afshari</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Compiler validation via equivalence modulo inputs.</title>
+<pages>216-226</pages>
+<year>2014</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/2594291.2594334</ee>
+<crossref>conf/pldi/2014</crossref>
+<url>db/conf/pldi/pldi2014.html#LeAS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/TuSD14" mdate="2018-11-06">
+<author pid="71/9281">Zhaopeng Tu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<title>On the localness of software.</title>
+<pages>269-280</pages>
+<year>2014</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2635868.2635875</ee>
+<crossref>conf/sigsoft/2014</crossref>
+<url>db/conf/sigsoft/fse2014.html#TuSD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/PengDZXLS14" mdate="2021-02-01">
+<author pid="34/5165">Fei Peng</author>
+<author pid="72/10471">Zhui Deng</author>
+<author pid="95/3760-1">Xiangyu Zhang 0001</author>
+<author pid="59/5539">Dongyan Xu</author>
+<author pid="49/4102">Zhiqiang Lin</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>X-Force: Force-Executing Binary Programs for Security Applications.</title>
+<pages>829-844</pages>
+<year>2014</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/peng</ee>
+<crossref>conf/uss/2014</crossref>
+<url>db/conf/uss/uss2014.html#PengDZXLS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/MarronSSF13" mdate="2019-09-25">
+<author pid="88/1390">Mark Marron</author>
+<author orcid="0000-0003-3927-4773" pid="38/1858">C&#233;sar S&#225;nchez</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<title>Abstracting Runtime Heaps for Program Understanding.</title>
+<pages>774-786</pages>
+<year>2013</year>
+<volume>39</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSE.2012.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2012.69</ee>
+<url>db/journals/tse/tse39.html#MarronSSF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobisys/LeGS13" mdate="2018-11-06">
+<author pid="00/2651">Vu Le</author>
+<author pid="g/SumitGulwani">Sumit Gulwani</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>SmartSynth: synthesizing smartphone automation scripts from natural language.</title>
+<pages>193-206</pages>
+<year>2013</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/2462456.2464443</ee>
+<crossref>conf/mobisys/2013</crossref>
+<url>db/conf/mobisys/mobisys2013.html#LeGS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/LeHGS13" mdate="2018-11-06">
+<author pid="00/2651">Vu Le</author>
+<author pid="37/3407">Jonathan de Halleux</author>
+<author pid="g/SumitGulwani">Sumit Gulwani</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Keyword programming for TouchDevelop.</title>
+<pages>463-464</pages>
+<year>2013</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/2462456.2465729</ee>
+<crossref>conf/mobisys/2013</crossref>
+<url>db/conf/mobisys/mobisys2013.html#LeHGS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/LiSWL13" mdate="2018-11-06">
+<author pid="41/4214">You Li</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="63/829">Linzhang Wang</author>
+<author pid="76/5446">Xuandong Li</author>
+<title>Steering symbolic execution to less traveled paths.</title>
+<pages>19-32</pages>
+<year>2013</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2509136.2509553</ee>
+<crossref>conf/oopsla/2013</crossref>
+<url>db/conf/oopsla/oopsla2013.html#LiSWL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/ZhongS13" mdate="2018-11-06">
+<author orcid="0000-0002-4302-9183" pid="06/5514">Hao Zhong</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting API documentation errors.</title>
+<pages>803-816</pages>
+<year>2013</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2509136.2509523</ee>
+<crossref>conf/oopsla/2013</crossref>
+<url>db/conf/oopsla/oopsla2013.html#ZhongS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/ZhangLYS13" mdate="2018-11-30">
+<author pid="18/8523">Qirun Zhang</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="92/867">Hao Yuan</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Fast algorithms for Dyck-CFL-reachability with applications to alias analysis.</title>
+<pages>435-446</pages>
+<year>2013</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/2491956.2462159</ee>
+<ee>https://doi.org/10.1145/2499370.2462159</ee>
+<crossref>conf/pldi/2013</crossref>
+<url>db/conf/pldi/pldi2013.html#ZhangLYS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/BarrVLS13" mdate="2018-11-06">
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="124/5877">Thanh Vo</author>
+<author pid="00/2651">Vu Le</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automatic detection of floating-point exceptions.</title>
+<pages>549-560</pages>
+<year>2013</year>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/2429069.2429133</ee>
+<crossref>conf/popl/2013</crossref>
+<url>db/conf/popl/popl2013.html#BarrVLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/QiuLS13" mdate="2018-11-06">
+<author pid="79/3415">Dong Qiu</author>
+<author pid="l/BixinLi">Bixin Li</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>An empirical analysis of the co-evolution of schema and code in database applications.</title>
+<pages>125-135</pages>
+<year>2013</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2491411.2491431</ee>
+<crossref>conf/sigsoft/2013</crossref>
+<url>db/conf/sigsoft/fse2013.html#QiuLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/JensenMS13" mdate="2020-10-25">
+<author pid="01/11523">Casper Svenning Jensen</author>
+<author orcid="0000-0003-1333-2314" pid="55/6739">Anders M&#248;ller</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Server interface descriptions for automated testing of JavaScript web applications.</title>
+<pages>510-520</pages>
+<year>2013</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2491411.2491421</ee>
+<crossref>conf/sigsoft/2013</crossref>
+<url>db/conf/sigsoft/fse2013.html#JensenMS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/KwonS12" mdate="2017-05-17">
+<author pid="09/8305">Taeho Kwon</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automatic Detection of Unsafe Dynamic Component Loadings.</title>
+<pages>293-313</pages>
+<year>2012</year>
+<volume>38</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSE.2011.108</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2011.108</ee>
+<url>db/journals/tse/tse38.html#KwonS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cc/KwonS12" mdate="2018-06-26">
+<author pid="09/8305">Taeho Kwon</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Static Detection of Unsafe Component Loadings.</title>
+<pages>122-143</pages>
+<year>2012</year>
+<booktitle>CC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28652-0_7</ee>
+<crossref>conf/cc/2012</crossref>
+<url>db/conf/cc/cc2012.html#KwonS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/HindleBSGD12" mdate="2019-10-19">
+<author pid="76/2009">Abram Hindle</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="64/6605">Mark Gabel</author>
+<author orcid="0000-0002-4346-5276" pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<title>On the naturalness of software.</title>
+<pages>837-847</pages>
+<year>2012</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2012.6227135</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227135</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2337322</ee>
+<ee>https://www.wikidata.org/entity/Q57726761</ee>
+<crossref>conf/icse/2012</crossref>
+<url>db/conf/icse/icse2012.html#HindleBSGD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/AfshariBS12" mdate="2018-11-06">
+<author pid="131/1698">Mehrdad Afshari</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Liberating the programmer with prorogued programming.</title>
+<pages>11-26</pages>
+<year>2012</year>
+<booktitle>Onward!</booktitle>
+<ee>https://doi.org/10.1145/2384592.2384595</ee>
+<crossref>conf/oopsla/2012onward</crossref>
+<url>db/conf/oopsla/onward2012.html#AfshariBS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/GuBSS12" mdate="2018-11-06">
+<author pid="32/3857">Zhongxian Gu</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="120/2020">Drew Schleck</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Reusing debugging knowledge via trace-based bug search.</title>
+<pages>927-942</pages>
+<year>2012</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2384616.2384684</ee>
+<crossref>conf/oopsla/2012</crossref>
+<url>db/conf/oopsla/oopsla2012.html#GuBSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GabelS12" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Testing mined specifications.</title>
+<pages>4</pages>
+<year>2012</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2393596.2393598</ee>
+<crossref>conf/sigsoft/2012</crossref>
+<url>db/conf/sigsoft/fse2012.html#GabelS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/KwonS12" mdate="2018-11-06">
+<author pid="09/8305">Taeho Kwon</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting and analyzing insecure component usage.</title>
+<pages>5</pages>
+<year>2012</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2393596.2393599</ee>
+<crossref>conf/sigsoft/2012</crossref>
+<url>db/conf/sigsoft/fse2012.html#KwonS12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/issta/2012" mdate="2018-11-06">
+<editor pid="68/654">Mats Per Erik Heimdahl</editor>
+<editor pid="s/ZhendongSu">Zhendong Su</editor>
+<title>International Symposium on Software Testing and Analysis, ISSTA 2012, Minneapolis, MN, USA, July 15-20, 2012</title>
+<publisher>ACM</publisher>
+<booktitle>ISSTA</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1454-1</isbn>
+<ee>https://doi.org/10.1145/2338965</ee>
+<url>db/conf/issta/issta2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1201-1327" mdate="2018-08-13">
+<author pid="88/1390">Mark Marron</author>
+<author pid="38/1858">C&#233;sar S&#225;nchez</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<title>Abstracting Runtime Heaps for Program Understanding</title>
+<ee type="oa">http://arxiv.org/abs/1201.1327</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1201.1327</volume>
+<url>db/journals/corr/corr1201.html#abs-1201-1327</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/KwonS11" mdate="2017-05-26">
+<author pid="09/8305">Taeho Kwon</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Modeling High-Level Behavior Patterns for Precise Similarity Analysis of Software.</title>
+<pages>1134-1139</pages>
+<year>2011</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2011.104</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2011.104</ee>
+<crossref>conf/icdm/2011</crossref>
+<url>db/conf/icdm/icdm2011.html#KwonS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GuBS11" mdate="2018-11-06">
+<author pid="32/3857">Zhongxian Gu</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>BQL: capturing and reusing debugging knowledge.</title>
+<pages>1001-1003</pages>
+<year>2011</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1985793.1985975</ee>
+<crossref>conf/icse/2011</crossref>
+<url>db/conf/icse/icse2011.html#GuBS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/ThummalapentaXTHS11" mdate="2018-11-06">
+<author pid="79/6558">Suresh Thummalapenta</author>
+<author pid="x/TaoXie">Tao Xie 0001</author>
+<author pid="81/6785">Nikolai Tillmann</author>
+<author pid="37/3407">Jonathan de Halleux</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Synthesizing method sequences for high-coverage testing.</title>
+<pages>189-206</pages>
+<year>2011</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2048066.2048083</ee>
+<crossref>conf/oopsla/2011</crossref>
+<url>db/conf/oopsla/oopsla2011.html#ThummalapentaXTHS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/SunXS11" mdate="2020-03-12">
+<author pid="60/7356">Fangqi Sun</author>
+<author pid="54/3420">Liang Xu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Static Detection of Access Control Vulnerabilities in Web Applications.</title>
+<year>2011</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">http://static.usenix.org/events/sec11/tech/full_papers/Sun.pdf</ee>
+<crossref>conf/uss/2011</crossref>
+<url>db/conf/uss/uss2011.html#SunXS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GabelS10" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Online inference and enforcement of temporal properties.</title>
+<pages>15-24</pages>
+<year>2010</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1145/1806799.1806806</ee>
+<crossref>conf/icse/2010-1</crossref>
+<url>db/conf/icse/icse2010-1.html#GabelS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GuBHS10" mdate="2018-11-06">
+<author pid="32/3857">Zhongxian Gu</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="35/5762">David J. Hamilton</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Has the bug really been fixed?</title>
+<pages>55-64</pages>
+<year>2010</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1145/1806799.1806812</ee>
+<crossref>conf/icse/2010-1</crossref>
+<url>db/conf/icse/icse2010-1.html#GuBHS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/KwonS10" mdate="2018-11-06">
+<author pid="09/8305">Taeho Kwon</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automatic detection of unsafe component loadings.</title>
+<pages>107-118</pages>
+<year>2010</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1831708.1831722</ee>
+<crossref>conf/issta/2010</crossref>
+<url>db/conf/issta/issta2010.html#KwonS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/TangBLS10" mdate="2018-11-06">
+<author pid="81/5695">Enyi Tang</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author pid="76/5446">Xuandong Li</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Perturbing numerical calculations for statistical analysis of floating-point program (in)stability.</title>
+<pages>131-142</pages>
+<year>2010</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1831708.1831724</ee>
+<crossref>conf/issta/2010</crossref>
+<url>db/conf/issta/issta2010.html#TangBLS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/GabelYYGS10" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author pid="71/3724">Junfeng Yang</author>
+<author pid="98/809">Yuan Yu</author>
+<author pid="37/1288">Mois&#233;s Goldszmidt</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Scalable and systematic detection of buggy inconsistencies in source code.</title>
+<pages>175-190</pages>
+<year>2010</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/1869459.1869475</ee>
+<crossref>conf/oopsla/2010</crossref>
+<url>db/conf/oopsla/oopsla2010.html#GabelYYGS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GabelS10" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>A study of the uniqueness of source code.</title>
+<pages>147-156</pages>
+<year>2010</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1882291.1882315</ee>
+<crossref>conf/sigsoft/2010</crossref>
+<url>db/conf/sigsoft/fse2010.html#GabelS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcos/CrandallBYWOSWC09" mdate="2020-03-06">
+<author pid="c/JRCrandall">Jedidiah R. Crandall</author>
+<author pid="89/4534">John Brevik</author>
+<author pid="80/4688">Shaozhi Ye</author>
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="20/3140">Daniela A. S. de Oliveira</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="w/ShFWu">Shyhtsun Felix Wu</author>
+<author pid="c/FTChong">Frederic T. Chong</author>
+<title>Putting Trojans on the Horns of a Dilemma: Redundancy for Information Theft Detection.</title>
+<pages>244-262</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>Trans. Comput. Sci.</journal>
+<ee>https://doi.org/10.1007/978-3-642-01004-0_14</ee>
+<crossref>journals/tcos/2009-4</crossref>
+<url>db/journals/tcos/tcos4.html#CrandallBYWOSWC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/esorics/SunXS09" mdate="2019-08-20">
+<author pid="60/7356">Fangqi Sun</author>
+<author pid="54/3420">Liang Xu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Client-Side Detection of XSS Worms by Monitoring Payload Propagation.</title>
+<pages>539-554</pages>
+<year>2009</year>
+<booktitle>ESORICS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04444-1_33</ee>
+<crossref>conf/esorics/2009</crossref>
+<url>db/conf/esorics/esorics2009.html#SunXS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/JiangS09" mdate="2019-10-19">
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automatic mining of functionally equivalent code fragments via random testing.</title>
+<pages>81-92</pages>
+<year>2009</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1572272.1572283</ee>
+<crossref>conf/issta/2009</crossref>
+<url>db/conf/issta/issta2009.html#JiangS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/SaebjornsenWPQS09" mdate="2018-11-06">
+<author pid="36/4151">Andreas S&#230;bj&#248;rnsen</author>
+<author pid="34/3660">Jeremiah Willcock</author>
+<author pid="p/ThomasPanas">Thomas Panas</author>
+<author pid="13/2176">Daniel J. Quinlan</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting code clones in binary executables.</title>
+<pages>117-128</pages>
+<year>2009</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1572272.1572287</ee>
+<crossref>conf/issta/2009</crossref>
+<url>db/conf/issta/issta2009.html#SaebjornsenWPQS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/SaebjoernsenJQS09" mdate="2017-06-04">
+<author pid="58/7880">Andreas Saebjoernsen</author>
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="13/2176">Daniel J. Quinlan</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Static Validation of C Preprocessor Macros.</title>
+<pages>149-160</pages>
+<year>2009</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2009.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2009.75</ee>
+<crossref>conf/kbse/2009</crossref>
+<url>db/conf/kbse/ase2009.html#SaebjoernsenJQS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/BirdBN09" mdate="2017-05-17">
+<author pid="b/ChristianBird">Christian Bird</author>
+<author pid="47/1088">Earl T. Barr</author>
+<author pid="58/7049">Andre Nash</author>
+<author pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<author pid="f/VladimirFilkov">Vladimir Filkov</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Structure and Dynamics of Research Collaboration in Computer Science.</title>
+<pages>826-837</pages>
+<year>2009</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972795.71</ee>
+<crossref>conf/sdm/2009</crossref>
+<url>db/conf/sdm/sdm2009.html#BirdBN09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sas/2009" mdate="2019-05-14">
+<editor pid="p/JPalsberg">Jens Palsberg</editor>
+<editor pid="s/ZhendongSu">Zhendong Su</editor>
+<title>Static Analysis, 16th International Symposium, SAS 2009, Los Angeles, CA, USA, August 9-11, 2009. Proceedings</title>
+<volume>5673</volume>
+<year>2009</year>
+<ee>https://doi.org/10.1007/978-3-642-03237-0</ee>
+<isbn>978-3-642-03236-3</isbn>
+<booktitle>SAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/sas/sas2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tnsm/MisherghiYSCC08" mdate="2020-08-27">
+<author pid="25/2868">Ghassan Misherghi</author>
+<author pid="61/2443">Lihua Yuan</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author orcid="0000-0002-2772-387X" pid="47/4465">Chen-Nee Chuah</author>
+<author pid="86/475-3">Hao Chen 0003</author>
+<title>A general framework for benchmarking firewall optimization techniques.</title>
+<pages>227-238</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNSM.2009.041104</ee>
+<url>db/journals/tnsm/tnsm5.html#MisherghiYSCC08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/GabelS08" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Symbolic mining of temporal specifications.</title>
+<pages>51-60</pages>
+<year>2008</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1368088.1368096</ee>
+<crossref>conf/icse/2008</crossref>
+<url>db/conf/icse/icse2008.html#GabelS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WassermannS08" mdate="2018-11-06">
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Static detection of cross-site scripting vulnerabilities.</title>
+<pages>171-180</pages>
+<year>2008</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1368088.1368112</ee>
+<crossref>conf/icse/2008</crossref>
+<url>db/conf/icse/icse2008.html#WassermannS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GabelJS08" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Scalable detection of semantic clones.</title>
+<pages>321-330</pages>
+<year>2008</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1368088.1368132</ee>
+<crossref>conf/icse/2008</crossref>
+<url>db/conf/icse/icse2008.html#GabelJS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/WassermannYCDIS08" mdate="2018-11-06">
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="59/5286">Dachuan Yu</author>
+<author pid="06/5912">Ajay Chander</author>
+<author pid="15/179">Dinakar Dhurjati</author>
+<author pid="69/4122">Hiroshi Inamura</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Dynamic test input generation for web applications.</title>
+<pages>249-260</pages>
+<year>2008</year>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/1390630.1390661</ee>
+<crossref>conf/issta/2008</crossref>
+<url>db/conf/issta/issta2008.html#WassermannYCDIS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/OliveiraCWYWSC08" mdate="2017-05-19">
+<author pid="20/3140">Daniela A. S. de Oliveira</author>
+<author pid="c/JRCrandall">Jedidiah R. Crandall</author>
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="80/4688">Shaozhi Ye</author>
+<author pid="w/ShFWu">Shyhtsun Felix Wu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="c/FTChong">Frederic T. Chong</author>
+<title>Bezoar: Automated virtual machine-based full-system recovery from control-flow hijacking attacks.</title>
+<pages>121-128</pages>
+<year>2008</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2008.4575125</ee>
+<crossref>conf/noms/2008</crossref>
+<url>db/conf/noms/noms2008.html#OliveiraCWYWSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/JiangS08" mdate="2019-10-19">
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Profile-guided program simplification for effective testing and analysis.</title>
+<pages>48-58</pages>
+<year>2008</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1453101.1453110</ee>
+<crossref>conf/sigsoft/2008</crossref>
+<url>db/conf/sigsoft/fse2008.html#JiangS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GabelS08" mdate="2018-11-06">
+<author pid="64/6605">Mark Gabel</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Javert: fully automatic mining of general temporal properties from dynamic traces.</title>
+<pages>339-349</pages>
+<year>2008</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1453101.1453150</ee>
+<crossref>conf/sigsoft/2008</crossref>
+<url>db/conf/sigsoft/fse2008.html#GabelS08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tosem/WassermannGSD07" mdate="2019-10-19">
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="80/4768-1">Carl Gould 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author orcid="0000-0002-4346-5276" pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<title>Static checking of dynamically generated queries in database applications.</title>
+<year>2007</year>
+<volume>16</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1276933.1276935</ee>
+<ee>https://www.wikidata.org/entity/Q57726867</ee>
+<url>db/journals/tosem/tosem16.html#WassermannGSD07</url>
+<pages>14</pages>
+</article>
+</r>
+<r><inproceedings key="conf/acsac/GundyCSV07" mdate="2018-01-10">
+<author pid="65/2002">Matthew Van Gundy</author>
+<author pid="86/475-3">Hao Chen 0003</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="v/GiovanniVigna">Giovanni Vigna</author>
+<title>Feature Omission Vulnerabilities: Thwarting Signature Generation for Polymorphic Worms.</title>
+<pages>74-85</pages>
+<year>2007</year>
+<booktitle>ACSAC</booktitle>
+<ee>https://doi.org/10.1109/ACSAC.2007.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACSAC.2007.42</ee>
+<crossref>conf/acsac/2007</crossref>
+<url>db/conf/acsac/acsac2007.html#GundyCSV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/JiangMSG07" mdate="2019-10-19">
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="25/2868">Ghassan Misherghi</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="10/422">St&#233;phane Glondu</author>
+<title>DECKARD: Scalable and Accurate Tree-Based Detection of Code Clones.</title>
+<pages>96-105</pages>
+<year>2007</year>
+<crossref>conf/icse/2007</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2007.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2007.30</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1248843</ee>
+<url>db/conf/icse/icse2007.html#JiangMSG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/JiangS07" mdate="2019-10-19">
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Context-aware statistical debugging: from bug predictors to faulty control flow paths.</title>
+<pages>184-193</pages>
+<year>2007</year>
+<crossref>conf/kbse/2007</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1321631.1321660</ee>
+<url>db/conf/kbse/ase2007.html#JiangS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/WassermannS07" mdate="2018-11-06">
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Sound and precise analysis of web applications for injection vulnerabilities.</title>
+<pages>32-41</pages>
+<year>2007</year>
+<crossref>conf/pldi/2007</crossref>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/1250734.1250739</ee>
+<url>db/conf/pldi/pldi2007.html#WassermannS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/JiangSC07" mdate="2019-10-19">
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="90/6655">Edwin Chiu</author>
+<title>Context-based detection of clone-related bugs.</title>
+<pages>55-64</pages>
+<year>2007</year>
+<crossref>conf/sigsoft/2007</crossref>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1287624.1287634</ee>
+<url>db/conf/sigsoft/fse2007.html#JiangSC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsac/HsuCRLS06" mdate="2017-05-26">
+<author pid="92/3473">Francis Hsu</author>
+<author pid="86/475-3">Hao Chen 0003</author>
+<author pid="26/3399">Thomas Ristenpart</author>
+<author pid="12/975-3">Jason Li 0003</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Back to the Future: A Framework for Automatic Malware Removal and System Repair.</title>
+<pages>257-268</pages>
+<year>2006</year>
+<crossref>conf/acsac/2006</crossref>
+<booktitle>ACSAC</booktitle>
+<ee>https://doi.org/10.1109/ACSAC.2006.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACSAC.2006.16</ee>
+<url>db/conf/acsac/acsac2006.html#HsuCRLS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/CrandallWOSWC06" mdate="2018-11-06">
+<author pid="c/JRCrandall">Jedidiah R. Crandall</author>
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="20/3140">Daniela A. S. de Oliveira</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="w/ShFWu">Shyhtsun Felix Wu</author>
+<author pid="c/FTChong">Frederic T. Chong</author>
+<title>Temporal search: detecting hidden malware timebombs with virtual machines.</title>
+<pages>25-36</pages>
+<year>2006</year>
+<crossref>conf/asplos/2006</crossref>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1168857.1168862</ee>
+<url>db/conf/asplos/asplos2006.html#CrandallWOSWC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/OliveiraCWWSC06" mdate="2018-11-06">
+<author pid="20/3140">Daniela A. S. de Oliveira</author>
+<author pid="c/JRCrandall">Jedidiah R. Crandall</author>
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="w/ShFWu">Shyhtsun Felix Wu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="c/FTChong">Frederic T. Chong</author>
+<title>ExecRecorder: VM-based full-system replay for attack analysis and system recovery.</title>
+<pages>66-71</pages>
+<year>2006</year>
+<crossref>conf/asplos/2006asid</crossref>
+<booktitle>ASID</booktitle>
+<ee>https://doi.org/10.1145/1181309.1181320</ee>
+<url>db/conf/asplos/asid2006.html#OliveiraCWWSC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/WassermannS06" mdate="2017-05-24">
+<author pid="w/GWassermann">Gary Wassermann</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Validity Checking for Finite Automata over Linear Arithmetic Constraints.</title>
+<pages>405-416</pages>
+<year>2006</year>
+<crossref>conf/fsttcs/2006</crossref>
+<booktitle>FSTTCS</booktitle>
+<ee>https://doi.org/10.1007/11944836_37</ee>
+<url>db/conf/fsttcs/fsttcs2006.html#WassermannS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Misherghi06" mdate="2018-11-26">
+<author pid="25/2868">Ghassan Misherghi</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>HDD: hierarchical Delta Debugging.</title>
+<pages>142-151</pages>
+<year>2006</year>
+<crossref>conf/icse/2006</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1134285.1134307</ee>
+<url>db/conf/icse/icse2006.html#Misherghi06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/JiangS06" mdate="2019-10-19">
+<author orcid="0000-0002-4336-8548" pid="82/3572">Lingxiao Jiang</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Osprey: a practical type system for validating dimensional unit correctness of C programs.</title>
+<pages>262-271</pages>
+<year>2006</year>
+<crossref>conf/icse/2006</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1134285.1134323</ee>
+<url>db/conf/icse/icse2006.html#JiangS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/SuW06" mdate="2018-11-06">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="w/GWassermann">Gary Wassermann</author>
+<title>The essence of command injection attacks in web applications.</title>
+<pages>372-382</pages>
+<year>2006</year>
+<crossref>conf/popl/2006</crossref>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/1111037.1111070</ee>
+<url>db/conf/popl/popl2006.html#SuW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/YuanMSCCM06" mdate="2019-09-16">
+<author pid="61/2443">Lihua Yuan</author>
+<author pid="72/5305">Jianning Mai</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="86/475-3">Hao Chen 0003</author>
+<author orcid="0000-0002-2772-387X" pid="47/4465">Chen-Nee Chuah</author>
+<author pid="m/PrasantMohapatra">Prasant Mohapatra</author>
+<title>FIREMAN: A Toolkit for FIREwall Modeling and ANalysis.</title>
+<pages>199-213</pages>
+<year>2006</year>
+<crossref>conf/sp/2006</crossref>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2006.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SP.2006.16</ee>
+<url>db/conf/sp/sp2006.html#YuanMSCCM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/SuW05" mdate="2021-02-17">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="42/5626">David A. Wagner 0001</author>
+<title>A class of polynomially solvable range constraints for interval analysis without widenings.</title>
+<pages>122-138</pages>
+<year>2005</year>
+<volume>345</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2005.07.035</ee>
+<url>db/journals/tcs/tcs345.html#SuW05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/CrandallSW05" mdate="2020-11-10">
+<author pid="c/JRCrandall">Jedidiah R. Crandall</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="w/ShFWu">Shyhtsun Felix Wu</author>
+<author pid="c/FTChong">Frederic T. Chong</author>
+<title>On deriving unknown vulnerabilities from zero-day polymorphic and metamorphic worm exploits.</title>
+<pages>235-248</pages>
+<year>2005</year>
+<crossref>conf/ccs/2005</crossref>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/1102120.1102152</ee>
+<url>db/conf/ccs/ccs2005.html#CrandallSW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/NiehrenPS05" mdate="2018-06-26">
+<author pid="n/JNiehren">Joachim Niehren</author>
+<author pid="18/6227">Tim Priesnitz</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Complexity of Subtype Satisfiability over Posets.</title>
+<pages>357-373</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31987-0_25</ee>
+<year>2005</year>
+<crossref>conf/esop/2005</crossref>
+<booktitle>ESOP</booktitle>
+<url>db/conf/esop/esop2005.html#NiehrenPS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GouldSD04" mdate="2018-01-20">
+<author pid="80/4768-1">Carl Gould 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<title>Static Checking of Dynamically Generated Queries in Database Applications.</title>
+<pages>645-654</pages>
+<year>2004</year>
+<crossref>conf/icse/2004</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2004.1317486</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2004.1317486</ee>
+<ee>http://dl.acm.org/citation.cfm?id=999468</ee>
+<url>db/conf/icse/icse2004.html#GouldSD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GouldSD04a" mdate="2018-01-20">
+<author pid="80/4768-1">Carl Gould 0001</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</author>
+<title>JDBC Checker: A Static Analysis Tool for SQL/JDBC Applications.</title>
+<pages>697-698</pages>
+<year>2004</year>
+<crossref>conf/icse/2004</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2004.1317494</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2004.1317494</ee>
+<ee>http://dl.acm.org/citation.cfm?id=999476</ee>
+<url>db/conf/icse/icse2004.html#GouldSD04a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/SuW04" mdate="2017-06-14">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="42/5626">David A. Wagner 0001</author>
+<title>A Class of Polynomially Solvable Range Constraints for Interval Analysis without Widenings and Narrowings.</title>
+<pages>280-295</pages>
+<ee>https://doi.org/10.1007/978-3-540-24730-2_23</ee>
+<year>2004</year>
+<crossref>conf/tacas/2004</crossref>
+<booktitle>TACAS</booktitle>
+<url>db/conf/tacas/tacas2004.html#SuW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/SuANPT02" mdate="2018-11-06">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="a/AAiken">Alexander Aiken</author>
+<author pid="n/JNiehren">Joachim Niehren</author>
+<author pid="18/6227">Tim Priesnitz</author>
+<author pid="t/RalfTreinen">Ralf Treinen</author>
+<title>The first-order theory of subtyping constraints.</title>
+<pages>203-216</pages>
+<year>2002</year>
+<crossref>conf/popl/2002</crossref>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/503272.503292</ee>
+<url>db/conf/popl/popl2002.html#SuANPT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/SuA01" mdate="2017-05-19">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="a/AAiken">Alexander Aiken</author>
+<title>Entailment with Conditional Equality Constraints.</title>
+<pages>170-189</pages>
+<year>2001</year>
+<crossref>conf/esop/2001</crossref>
+<booktitle>ESOP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45309-1_12</ee>
+<url>db/conf/esop/esop2001.html#SuA01</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/AikenFS00" mdate="2020-04-02">
+<author pid="a/AAiken">Alexander Aiken</author>
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting races in Relay Ladder Logic programs.</title>
+<pages>93-105</pages>
+<year>2000</year>
+<volume>3</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/PL00010810</ee>
+<url>db/journals/sttt/sttt3.html#AikenFS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/popl/SuFA00" mdate="2018-11-06">
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<author pid="a/AAiken">Alexander Aiken</author>
+<title>Projection Merging: Reducing Redundancies in Inclusion Constraint Graphs.</title>
+<pages>81-95</pages>
+<year>2000</year>
+<crossref>conf/popl/2000</crossref>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/325694.325706</ee>
+<url>db/conf/popl/popl2000.html#SuFA00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/MuschollPS98" mdate="2017-05-23">
+<author pid="m/AMuscholl">Anca Muscholl</author>
+<author pid="p/DPeled">Doron A. Peled</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Deciding Properties for Message Sequence Charts.</title>
+<pages>226-242</pages>
+<year>1998</year>
+<crossref>conf/fossacs/1998</crossref>
+<booktitle>FoSSaCS</booktitle>
+<ee>https://doi.org/10.1007/BFb0053553</ee>
+<url>db/conf/fossacs/fossacs1998.html#MuschollPS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/FahndrichFSA98" mdate="2018-11-06">
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<author pid="18/2050">Jeffrey S. Foster</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<author pid="a/AAiken">Alexander Aiken</author>
+<title>Partial Online Cycle Elimination in Inclusion Constraint Graphs.</title>
+<pages>85-96</pages>
+<year>1998</year>
+<crossref>conf/pldi/1998</crossref>
+<booktitle>PLDI</booktitle>
+<url>db/conf/pldi/pldi98.html#FahndrichFSA98</url>
+<ee>https://doi.org/10.1145/277650.277667</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AikenFS98" mdate="2017-05-23">
+<author pid="a/AAiken">Alexander Aiken</author>
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting Races in Relay Ladder Logic Programs.</title>
+<pages>184-200</pages>
+<ee>https://doi.org/10.1007/BFb0054172</ee>
+<year>1998</year>
+<crossref>conf/tacas/1998</crossref>
+<booktitle>TACAS</booktitle>
+<url>db/conf/tacas/tacas98.html#AikenFS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tic/AikenFFS98" mdate="2017-05-17">
+<author pid="a/AAiken">Alexander Aiken</author>
+<author pid="f/ManuelFahndrich">Manuel F&#228;hndrich</author>
+<author pid="18/2050">Jeffrey S. Foster</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>A Toolkit for Constructing Type- and Constraint-Based Program Analyses.</title>
+<pages>78-96</pages>
+<ee>https://doi.org/10.1007/BFb0055513</ee>
+<year>1998</year>
+<crossref>conf/tic/1998</crossref>
+<booktitle>Types in Compilation</booktitle>
+<url>db/conf/tic/tic1998.html#AikenFFS98</url>
+</inproceedings>
+</r>
+<coauthors n="192" nc="4">
+<co c="0"><na f="a/Afshari:Mehrdad" pid="131/1698">Mehrdad Afshari</na></co>
+<co c="0"><na f="a/Aiken:Alexander" pid="a/AAiken">Alexander Aiken</na></co>
+<co c="0"><na f="a/Alipour:Mohammad_Amin" pid="36/3317">Mohammad Amin Alipour</na></co>
+<co c="0"><na f="b/Bai:Zhaojun" pid="08/2673">Zhaojun Bai</na></co>
+<co c="0"><na f="b/Barr:Earl_T=" pid="47/1088">Earl T. Barr</na></co>
+<co c="0"><na f="b/Bird:Christian" pid="b/ChristianBird">Christian Bird</na></co>
+<co c="0"><na f="b/Brevik:John" pid="89/4534">John Brevik</na></co>
+<co c="0"><na f="c/Cai:Cheng" pid="97/5358">Cheng Cai</na></co>
+<co c="0"><na f="c/Cao:Chun" pid="16/1889">Chun Cao</na></co>
+<co c="0"><na f="c/Chander:Ajay" pid="06/5912">Ajay Chander</na></co>
+<co c="0"><na f="c/Chen_0003:Hao" pid="86/475-3">Hao Chen 0003</na></co>
+<co c="0"><na f="c/Chen:Sen" pid="180/8218">Sen Chen</na></co>
+<co c="0"><na f="c/Chen_0027:Xin" pid="24/1518-27">Xin Chen 0027</na></co>
+<co c="0"><na f="c/Chen:Yuting" pid="21/6510">Yuting Chen</na></co>
+<co c="0"><na f="c/Chen:Zhenbang" pid="02/4907">Zhenbang Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Zhenyu" pid="86/541-1">Zhenyu Chen 0001</na></co>
+<co c="0"><na f="c/Cheung:Shing=Chi" pid="c/SCCheung">Shing-Chi Cheung</na></co>
+<co c="0"><na f="c/Chiu:Edwin" pid="90/6655">Edwin Chiu</na></co>
+<co c="0"><na f="c/Chong:Frederic_T=" pid="c/FTChong">Frederic T. Chong</na></co>
+<co c="0"><na f="c/Chuah:Chen=Nee" pid="47/4465">Chen-Nee Chuah</na></co>
+<co c="0"><na f="c/Cleland=Huang:Jane" pid="c/JaneClelandHuang">Jane Cleland-Huang</na></co>
+<co c="0"><na f="c/Crandall:Jedidiah_R=" pid="c/JRCrandall">Jedidiah R. Crandall</na></co>
+<co c="0"><na f="d/Deng:Zhui" pid="72/10471">Zhui Deng</na></co>
+<co c="0"><na f="d/Devanbu:Premkumar_T=" pid="d/PremkumarTDevanbu">Premkumar T. Devanbu</na></co>
+<co c="0"><na f="d/Dhurjati:Dinakar" pid="15/179">Dinakar Dhurjati</na></co>
+<co c="0"><na f="d/Dong:Wei" pid="92/748">Wei Dong</na></co>
+<co c="0"><na f="d/Dong_0006:Wei" pid="92/748-6">Wei Dong 0006</na></co>
+<co c="0"><na f="f/F=auml=hndrich:Manuel" pid="f/ManuelFahndrich">Manuel F&#228;hndrich</na></co>
+<co c="0"><na f="f/Falkenstein:Maximilian" pid="280/5536">Maximilian Falkenstein</na></co>
+<co c="0"><na f="f/Fan:Lingling" pid="11/2636">Lingling Fan</na></co>
+<co c="0"><na f="f/Filkov:Vladimir" pid="f/VladimirFilkov">Vladimir Filkov</na></co>
+<co c="0"><na f="f/Foster:Jeffrey_S=" pid="18/2050">Jeffrey S. Foster</na></co>
+<co c="0"><na f="f/Fu:Xianjin" pid="117/0666">Xianjin Fu</na></co>
+<co c="0"><na f="f/Fu:Zhoulai" pid="139/5447">Zhoulai Fu</na></co>
+<co c="0"><na f="g/Gabel:Mark" pid="64/6605">Mark Gabel</na></co>
+<co c="0"><na f="g/Glondu:St=eacute=phane" pid="10/422">St&#233;phane Glondu</na></co>
+<co c="0"><na f="g/Goldszmidt:Mois=eacute=s" pid="37/1288">Mois&#233;s Goldszmidt</na></co>
+<co c="0"><na f="g/Gould_0001:Carl" pid="80/4768-1">Carl Gould 0001</na></co>
+<co c="0"><na f="g/Grosser:Tobias" pid="91/9231">Tobias Grosser</na></co>
+<co c="0"><na f="g/Gu_0001:Ming" pid="76/2502-1">Ming Gu 0001</na></co>
+<co c="0"><na f="g/Gu:Tianxiao" pid="127/0906">Tianxiao Gu</na></co>
+<co c="0"><na f="g/Gu:Zhongxian" pid="32/3857">Zhongxian Gu</na></co>
+<co c="0"><na f="g/Gulwani:Sumit" pid="g/SumitGulwani">Sumit Gulwani</na></co>
+<co c="0"><na f="g/Gundy:Matthew_Van" pid="65/2002">Matthew Van Gundy</na></co>
+<co c="0"><na f="g/Gupta:Shashij" pid="276/3290">Shashij Gupta</na></co>
+<co c="0"><na f="h/Halleux:Jonathan_de" pid="37/3407">Jonathan de Halleux</na></co>
+<co c="0"><na f="h/Hamilton:David_J=" pid="35/5762">David J. Hamilton</na></co>
+<co c="0"><na f="h/He:Jifeng" pid="66/3868">Jifeng He</na></co>
+<co c="0"><na f="h/He:Pinjia" pid="147/1619">Pinjia He</na></co>
+<co c="0"><na f="h/Heimdahl:Mats_Per_Erik" pid="68/654">Mats Per Erik Heimdahl</na></co>
+<co c="0"><na f="h/Hindle:Abram" pid="76/2009">Abram Hindle</na></co>
+<co c="0"><na f="h/Hoefler:Torsten" pid="16/3869">Torsten Hoefler</na></co>
+<co c="0"><na f="h/Hsu:Francis" pid="92/3473">Francis Hsu</na></co>
+<co c="0"><na f="h/Huang:Chun" pid="64/2438">Chun Huang</na></co>
+<co c="0"><na f="i/Inamura:Hiroshi" pid="69/4122">Hiroshi Inamura</na></co>
+<co c="2"><na f="j/Jensen:Casper_Svenning" pid="01/11523">Casper Svenning Jensen</na></co>
+<co c="0"><na f="j/Jiang:Hao" pid="38/6049">Hao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Lingxiao" pid="82/3572">Lingxiao Jiang</na></co>
+<co c="0"><na f="j/Jiang_0001:Yu" pid="21/4633-1">Yu Jiang 0001</na></co>
+<co c="0"><na f="k/Kruse:Michael" pid="00/7400">Michael Kruse</na></co>
+<co c="-1"><na f="k/Kwon:Taeho" pid="09/8305">Taeho Kwon</na></co>
+<co c="0"><na f="l/Le:Mathew" pid="259/4704">Mathew Le</na></co>
+<co c="0"><na f="l/Le:Vu" pid="00/2651">Vu Le</na></co>
+<co c="0"><na f="l/Lei:Yan" pid="94/3609">Yan Lei</na></co>
+<co c="0"><na f="l/Li:Bixin" pid="l/BixinLi">Bixin Li</na></co>
+<co c="0"><na f="l/Li_0003:Jason" pid="12/975-3">Jason Li 0003</na></co>
+<co c="0"><na f="l/Li:Xuandong" pid="76/5446">Xuandong Li</na></co>
+<co c="0"><na f="l/Li:You" pid="41/4214">You Li</na></co>
+<co c="0"><na f="l/Li:Yuanbo" pid="198/2381">Yuanbo Li</na></co>
+<co c="0"><na f="l/Lin:Zhiqiang" pid="49/4102">Zhiqiang Lin</na></co>
+<co c="0"><na f="l/Liu_0010:Han" pid="35/2899-10">Han Liu 0010</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Liu_0001:Yepang" pid="125/1824">Yepang Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Yu_David" pid="30/3456">Yu David Liu</na></co>
+<co c="0" n="2"><na f="l/Lu_0001:Jian" pid="38/5132">Jian Lu 0001</na><na>Jian L&#252; 0001</na></co>
+<co c="0"><na f="l/Lyu:Michael_R=" pid="l/MichaelRLyu">Michael R. Lyu</na></co>
+<co c="0"><na f="m/Ma:Xiaoxing" pid="67/3058">Xiaoxing Ma</na></co>
+<co c="0"><na f="m/Mai:Jianning" pid="72/5305">Jianning Mai</na></co>
+<co c="0"><na f="m/Mao:Xiaoguang" pid="81/8725">Xiaoguang Mao</na></co>
+<co c="0"><na f="m/Marron:Mark" pid="88/1390">Mark Marron</na></co>
+<co c="0"><na f="m/Mei:Hong" pid="14/2036">Hong Mei</na></co>
+<co c="0"><na f="m/Meister:Clara" pid="245/7485">Clara Meister</na></co>
+<co c="0"><na f="m/Meng:Guozhu" pid="134/8681">Guozhu Meng</na></co>
+<co c="0"><na f="m/Miao:Weikai" pid="94/4256">Weikai Miao</na></co>
+<co c="0"><na f="m/Misherghi:Ghassan" pid="25/2868">Ghassan Misherghi</na></co>
+<co c="0"><na f="m/Mohapatra:Prasant" pid="m/PrasantMohapatra">Prasant Mohapatra</na></co>
+<co c="2"><na f="m/M=oslash=ller:Anders" pid="55/6739">Anders M&#248;ller</na></co>
+<co c="3"><na f="m/Muscholl:Anca" pid="m/AMuscholl">Anca Muscholl</na></co>
+<co c="0"><na f="n/Nash:Andre" pid="58/7049">Andre Nash</na></co>
+<co c="0"><na f="n/Nguyen_0001:Khanh" pid="53/6791-1">Khanh Nguyen 0001</na></co>
+<co c="0"><na f="n/Nie:Pengbo" pid="278/0656">Pengbo Nie</na></co>
+<co c="0"><na f="n/Niehren:Joachim" pid="n/JNiehren">Joachim Niehren</na></co>
+<co c="0"><na f="o/Oliveira:Daniela_A=_S=_de" pid="20/3140">Daniela A. S. de Oliveira</na></co>
+<co c="0"><na f="p/Palsberg:Jens" pid="p/JPalsberg">Jens Palsberg</na></co>
+<co c="0"><na f="p/Panas:Thomas" pid="p/ThomasPanas">Thomas Panas</na></co>
+<co c="3"><na f="p/Peled:Doron_A=" pid="p/DPeled">Doron A. Peled</na></co>
+<co c="0"><na f="p/Peng:Fei" pid="34/5165">Fei Peng</na></co>
+<co c="0"><na f="p/Pitchanathan:Arjun" pid="280/4965">Arjun Pitchanathan</na></co>
+<co c="0"><na f="p/Priesnitz:Tim" pid="18/6227">Tim Priesnitz</na></co>
+<co c="0"><na f="p/Pu:Geguang" pid="33/1678">Geguang Pu</na></co>
+<co c="0"><na f="q/Qin:Shengchao" pid="q/ShengchaoQin">Shengchao Qin</na></co>
+<co c="0"><na f="q/Qiu:Dong" pid="79/3415">Dong Qiu</na></co>
+<co c="0"><na f="q/Quinlan:Daniel_J=" pid="13/2176">Daniel J. Quinlan</na></co>
+<co c="1"><na f="r/Ren:Kaijun" pid="19/1151">Kaijun Ren</na></co>
+<co c="0"><na f="r/Rigger:Manuel" pid="133/8711">Manuel Rigger</na></co>
+<co c="0"><na f="r/Ristenpart:Thomas" pid="26/3399">Thomas Ristenpart</na></co>
+<co c="0"><na f="s/Saebjoernsen:Andreas" pid="58/7880">Andreas Saebjoernsen</na></co>
+<co c="0"><na f="s/S=aelig=bj=oslash=rnsen:Andreas" pid="36/4151">Andreas S&#230;bj&#248;rnsen</na></co>
+<co c="0"><na f="s/S=aacute=nchez:C=eacute=sar" pid="38/1858">C&#233;sar S&#225;nchez</na></co>
+<co c="0"><na f="s/Schleck:Drew" pid="120/2020">Drew Schleck</na></co>
+<co c="0"><na f="s/Shen:Weijun" pid="224/7192">Weijun Shen</na></co>
+<co c="0"><na f="s/Singh:Rishabh" pid="25/7056">Rishabh Singh</na></co>
+<co c="0"><na f="s/Su:Ting" pid="42/6896">Ting Su</na></co>
+<co c="0"><na f="s/Sun:Chengnian" pid="04/7120">Chengnian Sun</na></co>
+<co c="0"><na f="s/Sun:Fangqi" pid="60/7356">Fangqi Sun</na></co>
+<co c="0"><na f="s/Sun:Hao" pid="82/2248">Hao Sun</na></co>
+<co c="0" n="2"><na f="s/Sun_0001:Jia=Guang" pid="s/JiaGuangSun-1">Jia-Guang Sun 0001</na><na>Jiaguang Sun 0001</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="1"><na f="t/Tan:Suo=Yi" pid="242/0092">Suo-Yi Tan</na></co>
+<co c="0"><na f="t/Tang:Enyi" pid="81/5695">Enyi Tang</na></co>
+<co c="0"><na f="t/Theodoridis:Theodoros" pid="92/4039">Theodoros Theodoridis</na></co>
+<co c="0"><na f="t/Thummalapenta:Suresh" pid="79/6558">Suresh Thummalapenta</na></co>
+<co c="0"><na f="t/Tian:Yongqiang" pid="180/5774">Yongqiang Tian</na></co>
+<co c="0"><na f="t/Tillmann:Nikolai" pid="81/6785">Nikolai Tillmann</na></co>
+<co c="0"><na f="t/Treinen:Ralf" pid="t/RalfTreinen">Ralf Treinen</na></co>
+<co c="0"><na f="t/Tu:Zhaopeng" pid="71/9281">Zhaopeng Tu</na></co>
+<co c="0"><na f="v/Velez:Martin" pid="159/2051">Martin Velez</na></co>
+<co c="-1"><na f="v/Verma:Sahil" pid="204/3600">Sahil Verma</na></co>
+<co c="0"><na f="v/Vigna:Giovanni" pid="v/GiovanniVigna">Giovanni Vigna</na></co>
+<co c="0"><na f="v/Vo:Thanh" pid="124/5877">Thanh Vo</na></co>
+<co c="0"><na f="w/Wagner_0001:David_A=" pid="42/5626">David A. Wagner 0001</na></co>
+<co c="0"><na f="w/Wan:Chengcheng" pid="183/4488">Chengcheng Wan</na></co>
+<co c="0"><na f="w/Wang:Huaijin" pid="242/3944">Huaijin Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ji" pid="64/856-1">Ji Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Jue" pid="69/393">Jue Wang</na></co>
+<co c="0"><na f="w/Wang_0029:Kai" pid="78/2022-29">Kai Wang 0029</na></co>
+<co c="0"><na f="w/Wang_0022:Ke" pid="181/2613-22">Ke Wang 0022</na></co>
+<co c="0"><na f="w/Wang:Linzhang" pid="63/829">Linzhang Wang</na></co>
+<co c="0"><na f="w/Wang:Ran" pid="12/6277">Ran Wang</na></co>
+<co c="0"><na f="w/Wang:Shuai" pid="42/1503">Shuai Wang</na></co>
+<co c="0"><na f="w/Wang:Xie" pid="86/3338">Xie Wang</na></co>
+<co c="0"><na f="w/Wassermann:Gary" pid="w/GWassermann">Gary Wassermann</na></co>
+<co c="0"><na f="w/Wen_0001:Ming" pid="99/1109-1">Ming Wen 0001</na></co>
+<co c="0"><na f="w/Willcock:Jeremiah" pid="34/3660">Jeremiah Willcock</na></co>
+<co c="0"><na f="w/Winterer:Dominik" pid="183/0955">Dominik Winterer</na></co>
+<co c="0"><na f="w/Wu:Ke" pid="69/6116">Ke Wu</na></co>
+<co c="0"><na f="w/Wu:Rongxin" pid="92/9102">Rongxin Wu</na></co>
+<co c="0"><na f="w/Wu:Shyhtsun_Felix" pid="w/ShFWu">Shyhtsun Felix Wu</na></co>
+<co c="0"><na f="x/Xiao_0003:Xiao" pid="89/6248-3">Xiao Xiao 0003</na></co>
+<co c="0"><na f="x/Xie_0001:Tao" pid="x/TaoXie">Tao Xie 0001</na></co>
+<co c="0"><na f="x/Xie:Xuan" pid="22/10184">Xuan Xie</na></co>
+<co c="0"><na f="x/Xiong_0001:Yingfei" pid="82/2673">Yingfei Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Baowen" pid="46/5742">Baowen Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Chang" pid="97/2966-1">Chang Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Dongyan" pid="59/5539">Dongyan Xu</na></co>
+<co c="0" n="2"><na f="x/Xu:Guoqing_Harry" pid="90/8705">Guoqing Harry Xu</na><na>Guoqing (Harry) Xu</na></co>
+<co c="0"><na f="x/Xu_0003:Lei" pid="19/360-3">Lei Xu 0003</na></co>
+<co c="0"><na f="x/Xu:Liang" pid="54/3420">Liang Xu</na></co>
+<co c="0"><na f="x/Xu:Lihua" pid="89/2985">Lihua Xu</na></co>
+<co c="0"><na f="y/Yan_0009:Jun" pid="89/5901-9">Jun Yan 0009</na></co>
+<co c="0"><na f="y/Yan:Yichen" pid="215/5364">Yichen Yan</na></co>
+<co c="0"><na f="y/Yang:Hongli" pid="92/6174">Hongli Yang</na></co>
+<co c="0"><na f="y/Yang:Junfeng" pid="71/3724">Junfeng Yang</na></co>
+<co c="0"><na f="y/Yang:Weiming" pid="87/3259">Weiming Yang</na></co>
+<co c="0"><na f="y/Yang:Yibiao" pid="138/0251">Yibiao Yang</na></co>
+<co c="0"><na f="y/Yao:Yao" pid="07/4410">Yao Yao</na></co>
+<co c="0"><na f="y/Yao_0001:Yuan" pid="25/4120-1">Yuan Yao 0001</na></co>
+<co c="0"><na f="y/Ye:Shaozhi" pid="80/4688">Shaozhi Ye</na></co>
+<co c="0"><na f="y/Yen:Michael" pid="198/7451">Michael Yen</na></co>
+<co c="0"><na f="y/Yu:Dachuan" pid="59/5286">Dachuan Yu</na></co>
+<co c="0"><na f="y/Yu:Hengbiao" pid="147/2984">Hengbiao Yu</na></co>
+<co c="0"><na f="y/Yu:Yuan" pid="98/809">Yuan Yu</na></co>
+<co c="0"><na f="y/Yuan:Hao" pid="92/867">Hao Yuan</na></co>
+<co c="0"><na f="y/Yuan:Lihua" pid="61/2443">Lihua Yuan</na></co>
+<co c="0"><na f="z/Zeng:Muhan" pid="202/2475">Muhan Zeng</na></co>
+<co c="0"><na f="z/Zhang:Charles" pid="51/7008">Charles Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Chengyu" pid="01/7515-1">Chengyu Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Fuyuan" pid="08/7637">Fuyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Jian" pid="07/314-1">Jian Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0023:Lu" pid="z/LuZhang1">Lu Zhang 0023</na></co>
+<co c="0"><na f="z/Zhang:Qirun" pid="18/8523">Qirun Zhang</na></co>
+<co c="1"><na f="z/Zhang:Ruoyun" pid="242/0138">Ruoyun Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiangyu" pid="95/3760-1">Xiangyu Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Xianpei" pid="242/3916">Xianpei Zhang</na></co>
+<co c="0"><na f="z/Zhao:Jianjun" pid="71/6948">Jianjun Zhao</na></co>
+<co c="0"><na f="z/Zhong:Hao" pid="06/5514">Hao Zhong</na></co>
+<co c="0"><na f="z/Zhou:You" pid="20/2165">You Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yuming" pid="06/3406">Yuming Zhou</na></co>
+<co c="0"><na f="z/Zhu:Jiayu" pid="158/8524">Jiayu Zhu</na></co>
+<co c="0"><na f="z/Zimmermann_0001:Thomas" pid="19/3622-1">Thomas Zimmermann 0001</na></co>
+<co c="0"><na f="z/Zou:Daming" pid="167/0212">Daming Zou</na></co>
+<co c="0"><na f="z/Zuo_0002:Zhiqiang" pid="10/964-2">Zhiqiang Zuo 0002</na></co>
+</coauthors>
+</dblpperson>
+

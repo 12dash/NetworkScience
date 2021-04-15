@@ -1,3 +1,693 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e7ddf0baef7123ebb738f9367890dbb8e174eb66d9002461b45338f5578634e8
-size 33895
+<?xml version="1.0"?>
+<dblpperson name="Paul Richmond" pid="44/7117" n="42">
+<person key="homepages/44/7117" mdate="2009-07-01">
+<author pid="44/7117">Paul Richmond</author>
+</person>
+<r><article key="journals/fgcs/CosenzaPJRCSCS21" mdate="2020-12-29">
+<author pid="07/527">Biagio Cosenza</author>
+<author pid="57/9782">Nikita Popov</author>
+<author pid="82/2282">Ben H. H. Juurlink</author>
+<author pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan Kabiri Chimeh</author>
+<author pid="71/11144">Carmine Spagnuolo</author>
+<author orcid="0000-0001-9148-9769" pid="26/4019">Gennaro Cordasco</author>
+<author pid="32/6668">Vittorio Scarano</author>
+<title>Easy and efficient agent-based simulations with the OpenABL language and compiler.</title>
+<pages>61-75</pages>
+<year>2021</year>
+<volume>116</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2020.10.014</ee>
+<url>db/journals/fgcs/fgcs116.html#CosenzaPJRCSCS21</url>
+</article>
+</r>
+<r><article key="journals/concurrency/XiaoACRKE20" mdate="2021-04-09">
+<author orcid="0000-0003-4893-9757" pid="168/6473">Jiajian Xiao</author>
+<author pid="17/8472">Philipp Andelfinger</author>
+<author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
+<author pid="44/7117">Paul Richmond</author>
+<author pid="k/AloisKnoll">Alois C. Knoll</author>
+<author pid="42/9851">David Eckhoff</author>
+<title>OpenABLext: An automatic code generation framework for agent-based simulations on CPU-GPU-FPGA heterogeneous platforms.</title>
+<year>2020</year>
+<volume>32</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>21</number>
+<ee>https://doi.org/10.1002/cpe.5807</ee>
+<url>db/journals/concurrency/concurrency32.html#XiaoACRKE20</url>
+</article>
+</r>
+<r><article key="journals/jpdc/ChisholmMR20" mdate="2020-02-22">
+<author pid="200/5285">Robert Chisholm</author>
+<author pid="30/4688">Steve Maddock</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Improved GPU near neighbours performance for multi-agent simulations.</title>
+<pages>53-64</pages>
+<year>2020</year>
+<volume>137</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jpdc.2019.11.002</ee>
+<url>db/journals/jpdc/jpdc137.html#ChisholmMR20</url>
+</article>
+</r>
+<r><article key="journals/tcos/CharltonGMR20" mdate="2020-07-31">
+<author orcid="0000-0001-8402-6723" pid="233/3369">John Charlton</author>
+<author orcid="0000-0002-0511-0466" pid="242/1173">Luis Rene Montana Gonzalez</author>
+<author orcid="0000-0003-3179-0263" pid="30/4688">Steve Maddock</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>Simulating Crowds and Autonomous Vehicles.</title>
+<pages>129-143</pages>
+<year>2020</year>
+<volume>37</volume>
+<journal>Trans. Comput. Sci.</journal>
+<ee>https://doi.org/10.1007/978-3-662-61983-4_8</ee>
+<crossref>journals/tcos/2020-37</crossref>
+<url>db/journals/tcos/tcos37.html#CharltonGMR20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10589" mdate="2020-04-29">
+<author pid="247/0953">Mohammad Shirvani</author>
+<author pid="62/10812">Georges Kesserwani</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Agent-based modelling of pedestrian responses during flood emergency: mobility behavioural rules and implications for flood risk analysis.</title>
+<year>2020</year>
+<volume>abs/2004.10589</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10589</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10589</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-11578" mdate="2020-09-15">
+<author pid="233/3369">John Charlton</author>
+<author pid="242/1173">Luis Rene Montana Gonzalez</author>
+<author pid="30/4688">Steve Maddock</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Simulating Crowds and Autonomous Vehicles.</title>
+<year>2020</year>
+<volume>abs/2008.11578</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.11578</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-11578</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/ChimehHPPR19" mdate="2020-05-30">
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan Kabiri Chimeh</author>
+<author pid="173/0751">Peter Heywood</author>
+<author pid="24/4958">Marzio Pennisi</author>
+<author pid="f/FPappalardo">Francesco Pappalardo 0001</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Parallelisation strategies for agent based simulation of immune systems.</title>
+<pages>579</pages>
+<year>2019</year>
+<volume>20-S</volume>
+<journal>BMC Bioinform.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1186/s12859-019-3181-y</ee>
+<ee>https://www.wikidata.org/entity/Q91862791</ee>
+<url>db/journals/bmcbi/bmcbi20S.html#ChimehHPPR19</url>
+</article>
+</r>
+<r><article key="journals/fini/MusolesCR19" mdate="2020-05-28">
+<author pid="231/4538">Carlos Fernandez Musoles</author>
+<author pid="12/1430">Daniel Coca</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Communication Sparsity in Distributed Spiking Neural Network Simulations to Improve Scalability.</title>
+<year>2019</year>
+<volume>13</volume>
+<journal>Frontiers Neuroinformatics</journal>
+<ee type="oa">https://doi.org/10.3389/fninf.2019.00019</ee>
+<ee>https://www.wikidata.org/entity/Q64084738</ee>
+<url>db/journals/fini/fini13.html#MusolesCR19</url>
+<pages>19</pages>
+</article>
+</r>
+<r><article key="journals/jpdc/CharltonMR19" mdate="2020-02-22">
+<author orcid="0000-0001-8402-6723" pid="233/3369">John Charlton</author>
+<author orcid="0000-0003-3179-0263" pid="30/4688">Steve Maddock</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>Two-dimensional batch linear programming on the GPU.</title>
+<pages>152-160</pages>
+<year>2019</year>
+<volume>126</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2019.01.001</ee>
+<url>db/journals/jpdc/jpdc126.html#CharltonMR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgi/CharltonGMR19" mdate="2019-07-05">
+<author orcid="0000-0001-8402-6723" pid="233/3369">John Charlton</author>
+<author orcid="0000-0002-0511-0466" pid="242/1173">Luis Rene Montana Gonzalez</author>
+<author orcid="0000-0003-3179-0263" pid="30/4688">Steve Maddock</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>Fast Simulation of Crowd Collision Avoidance.</title>
+<pages>266-277</pages>
+<year>2019</year>
+<booktitle>CGI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22514-8_22</ee>
+<crossref>conf/cgi/2019</crossref>
+<url>db/conf/cgi/cgi2019.html#CharltonGMR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/XiaoACRKE19" mdate="2021-04-09">
+<author pid="168/6473">Jiajian Xiao</author>
+<author pid="17/8472">Philipp Andelfinger</author>
+<author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
+<author pid="44/7117">Paul Richmond</author>
+<author pid="k/AloisKnoll">Alois C. Knoll</author>
+<author pid="42/9851">David Eckhoff</author>
+<title>Advancing Automatic Code Generation for Agent-Based Simulations on Heterogeneous Hardware.</title>
+<pages>308-319</pages>
+<year>2019</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-48340-1_24</ee>
+<crossref>conf/europar/2019w</crossref>
+<url>db/conf/europar/europar2019w.html#XiaoACRKE19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/MusolesCR19" mdate="2019-07-29">
+<author pid="231/4538">Carlos Fernandez Musoles</author>
+<author pid="12/1430">Daniel Coca</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>HyperPRAW: Architecture-Aware Hypergraph Restreaming Partition to Improve Performance of Parallel Applications Running on High Performance Computing Systems.</title>
+<pages>19:1-19:10</pages>
+<year>2019</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1145/3337821.3337876</ee>
+<crossref>conf/icpp/2019</crossref>
+<url>db/conf/icpp/icpp2019.html#MusolesCR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/PyleCR19" mdate="2020-12-29">
+<author pid="270/0098">James Pyle</author>
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan Kabiri Chimeh</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Surrogate Modelling for Efficient Discovery of Emergent Population Dynamics.</title>
+<pages>99-106</pages>
+<year>2019</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS48598.2019.9188208</ee>
+<crossref>conf/ieeehpcs/2019</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2019.html#PyleCR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/AlzahraniSR19" mdate="2020-09-16">
+<author pid="163/9417">Eidah Alzahrani</author>
+<author pid="s/AnthonyJHSimons">Anthony J. H. Simons</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Data Aware Simulation of Complex Systems on GPUs.</title>
+<pages>567-574</pages>
+<year>2019</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS48598.2019.9188054</ee>
+<crossref>conf/ieeehpcs/2019</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2019.html#AlzahraniSR19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-04995" mdate="2019-05-21">
+<author pid="233/3369">John Charlton</author>
+<author pid="30/4688">Steve Maddock</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Two-Dimensional Batch Linear Programming on the GPU.</title>
+<year>2019</year>
+<volume>abs/1902.04995</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.04995</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-04995</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-05232" mdate="2019-08-19">
+<author pid="247/0953">Mohammad Shirvani</author>
+<author pid="62/10812">Georges Kesserwani</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Agent-based simulator of dynamic flood-people interactions.</title>
+<year>2019</year>
+<volume>abs/1908.05232</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.05232</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-05232</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-10107" mdate="2019-08-29">
+<author pid="233/3369">John Charlton</author>
+<author pid="242/1173">Luis Rene Montana Gonzalez</author>
+<author pid="30/4688">Steve Maddock</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Fast Simulation of Crowd Collision Avoidance.</title>
+<year>2019</year>
+<volume>abs/1908.10107</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.10107</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-10107</url>
+</article>
+</r>
+<r><article key="journals/fini/BlundellBCCCDDM18" mdate="2020-10-26">
+<author pid="180/3787">Inga Blundell</author>
+<author pid="41/6054">Romain Brette</author>
+<author pid="98/5391">Thomas A. Cleland</author>
+<author orcid="0000-0002-4160-2134" pid="116/8960">Thomas G. Close</author>
+<author pid="12/1430">Daniel Coca</author>
+<author orcid="0000-0002-4793-7541" pid="91/1358">Andrew P. Davison</author>
+<author pid="222/3866">Sandra Diaz-Pier</author>
+<author pid="231/4538">Carlos Fernandez Musoles</author>
+<author orcid="0000-0001-5963-8576" pid="41/4661">Padraig Gleeson</author>
+<author pid="41/9615">Dan F. M. Goodman</author>
+<author pid="50/195">Michael L. Hines</author>
+<author pid="231/4263">Michael W. Hopkins</author>
+<author pid="146/2998">Pramod S. Kumbhar</author>
+<author pid="65/3491">David R. Lester</author>
+<author orcid="0000-0001-5503-648X" pid="155/2836">B&#243;ris Marin</author>
+<author orcid="0000-0001-6933-797X" pid="46/3201">Abigail Morrison</author>
+<author pid="89/8924">Eric M&#252;ller 0001</author>
+<author pid="73/5870">Thomas Nowotny</author>
+<author orcid="0000-0002-3453-310X" pid="180/0332">Alexander Peyser</author>
+<author pid="137/5257">Dimitri Plotnikov</author>
+<author pid="44/7117">Paul Richmond</author>
+<author pid="93/6320">Andrew Rowley</author>
+<author pid="r/BernhardRumpe">Bernhard Rumpe</author>
+<author pid="25/4253">Marcel Stimberg</author>
+<author pid="115/6953">Alan B. Stokes</author>
+<author pid="118/8240">Adam R. Tomkins</author>
+<author pid="231/4477">Guido Trensch</author>
+<author pid="91/10494">Michael Marmaduke Woodman</author>
+<author pid="43/6266">Jochen Martin Eppler</author>
+<title>Code Generation in Computational Neuroscience: A Review of Tools and Techniques.</title>
+<year>2018</year>
+<volume>12</volume>
+<journal>Frontiers Neuroinformatics</journal>
+<ee type="oa">https://doi.org/10.3389/fninf.2018.00068</ee>
+<ee>https://www.wikidata.org/entity/Q59130026</ee>
+<url>db/journals/fini/fini12.html#BlundellBCCCDDM18</url>
+<pages>68</pages>
+</article>
+</r>
+<r><article key="journals/simpra/ChimehR18" mdate="2020-02-24">
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan K. Chimeh</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>Simulating heterogeneous behaviours in complex systems on GPUs.</title>
+<pages>3-17</pages>
+<year>2018</year>
+<volume>83</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee type="oa">https://doi.org/10.1016/j.simpat.2018.02.002</ee>
+<url>db/journals/simpra/simpra83.html#ChimehR18</url>
+</article>
+</r>
+<r><article key="journals/simpra/HeywoodMCGBR18" mdate="2020-02-24">
+<author orcid="0000-0001-9277-8394" pid="173/0751">Peter Heywood</author>
+<author orcid="0000-0003-3179-0263" pid="30/4688">Steve C. Maddock</author>
+<author pid="188/6641">Jordi Casas</author>
+<author pid="77/2018">David Garc&#237;a</author>
+<author pid="146/3193">Mark Brackstone</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>Data-parallel agent-based microscopic road network simulation using graphics processing units.</title>
+<pages>188-200</pages>
+<year>2018</year>
+<volume>83</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee type="oa">https://doi.org/10.1016/j.simpat.2017.11.002</ee>
+<url>db/journals/simpra/simpra83.html#HeywoodMCGBR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/ChimehHP0R18" mdate="2019-12-27">
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan K. Chimeh</author>
+<author pid="173/0751">Peter Heywood</author>
+<author orcid="0000-0003-0231-7653" pid="24/4958">Marzio Pennisi</author>
+<author pid="f/FPappalardo">Francesco Pappalardo 0001</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Parallel Pair-Wise Interaction for Multi-Agent Immune Systems Modelling.</title>
+<pages>1367-1373</pages>
+<year>2018</year>
+<booktitle>BIBM</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BIBM.2018.8621404</ee>
+<crossref>conf/bibm/2018</crossref>
+<url>db/conf/bibm/bibm2018.html#ChimehHP0R18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/CosenzaPJRCSCS18" mdate="2019-12-27">
+<author orcid="0000-0002-8869-6705" pid="07/527">Biagio Cosenza</author>
+<author pid="57/9782">Nikita Popov</author>
+<author pid="82/2282">Ben H. H. Juurlink</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan Kabiri Chimeh</author>
+<author pid="71/11144">Carmine Spagnuolo</author>
+<author orcid="0000-0001-9148-9769" pid="26/4019">Gennaro Cordasco</author>
+<author pid="32/6668">Vittorio Scarano</author>
+<title>OpenABL: A Domain-Specific Language for Parallel and Distributed Agent-Based Simulations.</title>
+<pages>505-518</pages>
+<year>2018</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96983-1_36</ee>
+<crossref>conf/europar/2018</crossref>
+<url>db/conf/europar/europar2018.html#CosenzaPJRCSCS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/FletcherHKNR18" mdate="2020-10-29">
+<author orcid="0000-0002-1562-4655" pid="256/0636">David I. Fletcher</author>
+<author pid="00/5296">Robert F. Harrison</author>
+<author pid="44/9591">Twin Karmakharm</author>
+<author pid="132/5285">Samadhi Nallaperuma</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>RateSetter: roadmap for faster, safer, and better platform train interface design and operation using evolutionary optimisation.</title>
+<pages>1230-1237</pages>
+<year>2018</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3205455.3205605</ee>
+<crossref>conf/gecco/2018</crossref>
+<url>db/conf/gecco/gecco2018.html#FletcherHKNR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ni/CopeRJGA17" mdate="2019-01-08">
+<author pid="92/10010">Alex J. Cope</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0003-0208-0588" pid="226/4742">Sebastian S. James</author>
+<author pid="63/3120">Kevin N. Gurney</author>
+<author pid="120/6363">David J. Allerton</author>
+<title>SpineCreator: a Graphical User Interface for the Creation of Layered Neural Models.</title>
+<pages>25-40</pages>
+<year>2017</year>
+<volume>15</volume>
+<journal>Neuroinformatics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s12021-016-9311-z</ee>
+<ee>https://www.wikidata.org/entity/Q38407665</ee>
+<url>db/journals/ni/ni15.html#CopeRJGA17</url>
+</article>
+</r>
+<r><article key="journals/simulation/TamrakarRD17" mdate="2020-06-08">
+<author pid="195/3470">Shailesh Tamrakar</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author pid="36/10549">Roshan M. D'Souza</author>
+<title>PI-FLAME: A parallel immune system simulator using the FLAME graphic processing unit environment.</title>
+<pages>69-84</pages>
+<year>2017</year>
+<volume>93</volume>
+<journal>Simul.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/0037549716673724</ee>
+<url>db/journals/simulation/simulation93.html#TamrakarRD17</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AlzahraniRS17" mdate="2020-10-25">
+<author orcid="0000-0002-9741-2436" pid="163/9417">Eidah Alzahrani</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0002-5925-7148" pid="s/AnthonyJHSimons">Anthony J. H. Simons</author>
+<title>A Formula-Driven Scalable Benchmark Model for ABM, Applied to FLAME GPU.</title>
+<pages>703-714</pages>
+<year>2017</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-75178-8_56</ee>
+<crossref>conf/europar/2017w</crossref>
+<url>db/conf/europar/europar2017w.html#AlzahraniRS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/RichmondC17" mdate="2019-09-25">
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0002-2561-7926" pid="171/1210">Mozhgan K. Chimeh</author>
+<title>FLAME GPU: Complex System Simulation Framework.</title>
+<pages>11-17</pages>
+<year>2017</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2017.12</ee>
+<crossref>conf/ieeehpcs/2017</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2017.html#RichmondC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/ChisholmRM16" mdate="2019-09-25">
+<author pid="200/5285">Robert Chisholm</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author pid="30/4688">Steve C. Maddock</author>
+<title>A Standardised Benchmark for Assessing the Performance of Fixed Radius Near Neighbours.</title>
+<pages>311-321</pages>
+<year>2016</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-58943-5_25</ee>
+<crossref>conf/europar/2016w</crossref>
+<url>db/conf/europar/europar2016w.html#ChisholmRM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/OliveiraR16" mdate="2021-02-03">
+<author pid="52/7546">Alcione de Paiva Oliveira</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>Feasibility Study of Multi-Agent Simulation at the Cellular Level with FLAME GPU.</title>
+<pages>398-403</pages>
+<year>2016</year>
+<booktitle>FLAIRS Conference</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12797</ee>
+<crossref>conf/flairs/2016</crossref>
+<url>db/conf/flairs/flairs2016.html#OliveiraR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpcg/McIlveenMHR16" mdate="2018-08-21">
+<author pid="224/9463">James McIlveen</author>
+<author pid="30/4688">Steve C. Maddock</author>
+<author pid="173/0751">Peter Heywood</author>
+<author pid="44/7117">Paul Richmond</author>
+<title>PED: Pedestrian Environment Designer.</title>
+<pages>105-112</pages>
+<year>2016</year>
+<booktitle>CGVC</booktitle>
+<ee>https://doi.org/10.2312/cgvc.20161304</ee>
+<crossref>conf/tpcg/2016</crossref>
+<url>db/conf/tpcg/cgvc2016.html#McIlveenMHR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/HeywoodRM15" mdate="2018-11-02">
+<author orcid="0000-0001-9277-8394" pid="173/0751">Peter Heywood</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author pid="30/4688">Steve C. Maddock</author>
+<title>Road Network Simulation Using FLAME GPU.</title>
+<pages>430-441</pages>
+<year>2015</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-27308-2_35</ee>
+<crossref>conf/europar/2015w</crossref>
+<url>db/conf/europar/europar2015w.html#HeywoodRM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ni/RichmondCGA14" mdate="2020-02-04">
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0001-6042-1542" pid="92/10010">Alex Cope</author>
+<author pid="63/3120">Kevin N. Gurney</author>
+<author pid="120/6363">David J. Allerton</author>
+<title>From Model Specification to Simulation of Biologically Constrained Networks of Spiking Neurons.</title>
+<pages>307-323</pages>
+<year>2014</year>
+<volume>12</volume>
+<journal>Neuroinformatics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s12021-013-9208-z</ee>
+<ee>https://www.wikidata.org/entity/Q38419327</ee>
+<url>db/journals/ni/ni12.html#RichmondCGA14</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/Richmond14" mdate="2017-05-24">
+<author pid="44/7117">Paul Richmond</author>
+<title>Resolving Conflicts between Multiple Competing Agents in Parallel Simulations.</title>
+<pages>383-394</pages>
+<year>2014</year>
+<booktitle>Euro-Par Workshops (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14325-5_33</ee>
+<crossref>conf/europar/2014w1</crossref>
+<url>db/conf/europar/europar2014w1.html#Richmond14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpcg/RichmondA12" mdate="2017-06-15">
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author pid="120/6363">David J. Allerton</author>
+<title>Path Tracing on Massively Parallel Neuromorphic Hardware.</title>
+<pages>25-28</pages>
+<year>2012</year>
+<booktitle>TPCG</booktitle>
+<ee>https://doi.org/10.2312/LocalChapterEvents/TPCG/TPCG12/025-028</ee>
+<crossref>conf/tpcg/2012</crossref>
+<url>db/conf/tpcg/tpcg2012.html#RichmondA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpcg/KarmakharmR12" mdate="2017-06-15">
+<author pid="44/9591">Twin Karmakharm</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>Large Scale Pedestrian Multi-Simulation for a Decision Support Tool.</title>
+<pages>41-44</pages>
+<year>2012</year>
+<booktitle>TPCG</booktitle>
+<ee>https://doi.org/10.2312/LocalChapterEvents/TPCG/TPCG12/041-044</ee>
+<crossref>conf/tpcg/2012</crossref>
+<url>db/conf/tpcg/tpcg2012.html#KarmakharmR12</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Richmond10" mdate="2016-08-25">
+<author pid="44/7117">Paul Richmond</author>
+<title>Flexible high performance agent based modelling on graphics card hardware.</title>
+<year>2010</year>
+<school>University of Sheffield, UK</school>
+<ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.522373</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/bib/RichmondWCR10" mdate="2020-06-04">
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author pid="52/7069">Dawn C. Walker</author>
+<author pid="62/5729">Simon Coakley</author>
+<author orcid="0000-0001-5756-0146" pid="180/9105">Daniela M. Romano</author>
+<title>High performance cellular level agent-based simulation with FLAME for the GPU.</title>
+<pages>334-347</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>Briefings Bioinform.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1093/bib/bbp073</ee>
+<ee>https://www.wikidata.org/entity/Q51724800</ee>
+<url>db/journals/bib/bib11.html#RichmondWCR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/KiranRHCWG10" mdate="2018-11-30">
+<author pid="86/578">Mariam Kiran</author>
+<author pid="44/7117">Paul Richmond</author>
+<author pid="73/5445">Mike Holcombe</author>
+<author pid="65/8524">Lee Shawn Chin</author>
+<author pid="29/8335">David Worth</author>
+<author pid="34/5832">Chris Greenough</author>
+<title>FLAME: simulating large populations of agents on parallel hardware architectures.</title>
+<pages>1633-1636</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838517</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#KiranRHCWG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpcg/KarmakhamRR10" mdate="2019-09-16">
+<author pid="44/9591">Twin Karmakharm</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author orcid="0000-0001-5756-0146" pid="180/9105">Daniela M. Romano</author>
+<title>Agent-based Large Scale Simulation of Pedestrians With Adaptive Realistic Navigation Vector Fields.</title>
+<pages>67-74</pages>
+<year>2010</year>
+<booktitle>TPCG</booktitle>
+<ee>https://doi.org/10.2312/LocalChapterEvents/TPCG/TPCG10/067-074</ee>
+<crossref>conf/tpcg/2010</crossref>
+<url>db/conf/tpcg/tpcg2010.html#KarmakhamRR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpcg/RichmondSMK10" mdate="2017-09-07">
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<author pid="30/9591">Yuliya Smyrnova</author>
+<author pid="30/4688">Steve C. Maddock</author>
+<author orcid="0000-0001-8995-5636" pid="56/6072-2">Jian Kang 0002</author>
+<title>Audio-Visual Animation of Urban Space.</title>
+<pages>183-190</pages>
+<year>2010</year>
+<booktitle>TPCG</booktitle>
+<ee>https://doi.org/10.2312/LocalChapterEvents/TPCG/TPCG10/183-190</ee>
+<crossref>conf/tpcg/2010</crossref>
+<url>db/conf/tpcg/tpcg2010.html#RichmondSMK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/RichmondCR09" mdate="2018-11-30">
+<author pid="44/7117">Paul Richmond</author>
+<author pid="62/5729">Simon Coakley</author>
+<author pid="180/9105">Daniela M. Romano</author>
+<title>A high performance agent based modelling framework on graphics card hardware with CUDA.</title>
+<pages>1125-1126</pages>
+<year>2009</year>
+<booktitle>AAMAS (2)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1558172</ee>
+<crossref>conf/atal/2009-2</crossref>
+<url>db/conf/atal/aamas2009-2.html#RichmondCR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamesem/RomanoLR09" mdate="2019-09-16">
+<author orcid="0000-0001-5756-0146" pid="180/9105">Daniela M. Romano</author>
+<author pid="174/6362">Lawrence Lomax</author>
+<author orcid="0000-0002-4657-5518" pid="44/7117">Paul Richmond</author>
+<title>NARCSim an agent-based illegal drug market simulation.</title>
+<pages>101-108</pages>
+<year>2009</year>
+<booktitle>ICE-GIC</booktitle>
+<ee>https://doi.org/10.1109/ICEGIC.2009.5293584</ee>
+<crossref>conf/gamesem/2009</crossref>
+<url>db/conf/gamesem/icegic2009.html#RomanoLR09</url>
+</inproceedings>
+</r>
+<coauthors n="78" nc="5">
+<co c="1"><na f="a/Allerton:David_J=" pid="120/6363">David J. Allerton</na></co>
+<co c="0"><na f="a/Alzahrani:Eidah" pid="163/9417">Eidah Alzahrani</na></co>
+<co c="2"><na f="a/Andelfinger:Philipp" pid="17/8472">Philipp Andelfinger</na></co>
+<co c="1"><na f="b/Blundell:Inga" pid="180/3787">Inga Blundell</na></co>
+<co c="0"><na f="b/Brackstone:Mark" pid="146/3193">Mark Brackstone</na></co>
+<co c="1"><na f="b/Brette:Romain" pid="41/6054">Romain Brette</na></co>
+<co c="2"><na f="c/Cai_0001:Wentong" pid="83/3179">Wentong Cai 0001</na></co>
+<co c="0"><na f="c/Casas:Jordi" pid="188/6641">Jordi Casas</na></co>
+<co c="0"><na f="c/Charlton:John" pid="233/3369">John Charlton</na></co>
+<co c="0" n="3"><na f="c/Chimeh:Mozhgan" pid="171/1210">Mozhgan Chimeh</na><na>Mozhgan K. Chimeh</na><na>Mozhgan Kabiri Chimeh</na></co>
+<co c="0"><na f="c/Chin:Lee_Shawn" pid="65/8524">Lee Shawn Chin</na></co>
+<co c="0"><na f="c/Chisholm:Robert" pid="200/5285">Robert Chisholm</na></co>
+<co c="1"><na f="c/Cleland:Thomas_A=" pid="98/5391">Thomas A. Cleland</na></co>
+<co c="1"><na f="c/Close:Thomas_G=" pid="116/8960">Thomas G. Close</na></co>
+<co c="0"><na f="c/Coakley:Simon" pid="62/5729">Simon Coakley</na></co>
+<co c="1"><na f="c/Coca:Daniel" pid="12/1430">Daniel Coca</na></co>
+<co c="1" n="2"><na f="c/Cope:Alex" pid="92/10010">Alex Cope</na><na>Alex J. Cope</na></co>
+<co c="0"><na f="c/Cordasco:Gennaro" pid="26/4019">Gennaro Cordasco</na></co>
+<co c="0"><na f="c/Cosenza:Biagio" pid="07/527">Biagio Cosenza</na></co>
+<co c="1"><na f="d/Davison:Andrew_P=" pid="91/1358">Andrew P. Davison</na></co>
+<co c="1"><na f="d/Diaz=Pier:Sandra" pid="222/3866">Sandra Diaz-Pier</na></co>
+<co c="4"><na f="d/D=Souza:Roshan_M=" pid="36/10549">Roshan M. D'Souza</na></co>
+<co c="2"><na f="e/Eckhoff:David" pid="42/9851">David Eckhoff</na></co>
+<co c="1" n="2"><na f="e/Eppler:Jochen_M=" pid="43/6266">Jochen M. Eppler</na><na>Jochen Martin Eppler</na></co>
+<co c="0"><na f="f/Fletcher:David_I=" pid="256/0636">David I. Fletcher</na></co>
+<co c="0"><na f="g/Garc=iacute=a:David" pid="77/2018">David Garc&#237;a</na></co>
+<co c="1"><na f="g/Gleeson:Padraig" pid="41/4661">Padraig Gleeson</na></co>
+<co c="0"><na f="g/Gonzalez:Luis_Rene_Montana" pid="242/1173">Luis Rene Montana Gonzalez</na></co>
+<co c="1"><na f="g/Goodman:Dan_F=_M=" pid="41/9615">Dan F. M. Goodman</na></co>
+<co c="0"><na f="g/Greenough:Chris" pid="34/5832">Chris Greenough</na></co>
+<co c="1"><na f="g/Gurney:Kevin_N=" pid="63/3120">Kevin N. Gurney</na></co>
+<co c="0"><na f="h/Harrison:Robert_F=" pid="00/5296">Robert F. Harrison</na></co>
+<co c="0"><na f="h/Heywood:Peter" pid="173/0751">Peter Heywood</na></co>
+<co c="1"><na f="h/Hines:Michael_L=" pid="50/195">Michael L. Hines</na></co>
+<co c="0"><na f="h/Holcombe:Mike" pid="73/5445">Mike Holcombe</na></co>
+<co c="1"><na f="h/Hopkins:Michael_W=" pid="231/4263">Michael W. Hopkins</na></co>
+<co c="1"><na f="j/James:Sebastian_S=" pid="226/4742">Sebastian S. James</na></co>
+<co c="0"><na f="j/Juurlink:Ben_H=_H=" pid="82/2282">Ben H. H. Juurlink</na></co>
+<co c="0"><na f="k/Kang_0002:Jian" pid="56/6072-2">Jian Kang 0002</na></co>
+<co c="0"><na f="k/Karmakharm:Twin" pid="44/9591">Twin Karmakharm</na></co>
+<co c="3"><na f="k/Kesserwani:Georges" pid="62/10812">Georges Kesserwani</na></co>
+<co c="0"><na f="k/Kiran:Mariam" pid="86/578">Mariam Kiran</na></co>
+<co c="2"><na f="k/Knoll:Alois_C=" pid="k/AloisKnoll">Alois C. Knoll</na></co>
+<co c="1"><na f="k/Kumbhar:Pramod_S=" pid="146/2998">Pramod S. Kumbhar</na></co>
+<co c="1"><na f="l/Lester:David_R=" pid="65/3491">David R. Lester</na></co>
+<co c="0"><na f="l/Lomax:Lawrence" pid="174/6362">Lawrence Lomax</na></co>
+<co c="0" n="2"><na f="m/Maddock:Steve_C=" pid="30/4688">Steve C. Maddock</na><na>Steve Maddock</na></co>
+<co c="1"><na f="m/Marin:B=oacute=ris" pid="155/2836">B&#243;ris Marin</na></co>
+<co c="0"><na f="m/McIlveen:James" pid="224/9463">James McIlveen</na></co>
+<co c="1"><na f="m/Morrison:Abigail" pid="46/3201">Abigail Morrison</na></co>
+<co c="1"><na f="m/M=uuml=ller_0001:Eric" pid="89/8924">Eric M&#252;ller 0001</na></co>
+<co c="1"><na f="m/Musoles:Carlos_Fernandez" pid="231/4538">Carlos Fernandez Musoles</na></co>
+<co c="0"><na f="n/Nallaperuma:Samadhi" pid="132/5285">Samadhi Nallaperuma</na></co>
+<co c="1"><na f="n/Nowotny:Thomas" pid="73/5870">Thomas Nowotny</na></co>
+<co c="-1"><na f="o/Oliveira:Alcione_de_Paiva" pid="52/7546">Alcione de Paiva Oliveira</na></co>
+<co c="0"><na f="p/Pappalardo_0001:Francesco" pid="f/FPappalardo">Francesco Pappalardo 0001</na></co>
+<co c="0"><na f="p/Pennisi:Marzio" pid="24/4958">Marzio Pennisi</na></co>
+<co c="1"><na f="p/Peyser:Alexander" pid="180/0332">Alexander Peyser</na></co>
+<co c="1"><na f="p/Plotnikov:Dimitri" pid="137/5257">Dimitri Plotnikov</na></co>
+<co c="0"><na f="p/Popov:Nikita" pid="57/9782">Nikita Popov</na></co>
+<co c="0"><na f="p/Pyle:James" pid="270/0098">James Pyle</na></co>
+<co c="0" n="2"><na f="r/Romano:Daniela" pid="180/9105">Daniela Romano</na><na>Daniela M. Romano</na></co>
+<co c="1"><na f="r/Rowley:Andrew" pid="93/6320">Andrew Rowley</na></co>
+<co c="1"><na f="r/Rumpe:Bernhard" pid="r/BernhardRumpe">Bernhard Rumpe</na></co>
+<co c="0"><na f="s/Scarano:Vittorio" pid="32/6668">Vittorio Scarano</na></co>
+<co c="3"><na f="s/Shirvani:Mohammad" pid="247/0953">Mohammad Shirvani</na></co>
+<co c="0"><na f="s/Simons:Anthony_J=_H=" pid="s/AnthonyJHSimons">Anthony J. H. Simons</na></co>
+<co c="0"><na f="s/Smyrnova:Yuliya" pid="30/9591">Yuliya Smyrnova</na></co>
+<co c="0"><na f="s/Spagnuolo:Carmine" pid="71/11144">Carmine Spagnuolo</na></co>
+<co c="1"><na f="s/Stimberg:Marcel" pid="25/4253">Marcel Stimberg</na></co>
+<co c="1"><na f="s/Stokes:Alan_B=" pid="115/6953">Alan B. Stokes</na></co>
+<co c="4"><na f="t/Tamrakar:Shailesh" pid="195/3470">Shailesh Tamrakar</na></co>
+<co c="1"><na f="t/Tomkins:Adam_R=" pid="118/8240">Adam R. Tomkins</na></co>
+<co c="1"><na f="t/Trensch:Guido" pid="231/4477">Guido Trensch</na></co>
+<co c="0"><na f="w/Walker:Dawn_C=" pid="52/7069">Dawn C. Walker</na></co>
+<co c="1"><na f="w/Woodman:Michael_Marmaduke" pid="91/10494">Michael Marmaduke Woodman</na></co>
+<co c="0"><na f="w/Worth:David" pid="29/8335">David Worth</na></co>
+<co c="2"><na f="x/Xiao:Jiajian" pid="168/6473">Jiajian Xiao</na></co>
+</coauthors>
+</dblpperson>
+

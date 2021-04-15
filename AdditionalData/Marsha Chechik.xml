@@ -1,3 +1,3329 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:938462f7d5b9cadd2f8f15de8d6a774b2fb5510b0917a9b1cd7d5a4f13ac2271
-size 145599
+<?xml version="1.0"?>
+<dblpperson name="Marsha Chechik" pid="c/MarshaChechik" n="226">
+<person key="homepages/c/MarshaChechik" mdate="2018-10-02">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<note type="affiliation">University of Toronto, Canada</note>
+<url>http://www.cs.toronto.edu/~chechik/</url>
+<url>https://orcid.org/0000-0002-6301-3517</url>
+</person>
+<r><article key="journals/pacmpl/ShahinC20" mdate="2021-02-17">
+<author pid="132/2259">Ramy Shahin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Automatic and efficient variability-aware lifting of functional programs.</title>
+<pages>157:1-157:27</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3428225</ee>
+<url>db/journals/pacmpl/pacmpl4.html#ShahinC20</url>
+</article>
+</r>
+<r><article key="journals/re/GrubbC20" mdate="2020-06-16">
+<author orcid="0000-0002-3552-3165" pid="94/10915">Alicia M. Grubb</author>
+<author orcid="0000-0002-6301-3517" pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Reconstructing the past: the case of the Spadina Expressway.</title>
+<pages>253-272</pages>
+<year>2020</year>
+<volume>25</volume>
+<journal>Requir. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00766-019-00321-0</ee>
+<url>db/journals/re/re25.html#GrubbC20</url>
+</article>
+</r>
+<r><article key="journals/sosym/SalayKSFC20" mdate="2020-12-29">
+<author pid="00/1125">Rick Salay</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="225/7890">Nick L. S. Fung</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Heterogeneous megamodel management using collection operators.</title>
+<pages>231-260</pages>
+<year>2020</year>
+<volume>19</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10270-019-00738-9</ee>
+<url>db/journals/sosym/sosym19.html#SalayKSFC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aire-ws/HuSCRSC20" mdate="2020-10-28">
+<author pid="245/0715">Boyue Caroline Hu</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="72/6806">Krzysztof Czarnecki</author>
+<author pid="150/9109">Mona Rahimi</author>
+<author pid="80/8767">Gehan M. K. Selim</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Towards Requirements Specification for Machine-learned Perception Based on Human Performance.</title>
+<pages>48-51</pages>
+<year>2020</year>
+<booktitle>AIRE@RE</booktitle>
+<ee>https://doi.org/10.1109/AIRE51212.2020.00014</ee>
+<crossref>conf/aire-ws/2020</crossref>
+<url>db/conf/aire-ws/aire-ws2020.html#HuSCRSC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/Zhu0RC20" mdate="2021-04-09">
+<author pid="48/7536">Chenguang Zhu</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>GenSlice: Generalized Semantic History Slicing.</title>
+<pages>81-91</pages>
+<year>2020</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME46990.2020.00018</ee>
+<crossref>conf/icsm/2020</crossref>
+<url>db/conf/icsm/icsme2020.html#Zhu0RC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/FengMHC20" mdate="2021-02-12">
+<author pid="268/7199">Nick Feng</author>
+<author pid="82/5093">Federico Mora</author>
+<author pid="282/6358">Vincent Hui</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Scaling Client-Specific Equivalence Checking via Impact Boundary Search.</title>
+<pages>734-745</pages>
+<year>2020</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3324884.3416634</ee>
+<ee>https://ieeexplore.ieee.org/document/9285657</ee>
+<crossref>conf/kbse/2020</crossref>
+<url>db/conf/kbse/ase2020.html#FengMHC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SandroSSVCK20" mdate="2020-12-29">
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="80/8767">Gehan M. K. Selim</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="238/3197">Torin Viger</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<title>MMINT-A 2.0: tool support for the lifecycle of model-based safety artifacts.</title>
+<pages>15:1-15:5</pages>
+<year>2020</year>
+<booktitle>MODELS Companion</booktitle>
+<ee>https://doi.org/10.1145/3417990.3422012</ee>
+<crossref>conf/models/2020c</crossref>
+<url>db/conf/models/models2020c.html#SandroSSVCK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/padl/ShahinC20" mdate="2020-01-21">
+<author pid="132/2259">Ramy Shahin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Variability-Aware Datalog.</title>
+<pages>213-221</pages>
+<year>2020</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-39197-3_14</ee>
+<crossref>conf/padl/2020</crossref>
+<url>db/conf/padl/padl2019.html#ShahinC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/safecomp/VigerSSC20" mdate="2020-08-20">
+<author pid="238/3197">Torin Viger</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="80/8767">Gehan M. K. Selim</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Just Enough Formality in Assurance Argument Structures.</title>
+<pages>34-49</pages>
+<year>2020</year>
+<booktitle>SAFECOMP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-54549-9_3</ee>
+<crossref>conf/safecomp/2020</crossref>
+<url>db/conf/safecomp/safecomp2020.html#VigerSSC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-00697" mdate="2020-10-12">
+<author pid="132/2259">Ramy Shahin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Automatic and Efficient Variability-Aware Lifting of Functional Programs.</title>
+<year>2020</year>
+<volume>abs/2010.00697</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.00697</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-00697</url>
+</article>
+</r>
+<r><article key="journals/ase/LiZGRC19" mdate="2019-12-19">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="48/7536">Chenguang Zhu</author>
+<author pid="43/6015">Milos Gligoric</author>
+<author orcid="0000-0001-7280-1614" pid="26/4417">Julia Rubin</author>
+<author orcid="0000-0002-6301-3517" pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Precise semantic history slicing through dynamic delta refinement.</title>
+<pages>757-793</pages>
+<year>2019</year>
+<volume>26</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10515-019-00260-8</ee>
+<url>db/journals/ase/ase26.html#LiZGRC19</url>
+</article>
+</r>
+<r><article key="journals/csur/MaksimovKC19" mdate="2019-10-29">
+<author pid="225/7909">Mike Maksimov</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A Survey of Tool-supported Assurance Case Assessment Techniques.</title>
+<pages>101:1-101:34</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3342481</ee>
+<url>db/journals/csur/csur52.html#MaksimovKC19</url>
+</article>
+</r>
+<r><article key="journals/fac/MenghiSCG19" mdate="2020-08-25">
+<author orcid="0000-0001-5303-8481" pid="121/2789">Claudio Menghi</author>
+<author pid="92/1332">Paola Spoletini</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="g/CarloGhezzi">Carlo Ghezzi</author>
+<title>A verification-driven framework for iterative design of controllers.</title>
+<pages>459-502</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>Formal Aspects Comput.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s00165-019-00484-1</ee>
+<url>db/journals/fac/fac31.html#MenghiSCG19</url>
+</article>
+</r>
+<r><article key="journals/sosym/FamelisC19" mdate="2020-09-18">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Managing design-time uncertainty.</title>
+<pages>1249-1284</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10270-017-0594-9</ee>
+<url>db/journals/sosym/sosym18.html#FamelisC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/ChechikSVKR19" mdate="2019-08-20">
+<author orcid="0000-0002-6301-3517" pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="238/3197">Torin Viger</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="150/9109">Mona Rahimi</author>
+<title>Software Assurance in an Uncertain World.</title>
+<pages>3-21</pages>
+<year>2019</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-16722-6_1</ee>
+<crossref>conf/fase/2019</crossref>
+<url>db/conf/fase/fase2019.html#ChechikSVKR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SandroKSC19" mdate="2020-10-25">
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Querying Automotive System Models and Safety Artifacts with MMINT and Viatra.</title>
+<pages>2-11</pages>
+<year>2019</year>
+<booktitle>MODELS Companion</booktitle>
+<ee>https://doi.org/10.1109/MODELS-C.2019.00008</ee>
+<crossref>conf/models/2019c</crossref>
+<url>db/conf/models/models2019c.html#SandroKSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/Chechik19" mdate="2019-12-11">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Uncertain Requirements, Assurance and Machine Learning.</title>
+<pages>2-3</pages>
+<year>2019</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2019.00010</ee>
+<crossref>conf/re/2019</crossref>
+<url>db/conf/re/re2019.html#Chechik19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/RahimiGKC19" mdate="2020-01-07">
+<author pid="150/9109">Mona Rahimi</author>
+<author pid="73/4155-4">Jin L. C. Guo</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Toward Requirements Specification for Machine-Learned Components.</title>
+<pages>241-244</pages>
+<year>2019</year>
+<booktitle>RE Workshops</booktitle>
+<ee>https://doi.org/10.1109/REW.2019.00049</ee>
+<crossref>conf/re/2019w</crossref>
+<url>db/conf/re/re2019w.html#RahimiGKC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/ShahinCS19" mdate="2019-08-09">
+<author pid="132/2259">Ramy Shahin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="00/1125">Rick Salay</author>
+<title>Lifting Datalog-based analyses to software product lines.</title>
+<pages>39-49</pages>
+<year>2019</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3338906.3338928</ee>
+<crossref>conf/sigsoft/2019</crossref>
+<url>db/conf/sigsoft/fse2019.html#ShahinCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vstte/ChechikKRSV19" mdate="2020-03-16">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="150/9109">Mona Rahimi</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="238/3197">Torin Viger</author>
+<title>Uncertainty, Modeling and Safety Assurance: Towards a Unified Framework.</title>
+<pages>19-29</pages>
+<year>2019</year>
+<booktitle>VSTTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41600-3_2</ee>
+<crossref>conf/vstte/2019</crossref>
+<url>db/conf/vstte/vstte2019.html#ChechikKRSV19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icse/2019mise" mdate="2019-10-22">
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="46/11388-1">Daniel Str&#252;ber 0001</editor>
+<editor pid="53/1883">D&#225;niel Varr&#243;</editor>
+<title>Proceedings of the 11th International Workshop on Modelling in Software Engineerings, MiSE@ICSE 2019, Montreal, QC, Canada, May 26-27, 2019</title>
+<publisher>ACM</publisher>
+<booktitle>MiSE@ICSE</booktitle>
+<year>2019</year>
+<isbn>978-1-7281-2231-1</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8870905/proceeding</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3340709</ee>
+<url>db/conf/icse/mise2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-02192" mdate="2019-07-23">
+<author pid="132/2259">Ramy Shahin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="00/1125">Rick Salay</author>
+<title>Lifting Datalog-Based Analyses to Software Product Lines.</title>
+<year>2019</year>
+<volume>abs/1907.02192</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.02192</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-02192</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-03854" mdate="2020-01-02">
+<author pid="132/2259">Ramy Shahin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Variability-aware Datalog.</title>
+<year>2019</year>
+<volume>abs/1912.03854</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.03854</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-03854</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BergerCKW19" mdate="2019-10-29">
+<author pid="22/6472">Thorsten Berger</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="24/9748">Timo Kehrer</author>
+<author pid="20/4565">Manuel Wimmer</author>
+<title>Software Evolution in Time and Space: Unifying Version and Variability Management (Dagstuhl Seminar 19191).</title>
+<pages>1-30</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>Dagstuhl Reports</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.9.5.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports9.html#BergerCKW19</url>
+</article>
+</r>
+<r><article key="journals/ase/ChechikG18" mdate="2018-06-26">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-1951-5288" pid="g/PGrunbacher">Paul Gr&#252;nbacher</author>
+<title>Guest editorial: selected areas in automated software engineering.</title>
+<pages>45-46</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10515-017-0222-5</ee>
+<url>db/journals/ase/ase25.html#ChechikG18</url>
+</article>
+</r>
+<r><article key="journals/fac/StruberRACTP18" mdate="2020-08-25">
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="74/8522">Thorsten Arendt</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<author pid="177/6107">Jennifer Pl&#246;ger</author>
+<title>Variability-based model transformation: formal foundation and application.</title>
+<pages>133-162</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>Formal Aspects Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00165-017-0441-3</ee>
+<url>db/journals/fac/fac30.html#StruberRACTP18</url>
+</article>
+</r>
+<r><article key="journals/jar/BlazyC18" mdate="2020-09-02">
+<author orcid="0000-0002-0189-0223" pid="b/SandrineBlazy">Sandrine Blazy</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Selected Extended Papers of VSTTE 2016.</title>
+<pages>255-256</pages>
+<year>2018</year>
+<volume>60</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10817-017-9430-8</ee>
+<url>db/journals/jar/jar60.html#BlazyC18</url>
+</article>
+</r>
+<r><article key="journals/tse/LiZRC18" mdate="2018-03-22">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="48/7536">Chenguang Zhu</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Semantic Slicing of Software Version Histories.</title>
+<pages>182-201</pages>
+<year>2018</year>
+<volume>44</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSE.2017.2664824</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2017.2664824</ee>
+<url>db/journals/tse/tse44.html#LiZRC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/MenghiSCG18" mdate="2018-07-10">
+<author orcid="0000-0001-5303-8481" pid="121/2789">Claudio Menghi</author>
+<author orcid="0000-0001-7922-4936" pid="92/1332">Paola Spoletini</author>
+<author orcid="0000-0002-6301-3517" pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-7234-5011" pid="g/CarloGhezzi">Carlo Ghezzi</author>
+<title>Supporting Verification-Driven Incremental Distributed Design of Components.</title>
+<pages>169-188</pages>
+<year>2018</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89363-1_10</ee>
+<crossref>conf/fase/2018</crossref>
+<url>db/conf/fase/fase2018.html#MenghiSCG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/ChechikSDR18" mdate="2018-07-10">
+<author orcid="0000-0002-6301-3517" pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-8984-2129" pid="200/2871">Ioanna Stavropoulou</author>
+<author orcid="0000-0003-2244-3737" pid="57/11135">Cynthia Disenfeld</author>
+<author orcid="0000-0001-7280-1614" pid="26/4417">Julia Rubin</author>
+<title>FPH: Efficient Non-commutativity Analysis of Feature-Based Systems.</title>
+<pages>319-336</pages>
+<year>2018</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89363-1_18</ee>
+<crossref>conf/fase/2018</crossref>
+<url>db/conf/fase/fase2018.html#ChechikSDR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/LiZRC18" mdate="2018-11-21">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="48/7536">Chenguang Zhu</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>CSlicerCloud: a web-based semantic history slicing framework.</title>
+<pages>57-60</pages>
+<year>2018</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3183440.3183491</ee>
+<ee>http://ieeexplore.ieee.org/document/8449444</ee>
+<crossref>conf/icse/2018c</crossref>
+<url>db/conf/icse/icse2018c.html#LiZRC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/Mora0RC18" mdate="2019-09-25">
+<author pid="82/5093">Federico Mora</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Client-specific equivalence checking.</title>
+<pages>441-451</pages>
+<year>2018</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3238147.3238178</ee>
+<crossref>conf/kbse/2018</crossref>
+<url>db/conf/kbse/ase2018.html#Mora0RC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/LaraGCS18" mdate="2018-11-21">
+<author pid="l/JuandeLara">Juan de Lara</author>
+<author pid="75/4962">Esther Guerra</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="00/1125">Rick Salay</author>
+<title>Model Transformation Product Lines.</title>
+<pages>67-77</pages>
+<year>2018</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1145/3239372.3239377</ee>
+<crossref>conf/models/2018</crossref>
+<url>db/conf/models/models2018.html#LaraGCS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/GrubbC18" mdate="2018-10-26">
+<author pid="94/10915">Alicia M. Grubb</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>BloomingLeaf: A Formal Tool for Requirements Evolution Over Time.</title>
+<pages>490-491</pages>
+<year>2018</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2018.00067</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RE.2018.00067</ee>
+<crossref>conf/re/2018</crossref>
+<url>db/conf/re/re2018.html#GrubbC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/safecomp/MaksimovFKC18" mdate="2018-09-03">
+<author pid="225/7909">Mike Maksimov</author>
+<author pid="225/7890">Nick L. S. Fung</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Two Decades of Assurance Case Tools: A Survey.</title>
+<pages>49-59</pages>
+<year>2018</year>
+<booktitle>SAFECOMP Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-99229-7_6</ee>
+<crossref>conf/safecomp/2018w</crossref>
+<url>db/conf/safecomp/safecomp2018w.html#MaksimovFKC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/safecomp/FungKSSC18" mdate="2020-10-25">
+<author pid="225/7890">Nick L. S. Fung</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>MMINT-A: A Tool for Automated Change Impact Assessment on Assurance Cases.</title>
+<pages>60-70</pages>
+<year>2018</year>
+<booktitle>SAFECOMP Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-99229-7_7</ee>
+<crossref>conf/safecomp/2018w</crossref>
+<url>db/conf/safecomp/safecomp2018w.html#FungKSSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/TaentzerS0C18" mdate="2018-04-18">
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Transformation of Software Product Lines.</title>
+<pages>51-52</pages>
+<year>2018</year>
+<booktitle>Software Engineering</booktitle>
+<ee>https://dl.gi.de/20.500.12116/16321</ee>
+<crossref>conf/se/2018</crossref>
+<url>db/conf/se/se2018.html#TaentzerS0C18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sle/GuerraLCS18" mdate="2018-11-21">
+<author pid="75/4962">Esther Guerra</author>
+<author pid="l/JuandeLara">Juan de Lara</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="00/1125">Rick Salay</author>
+<title>Analysing meta-model product lines.</title>
+<pages>160-173</pages>
+<year>2018</year>
+<booktitle>SLE</booktitle>
+<ee>https://doi.org/10.1145/3276604.3276609</ee>
+<crossref>conf/sle/2018</crossref>
+<url>db/conf/sle/sle2018.html#GuerraLCS18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icse/2018" mdate="2019-10-16">
+<editor pid="c/MRVChaudron">Michel Chaudron</editor>
+<editor pid="c/IvicaCrnkovic">Ivica Crnkovic</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="h/MarkHarman">Mark Harman</editor>
+<title>Proceedings of the 40th International Conference on Software Engineering, ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>ICSE</booktitle>
+<year>2018</year>
+<isbn>978-1-4503-5638-1</isbn>
+<ee>https://doi.org/10.1145/3180155</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8452039/proceeding</ee>
+<url>db/conf/icse/icse2018.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/icse/2018c" mdate="2019-10-16">
+<editor pid="c/MRVChaudron">Michel Chaudron</editor>
+<editor pid="c/IvicaCrnkovic">Ivica Crnkovic</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="h/MarkHarman">Mark Harman</editor>
+<title>Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<year>2018</year>
+<isbn>978-1-4503-5663-3</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=3183440</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8444856/proceeding</ee>
+<url>db/conf/icse/icse2018c.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigsoft/ChechikR17" mdate="2020-09-17">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="r/DavideDiRuscio">Davide Di Ruscio</author>
+<title>Report from the 9th Workshop on Modelling in Software Engineering(MiSE 2017).</title>
+<pages>21-24</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3149485.3149520</ee>
+<url>db/journals/sigsoft/sigsoft42.html#ChechikR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/GanCNBOW07a" mdate="2017-12-21">
+<author pid="55/1858">Yuan Gan</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="57/3937">Shiva Nejati</author>
+<author pid="09/1685">Jon Bennett</author>
+<author pid="21/6950">Bill O'Farrell</author>
+<author pid="92/3853">Julie Waterhouse</author>
+<title>Runtime monitoring of web service conversations.</title>
+<pages>2-17</pages>
+<year>2017</year>
+<booktitle>CASCON</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3172797</ee>
+<crossref>conf/cascon/2017</crossref>
+<url>db/conf/cascon/cascon2017.html#GanCNBOW07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdg/ChungKYMRC17" mdate="2018-11-06">
+<author pid="126/6700">Christina Chung</author>
+<author pid="205/5761">Amit Kadan</author>
+<author pid="180/3268">Yueti Yang</author>
+<author pid="180/3287">Asako Matsuoka</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>The impact of visual load on performance in a human-computation game.</title>
+<pages>51:1-51:4</pages>
+<year>2017</year>
+<booktitle>FDG</booktitle>
+<ee>https://doi.org/10.1145/3102071.3106358</ee>
+<crossref>conf/fdg/2017</crossref>
+<url>db/conf/fdg/fdg2017.html#ChungKYMRC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RuscioCR17" mdate="2019-06-02">
+<author orcid="0000-0002-5077-6793" pid="r/DavideDiRuscio">Davide Di Ruscio</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="r/BernhardRumpe">Bernhard Rumpe</author>
+<title>9th Workshop on Modelling in Software Engineering (MiSE 2017).</title>
+<pages>1</pages>
+<year>2017</year>
+<booktitle>MiSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/MiSE.2017.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MiSE.2017.15</ee>
+<ee>https://www.wikidata.org/entity/Q59407109</ee>
+<crossref>conf/icse/2017mise</crossref>
+<url>db/conf/icse/mise2017.html#RuscioCR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/DisenfeldSRC17" mdate="2019-02-12">
+<author pid="57/11135">Cynthia Disenfeld</author>
+<author pid="200/2871">Ioanna Stavropoulou</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>FPH: efficient detection of feature interactions through non-commutativity.</title>
+<pages>225</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-C.2017.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE-C.2017.71</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3098420</ee>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#DisenfeldSRC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/FamelisRCSC17" mdate="2017-12-01">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="72/6806">Krzysztof Czarnecki</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Software Product Lines with Design Choices: Reasoning about Variability and Design Uncertainty.</title>
+<pages>93-100</pages>
+<year>2017</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1109/MODELS.2017.3</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MODELS.2017.3</ee>
+<crossref>conf/models/2017</crossref>
+<url>db/conf/models/models2017.html#FamelisRCSC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/TaentzerSSC17" mdate="2017-12-01">
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Transformations of Software Product Lines: A Generalizing Framework Based on Category Theory.</title>
+<pages>101-111</pages>
+<year>2017</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1109/MODELS.2017.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MODELS.2017.22</ee>
+<crossref>conf/models/2017</crossref>
+<url>db/conf/models/models2017.html#TaentzerSSC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/FamelisC17" mdate="2017-12-01">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Managing Design-Time Uncertainty.</title>
+<pages>179</pages>
+<year>2017</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1109/MODELS.2017.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MODELS.2017.24</ee>
+<crossref>conf/models/2017</crossref>
+<url>db/conf/models/models2017.html#FamelisC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/ZhuLRC17" mdate="2019-02-13">
+<author pid="48/7536">Chenguang Zhu</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A dataset for dynamic discovery of semantic changes in version controlled software histories.</title>
+<pages>523-526</pages>
+<year>2017</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR.2017.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSR.2017.49</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3104262</ee>
+<crossref>conf/msr/2017</crossref>
+<url>db/conf/msr/msr2017.html#ZhuLRC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/GrubbC17" mdate="2018-04-11">
+<author pid="94/10915">Alicia M. Grubb</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Modeling and Reasoning with Changing Intentions: An Experiment.</title>
+<pages>164-173</pages>
+<year>2017</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2017.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RE.2017.19</ee>
+<crossref>conf/re/2017</crossref>
+<url>db/conf/re/re2017.html#GrubbC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/safecomp/KokalySCLM17" mdate="2017-08-29">
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="28/5160">Mark Lawford</author>
+<author pid="m/TSEMaibaum">Tom Maibaum</author>
+<title>Safety Case Impact Assessment in Automotive Software Systems: An Improved Model-Based Approach.</title>
+<pages>69-85</pages>
+<year>2017</year>
+<booktitle>SAFECOMP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66266-4_5</ee>
+<crossref>conf/safecomp/2017</crossref>
+<url>db/conf/safecomp/safecomp2017.html#KokalySCLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/0001RACTP17" mdate="2021-01-13">
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="74/8522">Thorsten Arendt</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<author pid="177/6107">Jennifer Pl&#246;ger</author>
+<title>RuleMerger: Automatic Construction of Variability-Based Model Transformation Rules.</title>
+<pages>135-136</pages>
+<year>2017</year>
+<booktitle>Software Engineering</booktitle>
+<crossref>conf/se/2017</crossref>
+<url>db/conf/se/se2017.html#0001RACTP17</url>
+<ee type="oa">https://dl.gi.de/20.500.12116/1309</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/LiZRC17" mdate="2018-11-06">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="48/7536">Chenguang Zhu</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>FHistorian: Locating Features in Version Histories.</title>
+<pages>49-58</pages>
+<year>2017</year>
+<booktitle>SPLC (A)</booktitle>
+<ee>https://doi.org/10.1145/3106195.3106216</ee>
+<crossref>conf/splc/2017a</crossref>
+<url>db/conf/splc/splc2017a.html#LiZRC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/Ben-DavidCU16" mdate="2018-11-02">
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Observational Refinement and Merge for Disjunctive MTSs.</title>
+<pages>287-303</pages>
+<year>2016</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46520-3_19</ee>
+<crossref>conf/atva/2016</crossref>
+<url>db/conf/atva/atva2016.html#Ben-DavidCU16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/0001RACTP16" mdate="2017-05-25">
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="74/8522">Thorsten Arendt</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<author pid="177/6107">Jennifer Pl&#246;ger</author>
+<title>RuleMerger: Automatic Construction of Variability-Based Model Transformation Rules.</title>
+<pages>122-140</pages>
+<year>2016</year>
+<booktitle>FASE</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-49665-7_8</ee>
+<crossref>conf/fase/2016</crossref>
+<url>db/conf/fase/fase2016.html#0001RACTP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmt/SalayZC16" mdate="2017-05-24">
+<author pid="00/1125">Rick Salay</author>
+<author pid="32/2945">Steffen Zschaler</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Correct Reuse of Transformations is Hard to Guarantee.</title>
+<pages>107-122</pages>
+<year>2016</year>
+<booktitle>ICMT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-42064-6_8</ee>
+<crossref>conf/icmt/2016</crossref>
+<url>db/conf/icmt/icmt2016.html#SalayZC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ChungMYRC16" mdate="2018-11-06">
+<author pid="126/6700">Christina Chung</author>
+<author pid="180/3287">Asako Matsuoka</author>
+<author pid="180/3268">Yueti Yang</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Serious games for NP-hard problems: challenges and insights.</title>
+<pages>29-32</pages>
+<year>2016</year>
+<booktitle>GAS@ICSE</booktitle>
+<ee>https://doi.org/10.1145/2896958.2896963</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/GAS.2016.013</ee>
+<crossref>conf/icse/2016gas</crossref>
+<url>db/conf/icse/gas2016.html#ChungMYRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/KokalySSCM16" mdate="2019-09-25">
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="00/1125">Rick Salay</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="m/TSEMaibaum">Tom Maibaum</author>
+<title>Model management for regulatory compliance: a position paper.</title>
+<pages>74-80</pages>
+<year>2016</year>
+<booktitle>MiSE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/2896982.2896985</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MiSE.2016.020</ee>
+<crossref>conf/icse/2016mise</crossref>
+<url>db/conf/icse/mise2016.html#KokalySSCM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifm/ChechikFS016" mdate="2017-05-24">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<title>Perspectives of Model Transformation Reuse.</title>
+<pages>28-44</pages>
+<year>2016</year>
+<booktitle>IFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-33693-0_3</ee>
+<crossref>conf/ifm/2016</crossref>
+<url>db/conf/ifm/ifm2016.html#ChechikFS016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/istar/GrubbSC16" mdate="2019-05-28">
+<author pid="94/10915">Alicia M. Grubb</author>
+<author pid="161/0591">Gary Song</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>GrowingLeaf: Supporting Requirements Evolution over Time.</title>
+<pages>31-36</pages>
+<year>2016</year>
+<booktitle>iStar</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1674/iStar16_pp31-36.pdf</ee>
+<crossref>conf/istar/2016</crossref>
+<url>db/conf/istar/istar2016.html#GrubbSC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LiZRC16" mdate="2018-11-06">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="48/7536">Chenguang Zhu</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Precise semantic history slicing through dynamic delta refinement.</title>
+<pages>495-506</pages>
+<year>2016</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2970276.2970336</ee>
+<ee>http://ieeexplore.ieee.org/document/7582785/</ee>
+<crossref>conf/kbse/2016</crossref>
+<url>db/conf/kbse/ase2016.html#LiZRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SalayKCM16" mdate="2019-05-28">
+<author pid="00/1125">Rick Salay</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="m/TSEMaibaum">Tom Maibaum</author>
+<title>Heterogeneous Megamodel Slicing for Model Evolution.</title>
+<pages>50-59</pages>
+<year>2016</year>
+<booktitle>ME@MODELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1706/paper7.pdf</ee>
+<crossref>conf/models/2016me</crossref>
+<url>db/conf/models/me2016.html#SalayKCM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/KokalySCMC16" mdate="2017-02-04">
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="140/7429">Valentin Cassano</author>
+<author pid="m/TSEMaibaum">Tom Maibaum</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A model management approach for assurance case reuse due to system evolution.</title>
+<pages>196-206</pages>
+<year>2016</year>
+<booktitle>MoDELS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2976792</ee>
+<crossref>conf/models/2016</crossref>
+<url>db/conf/models/models2016.html#KokalySCMC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/GrubbC16" mdate="2017-05-22">
+<author pid="94/10915">Alicia M. Grubb</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Looking into the Crystal Ball: Requirements Evolution over Time.</title>
+<pages>86-95</pages>
+<year>2016</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2016.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RE.2016.45</ee>
+<crossref>conf/re/2016</crossref>
+<url>db/conf/re/re2016.html#GrubbC16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/tacas/2016" mdate="2019-05-14">
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor orcid="0000-0002-3673-1097" pid="05/4174">Jean-Fran&#231;ois Raskin</editor>
+<title>Tools and Algorithms for the Construction and Analysis of Systems - 22nd International Conference, TACAS 2016, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2016, Eindhoven, The Netherlands, April 2-8, 2016, Proceedings</title>
+<booktitle>TACAS</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9636</volume>
+<isbn>978-3-662-49673-2</isbn>
+<ee>https://doi.org/10.1007/978-3-662-49674-9</ee>
+<url>db/conf/tacas/tacas2016.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/vstte/2016" mdate="2019-09-25">
+<editor orcid="0000-0002-0189-0223" pid="b/SandrineBlazy">Sandrine Blazy</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<title>Verified Software. Theories, Tools, and Experiments - 8th International Conference, VSTTE 2016, Toronto, ON, Canada, July 17-18, 2016, Revised Selected Papers</title>
+<booktitle>VSTTE</booktitle>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9971</volume>
+<isbn>978-3-319-48868-4</isbn>
+<ee>https://doi.org/10.1007/978-3-319-48869-1</ee>
+<url>db/conf/vstte/vstte2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jot/SalayCFG15" mdate="2021-02-17">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="82/11109">Michalis Famelis</author>
+<author orcid="0000-0003-1435-8508" pid="09/11466">Jan Gorzny</author>
+<title>A Methodology for Verifying Refinements of Partial Models.</title>
+<pages>3:1-31</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>J. Object Technol.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.5381/jot.2015.14.3.a3</ee>
+<url>db/journals/jot/jot14.html#SalayCFG15</url>
+</article>
+</r>
+<r><article key="journals/sosym/ChechikGGJRS15" mdate="2020-09-18">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="66/1355">Geri Georg</author>
+<author pid="g/MartinGogolla">Martin Gogolla</author>
+<author pid="j/JeanMarcJezequel">Jean-Marc J&#233;z&#233;quel</author>
+<author orcid="0000-0002-2147-1966" pid="r/BernhardRumpe">Bernhard Rumpe</author>
+<author pid="03/7000">Martin Schindler</author>
+<title>In memory of Robert B. France, Co-Founder and Editor-in-Chief of SoSyM from 1999 to 2015.</title>
+<pages>525-532</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10270-015-0461-5</ee>
+<url>db/journals/sosym/sosym14.html#ChechikGGJRS15</url>
+</article>
+</r>
+<r><article key="journals/sttt/RubinCC15" mdate="2020-04-02">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="72/6806">Krzysztof Czarnecki</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Cloned product variants: from ad-hoc to managed software product lines.</title>
+<pages>627-646</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10009-014-0347-9</ee>
+<url>db/journals/sttt/sttt17.html#RubinCC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/SalayC15" mdate="2019-08-20">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A Generalized Formal Framework for Partial Modeling.</title>
+<pages>133-148</pages>
+<year>2015</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46675-9_9</ee>
+<crossref>conf/fase/2015</crossref>
+<url>db/conf/fase/fase2015.html#SalayC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/StruberRCT15" mdate="2019-08-20">
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<title>A Variability-Based Approach to Reusable and Efficient Model Transformations.</title>
+<pages>283-298</pages>
+<year>2015</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46675-9_19</ee>
+<crossref>conf/fase/2015</crossref>
+<url>db/conf/fase/fase2015.html#StruberRCT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmt/FamelisLSSSCCDV15" mdate="2020-10-25">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="21/6900">Levi Lucio</author>
+<author pid="80/8767">Gehan M. K. Selim</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="c/JamesRCordy">James R. Cordy</author>
+<author pid="20/3440">J&#252;rgen Dingel</author>
+<author orcid="0000-0003-2079-6643" pid="v/HansVangheluwe">Hans Vangheluwe</author>
+<author pid="181/2816">S. Ramesh</author>
+<title>Migrating Automotive Product Lines: A Case Study.</title>
+<pages>82-97</pages>
+<year>2015</year>
+<booktitle>ICMT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21155-8_7</ee>
+<crossref>conf/icmt/2015</crossref>
+<url>db/conf/icmt/icmt2015.html#FamelisLSSSCCDV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SalayDC15" mdate="2017-05-23">
+<author pid="00/1125">Rick Salay</author>
+<author pid="00/203">Fabiano Dalpiaz</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Integrating Crowd Intelligence into Software.</title>
+<pages>1-7</pages>
+<year>2015</year>
+<booktitle>CSI-SE</booktitle>
+<ee>https://doi.org/10.1109/CSI-SE.2015.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSI-SE.2015.8</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2820117</ee>
+<crossref>conf/icse/2015csise</crossref>
+<url>db/conf/icse/csise2015.html#SalayDC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FamelisBSSC15" mdate="2020-10-25">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="165/0765">Naama Ben-David</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>MU-MMINT: An IDE for Model Uncertainty.</title>
+<pages>697-700</pages>
+<year>2015</year>
+<booktitle>ICSE (2)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.226</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2015.226</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2819141</ee>
+<crossref>conf/icse/2015-2</crossref>
+<url>db/conf/icse/icse2015-2.html#FamelisBSSC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GrayCKP15" mdate="2017-05-23">
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="51/3678">Vinay Kulkarni</author>
+<author pid="p/RichardFPaige">Richard F. Paige</author>
+<title>7th International Workshop on Modeling in Software Engineering (MiSE 2015).</title>
+<pages>985-986</pages>
+<year>2015</year>
+<booktitle>ICSE (2)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.317</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2015.317</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2819242</ee>
+<crossref>conf/icse/2015-2</crossref>
+<url>db/conf/icse/icse2015-2.html#GrayCKP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LiRC15" mdate="2019-07-11">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Semantic Slicing of Software Version Histories (T).</title>
+<pages>686-696</pages>
+<year>2015</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2015.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2015.47</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3343973</ee>
+<crossref>conf/kbse/2015</crossref>
+<url>db/conf/kbse/ase2015.html#LiRC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/ChechikDDHRSV15" mdate="2019-05-28">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="00/203">Fabiano Dalpiaz</author>
+<author pid="150/9036">Csaba Debreceni</author>
+<author pid="92/5983">Jennifer Horkoff</author>
+<author pid="07/4090">Istv&#225;n R&#225;th</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="53/1883">D&#225;niel Varr&#243;</author>
+<title>Property-Based Methods for Collaborative Model Development.</title>
+<pages>1-7</pages>
+<year>2015</year>
+<booktitle>GEMOC+MPM@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1511/paper-01.pdf</ee>
+<crossref>conf/models/2015gemoc</crossref>
+<url>db/conf/models/gemoc2015.html#ChechikDDHRSV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SalayZC15" mdate="2019-05-28">
+<author pid="00/1125">Rick Salay</author>
+<author pid="32/2945">Steffen Zschaler</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Transformation Reuse: What is the Intent?</title>
+<pages>7-15</pages>
+<year>2015</year>
+<booktitle>AMT@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1500/paper4.pdf</ee>
+<crossref>conf/models/2015amt</crossref>
+<url>db/conf/models/amt2015.html#SalayZC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SandroSFKC15" mdate="2019-05-28">
+<author pid="08/9739">Alessio Di Sandro</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>MMINT: A Graphical Tool for Interactive Model Management.</title>
+<pages>16-19</pages>
+<year>2015</year>
+<booktitle>P&#38;D@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1554/PD_MoDELS_2015_paper_6.pdf</ee>
+<crossref>conf/models/2015pd</crossref>
+<url>db/conf/models/pd2015.html#SandroSFKC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SalayKSC15" mdate="2020-10-25">
+<author pid="00/1125">Rick Salay</author>
+<author pid="136/7646">Sahar Kokaly</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Enriching megamodel management with collection-based operators.</title>
+<pages>236-245</pages>
+<year>2015</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1109/MODELS.2015.7338254</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MODELS.2015.7338254</ee>
+<crossref>conf/models/2015</crossref>
+<url>db/conf/models/models2015.html#SalayKSC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/DalpiazKSC15" mdate="2017-05-22">
+<author pid="00/203">Fabiano Dalpiaz</author>
+<author pid="174/1233">Michal Korenko</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Using the crowds to satisfy unbounded requirements.</title>
+<pages>19-24</pages>
+<year>2015</year>
+<booktitle>CrowdRE@RE</booktitle>
+<ee>https://doi.org/10.1109/CrowdRE.2015.7367584</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CrowdRE.2015.7367584</ee>
+<crossref>conf/re/2015crowdre</crossref>
+<url>db/conf/re/crowdre2015.html#DalpiazKSC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/BergerLRGS0CC15" mdate="2020-10-25">
+<author pid="22/6472">Thorsten Berger</author>
+<author pid="07/9990">Daniela Lettner</author>
+<author pid="26/4417">Julia Rubin</author>
+<author orcid="0000-0002-1951-5288" pid="g/PGrunbacher">Paul Gr&#252;nbacher</author>
+<author pid="71/9550">Adeline Silva</author>
+<author pid="21/3320-2">Martin Becker 0002</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="72/6806">Krzysztof Czarnecki</author>
+<title>What is a feature?: a qualitative study of features in industrial software product lines.</title>
+<pages>16-25</pages>
+<year>2015</year>
+<booktitle>SPLC</booktitle>
+<ee>https://doi.org/10.1145/2791060.2791108</ee>
+<crossref>conf/splc/2015</crossref>
+<url>db/conf/splc/splc2015.html#BergerLRGS0CC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tase/Chechik15" mdate="2017-05-24">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Modeling and Reasoning about Software Systems Containing Uncertainty and Variability.</title>
+<pages>1</pages>
+<year>2015</year>
+<booktitle>TASE</booktitle>
+<ee>https://doi.org/10.1109/TASE.2015.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TASE.2015.26</ee>
+<crossref>conf/tase/2015</crossref>
+<url>db/conf/tase/tase2015.html#Chechik15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icse/2015mise" mdate="2019-10-16">
+<editor pid="g/JeffreyGGray">Jeff Gray</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="51/3678">Vinay Kulkarni</editor>
+<editor pid="p/RichardFPaige">Richard F. Paige</editor>
+<title>7th IEEE/ACM International Workshop on Modeling in Software Engineering, MiSE 2015, Florence, Italy, May 16-17, 2015</title>
+<booktitle>MiSE</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2015</year>
+<isbn>978-1-4673-7055-4</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7166141/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/mise/2015/7055/00/index.html</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2820489</ee>
+<url>db/conf/icse/mise2015.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/models/2015ds" mdate="2020-02-12">
+<editor pid="85/48">Dimitris S. Kolovos</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<title>Proceedings of the Doctoral Symposium at the 18th ACM/IEEE International Conference of Model-Driven Engineering Languages and Systems 2015 (MoDELS 2015), Ottawa, Canada, September 29, 2015.</title>
+<booktitle>DS@MoDELS</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1531</volume>
+<year>2015</year>
+<ee type="oa">http://ceur-ws.org/Vol-1531</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1531-0</ee>
+<url>db/conf/models/ds2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/fase/StruberRTC14" mdate="2018-06-26">
+<author pid="46/11388-1">Daniel Str&#252;ber 0001</author>
+<author pid="26/4417">Julia Rubin</author>
+<author pid="t/GabrieleTaentzer">Gabriele Taentzer</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Splitting Models Using Information Retrieval and Model Crawling Techniques.</title>
+<pages>47-62</pages>
+<year>2014</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54804-8_4</ee>
+<crossref>conf/fase/2014</crossref>
+<url>db/conf/fase/fase2014.html#StruberRTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fedcsis/KanstrenC14" mdate="2019-05-10">
+<author pid="88/2904">Teemu Kanstr&#233;n</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A Comparison of Three Black-Box Optimization Approaches for Model-Based Testing.</title>
+<pages>1591-1598</pages>
+<year>2014</year>
+<booktitle>FedCSIS</booktitle>
+<crossref>conf/fedcsis/2014</crossref>
+<url>db/conf/fedcsis/fedcsis2014.html#KanstrenC14</url>
+<ee type="oa">https://doi.org/10.15439/2014F152</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/LiTC14" mdate="2018-11-02">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="03/9862">Tian Huat Tan</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Management of Time Requirements in Component-Based Systems.</title>
+<pages>399-415</pages>
+<year>2014</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06410-9_28</ee>
+<crossref>conf/fm/2014</crossref>
+<url>db/conf/fm/fm2014.html#LiTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MashiyatFSC14" mdate="2018-11-06">
+<author pid="49/8483">Ahmed Shah Mashiyat</author>
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Using developer conversations to resolve uncertainty in software development: a position paper.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>RSSE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/2593822.2593823</ee>
+<crossref>conf/icse/2014rsse</crossref>
+<url>db/conf/icse/rsse2014.html#MashiyatFSC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SalayFRSC14" mdate="2020-10-25">
+<author pid="00/1125">Rick Salay</author>
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="26/4417">Julia Rubin</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Lifting model transformations to product lines.</title>
+<pages>117-128</pages>
+<year>2014</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/2568225.2568267</ee>
+<crossref>conf/icse/2014</crossref>
+<url>db/conf/icse/icse2014.html#SalayFRSC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/KanstrenC14" mdate="2017-05-25">
+<author pid="88/2904">Teemu Kanstr&#233;n</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Trace Reduction and Pattern Analysis to Assist Debugging in Model-Based Testing.</title>
+<pages>238-243</pages>
+<year>2014</year>
+<booktitle>ISSRE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ISSREW.2014.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSREW.2014.9</ee>
+<crossref>conf/issre/2014w</crossref>
+<url>db/conf/issre/issre2014w.html#KanstrenC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/LiAKGC14" mdate="2018-11-06">
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="90/8295">Aws Albarghouthi</author>
+<author pid="61/6578">Zachary Kincaid</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Symbolic optimization with SMT solvers.</title>
+<pages>607-618</pages>
+<year>2014</year>
+<booktitle>POPL</booktitle>
+<ee>https://doi.org/10.1145/2535838.2535857</ee>
+<crossref>conf/popl/2014</crossref>
+<url>db/conf/popl/popl2014.html#LiAKGC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/HorkoffSCS14" mdate="2020-10-25">
+<author orcid="0000-0002-2019-5277" pid="92/5983">Jennifer Horkoff</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<title>Supporting early decision-making in the presence of uncertainty.</title>
+<pages>33-42</pages>
+<year>2014</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2014.6912245</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RE.2014.6912245</ee>
+<crossref>conf/re/2014</crossref>
+<url>db/conf/re/re2014.html#HorkoffSCS14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/kbse/2014" mdate="2017-03-29">
+<editor pid="c/IvicaCrnkovic">Ivica Crnkovic</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="g/PGrunbacher">Paul Gr&#252;nbacher</editor>
+<title>ACM/IEEE International Conference on Automated Software Engineering, ASE '14, Vasteras, Sweden - September 15 - 19, 2014</title>
+<publisher>ACM</publisher>
+<booktitle>ASE</booktitle>
+<year>2014</year>
+<isbn>978-1-4503-3013-8</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2642937</ee>
+<url>db/conf/kbse/ase2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/computing/SimmondsBC13" mdate="2020-08-06">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Monitoring and recovery for web service applications.</title>
+<pages>223-267</pages>
+<year>2013</year>
+<volume>95</volume>
+<journal>Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00607-012-0215-y</ee>
+<url>db/journals/computing/computing95.html#SimmondsBC13</url>
+</article>
+</r>
+<r><article key="journals/ife/UchitelABBCCDFGKRS13" mdate="2020-03-04">
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<author pid="39/5298">Dalal Alrajeh</author>
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="b/VictorABraberman">V&#237;ctor A. Braberman</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="99/5082">Guido de Caso</author>
+<author orcid="0000-0002-0612-4157" pid="03/107">Nicol&#225;s D'Ippolito</author>
+<author pid="75/395">Dario Fischbein</author>
+<author orcid="0000-0003-4180-7196" pid="g/DiegoGarbervetsky">Diego Garbervetsky</author>
+<author pid="k/JeffKramer">Jeff Kramer</author>
+<author pid="79/683">Alessandra Russo</author>
+<author pid="22/3618">German E. Sibay</author>
+<title>Supporting incremental behaviour model elaboration.</title>
+<pages>279-293</pages>
+<year>2013</year>
+<volume>28</volume>
+<journal>Comput. Sci. Res. Dev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00450-012-0233-1</ee>
+<url>db/journals/ife/ife28.html#UchitelABBCCDFGKRS13</url>
+</article>
+</r>
+<r><article key="journals/re/SalayCHS13" mdate="2020-10-26">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-2019-5277" pid="92/5983">Jennifer Horkoff</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<title>Managing requirements uncertainty with partial models.</title>
+<pages>107-128</pages>
+<year>2013</year>
+<volume>18</volume>
+<journal>Requir. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00766-013-0170-y</ee>
+<url>db/journals/re/re18.html#SalayCHS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/Ben-DavidCU13" mdate="2018-11-02">
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Merging Partial Behaviour Models with Different Vocabularies.</title>
+<pages>91-105</pages>
+<year>2013</year>
+<booktitle>CONCUR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40184-8_8</ee>
+<crossref>conf/concur/2013</crossref>
+<url>db/conf/concur/concur2013.html#Ben-DavidCU13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/SalayGC13" mdate="2020-10-25">
+<author pid="00/1125">Rick Salay</author>
+<author orcid="0000-0003-1435-8508" pid="09/11466">Jan Gorzny</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Change Propagation due to Uncertainty Change.</title>
+<pages>21-36</pages>
+<year>2013</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-37057-1_3</ee>
+<crossref>conf/fase/2013</crossref>
+<url>db/conf/fase/fase2013.html#SalayGC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/RubinC13" mdate="2018-06-26">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Quality of Merge-Refactorings for Product Lines.</title>
+<pages>83-98</pages>
+<year>2013</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-37057-1_7</ee>
+<crossref>conf/fase/2013</crossref>
+<url>db/conf/fase/fase2013.html#RubinC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RubinC04" mdate="2017-05-23">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A framework for managing cloned product variants.</title>
+<pages>1233-1236</pages>
+<year>2013</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2013.6606686</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2013.6606686</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2486971</ee>
+<crossref>conf/icse/2013</crossref>
+<url>db/conf/icse/icse2013.html#RubinC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AtleeBCFGPR04" mdate="2017-06-15">
+<author pid="a/JMAtlee">Joanne M. Atlee</author>
+<author pid="47/1706">Robert Baillargeon</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="g/JeffreyGGray">Jeff Gray</author>
+<author pid="p/RichardFPaige">Richard F. Paige</author>
+<author orcid="0000-0002-2147-1966" pid="r/BernhardRumpe">Bernhard Rumpe</author>
+<title>5th international workshop on modeling in software engineering (MiSE 2013).</title>
+<pages>1531-1532</pages>
+<year>2013</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2013.6606772</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2013.6606772</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2487069</ee>
+<crossref>conf/icse/2013</crossref>
+<url>db/conf/icse/icse2013.html#AtleeBCFGPR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SalayC13" mdate="2019-05-28">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Supporting Agility in MDE Through Modeling Language Relaxation.</title>
+<pages>20-27</pages>
+<year>2013</year>
+<booktitle>XM@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1089/3.pdf</ee>
+<crossref>conf/models/2013xm</crossref>
+<url>db/conf/models/xm2013.html#SalayC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/FamelisSSC13" mdate="2020-10-25">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="00/1125">Rick Salay</author>
+<author orcid="0000-0003-2429-4958" pid="08/9739">Alessio Di Sandro</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Transformation of Models Containing Uncertainty.</title>
+<pages>673-689</pages>
+<year>2013</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41533-3_41</ee>
+<crossref>conf/models/2013</crossref>
+<url>db/conf/models/models2013.html#FamelisSSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/NalchigarSC13" mdate="2019-05-28">
+<author pid="16/7432">Soroosh Nalchigar</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Towards a Catalog of Non-Functional Requirements in Model Transformation Languages.</title>
+<year>2013</year>
+<booktitle>AMT@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1077/amt13_submission_9.pdf</ee>
+<crossref>conf/models/2013amt</crossref>
+<url>db/conf/models/amt2013.html#NalchigarSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/RubinC13" mdate="2018-11-06">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>N-way model merging.</title>
+<pages>301-311</pages>
+<year>2013</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2491411.2491446</ee>
+<crossref>conf/sigsoft/2013</crossref>
+<url>db/conf/sigsoft/fse2013.html#RubinC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/RubinCC13" mdate="2018-11-06">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="72/6806">Krzysztof Czarnecki</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Managing cloned variants: a framework and experience.</title>
+<pages>101-110</pages>
+<year>2013</year>
+<booktitle>SPLC</booktitle>
+<ee>https://doi.org/10.1145/2491627.2491644</ee>
+<crossref>conf/splc/2013</crossref>
+<url>db/conf/splc/splc2013.html#RubinCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AlbarghouthiGLCC13" mdate="2018-11-02">
+<author pid="90/8295">Aws Albarghouthi</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="79/5752">Sagar Chaki</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>UFO: Verification with Interpolants and Abstract Interpretation - (Competition Contribution).</title>
+<pages>637-640</pages>
+<year>2013</year>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36742-7_52</ee>
+<crossref>conf/tacas/2013</crossref>
+<url>db/conf/tacas/tacas2013.html#AlbarghouthiGLCC13</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/RubinC13" mdate="2017-05-16">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A Survey of Feature Location Techniques.</title>
+<pages>29-58</pages>
+<year>2013</year>
+<booktitle>Domain Engineering, Product Lines, Languages, and Conceptual Models</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36654-3_2</ee>
+<crossref>books/daglib/0032299</crossref>
+<url>db/books/daglib/0032299.html#RubinC13</url>
+</incollection>
+</r>
+<r><incollection key="conf/cascon/ChechikSLNSS13" mdate="2020-06-15">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="91/4573">Sotirios Liaskos</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="00/1125">Rick Salay</author>
+<title>PWWM: A Personal Web Workflow Methodology.</title>
+<pages>11-48</pages>
+<year>2013</year>
+<booktitle>The Personal Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39995-4_2</ee>
+<crossref>conf/cascon/2013p</crossref>
+<url>db/conf/cascon/personal2013.html#ChechikSLNSS13</url>
+</incollection>
+</r>
+<r><proceedings key="conf/icse/2013mise" mdate="2019-10-16">
+<editor pid="a/JMAtlee">Joanne M. Atlee</editor>
+<editor pid="47/1706">Robert Baillargeon</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="f/RBFrance">Robert B. France</editor>
+<editor pid="g/JeffreyGGray">Jeff Gray</editor>
+<editor pid="p/RichardFPaige">Richard F. Paige</editor>
+<editor pid="r/BernhardRumpe">Bernhard Rumpe</editor>
+<title>Proceedings of the 5th International Workshop on Modeling in Software Engineering, MiSE 2013, San Francisco, California, USA, May 18-19, 2013</title>
+<booktitle>MiSE</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2013</year>
+<isbn>978-1-4673-6447-8</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6588674/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/mise/2013/6447/00/index.html</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2662737</ee>
+<url>db/conf/icse/mise2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/isse/ChechikNS12" mdate="2020-08-13">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<title>A relationship-based approach to model integration.</title>
+<pages>3-18</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>Innov. Syst. Softw. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11334-011-0155-2</ee>
+<url>db/journals/isse/isse8.html#ChechikNS12</url>
+</article>
+</r>
+<r><article key="journals/tocl/GurfinkelC12" mdate="2018-11-06">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Robust Vacuity for Branching Temporal Logic.</title>
+<pages>1:1-1:32</pages>
+<year>2012</year>
+<volume>13</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2071368.2071369</ee>
+<url>db/journals/tocl/tocl13.html#GurfinkelC12</url>
+</article>
+</r>
+<r><article key="journals/tosem/FischbeinDBCU12" mdate="2018-11-06">
+<author pid="75/395">Dario Fischbein</author>
+<author orcid="0000-0002-0612-4157" pid="03/107">Nicol&#225;s D'Ippolito</author>
+<author pid="43/3757">Greg Brunet</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Weak Alphabet Merging of Partial Behavior Models.</title>
+<pages>9:1-9:47</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2089116.2089119</ee>
+<url>db/journals/tosem/tosem21.html#FischbeinDBCU12</url>
+</article>
+</r>
+<r><article key="journals/tse/NejatiSCEZ12" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="z/PamelaZave">Pamela Zave</author>
+<title>Matching and Merging of Variant Feature Specifications.</title>
+<pages>1355-1375</pages>
+<year>2012</year>
+<volume>38</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSE.2011.112</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2011.112</ee>
+<url>db/journals/tse/tse38.html#NejatiSCEZ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/AlbarghouthiLGC12" mdate="2018-11-02">
+<author pid="90/8295">Aws Albarghouthi</author>
+<author orcid="0000-0003-4562-8208" pid="59/871-8">Yi Li 0008</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Ufo: A Framework for Abstraction- and Interpolation-Based Software Verification.</title>
+<pages>672-678</pages>
+<year>2012</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31424-7_48</ee>
+<crossref>conf/cav/2012</crossref>
+<url>db/conf/cav/cav2012.html#AlbarghouthiLGC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/SalayFC12" mdate="2018-06-26">
+<author pid="00/1125">Rick Salay</author>
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Language Independent Refinement Using Partial Modeling.</title>
+<pages>224-239</pages>
+<year>2012</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28872-2_16</ee>
+<crossref>conf/fase/2012</crossref>
+<url>db/conf/fase/fase2012.html#SalayFC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/RubinC12" mdate="2018-06-26">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Combining Related Products into Product Lines.</title>
+<pages>285-300</pages>
+<year>2012</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28872-2_20</ee>
+<crossref>conf/fase/2012</crossref>
+<url>db/conf/fase/fase2012.html#RubinC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FamelisSC12a" mdate="2017-05-23">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>The semantics of partial model transformations.</title>
+<pages>64-69</pages>
+<year>2012</year>
+<booktitle>MiSE</booktitle>
+<ee>https://doi.org/10.1109/MISE.2012.6226016</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MISE.2012.6226016</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2664441</ee>
+<crossref>conf/icse/2012mise</crossref>
+<url>db/conf/icse/mise2012.html#FamelisSC12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FamelisSC12" mdate="2017-05-23">
+<author pid="82/11109">Michalis Famelis</author>
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Partial models: Towards modeling and reasoning with uncertainty.</title>
+<pages>573-583</pages>
+<year>2012</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2012.6227159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227159</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2337290</ee>
+<crossref>conf/icse/2012</crossref>
+<url>db/conf/icse/icse2012.html#FamelisSC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/SalayCG12" mdate="2020-10-25">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0003-1435-8508" pid="09/11466">Jan Gorzny</author>
+<title>Towards a Methodology for Verifying Partial Model Refinements.</title>
+<pages>938-945</pages>
+<year>2012</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICST.2012.199</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICST.2012.199</ee>
+<crossref>conf/icst/2012</crossref>
+<url>db/conf/icst/icst2012.html#SalayCG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/RubinC12" mdate="2018-11-06">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Locating distinguishing features using diff sets.</title>
+<pages>242-245</pages>
+<year>2012</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2351676.2351712</ee>
+<crossref>conf/kbse/2012</crossref>
+<url>db/conf/kbse/ase2012.html#RubinC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/SalayCH12" mdate="2017-09-16">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-2019-5277" pid="92/5983">Jennifer Horkoff</author>
+<title>Managing requirements uncertainty with partial models.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2012.6345804</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RE.2012.6345804</ee>
+<crossref>conf/re/2012</crossref>
+<url>db/conf/re/re2012.html#SalayCH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/AlbarghouthiGC12" mdate="2017-05-24">
+<author pid="90/8295">Aws Albarghouthi</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Craig Interpretation.</title>
+<pages>300-316</pages>
+<year>2012</year>
+<booktitle>SAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33125-1_21</ee>
+<crossref>conf/sas/2012</crossref>
+<url>db/conf/sas/sas2012.html#AlbarghouthiGC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/RubinKBC12" mdate="2018-11-06">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="29/3111">Andrei Kirshin</author>
+<author orcid="0000-0002-5556-1660" pid="60/2897">Goetz Botterweck</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Managing forked product variants.</title>
+<pages>156-160</pages>
+<year>2012</year>
+<booktitle>SPLC (1)</booktitle>
+<ee>https://doi.org/10.1145/2362536.2362558</ee>
+<crossref>conf/splc/2012-1</crossref>
+<url>db/conf/splc/splc2012-1.html#RubinKBC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AlbarghouthiGC12" mdate="2018-06-26">
+<author pid="90/8295">Aws Albarghouthi</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>From Under-Approximations to Over-Approximations and Back.</title>
+<pages>157-172</pages>
+<year>2012</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28756-5_12</ee>
+<crossref>conf/tacas/2012</crossref>
+<url>db/conf/tacas/tacas2012.html#AlbarghouthiGC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/AlbarghouthiGC12" mdate="2017-05-24">
+<author pid="90/8295">Aws Albarghouthi</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Whale: An Interpolation-Based Algorithm for Inter-procedural Verification.</title>
+<pages>39-55</pages>
+<year>2012</year>
+<booktitle>VMCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-27940-9_4</ee>
+<crossref>conf/vmcai/2012</crossref>
+<url>db/conf/vmcai/vmcai2012.html#AlbarghouthiGC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/WeiGC11" mdate="2021-02-12">
+<author pid="06/1562">Ou Wei</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>On the consistency, expressiveness, and precision of partial modeling formalisms.</title>
+<pages>20-47</pages>
+<year>2011</year>
+<volume>209</volume>
+<journal>Inf. Comput.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.ic.2010.08.001</ee>
+<url>db/journals/iandc/iandc209.html#WeiGC11</url>
+</article>
+</r>
+<r><article key="journals/sosym/SassolasCU11" mdate="2020-09-18">
+<author pid="13/8864">Mathieu Sassolas</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Exploring inconsistencies between modal transition systems.</title>
+<pages>117-142</pages>
+<year>2011</year>
+<volume>10</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10270-010-0148-x</ee>
+<url>db/journals/sosym/sosym10.html#SassolasCU11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigsoft/Ben-DavidCGU11" mdate="2018-11-06">
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>CSSL: a logic for specifying conditional scenarios.</title>
+<pages>37-47</pages>
+<year>2011</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2025113.2025123</ee>
+<crossref>conf/sigsoft/2011</crossref>
+<url>db/conf/sigsoft/fse2011.html#Ben-DavidCGU11</url>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/BreugelC10" mdate="2021-02-12">
+<author pid="89/3661">Franck van Breugel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>19th International Conference on Concurrency Theory.</title>
+<pages>1091-1092</pages>
+<year>2010</year>
+<volume>208</volume>
+<journal>Inf. Comput.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1016/j.ic.2010.05.003</ee>
+<url>db/journals/iandc/iandc208.html#BreugelC10</url>
+</article>
+</r>
+<r><article key="journals/sttt/SimmondsDGC10" mdate="2020-04-02">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="49/4230">Jessica Davies</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Exploiting resolution proofs to speed up LTL vacuity detection for BMC.</title>
+<pages>319-335</pages>
+<year>2010</year>
+<volume>12</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10009-009-0134-1</ee>
+<url>db/journals/sttt/sttt12.html#SimmondsDGC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/ChanPC10" mdate="2018-11-06">
+<author pid="80/4391">Allen Chan</author>
+<author pid="12/9163">Brian Petrini</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Accelerate service integration in your BPM/SOA applications.</title>
+<pages>359</pages>
+<year>2010</year>
+<booktitle>CASCON</booktitle>
+<ee>https://doi.org/10.1145/1923947.1923992</ee>
+<crossref>conf/cascon/2010</crossref>
+<url>db/conf/cascon/cascon2010.html#ChanPC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/AlbarghouthiGWC10" mdate="2018-10-03">
+<author pid="90/8295">Aws Albarghouthi</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="06/1562">Ou Wei</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Abstract Analysis of Symbolic Executions.</title>
+<pages>495-510</pages>
+<year>2010</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-14295-6_43</ee>
+<crossref>conf/cav/2010</crossref>
+<url>db/conf/cav/cav2010.html#AlbarghouthiGWC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/SabetzadehNCE10" mdate="2019-05-28">
+<author pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="57/3937">Shiva Nejati</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="e/SMEasterbrook">Steve Easterbrook</author>
+<title>Reasoning about Consistency in Model Merging.</title>
+<pages>32-38</pages>
+<year>2010</year>
+<booktitle>LWI@ASE</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-661/paper6.pdf</ee>
+<crossref>conf/kbse/2010lwi</crossref>
+<url>db/conf/kbse/lwi2010.html#SabetzadehNCE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/SimmondsC10" mdate="2018-11-06">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>RuMoR: monitoring and recovery for BPEL applications.</title>
+<pages>345-346</pages>
+<year>2010</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1858996.1859068</ee>
+<crossref>conf/kbse/2010</crossref>
+<url>db/conf/kbse/ase2010.html#SimmondsC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SimmondsBC10" mdate="2018-11-06">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Guided recovery for web service applications.</title>
+<pages>247-256</pages>
+<year>2010</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1882291.1882328</ee>
+<crossref>conf/sigsoft/2010</crossref>
+<url>db/conf/sigsoft/fse2010.html#SimmondsBC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/RubinC10" mdate="2012-02-14">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>From Products to Product Lines Using Model Matching and Refactoring.</title>
+<pages>155-162</pages>
+<year>2010</year>
+<booktitle>SPLC Workshops</booktitle>
+<ee>http://splc2010.postech.ac.kr/SPLC2010_second_volume.pdf</ee>
+<crossref>conf/splc/2010w</crossref>
+<url>db/conf/splc/splc2010w.html#RubinC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1009-3710" mdate="2018-09-12">
+<author pid="33/3098">Jocelyn Simmonds</author>
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Optimizing Computation of Recovery Plans for BPEL Applications</title>
+<booktitle>TAV-WEB</booktitle>
+<year>2010</year>
+<pages>3-14</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.35.1</ee>
+<ee type="oa">http://arxiv.org/abs/1009.3710</ee>
+<crossref>journals/corr/abs-1009-3306</crossref>
+<url>db/series/eptcs/eptcs35.html#abs-1009-3710</url>
+</inproceedings>
+</r>
+<r><incollection key="conf/cascon/SimmondsBC10" mdate="2017-11-21">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="46/3025">Shoham Ben-David</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Monitoring and Recovery of Web Service Applications.</title>
+<pages>250-288</pages>
+<year>2010</year>
+<booktitle>The Smart Internet</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16599-3_17</ee>
+<crossref>conf/cascon/2010smart</crossref>
+<url>db/conf/cascon/smart2010.html#SimmondsBC10</url>
+</incollection>
+</r>
+<r><proceedings key="conf/kbse/2010lwi" mdate="2019-05-28">
+<editor pid="20/5529">Alexander Egyed</editor>
+<editor pid="56/497">Roberto E. Lopez-Herrejon</editor>
+<editor pid="26/1319">Bashar Nuseibeh</editor>
+<editor pid="60/2897">Goetz Botterweck</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="24/5199">Zhenjiang Hu</editor>
+<title>Proceedings of the 3rd Workshop on Living with Inconsistencies in Software Development, LWI@ASE 2010, Antwerp, Belgium, September 21st, 2010</title>
+<booktitle>LWI@ASE</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>661</volume>
+<year>2010</year>
+<ee type="oa">http://ceur-ws.org/Vol-661</ee>
+<url>db/conf/kbse/lwi2010.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-4616" mdate="2018-08-13">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Robust Vacuity for Branching Temporal Logic</title>
+<ee type="oa">http://arxiv.org/abs/1002.4616</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.4616</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-4616</url>
+</article>
+</r>
+<r><article key="journals/tsc/SimmondsGCNOLW09" mdate="2020-06-15">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="55/1858">Yuan Gan</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author pid="21/6950">Bill O'Farrell</author>
+<author pid="48/2444">Elena Litani</author>
+<author pid="92/3853">Julie Waterhouse</author>
+<title>Runtime Monitoring of Web Service Conversations.</title>
+<pages>223-244</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Serv. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2009.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.16</ee>
+<url>db/journals/tsc/tsc2.html#SimmondsGCNOLW09</url>
+</article>
+</r>
+<r><article key="journals/tse/UchitelBC09" mdate="2017-06-09">
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<author pid="43/3757">Greg Brunet</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Synthesis of Partial Behavior Models from Properties and Scenarios.</title>
+<pages>384-406</pages>
+<year>2009</year>
+<volume>35</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSE.2008.107</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2008.107</ee>
+<url>db/journals/tse/tse35.html#UchitelBC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/ChechikLNCDESS09" mdate="2020-06-15">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="166/5034">Winnie Lai</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+<author pid="18/2744">Zinovy Diskin</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="00/1125">Rick Salay</author>
+<title>Relationship-based change propagation: A case study.</title>
+<pages>7-12</pages>
+<year>2009</year>
+<booktitle>MiSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/MISE.2009.5069890</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MISE.2009.5069890</ee>
+<crossref>conf/icse/2009mise</crossref>
+<url>db/conf/icse/mise2009.html#ChechikLNCDESS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mompes/Chechik09" mdate="2017-05-17">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A relationship-based approach to model management.</title>
+<pages>1</pages>
+<year>2009</year>
+<booktitle>MOMPES</booktitle>
+<ee>https://doi.org/10.1109/MOMPES.2009.5069131</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MOMPES.2009.5069131</ee>
+<crossref>conf/mompes/2009</crossref>
+<url>db/conf/mompes/mompes2009.html#Chechik09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/WeiGC09" mdate="2017-05-24">
+<author pid="06/1562">Ou Wei</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Mixed Transition Systems Revisited.</title>
+<pages>349-365</pages>
+<year>2009</year>
+<booktitle>VMCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-93900-9_28</ee>
+<crossref>conf/vmcai/2009</crossref>
+<url>db/conf/vmcai/vmcai2009.html#WeiGC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wotug/TorshiziOPC09" mdate="2017-05-17">
+<author pid="68/4716">Faraz Ahmadi Torshizi</author>
+<author pid="39/1187">Jonathan S. Ostroff</author>
+<author pid="p/RichardFPaige">Richard F. Paige</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>The SCOOP Concurrency Model in Java-like Languages.</title>
+<pages>7-27</pages>
+<year>2009</year>
+<booktitle>CPA</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-065-0-7</ee>
+<crossref>conf/wotug/2009</crossref>
+<url>db/conf/wotug/cpa2009.html#TorshiziOPC09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fase/2009" mdate="2019-05-14">
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="w/MartinWirsing">Martin Wirsing</editor>
+<title>Fundamental Approaches to Software Engineering, 12th International Conference, FASE 2009, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, York, UK, March 22-29, 2009. Proceedings</title>
+<volume>5503</volume>
+<year>2009</year>
+<ee>https://doi.org/10.1007/978-3-642-00593-0</ee>
+<isbn>978-3-642-00592-3</isbn>
+<booktitle>FASE</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/fase/fase2009.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/atva/GurfinkelWC08" mdate="2017-05-21">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="06/1562">Ou Wei</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Model Checking Recursive Programs with Exact Predicate Abstraction.</title>
+<pages>95-110</pages>
+<year>2008</year>
+<booktitle>ATVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88387-6_9</ee>
+<crossref>conf/atva/2008</crossref>
+<url>db/conf/atva/atva2008.html#GurfinkelWC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/NejatiC08" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Behavioural model fusion: an overview of challenges.</title>
+<pages>1-6</pages>
+<year>2008</year>
+<booktitle>MiSE</booktitle>
+<ee>https://doi.org/10.1145/1370731.1370733</ee>
+<crossref>conf/icse/2008mise</crossref>
+<url>db/conf/icse/mise2008.html#NejatiC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RubinCE08" mdate="2019-10-19">
+<author pid="26/4417">Julia Rubin</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<title>Declarative approach for model composition.</title>
+<pages>7-14</pages>
+<year>2008</year>
+<booktitle>MiSE</booktitle>
+<ee>https://doi.org/10.1145/1370731.1370734</ee>
+<crossref>conf/icse/2008mise</crossref>
+<url>db/conf/icse/mise2008.html#RubinCE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SabetzadehNEC08" mdate="2020-06-15">
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Global consistency checking of distributed models with TReMer+.</title>
+<pages>815-818</pages>
+<year>2008</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/1368088.1368208</ee>
+<crossref>conf/icse/2008</crossref>
+<url>db/conf/icse/icse2008.html#SabetzadehNEC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/HartKGCL08" mdate="2017-05-23">
+<author pid="06/6741">Thomas E. Hart</author>
+<author pid="26/2910">Kelvin Ku</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="l/DavidLie">David Lie</author>
+<title>Augmenting Counterexample-Guided Abstraction Refinement with Proof Templates.</title>
+<pages>387-390</pages>
+<year>2008</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2008.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2008.55</ee>
+<crossref>conf/kbse/2008</crossref>
+<url>db/conf/kbse/ase2008.html#HartKGCL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/DIppolitoFCU08" mdate="2018-11-02">
+<author orcid="0000-0002-0612-4157" pid="03/107">Nicol&#225;s D'Ippolito</author>
+<author pid="75/395">Dario Fischbein</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>MTSA: The Modal Transition System Analyser.</title>
+<pages>475-476</pages>
+<year>2008</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2008.78</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2008.78</ee>
+<crossref>conf/kbse/2008</crossref>
+<url>db/conf/kbse/ase2008.html#DIppolitoFCU08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/HartKGCL08a" mdate="2017-05-23">
+<author pid="06/6741">Thomas E. Hart</author>
+<author pid="26/2910">Kelvin Ku</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="l/DavidLie">David Lie</author>
+<title>PtYasm: Software Model Checking with Proof Templates.</title>
+<pages>479-480</pages>
+<year>2008</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2008.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2008.80</ee>
+<crossref>conf/kbse/2008</crossref>
+<url>db/conf/kbse/ase2008.html#HartKGCL08a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rv/SimmondsCNLO08" mdate="2017-05-17">
+<author pid="33/3098">Jocelyn Simmonds</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="57/3937">Shiva Nejati</author>
+<author pid="48/2444">Elena Litani</author>
+<author pid="21/6950">Bill O'Farrell</author>
+<title>Property Patterns for Runtime Monitoring of Web Service Conversations.</title>
+<pages>137-157</pages>
+<year>2008</year>
+<booktitle>RV</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-89247-2_9</ee>
+<crossref>conf/rv/2008</crossref>
+<url>db/conf/rv/rv2008.html#SimmondsCNLO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/NejatiSCUZ08" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<author pid="z/PamelaZave">Pamela Zave</author>
+<title>Towards compositional synthesis of evolving systems.</title>
+<pages>285-296</pages>
+<year>2008</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1453101.1453143</ee>
+<crossref>conf/sigsoft/2008</crossref>
+<url>db/conf/sigsoft/fse2008.html#NejatiSCUZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/HartCL08" mdate="2020-03-12">
+<author pid="06/6741">Thomas E. Hart</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="l/DavidLie">David Lie</author>
+<title>Security Benchmarking using Partial Verification.</title>
+<year>2008</year>
+<booktitle>HotSec</booktitle>
+<ee type="oa">http://www.usenix.org/events/hotsec08/tech/full_papers/hart/hart.pdf</ee>
+<crossref>conf/uss/2008hotsec</crossref>
+<url>db/conf/uss/hotsec2008.html#HartCL08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cascon/2008" mdate="2018-11-30">
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<editor pid="86/1149">Mark R. Vigder</editor>
+<editor pid="66/1094">Darlene A. Stewart</editor>
+<title>Proceedings of the 2008 conference of the Centre for Advanced Studies on Collaborative Research, October 27-30, 2008, Richmond Hill, Ontario, Canada</title>
+<booktitle>CASCON</booktitle>
+<publisher>IBM</publisher>
+<year>2008</year>
+<ee>https://doi.org/10.1145/1463788</ee>
+<url>db/conf/cascon/cascon2008.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/concur/2008" mdate="2019-05-14">
+<editor pid="89/3661">Franck van Breugel</editor>
+<editor pid="c/MarshaChechik">Marsha Chechik</editor>
+<title>CONCUR 2008 - Concurrency Theory, 19th International Conference, CONCUR 2008, Toronto, Canada, August 19-22, 2008. Proceedings</title>
+<volume>5201</volume>
+<year>2008</year>
+<isbn>978-3-540-85360-2</isbn>
+<booktitle>CONCUR</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/978-3-540-85361-9</ee>
+<url>db/conf/concur/concur2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sttt/ChechikG07" mdate="2020-04-02">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>A framework for counterexample generation and exploration.</title>
+<pages>429-445</pages>
+<year>2007</year>
+<volume>9</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1007/s10009-007-0047-9</ee>
+<url>db/journals/sttt/sttt9.html#ChechikG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/GanCNBOW07" mdate="2020-06-15">
+<author pid="55/1858">Yuan Gan</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author pid="09/1685">Jon Bennett</author>
+<author pid="21/6950">Bill O'Farrell</author>
+<author pid="92/3853">Julie Waterhouse</author>
+<title>Runtime monitoring of web service conversations.</title>
+<pages>42-57</pages>
+<year>2007</year>
+<crossref>conf/cascon/2007</crossref>
+<booktitle>CASCON</booktitle>
+<ee>https://doi.org/10.1145/1321211.1321217</ee>
+<url>db/conf/cascon/cascon2007.html#GanCNBOW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eclipse/SalayCEDMNSV07" mdate="2019-10-19">
+<author pid="00/1125">Rick Salay</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="18/2744">Zinovy Diskin</author>
+<author pid="96/5964">Pete McCormick</author>
+<author pid="57/3937">Shiva Nejati</author>
+<author pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="60/2313">Petcharat Viriyakattiyaporn</author>
+<title>An Eclipse-based tool framework for software model management.</title>
+<pages>55-59</pages>
+<year>2007</year>
+<booktitle>ETX</booktitle>
+<ee>https://doi.org/10.1145/1328279.1328291</ee>
+<crossref>conf/eclipse/2007</crossref>
+<url>db/conf/eclipse/eclipse2007.html#SalayCEDMNSV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/ChechikGG07" mdate="2018-06-26">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="g/MihaelaGheorghiuBobaru">Mihaela Gheorghiu</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>Finding Environment Guarantees.</title>
+<pages>352-367</pages>
+<year>2007</year>
+<crossref>conf/fase/2007</crossref>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-71289-3_27</ee>
+<url>db/conf/fase/fase2007.html#ChechikGG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/SimmondsDGC07" mdate="2018-11-24">
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author pid="49/4230">Jessica Davies</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Exploiting Resolution Proofs to Speed Up LTL Vacuity Detection for BMC.</title>
+<pages>3-12</pages>
+<year>2007</year>
+<crossref>conf/fmcad/2007</crossref>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.1109/FAMCAD.2007.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FAMCAD.2007.16</ee>
+<ee>https://www.wikidata.org/entity/Q58757020</ee>
+<url>db/conf/fmcad/fmcad2007.html#SimmondsDGC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SabetzadehNEC07" mdate="2020-06-15">
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A Relationship-Driven Framework for Model Merging.</title>
+<pages>2</pages>
+<year>2007</year>
+<booktitle>MiSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/MISE.2007.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MISE.2007.4</ee>
+<crossref>conf/icse/2007mise</crossref>
+<url>db/conf/icse/mise2007.html#SabetzadehNEC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/UchitelBC07" mdate="2017-06-04">
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<author pid="43/3757">Greg Brunet</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Behaviour Model Synthesis from Properties and Scenarios.</title>
+<pages>34-43</pages>
+<year>2007</year>
+<crossref>conf/icse/2007</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2007.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2007.21</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1248837</ee>
+<url>db/conf/icse/icse2007.html#UchitelBC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/NejatiSCEZ07" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-4711-8319" pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="z/PamelaZave">Pamela Zave</author>
+<title>Matching and Merging of Statecharts Specifications.</title>
+<pages>54-64</pages>
+<year>2007</year>
+<crossref>conf/icse/2007</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2007.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2007.50</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1248839</ee>
+<url>db/conf/icse/icse2007.html#NejatiSCEZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifm/GheorghiuGC07" mdate="2017-05-24">
+<author pid="g/MihaelaGheorghiuBobaru">Mihaela Gheorghiu</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Finding State Solutions to Temporal Logic Queries.</title>
+<pages>273-292</pages>
+<year>2007</year>
+<crossref>conf/ifm/2007</crossref>
+<booktitle>IFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73210-5_15</ee>
+<url>db/conf/ifm/ifm2007.html#GheorghiuGC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/KuHCL07" mdate="2018-11-06">
+<author pid="26/2910">Kelvin Ku</author>
+<author pid="06/6741">Thomas E. Hart</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="l/DavidLie">David Lie</author>
+<title>A buffer overflow benchmark for software model checkers.</title>
+<pages>389-392</pages>
+<year>2007</year>
+<crossref>conf/kbse/2007</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1321631.1321691</ee>
+<url>db/conf/kbse/ase2007.html#KuHCL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/SabetzadehNLEC07" mdate="2019-10-19">
+<author pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="57/3937">Shiva Nejati</author>
+<author pid="91/4573">Sotirios Liaskos</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Consistency Checking of Conceptual Models via Model Merging.</title>
+<pages>221-230</pages>
+<year>2007</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2007.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RE.2007.18</ee>
+<crossref>conf/re/2007</crossref>
+<url>db/conf/re/re2007.html#SabetzadehNLEC07</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/ChechikGDLE06" mdate="2020-03-13">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="49/2772">Benet Devereux</author>
+<author pid="82/380">Albert Y. C. Lai</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<title>Data structures for symbolic multi-valued model-checking.</title>
+<pages>295-344</pages>
+<year>2006</year>
+<volume>29</volume>
+<journal>Formal Methods Syst. Des.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10703-006-0016-z</ee>
+<url>db/journals/fmsd/fmsd29.html#ChechikGDLE06</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/SabetzadehNEC06" mdate="2020-09-17">
+<author pid="25/6367">Mehrdad Sabetzadeh</author>
+<author pid="57/3937">Shiva Nejati</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A relationship-driven approach to view merging.</title>
+<pages>1-2</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/1218776.1218794</ee>
+<url>db/journals/sigsoft/sigsoft31.html#SabetzadehNEC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/GurfinkelWC06" mdate="2018-10-03">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="06/1562">Ou Wei</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Yasm: A Software Model-Checker for Verification and Refutation.</title>
+<pages>170-174</pages>
+<year>2006</year>
+<crossref>conf/cav/2006</crossref>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/11817963_18</ee>
+<url>db/conf/cav/cav2006.html#GurfinkelWC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/DevereuxC06" mdate="2018-06-26">
+<author pid="49/2772">Benet Devereux</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Automated Support for Building Behavioral Models of Event-Driven Systems.</title>
+<pages>122-138</pages>
+<year>2006</year>
+<crossref>conf/fase/2006</crossref>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/11693017_11</ee>
+<url>db/conf/fase/fase2006.html#DevereuxC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/BrunetCU06" mdate="2017-05-22">
+<author pid="43/3757">Greg Brunet</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Properties of Behavioural Model Merging.</title>
+<pages>98-114</pages>
+<year>2006</year>
+<crossref>conf/fm/2006</crossref>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/11813040_8</ee>
+<url>db/conf/fm/fm2006.html#BrunetCU06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/NejatiGC06" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author pid="g/MihaelaGheorghiuBobaru">Mihaela Gheorghiu</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Thorough Checking Revisited.</title>
+<pages>106-116</pages>
+<year>2006</year>
+<crossref>conf/fmcad/2006</crossref>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.1109/FMCAD.2006.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FMCAD.2006.33</ee>
+<url>db/conf/fmcad/fmcad2006.html#NejatiGC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/GurfinkelC06" mdate="2018-06-26">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Why Waste a Perfectly Good Abstraction?.</title>
+<pages>212-226</pages>
+<year>2006</year>
+<crossref>conf/tacas/2006</crossref>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11691372_14</ee>
+<url>db/conf/tacas/tacas2006.html#GurfinkelC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/GurfinkelWC06" mdate="2017-05-24">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="06/1562">Ou Wei</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Systematic Construction of Abstractions for Model-Checking.</title>
+<pages>381-397</pages>
+<year>2006</year>
+<crossref>conf/vmcai/2006</crossref>
+<booktitle>VMCAI</booktitle>
+<ee>https://doi.org/10.1007/11609773_25</ee>
+<url>db/conf/vmcai/vmcai2006.html#GurfinkelWC06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/ChechikBFU06" mdate="2018-08-23">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="43/3757">Greg Brunet</author>
+<author pid="75/395">Dario Fischbein</author>
+<author pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Partial Behavioural Models for Requirements and Early Design.</title>
+<year>2006</year>
+<booktitle>MMOSS</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/858</ee>
+<crossref>conf/dagstuhl/2006P6351</crossref>
+<url>db/conf/dagstuhl/P6351.html#ChechikBFU06</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/BerezinBSCGD05" mdate="2021-02-12">
+<author pid="05/2504">Sergey Berezin</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author pid="19/4507">Igor Shikanian</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="d/DavidLDill">David L. Dill</author>
+<title>A Practical Approach to Partial Functions in CVC Lite.</title>
+<pages>13-23</pages>
+<year>2005</year>
+<volume>125</volume>
+<journal>Electron. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2004.06.064</ee>
+<url>db/journals/entcs/entcs125.html#BerezinBSCGD05</url>
+</article>
+</r>
+<r><inproceedings key="conf/charme/GurfinkelC05" mdate="2018-06-26">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>How Thorough Is Thorough Enough?</title>
+<pages>65-80</pages>
+<year>2005</year>
+<crossref>conf/charme/2005</crossref>
+<booktitle>CHARME</booktitle>
+<ee type="oa">https://doi.org/10.1007/11560548_8</ee>
+<url>db/conf/charme/charme2005.html#GurfinkelC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/charme/WeiGC05" mdate="2018-06-26">
+<author pid="06/1562">Ou Wei</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Identification and Counter Abstraction for Full Virtual Symmetry.</title>
+<pages>285-300</pages>
+<year>2005</year>
+<crossref>conf/charme/2005</crossref>
+<booktitle>CHARME</booktitle>
+<ee type="oa">https://doi.org/10.1007/11560548_22</ee>
+<url>db/conf/charme/charme2005.html#WeiGC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/ChechikG05" mdate="2018-06-26">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>A Framework for Counterexample Generation and Exploration.</title>
+<pages>220-236</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31984-9_17</ee>
+<year>2005</year>
+<crossref>conf/fase/2005</crossref>
+<booktitle>FASE</booktitle>
+<url>db/conf/fase/fase2005.html#ChechikG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/NejatiC05" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Let's agree to disagree.</title>
+<pages>287-290</pages>
+<year>2005</year>
+<crossref>conf/kbse/2005</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1101908.1101952</ee>
+<url>db/conf/kbse/ase2005.html#NejatiC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/NejatiGC05" mdate="2020-06-15">
+<author orcid="0000-0002-0281-8231" pid="57/3937">Shiva Nejati</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Stuttering Abstraction for Model Checkin.</title>
+<pages>311-320</pages>
+<year>2005</year>
+<crossref>conf/sefm/2005</crossref>
+<booktitle>SEFM</booktitle>
+<ee>https://doi.org/10.1109/SEFM.2005.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SEFM.2005.44</ee>
+<url>db/conf/sefm/sefm2005.html#NejatiGC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vstte/ChechikG05" mdate="2018-06-26">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>Model-Checking Software Using Precise Abstractions.</title>
+<pages>347-353</pages>
+<year>2005</year>
+<booktitle>VSTTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-69149-5_37</ee>
+<crossref>conf/vstte/2005</crossref>
+<url>db/conf/vstte/vstte2005.html#ChechikG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/GurfinkelC04" mdate="2017-05-17">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Extending Extended Vacuity.</title>
+<pages>306-321</pages>
+<ee>https://doi.org/10.1007/978-3-540-30494-4_22</ee>
+<year>2004</year>
+<crossref>conf/fmcad/2004</crossref>
+<booktitle>FMCAD</booktitle>
+<url>db/conf/fmcad/fmcad2004.html#GurfinkelC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/UchitelC04" mdate="2018-11-06">
+<author pid="21/1391">Sebasti&#225;n Uchitel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Merging partial behavioural models.</title>
+<pages>43-52</pages>
+<year>2004</year>
+<crossref>conf/sigsoft/2004</crossref>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/1029894.1029904</ee>
+<url>db/conf/sigsoft/fse2004.html#UchitelC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/GurfinkelC04" mdate="2017-05-24">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>How Vacuous Is Vacuous?</title>
+<pages>451-466</pages>
+<ee>https://doi.org/10.1007/978-3-540-24730-2_34</ee>
+<year>2004</year>
+<crossref>conf/tacas/2004</crossref>
+<booktitle>TACAS</booktitle>
+<url>db/conf/tacas/tacas2004.html#GurfinkelC04</url>
+</inproceedings>
+</r>
+<r><article key="journals/mvl/DevereuxC03" mdate="2020-04-02">
+<author pid="49/2772">Benet Devereux</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Edge-Shifted Decision Diagrams for Multiple-Valued Logic.</title>
+<pages>59-86</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>J. Multiple Valued Log. Soft Comput.</journal>
+<number>1</number>
+<ee>http://www.oldcitypublishing.com/journals/mvlsc-home/mvlsc-issue-contents/mvlsc-volume-9-number-1-2003/mvlsc-9-1-p-59-86/</ee>
+<url>db/journals/mvl/mvl9.html#DevereuxC03</url>
+</article>
+</r>
+<r><article key="journals/tosem/ChechikDEG03" mdate="2019-10-19">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="49/2772">Benet Devereux</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>Multi-valued symbolic model-checking.</title>
+<pages>371-408</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/990010.990011</ee>
+<url>db/journals/tosem/tosem12.html#ChechikDEG03</url>
+</article>
+</r>
+<r><article key="journals/tse/GurfinkelCD03" mdate="2017-05-17">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="49/2772">Benet Devereux</author>
+<title>Temporal Logic Query Checking: A Tool for Model Exploration.</title>
+<pages>898-914</pages>
+<year>2003</year>
+<volume>29</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSE.2003.1237171</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2003.1237171</ee>
+<url>db/journals/tse/tse29.html#GurfinkelCD03</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/ChechikG03" mdate="2017-05-25">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>TLQSolver: A Temporal Logic Query Checker.</title>
+<pages>210-214</pages>
+<ee>https://doi.org/10.1007/978-3-540-45069-6_21</ee>
+<year>2003</year>
+<crossref>conf/cav/2003</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav2003.html#ChechikG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/GurfinkelC03" mdate="2017-05-23">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Multi-Valued Model Checking via Classical Model Checking.</title>
+<pages>263-277</pages>
+<ee>https://doi.org/10.1007/978-3-540-45187-7_18</ee>
+<year>2003</year>
+<crossref>conf/concur/2003</crossref>
+<booktitle>CONCUR</booktitle>
+<url>db/conf/concur/concur2003.html#GurfinkelC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/GurfinkelC03" mdate="2017-05-22">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Generating Counterexamples for Multi-valued Model-Checking.</title>
+<pages>503-521</pages>
+<ee>https://doi.org/10.1007/978-3-540-45236-2_28</ee>
+<year>2003</year>
+<crossref>conf/fm/2003</crossref>
+<booktitle>FME</booktitle>
+<url>db/conf/fm/fme2003.html#GurfinkelC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/EasterbrookCDGLPTT03" mdate="2017-05-23">
+<author pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="49/2772">Benet Devereux</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="82/380">Albert Y. C. Lai</author>
+<author pid="52/6694">Victor Petrovykh</author>
+<author pid="43/1637">Anya Tafliovich</author>
+<author pid="116/4610">Christopher D. Thompson-Walsh</author>
+<title>\chiChek: A Model Checker for Multi-Valued Reasoning.</title>
+<pages>804-805</pages>
+<year>2003</year>
+<crossref>conf/icse/2003</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2003.1201295</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2003.1201295</ee>
+<ee>http://dl.acm.org/citation.cfm?id=776960</ee>
+<url>db/conf/icse/icse2003.html#EasterbrookCDGLPTT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismvl/ChechikM03" mdate="2017-05-26">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="33/702">Wendy MacCaull</author>
+<title>CTL Model-Checking over Logics with Non-Classical Negations.</title>
+<pages>293-302</pages>
+<year>2003</year>
+<crossref>conf/ismvl/2003</crossref>
+<booktitle>ISMVL</booktitle>
+<ee>https://doi.org/10.1109/ISMVL.2003.1201420</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISMVL.2003.1201420</ee>
+<url>db/conf/ismvl/ismvl2003.html#ChechikM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/GurfinkelC03" mdate="2017-05-24">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Proof-Like Counter-Examples.</title>
+<pages>160-175</pages>
+<year>2003</year>
+<crossref>conf/tacas/2003</crossref>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36577-X_12</ee>
+<url>db/conf/tacas/tacas2003.html#GurfinkelC03</url>
+</inproceedings>
+</r>
+<r><article key="journals/isf/ChechikD02" mdate="2020-03-13">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="59/622">Wei Ding</author>
+<title>Lightweight Reasoning about Program Correctness.</title>
+<pages>363-377</pages>
+<year>2002</year>
+<volume>4</volume>
+<journal>Inf. Syst. Frontiers</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/A:1020883625495</ee>
+<url>db/journals/isf/isf4.html#ChechikD02</url>
+</article>
+</r>
+<r><article key="journals/jss/ChechikW02" mdate="2020-02-24">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="62/1517">Andre Wong</author>
+<title>Formal modeling in a commercial setting: A case study.</title>
+<pages>59-82</pages>
+<year>2002</year>
+<volume>60</volume>
+<journal>J. Syst. Softw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0164-1212(01)00080-2</ee>
+<url>db/journals/jss/jss60.html#ChechikW02</url>
+</article>
+</r>
+<r><article key="journals/re/EasterbrookC02" mdate="2019-10-19">
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Guest Editorial: Special Issue on Model Checking in Requirements Engineering.</title>
+<pages>221-224</pages>
+<year>2002</year>
+<volume>7</volume>
+<journal>Requir. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s007660200017</ee>
+<url>db/journals/re/re7.html#EasterbrookC02</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/ChechikGD02" mdate="2017-05-25">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="49/2772">Benet Devereux</author>
+<title>chi-Chek: A Multi-valued Model-Checker.</title>
+<pages>505-509</pages>
+<year>2002</year>
+<crossref>conf/cav/2002</crossref>
+<booktitle>CAV</booktitle>
+<ee>https://doi.org/10.1007/3-540-45657-0_41</ee>
+<url>db/conf/cav/cav2002.html#ChechikGD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GurfinkelDC02" mdate="2018-11-06">
+<author pid="44/3532">Arie Gurfinkel</author>
+<author pid="49/2772">Benet Devereux</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Model exploration with temporal logic query checking.</title>
+<pages>139-148</pages>
+<year>2002</year>
+<crossref>conf/sigsoft/2002</crossref>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/587051.587073</ee>
+<url>db/conf/sigsoft/fse2002.html#GurfinkelDC02</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/EasterbrookC01" mdate="2020-09-17">
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>2nd international workshop on living with inconsistency (IWLWI01).</title>
+<pages>76-78</pages>
+<year>2001</year>
+<volume>26</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/505532.505552</ee>
+<url>db/journals/sigsoft/sigsoft26.html#EasterbrookC01</url>
+</article>
+</r>
+<r><article key="journals/tse/ChechikG01" mdate="2017-05-17">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="g/JohnDGannon">John D. Gannon</author>
+<title>Automatic Analysis of Consistency between Requirements and Designs.</title>
+<pages>651-672</pages>
+<year>2001</year>
+<volume>27</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/32.935856</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.935856</ee>
+<url>db/journals/tse/tse27.html#ChechikG01</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/ChechikD01" mdate="2018-11-30">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="59/622">Wei Ding</author>
+<title>Lightweight reasoning about program correctness.</title>
+<pages>1</pages>
+<year>2001</year>
+<crossref>conf/cascon/2001</crossref>
+<booktitle>CASCON</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=782097</ee>
+<url>db/conf/cascon/cascon2001.html#ChechikD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/ChechikDELP01" mdate="2019-10-19">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="49/2772">Benet Devereux</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="82/380">Albert Y. C. Lai</author>
+<author pid="52/6694">Victor Petrovykh</author>
+<title>Efficient Multiple-Valued Model-Checking Using Lattice Representations.</title>
+<pages>441-455</pages>
+<year>2001</year>
+<crossref>conf/concur/2001</crossref>
+<booktitle>CONCUR</booktitle>
+<ee>https://doi.org/10.1007/3-540-44685-0_30</ee>
+<url>db/conf/concur/concur2001.html#ChechikDELP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/ChechikEP01" mdate="2019-10-19">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="52/6694">Victor Petrovykh</author>
+<title>Model-Checking over Multi-valued Logics.</title>
+<pages>72-98</pages>
+<year>2001</year>
+<crossref>conf/fm/2001</crossref>
+<booktitle>FME</booktitle>
+<ee>https://doi.org/10.1007/3-540-45251-6_5</ee>
+<url>db/conf/fm/fme2001.html#ChechikEP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/EasterbrookC01" mdate="2017-05-23">
+<author pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>A Framework for Multi-Valued Reasoning over Inconsistent Viewpoints.</title>
+<pages>411-420</pages>
+<year>2001</year>
+<crossref>conf/icse/2001</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse2001.html#EasterbrookC01</url>
+<ee>https://doi.org/10.1109/ICSE.2001.919114</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2001.919114</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/EasterbrookC01a" mdate="2017-05-23">
+<author pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>2nd International Workshop on Living with Inconsistency.</title>
+<pages>749-750</pages>
+<year>2001</year>
+<crossref>conf/icse/2001</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse2001.html#EasterbrookC01a</url>
+<ee>https://doi.org/10.1109/ICSE.2001.919157</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2001.919157</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismvl/ChechikED01" mdate="2017-05-26">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<author pid="49/2772">Benet Devereux</author>
+<title>Model Checking with Multi-Valued Temporal Logics.</title>
+<pages>187-192</pages>
+<year>2001</year>
+<crossref>conf/ismvl/2001</crossref>
+<booktitle>ISMVL</booktitle>
+<url>db/conf/ismvl/ismvl2001.html#ChechikED01</url>
+<ee>https://doi.org/10.1109/ISMVL.2001.924571</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISMVL.2001.924571</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/ChechikDG01" mdate="2017-05-17">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="49/2772">Benet Devereux</author>
+<author pid="44/3532">Arie Gurfinkel</author>
+<title>Model-Checking Infinite State-Space Systems with Fine-Grained Abstractions Using SPIN.</title>
+<pages>16-36</pages>
+<year>2001</year>
+<crossref>conf/spin/2001</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/3-540-45139-0_3</ee>
+<url>db/conf/spin/spin2001.html#ChechikDG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/ChechikDE01" mdate="2019-10-19">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="49/2772">Benet Devereux</author>
+<author orcid="0000-0002-3261-6446" pid="e/SMEasterbrook">Steve M. Easterbrook</author>
+<title>Implementing a Multi-valued Symbolic Model Checker.</title>
+<pages>404-419</pages>
+<year>2001</year>
+<crossref>conf/tacas/2001</crossref>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45319-9_28</ee>
+<url>db/conf/tacas/tacas2001.html#ChechikDE01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cascon/ChechikW00" mdate="2018-11-30">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="59/3767">Hai Wang</author>
+<title>Bisimulation analysis of SDL-expressed protocols: a case study.</title>
+<pages>2</pages>
+<year>2000</year>
+<crossref>conf/cascon/2000</crossref>
+<booktitle>CASCON</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=782036</ee>
+<url>db/conf/cascon/cascon2000.html#ChechikW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/WongC99" mdate="2017-05-22">
+<author pid="62/1517">Andre Wong</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Formal Modeling in a Commercial Setting: A Case Study.</title>
+<pages>590-607</pages>
+<year>1999</year>
+<crossref>conf/fm/1999-1</crossref>
+<booktitle>World Congress on Formal Methods</booktitle>
+<ee>https://doi.org/10.1007/3-540-48119-2_33</ee>
+<url>db/conf/fm/fm1999-1.html#WongC99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/PaunC99" mdate="2017-05-22">
+<author pid="90/1232">Dimitrie O. Paun</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Events in Linear-Time Properties.</title>
+<pages>123-132</pages>
+<year>1999</year>
+<crossref>conf/re/1999</crossref>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/ISRE.1999.777992</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISRE.1999.777992</ee>
+<url>db/conf/re/re1999.html#PaunC99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/ChechikP99" mdate="2017-05-17">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="90/1232">Dimitrie O. Paun</author>
+<title>Events in Property Patterns.</title>
+<pages>154-167</pages>
+<year>1999</year>
+<crossref>conf/spin/1999</crossref>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/3-540-48234-2_13</ee>
+<url>db/conf/spin/spin1999.html#ChechikP99</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-SE-9906029" mdate="2020-01-10">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="90/1232">Dimitrie O. Paun</author>
+<title>Events in Property Patterns</title>
+<ee type="oa">https://arxiv.org/abs/cs/9906029</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.SE/9906029</volume>
+<url>db/journals/corr/corr9906.html#cs-SE-9906029</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-SE-9906030" mdate="2020-01-10">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>SCR3: towards usability of formal methods</title>
+<ee type="oa">https://arxiv.org/abs/cs/9906030</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.SE/9906030</volume>
+<url>db/journals/corr/corr9906.html#cs-SE-9906030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-SE-9906031" mdate="2020-01-10">
+<author pid="90/1232">Dimitrie O. Paun</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Events in Linear-Time Properties</title>
+<ee type="oa">https://arxiv.org/abs/cs/9906031</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.SE/9906031</volume>
+<url>db/journals/corr/corr9906.html#cs-SE-9906031</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-SE-9906032" mdate="2020-01-10">
+<author pid="62/1517">Andre Wong</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Formal Modeling in a Commercial Setting: A Case Study</title>
+<ee type="oa">https://arxiv.org/abs/cs/9906032</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.SE/9906032</volume>
+<url>db/journals/corr/corr9906.html#cs-SE-9906032</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/Chechik98" mdate="2018-11-30">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>SC(R)<sup>3</sup>: towards usability of formal methods.</title>
+<pages>8</pages>
+<year>1998</year>
+<crossref>conf/cascon/1998</crossref>
+<booktitle>CASCON</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=783168</ee>
+<url>db/conf/cascon/cascon1998.html#Chechik98</url>
+</inproceedings>
+</r>
+<r><article key="journals/ac/AtleeCG96" mdate="2020-05-20">
+<author pid="a/JMAtlee">Joanne M. Atlee</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="g/JohnDGannon">John D. Gannon</author>
+<title>Using Model Checking to Analyze Requirements and Designs.</title>
+<pages>141-178</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Adv. Comput.</journal>
+<url>db/journals/ac/ac43.html#AtleeCG96</url>
+<ee>https://doi.org/10.1016/S0065-2458(08)60643-9</ee>
+</article>
+</r>
+<r><inproceedings key="conf/issta/ChechikG94" mdate="2018-11-06">
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<author pid="g/JohnDGannon">John D. Gannon</author>
+<title>Automatic Verification of Requirements Implementation.</title>
+<pages>1-14</pages>
+<year>1994</year>
+<crossref>conf/issta/1994</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>https://doi.org/10.1145/186258.186324</ee>
+<url>db/conf/issta/issta94.html#ChechikG94</url>
+</inproceedings>
+</r>
+<coauthors n="151" nc="1">
+<co c="0"><na f="a/Albarghouthi:Aws" pid="90/8295">Aws Albarghouthi</na></co>
+<co c="0"><na f="a/Alrajeh:Dalal" pid="39/5298">Dalal Alrajeh</na></co>
+<co c="0"><na f="a/Arendt:Thorsten" pid="74/8522">Thorsten Arendt</na></co>
+<co c="0"><na f="a/Atlee:Joanne_M=" pid="a/JMAtlee">Joanne M. Atlee</na></co>
+<co c="0"><na f="b/Baillargeon:Robert" pid="47/1706">Robert Baillargeon</na></co>
+<co c="0"><na f="b/Barrett:Clark_W=" pid="b/ClarkWBarrett">Clark W. Barrett</na></co>
+<co c="0"><na f="b/Becker_0002:Martin" pid="21/3320-2">Martin Becker 0002</na></co>
+<co c="0"><na f="b/Ben=David:Naama" pid="165/0765">Naama Ben-David</na></co>
+<co c="0"><na f="b/Ben=David:Shoham" pid="46/3025">Shoham Ben-David</na></co>
+<co c="0"><na f="b/Bennett:Jon" pid="09/1685">Jon Bennett</na></co>
+<co c="0"><na f="b/Berezin:Sergey" pid="05/2504">Sergey Berezin</na></co>
+<co c="0"><na f="b/Berger:Thorsten" pid="22/6472">Thorsten Berger</na></co>
+<co c="-1"><na f="b/Blazy:Sandrine" pid="b/SandrineBlazy">Sandrine Blazy</na></co>
+<co c="0" n="2"><na f="b/Bobaru:Mihaela_Gheorghiu" pid="g/MihaelaGheorghiuBobaru">Mihaela Gheorghiu Bobaru</na><na>Mihaela Gheorghiu</na></co>
+<co c="0"><na f="b/Botterweck:Goetz" pid="60/2897">Goetz Botterweck</na></co>
+<co c="0"><na f="b/Braberman:V=iacute=ctor_A=" pid="b/VictorABraberman">V&#237;ctor A. Braberman</na></co>
+<co c="-1"><na f="b/Breugel:Franck_van" pid="89/3661">Franck van Breugel</na></co>
+<co c="0"><na f="b/Brunet:Greg" pid="43/3757">Greg Brunet</na></co>
+<co c="0"><na f="c/Cabot:Jordi" pid="18/948">Jordi Cabot</na></co>
+<co c="0"><na f="c/Caso:Guido_de" pid="99/5082">Guido de Caso</na></co>
+<co c="0"><na f="c/Cassano:Valentin" pid="140/7429">Valentin Cassano</na></co>
+<co c="0"><na f="c/Chaki:Sagar" pid="79/5752">Sagar Chaki</na></co>
+<co c="0"><na f="c/Chan:Allen" pid="80/4391">Allen Chan</na></co>
+<co c="0" n="2"><na f="c/Chaudron:Michel_R=_V=" pid="c/MRVChaudron">Michel R. V. Chaudron</na><na>Michel Chaudron</na></co>
+<co c="0"><na f="c/Chung:Christina" pid="126/6700">Christina Chung</na></co>
+<co c="0"><na f="c/Cordy:James_R=" pid="c/JamesRCordy">James R. Cordy</na></co>
+<co c="0"><na f="c/Crnkovic:Ivica" pid="c/IvicaCrnkovic">Ivica Crnkovic</na></co>
+<co c="0"><na f="c/Czarnecki:Krzysztof" pid="72/6806">Krzysztof Czarnecki</na></co>
+<co c="0"><na f="d/Dalpiaz:Fabiano" pid="00/203">Fabiano Dalpiaz</na></co>
+<co c="0"><na f="d/Davies:Jessica" pid="49/4230">Jessica Davies</na></co>
+<co c="0"><na f="d/Debreceni:Csaba" pid="150/9036">Csaba Debreceni</na></co>
+<co c="0"><na f="d/Devereux:Benet" pid="49/2772">Benet Devereux</na></co>
+<co c="0"><na f="d/Dill:David_L=" pid="d/DavidLDill">David L. Dill</na></co>
+<co c="-1"><na f="d/Ding:Wei" pid="59/622">Wei Ding</na></co>
+<co c="0"><na f="d/Dingel:J=uuml=rgen" pid="20/3440">J&#252;rgen Dingel</na></co>
+<co c="0"><na f="d/D=Ippolito:Nicol=aacute=s" pid="03/107">Nicol&#225;s D'Ippolito</na></co>
+<co c="0"><na f="d/Disenfeld:Cynthia" pid="57/11135">Cynthia Disenfeld</na></co>
+<co c="0"><na f="d/Diskin:Zinovy" pid="18/2744">Zinovy Diskin</na></co>
+<co c="0" n="2"><na f="e/Easterbrook:Steve_M=" pid="e/SMEasterbrook">Steve M. Easterbrook</na><na>Steve Easterbrook</na></co>
+<co c="0"><na f="e/Egyed:Alexander" pid="20/5529">Alexander Egyed</na></co>
+<co c="0"><na f="f/Famelis:Michalis" pid="82/11109">Michalis Famelis</na></co>
+<co c="0"><na f="f/Feng:Nick" pid="268/7199">Nick Feng</na></co>
+<co c="0"><na f="f/Fischbein:Dario" pid="75/395">Dario Fischbein</na></co>
+<co c="0"><na f="f/France:Robert_B=" pid="f/RBFrance">Robert B. France</na></co>
+<co c="0"><na f="f/Fung:Nick_L=_S=" pid="225/7890">Nick L. S. Fung</na></co>
+<co c="0"><na f="g/Gan:Yuan" pid="55/1858">Yuan Gan</na></co>
+<co c="0"><na f="g/Gannon:John_D=" pid="g/JohnDGannon">John D. Gannon</na></co>
+<co c="0"><na f="g/Garbervetsky:Diego" pid="g/DiegoGarbervetsky">Diego Garbervetsky</na></co>
+<co c="0"><na f="g/Georg:Geri" pid="66/1355">Geri Georg</na></co>
+<co c="0"><na f="g/Ghezzi:Carlo" pid="g/CarloGhezzi">Carlo Ghezzi</na></co>
+<co c="0"><na f="g/Gligoric:Milos" pid="43/6015">Milos Gligoric</na></co>
+<co c="0"><na f="g/Gogolla:Martin" pid="g/MartinGogolla">Martin Gogolla</na></co>
+<co c="0"><na f="g/Gorzny:Jan" pid="09/11466">Jan Gorzny</na></co>
+<co c="0" n="2"><na f="g/Gray:Jeffrey_G=" pid="g/JeffreyGGray">Jeffrey G. Gray</na><na>Jeff Gray</na></co>
+<co c="0"><na f="g/Grubb:Alicia_M=" pid="94/10915">Alicia M. Grubb</na></co>
+<co c="0"><na f="g/Gr=uuml=nbacher:Paul" pid="g/PGrunbacher">Paul Gr&#252;nbacher</na></co>
+<co c="0"><na f="g/Guerra:Esther" pid="75/4962">Esther Guerra</na></co>
+<co c="0"><na f="g/Guo:Jin_L=_C=" pid="73/4155-4">Jin L. C. Guo</na></co>
+<co c="0"><na f="g/Gurfinkel:Arie" pid="44/3532">Arie Gurfinkel</na></co>
+<co c="0"><na f="h/Harman:Mark" pid="h/MarkHarman">Mark Harman</na></co>
+<co c="0"><na f="h/Hart:Thomas_E=" pid="06/6741">Thomas E. Hart</na></co>
+<co c="0"><na f="h/Horkoff:Jennifer" pid="92/5983">Jennifer Horkoff</na></co>
+<co c="0"><na f="h/Hu:Boyue_Caroline" pid="245/0715">Boyue Caroline Hu</na></co>
+<co c="0"><na f="h/Hu:Zhenjiang" pid="24/5199">Zhenjiang Hu</na></co>
+<co c="0"><na f="h/Hui:Vincent" pid="282/6358">Vincent Hui</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Jean=Marc" pid="j/JeanMarcJezequel">Jean-Marc J&#233;z&#233;quel</na></co>
+<co c="0"><na f="k/Kadan:Amit" pid="205/5761">Amit Kadan</na></co>
+<co c="-1"><na f="k/Kanstr=eacute=n:Teemu" pid="88/2904">Teemu Kanstr&#233;n</na></co>
+<co c="0"><na f="k/Kehrer:Timo" pid="24/9748">Timo Kehrer</na></co>
+<co c="0"><na f="k/Kincaid:Zachary" pid="61/6578">Zachary Kincaid</na></co>
+<co c="0"><na f="k/Kirshin:Andrei" pid="29/3111">Andrei Kirshin</na></co>
+<co c="0"><na f="k/Kokaly:Sahar" pid="136/7646">Sahar Kokaly</na></co>
+<co c="0" n="2"><na f="k/Kolovos:Dimitrios_S=" pid="85/48">Dimitrios S. Kolovos</na><na>Dimitris S. Kolovos</na></co>
+<co c="0"><na f="k/Korenko:Michal" pid="174/1233">Michal Korenko</na></co>
+<co c="0"><na f="k/Kramer:Jeff" pid="k/JeffKramer">Jeff Kramer</na></co>
+<co c="0"><na f="k/Ku:Kelvin" pid="26/2910">Kelvin Ku</na></co>
+<co c="0"><na f="k/Kulkarni:Vinay" pid="51/3678">Vinay Kulkarni</na></co>
+<co c="0"><na f="l/Lai:Albert_Y=_C=" pid="82/380">Albert Y. C. Lai</na></co>
+<co c="0"><na f="l/Lai:Winnie" pid="166/5034">Winnie Lai</na></co>
+<co c="0"><na f="l/Lara:Juan_de" pid="l/JuandeLara">Juan de Lara</na></co>
+<co c="0"><na f="l/Lawford:Mark" pid="28/5160">Mark Lawford</na></co>
+<co c="0"><na f="l/Li_0008:Yi" pid="59/871-8">Yi Li 0008</na></co>
+<co c="0"><na f="l/Liaskos:Sotirios" pid="91/4573">Sotirios Liaskos</na></co>
+<co c="0"><na f="l/Lie:David" pid="l/DavidLie">David Lie</na></co>
+<co c="0"><na f="l/Litani:Elena" pid="48/2444">Elena Litani</na></co>
+<co c="0" n="2"><na f="l/Lopez=Herrejon:Roberto_Erick" pid="56/497">Roberto Erick Lopez-Herrejon</na><na>Roberto E. Lopez-Herrejon</na></co>
+<co c="0"><na f="l/Lucio:Levi" pid="21/6900">Levi Lucio</na></co>
+<co c="0"><na f="m/MacCaull:Wendy" pid="33/702">Wendy MacCaull</na></co>
+<co c="0" n="2"><na f="m/Maibaum:T=_S=_E=" pid="m/TSEMaibaum">T. S. E. Maibaum</na><na>Tom Maibaum</na></co>
+<co c="0"><na f="m/Maksimov:Mike" pid="225/7909">Mike Maksimov</na></co>
+<co c="0"><na f="m/Mashiyat:Ahmed_Shah" pid="49/8483">Ahmed Shah Mashiyat</na></co>
+<co c="0"><na f="m/Matsuoka:Asako" pid="180/3287">Asako Matsuoka</na></co>
+<co c="0"><na f="m/McCormick:Pete" pid="96/5964">Pete McCormick</na></co>
+<co c="0"><na f="m/Menghi:Claudio" pid="121/2789">Claudio Menghi</na></co>
+<co c="0"><na f="m/Mora:Federico" pid="82/5093">Federico Mora</na></co>
+<co c="0"><na f="n/Nalchigar:Soroosh" pid="16/7432">Soroosh Nalchigar</na></co>
+<co c="0"><na f="n/Nejati:Shiva" pid="57/3937">Shiva Nejati</na></co>
+<co c="0"><na f="n/Nuseibeh:Bashar" pid="26/1319">Bashar Nuseibeh</na></co>
+<co c="0"><na f="o/O=Farrell:Bill" pid="21/6950">Bill O'Farrell</na></co>
+<co c="0"><na f="o/Ostroff:Jonathan_S=" pid="39/1187">Jonathan S. Ostroff</na></co>
+<co c="0"><na f="p/Paige:Richard_F=" pid="p/RichardFPaige">Richard F. Paige</na></co>
+<co c="-1"><na f="p/Paun:Dimitrie_O=" pid="90/1232">Dimitrie O. Paun</na></co>
+<co c="0"><na f="p/Petrini:Brian" pid="12/9163">Brian Petrini</na></co>
+<co c="0"><na f="p/Petrovykh:Victor" pid="52/6694">Victor Petrovykh</na></co>
+<co c="0"><na f="p/Pl=ouml=ger:Jennifer" pid="177/6107">Jennifer Pl&#246;ger</na></co>
+<co c="0" n="2"><na f="r/Rabiser:Daniela" pid="07/9990">Daniela Rabiser</na><na>Daniela Lettner</na></co>
+<co c="0"><na f="r/Rahimi:Mona" pid="150/9109">Mona Rahimi</na></co>
+<co c="0"><na f="r/Ramesh:S=" pid="181/2816">S. Ramesh</na></co>
+<co c="0"><na f="r/Raskin:Jean=Fran=ccedil=ois" pid="05/4174">Jean-Fran&#231;ois Raskin</na></co>
+<co c="0"><na f="r/R=aacute=th:Istv=aacute=n" pid="07/4090">Istv&#225;n R&#225;th</na></co>
+<co c="0"><na f="r/Rubin:Julia" pid="26/4417">Julia Rubin</na></co>
+<co c="0"><na f="r/Rumpe:Bernhard" pid="r/BernhardRumpe">Bernhard Rumpe</na></co>
+<co c="0"><na f="r/Ruscio:Davide_Di" pid="r/DavideDiRuscio">Davide Di Ruscio</na></co>
+<co c="0"><na f="r/Russo:Alessandra" pid="79/683">Alessandra Russo</na></co>
+<co c="0"><na f="s/Sabetzadeh:Mehrdad" pid="25/6367">Mehrdad Sabetzadeh</na></co>
+<co c="0"><na f="s/Salay:Rick" pid="00/1125">Rick Salay</na></co>
+<co c="0"><na f="s/Sandro:Alessio_Di" pid="08/9739">Alessio Di Sandro</na></co>
+<co c="0"><na f="s/Sassolas:Mathieu" pid="13/8864">Mathieu Sassolas</na></co>
+<co c="0"><na f="s/Schindler:Martin" pid="03/7000">Martin Schindler</na></co>
+<co c="0"><na f="s/Selim:Gehan_M=_K=" pid="80/8767">Gehan M. K. Selim</na></co>
+<co c="0"><na f="s/Shahin:Ramy" pid="132/2259">Ramy Shahin</na></co>
+<co c="0"><na f="s/Shikanian:Igor" pid="19/4507">Igor Shikanian</na></co>
+<co c="0"><na f="s/Sibay:German_E=" pid="22/3618">German E. Sibay</na></co>
+<co c="0"><na f="s/Silva:Adeline" pid="71/9550">Adeline Silva</na></co>
+<co c="0"><na f="s/Simmonds:Jocelyn" pid="33/3098">Jocelyn Simmonds</na></co>
+<co c="0"><na f="s/Song:Gary" pid="161/0591">Gary Song</na></co>
+<co c="0"><na f="s/Spoletini:Paola" pid="92/1332">Paola Spoletini</na></co>
+<co c="0"><na f="s/Stavropoulou:Ioanna" pid="200/2871">Ioanna Stavropoulou</na></co>
+<co c="0"><na f="s/Stewart:Darlene_A=" pid="66/1094">Darlene A. Stewart</na></co>
+<co c="0"><na f="s/Str=uuml=ber_0001:Daniel" pid="46/11388-1">Daniel Str&#252;ber 0001</na></co>
+<co c="0"><na f="t/Taentzer:Gabriele" pid="t/GabrieleTaentzer">Gabriele Taentzer</na></co>
+<co c="0"><na f="t/Tafliovich:Anya" pid="43/1637">Anya Tafliovich</na></co>
+<co c="0"><na f="t/Tan:Tian_Huat" pid="03/9862">Tian Huat Tan</na></co>
+<co c="0"><na f="t/Thompson=Walsh:Christopher_D=" pid="116/4610">Christopher D. Thompson-Walsh</na></co>
+<co c="0"><na f="t/Torshizi:Faraz_Ahmadi" pid="68/4716">Faraz Ahmadi Torshizi</na></co>
+<co c="0"><na f="u/Uchitel:Sebasti=aacute=n" pid="21/1391">Sebasti&#225;n Uchitel</na></co>
+<co c="0"><na f="v/Vangheluwe:Hans" pid="v/HansVangheluwe">Hans Vangheluwe</na></co>
+<co c="0"><na f="v/Varr=oacute=:D=aacute=niel" pid="53/1883">D&#225;niel Varr&#243;</na></co>
+<co c="0"><na f="v/Vigder:Mark_R=" pid="86/1149">Mark R. Vigder</na></co>
+<co c="0"><na f="v/Viger:Torin" pid="238/3197">Torin Viger</na></co>
+<co c="0"><na f="v/Viriyakattiyaporn:Petcharat" pid="60/2313">Petcharat Viriyakattiyaporn</na></co>
+<co c="-1"><na f="w/Wang:Hai" pid="59/3767">Hai Wang</na></co>
+<co c="0"><na f="w/Waterhouse:Julie" pid="92/3853">Julie Waterhouse</na></co>
+<co c="0"><na f="w/Wei:Ou" pid="06/1562">Ou Wei</na></co>
+<co c="0"><na f="w/Wimmer:Manuel" pid="20/4565">Manuel Wimmer</na></co>
+<co c="0"><na f="w/Wirsing:Martin" pid="w/MartinWirsing">Martin Wirsing</na></co>
+<co c="-1"><na f="w/Wong:Andre" pid="62/1517">Andre Wong</na></co>
+<co c="0"><na f="y/Yang:Yueti" pid="180/3268">Yueti Yang</na></co>
+<co c="0"><na f="z/Zave:Pamela" pid="z/PamelaZave">Pamela Zave</na></co>
+<co c="0"><na f="z/Zhu:Chenguang" pid="48/7536">Chenguang Zhu</na></co>
+<co c="0"><na f="z/Zschaler:Steffen" pid="32/2945">Steffen Zschaler</na></co>
+</coauthors>
+</dblpperson>
+

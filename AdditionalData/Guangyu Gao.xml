@@ -1,3 +1,938 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19b9d22544debbf9c1a2febd5167c5e48aa1899d866f2cf802c516fcc3850b28
-size 45449
+<?xml version="1.0"?>
+<dblpperson name="Guangyu Gao" pid="33/7626" n="33">
+<person key="homepages/33/7626" mdate="2009-12-18">
+<author pid="33/7626">Guangyu Gao</author>
+</person>
+<r><article key="journals/access/LiuLGQ20" mdate="2021-01-09">
+<author orcid="0000-0002-7090-8853" pid="11/2023">Ziming Liu</author>
+<author orcid="0000-0002-1900-0719" pid="79/572-7">Jinyang Li 0007</author>
+<author orcid="0000-0002-0083-3016" pid="33/7626">Guangyu Gao</author>
+<author orcid="0000-0001-6631-1651" pid="85/1201">Alex Kai Qin</author>
+<title>Temporal Memory Network Towards Real-Time Video Understanding.</title>
+<pages>223837-223847</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3043386</ee>
+<url>db/journals/access/access8.html#LiuLGQ20</url>
+</article>
+</r>
+<r><article key="journals/mms/ShenLSG20" mdate="2020-10-26">
+<author pid="26/2210">Hao Shen</author>
+<author pid="180/7110">Defu Lin</author>
+<author pid="30/982">Tao Song</author>
+<author orcid="0000-0002-0083-3016" pid="33/7626">Guangyu Gao</author>
+<title>Anti-distractors: two-branch siamese tracker with both static and dynamic filters for object tracking.</title>
+<pages>631-641</pages>
+<year>2020</year>
+<volume>26</volume>
+<journal>Multim. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00530-020-00670-9</ee>
+<url>db/journals/mms/mms26.html#ShenLSG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiuGSF20" mdate="2020-08-06">
+<author pid="11/2023">Ziming Liu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="95/6619">Lin Sun</author>
+<author pid="32/3735">Li Fang</author>
+<title>IPG-Net: Image Pyramid Guidance Network for Small Object Detection.</title>
+<pages>4422-4430</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00521</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#LiuGSF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/DuWZFHLSPASPJDL20" mdate="2021-03-08">
+<author pid="51/6958">Dawei Du</author>
+<author pid="119/1468">Longyin Wen</author>
+<author pid="40/6172">Pengfei Zhu</author>
+<author pid="20/10120">Heng Fan</author>
+<author pid="30/2395">Qinghua Hu</author>
+<author pid="93/3488">Haibin Ling</author>
+<author pid="s/MubarakShah">Mubarak Shah</author>
+<author pid="282/2221">Junwen Pan</author>
+<author pid="34/3343">Apostolos Axenopoulos</author>
+<author pid="119/8461">Arne Schumann</author>
+<author pid="181/7703">Athanasios Psaltis</author>
+<author pid="131/6283">Ayush Jain</author>
+<author pid="11/6024">Bin Dong</author>
+<author pid="16/1660">Changlin Li</author>
+<author pid="65/4423">Chen Chen</author>
+<author pid="282/2128">Chengzhen Duan</author>
+<author pid="82/4803">Chongyang Zhang</author>
+<author pid="282/1757">Daniel Stadler</author>
+<author pid="247/6119">Dheeraj Reddy Pailla</author>
+<author pid="85/4137">Dong Yin</author>
+<author pid="157/8609">Faizan Khan</author>
+<author pid="46/7666">Fanman Meng</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="40/6578">Guosheng Zhang</author>
+<author pid="49/6010">Hansheng Chen</author>
+<author pid="63/778">Hao Zhou</author>
+<author pid="241/5278">Haonian Xie</author>
+<author pid="234/1711">Heqian Qiu</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
+<author pid="163/7359">Ioannis Athanasiadis</author>
+<author pid="282/2125">Jincai Cui</author>
+<author pid="36/48">Jingkai Zhou</author>
+<author pid="168/6308">Jong Hwan Ko</author>
+<author pid="282/1951">Joochan Lee</author>
+<author pid="50/5754">Jun Yu</author>
+<author pid="282/1938">Jungyeop Yoo</author>
+<author pid="180/3659">Lars Wilko Sommer</author>
+<author pid="15/8081">Lu Xiong</author>
+<author pid="229/5468">Michael Schleiss</author>
+<author pid="79/3711">Ming-Hsuan Yang 0001</author>
+<author pid="78/405">Mingyu Liu</author>
+<author pid="126/3666">Minjian Zhang</author>
+<author pid="175/8628">Murari Mandal</author>
+<author pid="30/714">Petros Daras</author>
+<author pid="132/9397">Pratik Narang</author>
+<author pid="20/718">Qiong Liu</author>
+<author pid="83/7546">Qiu Shi</author>
+<author pid="282/2217">Qizhang Lin</author>
+<author pid="282/2061">Rohit Ramaprasad</author>
+<author pid="89/10686">Sai Wang</author>
+<author pid="266/5663">Sarvesh Mehta</author>
+<author pid="57/2281">Shuai Li</author>
+<author pid="97/10317">Shuqin Huang</author>
+<author pid="08/6451">Sungtae Moon</author>
+<author pid="276/3258">Taijin Zhao</author>
+<author pid="86/1262">Ting Sun</author>
+<author pid="71/6601">Wei Guo</author>
+<author pid="56/3860-1">Wei Tian 0001</author>
+<author pid="260/2843">Weida Qin</author>
+<author pid="231/8457">Weiping Yu</author>
+<author pid="273/2988">Wenxiang Lin</author>
+<author pid="95/6322">Xi Zhao</author>
+<author pid="23/10777">Xiaogang Jia</author>
+<author pid="69/1798">Xin He</author>
+<author pid="260/3079">Xingjie Zhao</author>
+<author pid="217/7574">Xuanxin Liu</author>
+<author pid="57/4533">Yan Ding</author>
+<author pid="25/2208">Yan Luo</author>
+<author pid="181/1848-7">Yang Xiao 0007</author>
+<author pid="17/221">Yi Wang</author>
+<author pid="01/5512">Yingjie Liu</author>
+<author pid="225/6950">Yongwoo Kim</author>
+<author pid="62/3689-15">Yu Sun 0015</author>
+<author pid="257/6741">Yuehan Yao</author>
+<author pid="227/7156">Yuyao Huang</author>
+<author pid="255/0439">Zehui Gong</author>
+<author pid="76/934">Zhenyu Xu</author>
+<author pid="120/7554">Zhipeng Luo</author>
+<author pid="01/4449">Zhiguo Cao</author>
+<author pid="142/6983">Zhiwei Wei</author>
+<author pid="282/1838">Zhongjie Fan</author>
+<author pid="234/1726">Zichen Song</author>
+<author pid="11/2023">Ziming Liu</author>
+<title>VisDrone-DET2020: The Vision Meets Drone Object Detection in Image Challenge Results.</title>
+<pages>692-712</pages>
+<year>2020</year>
+<booktitle>ECCV Workshops (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66823-5_42</ee>
+<crossref>conf/eccv/2020-w4</crossref>
+<url>db/conf/eccv/eccv2020-w4.html#DuWZFHLSPASPJDL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-07607" mdate="2020-06-17">
+<author pid="11/2023">Ziming Liu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="95/6619">Lin Sun</author>
+<author pid="75/4027">Zhiyuan Fang</author>
+<title>HRDNet: High-resolution Detection Network for Small Objects.</title>
+<year>2020</year>
+<volume>abs/2006.07607</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.07607</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-07607</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-07609" mdate="2020-06-17">
+<author pid="11/2023">Ziming Liu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="85/1201">A. Kai Qin</author>
+<author pid="79/572-7">Jinyang Li 0007</author>
+<title>DTG-Net: Differentiated Teachers Guided Self-Supervised Video Action Recognition.</title>
+<year>2020</year>
+<volume>abs/2006.07609</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.07609</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-07609</url>
+</article>
+</r>
+<r><article key="journals/cluster/LiLGH19" mdate="2020-09-29">
+<author pid="181/2688">Qi Li</author>
+<author pid="150/8490">Chengze Li</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="116/1078">Yanyi Huang</author>
+<title>A novel method to find important apps base on the analysis of components relationship.</title>
+<pages>5479-5489</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>Clust. Comput.</journal>
+<number>Supplement</number>
+<ee>https://doi.org/10.1007/s10586-017-1308-3</ee>
+<url>db/journals/cluster/cluster22.html#LiLGH19</url>
+</article>
+</r>
+<r><article key="journals/mms/GaoLWZ19" mdate="2020-09-06">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="171/0544">Liling Liu</author>
+<author pid="58/6810">Li Wang</author>
+<author pid="241/6249">Yihang Zhang</author>
+<title>Fashion clothes matching scheme based on Siamese Network and AutoEncoder.</title>
+<pages>593-602</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>Multim. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00530-019-00617-9</ee>
+<url>db/journals/mms/mms25.html#GaoLWZ19</url>
+</article>
+</r>
+<r><article key="journals/mta/HanGZ19" mdate="2020-05-11">
+<author pid="215/9542">Cen Han</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="50/671">Yu Zhang</author>
+<title>Real-time small traffic sign detection with revised faster-RCNN.</title>
+<pages>13263-13278</pages>
+<year>2019</year>
+<volume>78</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11042-018-6428-0</ee>
+<url>db/journals/mta/mta78.html#HanGZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccvw/DuZWWSLBSZKLZAS19" mdate="2021-03-02">
+<author pid="51/6958">Dawei Du</author>
+<author pid="47/722">Yue Zhang</author>
+<author pid="230/8030">Zexin Wang</author>
+<author pid="54/3319">Zhikang Wang</author>
+<author pid="234/1726">Zichen Song</author>
+<author pid="11/2023">Ziming Liu</author>
+<author pid="17/6808">Liefeng Bo</author>
+<author pid="172/1112">Hailin Shi</author>
+<author pid="72/1974">Rui Zhu</author>
+<author pid="254/1921">Aashish Kumar</author>
+<author pid="253/3692">Aijin Li</author>
+<author pid="260/2825">Almaz Zinollayev</author>
+<author pid="260/2854">Anuar Askergaliyev</author>
+<author pid="119/8461">Arne Schumann</author>
+<author pid="260/3033">Binjie Mao</author>
+<author pid="40/6172">Pengfei Zhu</author>
+<author pid="245/9033">Byeongwon Lee</author>
+<author pid="52/5716">Chang Liu</author>
+<author pid="232/4719">Changrui Chen</author>
+<author pid="26/3810">Chunhong Pan</author>
+<author pid="23/5287">Chunlei Huo</author>
+<author pid="48/8545">Da Yu</author>
+<author pid="260/3162">DeChun Cong</author>
+<author pid="260/2926">Dening Zeng</author>
+<author pid="247/6119">Dheeraj Reddy Pailla</author>
+<author pid="96/1434">Di Li</author>
+<author pid="119/1468">Longyin Wen</author>
+<author pid="40/3934-4">Dong Wang 0004</author>
+<author pid="142/2590">Donghyeon Cho</author>
+<author pid="69/65">Dongyu Zhang</author>
+<author pid="244/2336">Furui Bai</author>
+<author pid="254/2136">George Jose</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="33/6142">Guizhong Liu</author>
+<author pid="83/1449">Haitao Xiong</author>
+<author pid="24/8493">Hao Qi</author>
+<author pid="28/3021">Haoran Wang</author>
+<author pid="116/5018">Xiao Bian</author>
+<author pid="234/1711">Heqian Qiu</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
+<author pid="64/6896">Huchuan Lu</author>
+<author pid="241/5029">Ildoo Kim</author>
+<author pid="195/5778">Jaekyum Kim</author>
+<author pid="260/2760">Jane Shen</author>
+<author pid="49/3265">Jihoon Lee</author>
+<author pid="64/1973">Jing Ge</author>
+<author pid="25/624">Jingjing Xu</author>
+<author pid="36/48">Jingkai Zhou</author>
+<author pid="142/1829">Haibin Lin</author>
+<author pid="218/1149">Jonas Meier</author>
+<author pid="36/7046">Jun Won Choi</author>
+<author pid="05/3941">Junhao Hu</author>
+<author pid="00/1627">Junyi Zhang</author>
+<author pid="161/4629">Junying Huang</author>
+<author pid="89/7026">Kaiqi Huang</author>
+<author pid="132/4631">Keyang Wang</author>
+<author pid="180/3659">Lars Sommer</author>
+<author pid="59/3349">Lei Jin</author>
+<author pid="97/8704">Lei Zhang</author>
+<author pid="30/2395">Qinghua Hu</author>
+<author pid="166/6155">Lianghua Huang</author>
+<author pid="95/6619">Lin Sun</author>
+<author pid="260/3022">Lucas Steinmann</author>
+<author pid="253/3676">Meixia Jia</author>
+<author pid="74/6847">Nuo Xu</author>
+<author pid="95/902">Pengyi Zhang</author>
+<author pid="62/2719">Qiang Chen</author>
+<author pid="260/2895">Qingxuan Lv</author>
+<author pid="20/718">Qiong Liu</author>
+<author pid="234/1730">Qishang Cheng</author>
+<author pid="89/6609">Tao Peng</author>
+<author pid="211/4478">Sai Saketh Chennamsetty</author>
+<author pid="43/2127">Shuhao Chen</author>
+<author pid="58/9488">Shuo Wei</author>
+<author pid="162/6183">Srinivas S. S. Kruthiventi</author>
+<author pid="135/5718">Sungeun Hong</author>
+<author pid="243/2980">Sungil Kang</author>
+<author pid="75/5056">Tong Wu</author>
+<author pid="203/2907">Tuo Feng</author>
+<author pid="244/7945">Varghese Alex Kollerathu</author>
+<author pid="39/10003">Wanqi Li</author>
+<author pid="260/2819">Jiayu Zheng</author>
+<author pid="76/2897">Wei Dai</author>
+<author pid="260/2843">Weida Qin</author>
+<author pid="145/9134">Weiyang Wang</author>
+<author pid="18/5637">Xiaorui Wang</author>
+<author pid="30/4497">Xiaoyu Chen</author>
+<author pid="24/1518-32">Xin Chen 0032</author>
+<author pid="20/3535-7">Xin Sun 0007</author>
+<author pid="76/1584">Xin Zhang</author>
+<author pid="68/2766-12">Xin Zhao 0012</author>
+<author pid="253/7611">Xindi Zhang</author>
+<author pid="205/8586">Xinyao Wang</author>
+<author pid="58/4582">Xinyu Zhang</author>
+<author pid="260/2631">Xuankun Chen</author>
+<author pid="260/3379">Xudong Wei</author>
+<author pid="216/4639">Xuzhang Zhang</author>
+<author pid="155/5708">Yanchao Li</author>
+<author pid="160/8290">Yifu Chen</author>
+<author pid="260/3337">Yu Heng Toh</author>
+<author pid="50/671">Yu Zhang</author>
+<author pid="38/5267">Yu Zhu</author>
+<author pid="245/9164">Yunxin Zhong</author>
+<title>VisDrone-DET2019: The Vision Meets Drone Object Detection in Image Challenge Results.</title>
+<pages>213-226</pages>
+<year>2019</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2019.00030</ee>
+<crossref>conf/iccvw/2019</crossref>
+<url>db/conf/iccvw/iccvw2019.html#DuZWWSLBSZKLZAS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/ZhuZBSZDPNGLXDG19" mdate="2020-08-05">
+<author pid="40/6172">Pengfei Zhu</author>
+<author pid="47/722">Yue Zhang</author>
+<author pid="17/6808">Liefeng Bo</author>
+<author pid="172/1112">Hailin Shi</author>
+<author pid="72/1974">Rui Zhu</author>
+<author pid="55/7579">Bing Dong</author>
+<author pid="247/6119">Dheeraj Reddy Pailla</author>
+<author pid="35/7761">Feng Ni</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="33/6142">Guizhong Liu</author>
+<author pid="83/1449">Haitao Xiong</author>
+<author pid="51/6958">Dawei Du</author>
+<author pid="64/1973">Jing Ge</author>
+<author pid="36/48">Jingkai Zhou</author>
+<author pid="23/10048">Jinrong Hu</author>
+<author pid="95/6619">Lin Sun</author>
+<author pid="64/5725">Long Chen</author>
+<author pid="87/2031">Martin Lauer</author>
+<author pid="20/718">Qiong Liu</author>
+<author pid="211/4478">Sai Saketh Chennamsetty</author>
+<author pid="86/1262">Ting Sun</author>
+<author pid="75/5056">Tong Wu</author>
+<author pid="119/1468">Longyin Wen</author>
+<author pid="244/7945">Varghese Alex Kollerathu</author>
+<author pid="56/3860-1">Wei Tian 0001</author>
+<author pid="260/2843">Weida Qin</author>
+<author pid="260/3035">Xier Chen</author>
+<author pid="260/3079">Xingjie Zhao</author>
+<author pid="253/3698">Yanchao Lian</author>
+<author pid="150/4842">Yinan Wu</author>
+<author pid="22/1805">Ying Li</author>
+<author pid="172/4240">Yingping Li</author>
+<author pid="00/4918">Yiwen Wang</author>
+<author pid="116/5018">Xiao Bian</author>
+<author pid="260/2834">Yuduo Song</author>
+<author pid="257/6741">Yuehan Yao</author>
+<author pid="98/3049">Yunfeng Zhang</author>
+<author pid="234/1697">Zhaoliang Pi</author>
+<author pid="260/3046">Zhaotang Chen</author>
+<author pid="76/934">Zhenyu Xu</author>
+<author pid="01/6096">Zhibin Xiao</author>
+<author pid="120/7554">Zhipeng Luo</author>
+<author pid="11/2023">Ziming Liu</author>
+<author pid="93/3488">Haibin Ling</author>
+<author pid="30/2395">Qinghua Hu</author>
+<author pid="89/6609">Tao Peng</author>
+<author pid="260/2819">Jiayu Zheng</author>
+<author pid="205/8586">Xinyao Wang</author>
+<title>VisDrone-VID2019: The Vision Meets Drone Object Detection in Video Challenge Results.</title>
+<pages>227-235</pages>
+<year>2019</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2019.00031</ee>
+<crossref>conf/iccvw/2019</crossref>
+<url>db/conf/iccvw/iccvw2019.html#ZhuZBSZDPNGLXDG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/LiuGQWL19" mdate="2020-03-30">
+<author pid="11/2023">Ziming Liu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author orcid="0000-0001-6631-1651" pid="85/1201">A. Kai Qin</author>
+<author pid="75/5056">Tong Wu</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<title>Action Recognition with Bootstrapping based Long-range Temporal Context Attention.</title>
+<pages>583-591</pages>
+<year>2019</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3343031.3350916</ee>
+<crossref>conf/mm/2019</crossref>
+<url>db/conf/mm/mm2019.html#LiuGQWL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-00632" mdate="2020-01-02">
+<author pid="11/2023">Ziming Liu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="95/6619">Lin Sun</author>
+<title>IPG-Net: Image Pyramid Guidance Network for Object Detection.</title>
+<year>2019</year>
+<volume>abs/1912.00632</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.00632</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-00632</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-03083" mdate="2020-01-02">
+<author pid="64/1973">Jing Ge</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="77/35">Zhen Liu</author>
+<title>Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search.</title>
+<year>2019</year>
+<volume>abs/1912.03083</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.03083</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-03083</url>
+</article>
+</r>
+<r><article key="journals/jvcir/GaoHMLDL18" mdate="2020-02-22">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="215/9542">Cen Han</author>
+<author pid="97/143">Kun Ma</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<author pid="73/3338">Gangyi Ding</author>
+<author pid="15/2420">Erwu Liu</author>
+<title>Optimal feature combination analysis for crowd saliency prediction.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<volume>50</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2017.11.002</ee>
+<url>db/journals/jvcir/jvcir50.html#GaoHMLDL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/NguyenG17" mdate="2018-02-23">
+<author pid="119/1364">Tam V. Nguyen</author>
+<author pid="33/7626">Guangyu Gao</author>
+<title>Novel evaluation metrics for seam carving based image retargeting.</title>
+<pages>450-454</pages>
+<year>2017</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2017.8296321</ee>
+<crossref>conf/icip/2017</crossref>
+<url>db/conf/icip/icip2017.html#NguyenG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-07565" mdate="2018-08-13">
+<author pid="119/1364">Tam V. Nguyen</author>
+<author pid="33/7626">Guangyu Gao</author>
+<title>Novel Evaluation Metrics for Seam Carving based Image Retargeting.</title>
+<year>2017</year>
+<volume>abs/1709.07565</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.07565</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-07565</url>
+</article>
+</r>
+<r><article key="journals/tcsv/GaoXSMY16" mdate="2020-08-25">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="87/8693">Mengdi Xu</author>
+<author pid="33/7046">Jialie Shen</author>
+<author pid="04/6217">Huadong Ma</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<title>Cast2Face: Assigning Character Names Onto Faces in Movie With Actor-Character Correspondence.</title>
+<pages>2299-2312</pages>
+<year>2016</year>
+<volume>26</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCSVT.2015.2504738</ee>
+<url>db/journals/tcsv/tcsv26.html#GaoXSMY16</url>
+</article>
+</r>
+<r><article key="journals/tmm/GaoLCGL16" mdate="2020-10-01">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<author orcid="0000-0002-0960-4447" pid="50/6996-3">Min Chen 0003</author>
+<author orcid="0000-0001-9831-2202" pid="01/267-1">Song Guo 0001</author>
+<author pid="04/2707">Kin K. Leung</author>
+<title>Cloud-Based Actor Identification With Batch-Orthogonal Local-Sensitive Hashing and Sparse Representation.</title>
+<pages>1749-1761</pages>
+<year>2016</year>
+<volume>18</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TMM.2016.2579305</ee>
+<url>db/journals/tmm/tmm18.html#GaoLCGL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcsp/MaGDLL16" mdate="2020-10-25">
+<author pid="97/143">Kun Ma</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="73/3338">Gangyi Ding</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<author orcid="0000-0002-2706-6208" pid="15/2420">Erwu Liu</author>
+<title>Crowd saliency prediction with optimal feature combinations.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>WCSP</booktitle>
+<ee>https://doi.org/10.1109/WCSP.2016.7752552</ee>
+<crossref>conf/wcsp/2016</crossref>
+<url>db/conf/wcsp/wcsp2016.html#MaGDLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica3pp/YinZLSGZ15" mdate="2017-05-26">
+<author pid="17/10410">Changqing Yin</author>
+<author pid="z/ShichaoZhang">Shichao Zhang</author>
+<author pid="171/0908">Shukun Liu</author>
+<author pid="171/0973">Shangwei Song</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="18/10816">Xiyuan Zhou</author>
+<title>The Optimization and Improvement of MapReduce in Web Data Mining.</title>
+<pages>755-762</pages>
+<year>2015</year>
+<booktitle>ICA3PP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-27119-4_53</ee>
+<crossref>conf/ica3pp/2015-1</crossref>
+<url>db/conf/ica3pp/ica3pp2015-1.html#YinZLSGZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pcm/GaoZC15" mdate="2017-05-21">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="24/2058">He Zhang</author>
+<author pid="167/9603">Hongting Chen</author>
+<title>A Robust Video Text Extraction and Recognition Approach Using OCR Feedback Information.</title>
+<pages>507-517</pages>
+<year>2015</year>
+<booktitle>PCM (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24075-6_49</ee>
+<crossref>conf/pcm/2015-1</crossref>
+<url>db/conf/pcm/pcm2015-1.html#GaoZC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/GaoBZL15" mdate="2019-02-15">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="193/6202">Chenchen Bai</author>
+<author pid="44/4773">Wei Zheng</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<title>The Future of Smart Dressing Mirror: An Open Innovation Concept Video.</title>
+<pages>369</pages>
+<year>2015</year>
+<booktitle>UIC/ATC/ScalCom</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP.2015.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP.2015.82</ee>
+<crossref>conf/uic/2015</crossref>
+<url>db/conf/uic/uic2015.html#GaoBZL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/js/DuanGLM14" mdate="2019-06-02">
+<author pid="171/1766">Dingbo Duan</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<author pid="26/4870">Jian Ma</author>
+<title>Automatic Person Identification in Camera Video by Motion Correlation.</title>
+<pages>838751:1-838751:8</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>J. Sensors</journal>
+<ee type="oa">https://doi.org/10.1155/2014/838751</ee>
+<ee>https://www.wikidata.org/entity/Q59061999</ee>
+<url>db/journals/js/js2014.html#DuanGLM14</url>
+</article>
+</r>
+<r><article key="journals/mta/HuangMLG14" mdate="2020-05-11">
+<author pid="09/3634-5">Xiaodong Huang 0005</author>
+<author pid="04/6217">Huadong Ma</author>
+<author pid="99/4062">Charles X. Ling</author>
+<author pid="33/7626">Guangyu Gao</author>
+<title>Detecting both superimposed and scene text with multiple languages and multiple alignments in video.</title>
+<pages>1703-1727</pages>
+<year>2014</year>
+<volume>70</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11042-012-1201-2</ee>
+<url>db/journals/mta/mta70.html#HuangMLG14</url>
+</article>
+</r>
+<r><article key="journals/mta/GaoM14" mdate="2020-05-11">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="04/6217">Huadong Ma</author>
+<title>To accelerate shot boundary detection by reducing detection region and scope.</title>
+<pages>1749-1770</pages>
+<year>2014</year>
+<volume>71</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11042-012-1301-z</ee>
+<url>db/journals/mta/mta71.html#GaoM14</url>
+</article>
+</r>
+<r><article key="journals/pami/JiYLGTZ14" mdate="2020-09-01">
+<author pid="126/1786">Jianqiu Ji</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="71/5930-1">Jianmin Li 0001</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="78/1467-1">Qi Tian 0001</author>
+<author pid="36/2259-10">Bo Zhang 0010</author>
+<title>Batch-Orthogonal Locality-Sensitive Hashingfor Angular Similarity.</title>
+<pages>1963-1974</pages>
+<year>2014</year>
+<volume>36</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2014.2315806</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2014.2315806</ee>
+<ee>https://www.wikidata.org/entity/Q40559326</ee>
+<url>db/journals/pami/pami36.html#JiYLGTZ14</url>
+</article>
+</r>
+<r><article key="journals/tmm/XiongGZYMK14" mdate="2020-10-01">
+<author pid="126/4460">Chao Xiong</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author orcid="0000-0003-2510-8993" pid="23/1818">Zheng-Jun Zha</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="04/6217">Huadong Ma</author>
+<author pid="28/787">Tae-Kyun Kim</author>
+<title>Adaptive Learning for Celebrity Identification With Video Context.</title>
+<pages>1473-1485</pages>
+<year>2014</year>
+<volume>16</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TMM.2014.2316475</ee>
+<url>db/journals/tmm/tmm16.html#XiongGZYMK14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudcomp/ZhangHGL14" mdate="2017-05-25">
+<author pid="19/5112">Zhen Zhang</author>
+<author pid="159/6936">Zhongnan Huang</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<title>Personalized Video Recommendations with Both Historical and New Items.</title>
+<pages>29-42</pages>
+<year>2014</year>
+<booktitle>CloudComp</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-16050-4_3</ee>
+<crossref>conf/cloudcomp/2014</crossref>
+<url>db/conf/cloudcomp/cloudcomp2014.html#ZhangHGL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/NguyenXGKTY13" mdate="2018-11-06">
+<author pid="119/1364">Tam V. Nguyen</author>
+<author pid="87/8693">Mengdi Xu</author>
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="09/3613">Mohan S. Kankanhalli</author>
+<author pid="78/1467-1">Qi Tian 0001</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<title>Static saliency vs. dynamic saliency: a comparative study.</title>
+<pages>987-996</pages>
+<year>2013</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2502081.2502128</ee>
+<crossref>conf/mm/2013</crossref>
+<url>db/conf/mm/mm2013.html#NguyenXGKTY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/GaoM12" mdate="2017-04-30">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="04/6217">Huadong Ma</author>
+<title>Multi-modality movie scene detection using Kernel Canonical Correlation Analysis.</title>
+<pages>3074-3077</pages>
+<year>2012</year>
+<booktitle>ICPR</booktitle>
+<ee>http://ieeexplore.ieee.org/document/6460814/</ee>
+<crossref>conf/icpr/2012</crossref>
+<url>db/conf/icpr/icpr2012.html#GaoM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/GaoM11" mdate="2017-05-25">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="04/6217">Huadong Ma</author>
+<title>Accelerating Shot Boundary Detection by reducing spatial and temporal redundant information.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2011.6011860</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2011.6011860</ee>
+<crossref>conf/icmcs/2011</crossref>
+<url>db/conf/icmcs/icme2011.html#GaoM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pcm/GaoMZ09" mdate="2017-05-21">
+<author pid="33/7626">Guangyu Gao</author>
+<author pid="04/6217">Huadong Ma</author>
+<author pid="24/2058">He Zhang</author>
+<title>An Effective Audio-Visual Information Based Framework for Extracting Highlights in Basketball Games.</title>
+<pages>767-776</pages>
+<year>2009</year>
+<booktitle>PCM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-10467-1_67</ee>
+<crossref>conf/pcm/2009</crossref>
+<url>db/conf/pcm/pcm2009.html#GaoMZ09</url>
+</inproceedings>
+</r>
+<coauthors n="236" nc="1">
+<co c="0"><na f="a/Askergaliyev:Anuar" pid="260/2854">Anuar Askergaliyev</na></co>
+<co c="0"><na f="a/Athanasiadis:Ioannis" pid="163/7359">Ioannis Athanasiadis</na></co>
+<co c="0"><na f="a/Axenopoulos:Apostolos" pid="34/3343">Apostolos Axenopoulos</na></co>
+<co c="0"><na f="b/Bai:Chenchen" pid="193/6202">Chenchen Bai</na></co>
+<co c="0"><na f="b/Bai:Furui" pid="244/2336">Furui Bai</na></co>
+<co c="0"><na f="b/Bian:Xiao" pid="116/5018">Xiao Bian</na></co>
+<co c="0"><na f="b/Bo:Liefeng" pid="17/6808">Liefeng Bo</na></co>
+<co c="0"><na f="c/Cao:Zhiguo" pid="01/4449">Zhiguo Cao</na></co>
+<co c="0"><na f="c/Chen:Changrui" pid="232/4719">Changrui Chen</na></co>
+<co c="0"><na f="c/Chen:Chen" pid="65/4423">Chen Chen</na></co>
+<co c="0"><na f="c/Chen:Hansheng" pid="49/6010">Hansheng Chen</na></co>
+<co c="0"><na f="c/Chen:Hongting" pid="167/9603">Hongting Chen</na></co>
+<co c="0"><na f="c/Chen:Long" pid="64/5725">Long Chen</na></co>
+<co c="0"><na f="c/Chen_0003:Min" pid="50/6996-3">Min Chen 0003</na></co>
+<co c="0"><na f="c/Chen:Qiang" pid="62/2719">Qiang Chen</na></co>
+<co c="0"><na f="c/Chen:Shuhao" pid="43/2127">Shuhao Chen</na></co>
+<co c="0"><na f="c/Chen:Xiaoyu" pid="30/4497">Xiaoyu Chen</na></co>
+<co c="0"><na f="c/Chen:Xier" pid="260/3035">Xier Chen</na></co>
+<co c="0"><na f="c/Chen_0032:Xin" pid="24/1518-32">Xin Chen 0032</na></co>
+<co c="0"><na f="c/Chen:Xuankun" pid="260/2631">Xuankun Chen</na></co>
+<co c="0"><na f="c/Chen:Yifu" pid="160/8290">Yifu Chen</na></co>
+<co c="0"><na f="c/Chen:Zhaotang" pid="260/3046">Zhaotang Chen</na></co>
+<co c="0"><na f="c/Cheng:Qishang" pid="234/1730">Qishang Cheng</na></co>
+<co c="0"><na f="c/Chennamsetty:Sai_Saketh" pid="211/4478">Sai Saketh Chennamsetty</na></co>
+<co c="0"><na f="c/Cho:Donghyeon" pid="142/2590">Donghyeon Cho</na></co>
+<co c="0"><na f="c/Choi:Jun_Won" pid="36/7046">Jun Won Choi</na></co>
+<co c="0"><na f="c/Cong:DeChun" pid="260/3162">DeChun Cong</na></co>
+<co c="0"><na f="c/Cui:Jincai" pid="282/2125">Jincai Cui</na></co>
+<co c="0"><na f="d/Dai:Wei" pid="76/2897">Wei Dai</na></co>
+<co c="0"><na f="d/Daras:Petros" pid="30/714">Petros Daras</na></co>
+<co c="0"><na f="d/Ding:Gangyi" pid="73/3338">Gangyi Ding</na></co>
+<co c="0"><na f="d/Ding:Yan" pid="57/4533">Yan Ding</na></co>
+<co c="0"><na f="d/Dong:Bin" pid="11/6024">Bin Dong</na></co>
+<co c="0"><na f="d/Dong:Bing" pid="55/7579">Bing Dong</na></co>
+<co c="0"><na f="d/Du:Dawei" pid="51/6958">Dawei Du</na></co>
+<co c="0"><na f="d/Duan:Chengzhen" pid="282/2128">Chengzhen Duan</na></co>
+<co c="0"><na f="d/Duan:Dingbo" pid="171/1766">Dingbo Duan</na></co>
+<co c="0"><na f="f/Fan:Heng" pid="20/10120">Heng Fan</na></co>
+<co c="0"><na f="f/Fan:Zhongjie" pid="282/1838">Zhongjie Fan</na></co>
+<co c="0"><na f="f/Fang:Li" pid="32/3735">Li Fang</na></co>
+<co c="0"><na f="f/Fang:Zhiyuan" pid="75/4027">Zhiyuan Fang</na></co>
+<co c="0"><na f="f/Feng:Tuo" pid="203/2907">Tuo Feng</na></co>
+<co c="0"><na f="g/Ge:Jing" pid="64/1973">Jing Ge</na></co>
+<co c="0"><na f="g/Gong:Zehui" pid="255/0439">Zehui Gong</na></co>
+<co c="0"><na f="g/Guo_0001:Song" pid="01/267-1">Song Guo 0001</na></co>
+<co c="0"><na f="g/Guo:Wei" pid="71/6601">Wei Guo</na></co>
+<co c="0"><na f="h/Han:Cen" pid="215/9542">Cen Han</na></co>
+<co c="0"><na f="h/He:Xin" pid="69/1798">Xin He</na></co>
+<co c="0"><na f="h/Hong:Sungeun" pid="135/5718">Sungeun Hong</na></co>
+<co c="0"><na f="h/Hu:Jinrong" pid="23/10048">Jinrong Hu</na></co>
+<co c="0"><na f="h/Hu:Junhao" pid="05/3941">Junhao Hu</na></co>
+<co c="0"><na f="h/Hu:Qinghua" pid="30/2395">Qinghua Hu</na></co>
+<co c="0"><na f="h/Huang:Junying" pid="161/4629">Junying Huang</na></co>
+<co c="0"><na f="h/Huang:Kaiqi" pid="89/7026">Kaiqi Huang</na></co>
+<co c="0"><na f="h/Huang:Lianghua" pid="166/6155">Lianghua Huang</na></co>
+<co c="0"><na f="h/Huang:Shuqin" pid="97/10317">Shuqin Huang</na></co>
+<co c="0"><na f="h/Huang_0005:Xiaodong" pid="09/3634-5">Xiaodong Huang 0005</na></co>
+<co c="0"><na f="h/Huang:Yanyi" pid="116/1078">Yanyi Huang</na></co>
+<co c="0"><na f="h/Huang:Yuyao" pid="227/7156">Yuyao Huang</na></co>
+<co c="0"><na f="h/Huang:Zhongnan" pid="159/6936">Zhongnan Huang</na></co>
+<co c="0"><na f="h/Huo:Chunlei" pid="23/5287">Chunlei Huo</na></co>
+<co c="0"><na f="j/Jain:Ayush" pid="131/6283">Ayush Jain</na></co>
+<co c="0"><na f="j/Ji:Jianqiu" pid="126/1786">Jianqiu Ji</na></co>
+<co c="0"><na f="j/Jia:Meixia" pid="253/3676">Meixia Jia</na></co>
+<co c="0"><na f="j/Jia:Xiaogang" pid="23/10777">Xiaogang Jia</na></co>
+<co c="0"><na f="j/Jin:Lei" pid="59/3349">Lei Jin</na></co>
+<co c="0"><na f="j/Jose:George" pid="254/2136">George Jose</na></co>
+<co c="0"><na f="k/Kang:Sungil" pid="243/2980">Sungil Kang</na></co>
+<co c="0"><na f="k/Kankanhalli:Mohan_S=" pid="09/3613">Mohan S. Kankanhalli</na></co>
+<co c="0"><na f="k/Khan:Faizan" pid="157/8609">Faizan Khan</na></co>
+<co c="0"><na f="k/Kim:Ildoo" pid="241/5029">Ildoo Kim</na></co>
+<co c="0"><na f="k/Kim:Jaekyum" pid="195/5778">Jaekyum Kim</na></co>
+<co c="0"><na f="k/Kim:Tae=Kyun" pid="28/787">Tae-Kyun Kim</na></co>
+<co c="0"><na f="k/Kim:Yongwoo" pid="225/6950">Yongwoo Kim</na></co>
+<co c="0"><na f="k/Ko:Jong_Hwan" pid="168/6308">Jong Hwan Ko</na></co>
+<co c="0"><na f="k/Kollerathu:Varghese_Alex" pid="244/7945">Varghese Alex Kollerathu</na></co>
+<co c="0" n="2"><na f="k/Kruthiventi:Srinivas_S=" pid="162/6183">Srinivas S. Kruthiventi</na><na>Srinivas S. S. Kruthiventi</na></co>
+<co c="0"><na f="k/Kumar:Aashish" pid="254/1921">Aashish Kumar</na></co>
+<co c="0"><na f="l/Lauer:Martin" pid="87/2031">Martin Lauer</na></co>
+<co c="0"><na f="l/Lee:Byeongwon" pid="245/9033">Byeongwon Lee</na></co>
+<co c="0"><na f="l/Lee:Jihoon" pid="49/3265">Jihoon Lee</na></co>
+<co c="0"><na f="l/Lee:Joochan" pid="282/1951">Joochan Lee</na></co>
+<co c="0"><na f="l/Leung:Kin_K=" pid="04/2707">Kin K. Leung</na></co>
+<co c="0"><na f="l/Li:Aijin" pid="253/3692">Aijin Li</na></co>
+<co c="0"><na f="l/Li:Changlin" pid="16/1660">Changlin Li</na></co>
+<co c="0"><na f="l/Li:Chengze" pid="150/8490">Chengze Li</na></co>
+<co c="0"><na f="l/Li:Di" pid="96/1434">Di Li</na></co>
+<co c="0"><na f="l/Li_0001:Hongliang" pid="91/1905-1">Hongliang Li 0001</na></co>
+<co c="0"><na f="l/Li_0001:Jianmin" pid="71/5930-1">Jianmin Li 0001</na></co>
+<co c="0"><na f="l/Li_0007:Jinyang" pid="79/572-7">Jinyang Li 0007</na></co>
+<co c="0"><na f="l/Li:Qi" pid="181/2688">Qi Li</na></co>
+<co c="0"><na f="l/Li:Shuai" pid="57/2281">Shuai Li</na></co>
+<co c="0"><na f="l/Li:Wanqi" pid="39/10003">Wanqi Li</na></co>
+<co c="0"><na f="l/Li:Yanchao" pid="155/5708">Yanchao Li</na></co>
+<co c="0"><na f="l/Li:Ying" pid="22/1805">Ying Li</na></co>
+<co c="0"><na f="l/Li:Yingping" pid="172/4240">Yingping Li</na></co>
+<co c="0"><na f="l/Lian:Yanchao" pid="253/3698">Yanchao Lian</na></co>
+<co c="0"><na f="l/Lin:Defu" pid="180/7110">Defu Lin</na></co>
+<co c="0"><na f="l/Lin:Haibin" pid="142/1829">Haibin Lin</na></co>
+<co c="0"><na f="l/Lin:Qizhang" pid="282/2217">Qizhang Lin</na></co>
+<co c="0"><na f="l/Lin:Wenxiang" pid="273/2988">Wenxiang Lin</na></co>
+<co c="0"><na f="l/Ling:Charles_X=" pid="99/4062">Charles X. Ling</na></co>
+<co c="0"><na f="l/Ling:Haibin" pid="93/3488">Haibin Ling</na></co>
+<co c="0"><na f="l/Liu:Chang" pid="52/5716">Chang Liu</na></co>
+<co c="0"><na f="l/Liu:Chi_Harold" pid="45/4723">Chi Harold Liu</na></co>
+<co c="0"><na f="l/Liu:Erwu" pid="15/2420">Erwu Liu</na></co>
+<co c="0"><na f="l/Liu:Guizhong" pid="33/6142">Guizhong Liu</na></co>
+<co c="0"><na f="l/Liu:Liling" pid="171/0544">Liling Liu</na></co>
+<co c="0"><na f="l/Liu:Mingyu" pid="78/405">Mingyu Liu</na></co>
+<co c="0"><na f="l/Liu:Qiong" pid="20/718">Qiong Liu</na></co>
+<co c="0"><na f="l/Liu:Shukun" pid="171/0908">Shukun Liu</na></co>
+<co c="0"><na f="l/Liu:Xuanxin" pid="217/7574">Xuanxin Liu</na></co>
+<co c="0"><na f="l/Liu:Yingjie" pid="01/5512">Yingjie Liu</na></co>
+<co c="0"><na f="l/Liu:Zhen" pid="77/35">Zhen Liu</na></co>
+<co c="0"><na f="l/Liu:Ziming" pid="11/2023">Ziming Liu</na></co>
+<co c="0"><na f="l/Lu:Huchuan" pid="64/6896">Huchuan Lu</na></co>
+<co c="0"><na f="l/Luo:Yan" pid="25/2208">Yan Luo</na></co>
+<co c="0"><na f="l/Luo:Zhipeng" pid="120/7554">Zhipeng Luo</na></co>
+<co c="0"><na f="l/Lv:Qingxuan" pid="260/2895">Qingxuan Lv</na></co>
+<co c="0"><na f="m/Ma:Huadong" pid="04/6217">Huadong Ma</na></co>
+<co c="0"><na f="m/Ma:Jian" pid="26/4870">Jian Ma</na></co>
+<co c="0"><na f="m/Ma:Kun" pid="97/143">Kun Ma</na></co>
+<co c="0"><na f="m/Mandal:Murari" pid="175/8628">Murari Mandal</na></co>
+<co c="0"><na f="m/Mao:Binjie" pid="260/3033">Binjie Mao</na></co>
+<co c="0"><na f="m/Mehta:Sarvesh" pid="266/5663">Sarvesh Mehta</na></co>
+<co c="0"><na f="m/Meier:Jonas" pid="218/1149">Jonas Meier</na></co>
+<co c="0"><na f="m/Meng:Fanman" pid="46/7666">Fanman Meng</na></co>
+<co c="0"><na f="m/Moon:Sungtae" pid="08/6451">Sungtae Moon</na></co>
+<co c="0"><na f="n/Narang:Pratik" pid="132/9397">Pratik Narang</na></co>
+<co c="0"><na f="n/Nguyen:Tam_V=" pid="119/1364">Tam V. Nguyen</na></co>
+<co c="0"><na f="n/Ni:Feng" pid="35/7761">Feng Ni</na></co>
+<co c="0"><na f="p/Pailla:Dheeraj_Reddy" pid="247/6119">Dheeraj Reddy Pailla</na></co>
+<co c="0"><na f="p/Pan:Chunhong" pid="26/3810">Chunhong Pan</na></co>
+<co c="0"><na f="p/Pan:Junwen" pid="282/2221">Junwen Pan</na></co>
+<co c="0"><na f="p/Peng:Tao" pid="89/6609">Tao Peng</na></co>
+<co c="0"><na f="p/Pi:Zhaoliang" pid="234/1697">Zhaoliang Pi</na></co>
+<co c="0"><na f="p/Psaltis:Athanasios" pid="181/7703">Athanasios Psaltis</na></co>
+<co c="0"><na f="q/Qi:Hao" pid="24/8493">Hao Qi</na></co>
+<co c="0" n="2"><na f="q/Qin:A=_Kai" pid="85/1201">A. Kai Qin</na><na>Alex Kai Qin</na></co>
+<co c="0"><na f="q/Qin:Weida" pid="260/2843">Weida Qin</na></co>
+<co c="0"><na f="q/Qiu:Heqian" pid="234/1711">Heqian Qiu</na></co>
+<co c="0"><na f="r/Ramaprasad:Rohit" pid="282/2061">Rohit Ramaprasad</na></co>
+<co c="0"><na f="s/Schleiss:Michael" pid="229/5468">Michael Schleiss</na></co>
+<co c="0"><na f="s/Schumann:Arne" pid="119/8461">Arne Schumann</na></co>
+<co c="0"><na f="s/Shah:Mubarak" pid="s/MubarakShah">Mubarak Shah</na></co>
+<co c="0"><na f="s/Shen:Hao" pid="26/2210">Hao Shen</na></co>
+<co c="0"><na f="s/Shen:Jane" pid="260/2760">Jane Shen</na></co>
+<co c="0"><na f="s/Shen:Jialie" pid="33/7046">Jialie Shen</na></co>
+<co c="0"><na f="s/Shi:Hailin" pid="172/1112">Hailin Shi</na></co>
+<co c="0"><na f="s/Shi:Qiu" pid="83/7546">Qiu Shi</na></co>
+<co c="0" n="2"><na f="s/Sommer:Lars_Wilko" pid="180/3659">Lars Wilko Sommer</na><na>Lars Sommer</na></co>
+<co c="0"><na f="s/Song:Shangwei" pid="171/0973">Shangwei Song</na></co>
+<co c="0"><na f="s/Song:Tao" pid="30/982">Tao Song</na></co>
+<co c="0"><na f="s/Song:Yuduo" pid="260/2834">Yuduo Song</na></co>
+<co c="0"><na f="s/Song:Zichen" pid="234/1726">Zichen Song</na></co>
+<co c="0"><na f="s/Stadler:Daniel" pid="282/1757">Daniel Stadler</na></co>
+<co c="0"><na f="s/Steinmann:Lucas" pid="260/3022">Lucas Steinmann</na></co>
+<co c="0"><na f="s/Sun:Lin" pid="95/6619">Lin Sun</na></co>
+<co c="0"><na f="s/Sun:Ting" pid="86/1262">Ting Sun</na></co>
+<co c="0"><na f="s/Sun_0007:Xin" pid="20/3535-7">Xin Sun 0007</na></co>
+<co c="0"><na f="s/Sun_0015:Yu" pid="62/3689-15">Yu Sun 0015</na></co>
+<co c="0"><na f="t/Tian_0001:Qi" pid="78/1467-1">Qi Tian 0001</na></co>
+<co c="0"><na f="t/Tian_0001:Wei" pid="56/3860-1">Wei Tian 0001</na></co>
+<co c="0"><na f="t/Toh:Yu_Heng" pid="260/3337">Yu Heng Toh</na></co>
+<co c="0"><na f="w/Wang_0004:Dong" pid="40/3934-4">Dong Wang 0004</na></co>
+<co c="0"><na f="w/Wang:Haoran" pid="28/3021">Haoran Wang</na></co>
+<co c="0"><na f="w/Wang:Keyang" pid="132/4631">Keyang Wang</na></co>
+<co c="0"><na f="w/Wang:Li" pid="58/6810">Li Wang</na></co>
+<co c="0"><na f="w/Wang:Sai" pid="89/10686">Sai Wang</na></co>
+<co c="0"><na f="w/Wang:Weiyang" pid="145/9134">Weiyang Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaorui" pid="18/5637">Xiaorui Wang</na></co>
+<co c="0"><na f="w/Wang:Xinyao" pid="205/8586">Xinyao Wang</na></co>
+<co c="0"><na f="w/Wang:Yi" pid="17/221">Yi Wang</na></co>
+<co c="0"><na f="w/Wang:Yiwen" pid="00/4918">Yiwen Wang</na></co>
+<co c="0"><na f="w/Wang:Zexin" pid="230/8030">Zexin Wang</na></co>
+<co c="0"><na f="w/Wang:Zhikang" pid="54/3319">Zhikang Wang</na></co>
+<co c="0"><na f="w/Wei:Shuo" pid="58/9488">Shuo Wei</na></co>
+<co c="0"><na f="w/Wei:Xudong" pid="260/3379">Xudong Wei</na></co>
+<co c="0"><na f="w/Wei:Zhiwei" pid="142/6983">Zhiwei Wei</na></co>
+<co c="0"><na f="w/Wen:Longyin" pid="119/1468">Longyin Wen</na></co>
+<co c="0"><na f="w/Wu:Tong" pid="75/5056">Tong Wu</na></co>
+<co c="0"><na f="w/Wu:Yinan" pid="150/4842">Yinan Wu</na></co>
+<co c="0"><na f="x/Xiao_0007:Yang" pid="181/1848-7">Yang Xiao 0007</na></co>
+<co c="0"><na f="x/Xiao:Zhibin" pid="01/6096">Zhibin Xiao</na></co>
+<co c="0"><na f="x/Xie:Haonian" pid="241/5278">Haonian Xie</na></co>
+<co c="0"><na f="x/Xiong:Chao" pid="126/4460">Chao Xiong</na></co>
+<co c="0"><na f="x/Xiong:Haitao" pid="83/1449">Haitao Xiong</na></co>
+<co c="0"><na f="x/Xiong:Lu" pid="15/8081">Lu Xiong</na></co>
+<co c="0"><na f="x/Xu:Jingjing" pid="25/624">Jingjing Xu</na></co>
+<co c="0"><na f="x/Xu:Mengdi" pid="87/8693">Mengdi Xu</na></co>
+<co c="0"><na f="x/Xu:Nuo" pid="74/6847">Nuo Xu</na></co>
+<co c="0"><na f="x/Xu:Zhenyu" pid="76/934">Zhenyu Xu</na></co>
+<co c="0"><na f="y/Yan:Shuicheng" pid="y/ShuichengYan">Shuicheng Yan</na></co>
+<co c="0"><na f="y/Yang_0001:Ming=Hsuan" pid="79/3711">Ming-Hsuan Yang 0001</na></co>
+<co c="0"><na f="y/Yao:Yuehan" pid="257/6741">Yuehan Yao</na></co>
+<co c="0"><na f="y/Yin:Changqing" pid="17/10410">Changqing Yin</na></co>
+<co c="0"><na f="y/Yin:Dong" pid="85/4137">Dong Yin</na></co>
+<co c="0"><na f="y/Yoo:Jungyeop" pid="282/1938">Jungyeop Yoo</na></co>
+<co c="0"><na f="y/Yu:Da" pid="48/8545">Da Yu</na></co>
+<co c="0"><na f="y/Yu:Jun" pid="50/5754">Jun Yu</na></co>
+<co c="0"><na f="y/Yu:Weiping" pid="231/8457">Weiping Yu</na></co>
+<co c="0"><na f="z/Zeng:Dening" pid="260/2926">Dening Zeng</na></co>
+<co c="0" n="2"><na f="z/Zha:Zhengjun" pid="23/1818">Zhengjun Zha</na><na>Zheng-Jun Zha</na></co>
+<co c="0"><na f="z/Zhang_0010:Bo" pid="36/2259-10">Bo Zhang 0010</na></co>
+<co c="0"><na f="z/Zhang:Chongyang" pid="82/4803">Chongyang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Dongyu" pid="69/65">Dongyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Guosheng" pid="40/6578">Guosheng Zhang</na></co>
+<co c="0"><na f="z/Zhang:He" pid="24/2058">He Zhang</na></co>
+<co c="0"><na f="z/Zhang:Junyi" pid="00/1627">Junyi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lei" pid="97/8704">Lei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Minjian" pid="126/3666">Minjian Zhang</na></co>
+<co c="0"><na f="z/Zhang:Pengyi" pid="95/902">Pengyi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shichao" pid="z/ShichaoZhang">Shichao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xin" pid="76/1584">Xin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xindi" pid="253/7611">Xindi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinyu" pid="58/4582">Xinyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xuzhang" pid="216/4639">Xuzhang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yihang" pid="241/6249">Yihang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yu" pid="50/671">Yu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yue" pid="47/722">Yue Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yunfeng" pid="98/3049">Yunfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhen" pid="19/5112">Zhen Zhang</na></co>
+<co c="0"><na f="z/Zhao:Taijin" pid="276/3258">Taijin Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xi" pid="95/6322">Xi Zhao</na></co>
+<co c="0"><na f="z/Zhao_0012:Xin" pid="68/2766-12">Xin Zhao 0012</na></co>
+<co c="0"><na f="z/Zhao:Xingjie" pid="260/3079">Xingjie Zhao</na></co>
+<co c="0"><na f="z/Zheng:Jiayu" pid="260/2819">Jiayu Zheng</na></co>
+<co c="0"><na f="z/Zheng:Wei" pid="44/4773">Wei Zheng</na></co>
+<co c="0"><na f="z/Zhong:Yunxin" pid="245/9164">Yunxin Zhong</na></co>
+<co c="0"><na f="z/Zhou:Hao" pid="63/778">Hao Zhou</na></co>
+<co c="0"><na f="z/Zhou:Jingkai" pid="36/48">Jingkai Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xiyuan" pid="18/10816">Xiyuan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Pengfei" pid="40/6172">Pengfei Zhu</na></co>
+<co c="0"><na f="z/Zhu:Rui" pid="72/1974">Rui Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yu" pid="38/5267">Yu Zhu</na></co>
+<co c="0"><na f="z/Zinollayev:Almaz" pid="260/2825">Almaz Zinollayev</na></co>
+</coauthors>
+</dblpperson>
+

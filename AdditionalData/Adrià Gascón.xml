@@ -1,3 +1,1122 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e16c21f9c3de0e979d155c4367e76fd05f536029facbc0cdfaf6c1852d2d7c2f
-size 52132
+<?xml version="1.0"?>
+<dblpperson name="Adri&#224; Gasc&#243;n" pid="90/3256" n="66">
+<person key="homepages/90/3256" mdate="2017-09-01">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+</person>
+<r><article key="journals/jar/ButlerLAG21" mdate="2021-03-23">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="43/1499">Andreas Lochbihler</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Formalising $\varSigma$-Protocols and Commitment Schemes Using CryptHOL.</title>
+<pages>521-567</pages>
+<year>2021</year>
+<volume>65</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10817-020-09581-w</ee>
+<url>db/journals/jar/jar65.html#ButlerLAG21</url>
+</article>
+</r>
+<r><article key="journals/mst/GasconLMRS20" mdate="2020-01-07">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="76/1674">Markus Lohrey</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="172/1320">Carl Philipp Reh</author>
+<author pid="48/6988">Kurt Sieber</author>
+<title>Grammar-Based Compression of Unranked Trees.</title>
+<pages>141-176</pages>
+<year>2020</year>
+<volume>64</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00224-019-09942-y</ee>
+<url>db/journals/mst/mst64.html#GasconLMRS20</url>
+</article>
+</r>
+<r><article key="journals/popets/SchoppmannVGB20" mdate="2021-04-09">
+<author orcid="0000-0001-7951-3930" pid="187/5645">Phillipp Schoppmann</author>
+<author pid="268/0462">Lennart Vogelsang</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="06/8421">Borja Balle</author>
+<title>Secure and Scalable Document Similarity on Distributed Databases: Differential Privacy to the Rescue.</title>
+<pages>209-229</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>Proc. Priv. Enhancing Technol.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.2478/popets-2020-0024</ee>
+<url>db/journals/popets/popets2020.html#SchoppmannVGB20</url>
+</article>
+</r>
+<r><article key="journals/tifs/ShamsabadiGHC20" mdate="2020-08-06">
+<author orcid="0000-0003-2649-8700" pid="198/1244">Ali Shahin Shamsabadi</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="33/5454">Hamed Haddadi</author>
+<author orcid="0000-0001-5086-7858" pid="36/368">Andrea Cavallaro</author>
+<title>PrivEdge: From Local to Distributed Private Training and Prediction.</title>
+<pages>3819-3831</pages>
+<year>2020</year>
+<volume>15</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<ee>https://doi.org/10.1109/TIFS.2020.2988132</ee>
+<url>db/journals/tifs/tifs15.html#ShamsabadiGHC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/BellBGK20" mdate="2020-11-05">
+<author pid="238/0043">James Bell 0001</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<title>Private Protocols for U-Statistics in the Local Model and Beyond.</title>
+<pages>1573-1583</pages>
+<year>2020</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v108/bell20a.html</ee>
+<crossref>conf/aistats/2020</crossref>
+<url>db/conf/aistats/aistats2020.html#BellBGK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aistats/ClymoGPFM20" mdate="2020-06-29">
+<author pid="214/2105">Judith Clymo</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="143/7344">Brooks Paige</author>
+<author pid="93/8654">Nathana&#235;l Fijalkow</author>
+<author pid="192/1281">Haik Manukian</author>
+<title>Data Generation for Neural Programming by Example.</title>
+<pages>3450-3459</pages>
+<year>2020</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v108/clymo20a.html</ee>
+<crossref>conf/aistats/2020</crossref>
+<url>db/conf/aistats/aistats2020.html#ClymoGPFM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/BalleBGN20" mdate="2020-11-10">
+<author pid="06/8421">Borja Balle</author>
+<author pid="238/0043">James Bell 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="65/801">Kobbi Nissim</author>
+<title>Private Summation in the Multi-Message Shuffle Model.</title>
+<pages>657-676</pages>
+<year>2020</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3372297.3417242</ee>
+<crossref>conf/ccs/2020</crossref>
+<url>db/conf/ccs/ccs2020.html#BalleBGN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/BellBGL020" mdate="2020-11-10">
+<author pid="238/0043">James Henry Bell</author>
+<author pid="277/8120">Kallista A. Bonawitz</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<title>Secure Single-Server Aggregation with (Poly)Logarithmic Overhead.</title>
+<pages>1253-1269</pages>
+<year>2020</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3372297.3417885</ee>
+<crossref>conf/ccs/2020</crossref>
+<url>db/conf/ccs/ccs2020.html#BellBGL020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpp/00020G20" mdate="2020-01-23">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Formalising oblivious transfer in the semi-honest and malicious model in CryptHOL.</title>
+<pages>229-243</pages>
+<year>2020</year>
+<booktitle>CPP</booktitle>
+<ee>https://doi.org/10.1145/3372885.3373815</ee>
+<crossref>conf/cpp/2020</crossref>
+<url>db/conf/cpp/cpp2020.html#00020G20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recomb/PaigeBBGE20" mdate="2020-11-05">
+<author orcid="0000-0002-4797-1563" pid="143/7344">Brooks Paige</author>
+<author orcid="0000-0003-4493-4297" pid="238/0043">James Bell 0001</author>
+<author orcid="0000-0003-3440-1251" pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author orcid="0000-0002-1685-6909" pid="167/1947">Daphne Ezer</author>
+<title>Reconstructing Genotypes in Private Genomic Databases from Genetic Risk Scores.</title>
+<pages>266-268</pages>
+<year>2020</year>
+<booktitle>RECOMB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45257-5_32</ee>
+<crossref>conf/recomb/2020</crossref>
+<url>db/conf/recomb/recomb2020.html#PaigeBBGE20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-00817" mdate="2020-11-05">
+<author pid="06/8421">Borja Balle</author>
+<author pid="238/0043">James Bell 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="65/801">Kobbi Nissim</author>
+<title>Private Summation in the Multi-Message Shuffle Model.</title>
+<year>2020</year>
+<volume>abs/2002.00817</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.00817</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-00817</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-05574" mdate="2020-04-14">
+<author pid="198/1244">Ali Shahin Shamsabadi</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="33/5454">Hamed Haddadi</author>
+<author pid="36/368">Andrea Cavallaro</author>
+<title>PrivEdge: From Local to Distributed Private Training and Prediction.</title>
+<year>2020</year>
+<volume>abs/2004.05574</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.05574</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-05574</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BellBGLR20" mdate="2020-11-05">
+<author pid="238/0043">James Bell 0001</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<title>Secure Single-Server Aggregation with (Poly)Logarithmic Overhead.</title>
+<pages>704</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/704</ee>
+<url>db/journals/iacr/iacr2020.html#BellBGLR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/SchoppmannGR019" mdate="2020-11-10">
+<author orcid="0000-0001-7951-3930" pid="187/5645">Phillipp Schoppmann</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="251/1506">Leonie Reichert</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<title>Distributed Vector-OLE: Improved Constructions and Implementation.</title>
+<pages>1055-1072</pages>
+<year>2019</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3319535.3363228</ee>
+<crossref>conf/ccs/2019</crossref>
+<url>db/conf/ccs/ccs2019.html#SchoppmannGR019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/0002SKG19" mdate="2020-11-10">
+<author pid="a/NitinAgrawal2">Nitin Agrawal 0002</author>
+<author pid="198/1244">Ali Shahin Shamsabadi</author>
+<author pid="120/7700">Matt J. Kusner</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>QUOTIENT: Two-Party Secure Neural Network Training and Prediction.</title>
+<pages>1231-1247</pages>
+<year>2019</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3319535.3339819</ee>
+<crossref>conf/ccs/2019</crossref>
+<url>db/conf/ccs/ccs2019.html#0002SKG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/SchoppmannG0P19" mdate="2020-11-10">
+<author orcid="0000-0001-7951-3930" pid="187/5645">Phillipp Schoppmann</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="31/1735">Benny Pinkas</author>
+<title>Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning.</title>
+<pages>1335-1350</pages>
+<year>2019</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3319535.3339816</ee>
+<crossref>conf/ccs/2019</crossref>
+<url>db/conf/ccs/ccs2019.html#SchoppmannG0P19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/BalleGO0ST19" mdate="2020-11-10">
+<author pid="06/8421">Borja Balle</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="70/4765">Olya Ohrimenko</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author orcid="0000-0001-7951-3930" pid="187/5645">Phillipp Schoppmann</author>
+<author pid="01/4825">Carmela Troncoso</author>
+<title>PPML '19: Privacy Preserving Machine Learning.</title>
+<pages>2717-2718</pages>
+<year>2019</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3319535.3353562</ee>
+<crossref>conf/ccs/2019</crossref>
+<url>db/conf/ccs/ccs2019.html#BalleGO0ST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/BalleBGN19" mdate="2020-11-05">
+<author pid="06/8421">Borja Balle</author>
+<author pid="238/0043">James Bell 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="65/801">Kobbi Nissim</author>
+<title>The Privacy Blanket of the Shuffle Model.</title>
+<pages>638-667</pages>
+<year>2019</year>
+<booktitle>CRYPTO (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-26951-7_22</ee>
+<crossref>conf/crypto/2019-2</crossref>
+<url>db/conf/crypto/crypto2019-2.html#BalleBGN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/post/ButlerAG19" mdate="2019-08-20">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>On the Formalisation of &#931;-Protocols and Commitment Schemes.</title>
+<pages>175-196</pages>
+<year>2019</year>
+<booktitle>POST</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17138-4_8</ee>
+<crossref>conf/post/2019</crossref>
+<url>db/conf/post/post2019.html#ButlerAG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-02837" mdate="2020-11-05">
+<author pid="06/8421">Borja Balle</author>
+<author pid="238/0043">James Bell 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="65/801">Kobbi Nissim</author>
+<title>The Privacy Blanket of the Shuffle Model.</title>
+<year>2019</year>
+<volume>abs/1903.02837</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.02837</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-02837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-09116" mdate="2020-11-05">
+<author pid="06/8421">Borja Balle</author>
+<author pid="238/0043">James Bell 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="65/801">Kobbi Nissim</author>
+<title>Differentially Private Summation with Multi-Message Shuffling.</title>
+<year>2019</year>
+<volume>abs/1906.09116</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.09116</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-09116</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-03372" mdate="2019-10-01">
+<author pid="a/NitinAgrawal2">Nitin Agrawal 0002</author>
+<author pid="198/1244">Ali Shahin Shamsabadi</author>
+<author pid="120/7700">Matt J. Kusner</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>QUOTIENT: Two-Party Secure Neural Network Training and Prediction.</title>
+<year>2019</year>
+<volume>abs/1907.03372</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.03372</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-03372</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-11225" mdate="2020-11-05">
+<author pid="06/8421">Borja Balle</author>
+<author pid="238/0043">James Bell 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="65/801">Kobbi Nissim</author>
+<title>Improved Summation from Shuffling.</title>
+<year>2019</year>
+<volume>abs/1909.11225</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.11225</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-11225</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-03861" mdate="2020-11-05">
+<author pid="238/0043">James Bell 0001</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="46/10579">Tejas Kulkarni</author>
+<title>Private Protocols for U-Statistics in the Local Model and Beyond.</title>
+<year>2019</year>
+<volume>abs/1910.03861</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.03861</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-03861</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-02624" mdate="2019-11-11">
+<author pid="214/2105">Judith Clymo</author>
+<author pid="192/1281">Haik Manukian</author>
+<author pid="93/8654">Nathana&#235;l Fijalkow</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="143/7344">Brooks Paige</author>
+<title>Data Generation for Neural Programming by Example.</title>
+<year>2019</year>
+<volume>abs/1911.02624</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.02624</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-02624</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04977" mdate="2020-11-19">
+<author pid="129/1254">Peter Kairouz</author>
+<author pid="64/898">H. Brendan McMahan</author>
+<author pid="200/7947">Brendan Avent</author>
+<author pid="61/8017">Aur&#233;lien Bellet</author>
+<author pid="09/3625">Mehdi Bennis</author>
+<author pid="199/2164">Arjun Nitin Bhagoji</author>
+<author pid="29/4152">Keith Bonawitz</author>
+<author pid="213/3622">Zachary Charles</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="56/9841">Rachel Cummings</author>
+<author pid="125/1967">Rafael G. L. D'Oliveira</author>
+<author pid="122/2942">Salim El Rouayheb</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="195/6806">Josh Gardner</author>
+<author pid="255/5493">Zachary Garrett</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="125/2134">Badih Ghazi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="87/88">Marco Gruteser</author>
+<author pid="39/2793">Za&#239;d Harchaoui</author>
+<author pid="222/6721-1">Chaoyang He 0001</author>
+<author pid="225/5245">Lie He</author>
+<author pid="178/8562">Zhouyuan Huo</author>
+<author pid="56/1256">Ben Hutchinson</author>
+<author pid="35/10964">Justin Hsu</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="74/2569">Tara Javidi</author>
+<author pid="119/3872">Gauri Joshi</author>
+<author pid="199/2224">Mikhail Khodak</author>
+<author pid="139/0872">Jakub Konecn&#253;</author>
+<author pid="08/1446">Aleksandra Korolova</author>
+<author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="14/8885">Sanmi Koyejo</author>
+<author pid="08/11136">Tancr&#232;de Lepoint</author>
+<author pid="51/3710-165">Yang Liu 0165</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="03/5448">Mehryar Mohri</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="12/4534">Ayfer &#214;zg&#252;r</author>
+<author pid="p/RasmusPagh">Rasmus Pagh</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="96/1046">Hang Qi</author>
+<author pid="47/5036">Daniel Ramage</author>
+<author pid="r/RameshRaskar">Ramesh Raskar</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="171/5170">Weikang Song</author>
+<author pid="04/10549">Sebastian U. Stich</author>
+<author pid="194/8609">Ziteng Sun</author>
+<author pid="119/3884">Ananda Theertha Suresh</author>
+<author pid="158/7224">Florian Tram&#232;r</author>
+<author pid="131/6694">Praneeth Vepakomma</author>
+<author pid="98/6805">Jianyu Wang</author>
+<author pid="39/3530-1">Li Xiong 0001</author>
+<author pid="83/2535">Zheng Xu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="23/10574">Felix X. Yu</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="04/11534">Sen Zhao</author>
+<title>Advances and Open Problems in Federated Learning.</title>
+<year>2019</year>
+<volume>abs/1912.04977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04977</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04977</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchoppmannGRP19" mdate="2020-05-11">
+<author pid="187/5645">Phillipp Schoppmann</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="31/1735">Benny Pinkas</author>
+<title>Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning.</title>
+<pages>281</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/281</ee>
+<url>db/journals/iacr/iacr2019.html#SchoppmannGRP19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchoppmannGRR19" mdate="2020-05-11">
+<author pid="187/5645">Phillipp Schoppmann</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="251/1506">Leonie Reichert</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<title>Distributed Vector-OLE: Improved Constructions and Implementation.</title>
+<pages>1084</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1084</ee>
+<url>db/journals/iacr/iacr2019.html#SchoppmannGRR19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ButlerLAG19" mdate="2020-05-11">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="43/1499">Andreas Lochbihler</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Formalising &#931;-Protocols and Commitment Schemes using CryptHOL.</title>
+<pages>1185</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1185</ee>
+<url>db/journals/iacr/iacr2019.html#ButlerLAG19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/00020G19" mdate="2020-05-11">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Formalising Oblivious Transfer in the Semi-Honest and Malicious Model in CryptHOL.</title>
+<pages>1449</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1449</ee>
+<url>db/journals/iacr/iacr2019.html#00020G19</url>
+</article>
+</r>
+<r><article key="journals/internet/CrowcroftG18" mdate="2020-03-13">
+<author pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Analytics without Tears or Is There a Way for Data to Be Anonymized and Yet Still Useful?</title>
+<pages>58-64</pages>
+<year>2018</year>
+<volume>22</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MIC.2018.032501518</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2018.032501518</ee>
+<url>db/journals/internet/internet22.html#CrowcroftG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/csr/GasconLMRS18" mdate="2018-05-24">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="76/1674">Markus Lohrey</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="172/1320">Carl Philipp Reh</author>
+<author pid="48/6988">Kurt Sieber</author>
+<title>Grammar-Based Compression of Unranked Trees.</title>
+<pages>118-131</pages>
+<year>2018</year>
+<booktitle>CSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-90530-3_11</ee>
+<crossref>conf/csr/2018</crossref>
+<url>db/conf/csr/csr2018.html#GasconLMRS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/KilbertusGKVGW18" mdate="2019-04-03">
+<author pid="202/1966">Niki Kilbertus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="120/7700">Matt J. Kusner</author>
+<author pid="202/2503">Michael Veale</author>
+<author pid="g/PKrishnaGummadi">Krishna P. Gummadi</author>
+<author pid="73/8324">Adrian Weller</author>
+<title>Blind Justice: Fairness with Encrypted Sensitive Attributes.</title>
+<pages>2635-2644</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/kilbertus18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#KilbertusGKVGW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SanyalKGK18" mdate="2021-01-21">
+<author orcid="0000-0002-4190-0449" pid="203/8807">Amartya Sanyal</author>
+<author pid="120/7700">Matt J. Kusner</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="31/6692">Varun Kanade</author>
+<title>TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service.</title>
+<pages>4497-4506</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sanyal18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SanyalKGK18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-05490" mdate="2018-08-13">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="76/1674">Markus Lohrey</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="172/1320">Carl Philipp Reh</author>
+<author pid="48/6988">Kurt Sieber</author>
+<title>Grammar-based Compression of Unranked Trees.</title>
+<year>2018</year>
+<volume>abs/1802.05490</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.05490</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-05490</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-12482" mdate="2019-05-13">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>How to Simulate It in Isabelle: Towards Formal Proof for Secure Multi-Party Computation.</title>
+<year>2018</year>
+<volume>abs/1805.12482</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.12482</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-12482</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-03281" mdate="2018-08-13">
+<author pid="202/1966">Niki Kilbertus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="120/7700">Matt J. Kusner</author>
+<author pid="202/2503">Michael Veale</author>
+<author pid="g/PKrishnaGummadi">Krishna P. Gummadi</author>
+<author pid="73/8324">Adrian Weller</author>
+<title>Blind Justice: Fairness with Encrypted Sensitive Attributes.</title>
+<year>2018</year>
+<volume>abs/1806.03281</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.03281</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-03281</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-03461" mdate="2018-08-13">
+<author pid="203/8807">Amartya Sanyal</author>
+<author pid="120/7700">Matt J. Kusner</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="31/6692">Varun Kanade</author>
+<title>TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service.</title>
+<year>2018</year>
+<volume>abs/1806.03461</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.03461</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-03461</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/SchoppmannGB18" mdate="2020-05-11">
+<author pid="187/5645">Phillipp Schoppmann</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="06/8421">Borja Balle</author>
+<title>Private Nearest Neighbors Classification in Federated Databases.</title>
+<pages>289</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/289</ee>
+<url>db/journals/iacr/iacr2018.html#SchoppmannGB18</url>
+</article>
+</r>
+<r><article key="journals/popets/GasconSB0DZE17" mdate="2020-09-01">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author orcid="0000-0001-7951-3930" pid="187/5645">Phillipp Schoppmann</author>
+<author pid="06/8421">Borja Balle</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="184/6169">Jack Doerner</author>
+<author pid="131/5090">Samee Zahur</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<title>Privacy-Preserving Distributed Linear Regression on High-Dimensional Data.</title>
+<pages>345-364</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>Proc. Priv. Enhancing Technol.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1515/popets-2017-0053</ee>
+<url>db/journals/popets/popets2017.html#GasconSB0DZE17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/GasconTCM17" mdate="2020-05-22">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<author pid="173/1667">Brent Carmer</author>
+<author orcid="0000-0002-7610-0660" pid="137/7835">Umang Mathur 0001</author>
+<title>Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis.</title>
+<pages>86-103</pages>
+<year>2017</year>
+<booktitle>CAV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63390-9_5</ee>
+<crossref>conf/cav/2017-2</crossref>
+<url>db/conf/cav/cav2017-2.html#GasconTCM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itp/Butler0G17" mdate="2019-05-14">
+<author pid="40/3555-2">David Butler 0002</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>How to Simulate It in Isabelle: Towards Formal Proof for Secure Multi-Party Computation.</title>
+<pages>114-130</pages>
+<year>2017</year>
+<booktitle>ITP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66107-0_8</ee>
+<crossref>conf/itp/2017</crossref>
+<url>db/conf/itp/itp2017.html#Butler0G17</url>
+</inproceedings>
+</r>
+<r><article key="journals/siamcomp/CreusGGR16" mdate="2017-09-01">
+<author pid="97/7572">Carles Creus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="06/8164">Lander Ramos</author>
+<title>The HOM Problem is EXPTIME-Complete.</title>
+<pages>1230-1260</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/140999104</ee>
+<url>db/journals/siamcomp/siamcomp45.html#CreusGGR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sp/ZahurW0GDEK16" mdate="2018-03-20">
+<author pid="131/5090">Samee Zahur</author>
+<author pid="150/9413">Xiao Wang 0012</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="184/6169">Jack Doerner</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<author pid="k/JonathanKatz">Jonathan Katz</author>
+<title>Revisiting Square-Root ORAM: Efficient Random Access in Multi-party Computation.</title>
+<pages>218-234</pages>
+<year>2016</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2016.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SP.2016.21</ee>
+<crossref>conf/sp/2016</crossref>
+<url>db/conf/sp/sp2016.html#ZahurW0GDEK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/AbreuACCEG16" mdate="2021-04-13">
+<author pid="00/6243">Rui Abreu 0001</author>
+<author pid="64/4957">Dave Archer</author>
+<author pid="205/2163">Erin Chapman</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="51/9923">Hoda Eldardiry</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Provenance Segmentation.</title>
+<year>2016</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp16/workshop-program/presentation/abreu</ee>
+<crossref>conf/tapp/2016</crossref>
+<url>db/conf/tapp/tapp2016.html#AbreuACCEG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/BunemanGM16" mdate="2021-02-02">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="93/100">Dave Murray-Rust</author>
+<title>Composition and Substitution in Provenance and Workflows.</title>
+<year>2016</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp16/workshop-program/presentation/buneman</ee>
+<crossref>conf/tapp/2016</crossref>
+<url>db/conf/tapp/tapp2016.html#BunemanGM16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/GasconSB0DZE16" mdate="2020-05-11">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="187/5645">Phillipp Schoppmann</author>
+<author pid="06/8421">Borja Balle</author>
+<author pid="07/5590-1">Mariana Raykova 0001</author>
+<author pid="184/6169">Jack Doerner</author>
+<author pid="131/5090">Samee Zahur</author>
+<author pid="e/DavidEvans">David Evans 0001</author>
+<title>Secure Linear Regression on Vertically Partitioned Datasets.</title>
+<pages>892</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/892</ee>
+<url>db/journals/iacr/iacr2016.html#GasconSB0DZE16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cade/TiwariGD15" mdate="2019-11-06">
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="d/BDutertre">Bruno Dutertre</author>
+<title>Program Synthesis Using Dual Interpretation.</title>
+<pages>482-497</pages>
+<year>2015</year>
+<booktitle>CADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21401-6_33</ee>
+<crossref>conf/cade/2015</crossref>
+<url>db/conf/cade/cade2015.html#TiwariGD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/GasconST15" mdate="2019-11-06">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<title>Two-Restricted One Context Unification is in Polynomial Time.</title>
+<pages>405-422</pages>
+<year>2015</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2015.405</ee>
+<crossref>conf/csl/2015</crossref>
+<url>db/conf/csl/csl2015.html#GasconST15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/GasconTS15" mdate="2019-11-06">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<author orcid="0000-0001-8809-7385" pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<title>One Context Unification Problems Solvable in Polynomial Time.</title>
+<pages>499-510</pages>
+<year>2015</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2015.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LICS.2015.53</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2876559</ee>
+<crossref>conf/lics/2015</crossref>
+<url>db/conf/lics/lics2015.html#GasconTS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tetc/SubramanyanTLGTTSSM14" mdate="2020-05-15">
+<author pid="27/8110">Pramod Subramanyan</author>
+<author pid="22/7407">Nestan Tsiskaridze</author>
+<author pid="23/5721">Wenchao Li</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="133/5113">Wei Yang Tan</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<author pid="33/1623">Natarajan Shankar</author>
+<author pid="s/SanjitASeshia">Sanjit A. Seshia</author>
+<author pid="79/6934">Sharad Malik</author>
+<title>Reverse Engineering Digital Circuits Using Structural and Functional Analyses.</title>
+<pages>63-80</pages>
+<year>2014</year>
+<volume>2</volume>
+<journal>IEEE Trans. Emerg. Top. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TETC.2013.2294918</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TETC.2013.2294918</ee>
+<url>db/journals/tetc/tetc2.html#SubramanyanTLGTTSSM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmcad/GasconSDTJM14" mdate="2019-11-06">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="27/8110">Pramod Subramanyan</author>
+<author pid="d/BDutertre">Bruno Dutertre</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<author pid="56/2451">Dejan Jovanovic</author>
+<author pid="79/6934">Sharad Malik</author>
+<title>Template-based circuit understanding.</title>
+<pages>83-90</pages>
+<year>2014</year>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.1109/FMCAD.2014.6987599</ee>
+<crossref>conf/fmcad/2014</crossref>
+<url>db/conf/fmcad/fmcad2014.html#GasconSDTJM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/GasconT14" mdate="2019-11-06">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<title>A Synthesized Algorithm for Interactive Consistency.</title>
+<pages>270-284</pages>
+<year>2014</year>
+<booktitle>NASA Formal Methods</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06200-6_23</ee>
+<crossref>conf/nfm/2014</crossref>
+<url>db/conf/nfm/nfm2014.html#GasconT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/GasconT14" mdate="2019-11-06">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<title>Synthesis of a simple self-stabilizing system.</title>
+<booktitle>SYNT</booktitle>
+<year>2014</year>
+<pages>5-16</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.157.5</ee>
+<ee type="oa">http://arxiv.org/abs/1407.5392</ee>
+<crossref>journals/corr/ChatterjeeEJ14</crossref>
+<url>db/series/eptcs/eptcs157.html#GasconT14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jar/CreusGG13" mdate="2020-09-02">
+<author pid="97/7572">Carles Creus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<title>Emptiness and Finiteness for Tree Automata with Global Reflexive Disequality Constraints.</title>
+<pages>371-400</pages>
+<year>2013</year>
+<volume>51</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10817-012-9270-5</ee>
+<url>db/journals/jar/jar51.html#CreusGG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/host/LiGSTTMSS13" mdate="2019-11-06">
+<author pid="23/5721">Wenchao Li</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="27/8110">Pramod Subramanyan</author>
+<author pid="133/5113">Wei Yang Tan</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<author pid="79/6934">Sharad Malik</author>
+<author pid="33/1623">Natarajan Shankar</author>
+<author pid="s/SanjitASeshia">Sanjit A. Seshia</author>
+<title>WordRev: Finding word-level structures in a sea of bit-level gates.</title>
+<pages>67-74</pages>
+<year>2013</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2013.6581568</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HST.2013.6581568</ee>
+<crossref>conf/host/2013</crossref>
+<url>db/conf/host/host2013.html#LiGSTTMSS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/CreusGGR12" mdate="2019-02-13">
+<author pid="97/7572">Carles Creus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="06/8164">Lander Ramos</author>
+<title>The HOM Problem is EXPTIME-Complete.</title>
+<pages>255-264</pages>
+<year>2012</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2012.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LICS.2012.36</ee>
+<crossref>conf/lics/2012</crossref>
+<url>db/conf/lics/lics2012.html#CreusGGR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rta/CreusGG12" mdate="2018-08-23">
+<author pid="97/7572">Carles Creus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<title>One-context Unification with STG-Compressed Terms is in NP.</title>
+<pages>149-164</pages>
+<year>2012</year>
+<booktitle>RTA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.RTA.2012.149</ee>
+<crossref>conf/rta/2012</crossref>
+<url>db/conf/rta/rta2012.html#CreusGG12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocl/GasconGS11" mdate="2018-11-06">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<title>Unification and matching on compressed terms.</title>
+<pages>26:1-26:37</pages>
+<year>2011</year>
+<volume>12</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1970398.1970402</ee>
+<url>db/journals/tocl/tocl12.html#GasconGS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/AriasCGG11" mdate="2017-09-01">
+<author pid="33/1422">Marta Arias</author>
+<author pid="97/7572">Carles Creus</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<title>Learning Theory through Videos - A Teaching Experience in a Theoretical Course based on Self-learning Videos and Problem-solving Sessions.</title>
+<pages>93-98</pages>
+<year>2011</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2011-2</crossref>
+<url>db/conf/csedu/csedu2011-2.html#AriasCGG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rta/GasconMR11" mdate="2018-08-23">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="06/8164">Lander Ramos</author>
+<title>First-Order Unification on Compressed Terms.</title>
+<pages>51-60</pages>
+<year>2011</year>
+<booktitle>RTA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.RTA.2011.51</ee>
+<crossref>conf/rta/2011</crossref>
+<url>db/conf/rta/rta2011.html#GasconMR11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsc/GasconGST10" mdate="2021-02-17">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<author pid="t/AshishTiwari">Ashish Tiwari 0001</author>
+<title>Context unification with one context variable.</title>
+<pages>173-193</pages>
+<year>2010</year>
+<volume>45</volume>
+<journal>J. Symb. Comput.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/j.jsc.2008.10.005</ee>
+<url>db/journals/jsc/jsc45.html#GasconGST10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1003-1632" mdate="2018-08-13">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<title>Unification and Matching on Compressed Terms</title>
+<ee type="oa">http://arxiv.org/abs/1003.1632</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1003.1632</volume>
+<url>db/journals/corr/corr1003.html#abs-1003-1632</url>
+</article>
+</r>
+<r><article key="journals/entcs/GasconGJ09" mdate="2021-02-12">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="04/704">Florent Jacquemard</author>
+<title>Closure of Tree Automata Languages under Innermost Rewriting.</title>
+<pages>23-38</pages>
+<year>2009</year>
+<volume>237</volume>
+<journal>Electron. Notes Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2009.03.033</ee>
+<url>db/journals/entcs/entcs237.html#GasconGJ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/rta/GasconGS09" mdate="2017-09-01">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<title>Unification with Singleton Tree Grammars.</title>
+<pages>365-379</pages>
+<year>2009</year>
+<booktitle>RTA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02348-4_26</ee>
+<crossref>conf/rta/2009</crossref>
+<url>db/conf/rta/rta2009.html#GasconGS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/GasconGS08" mdate="2017-09-01">
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<author pid="74/1364">Guillem Godoy</author>
+<author pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</author>
+<title>Context Matching for Compressed Terms.</title>
+<pages>93-102</pages>
+<year>2008</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2008.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LICS.2008.17</ee>
+<crossref>conf/lics/2008</crossref>
+<url>db/conf/lics/lics2008.html#GasconGS08</url>
+</inproceedings>
+</r>
+<coauthors n="121" nc="1">
+<co c="0"><na f="a/Abreu_0001:Rui" pid="00/6243">Rui Abreu 0001</na></co>
+<co c="0"><na f="a/Agrawal_0002:Nitin" pid="a/NitinAgrawal2">Nitin Agrawal 0002</na></co>
+<co c="0" n="2"><na f="a/Archer:David_W=" pid="64/4957">David W. Archer</na><na>Dave Archer</na></co>
+<co c="0"><na f="a/Arias:Marta" pid="33/1422">Marta Arias</na></co>
+<co c="0"><na f="a/Aspinall_0001:David" pid="19/6243">David Aspinall 0001</na></co>
+<co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
+<co c="0"><na f="b/Balle:Borja" pid="06/8421">Borja Balle</na></co>
+<co c="0" n="2"><na f="b/Bell_0001:James" pid="238/0043">James Bell 0001</na><na>James Henry Bell</na></co>
+<co c="0"><na f="b/Bellet:Aur=eacute=lien" pid="61/8017">Aur&#233;lien Bellet</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
+<co c="0"><na f="b/Bhagoji:Arjun_Nitin" pid="199/2164">Arjun Nitin Bhagoji</na></co>
+<co c="0"><na f="b/Bonawitz:Kallista_A=" pid="277/8120">Kallista A. Bonawitz</na></co>
+<co c="0"><na f="b/Bonawitz:Keith" pid="29/4152">Keith Bonawitz</na></co>
+<co c="0"><na f="b/Buneman:Peter" pid="b/PeterBuneman">Peter Buneman</na></co>
+<co c="0"><na f="b/Butler_0002:David" pid="40/3555-2">David Butler 0002</na></co>
+<co c="0"><na f="c/Carmer:Brent" pid="173/1667">Brent Carmer</na></co>
+<co c="0"><na f="c/Cavallaro:Andrea" pid="36/368">Andrea Cavallaro</na></co>
+<co c="0"><na f="c/Chapman:Erin" pid="205/2163">Erin Chapman</na></co>
+<co c="0"><na f="c/Charles:Zachary" pid="213/3622">Zachary Charles</na></co>
+<co c="0"><na f="c/Cheney:James" pid="96/3253">James Cheney</na></co>
+<co c="0"><na f="c/Clymo:Judith" pid="214/2105">Judith Clymo</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Creus:Carles" pid="97/7572">Carles Creus</na></co>
+<co c="0"><na f="c/Crowcroft:Jon" pid="c/JonCrowcroft">Jon Crowcroft</na></co>
+<co c="0"><na f="c/Cummings:Rachel" pid="56/9841">Rachel Cummings</na></co>
+<co c="0"><na f="d/Doerner:Jack" pid="184/6169">Jack Doerner</na></co>
+<co c="0" n="2"><na f="d/D=Oliveira:Rafael_Gregorio_Lucas" pid="125/1967">Rafael Gregorio Lucas D'Oliveira</na><na>Rafael G. L. D'Oliveira</na></co>
+<co c="0"><na f="d/Dutertre:Bruno" pid="d/BDutertre">Bruno Dutertre</na></co>
+<co c="0"><na f="e/Eldardiry:Hoda" pid="51/9923">Hoda Eldardiry</na></co>
+<co c="0"><na f="e/Evans_0001:David" pid="e/DavidEvans">David Evans 0001</na></co>
+<co c="0"><na f="e/Ezer:Daphne" pid="167/1947">Daphne Ezer</na></co>
+<co c="0"><na f="f/Fijalkow:Nathana=euml=l" pid="93/8654">Nathana&#235;l Fijalkow</na></co>
+<co c="0"><na f="g/Gardner:Josh" pid="195/6806">Josh Gardner</na></co>
+<co c="0"><na f="g/Garrett:Zachary" pid="255/5493">Zachary Garrett</na></co>
+<co c="0"><na f="g/Ghazi:Badih" pid="125/2134">Badih Ghazi</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Godoy:Guillem" pid="74/1364">Guillem Godoy</na></co>
+<co c="0"><na f="g/Gruteser:Marco" pid="87/88">Marco Gruteser</na></co>
+<co c="0"><na f="g/Gummadi:Krishna_P=" pid="g/PKrishnaGummadi">Krishna P. Gummadi</na></co>
+<co c="0"><na f="h/Haddadi:Hamed" pid="33/5454">Hamed Haddadi</na></co>
+<co c="0"><na f="h/Harchaoui:Za=iuml=d" pid="39/2793">Za&#239;d Harchaoui</na></co>
+<co c="0"><na f="h/He_0001:Chaoyang" pid="222/6721-1">Chaoyang He 0001</na></co>
+<co c="0"><na f="h/He:Lie" pid="225/5245">Lie He</na></co>
+<co c="0"><na f="h/Hsu:Justin" pid="35/10964">Justin Hsu</na></co>
+<co c="0"><na f="h/Huo:Zhouyuan" pid="178/8562">Zhouyuan Huo</na></co>
+<co c="0"><na f="h/Hutchinson:Ben" pid="56/1256">Ben Hutchinson</na></co>
+<co c="0"><na f="j/Jacquemard:Florent" pid="04/704">Florent Jacquemard</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Javidi:Tara" pid="74/2569">Tara Javidi</na></co>
+<co c="0"><na f="j/Joshi:Gauri" pid="119/3872">Gauri Joshi</na></co>
+<co c="0"><na f="j/Jovanovic:Dejan" pid="56/2451">Dejan Jovanovic</na></co>
+<co c="0"><na f="k/Kairouz:Peter" pid="129/1254">Peter Kairouz</na></co>
+<co c="0"><na f="k/Kanade:Varun" pid="31/6692">Varun Kanade</na></co>
+<co c="0"><na f="k/Katz:Jonathan" pid="k/JonathanKatz">Jonathan Katz</na></co>
+<co c="0"><na f="k/Khodak:Mikhail" pid="199/2224">Mikhail Khodak</na></co>
+<co c="0"><na f="k/Kilbertus:Niki" pid="202/1966">Niki Kilbertus</na></co>
+<co c="0"><na f="k/Konecn=yacute=:Jakub" pid="139/0872">Jakub Konecn&#253;</na></co>
+<co c="0"><na f="k/Korolova:Aleksandra" pid="08/1446">Aleksandra Korolova</na></co>
+<co c="0"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0" n="2"><na f="k/Koyejo:Oluwasanmi" pid="14/8885">Oluwasanmi Koyejo</na><na>Sanmi Koyejo</na></co>
+<co c="0"><na f="k/Kulkarni:Tejas" pid="46/10579">Tejas Kulkarni</na></co>
+<co c="0"><na f="k/Kusner:Matt_J=" pid="120/7700">Matt J. Kusner</na></co>
+<co c="0"><na f="l/Lepoint:Tancr=egrave=de" pid="08/11136">Tancr&#232;de Lepoint</na></co>
+<co c="0"><na f="l/Li:Wenchao" pid="23/5721">Wenchao Li</na></co>
+<co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="l/Lochbihler:Andreas" pid="43/1499">Andreas Lochbihler</na></co>
+<co c="0"><na f="l/Lohrey:Markus" pid="76/1674">Markus Lohrey</na></co>
+<co c="0"><na f="m/Malik:Sharad" pid="79/6934">Sharad Malik</na></co>
+<co c="0"><na f="m/Maneth:Sebastian" pid="m/SebastianManeth">Sebastian Maneth</na></co>
+<co c="0"><na f="m/Manukian:Haik" pid="192/1281">Haik Manukian</na></co>
+<co c="0"><na f="m/Mathur_0001:Umang" pid="137/7835">Umang Mathur 0001</na></co>
+<co c="0"><na f="m/McMahan:H=_Brendan" pid="64/898">H. Brendan McMahan</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Mohri:Mehryar" pid="03/5448">Mehryar Mohri</na></co>
+<co c="0" n="2"><na f="m/Murray=Rust:David" pid="93/100">David Murray-Rust</na><na>Dave Murray-Rust</na></co>
+<co c="0"><na f="n/Nissim:Kobbi" pid="65/801">Kobbi Nissim</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0" n="2"><na f="o/Ohrimenko:Olga" pid="70/4765">Olga Ohrimenko</na><na>Olya Ohrimenko</na></co>
+<co c="0"><na f="=/=Ouml=zg=uuml=r:Ayfer" pid="12/4534">Ayfer &#214;zg&#252;r</na></co>
+<co c="0"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Paige:Brooks" pid="143/7344">Brooks Paige</na></co>
+<co c="0"><na f="p/Pinkas:Benny" pid="31/1735">Benny Pinkas</na></co>
+<co c="0"><na f="q/Qi:Hang" pid="96/1046">Hang Qi</na></co>
+<co c="0"><na f="r/Ramage:Daniel" pid="47/5036">Daniel Ramage</na></co>
+<co c="0"><na f="r/Ramos:Lander" pid="06/8164">Lander Ramos</na></co>
+<co c="0"><na f="r/Raskar:Ramesh" pid="r/RameshRaskar">Ramesh Raskar</na></co>
+<co c="0"><na f="r/Raykova_0001:Mariana" pid="07/5590-1">Mariana Raykova 0001</na></co>
+<co c="0"><na f="r/Reh:Carl_Philipp" pid="172/1320">Carl Philipp Reh</na></co>
+<co c="0"><na f="r/Reichert:Leonie" pid="251/1506">Leonie Reichert</na></co>
+<co c="0"><na f="r/Rouayheb:Salim_El" pid="122/2942">Salim El Rouayheb</na></co>
+<co c="0"><na f="s/Sanyal:Amartya" pid="203/8807">Amartya Sanyal</na></co>
+<co c="0"><na f="s/Schmidt=Schau=szlig=:Manfred" pid="s/MSchmidtSchauss">Manfred Schmidt-Schau&#223;</na></co>
+<co c="0"><na f="s/Schoppmann:Phillipp" pid="187/5645">Phillipp Schoppmann</na></co>
+<co c="0"><na f="s/Seshia:Sanjit_A=" pid="s/SanjitASeshia">Sanjit A. Seshia</na></co>
+<co c="0"><na f="s/Shamsabadi:Ali_Shahin" pid="198/1244">Ali Shahin Shamsabadi</na></co>
+<co c="0"><na f="s/Shankar:Natarajan" pid="33/1623">Natarajan Shankar</na></co>
+<co c="0"><na f="s/Sieber:Kurt" pid="48/6988">Kurt Sieber</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Weikang" pid="171/5170">Weikang Song</na></co>
+<co c="0"><na f="s/Stich:Sebastian_U=" pid="04/10549">Sebastian U. Stich</na></co>
+<co c="0"><na f="s/Subramanyan:Pramod" pid="27/8110">Pramod Subramanyan</na></co>
+<co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
+<co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
+<co c="0"><na f="t/Tan:Wei_Yang" pid="133/5113">Wei Yang Tan</na></co>
+<co c="0"><na f="t/Tiwari_0001:Ashish" pid="t/AshishTiwari">Ashish Tiwari 0001</na></co>
+<co c="0"><na f="t/Tram=egrave=r:Florian" pid="158/7224">Florian Tram&#232;r</na></co>
+<co c="0"><na f="t/Troncoso:Carmela" pid="01/4825">Carmela Troncoso</na></co>
+<co c="0"><na f="t/Tsiskaridze:Nestan" pid="22/7407">Nestan Tsiskaridze</na></co>
+<co c="0"><na f="v/Veale:Michael" pid="202/2503">Michael Veale</na></co>
+<co c="0"><na f="v/Vepakomma:Praneeth" pid="131/6694">Praneeth Vepakomma</na></co>
+<co c="0"><na f="v/Vogelsang:Lennart" pid="268/0462">Lennart Vogelsang</na></co>
+<co c="0"><na f="w/Wang:Jianyu" pid="98/6805">Jianyu Wang</na></co>
+<co c="0"><na f="w/Wang_0012:Xiao" pid="150/9413">Xiao Wang 0012</na></co>
+<co c="0"><na f="w/Weller:Adrian" pid="73/8324">Adrian Weller</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Zheng" pid="83/2535">Zheng Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yu:Felix_X=" pid="23/10574">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Han" pid="35/1096-1">Han Yu 0001</na></co>
+<co c="0"><na f="z/Zahur:Samee" pid="131/5090">Samee Zahur</na></co>
+<co c="0"><na f="z/Zhao:Sen" pid="04/11534">Sen Zhao</na></co>
+</coauthors>
+</dblpperson>
+

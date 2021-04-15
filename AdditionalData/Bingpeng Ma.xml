@@ -1,3 +1,1259 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62e0d65fefc80d70077241a92ef814ec164d0e87cedd799ff970597828a156ab
-size 55609
+<?xml version="1.0"?>
+<dblpperson name="Bingpeng Ma" pid="62/1822" n="73">
+<person key="homepages/62/1822" mdate="2009-06-09">
+<author pid="62/1822">Bingpeng Ma</author>
+</person>
+<r><article key="journals/chinaf/MaoMCSC21" mdate="2021-04-09">
+<author pid="192/2135">Fengling Mao</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Learning efficient text-to-image synthesis via interstage cross-sample similarity distillation.</title>
+<year>2021</year>
+<volume>64</volume>
+<journal>Sci. China Inf. Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11432-020-2900-x</ee>
+<url>db/journals/chinaf/chinaf64.html#MaoMCSC21</url>
+</article>
+</r>
+<r><article key="journals/ijon/ChenMC20" mdate="2020-11-11">
+<author pid="138/8163">Yucheng Chen</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<title>Part alignment network for vehicle re-identification.</title>
+<pages>114-125</pages>
+<year>2020</year>
+<volume>418</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2020.08.016</ee>
+<url>db/journals/ijon/ijon418.html#ChenMC20</url>
+</article>
+</r>
+<r><article key="journals/tip/XuMCS20" mdate="2020-12-25">
+<author pid="223/1875">Furong Xu</author>
+<author orcid="0000-0001-8984-205X" pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-2668-0070" pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<title>Isosceles Constraints for Person Re-Identification.</title>
+<pages>8930-8943</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2020.3020648</ee>
+<ee>https://www.wikidata.org/entity/Q99355756</ee>
+<url>db/journals/tip/tip29.html#XuMCS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/WangMCSC20" mdate="2021-04-09">
+<author pid="54/2062">Cheng Wang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>TCTS: A Task-Consistent Two-Stage Framework for Person Search.</title>
+<pages>11949-11958</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01197</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#WangMCSC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/GuCMZC20" mdate="2020-11-03">
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Appearance-Preserving 3D Convolution for Video-Based Person Re-identification.</title>
+<pages>228-243</pages>
+<year>2020</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58536-5_14</ee>
+<crossref>conf/eccv/2020-2</crossref>
+<url>db/conf/eccv/eccv2020-2.html#GuCMZC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ZhangCMWC20" mdate="2020-11-17">
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="31/9922">Naiyan Wang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training.</title>
+<pages>260-275</pages>
+<year>2020</year>
+<booktitle>ECCV (15)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58555-6_16</ee>
+<crossref>conf/eccv/2020-15</crossref>
+<url>db/conf/eccv/eccv2020-15.html#ZhangCMWC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/HouCMSC20" mdate="2021-04-09">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Temporal Complementary Learning for Video Person Re-identification.</title>
+<pages>388-405</pages>
+<year>2020</year>
+<booktitle>ECCV (25)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58595-2_24</ee>
+<crossref>conf/eccv/2020-25</crossref>
+<url>db/conf/eccv/eccv2020-25.html#HouCMSC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-06002" mdate="2020-04-14">
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="31/9922">Naiyan Wang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training.</title>
+<year>2020</year>
+<volume>abs/2004.06002</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.06002</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-06002</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-08434" mdate="2020-07-22">
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Appearance-Preserving 3D Convolution for Video-based Person Re-identification.</title>
+<year>2020</year>
+<volume>abs/2007.08434</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.08434</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-08434</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-09357" mdate="2020-07-28">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Temporal Complementary Learning for Video Person Re-Identification.</title>
+<year>2020</year>
+<volume>abs/2007.09357</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.09357</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-09357</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-01035" mdate="2020-09-16">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>IAUnet: Global Context-Aware Feature Learning for Person Re-Identification.</title>
+<year>2020</year>
+<volume>abs/2009.01035</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.01035</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-01035</url>
+</article>
+</r>
+<r><article key="journals/pami/LiangCMSC19" mdate="2020-05-30">
+<author orcid="0000-0002-4726-093X" pid="161/1948">Kongming Liang</author>
+<author orcid="0000-0002-2668-0070" pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Unifying Visual Attribute Learning with Object Recognition in a Multiplicative Framework.</title>
+<pages>1747-1760</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPAMI.2018.2836461</ee>
+<ee>https://www.wikidata.org/entity/Q89559025</ee>
+<url>db/journals/pami/pami41.html#LiangCMSC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/MaoMCSC19" mdate="2021-02-03">
+<author pid="192/2135">Fengling Mao</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>MS-GAN: Text to Image Synthesis with Attention-Modulated Generators and Similarity-aware Discriminators.</title>
+<pages>150</pages>
+<year>2019</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://bmvc2019.org/wp-content/uploads/papers/0413-paper.pdf</ee>
+<crossref>conf/bmvc/2019</crossref>
+<url>db/conf/bmvc/bmvc2019.html#MaoMCSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/ZhangCMSC19" mdate="2021-02-03">
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection.</title>
+<pages>227</pages>
+<year>2019</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://bmvc2019.org/wp-content/uploads/papers/0809-paper.pdf</ee>
+<crossref>conf/bmvc/2019</crossref>
+<url>db/conf/bmvc/bmvc2019.html#ZhangCMSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/ZhangMCSC19" mdate="2021-02-03">
+<author pid="10/8496">Fangyi Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Relation-aware Multiple Attention Siamese Networks for Robust Visual Tracking.</title>
+<pages>290</pages>
+<year>2019</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://bmvc2019.org/wp-content/uploads/papers/0416-paper.pdf</ee>
+<crossref>conf/bmvc/2019</crossref>
+<url>db/conf/bmvc/bmvc2019.html#ZhangMCSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/BaoMCC19" mdate="2020-04-20">
+<author pid="238/9441">Liqiang Bao</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Masked Graph Attention Network for Person Re-Identification.</title>
+<pages>1496-1505</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Bao_Masked_Graph_Attention_Network_for_Person_Re-Identification_CVPRW_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW.2019.00191</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#BaoMCC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HouMCGSC19" mdate="2021-04-09">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="187/1622">Xinqian Gu</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>VRSTC: Occlusion-Free Video Person Re-Identification.</title>
+<pages>7183-7192</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Hou_VRSTC_Occlusion-Free_Video_Person_Re-Identification_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00735</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#HouMCGSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HouMCGSC19a" mdate="2021-04-09">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="187/1622">Xinqian Gu</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Interaction-And-Aggregation Network for Person Re-Identification.</title>
+<pages>9317-9326</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Hou_Interaction-And-Aggregation_Network_for_Person_Re-Identification_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00954</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#HouMCGSC19a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fgr/HouCMC19" mdate="2019-07-15">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Video Prediction with Bidirectional Constraint Network.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>FG</booktitle>
+<ee>https://doi.org/10.1109/FG.2019.8756585</ee>
+<crossref>conf/fgr/2019</crossref>
+<url>db/conf/fgr/fg2019.html#HouCMC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/GuMCSC19" mdate="2021-04-09">
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Temporal Knowledge Propagation for Image-to-Video Person Re-Identification.</title>
+<pages>9646-9655</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00974</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#GuMCSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icig/YinGCMC19" mdate="2019-11-29">
+<author pid="252/1587">Xiaoyi Yin</author>
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Attribute-Aware Pedestrian Image Editing.</title>
+<pages>44-56</pages>
+<year>2019</year>
+<booktitle>ICIG (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-34120-6_4</ee>
+<crossref>conf/icig/2019-1</crossref>
+<url>db/conf/icig/icig2019-1.html#YinGCMC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/BaoMCC19" mdate="2019-08-21">
+<author pid="238/9441">Liqiang Bao</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Preserving Structural Relationships for Person Re-Identification.</title>
+<pages>120-125</pages>
+<year>2019</year>
+<booktitle>ICME Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICMEW.2019.00028</ee>
+<crossref>conf/icmcs/2019w</crossref>
+<url>db/conf/icmcs/icmew2019.html#BaoMCC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HouCMSC19" mdate="2021-01-21">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Cross Attention Network for Few-shot Classification.</title>
+<pages>4005-4016</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/01894d6f048493d2cacde3c579c315a3-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#HouCMSC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-06854" mdate="2021-01-23">
+<author pid="01/5855">Chen Change Loy</author>
+<author pid="53/6088">Dahua Lin</author>
+<author pid="17/7992">Wanli Ouyang</author>
+<author pid="142/2644">Yuanjun Xiong</author>
+<author pid="78/1102-3">Shuo Yang 0003</author>
+<author pid="222/2014">Qingqiu Huang</author>
+<author pid="236/4960">Dongzhan Zhou</author>
+<author pid="77/1243">Wei Xia</author>
+<author pid="158/7423">Quanquan Li</author>
+<author pid="54/4989-2">Ping Luo 0002</author>
+<author pid="115/9656">Junjie Yan</author>
+<author pid="65/4872">Jianfeng Wang</author>
+<author pid="211/6824">Zuoxin Li</author>
+<author pid="33/6315">Ye Yuan</author>
+<author pid="135/8082">Boxun Li</author>
+<author orcid="0000-0001-8560-4572" pid="71/8201-5">Shuai Shao 0005</author>
+<author pid="75/1683">Gang Yu</author>
+<author pid="161/2636">Fangyun Wei</author>
+<author pid="154/6643">Xiang Ming</author>
+<author pid="44/3371-3">Dong Chen 0003</author>
+<author pid="93/227">Shifeng Zhang</author>
+<author orcid="0000-0002-1234-2986" pid="97/467">Cheng Chi</author>
+<author pid="55/112">Zhen Lei</author>
+<author pid="l/StanZLi">Stan Z. Li</author>
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="31/4112">Wu Liu</author>
+<author pid="213/5172">Boyan Zhou</author>
+<author pid="92/1251">Huaxiong Li</author>
+<author pid="76/185">Peng Cheng</author>
+<author pid="12/5444-1">Tao Mei 0001</author>
+<author pid="236/4932">Artem Kukharenko</author>
+<author pid="236/5035">Artem Vasenin</author>
+<author pid="182/2347">Nikolay Sergievskiy</author>
+<author pid="11/4973-1">Hua Yang 0001</author>
+<author pid="229/1241">Liangqi Li</author>
+<author pid="221/5965">Qiling Xu</author>
+<author pid="79/5433">Yuan Hong</author>
+<author pid="13/3479-19">Lin Chen 0019</author>
+<author pid="31/6313">Mingjun Sun</author>
+<author pid="236/5018">Yirong Mao</author>
+<author pid="180/6137">Shiying Luo</author>
+<author pid="35/4145-4">Yongjun Li 0004</author>
+<author pid="60/1529-1">Ruiping Wang 0001</author>
+<author pid="236/4872">Qiaokang Xie</author>
+<author pid="236/5238">Ziyang Wu</author>
+<author pid="46/140">Lei Lu</author>
+<author pid="232/3139">Yiheng Liu</author>
+<author pid="22/4544">Wengang Zhou</author>
+<title>WIDER Face and Pedestrian Challenge 2018: Methods and Results.</title>
+<year>2019</year>
+<volume>abs/1902.06854</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.06854</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-06854</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-06881" mdate="2019-07-23">
+<author pid="83/2850">Hongkai Zhang</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection.</title>
+<year>2019</year>
+<volume>abs/1907.06881</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.06881</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-06881</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-08427" mdate="2019-07-23">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>VRSTC: Occlusion-Free Video Person Re-Identification.</title>
+<year>2019</year>
+<volume>abs/1907.08427</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.08427</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-08427</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-08435" mdate="2019-07-23">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Interaction-and-Aggregation Network for Person Re-identification.</title>
+<year>2019</year>
+<volume>abs/1907.08435</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.08435</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-08435</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-03885" mdate="2019-08-19">
+<author pid="187/1622">Xinqian Gu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Temporal Knowledge Propagation for Image-to-Video Person Re-identification.</title>
+<year>2019</year>
+<volume>abs/1908.03885</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.03885</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-03885</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-07677" mdate="2019-10-22">
+<author pid="244/8185">Ruibing Hou</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Cross Attention Network for Few-shot Classification.</title>
+<year>2019</year>
+<volume>abs/1910.07677</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.07677</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-07677</url>
+</article>
+</r>
+<r><article key="journals/ijon/HeMWLH18" mdate="2017-12-22">
+<author pid="93/8352">Jianfeng He</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="37/2537">Shuhui Wang</author>
+<author pid="150/6777">Yugui Liu</author>
+<author pid="68/4388">Qingming Huang</author>
+<title>Multi-label double-layer learning for cross-modal retrieval.</title>
+<pages>1893-1902</pages>
+<year>2018</year>
+<volume>275</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2017.10.032</ee>
+<url>db/journals/ijon/ijon275.html#HeMWLH18</url>
+</article>
+</r>
+<r><article key="journals/tmm/ZhangMLHT18" mdate="2020-10-01">
+<author pid="50/6759">Liang Zhang</author>
+<author orcid="0000-0001-8984-205X" pid="62/1822">Bingpeng Ma</author>
+<author pid="28/4782">Guorong Li</author>
+<author pid="68/4388">Qingming Huang</author>
+<author orcid="0000-0002-5165-4325" pid="78/1467-1">Qi Tian 0001</author>
+<title>Generalized Semi-supervised and Structured Subspace Learning for Cross-Modal Retrieval.</title>
+<pages>128-141</pages>
+<year>2018</year>
+<volume>20</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TMM.2017.2723841</ee>
+<url>db/journals/tmm/tmm20.html#ZhangMLHT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/XuMCSC18" mdate="2021-04-09">
+<author pid="223/1875">Furong Xu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Style Transfer with Adversarial Learning for Cross-Dataset Person Re-identification.</title>
+<pages>165-180</pages>
+<year>2018</year>
+<booktitle>ACCV (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20876-9_11</ee>
+<crossref>conf/accv/2018-6</crossref>
+<url>db/conf/accv/accv2018-6.html#XuMCSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LiMCSC18" mdate="2021-04-09">
+<author pid="22/1835">Shen Li</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Continuity-Discrimination Convolutional Neural Network for Visual Object Tracking.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2018.8486488</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2018.8486488</ee>
+<crossref>conf/icmcs/2018</crossref>
+<url>db/conf/icmcs/icme2018.html#LiMCSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/LiMCC18" mdate="2018-12-23">
+<author pid="32/8215">Yulin Li</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="211/8005">Hong Chong</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>A Benchmark for Full Rotation Head Tracking.</title>
+<pages>2106-2111</pages>
+<year>2018</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2018.8546089</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2018.8546089</ee>
+<crossref>conf/icpr/2018</crossref>
+<url>db/conf/icpr/icpr2018.html#LiMCC18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/ChenMCCFXL17" mdate="2017-12-28">
+<author orcid="0000-0003-2159-9393" pid="15/6726">Jiazhong Chen</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="87/3243">Hua Cao</author>
+<author pid="92/6289">Jie Chen</author>
+<author pid="86/3307">Yebin Fan</author>
+<author pid="13/2164">Tao Xia</author>
+<author pid="00/3887">Rong Li</author>
+<title>Attention region detection based on closure prior in layered bit Planes.</title>
+<pages>16-25</pages>
+<year>2017</year>
+<volume>251</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2017.04.020</ee>
+<url>db/journals/ijon/ijon251.html#ChenMCCFXL17</url>
+</article>
+</r>
+<r><article key="journals/ijon/ChenMCCFLW17" mdate="2017-12-28">
+<author orcid="0000-0003-2159-9393" pid="15/6726">Jiazhong Chen</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="87/3243">Hua Cao</author>
+<author pid="92/6289">Jie Chen</author>
+<author pid="86/3307">Yebin Fan</author>
+<author pid="00/3887">Rong Li</author>
+<author pid="08/2244">Weimin Wu</author>
+<title>Updating initial labels from spectral graph by manifold regularization for saliency detection.</title>
+<pages>79-90</pages>
+<year>2017</year>
+<volume>266</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2017.04.066</ee>
+<url>db/journals/ijon/ijon266.html#ChenMCCFLW17</url>
+</article>
+</r>
+<r><article key="journals/tip/ZhangMLH17" mdate="2020-05-10">
+<author pid="10/4661-66">Wei Zhang 0066</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="40/6799">Kan Liu</author>
+<author orcid="0000-0002-8460-4308" pid="56/2875-1">Rui Huang 0001</author>
+<title>Video-Based Pedestrian Re-Identification by Adaptive Spatio-Temporal Appearance Model.</title>
+<pages>2042-2054</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIP.2017.2672440</ee>
+<ee>https://www.wikidata.org/entity/Q53478605</ee>
+<url>db/journals/tip/tip26.html#ZhangMLH17</url>
+</article>
+</r>
+<r><article key="journals/tmm/ZhangMLHT17" mdate="2020-10-01">
+<author pid="50/6759">Liang Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="28/4782">Guorong Li</author>
+<author pid="68/4388">Qingming Huang</author>
+<author pid="78/1467-1">Qi Tian 0001</author>
+<title>Cross-Modal Retrieval Using Multiordered Discriminative Structured Subspace Learning.</title>
+<pages>1220-1233</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TMM.2016.2646219</ee>
+<url>db/journals/tmm/tmm19.html#ZhangMLHT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/XuMCC17" mdate="2018-02-23">
+<author pid="214/9429">Xiaqing Xu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Siamese recurrent architecture for visual tracking.</title>
+<pages>1152-1156</pages>
+<year>2017</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2017.8296462</ee>
+<crossref>conf/icip/2017</crossref>
+<url>db/conf/icip/icip2017.html#XuMCC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ZhangMLH17" mdate="2017-09-07">
+<author pid="50/6759">Liang Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="28/4782">Guorong Li</author>
+<author pid="68/4388">Qingming Huang</author>
+<title>Metric based on multi-order spaces for cross-modal retrieval.</title>
+<pages>1374-1379</pages>
+<year>2017</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2017.8019409</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2017.8019409</ee>
+<crossref>conf/icmcs/2017</crossref>
+<url>db/conf/icmcs/icme2017.html#ZhangMLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhangMHLHT17" mdate="2019-08-20">
+<author pid="50/6759">Liang Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="93/8352">Jianfeng He</author>
+<author pid="28/4782">Guorong Li</author>
+<author pid="68/4388">Qingming Huang</author>
+<author pid="78/1467-1">Qi Tian 0001</author>
+<title>Adaptively Unified Semi-supervised Learning for Cross-Modal Retrieval.</title>
+<pages>3406-3412</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/476</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#ZhangMHLHT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/ZhangMLHT17" mdate="2018-11-06">
+<author pid="50/6759">Liang Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="28/4782">Guorong Li</author>
+<author pid="68/4388">Qingming Huang</author>
+<author pid="78/1467-1">Qi Tian 0001</author>
+<title>Multi-Networks Joint Learning for Large-Scale Cross-Modal Retrieval.</title>
+<pages>907-915</pages>
+<year>2017</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3123266.3123317</ee>
+<crossref>conf/mm/2017</crossref>
+<url>db/conf/mm/mm2017.html#ZhangMLHT17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/LiMHHZ16" mdate="2020-12-29">
+<author pid="28/4782">Guorong Li</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-2022-5747" pid="51/5022-3">Jun Huang 0003</author>
+<author pid="68/4388">Qingming Huang</author>
+<author orcid="0000-0003-0042-7074" pid="93/4821">Weigang Zhang</author>
+<title>Beyond appearance model: Learning appearance variations for object tracking.</title>
+<pages>796-804</pages>
+<year>2016</year>
+<volume>214</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2016.06.058</ee>
+<url>db/journals/ijon/ijon214.html#LiMHHZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/DengMCSC16" mdate="2018-11-02">
+<author pid="196/1551">Xuesong Deng</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Deep Second-Order Siamese Network for Pedestrian Re-identification.</title>
+<pages>321-337</pages>
+<year>2016</year>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-54184-6_20</ee>
+<crossref>conf/accv/2016-2</crossref>
+<url>db/conf/accv/accv2016-2.html#DengMCSC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/HeMWLH16" mdate="2018-11-06">
+<author pid="93/8352">Jianfeng He</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="37/2537">Shuhui Wang</author>
+<author pid="150/6777">Yugui Liu</author>
+<author pid="68/4388">Qingming Huang</author>
+<title>Cross-modal Retrieval by Real Label Partial Least Squares.</title>
+<pages>227-231</pages>
+<year>2016</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2964284.2967216</ee>
+<crossref>conf/mm/2016</crossref>
+<url>db/conf/mm/mm2016.html#HeMWLH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/ZhangMLHT16" mdate="2018-11-06">
+<author pid="50/6759">Liang Zhang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="28/4782">Guorong Li</author>
+<author pid="68/4388">Qingming Huang</author>
+<author pid="78/1467-1">Qi Tian 0001</author>
+<title>PL-ranking: A Novel Ranking Method for Cross-Modal Retrieval.</title>
+<pages>1355-1364</pages>
+<year>2016</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2964284.2964336</ee>
+<crossref>conf/mm/2016</crossref>
+<url>db/conf/mm/mm2016.html#ZhangMLHT16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/MaHQ15" mdate="2018-04-16">
+<author pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-7950-1662" pid="56/2875-1">Rui Huang 0001</author>
+<author pid="20/1306">Lei Qin</author>
+<title>VoD: A novel image representation for head yaw estimation.</title>
+<pages>455-466</pages>
+<year>2015</year>
+<volume>148</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2014.07.019</ee>
+<url>db/journals/ijon/ijon148.html#MaHQ15</url>
+</article>
+</r>
+<r><article key="journals/ijon/LiuMQPZH15" mdate="2019-12-27">
+<author pid="09/3214-19">Hao Liu 0019</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="20/1306">Lei Qin</author>
+<author pid="55/1995">Junbiao Pang</author>
+<author orcid="0000-0002-1161-8995" pid="16/7628">Chunjie Zhang</author>
+<author pid="68/4388">Qingming Huang</author>
+<title>Set-label modeling and deep metric learning on person re-identification.</title>
+<pages>1283-1292</pages>
+<year>2015</year>
+<volume>151</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2014.11.002</ee>
+<url>db/journals/ijon/ijon151.html#LiuMQPZH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/LiuMZH15" mdate="2018-04-16">
+<author pid="40/6799">Kan Liu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="10/4661-66">Wei Zhang 0066</author>
+<author pid="56/2875-1">Rui Huang 0001</author>
+<title>A Spatio-Temporal Appearance Representation for Viceo-Based Pedestrian Re-Identification.</title>
+<pages>3810-3818</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.434</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.434</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#LiuMZH15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LiSCMYG15" mdate="2018-08-13">
+<author pid="91/411">Annan Li</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<title>Cross-pose Face Recognition by Canonical Correlation Analysis.</title>
+<year>2015</year>
+<volume>abs/1507.08076</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.08076</ee>
+<url>db/journals/corr/corr1507.html#LiSCMYG15</url>
+</article>
+</r>
+<r><article key="journals/ijon/CuiCSMC14" mdate="2017-06-06">
+<author pid="59/8491">Zhen Cui</author>
+<author pid="02/2689">Hong Chang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Joint sparse representation for video-based face recognition.</title>
+<pages>306-312</pages>
+<year>2014</year>
+<volume>135</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2013.12.004</ee>
+<url>db/journals/ijon/ijon135.html#CuiCSMC14</url>
+</article>
+</r>
+<r><article key="journals/ijon/MaLCS14" mdate="2017-06-06">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="91/411">Annan Li</author>
+<author pid="57/6273">Xiujuan Chai</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<title>CovGa: A novel descriptor based on symmetry of regions for head pose estimation.</title>
+<pages>97-108</pages>
+<year>2014</year>
+<volume>143</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2014.06.014</ee>
+<url>db/journals/ijon/ijon143.html#MaLCS14</url>
+</article>
+</r>
+<r><article key="journals/ivc/MaSJ14" mdate="2020-02-20">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="38/1070-9">Yu Su 0009</author>
+<author pid="34/4827">Fr&#233;d&#233;ric Jurie</author>
+<title>Covariance descriptor based on bio-inspired features for person re-identification and face verification.</title>
+<pages>379-390</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>Image Vis. Comput.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.imavis.2014.04.002</ee>
+<url>db/journals/ivc/ivc32.html#MaSJ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/MaLC14" mdate="2017-05-21">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="69/5902">Qian Li</author>
+<author pid="02/2689">Hong Chang</author>
+<title>Gaussian Descriptor Based on Local Features for Person Re-identification.</title>
+<pages>505-518</pages>
+<year>2014</year>
+<booktitle>ACCV Workshops (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-16634-6_37</ee>
+<crossref>conf/accv/2014-w3</crossref>
+<url>db/conf/accv/accv2014-w3.html#MaLC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/XuMHL14" mdate="2020-10-25">
+<author orcid="0000-0002-7095-1018" pid="126/4435">Yuanlu Xu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="56/2875-1">Rui Huang 0001</author>
+<author pid="84/7019">Liang Lin</author>
+<title>Person Search in a Scene by Jointly Modeling People Commonness and Person Uniqueness.</title>
+<pages>937-940</pages>
+<year>2014</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2647868.2654965</ee>
+<crossref>conf/mm/2014</crossref>
+<url>db/conf/mm/mm2014.html#XuMHL14</url>
+</inproceedings>
+</r>
+<r><incollection key="series/acvpr/MaSJ14" mdate="2018-08-07">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="38/1070-9">Yu Su 0009</author>
+<author pid="34/4827">Fr&#233;d&#233;ric Jurie</author>
+<title>Discriminative Image Descriptors for Person Re-identification.</title>
+<pages>23-42</pages>
+<year>2014</year>
+<booktitle>Person Re-Identification</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-6296-4_2</ee>
+<crossref>series/acvpr/978-1-4471-6295-7</crossref>
+<url>db/series/acvpr/reident2014.html#MaSJ14</url>
+</incollection>
+</r>
+<r><article key="journals/ijon/MaCW13" mdate="2017-05-20">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="57/6273">Xiujuan Chai</author>
+<author pid="30/4460">Tianjiang Wang</author>
+<title>A novel feature descriptor based on biologically inspired feature for head pose estimation.</title>
+<pages>1-10</pages>
+<year>2013</year>
+<volume>115</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2012.11.005</ee>
+<url>db/journals/ijon/ijon115.html#MaCW13</url>
+</article>
+</r>
+<r><article key="journals/spic/ChenJCMCQL13" mdate="2020-02-24">
+<author pid="15/6726">Jiazhong Chen</author>
+<author pid="135/1019">Zengwei Ju</author>
+<author pid="87/3243">Hua Cao</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="125/7954">Changnian Chen</author>
+<author pid="48/9062">Leihua Qin</author>
+<author pid="00/3887">Rong Li</author>
+<title>Accelerated implementation of adaptive directional lifting-based discrete wavelet transform on GPU.</title>
+<pages>1202-1211</pages>
+<year>2013</year>
+<volume>28</volume>
+<journal>Signal Process. Image Commun.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.image.2013.08.001</ee>
+<url>db/journals/spic/spic28.html#ChenJCMCQL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/fgr/MaLCS13" mdate="2017-06-02">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="91/411">Annan Li</author>
+<author pid="57/6273">Xiujuan Chai</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<title>Head yaw estimation via symmetry of regions.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FG</booktitle>
+<ee>https://doi.org/10.1109/FG.2013.6553726</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FG.2013.6553726</ee>
+<crossref>conf/fgr/2013</crossref>
+<url>db/conf/fgr/fg2013.html#MaLCS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/MaSJ12" mdate="2021-02-03">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="38/1070-9">Yu Su 0009</author>
+<author pid="34/4827">Fr&#233;d&#233;ric Jurie</author>
+<title>BiCov: a novel image representation for person re-identification and face verification.</title>
+<pages>1-11</pages>
+<year>2012</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.26.57</ee>
+<crossref>conf/bmvc/2012</crossref>
+<url>db/conf/bmvc/bmvc2012.html#MaSJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/MaSJ12" mdate="2018-08-07">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="38/1070-9">Yu Su 0009</author>
+<author pid="34/4827">Fr&#233;d&#233;ric Jurie</author>
+<title>Local Descriptors Encoded by Fisher Vectors for Person Re-identification.</title>
+<pages>413-422</pages>
+<year>2012</year>
+<booktitle>ECCV Workshops (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33863-2_41</ee>
+<crossref>conf/eccv/2012w1</crossref>
+<url>db/conf/eccv/eccv2012w1.html#MaSJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icimcs/ChaiXLMC12" mdate="2018-11-06">
+<author pid="57/6273">Xiujuan Chai</author>
+<author pid="65/3784">Zhihao Xu</author>
+<author pid="69/5902">Qian Li</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<title>Robust hand tracking by integrating appearance, location and depth cues.</title>
+<pages>60-65</pages>
+<year>2012</year>
+<booktitle>ICIMCS</booktitle>
+<ee>https://doi.org/10.1145/2382336.2382354</ee>
+<crossref>conf/icimcs/2012</crossref>
+<url>db/conf/icimcs/icimcs2012.html#ChaiXLMC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscide/MaYS12" mdate="2017-06-04">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="63/1534">Xu Yang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<title>Head Pose Estimation via Background Removal.</title>
+<pages>140-147</pages>
+<year>2012</year>
+<booktitle>IScIDE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36669-7_18</ee>
+<crossref>conf/iscide/2012</crossref>
+<url>db/conf/iscide/iscide2012.html#MaYS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccbr/HuMC11" mdate="2017-05-21">
+<author pid="08/7951">Weijun Hu</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="57/6273">Xiujuan Chai</author>
+<title>Head Pose Estimation Using Simple Local Gabor Binary Pattern.</title>
+<pages>74-81</pages>
+<year>2011</year>
+<booktitle>CCBR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25449-9_10</ee>
+<crossref>conf/ccbr/2011</crossref>
+<url>db/conf/ccbr/ccbr2011.html#HuMC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccbr/LuoPML11" mdate="2017-05-21">
+<author pid="05/10388">Xiaoyu Luo</author>
+<author pid="00/10388">Xiumei Pang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="67/5807">Fang Liu</author>
+<title>Age Estimation Using Multi-Label Learning.</title>
+<pages>221-228</pages>
+<year>2011</year>
+<booktitle>CCBR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25449-9_28</ee>
+<crossref>conf/ccbr/2011</crossref>
+<url>db/conf/ccbr/ccbr2011.html#LuoPML11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/WangQDFMM10" mdate="2017-05-19">
+<author pid="93/2182">Haili Wang</author>
+<author pid="06/4183">Yuanhua Qiao</author>
+<author pid="39/1979">Lijuan Duan</author>
+<author pid="96/8174">Faming Fang</author>
+<author pid="05/5694">Jun Miao</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<title>Visual Selection and Attention Shifting Based on FitzHugh-Nagumo Equations.</title>
+<pages>240-249</pages>
+<year>2010</year>
+<booktitle>ISNN (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13318-3_31</ee>
+<crossref>conf/isnn/2010-2</crossref>
+<url>db/conf/isnn/isnn2010-2.html#WangQDFMM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsmc/MaSCG08" mdate="2020-05-18">
+<author pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<title>Head Yaw Estimation From Asymmetry of Facial Appearance.</title>
+<pages>1501-1512</pages>
+<year>2008</year>
+<volume>38</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Part B</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSMCB.2008.928231</ee>
+<ee>https://www.wikidata.org/entity/Q45832215</ee>
+<url>db/journals/tsmc/tsmcb38.html#MaSCG08</url>
+</article>
+</r>
+<r><inproceedings key="conf/fgr/MaSCG08" mdate="2021-04-09">
+<author pid="62/1822">Bingpeng Ma</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<title>Discriminant analysis for perceptionally comparable classes.</title>
+<pages>1-6</pages>
+<year>2008</year>
+<booktitle>FG</booktitle>
+<ee>https://doi.org/10.1109/AFGR.2008.4813422</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AFGR.2008.4813422</ee>
+<crossref>conf/fgr/2008</crossref>
+<url>db/conf/fgr/fg2008.html#MaSCG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/YangM06" mdate="2020-02-20">
+<author pid="08/2679">Shutang Yang</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<title>Study on the extensibility of video conferencing with speech mixing.</title>
+<pages>2026-2033</pages>
+<year>2006</year>
+<volume>29</volume>
+<journal>Comput. Commun.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.comcom.2005.12.012</ee>
+<url>db/journals/comcom/comcom29.html#YangM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icb/MaYGZ06" mdate="2020-08-28">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="19/2504">Fei Yang</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<author pid="80/3887-1">Baochang Zhang 0001</author>
+<title>The Application of Extended Geodesic Distance in Head Poses Estimation.</title>
+<pages>192-198</pages>
+<year>2006</year>
+<crossref>conf/icb/2006</crossref>
+<booktitle>ICB</booktitle>
+<ee type="oa">https://doi.org/10.1007/11608288_26</ee>
+<url>db/conf/icb/icb2006.html#MaYGZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/MaZSCG06" mdate="2017-06-04">
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="33/6703">Wenchao Zhang</author>
+<author orcid="0000-0002-8348-392X" pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<title>Robust Head Pose Estimation Using LGBP.</title>
+<pages>512-515</pages>
+<year>2006</year>
+<crossref>conf/icpr/2006</crossref>
+<booktitle>ICPR (2)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2006.1006</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2006.1006</ee>
+<url>db/conf/icpr/icpr2006-2.html#MaZSCG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwbrs/NiuSCMG05" mdate="2017-05-26">
+<author pid="80/3992">Zhiheng Niu</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<title>Enhance ASMs Based on AdaBoost-Based Salient Landmarks Localization and Confidence-Constraint Shape Modeling.</title>
+<pages>9-14</pages>
+<year>2005</year>
+<crossref>conf/iwbrs/2005</crossref>
+<booktitle>IWBRS</booktitle>
+<ee>https://doi.org/10.1007/11569947_2</ee>
+<url>db/conf/iwbrs/iwbrs2005.html#NiuSCMG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwbrs/YangSMCG05" mdate="2017-05-26">
+<author pid="19/2504">Fei Yang</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="c/XilinChen">Xilin Chen</author>
+<author pid="g/WenGao">Wen Gao 0001</author>
+<title>Using Score Normalization to Solve the Score Variation Problem in Face Authentication.</title>
+<pages>31-38</pages>
+<year>2005</year>
+<crossref>conf/iwbrs/2005</crossref>
+<booktitle>IWBRS</booktitle>
+<ee>https://doi.org/10.1007/11569947_5</ee>
+<url>db/conf/iwbrs/iwbrs2005.html#YangSMCG05</url>
+</inproceedings>
+</r>
+<coauthors n="120" nc="1">
+<co c="0"><na f="b/Bao:Liqiang" pid="238/9441">Liqiang Bao</na></co>
+<co c="0"><na f="c/Cao:Hua" pid="87/3243">Hua Cao</na></co>
+<co c="0"><na f="c/Chai:Xiujuan" pid="57/6273">Xiujuan Chai</na></co>
+<co c="0"><na f="c/Chang:Hong" pid="02/2689">Hong Chang</na></co>
+<co c="0"><na f="c/Chen:Changnian" pid="125/7954">Changnian Chen</na></co>
+<co c="0"><na f="c/Chen_0003:Dong" pid="44/3371-3">Dong Chen 0003</na></co>
+<co c="0"><na f="c/Chen:Jiazhong" pid="15/6726">Jiazhong Chen</na></co>
+<co c="0"><na f="c/Chen:Jie" pid="92/6289">Jie Chen</na></co>
+<co c="0"><na f="c/Chen_0019:Lin" pid="13/3479-19">Lin Chen 0019</na></co>
+<co c="0"><na f="c/Chen:Xilin" pid="c/XilinChen">Xilin Chen</na></co>
+<co c="0"><na f="c/Chen:Yucheng" pid="138/8163">Yucheng Chen</na></co>
+<co c="0"><na f="c/Cheng:Peng" pid="76/185">Peng Cheng</na></co>
+<co c="0"><na f="c/Chi:Cheng" pid="97/467">Cheng Chi</na></co>
+<co c="0"><na f="c/Chong:Hong" pid="211/8005">Hong Chong</na></co>
+<co c="0"><na f="c/Cui:Zhen" pid="59/8491">Zhen Cui</na></co>
+<co c="0"><na f="d/Deng:Xuesong" pid="196/1551">Xuesong Deng</na></co>
+<co c="0"><na f="d/Duan:Lijuan" pid="39/1979">Lijuan Duan</na></co>
+<co c="0"><na f="f/Fan:Yebin" pid="86/3307">Yebin Fan</na></co>
+<co c="0"><na f="f/Fang:Faming" pid="96/8174">Faming Fang</na></co>
+<co c="0"><na f="g/Gao_0001:Wen" pid="g/WenGao">Wen Gao 0001</na></co>
+<co c="0"><na f="g/Gu:Xinqian" pid="187/1622">Xinqian Gu</na></co>
+<co c="0"><na f="h/He:Jianfeng" pid="93/8352">Jianfeng He</na></co>
+<co c="0"><na f="h/Hong:Yuan" pid="79/5433">Yuan Hong</na></co>
+<co c="0"><na f="h/Hou:Ruibing" pid="244/8185">Ruibing Hou</na></co>
+<co c="0"><na f="h/Hu:Weijun" pid="08/7951">Weijun Hu</na></co>
+<co c="0"><na f="h/Huang_0003:Jun" pid="51/5022-3">Jun Huang 0003</na></co>
+<co c="0"><na f="h/Huang:Qingming" pid="68/4388">Qingming Huang</na></co>
+<co c="0"><na f="h/Huang:Qingqiu" pid="222/2014">Qingqiu Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Rui" pid="56/2875-1">Rui Huang 0001</na></co>
+<co c="0"><na f="j/Ju:Zengwei" pid="135/1019">Zengwei Ju</na></co>
+<co c="0"><na f="j/Jurie:Fr=eacute=d=eacute=ric" pid="34/4827">Fr&#233;d&#233;ric Jurie</na></co>
+<co c="0"><na f="k/Kukharenko:Artem" pid="236/4932">Artem Kukharenko</na></co>
+<co c="0"><na f="l/Lei:Zhen" pid="55/112">Zhen Lei</na></co>
+<co c="0"><na f="l/Li:Annan" pid="91/411">Annan Li</na></co>
+<co c="0"><na f="l/Li:Boxun" pid="135/8082">Boxun Li</na></co>
+<co c="0"><na f="l/Li:Guorong" pid="28/4782">Guorong Li</na></co>
+<co c="0"><na f="l/Li:Huaxiong" pid="92/1251">Huaxiong Li</na></co>
+<co c="0"><na f="l/Li:Liangqi" pid="229/1241">Liangqi Li</na></co>
+<co c="0"><na f="l/Li:Qian" pid="69/5902">Qian Li</na></co>
+<co c="0"><na f="l/Li:Quanquan" pid="158/7423">Quanquan Li</na></co>
+<co c="0"><na f="l/Li:Rong" pid="00/3887">Rong Li</na></co>
+<co c="0"><na f="l/Li:Shen" pid="22/1835">Shen Li</na></co>
+<co c="0"><na f="l/Li:Stan_Z=" pid="l/StanZLi">Stan Z. Li</na></co>
+<co c="0"><na f="l/Li_0004:Yongjun" pid="35/4145-4">Yongjun Li 0004</na></co>
+<co c="0"><na f="l/Li:Yulin" pid="32/8215">Yulin Li</na></co>
+<co c="0"><na f="l/Li:Zuoxin" pid="211/6824">Zuoxin Li</na></co>
+<co c="0"><na f="l/Liang:Kongming" pid="161/1948">Kongming Liang</na></co>
+<co c="0"><na f="l/Lin:Dahua" pid="53/6088">Dahua Lin</na></co>
+<co c="0"><na f="l/Lin:Liang" pid="84/7019">Liang Lin</na></co>
+<co c="0"><na f="l/Liu:Fang" pid="67/5807">Fang Liu</na></co>
+<co c="0"><na f="l/Liu_0019:Hao" pid="09/3214-19">Hao Liu 0019</na></co>
+<co c="0"><na f="l/Liu:Kan" pid="40/6799">Kan Liu</na></co>
+<co c="0"><na f="l/Liu:Wu" pid="31/4112">Wu Liu</na></co>
+<co c="0"><na f="l/Liu:Yiheng" pid="232/3139">Yiheng Liu</na></co>
+<co c="0"><na f="l/Liu:Yugui" pid="150/6777">Yugui Liu</na></co>
+<co c="0"><na f="l/Loy:Chen_Change" pid="01/5855">Chen Change Loy</na></co>
+<co c="0"><na f="l/Lu:Lei" pid="46/140">Lei Lu</na></co>
+<co c="0"><na f="l/Luo_0002:Ping" pid="54/4989-2">Ping Luo 0002</na></co>
+<co c="0"><na f="l/Luo:Shiying" pid="180/6137">Shiying Luo</na></co>
+<co c="0"><na f="l/Luo:Xiaoyu" pid="05/10388">Xiaoyu Luo</na></co>
+<co c="0"><na f="m/Mao:Fengling" pid="192/2135">Fengling Mao</na></co>
+<co c="0"><na f="m/Mao:Yirong" pid="236/5018">Yirong Mao</na></co>
+<co c="0"><na f="m/Mei_0001:Tao" pid="12/5444-1">Tao Mei 0001</na></co>
+<co c="0"><na f="m/Miao:Jun" pid="05/5694">Jun Miao</na></co>
+<co c="0"><na f="m/Ming:Xiang" pid="154/6643">Xiang Ming</na></co>
+<co c="0"><na f="n/Niu:Zhiheng" pid="80/3992">Zhiheng Niu</na></co>
+<co c="0"><na f="o/Ouyang:Wanli" pid="17/7992">Wanli Ouyang</na></co>
+<co c="0"><na f="p/Pang:Junbiao" pid="55/1995">Junbiao Pang</na></co>
+<co c="0"><na f="p/Pang:Xiumei" pid="00/10388">Xiumei Pang</na></co>
+<co c="0"><na f="q/Qiao:Yuanhua" pid="06/4183">Yuanhua Qiao</na></co>
+<co c="0"><na f="q/Qin:Lei" pid="20/1306">Lei Qin</na></co>
+<co c="0"><na f="q/Qin:Leihua" pid="48/9062">Leihua Qin</na></co>
+<co c="0"><na f="s/Sergievskiy:Nikolay" pid="182/2347">Nikolay Sergievskiy</na></co>
+<co c="0"><na f="s/Shan:Shiguang" pid="s/ShiguangShan">Shiguang Shan</na></co>
+<co c="0"><na f="s/Shao_0005:Shuai" pid="71/8201-5">Shuai Shao 0005</na></co>
+<co c="0"><na f="s/Su_0009:Yu" pid="38/1070-9">Yu Su 0009</na></co>
+<co c="0"><na f="s/Sun:Mingjun" pid="31/6313">Mingjun Sun</na></co>
+<co c="0"><na f="t/Tian_0001:Qi" pid="78/1467-1">Qi Tian 0001</na></co>
+<co c="0"><na f="v/Vasenin:Artem" pid="236/5035">Artem Vasenin</na></co>
+<co c="0"><na f="w/Wang:Cheng" pid="54/2062">Cheng Wang</na></co>
+<co c="0"><na f="w/Wang:Haili" pid="93/2182">Haili Wang</na></co>
+<co c="0"><na f="w/Wang:Jianfeng" pid="65/4872">Jianfeng Wang</na></co>
+<co c="0"><na f="w/Wang:Naiyan" pid="31/9922">Naiyan Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ruiping" pid="60/1529-1">Ruiping Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Shuhui" pid="37/2537">Shuhui Wang</na></co>
+<co c="0"><na f="w/Wang:Tianjiang" pid="30/4460">Tianjiang Wang</na></co>
+<co c="0"><na f="w/Wei:Fangyun" pid="161/2636">Fangyun Wei</na></co>
+<co c="0"><na f="w/Wu:Weimin" pid="08/2244">Weimin Wu</na></co>
+<co c="0"><na f="w/Wu:Ziyang" pid="236/5238">Ziyang Wu</na></co>
+<co c="0"><na f="x/Xia:Tao" pid="13/2164">Tao Xia</na></co>
+<co c="0"><na f="x/Xia:Wei" pid="77/1243">Wei Xia</na></co>
+<co c="0"><na f="x/Xie:Qiaokang" pid="236/4872">Qiaokang Xie</na></co>
+<co c="0"><na f="x/Xiong:Yuanjun" pid="142/2644">Yuanjun Xiong</na></co>
+<co c="0"><na f="x/Xu:Furong" pid="223/1875">Furong Xu</na></co>
+<co c="0"><na f="x/Xu:Qiling" pid="221/5965">Qiling Xu</na></co>
+<co c="0"><na f="x/Xu:Xiaqing" pid="214/9429">Xiaqing Xu</na></co>
+<co c="0"><na f="x/Xu:Yuanlu" pid="126/4435">Yuanlu Xu</na></co>
+<co c="0"><na f="x/Xu:Zhihao" pid="65/3784">Zhihao Xu</na></co>
+<co c="0"><na f="y/Yan:Junjie" pid="115/9656">Junjie Yan</na></co>
+<co c="0"><na f="y/Yan:Shuicheng" pid="y/ShuichengYan">Shuicheng Yan</na></co>
+<co c="0"><na f="y/Yang:Fei" pid="19/2504">Fei Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Hua" pid="11/4973-1">Hua Yang 0001</na></co>
+<co c="0"><na f="y/Yang_0003:Shuo" pid="78/1102-3">Shuo Yang 0003</na></co>
+<co c="-1"><na f="y/Yang:Shutang" pid="08/2679">Shutang Yang</na></co>
+<co c="0"><na f="y/Yang:Xu" pid="63/1534">Xu Yang</na></co>
+<co c="0"><na f="y/Yin:Xiaoyi" pid="252/1587">Xiaoyi Yin</na></co>
+<co c="0"><na f="y/Yu:Gang" pid="75/1683">Gang Yu</na></co>
+<co c="0"><na f="y/Yuan:Ye" pid="33/6315">Ye Yuan</na></co>
+<co c="0"><na f="z/Zhang_0001:Baochang" pid="80/3887-1">Baochang Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Chunjie" pid="16/7628">Chunjie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Fangyi" pid="10/8496">Fangyi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hongkai" pid="83/2850">Hongkai Zhang</na></co>
+<co c="0"><na f="z/Zhang:Liang" pid="50/6759">Liang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shifeng" pid="93/227">Shifeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0066:Wei" pid="10/4661-66">Wei Zhang 0066</na></co>
+<co c="0"><na f="z/Zhang:Weigang" pid="93/4821">Weigang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenchao" pid="33/6703">Wenchao Zhang</na></co>
+<co c="0"><na f="z/Zhou:Boyan" pid="213/5172">Boyan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Dongzhan" pid="236/4960">Dongzhan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Wengang" pid="22/4544">Wengang Zhou</na></co>
+</coauthors>
+</dblpperson>
+

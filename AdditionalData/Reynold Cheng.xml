@@ -1,3 +1,2926 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1695322ea9afab32929164cbdf7abc9b690b7fd0f950f10bcf50312775770bea
-size 126596
+<?xml version="1.0"?>
+<dblpperson name="Reynold Cheng" pid="89/2619" n="179">
+<person key="homepages/89/2619" mdate="2020-07-03">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="89/2619">Reynold C. K. Cheng</author>
+<note type="affiliation">University of Hong Kong</note>
+<url>http://i.cs.hku.hk/~ckcheng/</url>
+<url>https://scholar.google.com/citations?user=7R7MSb4AAAAJ</url>
+<url>https://orcid.org/0000-0002-9480-9809</url>
+</person>
+<r><article key="journals/pvldb/0009CCSMC21" mdate="2021-03-23">
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="251/5251">Chenhao Ma</author>
+<author pid="276/5053">Hongtai Cao</author>
+<title>On Analyzing Graphs with Motif-Paths.</title>
+<pages>1111-1123</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1111-li.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#0009CCSMC21</url>
+</article>
+</r>
+<r><article key="journals/tkde/HeWZC21" mdate="2021-03-23">
+<author pid="77/2036">Dan He</author>
+<author pid="131/6529-1">Sibo Wang 0001</author>
+<author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>GLAD: A Grid and Labeling Framework with Scheduling for Conflict-Aware $k$kNN Queries.</title>
+<pages>1554-1566</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2942585</ee>
+<url>db/journals/tkde/tkde33.html#HeWZC21</url>
+</article>
+</r>
+<r><article key="journals/www/ChengMH21" mdate="2021-01-28">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<title>Guest editorial: WWWJ special issue of the 20th international conference on Web information systems engineering (WISE 2019).</title>
+<pages>347-349</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>World Wide Web</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11280-020-00853-4</ee>
+<url>db/journals/www/www24.html#ChengMH21</url>
+</article>
+</r>
+<r><article key="journals/dase/ChengWHH20" mdate="2020-09-02">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="131/6529-1">Sibo Wang 0001</author>
+<author pid="68/11145">Wen Hua</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<title>Editorial of Special Issue of WISE 2019.</title>
+<pages>205-206</pages>
+<year>2020</year>
+<volume>5</volume>
+<journal>Data Sci. Eng.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s41019-020-00139-9</ee>
+<url>db/journals/dase/dase5.html#ChengWHH20</url>
+</article>
+</r>
+<r><article key="journals/kbs/QiCCCBW20" mdate="2020-03-03">
+<author pid="209/8128">Yiyan Qi</author>
+<author pid="60/3935">Jiefeng Cheng</author>
+<author pid="20/3215-6">Xiaojun Chen 0006</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="48/1070">Albert Bifet</author>
+<author pid="84/7882">Pinghui Wang</author>
+<title>Discriminative Streaming Network Embedding.</title>
+<pages>105138</pages>
+<year>2020</year>
+<volume>190</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2019.105138</ee>
+<url>db/journals/kbs/kbs190.html#QiCCCBW20</url>
+</article>
+</r>
+<r><article key="journals/tkde/LuoCKXZH20" mdate="2020-08-06">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-0501-9435" pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author orcid="0000-0002-1949-2768" pid="52/6744">Shuigeng Zhou</author>
+<author orcid="0000-0002-5108-5820" pid="120/1593">Jiafeng Hu</author>
+<title>ROAM: A Fundamental Routing Query on Road Networks with Efficiency.</title>
+<pages>1595-1609</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2906188</ee>
+<url>db/journals/tkde/tkde32.html#LuoCKXZH20</url>
+</article>
+</r>
+<r><article key="journals/tkde/ShanM0C0Z20" mdate="2020-10-20">
+<author orcid="0000-0003-2607-1598" pid="193/1652">Caihua Shan</author>
+<author orcid="0000-0003-3423-4895" pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-7230-7269" pid="34/10063">Zhipeng Huang 0001</author>
+<author orcid="0000-0001-6537-1521" pid="160/1053">Yudian Zheng</author>
+<title>A Crowdsourcing Framework for Collecting Tabular Data.</title>
+<pages>2060-2074</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2914903</ee>
+<url>db/journals/tkde/tkde32.html#ShanM0C0Z20</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangHQZZCL20" mdate="2020-12-29">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>A survey of community search over big graphs.</title>
+<pages>353-392</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-019-00556-x</ee>
+<url>db/journals/vldb/vldb29.html#FangHQZZCL20</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangHQZZCL20a" mdate="2020-12-29">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Correction: A survey of community search over big graphs.</title>
+<pages>1219</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-019-00592-7</ee>
+<url>db/journals/vldb/vldb29.html#FangHQZZCL20a</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/LiCNCHC20" mdate="2021-03-23">
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="276/5051">Matin Najafi</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="57/10423">Xiaolin Han</author>
+<author pid="276/5053">Hongtai Cao</author>
+<title>M-Cypher: A GQL Framework Supporting Motifs.</title>
+<pages>3433-3436</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3417440</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#LiCNCHC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ShanUMC20" mdate="2020-10-19">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="38/4996">Leong Hou U</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>A Toolkit for Managing Multiple Crowdsourced Top-K Queries.</title>
+<pages>3453-3456</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3417415</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#ShanUMC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ShanUMCL20" mdate="2020-09-22">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="38/4996">Leong Hou U</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<title>A General Early-Stopping Module for Crowdsourced Ranking.</title>
+<pages>314-330</pages>
+<year>2020</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59416-9_19</ee>
+<crossref>conf/dasfaa/2020-2</crossref>
+<url>db/conf/dasfaa/dasfaa2020-2.html#ShanUMCL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ShanMC0LQ20" mdate="2020-06-15">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="147/1552">Yuqiu Qian</author>
+<title>An End-to-End Deep RL Framework for Task Arrangement in Crowdsourcing Platforms.</title>
+<pages>49-60</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00012</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#ShanMC0LQ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiCHFOLC020" mdate="2020-09-05">
+<author pid="217/3887">Boxuan Li</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="173/1958">Min Ou</author>
+<author orcid="0000-0001-9711-6533" pid="55/11133">Ruibang Luo</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>MC-Explorer: Analyzing and Visualizing Motif-Cliques on Large Networks.</title>
+<pages>1722-1725</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00154</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#LiCHFOLC020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HanGCWLS20" mdate="2021-03-23">
+<author pid="57/10423">Xiaolin Han</author>
+<author pid="183/0983">Tobias Grubenmann</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="52/7279">Sze Chun Wong</author>
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="218/7310">Wenya Sun</author>
+<title>Traffic Incident Detection: A Trajectory-based Approach.</title>
+<pages>1866-1869</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00190</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#HanGCWLS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jurix/WuKCCWCYC20" mdate="2021-02-10">
+<author pid="228/2551">Tien-Hsuan Wu</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="273/6683">Anne S. Y. Cheung</author>
+<author pid="281/4649">Michael M. K. Cheung</author>
+<author pid="82/4206">Chen Wang</author>
+<author pid="281/4903">Yongxi Chen</author>
+<author pid="204/2946">Guowen Yuan</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Integrating Domain Knowledge in AI-Assisted Criminal Sentencing of Drug Trafficking Cases.</title>
+<pages>174-183</pages>
+<year>2020</year>
+<booktitle>JURIX</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA200861</ee>
+<crossref>conf/jurix/2020</crossref>
+<url>db/conf/jurix/jurix2020.html#WuKCCWCYC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChanCY20" mdate="2021-04-09">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>QUAD: Quadratic-Bound-based Kernel Density Visualization.</title>
+<pages>35-50</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380561</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ChanCY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YanSZWC20" mdate="2020-06-05">
+<author pid="236/5688">Jing Nathan Yan</author>
+<author pid="s/OliverSchulte">Oliver Schulte</author>
+<author pid="218/0654">Mohan Zhang</author>
+<author pid="39/7183">Jiannan Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>SCODED: Statistical Constraint Oriented Data Error Detection.</title>
+<pages>845-860</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380568</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#YanSZWC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MaFCL0020" mdate="2020-06-05">
+<author pid="251/5251">Chenhao Ma</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs.</title>
+<pages>1051-1066</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389697</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#MaFCL0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/GrubenmannCL20" mdate="2020-01-24">
+<author pid="183/0983">Tobias Grubenmann</author>
+<author pid="89/2619">Reynold C. K. Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<title>TSA: A Truthful Mechanism for Social Advertising.</title>
+<pages>214-222</pages>
+<year>2020</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3336191.3371809</ee>
+<crossref>conf/wsdm/2020</crossref>
+<url>db/conf/wsdm/wsdm2020.html#GrubenmannCL20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FangYCLL19" mdate="2020-04-25">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="242/8477">Kaiqiang Yu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Algorithms for Densest Subgraph Discovery.</title>
+<pages>1719-1732</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1719-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342645</ee>
+<url>db/journals/pvldb/pvldb12.html#FangYCLL19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MaCLGF019" mdate="2021-03-23">
+<author pid="251/5251">Chenhao Ma</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="183/0983">Tobias Grubenmann</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<title>LINC: A Motif Counting Algorithm for Uncertain Graphs.</title>
+<pages>155-168</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p155-ma.pdf</ee>
+<ee>https://doi.org/10.14778/3364324.3364330</ee>
+<url>db/journals/pvldb/pvldb13.html#MaCLGF019</url>
+</article>
+</r>
+<r><article key="journals/sigspatial/LiFCZ19" mdate="2020-12-29">
+<author orcid="0000-0003-4442-3825" pid="87/6284">Yun Li</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Spatial pattern matching: a new direction for finding spatial objects.</title>
+<pages>3-12</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>ACM SIGSPATIAL Special</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3355491.3355493</ee>
+<url>db/journals/sigspatial/sigspatial11.html#LiFCZ19</url>
+</article>
+</r>
+<r><article key="journals/tkde/FangWCLLHC19" mdate="2019-05-03">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="181/2834">Zheng Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-5985-9886" pid="50/3993-9">Xiaodong Li 0009</author>
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5108-5820" pid="120/1593">Jiafeng Hu</author>
+<author orcid="0000-0002-2818-4652" pid="20/3215-6">Xiaojun Chen 0006</author>
+<title>On Spatial-Aware Community Search.</title>
+<pages>783-798</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2845414</ee>
+<url>db/journals/tkde/tkde31.html#FangWCLLHC19</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChenFCLCZ19" mdate="2019-09-05">
+<author orcid="0000-0001-5741-2047" pid="96/5327">Yankai Chen</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-4442-3825" pid="87/6284">Yun Li</author>
+<author orcid="0000-0002-2818-4652" pid="20/3215-6">Xiaojun Chen 0006</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<title>Exploring Communities in Large Profiled Graphs.</title>
+<pages>1624-1629</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2882837</ee>
+<url>db/journals/tkde/tkde31.html#ChenFCLCZ19</url>
+</article>
+</r>
+<r><article key="journals/tkde/FangWCWH19" mdate="2021-01-06">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="242/5164">Zhongran Wang</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-7521-2871" pid="81/940">Hongzhi Wang 0001</author>
+<author orcid="0000-0002-5108-5820" pid="120/1593">Jiafeng Hu</author>
+<title>Effective and Efficient Community Search Over Large Directed Graphs.</title>
+<pages>2093-2107</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2872982</ee>
+<url>db/journals/tkde/tkde31.html#FangWCWH19</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangLCMC19" mdate="2020-12-29">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author orcid="0000-0003-4442-3825" pid="87/6284">Yun Li</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="33/3180">Gao Cong</author>
+<title>Evaluating pattern matching queries for spatial databases.</title>
+<pages>649-673</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-019-00550-3</ee>
+<url>db/journals/vldb/vldb28.html#FangLCMC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/HuCCSFL19" mdate="2019-06-11">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/KCCChang">Kevin Chen-Chuan Chang</author>
+<author pid="175/5341">Aravind Sankar</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="164/9028">Brian Y. H. Lam</author>
+<title>Discovering Maximal Motif Cliques in Large Heterogeneous Information Networks.</title>
+<pages>746-757</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00072</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#HuCCSFL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/He0ZC19" mdate="2021-04-09">
+<author pid="77/2036">Dan He</author>
+<author orcid="0000-0003-1892-6971" pid="131/6529-1">Sibo Wang 0001</author>
+<author orcid="0000-0001-6343-1455" pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>An Efficient Framework for Correctness-Aware kNN Queries on Road Networks.</title>
+<pages>1298-1309</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00118</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#He0ZC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuoKWC19" mdate="2020-10-16">
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="70/4432-1">Xiaowei Wu 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>MPR - A Partitioning-Replication Framework for Multi-Processing kNN Search on Road Networks.</title>
+<pages>1310-1321</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00119</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#LuoKWC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangWCWH19" mdate="2021-01-06">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="242/5164">Zhongran Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="81/940">Hongzhi Wang 0001</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective and Efficient Community Search Over Large Directed Graphs (Extended Abstract).</title>
+<pages>2157-2158</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00273</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#FangWCWH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChenFCLCZ19" mdate="2019-08-20">
+<author pid="96/5327">Yankai Chen</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="87/6284">Yun Li</author>
+<author pid="20/3215-6">Xiaojun Chen 0006</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<title>Exploring Communities in Large Profiled Graphs (Extended Abstract).</title>
+<pages>2159-2160</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00274</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ChenFCLCZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/ZhouXHIC19" mdate="2019-07-29">
+<author pid="131/6619">Amelie Chi Zhou</author>
+<author pid="39/9577">Yao Xiao</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="00/981">Shadi Ibrahim</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Incorporating Probabilistic Optimizations for Resource Provisioning of Data Processing Workflows.</title>
+<pages>6:1-6:10</pages>
+<year>2019</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1145/3337821.3337847</ee>
+<crossref>conf/icpp/2019</crossref>
+<url>db/conf/icpp/icpp2019.html#ZhouXHIC19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/wise/2019" mdate="2019-12-27">
+<editor pid="89/2619">Reynold Cheng</editor>
+<editor pid="34/6253">Nikos Mamoulis</editor>
+<editor pid="37/3868">Yizhou Sun</editor>
+<editor pid="98/5766-1">Xin Huang 0001</editor>
+<title>Web Information Systems Engineering - WISE 2019 - 20th International Conference, Hong Kong, China, November 26-30, 2019, Proceedings</title>
+<booktitle>WISE</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11881</volume>
+<isbn>978-3-030-34222-7</isbn>
+<isbn>978-3-030-34223-4</isbn>
+<ee>https://doi.org/10.1007/978-3-030-34223-4</ee>
+<url>db/conf/wise/wise2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-05451" mdate="2019-08-20">
+<author pid="96/5327">Yankai Chen</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="87/6284">Yun Li</author>
+<author pid="20/3215-6">Xiaojun Chen 0006</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<title>Exploring Communities in Large Profiled Graphs.</title>
+<year>2019</year>
+<volume>abs/1901.05451</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.05451</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-05451</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-09711" mdate="2019-05-21">
+<author pid="236/5688">Jing Nathan Yan</author>
+<author pid="s/OliverSchulte">Oliver Schulte</author>
+<author pid="39/7183">Jiannan Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Detecting Data Errors with Statistical Constraints.</title>
+<year>2019</year>
+<volume>abs/1902.09711</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.09711</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-09711</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12539" mdate="2020-03-16">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>A Survey of Community Search Over Big Graphs.</title>
+<year>2019</year>
+<volume>abs/1904.12539</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12539</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12539</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-00341" mdate="2020-03-16">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="242/8477">Kaiqiang Yu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Algorithms for Densest Subgraph Discovery.</title>
+<year>2019</year>
+<volume>abs/1906.00341</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.00341</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-00341</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-01030" mdate="2020-10-13">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="147/1552">Yuqiu Qian</author>
+<title>An End-to-End Deep RL Framework for Task Arrangement in Crowdsourcing Platforms.</title>
+<year>2019</year>
+<volume>abs/1911.01030</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.01030</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-01030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-01042" mdate="2020-06-15">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="38/4996">Leong Hou U</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<title>A General Early-Stopping Module for Crowdsourced Ranking.</title>
+<year>2019</year>
+<volume>abs/1911.01042</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.01042</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-01042</url>
+</article>
+</r>
+<r><article key="journals/kais/FangXZCZ18" mdate="2019-10-27">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="90/1767">Xiaoqin Xie</author>
+<author pid="61/3976">Xiaofeng Zhang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="67/2010-10">Zhiqiang Zhang 0010</author>
+<title>STEM: a suffix tree-based method for web data records extraction.</title>
+<pages>305-331</pages>
+<year>2018</year>
+<volume>55</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10115-017-1062-0</ee>
+<url>db/journals/kais/kais55.html#FangXZCZ18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuoKLHCZ18" mdate="2020-04-25">
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>TOAIN: A Throughput Optimizing Adaptive Index for Answering Dynamic kNN Queries on Road Networks.</title>
+<pages>594-606</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p594-luo.pdf</ee>
+<ee>https://doi.org/10.1145/3187009.3177736</ee>
+<url>db/journals/pvldb/pvldb11.html#LuoKLHCZ18</url>
+</article>
+</r>
+<r><article key="journals/tkdd/HuangCCZMY18" mdate="2020-04-16">
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="05/6939">Bogdan Cautis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="87/5735">Jing Yan</author>
+<title>Entity-Based Query Recommendation for Long-Tail Queries.</title>
+<pages>64:1-64:24</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3233186</ee>
+<url>db/journals/tkdd/tkdd12.html#HuangCCZMY18</url>
+</article>
+</r>
+<r><article key="journals/tsc/DaiNCC18" mdate="2020-04-02">
+<author orcid="0000-0003-2525-1140" pid="180/4998">Chengcheng Dai</author>
+<author pid="32/1518">Sarana Nutanong</author>
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Entropy-Based Scheduling Policy for Cross Aggregate Ranking Workloads.</title>
+<pages>507-520</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Serv. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2016.2586062</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2586062</ee>
+<url>db/journals/tsc/tsc11.html#DaiNCC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/SunCXYZQ18" mdate="2021-04-09">
+<author pid="158/2276">Haiqi Sun</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author pid="87/5735">Jing Yan</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="147/1552">Yuqiu Qian</author>
+<title>Maximizing Social Influence for the Awareness Threshold Model.</title>
+<pages>491-510</pages>
+<year>2018</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91452-7_32</ee>
+<crossref>conf/dasfaa/2018-1</crossref>
+<url>db/conf/dasfaa/dasfaa2018-1.html#SunCXYZQ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LiCFHM18" mdate="2021-01-29">
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="91/9376">Silviu Maniu</author>
+<title>Scalable Evaluation of k-NN Queries on Large Uncertain Graphs.</title>
+<pages>181-192</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.17</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#LiCFHM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangCCML18" mdate="2020-12-29">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-4442-3825" pid="87/6284">Yun Li</author>
+<title>On Spatial Pattern Matching.</title>
+<pages>293-304</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00035</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00035</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#FangCCML18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ShanM0C0Z18" mdate="2018-11-20">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>T-Crowd: Effective Crowdsourcing for Tabular Data.</title>
+<pages>1316-1319</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00139</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00139</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ShanM0C0Z18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangCWBCM18" mdate="2019-09-25">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="205/0858">Jikun Wang</author>
+<author pid="228/6028">Lukito Budiman</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>SpaceKey: Exploring Patterns in Spatial Databases.</title>
+<pages>1577-1580</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00180</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00180</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#FangCWBCM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ZhuCD0Z18" mdate="2019-01-04">
+<author pid="149/1342">Zichen Zhu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="83/11078">Loc Do</author>
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="192/4557">Haoci Zhang</author>
+<title>Evaluating Top-k Meta Path Queries on Large Heterogeneous Information Networks.</title>
+<pages>1470-1475</pages>
+<year>2018</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2018.00204</ee>
+<crossref>conf/icdm/2018</crossref>
+<url>db/conf/icdm/icdm2018.html#ZhuCD0Z18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Cheng18" mdate="2019-02-14">
+<author pid="89/2619">Reynold Cheng</author>
+<title>Uncertain Spatial Data Management.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80742</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/u2.html#Cheng18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/ChengC18" mdate="2019-02-14">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<title>Probabilistic Spatial Queries.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_276</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#ChengC18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PrabhakarC18" mdate="2019-02-14">
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Data Uncertainty Management in Sensor Networks.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_115</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#PrabhakarC18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PrabhakarC18a" mdate="2019-02-14">
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Indexing Uncertain Data.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80740</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/i2.html#PrabhakarC18a</url>
+</incollection>
+</r>
+<r><article key="journals/geoinformatica/SchmidZERC17" mdate="2017-10-12">
+<author orcid="0000-0003-2880-0299" pid="151/3112">Klaus Arthur Schmid</author>
+<author pid="18/2478">Andreas Z&#252;fle</author>
+<author pid="79/7126">Tobias Emrich</author>
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Uncertain Voronoi cell computation based on space decomposition.</title>
+<pages>797-827</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>GeoInformatica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10707-017-0293-2</ee>
+<url>db/journals/geoinformatica/geoinformatica21.html#SchmidZERC17</url>
+</article>
+</r>
+<r><article key="journals/is/RenLKZCC17" mdate="2020-10-08">
+<author pid="50/10355">Chenghui Ren</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="59/10355">Xinjie Zhu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Efficient processing of shortest path queries in evolving graph sequences.</title>
+<pages>18-31</pages>
+<year>2017</year>
+<volume>70</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2017.05.004</ee>
+<url>db/journals/is/is70.html#RenLKZCC17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhengLLSC17" mdate="2020-04-25">
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="193/1562">Yuanbing Li</author>
+<author pid="193/1652">Caihua Shan</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Truth Inference in Crowdsourcing: Is the Problem Solved?</title>
+<pages>541-552</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p541-zheng.pdf</ee>
+<ee>https://doi.org/10.14778/3055540.3055547</ee>
+<url>db/journals/pvldb/pvldb10.html#ZhengLLSC17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FangCLLH17" mdate="2020-04-25">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="50/3993-9">Xiaodong Li 0009</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective Community Search over Large Spatial Graphs.</title>
+<pages>709-720</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p709-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3055330.3055337</ee>
+<url>db/journals/pvldb/pvldb10.html#FangCLLH17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FangCLHH17" mdate="2020-04-25">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="86/489">Kai Huang</author>
+<title>C-Explorer: Browsing Communities in Large Graphs.</title>
+<pages>1885-1888</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1885-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137800</ee>
+<url>db/journals/pvldb/pvldb10.html#FangCLHH17</url>
+</article>
+</r>
+<r><article key="journals/tkde/HeWKLCF17" mdate="2020-10-08">
+<author pid="116/5147">Zhian He</author>
+<author pid="131/4190">Petrie Wong</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="02/5202">Ziqiang Feng</author>
+<title>Efficient Pattern-Based Aggregation on Sequence Data.</title>
+<pages>286-299</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2618856</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2618856</ee>
+<url>db/journals/tkde/tkde29.html#HeWKLCF17</url>
+</article>
+</r>
+<r><article key="journals/tkde/HuWCLF17" mdate="2020-10-16">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="70/4432-1">Xiaowei Wu 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<title>On Minimal Steiner Maximum-Connected Subgraph Queries.</title>
+<pages>2455-2469</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2730873</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2730873</ee>
+<url>db/journals/tkde/tkde29.html#HuWCLF17</url>
+</article>
+</r>
+<r><article key="journals/tods/ManiuCS17" mdate="2019-09-25">
+<author pid="91/9376">Silviu Maniu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-7909-5369" pid="12/225">Pierre Senellart</author>
+<title>An Indexing Framework for Queries on Probabilistic Graphs.</title>
+<pages>13:1-13:34</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3044713</ee>
+<url>db/journals/tods/tods42.html#ManiuCS17</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangCCLH17" mdate="2017-11-07">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="96/5327">Yankai Chen</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective and efficient attributed community search.</title>
+<pages>803-828</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-017-0482-5</ee>
+<url>db/journals/vldb/vldb26.html#FangCCLH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/apweb/ChengHZYWN17" mdate="2018-06-15">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="87/5735">Jing Yan</author>
+<author pid="204/2325">Ka Yu Wong</author>
+<author pid="204/2335">Eddie Ng</author>
+<title>Meta Paths and Meta Structures: Analysing Large Heterogeneous Information Networks.</title>
+<pages>3-7</pages>
+<year>2017</year>
+<booktitle>APWeb/WAIM (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63579-8_1</ee>
+<crossref>conf/apweb/2017-1</crossref>
+<url>db/conf/apweb/apweb2017-1.html#ChengHZYWN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/HuCHFL17" mdate="2019-09-16">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="117/5965">Siqiang Luo</author>
+<title>On Embedding Uncertain Graphs.</title>
+<pages>157-166</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132885</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#HuCHFL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LuoHCYK17" mdate="2018-11-06">
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="87/5735">Jing Yan</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>SEQ: Example-based Query for Spatial Objects.</title>
+<pages>2179-2182</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3133073</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#LuoHCYK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiZFWC17" mdate="2018-11-06">
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="39/7183">Jiannan Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Crowdsourced Data Management: Overview and Challenges.</title>
+<pages>1711-1716</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3054776</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#LiZFWC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/FangC17" mdate="2019-09-16">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>On Attributed Community Search.</title>
+<pages>1-21</pages>
+<year>2017</year>
+<booktitle>MATES@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-73521-4_1</ee>
+<crossref>conf/vldb/2017mates</crossref>
+<url>db/conf/vldb/mates2017.html#FangC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/XuCZ17" mdate="2017-10-05">
+<author pid="07/4630">Yong Xu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>Reliable Retrieval of Top-k Tags.</title>
+<pages>330-346</pages>
+<year>2017</year>
+<booktitle>WISE (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68783-4_23</ee>
+<crossref>conf/wise/2017-1</crossref>
+<url>db/conf/wise/wise2017-1.html#XuCZ17</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/Cheng17" mdate="2017-07-12">
+<author pid="89/2619">Reynold Cheng</author>
+<title>Spatial Data, Indexing Techniques.</title>
+<pages>1992-2002</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_1255</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#Cheng17</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-02125" mdate="2018-08-13">
+<author pid="193/1652">Caihua Shan</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>T-Crowd: Effective Crowdsourcing for Tabular Data.</title>
+<year>2017</year>
+<volume>abs/1708.02125</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.02125</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-02125</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/Wang0CGZGG16" mdate="2017-05-28">
+<author pid="26/11197">Zhi-Jie Wang</author>
+<author pid="86/508-2">Bin Yao 0002</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="95/6947">Xiaofeng Gao</author>
+<author pid="81/3390">Lei Zou</author>
+<author pid="96/5680">Haibing Guan</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>SMe: explicit &#38; implicit constrained-space probabilistic threshold range queries for moving objects.</title>
+<pages>19-58</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10707-015-0230-1</ee>
+<url>db/journals/geoinformatica/geoinformatica20.html#Wang0CGZGG16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FangCLH16" mdate="2020-04-25">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="120/1593">Jiafeng Hu</author>
+<title>Effective Community Search for Large Attributed Graphs.</title>
+<pages>1233-1244</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1233-fang.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994538</ee>
+<url>db/journals/pvldb/pvldb9.html#FangCLH16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhengLC16" mdate="2020-04-25">
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>DOCS: Domain-Aware Crowdsourcing System.</title>
+<pages>361-372</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p361-zheng.pdf</ee>
+<ee>https://doi.org/10.14778/3025111.3025118</ee>
+<url>db/journals/pvldb/pvldb10.html#ZhengLC16</url>
+</article>
+</r>
+<r><article key="journals/sigspatial/Cheng16" mdate="2020-05-27">
+<author pid="89/2619">Reynold Cheng</author>
+<title>Managing uncertainty of large spatial databases.</title>
+<pages>11-17</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>ACM SIGSPATIAL Special</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3024087.3024089</ee>
+<url>db/journals/sigspatial/sigspatial8.html#Cheng16</url>
+</article>
+</r>
+<r><article key="journals/tkde/FangCTMY16" mdate="2019-09-16">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="47/9075">Wenbin Tang</author>
+<author orcid="0000-0002-8623-1533" pid="91/9376">Silviu Maniu</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<title>Scalable Algorithms for Nearest-Neighbor Joins on Big Trajectory Data.</title>
+<pages>785-800</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2492561</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2492561</ee>
+<url>db/journals/tkde/tkde28.html#FangCTMY16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/HuWCLF16" mdate="2020-10-16">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="70/4432-1">Xiaowei Wu 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<title>Querying Minimal Steiner Maximum-Connected Subgraphs in Large Graphs.</title>
+<pages>1241-1250</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983748</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#HuWCLF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/HuangCCZ16" mdate="2018-11-06">
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="05/6939">Bogdan Cautis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>KB-Enabled Query Recommendation for Long-Tail Queries.</title>
+<pages>2107-2112</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983650</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#HuangCCZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HuZBLFC16" mdate="2020-10-25">
+<author pid="137/1395">Huiqi Hu</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author orcid="0000-0003-2477-381X" pid="20/3716">Zhifeng Bao</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Crowdsourced POI labelling: Location-aware result inference and Task Assignment.</title>
+<pages>61-72</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498229</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498229</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#HuZBLFC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangCTMY16" mdate="2019-09-16">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="47/9075">Wenbin Tang</author>
+<author orcid="0000-0002-8623-1533" pid="91/9376">Silviu Maniu</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<title>Scalable algorithms for nearest-neighbor joins on big trajectory data.</title>
+<pages>1528-1529</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498408</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498408</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#FangCTMY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/HuangZCSML16" mdate="2020-06-15">
+<author pid="34/10063">Zhipeng Huang 0001</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="37/3868">Yizhou Sun</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<title>Meta Structure: Computing Relevance in Large Heterogeneous Information Networks.</title>
+<pages>1595-1604</pages>
+<year>2016</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2939672.2939815</ee>
+<crossref>conf/kdd/2016</crossref>
+<url>db/conf/kdd/kdd2016.html#HuangZCSML16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/SunSC16" mdate="2017-05-25">
+<author pid="58/5011">Yuqing Sun</author>
+<author pid="158/2276">Haiqi Sun</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Fast and Semantic Measurements on Collaborative Tagging Quality.</title>
+<pages>363-375</pages>
+<year>2016</year>
+<booktitle>PAKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-31750-2_29</ee>
+<crossref>conf/pakdd/2016-2</crossref>
+<url>db/conf/pakdd/pakdd2016-2.html#SunSC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/ChengMS15" mdate="2020-05-18">
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-8623-1533" pid="91/9376">Silviu Maniu</author>
+<author orcid="0000-0002-7909-5369" pid="12/225">Pierre Senellart</author>
+<title>Guest Editorial: Special Issue on Databases and Crowdsourcing.</title>
+<pages>1-2</pages>
+<year>2015</year>
+<volume>33</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10619-014-7167-5</ee>
+<url>db/journals/dpd/dpd33.html#ChengMS15</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/NascimentoSC15" mdate="2018-11-30">
+<author pid="n/MarioANascimento">Mario A. Nascimento</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Special issue on spatial and temporal database management.</title>
+<pages>297-298</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>GeoInformatica</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10707-015-0224-z</ee>
+<url>db/journals/geoinformatica/geoinformatica19.html#NascimentoSC15</url>
+</article>
+</r>
+<r><article key="journals/is/ZhuLCP15" mdate="2018-11-30">
+<author orcid="0000-0002-5227-3575" pid="123/7707">Chun Jiang Zhu</author>
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<author pid="89/2619">Reynold C. K. Cheng</author>
+<author orcid="0000-0002-8508-5060" pid="67/3327">Chung Keung Poon</author>
+<title>On using broadcast index for efficient execution of shortest path continuous queries.</title>
+<pages>142-162</pages>
+<year>2015</year>
+<volume>49</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2014.12.005</ee>
+<url>db/journals/is/is49.html#ZhuLCP15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiFLCCL15" mdate="2020-04-25">
+<author pid="23/6479">Zhenguo Li</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="06/2123">Qin Liu</author>
+<author pid="60/3935">Jiefeng Cheng</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/JohnCSLui">John C. S. Lui</author>
+<title>Walking in the Cloud: Parallel SimRank at Scale.</title>
+<pages>24-35</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p24-li.pdf</ee>
+<ee>https://doi.org/10.14778/2850469.2850472</ee>
+<url>db/journals/pvldb/pvldb9.html#LiFLCCL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ZhengCMM15" mdate="2021-01-29">
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="91/9376">Silviu Maniu</author>
+<author pid="131/4815">Luyi Mo</author>
+<title>On Optimality of Jury Selection in Crowdsourcing.</title>
+<pages>193-204</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.18</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#ZhengCMM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/LeiMMCS15" mdate="2019-09-25">
+<author pid="02/8578">Siyu Lei</author>
+<author orcid="0000-0002-8623-1533" pid="91/9376">Silviu Maniu</author>
+<author pid="131/4815">Luyi Mo</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-7909-5369" pid="12/225">Pierre Senellart</author>
+<title>Online Influence Maximization.</title>
+<pages>645-654</pages>
+<year>2015</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2783258.2783271</ee>
+<crossref>conf/kdd/2015</crossref>
+<url>db/conf/kdd/kdd2015.html#LeiMMCS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhengWLCF15" mdate="2018-11-06">
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="39/7183">Jiannan Wang</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="43/6576">Jianhua Feng</author>
+<title>QASCA: A Quality-Aware Task Assignment System for Crowdsourcing Applications.</title>
+<pages>1031-1046</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749430</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ZhengWLCF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/EmrichSZRC15" mdate="2017-05-24">
+<author pid="79/7126">Tobias Emrich</author>
+<author pid="151/3112">Klaus Arthur Schmid</author>
+<author pid="18/2478">Andreas Z&#252;fle</author>
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Uncertain Voronoi Cell Computation Based on Space Decomposition.</title>
+<pages>98-116</pages>
+<year>2015</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22363-6_6</ee>
+<crossref>conf/ssd/2015</crossref>
+<url>db/conf/ssd/sstd2015.html#EmrichSZRC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/HuCWJ15" mdate="2017-05-24">
+<author pid="120/1593">Jiafeng Hu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="81/6181">Dingming Wu 0001</author>
+<author pid="75/1099">Beihong Jin</author>
+<title>Efficient Top-k Subscription Matching for Location-Aware Publish/Subscribe.</title>
+<pages>333-351</pages>
+<year>2015</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22363-6_18</ee>
+<crossref>conf/ssd/2015</crossref>
+<url>db/conf/ssd/sstd2015.html#HuCWJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MengCMSZ15" mdate="2019-09-25">
+<author pid="162/8996">Changping Meng</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-8623-1533" pid="91/9376">Silviu Maniu</author>
+<author orcid="0000-0002-7909-5369" pid="12/225">Pierre Senellart</author>
+<author pid="124/6700">Wangda Zhang</author>
+<title>Discovering Meta-Paths in Large Heterogeneous Information Networks.</title>
+<pages>754-764</pages>
+<year>2015</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2736277.2741123</ee>
+<crossref>conf/www/2015</crossref>
+<url>db/conf/www/www2015.html#MengCMSZ15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apweb/2015" mdate="2020-04-07">
+<editor pid="89/2619">Reynold Cheng</editor>
+<editor pid="55/5031">Bin Cui 0001</editor>
+<editor pid="93/4085">Zhenjie Zhang</editor>
+<editor pid="09/6889">Ruichu Cai</editor>
+<editor pid="95/3616-5">Jia Xu 0005</editor>
+<title>Web Technologies and Applications - 17th Asia-PacificWeb Conference, APWeb 2015, Guangzhou, China, September 18-20, 2015, Proceedings</title>
+<booktitle>APWeb</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9313</volume>
+<isbn>978-3-319-25254-4</isbn>
+<ee>https://doi.org/10.1007/978-3-319-25255-1</ee>
+<url>db/conf/apweb/apweb2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LeiMMCS15" mdate="2018-08-13">
+<author pid="02/8578">Siyu Lei</author>
+<author pid="91/9376">Silviu Maniu</author>
+<author pid="131/4815">Luyi Mo</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="12/225">Pierre Senellart</author>
+<title>Online Influence Maximization (Extended Version).</title>
+<year>2015</year>
+<volume>abs/1506.01188</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.01188</ee>
+<url>db/journals/corr/corr1506.html#LeiMMCS15</url>
+</article>
+</r>
+<r><article key="journals/tkde/XieYCL14" mdate="2019-09-16">
+<author pid="64/1308">Xike Xie</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<title>Scalable Evaluation of Trajectory Queries over Imprecise Location Data.</title>
+<pages>2029-2044</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2013.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.77</ee>
+<url>db/journals/tkde/tkde26.html#XieYCL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/RenMKCC14" mdate="2021-01-29">
+<author pid="50/10355">Chenghui Ren</author>
+<author pid="131/4815">Luyi Mo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>CLUDE: An Efficient Algorithm for LU Decomposition Over a Sequence of Evolving Graphs.</title>
+<pages>319-330</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.30</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#RenMKCC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangCK14" mdate="2017-05-17">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>Evaluating multi-way joins over discounted hitting time.</title>
+<pages>724-735</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816695</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816695</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#ZhangCK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LeiYMMC14" mdate="2017-06-15">
+<author pid="02/8578">Siyu Lei</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<author pid="131/4815">Luyi Mo</author>
+<author orcid="0000-0002-8623-1533" pid="91/9376">Silviu Maniu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>iTag: Incentive-based tagging.</title>
+<pages>1186-1189</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816737</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816737</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#LeiYMMC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengEKMRTZ14" mdate="2017-05-17">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="79/7126">Tobias Emrich</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<author pid="66/974">Goce Trajcevski</author>
+<author pid="18/2478">Andreas Z&#252;fle</author>
+<title>Managing uncertainty in spatial and spatio-temporal data.</title>
+<pages>1302-1305</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816766</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816766</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#ChengEKMRTZ14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/crc/aggarwal14/ChengFR14" mdate="2015-01-30">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<title>Uncertain Data Classification.</title>
+<pages>417-444</pages>
+<year>2014</year>
+<booktitle>Data Classification: Algorithms and Applications</booktitle>
+<ee>http://www.crcnetbase.com/doi/abs/10.1201/b17320-17</ee>
+<crossref>books/crc/aggarwal2014</crossref>
+<url>db/books/collections/aggarwal2014.html#ChengFR14</url>
+</incollection>
+</r>
+<r><article key="journals/is/ZhangC13" mdate="2017-05-20">
+<author pid="90/7422">Yinuo Zhang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Probabilistic filters: A stream protocol for continuous probabilistic queries.</title>
+<pages>132-154</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.is.2012.06.003</ee>
+<url>db/journals/is/is38.html#ZhangC13</url>
+</article>
+</r>
+<r><article key="journals/kais/BerneckerCCKLRVWZ13" mdate="2018-06-26">
+<author pid="64/2434">Thomas Bernecker</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<author pid="19/3772">Florian Verhein</author>
+<author pid="56/4499">Liang Wang</author>
+<author pid="18/2478">Andreas Z&#252;fle</author>
+<title>Model-based probabilistic frequent itemset mining.</title>
+<pages>181-217</pages>
+<year>2013</year>
+<volume>37</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10115-012-0561-2</ee>
+<url>db/journals/kais/kais37.html#BerneckerCCKLRVWZ13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangUCMC13" mdate="2020-04-25">
+<author pid="60/1152-1">Yu Tang 0001</author>
+<author pid="38/4996">Leong Hou U</author>
+<author pid="137/6640">Yilun Cai</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Earth Mover's Distance based Similarity Search at Scale.</title>
+<pages>313-324</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p313-tang.pdf</ee>
+<ee>https://doi.org/10.14778/2732240.2732249</ee>
+<url>db/journals/pvldb/pvldb7.html#TangUCMC13</url>
+</article>
+</r>
+<r><article key="journals/vldb/XieCYSC13" mdate="2018-06-26">
+<author pid="64/1308">Xike Xie</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="31/7993">Liwen Sun</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<title>UV-diagram: a voronoi diagram for uncertain spatial databases.</title>
+<pages>319-344</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s00778-012-0290-x</ee>
+<url>db/journals/vldb/vldb22.html#XieCYSC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MoCKYRLCL13" mdate="2020-10-08">
+<author pid="131/4815">Luyi Mo</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<author pid="50/10355">Chenghui Ren</author>
+<author pid="02/8578">Siyu Lei</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Optimizing plurality for human intelligence tasks.</title>
+<pages>1929-1938</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505755</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#MoCKYRLCL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/HeWKLC13" mdate="2020-10-08">
+<author pid="116/5147">Zhian He</author>
+<author pid="131/4190">Petrie Wong</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Fast evaluation of iceberg pattern-based aggregate queries.</title>
+<pages>2219-2224</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505726</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#HeWKLC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MoCLCY13" mdate="2020-06-15">
+<author pid="131/4815">Luyi Mo</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<title>Cleaning uncertain data for top-k queries.</title>
+<pages>134-145</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544820</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544820</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#MoCLCY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangCMRZTE13" mdate="2019-07-25">
+<author pid="66/4975">Peiwu Zhang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<author pid="18/2478">Andreas Z&#252;fle</author>
+<author pid="60/1152-1">Yu Tang 0001</author>
+<author pid="79/7126">Tobias Emrich</author>
+<title>Voronoi-based nearest neighbor search for multi-dimensional uncertain databases.</title>
+<pages>158-169</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544822</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544822</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#ZhangCMRZTE13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangCMKC13" mdate="2017-05-17">
+<author pid="120/4364">Xuan S. Yang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="131/4815">Luyi Mo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>On incentive-based tagging.</title>
+<pages>685-696</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544866</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544866</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#YangCMKC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/SunXC13" mdate="2019-02-15">
+<author pid="58/5011">Yuqing Sun</author>
+<author pid="140/8357">Haoran Xu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Privacy Preserving Path Recommendation for Moving User on Location Based Service.</title>
+<pages>33-40</pages>
+<year>2013</year>
+<booktitle>UIC/ATC</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC.2013.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/UIC-ATC.2013.16</ee>
+<crossref>conf/uic/2013</crossref>
+<url>db/conf/uic/uic2013.html#SunXC13</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/13/Cheng13" mdate="2018-06-27">
+<author pid="89/2619">Reynold Cheng</author>
+<title>Managing Quality of Probabilistic Databases.</title>
+<pages>271-291</pages>
+<year>2013</year>
+<booktitle>Handbook of Data Quality</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36257-6_12</ee>
+<crossref>books/sp/S2013</crossref>
+<url>db/books/collections/S13.html#Cheng13</url>
+</incollection>
+</r>
+<r><proceedings key="conf/dbcrowd/2013" mdate="2020-02-12">
+<editor pid="89/2619">Reynold Cheng</editor>
+<editor pid="59/589">Anish Das Sarma</editor>
+<editor pid="91/9376">Silviu Maniu</editor>
+<editor pid="12/225">Pierre Senellart</editor>
+<title>Proceedings of the First VLDB Workshop on Databases and Crowdsourcing, DBCrowd 2013, Riva del Garda, Trento, Italy, August 26, 2013</title>
+<booktitle>DBCrowd</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1025</volume>
+<year>2013</year>
+<ee type="oa">http://ceur-ws.org/Vol-1025</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1025-4</ee>
+<url>db/conf/dbcrowd/dbcrowd2013.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ssd/2013" mdate="2019-12-27">
+<editor pid="n/MarioANascimento">Mario A. Nascimento</editor>
+<editor orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</editor>
+<editor pid="89/2619">Reynold Cheng</editor>
+<editor orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</editor>
+<editor pid="87/1585">Yu Zheng</editor>
+<editor pid="k/HansPeterKriegel">Hans-Peter Kriegel</editor>
+<editor pid="r/MatthiasRenz">Matthias Renz</editor>
+<editor pid="96/9320">Christian Sengstock</editor>
+<title>Advances in Spatial and Temporal Databases - 13th International Symposium, SSTD 2013, Munich, Germany, August 21-23, 2013. Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8098</volume>
+<ee>https://doi.org/10.1007/978-3-642-40235-7</ee>
+<isbn>978-3-642-40234-0</isbn>
+<booktitle>SSTD</booktitle>
+<url>db/conf/ssd/sstd2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tkde/WangCCLY12" mdate="2017-05-20">
+<author pid="56/4499">Liang Wang</author>
+<author pid="c/DWLCheung">David Wai-Lok Cheung</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<title>Efficient Mining of Frequent Item Sets on Large Uncertain Databases.</title>
+<pages>2170-2183</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2011.165</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.165</ee>
+<url>db/journals/tkde/tkde24.html#WangCCLY12</url>
+</article>
+</r>
+<r><article key="journals/vldb/GongCC12" mdate="2017-05-28">
+<author pid="67/3825">Jian Gong</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Efficient management of uncertainty in XML schema matching.</title>
+<pages>385-409</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-011-0248-4</ee>
+<url>db/journals/vldb/vldb21.html#GongCC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/LiKBCL12" mdate="2020-10-08">
+<author pid="12/8221">Ruirui Li</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="28/3252">Bin Bi</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>DQR: a probabilistic approach to diversified query recommendation.</title>
+<pages>16-25</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2396768</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#LiKBCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/JinCKLZ12" mdate="2018-11-06">
+<author pid="30/9582">Yifan Jin</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<author pid="90/7422">Yinuo Zhang</author>
+<title>A filter-based protocol for continuous queries over imprecise location data.</title>
+<pages>365-374</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2396810</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#JinCKLZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/TangCWB12" mdate="2017-12-23">
+<author pid="24/10003">Ruiming Tang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="99/4453">Huayu Wu 0001</author>
+<author pid="b/SBressan">St&#233;phane Bressan</author>
+<title>A Framework for Conditioning Uncertain Relational Data.</title>
+<pages>71-87</pages>
+<year>2012</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32597-7_7</ee>
+<crossref>conf/dexa/2012-2</crossref>
+<url>db/conf/dexa/dexa2012-2.html#TangCWB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengGCC12" mdate="2017-05-17">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="67/3825">Jian Gong</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author pid="60/3935">Jiefeng Cheng</author>
+<title>Evaluating Probabilistic Queries over Uncertain Matching.</title>
+<pages>1096-1107</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.14</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#ChengGCC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/XieCY12" mdate="2017-06-05">
+<author pid="64/1308">Xike Xie</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Evaluating Trajectory Queries over Imprecise Location Data.</title>
+<pages>56-74</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_4</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#XieCY12</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/NgaiKCCLCY11" mdate="2019-09-25">
+<author pid="37/6270">Wang Kay Ngai</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1069">Michael Chau</author>
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author orcid="0000-0001-5516-9944" pid="86/2270">Kevin Y. Yip</author>
+<title>Metric and trigonometric pruning for clustering of uncertain data in 2D geometric space.</title>
+<pages>476-497</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.is.2010.09.005</ee>
+<url>db/journals/is/is36.html#NgaiKCCLCY11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SunCLCH11" mdate="2020-06-15">
+<author pid="31/7993">Liwen Sun</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>On Link-based Similarity Join.</title>
+<pages>714-725</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p714-sun.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#SunCLCH11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RenLKZC11" mdate="2020-10-08">
+<author pid="50/10355">Chenghui Ren</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="59/10355">Xinjie Zhu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>On Querying Historical Evolving Graph Sequences.</title>
+<pages>726-737</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p726-ren.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#RenLKZC11</url>
+</article>
+</r>
+<r><article key="journals/tmc/FarrellRC11" mdate="2017-05-28">
+<author pid="19/50">Tobias Farrell</author>
+<author pid="r/KurtRothermel">Kurt Rothermel</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Processing Continuous Range Queries with Spatiotemporal Tolerance.</title>
+<pages>320-334</pages>
+<year>2011</year>
+<volume>10</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMC.2010.159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2010.159</ee>
+<url>db/journals/tmc/tmc10.html#FarrellRC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ChuiKLC11" mdate="2020-10-08">
+<author pid="72/2398">Chun Kit Chui</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>I/O-efficient algorithms for answering pattern-based aggregate queries in a sequence OLAP system.</title>
+<pages>1619-1628</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063812</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#ChuiKLC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BiLKC11" mdate="2017-05-17">
+<author pid="28/3252">Bin Bi</author>
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>CubeLSI: An effective and efficient method for searching resources in social tagging systems.</title>
+<pages>27-38</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767863</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767863</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#BiLKC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChengLYLLX10" mdate="2020-10-08">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="120/4364">Xuan S. Yang</author>
+<author pid="38/7537">Ming-Hay Luk</author>
+<author pid="40/1491-67">Xiang Li 0067</author>
+<author pid="64/1308">Xike Xie</author>
+<title>Explore or Exploit? Effective Strategies for Disambiguating Large Databases.</title>
+<pages>815-825</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R73.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920945</ee>
+<url>db/journals/pvldb/pvldb3.html#ChengLYLLX10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RenzCK10" mdate="2020-04-25">
+<author pid="r/MatthiasRenz">Matthias Renz</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author>
+<author pid="18/2478">Andreas Z&#252;fle</author>
+<author pid="64/2434">Thomas Bernecker</author>
+<title>Similarity Search and Mining in Uncertain Databases.</title>
+<pages>1653-1654</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/T05.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921066</ee>
+<url>db/journals/pvldb/pvldb3.html#RenzCK10</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChengKKPT10" mdate="2017-05-20">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/BenKao">Benjamin C. M. Kao</author>
+<author pid="08/6245">Alan Kwan</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="t/YiChengTu">Yi-Cheng Tu</author>
+<title>Filtering Data Streams for Entity-Based Continuous Queries.</title>
+<pages>234-248</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2009.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2009.63</ee>
+<url>db/journals/tkde/tkde22.html#ChengKKPT10</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChengCGY10" mdate="2017-05-20">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1069">Michael Chau</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>Guest Editors' Introduction: Special Section on Mining Large Uncertain and Probabilistic Databases.</title>
+<pages>1201-1202</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2010.118</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.118</ee>
+<url>db/journals/tkde/tkde22.html#ChengCGY10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/WangCLC10" mdate="2018-11-06">
+<author pid="56/4499">Liang Wang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="c/DWLCheung">David Wai-Lok Cheung</author>
+<title>Accelerating probabilistic frequent itemset mining: a model-based approach.</title>
+<pages>429-438</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871494</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#WangCLC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ChengYC10" mdate="2017-05-26">
+<author pid="60/3935">Jiefeng Cheng</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>On-Line Preferential Nearest Neighbor Browsing in Large Attributed Graphs.</title>
+<pages>2-19</pages>
+<year>2010</year>
+<booktitle>DASFAA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14589-6_2</ee>
+<crossref>conf/dasfaa/2010w</crossref>
+<url>db/conf/dasfaa/dasfaa2010w.html#ChengYC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangCC10" mdate="2017-05-26">
+<author pid="90/7422">Yinuo Zhang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<title>Evaluating Continuous Probabilistic Queries Over Imprecise Sensor Data.</title>
+<pages>535-549</pages>
+<year>2010</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12026-8_41</ee>
+<crossref>conf/dasfaa/2010-1</crossref>
+<url>db/conf/dasfaa/dasfaa2010-1.html#ZhangCC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengGC10" mdate="2017-05-17">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="67/3825">Jian Gong</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Managing uncertainty of XML schema matching.</title>
+<pages>297-308</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447868</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447868</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ChengGC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengXYCS10" mdate="2017-06-04">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="64/1308">Xike Xie</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="31/7993">Liwen Sun</author>
+<title>UV-diagram: A Voronoi diagram for uncertain data.</title>
+<pages>796-807</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447917</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447917</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ChengXYCS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/SunCCC10" mdate="2018-11-06">
+<author pid="31/7993">Liwen Sun</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<author pid="60/3935">Jiefeng Cheng</author>
+<title>Mining uncertain data with probabilistic guarantees.</title>
+<pages>273-282</pages>
+<year>2010</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1835804.1835841</ee>
+<crossref>conf/kdd/2010</crossref>
+<url>db/conf/kdd/kdd2010.html#SunCCC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tdp/LinBCP09" mdate="2021-02-17">
+<author pid="l/DanLin">Dan Lin 0001</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Location Privacy in Moving-Object Environments.</title>
+<pages>21-46</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Trans. Data Priv.</journal>
+<number>1</number>
+<ee type="oa">http://www.tdp.cat/issues/abs.a019a09.php</ee>
+<url>db/journals/tdp/tdp2.html#LinBCP09</url>
+</article>
+</r>
+<r><article key="journals/vldb/ChenCMC09" mdate="2017-06-14">
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<title>Scalable processing of snapshot and continuous nearest-neighbor queries over one-dimensional uncertain data.</title>
+<pages>1219-1240</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-009-0152-3</ee>
+<url>db/journals/vldb/vldb18.html#ChenCMC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ChengCCX09" mdate="2018-11-14">
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-8257-5806" pid="c/LeiChen0002">Lei Chen 0002</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="64/1308">Xike Xie</author>
+<title>Evaluating probability threshold k-nearest-neighbor queries over uncertain data.</title>
+<pages>672-683</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516438</ee>
+<ee>https://www.wikidata.org/entity/Q57944202</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#ChengCCX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/RenLCKCC09" mdate="2020-09-05">
+<author orcid="0000-0003-2827-8322" pid="24/117">Jiangtao Ren</author>
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="66/7788">Xianlu Chen</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="c/DWLCheung">David Wai-Lok Cheung</author>
+<title>Naive Bayes Classification of Uncertain Data.</title>
+<pages>944-949</pages>
+<year>2009</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2009.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2009.90</ee>
+<crossref>conf/icdm/2009</crossref>
+<url>db/conf/icdm/icdm2009.html#RenLCKCC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/quacon/Cheng09" mdate="2017-05-21">
+<author pid="89/2619">Reynold Cheng</author>
+<title>Querying and Cleaning Uncertain Data.</title>
+<pages>41-52</pages>
+<year>2009</year>
+<booktitle>QuaCon</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04559-2_4</ee>
+<crossref>conf/quacon/2009</crossref>
+<url>db/conf/quacon/quacon2009.html#Cheng09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/quacon/ChenCZJ09" mdate="2017-05-21">
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="90/7422">Yinuo Zhang</author>
+<author pid="54/711">Jian Jin</author>
+<title>A Probabilistic Filter Protocol for Continuous Queries.</title>
+<pages>88-97</pages>
+<year>2009</year>
+<booktitle>QuaCon</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04559-2_8</ee>
+<crossref>conf/quacon/2009</crossref>
+<url>db/conf/quacon/quacon2009.html#ChenCZJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangCPT09" mdate="2020-10-25">
+<author pid="93/4085">Zhenjie Zhang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author orcid="0000-0002-5125-855X" pid="t/AnthonyKHTung">Anthony K. H. Tung</author>
+<title>Minimizing the communication cost for continuous skyline maintenance.</title>
+<pages>495-508</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559898</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#ZhangCPT09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PrabhakarC09" mdate="2017-07-12">
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Data Uncertainty Management in Sensor Networks.</title>
+<pages>647-651</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_115</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#PrabhakarC09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/ChengC09" mdate="2017-07-12">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<title>Probabilistic Spatial Queries.</title>
+<pages>2160-2165</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_276</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#ChengC09</url>
+</incollection>
+</r>
+<r><article key="journals/ijhpcn/XiaCPLS08" mdate="2020-07-09">
+<author pid="55/6753">Yuni Xia</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="77/3317">Shan Lei</author>
+<author pid="75/3500">Rahul Shah</author>
+<title>Indexing continuously changing data with mean-variance tree.</title>
+<pages>263-272</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>Int. J. High Perform. Comput. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJHPCN.2008.022302</ee>
+<url>db/journals/ijhpcn/ijhpcn5.html#XiaCPLS08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChengCX08" mdate="2020-04-25">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="64/1308">Xike Xie</author>
+<title>Cleaning uncertain data with quality guarantees.</title>
+<pages>722-735</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453935.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453935</ee>
+<url>db/journals/pvldb/pvldb1.html#ChengCX08</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/LinBCP08" mdate="2018-11-06">
+<author pid="l/DanLin">Dan Lin 0001</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Position transformation: a location privacy protection method for moving objects.</title>
+<pages>62-71</pages>
+<year>2008</year>
+<booktitle>SPRINGL</booktitle>
+<ee>https://doi.org/10.1145/1503402.1503414</ee>
+<crossref>conf/gis/2008springl</crossref>
+<url>db/conf/gis/springl2008.html#LinBCP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengCMC08" mdate="2017-06-15">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<title>Probabilistic Verifiers: Evaluating Constrained Nearest-Neighbor Queries over Uncertain Data.</title>
+<pages>973-982</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497506</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497506</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#ChengCMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SinghMSPHNC08" mdate="2017-05-17">
+<author pid="s/SarvjeetSingh">Sarvjeet Singh</author>
+<author pid="42/2474">Chris Mayfield</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="h/SusanneSHambrusch">Susanne E. Hambrusch</author>
+<author pid="n/JenniferNeville">Jennifer Neville</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Database Support for Probabilistic Attributes and Tuples.</title>
+<pages>1053-1061</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497514</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497514</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#SinghMSPHNC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/ChenC08" mdate="2017-05-21">
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Quality-Aware Probing of Uncertain Data with Resource Constraints.</title>
+<pages>491-508</pages>
+<year>2008</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69497-7_31</ee>
+<crossref>conf/ssdbm/2008</crossref>
+<url>db/conf/ssdbm/ssdbm2008.html#ChenC08</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/Cheng08" mdate="2017-07-12">
+<author pid="89/2619">Reynold Cheng</author>
+<title>Spatial Data, Indexing Techniques.</title>
+<pages>1078-1086</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_1255</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#Cheng08</url>
+</incollection>
+</r>
+<r><article key="journals/is/ChengKP07" mdate="2017-05-20">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Evaluation of probabilistic queries over imprecise data in constantly-evolving environments.</title>
+<pages>104-130</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.is.2005.06.002</ee>
+<url>db/journals/is/is32.html#ChengKP07</url>
+</article>
+</r>
+<r><article key="journals/is/ChengLPL07" mdate="2017-06-06">
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="19/4107">BiYu Liang</author>
+<title>An efficient location update mechanism for continuous queries over moving objects.</title>
+<pages>593-620</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.is.2006.03.002</ee>
+<url>db/journals/is/is32.html#ChengLPL07</url>
+</article>
+</r>
+<r><article key="journals/rts/HanCCL07" mdate="2020-11-19">
+<author pid="80/806-2">Song Han 0002</author>
+<author pid="85/5250">Edward Chan</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<title>A statistics-based sensor selection scheme for continuous probabilistic queries in sensor networks.</title>
+<pages>33-58</pages>
+<year>2007</year>
+<volume>35</volume>
+<journal>Real Time Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11241-006-9000-3</ee>
+<url>db/journals/rts/rts35.html#HanCCL07</url>
+</article>
+</r>
+<r><article key="journals/tods/TaoXC07" mdate="2018-11-06">
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Range search on multidimensional uncertain data.</title>
+<pages>15</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1272743.1272745</ee>
+<url>db/journals/tods/tods32.html#TaoXC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChenC07" mdate="2017-05-17">
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Efficient Evaluation of Imprecise Location-Dependent Queries.</title>
+<pages>586-595</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367904</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367904</ee>
+<url>db/conf/icde/icde2007.html#ChenC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/LeeKC07" mdate="2017-05-26">
+<author pid="71/6044">Sau Dan Lee</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Reducing UK-Means to K-Means.</title>
+<pages>483-488</pages>
+<year>2007</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2007.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2007.40</ee>
+<crossref>conf/icdm/2007w</crossref>
+<url>db/conf/icdm/icdmw2007.html#LeeKC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/FarrellCR07" mdate="2017-05-21">
+<author pid="19/50">Tobias Farrell</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="r/KurtRothermel">Kurt Rothermel</author>
+<title>Energy-Efficient Monitoring of Mobile Objects with Uncertainty-Aware Tolerances.</title>
+<pages>129-140</pages>
+<year>2007</year>
+<crossref>conf/ideas/2007</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1109/IDEAS.2007.4318097</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IDEAS.2007.25</ee>
+<url>db/conf/ideas/ideas2007.html#FarrellCR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ChengSPSVX06" mdate="2018-11-06">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="s/SarvjeetSingh">Sarvjeet Singh</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<author pid="55/6753">Yuni Xia</author>
+<title>Efficient join processing over uncertain data.</title>
+<pages>738-747</pages>
+<year>2006</year>
+<crossref>conf/cikm/2006</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1183614.1183719</ee>
+<url>db/conf/cikm/cikm2006.html#ChengSPSVX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/NgaiKCCCY06" mdate="2019-09-25">
+<author pid="37/6270">Wang Kay Ngai</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="72/2398">Chun Kit Chui</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="25/1069">Michael Chau</author>
+<author orcid="0000-0001-5516-9944" pid="86/2270">Kevin Y. Yip</author>
+<title>Efficient Clustering of Uncertain Data.</title>
+<pages>436-445</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2006.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDM.2006.63</ee>
+<url>db/conf/icdm/icdm2006.html#NgaiKCCCY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/ChauCKN06" mdate="2017-05-25">
+<author pid="25/1069">Michael Chau</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="06/2752">Jackey Ng</author>
+<title>Uncertain Data Mining: An Example in Clustering Location Data.</title>
+<pages>199-204</pages>
+<year>2006</year>
+<crossref>conf/pakdd/2006</crossref>
+<booktitle>PAKDD</booktitle>
+<ee>https://doi.org/10.1007/11731139_24</ee>
+<url>db/conf/pakdd/pakdd2006.html#ChauCKN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pet/ChengZBP06" mdate="2017-05-23">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="50/671">Yu Zhang</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Preserving User Location Privacy in Mobile Data Management Infrastructures.</title>
+<pages>393-412</pages>
+<year>2006</year>
+<crossref>conf/pet/2006</crossref>
+<booktitle>Privacy Enhancing Technologies</booktitle>
+<ee>https://doi.org/10.1007/11957454_23</ee>
+<url>db/conf/pet/pet2006.html#ChengZBP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengXPS05" mdate="2017-05-17">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="55/6753">Yuni Xia</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="75/3500">Rahul Shah</author>
+<title>Change Tolerant Indexing for Constantly Evolving Data.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#ChengXPS05</url>
+<pages>391-402</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.32</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtcsa/HanCCL05" mdate="2020-11-19">
+<author pid="80/806-2">Song Han 0002</author>
+<author pid="85/5250">Edward Chan</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<title>A Statistics-Based Sensor Selection Scheme for Continuous Probabilistic Queries in Sensor Networks.</title>
+<pages>331-336</pages>
+<year>2005</year>
+<crossref>conf/rtcsa/2005</crossref>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2005.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RTCSA.2005.15</ee>
+<url>db/conf/rtcsa/rtcsa2005.html#HanCCL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/XiaPLCS05" mdate="2018-11-06">
+<author pid="55/6753">Yuni Xia</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="77/3317">Shan Lei</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="75/3500">Rahul Shah</author>
+<title>Indexing continuously changing data with mean-variance tree.</title>
+<pages>1125-1132</pages>
+<year>2005</year>
+<crossref>conf/sac/2005</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1066677.1066932</ee>
+<url>db/conf/sac/sac2005.html#XiaPLCS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChengKPKT05" mdate="2020-03-12">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="08/6245">Alan Kwan</author>
+<author pid="t/YiChengTu">Yi-Cheng Tu</author>
+<title>Adaptive Stream Filters for Entity-based Queries with Non-Value Tolerance.</title>
+<pages>37-48</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p37-cheng.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083600</ee>
+<url>db/conf/vldb/vldb2005.html#ChengKPKT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TaoCXNKP05" mdate="2020-03-12">
+<author pid="t/YufeiTao">Yufei Tao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<author pid="37/6270">Wang Kay Ngai</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Indexing Multi-Dimensional Uncertain Data with Arbitrary Probability Density Functions.</title>
+<pages>922-933</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/fri/p922-tao.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083699</ee>
+<url>db/conf/vldb/vldb2005.html#TaoCXNKP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChengSP05" mdate="2020-03-12">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="s/SarvjeetSingh">Sarvjeet Singh</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>U-DBMS: A Database System for Managing Constantly-Evolving Data.</title>
+<pages>1271-1274</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1271-cheng.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083747</ee>
+<url>db/conf/vldb/vldb2005.html#ChengSP05</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="books/idea/encyclopediaDB2005/ChengP05" mdate="2019-06-27">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Sensors, Uncertainty Models, and Probabilistic Queries.</title>
+<pages>613-618</pages>
+<year>2005</year>
+<crossref>books/idea/EncyDB05</crossref>
+<booktitle>Encyclopedia of Database Technologies and Applications</booktitle>
+<url>db/books/collections/encyclopediaDB2005.html#ChengP05</url>
+<ee>https://doi.org/10.4018/978-1-59140-560-3.ch101</ee>
+</incollection>
+</r>
+<r><article key="journals/tkde/ChengKP04" mdate="2017-05-20">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Querying Imprecise Data in Moving Object Environments.</title>
+<pages>1112-1127</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2004.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.46</ee>
+<url>db/journals/tkde/tkde16.html#ChengKP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/ChengXPSV04" mdate="2019-06-07">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="55/6753">Yuni Xia</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="75/3500">Rahul Shah</author>
+<author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author>
+<title>Efficient Indexing Methods for Probabilistic Threshold Queries over Uncertain Data.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#ChengXPSV04</url>
+<pages>876-887</pages>
+<ee>http://www.vldb.org/conf/2004/RS22P2.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50077-2</ee>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/ChengP03" mdate="2020-03-06">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Managing uncertainty in sensor database.</title>
+<pages>41-46</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/959060.959068</ee>
+<url>db/journals/sigmod/sigmod32.html#ChengP03</url>
+</article>
+</r>
+<r><article key="journals/tc/KaoLACL03" mdate="2017-06-08">
+<author pid="k/BenKao">Ben Kao</author>
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<author pid="40/3607">Brad Adelberg</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="53/1657">Tony S. H. Lee</author>
+<title>Maintaining Temporal Consistency of Discrete Objects in Soft Real-Time Database Systems.</title>
+<pages>373-389</pages>
+<year>2003</year>
+<volume>52</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TC.2003.1183951</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2003.1183951</ee>
+<url>db/journals/tc/tc52.html#KaoLACL03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChengPK03" mdate="2017-05-17">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<title>Querying Imprecise Data in Moving Object Environments.</title>
+<pages>723-725</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260848</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260848</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#ChengPK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChengKP03" mdate="2018-11-06">
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<author pid="p/SunilPrabhakar">Sunil Prabhakar</author>
+<title>Evaluating Probabilistic Queries over Imprecise Data.</title>
+<pages>551-562</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#ChengKP03</url>
+<ee>https://doi.org/10.1145/872757.872823</ee>
+</inproceedings>
+</r>
+<r><article key="journals/is/LamKKLC02" mdate="2017-06-06">
+<author orcid="0000-0003-0673-3566" pid="13/5771">Kam-yiu Lam</author>
+<author orcid="0000-0003-1974-0394" pid="07/3181">Tei-Wei Kuo</author>
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="53/1657">Tony S. H. Lee</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Evaluation of concurrency control strategies for mixed soft real-time database systems.</title>
+<pages>123-149</pages>
+<year>2002</year>
+<volume>27</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<url>db/journals/is/is27.html#LamKKLC02</url>
+<ee>https://doi.org/10.1016/S0306-4379(01)00045-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/rtdb/KaoC01" mdate="2019-07-27">
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="89/2619">Reynold Cheng</author>
+<title>Disk Scheduling.</title>
+<pages>97-107</pages>
+<year>2001</year>
+<crossref>conf/rtdb/2001</crossref>
+<booktitle>Real-Time Database Systems</booktitle>
+<url>db/conf/rtdb/rtdb2001.html#KaoC01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KaoLACL99" mdate="2018-11-06">
+<author pid="k/BenKao">Ben Kao</author>
+<author pid="13/5771">Kam-yiu Lam</author>
+<author pid="40/3607">Brad Adelberg</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="53/1657">Tony S. H. Lee</author>
+<title>Updates and View Maintenance in Soft Real-Time Database Systems.</title>
+<pages>300-307</pages>
+<cdrom>CIKM1999/P300.pdf</cdrom>
+<year>1999</year>
+<crossref>conf/cikm/99</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/319950.320020</ee>
+<url>db/conf/cikm/cikm99.html#KaoLACL99</url>
+</inproceedings>
+</r>
+<coauthors n="198" nc="2">
+<co c="0"><na f="a/Adelberg:Brad" pid="40/3607">Brad Adelberg</na></co>
+<co c="0"><na f="b/Bao:Zhifeng" pid="20/3716">Zhifeng Bao</na></co>
+<co c="0"><na f="b/Bernecker:Thomas" pid="64/2434">Thomas Bernecker</na></co>
+<co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
+<co c="0"><na f="b/Bi:Bin" pid="28/3252">Bin Bi</na></co>
+<co c="0"><na f="b/Bifet:Albert" pid="48/1070">Albert Bifet</na></co>
+<co c="0"><na f="b/Bressan:St=eacute=phane" pid="b/SBressan">St&#233;phane Bressan</na></co>
+<co c="0"><na f="b/Budiman:Lukito" pid="228/6028">Lukito Budiman</na></co>
+<co c="0"><na f="c/Cai:Ruichu" pid="09/6889">Ruichu Cai</na></co>
+<co c="0"><na f="c/Cai:Yilun" pid="137/6640">Yilun Cai</na></co>
+<co c="0"><na f="c/Cao:Hongtai" pid="276/5053">Hongtai Cao</na></co>
+<co c="0"><na f="c/Cautis:Bogdan" pid="05/6939">Bogdan Cautis</na></co>
+<co c="0"><na f="c/Chan:Edward" pid="85/5250">Edward Chan</na></co>
+<co c="0"><na f="c/Chan:Tsz_Nam" pid="166/7652">Tsz Nam Chan</na></co>
+<co c="0"><na f="c/Chang:Kevin_Chen=Chuan" pid="c/KCCChang">Kevin Chen-Chuan Chang</na></co>
+<co c="0"><na f="c/Chau:Michael" pid="25/1069">Michael Chau</na></co>
+<co c="0"><na f="c/Chen:Jinchuan" pid="25/1610">Jinchuan Chen</na></co>
+<co c="0"><na f="c/Chen_0002:Lei" pid="c/LeiChen0002">Lei Chen 0002</na></co>
+<co c="0"><na f="c/Chen:Xianlu" pid="66/7788">Xianlu Chen</na></co>
+<co c="0"><na f="c/Chen_0006:Xiaojun" pid="20/3215-6">Xiaojun Chen 0006</na></co>
+<co c="0"><na f="c/Chen:Yankai" pid="96/5327">Yankai Chen</na></co>
+<co c="0"><na f="c/Chen:Yongxi" pid="281/4903">Yongxi Chen</na></co>
+<co c="0"><na f="c/Cheng:Jiefeng" pid="60/3935">Jiefeng Cheng</na></co>
+<co c="0"><na f="c/Cheung:Anne_S=_Y=" pid="273/6683">Anne S. Y. Cheung</na></co>
+<co c="0" n="2"><na f="c/Cheung:David_Wai=Lok" pid="c/DWLCheung">David Wai-Lok Cheung</na><na>David W. Cheung</na></co>
+<co c="0"><na f="c/Cheung:Michael_M=_K=" pid="281/4649">Michael M. K. Cheung</na></co>
+<co c="0"><na f="c/Chow:Chi=Yin" pid="77/6228">Chi-Yin Chow</na></co>
+<co c="0"><na f="c/Chui:Chun_Kit" pid="72/2398">Chun Kit Chui</na></co>
+<co c="0"><na f="c/Cong:Gao" pid="33/3180">Gao Cong</na></co>
+<co c="0"><na f="c/Cui_0001:Bin" pid="55/5031">Bin Cui 0001</na></co>
+<co c="0"><na f="d/Dai:Chengcheng" pid="180/4998">Chengcheng Dai</na></co>
+<co c="0"><na f="d/Do:Loc" pid="83/11078">Loc Do</na></co>
+<co c="0"><na f="e/Emrich:Tobias" pid="79/7126">Tobias Emrich</na></co>
+<co c="0"><na f="f/Fan:Ju" pid="78/4413">Ju Fan</na></co>
+<co c="0"><na f="f/Fang:Yixiang" pid="76/1735">Yixiang Fang</na></co>
+<co c="1"><na f="f/Farrell:Tobias" pid="19/50">Tobias Farrell</na></co>
+<co c="0"><na f="f/Feng:Jianhua" pid="43/6576">Jianhua Feng</na></co>
+<co c="0"><na f="f/Feng:Ziqiang" pid="02/5202">Ziqiang Feng</na></co>
+<co c="0"><na f="g/Gao:Xiaofeng" pid="95/6947">Xiaofeng Gao</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Gong:Jian" pid="67/3825">Jian Gong</na></co>
+<co c="0"><na f="g/Grubenmann:Tobias" pid="183/0983">Tobias Grubenmann</na></co>
+<co c="0"><na f="g/Guan:Haibing" pid="96/5680">Haibing Guan</na></co>
+<co c="0"><na f="g/Guo:Minyi" pid="99/6797">Minyi Guo</na></co>
+<co c="0"><na f="h/Hambrusch:Susanne_E=" pid="h/SusanneSHambrusch">Susanne E. Hambrusch</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Han_0002:Song" pid="80/806-2">Song Han 0002</na></co>
+<co c="0"><na f="h/Han:Xiaolin" pid="57/10423">Xiaolin Han</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0"><na f="h/He:Dan" pid="77/2036">Dan He</na></co>
+<co c="0"><na f="h/He:Zhian" pid="116/5147">Zhian He</na></co>
+<co c="0"><na f="h/Hu:Huiqi" pid="137/1395">Huiqi Hu</na></co>
+<co c="0"><na f="h/Hu:Jiafeng" pid="120/1593">Jiafeng Hu</na></co>
+<co c="0"><na f="h/Hua:Wen" pid="68/11145">Wen Hua</na></co>
+<co c="0"><na f="h/Huang:Kai" pid="86/489">Kai Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Xin" pid="98/5766-1">Xin Huang 0001</na></co>
+<co c="0"><na f="h/Huang_0001:Zhipeng" pid="34/10063">Zhipeng Huang 0001</na></co>
+<co c="0"><na f="i/Ibrahim:Shadi" pid="00/981">Shadi Ibrahim</na></co>
+<co c="0"><na f="j/Jin:Beihong" pid="75/1099">Beihong Jin</na></co>
+<co c="0"><na f="j/Jin:Jian" pid="54/711">Jian Jin</na></co>
+<co c="0"><na f="j/Jin:Yifan" pid="30/9582">Yifan Jin</na></co>
+<co c="0"><na f="k/Kalashnikov:Dmitri_V=" pid="k/DVKalashnikov">Dmitri V. Kalashnikov</na></co>
+<co c="0" n="2"><na f="k/Kao:Ben" pid="k/BenKao">Ben Kao</na><na>Benjamin C. M. Kao</na></co>
+<co c="0"><na f="k/Kriegel:Hans=Peter" pid="k/HansPeterKriegel">Hans-Peter Kriegel</na></co>
+<co c="0"><na f="k/Kuo:Tei=Wei" pid="07/3181">Tei-Wei Kuo</na></co>
+<co c="0"><na f="k/Kwan:Alan" pid="08/6245">Alan Kwan</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lam:Brian_Y=_H=" pid="164/9028">Brian Y. H. Lam</na></co>
+<co c="0"><na f="l/Lam:Kam=yiu" pid="13/5771">Kam-yiu Lam</na></co>
+<co c="0"><na f="l/Lee:Sau_Dan" pid="71/6044">Sau Dan Lee</na></co>
+<co c="0"><na f="l/Lee:Tony_S=_H=" pid="53/1657">Tony S. H. Lee</na></co>
+<co c="0"><na f="l/Lei:Shan" pid="77/3317">Shan Lei</na></co>
+<co c="0"><na f="l/Lei:Siyu" pid="02/8578">Siyu Lei</na></co>
+<co c="0"><na f="l/Li:Boxuan" pid="217/3887">Boxuan Li</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0"><na f="l/Li:Ruirui" pid="12/8221">Ruirui Li</na></co>
+<co c="0"><na f="l/Li_0067:Xiang" pid="40/1491-67">Xiang Li 0067</na></co>
+<co c="0"><na f="l/Li_0009:Xiaodong" pid="50/3993-9">Xiaodong Li 0009</na></co>
+<co c="0"><na f="l/Li:Yuanbing" pid="193/1562">Yuanbing Li</na></co>
+<co c="0"><na f="l/Li:Yun" pid="87/6284">Yun Li</na></co>
+<co c="0"><na f="l/Li:Zhenguo" pid="23/6479">Zhenguo Li</na></co>
+<co c="0"><na f="l/Liang:BiYu" pid="19/4107">BiYu Liang</na></co>
+<co c="0"><na f="l/Lin_0001:Dan" pid="l/DanLin">Dan Lin 0001</na></co>
+<co c="0"><na f="l/Lin_0001:Xuemin" pid="l/LinXuemin">Xuemin Lin 0001</na></co>
+<co c="0"><na f="l/Liu:Qin" pid="06/2123">Qin Liu</na></co>
+<co c="0"><na f="l/Lo_0001:Eric" pid="80/2320">Eric Lo 0001</na></co>
+<co c="0"><na f="l/Lu_0001:Hua" pid="l/HuaLu">Hua Lu 0001</na></co>
+<co c="0"><na f="l/Lui:John_C=_S=" pid="l/JohnCSLui">John C. S. Lui</na></co>
+<co c="0"><na f="l/Luk:Ming=Hay" pid="38/7537">Ming-Hay Luk</na></co>
+<co c="0"><na f="l/Luo:Ruibang" pid="55/11133">Ruibang Luo</na></co>
+<co c="0"><na f="l/Luo:Siqiang" pid="117/5965">Siqiang Luo</na></co>
+<co c="0"><na f="m/Ma:Chenhao" pid="251/5251">Chenhao Ma</na></co>
+<co c="0"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/Maniu:Silviu" pid="91/9376">Silviu Maniu</na></co>
+<co c="0"><na f="m/Mayfield:Chris" pid="42/2474">Chris Mayfield</na></co>
+<co c="0"><na f="m/Meng:Changping" pid="162/8996">Changping Meng</na></co>
+<co c="0"><na f="m/Mo:Luyi" pid="131/4815">Luyi Mo</na></co>
+<co c="0"><na f="m/Mokbel:Mohamed_F=" pid="94/5893">Mohamed F. Mokbel</na></co>
+<co c="0"><na f="n/Najafi:Matin" pid="276/5051">Matin Najafi</na></co>
+<co c="0"><na f="n/Nascimento:Mario_A=" pid="n/MarioANascimento">Mario A. Nascimento</na></co>
+<co c="0"><na f="n/Neville:Jennifer" pid="n/JenniferNeville">Jennifer Neville</na></co>
+<co c="0"><na f="n/Ng:Eddie" pid="204/2335">Eddie Ng</na></co>
+<co c="0"><na f="n/Ng:Jackey" pid="06/2752">Jackey Ng</na></co>
+<co c="0"><na f="n/Ngai:Wang_Kay" pid="37/6270">Wang Kay Ngai</na></co>
+<co c="0"><na f="n/Nutanong:Sarana" pid="32/1518">Sarana Nutanong</na></co>
+<co c="0"><na f="o/Ou:Min" pid="173/1958">Min Ou</na></co>
+<co c="0"><na f="p/Papadias:Dimitris" pid="p/DimitrisPapadias">Dimitris Papadias</na></co>
+<co c="0"><na f="p/Poon:Chung_Keung" pid="67/3327">Chung Keung Poon</na></co>
+<co c="0"><na f="p/Prabhakar:Sunil" pid="p/SunilPrabhakar">Sunil Prabhakar</na></co>
+<co c="0"><na f="q/Qi:Yiyan" pid="209/8128">Yiyan Qi</na></co>
+<co c="0"><na f="q/Qian:Yuqiu" pid="147/1552">Yuqiu Qian</na></co>
+<co c="0"><na f="q/Qin:Lu" pid="51/5585">Lu Qin</na></co>
+<co c="0"><na f="r/Ren:Chenghui" pid="50/10355">Chenghui Ren</na></co>
+<co c="0"><na f="r/Ren:Jiangtao" pid="24/117">Jiangtao Ren</na></co>
+<co c="0"><na f="r/Renz:Matthias" pid="r/MatthiasRenz">Matthias Renz</na></co>
+<co c="1"><na f="r/Rothermel:Kurt" pid="r/KurtRothermel">Kurt Rothermel</na></co>
+<co c="0"><na f="s/Sander_0001:J=ouml=rg" pid="s/JorgSander">J&#246;rg Sander 0001</na></co>
+<co c="0"><na f="s/Sankar:Aravind" pid="175/5341">Aravind Sankar</na></co>
+<co c="0"><na f="s/Sarma:Anish_Das" pid="59/589">Anish Das Sarma</na></co>
+<co c="0"><na f="s/Schmid:Klaus_Arthur" pid="151/3112">Klaus Arthur Schmid</na></co>
+<co c="0"><na f="s/Schulte:Oliver" pid="s/OliverSchulte">Oliver Schulte</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Senellart:Pierre" pid="12/225">Pierre Senellart</na></co>
+<co c="0"><na f="s/Sengstock:Christian" pid="96/9320">Christian Sengstock</na></co>
+<co c="0"><na f="s/Shah:Rahul" pid="75/3500">Rahul Shah</na></co>
+<co c="0"><na f="s/Shan:Caihua" pid="193/1652">Caihua Shan</na></co>
+<co c="0"><na f="s/Singh:Sarvjeet" pid="s/SarvjeetSingh">Sarvjeet Singh</na></co>
+<co c="0"><na f="s/Sun:Haiqi" pid="158/2276">Haiqi Sun</na></co>
+<co c="0"><na f="s/Sun:Liwen" pid="31/7993">Liwen Sun</na></co>
+<co c="0"><na f="s/Sun:Wenya" pid="218/7310">Wenya Sun</na></co>
+<co c="0"><na f="s/Sun:Yizhou" pid="37/3868">Yizhou Sun</na></co>
+<co c="0"><na f="s/Sun:Yuqing" pid="58/5011">Yuqing Sun</na></co>
+<co c="0"><na f="t/Tang:Ruiming" pid="24/10003">Ruiming Tang</na></co>
+<co c="0"><na f="t/Tang:Wenbin" pid="47/9075">Wenbin Tang</na></co>
+<co c="0"><na f="t/Tang_0001:Yu" pid="60/1152-1">Yu Tang 0001</na></co>
+<co c="0"><na f="t/Tao:Yufei" pid="t/YufeiTao">Yufei Tao</na></co>
+<co c="0"><na f="t/Trajcevski:Goce" pid="66/974">Goce Trajcevski</na></co>
+<co c="0"><na f="t/Tu:Yi=Cheng" pid="t/YiChengTu">Yi-Cheng Tu</na></co>
+<co c="0"><na f="t/Tung:Anthony_K=_H=" pid="t/AnthonyKHTung">Anthony K. H. Tung</na></co>
+<co c="0"><na f="u/U:Leong_Hou" pid="38/4996">Leong Hou U</na></co>
+<co c="0"><na f="v/Verhein:Florian" pid="19/3772">Florian Verhein</na></co>
+<co c="0"><na f="v/Vitter:Jeffrey_Scott" pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</na></co>
+<co c="0"><na f="w/Wang:Chen" pid="82/4206">Chen Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Hongzhi" pid="81/940">Hongzhi Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Jiannan" pid="39/7183">Jiannan Wang</na></co>
+<co c="0"><na f="w/Wang:Jikun" pid="205/0858">Jikun Wang</na></co>
+<co c="0"><na f="w/Wang:Liang" pid="56/4499">Liang Wang</na></co>
+<co c="0"><na f="w/Wang:Pinghui" pid="84/7882">Pinghui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Sibo" pid="131/6529-1">Sibo Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Zheng" pid="181/2834">Zheng Wang</na></co>
+<co c="0"><na f="w/Wang:Zhi=Jie" pid="26/11197">Zhi-Jie Wang</na></co>
+<co c="0"><na f="w/Wang:Zhongran" pid="242/5164">Zhongran Wang</na></co>
+<co c="0"><na f="w/Wong:Ka_Yu" pid="204/2325">Ka Yu Wong</na></co>
+<co c="0"><na f="w/Wong:Petrie" pid="131/4190">Petrie Wong</na></co>
+<co c="0"><na f="w/Wong:Sze_Chun" pid="52/7279">Sze Chun Wong</na></co>
+<co c="0"><na f="w/Wu_0001:Dingming" pid="81/6181">Dingming Wu 0001</na></co>
+<co c="0"><na f="w/Wu_0001:Huayu" pid="99/4453">Huayu Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Tien=Hsuan" pid="228/2551">Tien-Hsuan Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Xiaowei" pid="70/4432-1">Xiaowei Wu 0001</na></co>
+<co c="0"><na f="x/Xia:Yuni" pid="55/6753">Yuni Xia</na></co>
+<co c="0"><na f="x/Xiao:Xiaokui" pid="33/1903">Xiaokui Xiao</na></co>
+<co c="0"><na f="x/Xiao:Yao" pid="39/9577">Yao Xiao</na></co>
+<co c="0"><na f="x/Xie:Xiaoqin" pid="90/1767">Xiaoqin Xie</na></co>
+<co c="0"><na f="x/Xie:Xike" pid="64/1308">Xike Xie</na></co>
+<co c="0"><na f="x/Xu:Haoran" pid="140/8357">Haoran Xu</na></co>
+<co c="0"><na f="x/Xu_0005:Jia" pid="95/3616-5">Jia Xu 0005</na></co>
+<co c="0"><na f="x/Xu:Yong" pid="07/4630">Yong Xu</na></co>
+<co c="0"><na f="y/Yan:Jing" pid="87/5735">Jing Yan</na></co>
+<co c="0"><na f="y/Yan:Jing_Nathan" pid="236/5688">Jing Nathan Yan</na></co>
+<co c="0"><na f="y/Yang:Xuan_S=" pid="120/4364">Xuan S. Yang</na></co>
+<co c="0"><na f="y/Yao_0002:Bin" pid="86/508-2">Bin Yao 0002</na></co>
+<co c="0"><na f="y/Yip:Kevin_Y=" pid="86/2270">Kevin Y. Yip</na></co>
+<co c="0"><na f="y/Yiu:Man_Lung" pid="23/282">Man Lung Yiu</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="y/Yu:Kaiqiang" pid="242/8477">Kaiqiang Yu</na></co>
+<co c="0"><na f="y/Yuan:Guowen" pid="204/2946">Guowen Yuan</na></co>
+<co c="0"><na f="z/Zhang:Haoci" pid="192/4557">Haoci Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Mohan" pid="218/0654">Mohan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Peiwu" pid="66/4975">Peiwu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wangda" pid="124/6700">Wangda Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Wenjie" pid="98/5684-1">Wenjie Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Xiaofeng" pid="61/3976">Xiaofeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Ying" pid="13/6769-1">Ying Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Yinuo" pid="90/7422">Yinuo Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yu" pid="50/671">Yu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhenjie" pid="93/4085">Zhenjie Zhang</na></co>
+<co c="0"><na f="z/Zhang_0010:Zhiqiang" pid="67/2010-10">Zhiqiang Zhang 0010</na></co>
+<co c="0"><na f="z/Zheng:Yu" pid="87/1585">Yu Zheng</na></co>
+<co c="0"><na f="z/Zheng:Yudian" pid="160/1053">Yudian Zheng</na></co>
+<co c="0"><na f="z/Zhou:Amelie_Chi" pid="131/6619">Amelie Chi Zhou</na></co>
+<co c="0"><na f="z/Zhou:Shuigeng" pid="52/6744">Shuigeng Zhou</na></co>
+<co c="0"><na f="z/Zhou_0001:Xiaofang" pid="z/XiaofangZhou">Xiaofang Zhou 0001</na></co>
+<co c="0"><na f="z/Zhu:Chun_Jiang" pid="123/7707">Chun Jiang Zhu</na></co>
+<co c="0"><na f="z/Zhu:Xinjie" pid="59/10355">Xinjie Zhu</na></co>
+<co c="0"><na f="z/Zhu:Zichen" pid="149/1342">Zichen Zhu</na></co>
+<co c="0"><na f="z/Zou:Lei" pid="81/3390">Lei Zou</na></co>
+<co c="0"><na f="z/Z=uuml=fle:Andreas" pid="18/2478">Andreas Z&#252;fle</na></co>
+</coauthors>
+</dblpperson>
+

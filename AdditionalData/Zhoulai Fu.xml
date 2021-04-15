@@ -1,3 +1,191 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:244321a783eb12610172c92e199573687b11f2964e7431896aecb18eb3f385e4
-size 8232
+<?xml version="1.0"?>
+<dblpperson name="Zhoulai Fu" pid="139/5447" n="13">
+<person key="homepages/139/5447" mdate="2014-01-13">
+<author pid="139/5447">Zhoulai Fu</author>
+</person>
+<r><article key="journals/pacmpl/ZouZXFZS20" mdate="2021-02-17">
+<author pid="167/0212">Daming Zou</author>
+<author pid="202/2475">Muhan Zeng</author>
+<author pid="82/2673">Yingfei Xiong 0001</author>
+<author orcid="0000-0003-2073-0564" pid="139/5447">Zhoulai Fu</author>
+<author pid="z/LuZhang1">Lu Zhang 0023</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Detecting floating-point errors via atomic conditions.</title>
+<pages>60:1-60:27</pages>
+<year>2020</year>
+<volume>4</volume>
+<number>POPL</number>
+<journal>Proc. ACM Program. Lang.</journal>
+<ee type="oa">https://doi.org/10.1145/3371128</ee>
+<url>db/journals/pacmpl/pacmpl4.html#ZouZXFZS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/Fischer-Nielsen20" mdate="2020-12-11">
+<author pid="274/7796">Anders Fischer-Nielsen</author>
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="18/3339">Andrzej Wasowski</author>
+<title>The forgotten case of the dependency bugs: on the example of the robot operating system.</title>
+<pages>21-30</pages>
+<year>2020</year>
+<booktitle>ICSE (SEIP)</booktitle>
+<ee>https://doi.org/10.1145/3377813.3381364</ee>
+<ee>https://ieeexplore.ieee.org/document/9276573</ee>
+<crossref>conf/icse/2020seip</crossref>
+<url>db/conf/icse/seip2020.html#Fischer-Nielsen20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/FuS19" mdate="2020-10-25">
+<author orcid="0000-0003-2073-0564" pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Effective floating-point analysis via weak-distance minimization.</title>
+<pages>439-452</pages>
+<year>2019</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3314221.3314632</ee>
+<crossref>conf/pldi/2019</crossref>
+<url>db/conf/pldi/pldi2019.html#FuS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-10431" mdate="2021-01-07">
+<author pid="42/6896">Ting Su</author>
+<author pid="01/7515-1">Chengyu Zhang 0001</author>
+<author pid="215/5364">Yichen Yan</author>
+<author pid="11/2636">Lingling Fan</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Towards Efficient Data-flow Test Data Generation.</title>
+<year>2018</year>
+<volume>abs/1803.10431</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.10431</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-10431</url>
+</article>
+</r>
+<r><inproceedings key="conf/pldi/FuS17" mdate="2018-11-06">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Achieving high coverage for floating-point code via unconstrained programming.</title>
+<pages>306-319</pages>
+<year>2017</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3062341.3062383</ee>
+<crossref>conf/pldi/2017</crossref>
+<url>db/conf/pldi/pldi2017.html#FuS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FuS17" mdate="2018-08-13">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Achieving High Coverage for Floating-point Code via Unconstrained Programming (Extended Version).</title>
+<year>2017</year>
+<volume>abs/1704.03394</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.03394</ee>
+<url>db/journals/corr/corr1704.html#FuS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/FuS16" mdate="2017-05-25">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>XSat: A Fast Floating-Point Satisfiability Solver.</title>
+<pages>187-209</pages>
+<year>2016</year>
+<booktitle>CAV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41540-6_11</ee>
+<crossref>conf/cav/2016-2</crossref>
+<url>db/conf/cav/cav2016-2.html#FuS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FuS16a" mdate="2018-08-13">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Mathematical Execution: A Unified Approach for Testing Numerical Code.</title>
+<year>2016</year>
+<volume>abs/1610.01133</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.01133</ee>
+<url>db/journals/corr/corr1610.html#FuS16a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/SuFPHS15" mdate="2017-05-23">
+<author pid="42/6896">Ting Su</author>
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="66/3868">Jifeng He</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Combining Symbolic Execution and Model Checking for Data Flow Testing.</title>
+<pages>654-665</pages>
+<year>2015</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2015.81</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2818834</ee>
+<crossref>conf/icse/2015-1</crossref>
+<url>db/conf/icse/icse2015-1.html#SuFPHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/FuBS15" mdate="2018-11-06">
+<author pid="139/5447">Zhoulai Fu</author>
+<author pid="08/2673">Zhaojun Bai</author>
+<author pid="s/ZhendongSu">Zhendong Su</author>
+<title>Automated backward error analysis for numerical code.</title>
+<pages>639-654</pages>
+<year>2015</year>
+<booktitle>OOPSLA</booktitle>
+<ee>https://doi.org/10.1145/2814270.2814317</ee>
+<crossref>conf/oopsla/2015</crossref>
+<url>db/conf/oopsla/oopsla2015.html#FuBS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/Fu14" mdate="2018-06-26">
+<author pid="139/5447">Zhoulai Fu</author>
+<title>Targeted Update - Aggressive Memory Abstraction Beyond Common Sense and Its Application on Static Numeric Analysis.</title>
+<pages>534-553</pages>
+<year>2014</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54833-8_28</ee>
+<crossref>conf/esop/2014</crossref>
+<url>db/conf/esop/esop2014.html#Fu14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/Fu14" mdate="2017-05-24">
+<author pid="139/5447">Zhoulai Fu</author>
+<title>Modularly Combining Numeric Abstract Domains with Points-to Analysis, and a Scalable Static Numeric Analyzer for Java.</title>
+<pages>282-301</pages>
+<year>2014</year>
+<booktitle>VMCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-54013-4_16</ee>
+<crossref>conf/vmcai/2014</crossref>
+<url>db/conf/vmcai/vmcai2014.html#Fu14</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Fu13" mdate="2020-07-21">
+<author pid="139/5447">Zhoulai Fu</author>
+<title>Static analysis of numerical properties in the presence of pointers. (Analyse statique de propri&#233;t&#233;s num&#233;riques en pr&#233;sence de pointeurs).</title>
+<year>2013</year>
+<school>University of Rennes 1, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00918593</ee>
+</phdthesis>
+</r>
+<coauthors n="15" nc="1">
+<co c="0"><na f="b/Bai:Zhaojun" pid="08/2673">Zhaojun Bai</na></co>
+<co c="0"><na f="f/Fan:Lingling" pid="11/2636">Lingling Fan</na></co>
+<co c="0"><na f="f/Fischer=Nielsen:Anders" pid="274/7796">Anders Fischer-Nielsen</na></co>
+<co c="0"><na f="h/He:Jifeng" pid="66/3868">Jifeng He</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="p/Pu:Geguang" pid="33/1678">Geguang Pu</na></co>
+<co c="0"><na f="s/Su:Ting" pid="42/6896">Ting Su</na></co>
+<co c="0"><na f="s/Su:Zhendong" pid="s/ZhendongSu">Zhendong Su</na></co>
+<co c="0"><na f="w/Wasowski:Andrzej" pid="18/3339">Andrzej Wasowski</na></co>
+<co c="0"><na f="x/Xiong_0001:Yingfei" pid="82/2673">Yingfei Xiong 0001</na></co>
+<co c="0"><na f="y/Yan:Yichen" pid="215/5364">Yichen Yan</na></co>
+<co c="0"><na f="z/Zeng:Muhan" pid="202/2475">Muhan Zeng</na></co>
+<co c="0"><na f="z/Zhang_0001:Chengyu" pid="01/7515-1">Chengyu Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0023:Lu" pid="z/LuZhang1">Lu Zhang 0023</na></co>
+<co c="0"><na f="z/Zou:Daming" pid="167/0212">Daming Zou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,2794 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47bdbfbe7415d507035f7ed3fd6ef9a26a4b821043e39afeb717c5eddef51709
-size 118130
+<?xml version="1.0"?>
+<dblpperson name="Ulrich Neumann" pid="52/4897" n="187">
+<person key="homepages/52/4897" mdate="2016-11-07">
+<author pid="52/4897">Ulrich Neumann</author>
+<note type="affiliation">University of Southern California, Los Angeles, USA</note>
+</person>
+<r><inproceedings key="conf/accv/ZhongYN20" mdate="2021-03-02">
+<author pid="243/3355">Yiqi Zhong</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Modeling Cross-Modal Interaction in a Multi-detector, Multi-modal Tracking Framework.</title>
+<pages>683-699</pages>
+<year>2020</year>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69532-3_41</ee>
+<crossref>conf/accv/2020-2</crossref>
+<url>db/conf/accv/accv2020-2.html#ZhongYN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Xu0WWN20" mdate="2020-08-11">
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="61/9265-5">Xudong Sun 0005</author>
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="133/8378">Panqu Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Grid-GCN for Fast and Scalable Point Cloud Learning.</title>
+<pages>5660-5669</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00570</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#Xu0WWN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/XuZWBN20" mdate="2020-05-18">
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="12/5558">Peter N. Belhumeur</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Stochastic Dynamics for Video Infilling.</title>
+<pages>2703-2712</pages>
+<year>2020</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV45572.2020.9093530</ee>
+<crossref>conf/wacv/2020</crossref>
+<url>db/conf/wacv/wacv2020.html#XuZWBN20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-06945" mdate="2020-03-24">
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Scene Completeness-Aware Lidar Depth Completion for Driving Scenario.</title>
+<year>2020</year>
+<volume>abs/2003.06945</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.06945</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-06945</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-07802" mdate="2020-06-17">
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="66/1557">Xiaoyan Hu</author>
+<author pid="06/92">Michael Happold</author>
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Geometry-Aware Instance Segmentation with Disparity Maps.</title>
+<year>2020</year>
+<volume>abs/2006.07802</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.07802</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-07802</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/WangCMN19" mdate="2020-01-20">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="118/2739">Duygu Ceylan</author>
+<author pid="08/1740">Radom&#237;r Mech</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>3DN: 3D Deformation Network.</title>
+<pages>1038-1046</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_3DN_3D_Deformation_Network_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00113</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#WangCMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globalsip/WuN19" mdate="2020-02-07">
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Efficient Multi-Domain Dictionary Learning With GANS.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>GlobalSIP</booktitle>
+<ee>https://doi.org/10.1109/GlobalSIP45357.2019.8969434</ee>
+<crossref>conf/globalsip/2019</crossref>
+<url>db/conf/globalsip/globalsip2019.html#WuN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WuN19" mdate="2019-12-11">
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Salient Building Outline Enhancement and Extraction Using Iterative L0 Smoothing and Line Enhancing.</title>
+<pages>944-948</pages>
+<year>2019</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2019.8803054</ee>
+<crossref>conf/icip/2019</crossref>
+<url>db/conf/icip/icip2019.html#WuN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/XuWCMN19" mdate="2021-01-21">
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="118/2739">Duygu Ceylan</author>
+<author pid="08/1740">Radom&#237;r Mech</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction.</title>
+<pages>490-500</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/39059724f73a9969845dfe4146c5660e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8340-disn-deep-implicit-surface-network-for-high-quality-single-view-3d-reconstruction</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#XuWCMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ZhongWYN19" mdate="2021-01-21">
+<author pid="243/3355">Yiqi Zhong</author>
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Deep RGB-D Canonical Correlation Analysis For Sparse Depth Completion.</title>
+<pages>5332-5342</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/e2c61965b5e23b47b77d7c51611b6d7f-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8774-deep-rgb-d-canonical-correlation-analysis-for-sparse-depth-completion</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#ZhongWYN19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-03322" mdate="2019-03-31">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="118/2739">Duygu Ceylan</author>
+<author pid="08/1740">Radom&#237;r Mech</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>3DN: 3D Deformation Network.</title>
+<year>2019</year>
+<volume>abs/1903.03322</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.03322</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-03322</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-10711" mdate="2019-06-03">
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="118/2739">Duygu Ceylan</author>
+<author pid="08/1740">Radom&#237;r Mech</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction.</title>
+<year>2019</year>
+<volume>abs/1905.10711</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.10711</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-10711</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-02426" mdate="2019-06-14">
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Salient Building Outline Enhancement and Extraction Using Iterative L0 Smoothing and Line Enhancing.</title>
+<year>2019</year>
+<volume>abs/1906.02426</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.02426</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-02426</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-08967" mdate="2019-06-24">
+<author pid="243/3355">Yiqi Zhong</author>
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Deep RGB-D Canonical Correlation Analysis For Sparse Depth Completion.</title>
+<year>2019</year>
+<volume>abs/1906.08967</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.08967</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-08967</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-02984" mdate="2020-01-07">
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="61/9265-5">Xudong Sun 0005</author>
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="133/8378">Panqu Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Grid-GCN for Fast and Scalable Point Cloud Learning.</title>
+<year>2019</year>
+<volume>abs/1912.02984</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.02984</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-02984</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/WangYHN18" mdate="2019-02-06">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="198/1827">Ronald Yu</author>
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation.</title>
+<pages>2569-2578</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_SGPN_Similarity_Group_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00272</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00272</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#WangYHN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HuangWN18" mdate="2019-02-06">
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Recurrent Slice Networks for 3D Segmentation of Point Clouds.</title>
+<pages>2626-2635</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_Recurrent_Slice_Networks_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00278</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00278</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#HuangWN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/WangN18" mdate="2018-11-02">
+<author orcid="0000-0002-8114-8271" pid="150/4206">Weiyue Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Depth-Aware CNN for RGB-D Segmentation.</title>
+<pages>144-161</pages>
+<year>2018</year>
+<booktitle>ECCV (11)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01252-6_9</ee>
+<crossref>conf/eccv/2018-11</crossref>
+<url>db/conf/eccv/eccv2018-11.html#WangN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/HuangZYN18" mdate="2018-05-11">
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="57/98">Shaohua Kevin Zhou</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Learning to Prune Filters in Convolutional Neural Networks.</title>
+<pages>709-718</pages>
+<year>2018</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2018.00083</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WACV.2018.00083</ee>
+<crossref>conf/wacv/2018</crossref>
+<url>db/conf/wacv/wacv2018.html#HuangZYN18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-07365" mdate="2018-08-13">
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="57/98">Shaohua Kevin Zhou</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Learning to Prune Filters in Convolutional Neural Networks.</title>
+<year>2018</year>
+<volume>abs/1801.07365</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.07365</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-07365</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-04402" mdate="2018-08-13">
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Recurrent Slice Networks for 3D Segmentation on Point Clouds.</title>
+<year>2018</year>
+<volume>abs/1802.04402</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.04402</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-04402</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-06791" mdate="2018-08-13">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Depth-aware CNN for RGB-D Segmentation.</title>
+<year>2018</year>
+<volume>abs/1803.06791</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.06791</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-06791</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00263" mdate="2018-10-05">
+<author pid="200/8135">Qiangeng Xu</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="12/5558">Peter N. Belhumeur</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Stochastic Video Long-term Interpolation.</title>
+<year>2018</year>
+<volume>abs/1809.00263</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00263</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00263</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-00274" mdate="2018-11-22">
+<author pid="184/9467">Cho-Ying Wu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Efficient Multi-Domain Dictionary Learning with GANs.</title>
+<year>2018</year>
+<volume>abs/1811.00274</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.00274</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-00274</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/WangHYYN17" mdate="2018-01-11">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="98/3451">Suya You</author>
+<author pid="00/5867">Chao Yang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Shape Inpainting Using 3D Generative Adversarial Network and Recurrent Convolutional Networks.</title>
+<pages>2317-2325</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2017.252</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2017.252</ee>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#WangHYYN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/WangWWYN17" mdate="2017-07-26">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="31/9922">Naiyan Wang</author>
+<author pid="89/2140">Xiaomin Wu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Self-paced cross-modality transfer learning for efficient road segmentation.</title>
+<pages>1394-1401</pages>
+<year>2017</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2017.7989166</ee>
+<crossref>conf/icra/2017</crossref>
+<url>db/conf/icra/icra2017.html#WangWWYN17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-06375" mdate="2018-08-13">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="98/3451">Suya You</author>
+<author pid="00/5867">Chao Yang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Shape Inpainting using 3D Generative Adversarial Network and Recurrent Convolutional Networks.</title>
+<year>2017</year>
+<volume>abs/1711.06375</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.06375</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-06375</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-08588" mdate="2018-08-13">
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="198/1827">Ronald Yu</author>
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation.</title>
+<year>2017</year>
+<volume>abs/1711.08588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.08588</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-08588</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/QiuN16" mdate="2017-05-23">
+<author pid="150/4214">Rongqi Qiu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Exemplar-Based 3D Shape Segmentation in Point Clouds.</title>
+<pages>203-211</pages>
+<year>2016</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2016.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DV.2016.29</ee>
+<crossref>conf/3dim/2016</crossref>
+<url>db/conf/3dim/3dv2016.html#QiuN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/PangN16" mdate="2017-05-24">
+<author pid="99/8792">Guan Pang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>3D point cloud object detection with multi-view convolutional neural network.</title>
+<pages>585-590</pages>
+<year>2016</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2016.7899697</ee>
+<crossref>conf/icpr/2016</crossref>
+<url>db/conf/icpr/icpr2016.html#PangN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/QiuN16" mdate="2017-05-19">
+<author pid="150/4214">Rongqi Qiu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>IPDC: Iterative part-based dense correspondence between point clouds.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2016.7477626</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WACV.2016.7477626</ee>
+<crossref>conf/wacv/2016</crossref>
+<url>db/conf/wacv/wacv2016.html#QiuN16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HuangWZYN16" mdate="2018-08-13">
+<author pid="163/6706">Qiangui Huang</author>
+<author pid="150/4206">Weiyue Wang</author>
+<author pid="57/98">Shaohua Kevin Zhou</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Scene Labeling using Recurrent Neural Networks with Explicit Long Range Contextual Dependency.</title>
+<year>2016</year>
+<volume>abs/1611.07485</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.07485</ee>
+<url>db/journals/corr/corr1611.html#HuangWZYN16</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/PangN15" mdate="2017-05-23">
+<author pid="99/8792">Guan Pang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Fast and Robust Multi-view 3D Object Recognition in Point Clouds.</title>
+<pages>171-179</pages>
+<year>2015</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2015.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DV.2015.27</ee>
+<crossref>conf/3dim/2015</crossref>
+<url>db/conf/3dim/3dv2015.html#PangN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mva/PangQHYN15" mdate="2020-02-20">
+<author pid="99/8792">Guan Pang</author>
+<author pid="150/4214">Rongqi Qiu</author>
+<author pid="14/4834-20">Jing Huang 0020</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Automatic 3D industrial point cloud modeling and recognition.</title>
+<pages>22-25</pages>
+<year>2015</year>
+<booktitle>MVA</booktitle>
+<ee>https://doi.org/10.1109/MVA.2015.7153124</ee>
+<crossref>conf/mva/2015</crossref>
+<url>db/conf/mva/mva2015.html#PangQHYN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dica/GaoN14" mdate="2017-05-23">
+<author pid="02/7082">Zhenzhen Gao</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Feature enhancing aerial lidar point cloud refinement.</title>
+<pages>901303</pages>
+<year>2014</year>
+<booktitle>Three-Dimensional Image Processing, Measurement (3DIPM), and Applications</booktitle>
+<ee>https://doi.org/10.1117/12.2035749</ee>
+<crossref>conf/3dica/2014</crossref>
+<url>db/conf/3dica/3dipm2014.html#GaoN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/JoOHLHNY14" mdate="2021-02-18">
+<author pid="58/386">GeunSik Jo</author>
+<author pid="69/5298">Kyeong-Jin Oh</author>
+<author pid="52/4496">Inay Ha</author>
+<author pid="90/849">Kee-Sung Lee</author>
+<author pid="122/0513">Myung-Duk Hong</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<title>A Unified Framework for Augmented Reality and Knowledge-Based Systems in Maintaining Aircraft.</title>
+<pages>2990-2997</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/IAAI/IAAI14/paper/view/8363</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#JoOHLHNY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/QiuZN14" mdate="2017-05-19">
+<author pid="150/4214">Rongqi Qiu</author>
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Pipe-Run Extraction and Reconstruction from Point Clouds.</title>
+<pages>17-30</pages>
+<year>2014</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10578-9_2</ee>
+<crossref>conf/eccv/2014-3</crossref>
+<url>db/conf/eccv/eccv2014-3.html#QiuZN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/graphicsinterface/GaoNWN14" mdate="2014-05-14">
+<author pid="02/7082">Zhenzhen Gao</author>
+<author pid="19/3640">Luciano Nocera</author>
+<author pid="80/5294">Miao Wang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Visualizing aerial LiDAR cities with hierarchical hybrid point-polygon structures.</title>
+<pages>137-144</pages>
+<year>2014</year>
+<booktitle>Graphics Interface</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2619672</ee>
+<crossref>conf/graphicsinterface/2014</crossref>
+<url>db/conf/graphicsinterface/graphicsinterface2014.html#GaoNWN14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cvgip/ZhouN13" mdate="2020-02-21">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Complete residential urban area reconstruction from dense aerial LiDAR point clouds.</title>
+<pages>118-125</pages>
+<year>2013</year>
+<volume>75</volume>
+<journal>Graph. Model.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.gmod.2012.09.001</ee>
+<url>db/journals/cvgip/cvgip75.html#ZhouN13</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/PangN13" mdate="2017-05-23">
+<author pid="99/8792">Guan Pang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Training-Based Object Recognition in Cluttered 3D Point Clouds.</title>
+<pages>87-94</pages>
+<year>2013</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2013.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DV.2013.20</ee>
+<crossref>conf/3dim/2013</crossref>
+<url>db/conf/3dim/3dv2013.html#PangN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/PangN13" mdate="2017-05-19">
+<author pid="99/8792">Guan Pang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>The Gixel array descriptor (GAD) for multimodal image matching.</title>
+<pages>497-504</pages>
+<year>2013</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2013.6475060</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WACV.2013.6475060</ee>
+<crossref>conf/wacv/2013</crossref>
+<url>db/conf/wacv/wacv2013.html#PangN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/SucontphuntN12" mdate="2017-05-29">
+<author orcid="0000-0001-7841-7103" pid="33/3693">Tanasai Sucontphunt</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>3D Facial Surface and Texture Synthesis Using 2D Landmarks from a Single Face Sketch.</title>
+<pages>152-159</pages>
+<year>2012</year>
+<booktitle>3DIMPVT</booktitle>
+<ee>https://doi.org/10.1109/3DIMPVT.2012.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DIMPVT.2012.65</ee>
+<crossref>conf/3dim/2012</crossref>
+<url>db/conf/3dim/3dimpvt2012.html#SucontphuntN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvm/ZhouN12" mdate="2017-05-23">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Modeling Residential Urban Areas from Dense Aerial LiDAR Point Clouds.</title>
+<pages>91-98</pages>
+<year>2012</year>
+<booktitle>CVM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34263-9_12</ee>
+<crossref>conf/cvm/2012</crossref>
+<url>db/conf/cvm/cvm2012.html#ZhouN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhouN12" mdate="2017-05-25">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>2.5D building modeling by discovering global regularities.</title>
+<pages>326-333</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247692</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247692</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#ZhouN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/GaoNN12" mdate="2018-11-06">
+<author pid="02/7082">Zhenzhen Gao</author>
+<author pid="19/3640">Luciano Nocera</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Visually-complete aerial LiDAR point cloud rendering.</title>
+<pages>289-298</pages>
+<year>2012</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2424321.2424359</ee>
+<crossref>conf/gis/2012</crossref>
+<url>db/conf/gis/gis2012.html#GaoNN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/GaoNN12a" mdate="2018-11-06">
+<author pid="02/7082">Zhenzhen Gao</author>
+<author pid="19/3640">Luciano Nocera</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Fusing oblique imagery with augmented aerial LiDAR.</title>
+<pages>426-429</pages>
+<year>2012</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2424321.2424381</ee>
+<crossref>conf/gis/2012</crossref>
+<url>db/conf/gis/gis2012.html#GaoNN12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GuanYN12" mdate="2017-05-25">
+<author pid="98/3846">Wei Guan</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Efficient matchings in augmented reality application.</title>
+<pages>997-1000</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6467030</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#GuanYN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GuanYSN12" mdate="2017-06-04">
+<author pid="98/3846">Wei Guan</author>
+<author pid="98/3451">Suya You</author>
+<author orcid="0000-0001-7841-7103" pid="33/3693">Tanasai Sucontphunt</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Image relighting and matching with illumination information.</title>
+<pages>2941-2944</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6467516</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#GuanYSN12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvcg/RheeLNN11" mdate="2020-04-09">
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author orcid="0000-0001-5735-3550" pid="88/3458">Krishna S. Nayak</author>
+<title>Scan-Based Volume Animation Driven by Locally Adaptive Articulated Registrations.</title>
+<pages>368-379</pages>
+<year>2011</year>
+<volume>17</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TVCG.2010.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVCG.2010.39</ee>
+<ee>https://www.wikidata.org/entity/Q51609634</ee>
+<url>db/journals/tvcg/tvcg17.html#RheeLNN11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhouN11" mdate="2017-05-25">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>2.5D building modeling with topology control.</title>
+<pages>2489-2496</pages>
+<year>2011</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2011.5995611</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2011.5995611</ee>
+<crossref>conf/cvpr/2011</crossref>
+<url>db/conf/cvpr/cvpr2011.html#ZhouN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsys/GuanYN11" mdate="2018-11-06">
+<author pid="98/3846">Wei Guan</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>GPS-aided recognition-based user tracking system with augmented reality in extreme large-scale areas.</title>
+<pages>1-10</pages>
+<year>2011</year>
+<booktitle>MMSys</booktitle>
+<ee>https://doi.org/10.1145/1943552.1943554</ee>
+<crossref>conf/mmsys/2011</crossref>
+<url>db/conf/mmsys/mmsys2011.html#GuanYN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vda/LeeN11" mdate="2017-05-26">
+<author pid="27/485">Sang Yun Lee</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A meta-notation for data visualization.</title>
+<pages>78680V</pages>
+<year>2011</year>
+<booktitle>Visualization and Data Analysis</booktitle>
+<ee>https://doi.org/10.1117/12.872592</ee>
+<crossref>conf/vda/2011</crossref>
+<url>db/conf/vda/vda2011.html#LeeN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/GuanYN11" mdate="2017-05-23">
+<author pid="98/3846">Wei Guan</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Recognition-driven 3D navigation in large-scale virtual environments.</title>
+<pages>71-74</pages>
+<year>2011</year>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2011.5759439</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2011.5759439</ee>
+<crossref>conf/vr/2011</crossref>
+<url>db/conf/vr/vr2011.html#GuanYN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/GuanYN11" mdate="2017-05-19">
+<author pid="98/3846">Wei Guan</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Computationally efficient retrieval-based tracking system and augmented reality for large-scale areas.</title>
+<pages>410-417</pages>
+<year>2011</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2011.5711533</ee>
+<crossref>conf/wacv/2011</crossref>
+<url>db/conf/wacv/wacv2011.html#GuanYN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ZhouN10" mdate="2017-05-19">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>2.5D Dual Contouring: A Robust Approach to Creating Building Models from Aerial LiDAR Point Clouds.</title>
+<pages>115-128</pages>
+<year>2010</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15558-1_9</ee>
+<crossref>conf/eccv/2010-3</crossref>
+<url>db/conf/eccv/eccv2010-3.html#ZhouN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/graphicsinterface/SucontphuntTDN10" mdate="2011-09-26">
+<author pid="33/3693">Tanasai Sucontphunt</author>
+<author pid="49/7555">Borom Tunwattanapong</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Crafting 3D faces using free form portrait sketching and plausible texture inference.</title>
+<pages>209-216</pages>
+<year>2010</year>
+<booktitle>Graphics Interface</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=1839251&#38;CFID=37966912&#38;CFTOKEN=40351478</ee>
+<crossref>conf/graphicsinterface/2010</crossref>
+<url>db/conf/graphicsinterface/graphicsinterface2010.html#SucontphuntTDN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/SucontphuntDN10" mdate="2018-11-06">
+<author orcid="0000-0001-7841-7103" pid="33/3693">Tanasai Sucontphunt</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>3D human face identity transfer using deformation gradient.</title>
+<year>2010</year>
+<booktitle>SIGGRAPH Posters</booktitle>
+<ee>https://doi.org/10.1145/1836845.1836955</ee>
+<crossref>conf/siggraph/2010posters</crossref>
+<url>db/conf/siggraph/siggraph2010posters.html#SucontphuntDN10</url>
+<pages>102:1</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/MooserYNGB09" mdate="2019-10-19">
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="40/5796">Rapha&#235;l Grasset</author>
+<author orcid="0000-0003-4172-6759" pid="b/MarkBillinghurst">Mark Billinghurst</author>
+<title>A Dynamic Programming Approach to Maximizing Tracks for Structure from Motion.</title>
+<pages>1-10</pages>
+<year>2009</year>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12304-7_1</ee>
+<crossref>conf/accv/2009-2</crossref>
+<url>db/conf/accv/accv2009-2.html#MooserYNGB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/WangN09" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A robust approach for automatic registration of aerial images with untextured aerial LiDAR data.</title>
+<pages>2623-2630</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206600</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206600</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206600</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#WangN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ZhouN09" mdate="2020-02-14">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A streaming framework for seamless building reconstruction from large-scale aerial LiDAR data.</title>
+<pages>2759-2766</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206760</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206760</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206760</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#ZhouN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/WangNY09" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<title>Wide-baseline image matching using Line Signatures.</title>
+<pages>1311-1318</pages>
+<year>2009</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2009.5459316</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2009.5459316</ee>
+<crossref>conf/iccv/2009</crossref>
+<url>db/conf/iccv/iccv2009.html#WangNY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/WangYN09" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>PTZ camera calibration for Augmented Virtual Environments.</title>
+<pages>1366-1369</pages>
+<year>2009</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2009.5202757</ee>
+<crossref>conf/icmcs/2009</crossref>
+<url>db/conf/icmcs/icme2009.html#WangYN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/GuanWMYN09" mdate="2020-10-02">
+<author pid="98/3846">Wei Guan</author>
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Robust pose estimation in untextured environments for augmented reality applications.</title>
+<pages>191-192</pages>
+<year>2009</year>
+<booktitle>ISMAR</booktitle>
+<ee>https://doi.org/10.1109/ISMAR.2009.5336470</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISMAR.2009.5336470</ee>
+<crossref>conf/ismar/2009</crossref>
+<url>db/conf/ismar/ismar2009.html#GuanWMYN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vda/LeeLRN09" mdate="2017-05-26">
+<author pid="27/485">Sang Yun Lee</author>
+<author pid="42/8305">Kwang-Wu Lee</author>
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Reservoir Model Information System: REMIS.</title>
+<pages>72430</pages>
+<year>2009</year>
+<booktitle>VDA</booktitle>
+<ee>https://doi.org/10.1117/12.806773</ee>
+<crossref>conf/vda/2009</crossref>
+<url>db/conf/vda/vda2009.html#LeeLRN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/SucontphuntDN09" mdate="2017-06-05">
+<author orcid="0000-0001-7841-7103" pid="33/3693">Tanasai Sucontphunt</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Crafting Personalized Facial Avatars Using Editable Portrait and Photograph Example.</title>
+<pages>259-260</pages>
+<year>2009</year>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2009.4811044</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2009.4811044</ee>
+<crossref>conf/vr/2009</crossref>
+<url>db/conf/vr/vr2009.html#SucontphuntDN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/MooserYNW09" mdate="2018-07-04">
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="86/5728-1">Quan Wang 0001</author>
+<title>Applying robust structure from motion to markerless augmented reality.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2009.5403038</ee>
+<crossref>conf/wacv/2009</crossref>
+<url>db/conf/wacv/wacv2009.html#MooserYNW09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/DengN08" mdate="2017-05-26">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Expressive Speech Animation Synthesis with Phoneme-Level Controls.</title>
+<pages>2096-2113</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>8</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2008.01192.x</ee>
+<url>db/journals/cgf/cgf27.html#DengN08</url>
+</article>
+</r>
+<r><article key="journals/tog/JuZPCN08" mdate="2019-05-14">
+<author pid="16/2529">Tao Ju</author>
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="61/783">Michiel van de Panne</author>
+<author pid="c/DCohenOr">Daniel Cohen-Or</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Reusable skinning templates using cage-based deformations.</title>
+<pages>122</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/1409060.1409075</ee>
+<ee>https://doi.org/10.1145/1457515.1409075</ee>
+<url>db/journals/tog/tog27.html#JuZPCN08</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/ZhouN08" mdate="2018-11-06">
+<author pid="74/6382">Qian-Yi Zhou</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Fast and extensible building modeling from airborne LiDAR data.</title>
+<pages>7</pages>
+<year>2008</year>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/1463434.1463444</ee>
+<crossref>conf/gis/2008</crossref>
+<url>db/conf/gis/gis2008.html#ZhouN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/graphicsinterface/SucontphuntMND08" mdate="2018-11-28">
+<author pid="33/3693">Tanasai Sucontphunt</author>
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="23/6641">Zhigang Deng</author>
+<title>Interactive 3D facial expression posing through 2D portrait manipulation.</title>
+<pages>177-184</pages>
+<year>2008</year>
+<booktitle>Graphics Interface</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1375745</ee>
+<crossref>conf/graphicsinterface/2008</crossref>
+<url>db/conf/graphicsinterface/graphicsinterface2008.html#SucontphuntMND08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WangYN08" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Supporting range and segment-based hysteresis thresholding in edge detection.</title>
+<pages>609-612</pages>
+<year>2008</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2008.4711828</ee>
+<crossref>conf/icip/2008</crossref>
+<url>db/conf/icip/icip2008.html#WangYN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/RheeLNN08" mdate="2020-04-09">
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="88/3458">Krishna S. Nayak</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Adaptive non-rigid registration of 3D knee MRI in different pose spaces.</title>
+<pages>1111-1114</pages>
+<year>2008</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2008.4541195</ee>
+<crossref>conf/isbi/2008</crossref>
+<url>db/conf/isbi/isbi2008.html#RheeLNN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvc/RheeCN08" mdate="2017-05-19">
+<author pid="42/2440">Seon-Min Rhee</author>
+<author pid="61/4476">Jongmoo Choi</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Stereoscopic View Synthesis by View Morphing.</title>
+<pages>924-933</pages>
+<year>2008</year>
+<booktitle>ISVC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-89646-3_92</ee>
+<crossref>conf/isvc/2008-2</crossref>
+<url>db/conf/isvc/isvc2008-2.html#RheeCN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmvr/RheeLNN08" mdate="2020-04-09">
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="88/3458">Krishna S. Nayak</author>
+<title>Creating an Animatable 3D Volume Hand Model from In Vivo MRI.</title>
+<pages>402-407</pages>
+<year>2008</year>
+<booktitle>MMVR</booktitle>
+<crossref>conf/mmvr/2008</crossref>
+<url>db/conf/mmvr/mmvr2008.html#RheeLNN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/si3d/MooserYN08" mdate="2018-11-06">
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Large document, small screen: a camera driven scroll and zoom control for mobile devices.</title>
+<pages>27-34</pages>
+<year>2008</year>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/1342250.1342254</ee>
+<crossref>conf/si3d/2008</crossref>
+<url>db/conf/si3d/si3d2008.html#MooserYN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vda/LeeN08" mdate="2017-05-26">
+<author pid="27/485">Sang Yun Lee</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A phrase-driven grammar system for interactive data visualization.</title>
+<pages>68090K</pages>
+<year>2008</year>
+<booktitle>Visualization and Data Analysis</booktitle>
+<ee>https://doi.org/10.1117/12.766907</ee>
+<crossref>conf/vda/2008</crossref>
+<url>db/conf/vda/vda2008.html#LeeN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/PoullisYN08" mdate="2019-02-15">
+<author pid="85/7032">Charalambos Poullis</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Rapid Creation of Large-scale Photorealistic Virtual Environments.</title>
+<pages>153-160</pages>
+<year>2008</year>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2008.4480767</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2008.4480767</ee>
+<crossref>conf/vr/2008</crossref>
+<url>db/conf/vr/vr2008.html#PoullisYN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/PoullisYN08" mdate="2017-05-19">
+<author pid="85/7032">Charalambos Poullis</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A Vision-Based System For Automatic Detection and Extraction Of Road Networks.</title>
+<pages>1-8</pages>
+<year>2008</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2008.4543996</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WACV.2008.4543996</ee>
+<crossref>conf/wacv/2008</crossref>
+<url>db/conf/wacv/wacv2008.html#PoullisYN08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmm2/MoN07" mdate="2020-09-18">
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A Framework for Gesture Interface Design.</title>
+<pages>1-9</pages>
+<year>2007</year>
+<volume>2</volume>
+<journal>J. Multim.</journal>
+<number>1</number>
+<ee type="archive">http://www.academypublisher.com/jmm/vol02/no01/jmm02010109.html</ee>
+<url>db/journals/jmm2/jmm2.html#MoN07</url>
+</article>
+</r>
+<r><article key="journals/taslp/BussoDGNN07" mdate="2020-05-17">
+<author pid="87/5752">Carlos Busso</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="47/1476">Michael Grimm</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="19/3899">Shrikanth S. Narayanan</author>
+<title>Rigid Head Motion in Expressive Speech Animation: Analysis and Synthesis.</title>
+<pages>1075-1086</pages>
+<year>2007</year>
+<volume>15</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TASL.2006.885910</ee>
+<url>db/journals/taslp/taslp15.html#BussoDGNN07</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/PoullisYN07" mdate="2018-11-06">
+<author pid="85/7032">Charalambos Poullis</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Linear feature extraction using perceptual grouping and graph-cuts.</title>
+<pages>64</pages>
+<year>2007</year>
+<crossref>conf/gis/2007</crossref>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/1341012.1341088</ee>
+<url>db/conf/gis/gis2007.html#PoullisYN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/WangYN07" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Semiautomatic registration between ground-level panoramas and an orthorectified aerial image for building modeling.</title>
+<pages>1-8</pages>
+<year>2007</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2007.4409213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2007.4409213</ee>
+<crossref>conf/iccv/2007</crossref>
+<url>db/conf/iccv/iccv2007.html#WangYN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/PoullisYN07" mdate="2019-02-11">
+<author pid="85/7032">Charalambos Poullis</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Generating High-Resolution Textures for 3D Virtual Environments using View-Independent Texture Mapping.</title>
+<pages>1295-1298</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4284895</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2007.4284895</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#PoullisYN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/YouN07" mdate="2019-02-11">
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A High-Performance Image Matching and Recognition System for Multimedia Applications.</title>
+<pages>1746-1749</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4285008</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2007.4285008</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#YouN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/MooserWYN07" mdate="2020-10-02">
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>An Augmented Reality Interface for Mobile Information Retrieval.</title>
+<pages>2226-2229</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4285128</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2007.4285128</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#MooserWYN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/MooserYN07" mdate="2017-05-25">
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Real-Time Object Tracking for Augmented Reality Combining Graph Cuts and Optical Flow.</title>
+<pages>145-152</pages>
+<year>2007</year>
+<booktitle>ISMAR</booktitle>
+<ee>https://doi.org/10.1109/ISMAR.2007.4538839</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISMAR.2007.4538839</ee>
+<crossref>conf/ismar/2007</crossref>
+<url>db/conf/ismar/ismar2007.html#MooserYN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pg/RheeLNN07" mdate="2020-07-28">
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="88/3458">Krishna S. Nayak</author>
+<title>Soft-Tissue Deformation for In Vivo Volume Animation.</title>
+<pages>435-438</pages>
+<year>2007</year>
+<booktitle>PG</booktitle>
+<ee>https://doi.org/10.1109/PG.2007.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PG.2007.46</ee>
+<crossref>conf/pg/2007</crossref>
+<url>db/conf/pg/pg2007.html#RheeLNN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/WangYN07" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Single View Camera Calibration for Augmented Virtual Environments.</title>
+<pages>255-258</pages>
+<year>2007</year>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2007.352494</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2007.352494</ee>
+<crossref>conf/vr/2007</crossref>
+<url>db/conf/vr/vr2007.html#WangYN07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/RheeLN06" mdate="2017-05-26">
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Real-Time Weighted Pose-Space Deformation on the GPU.</title>
+<pages>439-448</pages>
+<year>2006</year>
+<volume>25</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2006.00963.x</ee>
+<url>db/journals/cgf/cgf25.html#RheeLN06</url>
+</article>
+</r>
+<r><article key="journals/tvcg/DengNLKBN06" mdate="2019-12-03">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="14/4847-2">Tae-Yong Kim 0002</author>
+<author pid="36/1700">Murtaza Bulut</author>
+<author pid="19/3899">Shrikanth S. Narayanan</author>
+<title>Expressive Facial Animation Synthesis by Learning Speech Coarticulation and Expression Spaces.</title>
+<pages>1523-1534</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TVCG.2006.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TVCG.2006.90</ee>
+<ee>https://www.wikidata.org/entity/Q51929904</ee>
+<url>db/journals/tvcg/tvcg12.html#DengNLKBN06</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dpvt/HuYN06" mdate="2017-05-24">
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Integrating LiDAR, Aerial Image and Ground Images for Complete Urban Building Modeling.</title>
+<pages>184-191</pages>
+<year>2006</year>
+<crossref>conf/3dpvt/2006</crossref>
+<booktitle>3DPVT</booktitle>
+<ee>https://doi.org/10.1109/3DPVT.2006.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DPVT.2006.82</ee>
+<url>db/conf/3dpvt/3dpvt2006.html#HuYN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dpvt/HuYN06a" mdate="2017-05-24">
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Vanishing Hull.</title>
+<pages>448-455</pages>
+<year>2006</year>
+<crossref>conf/3dpvt/2006</crossref>
+<booktitle>3DPVT</booktitle>
+<ee>https://doi.org/10.1109/3DPVT.2006.144</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DPVT.2006.144</ee>
+<url>db/conf/3dpvt/3dpvt2006.html#HuYN06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dpvt/WangYN06" mdate="2020-10-02">
+<author pid="49/3800-13">Lu Wang 0013</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Large-Scale Urban Modeling by Combining Ground Level Panoramic and Aerial Imagery.</title>
+<pages>806-813</pages>
+<year>2006</year>
+<crossref>conf/3dpvt/2006</crossref>
+<booktitle>3DPVT</booktitle>
+<ee>https://doi.org/10.1109/3DPVT.2006.87</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/3DPVT.2006.87</ee>
+<url>db/conf/3dpvt/3dpvt2006.html#WangYN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SebeYN06" mdate="2017-05-25">
+<author pid="88/6268">Ismail Oner Sebe</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Model-Driven Video-Based Rendering for Vehicles.</title>
+<pages>166</pages>
+<year>2006</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2006.126</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2006.126</ee>
+<crossref>conf/cvpr/2006w</crossref>
+<url>db/conf/cvpr/cvprw2006.html#SebeYN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MoN06" mdate="2017-05-25">
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Real-time Hand Pose Recognition Using Low-Resolution Depth Images.</title>
+<pages>1499-1505</pages>
+<year>2006</year>
+<crossref>conf/cvpr/2006</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2006.237</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2006.237</ee>
+<url>db/conf/cvpr/cvpr2006-2.html#MoN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ShahabiCCHKKLNNRTY06" mdate="2019-06-02">
+<author orcid="0000-0001-9118-0681" pid="s/CyrusShahabi">Cyrus Shahabi</author>
+<author pid="39/2145">Yao-Yi Chiang</author>
+<author pid="19/4809">Kelvin Chung</author>
+<author pid="80/4106">Kai-Chen Huang</author>
+<author pid="97/3974">Jeff Khoshgozaran-Haghighi</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<author pid="52/4820">Sung Lee</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="n/RamakantNevatia">Ram Nevatia</author>
+<author pid="65/6063">Arjun Rihan</author>
+<author pid="94/465">Snehal Thakkar</author>
+<author pid="98/3451">Suya You</author>
+<title>Geodec: Enabling Geospatial Decision Making.</title>
+<pages>93-96</pages>
+<year>2006</year>
+<crossref>conf/icmcs/2006</crossref>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2006.262558</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2006.262558</ee>
+<ee>https://www.wikidata.org/entity/Q59768942</ee>
+<url>db/conf/icmcs/icme2006.html#ShahabiCCHKKLNNRTY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/MooserYN06" mdate="2017-05-25">
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Tricodes: A Barcode-Like Fiducial Design for Augmented Reality Media.</title>
+<pages>1301-1304</pages>
+<year>2006</year>
+<crossref>conf/icmcs/2006</crossref>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2006.262777</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2006.262777</ee>
+<url>db/conf/icmcs/icme2006.html#MooserYN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/JainN06" mdate="2017-05-24">
+<author pid="97/4369">Sumit Jain</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Real-time Camera Pose and Focal Length Estimation.</title>
+<pages>551-555</pages>
+<year>2006</year>
+<crossref>conf/icpr/2006</crossref>
+<booktitle>ICPR (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2006.958</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2006.958</ee>
+<url>db/conf/icpr/icpr2006-1.html#JainN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/HuYN06" mdate="2017-05-24">
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Automatic Pose Recovery for High-Quality Textures Generation.</title>
+<pages>561-565</pages>
+<year>2006</year>
+<crossref>conf/icpr/2006</crossref>
+<booktitle>ICPR (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2006.303</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2006.303</ee>
+<url>db/conf/icpr/icpr2006-1.html#HuYN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icvs/MoN06" mdate="2017-05-23">
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Lexical Gesture Interface.</title>
+<pages>7</pages>
+<year>2006</year>
+<crossref>conf/icvs/2006</crossref>
+<booktitle>ICVS</booktitle>
+<ee>https://doi.org/10.1109/ICVS.2006.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICVS.2006.39</ee>
+<url>db/conf/icvs/icvs2006.html#MoN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvc/HuYN06" mdate="2017-05-19">
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Generating and Updating Textures for a Large-Scale Environment.</title>
+<pages>9-18</pages>
+<year>2006</year>
+<crossref>conf/isvc/2006-1</crossref>
+<booktitle>ISVC (1)</booktitle>
+<ee>https://doi.org/10.1007/11919476_2</ee>
+<url>db/conf/isvc/isvc2006-1.html#HuYN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/DengBLN06" mdate="2017-05-21">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="80/467">Jeremy N. Bailenson</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Perceiving Visual Emotions with Speech.</title>
+<pages>107-120</pages>
+<year>2006</year>
+<crossref>conf/iva/2006</crossref>
+<booktitle>IVA</booktitle>
+<ee>https://doi.org/10.1007/11821830_9</ee>
+<url>db/conf/iva/iva2006.html#DengBLN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sca/DengN06" mdate="2017-05-26">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>eFASE: expressive facial animation synthesis and editing with phoneme-isomap controls.</title>
+<pages>251-260</pages>
+<year>2006</year>
+<crossref>conf/sca/2006</crossref>
+<booktitle>Symposium on Computer Animation</booktitle>
+<ee>https://doi.org/10.2312/SCA/SCA06/251-259</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1218099</ee>
+<url>db/conf/sca/sca2006.html#DengN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/si3d/RheeNL06" mdate="2018-11-06">
+<author pid="07/6568">Taehyun Rhee</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="83/6305">John P. Lewis</author>
+<title>Human hand modeling from surface anatomy.</title>
+<pages>27-34</pages>
+<year>2006</year>
+<crossref>conf/si3d/2006</crossref>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/1111411.1111417</ee>
+<url>db/conf/si3d/si3d2006.html#RheeNL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/si3d/DengCFN06" mdate="2018-11-06">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="44/6399">Pei-Ying Chiang</author>
+<author pid="72/1542">Pamela Fox</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Animating blendshape faces by cross-mapping motion capture data.</title>
+<pages>43-48</pages>
+<year>2006</year>
+<crossref>conf/si3d/2006</crossref>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/1111411.1111419</ee>
+<url>db/conf/si3d/si3d2006.html#DengCFN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/NohN06" mdate="2018-11-06">
+<author pid="91/3290">Jun-yong Noh</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Expression cloning.</title>
+<pages>22</pages>
+<year>2006</year>
+<booktitle>SIGGRAPH Courses</booktitle>
+<ee>https://doi.org/10.1145/1185657.1185862</ee>
+<crossref>conf/siggraph/2006courses</crossref>
+<url>db/conf/siggraph/siggraph2006courses.html#NohN06</url>
+</inproceedings>
+</r>
+<r><article key="journals/cga/DengLN05" mdate="2018-11-14">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Automated Eye Motion Using Texture Synthesis.</title>
+<pages>24-30</pages>
+<year>2005</year>
+<volume>25</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MCG.2005.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCG.2005.35</ee>
+<ee>https://www.wikidata.org/entity/Q44723097</ee>
+<url>db/journals/cga/cga25.html#DengLN05</url>
+</article>
+</r>
+<r><article key="journals/jvca/BussoDNN05" mdate="2020-07-16">
+<author pid="87/5752">Carlos Busso</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="19/3899">Shrikanth S. Narayanan</author>
+<title>Natural head motion synthesis driven by acoustic prosodic features.</title>
+<pages>283-290</pages>
+<year>2005</year>
+<volume>16</volume>
+<journal>Comput. Animat. Virtual Worlds</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1002/cav.80</ee>
+<url>db/journals/jvca/jvca16.html#BussoDNN05</url>
+</article>
+</r>
+<r><article key="journals/jwscg/HuYN05" mdate="2020-04-07">
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Texture Painting from Video.</title>
+<pages>119-125</pages>
+<year>2005</year>
+<volume>13</volume>
+<journal>J. WSCG</journal>
+<number>3</number>
+<ee type="oa">http://wscg.zcu.cz/wscg2005/Papers_2005/Journal/!WSCG2005_Journal_Final.pdf</ee>
+<url>db/journals/jwscg/jwscg13.html#HuYN05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgi/DengLN05" mdate="2017-05-21">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Synthesizing speech animation by learning compact speech co-articulation models.</title>
+<pages>19-25</pages>
+<year>2005</year>
+<booktitle>Computer Graphics International</booktitle>
+<ee>https://doi.org/10.1109/CGI.2005.1500361</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CGI.2005.1500361</ee>
+<crossref>conf/cgi/2005</crossref>
+<url>db/conf/cgi/cgi2005.html#DengLN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dfma/BorroMJYN05" mdate="2017-05-23">
+<author pid="16/3386">Diego Borro</author>
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="78/1643">Prasanna Joshi</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>MobiPortrait: Automatic Portraits with Mobile Computing.</title>
+<pages>340-345</pages>
+<year>2005</year>
+<crossref>conf/dfma/2005</crossref>
+<booktitle>DFMA</booktitle>
+<ee>https://doi.org/10.1109/DFMA.2005.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFMA.2005.36</ee>
+<url>db/conf/dfma/dfma2005.html#BorroMJYN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/MoLN05" mdate="2018-11-06">
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>SmartCanvas: a gesture-driven intelligent drawing desk system.</title>
+<pages>239-243</pages>
+<year>2005</year>
+<crossref>conf/iui/2005</crossref>
+<booktitle>IUI</booktitle>
+<ee>https://doi.org/10.1145/1040830.1040881</ee>
+<url>db/conf/iui/iui2005.html#MoLN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/si3d/LewisMDN05" mdate="2018-11-06">
+<author pid="83/6305">John P. Lewis</author>
+<author pid="90/6323">Jonathan Mooser</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Reducing blendshape interference by selected motion attenuation.</title>
+<pages>25-29</pages>
+<year>2005</year>
+<crossref>conf/si3d/2005</crossref>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/1053427.1053431</ee>
+<url>db/conf/si3d/si3d2005.html#LewisMDN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vrst/SebeYN05" mdate="2018-11-06">
+<author pid="88/6268">Ismail Oner Sebe</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Rapid part-based 3D modeling.</title>
+<pages>143-146</pages>
+<year>2005</year>
+<crossref>conf/vrst/2005</crossref>
+<booktitle>VRST</booktitle>
+<ee>https://doi.org/10.1145/1101616.1101646</ee>
+<url>db/conf/vrst/vrst2005.html#SebeYN05</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/PapadopoulosKNSSZ04" mdate="2020-03-27">
+<author pid="91/1770">Christos Papadopoulos</author>
+<author pid="15/2453">Chris Kyriakakis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="26/1535">Alexander A. Sawchuk</author>
+<author pid="s/CyrusShahabi">Cyrus Shahabi</author>
+<author orcid="0000-0002-7410-2590" pid="79/1490">Roger Zimmermann</author>
+<title>RMI System: Internet Meets the Future Home Theater.</title>
+<pages>48-57</pages>
+<year>2004</year>
+<volume>11</volume>
+<journal>IEEE Multim.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MMUL.2004.1289041</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2004.1289041</ee>
+<url>db/journals/ieeemm/ieeemm11.html#PapadopoulosKNSSZ04</url>
+</article>
+</r>
+<r><article key="journals/jvca/FidaleoN04" mdate="2020-07-16">
+<author pid="71/1507">Douglas Fidaleo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Analysis of co-articulation regions for performance-driven facial animation.</title>
+<pages>15-26</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>Comput. Animat. Virtual Worlds</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cav.4</ee>
+<url>db/journals/jvca/jvca15.html#FidaleoN04</url>
+</article>
+</r>
+<r><article key="journals/presence/NeumannYHJS04" mdate="2020-09-01">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="88/6268">Ismail Oner Sebe</author>
+<title>Visualizing Reality in an Augmented Virtual Environment.</title>
+<pages>222-233</pages>
+<year>2004</year>
+<volume>13</volume>
+<journal>Presence Teleoperators Virtual Environ.</journal>
+<number>2</number>
+<url>db/journals/presence/presence13.html#NeumannYHJS04</url>
+<ee>https://doi.org/10.1162/1054746041382366</ee>
+</article>
+</r>
+<r><article key="journals/tog/LewisRFN04" mdate="2019-12-27">
+<author pid="83/6305">John P. Lewis</author>
+<author orcid="0000-0001-5299-0331" pid="81/5280">Ruth Rosenholtz</author>
+<author pid="58/6953">Nickson Fong</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>VisualIDs: automatic distinctive icons for desktop interfaces.</title>
+<pages>416-423</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1015706.1015739</ee>
+<ee>https://doi.org/10.1145/1186562.1015739</ee>
+<url>db/journals/tog/tog23.html#LewisRFN04</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/MoLN04" mdate="2021-02-03">
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Face Inpainting with Local Linear Representations.</title>
+<pages>1-10</pages>
+<year>2004</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.18.37</ee>
+<crossref>conf/bmvc/2004</crossref>
+<url>db/conf/bmvc/bmvc2004.html#MoLN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LewisMN04" mdate="2020-06-22">
+<author pid="83/6305">John P. Lewis</author>
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Ripple-free local bases by design.</title>
+<pages>685-688</pages>
+<year>2004</year>
+<booktitle>ICASSP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2004.1326637</ee>
+<crossref>conf/icassp/2004</crossref>
+<url>db/conf/icassp/icassp2004.html#LewisMN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmi/BussoDYBLKLNN04" mdate="2019-12-03">
+<author pid="87/5752">Carlos Busso</author>
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="66/507">Serdar Yildirim</author>
+<author pid="36/1700">Murtaza Bulut</author>
+<author pid="61/394">Chul Min Lee</author>
+<author pid="01/2446">Abe Kazemzadeh</author>
+<author pid="54/1082">Sungbok Lee</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="19/3899">Shrikanth S. Narayanan</author>
+<title>Analysis of emotion recognition using facial expressions, speech and multimodal information.</title>
+<pages>205-211</pages>
+<year>2004</year>
+<crossref>conf/icmi/2004</crossref>
+<booktitle>ICMI</booktitle>
+<ee>https://doi.org/10.1145/1027933.1027968</ee>
+<url>db/conf/icmi/icmi2004.html#BussoDYBLKLNN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miip/LewisHNE04" mdate="2018-05-23">
+<author pid="83/6305">John Peter Lewis</author>
+<author pid="219/7419">Hea-Juen Hwang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="45/4207">Reyes Enciso</author>
+<title>Smart point landmark distribution for thin-plate splines.</title>
+<year>2004</year>
+<booktitle>Medical Imaging: Image Processing</booktitle>
+<ee>https://doi.org/10.1117/12.535936</ee>
+<crossref>conf/miip/2004</crossref>
+<url>db/conf/miip/miip2004.html#LewisHNE04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/MoLN04" mdate="2018-11-14">
+<author pid="58/782">Zhenyao Mo</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Improved automatic caricature by feature normalization and exaggeration.</title>
+<pages>57</pages>
+<year>2004</year>
+<booktitle>SIGGRAPH Sketches</booktitle>
+<ee>https://doi.org/10.1145/1186223.1186294</ee>
+<ee>https://www.wikidata.org/entity/Q56158633</ee>
+<crossref>conf/siggraph/2004sketches</crossref>
+<url>db/conf/siggraph/siggraph2004sketches.html#MoLN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/JiangNY04" mdate="2005-05-03">
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<title>A Robust Hybrid Tracking System for Outdoor Augmented Reality.</title>
+<pages>3-10</pages>
+<year>2004</year>
+<crossref>conf/vr/2004</crossref>
+<booktitle>VR</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2004.5</ee>
+<url>db/conf/vr/vr2004.html#JiangNY04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/JiangNY04a" mdate="2014-09-25">
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<title>Colorplate: A Robust Hybrid Tracking System for Outdoor Augmented Reality.</title>
+<pages>275</pages>
+<year>2004</year>
+<crossref>conf/vr/2004</crossref>
+<booktitle>VR</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2004.10013</ee>
+<url>db/conf/vr/vr2004.html#JiangNY04a</url>
+</inproceedings>
+</r>
+<r><article key="journals/cga/PairNPS03" mdate="2017-05-20">
+<author pid="76/4272">Jarrell Pair</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="35/4636">Diane Piepol</author>
+<author pid="97/3882">William R. Swartout</author>
+<title>FlatWorld: Combining Hollywood Set-Design Techniques with VR.</title>
+<pages>12-15</pages>
+<year>2003</year>
+<volume>23</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MCG.2003.1159607</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCG.2003.1159607</ee>
+<url>db/journals/cga/cga23.html#PairNPS03</url>
+</article>
+</r>
+<r><article key="journals/cga/HuYN03" mdate="2017-05-20">
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Approaches to Large-Scale Urban Modeling.</title>
+<pages>62-69</pages>
+<year>2003</year>
+<volume>23</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MCG.2003.1242383</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCG.2003.1242383</ee>
+<url>db/journals/cga/cga23.html#HuYN03</url>
+</article>
+</r>
+<r><article key="journals/jei/YoonN03" mdate="2017-05-28">
+<author pid="31/5122">Ilmi Yoon</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Image-assisted visualizations over networks.</title>
+<pages>355-363</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>J. Electronic Imaging</journal>
+<number>2</number>
+<ee>https://doi.org/10.1117/1.1559995</ee>
+<url>db/journals/jei/jei12.html#YoonN03</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/YouHNF03" mdate="2017-05-24">
+<author pid="98/3451">Suya You</author>
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="72/1542">Pamela Fox</author>
+<title>Urban Site Modeling from LiDAR.</title>
+<pages>579-588</pages>
+<ee>https://doi.org/10.1007/3-540-44842-X_59</ee>
+<year>2003</year>
+<crossref>conf/iccsa/2003-3</crossref>
+<booktitle>ICCSA (3)</booktitle>
+<url>db/conf/iccsa/iccsa2003-3.html#YouHNF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miigp/EncisoSNM03" mdate="2018-05-24">
+<author pid="45/4207">Reyes Enciso</author>
+<author pid="219/8894">Alex M. Shaw</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="87/4970">James Mah</author>
+<title>Three-dimensional head anthropometric analysis.</title>
+<year>2003</year>
+<booktitle>Medical Imaging: Image-Guided Procedures</booktitle>
+<ee>https://doi.org/10.1117/12.479752</ee>
+<crossref>conf/miigp/2003</crossref>
+<url>db/conf/miigp/miigp2003.html#EncisoSNM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sca/Bertails0CN03" mdate="2017-05-26">
+<author pid="26/2039">Florence Bertails</author>
+<author pid="14/4847-2">Tae-Yong Kim 0002</author>
+<author pid="c/MariePauleCani">Marie-Paule Cani</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Adaptive Wisp Tree: a multiresolution control structure for simulating dynamic clustering in hair motion.</title>
+<pages>207-213</pages>
+<year>2003</year>
+<booktitle>Symposium on Computer Animation</booktitle>
+<ee>https://doi.org/10.2312/SCA03/207-213</ee>
+<ee>http://dl.acm.org/citation.cfm?id=846305</ee>
+<crossref>conf/sca/2003</crossref>
+<url>db/conf/sca/sca2003.html#Bertails0CN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/DengLN03" mdate="2018-11-06">
+<author pid="23/6641">Zhigang Deng</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Practical eye movement model using texture synthesis.</title>
+<year>2003</year>
+<crossref>conf/siggraph/2003</crossref>
+<booktitle>SIGGRAPH</booktitle>
+<ee>https://doi.org/10.1145/965400.965483</ee>
+<url>db/conf/siggraph/siggraph2003.html#DengLN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/PintaricRN03" mdate="2018-11-06">
+<author pid="26/264">Thomas Pintaric</author>
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Video-based virtual environments.</title>
+<year>2003</year>
+<crossref>conf/siggraph/2003</crossref>
+<booktitle>SIGGRAPH</booktitle>
+<ee>https://doi.org/10.1145/965400.965545</ee>
+<url>db/conf/siggraph/siggraph2003.html#PintaricRN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/NeumannYHJL03" mdate="2019-10-09">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<author pid="28/4895">Jinhui Hu</author>
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="19/1696-1">Jong Weon Lee 0001</author>
+<title>Augmented Virtual Environments (AVE): Dynamic Fusion of Imagery and 3D Models.</title>
+<pages>61-</pages>
+<year>2003</year>
+<crossref>conf/vr/2003</crossref>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2003.1191122</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2003.1191122</ee>
+<url>db/conf/vr/vr2003.html#NeumannYHJL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/GhahremaniRN03" mdate="2017-05-23">
+<author pid="53/1430">Kambiz Ghahremani</author>
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>360 Degree Panoramic HMD Immersion.</title>
+<pages>313</pages>
+<year>2003</year>
+<crossref>conf/vr/2003</crossref>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2003.1191194</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2003.1191194</ee>
+<url>db/conf/vr/vr2003.html#GhahremaniRN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ca/FidaleoN02" mdate="2017-05-24">
+<author pid="71/1507">Douglas Fidaleo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>CoArt: Co-articulation Region Analysis for Control of 2D Characters.</title>
+<pages>17-24</pages>
+<year>2002</year>
+<crossref>conf/ca/2002</crossref>
+<booktitle>CA</booktitle>
+<ee>https://doi.org/10.1109/CA.2002.1017502</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CA.2002.1017502</ee>
+<url>db/conf/ca/ca2002.html#FidaleoN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/LeeYN02" mdate="2019-10-09">
+<author pid="19/1696-1">Jong Weon Lee 0001</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Tracking with Omni-Directional Vision for Outdoor AR Systems.</title>
+<pages>47-58</pages>
+<year>2002</year>
+<crossref>conf/ismar/2002</crossref>
+<booktitle>ISMAR</booktitle>
+<ee>https://doi.org/10.1109/ISMAR.2002.1115069</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISMAR.2002.1115069</ee>
+<url>db/conf/ismar/ismar2002.html#LeeYN02</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbsn/RizzoNEFN01" mdate="2020-03-31">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="45/4207">Reyes Enciso</author>
+<author pid="71/1507">Douglas Fidaleo</author>
+<author pid="91/3290">Jun-yong Noh</author>
+<title>Performance-Driven Facial Animation: Basic Research on Human Judgments of Emotional State in Facial Avatars.</title>
+<pages>471-487</pages>
+<year>2001</year>
+<volume>4</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1089/109493101750527033</ee>
+<ee>https://www.wikidata.org/entity/Q42663917</ee>
+<url>db/journals/cbsn/cbsn4.html#RizzoNEFN01</url>
+</article>
+</r>
+<r><article key="journals/presence/RizzoBMBZNTKPC01" mdate="2020-09-01">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="51/6700">Jocelyn S. McGee</author>
+<author pid="67/2406">Todd Bowerly</author>
+<author pid="50/2806">Cheryl van der Zaag</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="09/3129">Laehyun Kim</author>
+<author pid="76/4272">Jarrell Pair</author>
+<author pid="85/6739">Clint Chua</author>
+<title>Virtual Environments for Assessing and Rehabilitating Cognitive/Functional Performance: A Review of Projects at the USC Integrated Media Systems Center.</title>
+<pages>359-374</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Presence Teleoperators Virtual Environ.</journal>
+<number>4</number>
+<url>db/journals/presence/presence10.html#RizzoBMBZNTKPC01</url>
+<ee>https://doi.org/10.1162/1054746011470226</ee>
+</article>
+</r>
+<r><article key="journals/presence/ChoN01" mdate="2020-09-01">
+<author pid="16/787">Youngkwan Cho</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Multi-Ring Fiducial Systems for Scalable Fiducial-Tracking Augmented Reality.</title>
+<pages>599-612</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Presence Teleoperators Virtual Environ.</journal>
+<number>6</number>
+<url>db/journals/presence/presence10.html#ChoN01</url>
+<ee>https://doi.org/10.1162/105474601753272853</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ca/ChuaN01" mdate="2017-05-24">
+<author pid="85/6739">Clint Chua</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A layered approach to deformable modeling and animation.</title>
+<pages>184-191</pages>
+<year>2001</year>
+<booktitle>CA</booktitle>
+<ee>https://doi.org/10.1109/CA.2001.982392</ee>
+<crossref>conf/ca/2001</crossref>
+<url>db/conf/ca/ca2001.html#ChuaN01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/RizzoBSNBKTC01" mdate="2009-08-20">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="11/3195">Maria T. Schultheis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="67/2406">Todd Bowerly</author>
+<author pid="09/3129">Laehyun Kim</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="85/6739">Clint Chua</author>
+<title>Virtual reality for persons with central nervous system dysfunction: assessment and treatment in the Information Society for all.</title>
+<pages>972-976</pages>
+<year>2001</year>
+<crossref>conf/hci/2001-3</crossref>
+<booktitle>HCI</booktitle>
+<url>db/conf/hci/hci2001-3.html#RizzoBSNBKTC01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/JiangN01" mdate="2017-05-25">
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Extendible Tracking by Line Auto-Calibration.</title>
+<pages>97-106</pages>
+<year>2001</year>
+<crossref>conf/ismar/2001</crossref>
+<booktitle>ISAR</booktitle>
+<ee>https://doi.org/10.1109/ISAR.2001.970519</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISAR.2001.970519</ee>
+<url>db/conf/ismar/isar2001.html#JiangN01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rt/KimN01" mdate="2017-05-25">
+<author pid="14/4847-2">Tae-Yong Kim 0002</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Opacity Shadow Maps.</title>
+<pages>177-182</pages>
+<year>2001</year>
+<crossref>conf/rt/2001</crossref>
+<booktitle>Rendering Techniques</booktitle>
+<url>db/conf/rt/rt2001.html#KimN01</url>
+<ee>https://doi.org/10.1007/978-3-7091-6242-2_16</ee>
+<ee>https://doi.org/10.2312/EGWR/EGWR01/177-182</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/NohN01" mdate="2018-11-06">
+<author pid="91/3290">Jun-yong Noh</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Expression cloning.</title>
+<pages>277-288</pages>
+<year>2001</year>
+<crossref>conf/siggraph/2001</crossref>
+<booktitle>SIGGRAPH</booktitle>
+<ee>https://doi.org/10.1145/383259.383290</ee>
+<url>db/conf/siggraph/siggraph2001.html#NohN01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/YouN01" mdate="2017-05-23">
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Fusion of Vision and Gyro Tracking for Robust Augmented Reality Registration.</title>
+<pages>71-78</pages>
+<year>2001</year>
+<crossref>conf/vr/2001</crossref>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2001.913772</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2001.913772</ee>
+<url>db/conf/vr/vr2001.html#YouN01</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbsn/McGeeZBTRNSR00" mdate="2020-03-31">
+<author pid="51/6700">Jocelyn S. McGee</author>
+<author pid="50/2806">Cheryl van der Zaag</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="123/1256">D. Sisemore</author>
+<author pid="59/3290">Albert A. Rizzo</author>
+<title>Issues for the Assessment of Visuospatial Skills in Older Adults Using Virtual Environment Technology.</title>
+<pages>469-482</pages>
+<year>2000</year>
+<volume>3</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1089/10949310050078931</ee>
+<url>db/journals/cbsn/cbsn3.html#McGeeZBTRNSR00</url>
+</article>
+</r>
+<r><article key="journals/cbsn/RizzoBBZHNCKRS00" mdate="2020-03-31">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="67/2406">Todd Bowerly</author>
+<author pid="50/2806">Cheryl van der Zaag</author>
+<author pid="46/3456">L. Humphrey</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="85/6739">Clint Chua</author>
+<author pid="15/2453">Chris Kyriakakis</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<author pid="123/1256">D. Sisemore</author>
+<title>The Virtual Classroom: A Virtual Reality Environment for the Assessment and Rehabilitation of Attention Deficits.</title>
+<pages>483-499</pages>
+<year>2000</year>
+<volume>3</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1089/10949310050078940</ee>
+<url>db/journals/cbsn/cbsn3.html#RizzoBBZHNCKRS00</url>
+</article>
+</r>
+<r><article key="journals/cgf/YoonN00" mdate="2017-05-26">
+<author pid="31/5122">Ilmi Yoon</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Web-Based Remote Rendering with IBRAC (Image-Based Rendering Acceleration and Compression).</title>
+<year>2000</year>
+<volume>19</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<url>db/journals/cgf/cgf19.html#YoonN00</url>
+<ee>https://doi.org/10.1111/1467-8659.00424</ee>
+<pages>321-330</pages>
+</article>
+</r>
+<r><inproceedings key="conf/ca/KimN00" mdate="2017-05-24">
+<author pid="14/4847-2">Tae-Yong Kim 0002</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A Thin Shell Volume for Modeling Human Hair.</title>
+<pages>104-111</pages>
+<year>2000</year>
+<crossref>conf/ca/2000</crossref>
+<booktitle>CA</booktitle>
+<ee>https://doi.org/10.1109/CA.2000.889055</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CA.2000.889055</ee>
+<url>db/conf/ca/ca2000.html#KimN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/egh/ChuaN00" mdate="2018-11-06">
+<author pid="85/6739">Clint Chua</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Hardware-Accelerated Free-Form Deformation.</title>
+<pages>33-39</pages>
+<year>2000</year>
+<booktitle>Workshop on Graphics Hardware</booktitle>
+<ee>https://doi.org/10.2312/EGGH/EGGH00/033-039</ee>
+<ee>https://doi.org/10.1145/346876.346884</ee>
+<crossref>conf/egh/2000</crossref>
+<url>db/conf/egh/egh2000.html#ChuaN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/LeeN00" mdate="2019-10-09">
+<author pid="19/1696-1">Jong Weon Lee 0001</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Motion Estimation with Incomplete Information Using Omni-Directional Vision.</title>
+<year>2000</year>
+<crossref>conf/icip/2000</crossref>
+<booktitle>ICIP</booktitle>
+<url>db/conf/icip/icip2000.html#LeeN00</url>
+<ee>https://doi.org/10.1109/ICIP.2000.899489</ee>
+<pages>562-565</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NohN00" mdate="2019-02-12">
+<author pid="91/3290">Jun-yong Noh</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Talking Faces.</title>
+<pages>627-630</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (II)</booktitle>
+<url>db/conf/icmcs/icme2000.html#NohN00</url>
+<ee>https://doi.org/10.1109/ICME.2000.871441</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/JiangYN00" mdate="2019-02-12">
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Camera Tracking for Augmented Reality Media.</title>
+<pages>1637-1640</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (III)</booktitle>
+<url>db/conf/icmcs/icme2000.html#JiangYN00</url>
+<ee>https://doi.org/10.1109/ICME.2000.871084</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/GovilYN00" mdate="2018-11-29">
+<author pid="54/6539">Alok Govil</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>A video-based augmented reality golf simulator.</title>
+<pages>489-490</pages>
+<year>2000</year>
+<crossref>conf/mm/2000</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=379091</ee>
+<url>db/conf/mm/mm2000.html#GovilYN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/NeumannPR00" mdate="2018-11-29">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="26/264">Thomas Pintaric</author>
+<author pid="59/3290">Albert A. Rizzo</author>
+<title>Immersive panoramic video.</title>
+<pages>493-494</pages>
+<year>2000</year>
+<crossref>conf/mm/2000</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=379095</ee>
+<url>db/conf/mm/mm2000.html#NeumannPR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/RizzoBZNTCRHL00" mdate="2017-05-23">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="50/2806">Cheryl van der Zaag</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="85/6739">Clint Chua</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<author pid="46/3456">L. Humphrey</author>
+<author pid="60/6137">Peter Larson</author>
+<title>Virtual Environment Applications in Clinical Neuropsychology.</title>
+<pages>63-70</pages>
+<year>2000</year>
+<crossref>conf/vr/2000</crossref>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2000.840364</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.2000.840364</ee>
+<url>db/conf/vr/vr2000.html#RizzoBZNTCRHL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vrst/NohFN00" mdate="2018-11-29">
+<author pid="91/3290">Jun-yong Noh</author>
+<author pid="71/1507">Douglas Fidaleo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Animated deformations with radial basis functions.</title>
+<pages>166-174</pages>
+<year>2000</year>
+<crossref>conf/vrst/2000</crossref>
+<booktitle>VRST</booktitle>
+<ee>https://doi.org/10.1145/502390.502422</ee>
+<url>db/conf/vrst/vrst2000.html#NohFN00</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbsn/RizzoBNCRLKKTH99" mdate="2020-03-31">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="85/6739">Clint Chua</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<author pid="60/6137">Peter Larson</author>
+<author pid="13/6372">K. Kratz</author>
+<author pid="06/4477">Carl Kesselman</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="46/3456">L. Humphrey</author>
+<title>Virtual Environments for Targeting Cognitive Processes: An Overview of Projects at the University of Southern California.</title>
+<pages>89-100</pages>
+<year>1999</year>
+<volume>2</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1089/cpb.1999.2.89</ee>
+<ee>https://www.wikidata.org/entity/Q45099420</ee>
+<url>db/journals/cbsn/cbsn2.html#RizzoBNCRLKKTH99</url>
+</article>
+</r>
+<r><article key="journals/cbsn/LarsonRBRKNKTZ99" mdate="2020-03-31">
+<author pid="60/6137">Peter Larson</author>
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<author pid="13/6372">K. Kratz</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="06/4477">Carl Kesselman</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="50/2806">Cheryl van der Zaag</author>
+<title>Gender Issues in the Use of Virtual Environments.</title>
+<pages>113-123</pages>
+<year>1999</year>
+<volume>2</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1089/cpb.1999.2.113</ee>
+<ee>https://www.wikidata.org/entity/Q51988490</ee>
+<url>db/journals/cbsn/cbsn2.html#LarsonRBRKNKTZ99</url>
+</article>
+</r>
+<r><article key="journals/cg/AzumaLJPYN99" mdate="2020-04-24">
+<author pid="63/7993">Ronald T. Azuma</author>
+<author pid="19/1696-1">Jong Weon Lee 0001</author>
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="70/2228">Jun Park</author>
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Tracking in unprepared environments for augmented reality systems.</title>
+<pages>787-793</pages>
+<year>1999</year>
+<volume>23</volume>
+<journal>Comput. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0097-8493(99)00104-1</ee>
+<url>db/journals/cg/cg23.html#AzumaLJPYN99</url>
+</article>
+</r>
+<r><article key="journals/cga/YouNA99" mdate="2020-04-24">
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="63/7993">Ronald T. Azuma</author>
+<title>Orientation Tracking for Outdoor Augmented Reality Registration.</title>
+<pages>36-42</pages>
+<year>1999</year>
+<volume>19</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/38.799738</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/38.799738</ee>
+<url>db/journals/cga/cga19.html#YouNA99</url>
+</article>
+</r>
+<r><article key="journals/spm/McLeodNNS99" mdate="2021-03-02">
+<author pid="m/DennisMcLeod">Dennis McLeod</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="94/6178">C. L. Max Nikias</author>
+<author pid="26/1535">Alexander A. Sawchuk</author>
+<title>Integrated media systems.</title>
+<pages>33-43</pages>
+<year>1999</year>
+<volume>16</volume>
+<journal>IEEE Signal Process. Mag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/79.743866</ee>
+<url>db/journals/spm/spm16.html#McLeodNNS99</url>
+</article>
+</r>
+<r><article key="journals/tmm/NeumannY99" mdate="2020-10-01">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<title>Natural Feature Tracking for Augmented Reality.</title>
+<pages>53-64</pages>
+<year>1999</year>
+<volume>1</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>1</number>
+<url>db/journals/tmm/tmm1.html#NeumannY99</url>
+<ee>https://doi.org/10.1109/6046.748171</ee>
+</article>
+</r>
+<r><inproceedings key="conf/hci/RizzoBNCRLKKTH99" mdate="2012-12-17">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="85/6739">Clint Chua</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<author pid="60/6137">Peter Larson</author>
+<author pid="13/6372">K. Kratz</author>
+<author pid="06/4477">Carl Kesselman</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="46/3456">L. Humphrey</author>
+<title>Virtual environments for targeting cognitive processes: an overview of projects at the University of Southern California.</title>
+<pages>1095-1099</pages>
+<year>1999</year>
+<crossref>conf/hci/1999-2</crossref>
+<booktitle>HCI (2)</booktitle>
+<url>db/conf/hci/hci1999-2.html#RizzoBNCRLKKTH99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismar/ParkJN99" mdate="2017-05-25">
+<author pid="70/2228">Jun Park</author>
+<author pid="70/1116">Bolan Jiang</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Vision-based pose computation: robust and accurate augmented reality tracking.</title>
+<pages>3-12</pages>
+<year>1999</year>
+<booktitle>IWAR</booktitle>
+<ee>https://doi.org/10.1109/IWAR.1999.803801</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWAR.1999.803801</ee>
+<crossref>conf/ismar/1999</crossref>
+<url>db/conf/ismar/iwar1999.html#ParkJN99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/YouNA99" mdate="2020-04-24">
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="63/7993">Ronald T. Azuma</author>
+<title>Hybrid Inertial and Vision Tracking for Augmented Reality Registration.</title>
+<pages>260-</pages>
+<year>1999</year>
+<crossref>conf/vr/1999</crossref>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.1999.756960</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VR.1999.756960</ee>
+<url>db/conf/vr/vr1999.html#YouNA99</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbsn/RizzoBNKT98" mdate="2020-03-31">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author orcid="0000-0003-0917-1562" pid="06/4477">Carl Kesselman</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<title>Basic Issues in the Application of Virtual Reality for the Assessment and Rehabilitation of Cognitive Impairments and Functional Disabilities.</title>
+<pages>59-78</pages>
+<year>1998</year>
+<volume>1</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1089/cpb.1998.1.59</ee>
+<url>db/journals/cbsn/cbsn1.html#RizzoBNKT98</url>
+</article>
+</r>
+<r><article key="journals/cbsn/RizzoBNKTLR98" mdate="2020-03-31">
+<author pid="59/3290">Albert A. Rizzo</author>
+<author pid="33/4209">J. Galen Buckwalter</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author orcid="0000-0003-0917-1562" pid="06/4477">Carl Kesselman</author>
+<author pid="58/147">Marcus Thi&#233;baux</author>
+<author pid="60/6137">Peter Larson</author>
+<author pid="54/6335">Andre van Rooyen</author>
+<title>The Virtual Reality Mental Rotation Spatial Skills Project.</title>
+<pages>113-119</pages>
+<year>1998</year>
+<volume>1</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1089/cpb.1998.1.113</ee>
+<url>db/journals/cbsn/cbsn1.html#RizzoBNKTLR98</url>
+</article>
+</r>
+<r><article key="journals/jvcir/HolmanKKNO98" mdate="2020-02-22">
+<author pid="65/3563">Tomlinson Holman</author>
+<author pid="k/CCJayKuo">C.-C. Jay Kuo</author>
+<author pid="15/2453">Chris Kyriakakis</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="o/AntonioOrtega">Antonio Ortega</author>
+<title>Special Issue on High Fidelity Media Processing: Guest Editors' Comments.</title>
+<pages>1</pages>
+<year>1998</year>
+<volume>9</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1006/jvci.1998.0380</ee>
+<url>db/journals/jvcir/jvcir9.html#HolmanKKNO98</url>
+</article>
+</r>
+<r><article key="journals/vr/NeumannP98" mdate="2020-06-18">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="70/2228">Jun Park</author>
+<title>Tracking for augmented reality on wearable computers.</title>
+<pages>167-175</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>Virtual Real.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/BF01408559</ee>
+<url>db/journals/vr/vr3.html#NeumannP98</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/NeumannY98" mdate="2017-02-02">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="98/3451">Suya You</author>
+<title>Integration of Region Tracking and Optical Flow for Image Motion Estimation.</title>
+<pages>658-662</pages>
+<year>1998</year>
+<crossref>conf/icip/1998</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip1998-3.html#NeumannY98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nmbia/YouN98" mdate="2019-06-26">
+<author pid="98/3451">Suya You</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Automatic Object Modeling for 3D Virtual Environment.</title>
+<pages>21-26</pages>
+<year>1998</year>
+<booktitle>NMBIA</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-1597-7_4</ee>
+<crossref>conf/nmbia/1998</crossref>
+<url>db/conf/nmbia/nmbia1998.html#YouN98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/NeumannM98" mdate="2017-05-23">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="132/6438">Anthony E. Majoros</author>
+<title>Cognitive, performance, and systems issues for augmented reality applications in manufacturing and maintenance.</title>
+<pages>4-11</pages>
+<year>1998</year>
+<booktitle>VRAIS</booktitle>
+<ee>https://doi.org/10.1109/VRAIS.1998.658416</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VRAIS.1998.658416</ee>
+<crossref>conf/vr/1998</crossref>
+<url>db/conf/vr/vrais1998.html#NeumannM98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/NeumannP98" mdate="2017-05-23">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="70/2228">Jun Park</author>
+<title>Extendible object-centric tracking for augmented reality.</title>
+<pages>148-155</pages>
+<year>1998</year>
+<booktitle>VRAIS</booktitle>
+<ee>https://doi.org/10.1109/VRAIS.1998.658482</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VRAIS.1998.658482</ee>
+<crossref>conf/vr/1998</crossref>
+<url>db/conf/vr/vrais1998.html#NeumannP98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/ChoN98" mdate="2017-05-23">
+<author pid="16/787">Youngkwan Cho</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Multi-ring color fiducial systems for scalable fiducial tracking augmented reality.</title>
+<pages>212</pages>
+<year>1998</year>
+<booktitle>VRAIS</booktitle>
+<ee>https://doi.org/10.1109/VRAIS.1998.658494</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VRAIS.1998.658494</ee>
+<crossref>conf/vr/1998</crossref>
+<url>db/conf/vr/vrais1998.html#ChoN98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pg/ChoPN97" mdate="2020-07-28">
+<author pid="16/787">Youngkwan Cho</author>
+<author pid="70/2228">Jun Park</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Fast color fiducial detection and dynamic workspace extension in video see-through self-tracking augmented reality.</title>
+<pages>168-177</pages>
+<year>1997</year>
+<crossref>conf/pg/1997</crossref>
+<booktitle>PG</booktitle>
+<ee>https://doi.org/10.1109/PCCGA.1997.626197</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PCCGA.1997.626197</ee>
+<url>db/conf/pg/pg1997.html#ChoPN97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cgi/ChoNW96" mdate="2019-08-08">
+<author pid="16/787">Youngkwan Cho</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="88/3030">Jongwook Woo</author>
+<title>Improved Specular Highlights With Adaptive Shading.</title>
+<pages>38-46</pages>
+<year>1996</year>
+<crossref>conf/cgi/1996</crossref>
+<booktitle>Computer Graphics International</booktitle>
+<ee>https://doi.org/10.1109/CGI.1996.511785</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CGI.1996.511785</ee>
+<url>db/conf/cgi/cgi1996.html#ChoNW96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vrst/NeumannC96" mdate="2019-01-10">
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="16/787">Youngkwan Cho</author>
+<title>A self-tracking augmented reality system.</title>
+<pages>109-115</pages>
+<year>1996</year>
+<booktitle>VRST</booktitle>
+<ee>https://doi.org/10.1145/3304181.3304203</ee>
+<crossref>conf/vrst/1996</crossref>
+<url>db/conf/vrst/vrst1996.html#NeumannC96</url>
+</inproceedings>
+</r>
+<r><article key="journals/cga/BajuraN95" mdate="2017-05-20">
+<author pid="22/5130">Michael Bajura</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Dynamic registration correction in video-based augmented reality systems.</title>
+<pages>52-60</pages>
+<year>1995</year>
+<volume>15</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/38.403828</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/38.403828</ee>
+<url>db/journals/cga/cga15.html#BajuraN95</url>
+</article>
+</r>
+<r><inproceedings key="conf/si3d/StateMNCCCF95" mdate="2018-11-06">
+<author pid="36/2946">Andrei State</author>
+<author pid="07/645">Jonathan McAllister</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="52/4150">Hong Chen</author>
+<author pid="49/4849">Tim J. Cullip</author>
+<author pid="14/5691">David T. Chen</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<title>Interactive Volume Visualization on a Heterogeneous Message-Passing Multicomputer.</title>
+<pages>69-74, 208</pages>
+<year>1995</year>
+<crossref>conf/si3d/1995</crossref>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/199404.199416</ee>
+<url>db/conf/si3d/si3d95.html#StateMNCCCF95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/BajuraN95" mdate="2017-05-23">
+<author pid="22/5130">Michael Bajura</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Dynamic registration correction in augmented-reality systems.</title>
+<pages>189-197</pages>
+<year>1995</year>
+<booktitle>VRAIS</booktitle>
+<ee>https://doi.org/10.1109/VRAIS.1995.512495</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VRAIS.1995.512495</ee>
+<crossref>conf/vr/1995</crossref>
+<url>db/conf/vr/vrais1995.html#BajuraN95</url>
+</inproceedings>
+</r>
+<r><article key="journals/cga/Neumann94" mdate="2017-05-20">
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Communication costs for parallel volume-rendering algorithms.</title>
+<pages>49-58</pages>
+<year>1994</year>
+<volume>14</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/38.291531</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/38.291531</ee>
+<url>db/journals/cga/cga14.html#Neumann94</url>
+</article>
+</r>
+<r><article key="journals/cga/YooNFPCRW92" mdate="2017-05-20">
+<author pid="57/351">Terry S. Yoo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<author pid="92/41">Stephen M. Pizer</author>
+<author pid="49/4849">Tim J. Cullip</author>
+<author pid="66/1519">John Rhoades</author>
+<author pid="w/RossTWhitaker">Ross T. Whitaker</author>
+<title>Direct visualization of volume data.</title>
+<pages>63-71</pages>
+<year>1992</year>
+<volume>12</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/38.144828</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/38.144828</ee>
+<url>db/journals/cga/cga12.html#YooNFPCRW92</url>
+</article>
+</r>
+<r><inproceedings key="conf/si3d/Neumann92" mdate="2018-11-06">
+<author pid="52/4897">Ulrich Neumann</author>
+<title>Interactive Volume Rendering on a Multicomputer.</title>
+<pages>87-93</pages>
+<year>1992</year>
+<crossref>conf/si3d/1992</crossref>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/147156.147170</ee>
+<url>db/conf/si3d/si3d92.html#Neumann92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/si3d/RhoadesTBSNV92" mdate="2018-11-06">
+<author pid="66/1519">John Rhoades</author>
+<author pid="t/GregTurk">Greg Turk</author>
+<author pid="96/2573">Andrew Bell</author>
+<author pid="36/2946">Andrei State</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="v/AmitabhVarshney">Amitabh Varshney</author>
+<title>Real-Time Procedural Textures.</title>
+<pages>95-100</pages>
+<year>1992</year>
+<crossref>conf/si3d/1992</crossref>
+<booktitle>SI3D</booktitle>
+<ee>https://doi.org/10.1145/147156.147171</ee>
+<url>db/conf/si3d/si3d92.html#RhoadesTBSNV92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visualization/NeumannFPCRW91" mdate="2019-01-28">
+<author pid="57/351">Terry S. Yoo</author>
+<author pid="52/4897">Ulrich Neumann</author>
+<author pid="f/HenryFuchs">Henry Fuchs</author>
+<author pid="92/41">Stephen M. Pizer</author>
+<author pid="49/4849">Tim J. Cullip</author>
+<author pid="66/1519">John Rhoades</author>
+<author pid="w/RossTWhitaker">Ross T. Whitaker</author>
+<title>Achieving Direct Volume Visualization with Interactive Semantic Region Selection.</title>
+<pages>58-67</pages>
+<year>1991</year>
+<crossref>conf/visualization/1991</crossref>
+<booktitle>IEEE Visualization</booktitle>
+<url>db/conf/visualization/visualization1991.html#NeumannFPCRW91</url>
+<ee>https://doi.org/10.1109/VISUAL.1991.175778</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VISUAL.1991.175778</ee>
+<ee>http://dl.acm.org/citation.cfm?id=949617</ee>
+</inproceedings>
+</r>
+<coauthors n="141" nc="1">
+<co c="0"><na f="a/Azuma:Ronald_T=" pid="63/7993">Ronald T. Azuma</na></co>
+<co c="0"><na f="b/Bailenson:Jeremy_N=" pid="80/467">Jeremy N. Bailenson</na></co>
+<co c="0"><na f="b/Bajura:Michael" pid="22/5130">Michael Bajura</na></co>
+<co c="0"><na f="b/Belhumeur:Peter_N=" pid="12/5558">Peter N. Belhumeur</na></co>
+<co c="0"><na f="b/Bell:Andrew" pid="96/2573">Andrew Bell</na></co>
+<co c="0" n="2"><na f="b/Bertails=Descoubes:Florence" pid="26/2039">Florence Bertails-Descoubes</na><na>Florence Bertails</na></co>
+<co c="0"><na f="b/Billinghurst:Mark" pid="b/MarkBillinghurst">Mark Billinghurst</na></co>
+<co c="0"><na f="b/Borro:Diego" pid="16/3386">Diego Borro</na></co>
+<co c="0"><na f="b/Bowerly:Todd" pid="67/2406">Todd Bowerly</na></co>
+<co c="0"><na f="b/Buckwalter:J=_Galen" pid="33/4209">J. Galen Buckwalter</na></co>
+<co c="0"><na f="b/Bulut:Murtaza" pid="36/1700">Murtaza Bulut</na></co>
+<co c="0"><na f="b/Busso:Carlos" pid="87/5752">Carlos Busso</na></co>
+<co c="0"><na f="c/Cani:Marie=Paule" pid="c/MariePauleCani">Marie-Paule Cani</na></co>
+<co c="0"><na f="c/Ceylan:Duygu" pid="118/2739">Duygu Ceylan</na></co>
+<co c="0"><na f="c/Chen:David_T=" pid="14/5691">David T. Chen</na></co>
+<co c="0"><na f="c/Chen:Hong" pid="52/4150">Hong Chen</na></co>
+<co c="0"><na f="c/Chiang:Pei=Ying" pid="44/6399">Pei-Ying Chiang</na></co>
+<co c="0"><na f="c/Chiang:Yao=Yi" pid="39/2145">Yao-Yi Chiang</na></co>
+<co c="0"><na f="c/Cho:Youngkwan" pid="16/787">Youngkwan Cho</na></co>
+<co c="0"><na f="c/Choi:Jongmoo" pid="61/4476">Jongmoo Choi</na></co>
+<co c="0"><na f="c/Chua:Clint" pid="85/6739">Clint Chua</na></co>
+<co c="0"><na f="c/Chung:Kelvin" pid="19/4809">Kelvin Chung</na></co>
+<co c="0"><na f="c/Cohen=Or:Daniel" pid="c/DCohenOr">Daniel Cohen-Or</na></co>
+<co c="0"><na f="c/Cullip:Tim_J=" pid="49/4849">Tim J. Cullip</na></co>
+<co c="0"><na f="d/Deng:Zhigang" pid="23/6641">Zhigang Deng</na></co>
+<co c="0"><na f="e/Enciso:Reyes" pid="45/4207">Reyes Enciso</na></co>
+<co c="0"><na f="f/Fidaleo:Douglas" pid="71/1507">Douglas Fidaleo</na></co>
+<co c="0"><na f="f/Fong:Nickson" pid="58/6953">Nickson Fong</na></co>
+<co c="0"><na f="f/Fox:Pamela" pid="72/1542">Pamela Fox</na></co>
+<co c="0"><na f="f/Fuchs:Henry" pid="f/HenryFuchs">Henry Fuchs</na></co>
+<co c="0"><na f="g/Gao:Zhenzhen" pid="02/7082">Zhenzhen Gao</na></co>
+<co c="0"><na f="g/Ghahremani:Kambiz" pid="53/1430">Kambiz Ghahremani</na></co>
+<co c="0"><na f="g/Govil:Alok" pid="54/6539">Alok Govil</na></co>
+<co c="0"><na f="g/Grasset:Rapha=euml=l" pid="40/5796">Rapha&#235;l Grasset</na></co>
+<co c="0"><na f="g/Grimm:Michael" pid="47/1476">Michael Grimm</na></co>
+<co c="0"><na f="g/Guan:Wei" pid="98/3846">Wei Guan</na></co>
+<co c="0"><na f="h/Ha:Inay" pid="52/4496">Inay Ha</na></co>
+<co c="0"><na f="h/Happold:Michael" pid="06/92">Michael Happold</na></co>
+<co c="0"><na f="h/Holman:Tomlinson" pid="65/3563">Tomlinson Holman</na></co>
+<co c="0"><na f="h/Hong:Myung=Duk" pid="122/0513">Myung-Duk Hong</na></co>
+<co c="0"><na f="h/Hu:Jinhui" pid="28/4895">Jinhui Hu</na></co>
+<co c="0"><na f="h/Hu:Xiaoyan" pid="66/1557">Xiaoyan Hu</na></co>
+<co c="0"><na f="h/Huang_0020:Jing" pid="14/4834-20">Jing Huang 0020</na></co>
+<co c="0"><na f="h/Huang:Kai=Chen" pid="80/4106">Kai-Chen Huang</na></co>
+<co c="0"><na f="h/Huang:Qiangui" pid="163/6706">Qiangui Huang</na></co>
+<co c="0"><na f="h/Humphrey:L=" pid="46/3456">L. Humphrey</na></co>
+<co c="0"><na f="h/Hwang:Hea=Juen" pid="219/7419">Hea-Juen Hwang</na></co>
+<co c="-1"><na f="j/Jain:Sumit" pid="97/4369">Sumit Jain</na></co>
+<co c="0"><na f="j/Jiang:Bolan" pid="70/1116">Bolan Jiang</na></co>
+<co c="0"><na f="j/Jo:GeunSik" pid="58/386">GeunSik Jo</na></co>
+<co c="0"><na f="j/Joshi:Prasanna" pid="78/1643">Prasanna Joshi</na></co>
+<co c="0"><na f="j/Ju:Tao" pid="16/2529">Tao Ju</na></co>
+<co c="0"><na f="k/Kazemzadeh:Abe" pid="01/2446">Abe Kazemzadeh</na></co>
+<co c="0"><na f="k/Kesselman:Carl" pid="06/4477">Carl Kesselman</na></co>
+<co c="0" n="2"><na f="k/Khoshgozaran:Ali" pid="97/3974">Ali Khoshgozaran</na><na>Jeff Khoshgozaran-Haghighi</na></co>
+<co c="0"><na f="k/Kim:Laehyun" pid="09/3129">Laehyun Kim</na></co>
+<co c="0"><na f="k/Kim_0002:Tae=Yong" pid="14/4847-2">Tae-Yong Kim 0002</na></co>
+<co c="0"><na f="k/Knoblock:Craig_A=" pid="k/CAKnoblock">Craig A. Knoblock</na></co>
+<co c="0"><na f="k/Kratz:K=" pid="13/6372">K. Kratz</na></co>
+<co c="0"><na f="k/Kuo:C==C=_Jay" pid="k/CCJayKuo">C.-C. Jay Kuo</na></co>
+<co c="0"><na f="k/Kyriakakis:Chris" pid="15/2453">Chris Kyriakakis</na></co>
+<co c="0"><na f="l/Larson:Peter" pid="60/6137">Peter Larson</na></co>
+<co c="0"><na f="l/Lee:Chul_Min" pid="61/394">Chul Min Lee</na></co>
+<co c="0"><na f="l/Lee_0001:Jong_Weon" pid="19/1696-1">Jong Weon Lee 0001</na></co>
+<co c="0"><na f="l/Lee:Kee=Sung" pid="90/849">Kee-Sung Lee</na></co>
+<co c="0"><na f="l/Lee:Kwang=Wu" pid="42/8305">Kwang-Wu Lee</na></co>
+<co c="0"><na f="l/Lee:Sang_Yun" pid="27/485">Sang Yun Lee</na></co>
+<co c="0"><na f="l/Lee:Sung" pid="52/4820">Sung Lee</na></co>
+<co c="0"><na f="l/Lee:Sungbok" pid="54/1082">Sungbok Lee</na></co>
+<co c="0" n="2"><na f="l/Lewis:John_P=" pid="83/6305">John P. Lewis</na><na>John Peter Lewis</na></co>
+<co c="0"><na f="m/Mah:James" pid="87/4970">James Mah</na></co>
+<co c="-1"><na f="m/Majoros:Anthony_E=" pid="132/6438">Anthony E. Majoros</na></co>
+<co c="0"><na f="m/McAllister:Jonathan" pid="07/645">Jonathan McAllister</na></co>
+<co c="0"><na f="m/McGee:Jocelyn_S=" pid="51/6700">Jocelyn S. McGee</na></co>
+<co c="0"><na f="m/McLeod:Dennis" pid="m/DennisMcLeod">Dennis McLeod</na></co>
+<co c="0"><na f="m/Mech:Radom=iacute=r" pid="08/1740">Radom&#237;r Mech</na></co>
+<co c="0"><na f="m/Mo:Zhenyao" pid="58/782">Zhenyao Mo</na></co>
+<co c="0"><na f="m/Mooser:Jonathan" pid="90/6323">Jonathan Mooser</na></co>
+<co c="0" n="2"><na f="n/Narayanan:Shri" pid="19/3899">Shri Narayanan</na><na>Shrikanth S. Narayanan</na></co>
+<co c="0"><na f="n/Nayak:Krishna_S=" pid="88/3458">Krishna S. Nayak</na></co>
+<co c="0" n="2"><na f="n/Nevatia:Ramakant" pid="n/RamakantNevatia">Ramakant Nevatia</na><na>Ram Nevatia</na></co>
+<co c="0" n="2"><na f="n/Nikias:Chrysostomos_L=" pid="94/6178">Chrysostomos L. Nikias</na><na>C. L. Max Nikias</na></co>
+<co c="0"><na f="n/Nocera:Luciano" pid="19/3640">Luciano Nocera</na></co>
+<co c="0"><na f="n/Noh:Jun=yong" pid="91/3290">Jun-yong Noh</na></co>
+<co c="0"><na f="o/Oh:Kyeong=Jin" pid="69/5298">Kyeong-Jin Oh</na></co>
+<co c="0"><na f="o/Ortega:Antonio" pid="o/AntonioOrtega">Antonio Ortega</na></co>
+<co c="0"><na f="p/Pair:Jarrell" pid="76/4272">Jarrell Pair</na></co>
+<co c="0"><na f="p/Pang:Guan" pid="99/8792">Guan Pang</na></co>
+<co c="0"><na f="p/Panne:Michiel_van_de" pid="61/783">Michiel van de Panne</na></co>
+<co c="0"><na f="p/Papadopoulos:Christos" pid="91/1770">Christos Papadopoulos</na></co>
+<co c="0"><na f="p/Park:Jun" pid="70/2228">Jun Park</na></co>
+<co c="0"><na f="p/Piepol:Diane" pid="35/4636">Diane Piepol</na></co>
+<co c="0"><na f="p/Pintaric:Thomas" pid="26/264">Thomas Pintaric</na></co>
+<co c="0"><na f="p/Pizer:Stephen_M=" pid="92/41">Stephen M. Pizer</na></co>
+<co c="0"><na f="p/Poullis:Charalambos" pid="85/7032">Charalambos Poullis</na></co>
+<co c="0"><na f="q/Qiu:Rongqi" pid="150/4214">Rongqi Qiu</na></co>
+<co c="0"><na f="r/Rhee:Seon=Min" pid="42/2440">Seon-Min Rhee</na></co>
+<co c="0"><na f="r/Rhee:Taehyun" pid="07/6568">Taehyun Rhee</na></co>
+<co c="0"><na f="r/Rhoades:John" pid="66/1519">John Rhoades</na></co>
+<co c="0"><na f="r/Rihan:Arjun" pid="65/6063">Arjun Rihan</na></co>
+<co c="0"><na f="r/Rizzo:Albert_A=" pid="59/3290">Albert A. Rizzo</na></co>
+<co c="0"><na f="r/Rooyen:Andre_van" pid="54/6335">Andre van Rooyen</na></co>
+<co c="0"><na f="r/Rosenholtz:Ruth" pid="81/5280">Ruth Rosenholtz</na></co>
+<co c="0"><na f="s/Sawchuk:Alexander_A=" pid="26/1535">Alexander A. Sawchuk</na></co>
+<co c="0"><na f="s/Schultheis:Maria_T=" pid="11/3195">Maria T. Schultheis</na></co>
+<co c="0"><na f="s/Sebe:Ismail_Oner" pid="88/6268">Ismail Oner Sebe</na></co>
+<co c="0"><na f="s/Shahabi:Cyrus" pid="s/CyrusShahabi">Cyrus Shahabi</na></co>
+<co c="0"><na f="s/Shaw:Alex_M=" pid="219/8894">Alex M. Shaw</na></co>
+<co c="0"><na f="s/Sisemore:D=" pid="123/1256">D. Sisemore</na></co>
+<co c="0"><na f="s/State:Andrei" pid="36/2946">Andrei State</na></co>
+<co c="0"><na f="s/Sucontphunt:Tanasai" pid="33/3693">Tanasai Sucontphunt</na></co>
+<co c="0"><na f="s/Sun_0005:Xudong" pid="61/9265-5">Xudong Sun 0005</na></co>
+<co c="0"><na f="s/Swartout:William_R=" pid="97/3882">William R. Swartout</na></co>
+<co c="0"><na f="t/Thakkar:Snehal" pid="94/465">Snehal Thakkar</na></co>
+<co c="0"><na f="t/Thi=eacute=baux:Marcus" pid="58/147">Marcus Thi&#233;baux</na></co>
+<co c="0"><na f="t/Tunwattanapong:Borom" pid="49/7555">Borom Tunwattanapong</na></co>
+<co c="0"><na f="t/Turk:Greg" pid="t/GregTurk">Greg Turk</na></co>
+<co c="0"><na f="v/Varshney:Amitabh" pid="v/AmitabhVarshney">Amitabh Varshney</na></co>
+<co c="0"><na f="w/Wang_0013:Lu" pid="49/3800-13">Lu Wang 0013</na></co>
+<co c="0"><na f="w/Wang:Miao" pid="80/5294">Miao Wang</na></co>
+<co c="0"><na f="w/Wang:Naiyan" pid="31/9922">Naiyan Wang</na></co>
+<co c="0"><na f="w/Wang:Panqu" pid="133/8378">Panqu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Quan" pid="86/5728-1">Quan Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Weiyue" pid="150/4206">Weiyue Wang</na></co>
+<co c="0"><na f="w/Whitaker:Ross_T=" pid="w/RossTWhitaker">Ross T. Whitaker</na></co>
+<co c="0"><na f="w/Woo:Jongwook" pid="88/3030">Jongwook Woo</na></co>
+<co c="0"><na f="w/Wu:Cho=Ying" pid="184/9467">Cho-Ying Wu</na></co>
+<co c="0"><na f="w/Wu:Xiaomin" pid="89/2140">Xiaomin Wu</na></co>
+<co c="0"><na f="x/Xu:Qiangeng" pid="200/8135">Qiangeng Xu</na></co>
+<co c="0"><na f="y/Yang:Chao" pid="00/5867">Chao Yang</na></co>
+<co c="0"><na f="y/Yildirim:Serdar" pid="66/507">Serdar Yildirim</na></co>
+<co c="0"><na f="y/Yoo:Terry_S=" pid="57/351">Terry S. Yoo</na></co>
+<co c="-1"><na f="y/Yoon:Ilmi" pid="31/5122">Ilmi Yoon</na></co>
+<co c="0"><na f="y/You:Suya" pid="98/3451">Suya You</na></co>
+<co c="0"><na f="y/Yu:Ronald" pid="198/1827">Ronald Yu</na></co>
+<co c="0"><na f="z/Zaag:Cheryl_van_der" pid="50/2806">Cheryl van der Zaag</na></co>
+<co c="0"><na f="z/Zhang:Hanwang" pid="79/8116">Hanwang Zhang</na></co>
+<co c="0"><na f="z/Zhong:Yiqi" pid="243/3355">Yiqi Zhong</na></co>
+<co c="0"><na f="z/Zhou:Qian=Yi" pid="74/6382">Qian-Yi Zhou</na></co>
+<co c="0"><na f="z/Zhou:Shaohua_Kevin" pid="57/98">Shaohua Kevin Zhou</na></co>
+<co c="0"><na f="z/Zimmermann:Roger" pid="79/1490">Roger Zimmermann</na></co>
+</coauthors>
+</dblpperson>
+

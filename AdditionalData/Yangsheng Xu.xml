@@ -1,3 +1,4051 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8dbfb23bb68a3c13b6b40e93701b4af05c994fa4b649eb9220308bfc05ad3cf2
-size 166494
+<?xml version="1.0"?>
+<dblpperson name="Yangsheng Xu" pid="34/5276" n="270">
+<person key="homepages/34/5276" mdate="2009-06-10">
+<author pid="34/5276">Yangsheng Xu</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2103-17020" mdate="2021-04-07">
+<author pid="266/8372">Yuhongze Zhou</author>
+<author pid="216/8298">Liguang Zhou</author>
+<author pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Human Perception Modeling for Automatic Natural Image Matting.</title>
+<year>2021</year>
+<volume>abs/2103.17020</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.17020</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-17020</url>
+</article>
+</r>
+<r><article key="journals/ram/BaeBCCFGGHHKKLL20" mdate="2020-10-26">
+<author pid="218/3589">Heechul Bae</author>
+<author pid="232/2312">Eoin Brophy</author>
+<author pid="86/7576">Rosa H. M. Chan</author>
+<author pid="23/4197">Baoquan Chen</author>
+<author orcid="0000-0002-3043-2360" pid="13/7763">Fan Feng</author>
+<author pid="264/0161">Gabriele Graffieti</author>
+<author pid="264/0146">Vidit Goel</author>
+<author pid="254/1162">Xinyue Hao</author>
+<author pid="30/7164">Hyonyoung Han</author>
+<author pid="264/0168">Sathursan Kanagarajah</author>
+<author pid="35/111">Somesh Kumar</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="254/1041">Chuanlin Lan</author>
+<author orcid="0000-0002-6631-8922" pid="95/2446">Qi Liu</author>
+<author pid="157/5127-1">Vincenzo Lomonaco 0001</author>
+<author pid="83/5831">Liang Ma</author>
+<author pid="89/6473">Davide Maltoni</author>
+<author pid="139/5833">German Ignacio Parisi</author>
+<author pid="244/9896">Lorenzo Pellegrini</author>
+<author pid="228/2441">Duvindu Piyasena</author>
+<author pid="155/3173">Shiliang Pu</author>
+<author pid="171/7773">Qi She</author>
+<author pid="120/3909">Debdoot Sheet</author>
+<author pid="19/10892">Soonyong Song</author>
+<author pid="46/5636">Youngsung Son</author>
+<author pid="161/8313">Zhengwei Wang</author>
+<author pid="45/5296">Tomas E. Ward</author>
+<author pid="216/4699">Jianwen Wu</author>
+<author pid="119/4173">Meiqing Wu</author>
+<author pid="38/7733">Di Xie</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="20/2970">Lin Yang</author>
+<author pid="236/6119">Qihan Yang</author>
+<author pid="137/5944">Qiaoyong Zhong</author>
+<author pid="216/8298">Liguang Zhou</author>
+<title>IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions].</title>
+<pages>11-16</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>IEEE Robotics Autom. Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MRA.2020.2987186</ee>
+<url>db/journals/ram/ram27.html#BaeBCCFGGHHKKLL20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-14774" mdate="2020-05-04">
+<author pid="171/7773">Qi She</author>
+<author pid="13/7763">Fan Feng</author>
+<author pid="95/2446">Qi Liu</author>
+<author pid="86/7576">Rosa H. M. Chan</author>
+<author pid="254/1162">Xinyue Hao</author>
+<author pid="254/1041">Chuanlin Lan</author>
+<author pid="236/6119">Qihan Yang</author>
+<author pid="157/5127-1">Vincenzo Lomonaco 0001</author>
+<author pid="139/5833">German Ignacio Parisi</author>
+<author pid="218/3589">Heechul Bae</author>
+<author pid="232/2312">Eoin Brophy</author>
+<author pid="23/4197">Baoquan Chen</author>
+<author pid="264/0161">Gabriele Graffieti</author>
+<author pid="264/0146">Vidit Goel</author>
+<author pid="30/7164">Hyonyoung Han</author>
+<author pid="264/0168">Sathursan Kanagarajah</author>
+<author pid="35/111">Somesh Kumar</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<author pid="41/7736">Tin Lun Lam</author>
+<author pid="83/5831">Liang Ma</author>
+<author pid="89/6473">Davide Maltoni</author>
+<author pid="244/9896">Lorenzo Pellegrini</author>
+<author pid="228/2441">Duvindu Piyasena</author>
+<author pid="155/3173">Shiliang Pu</author>
+<author pid="120/3909">Debdoot Sheet</author>
+<author pid="19/10892">Soonyong Song</author>
+<author pid="46/5636">Youngsung Son</author>
+<author pid="161/8313">Zhengwei Wang</author>
+<author pid="45/5296">Tomas E. Ward</author>
+<author pid="216/4699">Jianwen Wu</author>
+<author pid="119/4173">Meiqing Wu</author>
+<author pid="38/7733">Di Xie</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="20/2970">Lin Yang</author>
+<author pid="137/5944">Qiaoyong Zhong</author>
+<author pid="216/8298">Liguang Zhou</author>
+<title>IROS 2019 Lifelong Robotic Vision Challenge - Lifelong Object Recognition Report.</title>
+<year>2020</year>
+<volume>abs/2004.14774</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.14774</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-14774</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14660" mdate="2021-01-13">
+<author pid="116/8682-6">Shuai Zhao 0006</author>
+<author pid="216/8298">Liguang Zhou</author>
+<author pid="243/5853-1">Wenxiao Wang 0001</author>
+<author pid="c/DCai">Deng Cai 0001</author>
+<author pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>SplitNet: Divide and Co-training.</title>
+<year>2020</year>
+<volume>abs/2011.14660</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14660</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14660</url>
+</article>
+</r>
+<r><inproceedings key="conf/robio/WangGQX18" mdate="2019-10-19">
+<author pid="71/10365">Xingchao Wang</author>
+<author orcid="0000-0003-0577-9837" pid="237/8901">Zenghao Gao</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Jukepix: A Cross-Modality Approach to Transform Paintings into Music Segments.</title>
+<pages>456-461</pages>
+<year>2018</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2018.8665063</ee>
+<crossref>conf/robio/2018</crossref>
+<url>db/conf/robio/robio2018.html#WangGQX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/YuZQX18" mdate="2019-03-29">
+<author pid="237/8859">Chenxiao Yu</author>
+<author pid="216/8298">Liguang Zhou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Posture Correction of Quadruped Robot for Adaptive Slope Walking.</title>
+<pages>1220-1225</pages>
+<year>2018</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2018.8665093</ee>
+<crossref>conf/robio/2018</crossref>
+<url>db/conf/robio/robio2018.html#YuZQX18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-03515" mdate="2018-08-13">
+<author pid="215/3667">Wenhao Ding</author>
+<author pid="74/302">Shuaijun Li</author>
+<author pid="48/5081">Guilin Zhang</author>
+<author pid="215/3414">Xiangyu Lei</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Vehicle Three-Dimensional Pose and Shape Estimation from Multiple Monocular Vision.</title>
+<year>2018</year>
+<volume>abs/1802.03515</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.03515</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-03515</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-07906" mdate="2018-08-13">
+<author pid="74/302">Shuaijun Li</author>
+<author pid="30/4233">Yu Meng</author>
+<author pid="64/6025">Wei Li</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Monocular Vision-based Vehicle Localization Aided by Fine-grained Classification.</title>
+<year>2018</year>
+<volume>abs/1804.07906</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.07906</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-07906</url>
+</article>
+</r>
+<r><article key="journals/trob/QiKMLX17" mdate="2020-10-26">
+<author pid="28/11183">Ronghuai Qi</author>
+<author pid="45/2370">Amir Khajepour</author>
+<author pid="09/5229">William W. Melek</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design, Kinematics, and Control of a Multijoint Soft Inflatable Arm for Human-Safe Interaction.</title>
+<pages>594-609</pages>
+<year>2017</year>
+<volume>33</volume>
+<journal>IEEE Trans. Robotics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TRO.2016.2647231</ee>
+<url>db/journals/trob/trob33.html#QiKMLX17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icarm/ChungYCQX17" mdate="2018-06-18">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="11/357">Yong Yang</author>
+<author pid="08/10793">Ning Cui</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design of a rescue robot with a wearable suit augmenting high payloads rescue missions.</title>
+<pages>704-711</pages>
+<year>2017</year>
+<booktitle>ICARM</booktitle>
+<ee>https://doi.org/10.1109/ICARM.2017.8273248</ee>
+<crossref>conf/icarm/2017</crossref>
+<url>db/conf/icarm/icarm2017.html#ChungYCQX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinfa/ZhouQXL17" mdate="2020-01-22">
+<author pid="216/8298">Liguang Zhou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="125/0840">Wan Liu</author>
+<title>Gait design and comparison study of a quadruped robot.</title>
+<pages>80-85</pages>
+<year>2017</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2017.8078886</ee>
+<crossref>conf/icinfa/2017</crossref>
+<url>db/conf/icinfa/icinfa2017.html#ZhouQXL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinfa/WangLZLQX17" mdate="2020-01-22">
+<author pid="47/6911">Yafeng Wang</author>
+<author pid="215/3414">Xiangyu Lei</author>
+<author pid="48/5081">Guilin Zhang</author>
+<author pid="74/302">Shuaijun Li</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design of dual-spring shock absorption system for outdoor AGV.</title>
+<pages>159-164</pages>
+<year>2017</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2017.8078899</ee>
+<crossref>conf/icinfa/2017</crossref>
+<url>db/conf/icinfa/icinfa2017.html#WangLZLQX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LiZLYQX17" mdate="2020-03-30">
+<author pid="74/302">Shuaijun Li</author>
+<author pid="48/5081">Guilin Zhang</author>
+<author pid="215/3414">Xiangyu Lei</author>
+<author orcid="0000-0003-2564-645X" pid="89/2407-2">Xiao Yu 0002</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Trajectory tracking control of a unicycle-type mobile robot with a new planning algorithm.</title>
+<pages>780-786</pages>
+<year>2017</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2017.8324512</ee>
+<crossref>conf/robio/2017</crossref>
+<url>db/conf/robio/robio2017.html#LiZLYQX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LeiZLQX17" mdate="2018-03-27">
+<author pid="215/3414">Xiangyu Lei</author>
+<author pid="48/5081">Guilin Zhang</author>
+<author pid="74/302">Shuaijun Li</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Dual-spring AGV shock absorption system design: Dynamic analysis and simulations.</title>
+<pages>1068-1074</pages>
+<year>2017</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2017.8324559</ee>
+<crossref>conf/robio/2017</crossref>
+<url>db/conf/robio/robio2017.html#LeiZLQX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LiuZQX17" mdate="2018-03-27">
+<author pid="125/0840">Wan Liu</author>
+<author pid="216/8298">Liguang Zhou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Turning strategy analysis based on trot gait of a quadruped robot.</title>
+<pages>1306-1311</pages>
+<year>2017</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2017.8324598</ee>
+<crossref>conf/robio/2017</crossref>
+<url>db/conf/robio/robio2017.html#LiuZQX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/FanZMDQX17" mdate="2018-11-30">
+<author pid="216/8292">Fufei Fan</author>
+<author orcid="0000-0001-9146-0501" pid="81/10010">Jiaming Zhang</author>
+<author pid="30/4233">Yu Meng</author>
+<author pid="216/8470">Fuhao Deng</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Energy efficiency optimization of an interactive quadruped robot.</title>
+<pages>1793-1799</pages>
+<year>2017</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2017.8324678</ee>
+<crossref>conf/robio/2017</crossref>
+<url>db/conf/robio/robio2017.html#FanZMDQX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcar/HanQXX16" mdate="2017-05-21">
+<author pid="18/4158">Long Han</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="86/8714">Kexin Xing</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Heavy-Payload Omnidirectional Robot.</title>
+<pages>579-584</pages>
+<year>2016</year>
+<booktitle>RCAR</booktitle>
+<ee>https://doi.org/10.1109/RCAR.2016.7784094</ee>
+<crossref>conf/rcar/2016</crossref>
+<url>db/conf/rcar/rcar2016.html#HanQXX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LiJQX16" mdate="2017-05-24">
+<author pid="74/302">Shuaijun Li</author>
+<author pid="25/5891">Xinyu Jiang</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Vehicle 3-dimension measurement by monocular camera based on license plate.</title>
+<pages>800-806</pages>
+<year>2016</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2016.7866421</ee>
+<crossref>conf/robio/2016</crossref>
+<url>db/conf/robio/robio2016.html#LiJQX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LamQWCLX16" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="55/497">Zhifeng Wang</author>
+<author pid="80/4761">Hongjie Chen</author>
+<author pid="34/2997">Yu Li</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>System design and control of a sail-based autonomous surface vehicle.</title>
+<pages>1034-1039</pages>
+<year>2016</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2016.7866461</ee>
+<crossref>conf/robio/2016</crossref>
+<url>db/conf/robio/robio2016.html#LamQWCLX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/XiongLYHQX16" mdate="2017-05-24">
+<author pid="195/9124">Jiongtao Xiong</author>
+<author pid="41/3457">Yijun Liu</author>
+<author pid="195/9025">Xiangrong Ye</author>
+<author pid="18/4158">Long Han</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A hybrid lidar-based indoor navigation system enhanced by ceiling visual codes for mobile robots.</title>
+<pages>1715-1720</pages>
+<year>2016</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2016.7866575</ee>
+<crossref>conf/robio/2016</crossref>
+<url>db/conf/robio/robio2016.html#XiongLYHQX16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jirs/XuWCX15" mdate="2020-04-07">
+<author pid="16/3823">Dan Xu</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Online Dynamic Gesture Recognition for Human Robot Interaction.</title>
+<pages>583-596</pages>
+<year>2015</year>
+<volume>77</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s10846-014-0039-4</ee>
+<url>db/journals/jirs/jirs77.html#XuWCX15</url>
+</article>
+</r>
+<r><inproceedings key="conf/robio/HeQLCX15" mdate="2017-05-24">
+<author pid="176/6830">Yanhong He</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="74/302">Shuaijun Li</author>
+<author pid="08/10793">Ning Cui</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design of a fast charging system for service robots.</title>
+<pages>1133-1138</pages>
+<year>2015</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2015.7418924</ee>
+<crossref>conf/robio/2015</crossref>
+<url>db/conf/robio/robio2015.html#HeQLCX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinfa/LiuLQX14" mdate="2020-10-25">
+<author pid="97/2119">Yuanyuan Liu</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design and analysis of gripper with retractable spine for tree climbing robots.</title>
+<pages>350-355</pages>
+<year>2014</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2014.6932680</ee>
+<crossref>conf/icinfa/2014</crossref>
+<url>db/conf/icinfa/icinfa2014.html#LiuLQX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/SunQX14" mdate="2017-05-22">
+<author pid="69/11182">Yuandong Sun</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A geometric approach to stroke extraction for the Chinese calligraphy robot.</title>
+<pages>3207-3212</pages>
+<year>2014</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2014.6907320</ee>
+<crossref>conf/icra/2014</crossref>
+<url>db/conf/icra/icra2014.html#SunQX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/QiLX14" mdate="2020-10-25">
+<author pid="28/11183">Ronghuai Qi</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Mechanical design and implementation of a soft inflatable robot arm for safe human-robot interaction.</title>
+<pages>3490-3495</pages>
+<year>2014</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2014.6907362</ee>
+<crossref>conf/icra/2014</crossref>
+<url>db/conf/icra/icra2014.html#QiLX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/QiLX14a" mdate="2020-10-25">
+<author pid="28/11183">Ronghuai Qi</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Kinematic modeling and control of a multi-joint soft inflatable robot arm with cable-driven mechanism.</title>
+<pages>4819-4824</pages>
+<year>2014</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2014.6907564</ee>
+<crossref>conf/icra/2014</crossref>
+<url>db/conf/icra/icra2014.html#QiLX14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LamQX14" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Longitudinal wheel-slip control for four wheel independent steering and drive vehicles.</title>
+<pages>5280-5285</pages>
+<year>2014</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2014.6907635</ee>
+<crossref>conf/icra/2014</crossref>
+<url>db/conf/icra/icra2014.html#LamQX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/QiLX14" mdate="2020-10-25">
+<author pid="28/11183">Ronghuai Qi</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design and implementation of a low-cost and lightweight inflatable robot finger.</title>
+<pages>28-33</pages>
+<year>2014</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2014.6942536</ee>
+<crossref>conf/iros/2014</crossref>
+<url>db/conf/iros/iros2014.html#QiLX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/SunQX14" mdate="2017-05-22">
+<author pid="69/11182">Yuandong Sun</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Robot learns Chinese calligraphy from Demonstrations.</title>
+<pages>4408-4413</pages>
+<year>2014</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2014.6943186</ee>
+<crossref>conf/iros/2014</crossref>
+<url>db/conf/iros/iros2014.html#SunQX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChungCCLXO14" mdate="2020-10-25">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="08/10793">Ning Cui</author>
+<author pid="83/6331">Xu Chen</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<title>Optimized methodologies for augmented reality markers based localization.</title>
+<pages>1811-1816</pages>
+<year>2014</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2014.7090598</ee>
+<crossref>conf/robio/2014</crossref>
+<url>db/conf/robio/robio2014.html#ChungCCLXO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/TaoQYHX14" mdate="2017-05-24">
+<author pid="51/11184">Yanbo Tao</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="11/357">Yong Yang</author>
+<author pid="18/4158">Long Han</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A real-time intelligent shoe system for writing by foot.</title>
+<pages>2110-2115</pages>
+<year>2014</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2014.7090648</ee>
+<crossref>conf/robio/2014</crossref>
+<url>db/conf/robio/robio2014.html#TaoQYHX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChungLX14" mdate="2020-10-25">
+<author pid="67/2675">Wingkwong Chung</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A natural assisted navigation motion for telepresence robots.</title>
+<pages>2268-2273</pages>
+<year>2014</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2014.7090675</ee>
+<crossref>conf/robio/2014</crossref>
+<url>db/conf/robio/robio2014.html#ChungLX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LiCQLXX14" mdate="2017-05-24">
+<author pid="74/302">Shuaijun Li</author>
+<author pid="08/10793">Ning Cui</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="28/5133">Weimin Li</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Controller-free ratio-variable gearbox for hybrid powertrain: Implementation and testing.</title>
+<pages>2333-2337</pages>
+<year>2014</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2014.7090686</ee>
+<crossref>conf/robio/2014</crossref>
+<url>db/conf/robio/robio2014.html#LiCQLXX14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdsn/QianCSLDXXTY13" mdate="2020-06-21">
+<author orcid="0000-0001-8269-0882" pid="63/7378">Huihuan Qian</author>
+<author pid="50/9969">Yongquan Chen</author>
+<author orcid="0000-0002-0689-5162" pid="69/11182">Yuandong Sun</author>
+<author pid="50/5324">Niansheng Liu</author>
+<author pid="04/4910">Ning Ding</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author orcid="0000-0003-2225-5445" pid="35/4211">Guoqing Xu</author>
+<author pid="142/7026">Yunjian Tang</author>
+<author pid="66/4128">Jingyu Yan</author>
+<title>Vehicle Safety Enhancement System: Sensing and Communication.</title>
+<year>2013</year>
+<volume>9</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2013/542891</ee>
+<url>db/journals/ijdsn/ijdsn9.html#QianCSLDXXTY13</url>
+</article>
+</r>
+<r><article key="journals/ijia/HanWOCCX13" mdate="2020-08-28">
+<author pid="18/4158">Long Han</author>
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="99/8174">Chunjie Chen 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Household Service robot with cellphone Interface.</title>
+<year>2013</year>
+<volume>9</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219878913500095</ee>
+<url>db/journals/ijia/ijia9.html#HanWOCCX13</url>
+</article>
+</r>
+<r><article key="journals/ijon/ChenCLWOX13" mdate="2018-07-05">
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="65/434">Chuan Lin</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Classification-based learning by particle swarm optimization for wall-following robot navigation.</title>
+<pages>27-35</pages>
+<year>2013</year>
+<volume>113</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2012.12.037</ee>
+<url>db/journals/ijon/ijon113.html#ChenCLWOX13</url>
+</article>
+</r>
+<r><article key="journals/jfr/LamX13" mdate="2020-10-26">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Motion planning for tree climbing with inchworm-like robots.</title>
+<pages>87-101</pages>
+<year>2013</year>
+<volume>30</volume>
+<journal>J. Field Robotics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/rob.21431</ee>
+<url>db/journals/jfr/jfr30.html#LamX13</url>
+</article>
+</r>
+<r><article key="journals/jr/ChungX13" mdate="2019-06-02">
+<author orcid="0000-0002-0551-5607" pid="67/2675">Wingkwong Chung</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Minimum Energy Demand Locomotion on Space Station.</title>
+<pages>723535:1-723535:15</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>J. Robotics</journal>
+<ee type="oa">https://doi.org/10.1155/2013/723535</ee>
+<ee>https://www.wikidata.org/entity/Q59021613</ee>
+<url>db/journals/jr/jr2013.html#ChungX13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icinfa/ChenWXQX13" mdate="2020-01-26">
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="143/0282">Chengjiang Wang</author>
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Survey of mobility approaches for EVR application in space station.</title>
+<pages>493-498</pages>
+<year>2013</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2013.6720349</ee>
+<crossref>conf/icinfa/2013</crossref>
+<url>db/conf/icinfa/icinfa2013.html#ChenWXQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinfa/DingQX13" mdate="2020-01-26">
+<author pid="04/4910">Ning Ding</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Finite Element Region approach to shape representation and hand gesture recognition.</title>
+<pages>552-558</pages>
+<year>2013</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2013.6720359</ee>
+<crossref>conf/icinfa/2013</crossref>
+<url>db/conf/icinfa/icinfa2013.html#DingQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinfa/LiuFWX13" mdate="2020-08-28">
+<author pid="34/3381">Pengfei Liu</author>
+<author pid="43/8729">Ruiqing Fu</author>
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Implementation of the path planning algorithm M.</title>
+<pages>1000-1004</pages>
+<year>2013</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2013.6720441</ee>
+<crossref>conf/icinfa/2013</crossref>
+<url>db/conf/icinfa/icinfa2013.html#LiuFWX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinfa/TangXJOX13" mdate="2020-01-26">
+<author pid="14/11534">Cheng Tang</author>
+<author pid="128/0659">Qunqun Xie</author>
+<author pid="128/0658">Guolai Jiang</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Road detection at night based on a planar reflection model.</title>
+<pages>1130-1134</pages>
+<year>2013</year>
+<booktitle>ICIA</booktitle>
+<ee>https://doi.org/10.1109/ICInfA.2013.6720465</ee>
+<crossref>conf/icinfa/2013</crossref>
+<url>db/conf/icinfa/icinfa2013.html#TangXJOX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/DingQX13" mdate="2017-05-25">
+<author pid="04/4910">Ning Ding</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A finite element contour approach to affine invariant shape representation.</title>
+<pages>1451-1455</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2013.6738298</ee>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#DingQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LamYQX13" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Traction/braking force distribution algorithm for omni-directional all-wheel-independent-drive vehicles.</title>
+<pages>746-751</pages>
+<year>2013</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2013.6630656</ee>
+<crossref>conf/icra/2013</crossref>
+<url>db/conf/icra/icra2013.html#LamYQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/SunDQX13" mdate="2017-05-22">
+<author pid="69/11182">Yuandong Sun</author>
+<author pid="04/4910">Ning Ding</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A robot for classifying Chinese calligraphic types and styles.</title>
+<pages>4279-4284</pages>
+<year>2013</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2013.6631182</ee>
+<crossref>conf/icra/2013</crossref>
+<url>db/conf/icra/icra2013.html#SunDQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuZQCX13" mdate="2017-05-22">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="03/6834">Jintao Zhang</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Identifying the singularity conditions of Canadarm2 based on elementary Jacobian transformation.</title>
+<pages>795-800</pages>
+<year>2013</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2013.6696442</ee>
+<crossref>conf/iros/2013</crossref>
+<url>db/conf/iros/iros2013.html#XuZQCX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/ChenLFSWX13" mdate="2020-08-28">
+<author pid="139/3628">Guangchen Chen</author>
+<author pid="97/2119">Yuanyuan Liu</author>
+<author pid="43/8729">Ruiqing Fu</author>
+<author pid="139/3561">Jianwei Sun</author>
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Rubbot: Rubbing on flexible loose surfaces.</title>
+<pages>2303-2308</pages>
+<year>2013</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2013.6696678</ee>
+<crossref>conf/iros/2013</crossref>
+<url>db/conf/iros/iros2013.html#ChenLFSWX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuCWFQX13" mdate="2020-08-28">
+<author pid="16/3823">Dan Xu</author>
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="17/1152-9">Wei Feng 0009</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel hand posture recognition system based on sparse representation using color and depth images.</title>
+<pages>3765-3770</pages>
+<year>2013</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2013.6696894</ee>
+<crossref>conf/iros/2013</crossref>
+<url>db/conf/iros/iros2013.html#XuCWFQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/SunX13" mdate="2017-05-24">
+<author pid="69/11182">Yuandong Sun</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A calligraphy robot - Callibot: Design, analysis and applications.</title>
+<pages>185-190</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739456</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#SunX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/DzodzoHCQX13" mdate="2017-05-24">
+<author pid="143/0188">Borislav Dzodzo</author>
+<author pid="18/4158">Long Han</author>
+<author pid="83/6331">Xu Chen</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Realtime 2D code based localization for indoor robot navigation.</title>
+<pages>486-492</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739507</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#DzodzoHCQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/WangCCHQX13" mdate="2019-05-29">
+<author pid="143/0282">Chengjiang Wang</author>
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="143/0501">Liangliang Han</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel exterior climbing robot design for space station.</title>
+<pages>1722-1727</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739716</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#WangCCHQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/QiLQX13" mdate="2020-10-25">
+<author pid="28/11183">Ronghuai Qi</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel precise pick and place device for robotic manipulators.</title>
+<pages>1858-1863</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739738</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#QiLQX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/WangQYX13" mdate="2017-05-24">
+<author pid="124/8808">Keke Wang</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="11/357">Yong Yang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel Differential Modular Robot Joint - Design and implementation.</title>
+<pages>2049-2054</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739771</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#WangQYX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/HanQCHLCZX13" mdate="2017-05-24">
+<author pid="18/4158">Long Han</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="143/0403">Kai Wing Hou</author>
+<author pid="140/2385">Kit-Hang Lee</author>
+<author pid="83/6331">Xu Chen</author>
+<author pid="62/1225">Guanghua Zhang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>System and design of a compact and heavy-payload AGV system for flexible production line.</title>
+<pages>2482-2488</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739844</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#HanQCHLCZX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/WangYZWCQX13" mdate="2018-07-04">
+<author pid="143/0282">Chengjiang Wang</author>
+<author pid="143/0147">Linji Ye</author>
+<author pid="86/981">Zhao Wang</author>
+<author pid="143/0139">Gaolin Wu</author>
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design of the Linebot for power transmission lines inspection.</title>
+<pages>2593-2598</pages>
+<year>2013</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2013.6739863</ee>
+<crossref>conf/robio/2013</crossref>
+<url>db/conf/robio/robio2013.html#WangYZWCQX13</url>
+</inproceedings>
+</r>
+<r><book key="series/star/LamX12" mdate="2017-05-16">
+<author pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Tree Climbing Robot - Design, Kinematics and Motion Planning</title>
+<volume>78</volume>
+<year>2012</year>
+<pages>1-143</pages>
+<publisher>Springer</publisher>
+<series href="db/series/star/index.html">Springer Tracts in Advanced Robotics</series>
+<ee>https://doi.org/10.1007/978-3-642-28311-6</ee>
+<isbn>978-3-642-28310-9</isbn>
+<url>db/series/star/index.html#LamX12</url>
+</book>
+</r>
+<r><article key="journals/ijon/XiongCWCOX12" mdate="2018-07-05">
+<author pid="70/11183">Guogang Xiong</author>
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>An energy model approach to people counting for abnormal crowd behavior detection.</title>
+<pages>121-135</pages>
+<year>2012</year>
+<volume>83</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2011.12.007</ee>
+<url>db/journals/ijon/ijon83.html#XiongCWCOX12</url>
+</article>
+</r>
+<r><article key="journals/jfr/LamX12" mdate="2020-10-26">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Biologically inspired tree-climbing robot with continuum maneuvering mechanism.</title>
+<pages>843-860</pages>
+<year>2012</year>
+<volume>29</volume>
+<journal>J. Field Robotics</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/rob.21414</ee>
+<url>db/journals/jfr/jfr29.html#LamX12</url>
+</article>
+</r>
+<r><article key="journals/robotica/XuLX12" mdate="2020-02-17">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="97/2274-36">Yu Liu 0036</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>The coordinated motion planning of a dual-arm space robot for target capturing.</title>
+<pages>755-771</pages>
+<year>2012</year>
+<volume>30</volume>
+<journal>Robotica</journal>
+<number>5</number>
+<ee>https://doi.org/10.1017/S0263574711001007</ee>
+<url>db/journals/robotica/robotica30.html#XuLX12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icch/TaoWYQZX12" mdate="2017-05-23">
+<author pid="51/11184">Yanbo Tao</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="11/357">Yong Yang</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="91/195">Chi Zhang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>An intelligent shoe system: Evaluation of weight load approaches by gait analysis.</title>
+<pages>145-151</pages>
+<year>2012</year>
+<booktitle>ICCH</booktitle>
+<ee>https://doi.org/10.1109/ICCH.2012.6724486</ee>
+<crossref>conf/icch/2012</crossref>
+<url>db/conf/icch/icch2012.html#TaoWYQZX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LamQX12" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Direct yaw moment control for four wheel independent steering and drive vehicles based on centripetal force detection.</title>
+<pages>103-108</pages>
+<year>2012</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2012.6224849</ee>
+<crossref>conf/icra/2012</crossref>
+<url>db/conf/icra/icra2012.html#LamQX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LiuWQZSX12" mdate="2020-08-28">
+<author pid="97/2119">Yuanyuan Liu</author>
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="116/6420">Duan Zheng</author>
+<author pid="05/7650">Jianquan Sun</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>System and design of Clothbot: A robot for flexible clothes climbing.</title>
+<pages>1200-1205</pages>
+<year>2012</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2012.6224620</ee>
+<crossref>conf/icra/2012</crossref>
+<url>db/conf/icra/icra2012.html#LiuWQZSX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LiuWSFZX12" mdate="2020-08-28">
+<author pid="97/2119">Yuanyuan Liu</author>
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="16/3547">Dezhen Song</author>
+<author pid="43/8729">Ruiqing Fu</author>
+<author pid="116/6420">Duan Zheng</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Path planning for clothes climbing robots on deformable clothes surface.</title>
+<pages>882-887</pages>
+<year>2012</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2012.6385673</ee>
+<crossref>conf/iros/2012</crossref>
+<url>db/conf/iros/iros2012.html#LiuWSFZX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/YangQWXX12" mdate="2017-05-22">
+<author pid="11/357">Yong Yang</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="03/665">Guiyun Xu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel design of Tri-star wheeled mobile robot for high obstacle climbing.</title>
+<pages>920-925</pages>
+<year>2012</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2012.6385776</ee>
+<crossref>conf/iros/2012</crossref>
+<url>db/conf/iros/iros2012.html#YangQWXX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LamYQX12" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="123/6734">Hoi Wut Yip</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Collision avoidance of industrial robot arms using an invisible sensitive skin.</title>
+<pages>4542-4543</pages>
+<year>2012</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2012.6386294</ee>
+<crossref>conf/iros/2012</crossref>
+<url>db/conf/iros/iros2012.html#LamYQX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChenYQX12" mdate="2017-05-24">
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="11/357">Yong Yang</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>The design of robot for space station operation.</title>
+<pages>247-252</pages>
+<year>2012</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2012.6490974</ee>
+<crossref>conf/robio/2012</crossref>
+<url>db/conf/robio/robio2012.html#ChenYQX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/SunDQX12" mdate="2017-05-24">
+<author pid="69/11182">Yuandong Sun</author>
+<author pid="04/4910">Ning Ding</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Real-time monocular visual self-localization approach using natural circular landmarks for indoor navigation.</title>
+<pages>495-500</pages>
+<year>2012</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2012.6491015</ee>
+<crossref>conf/robio/2012</crossref>
+<url>db/conf/robio/robio2012.html#SunDQX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/TangOJXX12" mdate="2017-05-24">
+<author pid="14/11534">Cheng Tang</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="128/0658">Guolai Jiang</author>
+<author pid="128/0659">Qunqun Xie</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Hand tracking and pose recognition via depth and color information.</title>
+<pages>1104-1109</pages>
+<year>2012</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2012.6491117</ee>
+<crossref>conf/robio/2012</crossref>
+<url>db/conf/robio/robio2012.html#TangOJXX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/TaoLQX12" mdate="2020-10-25">
+<author pid="51/11184">Yanbo Tao</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A real-time intelligent shoe-keyboard for computer input.</title>
+<pages>1488-1493</pages>
+<year>2012</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2012.6491179</ee>
+<crossref>conf/robio/2012</crossref>
+<url>db/conf/robio/robio2012.html#TaoLQX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChungX12" mdate="2017-05-24">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Path planning algorithm for space manipulator with a minimum energy demand.</title>
+<pages>1556-1563</pages>
+<year>2012</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2012.6491189</ee>
+<crossref>conf/robio/2012</crossref>
+<url>db/conf/robio/robio2012.html#ChungX12</url>
+</inproceedings>
+</r>
+<r><article key="journals/trob/LamX11" mdate="2020-10-26">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Climbing Strategy for a Flexible Tree Climbing Robot - Treebot.</title>
+<pages>1107-1117</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>IEEE Trans. Robotics</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TRO.2011.2162273</ee>
+<url>db/journals/trob/trob27.html#LamX11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccis/ChenXWLJLWRZ11" mdate="2017-05-25">
+<author pid="176/9897">Steve H. Chen</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="24/1633">Peter Wang</author>
+<author pid="58/1153">Deyi Li</author>
+<author pid="193/2467">Dongbin Jin</author>
+<author pid="20/303">Jianming Liu</author>
+<author pid="39/449">Jian Wang</author>
+<author pid="17/4005">Fuji Ren</author>
+<author pid="44/2157">Jianning Zhang</author>
+<title>Keynote speech: The usage of cloud computing in China Regional Healthcare.</title>
+<pages>i-v</pages>
+<year>2011</year>
+<booktitle>CCIS</booktitle>
+<ee>https://doi.org/10.1109/CCIS.2011.6045151</ee>
+<crossref>conf/ccis/2011</crossref>
+<url>db/conf/ccis/ccis2011.html#ChenXWLJLWRZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ChungLCX11" mdate="2017-05-22">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="60/4237">Jiangbo Li</author>
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel design of Movable Gripper for non-enclosable truss climbing.</title>
+<pages>519-525</pages>
+<year>2011</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2011.5979698</ee>
+<crossref>conf/icra/2011</crossref>
+<url>db/conf/icra/icra2011.html#ChungLCX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LamX11" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Treebot: Autonomous tree climbing by tactile sensing.</title>
+<pages>789-794</pages>
+<year>2011</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2011.5979837</ee>
+<crossref>conf/icra/2011</crossref>
+<url>db/conf/icra/icra2011.html#LamX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LamX11a" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A flexible tree climbing robot: Treebot - design and implementation.</title>
+<pages>5849-5854</pages>
+<year>2011</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2011.5979833</ee>
+<crossref>conf/icra/2011</crossref>
+<url>db/conf/icra/icra2011.html#LamX11a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LamX11" mdate="2017-05-22">
+<author pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Mechanical design of a tree gripper for miniature tree-climbing robots.</title>
+<pages>1487-1492</pages>
+<year>2011</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2011.6095154</ee>
+<crossref>conf/iros/2011</crossref>
+<url>db/conf/iros/iros2011.html#LamX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/QiLQX11" mdate="2020-10-25">
+<author pid="28/11183">Ronghuai Qi</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Arc tracking on an eight-axis robot system.</title>
+<pages>678-683</pages>
+<year>2011</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2011.6181364</ee>
+<crossref>conf/robio/2011</crossref>
+<url>db/conf/robio/robio2011.html#QiLQX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/XuCWOX11" mdate="2017-05-24">
+<author pid="16/3823">Dan Xu</author>
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Integrated approach of skin-color detection and depth information for hand and face localization.</title>
+<pages>952-956</pages>
+<year>2011</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2011.6181410</ee>
+<crossref>conf/robio/2011</crossref>
+<url>db/conf/robio/robio2011.html#XuCWOX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LiCCWOX11" mdate="2017-05-24">
+<author pid="17/5705">Hao Li</author>
+<author pid="40/8106">Yen-Lun Chen</author>
+<author pid="74/11185">Tianhai Chang</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Binocular vision positioning for robot grasping.</title>
+<pages>1522-1527</pages>
+<year>2011</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2011.6181505</ee>
+<crossref>conf/robio/2011</crossref>
+<url>db/conf/robio/robio2011.html#LiCCWOX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/SunCX11" mdate="2017-05-24">
+<author pid="69/11182">Yuandong Sun</author>
+<author pid="50/9969">Yongquan Chen</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A GPS enhanced routing protocol for vehicular Ad-hoc network.</title>
+<pages>2096-2101</pages>
+<year>2011</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2011.6181601</ee>
+<crossref>conf/robio/2011</crossref>
+<url>db/conf/robio/robio2011.html#SunCX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/TaoQCSX11" mdate="2019-05-29">
+<author pid="51/11184">Yanbo Tao</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="70/4115">Xin Shi</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Real-time intelligent shoe system for fall detection.</title>
+<pages>2253-2258</pages>
+<year>2011</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2011.6181633</ee>
+<crossref>conf/robio/2011</crossref>
+<url>db/conf/robio/robio2011.html#TaoQCSX11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChungX11" mdate="2017-05-24">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel frame climbing robot: Frambot.</title>
+<pages>2559-2566</pages>
+<year>2011</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2011.6181690</ee>
+<crossref>conf/robio/2011</crossref>
+<url>db/conf/robio/robio2011.html#ChungX11</url>
+</inproceedings>
+</r>
+<r><article key="journals/bspc/YanLLWX10" mdate="2020-02-22">
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="15/4830">Yan Lu</author>
+<author pid="49/1245-7">Jia Liu 0007</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Self-adaptive model-based ECG denoising using features extracted by mean shift algorithm.</title>
+<pages>103-113</pages>
+<year>2010</year>
+<volume>5</volume>
+<journal>Biomed. Signal Process. Control.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.bspc.2010.01.003</ee>
+<url>db/journals/bspc/bspc5.html#YanLLWX10</url>
+</article>
+</r>
+<r><article key="journals/ijia/YanLXLW10" mdate="2020-07-30">
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="15/4830">Yan Lu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="49/1245-7">Jia Liu 0007</author>
+<author pid="21/1079">Xinyu Wu</author>
+<title>Intelligent Diagnosis of Cardiovascular Diseases Utilizing ECG Signals.</title>
+<pages>81-97</pages>
+<year>2010</year>
+<volume>7</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219878910002087</ee>
+<url>db/journals/ijia/ijia7.html#YanLXLW10</url>
+</article>
+</r>
+<r><article key="journals/ijra/XuLLX10" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Autonomous Capturing of Moving Target with Optimal Rendezvous Attitude and Manipulator Configuration.</title>
+<year>2010</year>
+<volume>25</volume>
+<journal>Int. J. Robotics Autom.</journal>
+<number>4</number>
+<ee>https://doi.org/10.2316/Journal.206.2010.4.206-3209</ee>
+<url>db/journals/ijra/ijra25.html#XuLLX10</url>
+</article>
+</r>
+<r><article key="journals/jr/QianOWMX10" mdate="2018-11-24">
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1442">Xiaoning Meng</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Support Vector Machine for Behavior-Based Driver Identification System.</title>
+<pages>397865:1-397865:11</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>J. Robotics</journal>
+<ee type="oa">https://doi.org/10.1155/2010/397865</ee>
+<ee>https://www.wikidata.org/entity/Q58652762</ee>
+<url>db/journals/jr/jr2010.html#QianOWMX10</url>
+</article>
+</r>
+<r><article key="journals/robotica/XuLLX10" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Autonomous rendezvous and robotic capturing of non-cooperative target in space.</title>
+<pages>705-718</pages>
+<year>2010</year>
+<volume>28</volume>
+<journal>Robotica</journal>
+<number>5</number>
+<ee>https://doi.org/10.1017/S0263574709990397</ee>
+<ee>https://www.wikidata.org/entity/Q57406237</ee>
+<url>db/journals/robotica/robotica28.html#XuLLX10</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/OuQWX10" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>On stability region analysis for a class of human learning controllers.</title>
+<pages>1303-1309</pages>
+<year>2010</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2010.5652242</ee>
+<crossref>conf/iros/2010</crossref>
+<url>db/conf/iros/iros2010.html#OuQWX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuLGX10" mdate="2018-06-27">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="53/10005">Dai Gao</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A space robotic system used for on-orbit servicing in the Geostationary Orbit.</title>
+<pages>4089-4094</pages>
+<year>2010</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2010.5648894</ee>
+<crossref>conf/iros/2010</crossref>
+<url>db/conf/iros/iros2010.html#XuLGX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LamXQX10" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Linear-time path and motion planning algorithm for a tree climbing robot - TreeBot.</title>
+<pages>4988-4994</pages>
+<year>2010</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2010.5650347</ee>
+<crossref>conf/iros/2010</crossref>
+<url>db/conf/iros/iros2010.html#LamXQX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/QianXYLXX10" mdate="2020-10-25">
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="66/4128">Jingyu Yan</author>
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="29/6948">Kun Xu</author>
+<title>Energy management for four-wheel independent driving vehicle.</title>
+<pages>5532-5537</pages>
+<year>2010</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2010.5651000</ee>
+<crossref>conf/iros/2010</crossref>
+<url>db/conf/iros/iros2010.html#QianXYLXX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChengZYOWX10" mdate="2017-05-24">
+<author pid="67/8605">Zhu Cheng</author>
+<author pid="121/6247">Xuezhen Zhang</author>
+<author pid="33/4210">Shiqi Yu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A surveillance robot with human recognition based on video and audio.</title>
+<pages>1256-1261</pages>
+<year>2010</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2010.5723509</ee>
+<crossref>conf/robio/2010</crossref>
+<url>db/conf/robio/robio2010.html#ChengZYOWX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/GaoZWCOX10" mdate="2017-05-24">
+<author pid="121/6099">Qiao Gao</author>
+<author pid="13/5236">Bin Zhang</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="67/8605">Zhu Cheng</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A music dancing robot based on beat tracking of musical signal.</title>
+<pages>1536-1541</pages>
+<year>2010</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2010.5723558</ee>
+<crossref>conf/robio/2010</crossref>
+<url>db/conf/robio/robio2010.html#GaoZWCOX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/XuZFOX10" mdate="2017-05-24">
+<author pid="181/2626">Ke Xu</author>
+<author pid="97/8704">Lei Zhang</author>
+<author pid="43/8729">Ruiqing Fu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A stochastic scattering particle swarm optimizer.</title>
+<pages>1740-1745</pages>
+<year>2010</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2010.5723594</ee>
+<crossref>conf/robio/2010</crossref>
+<url>db/conf/robio/robio2010.html#XuZFOX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ZhangXYFX10" mdate="2017-05-24">
+<author pid="97/8704">Lei Zhang</author>
+<author pid="181/2626">Ke Xu</author>
+<author pid="33/4210">Shiqi Yu</author>
+<author pid="43/8729">Ruiqing Fu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>An effective approach for active tracking with a PTZ camera.</title>
+<pages>1768-1773</pages>
+<year>2010</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2010.5723599</ee>
+<crossref>conf/robio/2010</crossref>
+<url>db/conf/robio/robio2010.html#ZhangXYFX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/YanCXQX10" mdate="2017-05-21">
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="67/8605">Zhu Cheng</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Fuzzy Control for Battery Equalization Based on State of Charge.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VETECF.2010.5594380</ee>
+<crossref>conf/vtc/2010f</crossref>
+<url>db/conf/vtc/vtc2010f.html#YanCXQX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/YanXQX10" mdate="2017-05-21">
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Battery Fast Charging Strategy Based on Model Predictive Control.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VETECF.2010.5594382</ee>
+<crossref>conf/vtc/2010f</crossref>
+<url>db/conf/vtc/vtc2010f.html#YanXQX10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ar/XuLWLLX09" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="43/3563-1">Xueqian Wang 0001</author>
+<author pid="97/2274-36">Yu Liu 0036</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Study on Non-holonomic Cartesian Path Planning of a Free-Floating Space Robotic System.</title>
+<pages>113-143</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>Adv. Robotics</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1163/156855308X392708</ee>
+<ee>https://www.wikidata.org/entity/Q58026496</ee>
+<url>db/journals/ar/ar23.html#XuLWLLX09</url>
+</article>
+</r>
+<r><article key="journals/jirs/OuQX09" mdate="2020-04-07">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Support Vector Machine Based Approach for Abstracting Human Control Strategy in Controlling Dynamically Stable Robots.</title>
+<pages>39-54</pages>
+<year>2009</year>
+<volume>55</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10846-008-9292-8</ee>
+<url>db/journals/jirs/jirs55.html#OuQX09</url>
+</article>
+</r>
+<r><article key="journals/jirs/WuGCZX09" mdate="2020-04-07">
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="44/6220">Haitao Gong</author>
+<author pid="98/4148">Pei Chen</author>
+<author pid="16/4623">Zhi Zhong</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Surveillance Robot Utilizing Video and Audio Information.</title>
+<pages>403-421</pages>
+<year>2009</year>
+<volume>55</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1007/s10846-008-9297-3</ee>
+<url>db/journals/jirs/jirs55.html#WuGCZX09</url>
+</article>
+</r>
+<r><article key="journals/robotica/XuLLLX09" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="97/2274-36">Yu Liu 0036</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Autonomous target capturing of free-floating space robot: Theory and experiments.</title>
+<pages>425-445</pages>
+<year>2009</year>
+<volume>27</volume>
+<journal>Robotica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1017/S0263574708004839</ee>
+<url>db/journals/robotica/robotica27.html#XuLLLX09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/LamQXX09" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="35/4211">Guoqing Xu</author>
+<title>Omni-directional steer-by-wire interface for four wheel independent steering vehicle.</title>
+<pages>1383-1388</pages>
+<year>2009</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2009.5152442</ee>
+<crossref>conf/icra/2009</crossref>
+<url>db/conf/icra/icra2009.html#LamQXX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LamXX09" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="35/4211">Guoqing Xu</author>
+<title>Traction force distribution on omni-directional four wheel independent drive electric vehicle.</title>
+<pages>3724-3729</pages>
+<year>2009</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2009.5152443</ee>
+<crossref>conf/icra/2009</crossref>
+<url>db/conf/icra/icra2009.html#LamXX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/ChenYX09" mdate="2019-05-29">
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Gait pattern classification with integrated shoes.</title>
+<pages>833-839</pages>
+<year>2009</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2009.5354111</ee>
+<crossref>conf/iros/2009</crossref>
+<url>db/conf/iros/iros2009.html#ChenYX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/YangXWFX09" mdate="2017-05-24">
+<author pid="11/357">Yong Yang</author>
+<author pid="03/665">Guiyun Xu</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="122/3884">Huiwei Feng</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Parent-child robot system for rescue missions.</title>
+<pages>1427-1432</pages>
+<year>2009</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.5420753</ee>
+<crossref>conf/robio/2009</crossref>
+<url>db/conf/robio/robio2009.html#YangXWFX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/CaoWGYX09" mdate="2019-10-19">
+<author orcid="0000-0002-3530-451X" pid="04/8067">Tian Cao</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="122/3883">Jinnian Guo</author>
+<author orcid="0000-0002-5213-5877" pid="33/4210">Shiqi Yu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Abnormal crowd motion analysis.</title>
+<pages>1709-1714</pages>
+<year>2009</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.5420408</ee>
+<crossref>conf/robio/2009</crossref>
+<url>db/conf/robio/robio2009.html#CaoWGYX09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ZhouYWGLX09" mdate="2017-05-24">
+<author pid="122/3865">Qiaoyun Zhou</author>
+<author pid="33/4210">Shiqi Yu</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="121/6099">Qiao Gao</author>
+<author pid="122/3826">Chongguo Li</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>HMMs-based human action recognition for an intelligent household surveillance robot.</title>
+<pages>2295-2300</pages>
+<year>2009</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.5420459</ee>
+<crossref>conf/robio/2009</crossref>
+<url>db/conf/robio/robio2009.html#ZhouYWGLX09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ar/XuLLXLQ08" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="97/2274-36">Yu Liu 0036</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="59/2352">Wenyi Qiang</author>
+<title>Non-holonomic Path Planning of a Free-Floating Space Robotic System Using Genetic Algorithms.</title>
+<pages>451-476</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>Adv. Robotics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1163/156855308X294680</ee>
+<ee>https://www.wikidata.org/entity/Q58026042</ee>
+<url>db/journals/ar/ar22.html#XuLLXLQ08</url>
+</article>
+</r>
+<r><article key="journals/ijia/WuOQX08" mdate="2020-07-30">
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Real Time Face Classification and Counting System.</title>
+<pages>1-10</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0219878908001454</ee>
+<url>db/journals/ijia/ijia5.html#WuOQX08</url>
+</article>
+</r>
+<r><article key="journals/jirs/XuLLXQ08" mdate="2020-04-07">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="97/2274-36">Yu Liu 0036</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="59/2352">Wenyi Qiang</author>
+<title>Autonomous Path Planning and Experiment Study of Free-floating Space Robot for Target Capturing.</title>
+<pages>303-331</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-007-9192-3</ee>
+<url>db/journals/jirs/jirs51.html#XuLLXQ08</url>
+</article>
+</r>
+<r><article key="journals/tase/GeXD08" mdate="2020-04-02">
+<author pid="90/6479">Ming Ge</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="94/3837">Ruxu Du</author>
+<title>An Intelligent Online Monitoring and Diagnostic System for Manufacturing Automation.</title>
+<pages>127-139</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>IEEE Trans Autom. Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TASE.2006.886833</ee>
+<url>db/journals/tase/tase5.html#GeXD08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icarcv/YanXXX08" mdate="2017-05-23">
+<author pid="66/4128">Jingyu Yan</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="34/2204">Benliang Xie</author>
+<title>Battery state-of-charge estimation based on H<sub>infinity</sub> filter for hybrid electric vehicle.</title>
+<pages>464-469</pages>
+<year>2008</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2008.4795563</ee>
+<crossref>conf/icarcv/2008</crossref>
+<url>db/conf/icarcv/icarcv2008.html#YanXXX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ChenHX08" mdate="2019-05-29">
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="60/1518">Bufu Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Intelligent shoes for abnormal gait detection.</title>
+<pages>2019-2024</pages>
+<year>2008</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2008.4543503</ee>
+<crossref>conf/icra/2008</crossref>
+<url>db/conf/icra/icra2008.html#ChenHX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ChenHX08a" mdate="2019-05-29">
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="60/1518">Bufu Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Postural kyphosis detection using intelligent shoes.</title>
+<pages>2954-2958</pages>
+<year>2008</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2008.4543658</ee>
+<crossref>conf/icra/2008</crossref>
+<url>db/conf/icra/icra2008.html#ChenHX08a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/HuangLYX08" mdate="2017-05-19">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="37/2109">Gang Liu</author>
+<author pid="33/6885">Jianping Yuan</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Multi-Objective Optimal Trajectory Planning of Space Robot Using Particle Swarm Optimization.</title>
+<pages>171-179</pages>
+<year>2008</year>
+<booktitle>ISNN (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87734-9_20</ee>
+<crossref>conf/isnn/2008-2</crossref>
+<url>db/conf/isnn/isnn2008-2.html#HuangLYX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChungWX08" mdate="2017-05-24">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A realtime hand gesture recognition based on Haar wavelet representation.</title>
+<pages>336-341</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913026</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#ChungWX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/QianLLXX08" mdate="2017-05-24">
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="41/7736">Tin Lun Lam</author>
+<author pid="28/5133">Weimin Li</author>
+<author pid="122/0620">Chenggang Xia</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>System and design of an Omni-directional vehicle.</title>
+<pages>389-394</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913035</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#QianLLXX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/QianWOX08" mdate="2017-05-24">
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Hybrid algorithm for segmentation and tracking in surveillance.</title>
+<pages>395-400</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913036</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#QianWOX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LamQX08" mdate="2020-10-25">
+<author orcid="0000-0002-6363-1446" pid="41/7736">Tin Lun Lam</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Behavior-based steering control for four wheel independent steering vehicle.</title>
+<pages>536-541</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913059</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#LamQX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChungLX08" mdate="2017-05-24">
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="122/0791">Yuanjie Liang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A new transformable mini-humanoid robot: Design and algorithm.</title>
+<pages>590-595</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913068</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#ChungLX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/GaoZDWXX08" mdate="2017-05-24">
+<author pid="121/6099">Qiao Gao</author>
+<author pid="13/5236">Bin Zhang</author>
+<author pid="96/755">Lei Deng</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="11/1627">Yun Xu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Quantitative determination of protein content in chocolates using near infrared reflectance spectroscopy with GSVR method.</title>
+<pages>955-960</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913128</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#GaoZDWXX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/WuGCZX08" mdate="2017-05-24">
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="44/6220">Haitao Gong</author>
+<author pid="98/4148">Pei Chen</author>
+<author pid="16/4623">Zhi Zhong</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Intelligent household surveillance robot.</title>
+<pages>1734-1739</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913263</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#WuGCZX08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ZhaoYWWX08" mdate="2019-10-19">
+<author pid="122/0651">Zhixu Zhao</author>
+<author orcid="0000-0002-5213-5877" pid="33/4210">Shiqi Yu</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="86/10446">Congling Wang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A multi-target tracking algorithm using texture for real-time surveillance.</title>
+<pages>2150-2155</pages>
+<year>2008</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2009.4913335</ee>
+<crossref>conf/robio/2008</crossref>
+<url>db/conf/robio/robio2008.html#ZhaoYWWX08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijia/LiangLX07" mdate="2020-07-30">
+<author pid="46/3845">Guoyuan Liang</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Multi-Resolution Crowd Density Estimation Based on Texture Analysis and Learning from Demonstration.</title>
+<pages>1-14</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0219878907001198</ee>
+<url>db/journals/ijia/ijia4.html#LiangLX07</url>
+</article>
+</r>
+<r><article key="journals/ijia/HuangCLX07" mdate="2020-07-30">
+<author pid="60/1518">Bufu Huang</author>
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Human Identification Based on Gait Modeling.</title>
+<pages>27-38</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0219878907001137</ee>
+<url>db/journals/ijia/ijia4.html#HuangCLX07</url>
+</article>
+</r>
+<r><article key="journals/ijia/ChenHX07" mdate="2020-07-30">
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="60/1518">Bufu Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Abnormal Gait Detection Using Intelligent Shoes.</title>
+<pages>215-226</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0219878907001307</ee>
+<url>db/journals/ijia/ijia4.html#ChenHX07</url>
+</article>
+</r>
+<r><article key="journals/ijia/ZhongYX07" mdate="2020-07-30">
+<author pid="16/4623">Zhi Zhong</author>
+<author pid="36/7382">Weizhong Ye</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Detecting Human Abnormal Behaviors in Crowd.</title>
+<pages>281-290</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S0219878907001356</ee>
+<url>db/journals/ijia/ijia4.html#ZhongYX07</url>
+</article>
+</r>
+<r><article key="journals/ijig/ChengCLFX07" mdate="2020-03-24">
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="27/5973">Ronald Chung</author>
+<author pid="87/5852">Edmund Y. Lam</author>
+<author pid="70/5685">Kenneth S. M. Fung</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Optimization of Bit-Pairing Codification with Learning for 3D Reconstruction.</title>
+<pages>445-462</pages>
+<year>2007</year>
+<volume>7</volume>
+<journal>Int. J. Image Graph.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0219467807002763</ee>
+<url>db/journals/ijig/ijig7.html#ChengCLFX07</url>
+</article>
+</r>
+<r><article key="journals/ijns/HuangX07" mdate="2018-11-14">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Svm-Based Learning Control of Space Robots in Capturing Operation.</title>
+<pages>467-477</pages>
+<year>2007</year>
+<volume>17</volume>
+<journal>Int. J. Neural Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1142/S0129065707001305</ee>
+<ee>https://www.wikidata.org/entity/Q48892121</ee>
+<url>db/journals/ijns/ijns17.html#HuangX07</url>
+</article>
+</r>
+<r><article key="journals/jirs/XuLXLQ07" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="59/2352">Wenyi Qiang</author>
+<title>A Ground Experiment System of Free-floating Robot For Capturing Space Target.</title>
+<pages>187-208</pages>
+<year>2007</year>
+<volume>48</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-006-9087-8</ee>
+<url>db/journals/jirs/jirs48.html#XuLXLQ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/WuCTCX07" mdate="2018-07-05">
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="67/2675">Wingkwong Chung</author>
+<author pid="55/690">Hang Tong</author>
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A New Solder Paste Inspection Device: Design and Algorithm.</title>
+<pages>680-685</pages>
+<year>2007</year>
+<crossref>conf/icra/2007</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2007.363065</ee>
+<url>db/conf/icra/icra2007.html#WuCTCX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/HuangCHX07" mdate="2019-05-29">
+<author pid="60/1518">Bufu Huang</author>
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Gait Modeling for Human Identification.</title>
+<pages>4833-4838</pages>
+<year>2007</year>
+<crossref>conf/icra/2007</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2007.364224</ee>
+<url>db/conf/icra/icra2007.html#HuangCHX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/WangLX07" mdate="2017-05-22">
+<author pid="62/2054">Zhancheng Wang</author>
+<author pid="28/5133">Weimin Li</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A novel power control strategy of series hybrid electric vehicle.</title>
+<pages>96-102</pages>
+<year>2007</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2007.4399024</ee>
+<crossref>conf/iros/2007</crossref>
+<url>db/conf/iros/iros2007.html#WangLX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/WangXLX07" mdate="2017-05-19">
+<author pid="62/2054">Zhancheng Wang</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="28/5133">Weimin Li</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Driving Load Forecasting Using Cascade Neural Networks.</title>
+<pages>988-997</pages>
+<year>2007</year>
+<crossref>conf/isnn/2007-3</crossref>
+<booktitle>ISNN (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-72395-0_121</ee>
+<url>db/conf/isnn/isnn2007-3.html#WangXLX07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/LiXTX07" mdate="2017-05-24">
+<author pid="28/5133">Weimin Li</author>
+<author pid="35/4211">Guoqing Xu</author>
+<author pid="55/690">Hang Tong</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Design of optimal, robust energy management strategy for a parallel HEV.</title>
+<pages>1894-1899</pages>
+<year>2007</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2007.4522456</ee>
+<crossref>conf/robio/2007</crossref>
+<url>db/conf/robio/robio2007.html#LiXTX07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijia/QinCWX06" mdate="2020-07-30">
+<author pid="74/918">Jianzhao Qin</author>
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Learning Based Approach to Audio Surveillance in Household Environment.</title>
+<pages>213-219</pages>
+<year>2006</year>
+<volume>3</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0219878906001003</ee>
+<url>db/journals/ijia/ijia3.html#QinCWX06</url>
+</article>
+</r>
+<r><article key="journals/ijra/HuangXL06" mdate="2020-02-11">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<title>Minimum-torque Path Planning of Space robots using Genetic Algorithms.</title>
+<year>2006</year>
+<volume>21</volume>
+<journal>Int. J. Robotics Autom.</journal>
+<number>3</number>
+<ee>https://doi.org/10.2316/Journal.206.2006.3.206-2945</ee>
+<url>db/journals/ijra/ijra21.html#HuangXL06</url>
+</article>
+</r>
+<r><article key="journals/tie/ChowX06" mdate="2020-05-22">
+<author pid="49/2115">Hon Nin Chow</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Learning Human Navigational Skill for Smart Wheelchair in a Static Cluttered Route.</title>
+<pages>1350-1361</pages>
+<year>2006</year>
+<volume>53</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIE.2006.878296</ee>
+<url>db/journals/tie/tie53.html#ChowX06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/HuangSX06" mdate="2017-05-21">
+<author pid="60/1518">Bufu Huang</author>
+<author pid="68/3889">Xi Shi</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Parameter Optimization of Power Control Strategy for Series Hybrid Electric Vehicle.</title>
+<pages>1989-1994</pages>
+<year>2006</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2006.1688551</ee>
+<crossref>conf/cec/2006</crossref>
+<url>db/conf/cec/cec2006.html#HuangSX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarcv/HuangCX06" mdate="2020-10-25">
+<author pid="73/6981">Panfeng Huang</author>
+<author orcid="0000-0002-2586-7546" pid="181/2839">Kai Chen</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Optimal Path Planning for Minimizing Disturbance of Space Robot.</title>
+<pages>1-6</pages>
+<year>2006</year>
+<booktitle>ICARCV</booktitle>
+<ee>https://doi.org/10.1109/ICARCV.2006.345055</ee>
+<crossref>conf/icarcv/2006</crossref>
+<url>db/conf/icarcv/icarcv2006.html#HuangCX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/ChenZLX06" mdate="2017-05-22">
+<author pid="64/5715">Yufeng Chen</author>
+<author pid="16/4623">Zhi Zhong</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Multi-agent Based Surveillance.</title>
+<pages>2810-2815</pages>
+<year>2006</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2006.282064</ee>
+<crossref>conf/iros/2006</crossref>
+<url>db/conf/iros/iros2006.html#ChenZLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/WangLTX06" mdate="2017-05-22">
+<author pid="62/2054">Zhancheng Wang</author>
+<author pid="28/5133">Weimin Li</author>
+<author pid="55/690">Hang Tong</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Novel On-board Temperature Monitoring Approach in the Reflow Soldering Process.</title>
+<pages>4245-4251</pages>
+<year>2006</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2006.281952</ee>
+<crossref>conf/iros/2006</crossref>
+<url>db/conf/iros/iros2006.html#WangLTX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/HuangWX06" mdate="2017-05-22">
+<author pid="60/1518">Bufu Huang</author>
+<author pid="62/2054">Zhancheng Wang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Multi-Objective Genetic Algorithm for Hybrid Electric Vehicle Parameter Optimization.</title>
+<pages>5177-5182</pages>
+<year>2006</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2006.281654</ee>
+<crossref>conf/iros/2006</crossref>
+<url>db/conf/iros/iros2006.html#HuangWX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/MengOLX06" mdate="2017-05-19">
+<author pid="43/1442">Xiaoning Meng</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>An Intelligent Vehicle Security System Based on Modeling Human Driving Behaviors.</title>
+<pages>73-81</pages>
+<year>2006</year>
+<crossref>conf/isnn/2006-3</crossref>
+<booktitle>ISNN (2)</booktitle>
+<ee>https://doi.org/10.1007/11760191_11</ee>
+<url>db/conf/isnn/isnn2006-3.html#MengOLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/HuangXXL06" mdate="2018-06-27">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<title>Learning Control for Space Robotic Operation Using Support Vector Machines.</title>
+<pages>1208-1217</pages>
+<year>2006</year>
+<crossref>conf/isnn/2006-2</crossref>
+<booktitle>ISNN (2)</booktitle>
+<ee>https://doi.org/10.1007/11760023_176</ee>
+<url>db/conf/isnn/isnn2006-2.html#HuangXXL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/WuLLX06" mdate="2020-08-28">
+<author pid="21/1079-1">Xinyu Wu 0001</author>
+<author pid="46/3845">Guoyuan Liang</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Crowd Density Estimation Using Texture Analysis and Learning.</title>
+<pages>214-219</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340379</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340379</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#WuLLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/MengLX06" mdate="2017-05-24">
+<author pid="43/1442">Xiaoning Meng</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Human Driving Behavior Recognition Based on Hidden Markov Models.</title>
+<pages>274-279</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340166</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340166</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#MengLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/HuangXLX06" mdate="2018-06-27">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Configuration Control of Space Robots for Impact Minimization.</title>
+<pages>357-362</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340202</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340202</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#HuangXLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChenHLX06" mdate="2019-05-29">
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="60/1518">Bufu Huang</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>An Intelligent Shoe-Integrated System for Plantar Pressure Measurement.</title>
+<pages>416-421</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340213</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#ChenHLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/HuangCYX06" mdate="2019-05-29">
+<author pid="60/1518">Bufu Huang</author>
+<author pid="25/687-4">Meng Chen 0004</author>
+<author pid="36/7382">Weizhong Ye</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Intelligent Shoes for Human Identification.</title>
+<pages>601-606</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340268</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340268</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#HuangCYX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/WangHLX06" mdate="2017-05-24">
+<author pid="62/2054">Zhancheng Wang</author>
+<author pid="60/1518">Bufu Huang</author>
+<author pid="28/5133">Weimin Li</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Particle Swarm Optimization for Operational Parameters of Series Hybrid Electric Vehicle.</title>
+<pages>682-688</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340289</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340289</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#WangHLX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/HuangX06" mdate="2017-05-24">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>PSO-Based Time-Optimal Trajectory Planning for Space Robot with Dynamic Constraints.</title>
+<pages>1402-1407</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340134</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340134</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#HuangX06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/XuLLQXL06" mdate="2020-11-20">
+<author pid="21/4057">Wenfu Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="16/6465-15">Cheng Li 0015</author>
+<author pid="59/2352">Wenyi Qiang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<title>Non-holonomic Path Planning of Space Robot Based On Genetic Algorithm.</title>
+<pages>1471-1476</pages>
+<year>2006</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2006.340146</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBIO.2006.340146</ee>
+<crossref>conf/robio/2006</crossref>
+<url>db/conf/robio/robio2006.html#XuLLQXL06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0601056" mdate="2018-08-13">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<title>Dynamic Balance Control of Multi-arm Free-Floating Space Robots</title>
+<ee type="oa">http://arxiv.org/abs/cs/0601056</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0601056</volume>
+<url>db/journals/corr/corr0601.html#abs-cs-0601056</url>
+</article>
+</r>
+<r><book key="books/sp/XuO05" mdate="2017-05-16">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<title>Control of Single Wheel Robots</title>
+<volume>20</volume>
+<year>2005</year>
+<pages>1-177</pages>
+<publisher>Springer</publisher>
+<series href="db/series/star/index.html">Springer Tracts in Advanced Robotics</series>
+<ee>https://doi.org/10.1007/b136654</ee>
+<isbn>978-3-540-28184-9</isbn>
+<url>db/series/star/index.html#XuO05</url>
+</book>
+</r>
+<r><article key="journals/ijia/OuQWX05" mdate="2020-07-30">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Real-Time Surveillance Based on Human Behavior Analysis.</title>
+<pages>353-365</pages>
+<year>2005</year>
+<volume>2</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S0219878905000714</ee>
+<url>db/journals/ijia/ijia2.html#OuQWX05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnc/HuSSX05" mdate="2017-05-21">
+<author pid="69/4427">Jianming Hu</author>
+<author pid="68/3889">Xi Shi</author>
+<author pid="05/5464">Jingyan Song</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Optimal Design for Urban Mass Transit Network Based on Evolutionary Algorithms.</title>
+<pages>1089-1100</pages>
+<year>2005</year>
+<crossref>conf/icnc/2005-2</crossref>
+<booktitle>ICNC (2)</booktitle>
+<ee>https://doi.org/10.1007/11539117_148</ee>
+<url>db/conf/icnc/icnc2005-2.html#HuSSX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ShiX05" mdate="2017-05-22">
+<author pid="68/3889">Xi Shi</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Wearable Translation Robot.</title>
+<pages>4400-4405</pages>
+<year>2005</year>
+<crossref>conf/icra/2005</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2005.html#ShiX05</url>
+<ee>https://doi.org/10.1109/ROBOT.2005.1570797</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/YeXL05" mdate="2017-05-22">
+<author pid="36/7382">Weizhong Ye</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<title>Shoe-Mouse: an integrated intelligent shoe.</title>
+<pages>1163-1167</pages>
+<year>2005</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2005.1545262</ee>
+<crossref>conf/iros/2005</crossref>
+<url>db/conf/iros/iros2005.html#YeXL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/HuangXL05" mdate="2018-06-27">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<title>Contact and impact dynamics of space manipulator and free-flying target.</title>
+<pages>1181-1186</pages>
+<year>2005</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2005.1545260</ee>
+<crossref>conf/iros/2005</crossref>
+<url>db/conf/iros/iros2005.html#HuangXL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/WuOQX05" mdate="2017-05-22">
+<author pid="21/1079">Xinyu Wu</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="63/7378">Huihuan Qian</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A detection system for human abnormal behavior.</title>
+<pages>1204-1208</pages>
+<year>2005</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2005.1545205</ee>
+<crossref>conf/iros/2005</crossref>
+<url>db/conf/iros/iros2005.html#WuOQX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/HuangXL05" mdate="2018-06-27">
+<author pid="73/6981">Panfeng Huang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<title>Balance control of multi-arm free-floating space robots during capture operation.</title>
+<pages>398-403</pages>
+<year>2005</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2005.246300</ee>
+<crossref>conf/robio/2005</crossref>
+<url>db/conf/robio/robio2005.html#HuangXL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ZhangLX05" mdate="2017-05-24">
+<author pid="13/4682-15">Ping Zhang 0015</author>
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Context-aware robot service coordination system.</title>
+<pages>410-415</pages>
+<year>2005</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2005.246302</ee>
+<crossref>conf/robio/2005</crossref>
+<url>db/conf/robio/robio2005.html#ZhangLX05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ShiHXS05" mdate="2017-05-24">
+<author pid="68/3889">Xi Shi</author>
+<author pid="69/4427">Jianming Hu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="05/5464">Jingyan Song</author>
+<title>Architecture and simulation of sensor network system for urban surveillance.</title>
+<pages>640-645</pages>
+<year>2005</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2005.246343</ee>
+<crossref>conf/robio/2005</crossref>
+<url>db/conf/robio/robio2005.html#ShiHXS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/cis/GeDX04" mdate="2020-02-11">
+<author pid="90/6479">Ming Ge</author>
+<author pid="94/3837">Ruxu Du</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Condition Monitoring using Marginal Energy and Hidden Markov Model.</title>
+<year>2004</year>
+<volume>32</volume>
+<journal>Control. Intell. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.2316/Journal.201.2004.1.201-1322</ee>
+<url>db/journals/cis/cis32.html#GeDX04</url>
+</article>
+</r>
+<r><article key="journals/ijia/LeeX04" mdate="2020-07-30">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Analysis of Human Walking Trajectories for Surveillance.</title>
+<pages>169-189</pages>
+<year>2004</year>
+<volume>1</volume>
+<journal>Int. J. Inf. Acquis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219878904000161</ee>
+<url>db/journals/ijia/ijia1.html#LeeX04</url>
+</article>
+</r>
+<r><article key="journals/ijra/OuX04" mdate="2020-02-11">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Tracking Control of a Gyroscopically Stabilized Robot.</title>
+<year>2004</year>
+<volume>19</volume>
+<journal>Int. J. Robotics Autom.</journal>
+<number>3</number>
+<ee>https://doi.org/10.2316/Journal.206.2004.3.206-2807</ee>
+<url>db/journals/ijra/ijra19.html#OuX04</url>
+</article>
+</r>
+<r><article key="journals/jaciii/LeeX04" mdate="2021-02-16">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Computational Intelligence for Modeling Human Sensations in Virtual Environments.</title>
+<pages>302-312</pages>
+<year>2004</year>
+<volume>8</volume>
+<journal>J. Adv. Comput. Intell. Intell. Informatics</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.20965/jaciii.2004.p0302</ee>
+<url>db/journals/jaciii/jaciii8.html#LeeX04</url>
+</article>
+</r>
+<r><article key="journals/jim/XuG04" mdate="2020-09-24">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="90/6479">Ming Ge</author>
+<title>Hidden Markov model-based process monitoring system.</title>
+<pages>337-350</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>J. Intell. Manuf.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1023/B%3AJIMS.0000026572.03164.64</ee>
+<url>db/journals/jim/jim15.html#XuG04</url>
+</article>
+</r>
+<r><article key="journals/tsmc/LeeZXL04" mdate="2020-05-18">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="13/4682-15">Ping Zhang 0015</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="71/6053-1">Bin Liang 0001</author>
+<title>An intelligent service-based network architecture for wearable robots.</title>
+<pages>1874-1885</pages>
+<year>2004</year>
+<volume>34</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Part B</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSMCB.2004.830343</ee>
+<ee>https://www.wikidata.org/entity/Q51605079</ee>
+<url>db/journals/tsmc/tsmcb34.html#LeeZXL04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/ChowX04" mdate="2017-05-22">
+<author pid="49/2115">Hon Nin Chow</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Learning and Transferring Human Navigational Skill to Wheelchair.</title>
+<pages>1155-1160</pages>
+<year>2004</year>
+<crossref>conf/icra/2004</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2004.1307980</ee>
+<url>db/conf/icra/icra2004-2.html#ChowX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ChengXC04" mdate="2018-07-05">
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="27/5973">Ronald Chung</author>
+<title>Learning Human Tracking and Intercepting Skill.</title>
+<pages>1161-1166</pages>
+<year>2004</year>
+<crossref>conf/icra/2004</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2004.1307981</ee>
+<url>db/conf/icra/icra2004-2.html#ChengXC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuGD04" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="90/6479">Ming Ge</author>
+<author pid="94/3837">Ruxu Du</author>
+<title>A Real-time Monitoring and Diagnosis System for Manufacturing Automation.</title>
+<pages>1424-1429</pages>
+<year>2004</year>
+<crossref>conf/icra/2004</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2004.1308024</ee>
+<url>db/conf/icra/icra2004-2.html#XuGD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/YuanGQLX04" mdate="2017-05-22">
+<author pid="14/5667">Shui Yuan</author>
+<author pid="90/6479">Ming Ge</author>
+<author pid="70/2594">Hai Qiu</author>
+<author pid="79/5834">Jay Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Intelligent Diagnosis in Electromechanical Operation Systems.</title>
+<pages>2267-2272</pages>
+<year>2004</year>
+<crossref>conf/icra/2004</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2004.1307399</ee>
+<url>db/conf/icra/icra2004-3.html#YuanGQLX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/OuX04" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Convergence Analysis for a Class of Skill Learning Controllers.</title>
+<pages>2653-2658</pages>
+<year>2004</year>
+<crossref>conf/icra/2004</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2004.1307461</ee>
+<url>db/conf/icra/icra2004-3.html#OuX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LeeX04" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Boundary Modeling in Human Walking Trajectory Analysis for Surveillance.</title>
+<pages>5201-5205</pages>
+<year>2004</year>
+<crossref>conf/icra/2004</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2004.1302543</ee>
+<url>db/conf/icra/icra2004-5.html#LeeX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/OuX04" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Piecewise human learning control for dynamically stable systems.</title>
+<pages>2642-2647</pages>
+<year>2004</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2004.1389807</ee>
+<crossref>conf/iros/2004</crossref>
+<url>db/conf/iros/iros2004.html#OuX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LeeX04" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Modeling human actions from learning.</title>
+<pages>2787-2792</pages>
+<year>2004</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2004.1389831</ee>
+<crossref>conf/iros/2004</crossref>
+<url>db/conf/iros/iros2004.html#LeeX04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robio/ChengXC04" mdate="2018-07-05">
+<author pid="78/5816-2">Jun Cheng 0002</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="27/5973">Ronald Chung</author>
+<title>Training Sample Selection in Learning Control.</title>
+<pages>368-373</pages>
+<year>2004</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2004.1521806</ee>
+<crossref>conf/robio/2004</crossref>
+<url>db/conf/robio/robio2004.html#ChengXC04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0412050" mdate="2018-08-13">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Gyroscopically Stabilized Robot: Balance and Tracking</title>
+<ee type="oa">http://arxiv.org/abs/cs/0412050</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0412050</volume>
+<url>db/journals/corr/corr0412.html#abs-cs-0412050</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/LeeZX03" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="13/4682-15">Ping Zhang 0015</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A service-based network architecture for wearable robots.</title>
+<pages>1671-1676</pages>
+<year>2003</year>
+<crossref>conf/icra/2003</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2003.html#LeeZX03</url>
+<ee>https://doi.org/10.1109/ROBOT.2003.1241834</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LeeX03" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Real-time estimation of facial expression intensity.</title>
+<pages>2567-2572</pages>
+<year>2003</year>
+<crossref>conf/icra/2003</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2003.html#LeeX03</url>
+<ee>https://doi.org/10.1109/ROBOT.2003.1241979</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/OuX03" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Learning human control strategy for dynamically stable robots: support vector machine approach.</title>
+<pages>3455-3460</pages>
+<year>2003</year>
+<crossref>conf/icra/2003</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2003.html#OuX03</url>
+<ee>https://doi.org/10.1109/ROBOT.2003.1242124</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/OuX03a" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>On learning control with limited training data.</title>
+<pages>4148-4153</pages>
+<year>2003</year>
+<crossref>conf/icra/2003</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2003.html#OuX03a</url>
+<ee>https://doi.org/10.1109/ROBOT.2003.1242235</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/OuX03" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Input selection for learning human control strategy.</title>
+<pages>668-673</pages>
+<year>2003</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2003.1250706</ee>
+<crossref>conf/iros/2003</crossref>
+<url>db/conf/iros/iros2003.html#OuX03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LeeYX03" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="98/11236">Maolin Yu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Modeling of human walking trajectories for surveillance.</title>
+<pages>1554-1559</pages>
+<year>2003</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2003.1248865</ee>
+<crossref>conf/iros/2003</crossref>
+<url>db/conf/iros/iros2003.html#LeeYX03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ras/XuSNY02" mdate="2020-02-24">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="05/5464">Jingyan Song</author>
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="y/YeungYam">Yeung Yam</author>
+<title>Performance evaluation and optimization of human control strategy.</title>
+<pages>19-36</pages>
+<year>2002</year>
+<volume>39</volume>
+<journal>Robotics Auton. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0921-8890(02)00169-0</ee>
+<url>db/journals/ras/ras39.html#XuSNY02</url>
+</article>
+</r>
+<r><article key="journals/scl/HongXH02" mdate="2020-02-24">
+<author pid="75/1606">Yiguang Hong</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="29/6643-1">Jie Huang 0001</author>
+<title>Finite-time control for robot manipulators.</title>
+<pages>243-253</pages>
+<year>2002</year>
+<volume>46</volume>
+<journal>Syst. Control. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/S0167-6911(02)00130-5</ee>
+<ee>https://www.wikidata.org/entity/Q56404242</ee>
+<url>db/journals/scl/scl46.html#HongXH02</url>
+</article>
+</r>
+<r><article key="journals/trob/ZhangWX02" mdate="2020-05-19">
+<author pid="74/1336">Yunong Zhang</author>
+<author orcid="0000-0002-1305-5735" pid="w/JunWang2">Jun Wang 0002</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A dual neural network for bi-criteria kinematic control of redundant manipulators.</title>
+<pages>923-931</pages>
+<year>2002</year>
+<volume>18</volume>
+<journal>IEEE Trans. Robotics Autom.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TRA.2002.805651</ee>
+<url>db/journals/trob/trob18.html#ZhangWX02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/OuX02" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Stabilization and Line Tracking of the Gyroscopically Stabilized Robot.</title>
+<pages>1753-1758</pages>
+<year>2002</year>
+<crossref>conf/icra/2002</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2002.html#OuX02</url>
+<ee>https://doi.org/10.1109/ROBOT.2002.1014795</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LawX02" mdate="2017-05-22">
+<author pid="46/5872">Cedric Kwok-ho Law</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Shared Control for Navigation and Balance of a Dynamically Stable Robot.</title>
+<pages>1985-1990</pages>
+<year>2002</year>
+<crossref>conf/icra/2002</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2002.html#LawX02</url>
+<ee>https://doi.org/10.1109/ROBOT.2002.1014832</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/ChowXT02" mdate="2017-05-22">
+<author pid="49/2115">Hon Nin Chow</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="38/4872">S. K. Tso</author>
+<title>Learning human navigational skill for smart wheelchair.</title>
+<pages>996-1001</pages>
+<year>2002</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IRDS.2002.1041520</ee>
+<crossref>conf/iros/2002</crossref>
+<url>db/conf/iros/iros2002.html#ChowXT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/WangOX02" mdate="2017-05-22">
+<author pid="19/1924">Qi Wang</author>
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A prototype virtual haptic bronchoscope.</title>
+<pages>1361-1366</pages>
+<year>2002</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IRDS.2002.1043944</ee>
+<crossref>conf/iros/2002</crossref>
+<url>db/conf/iros/iros2002.html#WangOX02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LawLXT02" mdate="2017-05-22">
+<author pid="46/5872">Cedric Kwok-ho Law</author>
+<author pid="130/8619">Martin Yun-yee Leung</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="38/4872">S. K. Tso</author>
+<title>A cap as interface for wheelchair control.</title>
+<pages>1439-1444</pages>
+<year>2002</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IRDS.2002.1043957</ee>
+<crossref>conf/iros/2002</crossref>
+<url>db/conf/iros/iros2002.html#LawLXT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/OuX02" mdate="2017-05-22">
+<author pid="43/1562">Yongsheng Ou</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Balance control of a single wheel robot.</title>
+<pages>2043-2048</pages>
+<year>2002</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IRDS.2002.1044056</ee>
+<crossref>conf/iros/2002</crossref>
+<url>db/conf/iros/iros2002.html#OuX02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijis/NechybaX01" mdate="2017-05-27">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>On learning discontinuous human control strategies.</title>
+<pages>547-570</pages>
+<year>2001</year>
+<volume>16</volume>
+<journal>Int. J. Intell. Syst.</journal>
+<number>4</number>
+<url>db/journals/ijis/ijis16.html#NechybaX01</url>
+<ee>https://doi.org/10.1002/int.1023</ee>
+</article>
+</r>
+<r><article key="journals/tac/HongHX01" mdate="2020-05-20">
+<author pid="75/1606">Yiguang Hong</author>
+<author pid="29/6643-1">Jie Huang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>On an output feedback finite-time stabilization problem.</title>
+<pages>305-309</pages>
+<year>2001</year>
+<volume>46</volume>
+<journal>IEEE Trans. Autom. Control.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/9.905699</ee>
+<url>db/journals/tac/tac46.html#HongHX01</url>
+</article>
+</r>
+<r><article key="journals/titb/XuZ01" mdate="2020-05-13">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="31/1014">Jiong Zhang</author>
+<title>Abstracting human control strategy in projecting light source.</title>
+<pages>27-32</pages>
+<year>2001</year>
+<volume>5</volume>
+<journal>IEEE Trans. Inf. Technol. Biomed.</journal>
+<number>1</number>
+<url>db/journals/titb/titb5.html#XuZ01</url>
+<ee>https://doi.org/10.1109/4233.908376</ee>
+<ee>https://www.wikidata.org/entity/Q52065914</ee>
+</article>
+</r>
+<r><inproceedings key="conf/iros/LeeX01" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Input reduction in human sensation modeling using independent component analysis.</title>
+<pages>1854-1859</pages>
+<year>2001</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2001.976343</ee>
+<crossref>conf/iros/2001</crossref>
+<url>db/conf/iros/iros2001.html#LeeX01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LeeX00" mdate="2017-05-22">
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Trajectory Fitting with Smoothing Splines using Velocity Information.</title>
+<pages>2796-2801</pages>
+<year>2000</year>
+<crossref>conf/icra/2000</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2000.html#LeeX00</url>
+<ee>https://doi.org/10.1109/ROBOT.2000.846451</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/AuX00" mdate="2017-05-22">
+<author pid="08/2877">Kwok Wai Au</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Path Following of a Single Wheel Robot.</title>
+<pages>2925-2930</pages>
+<year>2000</year>
+<crossref>conf/icra/2000</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2000.html#AuX00</url>
+<ee>https://doi.org/10.1109/ROBOT.2000.846472</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/DongXW00" mdate="2017-05-22">
+<author pid="28/2711">Wenjie Dong</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="19/1924">Qi Wang</author>
+<title>On Tracking Control of Mobile Manipulators.</title>
+<pages>3455-3460</pages>
+<year>2000</year>
+<crossref>conf/icra/2000</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2000.html#DongXW00</url>
+<ee>https://doi.org/10.1109/ROBOT.2000.845262</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuS00" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="17/1391">Loi Wah Sun</author>
+<title>Stabilization of a Gyroscopically Stabilized Robot on an Inclined Plane.</title>
+<pages>3549-3554</pages>
+<year>2000</year>
+<crossref>conf/icra/2000</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2000.html#XuS00</url>
+<ee>https://doi.org/10.1109/ROBOT.2000.845284</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LeeX00" mdate="2017-05-22">
+<author pid="27/3075">Ka Keung Lee</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Human sensation modeling in virtual environments.</title>
+<pages>151-156</pages>
+<year>2000</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2000.894597</ee>
+<crossref>conf/iros/2000</crossref>
+<url>db/conf/iros/iros2000.html#LeeX00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuS00" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="17/1391">Loi Wah Sun</author>
+<title>Dynamics of a rolling disk and a single wheel robot on an inclined plane.</title>
+<pages>811-816</pages>
+<year>2000</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2000.894704</ee>
+<crossref>conf/iros/2000</crossref>
+<url>db/conf/iros/iros2000.html#XuS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iser/KwokZLX00" mdate="2017-06-02">
+<author pid="50/5079">Michael Y. F. Kwok</author>
+<author pid="47/4297">Wenli Zhou</author>
+<author pid="249/2391">Wen J. Li</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Micro Nafion Actuators for Cellular Motion Control and Underwater Manipulation.</title>
+<pages>471-480</pages>
+<ee>https://doi.org/10.1007/3-540-45118-8_47</ee>
+<year>2000</year>
+<crossref>conf/iser/2000</crossref>
+<booktitle>ISER</booktitle>
+<url>db/conf/iser/iser2000.html#KwokZLX00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrr/XuBA99" mdate="2020-09-17">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="69/5268">H. Benjamin Brown Jr.</author>
+<author pid="08/2877">Kwok Wai Au</author>
+<title>Dynamic Mobility with Single-Wheel Configuration.</title>
+<pages>728-738</pages>
+<year>1999</year>
+<volume>18</volume>
+<journal>Int. J. Robotics Res.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1177/02783649922066538</ee>
+<url>db/journals/ijrr/ijrr18.html#XuBA99</url>
+</article>
+</r>
+<r><article key="journals/jirs/LeeX99" mdate="2020-04-07">
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Message-Based Evaluation in Scheme for High-Level Robot Control.</title>
+<pages>109-119</pages>
+<year>1999</year>
+<volume>25</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1023/A:1008077331047</ee>
+<url>db/journals/jirs/jirs25.html#LeeX99</url>
+</article>
+</r>
+<r><article key="journals/trob/LiuXB99" mdate="2020-05-19">
+<author pid="l/YunhuiLiu">Yun-Hui Liu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="32/1929">Marcel Bergerman</author>
+<title>Cooperation control of multiple manipulators with passive joints.</title>
+<pages>258-267</pages>
+<year>1999</year>
+<volume>15</volume>
+<journal>IEEE Trans. Robotics Autom.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/70.760347</ee>
+<url>db/journals/trob/trob15.html#LiuXB99</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/SongXNY99" mdate="2017-05-22">
+<author pid="05/5464">Jingyan Song</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="y/YeungYam">Yeung Yam</author>
+<title>Transfer of Human Control Strategy Based on Similarity Measure.</title>
+<pages>3134-3139</pages>
+<year>1999</year>
+<crossref>conf/icra/1999</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1999-4.html#SongXNY99</url>
+<ee>https://doi.org/10.1109/ROBOT.1999.774075</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ZhangX99" mdate="2017-05-22">
+<author pid="31/1014">Jiong Zhang</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Modeling of Human Strategy in Controlling Light Source.</title>
+<pages>3140-3145</pages>
+<year>1999</year>
+<crossref>conf/icra/1999</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1999-4.html#ZhangX99</url>
+<ee>https://doi.org/10.1109/ROBOT.1999.774076</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/AuX99" mdate="2017-05-22">
+<author pid="08/2877">Kwok Wai Au</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Decoupled dynamics and stabilization of single wheel robot.</title>
+<pages>197-203</pages>
+<year>1999</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1999.813004</ee>
+<crossref>conf/iros/1999</crossref>
+<url>db/conf/iros/iros1999.html#AuX99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuYA99" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="27/3974">Wai-Kuen Yu</author>
+<author pid="08/2877">Kwok Wai Au</author>
+<title>Modeling human strategy in controlling a dynamically stabilized robot.</title>
+<pages>507-512</pages>
+<year>1999</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1999.813054</ee>
+<crossref>conf/iros/1999</crossref>
+<url>db/conf/iros/iros1999.html#XuYA99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iser/XuAY99" mdate="2017-06-02">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="08/2877">Kwok Wai Au</author>
+<author pid="27/3974">Wai-Kuen Yu</author>
+<title>Control of a Gyroscopically Stabilized Robot.</title>
+<pages>215-224</pages>
+<year>1999</year>
+<crossref>conf/iser/1999</crossref>
+<booktitle>ISER</booktitle>
+<url>db/conf/iser/iser1999.html#XuAY99</url>
+<ee>https://doi.org/10.1007/BFb0119400</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jfr/BergermanX98" mdate="2017-05-28">
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Optimal control of manipulators with any number of passive joints.</title>
+<pages>115-129</pages>
+<year>1998</year>
+<volume>15</volume>
+<journal>J. Field Robotics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/(SICI)1097-4563(199803)15:3&#60;115::AID-ROB1&#62;3.0.CO;2-T</ee>
+<url>db/journals/jfr/jfr15.html#BergermanX98</url>
+</article>
+</r>
+<r><article key="journals/trob/NechybaX98" mdate="2020-05-19">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Stochastic similarity for validating human control strategy models.</title>
+<pages>437-451</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>IEEE Trans. Robotics Autom.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/70.678453</ee>
+<url>db/journals/trob/trob14.html#NechybaX98</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/LeeX98" mdate="2017-05-22">
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Message-Based Evaluation for High-Level Robot Control.</title>
+<pages>844-849</pages>
+<year>1998</year>
+<crossref>conf/icra/1998</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1998-1.html#LeeX98</url>
+<ee>https://doi.org/10.1109/ROBOT.1998.677090</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NechybaX98" mdate="2017-05-22">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>On Discontinuous Human Control Strategies.</title>
+<pages>2237-2243</pages>
+<year>1998</year>
+<crossref>conf/icra/1998</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1998-3.html#NechybaX98</url>
+<ee>https://doi.org/10.1109/ROBOT.1998.680656</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/SongXNY98" mdate="2017-05-22">
+<author pid="05/5464">Jingyan Song</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="y/YeungYam">Yeung Yam</author>
+<title>Two Performances Measures for Evaluating Human Control Strategy.</title>
+<pages>2250-2255</pages>
+<year>1998</year>
+<crossref>conf/icra/1998</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1998-3.html#SongXNY98</url>
+<ee>https://doi.org/10.1109/ROBOT.1998.680658</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NandyX98" mdate="2017-05-22">
+<author pid="31/3841">Gora C. Nandy</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Dynamic Model of a Gyroscopic Wheel.</title>
+<pages>2683-2688</pages>
+<year>1998</year>
+<crossref>conf/icra/1998</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1998-3.html#NandyX98</url>
+<ee>https://doi.org/10.1109/ROBOT.1998.680751</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/BergermanXL98" mdate="2017-05-22">
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="l/YunhuiLiu">Yun-Hui Liu</author>
+<title>Robust control of cooperative underactuated manipulators.</title>
+<pages>443-448</pages>
+<year>1998</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1998.724659</ee>
+<crossref>conf/iros/1998</crossref>
+<url>db/conf/iros/iros1998.html#BergermanXL98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/SongXYN98" mdate="2017-05-22">
+<author pid="05/5464">Jingyan Song</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="y/YeungYam">Yeung Yam</author>
+<author pid="95/5148">Michael C. Nechyba</author>
+<title>Optimization of human control strategy with simultaneously perturbed stochastic approximation.</title>
+<pages>983-988</pages>
+<year>1998</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1998.727427</ee>
+<crossref>conf/iros/1998</crossref>
+<url>db/conf/iros/iros1998.html#SongXYN98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/PeiX98" mdate="2017-05-22">
+<author pid="46/10025">Hai-Long Pei</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Control of underactuated free floating robots in space.</title>
+<pages>1364-1369</pages>
+<year>1998</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1998.727489</ee>
+<crossref>conf/iros/1998</crossref>
+<url>db/conf/iros/iros1998.html#PeiX98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuANB98" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="08/2877">Kwok Wai Au</author>
+<author pid="31/3841">Gora C. Nandy</author>
+<author pid="69/5268">H. Ben Brown</author>
+<title>Analysis of actuation and dynamic balancing for a single-wheel robot.</title>
+<pages>1789-1794</pages>
+<year>1998</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1998.724856</ee>
+<crossref>conf/iros/1998</crossref>
+<url>db/conf/iros/iros1998.html#XuANB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LeeX98" mdate="2017-05-22">
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Reduced-dimension representations of human performance data for human-to-robot skill transfer.</title>
+<pages>1956-1961</pages>
+<year>1998</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1998.724888</ee>
+<crossref>conf/iros/1998</crossref>
+<url>db/conf/iros/iros1998.html#LeeX98</url>
+</inproceedings>
+</r>
+<r><article key="journals/jaciii/NechybaX97" mdate="2021-02-16">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Learning and Transfer of Human Real-Time Control Strategies.</title>
+<pages>137-154</pages>
+<year>1997</year>
+<volume>1</volume>
+<journal>J. Adv. Comput. Intell. Intell. Informatics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.20965/jaciii.1997.p0137</ee>
+<url>db/journals/jaciii/jaciii1.html#NechybaX97</url>
+</article>
+</r>
+<r><article key="journals/ram/BrownX97" mdate="2020-05-18">
+<author pid="69/5268">H. Benjamin Brown Jr.</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A single wheel, gyroscopically stabilized robot.</title>
+<pages>39-44</pages>
+<year>1997</year>
+<volume>4</volume>
+<journal>IEEE Robotics Autom. Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/100.618022</ee>
+<url>db/journals/ram/ram4.html#BrownX97</url>
+</article>
+</r>
+<r><article key="journals/tsmc/YangXC97" mdate="2020-05-25">
+<author pid="12/1198-1">Jie Yang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="33/4748">C. S. Chen</author>
+<title>Human action learning via hidden Markov model.</title>
+<pages>34-44</pages>
+<year>1997</year>
+<volume>27</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Part A</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/3468.553220</ee>
+<url>db/journals/tsmc/tsmca27.html#YangXC97</url>
+</article>
+</r>
+<r><inproceedings key="conf/cira/NechybaX97" mdate="2017-05-23">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Cascade neural networks with node-decoupled extended Kalman filtering.</title>
+<pages>214-219</pages>
+<year>1997</year>
+<booktitle>CIRA</booktitle>
+<ee>https://doi.org/10.1109/CIRA.1997.613860</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CIRA.1997.613860</ee>
+<crossref>conf/cira/1997</crossref>
+<url>db/conf/cira/cira1997.html#NechybaX97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NechybaX97" mdate="2017-05-22">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Stochastic similarity for validating human control strategy models.</title>
+<pages>278-283</pages>
+<year>1997</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1997.620051</ee>
+<crossref>conf/icra/1997</crossref>
+<url>db/conf/icra/icra1997.html#NechybaX97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/BergermanX97" mdate="2017-05-22">
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Planning collision-free motions for underactuated manipulators in constrained configuration space.</title>
+<pages>549-555</pages>
+<year>1997</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1997.620094</ee>
+<crossref>conf/icra/1997</crossref>
+<url>db/conf/icra/icra1997.html#BergermanX97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/QuaidXH97" mdate="2017-05-22">
+<author pid="21/5893">Arthur E. Quaid</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="77/6457">Ralph L. Hollis</author>
+<title>Force characterization and commutation of planar linear motors.</title>
+<pages>1202-1207</pages>
+<year>1997</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1997.614301</ee>
+<crossref>conf/icra/1997</crossref>
+<url>db/conf/icra/icra1997.html#QuaidXH97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LiuX97" mdate="2017-05-22">
+<author pid="l/YunhuiLiu">Yun-Hui Liu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Cooperation of multiple manipulators with passive joints.</title>
+<pages>1478-1483</pages>
+<year>1997</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1997.614347</ee>
+<crossref>conf/icra/1997</crossref>
+<url>db/conf/icra/icra1997.html#LiuX97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LiangXB97" mdate="2018-06-27">
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="32/1929">Marcel Bergerman</author>
+<title>Dynamically equivalent manipulator for space manipulator system. 1.</title>
+<pages>2765-2770</pages>
+<year>1997</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1997.606705</ee>
+<crossref>conf/icra/1997</crossref>
+<url>db/conf/icra/icra1997.html#LiangXB97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LiangXBL97" mdate="2018-06-27">
+<author pid="71/6053-1">Bin Liang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="132/8122">Gengtian Li</author>
+<title>Dynamically equivalent manipulator for space manipulator system. 2.</title>
+<pages>1493-1499</pages>
+<year>1997</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1997.656556</ee>
+<crossref>conf/iros/1997</crossref>
+<url>db/conf/iros/iros1997.html#LiangXBL97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuLB96" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="69/5268">H. Benjamin Brown Jr.</author>
+<title>A separable combination of wheeled rover and arm mechanism: (DM)<sup>2</sup>.</title>
+<pages>2383-2388</pages>
+<year>1996</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1996.506520</ee>
+<crossref>conf/icra/1996</crossref>
+<url>db/conf/icra/icra1996.html#XuLB96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NechybaX96" mdate="2017-05-22">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>On the fidelity of human skill models.</title>
+<pages>2688-2693</pages>
+<year>1996</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1996.506568</ee>
+<crossref>conf/icra/1996</crossref>
+<url>db/conf/icra/icra1996.html#NechybaX96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LeeX96" mdate="2017-05-22">
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Online, interactive learning of gestures for human/robot interfaces.</title>
+<pages>2982-2987</pages>
+<year>1996</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1996.509165</ee>
+<crossref>conf/icra/1996</crossref>
+<url>db/conf/icra/icra1996.html#LeeX96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/BrownX96" mdate="2017-05-22">
+<author pid="69/5268">H. Benjamin Brown Jr.</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A single-wheel, gyroscopically stabilized robot.</title>
+<pages>3658-3663</pages>
+<year>1996</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1996.509270</ee>
+<crossref>conf/icra/1996</crossref>
+<url>db/conf/icra/icra1996.html#BrownX96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/BergermanX96" mdate="2017-05-22">
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Optimal control sequence for underactuated manipulators.</title>
+<pages>3714-3719</pages>
+<year>1996</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1996.509279</ee>
+<crossref>conf/icra/1996</crossref>
+<url>db/conf/icra/icra1996.html#BergermanX96</url>
+</inproceedings>
+</r>
+<r><article key="journals/cad/XuMK95" mdate="2020-02-13">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="33/8412">Raju S. Mattikalli</author>
+<author pid="k/PradeepKKhosla">Pradeep K. Khosla</author>
+<title>Determining two minimal circumscribing discs for a polygon.</title>
+<pages>223-234</pages>
+<year>1995</year>
+<volume>27</volume>
+<journal>Comput. Aided Des.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0010-4485(95)95871-B</ee>
+<url>db/journals/cad/cad27.html#XuMK95</url>
+</article>
+</r>
+<r><article key="journals/jfr/BergermanLX95" mdate="2017-05-28">
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A dynamic coupling index for underactuated manipulators.</title>
+<pages>693-707</pages>
+<year>1995</year>
+<volume>12</volume>
+<journal>J. Field Robotics</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/rob.4620121006</ee>
+<url>db/journals/jfr/jfr12.html#BergermanLX95</url>
+</article>
+</r>
+<r><article key="journals/jirs/DouglasX95" mdate="2020-04-07">
+<author pid="71/1736">Alexander Douglas</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Real-time shared control system for space telerobotics.</title>
+<pages>247-262</pages>
+<year>1995</year>
+<volume>13</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/BF01424009</ee>
+<url>db/journals/jirs/jirs13.html#DouglasX95</url>
+</article>
+</r>
+<r><article key="journals/ram/NechybaX95" mdate="2020-05-18">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Human-robot cooperation in space: SM<sup>2</sup> for new space station structure.</title>
+<pages>4-11</pages>
+<year>1995</year>
+<volume>2</volume>
+<journal>IEEE Robotics Autom. Mag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/100.476624</ee>
+<url>db/journals/ram/ram2.html#NechybaX95</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/NechybaX95" mdate="2017-05-22">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Human skill transfer: neural networks as learners and teachers.</title>
+<pages>314-319</pages>
+<year>1995</year>
+<booktitle>IROS (3)</booktitle>
+<ee>https://doi.org/10.1109/IROS.1995.525902</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IROS.1995.525902</ee>
+<crossref>conf/iros/1995</crossref>
+<url>db/conf/iros/iros1995.html#NechybaX95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/BergermanLX95" mdate="2017-05-22">
+<author pid="32/1929">Marcel Bergerman</author>
+<author pid="88/5593-1">Christopher Lee 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Experimental study of an underactuated manipulator.</title>
+<pages>317-322</pages>
+<year>1995</year>
+<booktitle>IROS (2)</booktitle>
+<ee>https://doi.org/10.1109/IROS.1995.526235</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IROS.1995.526235</ee>
+<crossref>conf/iros/1995</crossref>
+<url>db/conf/iros/iros1995.html#BergermanLX95</url>
+</inproceedings>
+</r>
+<r><article key="journals/jfr/XuS94" mdate="2017-05-28">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="s/HarryShum">Heung-Yeung Shum</author>
+<title>Dynamic control and coupling of a free-flying space robot system.</title>
+<pages>573-589</pages>
+<year>1994</year>
+<volume>11</volume>
+<journal>J. Field Robotics</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/rob.4620110702</ee>
+<url>db/journals/jfr/jfr11.html#XuS94</url>
+</article>
+</r>
+<r><article key="journals/jirs/XuU94" mdate="2020-04-07">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="63/2784">Hiroshi Ueno</author>
+<title>Modeling and configuration-independent control of a self-mobile space manipulator.</title>
+<pages>37-58</pages>
+<year>1994</year>
+<volume>10</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF01276704</ee>
+<url>db/journals/jirs/jirs10.html#XuU94</url>
+</article>
+</r>
+<r><article key="journals/ras/XuBAK94" mdate="2020-02-24">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="69/5268">H. Ben Brown</author>
+<author pid="99/5906">Shigeru Aoki</author>
+<author pid="k/TakeoKanade">Takeo Kanade</author>
+<title>Mobility and manipulation of a light-weight space robot.</title>
+<pages>1-12</pages>
+<year>1994</year>
+<volume>13</volume>
+<journal>Robotics Auton. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0921-8890(94)90058-2</ee>
+<url>db/journals/ras/ras13.html#XuBAK94</url>
+</article>
+</r>
+<r><article key="journals/tcst/XuBFK94" mdate="2020-06-08">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="69/5268">H. Benjamin Brown Jr.</author>
+<author pid="120/0191">Mark Friedman</author>
+<author pid="k/TakeoKanade">Takeo Kanade</author>
+<title>Control system of the self-mobile space manipulator.</title>
+<pages>207-219</pages>
+<year>1994</year>
+<volume>2</volume>
+<journal>IEEE Trans. Control. Syst. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/87.317978</ee>
+<url>db/journals/tcst/tcst2.html#XuBFK94</url>
+</article>
+</r>
+<r><article key="journals/trob/0001XC94" mdate="2020-05-19">
+<author pid="12/1198-1">Jie Yang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="33/4748">C. S. Chen</author>
+<title>Hidden Markov model approach to skill learning and its application to telerobotics.</title>
+<pages>621-631</pages>
+<year>1994</year>
+<volume>10</volume>
+<journal>IEEE Trans. Robotics Autom.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/70.326567</ee>
+<ee>https://www.wikidata.org/entity/Q52213697</ee>
+<url>db/journals/trob/trob10.html#0001XC94</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/YangXC94" mdate="2017-05-22">
+<author pid="12/1198-1">Jie Yang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="33/4748">C. S. Chen</author>
+<title>Gesture Interface: Modeling and Learning.</title>
+<pages>1747-1752</pages>
+<year>1994</year>
+<crossref>conf/icra/1994</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1994-2.html#YangXC94</url>
+<ee>https://doi.org/10.1109/ROBOT.1994.351340</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NechybaX94" mdate="2017-05-22">
+<author pid="95/5148">Michael C. Nechyba</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>SM<sup>2</sup> for New Space Station Structure: Autonomous Locomotion and Teleoperation Control.</title>
+<pages>1765-1770</pages>
+<year>1994</year>
+<crossref>conf/icra/1994</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1994-2.html#NechybaX94</url>
+<ee>https://doi.org/10.1109/ROBOT.1994.351337</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ijrr/SinhaXBP93" mdate="2020-09-17">
+<author pid="00/4024">Pramath R. Sinha</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="b/RuzenaBajcsy">Ruzena Bajcsy</author>
+<author pid="41/6841">Richard P. Paul</author>
+<title>Robotic Exploration of Surfaces With a Compliant Wrist Sensor.</title>
+<pages>107-120</pages>
+<year>1993</year>
+<volume>12</volume>
+<journal>Int. J. Robotics Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/027836499301200201</ee>
+<url>db/journals/ijrr/ijrr12.html#SinhaXBP93</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/NewtonX93" mdate="2017-05-22">
+<author pid="43/1708">R. Todd Newton</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Real-Time Implementation of Neural Network Learning Control of a Flexible Space Manipulator.</title>
+<pages>135-141</pages>
+<year>1993</year>
+<crossref>conf/icra/1993</crossref>
+<booktitle>ICRA (1)</booktitle>
+<url>db/conf/icra/icra1993-1.html#NewtonX93</url>
+<ee>https://doi.org/10.1109/ROBOT.1993.291973</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/YangXC93" mdate="2017-05-22">
+<author pid="12/1198-1">Jie Yang 0001</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="33/4748">C. S. Chen</author>
+<title>Hidden Markov Model Approach to Skill Learning and Its Application in Telerobotics.</title>
+<pages>396-402</pages>
+<year>1993</year>
+<crossref>conf/icra/1993</crossref>
+<booktitle>ICRA (1)</booktitle>
+<url>db/conf/icra/icra1993-1.html#YangXC93</url>
+<ee>https://doi.org/10.1109/ROBOT.1993.292013</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/Xu93" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<title>The Measure of Dynamic Coupling of Space Robot Systems.</title>
+<pages>615-620</pages>
+<year>1993</year>
+<crossref>conf/icra/1993</crossref>
+<booktitle>ICRA (3)</booktitle>
+<url>db/conf/icra/icra1993-3.html#Xu93</url>
+<ee>https://doi.org/10.1109/ROBOT.1993.291837</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/GuX93" mdate="2017-05-22">
+<author pid="63/4951">You-Liang Gu</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>A Normal Form Augmentation Approach to Adaptive Control of Space Robot Systems.</title>
+<pages>731-737</pages>
+<year>1993</year>
+<crossref>conf/icra/1993</crossref>
+<booktitle>ICRA (2)</booktitle>
+<url>db/conf/icra/icra1993-2.html#GuX93</url>
+<ee>https://doi.org/10.1109/ROBOT.1993.291872</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/TsoLXS93" mdate="2017-05-22">
+<author pid="38/4872">S. K. Tso</author>
+<author pid="137/1989">P. L. Law</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="s/HarryShum">Heung-Yeung Shum</author>
+<title>Implementing model-based variable-structure controllers for robot manipulators with actuator modelling.</title>
+<pages>701-707</pages>
+<year>1993</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1993.583137</ee>
+<crossref>conf/iros/1993</crossref>
+<url>db/conf/iros/iros1993.html#TsoLXS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuN93" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="95/5148">Michael C. Nechyba</author>
+<title>Fuzzy inverse kinematic mapping: rule generation, efficiency, and implementation.</title>
+<pages>911-918</pages>
+<year>1993</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1993.583251</ee>
+<crossref>conf/iros/1993</crossref>
+<url>db/conf/iros/iros1993.html#XuN93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/WhiteX93" mdate="2017-05-22">
+<author pid="137/2030">Gregory C. White</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>An active Z gravity compensation system.</title>
+<pages>1181-1187</pages>
+<year>1993</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1993.583352</ee>
+<crossref>conf/iros/1993</crossref>
+<url>db/conf/iros/iros1993.html#WhiteX93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/DouglasX93" mdate="2017-05-22">
+<author pid="71/1736">Alexander Douglas</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<title>Real-time shared control system for space telerobotics.</title>
+<pages>2117-2122</pages>
+<year>1993</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1993.583923</ee>
+<crossref>conf/iros/1993</crossref>
+<url>db/conf/iros/iros1993.html#DouglasX93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuBFK92" mdate="2019-02-14">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="69/5268">H. Benjamin Brown</author>
+<author pid="120/0191">Mark Friedman</author>
+<author pid="k/TakeoKanade">Takeo Kanade</author>
+<title>Control system of Self-Mobile Space Manipulator.</title>
+<pages>866-871</pages>
+<year>1992</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1992.220187</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBOT.1992.220187</ee>
+<crossref>conf/icra/1992</crossref>
+<url>db/conf/icra/icra1992.html#XuBFK92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuSLK92" mdate="2019-02-14">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="s/HarryShum">Heung-Yeung Shum</author>
+<author pid="44/1289">Ju-Jang Lee</author>
+<author pid="k/TakeoKanade">Takeo Kanade</author>
+<title>Adaptive control of space robot system with an attitude controlled base.</title>
+<pages>2005-2010</pages>
+<year>1992</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1992.219986</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBOT.1992.219986</ee>
+<crossref>conf/icra/1992</crossref>
+<url>db/conf/icra/icra1992.html#XuSLK92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/XuBAK92" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="69/5268">H. Ben Brown</author>
+<author pid="99/5906">Shigeru Aoki</author>
+<author pid="k/TakeoKanade">Takeo Kanade</author>
+<title>Mobility And Manipulation Of A Light-weight Space Robot.</title>
+<pages>11-19</pages>
+<year>1992</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1992.587291</ee>
+<crossref>conf/iros/1992</crossref>
+<url>db/conf/iros/iros1992.html#XuBAK92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/TsoXS91" mdate="2019-02-14">
+<author pid="38/4872">S. K. Tso</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="s/HarryShum">Heung-Yeung Shum</author>
+<title>Variable structure model reference adaptive control of robot manipulators.</title>
+<pages>2148-2153</pages>
+<year>1991</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1991.131946</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBOT.1991.131946</ee>
+<crossref>conf/icra/1991</crossref>
+<url>db/conf/icra/icra1991.html#TsoXS91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/UenoXY91" mdate="2017-05-22">
+<author pid="63/2784">Hiroshi Ueno</author>
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="37/6429">Tetsuji Yoshida</author>
+<title>Modeling and control strategy of a 3-D flexible space robot.</title>
+<pages>978-983</pages>
+<year>1991</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.1991.174616</ee>
+<crossref>conf/iros/1991</crossref>
+<url>db/conf/iros/iros1991.html#UenoXY91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuP90" mdate="2018-12-07">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="41/6841">Richard P. Paul</author>
+<title>A robot compliant wrist system for automated assembly.</title>
+<pages>1750-1755</pages>
+<year>1990</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1990.126262</ee>
+<crossref>conf/icra/1990</crossref>
+<url>db/conf/icra/icra1990.html#XuP90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iser/XuPC89" mdate="2017-06-02">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="41/6841">Richard P. Paul</author>
+<author pid="75/3524">Peter I. Corke</author>
+<title>Hybrid Position Force Control of Robot Manipulator with an Instrumented Compliant Wrist.</title>
+<pages>244-270</pages>
+<year>1989</year>
+<crossref>conf/iser/1989</crossref>
+<booktitle>ISER</booktitle>
+<url>db/conf/iser/iser1989.html#XuPC89</url>
+<ee>https://doi.org/10.1007/BFb0042524</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/XuP88" mdate="2017-05-22">
+<author pid="34/5276">Yangsheng Xu</author>
+<author pid="41/6841">Richard P. Paul</author>
+<title>On position compensation and force control stability of a robot with a compliant wrist.</title>
+<pages>1173-1178</pages>
+<year>1988</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1988.12220</ee>
+<crossref>conf/icra/1988</crossref>
+<url>db/conf/icra/icra1988.html#XuP88</url>
+</inproceedings>
+</r>
+<coauthors n="235" nc="4">
+<co c="0"><na f="a/Aoki:Shigeru" pid="99/5906">Shigeru Aoki</na></co>
+<co c="0"><na f="a/Au:Kwok_Wai" pid="08/2877">Kwok Wai Au</na></co>
+<co c="0"><na f="b/Bae:Heechul" pid="218/3589">Heechul Bae</na></co>
+<co c="1"><na f="b/Bajcsy:Ruzena" pid="b/RuzenaBajcsy">Ruzena Bajcsy</na></co>
+<co c="0"><na f="b/Bergerman:Marcel" pid="32/1929">Marcel Bergerman</na></co>
+<co c="0"><na f="b/Brophy:Eoin" pid="232/2312">Eoin Brophy</na></co>
+<co c="0" n="3"><na f="b/Brown:H=_Benjamin" pid="69/5268">H. Benjamin Brown</na><na>H. Benjamin Brown Jr.</na><na>H. Ben Brown</na></co>
+<co c="0"><na f="c/Cai_0001:Deng" pid="c/DCai">Deng Cai 0001</na></co>
+<co c="0"><na f="c/Cao:Tian" pid="04/8067">Tian Cao</na></co>
+<co c="0"><na f="c/Chan:Rosa_H=_M=" pid="86/7576">Rosa H. M. Chan</na></co>
+<co c="0"><na f="c/Chang:Tianhai" pid="74/11185">Tianhai Chang</na></co>
+<co c="0"><na f="c/Chen:Baoquan" pid="23/4197">Baoquan Chen</na></co>
+<co c="3"><na f="c/Chen:C=_S=" pid="33/4748">C. S. Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Chunjie" pid="99/8174">Chunjie Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Guangchen" pid="139/3628">Guangchen Chen</na></co>
+<co c="0"><na f="c/Chen:Hongjie" pid="80/4761">Hongjie Chen</na></co>
+<co c="0"><na f="c/Chen:Kai" pid="181/2839">Kai Chen</na></co>
+<co c="0"><na f="c/Chen_0004:Meng" pid="25/687-4">Meng Chen 0004</na></co>
+<co c="0"><na f="c/Chen:Pei" pid="98/4148">Pei Chen</na></co>
+<co c="0"><na f="c/Chen:Steve_H=" pid="176/9897">Steve H. Chen</na></co>
+<co c="0"><na f="c/Chen:Xu" pid="83/6331">Xu Chen</na></co>
+<co c="0"><na f="c/Chen:Yen=Lun" pid="40/8106">Yen-Lun Chen</na></co>
+<co c="0"><na f="c/Chen:Yongquan" pid="50/9969">Yongquan Chen</na></co>
+<co c="0"><na f="c/Chen:Yufeng" pid="64/5715">Yufeng Chen</na></co>
+<co c="0"><na f="c/Cheng_0002:Jun" pid="78/5816-2">Jun Cheng 0002</na></co>
+<co c="0"><na f="c/Cheng:Zhu" pid="67/8605">Zhu Cheng</na></co>
+<co c="0"><na f="c/Chow:Hon_Nin" pid="49/2115">Hon Nin Chow</na></co>
+<co c="0"><na f="c/Chung:Ronald" pid="27/5973">Ronald Chung</na></co>
+<co c="0"><na f="c/Chung:Wingkwong" pid="67/2675">Wingkwong Chung</na></co>
+<co c="1"><na f="c/Corke:Peter_I=" pid="75/3524">Peter I. Corke</na></co>
+<co c="0"><na f="c/Cui:Ning" pid="08/10793">Ning Cui</na></co>
+<co c="0"><na f="d/Deng:Fuhao" pid="216/8470">Fuhao Deng</na></co>
+<co c="0"><na f="d/Deng:Lei" pid="96/755">Lei Deng</na></co>
+<co c="0"><na f="d/Ding:Ning" pid="04/4910">Ning Ding</na></co>
+<co c="0"><na f="d/Ding:Wenhao" pid="215/3667">Wenhao Ding</na></co>
+<co c="0"><na f="d/Dong:Wenjie" pid="28/2711">Wenjie Dong</na></co>
+<co c="-1"><na f="d/Douglas:Alexander" pid="71/1736">Alexander Douglas</na></co>
+<co c="0"><na f="d/Du:Ruxu" pid="94/3837">Ruxu Du</na></co>
+<co c="0"><na f="d/Dzodzo:Borislav" pid="143/0188">Borislav Dzodzo</na></co>
+<co c="0"><na f="f/Fan:Fufei" pid="216/8292">Fufei Fan</na></co>
+<co c="0"><na f="f/Feng:Fan" pid="13/7763">Fan Feng</na></co>
+<co c="0"><na f="f/Feng:Huiwei" pid="122/3884">Huiwei Feng</na></co>
+<co c="0"><na f="f/Feng_0009:Wei" pid="17/1152-9">Wei Feng 0009</na></co>
+<co c="0"><na f="f/Friedman:Mark" pid="120/0191">Mark Friedman</na></co>
+<co c="0"><na f="f/Fu:Ruiqing" pid="43/8729">Ruiqing Fu</na></co>
+<co c="0"><na f="f/Fung:Kenneth_S=_M=" pid="70/5685">Kenneth S. M. Fung</na></co>
+<co c="0"><na f="g/Gao:Dai" pid="53/10005">Dai Gao</na></co>
+<co c="0"><na f="g/Gao:Qiao" pid="121/6099">Qiao Gao</na></co>
+<co c="0"><na f="g/Gao:Zenghao" pid="237/8901">Zenghao Gao</na></co>
+<co c="0"><na f="g/Ge:Ming" pid="90/6479">Ming Ge</na></co>
+<co c="0"><na f="g/Goel:Vidit" pid="264/0146">Vidit Goel</na></co>
+<co c="0"><na f="g/Gong:Haitao" pid="44/6220">Haitao Gong</na></co>
+<co c="0"><na f="g/Graffieti:Gabriele" pid="264/0161">Gabriele Graffieti</na></co>
+<co c="-1"><na f="g/Gu:You=Liang" pid="63/4951">You-Liang Gu</na></co>
+<co c="0"><na f="g/Guo:Jinnian" pid="122/3883">Jinnian Guo</na></co>
+<co c="0"><na f="h/Han:Hyonyoung" pid="30/7164">Hyonyoung Han</na></co>
+<co c="0"><na f="h/Han:Liangliang" pid="143/0501">Liangliang Han</na></co>
+<co c="0"><na f="h/Han:Long" pid="18/4158">Long Han</na></co>
+<co c="0"><na f="h/Hao:Xinyue" pid="254/1162">Xinyue Hao</na></co>
+<co c="0"><na f="h/He:Yanhong" pid="176/6830">Yanhong He</na></co>
+<co c="0"><na f="h/Hollis:Ralph_L=" pid="77/6457">Ralph L. Hollis</na></co>
+<co c="2"><na f="h/Hong:Yiguang" pid="75/1606">Yiguang Hong</na></co>
+<co c="0"><na f="h/Hou:Kai_Wing" pid="143/0403">Kai Wing Hou</na></co>
+<co c="0"><na f="h/Hu:Jianming" pid="69/4427">Jianming Hu</na></co>
+<co c="0"><na f="h/Huang:Bufu" pid="60/1518">Bufu Huang</na></co>
+<co c="2"><na f="h/Huang_0001:Jie" pid="29/6643-1">Jie Huang 0001</na></co>
+<co c="0"><na f="h/Huang:Panfeng" pid="73/6981">Panfeng Huang</na></co>
+<co c="0"><na f="j/Jiang:Guolai" pid="128/0658">Guolai Jiang</na></co>
+<co c="0"><na f="j/Jiang:Xinyu" pid="25/5891">Xinyu Jiang</na></co>
+<co c="0"><na f="j/Jin:Dongbin" pid="193/2467">Dongbin Jin</na></co>
+<co c="0"><na f="k/Kanade:Takeo" pid="k/TakeoKanade">Takeo Kanade</na></co>
+<co c="0"><na f="k/Kanagarajah:Sathursan" pid="264/0168">Sathursan Kanagarajah</na></co>
+<co c="0"><na f="k/Khajepour:Amir" pid="45/2370">Amir Khajepour</na></co>
+<co c="0"><na f="k/Khosla:Pradeep_K=" pid="k/PradeepKKhosla">Pradeep K. Khosla</na></co>
+<co c="0"><na f="k/Kumar:Somesh" pid="35/111">Somesh Kumar</na></co>
+<co c="0"><na f="k/Kwok:Michael_Y=_F=" pid="50/5079">Michael Y. F. Kwok</na></co>
+<co c="0"><na f="l/Lam:Edmund_Y=" pid="87/5852">Edmund Y. Lam</na></co>
+<co c="0"><na f="l/Lam:Siew=Kei" pid="74/1907">Siew-Kei Lam</na></co>
+<co c="0"><na f="l/Lam:Tin_Lun" pid="41/7736">Tin Lun Lam</na></co>
+<co c="0"><na f="l/Lan:Chuanlin" pid="254/1041">Chuanlin Lan</na></co>
+<co c="0"><na f="l/Law:Cedric_Kwok=ho" pid="46/5872">Cedric Kwok-ho Law</na></co>
+<co c="0"><na f="l/Law:P=_L=" pid="137/1989">P. L. Law</na></co>
+<co c="0"><na f="l/Lee_0001:Christopher" pid="88/5593-1">Christopher Lee 0001</na></co>
+<co c="0"><na f="l/Lee:Jay" pid="79/5834">Jay Lee</na></co>
+<co c="0"><na f="l/Lee:Ju=Jang" pid="44/1289">Ju-Jang Lee</na></co>
+<co c="0"><na f="l/Lee:Ka_Keung" pid="27/3075">Ka Keung Lee</na></co>
+<co c="0"><na f="l/Lee:Kit=Hang" pid="140/2385">Kit-Hang Lee</na></co>
+<co c="0"><na f="l/Lei:Xiangyu" pid="215/3414">Xiangyu Lei</na></co>
+<co c="0"><na f="l/Leung:Martin_Yun=yee" pid="130/8619">Martin Yun-yee Leung</na></co>
+<co c="0"><na f="l/Li_0015:Cheng" pid="16/6465-15">Cheng Li 0015</na></co>
+<co c="0"><na f="l/Li:Chongguo" pid="122/3826">Chongguo Li</na></co>
+<co c="0"><na f="l/Li:Deyi" pid="58/1153">Deyi Li</na></co>
+<co c="0"><na f="l/Li:Gengtian" pid="132/8122">Gengtian Li</na></co>
+<co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
+<co c="0"><na f="l/Li:Jiangbo" pid="60/4237">Jiangbo Li</na></co>
+<co c="0"><na f="l/Li:Shuaijun" pid="74/302">Shuaijun Li</na></co>
+<co c="0"><na f="l/Li:Wei" pid="64/6025">Wei Li</na></co>
+<co c="0"><na f="l/Li:Weimin" pid="28/5133">Weimin Li</na></co>
+<co c="0"><na f="l/Li:Wen_J=" pid="249/2391">Wen J. Li</na></co>
+<co c="0"><na f="l/Li:Yu" pid="34/2997">Yu Li</na></co>
+<co c="0"><na f="l/Liang_0001:Bin" pid="71/6053-1">Bin Liang 0001</na></co>
+<co c="0"><na f="l/Liang:Guoyuan" pid="46/3845">Guoyuan Liang</na></co>
+<co c="0"><na f="l/Liang:Yuanjie" pid="122/0791">Yuanjie Liang</na></co>
+<co c="0"><na f="l/Lin:Chuan" pid="65/434">Chuan Lin</na></co>
+<co c="0"><na f="l/Liu:Gang" pid="37/2109">Gang Liu</na></co>
+<co c="0"><na f="l/Liu_0007:Jia" pid="49/1245-7">Jia Liu 0007</na></co>
+<co c="0"><na f="l/Liu:Jianming" pid="20/303">Jianming Liu</na></co>
+<co c="0"><na f="l/Liu:Niansheng" pid="50/5324">Niansheng Liu</na></co>
+<co c="0"><na f="l/Liu:Pengfei" pid="34/3381">Pengfei Liu</na></co>
+<co c="0"><na f="l/Liu:Qi" pid="95/2446">Qi Liu</na></co>
+<co c="0"><na f="l/Liu:Wan" pid="125/0840">Wan Liu</na></co>
+<co c="0"><na f="l/Liu:Yijun" pid="41/3457">Yijun Liu</na></co>
+<co c="0"><na f="l/Liu_0036:Yu" pid="97/2274-36">Yu Liu 0036</na></co>
+<co c="0"><na f="l/Liu:Yuanyuan" pid="97/2119">Yuanyuan Liu</na></co>
+<co c="0" n="2"><na f="l/Liu:Yunhui" pid="l/YunhuiLiu">Yunhui Liu</na><na>Yun-Hui Liu</na></co>
+<co c="0"><na f="l/Lomonaco_0001:Vincenzo" pid="157/5127-1">Vincenzo Lomonaco 0001</na></co>
+<co c="0"><na f="l/Lu:Yan" pid="15/4830">Yan Lu</na></co>
+<co c="0"><na f="m/Ma:Liang" pid="83/5831">Liang Ma</na></co>
+<co c="0"><na f="m/Maltoni:Davide" pid="89/6473">Davide Maltoni</na></co>
+<co c="0"><na f="m/Mattikalli:Raju_S=" pid="33/8412">Raju S. Mattikalli</na></co>
+<co c="0"><na f="m/Melek:William_W=" pid="09/5229">William W. Melek</na></co>
+<co c="0"><na f="m/Meng:Xiaoning" pid="43/1442">Xiaoning Meng</na></co>
+<co c="0"><na f="m/Meng:Yu" pid="30/4233">Yu Meng</na></co>
+<co c="0"><na f="n/Nandy:Gora_C=" pid="31/3841">Gora C. Nandy</na></co>
+<co c="0"><na f="n/Nechyba:Michael_C=" pid="95/5148">Michael C. Nechyba</na></co>
+<co c="-1"><na f="n/Newton:R=_Todd" pid="43/1708">R. Todd Newton</na></co>
+<co c="0"><na f="o/Ou:Yongsheng" pid="43/1562">Yongsheng Ou</na></co>
+<co c="0"><na f="p/Parisi:German_Ignacio" pid="139/5833">German Ignacio Parisi</na></co>
+<co c="1"><na f="p/Paul:Richard_P=" pid="41/6841">Richard P. Paul</na></co>
+<co c="-1"><na f="p/Pei:Hai=Long" pid="46/10025">Hai-Long Pei</na></co>
+<co c="0"><na f="p/Pellegrini:Lorenzo" pid="244/9896">Lorenzo Pellegrini</na></co>
+<co c="0"><na f="p/Piyasena:Duvindu" pid="228/2441">Duvindu Piyasena</na></co>
+<co c="0"><na f="p/Pu:Shiliang" pid="155/3173">Shiliang Pu</na></co>
+<co c="0"><na f="q/Qi:Ronghuai" pid="28/11183">Ronghuai Qi</na></co>
+<co c="0"><na f="q/Qian:Huihuan" pid="63/7378">Huihuan Qian</na></co>
+<co c="0"><na f="q/Qiang:Wenyi" pid="59/2352">Wenyi Qiang</na></co>
+<co c="0"><na f="q/Qin:Jianzhao" pid="74/918">Jianzhao Qin</na></co>
+<co c="0"><na f="q/Qiu:Hai" pid="70/2594">Hai Qiu</na></co>
+<co c="0"><na f="q/Quaid:Arthur_E=" pid="21/5893">Arthur E. Quaid</na></co>
+<co c="0"><na f="r/Ren:Fuji" pid="17/4005">Fuji Ren</na></co>
+<co c="0"><na f="s/She:Qi" pid="171/7773">Qi She</na></co>
+<co c="0"><na f="s/Sheet:Debdoot" pid="120/3909">Debdoot Sheet</na></co>
+<co c="0"><na f="s/Shi:Xi" pid="68/3889">Xi Shi</na></co>
+<co c="0"><na f="s/Shi:Xin" pid="70/4115">Xin Shi</na></co>
+<co c="0" n="2"><na f="s/Shum:Harry" pid="s/HarryShum">Harry Shum</na><na>Heung-Yeung Shum</na></co>
+<co c="1"><na f="s/Sinha:Pramath_R=" pid="00/4024">Pramath R. Sinha</na></co>
+<co c="0"><na f="s/Son:Youngsung" pid="46/5636">Youngsung Son</na></co>
+<co c="0"><na f="s/Song:Dezhen" pid="16/3547">Dezhen Song</na></co>
+<co c="0"><na f="s/Song:Jingyan" pid="05/5464">Jingyan Song</na></co>
+<co c="0"><na f="s/Song:Soonyong" pid="19/10892">Soonyong Song</na></co>
+<co c="0"><na f="s/Sun:Jianquan" pid="05/7650">Jianquan Sun</na></co>
+<co c="0"><na f="s/Sun:Jianwei" pid="139/3561">Jianwei Sun</na></co>
+<co c="-1"><na f="s/Sun:Loi_Wah" pid="17/1391">Loi Wah Sun</na></co>
+<co c="0"><na f="s/Sun:Yuandong" pid="69/11182">Yuandong Sun</na></co>
+<co c="0"><na f="t/Tang:Cheng" pid="14/11534">Cheng Tang</na></co>
+<co c="0"><na f="t/Tang:Yunjian" pid="142/7026">Yunjian Tang</na></co>
+<co c="0"><na f="t/Tao:Yanbo" pid="51/11184">Yanbo Tao</na></co>
+<co c="0"><na f="t/Tong:Hang" pid="55/690">Hang Tong</na></co>
+<co c="0"><na f="t/Tso:S=_K=" pid="38/4872">S. K. Tso</na></co>
+<co c="0"><na f="u/Ueno:Hiroshi" pid="63/2784">Hiroshi Ueno</na></co>
+<co c="0"><na f="w/Wang:Chengjiang" pid="143/0282">Chengjiang Wang</na></co>
+<co c="0"><na f="w/Wang:Congling" pid="86/10446">Congling Wang</na></co>
+<co c="0"><na f="w/Wang:Jian" pid="39/449">Jian Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Jun" pid="w/JunWang2">Jun Wang 0002</na></co>
+<co c="0"><na f="w/Wang:Keke" pid="124/8808">Keke Wang</na></co>
+<co c="0"><na f="w/Wang:Peter" pid="24/1633">Peter Wang</na></co>
+<co c="0"><na f="w/Wang:Qi" pid="19/1924">Qi Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Wenxiao" pid="243/5853-1">Wenxiao Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Xingchao" pid="71/10365">Xingchao Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Xueqian" pid="43/3563-1">Xueqian Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yafeng" pid="47/6911">Yafeng Wang</na></co>
+<co c="0"><na f="w/Wang:Zhancheng" pid="62/2054">Zhancheng Wang</na></co>
+<co c="0"><na f="w/Wang:Zhao" pid="86/981">Zhao Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengwei" pid="161/8313">Zhengwei Wang</na></co>
+<co c="0"><na f="w/Wang:Zhifeng" pid="55/497">Zhifeng Wang</na></co>
+<co c="0" n="2"><na f="w/Ward:Tom=aacute=s" pid="45/5296">Tom&#225;s Ward</na><na>Tomas E. Ward</na></co>
+<co c="-1"><na f="w/White:Gregory_C=" pid="137/2030">Gregory C. White</na></co>
+<co c="0"><na f="w/Wu:Gaolin" pid="143/0139">Gaolin Wu</na></co>
+<co c="0"><na f="w/Wu:Jianwen" pid="216/4699">Jianwen Wu</na></co>
+<co c="0"><na f="w/Wu:Meiqing" pid="119/4173">Meiqing Wu</na></co>
+<co c="0"><na f="w/Wu:Xinyu" pid="21/1079">Xinyu Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Xinyu" pid="21/1079-1">Xinyu Wu 0001</na></co>
+<co c="0"><na f="x/Xia:Chenggang" pid="122/0620">Chenggang Xia</na></co>
+<co c="0"><na f="x/Xie:Benliang" pid="34/2204">Benliang Xie</na></co>
+<co c="0"><na f="x/Xie:Di" pid="38/7733">Di Xie</na></co>
+<co c="0"><na f="x/Xie:Qunqun" pid="128/0659">Qunqun Xie</na></co>
+<co c="0"><na f="x/Xing:Kexin" pid="86/8714">Kexin Xing</na></co>
+<co c="0"><na f="x/Xiong:Guogang" pid="70/11183">Guogang Xiong</na></co>
+<co c="0"><na f="x/Xiong:Jiongtao" pid="195/9124">Jiongtao Xiong</na></co>
+<co c="0"><na f="x/Xu:Dan" pid="16/3823">Dan Xu</na></co>
+<co c="0"><na f="x/Xu:Guiyun" pid="03/665">Guiyun Xu</na></co>
+<co c="0"><na f="x/Xu:Guoqing" pid="35/4211">Guoqing Xu</na></co>
+<co c="0"><na f="x/Xu:Ke" pid="181/2626">Ke Xu</na></co>
+<co c="0"><na f="x/Xu:Kun" pid="29/6948">Kun Xu</na></co>
+<co c="0"><na f="x/Xu:Wenfu" pid="21/4057">Wenfu Xu</na></co>
+<co c="0"><na f="x/Xu:Yun" pid="11/1627">Yun Xu</na></co>
+<co c="0"><na f="y/Yam:Yeung" pid="y/YeungYam">Yeung Yam</na></co>
+<co c="0"><na f="y/Yan:Jingyu" pid="66/4128">Jingyu Yan</na></co>
+<co c="3"><na f="y/Yang_0001:Jie" pid="12/1198-1">Jie Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Lin" pid="20/2970">Lin Yang</na></co>
+<co c="0"><na f="y/Yang:Qihan" pid="236/6119">Qihan Yang</na></co>
+<co c="0"><na f="y/Yang:Yong" pid="11/357">Yong Yang</na></co>
+<co c="0"><na f="y/Ye:Linji" pid="143/0147">Linji Ye</na></co>
+<co c="0"><na f="y/Ye:Weizhong" pid="36/7382">Weizhong Ye</na></co>
+<co c="0"><na f="y/Ye:Xiangrong" pid="195/9025">Xiangrong Ye</na></co>
+<co c="0"><na f="y/Yip:Hoi_Wut" pid="123/6734">Hoi Wut Yip</na></co>
+<co c="0"><na f="y/Yoshida:Tetsuji" pid="37/6429">Tetsuji Yoshida</na></co>
+<co c="0"><na f="y/Yu:Chenxiao" pid="237/8859">Chenxiao Yu</na></co>
+<co c="0"><na f="y/Yu:Maolin" pid="98/11236">Maolin Yu</na></co>
+<co c="0"><na f="y/Yu:Shiqi" pid="33/4210">Shiqi Yu</na></co>
+<co c="0"><na f="y/Yu:Wai=Kuen" pid="27/3974">Wai-Kuen Yu</na></co>
+<co c="0"><na f="y/Yu_0002:Xiao" pid="89/2407-2">Xiao Yu 0002</na></co>
+<co c="0"><na f="y/Yuan:Jianping" pid="33/6885">Jianping Yuan</na></co>
+<co c="0"><na f="y/Yuan:Shui" pid="14/5667">Shui Yuan</na></co>
+<co c="0"><na f="z/Zhang:Bin" pid="13/5236">Bin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Chi" pid="91/195">Chi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Guanghua" pid="62/1225">Guanghua Zhang</na></co>
+<co c="0"><na f="z/Zhang:Guilin" pid="48/5081">Guilin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiaming" pid="81/10010">Jiaming Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jianning" pid="44/2157">Jianning Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jintao" pid="03/6834">Jintao Zhang</na></co>
+<co c="-1"><na f="z/Zhang:Jiong" pid="31/1014">Jiong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lei" pid="97/8704">Lei Zhang</na></co>
+<co c="0"><na f="z/Zhang_0015:Ping" pid="13/4682-15">Ping Zhang 0015</na></co>
+<co c="0"><na f="z/Zhang:Xuezhen" pid="121/6247">Xuezhen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yunong" pid="74/1336">Yunong Zhang</na></co>
+<co c="0"><na f="z/Zhao_0006:Shuai" pid="116/8682-6">Shuai Zhao 0006</na></co>
+<co c="0"><na f="z/Zhao:Zhixu" pid="122/0651">Zhixu Zhao</na></co>
+<co c="0"><na f="z/Zheng:Duan" pid="116/6420">Duan Zheng</na></co>
+<co c="0"><na f="z/Zhong:Qiaoyong" pid="137/5944">Qiaoyong Zhong</na></co>
+<co c="0"><na f="z/Zhong:Zhi" pid="16/4623">Zhi Zhong</na></co>
+<co c="0"><na f="z/Zhou:Liguang" pid="216/8298">Liguang Zhou</na></co>
+<co c="0"><na f="z/Zhou:Qiaoyun" pid="122/3865">Qiaoyun Zhou</na></co>
+<co c="0"><na f="z/Zhou:Wenli" pid="47/4297">Wenli Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yuhongze" pid="266/8372">Yuhongze Zhou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,3 +1,775 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dc8b3625f331077850874837acf1ab88ad52cacc5b690d7623f054cf8ccd4ce
-size 35437
+<?xml version="1.0"?>
+<dblpperson name="Chunyang Chen" pid="180/7246" n="44">
+<person key="homepages/180/7246" mdate="2020-02-12">
+<author pid="180/7246">Chunyang Chen</author>
+<url>https://orcid.org/0000-0003-2011-9618</url>
+</person>
+<r><article key="journals/tse/ChenXLX21" mdate="2021-04-07">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author orcid="0000-0001-7663-1421" pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0001-7300-9215" pid="51/3710-3">Yang Liu 0003</author>
+<author pid="288/2882">Kent Ong Long Xiong</author>
+<title>Mining Likely Analogical APIs Across Third-Party Libraries via Large-Scale Unsupervised API Semantics Embedding.</title>
+<pages>432-447</pages>
+<year>2021</year>
+<volume>47</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSE.2019.2896123</ee>
+<url>db/journals/tse/tse47.html#ChenXLX21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-04401" mdate="2021-01-22">
+<author pid="250/5220">Yujin Huang</author>
+<author pid="59/3754">Han Hu</author>
+<author pid="180/7246">Chunyang Chen</author>
+<title>Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps.</title>
+<year>2021</year>
+<volume>abs/2101.04401</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.04401</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-04401</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-06896" mdate="2021-01-22">
+<author pid="87/4523">Yuanchun Li</author>
+<author pid="251/9425">Jiayi Hua</author>
+<author pid="50/8499">Haoyu Wang</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="55/3521">Yunxin Liu</author>
+<title>DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.</title>
+<year>2021</year>
+<volume>abs/2101.06896</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.06896</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-06896</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-09978" mdate="2021-02-01">
+<author pid="196/5052">Tianming Zhao</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="42/3493">Yuanning Liu</author>
+<author pid="08/2470-1">Xiaodong Zhu 0001</author>
+<title>GUIGAN: Learning to Generate GUI Designs Using Generative Adversarial Networks.</title>
+<year>2021</year>
+<volume>abs/2101.09978</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.09978</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-09978</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-00826" mdate="2021-02-09">
+<author pid="246/8357">Kaibo Cao</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="145/3950">Sebastian Baltes</author>
+<author pid="29/1074">Christoph Treude</author>
+<author pid="64/3062">Xiang Chen</author>
+<title>Automated Query Reformulation for Efficient Search based on Query Logs From Stack Overflow.</title>
+<year>2021</year>
+<volume>abs/2102.00826</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.00826</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-00826</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-07085" mdate="2021-03-23">
+<author pid="202/6440">Jieshan Chen</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="06/2072-1">Xin Xia 0001</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="g/JohnCGrundy">John C. Grundy</author>
+<author pid="49/10504">Jinshui Wang</author>
+<title>Wireframe-Based UI Design Search Through Image Autoencoder.</title>
+<year>2021</year>
+<volume>abs/2103.07085</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.07085</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-07085</url>
+</article>
+</r>
+<r><article key="journals/access/LiDAPCC20" mdate="2020-04-15">
+<author orcid="0000-0003-3382-0219" pid="09/1365-76">Xin Li 0076</author>
+<author orcid="0000-0002-1492-6344" pid="231/5592">Yifan Dang</author>
+<author orcid="0000-0002-5473-6684" pid="93/9156">Mohammad Aazam</author>
+<author orcid="0000-0002-6635-5117" pid="88/4646">Xia Peng</author>
+<author orcid="0000-0002-9335-5067" pid="14/8596">Tefang Chen</author>
+<author pid="180/7246">Chunyang Chen</author>
+<title>Energy-Efficient Computation Offloading in Vehicular Edge Cloud Computing.</title>
+<pages>37632-37644</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.2975310</ee>
+<url>db/journals/access/access8.html#LiDAPCC20</url>
+</article>
+</r>
+<r><article key="journals/cse/ChenXCZLCL20" mdate="2020-04-15">
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="176/6817">Chaoqun Xiang</author>
+<author pid="18/793">Shu Cheng</author>
+<author pid="26/4462">Liu Zhi</author>
+<author pid="233/1994">Kaidi Li</author>
+<author pid="185/7925">Yating Chen</author>
+<author pid="09/1365-76">Xin Li 0076</author>
+<title>A Novel Transition Strategy of Hybrid Direct Torque Control.</title>
+<pages>53-63</pages>
+<year>2020</year>
+<volume>22</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MCSE.2018.276145908</ee>
+<url>db/journals/cse/cse22.html#ChenXCZLCL20</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/ChenFLXZ20" mdate="2020-12-29">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="252/6246">Sidong Feng</author>
+<author pid="96/8612">Zhengyang Liu</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="23/1695">Shengdong Zhao</author>
+<title>From Lost to Found: Discover Missing UI Design Semantics through Recovering Missing Tags.</title>
+<pages>123:1-123:22</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3415194</ee>
+<url>db/journals/pacmhci/pacmhci4.html#ChenFLXZ20</url>
+</article>
+</r>
+<r><article key="journals/tosem/ChenCXXZGW20" mdate="2020-09-05">
+<author pid="202/6440">Jieshan Chen</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="06/2072-1">Xin Xia 0001</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="g/JohnCGrundy">John C. Grundy</author>
+<author pid="49/10504">Jinshui Wang</author>
+<title>Wireframe-based UI Design Search through Image Autoencoder.</title>
+<pages>19:1-19:31</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3391613</ee>
+<url>db/journals/tosem/tosem29.html#ChenCXXZGW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/Chen20" mdate="2020-12-29">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<title>SimilarAPI: mining analogical APIs for library migration.</title>
+<pages>37-40</pages>
+<year>2020</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3377812.3382140</ee>
+<ee>https://ieeexplore.ieee.org/document/9270290</ee>
+<crossref>conf/icse/2020c</crossref>
+<url>db/conf/icse/icse2020c.html#Chen20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ChenCXXZ0W20" mdate="2021-01-08">
+<author pid="202/6440">Jieshan Chen</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="47/3196">Xiwei Xu</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<author pid="49/10504">Jinshui Wang</author>
+<title>Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning.</title>
+<pages>322-334</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380327</ee>
+<ee>https://ieeexplore.ieee.org/document/9284063</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#ChenCXXZ0W20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ZhaoXCXZ0W20" mdate="2021-01-08">
+<author pid="172/8138">Dehai Zhao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="47/3196">Xiwei Xu</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<author pid="49/10504">Jinshui Wang</author>
+<title>Seenomaly: vision-based linting of GUI animation effects against design-don't guidelines.</title>
+<pages>1286-1297</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380411</ee>
+<ee>https://ieeexplore.ieee.org/document/9284093</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#ZhaoXCXZ0W20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LiuCWHHW20" mdate="2021-02-12">
+<author pid="70/1220">Zhe Liu</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="14/1915-1">Junjie Wang 0001</author>
+<author pid="274/1316">Yuekai Huang</author>
+<author pid="28/441">Jun Hu</author>
+<author pid="97/6505-1">Qing Wang 0001</author>
+<title>Owl Eyes: Spotting UI Display Issues via Visual Understanding.</title>
+<pages>398-409</pages>
+<year>2020</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3324884.3416547</ee>
+<ee>https://ieeexplore.ieee.org/document/9286056</ee>
+<crossref>conf/kbse/2020</crossref>
+<url>db/conf/kbse/ase2020.html#LiuCWHHW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/ChenXXCXZ020" mdate="2020-11-10">
+<author pid="202/6440">Jieshan Chen</author>
+<author pid="272/5233">Mulong Xie</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="47/3196">Xiwei Xu</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<title>Object detection for graphical user interface: old fashioned or deep learning or a combination?</title>
+<pages>1202-1214</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409691</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#ChenXXCXZ020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/WangCXG20" mdate="2020-11-10">
+<author pid="67/1771">Han Wang</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="g/JohnCGrundy">John C. Grundy</author>
+<title>DiffTech: a tool for differencing similar technologies from question-and-answer discussions.</title>
+<pages>1576-1580</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3417931</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#WangCXG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/XieFXCC20" mdate="2020-11-10">
+<author pid="272/5233">Mulong Xie</author>
+<author pid="252/6246">Sidong Feng</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="202/6440">Jieshan Chen</author>
+<author pid="180/7246">Chunyang Chen</author>
+<title>UIED: a hybrid tool for GUI element detection.</title>
+<pages>1655-1659</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3417940</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#XieFXCC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-00380" mdate="2020-03-10">
+<author pid="202/6440">Jieshan Chen</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="47/3196">Xiwei Xu</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<author pid="49/10504">Jinshui Wang</author>
+<title>Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.</title>
+<year>2020</year>
+<volume>abs/2003.00380</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.00380</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-00380</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-05132" mdate="2020-09-15">
+<author pid="202/6440">Jieshan Chen</author>
+<author pid="272/5233">Mulong Xie</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="47/3196">Xiwei Xu</author>
+<author pid="52/4318">Liming Zhu</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<title>Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?</title>
+<year>2020</year>
+<volume>abs/2008.05132</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.05132</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-05132</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-06895" mdate="2020-08-21">
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="252/6246">Sidong Feng</author>
+<author pid="96/8612">Zhengyang Liu</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="23/1695">Shengdong Zhao</author>
+<title>From Lost to Found: Discover Missing UI Design Semantics through Recovering Missing Tags.</title>
+<year>2020</year>
+<volume>abs/2008.06895</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.06895</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-06895</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-01417" mdate="2020-10-13">
+<author pid="70/1220">Zhe Liu</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="14/1915-1">Junjie Wang 0001</author>
+<author pid="274/1316">Yuekai Huang</author>
+<author pid="28/441">Jun Hu</author>
+<author pid="97/6505-1">Qing Wang 0001</author>
+<title>Owl Eyes: Spotting UI Display Issues via Visual Understanding.</title>
+<year>2020</year>
+<volume>abs/2009.01417</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.01417</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-01417</url>
+</article>
+</r>
+<r><article key="journals/cse/LiCCYXW19" mdate="2020-03-12">
+<author pid="233/1994">Kaidi Li</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="18/793">Shu Cheng</author>
+<author pid="233/2374">Tianjian Yu</author>
+<author pid="176/6817">Chaoqun Xiang</author>
+<author pid="145/5672">Xun Wu</author>
+<title>A Novel Fault-Tolerant Control Technique for an Inverter With Hysteresis Current.</title>
+<pages>92-102</pages>
+<year>2019</year>
+<volume>21</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MCSE.2018.2886194</ee>
+<url>db/journals/cse/cse21.html#LiCCYXW19</url>
+</article>
+</r>
+<r><article key="journals/ese/ChenXL19" mdate="2020-08-25">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>What's Spain's Paris? Mining analogical libraries from Q&#38;A discussions.</title>
+<pages>1155-1194</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-018-9657-y</ee>
+<url>db/journals/ese/ese24.html#ChenXL19</url>
+</article>
+</r>
+<r><article key="journals/ese/WangCX19" mdate="2020-08-25">
+<author pid="181/2815">Xu Wang</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<title>Domain-specific machine translation with recurrent neural network for software localization.</title>
+<pages>3514-3545</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10664-019-09702-z</ee>
+<url>db/journals/ese/ese24.html#WangCX19</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/ChenFXLZW19" mdate="2020-09-05">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="252/6246">Sidong Feng</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="05/7791">Linda Liu</author>
+<author pid="23/1695">Shengdong Zhao</author>
+<author orcid="0000-0003-1733-8481" pid="49/10504">Jinshui Wang</author>
+<title>Gallery D.C.: Design Search and Knowledge Discovery through Auto-created GUI Component Gallery.</title>
+<pages>180:1-180:22</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3359282</ee>
+<url>db/journals/pacmhci/pacmhci3.html#ChenFXLZW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/agro-geoinformatics/WangLLCHG19" mdate="2019-10-08">
+<author pid="07/3313">Jiahui Wang</author>
+<author pid="62/1052">Liang Liang</author>
+<author pid="07/1429">Han Li</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="29/825">Ting Huang</author>
+<author pid="145/0814">Di Geng</author>
+<title>Interpretation of the Report on Temporal Dynamics and Spatial Distribution of Global Carbon Source and Sink.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>Agro-Geoinformatics</booktitle>
+<ee>https://doi.org/10.1109/Agro-Geoinformatics.2019.8820487</ee>
+<crossref>conf/agro-geoinformatics/2019</crossref>
+<url>db/conf/agro-geoinformatics/agro-geoinformatics2019.html#WangLLCHG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccrea/ColtonP0C19" mdate="2021-02-10">
+<author pid="92/6384">Simon Colton</author>
+<author pid="73/2447">Alison Pease</author>
+<author pid="04/9529">Michael Cook 0001</author>
+<author pid="180/7246">Chunyang Chen</author>
+<title>The HR3 System for Automatic Code Generation in Creative Settings.</title>
+<pages>108-115</pages>
+<year>2019</year>
+<booktitle>ICCC</booktitle>
+<ee type="oa">http://computationalcreativity.net/iccc2019/papers/iccc19-paper-36.pdf</ee>
+<crossref>conf/icccrea/2019</crossref>
+<url>db/conf/icccrea/icccrea2019.html#ColtonP0C19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ZhaoXC0019" mdate="2020-09-05">
+<author pid="172/8138">Dehai Zhao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="06/2072-1">Xin Xia 0001</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<title>ActionNet: vision-based workflow action recognition from programming screencasts.</title>
+<pages>350-361</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00049</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339551</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#ZhaoXC0019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ChenFCSLLX19" mdate="2020-10-25">
+<author pid="180/8218">Sen Chen</author>
+<author pid="11/2636">Lingling Fan</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="148/7179">Wenhe Li</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="89/2985">Lihua Xu</author>
+<title>StoryDroid: automated generation of storyboard for Android apps.</title>
+<pages>596-607</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00070</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339582</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#ChenFCSLLX19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/GaoCXMSL19" mdate="2020-12-29">
+<author pid="99/10523">Sa Gao</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="169/7255">Yukun Ma</author>
+<author pid="50/5489">Wen Song</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<title>A Neural Model for Method Name Generation from Functional Description.</title>
+<pages>411-421</pages>
+<year>2019</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER.2019.8667994</ee>
+<crossref>conf/wcre/2019</crossref>
+<url>db/conf/wcre/saner2019.html#GaoCXMSL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-00476" mdate="2019-07-15">
+<author pid="180/8218">Sen Chen</author>
+<author pid="11/2636">Lingling Fan</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="148/7179">Wenhe Li</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="89/2985">Lihua Xu</author>
+<title>StoryDroid: Automated Generation of Storyboard for Android Apps.</title>
+<year>2019</year>
+<volume>abs/1902.00476</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.00476</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-00476</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/ChenCSXL18" mdate="2020-08-25">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="16/3283">Xi Chen</author>
+<author pid="229/9223">Jiamou Sun</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="l/GuoqiangLi1">Guoqiang Li 0001</author>
+<title>Data-Driven Proactive Policy Assurance of Post Quality in Community q&#38;a Sites.</title>
+<pages>33:1-33:22</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3274302</ee>
+<url>db/journals/pacmhci/pacmhci2.html#ChenCSXL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/ChenSMXL18" mdate="2018-11-21">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="134/8681">Guozhu Meng</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>From UI design image to GUI skeleton: a neural machine translator to bootstrap mobile GUI implementation.</title>
+<pages>665-676</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180240</ee>
+<ee>http://ieeexplore.ieee.org/document/8453135</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#ChenSMXL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/MaJZSXLCSLLZW18" mdate="2019-10-20">
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="35/11103">Felix Juefei-Xu</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="160/6224">Jiyuan Sun</author>
+<author orcid="0000-0002-9172-4252" pid="166/1912">Minhui Xue</author>
+<author pid="50/3402-26">Bo Li 0026</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="53/2189-29">Li Li 0029</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="71/6948">Jianjun Zhao</author>
+<author pid="68/782">Yadong Wang</author>
+<title>DeepGauge: multi-granularity testing criteria for deep learning systems.</title>
+<pages>120-131</pages>
+<year>2018</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3238147.3238202</ee>
+<crossref>conf/kbse/2018</crossref>
+<url>db/conf/kbse/ase2018.html#MaJZSXLCSLLZW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/HuangCXLL18" mdate="2019-09-25">
+<author pid="15/6040">Yi Huang</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="51/7820">Tian Lin</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Tell them apart: distilling technology differences from crowd-scale comparison discussions.</title>
+<pages>214-224</pages>
+<year>2018</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3238147.3238208</ee>
+<crossref>conf/kbse/2018</crossref>
+<url>db/conf/kbse/ase2018.html#HuangCXLL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-07519" mdate="2019-10-20">
+<author pid="20/6534-3">Lei Ma 0003</author>
+<author pid="35/11103">Felix Juefei-Xu</author>
+<author pid="160/6224">Jiyuan Sun</author>
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="42/6896">Ting Su</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="166/1912">Minhui Xue</author>
+<author pid="50/3402-26">Bo Li 0026</author>
+<author pid="53/2189-29">Li Li 0029</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="71/6948">Jianjun Zhao</author>
+<author pid="68/782">Yadong Wang</author>
+<title>DeepGauge: Comprehensive and Multi-Granularity Testing Criteria for Gauging the Robustness of Deep Learning Systems.</title>
+<year>2018</year>
+<volume>abs/1803.07519</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.07519</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-07519</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/ChenXL17" mdate="2020-08-25">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>By the Community &#38; For the Community: A Deep Learning Approach to Assist Collaborative Editing in Q&#38;A Sites.</title>
+<pages>32:1-32:21</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3134667</ee>
+<url>db/journals/pacmhci/pacmhci1.html#ChenXL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/ChenXW17" mdate="2018-11-02">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="32/7860">Ximing Wang</author>
+<title>Unsupervised software-specific morphological forms inference from informal discussions.</title>
+<pages>450-461</pages>
+<year>2017</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2017.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2017.48</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3097422</ee>
+<crossref>conf/icse/2017</crossref>
+<url>db/conf/icse/icse2017.html#ChenXW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/ChenX16" mdate="2018-11-02">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<title>Towards Correlating Search on Google and Asking on Stack Overflow.</title>
+<pages>83-92</pages>
+<year>2016</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2016.210</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2016.210</ee>
+<crossref>conf/compsac/2016</crossref>
+<url>db/conf/compsac/compsac2016.html#ChenX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/ChenX16" mdate="2018-11-06">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<title>Mining Technology Landscape from Stack Overflow.</title>
+<pages>14:1-14:10</pages>
+<year>2016</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/2961111.2962588</ee>
+<crossref>conf/esem/2016</crossref>
+<url>db/conf/esem/esem2016.html#ChenX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/ChenXH16" mdate="2019-09-10">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="75/2307-3">Lei Han 0003</author>
+<title>TechLand: Assisting Technology Landscape Inquiries with Insights from Stack Overflow.</title>
+<pages>356-366</pages>
+<year>2016</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME.2016.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSME.2016.17</ee>
+<crossref>conf/icsm/2016</crossref>
+<url>db/conf/icsm/icsme2016.html#ChenXH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/ChenCXX16" mdate="2020-10-25">
+<author orcid="0000-0002-8661-5377" pid="184/8057">Guibin Chen</author>
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author pid="89/5193">Bowen Xu</author>
+<title>Learning a dual-language vector space for domain-specific cross-lingual question retrieval.</title>
+<pages>744-755</pages>
+<year>2016</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2970276.2970317</ee>
+<ee>http://ieeexplore.ieee.org/document/7582810/</ee>
+<crossref>conf/kbse/2016</crossref>
+<url>db/conf/kbse/ase2016.html#ChenCXX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/ChenX16" mdate="2018-11-06">
+<author orcid="0000-0003-2011-9618" pid="180/7246">Chunyang Chen</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<title>SimilarTech: automatically recommend analogical libraries across different programming languages.</title>
+<pages>834-839</pages>
+<year>2016</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/2970276.2970290</ee>
+<ee>http://ieeexplore.ieee.org/document/7582824/</ee>
+<crossref>conf/kbse/2016</crossref>
+<url>db/conf/kbse/ase2016.html#ChenX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/ChenGX16" mdate="2017-05-26">
+<author pid="180/7246">Chunyang Chen</author>
+<author pid="99/10523">Sa Gao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<title>Mining Analogical Libraries in Q&#38;A Discussions - Incorporating Relational and Categorical Knowledge into Word Embedding.</title>
+<pages>338-348</pages>
+<year>2016</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER.2016.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SANER.2016.21</ee>
+<crossref>conf/wcre/2016</crossref>
+<url>db/conf/wcre/saner2016.html#ChenGX16</url>
+</inproceedings>
+</r>
+<coauthors n="83" nc="4">
+<co c="1"><na f="a/Aazam:Mohammad" pid="93/9156">Mohammad Aazam</na></co>
+<co c="0"><na f="b/Baltes:Sebastian" pid="145/3950">Sebastian Baltes</na></co>
+<co c="0"><na f="c/Cao:Kaibo" pid="246/8357">Kaibo Cao</na></co>
+<co c="0"><na f="c/Chen:Guibin" pid="184/8057">Guibin Chen</na></co>
+<co c="0"><na f="c/Chen:Jieshan" pid="202/6440">Jieshan Chen</na></co>
+<co c="0"><na f="c/Chen:Sen" pid="180/8218">Sen Chen</na></co>
+<co c="1"><na f="c/Chen:Tefang" pid="14/8596">Tefang Chen</na></co>
+<co c="0"><na f="c/Chen:Xi" pid="16/3283">Xi Chen</na></co>
+<co c="0"><na f="c/Chen:Xiang" pid="64/3062">Xiang Chen</na></co>
+<co c="1"><na f="c/Chen:Yating" pid="185/7925">Yating Chen</na></co>
+<co c="1"><na f="c/Cheng:Shu" pid="18/793">Shu Cheng</na></co>
+<co c="2"><na f="c/Colton:Simon" pid="92/6384">Simon Colton</na></co>
+<co c="2"><na f="c/Cook_0001:Michael" pid="04/9529">Michael Cook 0001</na></co>
+<co c="1"><na f="d/Dang:Yifan" pid="231/5592">Yifan Dang</na></co>
+<co c="0"><na f="f/Fan:Lingling" pid="11/2636">Lingling Fan</na></co>
+<co c="0"><na f="f/Feng:Sidong" pid="252/6246">Sidong Feng</na></co>
+<co c="0"><na f="g/Gao:Sa" pid="99/10523">Sa Gao</na></co>
+<co c="0"><na f="g/Geng:Di" pid="145/0814">Di Geng</na></co>
+<co c="0"><na f="g/Grundy:John_C=" pid="g/JohnCGrundy">John C. Grundy</na></co>
+<co c="0"><na f="h/Han_0003:Lei" pid="75/2307-3">Lei Han 0003</na></co>
+<co c="3"><na f="h/Hu:Han" pid="59/3754">Han Hu</na></co>
+<co c="0"><na f="h/Hu:Jun" pid="28/441">Jun Hu</na></co>
+<co c="0"><na f="h/Hua:Jiayi" pid="251/9425">Jiayi Hua</na></co>
+<co c="0"><na f="h/Huang:Ting" pid="29/825">Ting Huang</na></co>
+<co c="0"><na f="h/Huang:Yi" pid="15/6040">Yi Huang</na></co>
+<co c="0"><na f="h/Huang:Yuekai" pid="274/1316">Yuekai Huang</na></co>
+<co c="3"><na f="h/Huang:Yujin" pid="250/5220">Yujin Huang</na></co>
+<co c="0"><na f="j/Juefei=Xu:Felix" pid="35/11103">Felix Juefei-Xu</na></co>
+<co c="0"><na f="l/Li_0026:Bo" pid="50/3402-26">Bo Li 0026</na></co>
+<co c="0"><na f="l/Li_0001:Guoqiang" pid="l/GuoqiangLi1">Guoqiang Li 0001</na></co>
+<co c="0"><na f="l/Li:Han" pid="07/1429">Han Li</na></co>
+<co c="1"><na f="l/Li:Kaidi" pid="233/1994">Kaidi Li</na></co>
+<co c="0"><na f="l/Li_0029:Li" pid="53/2189-29">Li Li 0029</na></co>
+<co c="0"><na f="l/Li:Wenhe" pid="148/7179">Wenhe Li</na></co>
+<co c="1"><na f="l/Li_0076:Xin" pid="09/1365-76">Xin Li 0076</na></co>
+<co c="0"><na f="l/Li:Yuanchun" pid="87/4523">Yuanchun Li</na></co>
+<co c="0"><na f="l/Liang:Liang" pid="62/1052">Liang Liang</na></co>
+<co c="0" n="2"><na f="l/Lin_0001:Shangwei" pid="55/4730-1">Shangwei Lin 0001</na><na>Shang-Wei Lin 0001</na></co>
+<co c="0"><na f="l/Lin:Tian" pid="51/7820">Tian Lin</na></co>
+<co c="0"><na f="l/Liu:Linda" pid="05/7791">Linda Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Liu:Yuanning" pid="42/3493">Yuanning Liu</na></co>
+<co c="0"><na f="l/Liu:Yunxin" pid="55/3521">Yunxin Liu</na></co>
+<co c="0"><na f="l/Liu:Zhe" pid="70/1220">Zhe Liu</na></co>
+<co c="0"><na f="l/Liu:Zhengyang" pid="96/8612">Zhengyang Liu</na></co>
+<co c="0"><na f="m/Ma_0003:Lei" pid="20/6534-3">Lei Ma 0003</na></co>
+<co c="0"><na f="m/Ma:Yukun" pid="169/7255">Yukun Ma</na></co>
+<co c="0"><na f="m/Meng:Guozhu" pid="134/8681">Guozhu Meng</na></co>
+<co c="2"><na f="p/Pease:Alison" pid="73/2447">Alison Pease</na></co>
+<co c="1"><na f="p/Peng:Xia" pid="88/4646">Xia Peng</na></co>
+<co c="0"><na f="s/Song:Wen" pid="50/5489">Wen Song</na></co>
+<co c="0"><na f="s/Su:Ting" pid="42/6896">Ting Su</na></co>
+<co c="0"><na f="s/Sun:Jiamou" pid="229/9223">Jiamou Sun</na></co>
+<co c="0"><na f="s/Sun:Jiyuan" pid="160/6224">Jiyuan Sun</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+<co c="0"><na f="w/Wang:Han" pid="67/1771">Han Wang</na></co>
+<co c="0"><na f="w/Wang:Haoyu" pid="50/8499">Haoyu Wang</na></co>
+<co c="0"><na f="w/Wang:Jiahui" pid="07/3313">Jiahui Wang</na></co>
+<co c="0"><na f="w/Wang:Jinshui" pid="49/10504">Jinshui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Junjie" pid="14/1915-1">Junjie Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0001:Qing" pid="97/6505-1">Qing Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Ximing" pid="32/7860">Ximing Wang</na></co>
+<co c="0"><na f="w/Wang:Xu" pid="181/2815">Xu Wang</na></co>
+<co c="0"><na f="w/Wang:Yadong" pid="68/782">Yadong Wang</na></co>
+<co c="1"><na f="w/Wu:Xun" pid="145/5672">Xun Wu</na></co>
+<co c="0"><na f="x/Xia_0001:Xin" pid="06/2072-1">Xin Xia 0001</na></co>
+<co c="1"><na f="x/Xiang:Chaoqun" pid="176/6817">Chaoqun Xiang</na></co>
+<co c="0"><na f="x/Xie:Mulong" pid="272/5233">Mulong Xie</na></co>
+<co c="0"><na f="x/Xing:Zhenchang" pid="52/6482">Zhenchang Xing</na></co>
+<co c="0"><na f="x/Xiong:Kent_Ong_Long" pid="288/2882">Kent Ong Long Xiong</na></co>
+<co c="0"><na f="x/Xu:Bowen" pid="89/5193">Bowen Xu</na></co>
+<co c="0"><na f="x/Xu:Lihua" pid="89/2985">Lihua Xu</na></co>
+<co c="0"><na f="x/Xu:Xiwei" pid="47/3196">Xiwei Xu</na></co>
+<co c="0"><na f="x/Xue:Minhui" pid="166/1912">Minhui Xue</na></co>
+<co c="1"><na f="y/Yu:Tianjian" pid="233/2374">Tianjian Yu</na></co>
+<co c="0"><na f="z/Zhang:Fuyuan" pid="08/7637">Fuyuan Zhang</na></co>
+<co c="0"><na f="z/Zhao:Dehai" pid="172/8138">Dehai Zhao</na></co>
+<co c="0"><na f="z/Zhao:Jianjun" pid="71/6948">Jianjun Zhao</na></co>
+<co c="0"><na f="z/Zhao:Shengdong" pid="23/1695">Shengdong Zhao</na></co>
+<co c="0"><na f="z/Zhao:Tianming" pid="196/5052">Tianming Zhao</na></co>
+<co c="1"><na f="z/Zhi:Liu" pid="26/4462">Liu Zhi</na></co>
+<co c="0"><na f="z/Zhu:Liming" pid="52/4318">Liming Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Xiaodong" pid="08/2470-1">Xiaodong Zhu 0001</na></co>
+</coauthors>
+</dblpperson>
+

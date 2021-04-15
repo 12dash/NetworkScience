@@ -1,3 +1,1584 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1c941367df19f11e1b95c3ddfcc9759f6c9df702565f6aedca784982aa5e93e
-size 76306
+<?xml version="1.0"?>
+<dblpperson name="Emilio Calvanese Strinati" pid="27/2122" n="88">
+<person key="homepages/27/2122" mdate="2009-06-09">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+</person>
+<r><article key="journals/tnsm/LabrijiMCSPSR21" mdate="2021-03-23">
+<author orcid="0000-0002-9220-6879" pid="287/2884">Ibtissam Labriji</author>
+<author orcid="0000-0002-9905-0360" pid="20/8267">Francesca Meneghello</author>
+<author pid="270/4518">Davide Cecchinato</author>
+<author pid="58/352">Stefania Sesia</author>
+<author pid="243/8193">Eric Perraud</author>
+<author orcid="0000-0001-9346-8478" pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0003-1121-324X" pid="19/3912">Michele Rossi</author>
+<title>Mobility Aware and Dynamic Migration of MEC Services for the Internet of Vehicles.</title>
+<pages>570-584</pages>
+<year>2021</year>
+<volume>18</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNSM.2021.3052808</ee>
+<url>db/journals/tnsm/tnsm18.html#LabrijiMCSPSR21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-16985" mdate="2021-04-07">
+<author pid="259/3775">Mohamed Sana</author>
+<author pid="202/5481">Mattia Merluzzi</author>
+<author pid="128/8263">Nicola di Pietro</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Energy Efficient Edge Computing: When Lyapunov Meets Distributed Reinforcement Learning.</title>
+<year>2021</year>
+<volume>abs/2103.16985</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.16985</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-16985</url>
+</article>
+</r>
+<r><article key="journals/twc/SanaDYLS20" mdate="2020-10-20">
+<author pid="259/3775">Mohamed Sana</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="82/2790-1">Wei Yu 0001</author>
+<author pid="69/2458">Yves Lostanlen</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Multi-Agent Reinforcement Learning for Adaptive User Association in Dynamic mmWave Networks.</title>
+<pages>6520-6534</pages>
+<year>2020</year>
+<volume>19</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TWC.2020.3003719</ee>
+<url>db/journals/twc/twc19.html#SanaDYLS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/6gsummit/DoreBMBGCMKS20" mdate="2020-05-11">
+<author pid="81/6530">Jean-Baptiste Dor&#233;</author>
+<author pid="11/3511">Didier Belot</author>
+<author pid="170/2913">Eric Mercier</author>
+<author pid="213/5038">Simon Bica&#239;s</author>
+<author pid="164/8766">Gr&#233;gory Gougeon</author>
+<author pid="56/5339">Yoann Corre</author>
+<author pid="62/2899">Benoit Miscopein</author>
+<author pid="34/6203">Dimitri Kt&#233;nas</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Technology Roadmap for Beyond 5G Wireless Connectivity in D-band.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>6G SUMMIT</booktitle>
+<ee>https://doi.org/10.1109/6GSUMMIT49458.2020.9083890</ee>
+<crossref>conf/6gsummit/2020</crossref>
+<url>db/conf/6gsummit/6gsummit2020.html#DoreBMBGCMKS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LabrijiSPS20" mdate="2021-03-11">
+<author pid="287/2884">Ibtissam Labriji</author>
+<author pid="58/352">Stefania Sesia</author>
+<author pid="243/8193">Eric Perraud</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>On Seamless Offloading of Delay Sensitive Vehicular Services over Mobile Edge Computing.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/GCWkshps50303.2020.9367409</ee>
+<crossref>conf/globecom/2020w</crossref>
+<url>db/conf/globecom/globecom2020w.html#LabrijiSPS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/StrinatiHMKWSBM20" mdate="2021-03-11">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="57/5956">Mickael Maman</author>
+<author pid="30/322">Wilhelm Keusgen</author>
+<author pid="213/1001">Sven Wittig</author>
+<author pid="237/7137">Mathis Schmieder</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="202/5481">Mattia Merluzzi</author>
+<author pid="58/10835">Henrik Klessig</author>
+<author pid="28/9977">Fabio Giust</author>
+<author pid="184/5917">Daniele Ronzani</author>
+<author pid="287/2824">Shuo-Peng Liang</author>
+<author pid="287/2575">Jack Shi-Jie Luo</author>
+<author pid="287/2797">Cheng-Yi Chien</author>
+<author pid="287/2799">Jiun-Cheng Huang</author>
+<author pid="287/2726">Jen-Sheng Huang</author>
+<author pid="56/797">Tzu-Ya Wang</author>
+<title>Beyond 5G Private Networks: the 5G CONNI Perspective.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/GCWkshps50303.2020.9367460</ee>
+<crossref>conf/globecom/2020w</crossref>
+<url>db/conf/globecom/globecom2020w.html#StrinatiHMKWSBM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SanaDSC20" mdate="2020-07-23">
+<author pid="259/3775">Mohamed Sana</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="152/9899">Antonio Clemente</author>
+<title>Multi-Agent Deep Reinforcement Learning For Distributed Handover Management In Dense MmWave Networks.</title>
+<pages>8976-8980</pages>
+<year>2020</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP40776.2020.9052936</ee>
+<crossref>conf/icassp/2020</crossref>
+<url>db/conf/icassp/icassp2020.html#SanaDSC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/KimCPGSCNCKTHPC20" mdate="2020-10-25">
+<author pid="40/6996">Junhyeong Kim</author>
+<author orcid="0000-0001-7003-4693" pid="269/9686">Guido Casati</author>
+<author pid="27/5344">Antonio Pietrabissa</author>
+<author orcid="0000-0001-5503-8506" pid="185/2468">Alessandro Giuseppi</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="132/3744">Nicolas Cassiau</author>
+<author pid="90/711">Gosan Noh</author>
+<author pid="155/5079">Hee-Sang Chung</author>
+<author pid="155/5146">Ilgyu Kim</author>
+<author pid="269/9541">Marjorie Thary</author>
+<author pid="160/3026">Jean-Michel Houssin</author>
+<author pid="69/8777">Federico Pigni</author>
+<author pid="269/9464">Sylvain Colombero</author>
+<author pid="269/9537">Pierre Dal Zotto</author>
+<author pid="182/1485">Leszek Raschkowski</author>
+<author pid="38/3479">Stephan Jaeckel</author>
+<title>5G-ALLSTAR: An Integrated Satellite-Cellular System for 5G and Beyond.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>WCNC Workshops</booktitle>
+<ee>https://doi.org/10.1109/WCNCW48565.2020.9124751</ee>
+<crossref>conf/wcnc/2020w</crossref>
+<url>db/conf/wcnc/wcncw2020.html#KimCPGSCNCKTHPC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-09066" mdate="2020-06-17">
+<author pid="259/3775">Mohamed Sana</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="82/2790-1">Wei Yu 0001</author>
+<author pid="69/2458">Yves Lostanlen</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Multi-Agent Reinforcement Learning for Adaptive User Association in Dynamic mmWave Networks.</title>
+<year>2020</year>
+<volume>abs/2006.09066</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.09066</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-09066</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-09463" mdate="2020-10-21">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="39/5557">Taesang Choi</author>
+<author pid="27/5344">Antonio Pietrabissa</author>
+<author pid="185/2468">Alessandro Giuseppi</author>
+<author pid="254/5268">Emanuele De Santis</author>
+<author pid="99/1385">Josep Vidal</author>
+<author pid="95/4833">Zdenek Becvar</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="132/3744">Nicolas Cassiau</author>
+<author pid="231/2644">Francesca Costanzo</author>
+<author pid="40/6996">Junhyeong Kim</author>
+<author pid="155/5146">Ilgyu Kim</author>
+<title>6G in the Sky: On-Demand Intelligence at the Edge of 3D Networks.</title>
+<year>2020</year>
+<volume>abs/2010.09463</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.09463</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-09463</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14844" mdate="2020-12-01">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<title>6G Networks: Beyond Shannon Towards Semantic and Goal-Oriented Communications.</title>
+<year>2020</year>
+<volume>abs/2011.14844</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14844</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14844</url>
+</article>
+</r>
+<r><article key="journals/access/PietroS19" mdate="2020-01-15">
+<author orcid="0000-0003-2972-040X" pid="128/8263">Nicola di Pietro</author>
+<author orcid="0000-0001-9346-8478" pid="27/2122">Emilio Calvanese Strinati</author>
+<title>An Optimal Low-Complexity Policy for Cache-Aided Computation Offloading.</title>
+<pages>182499-182514</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2959986</ee>
+<url>db/journals/access/access7.html#PietroS19</url>
+</article>
+</r>
+<r><article key="journals/tccn/GongHNSDSH19" mdate="2020-07-03">
+<author pid="92/3836">Shimin Gong</author>
+<author pid="37/8852">Dinh Thai Hoang</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author pid="116/2851">Ahmed El Shafie 0001</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="19/4592">Jakob Hoydis</author>
+<title>Introduction to the special section on deep reinforcement learning for future wireless communication networks.</title>
+<pages>1019-1023</pages>
+<year>2019</year>
+<volume>5</volume>
+<journal>IEEE Trans. Cogn. Commun. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCCN.2019.2954144</ee>
+<url>db/journals/tccn/tccn5.html#GongHNSDSH19</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/MerluzziPLSB19" mdate="2020-03-04">
+<author pid="202/5481">Mattia Merluzzi</author>
+<author pid="128/8263">Nicola di Pietro</author>
+<author pid="42/9879">Paolo Di Lorenzo</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<title>Network Energy Efficient Mobile Edge Computing with Reliability Guarantees.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM38437.2019.9013164</ee>
+<crossref>conf/globecom/2019</crossref>
+<url>db/conf/globecom/globecom2019.html#MerluzziPLSB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/SanaDS19" mdate="2020-03-04">
+<author pid="259/3775">Mohamed Sana</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Multi-Agent Deep Reinforcement Learning Based User Association for Dense mmWave Networks.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM38437.2019.9013751</ee>
+<crossref>conf/globecom/2019</crossref>
+<url>db/conf/globecom/globecom2019.html#SanaDS19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ami/2019w" mdate="2020-02-12">
+<editor pid="27/2122">Emilio Calvanese Strinati</editor>
+<editor pid="95/1631">Dimitris Charitos</editor>
+<editor pid="c/IoannisChatzigiannakis">Ioannis Chatzigiannakis</editor>
+<editor pid="08/6110">Paolo Ciampolini</editor>
+<editor pid="36/5320">Francesca Cuomo</editor>
+<editor pid="42/9879">Paolo Di Lorenzo</editor>
+<editor pid="41/308">Damianos Gavalas</editor>
+<editor pid="95/6480">Sten Hanke</editor>
+<editor pid="61/5974">Andreas Komninos</editor>
+<editor pid="85/2924">Georgios Mylonas</editor>
+<title>Joint Proceeding of the Poster and Workshop Sessions of AmI-2019, the 2019 European Conference on Ambient Intelligence, Rome, Italy, November 13-15, 2019.</title>
+<booktitle>AmI (Workshops/Posters)</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2492</volume>
+<year>2019</year>
+<ee type="oa">http://ceur-ws.org/Vol-2492</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2492-8</ee>
+<url>db/conf/ami/amiw2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-01894" mdate="2019-01-31">
+<author pid="128/8263">Nicola di Pietro</author>
+<author pid="202/5481">Mattia Merluzzi</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<title>Resilient Design of 5G Mobile-Edge Computing Over Intermittent mmWave Links.</title>
+<year>2019</year>
+<volume>abs/1901.01894</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.01894</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-01894</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-03239" mdate="2019-02-01">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="156/4725">Jos&#233; Luis Gonzalez-Jimenez</author>
+<author pid="34/6203">Dimitri Kt&#233;nas</author>
+<author pid="132/3744">Nicolas Cassiau</author>
+<author pid="39/4523">C&#233;dric Dehos</author>
+<title>6G: The Next Frontier.</title>
+<year>2019</year>
+<volume>abs/1901.03239</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.03239</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-03239</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/PietroS18" mdate="2018-12-06">
+<author pid="128/8263">Nicola di Pietro</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Proactive Computation Caching Policies For 5G-and-Beyond Mobile Edge Cloud Networks.</title>
+<pages>792-796</pages>
+<year>2018</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://doi.org/10.23919/EUSIPCO.2018.8553086</ee>
+<crossref>conf/eusipco/2018</crossref>
+<url>db/conf/eusipco/eusipco2018.html#PietroS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/TranNFTDSHSBBY18" mdate="2020-06-15">
+<author pid="04/5083">Gia Khanh Tran</author>
+<author pid="178/2679">Hiroaki Nishiuchi</author>
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="25/198">Sergio Barberis</author>
+<author pid="221/0313">Katsuo Yunoki</author>
+<title>Architecture of mmWave Edge Cloud in 5G-MiEdge.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ICC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCW.2018.8403583</ee>
+<crossref>conf/icc/2018w</crossref>
+<url>db/conf/icc/icc2018w.html#TranNFTDSHSBBY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/HoangN0DS18" mdate="2019-04-17">
+<author pid="37/8852">Dinh Thai Hoang</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Optimal Cross Slice Orchestration for 5G Mobile Services.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>VTC-Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2018.8690608</ee>
+<crossref>conf/vtc/2018f</crossref>
+<url>db/conf/vtc/vtc2018f.html#HoangN0DS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/FrascollaETCSYB18" mdate="2020-06-15">
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="221/0361">Juergen Englisch</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="54/7881">Luca Chiaraviglio</author>
+<author pid="41/3791">Stefano Salsano</author>
+<author pid="221/0313">Katsuo Yunoki</author>
+<author pid="25/198">Sergio Barberis</author>
+<author pid="75/2937">Valerio Palestini</author>
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Millimeter-waves, MEC, and network softwarization as enablers of new 5G business opportunities.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2018.8377456</ee>
+<crossref>conf/wcnc/2018</crossref>
+<url>db/conf/wcnc/wcnc2018.html#FrascollaETCSYB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/SakaguchiHBSCDP17" mdate="2020-10-26">
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="152/9899">Antonio Clemente</author>
+<author pid="88/4514">Giuseppe Destino</author>
+<author orcid="0000-0002-5461-6148" pid="81/2585">Aarno P&#228;rssinen</author>
+<author pid="155/5146">Ilgyu Kim</author>
+<author pid="155/5079">Hee-Sang Chung</author>
+<author pid="40/6996">Junhyeong Kim</author>
+<author pid="30/322">Wilhelm Keusgen</author>
+<author pid="157/7836">Richard J. Weiler</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="199/1949">Elena Ceci</author>
+<author pid="172/2000">Ali Sadri</author>
+<author pid="33/6531">Liang Xian</author>
+<author orcid="0000-0001-8694-0033" pid="15/5856">Alexander Maltsev</author>
+<author pid="04/5083">Gia Khanh Tran</author>
+<author pid="50/5523">Hiroaki Ogawa</author>
+<author pid="93/8209">Kim Mahler</author>
+<author orcid="0000-0002-4666-5628" pid="56/4851">Robert W. Heath Jr.</author>
+<title>Where, When, and How mmWave is Used in 5G and Beyond.</title>
+<pages>790-808</pages>
+<year>2017</year>
+<volume>100-C</volume>
+<journal>IEICE Trans. Electron.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1587/transele.E100.C.790</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e100-c_10_790</ee>
+<url>db/journals/ieicet/ieicet100c.html#SakaguchiHBSCDP17</url>
+</article>
+</r>
+<r><article key="journals/tccn/MariSDQ17" mdate="2020-07-03">
+<author orcid="0000-0003-3627-6917" pid="121/2578">Matthieu De Mari</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="75/4085">M&#233;rouane Debbah</author>
+<author orcid="0000-0002-4037-3149" pid="65/1128">Tony Q. S. Quek</author>
+<title>Joint Stochastic Geometry and Mean Field Game Optimization for Energy-Efficient Proactive Scheduling in Ultra Dense Networks.</title>
+<pages>766-781</pages>
+<year>2017</year>
+<volume>3</volume>
+<journal>IEEE Trans. Cogn. Commun. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCCN.2017.2761381</ee>
+<url>db/journals/tccn/tccn3.html#MariSDQ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cscn/FrascollaMTTDSK17" mdate="2020-06-15">
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="185/6421">Federico Miatton</author>
+<author pid="04/5083">Gia Khanh Tran</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="208/2183">Konstantin Koslowski</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="25/198">Sergio Barberis</author>
+<title>5G-MiEdge: Design, standardization and deployment of 5G phase II technologies: MEC and mmWaves joint development for Tokyo 2020 Olympic games.</title>
+<pages>54-59</pages>
+<year>2017</year>
+<booktitle>CSCN</booktitle>
+<ee>https://doi.org/10.1109/CSCN.2017.8088598</ee>
+<crossref>conf/cscn/2017</crossref>
+<url>db/conf/cscn/cscn2017.html#FrascollaMTTDSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/0002MCAKS17" mdate="2019-12-27">
+<author orcid="0000-0002-2272-3504" pid="89/4816-2">Vladimir Ivanov 0002</author>
+<author pid="20/5447">Markus Mueck</author>
+<author pid="52/3237">Seungwon Choi</author>
+<author pid="205/7933">Heungseop Ahn</author>
+<author pid="19/5312">Kyunghoon Kim</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Radio Virtual Machine.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>GLOBECOM Workshops</booktitle>
+<ee>https://doi.org/10.1109/GLOCOMW.2017.8269213</ee>
+<crossref>conf/globecom/2017w</crossref>
+<url>db/conf/globecom/globecom2017w.html#0002MCAKS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/GinesteDCCSFMSD17" mdate="2020-06-15">
+<author pid="85/1969">Mathieu Gineste</author>
+<author pid="67/10608">Thibault Deleu</author>
+<author pid="124/8666">Michel Cohen</author>
+<author pid="81/8853">Nicolas Chuberre</author>
+<author pid="213/4991">Visvesh Saravanan</author>
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="20/5447">Markus Mueck</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="71/2764">Eryk Dutkiewicz</author>
+<title>Narrowband IoT Service Provision to 5G User Equipment via a Satellite Component.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>GLOBECOM Workshops</booktitle>
+<ee>https://doi.org/10.1109/GLOCOMW.2017.8269209</ee>
+<crossref>conf/globecom/2017w</crossref>
+<url>db/conf/globecom/globecom2017w.html#GinesteDCCSFMSD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/BarbarossaCMS17" mdate="2017-07-07">
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="199/1949">Elena Ceci</author>
+<author pid="202/5481">Mattia Merluzzi</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Enabling effective Mobile Edge Computing using millimeterwave links.</title>
+<pages>367-372</pages>
+<year>2017</year>
+<booktitle>ICC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCW.2017.7962685</ee>
+<crossref>conf/icc/2017w</crossref>
+<url>db/conf/icc/icc2017w.html#BarbarossaCMS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spawc/WonMFKDPLKCKKCS17" mdate="2020-10-25">
+<author pid="17/5618">Seok Ho Won</author>
+<author pid="20/5447">Markus Mueck</author>
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="40/6996">Junhyeong Kim</author>
+<author pid="88/4514">Giuseppe Destino</author>
+<author orcid="0000-0002-5461-6148" pid="81/2585">Aarno P&#228;rssinen</author>
+<author pid="18/6638">Matti Latva-aho</author>
+<author pid="194/8579">Aki Korvala</author>
+<author pid="152/9899">Antonio Clemente</author>
+<author pid="32/5510">Taeyeon Kim</author>
+<author pid="155/5146">Il-Gyu Kim</author>
+<author pid="63/6060">Hyun Kyu Chung</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Development of 5G CHAMPION testbeds for 5G services at the 2018 Winter Olympic Games.</title>
+<pages>1-5</pages>
+<year>2017</year>
+<booktitle>SPAWC</booktitle>
+<ee>https://doi.org/10.1109/SPAWC.2017.8227644</ee>
+<crossref>conf/spawc/2017</crossref>
+<url>db/conf/spawc/spawc2017.html#WonMFKDPLKCKKCS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SakaguchiHBSCDP17" mdate="2021-04-14">
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="152/9899">Antonio Clemente</author>
+<author pid="88/4514">Giuseppe Destino</author>
+<author pid="81/2585">Aarno P&#228;rssinen</author>
+<author pid="155/5146">Il-Gyu Kim</author>
+<author pid="155/5079">Hee-Sang Chung</author>
+<author pid="40/6996">Junhyeong Kim</author>
+<author pid="30/322">Wilhelm Keusgen</author>
+<author pid="157/7836">Richard J. Weiler</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="199/1949">Elena Ceci</author>
+<author pid="172/2000">Ali Sadri</author>
+<author pid="33/6531">Liang Xian</author>
+<author pid="15/5856">Alexander Maltsev</author>
+<author pid="04/5083">Gia Khanh Tran</author>
+<author pid="50/5523">Hiroaki Ogawa</author>
+<author pid="93/8209">Kim Mahler</author>
+<author pid="56/4851">Robert W. Heath Jr.</author>
+<title>Where, When, and How mmWave is Used in 5G and Beyon.</title>
+<year>2017</year>
+<volume>abs/1704.08131</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.08131</ee>
+<url>db/journals/corr/corr1704.html#SakaguchiHBSCDP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-05912" mdate="2018-08-13">
+<author pid="37/8852">Dinh Thai Hoang</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Optimal Cross Slice Orchestration for 5G Mobile Services.</title>
+<year>2017</year>
+<volume>abs/1712.05912</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.05912</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-05912</url>
+</article>
+</r>
+<r><inproceedings key="conf/crowncom/OueisS16" mdate="2017-05-19">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Uplink Traffic in Future Mobile Networks: Pulling the Alarm.</title>
+<pages>583-593</pages>
+<year>2016</year>
+<booktitle>CrownCom</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40352-6_48</ee>
+<crossref>conf/crowncom/2016</crossref>
+<url>db/conf/crowncom/crowncom2016.html#OueisS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MueckSKCDDKCCDP16" mdate="2020-10-25">
+<author pid="20/5447">Markus Mueck</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="155/5146">Il-Gyu Kim</author>
+<author pid="152/9899">Antonio Clemente</author>
+<author orcid="0000-0001-6673-5876" pid="81/6530">Jean-Baptiste Dore</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="32/5510">Taeyeon Kim</author>
+<author pid="39/5557">Taesang Choi</author>
+<author pid="63/6060">Hyun Kyu Chung</author>
+<author pid="88/4514">Giuseppe Destino</author>
+<author orcid="0000-0002-5461-6148" pid="81/2585">Aarno P&#228;rssinen</author>
+<author pid="24/10905">Ari Pouttu</author>
+<author pid="18/6638">Matti Latva-aho</author>
+<author pid="81/8853">Nicolas Chuberre</author>
+<author pid="85/1969">Mathieu Gineste</author>
+<author pid="194/8584">Benoit Vautherin</author>
+<author pid="194/8575">Michel Monnerat</author>
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="26/6695">Maria Fresia</author>
+<author pid="30/322">Wilhelm Keusgen</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="194/8579">Aki Korvala</author>
+<author pid="21/4549">Marko Pettissalo</author>
+<author pid="185/6449">Olli Liinamaa</author>
+<title>5G CHAMPION - Rolling out 5G in 2018.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>GLOBECOM Workshops</booktitle>
+<ee>https://doi.org/10.1109/GLOCOMW.2016.7848798</ee>
+<crossref>conf/globecom/2016w</crossref>
+<url>db/conf/globecom/globecom2016w.html#MueckSKCDDKCCDP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/OueisSB16" mdate="2017-05-25">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<title>Distributed mobile cloud computing: A multi-user clustering solution.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2016.7511046</ee>
+<crossref>conf/icc/2016</crossref>
+<url>db/conf/icc/icc2016.html#OueisSB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/PlachyBS16" mdate="2018-11-02">
+<author orcid="0000-0002-0607-0515" pid="150/6749">Jan Plachy</author>
+<author orcid="0000-0001-5155-8192" pid="95/4833">Zdenek Becvar</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Dynamic resource allocation exploiting mobility prediction in mobile edge computing.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2016.7794955</ee>
+<crossref>conf/pimrc/2016</crossref>
+<url>db/conf/pimrc/pimrc2016.html#PlachyBS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/SakaguchiTSNSTS15" mdate="2020-04-11">
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="04/5083">Gia Khanh Tran</author>
+<author pid="122/5728">Hidekazu Shimodaira</author>
+<author pid="55/4404">Shinobu Nanba</author>
+<author pid="155/9729">Toshiaki Sakurai</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="53/3393">Isabelle Siaud</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="47/3507">Antonio Capone</author>
+<author pid="78/1133">Ingolf Karls</author>
+<author pid="155/9780">Reza Arefi</author>
+<author pid="81/392">Thomas Haustein</author>
+<title>Millimeter-Wave Evolution for 5G Cellular Networks.</title>
+<pages>388-402</pages>
+<year>2015</year>
+<volume>98-B</volume>
+<journal>IEICE Trans. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1587/transcom.E98.B.388</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e98-b_3_388</ee>
+<ee>https://www.wikidata.org/entity/Q58827417</ee>
+<url>db/journals/ieicet/ieicet98b.html#SakaguchiTSNSTS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cscn/FrascollaMSOKDS15" mdate="2020-06-15">
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="41/8141">Honglei Miao</author>
+<author pid="72/3680">Mehrdad Shariat</author>
+<author pid="63/4488">Eckhard Ohlmer</author>
+<author pid="21/1115">Vincent Kotzsch</author>
+<author pid="29/10255">Laurent Dussopt</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0001-7510-9762" pid="132/9468">Ronan Sauleau</author>
+<author pid="63/4502">Karri Ranta-aho</author>
+<author pid="160/4922">Jyri Putkonen</author>
+<title>A strategy for research projects to impact standards and regulatory bodies: The approach of the EU-funded project MiWaveS.</title>
+<pages>24-29</pages>
+<year>2015</year>
+<booktitle>CSCN</booktitle>
+<ee>https://doi.org/10.1109/CSCN.2015.7390415</ee>
+<crossref>conf/cscn/2015</crossref>
+<url>db/conf/cscn/cscn2015.html#FrascollaMSOKDS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucnc/FrascollaFSDKOS15" mdate="2020-06-15">
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="164/8956">Michael Faerber 0003</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="29/10255">Laurent Dussopt</author>
+<author pid="21/1115">Vincent Kotzsch</author>
+<author pid="63/4488">Eckhard Ohlmer</author>
+<author pid="72/3680">Mehrdad Shariat</author>
+<author pid="160/4922">Jyri Putkonen</author>
+<author pid="27/416-1">Giovanni Romano 0001</author>
+<title>MmWave use cases and prototyping: A way towards 5G standardization.</title>
+<pages>128-132</pages>
+<year>2015</year>
+<booktitle>EuCNC</booktitle>
+<ee>https://doi.org/10.1109/EuCNC.2015.7194054</ee>
+<crossref>conf/eucnc/2015</crossref>
+<url>db/conf/eucnc/eucnc2015.html#FrascollaFSDKOS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/OueisSB15" mdate="2019-06-02">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0001-9846-8741" pid="66/426">Sergio Barbarossa</author>
+<title>The Fog Balancing: Load Distribution for Small Cell Cloud Computing.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTCSpring.2015.7146129</ee>
+<ee>https://www.wikidata.org/entity/Q59009741</ee>
+<crossref>conf/vtc/2015s</crossref>
+<url>db/conf/vtc/vtc2015s.html#OueisSB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/OueisSSB15" mdate="2017-05-21">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="80/2202">Stefania Sardellitti</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<title>Small Cell Clustering for Efficient Distributed Fog Computing: A Multi-User Case.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2015.7391144</ee>
+<crossref>conf/vtc/2015f</crossref>
+<url>db/conf/vtc/vtc2015f.html#OueisSSB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/PuenteBRLS15" mdate="2017-06-05">
+<author pid="157/8583">Miguel Angel Puente</author>
+<author orcid="0000-0001-5155-8192" pid="95/4833">Zdenek Becvar</author>
+<author pid="57/10475">Matej Rohlik</author>
+<author pid="157/8023">Felicia Lobillo</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>A Seamless Integration of Computationally-Enhanced Base Stations into Mobile Networks towards 5G.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTCSpring.2015.7145645</ee>
+<crossref>conf/vtc/2015s</crossref>
+<url>db/conf/vtc/vtc2015s.html#PuenteBRLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/PlachyBS15" mdate="2017-06-15">
+<author orcid="0000-0002-0607-0515" pid="150/6749">Jan Plachy</author>
+<author orcid="0000-0001-5155-8192" pid="95/4833">Zdenek Becvar</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Cross-layer approach enabling communication of high number of devices in 5G mobile networks.</title>
+<pages>809-816</pages>
+<year>2015</year>
+<booktitle>WiMob</booktitle>
+<ee>https://doi.org/10.1109/WiMOB.2015.7348045</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WiMOB.2015.7348045</ee>
+<crossref>conf/wimob/2015</crossref>
+<url>db/conf/wimob/wimob2015.html#PlachyBS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/DomenicoSC14" mdate="2020-02-20">
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0003-0633-6341" pid="47/3507">Antonio Capone</author>
+<title>Enabling Green cellular networks: A survey and outlook.</title>
+<pages>5-24</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2013.09.011</ee>
+<ee>https://www.wikidata.org/entity/Q58827430</ee>
+<url>db/journals/comcom/comcom37.html#DomenicoSC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/5gu/MariSDB14" mdate="2017-05-29">
+<author pid="121/2578">Matthieu De Mari</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="75/4085">M&#233;rouane Debbah</author>
+<author orcid="0000-0001-5155-8192" pid="95/4833">Zdenek Becvar</author>
+<title>Interference Empowered 5G Networks.</title>
+<year>2014</year>
+<booktitle>5GU</booktitle>
+<ee>https://doi.org/10.4108/icst.5gu.2014.258227</ee>
+<ee>http://ieeexplore.ieee.org/document/7041025/</ee>
+<crossref>conf/5gu/2014</crossref>
+<url>db/conf/5gu/5gu2014.html#MariSDB14</url>
+<pages>29-34</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/5gu/BecvarMS14" mdate="2017-06-15">
+<author orcid="0000-0001-5155-8192" pid="95/4833">Zdenek Becvar</author>
+<author orcid="0000-0003-2961-6389" pid="83/2558">Pavel Mach</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Prediction of Channel Quality after Handover for Mobility Management in 5G.</title>
+<year>2014</year>
+<booktitle>5GU</booktitle>
+<ee>https://doi.org/10.4108/icst.5gu.2014.258140</ee>
+<ee>http://ieeexplore.ieee.org/document/7041026/</ee>
+<crossref>conf/5gu/2014</crossref>
+<url>db/conf/5gu/5gu2014.html#BecvarMS14</url>
+<pages>35-39</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucnc/WeilerPKSDFCSUMHS14" mdate="2019-10-19">
+<author pid="157/7836">Richard J. Weiler</author>
+<author pid="69/469">Michael Peter</author>
+<author pid="30/322">Wilhelm Keusgen</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author orcid="0000-0003-4309-5110" pid="66/1274">Ilario Filippini</author>
+<author orcid="0000-0003-0633-6341" pid="47/3507">Antonio Capone</author>
+<author pid="53/3393">Isabelle Siaud</author>
+<author pid="48/2334">Anne-Marie Ulmer-Moll</author>
+<author orcid="0000-0001-8694-0033" pid="15/5856">Alexander Maltsev</author>
+<author pid="81/392">Thomas Haustein</author>
+<author pid="06/3291">Kei Sakaguchi</author>
+<title>Enabling 5G backhaul and access with millimeter-waves.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>EuCNC</booktitle>
+<ee>https://doi.org/10.1109/EuCNC.2014.6882644</ee>
+<ee>https://www.wikidata.org/entity/Q58827428</ee>
+<crossref>conf/eucnc/2014</crossref>
+<url>db/conf/eucnc/eucnc2014.html#WeilerPKSDFCSUMHS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/FrascollaFDSSKR14" mdate="2020-06-15">
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author pid="164/8956">Michael Faerber 0003</author>
+<author pid="29/10255">Laurent Dussopt</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0001-7510-9762" pid="132/9468">Ronan Sauleau</author>
+<author pid="21/1115">Vincent Kotzsch</author>
+<author pid="27/416-1">Giovanni Romano 0001</author>
+<author pid="63/4502">Karri Ranta-aho</author>
+<author pid="160/4922">Jyri Putkonen</author>
+<author pid="05/11390">Javier Valino</author>
+<title>Challenges and opportunities for millimeter-wave mobile access standardisation.</title>
+<pages>553-558</pages>
+<year>2014</year>
+<booktitle>GLOBECOM Workshops</booktitle>
+<ee>https://doi.org/10.1109/GLOCOMW.2014.7063490</ee>
+<crossref>conf/globecom/2014w</crossref>
+<url>db/conf/globecom/globecom2014w.html#FrascollaFDSSKR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/MariSD14" mdate="2017-05-25">
+<author pid="121/2578">Matthieu De Mari</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="75/4085">M&#233;rouane Debbah</author>
+<title>Matching coalitions for interference classification in large heterogeneous networks.</title>
+<pages>580-584</pages>
+<year>2014</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2014.7136232</ee>
+<crossref>conf/pimrc/2014</crossref>
+<url>db/conf/pimrc/pimrc2014.html#MariSD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/BecvarMS14" mdate="2017-06-15">
+<author orcid="0000-0001-5155-8192" pid="95/4833">Zdenek Becvar</author>
+<author orcid="0000-0003-2961-6389" pid="83/2558">Pavel Mach</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Q-learning-based prediction of channel quality after handover in mobile networks.</title>
+<pages>1359-1364</pages>
+<year>2014</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2014.7136380</ee>
+<crossref>conf/pimrc/2014</crossref>
+<url>db/conf/pimrc/pimrc2014.html#BecvarMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/OueisSB14" mdate="2017-05-25">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="66/426">Sergio Barbarossa</author>
+<title>Small cell clustering for efficient distributed cloud computing.</title>
+<pages>1474-1479</pages>
+<year>2014</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2014.7136401</ee>
+<crossref>conf/pimrc/2014</crossref>
+<url>db/conf/pimrc/pimrc2014.html#OueisSB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/OueisSDB14" mdate="2019-06-02">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author orcid="0000-0001-9846-8741" pid="66/426">Sergio Barbarossa</author>
+<title>On the impact of backhaul network on distributed cloud computing.</title>
+<pages>12-17</pages>
+<year>2014</year>
+<booktitle>WCNC Workshops</booktitle>
+<ee>https://doi.org/10.1109/WCNCW.2014.6934853</ee>
+<ee>https://www.wikidata.org/entity/Q59009943</ee>
+<crossref>conf/wcnc/2014w</crossref>
+<url>db/conf/wcnc/wcncw2014.html#OueisSDB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/MariSD14" mdate="2017-05-24">
+<author pid="121/2578">Matthieu De Mari</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="75/4085">M&#233;rouane Debbah</author>
+<title>Two-regimes interference classifier: An interference-aware resource allocation algorithm.</title>
+<pages>792-797</pages>
+<year>2014</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2014.6952169</ee>
+<crossref>conf/wcnc/2014</crossref>
+<url>db/conf/wcnc/wcnc2014.html#MariSD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/OueisSB14" mdate="2019-06-02">
+<author pid="154/3639">Jessica Oueis</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0001-9846-8741" pid="66/426">Sergio Barbarossa</author>
+<title>Multi-parameter decision algorithm for mobile computation offloading.</title>
+<pages>3005-3010</pages>
+<year>2014</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2014.6952959</ee>
+<ee>https://www.wikidata.org/entity/Q59009925</ee>
+<crossref>conf/wcnc/2014</crossref>
+<url>db/conf/wcnc/wcnc2014.html#OueisSB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/MariSD14" mdate="2017-05-21">
+<author pid="121/2578">Matthieu De Mari</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="75/4085">M&#233;rouane Debbah</author>
+<title>Energy-efficiency and future knowledge tradeoff in small cells prediction-based strategies.</title>
+<pages>43-49</pages>
+<year>2014</year>
+<booktitle>WiOpt</booktitle>
+<ee>https://doi.org/10.1109/WIOPT.2014.6850277</ee>
+<crossref>conf/wiopt/2014</crossref>
+<url>db/conf/wiopt/wiopt2014.html#MariSD14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SakaguchiTSNSTSSCKAH14" mdate="2018-08-13">
+<author pid="06/3291">Kei Sakaguchi</author>
+<author pid="04/5083">Gia Khanh Tran</author>
+<author pid="122/5728">Hidekazu Shimodaira</author>
+<author pid="55/4404">Shinobu Nanba</author>
+<author pid="155/9729">Toshiaki Sakurai</author>
+<author pid="11/10248">Koji Takinami</author>
+<author pid="53/3393">Isabelle Siaud</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="47/3507">Antonio Capone</author>
+<author pid="78/1133">Ingolf Karls</author>
+<author pid="155/9780">Reza Arefi</author>
+<author pid="81/392">Thomas Haustein</author>
+<title>Millimeter-wave Evolution for 5G Cellular Networks.</title>
+<year>2014</year>
+<volume>abs/1412.3212</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.3212</ee>
+<url>db/journals/corr/corr1412.html#SakaguchiTSNSTSSCKAH14</url>
+</article>
+</r>
+<r><article key="journals/cn/MahapatraDGS13" mdate="2020-02-19">
+<author orcid="0000-0003-0155-0218" pid="15/10836">Rajarshi Mahapatra</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="47/3340-6">Rohit Gupta 0006</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Green framework for future heterogeneous wireless networks.</title>
+<pages>1518-1528</pages>
+<year>2013</year>
+<volume>57</volume>
+<journal>Comput. Networks</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.comnet.2013.02.007</ee>
+<url>db/journals/cn/cn57.html#MahapatraDGS13</url>
+</article>
+</r>
+<r><article key="journals/comsur/DomenicoSB12" mdate="2020-04-09">
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="64/6193">Maria-Gabriella Di Benedetto</author>
+<title>A Survey on MAC Strategies for Cognitive Radio Networks.</title>
+<pages>21-44</pages>
+<year>2012</year>
+<volume>14</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/SURV.2011.111510.00108</ee>
+<url>db/journals/comsur/comsur14.html#DomenicoSB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudnet/GuptaSK12" mdate="2017-05-25">
+<author pid="47/3340-6">Rohit Gupta 0006</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="34/6203">Dimitri Ktenas</author>
+<title>Energy efficient joint DTX and MIMO in cloud Radio Access Networks.</title>
+<pages>191-196</pages>
+<year>2012</year>
+<booktitle>CLOUDNET</booktitle>
+<ee>https://doi.org/10.1109/CloudNet.2012.6483673</ee>
+<crossref>conf/cloudnet/2012</crossref>
+<url>db/conf/cloudnet/cloudnet2012.html#GuptaSK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iswcs/MariCSD12" mdate="2017-05-25">
+<author pid="121/2578">Matthieu De Mari</author>
+<author pid="00/2812">Romain Couillet</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="75/4085">M&#233;rouane Debbah</author>
+<title>Concurrent data transmissions in green wireless networks: When best send one's packets?</title>
+<pages>596-600</pages>
+<year>2012</year>
+<booktitle>ISWCS</booktitle>
+<ee>https://doi.org/10.1109/ISWCS.2012.6328437</ee>
+<crossref>conf/iswcs/2012</crossref>
+<url>db/conf/iswcs/iswcs2012.html#MariCSD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/CorbelliniSD12" mdate="2020-10-25">
+<author pid="97/10262">Giorgio Corbellini</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0002-6950-6574" pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>LA-MAC: Low-latency asynchronous MAC for wireless sensor networks.</title>
+<pages>380-386</pages>
+<year>2012</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2012.6362815</ee>
+<crossref>conf/pimrc/2012</crossref>
+<url>db/conf/pimrc/pimrc2012.html#CorbelliniSD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/CorbelliniASD12" mdate="2020-10-25">
+<author pid="97/10262">Giorgio Corbellini</author>
+<author pid="11/8513">C&#233;dric Abgrall</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0002-6950-6574" pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>Energy evaluation of preamble sampling MAC protocols for Wireless Sensor Networks.</title>
+<pages>387-392</pages>
+<year>2012</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2012.6362816</ee>
+<crossref>conf/pimrc/2012</crossref>
+<url>db/conf/pimrc/pimrc2012.html#CorbelliniASD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/DomenicoSD12" mdate="2020-10-25">
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author orcid="0000-0002-6950-6574" pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>An energy efficient cell selection scheme for Open Access femtocell networks.</title>
+<pages>436-441</pages>
+<year>2012</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2012.6362825</ee>
+<crossref>conf/pimrc/2012</crossref>
+<url>db/conf/pimrc/pimrc2012.html#DomenicoSD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/DomenicoGS12" mdate="2017-05-21">
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="47/3340-6">Rohit Gupta 0006</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Dynamic Traffic Management for Green Open Access Femtocell Networks.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VETECS.2012.6240308</ee>
+<crossref>conf/vtc/2012s</crossref>
+<url>db/conf/vtc/vtc2012s.html#DomenicoGS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/GuptaS12" mdate="2017-05-21">
+<author pid="47/3340-6">Rohit Gupta 0006</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Base-Station Duty-Cycling and Traffic Buffering as a Means to Achieve Green Communications.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2012.6399307</ee>
+<crossref>conf/vtc/2012f</crossref>
+<url>db/conf/vtc/vtc2012f.html#GuptaS12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-0575" mdate="2018-08-13">
+<author pid="39/4500">Zubin Bharucha</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="55/2484">Jiming Chen</author>
+<author pid="49/3796">Xiaoli Chu</author>
+<author pid="12/8928">Afef Feki</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="95/8081">Ana Galindo-Serrano</author>
+<author pid="72/8514">Weisi Guo</author>
+<author pid="78/5883">Raymond Kwan</author>
+<author pid="02/2512">Jimin Liu</author>
+<author pid="38/7211">David L&#243;pez-P&#233;rez</author>
+<author pid="122/3116">Massod Maqbool</author>
+<author pid="73/7046">Ying Peng</author>
+<author pid="39/3542">Samir Perlaza</author>
+<author pid="59/5769">Guillaume de la Roche</author>
+<author pid="49/8513">Serkan Uygungelen</author>
+<author pid="64/8196">Alvaro Valcarce Rial</author>
+<author pid="84/6889-3">Jie Zhang 0003</author>
+<title>Small Cell Deployments: Recent Advances and Research Challenges</title>
+<ee type="oa">http://arxiv.org/abs/1211.0575</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.0575</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-0575</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEants/MahapatraS11" mdate="2019-09-25">
+<author orcid="0000-0003-0155-0218" pid="15/10836">Rajarshi Mahapatra</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Radio resource management in femtocell downlink exploiting location information.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>IEEE ANTS</booktitle>
+<ee>https://doi.org/10.1109/ANTS.2011.6163673</ee>
+<crossref>conf/IEEEants/2011</crossref>
+<url>db/conf/IEEEants/IEEEants2011.html#MahapatraS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/Strinati011" mdate="2017-04-30">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="47/3340-6">Rohit Gupta 0006</author>
+<title>Adaptive packet error rate target for energy efficient packet delivery.</title>
+<pages>864-868</pages>
+<year>2011</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>http://ieeexplore.ieee.org/document/7074306/</ee>
+<crossref>conf/eusipco/2011</crossref>
+<url>db/conf/eusipco/eusipco2011.html#Strinati011</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ew/DomenicoDSD11" mdate="2016-05-30">
+<author pid="97/10238">Antonio De Domenico</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>Ghost Femtocells: an Energy-Efficient Radio Resource Management Scheme for Two-Tier Cellular Networks.</title>
+<year>2011</year>
+<booktitle>EW</booktitle>
+<ee>http://www.vde-verlag.de/proceedings-de/563343114.html</ee>
+<crossref>conf/ew/2011</crossref>
+<url>db/conf/ew/ew2011.html#DomenicoDSD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/MahapatraS11" mdate="2019-09-25">
+<author orcid="0000-0003-0155-0218" pid="15/10836">Rajarshi Mahapatra</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Interference-aware dynamic spectrum access in cognitive radio network.</title>
+<pages>396-400</pages>
+<year>2011</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2011.6139990</ee>
+<crossref>conf/pimrc/2011</crossref>
+<url>db/conf/pimrc/pimrc2011.html#MahapatraS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/CorbelliniSHD11" mdate="2020-10-25">
+<author pid="97/10262">Giorgio Corbellini</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="34/1127">Elyes Ben Hamida</author>
+<author orcid="0000-0002-6950-6574" pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>DA-MAC: Density aware MAC for dynamic wireless sensor networks.</title>
+<pages>920-924</pages>
+<year>2011</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2011.6140103</ee>
+<crossref>conf/pimrc/2011</crossref>
+<url>db/conf/pimrc/pimrc2011.html#CorbelliniSHD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/GuptaS11" mdate="2017-05-25">
+<author pid="47/3340-6">Rohit Gupta 0006</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Green scheduling to minimize Base station transmit power and UE circuit power consumption.</title>
+<pages>2424-2429</pages>
+<year>2011</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2011.6139956</ee>
+<crossref>conf/pimrc/2011</crossref>
+<url>db/conf/pimrc/pimrc2011.html#GuptaS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/StrinatiDD11" mdate="2020-10-25">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="97/10238">Antonio De Domenico</author>
+<author orcid="0000-0002-6950-6574" pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>Ghost femtocells: A novel radio resource management scheme for OFDMA based networks.</title>
+<pages>108-113</pages>
+<year>2011</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2011.5779115</ee>
+<crossref>conf/wcnc/2011</crossref>
+<url>db/conf/wcnc/wcnc2011.html#StrinatiDD11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-6531" mdate="2018-08-13">
+<author pid="97/10262">Giorgio Corbellini</author>
+<author pid="11/8513">C&#233;dric Abgrall</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="d/AndrzejDuda">Andrzej Duda</author>
+<title>Technical Report: Energy Evaluation of preamble Sampling MAC Protocols for Wireless Sensor Networks</title>
+<ee type="oa">http://arxiv.org/abs/1109.6531</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.6531</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-6531</url>
+</article>
+</r>
+<r><article key="journals/ei/StrinatiH10" mdate="2020-06-04">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="21/4195">Laurent H&#233;rault</author>
+<title>Holistic Approach for Future Energy Efficient Cellular Networks.</title>
+<pages>314-320</pages>
+<year>2010</year>
+<volume>127</volume>
+<journal>Elektrotech. Informationstechnik</journal>
+<number>11</number>
+<ee>https://doi.org/10.1007/S00502-010-0782-6</ee>
+<url>db/journals/ei/ei127.html#StrinatiH10</url>
+</article>
+</r>
+<r><inproceedings key="conf/pimrc/AbgrallSB10" mdate="2017-05-25">
+<author pid="11/8513">C&#233;dric Abgrall</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="77/4717">Jean-Claude Belfiore</author>
+<title>Distributed power allocation for interference limited networks.</title>
+<pages>1342-1347</pages>
+<year>2010</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2010.5672011</ee>
+<crossref>conf/pimrc/2010</crossref>
+<url>db/conf/pimrc/pimrc2010.html#AbgrallSB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/StrinatiG10" mdate="2017-05-25">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="61/8861">Paolo Greco</author>
+<title>Green resource allocation for OFDMA wireless cellular networks.</title>
+<pages>2775-2780</pages>
+<year>2010</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2010.5671817</ee>
+<crossref>conf/pimrc/2010</crossref>
+<url>db/conf/pimrc/pimrc2010.html#StrinatiG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/AbgrallSB10" mdate="2017-05-21">
+<author pid="11/8513">C&#233;dric Abgrall</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="77/4717">Jean-Claude Belfiore</author>
+<title>Multi-Cell Interference Aware Resource Allocation for Half-Duplex Relay Based Cooperation.</title>
+<pages>1-5</pages>
+<year>2010</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VETECS.2010.5493626</ee>
+<crossref>conf/vtc/2010s</crossref>
+<url>db/conf/vtc/vtc2010s.html#AbgrallSB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/AbgrallSB10a" mdate="2017-05-21">
+<author pid="11/8513">C&#233;dric Abgrall</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="77/4717">Jean-Claude Belfiore</author>
+<title>Centralized Power Allocation for Interference Limited Networks.</title>
+<pages>1-5</pages>
+<year>2010</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VETECF.2010.5594603</ee>
+<crossref>conf/vtc/2010f</crossref>
+<url>db/conf/vtc/vtc2010f.html#AbgrallSB10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/KtenasS10" mdate="2017-05-24">
+<author pid="34/6203">Dimitri Ktenas</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Partial Channel Quality Indication Feedback for OFDMA-Based Systems.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2010.5506268</ee>
+<crossref>conf/wcnc/2010</crossref>
+<url>db/conf/wcnc/wcnc2010.html#KtenasS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/GruberBFZIS09" mdate="2020-10-26">
+<author pid="99/3897">Markus Gruber</author>
+<author pid="19/5517">Oliver Blume</author>
+<author pid="67/8929">Dieter Ferling</author>
+<author pid="46/2385">Dietrich Zeller</author>
+<author orcid="0000-0003-4743-9136" pid="25/1002">Muhammad Ali Imran 0001</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>EARTH - Energy Aware Radio and Network Technologies.</title>
+<pages>1-5</pages>
+<year>2009</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2009.5449938</ee>
+<crossref>conf/pimrc/2009</crossref>
+<url>db/conf/pimrc/pimrc2009.html#GruberBFZIS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/Strinati09" mdate="2017-05-21">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<title>Lazy Decoding for Block Fading Channels.</title>
+<year>2009</year>
+<booktitle>VTC Spring</booktitle>
+<crossref>conf/vtc/2009s</crossref>
+<url>db/conf/vtc/vtc2009s.html#Strinati09</url>
+<ee>https://doi.org/10.1109/VETECS.2009.5073643</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/StrinatiGK09" mdate="2017-05-21">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="97/10262">Giorgio Corbellini</author>
+<author pid="34/6203">Dimitri Ktenas</author>
+<title>HYGIENE Scheduling for OFDMA Wireless Cellular Networks.</title>
+<year>2009</year>
+<booktitle>VTC Spring</booktitle>
+<crossref>conf/vtc/2009s</crossref>
+<url>db/conf/vtc/vtc2009s.html#StrinatiGK09</url>
+<ee>https://doi.org/10.1109/VETECS.2009.5073581</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/StrinatiK09" mdate="2017-05-24">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="34/6203">Dimitri Ktenas</author>
+<title>Multi-user dynamic (Re) transmission scheduler for OFDMA systems.</title>
+<pages>1566-1571</pages>
+<year>2009</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2009.4917822</ee>
+<crossref>conf/wcnc/2009</crossref>
+<url>db/conf/wcnc/wcnc2009.html#StrinatiK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/StrinatiM08" mdate="2017-05-21">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="05/6295">Luc Maret</author>
+<title>Performance Evaluation of Hybrid Cooperation Protocol in IEEE 802.16e.</title>
+<pages>93-97</pages>
+<year>2008</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VETECS.2008.32</ee>
+<crossref>conf/vtc/2008s</crossref>
+<url>db/conf/vtc/vtc2008s.html#StrinatiM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/BadrSB08" mdate="2017-05-21">
+<author pid="33/360">Maya Badr</author>
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="77/4717">Jean-Claude Belfiore</author>
+<title>Optimal Power Allocation for Hybrid Amplify-and-Forward Cooperative Networks.</title>
+<pages>2111-2115</pages>
+<year>2008</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VETECS.2008.473</ee>
+<crossref>conf/vtc/2008s</crossref>
+<url>db/conf/vtc/vtc2008s.html#BadrSB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/StrinatiYB07" mdate="2017-05-25">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="69/4104">Sheng Yang</author>
+<author pid="77/4717">Jean-Claude Belfiore</author>
+<title>Adaptive Modulation and Coding for Hybrid Cooperative Networks.</title>
+<pages>4191-4195</pages>
+<year>2007</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2007.691</ee>
+<crossref>conf/icc/2007</crossref>
+<url>db/conf/icc/icc2007.html#StrinatiYB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/StrinatiSB07" mdate="2017-05-24">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="84/117">S&#233;bastien Simoens</author>
+<author pid="b/JosephBoutros">Joseph Jean Boutros</author>
+<title>Error Rate Estimation Based on Soft Output Decoding and its Application to Turbo Coding.</title>
+<pages>72-76</pages>
+<year>2007</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2007.19</ee>
+<crossref>conf/wcnc/2007</crossref>
+<url>db/conf/wcnc/wcnc2007.html#StrinatiSB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/StrinatiSB05" mdate="2017-05-25">
+<author pid="27/2122">Emilio Calvanese Strinati</author>
+<author pid="84/117">S&#233;bastien Simoens</author>
+<author pid="b/JosephBoutros">Joseph Boutros</author>
+<title>New error prediction techniques for turbo-coded OFDM systems and impact on adaptive modulation and coding.</title>
+<pages>1116-1119</pages>
+<year>2005</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2005.1651614</ee>
+<crossref>conf/pimrc/2005</crossref>
+<url>db/conf/pimrc/pimrc2005.html#StrinatiSB05</url>
+</inproceedings>
+</r>
+<coauthors n="186" nc="1">
+<co c="0"><na f="a/Abgrall:C=eacute=dric" pid="11/8513">C&#233;dric Abgrall</na></co>
+<co c="0"><na f="a/Ahn:Heungseop" pid="205/7933">Heungseop Ahn</na></co>
+<co c="0"><na f="a/Arefi:Reza" pid="155/9780">Reza Arefi</na></co>
+<co c="0"><na f="b/Badr:Maya" pid="33/360">Maya Badr</na></co>
+<co c="0"><na f="b/Barbarossa:Sergio" pid="66/426">Sergio Barbarossa</na></co>
+<co c="0"><na f="b/Barberis:Sergio" pid="25/198">Sergio Barberis</na></co>
+<co c="0"><na f="b/Becvar:Zdenek" pid="95/4833">Zdenek Becvar</na></co>
+<co c="0"><na f="b/Belfiore:Jean=Claude" pid="77/4717">Jean-Claude Belfiore</na></co>
+<co c="0"><na f="b/Belot:Didier" pid="11/3511">Didier Belot</na></co>
+<co c="0"><na f="b/Benedetto:Maria=Gabriella_Di" pid="64/6193">Maria-Gabriella Di Benedetto</na></co>
+<co c="0"><na f="b/Bharucha:Zubin" pid="39/4500">Zubin Bharucha</na></co>
+<co c="0" n="2"><na f="b/Bicais:Simon" pid="213/5038">Simon Bicais</na><na>Simon Bica&#239;s</na></co>
+<co c="0"><na f="b/Blume:Oliver" pid="19/5517">Oliver Blume</na></co>
+<co c="0" n="2"><na f="b/Boutros:Joseph_Jean" pid="b/JosephBoutros">Joseph Jean Boutros</na><na>Joseph Boutros</na></co>
+<co c="0"><na f="c/Capone:Antonio" pid="47/3507">Antonio Capone</na></co>
+<co c="0"><na f="c/Casati:Guido" pid="269/9686">Guido Casati</na></co>
+<co c="0"><na f="c/Cassiau:Nicolas" pid="132/3744">Nicolas Cassiau</na></co>
+<co c="0"><na f="c/Cecchinato:Davide" pid="270/4518">Davide Cecchinato</na></co>
+<co c="0"><na f="c/Ceci:Elena" pid="199/1949">Elena Ceci</na></co>
+<co c="0"><na f="c/Charitos:Dimitris" pid="95/1631">Dimitris Charitos</na></co>
+<co c="0"><na f="c/Chatzigiannakis:Ioannis" pid="c/IoannisChatzigiannakis">Ioannis Chatzigiannakis</na></co>
+<co c="0"><na f="c/Chen:Jiming" pid="55/2484">Jiming Chen</na></co>
+<co c="0"><na f="c/Chiaraviglio:Luca" pid="54/7881">Luca Chiaraviglio</na></co>
+<co c="0"><na f="c/Chien:Cheng=Yi" pid="287/2797">Cheng-Yi Chien</na></co>
+<co c="0"><na f="c/Choi:Seungwon" pid="52/3237">Seungwon Choi</na></co>
+<co c="0"><na f="c/Choi:Taesang" pid="39/5557">Taesang Choi</na></co>
+<co c="0"><na f="c/Chu:Xiaoli" pid="49/3796">Xiaoli Chu</na></co>
+<co c="0"><na f="c/Chuberre:Nicolas" pid="81/8853">Nicolas Chuberre</na></co>
+<co c="0"><na f="c/Chung:Hee=Sang" pid="155/5079">Hee-Sang Chung</na></co>
+<co c="0"><na f="c/Chung:Hyun_Kyu" pid="63/6060">Hyun Kyu Chung</na></co>
+<co c="0"><na f="c/Ciampolini:Paolo" pid="08/6110">Paolo Ciampolini</na></co>
+<co c="0"><na f="c/Clemente:Antonio" pid="152/9899">Antonio Clemente</na></co>
+<co c="0"><na f="c/Cohen:Michel" pid="124/8666">Michel Cohen</na></co>
+<co c="0"><na f="c/Colombero:Sylvain" pid="269/9464">Sylvain Colombero</na></co>
+<co c="0"><na f="c/Corbellini:Giorgio" pid="97/10262">Giorgio Corbellini</na></co>
+<co c="0"><na f="c/Corre:Yoann" pid="56/5339">Yoann Corre</na></co>
+<co c="0"><na f="c/Costanzo:Francesca" pid="231/2644">Francesca Costanzo</na></co>
+<co c="0"><na f="c/Couillet:Romain" pid="00/2812">Romain Couillet</na></co>
+<co c="0"><na f="c/Cuomo:Francesca" pid="36/5320">Francesca Cuomo</na></co>
+<co c="0"><na f="d/Debbah:M=eacute=rouane" pid="75/4085">M&#233;rouane Debbah</na></co>
+<co c="0" n="2"><na f="d/Dehos:Cedric" pid="39/4523">Cedric Dehos</na><na>C&#233;dric Dehos</na></co>
+<co c="0"><na f="d/Deleu:Thibault" pid="67/10608">Thibault Deleu</na></co>
+<co c="0"><na f="d/Destino:Giuseppe" pid="88/4514">Giuseppe Destino</na></co>
+<co c="0"><na f="d/Domenico:Antonio_De" pid="97/10238">Antonio De Domenico</na></co>
+<co c="0" n="2"><na f="d/Dore:Jean=Baptiste" pid="81/6530">Jean-Baptiste Dore</na><na>Jean-Baptiste Dor&#233;</na></co>
+<co c="0"><na f="d/Duda:Andrzej" pid="d/AndrzejDuda">Andrzej Duda</na></co>
+<co c="0"><na f="d/Dussopt:Laurent" pid="29/10255">Laurent Dussopt</na></co>
+<co c="0"><na f="d/Dutkiewicz:Eryk" pid="71/2764">Eryk Dutkiewicz</na></co>
+<co c="0"><na f="e/Englisch:Juergen" pid="221/0361">Juergen Englisch</na></co>
+<co c="0"><na f="f/Faerber_0003:Michael" pid="164/8956">Michael Faerber 0003</na></co>
+<co c="0"><na f="f/Feki:Afef" pid="12/8928">Afef Feki</na></co>
+<co c="0"><na f="f/Ferling:Dieter" pid="67/8929">Dieter Ferling</na></co>
+<co c="0"><na f="f/Filippini:Ilario" pid="66/1274">Ilario Filippini</na></co>
+<co c="0"><na f="f/Frascolla:Valerio" pid="33/4569">Valerio Frascolla</na></co>
+<co c="0"><na f="f/Fresia:Maria" pid="26/6695">Maria Fresia</na></co>
+<co c="0"><na f="g/Galindo=Serrano:Ana" pid="95/8081">Ana Galindo-Serrano</na></co>
+<co c="0"><na f="g/Gavalas:Damianos" pid="41/308">Damianos Gavalas</na></co>
+<co c="0"><na f="g/Gineste:Mathieu" pid="85/1969">Mathieu Gineste</na></co>
+<co c="0"><na f="g/Giuseppi:Alessandro" pid="185/2468">Alessandro Giuseppi</na></co>
+<co c="0"><na f="g/Giust:Fabio" pid="28/9977">Fabio Giust</na></co>
+<co c="0"><na f="g/Gong:Shimin" pid="92/3836">Shimin Gong</na></co>
+<co c="0" n="2"><na f="g/Gougeon:Gregory" pid="164/8766">Gregory Gougeon</na><na>Gr&#233;gory Gougeon</na></co>
+<co c="-1"><na f="g/Greco:Paolo" pid="61/8861">Paolo Greco</na></co>
+<co c="0"><na f="g/Gruber:Markus" pid="99/3897">Markus Gruber</na></co>
+<co c="0"><na f="g/Guo:Weisi" pid="72/8514">Weisi Guo</na></co>
+<co c="0"><na f="g/Gupta_0006:Rohit" pid="47/3340-6">Rohit Gupta 0006</na></co>
+<co c="0"><na f="h/Hamida:Elyes_Ben" pid="34/1127">Elyes Ben Hamida</na></co>
+<co c="0"><na f="h/Hanke:Sten" pid="95/6480">Sten Hanke</na></co>
+<co c="0"><na f="h/Haustein:Thomas" pid="81/392">Thomas Haustein</na></co>
+<co c="0"><na f="h/Heath_Jr=:Robert_W=" pid="56/4851">Robert W. Heath Jr.</na></co>
+<co c="-1"><na f="h/H=eacute=rault:Laurent" pid="21/4195">Laurent H&#233;rault</na></co>
+<co c="0"><na f="h/Hoang:Dinh_Thai" pid="37/8852">Dinh Thai Hoang</na></co>
+<co c="0"><na f="h/Houssin:Jean=Michel" pid="160/3026">Jean-Michel Houssin</na></co>
+<co c="0"><na f="h/Hoydis:Jakob" pid="19/4592">Jakob Hoydis</na></co>
+<co c="0"><na f="h/Huang:Jen=Sheng" pid="287/2726">Jen-Sheng Huang</na></co>
+<co c="0"><na f="h/Huang:Jiun=Cheng" pid="287/2799">Jiun-Cheng Huang</na></co>
+<co c="0"><na f="i/Imran_0001:Muhammad_Ali" pid="25/1002">Muhammad Ali Imran 0001</na></co>
+<co c="0"><na f="i/Ivanov_0002:Vladimir" pid="89/4816-2">Vladimir Ivanov 0002</na></co>
+<co c="0"><na f="j/Jaeckel:Stephan" pid="38/3479">Stephan Jaeckel</na></co>
+<co c="0" n="2"><na f="j/Jimenez:Jose=Luis_Gonzalez" pid="156/4725">Jose-Luis Gonzalez Jimenez</na><na>Jos&#233; Luis Gonzalez-Jimenez</na></co>
+<co c="0"><na f="k/Karls:Ingolf" pid="78/1133">Ingolf Karls</na></co>
+<co c="0"><na f="k/Keusgen:Wilhelm" pid="30/322">Wilhelm Keusgen</na></co>
+<co c="0" n="2"><na f="k/Kim:Il=Gyu" pid="155/5146">Il-Gyu Kim</na><na>Ilgyu Kim</na></co>
+<co c="0"><na f="k/Kim:Junhyeong" pid="40/6996">Junhyeong Kim</na></co>
+<co c="0"><na f="k/Kim:Kyunghoon" pid="19/5312">Kyunghoon Kim</na></co>
+<co c="0"><na f="k/Kim:Taeyeon" pid="32/5510">Taeyeon Kim</na></co>
+<co c="0"><na f="k/Klessig:Henrik" pid="58/10835">Henrik Klessig</na></co>
+<co c="0"><na f="k/Komninos:Andreas" pid="61/5974">Andreas Komninos</na></co>
+<co c="0"><na f="k/Korvala:Aki" pid="194/8579">Aki Korvala</na></co>
+<co c="0"><na f="k/Koslowski:Konstantin" pid="208/2183">Konstantin Koslowski</na></co>
+<co c="0"><na f="k/Kotzsch:Vincent" pid="21/1115">Vincent Kotzsch</na></co>
+<co c="0" n="2"><na f="k/Ktenas:Dimitri" pid="34/6203">Dimitri Ktenas</na><na>Dimitri Kt&#233;nas</na></co>
+<co c="0"><na f="k/Kwan:Raymond" pid="78/5883">Raymond Kwan</na></co>
+<co c="0"><na f="l/Labriji:Ibtissam" pid="287/2884">Ibtissam Labriji</na></co>
+<co c="0"><na f="l/Latva=aho:Matti" pid="18/6638">Matti Latva-aho</na></co>
+<co c="0"><na f="l/Liang:Shuo=Peng" pid="287/2824">Shuo-Peng Liang</na></co>
+<co c="0"><na f="l/Liinamaa:Olli" pid="185/6449">Olli Liinamaa</na></co>
+<co c="0"><na f="l/Liu:Jimin" pid="02/2512">Jimin Liu</na></co>
+<co c="0"><na f="l/Lobillo:Felicia" pid="157/8023">Felicia Lobillo</na></co>
+<co c="0"><na f="l/L=oacute=pez=P=eacute=rez:David" pid="38/7211">David L&#243;pez-P&#233;rez</na></co>
+<co c="0"><na f="l/Lorenzo:Paolo_Di" pid="42/9879">Paolo Di Lorenzo</na></co>
+<co c="0"><na f="l/Lostanlen:Yves" pid="69/2458">Yves Lostanlen</na></co>
+<co c="0"><na f="l/Luo:Jack_Shi=Jie" pid="287/2575">Jack Shi-Jie Luo</na></co>
+<co c="0"><na f="m/Mach:Pavel" pid="83/2558">Pavel Mach</na></co>
+<co c="0"><na f="m/Mahapatra:Rajarshi" pid="15/10836">Rajarshi Mahapatra</na></co>
+<co c="0"><na f="m/Mahler:Kim" pid="93/8209">Kim Mahler</na></co>
+<co c="0"><na f="m/Maltsev:Alexander" pid="15/5856">Alexander Maltsev</na></co>
+<co c="0"><na f="m/Maman:Mickael" pid="57/5956">Mickael Maman</na></co>
+<co c="0"><na f="m/Maqbool:Massod" pid="122/3116">Massod Maqbool</na></co>
+<co c="0"><na f="m/Maret:Luc" pid="05/6295">Luc Maret</na></co>
+<co c="0"><na f="m/Mari:Matthieu_De" pid="121/2578">Matthieu De Mari</na></co>
+<co c="0"><na f="m/Meneghello:Francesca" pid="20/8267">Francesca Meneghello</na></co>
+<co c="0"><na f="m/Mercier:Eric" pid="170/2913">Eric Mercier</na></co>
+<co c="0"><na f="m/Merluzzi:Mattia" pid="202/5481">Mattia Merluzzi</na></co>
+<co c="0"><na f="m/Miao:Honglei" pid="41/8141">Honglei Miao</na></co>
+<co c="0"><na f="m/Miatton:Federico" pid="185/6421">Federico Miatton</na></co>
+<co c="0"><na f="m/Miscopein:Benoit" pid="62/2899">Benoit Miscopein</na></co>
+<co c="0"><na f="m/Monnerat:Michel" pid="194/8575">Michel Monnerat</na></co>
+<co c="0" n="2"><na f="m/Muck:Markus" pid="20/5447">Markus Muck</na><na>Markus Mueck</na></co>
+<co c="0"><na f="m/Mylonas:Georgios" pid="85/2924">Georgios Mylonas</na></co>
+<co c="0"><na f="n/Nanba:Shinobu" pid="55/4404">Shinobu Nanba</na></co>
+<co c="0"><na f="n/Nishiuchi:Hiroaki" pid="178/2679">Hiroaki Nishiuchi</na></co>
+<co c="0"><na f="n/Niyato:Dusit" pid="76/440">Dusit Niyato</na></co>
+<co c="0"><na f="n/Noh:Gosan" pid="90/711">Gosan Noh</na></co>
+<co c="0"><na f="o/Ogawa:Hiroaki" pid="50/5523">Hiroaki Ogawa</na></co>
+<co c="0"><na f="o/Ohlmer:Eckhard" pid="63/4488">Eckhard Ohlmer</na></co>
+<co c="0"><na f="o/Oueis:Jessica" pid="154/3639">Jessica Oueis</na></co>
+<co c="0"><na f="p/Palestini:Valerio" pid="75/2937">Valerio Palestini</na></co>
+<co c="0"><na f="p/P=auml=rssinen:Aarno" pid="81/2585">Aarno P&#228;rssinen</na></co>
+<co c="0"><na f="p/Peng:Ying" pid="73/7046">Ying Peng</na></co>
+<co c="0"><na f="p/Perlaza:Samir" pid="39/3542">Samir Perlaza</na></co>
+<co c="0"><na f="p/Perraud:Eric" pid="243/8193">Eric Perraud</na></co>
+<co c="0"><na f="p/Peter:Michael" pid="69/469">Michael Peter</na></co>
+<co c="0"><na f="p/Pettissalo:Marko" pid="21/4549">Marko Pettissalo</na></co>
+<co c="0"><na f="p/Pietrabissa:Antonio" pid="27/5344">Antonio Pietrabissa</na></co>
+<co c="0"><na f="p/Pietro:Nicola_di" pid="128/8263">Nicola di Pietro</na></co>
+<co c="0"><na f="p/Pigni:Federico" pid="69/8777">Federico Pigni</na></co>
+<co c="0"><na f="p/Plachy:Jan" pid="150/6749">Jan Plachy</na></co>
+<co c="0"><na f="p/Pouttu:Ari" pid="24/10905">Ari Pouttu</na></co>
+<co c="0"><na f="p/Puente:Miguel_Angel" pid="157/8583">Miguel Angel Puente</na></co>
+<co c="0"><na f="p/Putkonen:Jyri" pid="160/4922">Jyri Putkonen</na></co>
+<co c="0"><na f="q/Quek:Tony_Q=_S=" pid="65/1128">Tony Q. S. Quek</na></co>
+<co c="0" n="2"><na f="r/Ranta=Aho:Karri" pid="63/4502">Karri Ranta-Aho</na><na>Karri Ranta-aho</na></co>
+<co c="0"><na f="r/Raschkowski:Leszek" pid="182/1485">Leszek Raschkowski</na></co>
+<co c="0"><na f="r/Rial:Alvaro_Valcarce" pid="64/8196">Alvaro Valcarce Rial</na></co>
+<co c="0"><na f="r/Roche:Guillaume_de_la" pid="59/5769">Guillaume de la Roche</na></co>
+<co c="0"><na f="r/Rohlik:Matej" pid="57/10475">Matej Rohlik</na></co>
+<co c="0"><na f="r/Romano_0001:Giovanni" pid="27/416-1">Giovanni Romano 0001</na></co>
+<co c="0"><na f="r/Ronzani:Daniele" pid="184/5917">Daniele Ronzani</na></co>
+<co c="0"><na f="r/Rossi:Michele" pid="19/3912">Michele Rossi</na></co>
+<co c="0"><na f="s/Sadri:Ali" pid="172/2000">Ali Sadri</na></co>
+<co c="0"><na f="s/Sakaguchi:Kei" pid="06/3291">Kei Sakaguchi</na></co>
+<co c="0"><na f="s/Sakurai:Toshiaki" pid="155/9729">Toshiaki Sakurai</na></co>
+<co c="0"><na f="s/Salsano:Stefano" pid="41/3791">Stefano Salsano</na></co>
+<co c="0"><na f="s/Sana:Mohamed" pid="259/3775">Mohamed Sana</na></co>
+<co c="0"><na f="s/Santis:Emanuele_De" pid="254/5268">Emanuele De Santis</na></co>
+<co c="0"><na f="s/Saravanan:Visvesh" pid="213/4991">Visvesh Saravanan</na></co>
+<co c="0"><na f="s/Sardellitti:Stefania" pid="80/2202">Stefania Sardellitti</na></co>
+<co c="0"><na f="s/Sauleau:Ronan" pid="132/9468">Ronan Sauleau</na></co>
+<co c="0"><na f="s/Schmieder:Mathis" pid="237/7137">Mathis Schmieder</na></co>
+<co c="0"><na f="s/Sesia:Stefania" pid="58/352">Stefania Sesia</na></co>
+<co c="0"><na f="s/Shafie_0001:Ahmed_El" pid="116/2851">Ahmed El Shafie 0001</na></co>
+<co c="0"><na f="s/Shariat:Mehrdad" pid="72/3680">Mehrdad Shariat</na></co>
+<co c="0"><na f="s/Shimodaira:Hidekazu" pid="122/5728">Hidekazu Shimodaira</na></co>
+<co c="0"><na f="s/Siaud:Isabelle" pid="53/3393">Isabelle Siaud</na></co>
+<co c="0"><na f="s/Simoens:S=eacute=bastien" pid="84/117">S&#233;bastien Simoens</na></co>
+<co c="0"><na f="t/Takinami:Koji" pid="11/10248">Koji Takinami</na></co>
+<co c="0"><na f="t/Thary:Marjorie" pid="269/9541">Marjorie Thary</na></co>
+<co c="0"><na f="t/Tran:Gia_Khanh" pid="04/5083">Gia Khanh Tran</na></co>
+<co c="0"><na f="u/Ulmer=Moll:Anne=Marie" pid="48/2334">Anne-Marie Ulmer-Moll</na></co>
+<co c="0"><na f="u/Uygungelen:Serkan" pid="49/8513">Serkan Uygungelen</na></co>
+<co c="0"><na f="v/Valino:Javier" pid="05/11390">Javier Valino</na></co>
+<co c="0"><na f="v/Vautherin:Benoit" pid="194/8584">Benoit Vautherin</na></co>
+<co c="0"><na f="v/Vidal:Josep" pid="99/1385">Josep Vidal</na></co>
+<co c="0"><na f="w/Wang_0001:Ping" pid="37/1304-1">Ping Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Tzu=Ya" pid="56/797">Tzu-Ya Wang</na></co>
+<co c="0"><na f="w/Weiler:Richard_J=" pid="157/7836">Richard J. Weiler</na></co>
+<co c="0"><na f="w/Wittig:Sven" pid="213/1001">Sven Wittig</na></co>
+<co c="0"><na f="w/Won:Seok_Ho" pid="17/5618">Seok Ho Won</na></co>
+<co c="0"><na f="x/Xian:Liang" pid="33/6531">Liang Xian</na></co>
+<co c="0"><na f="y/Yang:Sheng" pid="69/4104">Sheng Yang</na></co>
+<co c="0"><na f="y/Yu_0001:Wei" pid="82/2790-1">Wei Yu 0001</na></co>
+<co c="0"><na f="y/Yunoki:Katsuo" pid="221/0313">Katsuo Yunoki</na></co>
+<co c="0"><na f="z/Zeller:Dietrich" pid="46/2385">Dietrich Zeller</na></co>
+<co c="0"><na f="z/Zhang_0003:Jie" pid="84/6889-3">Jie Zhang 0003</na></co>
+<co c="0"><na f="z/Zotto:Pierre_Dal" pid="269/9537">Pierre Dal Zotto</na></co>
+</coauthors>
+</dblpperson>
+

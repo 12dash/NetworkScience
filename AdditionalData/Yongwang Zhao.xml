@@ -1,3 +1,1125 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17b38024e1925c20e348f9becdb7efedef8e2904f79fc020703bea2390e0c0a4
-size 48713
+<?xml version="1.0"?>
+<dblpperson name="Yongwang Zhao" pid="70/2470" n="70">
+<person key="homepages/70/2470" mdate="2020-07-22">
+<author pid="70/2470">Yongwang Zhao</author>
+<url>http://act.buaa.edu.cn/zhaoyw/index.html</url>
+<url>https://orcid.org/0000-0002-2284-1383</url>
+<note type="affiliation">Beihang University, Beijing, China</note>
+<note type="uname">&#36213;&#27704;&#26395;</note>
+</person>
+<r><article key="journals/tdsc/ZhaoSZL19" mdate="2020-10-26">
+<author orcid="0000-0002-2284-1383" pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Refinement-Based Specification and Security Analysis of Separation Kernels.</title>
+<pages>127-141</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TDSC.2017.2672983</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TDSC.2017.2672983</ee>
+<url>db/journals/tdsc/tdsc16.html#ZhaoSZL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/ZhaoS19" mdate="2020-10-25">
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<title>Rely-Guarantee Reasoning About Concurrent Memory Management in Zephyr RTOS.</title>
+<pages>515-533</pages>
+<year>2019</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-25543-5_29</ee>
+<crossref>conf/cav/2019-2</crossref>
+<url>db/conf/cav/cav2019-2.html#ZhaoS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/ZhaoSZ019" mdate="2020-10-25">
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>A Parametric Rely-Guarantee Reasoning Framework for Concurrent Reactive Systems.</title>
+<pages>161-178</pages>
+<year>2019</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30942-8_11</ee>
+<crossref>conf/fm/2019</crossref>
+<url>db/conf/fm/fm2019.html#ZhaoSZ019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/JiangSZK019" mdate="2020-10-25">
+<author pid="55/6803">Ke Jiang</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="153/5355">Shuanglong Kan</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>A Formally Verified Buddy Memory Allocation Model.</title>
+<pages>144-153</pages>
+<year>2019</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2019.00023</ee>
+<crossref>conf/iceccs/2019</crossref>
+<url>db/conf/iceccs/iceccs2019.html#JiangSZK019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/ZhangZMN19" mdate="2019-07-13">
+<author pid="48/1294">Feng Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="90/8611">Wensheng Niu</author>
+<title>Fine-Grained Formal Specification and Analysis of Buddy Memory Allocation in Zephyr RTOS.</title>
+<pages>10-17</pages>
+<year>2019</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2019.00013</ee>
+<crossref>conf/isorc/2019</crossref>
+<url>db/conf/isorc/isorc2019.html#ZhangZMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/setta/ZhangZSQZ19" mdate="2020-10-25">
+<author pid="50/671">Yu Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="54/3557">Lei Qiao</author>
+<author pid="216/6924">Jinkun Zhang</author>
+<title>A Verified Specification of TLSF Memory Management Allocator Using State Monads.</title>
+<pages>122-138</pages>
+<year>2019</year>
+<booktitle>SETTA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-35540-1_8</ee>
+<crossref>conf/setta/2019</crossref>
+<url>db/conf/setta/setta2019.html#ZhangZSQZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofl/AliSZ19" mdate="2020-02-21">
+<author pid="05/8177">Shahbaz Ali</author>
+<author pid="21/1509-1">Hailong Sun 0001</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<title>Combining Model Learning and Model Checking to Analyze Java Libraries.</title>
+<pages>259-278</pages>
+<year>2019</year>
+<booktitle>SOFL+MSVL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41418-4_18</ee>
+<crossref>conf/sofl/2019</crossref>
+<url>db/conf/sofl/sofl2019.html#AliSZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-01910" mdate="2019-01-31">
+<author pid="05/8177">Shahbaz Ali</author>
+<author pid="21/1509-1">Hailong Sun 0001</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<title>Model Learning: A Survey on Foundation, Tools and Applications.</title>
+<year>2019</year>
+<volume>abs/1901.01910</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.01910</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-01910</url>
+</article>
+</r>
+<r><article key="journals/access/SunLZ18" mdate="2018-07-04">
+<author pid="20/11086">Jianwen Sun</author>
+<author pid="64/6328">Xiang Long</author>
+<author orcid="0000-0002-2284-1383" pid="70/2470">Yongwang Zhao</author>
+<title>A Verified Capability-Based Model for Information Flow Security With Dynamic Policies.</title>
+<pages>16395-16407</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2815766</ee>
+<url>db/journals/access/access6.html#SunLZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fm/ZhangZSLTLS18" mdate="2020-10-25">
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<author orcid="0000-0002-9726-3434" pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Compositional Reasoning for Shared-Variable Concurrent Programs.</title>
+<pages>523-541</pages>
+<year>2018</year>
+<booktitle>FM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-95582-7_31</ee>
+<crossref>conf/fm/2018</crossref>
+<url>db/conf/fm/fm2018.html#ZhangZSLTLS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-07855" mdate="2019-07-15">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>An Event-based Compositional Reasoning Approach for Concurrent Reactive Systems.</title>
+<year>2018</year>
+<volume>abs/1810.07855</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.07855</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-07855</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-03318" mdate="2019-01-01">
+<author pid="50/671">Yu Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<title>A Verified Timsort C Implementation in Isabelle/HOL.</title>
+<year>2018</year>
+<volume>abs/1812.03318</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.03318</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-03318</url>
+</article>
+</r>
+<r><article key="journals/access/ZhangZMN17" mdate="2018-07-04">
+<author pid="48/1294">Feng Zhang</author>
+<author orcid="0000-0002-2284-1383" pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="90/8611">Wensheng Niu</author>
+<title>Formal Verification of Behavioral AADL Models by Stateful Timed CSP.</title>
+<pages>27421-27438</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2017.2770323</ee>
+<url>db/journals/access/access5.html#ZhangZMN17</url>
+</article>
+</r>
+<r><article key="journals/fcsc/ZhaoYM17" mdate="2018-02-19">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="56/1234">Zhibin Yang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>A survey on formal specification and verification of separation kernels.</title>
+<pages>585-607</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11704-016-4226-2</ee>
+<url>db/journals/fcsc/fcsc11.html#ZhaoYM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/tacas/SananZHZTL17" mdate="2020-10-25">
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0001-7164-0580" pid="76/5461">Zhe Hou</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>CSimpl: A Rely-Guarantee-Based Framework for Verifying Concurrent Programs.</title>
+<pages>481-498</pages>
+<year>2017</year>
+<booktitle>TACAS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54577-5_28</ee>
+<crossref>conf/tacas/2017-1</crossref>
+<url>db/conf/tacas/tacas2017-1.html#SananZHZTL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhaoSZL17" mdate="2019-07-15">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>High-Assurance Separation Kernels: A Survey on Formal Methods.</title>
+<year>2017</year>
+<volume>abs/1701.01535</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.01535</ee>
+<url>db/journals/corr/corr1701.html#ZhaoSZL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhaoSZL17a" mdate="2019-07-15">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Refinement-based Specification and Security Analysis of Separation Kernels.</title>
+<year>2017</year>
+<volume>abs/1702.05997</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.05997</ee>
+<url>db/journals/corr/corr1702.html#ZhaoSZL17a</url>
+</article>
+</r>
+<r><article key="journals/fcsc/YangBFHZM16" mdate="2021-03-03">
+<author pid="56/1234">Zhibin Yang</author>
+<author pid="97/1837">Jean-Paul Bodeveix</author>
+<author pid="60/599">Mamoun Filali</author>
+<author pid="57/6633-4">Kai Hu 0004</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Towards a verified compiler prototype for the synchronous language SIGNAL.</title>
+<pages>37-53</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-015-4364-y</ee>
+<url>db/journals/fcsc/fcsc10.html#YangBFHZM16</url>
+</article>
+</r>
+<r><article key="journals/jss/ChengBZMLPZ16" mdate="2020-02-24">
+<author pid="48/7895">Kun Cheng</author>
+<author pid="22/2375">Yuebin Bai</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="85/6836">Yao Ma</author>
+<author pid="163/6679">Duo Lu</author>
+<author pid="19/8277">Yuanfeng Peng</author>
+<author pid="176/6533">Minxuan Zhou</author>
+<title>HV<sup>2</sup>M: A novel approach to boost inter-VM network performance for Xen-based HVMs.</title>
+<pages>54-68</pages>
+<year>2016</year>
+<volume>114</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2015.12.002</ee>
+<url>db/journals/jss/jss114.html#ChengBZMLPZ16</url>
+</article>
+</r>
+<r><article key="journals/tii/ZhaoSZL16" mdate="2020-10-26">
+<author orcid="0000-0002-2284-1383" pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Formal Specification and Analysis of Partitioning Operating Systems by Integrating Ontology and Refinement.</title>
+<pages>1321-1331</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TII.2016.2569414</ee>
+<url>db/journals/tii/tii12.html#ZhaoSZL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/tacas/ZhaoSZL16" mdate="2020-10-25">
+<author pid="70/2470">Yongwang Zhao</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Reasoning About Information Flow Security of Separation Kernels with Channel-Based Communication.</title>
+<pages>791-810</pages>
+<year>2016</year>
+<booktitle>TACAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-49674-9_50</ee>
+<crossref>conf/tacas/2016</crossref>
+<url>db/conf/tacas/tacas2016.html#ZhaoSZL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangZSLTLWS16" mdate="2020-06-18">
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<author pid="55/4730-1">Shang-Wei Lin 0001</author>
+<author pid="124/6824">Zhimin Wu</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<title>Compositional Reasoning for Shared-variable Concurrent Programs.</title>
+<year>2016</year>
+<volume>abs/1611.00574</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.00574</ee>
+<url>db/journals/corr/corr1611.html#ZhangZSLTLWS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/SananYZXH15" mdate="2020-10-25">
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="27/3367">Liu Yang</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="52/6482">Zhenchang Xing</author>
+<author orcid="0000-0001-5110-561X" pid="h/MichaelGHinchey">Mike Hinchey</author>
+<title>Verifying FreeRTOS' Cyclic Doubly Linked List Implementation: From Abstract Specification to Machine Code.</title>
+<pages>120-129</pages>
+<year>2015</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2015.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICECCS.2015.23</ee>
+<crossref>conf/iceccs/2015</crossref>
+<url>db/conf/iceccs/iceccs2015.html#SananYZXH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/ZhaoYSL15" mdate="2020-10-25">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="56/1234">Zhibin Yang</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Event-based formalization of safety-critical operating system standards: An experience report on ARINC 653 using Event-B.</title>
+<pages>281-292</pages>
+<year>2015</year>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE.2015.7381821</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSRE.2015.7381821</ee>
+<crossref>conf/issre/2015</crossref>
+<url>db/conf/issre/issre2015.html#ZhaoYSL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhaoYS15" mdate="2018-08-13">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="56/1234">Zhibin Yang</author>
+<author pid="22/111">David San&#225;n</author>
+<title>Event-based Formalization of Safety-critical Operating System Standards: An Experience Report on ARINC 653 using Event-B.</title>
+<year>2015</year>
+<volume>abs/1508.06479</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.06479</ee>
+<url>db/journals/corr/corr1508.html#ZhaoYS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Zhao15a" mdate="2018-08-13">
+<author pid="70/2470">Yongwang Zhao</author>
+<title>Formal Specification and Verification of Separation Kernels: An Overview.</title>
+<year>2015</year>
+<volume>abs/1508.07066</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.07066</ee>
+<url>db/journals/corr/corr1508.html#Zhao15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhaoSZL15" mdate="2018-08-13">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="22/111">David San&#225;n</author>
+<author pid="08/7637">Fuyuan Zhang</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<title>Reasoning About Information Flow Security of Separation Kernels with Channel-based Communication.</title>
+<year>2015</year>
+<volume>abs/1510.05091</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.05091</ee>
+<url>db/journals/corr/corr1510.html#ZhaoSZL15</url>
+</article>
+</r>
+<r><article key="journals/cmpb/ShenMZSSYHLS14" mdate="2020-02-20">
+<author pid="82/7774">Hualei Shen</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="21/1509-1">Hailong Sun 0001</author>
+<author pid="117/5830">Sujun Sun</author>
+<author pid="43/8403">Rongwei Ye</author>
+<author pid="18/1763-15">Lei Huang 0015</author>
+<author pid="97/4071">Bo Lang</author>
+<author pid="181/2323">Yan Sun</author>
+<title>MIAPS: A web-based system for remotely accessing and presenting medical images.</title>
+<pages>266-283</pages>
+<year>2014</year>
+<volume>113</volume>
+<journal>Comput. Methods Programs Biomed.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.cmpb.2013.09.008</ee>
+<ee>https://www.wikidata.org/entity/Q54358712</ee>
+<url>db/journals/cmpb/cmpb113.html#ShenMZSSYHLS14</url>
+</article>
+</r>
+<r><article key="journals/soca/ZengMZL14" mdate="2020-08-06">
+<author pid="59/6515">Hao Zeng</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<title>PBA4WSSP: a policy-based architecture for web services security processing.</title>
+<pages>55-72</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Serv. Oriented Comput. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11761-013-0143-5</ee>
+<url>db/journals/soca/soca8.html#ZengMZL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ksem/WuMZZ14" mdate="2017-05-25">
+<author pid="93/3254">Wenjuan Wu</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="05/10591">Xianqi Zhao</author>
+<title>Formal Modeling of Airborne Software High-Level Requirements Based on Knowledge Graph.</title>
+<pages>258-269</pages>
+<year>2014</year>
+<booktitle>KSEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12096-6_23</ee>
+<crossref>conf/ksem/2014</crossref>
+<url>db/conf/ksem/ksem2014.html#WuMZZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spac/ShenZMG14" mdate="2017-05-25">
+<author pid="82/7774">Hualei Shen</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="04/606">Yong Guan</author>
+<title>Query dependent multiview features fusion for effective medical image retrieval.</title>
+<pages>253-258</pages>
+<year>2014</year>
+<booktitle>SPAC</booktitle>
+<ee>https://doi.org/10.1109/SPAC.2014.6982694</ee>
+<crossref>conf/spac/2014</crossref>
+<url>db/conf/spac/spac2014.html#ShenZMG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/computing/ZhaoLSM13" mdate="2020-08-06">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<author pid="82/7774">Hualei Shen</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Development of global specification for dynamically adaptive software.</title>
+<pages>785-816</pages>
+<year>2013</year>
+<volume>95</volume>
+<journal>Computing</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s00607-013-0295-3</ee>
+<url>db/journals/computing/computing95.html#ZhaoLSM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasc/WangMZ13" mdate="2020-10-25">
+<author orcid="0000-0002-5441-0318" pid="75/3158">Zhe Wang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<title>A Web Services Container Supporting QoS Hierarchical Control with Multiple Measurements for Utilization.</title>
+<pages>39-46</pages>
+<year>2013</year>
+<booktitle>DASC</booktitle>
+<ee>https://doi.org/10.1109/DASC.2013.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DASC.2013.35</ee>
+<crossref>conf/dasc/2013</crossref>
+<url>db/conf/dasc/dasc2013.html#WangMZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/ZengMZL13" mdate="2017-05-25">
+<author pid="59/6515">Hao Zeng</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<title>A policy-based architecture for web services authentication.</title>
+<pages>417-422</pages>
+<year>2013</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2013.6754982</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2013.6754982</ee>
+<crossref>conf/iscc/2013</crossref>
+<url>db/conf/iscc/iscc2013.html#ZengMZL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/esi/ZhaoHSMLH12" mdate="2020-09-08">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="60/183">Chunyang Hu</author>
+<author pid="82/7774">Hualei Shen</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="64/5016">Xuan Li</author>
+<author pid="56/3807">Yonggang Huang</author>
+<title>A hierarchical organization approach of multi-dimensional remote sensing data for lightweight Web Map Services.</title>
+<pages>61-75</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Earth Sci. Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s12145-012-0096-9</ee>
+<url>db/journals/esi/esi5.html#ZhaoHSMLH12</url>
+</article>
+</r>
+<r><article key="journals/ieicet/HuangMZZ12" mdate="2020-04-11">
+<author pid="56/3807">Yonggang Huang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author orcid="0000-0002-2189-7801" pid="z/JunZhang10">Jun Zhang 0010</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<title>QDFA: Query-Dependent Feature Aggregation for Medical Image Retrieval.</title>
+<pages>275-279</pages>
+<year>2012</year>
+<volume>95-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1587/transinf.E95.D.275</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e95-d_1_275</ee>
+<url>db/journals/ieicet/ieicet95d.html#HuangMZZ12</url>
+</article>
+</r>
+<r><article key="journals/ieicet/HuangZZM12" mdate="2020-04-11">
+<author pid="56/3807">Yonggang Huang</author>
+<author orcid="0000-0002-2189-7801" pid="z/JunZhang10">Jun Zhang 0010</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>A New Re-Ranking Method Using Enhanced Pseudo-Relevance Feedback for Content-Based Medical Image Retrieval.</title>
+<pages>694-698</pages>
+<year>2012</year>
+<volume>95-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1587/transinf.E95.D.694</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e95-d_2_694</ee>
+<url>db/journals/ieicet/ieicet95d.html#HuangZZM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/WangMZZZ12" mdate="2017-05-21">
+<author pid="94/3104">Ying Wang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="54/10591">Lu Zou</author>
+<author pid="05/10591">Xianqi Zhao</author>
+<title>Automatic RT-Java Code Generation from AADL Models for ARINC653-Based Avionics Software.</title>
+<pages>670-679</pages>
+<year>2012</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2012.94</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2012.94</ee>
+<crossref>conf/compsac/2012</crossref>
+<url>db/conf/compsac/compsac2012.html#WangMZZZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icch/ShenMZY12" mdate="2017-05-23">
+<author pid="82/7774">Hualei Shen</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="43/8403">Rongwei Ye</author>
+<title>Collaborative annotation of medical images via web browser for teleradiology.</title>
+<pages>127-133</pages>
+<year>2012</year>
+<booktitle>ICCH</booktitle>
+<ee>https://doi.org/10.1109/ICCH.2012.6724483</ee>
+<crossref>conf/icch/2012</crossref>
+<url>db/conf/icch/icch2012.html#ShenMZY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icebe/ZengMLZ12" mdate="2017-05-19">
+<author pid="59/6515">Hao Zeng</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="83/7360">Zhuqing Li</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<title>A Policy-Based Architecture for Web Services Security Processing.</title>
+<pages>163-169</pages>
+<year>2012</year>
+<crossref>conf/icebe/2012</crossref>
+<booktitle>ICEBE</booktitle>
+<ee>https://doi.org/10.1109/ICEBE.2012.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICEBE.2012.35</ee>
+<url>db/conf/icebe/icebe2012.html#ZengMLZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/ZhaoZM12" mdate="2017-05-23">
+<author pid="72/10522">Bingyang Zhao</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>A Constraint Mechanism for Dynamic Evolution of Service Oriented Systems.</title>
+<pages>103-110</pages>
+<year>2012</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2012.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2012.22</ee>
+<crossref>conf/isorc/2012</crossref>
+<url>db/conf/isorc/isorc2012.html#ZhaoZM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ShenMZYSL12" mdate="2017-05-21">
+<author pid="82/7774">Hualei Shen</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="117/5821">Chunyao Yang</author>
+<author pid="117/5830">Sujun Sun</author>
+<author pid="97/4071">Bo Lang</author>
+<title>Managing and Collaboratively Processing Medical Image via the Web.</title>
+<pages>252-263</pages>
+<year>2012</year>
+<booktitle>WAIM Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33050-6_25</ee>
+<crossref>conf/waim/2012w</crossref>
+<url>db/conf/waim/waimw2012.html#ShenMZYSL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwgs/LiZSZM11" mdate="2020-09-24">
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="21/1509-1">Hailong Sun 0001</author>
+<author orcid="0000-0002-7878-4330" pid="z/ZibinZheng">Zibin Zheng</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>DH4SS: a distributed heuristic for QoS-based service selection.</title>
+<pages>388-409</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>Int. J. Web Grid Serv.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJWGS.2011.044695</ee>
+<url>db/journals/ijwgs/ijwgs7.html#LiZSZM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/ZhuLZL11" mdate="2017-05-26">
+<author pid="24/11117">Zekun Zhu</author>
+<author pid="262/1679">Jianxin Li</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<title>SCENETester: A Testing Framework to Support Fault Diagnosis for Web Service Composition.</title>
+<pages>109-114</pages>
+<year>2011</year>
+<booktitle>CIT</booktitle>
+<ee>https://doi.org/10.1109/CIT.2011.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CIT.2011.31</ee>
+<crossref>conf/IEEEcit/2011</crossref>
+<url>db/conf/IEEEcit/IEEEcit2011.html#ZhuLZL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/ZhaoLSM11" mdate="2020-09-24">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="01/2249">Dou Sun</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Towards Verifying Global Properties of Adaptive Software Based on Linear Temporal Logic.</title>
+<pages>240-247</pages>
+<year>2011</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2011.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2011.14</ee>
+<crossref>conf/aina/2011</crossref>
+<url>db/conf/aina/aina2011.html#ZhaoLSM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/HuZLML11" mdate="2020-09-24">
+<author pid="60/183">Chunyang Hu</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="64/5016">Xuan Li</author>
+<title>Geospatial Web Service for Remote Sensing Data Visualization.</title>
+<pages>594-601</pages>
+<year>2011</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2011.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2011.44</ee>
+<crossref>conf/aina/2011</crossref>
+<url>db/conf/aina/aina2011.html#HuZLML11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apscc/LiMZLY11" mdate="2020-09-24">
+<author pid="83/7360">Zhuqing Li</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="47/3749">Qing Yang</author>
+<title>FSM4WSR: A Formal Model for Verifiable Web Service Runtime.</title>
+<pages>86-93</pages>
+<year>2011</year>
+<booktitle>APSCC</booktitle>
+<ee>https://doi.org/10.1109/APSCC.2011.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/APSCC.2011.16</ee>
+<crossref>conf/apscc/2011</crossref>
+<url>db/conf/apscc/apscc2011.html#LiMZLY11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apscc/ZhaoMZL11" mdate="2017-05-19">
+<author pid="76/10779">Yujing Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<title>Integrating Business Processes and Business Rules.</title>
+<pages>493-497</pages>
+<year>2011</year>
+<booktitle>APSCC</booktitle>
+<ee>https://doi.org/10.1109/APSCC.2011.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/APSCC.2011.17</ee>
+<crossref>conf/apscc/2011</crossref>
+<url>db/conf/apscc/apscc2011.html#ZhaoMZL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/WangMZZZ11" mdate="2017-05-21">
+<author pid="94/3104">Ying Wang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="54/10591">Lu Zou</author>
+<author pid="05/10591">Xianqi Zhao</author>
+<title>An AADL-Based Modeling Method for ARINC653-Based Avionics Software.</title>
+<pages>224-229</pages>
+<year>2011</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2011.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2011.36</ee>
+<crossref>conf/compsac/2011</crossref>
+<url>db/conf/compsac/compsac2011.html#WangMZZZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icexss/ZhaoLLM11" mdate="2020-09-24">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="83/7360">Zhuqing Li</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Towards Hierarchical Modeling and Analysis of Web Services Choreography.</title>
+<pages>1-15</pages>
+<year>2011</year>
+<booktitle>IESS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21547-6_1</ee>
+<crossref>conf/icexss/2011</crossref>
+<url>db/conf/icexss/icexss2011.html#ZhaoLLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/LiuLLZL11" mdate="2020-08-25">
+<author pid="52/8453">Huang Liu</author>
+<author pid="90/2144-1">Xudong Liu 0001</author>
+<author pid="l/JianxinLi-2">Jianxin Li 0002</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<title>Building high-speed roads: Improving performance of SOAP processing for cloud services.</title>
+<pages>72-78</pages>
+<year>2011</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2011.6139094</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2011.6139094</ee>
+<crossref>conf/sose/2011</crossref>
+<url>db/conf/sose/sose2011.html#LiuLLZL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apscc/YangMZL10" mdate="2017-05-19">
+<author pid="47/3749">Qing Yang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="83/7360">Zhuqing Li</author>
+<title>Towards a Formal Verification Approach for Implementation of Web Services Specifications.</title>
+<pages>269-276</pages>
+<year>2010</year>
+<booktitle>APSCC</booktitle>
+<ee>https://doi.org/10.1109/APSCC.2010.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/APSCC.2010.14</ee>
+<crossref>conf/apscc/2010</crossref>
+<url>db/conf/apscc/apscc2010.html#YangMZL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/HuangZZM10" mdate="2018-11-06">
+<author pid="56/3807">Yonggang Huang</author>
+<author orcid="0000-0002-2189-7801" pid="z/JunZhang10">Jun Zhang 0010</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Medical Image Retrieval with Query-Dependent Feature Fusion Based on One-Class SVM.</title>
+<pages>176-183</pages>
+<year>2010</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2010.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2010.30</ee>
+<crossref>conf/cse/2010</crossref>
+<url>db/conf/cse/cse2010.html#HuangZZM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/HuZLLML10" mdate="2020-09-24">
+<author pid="60/183">Chunyang Hu</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="64/5016">Xuan Li</author>
+<title>OGC-compatible high-performance web map service for remote sensing data visualization.</title>
+<pages>657-660</pages>
+<year>2010</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1145/1967486.1967589</ee>
+<crossref>conf/iiwas/2010</crossref>
+<url>db/conf/iiwas/iiwas2010.html#HuZLLML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/HuZWDHML10" mdate="2017-05-25">
+<author pid="60/183">Chunyang Hu</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="90/2018">Xin Wei</author>
+<author pid="94/4213">Bowen Du</author>
+<author pid="56/3807">Yonggang Huang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="64/5016">Xuan Li</author>
+<title>ACTGIS: A Web-based collaborative tiled Geospatial image map system.</title>
+<pages>521-528</pages>
+<year>2010</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2010.5546717</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2010.5546717</ee>
+<crossref>conf/iscc/2010</crossref>
+<url>db/conf/iscc/iscc2010.html#HuZWDHML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/LiZLSM10" mdate="2020-09-24">
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="21/1509-1">Hailong Sun 0001</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>An adaptive heuristic approach for distributed QoS-based service composition.</title>
+<pages>687-694</pages>
+<year>2010</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2010.5546721</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2010.5546721</ee>
+<crossref>conf/iscc/2010</crossref>
+<url>db/conf/iscc/iscc2010.html#LiZLSM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SunZZM10" mdate="2017-05-25">
+<author pid="01/2249">Dou Sun</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="59/6515">Hao Zeng</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>SEDA4BPEL: A staged event-driven architecture for high-concurrency BPEL engine.</title>
+<pages>744-749</pages>
+<year>2010</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2010.5546728</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2010.5546728</ee>
+<crossref>conf/iscc/2010</crossref>
+<url>db/conf/iscc/iscc2010.html#SunZZM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soca/LiZRM10" mdate="2020-09-24">
+<author pid="181/2820-75">Jing Li 0075</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="25/9080">Jiawen Ren</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Towards adaptive web services QoS prediction.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>SOCA</booktitle>
+<ee>https://doi.org/10.1109/SOCA.2010.5707146</ee>
+<crossref>conf/soca/2010</crossref>
+<url>db/conf/soca/soca2010.html#LiZRM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soca/SunZZM10" mdate="2017-05-25">
+<author pid="01/2249">Dou Sun</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="59/6515">Hao Zeng</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>An operational semantics of WS-BPEL based on abstract BPEL machine.</title>
+<pages>1-4</pages>
+<year>2010</year>
+<booktitle>SOCA</booktitle>
+<ee>https://doi.org/10.1109/SOCA.2010.5707186</ee>
+<crossref>conf/soca/2010</crossref>
+<url>db/conf/soca/soca2010.html#SunZZM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/ZhaoZLHM10" mdate="2020-02-03">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="72/10522">Bingyang Zhao</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="60/183">Chunyang Hu</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Towards a Graph Grammar Based Verification Approach for Runtime Constrained Evolution of Service-Oriented Architectures.</title>
+<pages>159-164</pages>
+<year>2010</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2010.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SOSE.2010.12</ee>
+<crossref>conf/sose/2010</crossref>
+<url>db/conf/sose/sose2010.html#ZhaoZLHM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/ZhaoHLM10" mdate="2020-02-03">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="60/183">Chunyang Hu</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Formal Analysis of Behavioural Equivalence for Trustworthy and Composite Web Services.</title>
+<pages>428-433</pages>
+<year>2010</year>
+<booktitle>UIC/ATC Workshops</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC.2010.116</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/UIC-ATC.2010.116</ee>
+<crossref>conf/uic/2010w</crossref>
+<url>db/conf/uic/uic2010w.html#ZhaoHLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciw/LiuMZS09" mdate="2020-02-03">
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="01/2249">Dou Sun</author>
+<title>An Approach to Preserving Consistency of SOAs in Dynamic Evolution.</title>
+<pages>505-509</pages>
+<year>2009</year>
+<booktitle>ICIW</booktitle>
+<ee>https://doi.org/10.1109/ICIW.2009.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIW.2009.81</ee>
+<crossref>conf/iciw/2009</crossref>
+<url>db/conf/iciw/iciw2009.html#LiuMZS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/ZhaoMLHH09" mdate="2020-02-03">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="60/183">Chunyang Hu</author>
+<author pid="83/1502">Yongwang Huang</author>
+<title>A Graph Transformation based Approach for Runtime Constrained Evolution of Service-Oriented Architectures.</title>
+<pages>203-209</pages>
+<year>2009</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2009.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDP.2009.9</ee>
+<crossref>conf/pdp/2009</crossref>
+<url>db/conf/pdp/pdp2009.html#ZhaoMLHH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LiuMZ09" mdate="2020-02-03">
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<title>An approach to identifying conversation dependency in service oriented system during dynamic evolution.</title>
+<pages>1072-1073</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529517</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#LiuMZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACISicis/ZhaoMLH08" mdate="2020-02-03">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="60/183">Chunyang Hu</author>
+<title>Coordination Behavioral Structure: A Web Services Coordination Model in Dynamic Environment.</title>
+<pages>611-617</pages>
+<year>2008</year>
+<booktitle>ACIS-ICIS</booktitle>
+<ee>https://doi.org/10.1109/ICIS.2008.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIS.2008.11</ee>
+<crossref>conf/ACISicis/2008</crossref>
+<url>db/conf/ACISicis/ACISicis2008.html#ZhaoMLH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdim/HuZMSSL08" mdate="2017-05-26">
+<author pid="60/183">Chunyang Hu</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="37/451">Xiaoliang Sun</author>
+<author pid="09/5442">Jun Shao</author>
+<author pid="64/5016">Xuan Li</author>
+<title>Collaborative geospatial web services for multi-dimension remote sensing data.</title>
+<pages>456-463</pages>
+<year>2008</year>
+<booktitle>ICDIM</booktitle>
+<ee>https://doi.org/10.1109/ICDIM.2008.4746701</ee>
+<crossref>conf/icdim/2008</crossref>
+<url>db/conf/icdim/icdim2008.html#HuZMSSL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/MaLZS08" mdate="2020-02-03">
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="01/2249">Dou Sun</author>
+<title>Reliability Quantification of the Tree Structure Based Distributed System.</title>
+<pages>351-352</pages>
+<year>2008</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2008.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2008.55</ee>
+<crossref>conf/prdc/2008</crossref>
+<url>db/conf/prdc/prdc2008.html#MaLZS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MaLZH08" mdate="2020-02-03">
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="60/183">Chunyang Hu</author>
+<title>SSCM: middleware for structure-based service collaboration.</title>
+<pages>2224-2225</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1364216</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#MaLZH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciw/ZhaoHHM07" mdate="2017-05-17">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="60/183">Chunyang Hu</author>
+<author pid="56/3807">Yonggang Huang</author>
+<author pid="97/3616">Dianfu Ma</author>
+<title>Collaborative Visualization of Large Scale Datasets Using Web Services.</title>
+<pages>62</pages>
+<year>2007</year>
+<booktitle>ICIW</booktitle>
+<ee>https://doi.org/10.1109/ICIW.2007.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIW.2007.22</ee>
+<crossref>conf/iciw/2007</crossref>
+<url>db/conf/iciw/iciw2007.html#ZhaoHHM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispdc/ZhaoMHLH07" mdate="2020-02-03">
+<author pid="70/2470">Yongwang Zhao</author>
+<author pid="97/3616">Dianfu Ma</author>
+<author pid="60/183">Chunyang Hu</author>
+<author pid="99/76-17">Min Liu 0017</author>
+<author pid="56/3807">Yonggang Huang</author>
+<title>SOCOM: A Service-Oriented Collaboration Middleware for Multi-User Interaction with Web Services based Scientific Resources.</title>
+<pages>195-202</pages>
+<year>2007</year>
+<booktitle>ISPDC</booktitle>
+<ee>https://doi.org/10.1109/ISPDC.2007.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISPDC.2007.53</ee>
+<crossref>conf/ispdc/2007</crossref>
+<url>db/conf/ispdc/ispdc2007.html#ZhaoMHLH07</url>
+</inproceedings>
+</r>
+<coauthors n="70" nc="1">
+<co c="0"><na f="a/Ali:Shahbaz" pid="05/8177">Shahbaz Ali</na></co>
+<co c="0"><na f="b/Bai:Yuebin" pid="22/2375">Yuebin Bai</na></co>
+<co c="0"><na f="b/Bodeveix:Jean=Paul" pid="97/1837">Jean-Paul Bodeveix</na></co>
+<co c="0"><na f="c/Cheng:Kun" pid="48/7895">Kun Cheng</na></co>
+<co c="0"><na f="d/Du:Bowen" pid="94/4213">Bowen Du</na></co>
+<co c="0"><na f="f/Filali:Mamoun" pid="60/599">Mamoun Filali</na></co>
+<co c="0"><na f="g/Guan:Yong" pid="04/606">Yong Guan</na></co>
+<co c="0" n="2"><na f="h/Hinchey:Michael_G=" pid="h/MichaelGHinchey">Michael G. Hinchey</na><na>Mike Hinchey</na></co>
+<co c="0"><na f="h/Hou:Zhe" pid="76/5461">Zhe Hou</na></co>
+<co c="0"><na f="h/Hu:Chunyang" pid="60/183">Chunyang Hu</na></co>
+<co c="0"><na f="h/Hu_0004:Kai" pid="57/6633-4">Kai Hu 0004</na></co>
+<co c="0"><na f="h/Huang_0015:Lei" pid="18/1763-15">Lei Huang 0015</na></co>
+<co c="0"><na f="h/Huang:Yonggang" pid="56/3807">Yonggang Huang</na></co>
+<co c="0"><na f="h/Huang:Yongwang" pid="83/1502">Yongwang Huang</na></co>
+<co c="0"><na f="j/Jiang:Ke" pid="55/6803">Ke Jiang</na></co>
+<co c="0"><na f="k/Kan:Shuanglong" pid="153/5355">Shuanglong Kan</na></co>
+<co c="0"><na f="l/Lang:Bo" pid="97/4071">Bo Lang</na></co>
+<co c="0"><na f="l/Li:Jianxin" pid="262/1679">Jianxin Li</na></co>
+<co c="0"><na f="l/Li_0002:Jianxin" pid="l/JianxinLi-2">Jianxin Li 0002</na></co>
+<co c="0"><na f="l/Li_0075:Jing" pid="181/2820-75">Jing Li 0075</na></co>
+<co c="0"><na f="l/Li:Xuan" pid="64/5016">Xuan Li</na></co>
+<co c="0"><na f="l/Li:Zhuqing" pid="83/7360">Zhuqing Li</na></co>
+<co c="0" n="2"><na f="l/Lin_0001:Shangwei" pid="55/4730-1">Shangwei Lin 0001</na><na>Shang-Wei Lin 0001</na></co>
+<co c="0"><na f="l/Liu:Huang" pid="52/8453">Huang Liu</na></co>
+<co c="0"><na f="l/Liu_0017:Min" pid="99/76-17">Min Liu 0017</na></co>
+<co c="0"><na f="l/Liu_0001:Xudong" pid="90/2144-1">Xudong Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
+<co c="0"><na f="l/Long:Xiang" pid="64/6328">Xiang Long</na></co>
+<co c="0"><na f="l/Lu:Duo" pid="163/6679">Duo Lu</na></co>
+<co c="0"><na f="m/Ma:Dianfu" pid="97/3616">Dianfu Ma</na></co>
+<co c="0"><na f="m/Ma:Yao" pid="85/6836">Yao Ma</na></co>
+<co c="0"><na f="n/Niu:Wensheng" pid="90/8611">Wensheng Niu</na></co>
+<co c="0"><na f="p/Peng:Yuanfeng" pid="19/8277">Yuanfeng Peng</na></co>
+<co c="0"><na f="q/Qiao:Lei" pid="54/3557">Lei Qiao</na></co>
+<co c="0"><na f="r/Ren:Jiawen" pid="25/9080">Jiawen Ren</na></co>
+<co c="0"><na f="s/San=aacute=n:David" pid="22/111">David San&#225;n</na></co>
+<co c="0"><na f="s/Shao:Jun" pid="09/5442">Jun Shao</na></co>
+<co c="0"><na f="s/Shen:Hualei" pid="82/7774">Hualei Shen</na></co>
+<co c="0"><na f="s/Sun:Dou" pid="01/2249">Dou Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Hailong" pid="21/1509-1">Hailong Sun 0001</na></co>
+<co c="0"><na f="s/Sun:Jianwen" pid="20/11086">Jianwen Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Jun" pid="s/JunSun1">Jun Sun 0001</na></co>
+<co c="0"><na f="s/Sun:Sujun" pid="117/5830">Sujun Sun</na></co>
+<co c="0"><na f="s/Sun:Xiaoliang" pid="37/451">Xiaoliang Sun</na></co>
+<co c="0"><na f="s/Sun:Yan" pid="181/2323">Yan Sun</na></co>
+<co c="0"><na f="t/Tiu:Alwen" pid="t/AlwenTiu">Alwen Tiu</na></co>
+<co c="0"><na f="w/Wang:Ying" pid="94/3104">Ying Wang</na></co>
+<co c="0"><na f="w/Wang:Zhe" pid="75/3158">Zhe Wang</na></co>
+<co c="0"><na f="w/Wei:Xin" pid="90/2018">Xin Wei</na></co>
+<co c="0"><na f="w/Wu:Wenjuan" pid="93/3254">Wenjuan Wu</na></co>
+<co c="0"><na f="w/Wu:Zhimin" pid="124/6824">Zhimin Wu</na></co>
+<co c="0"><na f="x/Xing:Zhenchang" pid="52/6482">Zhenchang Xing</na></co>
+<co c="0"><na f="y/Yang:Chunyao" pid="117/5821">Chunyao Yang</na></co>
+<co c="0"><na f="y/Yang:Liu" pid="27/3367">Liu Yang</na></co>
+<co c="0"><na f="y/Yang:Qing" pid="47/3749">Qing Yang</na></co>
+<co c="0"><na f="y/Yang:Zhibin" pid="56/1234">Zhibin Yang</na></co>
+<co c="0"><na f="y/Ye:Rongwei" pid="43/8403">Rongwei Ye</na></co>
+<co c="0"><na f="z/Zeng:Hao" pid="59/6515">Hao Zeng</na></co>
+<co c="0"><na f="z/Zhang:Feng" pid="48/1294">Feng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Fuyuan" pid="08/7637">Fuyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jinkun" pid="216/6924">Jinkun Zhang</na></co>
+<co c="0"><na f="z/Zhang_0010:Jun" pid="z/JunZhang10">Jun Zhang 0010</na></co>
+<co c="0"><na f="z/Zhang:Yu" pid="50/671">Yu Zhang</na></co>
+<co c="0"><na f="z/Zhao:Bingyang" pid="72/10522">Bingyang Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xianqi" pid="05/10591">Xianqi Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yujing" pid="76/10779">Yujing Zhao</na></co>
+<co c="0"><na f="z/Zheng:Zibin" pid="z/ZibinZheng">Zibin Zheng</na></co>
+<co c="0"><na f="z/Zhou:Minxuan" pid="176/6533">Minxuan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Zekun" pid="24/11117">Zekun Zhu</na></co>
+<co c="0"><na f="z/Zou:Lu" pid="54/10591">Lu Zou</na></co>
+</coauthors>
+</dblpperson>
+
