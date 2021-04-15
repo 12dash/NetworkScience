@@ -1,19 +1,3 @@
-from preprocess import fetch_faculty
-from faculty import Year, Faculty
-from interface import getApp as gp
-
-import argparse
-
-if __name__ == "__main__":  
-    year_graph = {}
-
-    print("Builduing Year Dataset")
-    for i in range(2000,2022):
-        year_graph[i] = Year(i)
-
-    app = gp(year_graph)
-    app.run_server(debug=False)
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea3cd7ee3dc2c57a3031dc79e3cd2e8facc5d9599e667bf89cb8edf2fb5031e
+size 353
