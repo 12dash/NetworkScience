@@ -6,8 +6,9 @@ import matplotlib.pyplot as plt
 import numpy
 import pandas as pd
 
-NAMES = None
-FACULTY = None
+from preprocess import fetch_faculty
+
+FACULTY, NAMES = fetch_faculty()
 
 class Year:
 
@@ -15,13 +16,10 @@ class Year:
     Builds a Collaboration Network for the individual years
     '''   
 
-    def __init__(self, year, NAME_, FACULTY_):
+    def __init__(self, year):
 
         global NAMES 
-        global FACULTY
-
-        NAMES = NAME_
-        FACULTY = FACULTY_
+        global FACULTY       
 
         self.year = year
 
@@ -119,7 +117,6 @@ class Year:
             network_dic['number_of_connected_components'], network_dic['connected_components'] = get_connected_components(network)
             network_dic['avg_dist'] = get_dist(network)
             network_dic['most_edge_faculty'] = get_most_edge_faculty(network)
-            #network_dic['smallworld_sigma'] = get_smallworld_sigma(network)
             network_dic['density'] = get_density(network)
             network_dic['global_clustering'] = get_global_clustering(network)
             network_dic['degree_correlation_coefficient'] = get_degree_correlation_coefficient(network)
@@ -287,5 +284,50 @@ class FacultySubset:
         for i in self.names:
             self.faculty[i] = Faculty(i, self.names)
 
+class ManageGraph:    
+    def __init__(self):
+        faculty, names = FACULTY, NAMES
+        
+        self.nodes=[]
+        self.edges=[]
+        
+        for x in faculty:
+            if(faculty[x].managment=='Y'):
+                self.nodes.append(x)      
+                p=faculty[x].papers
+                for y in p:
+                    for a in y.authors:
+                        if(a in names):
+                            self.edges.append((x, a))
+    
+class PositionGraph:    
+    def __init__(self, target):
+        faculty, names = FACULTY, NAMES
+        
+        self.nodes=[]
+        self.edges=[]
 
-
+        
+        for x in faculty:
+            if(faculty[x].position==target):
+                self.nodes.append(x)
+                
+        for x in self.nodes:
+            p=faculty[x].papers
+            
+            for y in p:
+                for a in y.authors:
+                    if(a in self.nodes):
+                        self.edges.append((x,a))
+                        
+                        
+class ExcellenceGraph:    
+    def __init__(self):
+        faculty, names = FACULTY, NAMES
+        
+        self.nodes=[]
+        self.edges=[]
+        
+        for x in faculty:
+            if(faculty[x].excellenceNode==True):
+                self.nodes.append(x)

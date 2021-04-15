@@ -11,7 +11,7 @@ import networkx as nx
 import pandas as pd
 
 from faculty import FacultySubset
-from preprocess import ManageGraph, PositionGraph, ExcellenceGraph
+from faculty import ManageGraph, PositionGraph, ExcellenceGraph
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 cyto.load_extra_layouts()
@@ -65,12 +65,8 @@ FACULTY_GRAPH_STYLESHEET = [{
 YEAR = {}
 OVERALL_GRAPHS = {}
 FACULTY_SUBSET = None
-MANAGE = ManageGraph()
-LECT = PositionGraph('Lecturer')
-SLECT = PositionGraph('Senior Lecturer')
-ASST = PositionGraph('Assistant Professor')
-ASSOC = PositionGraph('Associate Professor')
-PROF = PositionGraph('Professor')
+
+RANKS_GRAPH = {}
 
 MANAGE = ManageGraph()
 LECT = PositionGraph('Lecturer')
@@ -105,6 +101,10 @@ def initialize_layout():
                         dbc.NavLink("Yearly Analysis", href="/year", active="exact"),
                         dbc.NavLink("Faculty Analysis", href="/faculty_analysis", active="exact"),
                         dbc.NavLink("Overall Information", href="/overall", active="exact"),
+                        dbc.NavLink("Analysis based on ranks",href="/ranks",active="exact"),
+                        dbc.NavLink("Analysis based on Management Position",href="/position",active="exact"),
+                        dbc.NavLink("Analysis on areas",href="/areas",active="exact"),
+                        dbc.NavLink("Analysis on excellence Node",href="/excellence",active="exact")
                     ],
                     vertical=True,
                     pills=True,
@@ -152,40 +152,31 @@ def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", node_size = 5,
         stylesheet=stylesheet)
     return graph
 
+def output_for_node(data):
+    temp = None
+    if data:
+        temp = html.Div([
+            html.H3(data['label']),
+            html.Ul([
+                html.Li(f"Degree : {data['degree']}"),
+                html.Li(f"Betweeness Centrality: {data['betweenness']}"),
+                html.Li(f"Eigenvector Centrality: {data['eigenvector_centrality']}"),
+                html.Li(f"Closeness Centrality: {data['closeness_centrality']}"),
+                html.Li(f"Degree Centrality: {data['degree_centrality']}"),
+                html.Li(f"Clustering Coefficient : {data['clustering']}")])
+        ])
+
+    return temp
+
 
 @app.callback(Output('cytoscape-mouseoverNodeData-output', 'children'), Input('year-graph', 'mouseoverNodeData'))
 def displayTapNodeData(data):
-    temp = None
-    if data:
-        temp = html.Div([
-            html.H3(data['label']),
-            html.Ul([
-                html.Li(f"Degree : {data['degree']}"),
-                html.Li(f"Betweeness Centrality: {data['betweenness']}"),
-                html.Li(f"Eigenvector Centrality: {data['eigenvector_centrality']}"),
-                html.Li(f"Closeness Centrality: {data['closeness_centrality']}"),
-                html.Li(f"Degree Centrality: {data['degree_centrality']}"),
-                html.Li(f"Clustering Coefficient : {data['clustering']}")])
-        ])
-
-    return temp
+    return output_for_node(data)
+    
 
 @app.callback(Output('cytoscape-overall-output', 'children'), Input('cummulative-year-graph', 'mouseoverNodeData'))
 def displayTapNodeData(data):
-    temp = None
-    if data:
-        temp = html.Div([
-            html.H3(data['label']),
-            html.Ul([
-                html.Li(f"Degree : {data['degree']}"),
-                html.Li(f"Betweeness Centrality: {data['betweenness']}"),
-                html.Li(f"Eigenvector Centrality: {data['eigenvector_centrality']}"),
-                html.Li(f"Closeness Centrality: {data['closeness_centrality']}"),
-                html.Li(f"Degree Centrality: {data['degree_centrality']}"),
-                html.Li(f"Clustering Coefficient : {data['clustering']}")])
-        ])
-
-    return temp
+    return output_for_node(data)
 
 
 def buildYearContent(Year):
@@ -314,14 +305,6 @@ def facultyContent():
         dcc.Dropdown(id="Faculty",options=option, value='MTL', multi=True, placeholder="Select the set of faculty"), 
         dcc.Dropdown(id="year_id_faculty_subset", options=year_option, value='2000',placeholder = "Select the year"),
         html.Button('Submit', id='submit-val', n_clicks = 0, style = {'border-radius' : '8px'}),
-
-        html.Button('Management', id='manageload', n_clicks = 0, style = {'border-radius' : '8px'}),
-        html.Button('Lecturers', id='lectload', n_clicks = 0, style = {'border-radius' : '8px'}),
-        html.Button('Sen. Lecturers', id='slectload', n_clicks = 0, style = {'border-radius' : '8px'}),
-        html.Button('Asst. Prof.', id='asstload', n_clicks = 0, style = {'border-radius' : '8px'}),
-        html.Button('Assoc. Prof.', id='assocload', n_clicks = 0, style = {'border-radius' : '8px'}),
-        html.Button('Prof.', id='profload', n_clicks = 0, style = {'border-radius' : '8px'}),
-        html.Button('Exc. Nodes', id='excload', n_clicks = 0, style = {'border-radius' : '8px'}),
         html.Div(id="faculty-subset")
     ])
 
@@ -368,7 +351,8 @@ def facultySubsetContent(value, year_value):
 def createOverallPage():
     global OVERALL_GRAPHS
     return html.Div([
-        OVERALL_GRAPHS['Average Degree'], OVERALL_GRAPHS['Average Clustering Coefficient']
+        OVERALL_GRAPHS['Average Degree'], 
+        OVERALL_GRAPHS['Average Clustering Coefficient']
     ])
 
 
@@ -386,46 +370,89 @@ def render_faculty(value, n_clicks, year_value):
 
     if n_clicks != click: 
         FACULTY_SUBSET =  facultySubsetContent(value, year_value)  
-        click = n_clicks   
-        
+        click = n_clicks           
 
     return FACULTY_SUBSET
-    
-catclick=[0, 0, 0, 0, 0, 0, 0]
-@app.callback(Output("Faculty", "value"), Input("manageload","n_clicks"), Input("lectload","n_clicks"), 
-              Input("slectload","n_clicks"), Input("asstload","n_clicks"), Input("assocload","n_clicks"),
-              Input("profload","n_clicks"), Input('excload', 'n_clicks'))
-def load_category(manageload, lectload, slectload, asstload, assocload, profload, excload):
 
-    ctx = dash.callback_context
 
-    global catclick
 
-    value='MTL'
+def buildGraphsContent(names, year, position):        
+    facultySubset = FacultySubset(names)   
+    graph = generateGraph(facultySubset.graph_years[int(year)], f"{position}-subset-graph",
+                                  nodes_data=['color'],size="300px", stylesheet=FACULTY_GRAPH_STYLESHEET) 
+    return graph
 
-    c= [manageload, lectload, slectload, asstload, assocload, profload, excload]
+def display_nodes_rank_data(data):
+    if data:
+        return html.Div([
+            html.H3(data['label'])
+        ])
 
-    if c != catclick:
+@app.callback(Output("lecturers-faculty-information", "children"), Input("lecturers-subset-graph", "mouseoverNodeData"))
+def lecturer_info(data):
+    return display_nodes_rank_data(data)
 
-        if(c[0]!=catclick[0]):
-            value=MANAGE.nodes
-        elif(c[1]!=catclick[1]):
-            value=LECT.nodes
-        elif(c[2]!=catclick[2]):
-            value=SLECT.nodes
-        elif(c[3]!=catclick[3]):
-            value=ASST.nodes
-        elif(c[4]!=catclick[4]):
-            value=ASSOC.nodes
-        elif(c[5]!=catclick[5]):
-            value=PROF.nodes
-        elif(c[6]!=catclick[6]):
-            value=EXC.nodes
+@app.callback(Output("senior_lecturers-faculty-information", "children"), Input("senior_lecturers-subset-graph", "mouseoverNodeData"))
+def senior_lecturer_info(data):
+    return display_nodes_rank_data(data)
 
-        catclick=c
+@app.callback(Output("assistant-faculty-information", "children"), Input("assistant-subset-graph", "mouseoverNodeData"))
+def assistant_info(data):
+    return display_nodes_rank_data(data)
 
-    return value
+@app.callback(Output("assosicate-faculty-information", "children"), Input("assosicate-subset-graph", "mouseoverNodeData"))
+def assosicate_info(data):
+    return display_nodes_rank_data(data)
 
+@app.callback(Output("professors-faculty-information", "children"), Input("professors-subset-graph", "mouseoverNodeData"))
+def professors_info(data):
+    return display_nodes_rank_data(data)
+
+@app.callback(Output("ranks-content", "children"), Input("ranks_year_id", "value"))
+def render_rank_year_graph(value):
+    positions = {
+        'lecturers':["Lecturers",LECT.nodes],
+        'senior_lecturers': ["Senior Lecturers",SLECT.nodes],
+        'assistant':["Assistant Professors",ASST.nodes], 
+        'assosicate':["Associate Professors",ASSOC.nodes],
+        'professors':["Professors",PROF.nodes]
+    }
+    def build_names_list(names):
+        output_list = []
+        for i in names:
+            output_list.append(html.Li(i))
+        return html.Ul(output_list)
+    output_list = []
+    for i in positions:
+        output_list.append(html.Div([
+            html.H4(positions[i][0]),
+            dbc.Row([
+                buildGraphsContent(positions[i][1],int(value),i),
+                html.Div(id = f"{i}-faculty-information")
+                ], align="center")
+        ]))          
+    output = html.Div(output_list)
+    return output
+
+def createRankPage():
+    option = [{"label": i, "value": i} for i in range(2000, 2022)]
+    return (
+        html.Div([
+            html.Label('Year'),
+            dcc.Dropdown(
+                id="ranks_year_id",
+                options=option,
+                value='2000'
+            ), html.Div(id="ranks-content")]))
+
+def createPosition():
+    pass
+
+def createAreas():
+    pass 
+
+def createExcellence():
+    return"Excellence Node"
 
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
@@ -437,6 +464,14 @@ def render_page_content(pathname):
         return facultyContent()
     elif pathname == "/overall":
         return createOverallPage()
+    elif pathname == '/ranks':
+        return createRankPage()
+    elif pathname == '/position':
+        return createPosition()
+    elif pathname == '/areas':
+        return createAreas()
+    elif pathname == '/excellence':
+        return createExcellence()
     return dbc.Jumbotron(
         [
             html.H1("404: Not found", className="text-danger"),
@@ -448,9 +483,13 @@ def render_page_content(pathname):
 
 def getApp(year):
     global app
+    print("Building Year Graph...")
     buildYear(year)
+    print("Building Overall Graph...")
     buildOverall(year)
+    print("Initializing...")
     initialize_layout()
+    
     return app
 
 
