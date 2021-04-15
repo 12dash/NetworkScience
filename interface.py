@@ -40,10 +40,20 @@ CONNECTED_COMPONENTS_STYLE = {
 YEAR_GRAPH_STYLESHEET = [{
     'selector': 'node',
     'style': {
+        'background-color': "black",
         'width': "data(size)",
         'height': "data(size)"
     }
-}]
+},
+{
+    'selector': ':selected',
+    'style': {
+        'background-color': "blue",
+        'width': "data(size)",
+        'height': "data(size)"
+    }
+}
+]
 
 FACULTY_GRAPH_STYLESHEET = [{
     'selector': 'node',
