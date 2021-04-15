@@ -120,7 +120,7 @@ def initialize_layout():
     return
 
 
-def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", stylesheet=None, layout='cose-bilkent'):
+def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", node_size = 5, stylesheet=None, layout='cose-bilkent'):
     def getNodes():
         nodes = []
         for node in G.nodes():
@@ -128,7 +128,7 @@ def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", stylesheet=Non
             if nodes_data != None:
                 for i in nodes_data:
                     if i == 'size':
-                        temp[i] = f"{G.nodes[node]['degree'] * 5 + 5}%"
+                        temp[i] = f"{G.nodes[node]['degree'] * node_size + node_size}%"
                     else:
                         temp[i] = G.nodes[node][i]
             nodes.append({'data': temp})
@@ -230,7 +230,7 @@ def buildYearContent(Year):
 
     def buildCummulative():
         nodes_data = ['size', 'betweenness', 'degree_centrality', 'closeness_centrality', 'eigenvector_centrality','degree', 'clustering']
-        network_graph = generateGraph(network_overall, "cummulative-year-graph", nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
+        network_graph = generateGraph(network_overall, "cummulative-year-graph", node_size = 2, nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
         return network_graph
     
 
