@@ -239,10 +239,10 @@ class Faculty:
         return
 
 
-
 class FacultySubset:
-    def __init__(self, names):
+    def __init__(self, names, year = None):
         self.colour_coord = None
+        self.year = year
         if type(names) != dict :
             self.names = names
         else:
@@ -250,6 +250,7 @@ class FacultySubset:
             self.colour_coord = names
 
         self.graph_years = {}
+        self.graph_year_all = nx.Graph()
 
         self.faculty = {}
 
@@ -263,7 +264,9 @@ class FacultySubset:
         for year in range(2000,2022):
             g = self.graph_years[year]
             for i in g.nodes():
-                    g.nodes[i]['color'] = self.colour_coord[i]              
+                    g.nodes[i]['color'] = self.colour_coord[i]  
+        for i in self.graph_year_all.nodes():
+            self.graph_year_all.nodes[i]['color'] = self.colour_coord[i] 
         
         return
                 
@@ -276,6 +279,8 @@ class FacultySubset:
             NAMES = pd.read_csv("Faculty.csv")['Faculty'].to_list()
             
             graph.add_nodes_from(NAMES)
+            if year == 2021:
+                graph_all.add_nodes_from(NAMES)
             for i in graph.nodes():
                 if i in self.names:
                     graph.nodes[i]['color'] = "#0033cc"
@@ -283,21 +288,31 @@ class FacultySubset:
                     graph.nodes[i]['color'] = "#666666"
 
             for faculty in self.names:
-                for paper in FACULTY[faculty].papers:
-                    if paper.year == year:
+                for paper in FACULTY[faculty].papers:                
                         for author in paper.authors:
                             if (author != faculty) and not(graph.has_edge(faculty, author)) and not(graph.has_edge(author,faculty)):                                
                                 if (author in NAMES):
-                                    graph.add_edge(faculty, author)
+                                    if paper.year == year:
+                                        graph.add_edge(faculty, author)
+                                    if year == 2021:
+                                        graph_all.add_edge(faculty,author)
+                                        
+                                    
 
             degrees = dict(nx.degree(graph)) 
             nx.set_node_attributes(graph, name='degree', values=degrees)
-            self.graph_years[year] = graph    
+            self.graph_years[year] = graph   
+            if year == 2021:
+                degrees = dict(nx.degree(graph_all)) 
+                nx.set_node_attributes(graph_all, name='degree', values=degrees)
+                self.graph_year_all = graph_all
 
             return
-        
-        for i in range(2000,2022):
-            build_graph(i)
+        if self.year == None:
+            for i in tqdm(range(2000,2022)):
+                build_graph(i)
+        else:
+            build_graph(self.year)
         return
     
     def build_faculty(self):

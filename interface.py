@@ -439,7 +439,7 @@ def render_faculty(value, n_clicks, year_value):
 
 
 def buildGraphsContent(names, year, position):
-    facultySubset = FacultySubset(names)
+    facultySubset = FacultySubset(names,year = year)
     graph = generateGraph(facultySubset.graph_years[int(year)], f"{position}-subset-graph",
                           nodes_data=['color'], size="300px", stylesheet=FACULTY_GRAPH_STYLESHEET)
     return graph
@@ -578,6 +578,10 @@ def createRankPage():
 def professors_info(data):
     return displayNameDegree(data)
 
+@app.callback(Output("management-information-all", "children"), Input("management-graph-all", "mouseoverNodeData"))
+def professors_info(data):
+    return displayNameDegree(data)
+
 def buildManagement():
     global MANAGEMENT_GRAPH
     global MANAGE    
@@ -587,13 +591,18 @@ def buildManagement():
             temp[i] = 'yellow'
         else:
             temp[i] = 'black'
- 
-    for i in range(2000,2022):
-        t = FacultySubset(temp)
-        MANAGEMENT_GRAPH[i] = dbc.Row(
+    t = FacultySubset(temp)
+    for i in range(2000,2022):        
+        MANAGEMENT_GRAPH[i] = html.Div([dbc.Row(
             [generateGraph(t.graph_years[i],f"management-graph",nodes_data=['color', "degree"], stylesheet=FACULTY_GRAPH_STYLESHEET),
             html.Div(id = 'management-information')
-            ], align = "center")
+            ], align = "center"),
+            html.H4("Cummulative Collaborative Graph till 2021"),
+            dbc.Row([
+                    generateGraph(t.graph_year_all,"management-graph-all",nodes_data=['color', "degree"], stylesheet=FACULTY_GRAPH_STYLESHEET),
+                    html.Div(id = 'management-information-all')
+                ], align = "center")
+            ])
 
 @app.callback(Output("management-content", "children"), Input("management_year_id", "value"))
 def managementContent(value):
