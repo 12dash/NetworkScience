@@ -215,7 +215,7 @@ def get_people():
     names = os.listdir("AdditionalData")
     names = [i[:i.rfind(".")] for i in names]
     hire = {}
-    for i in tqdm(names[:500]):
+    for i in tqdm(names):
         t = Person(i)
         if t.store:
             hire[i] = t 

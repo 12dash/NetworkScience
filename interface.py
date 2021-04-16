@@ -296,7 +296,7 @@ def buildYearContent(Year):
         getDegreeDistribution(),
         html.H5("Connected Components"),
         buildConnectedComponent(),
-        html.H5("Cummulative Year Graph"),
+        html.H5("Cumulative Year Graph"),
         dbc.Row(
             [dbc.Col(buildCummulative()), dbc.Col(
                 html.P(id='cytoscape-overall-output'))],

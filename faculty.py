@@ -405,8 +405,7 @@ class Hire:
             temp = sorted(sortValue.items() , key=lambda x: x[1] , reverse=True)
             sortValue = temp
             for i in temp[:150]:
-                if i[0] not in NAMES:
-                    l.append(i[0])
+                l.append(i[0])
             return l
 
 
