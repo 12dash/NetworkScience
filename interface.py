@@ -345,7 +345,24 @@ def buildOverall(year):
 
 
 def contentHomePage():
-    return
+    return(
+        html.Div([
+            html.H4("Co-authorship network for SCSE"),
+            html.Hr(),
+            html.Div([
+                html.P("We have analyzed the following things in this assignment"),
+                html.Ul([
+                    html.Li("Year Wise analysis of the Data: How the network has evolved since 2000"),
+                    html.Li("Faculty Subset Data: Collaborative property for a subset of data"),
+                    html.Li("Collaborative property between different positions"),
+                    html.Li("Collaborative property between Management and Non Management Position"),
+                    html.Li("Collaborative property based on different Areas"),
+                    html.Li("Collaborative property between excellence node"),
+                    html.Li("Analysis on who to hire"),
+                ])
+            ])
+        ])
+    )
 
 
 def contentYearPage():
@@ -633,6 +650,11 @@ def createPosition():
             ), html.Div(id="management-content")]))
 
 
+
+@app.callback(Output("area-information-all", "children"), Input("area-graph-all", "mouseoverNodeData"))
+def professors_info(data):
+    return displayNameDegree(data)
+
 @app.callback(Output("area-content", "children"), Input("area1", "value"), Input('area2', 'value'))
 def areaContent(area1, area2):
     g1=AREA[area1]
@@ -678,6 +700,9 @@ def createAreas():
                 multi=False
             ), html.Div(id="area-content")]))
 
+@app.callback(Output("excellence-information", "children"), Input("excellence-graph", "mouseoverNodeData"))
+def professors_info(data):
+    return displayNameDegree(data)
 
 def createExcellence():
     temp={}
