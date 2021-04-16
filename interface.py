@@ -333,7 +333,24 @@ def buildOverall(year):
 
 
 def contentHomePage():
-    return
+    return(
+        html.Div([
+            html.H4("Co-authorship network for SCSE"),
+            html.Hr(),
+            html.Div([
+                html.P("We have analyzed the following things in this assignment"),
+                html.Ul([
+                    html.Li("Year Wise analysis of the Data: How the network has evolved since 2000"),
+                    html.Li("Faculty Subset Data: Collaborative property for a subset of data"),
+                    html.Li("Collaborative property between different positions"),
+                    html.Li("Collaborative property between Management and Non Management Position"),
+                    html.Li("Collaborative property based on different Areas"),
+                    html.Li("Collaborative property between excellence node"),
+                    html.Li("Analysis on who to hire"),
+                ])
+            ])
+        ])
+    )
 
 
 def contentYearPage():
