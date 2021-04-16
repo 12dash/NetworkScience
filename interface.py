@@ -89,7 +89,7 @@ YEAR = {}
 OVERALL_GRAPHS = {}
 FACULTY_SUBSET = None
 
-RANKS_GRAPH = {}
+MANAGEMENT_GRAPH = {}
 
 MANAGE = ManageGraph()
 LECT = PositionGraph('Lecturer')
@@ -444,11 +444,17 @@ def buildGraphsContent(names, year, position):
                           nodes_data=['color'], size="300px", stylesheet=FACULTY_GRAPH_STYLESHEET)
     return graph
 
+def displayNameDegree(data):
+    if data:
+        return html.Div([
+            html.H6(data['label']),
+            html.P(f"Degree: {data['degree']}" )
+        ])
 
 def display_nodes_rank_data(data):
     if data:
         return html.Div([
-            html.H6(data['label'])
+            html.H6(data['label'])           
         ])
 
 def outpuHirePara(data):
@@ -498,6 +504,10 @@ def assosicate_info(data):
 def professors_info(data):
     return display_nodes_rank_data(data)
 
+@app.callback(Output("all-rank", "children"), Input("all-faculty-rank", "mouseoverNodeData"))
+def all_rank_info(data):
+    return displayNameDegree(data)
+
 
 @app.callback(Output("ranks-content", "children"), Input("ranks_year_id", "value"))
 def render_rank_year_graph(value):
@@ -518,15 +528,15 @@ def render_rank_year_graph(value):
     def get_position_list():
         temp = {}
         for i in LECT.nodes:
-            temp[i] = 'lecturers'
+            temp[i] = 'blue'
         for i in SLECT.nodes:
-            temp[i] = 'senior_lecturers'
+            temp[i] = 'green'
         for i in ASST.nodes:
-            temp[i] = 'assistant'
+            temp[i] = 'blue'
         for i in ASSOC.nodes:
-            temp[i] = 'assosicate'
+            temp[i] = 'pink'
         for i in PROF.nodes:
-            temp[i] = 'professors'
+            temp[i] = 'purple'
      
         return temp
         
@@ -545,17 +555,18 @@ def render_rank_year_graph(value):
         ]))
     
     all_names = FacultySubset(get_position_list())
-    all_rank_graph = generateGraph(all_names.graph_years[int(value)],"all-faculty-rank", nodes_data=['color'],stylesheet=FACULTY_GRAPH_STYLESHEET)
+    all_rank_graph = dbc.Row([generateGraph(all_names.graph_years[int(value)],"all-faculty-rank", nodes_data=['color','degree'],stylesheet=FACULTY_GRAPH_STYLESHEET),
+                                html.Div(id = "all-rank")], align = "center")
 
     output_list = [all_rank_graph] + output_list
     output = html.Div(output_list)
     return output
 
-
 def createRankPage():
     option = [{"label": i, "value": i} for i in range(2000, 2022)]
     return (
         html.Div([
+            html.P("This page takes time to load!!!"),
             html.Label('Year'),
             dcc.Dropdown(
                 id="ranks_year_id",
@@ -563,9 +574,42 @@ def createRankPage():
                 value='2000'
             ), html.Div(id="ranks-content")]))
 
+@app.callback(Output("management-information", "children"), Input("management-graph", "mouseoverNodeData"))
+def professors_info(data):
+    return displayNameDegree(data)
+
+def buildManagement():
+    global MANAGEMENT_GRAPH
+    global MANAGE    
+    temp = {}
+    for i in MANAGE.names:
+        if i in MANAGE.nodes:
+            temp[i] = 'yellow'
+        else:
+            temp[i] = 'black'
+ 
+    for i in range(2000,2022):
+        t = FacultySubset(temp)
+        MANAGEMENT_GRAPH[i] = dbc.Row(
+            [generateGraph(t.graph_years[i],f"management-graph",nodes_data=['color', "degree"], stylesheet=FACULTY_GRAPH_STYLESHEET),
+            html.Div(id = 'management-information')
+            ], align = "center")
+
+@app.callback(Output("management-content", "children"), Input("management_year_id", "value"))
+def managementContent(value):
+    global MANAGEMENT_GRAPH
+    return MANAGEMENT_GRAPH[int(value)]
 
 def createPosition():
-    pass
+    option = [{"label": i, "value": i} for i in range(2000, 2022)]
+    return (
+        html.Div([
+            html.Label('Year'),
+            dcc.Dropdown(
+                id="management_year_id",
+                options=option,
+                value='2000'
+            ), html.Div(id="management-content")]))
 
 
 def createAreas():
@@ -635,6 +679,8 @@ def getApp(year):
     buildOverall(year)
     print("Building Hire informations")
     buildHire()
+    print("Building Management")
+    buildManagement()
     print("Initializing...")
     initialize_layout()
 

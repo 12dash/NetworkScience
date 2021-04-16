@@ -242,19 +242,19 @@ class Faculty:
 
 class FacultySubset:
     def __init__(self, names):
-        self.positions = None
+        self.colour_coord = None
         if type(names) != dict :
             self.names = names
         else:
             self.names  = names.keys()
-            self.positions = names
+            self.colour_coord = names
 
         self.graph_years = {}
 
         self.faculty = {}
 
         self.generate_graph_years()
-        if self.positions == None:
+        if self.colour_coord == None:
             self.build_faculty()
         else:
             self.colour_based_position()
@@ -265,16 +265,7 @@ class FacultySubset:
         for year in range(2000,2022):
             g = self.graph_years[year]
             for i in g.nodes():
-                if self.positions[i] == 'lecturers':
-                    g.nodes[i]['color'] = 'yellow'
-                elif self.positions[i] == 'senior_lecturers':
-                    g.nodes[i]['color'] = 'green'
-                elif self.positions[i] == 'assistant':
-                    g.nodes[i]['color'] = 'blue'
-                elif self.positions[i] == 'assosicate':
-                    g.nodes[i]['color'] = 'pink'
-                elif self.positions[i] == 'professors':
-                    g.nodes[i]['color'] = 'purple'
+                    g.nodes[i]['color'] = self.colour_coord[i]              
         
         return
                 
@@ -300,7 +291,9 @@ class FacultySubset:
                             if (author != faculty) and not(graph.has_edge(faculty, author)) and not(graph.has_edge(author,faculty)):                                
                                 if (author in NAMES):
                                     graph.add_edge(faculty, author)
- 
+
+            degrees = dict(nx.degree(graph)) 
+            nx.set_node_attributes(graph, name='degree', values=degrees)
             self.graph_years[year] = graph    
 
             return
@@ -315,18 +308,18 @@ class FacultySubset:
 
 class ManageGraph:    
     def __init__(self):
-        faculty, names = FACULTY, NAMES
+        self.faculty, self.names = FACULTY, NAMES
         
         self.nodes=[]
         self.edges=[]
         
-        for x in faculty:
-            if(faculty[x].managment=='Y'):
+        for x in self.faculty:
+            if(self.faculty[x].managment=='Y'):
                 self.nodes.append(x)      
-                p=faculty[x].papers
+                p=self.faculty[x].papers
                 for y in p:
                     for a in y.authors:
-                        if(a in names):
+                        if(a in self.names):
                             self.edges.append((x, a))
     
 class PositionGraph:    
