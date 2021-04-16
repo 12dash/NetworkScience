@@ -623,6 +623,17 @@ def createExcellence():
 def buildHire():
     global HIRE
     hire = Hire()
+    def getDegreeDistribution():
+        hist = Counter(sorted([i[1] for i in nx.degree(hire.graph)]))
+        total = hire.graph.number_of_nodes()
+        l1, l2 = [], []
+        for i in hist:
+            l1.append(i)
+            l2.append(hist[i] / total)
+        df = pd.DataFrame.from_dict({'Degree': l1, 'Probability': l2})
+        fig = px.line(df, x="Degree", y="Probability",
+                      title='Degree Distribution', log_y=True)
+        return dcc.Graph(figure=fig)
 
     def buildTable(data):
         table_header = [html.Thead(
@@ -646,6 +657,7 @@ def buildHire():
     graph2 = generateGraph(hire.graph_degree, "hire-graph-degree", size=['800px', '600px'],
                           edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
     temp = html.Div([
+        getDegreeDistribution(),
         dbc.Col([
             html.H5("Ordered based on number of Excellence Paper"),
             excellenceTale,
