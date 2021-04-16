@@ -264,9 +264,15 @@ class FacultySubset:
         for year in range(2000,2022):
             g = self.graph_years[year]
             for i in g.nodes():
-                    g.nodes[i]['color'] = self.colour_coord[i]  
+                if(i in self.colour_coord):
+                    g.nodes[i]['color'] = self.colour_coord[i]
+                else:
+                    g.nodes[i]['color'] = 'grey'
         for i in self.graph_year_all.nodes():
-            self.graph_year_all.nodes[i]['color'] = self.colour_coord[i] 
+            if(i in self.colour_coord):
+                self.graph_year_all.nodes[i]['color'] = self.colour_coord[i]
+            else:
+                self.graph_year_all.nodes[i]['color']='grey'
         
         return
                 
@@ -356,14 +362,28 @@ class PositionGraph:
                         
 class ExcellenceGraph:    
     def __init__(self):
-        faculty, names = FACULTY, NAMES
+        self.faculty, self.names = FACULTY, NAMES
         
         self.nodes=[]
         self.edges=[]
         
-        for x in faculty:
-            if(faculty[x].excellenceNode==True):
+        for x in self.faculty:
+            if(self.faculty[x].excellenceNode==True):
                 self.nodes.append(x)
+                
+                
+class AreaGraph:    
+    def __init__(self, area):
+        self.faculty, self.names = FACULTY, NAMES
+        
+        self.nodes=[]
+        self.edges=[]
+        
+        for x in self.faculty:
+            if(self.faculty[x].area==area):
+                self.nodes.append(x)
+
+
 
 class Hire:
     def __init__(self):

@@ -12,7 +12,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 
-from faculty import ManageGraph, PositionGraph, ExcellenceGraph, Hire, FacultySubset
+from faculty import ManageGraph, PositionGraph, ExcellenceGraph, Hire, FacultySubset, AreaGraph
 
 app = dash.Dash(external_stylesheets=[
                 dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
@@ -91,6 +91,8 @@ FACULTY_SUBSET = None
 
 MANAGEMENT_GRAPH = {}
 
+EXCELLENCE_GRAPH = {}
+
 MANAGE = ManageGraph()
 LECT = PositionGraph('Lecturer')
 SLECT = PositionGraph('Senior Lecturer')
@@ -98,6 +100,17 @@ ASST = PositionGraph('Assistant Professor')
 ASSOC = PositionGraph('Associate Professor')
 PROF = PositionGraph('Professor')
 EXC = ExcellenceGraph()
+
+areas=['Computer Networks', 'Computer Graphics', 'Computer Architecture',
+       'Distributed Systems', 'Data Management', 'AI/ML',
+       'Computer Vision', 'Multimedia', 'Data Mining', 'HCI',
+       'Information Retrieval', 'Bioinformatics', 'Cyber Security',
+       'Software Engg']
+
+AREA = {}
+
+for x in areas:
+    AREA[x]=AreaGraph(x)
 
 HIRE = None
 
@@ -333,24 +346,7 @@ def buildOverall(year):
 
 
 def contentHomePage():
-    return(
-        html.Div([
-            html.H4("Co-authorship network for SCSE"),
-            html.Hr(),
-            html.Div([
-                html.P("We have analyzed the following things in this assignment"),
-                html.Ul([
-                    html.Li("Year Wise analysis of the Data: How the network has evolved since 2000"),
-                    html.Li("Faculty Subset Data: Collaborative property for a subset of data"),
-                    html.Li("Collaborative property between different positions"),
-                    html.Li("Collaborative property between Management and Non Management Position"),
-                    html.Li("Collaborative property based on different Areas"),
-                    html.Li("Collaborative property between excellence node"),
-                    html.Li("Analysis on who to hire"),
-                ])
-            ])
-        ])
-    )
+    return
 
 
 def contentYearPage():
@@ -638,12 +634,70 @@ def createPosition():
             ), html.Div(id="management-content")]))
 
 
+@app.callback(Output("area-content", "children"), Input("area1", "value"), Input('area2', 'value'))
+def areaContent(area1, area2):
+    g1=AREA[area1]
+    g2=AREA[area2]
+    
+    temp={}
+    
+    for i in g1.nodes:
+        temp[i]= 'blue'
+        
+    for i in g2.nodes:
+        temp[i]= 'red'
+        
+    t=FacultySubset(temp)
+    
+    return html.Div([
+            html.H4("Inter-Group Collaborations"),
+            dbc.Row([
+                    generateGraph(t.graph_year_all,"area-graph-all",nodes_data=['color', "degree"], stylesheet=FACULTY_GRAPH_STYLESHEET),
+                    html.Div(id = 'area-information-all')
+                ], align = "center")
+            ])
+
 def createAreas():
-    pass
+    option=[]
+    
+    for x in areas:
+        option.append({'label' : x, 'value' : x})
+    
+    return (
+        html.Div([
+            html.Label('Year'),
+            dcc.Dropdown(
+                id="area1",
+                options=option,
+                value='HCI',
+                multi=False
+            ),
+            dcc.Dropdown(
+                id="area2",
+                options=option,
+                value='AI/ML',
+                multi=False
+            ), html.Div(id="area-content")]))
 
 
 def createExcellence():
-    return"Excellence Node"
+    temp={}
+    
+    for i in EXC.names:
+        if i in EXC.nodes:
+            temp[i] = 'yellow'
+        else:
+            temp[i] = 'black'
+            
+    t=FacultySubset(temp)
+    
+    return (html.Div([
+            html.H4("Excellence Nodes"),
+            dbc.Row([
+                    generateGraph(t.graph_year_all,"excellence-graph",nodes_data=['color', "degree"], stylesheet=FACULTY_GRAPH_STYLESHEET),
+                    html.Div(id = 'excellence-information')
+                ], align = "center")
+            , html.Div(id="excellence-content")]))
 
 
 def buildHire():
