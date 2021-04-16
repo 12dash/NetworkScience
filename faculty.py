@@ -242,15 +242,43 @@ class Faculty:
 
 class FacultySubset:
     def __init__(self, names):
-        self.names = names
+        self.positions = None
+        if type(names) != dict :
+            self.names = names
+        else:
+            self.names  = names.keys()
+            self.positions = names
 
         self.graph_years = {}
 
         self.faculty = {}
 
         self.generate_graph_years()
-        self.build_faculty()
+        if self.positions == None:
+            self.build_faculty()
+        else:
+            self.colour_based_position()
 
+            
+    
+    def colour_based_position(self):
+        for year in range(2000,2022):
+            g = self.graph_years[year]
+            for i in g.nodes():
+                if self.positions[i] == 'lecturers':
+                    g.nodes[i]['color'] = 'yellow'
+                elif self.positions[i] == 'senior_lecturers':
+                    g.nodes[i]['color'] = 'green'
+                elif self.positions[i] == 'assistant':
+                    g.nodes[i]['color'] = 'blue'
+                elif self.positions[i] == 'assosicate':
+                    g.nodes[i]['color'] = 'pink'
+                elif self.positions[i] == 'professors':
+                    g.nodes[i]['color'] = 'purple'
+        
+        return
+                
+       
     def generate_graph_years(self):
         def build_graph(year):
             graph = nx.Graph()

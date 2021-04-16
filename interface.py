@@ -10,6 +10,8 @@ from collections import Counter
 import networkx as nx
 import pandas as pd
 
+import matplotlib.pyplot as plt
+
 from faculty import ManageGraph, PositionGraph, ExcellenceGraph, Hire, FacultySubset
 
 app = dash.Dash(external_stylesheets=[
@@ -159,7 +161,7 @@ def generateGraph(G, cytoscape_id, nodes_data=None, size="600px",size_by = 'degr
             if nodes_data != None:
                 for i in nodes_data:
                     if i == 'size':
-                        if G.nodes[node][size_by] < 100:
+                        if G.nodes[node][size_by] < 1000:
                             temp[i] = f"{G.nodes[node][size_by] * node_size + node_size}%"
                         else:
                             temp[i] = f"15%"
@@ -446,7 +448,7 @@ def buildGraphsContent(names, year, position):
 def display_nodes_rank_data(data):
     if data:
         return html.Div([
-            html.H3(data['label'])
+            html.H6(data['label'])
         ])
 
 def outpuHirePara(data):
@@ -512,15 +514,40 @@ def render_rank_year_graph(value):
         for i in names:
             output_list.append(html.Li(i))
         return html.Ul(output_list)
+
+    def get_position_list():
+        temp = {}
+        for i in LECT.nodes:
+            temp[i] = 'lecturers'
+        for i in SLECT.nodes:
+            temp[i] = 'senior_lecturers'
+        for i in ASST.nodes:
+            temp[i] = 'assistant'
+        for i in ASSOC.nodes:
+            temp[i] = 'assosicate'
+        for i in PROF.nodes:
+            temp[i] = 'professors'
+     
+        return temp
+        
     output_list = []
     for i in positions:
-        output_list.append(html.Div([
-            html.H4(positions[i][0]),
+        output_list.append(html.Div([            
             dbc.Row([
                 buildGraphsContent(positions[i][1], int(value), i),
-                html.Div(id=f"{i}-faculty-information")
-            ], align="center")
+                dbc.Col([
+                    html.H4(positions[i][0]),
+                    html.Hr(),
+                    html.Div(id=f"{i}-faculty-information")
+                ]),                
+            ], align="center"),
+            html.Br()
         ]))
+    
+    all_names = FacultySubset(get_position_list())
+    all_rank_graph = generateGraph(all_names.graph_years[int(value)],"all-faculty-rank", nodes_data=['color'],stylesheet=FACULTY_GRAPH_STYLESHEET)
+
+    output_list = [all_rank_graph] + output_list
     output = html.Div(output_list)
     return output
 
@@ -555,7 +582,7 @@ def buildHire():
     print("Hire object created")
     nodes_data = ['size', 'degree', 'color','original_degree','excellent']
     graph1 = generateGraph(hire.graph_excellence, "hire-graph-excellence", size=['800px', '600px'],
-                          edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
+                          edge_size=0.1, node_size=0.01, size_by='original_degree', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
     graph2 = generateGraph(hire.graph_degree, "hire-graph-degree", size=['800px', '600px'],
                           edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
     temp = html.Div([
