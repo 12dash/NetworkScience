@@ -188,7 +188,8 @@ class Person:
         except Exception as e:
             self.store = False
             
-
+        self.checkExcellence()
+            
     def load_xml(self):
         self.xml = ET.parse(self.xml_path)
         return
@@ -199,6 +200,16 @@ class Person:
             if(x.tag == 'r'):
                 self.papers.append(PublishedPaperHire(x))
         return
+    
+    def checkExcellence(self):
+        '''
+        Checks if the faculty qualifies as excellence node or not 
+        '''  
+        excellence=0        
+        for x in self.papers:
+            if(x.year>=2018 and x.excellentPaper):
+                excellence+=1     
+        self.excellenceNode=excellence
 
 def get_people():
     names = os.listdir("AdditionalData")

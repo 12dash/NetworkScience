@@ -12,7 +12,8 @@ import pandas as pd
 
 from faculty import ManageGraph, PositionGraph, ExcellenceGraph, Hire, FacultySubset
 
-app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
+app = dash.Dash(external_stylesheets=[
+                dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 cyto.load_extra_layouts()
 
 SIDEBAR_STYLE = {
@@ -44,12 +45,12 @@ YEAR_GRAPH_STYLESHEET = [{
         'height': "data(size)"
     }},
     {'selector': 'edge',
-    'style': {        
-        'width': "data(edge_size)",
-        'height': "data(edge_size)"
-    }    
-},
-{
+     'style': {
+         'width': "data(edge_size)",
+         'height': "data(edge_size)"
+     }
+     },
+    {
     'selector': ':selected',
     'style': {
         'background-color': "blue",
@@ -62,7 +63,23 @@ YEAR_GRAPH_STYLESHEET = [{
 FACULTY_GRAPH_STYLESHEET = [{
     'selector': 'node',
     'style': {
-        'background-color': "data(color)"
+        'background-color': "data(color)",
+        'width': "data(size)",
+        'height': "data(size)"
+    }
+},
+    {'selector': 'edge',
+     'style': {
+         'width': "data(edge_size)",
+         'height': "data(edge_size)"
+     }
+     },
+    {
+    'selector': ':selected',
+    'style': {
+        'background-color': "blue",
+        'width': "data(size)",
+        'height': "data(size)"
     }
 }]
 
@@ -104,14 +121,21 @@ def initialize_layout():
                 dbc.Nav(
                     [
                         dbc.NavLink("Home", href="/", active="exact"),
-                        dbc.NavLink("Yearly Analysis", href="/year", active="exact"),
-                        dbc.NavLink("Faculty Analysis", href="/faculty_analysis", active="exact"),
-                        dbc.NavLink("Overall Information", href="/overall", active="exact"),
-                        dbc.NavLink("Analysis based on ranks",href="/ranks",active="exact"),
-                        dbc.NavLink("Analysis based on Management Position",href="/position",active="exact"),
-                        dbc.NavLink("Analysis on areas",href="/areas",active="exact"),
-                        dbc.NavLink("Analysis on excellence Node",href="/excellence",active="exact"),
-                        dbc.NavLink("New Hire",href="/hire",active="exact")
+                        dbc.NavLink("Yearly Analysis",
+                                    href="/year", active="exact"),
+                        dbc.NavLink("Faculty Analysis",
+                                    href="/faculty_analysis", active="exact"),
+                        dbc.NavLink("Overall Information",
+                                    href="/overall", active="exact"),
+                        dbc.NavLink("Analysis based on ranks",
+                                    href="/ranks", active="exact"),
+                        dbc.NavLink("Analysis based on Management Position",
+                                    href="/position", active="exact"),
+                        dbc.NavLink("Analysis on areas",
+                                    href="/areas", active="exact"),
+                        dbc.NavLink("Analysis on excellence Node",
+                                    href="/excellence", active="exact"),
+                        dbc.NavLink("New Hire", href="/hire", active="exact")
                     ],
                     vertical=True,
                     pills=True,
@@ -127,16 +151,16 @@ def initialize_layout():
     return
 
 
-def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", node_size = 5,edge_size = 0.3, stylesheet=None, layout='cose-bilkent'):
+def generateGraph(G, cytoscape_id, nodes_data=None, size="600px",size_by = 'degree', node_size=5, edge_size=0.3, stylesheet=None, layout='cose-bilkent'):
     def getNodes():
         nodes = []
         for node in G.nodes():
             temp = {'id': node, 'label': node}
             if nodes_data != None:
                 for i in nodes_data:
-                    if i == 'size':                        
-                        if G.nodes[node]['degree'] < 1000 : 
-                            temp[i] = f"{G.nodes[node]['degree'] * node_size + node_size}%"
+                    if i == 'size':
+                        if G.nodes[node][size_by] < 100:
+                            temp[i] = f"{G.nodes[node][size_by] * node_size + node_size}%"
                         else:
                             temp[i] = f"15%"
                     else:
@@ -148,7 +172,7 @@ def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", node_size = 5,
         edges = []
         for edge in G.edges():
             edges.append({
-                'data': {'source': edge[0], 'target': edge[1], 'edge_size':edge_size}
+                'data': {'source': edge[0], 'target': edge[1], 'edge_size': edge_size}
             })
         return edges
 
@@ -161,7 +185,6 @@ def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", node_size = 5,
         width = size[0]
         height = size[1]
 
-
     graph = cyto.Cytoscape(
         id=cytoscape_id,
         layout={'name': layout},
@@ -169,6 +192,7 @@ def generateGraph(G, cytoscape_id, nodes_data=None, size="600px", node_size = 5,
         elements=edges + nodes,
         stylesheet=stylesheet)
     return graph
+
 
 def output_for_node(data):
     temp = None
@@ -178,8 +202,10 @@ def output_for_node(data):
             html.Ul([
                 html.Li(f"Degree : {data['degree']}"),
                 html.Li(f"Betweeness Centrality: {data['betweenness']}"),
-                html.Li(f"Eigenvector Centrality: {data['eigenvector_centrality']}"),
-                html.Li(f"Closeness Centrality: {data['closeness_centrality']}"),
+                html.Li(
+                    f"Eigenvector Centrality: {data['eigenvector_centrality']}"),
+                html.Li(
+                    f"Closeness Centrality: {data['closeness_centrality']}"),
                 html.Li(f"Degree Centrality: {data['degree_centrality']}"),
                 html.Li(f"Clustering Coefficient : {data['clustering']}")])
         ])
@@ -190,7 +216,7 @@ def output_for_node(data):
 @app.callback(Output('cytoscape-mouseoverNodeData-output', 'children'), Input('year-graph', 'mouseoverNodeData'))
 def displayTapNodeData(data):
     return output_for_node(data)
-    
+
 
 @app.callback(Output('cytoscape-overall-output', 'children'), Input('cummulative-year-graph', 'mouseoverNodeData'))
 def displayTapNodeData(data):
@@ -212,10 +238,12 @@ def buildYearContent(Year):
     }
 
     def build_table():
-        table_header = [html.Thead(html.Tr([html.Th("Name"), html.Th("Value")]))]
+        table_header = [html.Thead(
+            html.Tr([html.Th("Name"), html.Th("Value")]))]
         l = []
         for i in INFORMATION:
-            l.append(html.Tr([html.Td(i), html.Td(Year.year_info[INFORMATION[i]])]))
+            l.append(
+                html.Tr([html.Td(i), html.Td(Year.year_info[INFORMATION[i]])]))
         table_body = [html.Tbody(l)]
         table = dbc.Table(table_header + table_body, bordered=True, dark=True, hover=True, responsive=True,
                           striped=True)
@@ -229,24 +257,29 @@ def buildYearContent(Year):
             l1.append(i)
             l2.append(hist[i] / total)
         df = pd.DataFrame.from_dict({'Degree': l1, 'Probability': l2})
-        fig = px.line(df, x="Degree", y="Probability", title='Degree Distribution', log_y=True)
+        fig = px.line(df, x="Degree", y="Probability",
+                      title='Degree Distribution', log_y=True)
         return dcc.Graph(figure=fig)
 
     def buildYearGraph():
-        nodes_data = ['size', 'betweenness', 'degree_centrality', 'closeness_centrality', 'eigenvector_centrality','degree', 'clustering']
-        network_graph = generateGraph(network, "year-graph", nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
+        nodes_data = ['size', 'betweenness', 'degree_centrality',
+                      'closeness_centrality', 'eigenvector_centrality', 'degree', 'clustering']
+        network_graph = generateGraph(
+            network, "year-graph", nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
         return network_graph
 
     def buildCummulative():
-        nodes_data = ['size', 'betweenness', 'degree_centrality', 'closeness_centrality', 'eigenvector_centrality','degree', 'clustering']
-        network_graph = generateGraph(network_overall, "cummulative-year-graph", node_size = 2, nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
+        nodes_data = ['size', 'betweenness', 'degree_centrality',
+                      'closeness_centrality', 'eigenvector_centrality', 'degree', 'clustering']
+        network_graph = generateGraph(network_overall, "cummulative-year-graph",
+                                      node_size=2, nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
         return network_graph
-    
 
     def buildConnectedComponent():
         l = []
         for i in Year.year_info['connected_components']:
-            l.append(generateGraph(i, "connected-components", size="300px", layout='circle'))
+            l.append(generateGraph(i, "connected-components",
+                     size="300px", layout='circle'))
         return html.Div(dbc.Row(l))
 
     output_list = [
@@ -254,7 +287,8 @@ def buildYearContent(Year):
         build_table(),
         html.H5("Year Graph"),
         dbc.Row(
-            [dbc.Col(buildYearGraph()), dbc.Col(html.P(id='cytoscape-mouseoverNodeData-output'))],
+            [dbc.Col(buildYearGraph()), dbc.Col(
+                html.P(id='cytoscape-mouseoverNodeData-output'))],
             justify="center", align="center"),
         html.H5("Probability Degree Distribution"),
         getDegreeDistribution(),
@@ -262,9 +296,10 @@ def buildYearContent(Year):
         buildConnectedComponent(),
         html.H5("Cummulative Year Graph"),
         dbc.Row(
-            [dbc.Col(buildCummulative()), dbc.Col(html.P(id='cytoscape-overall-output'))],
+            [dbc.Col(buildCummulative()), dbc.Col(
+                html.P(id='cytoscape-overall-output'))],
             justify="center", align="center")
-        ]
+    ]
 
     return html.Div(output_list)
 
@@ -286,12 +321,14 @@ def buildOverall(year):
         fig = px.line(df, x="Year", y=name, title=title)
         return dcc.Graph(figure=fig)
 
-    OVERALL_GRAPHS['Average Degree'] = getPlot('average_degree', 'Average Degree', 'Average Degree over the years')
+    OVERALL_GRAPHS['Average Degree'] = getPlot(
+        'average_degree', 'Average Degree', 'Average Degree over the years')
     OVERALL_GRAPHS['Average Clustering Coefficient'] = getPlot('average_clustering_coefficient',
                                                                'Average Clustering Coefficient',
                                                                'Average Clustering Coefficient over the years')
 
     return
+
 
 def contentHomePage():
     return
@@ -318,11 +355,14 @@ def facultyContent():
 
     return html.Div([
 
-        html.P(id='placeholder', style={'display':'none'}),
-        
-        dcc.Dropdown(id="Faculty",options=option, value='MTL', multi=True, placeholder="Select the set of faculty"), 
-        dcc.Dropdown(id="year_id_faculty_subset", options=year_option, value='2000',placeholder = "Select the year"),
-        html.Button('Submit', id='submit-val', n_clicks = 0, style = {'border-radius' : '8px'}),
+        html.P(id='placeholder', style={'display': 'none'}),
+
+        dcc.Dropdown(id="Faculty", options=option, value='MTL',
+                     multi=True, placeholder="Select the set of faculty"),
+        dcc.Dropdown(id="year_id_faculty_subset", options=year_option,
+                     value='2000', placeholder="Select the year"),
+        html.Button('Submit', id='submit-val', n_clicks=0,
+                    style={'border-radius': '8px'}),
         html.Div(id="faculty-subset")
     ])
 
@@ -336,7 +376,8 @@ def facultySubsetContent(value, year_value):
             INFO = {"Numbers of collaborators in SCSE": 'scse_collaboration',
                     "Total number of collaborators": "all_collaboration"}
             for i in INFO:
-                l.append(html.Li(i + " : " + str(faculty.info[year_value][INFO[i]])))
+                l.append(
+                    html.Li(i + " : " + str(faculty.info[year_value][INFO[i]])))
             return html.Ul(l)
 
         graph1 = generateGraph(faculty.graph_years_scse[int(year_value)], "faculty-graph" + faculty.name, size="300px",
@@ -369,7 +410,7 @@ def facultySubsetContent(value, year_value):
 def createOverallPage():
     global OVERALL_GRAPHS
     return html.Div([
-        OVERALL_GRAPHS['Average Degree'], 
+        OVERALL_GRAPHS['Average Degree'],
         OVERALL_GRAPHS['Average Clustering Coefficient']
     ])
 
@@ -380,25 +421,27 @@ def render_year_graph(value):
 
 
 click = 0
-@app.callback(Output("faculty-subset","children"), [Input("Faculty","value"), Input("submit-val", "n_clicks"), Input("year_id_faculty_subset","value")])
+
+
+@app.callback(Output("faculty-subset", "children"), [Input("Faculty", "value"), Input("submit-val", "n_clicks"), Input("year_id_faculty_subset", "value")])
 def render_faculty(value, n_clicks, year_value):
-    
+
     global FACULTY_SUBSET
     global click
 
-    if n_clicks != click: 
-        FACULTY_SUBSET =  facultySubsetContent(value, year_value)  
-        click = n_clicks           
+    if n_clicks != click:
+        FACULTY_SUBSET = facultySubsetContent(value, year_value)
+        click = n_clicks
 
     return FACULTY_SUBSET
 
 
-
-def buildGraphsContent(names, year, position):        
-    facultySubset = FacultySubset(names)   
+def buildGraphsContent(names, year, position):
+    facultySubset = FacultySubset(names)
     graph = generateGraph(facultySubset.graph_years[int(year)], f"{position}-subset-graph",
-                                  nodes_data=['color'],size="300px", stylesheet=FACULTY_GRAPH_STYLESHEET) 
+                          nodes_data=['color'], size="300px", stylesheet=FACULTY_GRAPH_STYLESHEET)
     return graph
+
 
 def display_nodes_rank_data(data):
     if data:
@@ -406,46 +449,64 @@ def display_nodes_rank_data(data):
             html.H3(data['label'])
         ])
 
-
-@app.callback(Output('hire-node-output', 'children'), Input('hire-graph', 'mouseoverNodeData'))
-def displayTapNodeData(data):
-   if data:
-    return html.Div([
+def outpuHirePara(data):
+    if data:
+        return html.Div([
             html.H3(data['label']),
             html.Ul([
-                html.Li(["Degree : ",data['degree']])
-            ])
+                    html.Li(["Degree : ", data['degree']]),
+                    html.Li(["Original Degree : ", data['original_degree']]),                   
+                    html.Li(["Number of Excellence Paper published : ", data['excellent']]),
+                    ])
         ])
+
+@app.callback(Output('hire-excellence-node-output', 'children'), Input('hire-graph-excellence', 'mouseoverNodeData'))
+def displayTapNodeData(data):
+    return outpuHirePara(data)
+
+@app.callback(Output('hire-degree-node-output', 'children'), Input('hire-graph-degree', 'mouseoverNodeData'))
+def displayTapNodeData(data):
+    return outpuHirePara(data)
+
+
+
+
 
 @app.callback(Output("lecturers-faculty-information", "children"), Input("lecturers-subset-graph", "mouseoverNodeData"))
 def lecturer_info(data):
     return display_nodes_rank_data(data)
 
+
 @app.callback(Output("senior_lecturers-faculty-information", "children"), Input("senior_lecturers-subset-graph", "mouseoverNodeData"))
 def senior_lecturer_info(data):
     return display_nodes_rank_data(data)
+
 
 @app.callback(Output("assistant-faculty-information", "children"), Input("assistant-subset-graph", "mouseoverNodeData"))
 def assistant_info(data):
     return display_nodes_rank_data(data)
 
+
 @app.callback(Output("assosicate-faculty-information", "children"), Input("assosicate-subset-graph", "mouseoverNodeData"))
 def assosicate_info(data):
     return display_nodes_rank_data(data)
+
 
 @app.callback(Output("professors-faculty-information", "children"), Input("professors-subset-graph", "mouseoverNodeData"))
 def professors_info(data):
     return display_nodes_rank_data(data)
 
+
 @app.callback(Output("ranks-content", "children"), Input("ranks_year_id", "value"))
 def render_rank_year_graph(value):
     positions = {
-        'lecturers':["Lecturers",LECT.nodes],
-        'senior_lecturers': ["Senior Lecturers",SLECT.nodes],
-        'assistant':["Assistant Professors",ASST.nodes], 
-        'assosicate':["Associate Professors",ASSOC.nodes],
-        'professors':["Professors",PROF.nodes]
+        'lecturers': ["Lecturers", LECT.nodes],
+        'senior_lecturers': ["Senior Lecturers", SLECT.nodes],
+        'assistant': ["Assistant Professors", ASST.nodes],
+        'assosicate': ["Associate Professors", ASSOC.nodes],
+        'professors': ["Professors", PROF.nodes]
     }
+
     def build_names_list(names):
         output_list = []
         for i in names:
@@ -456,12 +517,13 @@ def render_rank_year_graph(value):
         output_list.append(html.Div([
             html.H4(positions[i][0]),
             dbc.Row([
-                buildGraphsContent(positions[i][1],int(value),i),
-                html.Div(id = f"{i}-faculty-information")
-                ], align="center")
-        ]))          
+                buildGraphsContent(positions[i][1], int(value), i),
+                html.Div(id=f"{i}-faculty-information")
+            ], align="center")
+        ]))
     output = html.Div(output_list)
     return output
+
 
 def createRankPage():
     option = [{"label": i, "value": i} for i in range(2000, 2022)]
@@ -474,31 +536,40 @@ def createRankPage():
                 value='2000'
             ), html.Div(id="ranks-content")]))
 
+
 def createPosition():
     pass
 
+
 def createAreas():
-    pass 
+    pass
+
 
 def createExcellence():
     return"Excellence Node"
 
+
 def buildHire():
-    global HIRE 
+    global HIRE
     hire = Hire()
     print("Hire object created")
-    nodes_data = ['size', 'degree','color']
-    graph = generateGraph(hire.graph, "hire-graph",size = ['800px','600px'], edge_size = 0.1, node_size = 2, nodes_data=nodes_data, stylesheet=YEAR_GRAPH_STYLESHEET)
+    nodes_data = ['size', 'degree', 'color','original_degree','excellent']
+    graph1 = generateGraph(hire.graph_excellence, "hire-graph-excellence", size=['800px', '600px'],
+                          edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
+    graph2 = generateGraph(hire.graph_degree, "hire-graph-degree", size=['800px', '600px'],
+                          edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
     temp = html.Div([
-        dbc.Row([graph,
-        html.Div(id='hire-node-output')], align= 'center')
+        dbc.Row([graph1,html.Div(id='hire-excellence-node-output')], align='center'),
+        dbc.Row([graph2,html.Div(id='hire-degree-node-output')], align='center')
     ])
     HIRE = temp
     return
 
+
 def newHire():
-    global HIRE    
+    global HIRE
     return HIRE
+
 
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
@@ -528,6 +599,7 @@ def render_page_content(pathname):
         ]
     )
 
+
 def getApp(year):
     global app
     print("Building Year Graph...")
@@ -538,10 +610,5 @@ def getApp(year):
     buildHire()
     print("Initializing...")
     initialize_layout()
-    
+
     return app
-
-
-
-
-

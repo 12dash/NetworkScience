@@ -12,7 +12,7 @@ if __name__ == "__main__":
         year_graph[i] = Year(i)
 
     app = gp(year_graph)
-    app.run_server(debug=True)
+    app.run_server(debug=False)
 
 
 

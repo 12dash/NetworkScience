@@ -303,11 +303,9 @@ class ManageGraph:
     
 class PositionGraph:    
     def __init__(self, target):
-        faculty, names = FACULTY, NAMES
-        
+        faculty, names = FACULTY, NAMES        
         self.nodes=[]
         self.edges=[]
-
         
         for x in faculty:
             if(faculty[x].position==target):
@@ -341,60 +339,80 @@ class Hire:
         self.l = []
         self.graph = nx.Graph() 
         self.degree = None 
+
         self.generate_graph_years()
         self.set_node_info(self.graph)
         self.get_top()
-        self.graph = self.build_graph()
-
-        self.set_degree()
+        self.copyNodeInfo()
        
    
     def generate_graph_years(self):  
         print("Generating graphs")
         for faculty in tqdm(self.Hire):
             for paper in self.Hire[faculty].papers:               
-                if (paper.year < 2021) and (paper.year >= 2018):
+                if (paper.year < 2021) and (paper.year > 2015):
                     for author in paper.authors:
                         if (author != self.Hire[faculty].name) and not(self.graph.has_edge(self.Hire[faculty].name, author)) and not(self.graph.has_edge(author, self.Hire[faculty].name)):
-                            self.graph.add_edge(self.Hire[faculty].name, author)                            
-
-        
+                            self.graph.add_edge(self.Hire[faculty].name, author)                                                           
+                            self.graph.nodes[self.Hire[faculty].name]['excellent'] = self.Hire[faculty].excellenceNode                            
         return  
 
     def set_node_info(self, network):
-        print("Setting node information")
         degrees = dict(nx.degree(network)) 
         nx.set_node_attributes(network, name='degree', values=degrees)
         self.degree = degrees
         return
     
     def get_top(self):
-        degrees = dict(nx.degree(self.graph)) 
-        temp = sorted(degrees.items() , key=lambda x: x[1] , reverse=True)        
-        for i in temp[:100]:
-            if i[0] not in NAMES:
-                self.l.append(i[0])
-        return
+        def sort_graph(sortValue):
+            l = []
+            temp = sorted(sortValue.items() , key=lambda x: x[1] , reverse=True)
+            for i in temp[:150]:
+                if i[0] not in NAMES:
+                    l.append(i[0])
+            return l
+
+
+        def build_graph(l):
+            g = nx.Graph()
+            for i in self.graph.edges():
+                if ((i[0] in  l) and (i[1] in l)):                
+                    g.add_edge(i[0],i[1])      
+            return g
+
+        def get_excellence_dictionary():
+            temp = {}
+            for i in self.graph.nodes():
+                try:
+                    temp[i] = self.graph.nodes[i]['excellent']
+                except:
+                    temp[i] = 0
+            return temp
+
+        degrees = sort_graph(dict(nx.degree(self.graph))) 
+        orderBy = sort_graph(get_excellence_dictionary())
+
+        self.graph_degree = build_graph(degrees)
+        self.graph_excellence = build_graph(orderBy)
+        return   
     
-    def build_graph(self):
-        g = nx.Graph()
-        for i in self.graph.edges():
-            if ((i[0] in  self.l) and (i[1] in self.l)):                
-                g.add_edge(i[0],i[1])
-        plt.figure(figsize=(24, 12))
-        nx.draw_circular(g)
-        plt.show()
-        print(g.number_of_nodes())
-        return g
     
-    def set_degree(self):
-        self.set_node_info(self.graph)
-        for i in self.graph.nodes():
-            #self.graph.nodes[i]['degree'] = self.degree[i]
-            if self.graph.nodes[i] in NAMES:
-                self.graph.nodes[i]['color'] = "#0033cc"
-            else:
-                self.graph.nodes[i]['color'] = "#666666"
+    def copyNodeInfo(self):   
+        def setInfo(network):
+            for i in network.nodes():
+                network.nodes[i]['original_degree'] = self.graph.nodes[i]['degree']
+                network.nodes[i]['excellent'] = self.graph.nodes[i]['excellent']
+                if network.nodes[i]['excellent'] > 25:
+                    network.nodes[i]['color'] = "#0033cc"
+                else:
+                    network.nodes[i]['color'] = "black"
+
+        setInfo(self.graph_degree)
+        setInfo(self.graph_excellence) 
+
+        self.set_node_info(self.graph_degree)  
+        self.set_node_info(self.graph_excellence)
+
         
         
 
