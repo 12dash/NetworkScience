@@ -135,7 +135,6 @@ def initialize_layout():
                 ),
                 dbc.Nav(
                     [
-                        dbc.NavLink("Home", href="/", active="exact"),
                         dbc.NavLink("Yearly Analysis",
                                     href="/year", active="exact"),
                         dbc.NavLink("Faculty Analysis",
