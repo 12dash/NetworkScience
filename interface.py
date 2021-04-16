@@ -688,7 +688,7 @@ def createAreas():
     
     return (
         html.Div([
-            html.Label('Year'),
+            html.Label('Areas'),
             dcc.Dropdown(
                 id="area1",
                 options=option,
