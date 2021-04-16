@@ -258,8 +258,6 @@ class FacultySubset:
             self.build_faculty()
         else:
             self.colour_based_position()
-
-            
     
     def colour_based_position(self):
         for year in range(2000,2022):
@@ -361,6 +359,8 @@ class Hire:
         self.graph = nx.Graph() 
         self.degree = None 
 
+        self.excellence_order = None
+
         self.generate_graph_years()
         self.set_node_info(self.graph)
         self.get_top()
@@ -388,6 +388,7 @@ class Hire:
         def sort_graph(sortValue):
             l = []
             temp = sorted(sortValue.items() , key=lambda x: x[1] , reverse=True)
+            sortValue = temp
             for i in temp[:150]:
                 if i[0] not in NAMES:
                     l.append(i[0])
@@ -410,8 +411,14 @@ class Hire:
                     temp[i] = 0
             return temp
 
-        degrees = sort_graph(dict(nx.degree(self.graph))) 
-        orderBy = sort_graph(get_excellence_dictionary())
+        self.excellence_order = get_excellence_dictionary()
+        self.degree_orderd = dict(nx.degree(self.graph))
+
+        self.excellence_order = {k: v for k, v in sorted(self.excellence_order.items(), key=lambda item: item[1], reverse=True)}
+        self.degree_orderd = {k: v for k, v in sorted(self.degree_orderd .items(), key=lambda item: item[1], reverse=True)}
+
+        degrees = sort_graph(self.degree_orderd) 
+        orderBy = sort_graph(self.excellence_order)
 
         self.graph_degree = build_graph(degrees)
         self.graph_excellence = build_graph(orderBy)

@@ -623,15 +623,39 @@ def createExcellence():
 def buildHire():
     global HIRE
     hire = Hire()
+
+    def buildTable(data):
+        table_header = [html.Thead(
+            html.Tr([html.Th("Name"), html.Th("Value")]))]
+        l = []
+        for i in list(data.keys())[:10]:
+            l.append(html.Tr([html.Td(i), html.Td(data[i])]))
+        table_body = [html.Tbody(l)]
+        table = dbc.Table(table_header + table_body, bordered=True, dark=True, hover=True, responsive=True,
+                          striped=True)
+    
+        return table
+
+    degreeTale = buildTable(hire.degree_orderd)
+    excellenceTale = buildTable(hire.excellence_order)
+
     print("Hire object created")
     nodes_data = ['size', 'degree', 'color','original_degree','excellent']
     graph1 = generateGraph(hire.graph_excellence, "hire-graph-excellence", size=['800px', '600px'],
-                          edge_size=0.1, node_size=0.01, size_by='original_degree', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
+                          edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
     graph2 = generateGraph(hire.graph_degree, "hire-graph-degree", size=['800px', '600px'],
                           edge_size=0.1, node_size=0.5, size_by='excellent', nodes_data=nodes_data, stylesheet=FACULTY_GRAPH_STYLESHEET)
     temp = html.Div([
-        dbc.Row([graph1,html.Div(id='hire-excellence-node-output')], align='center'),
-        dbc.Row([graph2,html.Div(id='hire-degree-node-output')], align='center')
+        dbc.Col([
+            html.H5("Ordered based on number of Excellence Paper"),
+            excellenceTale,
+            dbc.Row([graph1,html.Div(id='hire-excellence-node-output')], align='center')
+        ]),
+        dbc.Col([
+            html.H5("Ordered based on number of Degree"),
+            degreeTale,
+            dbc.Row([graph2,html.Div(id='hire-degree-node-output')], align='center')
+        ])               
     ])
     HIRE = temp
     return
