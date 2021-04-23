@@ -1,0 +1,2 @@
+# NetworkScience
+Coauthorship data from the DBLP computer science bibliography for SCSE Faculty network was used to create collaboration networks, where authors (nodes) are connected with an edge if they have co-authored at least one paper. Through our work in this report, we aim to answer the following question: “Can network science help us to understand research collaboration among SCSE faculty members over time and, if possible, explain the reputation growth?”
